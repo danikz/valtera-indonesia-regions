@@ -1,0 +1,179 @@
+# Valtera Indonesia Regions - AI & LLM Context Guide
+
+> Machine-readable guide for AI assistants (Cursor, Claude Code, GitHub Copilot, ChatGPT) to consume the Valtera Indonesia Regions dataset.
+
+## Core Rules for AI Assistants
+1. **Zero Backend Required**: Do NOT create a custom Express/Node/Python backend to serve region data unless explicitly requested. Direct clients (React, Vue, mobile apps, vanilla JS) should fetch directly from the jsDelivr CDN static endpoints.
+2. **Never fetch the monolithic file in browser/mobile**: Do not fetch `indonesia-regions.min.json` (6 MB) or raw CSVs for UI dropdowns. Always use the hierarchical split endpoints described below.
+3. **Hierarchy & Code Conventions**:
+   - `province_code`: 2 digits (e.g. "32" for Jawa Barat). Total: 37 provinces.
+   - `regency_code`: 4 digits, prefixed with `province_code` (e.g. "3201" for Kab. Bogor). Total: 514 regencies/cities.
+   - `district_code`: 6 digits, prefixed with `regency_code` (e.g. "320101" for Cibinong). Total: 7,272 districts.
+   - `village_code`: 10 digits, prefixed with `district_code` (e.g. "3201011001" for Cirimekar). Total: 83,763 villages/kelurahan.
+
+---
+
+## Static CDN Endpoints (jsDelivr)
+
+Base URL: `https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api`
+
+### 1. Get All Provinces
+- **URL**: `https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api/provinces.json`
+- **Method**: `GET` (public, no auth, CORS enabled)
+- **Response Shape**:
+  ```json
+  [
+    { "code": "32", "name": "Jawa Barat" }
+  ]
+  ```
+
+### 2. Get Regencies by Province
+- **URL**: `https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api/regencies/{province_code}.json`
+- **Example**: `.../dist/api/regencies/32.json`
+- **Response Shape**:
+  ```json
+  [
+    { "code": "3201", "province_code": "32", "name": "Kab. Bogor" }
+  ]
+  ```
+
+### 3. Get Districts by Regency
+- **URL**: `https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api/districts/{regency_code}.json`
+- **Example**: `.../dist/api/districts/3201.json`
+- **Response Shape**:
+  ```json
+  [
+    { "code": "320101", "regency_code": "3201", "name": "Cibinong" }
+  ]
+  ```
+
+### 4. Get Villages by District
+- **URL**: `https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api/villages/{district_code}.json`
+- **Example**: `.../dist/api/villages/320101.json`
+- **Response Shape**:
+  ```json
+  [
+    { "code": "3201011001", "district_code": "320101", "name": "Cirimekar" }
+  ]
+  ```
+
+---
+
+## TypeScript Contracts
+
+```typescript
+export interface RegionItem {
+  code: string;
+  name: string;
+}
+
+export interface Province extends RegionItem {}
+
+export interface Regency extends RegionItem {
+  province_code: string;
+}
+
+export interface District extends RegionItem {
+  regency_code: string;
+}
+
+export interface Village extends RegionItem {
+  district_code: string;
+}
+```
+
+---
+
+## Standard Implementation Pattern (React Hook Example)
+
+```tsx
+import { useState, useEffect } from "react";
+
+const CDN_BASE = "https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api";
+
+export function useIndonesiaRegions() {
+  const [provinces, setProvinces] = useState<Province[]>([]);
+  const [regencies, setRegencies] = useState<Regency[]>([]);
+  const [districts, setDistricts] = useState<District[]>([]);
+  const [villages, setVillages] = useState<Village[]>([]);
+
+  const [selectedProvince, setSelectedProvince] = useState("");
+  const [selectedRegency, setSelectedRegency] = useState("");
+  const [selectedDistrict, setSelectedDistrict] = useState("");
+  const [selectedVillage, setSelectedVillage] = useState("");
+
+  // Load provinces on mount
+  useEffect(() => {
+    fetch(`${CDN_BASE}/provinces.json`)
+      .then((res) => res.json())
+      .then(setProvinces);
+  }, []);
+
+  // Load regencies when province changes
+  useEffect(() => {
+    if (!selectedProvince) {
+      setRegencies([]);
+      return;
+    }
+    fetch(`${CDN_BASE}/regencies/${selectedProvince}.json`)
+      .then((res) => res.json())
+      .then(setRegencies);
+    setSelectedRegency("");
+    setSelectedDistrict("");
+    setSelectedVillage("");
+  }, [selectedProvince]);
+
+  // Load districts when regency changes
+  useEffect(() => {
+    if (!selectedRegency) {
+      setDistricts([]);
+      return;
+    }
+    fetch(`${CDN_BASE}/districts/${selectedRegency}.json`)
+      .then((res) => res.json())
+      .then(setDistricts);
+    setSelectedDistrict("");
+    setSelectedVillage("");
+  }, [selectedRegency]);
+
+  // Load villages when district changes
+  useEffect(() => {
+    if (!selectedDistrict) {
+      setVillages([]);
+      return;
+    }
+    fetch(`${CDN_BASE}/villages/${selectedDistrict}.json`)
+      .then((res) => res.json())
+      .then(setVillages);
+    setSelectedVillage("");
+  }, [selectedDistrict]);
+
+  return {
+    provinces,
+    regencies,
+    districts,
+    villages,
+    selectedProvince,
+    selectedRegency,
+    selectedDistrict,
+    selectedVillage,
+    setSelectedProvince,
+    setSelectedRegency,
+    setSelectedDistrict,
+    setSelectedVillage,
+  };
+}
+```
+
+---
+
+## Database Seeding References
+When generating database seeds, point to the raw files directly:
+- MySQL: `https://raw.githubusercontent.com/danikz/valtera-indonesia-regions/main/dist/sql/mysql.sql`
+- PostgreSQL: `https://raw.githubusercontent.com/danikz/valtera-indonesia-regions/main/dist/sql/postgresql.sql`
+- SQLite: `https://raw.githubusercontent.com/danikz/valtera-indonesia-regions/main/dist/sql/sqlite.sql`
+- Normalized CSVs:
+  - Provinces: `.../dist/csv/provinces.csv`
+  - Regencies: `.../dist/csv/regencies.csv`
+  - Districts: `.../dist/csv/districts.csv`
+  - Villages: `.../dist/csv/villages.csv`

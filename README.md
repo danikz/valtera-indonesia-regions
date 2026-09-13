@@ -12,6 +12,7 @@ Tersedia langsung dari GitHub dalam bentuk **Static CDN JSON API** (hemat bandwi
 [![Formats](https://img.shields.io/badge/Formats-JSON%20%7C%20CSV%20%7C%20SQL-purple)](dist/)
 [![Stars](https://img.shields.io/github/stars/danikz/valtera-indonesia-regions?style=flat&color=yellow)](https://github.com/danikz/valtera-indonesia-regions/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/danikz/valtera-indonesia-regions)](https://github.com/danikz/valtera-indonesia-regions/commits/main)
+[![AI Ready](https://img.shields.io/badge/llms.txt-AI%20Ready-brightgreen)](llms.txt)
 
 ---
 
@@ -126,6 +127,30 @@ erDiagram
         char(6) district_code FK
         varchar(100) name "Contoh: 'Cirimekar'"
     }
+```
+
+---
+
+## 🤖 Panduan untuk AI Coding Assistant (Cursor, Copilot, Claude, ChatGPT)
+
+Repositori ini telah dilengkapi file standar [**`llms.txt`**](llms.txt) agar asisten coding AI dapat langsung membaca spesifikasi, skema relasi, dan pemetaan endpoint CDN secara tepat tanpa halusinasi.
+
+### Copy-Paste Prompt untuk AI Anda:
+
+Jika Anda ingin AI (Cursor Composer, Claude Code, GitHub Copilot, ChatGPT) membuatkan kode integrasi, cukup salin prompt berikut:
+
+```text
+Gunakan dataset wilayah Indonesia dari repositori https://github.com/danikz/valtera-indonesia-regions (spesifikasi mesin: https://raw.githubusercontent.com/danikz/valtera-indonesia-regions/main/llms.txt).
+
+Tolong buatkan komponen cascading dropdown wilayah bertingkat (Provinsi -> Kab/Kota -> Kecamatan -> Kelurahan/Desa) menggunakan [React / Vue / Flutter / HTML & Vanilla JS].
+
+Aturan implementasi:
+1. Fetch data langsung dari CDN publik jsDelivr tanpa perlu backend server:
+   - Provinsi: https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api/provinces.json
+   - Kab/Kota: https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api/regencies/{province_code}.json
+   - Kecamatan: https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api/districts/{regency_code}.json
+   - Kelurahan/Desa: https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api/villages/{district_code}.json
+2. Terapkan reset state bertingkat saat parent dropdown berubah nilainya.
 ```
 
 ---
