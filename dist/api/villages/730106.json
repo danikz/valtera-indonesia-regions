@@ -2,36 +2,43 @@
   {
     "code": "7301062001",
     "district_code": "730106",
-    "name": "Kembang Ragi"
+    "name": "Kembang Ragi",
+    "postal_code": "92861"
   },
   {
     "code": "7301062003",
     "district_code": "730106",
-    "name": "Ma'minasa"
+    "name": "Ma'minasa",
+    "postal_code": "92861"
   },
   {
     "code": "7301062005",
     "district_code": "730106",
-    "name": "Tanamalala"
+    "name": "Tanamalala",
+    "postal_code": "92861"
   },
   {
     "code": "7301062006",
     "district_code": "730106",
-    "name": "Labuang Pamajang"
+    "name": "Labuang Pamajang",
+    "postal_code": "92861"
   },
   {
     "code": "7301062007",
     "district_code": "730106",
-    "name": "Masungke"
+    "name": "Masungke",
+    "postal_code": "92861"
   },
   {
     "code": "7301062009",
     "district_code": "730106",
-    "name": "Bontosaile"
+    "name": "Bontosaile",
+    "postal_code": "92811"
   },
   {
     "code": "7301062011",
     "district_code": "730106",
-    "name": "Teluk Kampe"
+    "name": "Teluk Kampe",
+    "postal_code": "92861"
   }
 ]

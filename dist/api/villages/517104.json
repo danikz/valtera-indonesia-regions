@@ -2,56 +2,67 @@
   {
     "code": "5171041004",
     "district_code": "517104",
-    "name": "Tonja"
+    "name": "Tonja",
+    "postal_code": "80239"
   },
   {
     "code": "5171041007",
     "district_code": "517104",
-    "name": "Ubung"
+    "name": "Ubung",
+    "postal_code": "80116"
   },
   {
     "code": "5171041009",
     "district_code": "517104",
-    "name": "Peguyangan"
+    "name": "Peguyangan",
+    "postal_code": "80115"
   },
   {
     "code": "5171042001",
     "district_code": "517104",
-    "name": "Dangin Puri Kangin"
+    "name": "Dangin Puri Kangin",
+    "postal_code": "80233"
   },
   {
     "code": "5171042002",
     "district_code": "517104",
-    "name": "Dangin Puri Kauh"
+    "name": "Dangin Puri Kauh",
+    "postal_code": "80231"
   },
   {
     "code": "5171042003",
     "district_code": "517104",
-    "name": "Dangin Puri Kaja"
+    "name": "Dangin Puri Kaja",
+    "postal_code": "80231"
   },
   {
     "code": "5171042005",
     "district_code": "517104",
-    "name": "Pemecutan Kaja"
+    "name": "Pemecutan Kaja",
+    "postal_code": "80118"
   },
   {
     "code": "5171042006",
     "district_code": "517104",
-    "name": "Dauh Puri Kaja"
+    "name": "Dauh Puri Kaja",
+    "postal_code": "80111"
   },
   {
     "code": "5171042008",
     "district_code": "517104",
-    "name": "Ubung Kaja"
+    "name": "Ubung Kaja",
+    "postal_code": "80116"
   },
   {
     "code": "5171042010",
     "district_code": "517104",
-    "name": "Peguyangan Kaja"
+    "name": "Peguyangan Kaja",
+    "postal_code": "80115"
   },
   {
     "code": "5171042011",
     "district_code": "517104",
-    "name": "Peguyangan Kangin"
+    "name": "Peguyangan Kangin",
+    "postal_code": "80115"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "8103032001",
     "district_code": "810303",
-    "name": "Tumbur"
+    "name": "Tumbur",
+    "postal_code": "97473"
   },
   {
     "code": "8103032002",
     "district_code": "810303",
-    "name": "Lorulun"
+    "name": "Lorulun",
+    "postal_code": "97473"
   },
   {
     "code": "8103032003",
     "district_code": "810303",
-    "name": "Atubul Dol"
+    "name": "Atubul Dol",
+    "postal_code": "97473"
   },
   {
     "code": "8103032004",
     "district_code": "810303",
-    "name": "Amdasa"
+    "name": "Amdasa",
+    "postal_code": "97473"
   },
   {
     "code": "8103032005",
     "district_code": "810303",
-    "name": "Sangliat Krawain"
+    "name": "Sangliat Krawain",
+    "postal_code": "97473"
   },
   {
     "code": "8103032006",
     "district_code": "810303",
-    "name": "Arui Bab"
+    "name": "Arui Bab",
+    "postal_code": "97473"
   },
   {
     "code": "8103032007",
     "district_code": "810303",
-    "name": "Arui Das"
+    "name": "Arui Das",
+    "postal_code": "97473"
   },
   {
     "code": "8103032008",
     "district_code": "810303",
-    "name": "Sangliat Dol"
+    "name": "Sangliat Dol",
+    "postal_code": "97473"
   },
   {
     "code": "8103032009",
     "district_code": "810303",
-    "name": "Atubul Da"
+    "name": "Atubul Da",
+    "postal_code": "97473"
   }
 ]

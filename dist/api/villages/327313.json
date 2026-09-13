@@ -2,36 +2,43 @@
   {
     "code": "3273131001",
     "district_code": "327313",
-    "name": "Cijagra"
+    "name": "Cijagra",
+    "postal_code": "40265"
   },
   {
     "code": "3273131002",
     "district_code": "327313",
-    "name": "Lingkar Selatan"
+    "name": "Lingkar Selatan",
+    "postal_code": "40263"
   },
   {
     "code": "3273131003",
     "district_code": "327313",
-    "name": "Burangrang"
+    "name": "Burangrang",
+    "postal_code": "40262"
   },
   {
     "code": "3273131004",
     "district_code": "327313",
-    "name": "Paledang"
+    "name": "Paledang",
+    "postal_code": "40261"
   },
   {
     "code": "3273131005",
     "district_code": "327313",
-    "name": "Turangga"
+    "name": "Turangga",
+    "postal_code": "40264"
   },
   {
     "code": "3273131006",
     "district_code": "327313",
-    "name": "Malabar"
+    "name": "Malabar",
+    "postal_code": "40262"
   },
   {
     "code": "3273131007",
     "district_code": "327313",
-    "name": "Cikawao"
+    "name": "Cikawao",
+    "postal_code": "40261"
   }
 ]

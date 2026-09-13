@@ -2,26 +2,31 @@
   {
     "code": "1801212001",
     "district_code": "180121",
-    "name": "Semanak"
+    "name": "Semanak",
+    "postal_code": "35592"
   },
   {
     "code": "1801212002",
     "district_code": "180121",
-    "name": "Toto Harjo"
+    "name": "Toto Harjo",
+    "postal_code": "35592"
   },
   {
     "code": "1801212003",
     "district_code": "180121",
-    "name": "Hatta"
+    "name": "Hatta",
+    "postal_code": "35592"
   },
   {
     "code": "1801212004",
     "district_code": "180121",
-    "name": "Bakauheni"
+    "name": "Bakauheni",
+    "postal_code": "35592"
   },
   {
     "code": "1801212005",
     "district_code": "180121",
-    "name": "Kelawi"
+    "name": "Kelawi",
+    "postal_code": "35592"
   }
 ]

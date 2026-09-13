@@ -2,46 +2,55 @@
   {
     "code": "1375021001",
     "district_code": "137502",
-    "name": "Campago Guguk Bulek"
+    "name": "Campago Guguk Bulek",
+    "postal_code": "26128"
   },
   {
     "code": "1375021002",
     "district_code": "137502",
-    "name": "Campago Ipuh"
+    "name": "Campago Ipuh",
+    "postal_code": "26121"
   },
   {
     "code": "1375021003",
     "district_code": "137502",
-    "name": "Puhun Tembok"
+    "name": "Puhun Tembok",
+    "postal_code": "26124"
   },
   {
     "code": "1375021004",
     "district_code": "137502",
-    "name": "Kubu Gulai Bancah"
+    "name": "Kubu Gulai Bancah",
+    "postal_code": "26122"
   },
   {
     "code": "1375021005",
     "district_code": "137502",
-    "name": "Puhun Pintu Kabun"
+    "name": "Puhun Pintu Kabun",
+    "postal_code": "26123"
   },
   {
     "code": "1375021006",
     "district_code": "137502",
-    "name": "Pulai Anak Air"
+    "name": "Pulai Anak Air",
+    "postal_code": "26125"
   },
   {
     "code": "1375021007",
     "district_code": "137502",
-    "name": "Koto Selayan"
+    "name": "Koto Selayan",
+    "postal_code": "26126"
   },
   {
     "code": "1375021008",
     "district_code": "137502",
-    "name": "Garegeh"
+    "name": "Garegeh",
+    "postal_code": "26127"
   },
   {
     "code": "1375021009",
     "district_code": "137502",
-    "name": "Manggis/Ganting"
+    "name": "Manggis/Ganting",
+    "postal_code": "26129"
   }
 ]

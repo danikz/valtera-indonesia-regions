@@ -2,56 +2,67 @@
   {
     "code": "7308011001",
     "district_code": "730801",
-    "name": "Kahu"
+    "name": "Kahu",
+    "postal_code": "92767"
   },
   {
     "code": "7308012002",
     "district_code": "730801",
-    "name": "Watang Cani"
+    "name": "Watang Cani",
+    "postal_code": "92768"
   },
   {
     "code": "7308012003",
     "district_code": "730801",
-    "name": "Pattuku"
+    "name": "Pattuku",
+    "postal_code": "92768"
   },
   {
     "code": "7308012004",
     "district_code": "730801",
-    "name": "Bontojai"
+    "name": "Bontojai",
+    "postal_code": "92768"
   },
   {
     "code": "7308012005",
     "district_code": "730801",
-    "name": "Bana"
+    "name": "Bana",
+    "postal_code": "92768"
   },
   {
     "code": "7308012006",
     "district_code": "730801",
-    "name": "Pammusureng"
+    "name": "Pammusureng",
+    "postal_code": "92768"
   },
   {
     "code": "7308012007",
     "district_code": "730801",
-    "name": "Langi"
+    "name": "Langi",
+    "postal_code": "92768"
   },
   {
     "code": "7308012008",
     "district_code": "730801",
-    "name": "Ere Cinnong"
+    "name": "Ere Cinnong",
+    "postal_code": "92768"
   },
   {
     "code": "7308012009",
     "district_code": "730801",
-    "name": "Bulu Sirua"
+    "name": "Bulu Sirua",
+    "postal_code": "92768"
   },
   {
     "code": "7308012010",
     "district_code": "730801",
-    "name": "Lamoncong"
+    "name": "Lamoncong",
+    "postal_code": "92768"
   },
   {
     "code": "7308012011",
     "district_code": "730801",
-    "name": "Mattirowalie"
+    "name": "Mattirowalie",
+    "postal_code": "92768"
   }
 ]

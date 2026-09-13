@@ -2,31 +2,37 @@
   {
     "code": "6107112001",
     "district_code": "610711",
-    "name": "Capkala"
+    "name": "Capkala",
+    "postal_code": "79271"
   },
   {
     "code": "6107112002",
     "district_code": "610711",
-    "name": "Mandor"
+    "name": "Mandor",
+    "postal_code": "79271"
   },
   {
     "code": "6107112003",
     "district_code": "610711",
-    "name": "Setanduk"
+    "name": "Setanduk",
+    "postal_code": "79271"
   },
   {
     "code": "6107112004",
     "district_code": "610711",
-    "name": "Aris"
+    "name": "Aris",
+    "postal_code": "79271"
   },
   {
     "code": "6107112005",
     "district_code": "610711",
-    "name": "Sebandut"
+    "name": "Sebandut",
+    "postal_code": "79271"
   },
   {
     "code": "6107112006",
     "district_code": "610711",
-    "name": "Pawangi"
+    "name": "Pawangi",
+    "postal_code": "79271"
   }
 ]

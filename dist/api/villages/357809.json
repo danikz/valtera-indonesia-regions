@@ -2,36 +2,43 @@
   {
     "code": "3578091001",
     "district_code": "357809",
-    "name": "Keputih"
+    "name": "Keputih",
+    "postal_code": "60111"
   },
   {
     "code": "3578091002",
     "district_code": "357809",
-    "name": "Gebang Putih"
+    "name": "Gebang Putih",
+    "postal_code": "60117"
   },
   {
     "code": "3578091003",
     "district_code": "357809",
-    "name": "Klampis Ngasem"
+    "name": "Klampis Ngasem",
+    "postal_code": "60117"
   },
   {
     "code": "3578091004",
     "district_code": "357809",
-    "name": "Menur Pumpungan"
+    "name": "Menur Pumpungan",
+    "postal_code": "60118"
   },
   {
     "code": "3578091005",
     "district_code": "357809",
-    "name": "Nginden Jangkungan"
+    "name": "Nginden Jangkungan",
+    "postal_code": "60118"
   },
   {
     "code": "3578091006",
     "district_code": "357809",
-    "name": "Semolowaru"
+    "name": "Semolowaru",
+    "postal_code": "60119"
   },
   {
     "code": "3578091007",
     "district_code": "357809",
-    "name": "Medokan Semampir"
+    "name": "Medokan Semampir",
+    "postal_code": "60119"
   }
 ]

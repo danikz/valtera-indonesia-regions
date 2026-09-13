@@ -2,101 +2,121 @@
   {
     "code": "9503042001",
     "district_code": "950304",
-    "name": "Momnoak"
+    "name": "Momnoak",
+    "postal_code": "99712"
   },
   {
     "code": "9503042002",
     "district_code": "950304",
-    "name": "Silimo"
+    "name": "Silimo",
+    "postal_code": "99712"
   },
   {
     "code": "9503042003",
     "district_code": "950304",
-    "name": "Eksa"
+    "name": "Eksa",
+    "postal_code": "99712"
   },
   {
     "code": "9503042004",
     "district_code": "950304",
-    "name": "Siloma"
+    "name": "Siloma",
+    "postal_code": "99712"
   },
   {
     "code": "9503042005",
     "district_code": "950304",
-    "name": "Asia"
+    "name": "Asia",
+    "postal_code": "99712"
   },
   {
     "code": "9503042006",
     "district_code": "950304",
-    "name": "Suet"
+    "name": "Suet",
+    "postal_code": "99712"
   },
   {
     "code": "9503042007",
     "district_code": "950304",
-    "name": "Walkruk"
+    "name": "Walkruk",
+    "postal_code": "99712"
   },
   {
     "code": "9503042008",
     "district_code": "950304",
-    "name": "Sodule"
+    "name": "Sodule",
+    "postal_code": "99712"
   },
   {
     "code": "9503042009",
     "district_code": "950304",
-    "name": "Sagaduk"
+    "name": "Sagaduk",
+    "postal_code": "99712"
   },
   {
     "code": "9503042010",
     "district_code": "950304",
-    "name": "Sianele"
+    "name": "Sianele",
+    "postal_code": "99712"
   },
   {
     "code": "9503042011",
     "district_code": "950304",
-    "name": "Eremnahom"
+    "name": "Eremnahom",
+    "postal_code": "99712"
   },
   {
     "code": "9503042012",
     "district_code": "950304",
-    "name": "Silon"
+    "name": "Silon",
+    "postal_code": "99712"
   },
   {
     "code": "9503042013",
     "district_code": "950304",
-    "name": "Nekilei"
+    "name": "Nekilei",
+    "postal_code": "99712"
   },
   {
     "code": "9503042014",
     "district_code": "950304",
-    "name": "Suok"
+    "name": "Suok",
+    "postal_code": "99712"
   },
   {
     "code": "9503042015",
     "district_code": "950304",
-    "name": "Fabe"
+    "name": "Fabe",
+    "postal_code": "99712"
   },
   {
     "code": "9503042016",
     "district_code": "950304",
-    "name": "Weakma"
+    "name": "Weakma",
+    "postal_code": "99712"
   },
   {
     "code": "9503042017",
     "district_code": "950304",
-    "name": "Pinda"
+    "name": "Pinda",
+    "postal_code": "99712"
   },
   {
     "code": "9503042018",
     "district_code": "950304",
-    "name": "Hwesalemo"
+    "name": "Hwesalemo",
+    "postal_code": "99712"
   },
   {
     "code": "9503042019",
     "district_code": "950304",
-    "name": "Sebin"
+    "name": "Sebin",
+    "postal_code": "99712"
   },
   {
     "code": "9503042020",
     "district_code": "950304",
-    "name": "Wubialo"
+    "name": "Wubialo",
+    "postal_code": "99712"
   }
 ]

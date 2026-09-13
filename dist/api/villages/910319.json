@@ -2,26 +2,31 @@
   {
     "code": "9103192001",
     "district_code": "910319",
-    "name": "Maruwai"
+    "name": "Maruwai",
+    "postal_code": "99355"
   },
   {
     "code": "9103192002",
     "district_code": "910319",
-    "name": "Meukisi"
+    "name": "Meukisi",
+    "postal_code": "99355"
   },
   {
     "code": "9103192003",
     "district_code": "910319",
-    "name": "Endokisi"
+    "name": "Endokisi",
+    "postal_code": "99355"
   },
   {
     "code": "9103192005",
     "district_code": "910319",
-    "name": "Buseryo"
+    "name": "Buseryo",
+    "postal_code": "99355"
   },
   {
     "code": "9103192006",
     "district_code": "910319",
-    "name": "Senamay"
+    "name": "Senamay",
+    "postal_code": "99355"
   }
 ]

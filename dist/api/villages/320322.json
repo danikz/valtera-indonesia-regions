@@ -2,56 +2,67 @@
   {
     "code": "3203222004",
     "district_code": "320322",
-    "name": "Sukamanah"
+    "name": "Sukamanah",
+    "postal_code": "43276"
   },
   {
     "code": "3203222005",
     "district_code": "320322",
-    "name": "Bojongkaso"
+    "name": "Bojongkaso",
+    "postal_code": "43276"
   },
   {
     "code": "3203222006",
     "district_code": "320322",
-    "name": "Bunisari"
+    "name": "Bunisari",
+    "postal_code": "43276"
   },
   {
     "code": "3203222007",
     "district_code": "320322",
-    "name": "Wanasari"
+    "name": "Wanasari",
+    "postal_code": "43276"
   },
   {
     "code": "3203222010",
     "district_code": "320322",
-    "name": "Sinarlaut"
+    "name": "Sinarlaut",
+    "postal_code": "43276"
   },
   {
     "code": "3203222014",
     "district_code": "320322",
-    "name": "Neglasari"
+    "name": "Neglasari",
+    "postal_code": "43276"
   },
   {
     "code": "3203222016",
     "district_code": "320322",
-    "name": "Karangsari"
+    "name": "Karangsari",
+    "postal_code": "43276"
   },
   {
     "code": "3203222017",
     "district_code": "320322",
-    "name": "Mulyasari"
+    "name": "Mulyasari",
+    "postal_code": "43276"
   },
   {
     "code": "3203222018",
     "district_code": "320322",
-    "name": "Tanjung Sari"
+    "name": "Tanjung Sari",
+    "postal_code": "43276"
   },
   {
     "code": "3203222019",
     "district_code": "320322",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "43276"
   },
   {
     "code": "3203222022",
     "district_code": "320322",
-    "name": "Wangunjaya"
+    "name": "Wangunjaya",
+    "postal_code": "43276"
   }
 ]

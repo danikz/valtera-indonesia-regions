@@ -2,66 +2,79 @@
   {
     "code": "6401051001",
     "district_code": "640105",
-    "name": "Kuaro"
+    "name": "Kuaro",
+    "postal_code": "76281"
   },
   {
     "code": "6401052002",
     "district_code": "640105",
-    "name": "Lolo"
+    "name": "Lolo",
+    "postal_code": "76281"
   },
   {
     "code": "6401052003",
     "district_code": "640105",
-    "name": "Sandeley"
+    "name": "Sandeley",
+    "postal_code": "76281"
   },
   {
     "code": "6401052004",
     "district_code": "640105",
-    "name": "Harapan Baru"
+    "name": "Harapan Baru",
+    "postal_code": "76281"
   },
   {
     "code": "6401052005",
     "district_code": "640105",
-    "name": "Rangan"
+    "name": "Rangan",
+    "postal_code": "76281"
   },
   {
     "code": "6401052006",
     "district_code": "640105",
-    "name": "Modang"
+    "name": "Modang",
+    "postal_code": "76281"
   },
   {
     "code": "6401052007",
     "district_code": "640105",
-    "name": "Pasir Mayang"
+    "name": "Pasir Mayang",
+    "postal_code": "76281"
   },
   {
     "code": "6401052008",
     "district_code": "640105",
-    "name": "Kerta Bumi"
+    "name": "Kerta Bumi",
+    "postal_code": "76281"
   },
   {
     "code": "6401052009",
     "district_code": "640105",
-    "name": "Pondang Baru"
+    "name": "Pondang Baru",
+    "postal_code": "76281"
   },
   {
     "code": "6401052010",
     "district_code": "640105",
-    "name": "Padang Jaya"
+    "name": "Padang Jaya",
+    "postal_code": "76281"
   },
   {
     "code": "6401052011",
     "district_code": "640105",
-    "name": "Kendarom"
+    "name": "Kendarom",
+    "postal_code": "76281"
   },
   {
     "code": "6401052012",
     "district_code": "640105",
-    "name": "Klempang Sari"
+    "name": "Klempang Sari",
+    "postal_code": "76281"
   },
   {
     "code": "6401052013",
     "district_code": "640105",
-    "name": "Keluang Paser Jaya"
+    "name": "Keluang Paser Jaya",
+    "postal_code": "76281"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "1307102001",
     "district_code": "130710",
-    "name": "Situjuah Batua"
+    "name": "Situjuah Batua",
+    "postal_code": "26250"
   },
   {
     "code": "1307102002",
     "district_code": "130710",
-    "name": "Situjuah Ladang Laweh"
+    "name": "Situjuah Ladang Laweh",
+    "postal_code": "26250"
   },
   {
     "code": "1307102003",
     "district_code": "130710",
-    "name": "Tungka"
+    "name": "Tungka",
+    "postal_code": "26250"
   },
   {
     "code": "1307102004",
     "district_code": "130710",
-    "name": "Situjuah Banda Dalam"
+    "name": "Situjuah Banda Dalam",
+    "postal_code": "26250"
   },
   {
     "code": "1307102005",
     "district_code": "130710",
-    "name": "Situjuah Gadang"
+    "name": "Situjuah Gadang",
+    "postal_code": "26250"
   }
 ]

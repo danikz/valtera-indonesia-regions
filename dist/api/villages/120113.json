@@ -2,31 +2,37 @@
   {
     "code": "1201131003",
     "district_code": "120113",
-    "name": "Nauli"
+    "name": "Nauli",
+    "postal_code": "22611"
   },
   {
     "code": "1201132001",
     "district_code": "120113",
-    "name": "Bonandolok"
+    "name": "Bonandolok",
+    "postal_code": "22611"
   },
   {
     "code": "1201132002",
     "district_code": "120113",
-    "name": "Rampa"
+    "name": "Rampa",
+    "postal_code": "22611"
   },
   {
     "code": "1201132004",
     "district_code": "120113",
-    "name": "Mardame"
+    "name": "Mardame",
+    "postal_code": "22611"
   },
   {
     "code": "1201132005",
     "district_code": "120113",
-    "name": "Naga Timbul"
+    "name": "Naga Timbul",
+    "postal_code": "22611"
   },
   {
     "code": "1201132006",
     "district_code": "120113",
-    "name": "Simaninggir"
+    "name": "Simaninggir",
+    "postal_code": "22611"
   }
 ]

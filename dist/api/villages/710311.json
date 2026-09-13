@@ -2,36 +2,43 @@
   {
     "code": "7103112001",
     "district_code": "710311",
-    "name": "Kalama"
+    "name": "Kalama",
+    "postal_code": "95851"
   },
   {
     "code": "7103112002",
     "district_code": "710311",
-    "name": "Kahakitang"
+    "name": "Kahakitang",
+    "postal_code": "95851"
   },
   {
     "code": "7103112003",
     "district_code": "710311",
-    "name": "Mahengetang"
+    "name": "Mahengetang",
+    "postal_code": "95851"
   },
   {
     "code": "7103112004",
     "district_code": "710311",
-    "name": "Para"
+    "name": "Para",
+    "postal_code": "95851"
   },
   {
     "code": "7103112005",
     "district_code": "710311",
-    "name": "Dalako Bembanehe"
+    "name": "Dalako Bembanehe",
+    "postal_code": "95851"
   },
   {
     "code": "7103112006",
     "district_code": "710311",
-    "name": "Taleko Batusaiki"
+    "name": "Taleko Batusaiki",
+    "postal_code": "95851"
   },
   {
     "code": "7103112007",
     "district_code": "710311",
-    "name": "Para I"
+    "name": "Para I",
+    "postal_code": "95851"
   }
 ]

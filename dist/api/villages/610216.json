@@ -2,26 +2,31 @@
   {
     "code": "6102161001",
     "district_code": "610216",
-    "name": "Anjungan Melancar"
+    "name": "Anjungan Melancar",
+    "postal_code": "78353"
   },
   {
     "code": "6102162002",
     "district_code": "610216",
-    "name": "Anjungan Dalam"
+    "name": "Anjungan Dalam",
+    "postal_code": "78353"
   },
   {
     "code": "6102162003",
     "district_code": "610216",
-    "name": "Kepayang"
+    "name": "Kepayang",
+    "postal_code": "78353"
   },
   {
     "code": "6102162004",
     "district_code": "610216",
-    "name": "Pak Bulu"
+    "name": "Pak Bulu",
+    "postal_code": "78353"
   },
   {
     "code": "6102162005",
     "district_code": "610216",
-    "name": "Dema"
+    "name": "Dema",
+    "postal_code": "78353"
   }
 ]

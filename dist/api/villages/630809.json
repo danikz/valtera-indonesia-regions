@@ -2,36 +2,43 @@
   {
     "code": "6308092001",
     "district_code": "630809",
-    "name": "Paminggir"
+    "name": "Paminggir",
+    "postal_code": "71451"
   },
   {
     "code": "6308092002",
     "district_code": "630809",
-    "name": "Paminggir Seberang"
+    "name": "Paminggir Seberang",
+    "postal_code": "71451"
   },
   {
     "code": "6308092003",
     "district_code": "630809",
-    "name": "Ambahai"
+    "name": "Ambahai",
+    "postal_code": "71451"
   },
   {
     "code": "6308092004",
     "district_code": "630809",
-    "name": "Sapala"
+    "name": "Sapala",
+    "postal_code": "71451"
   },
   {
     "code": "6308092005",
     "district_code": "630809",
-    "name": "Bararawa"
+    "name": "Bararawa",
+    "postal_code": "71451"
   },
   {
     "code": "6308092006",
     "district_code": "630809",
-    "name": "Pal Batu"
+    "name": "Pal Batu",
+    "postal_code": "71451"
   },
   {
     "code": "6308092007",
     "district_code": "630809",
-    "name": "Tampakang"
+    "name": "Tampakang",
+    "postal_code": "71451"
   }
 ]

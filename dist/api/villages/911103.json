@@ -2,36 +2,43 @@
   {
     "code": "9111032001",
     "district_code": "911103",
-    "name": "Molof"
+    "name": "Molof",
+    "postal_code": "99464"
   },
   {
     "code": "9111032002",
     "district_code": "911103",
-    "name": "Senggi"
+    "name": "Senggi",
+    "postal_code": "99464"
   },
   {
     "code": "9111032003",
     "district_code": "911103",
-    "name": "Warlef"
+    "name": "Warlef",
+    "postal_code": "99464"
   },
   {
     "code": "9111032005",
     "district_code": "911103",
-    "name": "Usku"
+    "name": "Usku",
+    "postal_code": "99464"
   },
   {
     "code": "9111032006",
     "district_code": "911103",
-    "name": "Woslay"
+    "name": "Woslay",
+    "postal_code": "99464"
   },
   {
     "code": "9111032010",
     "district_code": "911103",
-    "name": "Namla"
+    "name": "Namla",
+    "postal_code": "99464"
   },
   {
     "code": "9111032011",
     "district_code": "911103",
-    "name": "Waley"
+    "name": "Waley",
+    "postal_code": "99464"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "9205132002",
     "district_code": "920513",
-    "name": "Fafanlap"
+    "name": "Fafanlap",
+    "postal_code": ""
   },
   {
     "code": "9205132006",
     "district_code": "920513",
-    "name": "Yellu"
+    "name": "Yellu",
+    "postal_code": ""
   },
   {
     "code": "9205132007",
     "district_code": "920513",
-    "name": "Harapan Jaya"
+    "name": "Harapan Jaya",
+    "postal_code": ""
   },
   {
     "code": "9205132009",
     "district_code": "920513",
-    "name": "Usaha Jaya"
+    "name": "Usaha Jaya",
+    "postal_code": ""
   },
   {
     "code": "9205132010",
     "district_code": "920513",
-    "name": "Dabatan"
+    "name": "Dabatan",
+    "postal_code": ""
   }
 ]

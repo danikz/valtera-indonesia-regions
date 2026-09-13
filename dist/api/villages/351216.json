@@ -2,36 +2,43 @@
   {
     "code": "3512162001",
     "district_code": "351216",
-    "name": "Lubawang"
+    "name": "Lubawang",
+    "postal_code": "68359"
   },
   {
     "code": "3512162002",
     "district_code": "351216",
-    "name": "Kalisari"
+    "name": "Kalisari",
+    "postal_code": "68359"
   },
   {
     "code": "3512162003",
     "district_code": "351216",
-    "name": "Tepos"
+    "name": "Tepos",
+    "postal_code": "68359"
   },
   {
     "code": "3512162004",
     "district_code": "351216",
-    "name": "Selabanteng"
+    "name": "Selabanteng",
+    "postal_code": "68359"
   },
   {
     "code": "3512162005",
     "district_code": "351216",
-    "name": "Banyuglugur"
+    "name": "Banyuglugur",
+    "postal_code": "68359"
   },
   {
     "code": "3512162006",
     "district_code": "351216",
-    "name": "Telempong"
+    "name": "Telempong",
+    "postal_code": "68359"
   },
   {
     "code": "3512162007",
     "district_code": "351216",
-    "name": "Kalianget"
+    "name": "Kalianget",
+    "postal_code": "68359"
   }
 ]

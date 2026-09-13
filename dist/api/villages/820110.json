@@ -2,51 +2,61 @@
   {
     "code": "8201102001",
     "district_code": "820110",
-    "name": "Jano"
+    "name": "Jano",
+    "postal_code": "97755"
   },
   {
     "code": "8201102002",
     "district_code": "820110",
-    "name": "Jangailulu"
+    "name": "Jangailulu",
+    "postal_code": "97755"
   },
   {
     "code": "8201102003",
     "district_code": "820110",
-    "name": "Baja"
+    "name": "Baja",
+    "postal_code": "97755"
   },
   {
     "code": "8201102004",
     "district_code": "820110",
-    "name": "Gam Kahe"
+    "name": "Gam Kahe",
+    "postal_code": "97755"
   },
   {
     "code": "8201102005",
     "district_code": "820110",
-    "name": "Barataku"
+    "name": "Barataku",
+    "postal_code": "97755"
   },
   {
     "code": "8201102006",
     "district_code": "820110",
-    "name": "Puma Dadar"
+    "name": "Puma Dadar",
+    "postal_code": "97755"
   },
   {
     "code": "8201102007",
     "district_code": "820110",
-    "name": "Tosomolo"
+    "name": "Tosomolo",
+    "postal_code": "97755"
   },
   {
     "code": "8201102008",
     "district_code": "820110",
-    "name": "Bilote"
+    "name": "Bilote",
+    "postal_code": "97755"
   },
   {
     "code": "8201102009",
     "district_code": "820110",
-    "name": "Bakun Pante"
+    "name": "Bakun Pante",
+    "postal_code": "97755"
   },
   {
     "code": "8201102010",
     "district_code": "820110",
-    "name": "Aruku"
+    "name": "Aruku",
+    "postal_code": "97755"
   }
 ]

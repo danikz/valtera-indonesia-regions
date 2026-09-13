@@ -2,31 +2,37 @@
   {
     "code": "2104011001",
     "district_code": "210401",
-    "name": "Dabo"
+    "name": "Dabo",
+    "postal_code": "29871"
   },
   {
     "code": "2104011007",
     "district_code": "210401",
-    "name": "Dabo Lama"
+    "name": "Dabo Lama",
+    "postal_code": "29871"
   },
   {
     "code": "2104011012",
     "district_code": "210401",
-    "name": "Sungailumpur"
+    "name": "Sungailumpur",
+    "postal_code": "29871"
   },
   {
     "code": "2104012008",
     "district_code": "210401",
-    "name": "Batu Berdaun"
+    "name": "Batu Berdaun",
+    "postal_code": "29871"
   },
   {
     "code": "2104012009",
     "district_code": "210401",
-    "name": "Tanjung Harapan"
+    "name": "Tanjung Harapan",
+    "postal_code": "29871"
   },
   {
     "code": "2104012010",
     "district_code": "210401",
-    "name": "Batu Kacang"
+    "name": "Batu Kacang",
+    "postal_code": "29871"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "8104012001",
     "district_code": "810401",
-    "name": "Namlea"
+    "name": "Namlea",
+    "postal_code": "97571"
   },
   {
     "code": "8104012002",
     "district_code": "810401",
-    "name": "Lala"
+    "name": "Lala",
+    "postal_code": "97571"
   },
   {
     "code": "8104012003",
     "district_code": "810401",
-    "name": "Karang Jaya"
+    "name": "Karang Jaya",
+    "postal_code": "97571"
   },
   {
     "code": "8104012009",
     "district_code": "810401",
-    "name": "Siahoni"
+    "name": "Siahoni",
+    "postal_code": "97571"
   },
   {
     "code": "8104012010",
     "district_code": "810401",
-    "name": "Jamilu"
+    "name": "Jamilu",
+    "postal_code": "97571"
   },
   {
     "code": "8104012011",
     "district_code": "810401",
-    "name": "Sanleko"
+    "name": "Sanleko",
+    "postal_code": "97571"
   },
   {
     "code": "8104012012",
     "district_code": "810401",
-    "name": "Batu boy"
+    "name": "Batu boy",
+    "postal_code": "97571"
   }
 ]

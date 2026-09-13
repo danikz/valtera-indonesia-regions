@@ -2,56 +2,67 @@
   {
     "code": "5171031005",
     "district_code": "517103",
-    "name": "Dauh Puri"
+    "name": "Dauh Puri",
+    "postal_code": "80113"
   },
   {
     "code": "5171031007",
     "district_code": "517103",
-    "name": "Pemecutan"
+    "name": "Pemecutan",
+    "postal_code": "80119"
   },
   {
     "code": "5171031010",
     "district_code": "517103",
-    "name": "Padangsambian"
+    "name": "Padangsambian",
+    "postal_code": "80117"
   },
   {
     "code": "5171032001",
     "district_code": "517103",
-    "name": "Padangsambian Kelod"
+    "name": "Padangsambian Kelod",
+    "postal_code": "80117"
   },
   {
     "code": "5171032002",
     "district_code": "517103",
-    "name": "Pemecutan Kelod"
+    "name": "Pemecutan Kelod",
+    "postal_code": "80119"
   },
   {
     "code": "5171032003",
     "district_code": "517103",
-    "name": "Dauh Puri Kauh"
+    "name": "Dauh Puri Kauh",
+    "postal_code": "80113"
   },
   {
     "code": "5171032004",
     "district_code": "517103",
-    "name": "Dauh Puri Kelod"
+    "name": "Dauh Puri Kelod",
+    "postal_code": "80114"
   },
   {
     "code": "5171032006",
     "district_code": "517103",
-    "name": "Dauh Puri Kangin"
+    "name": "Dauh Puri Kangin",
+    "postal_code": "80112"
   },
   {
     "code": "5171032008",
     "district_code": "517103",
-    "name": "Tegal Harum"
+    "name": "Tegal Harum",
+    "postal_code": "80119"
   },
   {
     "code": "5171032009",
     "district_code": "517103",
-    "name": "Tegal Kertha"
+    "name": "Tegal Kertha",
+    "postal_code": "80119"
   },
   {
     "code": "5171032011",
     "district_code": "517103",
-    "name": "Padang Sambian Kaja"
+    "name": "Padang Sambian Kaja",
+    "postal_code": "80117"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "6303172001",
     "district_code": "630317",
-    "name": "Paramasan Atas"
+    "name": "Paramasan Atas",
+    "postal_code": "70675"
   },
   {
     "code": "6303172002",
     "district_code": "630317",
-    "name": "Paramasan Bawah"
+    "name": "Paramasan Bawah",
+    "postal_code": "70675"
   },
   {
     "code": "6303172003",
     "district_code": "630317",
-    "name": "Remo"
+    "name": "Remo",
+    "postal_code": "70675"
   },
   {
     "code": "6303172004",
     "district_code": "630317",
-    "name": "Angkipih"
+    "name": "Angkipih",
+    "postal_code": "70675"
   }
 ]

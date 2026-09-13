@@ -2,31 +2,37 @@
   {
     "code": "3174091001",
     "district_code": "317409",
-    "name": "Jagakarsa"
+    "name": "Jagakarsa",
+    "postal_code": "12620"
   },
   {
     "code": "3174091002",
     "district_code": "317409",
-    "name": "Srengseng Sawah"
+    "name": "Srengseng Sawah",
+    "postal_code": "12640"
   },
   {
     "code": "3174091003",
     "district_code": "317409",
-    "name": "Ciganjur"
+    "name": "Ciganjur",
+    "postal_code": "12630"
   },
   {
     "code": "3174091004",
     "district_code": "317409",
-    "name": "Lenteng Agung"
+    "name": "Lenteng Agung",
+    "postal_code": "12630"
   },
   {
     "code": "3174091005",
     "district_code": "317409",
-    "name": "Tanjung Barat"
+    "name": "Tanjung Barat",
+    "postal_code": "12530"
   },
   {
     "code": "3174091006",
     "district_code": "317409",
-    "name": "Cipedak"
+    "name": "Cipedak",
+    "postal_code": "12630"
   }
 ]

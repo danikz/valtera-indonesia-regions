@@ -2,46 +2,55 @@
   {
     "code": "7326041002",
     "district_code": "732604",
-    "name": "Pangala'"
+    "name": "Pangala'",
+    "postal_code": "91849"
   },
   {
     "code": "7326041004",
     "district_code": "732604",
-    "name": "Pangala' Utara"
+    "name": "Pangala' Utara",
+    "postal_code": "91849"
   },
   {
     "code": "7326042001",
     "district_code": "732604",
-    "name": "Limbong Malting"
+    "name": "Limbong Malting",
+    "postal_code": "91849"
   },
   {
     "code": "7326042003",
     "district_code": "732604",
-    "name": "Rindingallo"
+    "name": "Rindingallo",
+    "postal_code": "91849"
   },
   {
     "code": "7326042005",
     "district_code": "732604",
-    "name": "Mai'ting"
+    "name": "Mai'ting",
+    "postal_code": "91849"
   },
   {
     "code": "7326042006",
     "district_code": "732604",
-    "name": "Lo'ko' Uru"
+    "name": "Lo'ko' Uru",
+    "postal_code": "91849"
   },
   {
     "code": "7326042007",
     "district_code": "732604",
-    "name": "Ampang Batu"
+    "name": "Ampang Batu",
+    "postal_code": "91849"
   },
   {
     "code": "7326042008",
     "district_code": "732604",
-    "name": "Lempo Poton"
+    "name": "Lempo Poton",
+    "postal_code": "91849"
   },
   {
     "code": "7326042009",
     "district_code": "732604",
-    "name": "Buntu Batu"
+    "name": "Buntu Batu",
+    "postal_code": "91849"
   }
 ]

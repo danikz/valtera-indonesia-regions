@@ -2,31 +2,37 @@
   {
     "code": "1703082001",
     "district_code": "170308",
-    "name": "Tanjung Anom"
+    "name": "Tanjung Anom",
+    "postal_code": "38655"
   },
   {
     "code": "1703082002",
     "district_code": "170308",
-    "name": "Suka Makmur"
+    "name": "Suka Makmur",
+    "postal_code": "38655"
   },
   {
     "code": "1703082003",
     "district_code": "170308",
-    "name": "Wono Harjo"
+    "name": "Wono Harjo",
+    "postal_code": "38655"
   },
   {
     "code": "1703082004",
     "district_code": "170308",
-    "name": "Giri Mulya"
+    "name": "Giri Mulya",
+    "postal_code": "38655"
   },
   {
     "code": "1703082005",
     "district_code": "170308",
-    "name": "Rena Jaya"
+    "name": "Rena Jaya",
+    "postal_code": "38655"
   },
   {
     "code": "1703082006",
     "district_code": "170308",
-    "name": "Suka Mulya"
+    "name": "Suka Mulya",
+    "postal_code": "38655"
   }
 ]

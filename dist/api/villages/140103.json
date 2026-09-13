@@ -2,86 +2,103 @@
   {
     "code": "1401032001",
     "district_code": "140103",
-    "name": "Tambang"
+    "name": "Tambang",
+    "postal_code": "28468"
   },
   {
     "code": "1401032002",
     "district_code": "140103",
-    "name": "Kuapan"
+    "name": "Kuapan",
+    "postal_code": "28468"
   },
   {
     "code": "1401032003",
     "district_code": "140103",
-    "name": "Gobah"
+    "name": "Gobah",
+    "postal_code": "28468"
   },
   {
     "code": "1401032004",
     "district_code": "140103",
-    "name": "Teluk Kenidai"
+    "name": "Teluk Kenidai",
+    "postal_code": "28468"
   },
   {
     "code": "1401032005",
     "district_code": "140103",
-    "name": "Aursati"
+    "name": "Aursati",
+    "postal_code": "28468"
   },
   {
     "code": "1401032006",
     "district_code": "140103",
-    "name": "Padang Luas"
+    "name": "Padang Luas",
+    "postal_code": "28468"
   },
   {
     "code": "1401032007",
     "district_code": "140103",
-    "name": "Terantang"
+    "name": "Terantang",
+    "postal_code": "28468"
   },
   {
     "code": "1401032008",
     "district_code": "140103",
-    "name": "Kualu"
+    "name": "Kualu",
+    "postal_code": "28468"
   },
   {
     "code": "1401032009",
     "district_code": "140103",
-    "name": "Rimbo Panjang"
+    "name": "Rimbo Panjang",
+    "postal_code": "28468"
   },
   {
     "code": "1401032010",
     "district_code": "140103",
-    "name": "Parit Baru"
+    "name": "Parit Baru",
+    "postal_code": "28468"
   },
   {
     "code": "1401032011",
     "district_code": "140103",
-    "name": "Kemang Indah"
+    "name": "Kemang Indah",
+    "postal_code": "28468"
   },
   {
     "code": "1401032012",
     "district_code": "140103",
-    "name": "Kualu Nenas"
+    "name": "Kualu Nenas",
+    "postal_code": "28468"
   },
   {
     "code": "1401032013",
     "district_code": "140103",
-    "name": "Tarai Bangun"
+    "name": "Tarai Bangun",
+    "postal_code": "28468"
   },
   {
     "code": "1401032014",
     "district_code": "140103",
-    "name": "Sungai Pinang"
+    "name": "Sungai Pinang",
+    "postal_code": "28468"
   },
   {
     "code": "1401032015",
     "district_code": "140103",
-    "name": "Balam Jaya"
+    "name": "Balam Jaya",
+    "postal_code": "28468"
   },
   {
     "code": "1401032016",
     "district_code": "140103",
-    "name": "Pulaupermai"
+    "name": "Pulaupermai",
+    "postal_code": "28468"
   },
   {
     "code": "1401032017",
     "district_code": "140103",
-    "name": "Palungraya"
+    "name": "Palungraya",
+    "postal_code": "28468"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "7504062001",
     "district_code": "750406",
-    "name": "Iloheluma"
+    "name": "Iloheluma",
+    "postal_code": "96366"
   },
   {
     "code": "7504062002",
     "district_code": "750406",
-    "name": "Balayo"
+    "name": "Balayo",
+    "postal_code": "96366"
   },
   {
     "code": "7504062003",
     "district_code": "750406",
-    "name": "Suka Makmur"
+    "name": "Suka Makmur",
+    "postal_code": "96366"
   },
   {
     "code": "7504062004",
     "district_code": "750406",
-    "name": "Manawa"
+    "name": "Manawa",
+    "postal_code": "96366"
   },
   {
     "code": "7504062005",
     "district_code": "750406",
-    "name": "Dulomo"
+    "name": "Dulomo",
+    "postal_code": "96366"
   },
   {
     "code": "7504062006",
     "district_code": "750406",
-    "name": "Dudepo"
+    "name": "Dudepo",
+    "postal_code": "96366"
   }
 ]

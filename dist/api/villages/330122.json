@@ -2,26 +2,31 @@
   {
     "code": "3301221001",
     "district_code": "330122",
-    "name": "Lomanis"
+    "name": "Lomanis",
+    "postal_code": "53221"
   },
   {
     "code": "3301221002",
     "district_code": "330122",
-    "name": "Gunungsimping"
+    "name": "Gunungsimping",
+    "postal_code": "53224"
   },
   {
     "code": "3301221003",
     "district_code": "330122",
-    "name": "Sidanegara"
+    "name": "Sidanegara",
+    "postal_code": "53223"
   },
   {
     "code": "3301221004",
     "district_code": "330122",
-    "name": "Donan"
+    "name": "Donan",
+    "postal_code": "53222"
   },
   {
     "code": "3301221005",
     "district_code": "330122",
-    "name": "Kutawaru"
+    "name": "Kutawaru",
+    "postal_code": "53225"
   }
 ]

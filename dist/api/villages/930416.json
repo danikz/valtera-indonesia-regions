@@ -2,61 +2,73 @@
   {
     "code": "9304162001",
     "district_code": "930416",
-    "name": "Primapun"
+    "name": "Primapun",
+    "postal_code": "99774"
   },
   {
     "code": "9304162002",
     "district_code": "930416",
-    "name": "Aworket"
+    "name": "Aworket",
+    "postal_code": "99774"
   },
   {
     "code": "9304162003",
     "district_code": "930416",
-    "name": "Saman"
+    "name": "Saman",
+    "postal_code": "99774"
   },
   {
     "code": "9304162004",
     "district_code": "930416",
-    "name": "Bayun"
+    "name": "Bayun",
+    "postal_code": "99774"
   },
   {
     "code": "9304162005",
     "district_code": "930416",
-    "name": "Semendoro"
+    "name": "Semendoro",
+    "postal_code": "99774"
   },
   {
     "code": "9304162006",
     "district_code": "930416",
-    "name": "Tareo"
+    "name": "Tareo",
+    "postal_code": "99774"
   },
   {
     "code": "9304162007",
     "district_code": "930416",
-    "name": "Kayirim"
+    "name": "Kayirim",
+    "postal_code": "99774"
   },
   {
     "code": "9304162008",
     "district_code": "930416",
-    "name": "Santambor"
+    "name": "Santambor",
+    "postal_code": "99774"
   },
   {
     "code": "9304162009",
     "district_code": "930416",
-    "name": "Yaptambor"
+    "name": "Yaptambor",
+    "postal_code": "99774"
   },
   {
     "code": "9304162010",
     "district_code": "930416",
-    "name": "Simsagar"
+    "name": "Simsagar",
+    "postal_code": "99774"
   },
   {
     "code": "9304162011",
     "district_code": "930416",
-    "name": "Itersok"
+    "name": "Itersok",
+    "postal_code": "99774"
   },
   {
     "code": "9304162012",
     "district_code": "930416",
-    "name": "Emene"
+    "name": "Emene",
+    "postal_code": "99774"
   }
 ]

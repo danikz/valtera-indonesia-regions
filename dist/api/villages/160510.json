@@ -2,66 +2,79 @@
   {
     "code": "1605101017",
     "district_code": "160510",
-    "name": "Terawas"
+    "name": "Terawas",
+    "postal_code": "30771"
   },
   {
     "code": "1605102001",
     "district_code": "160510",
-    "name": "Sumber Karya"
+    "name": "Sumber Karya",
+    "postal_code": "30771"
   },
   {
     "code": "1605102002",
     "district_code": "160510",
-    "name": "Suko Rejo"
+    "name": "Suko Rejo",
+    "postal_code": "30771"
   },
   {
     "code": "1605102003",
     "district_code": "160510",
-    "name": "Suka Karya"
+    "name": "Suka Karya",
+    "postal_code": "30771"
   },
   {
     "code": "1605102011",
     "district_code": "160510",
-    "name": "Sri Mulyo"
+    "name": "Sri Mulyo",
+    "postal_code": "30771"
   },
   {
     "code": "1605102014",
     "district_code": "160510",
-    "name": "Sukamerindu"
+    "name": "Sukamerindu",
+    "postal_code": "30771"
   },
   {
     "code": "1605102015",
     "district_code": "160510",
-    "name": "Paduraksa"
+    "name": "Paduraksa",
+    "postal_code": "30771"
   },
   {
     "code": "1605102016",
     "district_code": "160510",
-    "name": "Babat"
+    "name": "Babat",
+    "postal_code": "30771"
   },
   {
     "code": "1605102018",
     "district_code": "160510",
-    "name": "Pasenan"
+    "name": "Pasenan",
+    "postal_code": "30771"
   },
   {
     "code": "1605102019",
     "district_code": "160510",
-    "name": "Sukaraya"
+    "name": "Sukaraya",
+    "postal_code": "30771"
   },
   {
     "code": "1605102020",
     "district_code": "160510",
-    "name": "Sukamana"
+    "name": "Sukamana",
+    "postal_code": "30771"
   },
   {
     "code": "1605102021",
     "district_code": "160510",
-    "name": "Kosgoro"
+    "name": "Kosgoro",
+    "postal_code": "30771"
   },
   {
     "code": "1605102022",
     "district_code": "160510",
-    "name": "Sukaraya Baru"
+    "name": "Sukaraya Baru",
+    "postal_code": "30771"
   }
 ]

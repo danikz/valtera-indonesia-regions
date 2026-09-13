@@ -2,41 +2,49 @@
   {
     "code": "1471101002",
     "district_code": "147110",
-    "name": "Bencahlesung"
+    "name": "Bencahlesung",
+    "postal_code": "28285"
   },
   {
     "code": "1471101003",
     "district_code": "147110",
-    "name": "Tangkerang Timur"
+    "name": "Tangkerang Timur",
+    "postal_code": "28289"
   },
   {
     "code": "1471101004",
     "district_code": "147110",
-    "name": "Rejosari"
+    "name": "Rejosari",
+    "postal_code": "28281"
   },
   {
     "code": "1471101005",
     "district_code": "147110",
-    "name": "Bambukuning"
+    "name": "Bambukuning",
+    "postal_code": "28281"
   },
   {
     "code": "1471101010",
     "district_code": "147110",
-    "name": "Melebung"
+    "name": "Melebung",
+    "postal_code": "28285"
   },
   {
     "code": "1471101011",
     "district_code": "147110",
-    "name": "Industritenayan"
+    "name": "Industritenayan",
+    "postal_code": "28285"
   },
   {
     "code": "1471101012",
     "district_code": "147110",
-    "name": "Sialangsakti"
+    "name": "Sialangsakti",
+    "postal_code": "28285"
   },
   {
     "code": "1471101013",
     "district_code": "147110",
-    "name": "Tuahnegeri"
+    "name": "Tuahnegeri",
+    "postal_code": "28285"
   }
 ]

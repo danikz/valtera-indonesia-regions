@@ -2,36 +2,43 @@
   {
     "code": "3522262001",
     "district_code": "352226",
-    "name": "Krondonan"
+    "name": "Krondonan",
+    "postal_code": "62173"
   },
   {
     "code": "3522262002",
     "district_code": "352226",
-    "name": "Jari"
+    "name": "Jari",
+    "postal_code": "62173"
   },
   {
     "code": "3522262003",
     "district_code": "352226",
-    "name": "Sambongrejo"
+    "name": "Sambongrejo",
+    "postal_code": "62173"
   },
   {
     "code": "3522262004",
     "district_code": "352226",
-    "name": "Pajeng"
+    "name": "Pajeng",
+    "postal_code": "62173"
   },
   {
     "code": "3522262005",
     "district_code": "352226",
-    "name": "Gondang"
+    "name": "Gondang",
+    "postal_code": "62173"
   },
   {
     "code": "3522262006",
     "district_code": "352226",
-    "name": "Senganten"
+    "name": "Senganten",
+    "postal_code": "62173"
   },
   {
     "code": "3522262007",
     "district_code": "352226",
-    "name": "Pragelan"
+    "name": "Pragelan",
+    "postal_code": "62173"
   }
 ]

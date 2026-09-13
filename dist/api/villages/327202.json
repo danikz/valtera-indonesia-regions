@@ -2,31 +2,37 @@
   {
     "code": "3272021001",
     "district_code": "327202",
-    "name": "Cikole"
+    "name": "Cikole",
+    "postal_code": "43113"
   },
   {
     "code": "3272021002",
     "district_code": "327202",
-    "name": "Selabatu"
+    "name": "Selabatu",
+    "postal_code": "43114"
   },
   {
     "code": "3272021003",
     "district_code": "327202",
-    "name": "Gunungparang"
+    "name": "Gunungparang",
+    "postal_code": "43111"
   },
   {
     "code": "3272021004",
     "district_code": "327202",
-    "name": "Kebonjati"
+    "name": "Kebonjati",
+    "postal_code": "43112"
   },
   {
     "code": "3272021005",
     "district_code": "327202",
-    "name": "Cisarua"
+    "name": "Cisarua",
+    "postal_code": "43115"
   },
   {
     "code": "3272021006",
     "district_code": "327202",
-    "name": "Subangjaya"
+    "name": "Subangjaya",
+    "postal_code": "43116"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "9302012001",
     "district_code": "930201",
-    "name": "Ampera"
+    "name": "Ampera",
+    "postal_code": "99662"
   },
   {
     "code": "9302012002",
     "district_code": "930201",
-    "name": "Sokanggo"
+    "name": "Sokanggo",
+    "postal_code": "99662"
   },
   {
     "code": "9302012003",
     "district_code": "930201",
-    "name": "Persatuan"
+    "name": "Persatuan",
+    "postal_code": "99674"
   },
   {
     "code": "9302012004",
     "district_code": "930201",
-    "name": "Mariam"
+    "name": "Mariam",
+    "postal_code": "99674"
   },
   {
     "code": "9302012005",
     "district_code": "930201",
-    "name": "Mawan"
+    "name": "Mawan",
+    "postal_code": "99674"
   }
 ]

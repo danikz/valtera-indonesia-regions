@@ -2,36 +2,43 @@
   {
     "code": "1603071001",
     "district_code": "160307",
-    "name": "Tanjung Enim"
+    "name": "Tanjung Enim",
+    "postal_code": "31711"
   },
   {
     "code": "1603071002",
     "district_code": "160307",
-    "name": "Pasar Tanjung Enim"
+    "name": "Pasar Tanjung Enim",
+    "postal_code": "31712"
   },
   {
     "code": "1603071003",
     "district_code": "160307",
-    "name": "Tanjung Enim Selatan"
+    "name": "Tanjung Enim Selatan",
+    "postal_code": "31711"
   },
   {
     "code": "1603072004",
     "district_code": "160307",
-    "name": "Tegal Rejo"
+    "name": "Tegal Rejo",
+    "postal_code": "31713"
   },
   {
     "code": "1603072005",
     "district_code": "160307",
-    "name": "Lingga"
+    "name": "Lingga",
+    "postal_code": "31711"
   },
   {
     "code": "1603072006",
     "district_code": "160307",
-    "name": "Keban Agung"
+    "name": "Keban Agung",
+    "postal_code": "31711"
   },
   {
     "code": "1603072007",
     "district_code": "160307",
-    "name": "Darmo"
+    "name": "Darmo",
+    "postal_code": "31711"
   }
 ]

@@ -2,7 +2,7 @@
 """
 valtera-indonesia-regions
 Build pipeline to normalize raw administrative region data into:
-- Static CDN-ready hierarchical JSON APIs
+- Static CDN-ready hierarchical JSON APIs (with postal_code)
 - Relational normalized CSVs
 - Database dumps (MySQL, PostgreSQL, SQLite)
 - Full monolithic JSON
@@ -19,6 +19,7 @@ from typing import Dict, List, Tuple
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 SOURCE_CSV = BASE_DIR / "data" / "kode_wilayah.csv"
+POSTAL_CSV = BASE_DIR / "data" / "postal_codes.csv"
 DIST_DIR = BASE_DIR / "dist"
 API_DIR = DIST_DIR / "api"
 CSV_DIR = DIST_DIR / "csv"
@@ -42,8 +43,20 @@ def escape_sql(val: str) -> str:
     return val.replace("'", "''")
 
 
-def load_and_normalize(source_path: Path) -> Tuple[List[dict], List[dict], List[dict], List[dict]]:
-    """Parse raw CSV and extract normalized entities."""
+def load_postal_codes(postal_path: Path) -> Dict[str, str]:
+    """Load village_code -> postal_code dictionary if available."""
+    if not postal_path.exists():
+        return {}
+    mapping = {}
+    with open(postal_path, mode="r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            mapping[row["village_code"].strip()] = row["postal_code"].strip()
+    return mapping
+
+
+def load_and_normalize(source_path: Path, postal_map: Dict[str, str]) -> Tuple[List[dict], List[dict], List[dict], List[dict]]:
+    """Parse raw CSV and extract normalized entities with postal codes."""
     provinces: Dict[str, dict] = {}
     regencies: Dict[str, dict] = {}
     districts: Dict[str, dict] = {}
@@ -73,7 +86,13 @@ def load_and_normalize(source_path: Path) -> Tuple[List[dict], List[dict], List[
             if kec_code not in districts:
                 districts[kec_code] = {"code": kec_code, "regency_code": k_code, "name": kec_name}
 
-            villages.append({"code": kel_code, "district_code": kec_code, "name": kel_name})
+            p_code_val = postal_map.get(kel_code, "")
+            villages.append({
+                "code": kel_code,
+                "district_code": kec_code,
+                "name": kel_name,
+                "postal_code": p_code_val,
+            })
 
     sorted_provinces = sorted(provinces.values(), key=lambda x: x["code"])
     sorted_regencies = sorted(regencies.values(), key=lambda x: x["code"])
@@ -147,7 +166,7 @@ def generate_normalized_csv(
     write_csv(CSV_DIR / "provinces.csv", ["code", "name"], provinces)
     write_csv(CSV_DIR / "regencies.csv", ["code", "province_code", "name"], regencies)
     write_csv(CSV_DIR / "districts.csv", ["code", "regency_code", "name"], districts)
-    write_csv(CSV_DIR / "villages.csv", ["code", "district_code", "name"], villages)
+    write_csv(CSV_DIR / "villages.csv", ["code", "district_code", "name", "postal_code"], villages)
 
 
 def generate_monolithic_json(
@@ -192,7 +211,13 @@ def generate_sql_dumps(
             chunk = data[i : i + batch_size]
             values = []
             for row in chunk:
-                vals = [f"'{escape_sql(row[col])}'" for col in columns]
+                vals = []
+                for col in columns:
+                    val = row.get(col, "")
+                    if val == "" and col == "postal_code":
+                        vals.append("NULL")
+                    else:
+                        vals.append(f"'{escape_sql(val)}'")
                 values.append(f"({', '.join(vals)})")
             lines.append(f"INSERT INTO {table} ({cols_joined}) VALUES\n  " + ",\n  ".join(values) + ";")
         return lines
@@ -234,7 +259,9 @@ def generate_sql_dumps(
         f.write("  `code` CHAR(10) NOT NULL PRIMARY KEY,\n")
         f.write("  `district_code` CHAR(6) NOT NULL,\n")
         f.write("  `name` VARCHAR(100) NOT NULL,\n")
+        f.write("  `postal_code` CHAR(5) DEFAULT NULL,\n")
         f.write("  KEY `idx_villages_district` (`district_code`),\n")
+        f.write("  KEY `idx_villages_postal` (`postal_code`),\n")
         f.write("  CONSTRAINT `fk_villages_district` FOREIGN KEY (`district_code`) REFERENCES `districts` (`code`) ON DELETE CASCADE\n")
         f.write(") ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;\n\n")
 
@@ -244,7 +271,7 @@ def generate_sql_dumps(
             f.write(stmt + "\n\n")
         for stmt in batch_inserts("districts", ["code", "regency_code", "name"], districts):
             f.write(stmt + "\n\n")
-        for stmt in batch_inserts("villages", ["code", "district_code", "name"], villages):
+        for stmt in batch_inserts("villages", ["code", "district_code", "name", "postal_code"], villages):
             f.write(stmt + "\n\n")
 
         f.write("SET FOREIGN_KEY_CHECKS = 1;\n")
@@ -282,9 +309,11 @@ def generate_sql_dumps(
         f.write("CREATE TABLE villages (\n")
         f.write("  code CHAR(10) PRIMARY KEY,\n")
         f.write("  district_code CHAR(6) NOT NULL REFERENCES districts(code) ON DELETE CASCADE,\n")
-        f.write("  name VARCHAR(100) NOT NULL\n")
+        f.write("  name VARCHAR(100) NOT NULL,\n")
+        f.write("  postal_code CHAR(5)\n")
         f.write(");\n")
-        f.write("CREATE INDEX idx_villages_district ON villages(district_code);\n\n")
+        f.write("CREATE INDEX idx_villages_district ON villages(district_code);\n")
+        f.write("CREATE INDEX idx_villages_postal ON villages(postal_code);\n\n")
 
         for stmt in batch_inserts("provinces", ["code", "name"], provinces):
             f.write(stmt + "\n\n")
@@ -292,7 +321,7 @@ def generate_sql_dumps(
             f.write(stmt + "\n\n")
         for stmt in batch_inserts("districts", ["code", "regency_code", "name"], districts):
             f.write(stmt + "\n\n")
-        for stmt in batch_inserts("villages", ["code", "district_code", "name"], villages):
+        for stmt in batch_inserts("villages", ["code", "district_code", "name", "postal_code"], villages):
             f.write(stmt + "\n\n")
 
         f.write("COMMIT;\n")
@@ -334,9 +363,11 @@ def generate_sql_dumps(
         f.write("  code TEXT PRIMARY KEY,\n")
         f.write("  district_code TEXT NOT NULL,\n")
         f.write("  name TEXT NOT NULL,\n")
+        f.write("  postal_code TEXT,\n")
         f.write("  FOREIGN KEY (district_code) REFERENCES districts(code)\n")
         f.write(");\n")
-        f.write("CREATE INDEX idx_villages_district ON villages(district_code);\n\n")
+        f.write("CREATE INDEX idx_villages_district ON villages(district_code);\n")
+        f.write("CREATE INDEX idx_villages_postal ON villages(postal_code);\n\n")
 
         for stmt in batch_inserts("provinces", ["code", "name"], provinces):
             f.write(stmt + "\n\n")
@@ -344,7 +375,7 @@ def generate_sql_dumps(
             f.write(stmt + "\n\n")
         for stmt in batch_inserts("districts", ["code", "regency_code", "name"], districts):
             f.write(stmt + "\n\n")
-        for stmt in batch_inserts("villages", ["code", "district_code", "name"], villages):
+        for stmt in batch_inserts("villages", ["code", "district_code", "name", "postal_code"], villages):
             f.write(stmt + "\n\n")
 
         f.write("COMMIT;\n")
@@ -357,13 +388,18 @@ def main():
         sys.exit(1)
 
     start_time = time.time()
-    print("-> Reading & sanitizing raw region dataset...")
-    provinces, regencies, districts, villages = load_and_normalize(SOURCE_CSV)
+    print("-> Loading postal code mapping...")
+    postal_map = load_postal_codes(POSTAL_CSV)
+    print(f"   * Loaded {len(postal_map):,} postal codes from {POSTAL_CSV.name}")
 
+    print("-> Reading & sanitizing raw region dataset...")
+    provinces, regencies, districts, villages = load_and_normalize(SOURCE_CSV, postal_map)
+
+    mapped_postal_count = sum(1 for v in villages if v.get("postal_code"))
     print(f"   * Provinces:  {len(provinces):>6,}")
     print(f"   * Regencies:  {len(regencies):>6,}")
     print(f"   * Districts:  {len(districts):>6,}")
-    print(f"   * Villages:   {len(villages):>6,}")
+    print(f"   * Villages:   {len(villages):>6,} ({mapped_postal_count:,} with postal codes)")
 
     print("-> Generating static CDN API...")
     generate_static_api(provinces, regencies, districts, villages)

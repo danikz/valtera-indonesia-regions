@@ -2,21 +2,25 @@
   {
     "code": "1471081001",
     "district_code": "147108",
-    "name": "Simpangbaru"
+    "name": "Simpangbaru",
+    "postal_code": "28293"
   },
   {
     "code": "1471081008",
     "district_code": "147108",
-    "name": "Delima"
+    "name": "Delima",
+    "postal_code": "28290"
   },
   {
     "code": "1471081009",
     "district_code": "147108",
-    "name": "Tobekgodang"
+    "name": "Tobekgodang",
+    "postal_code": "28297"
   },
   {
     "code": "1471081010",
     "district_code": "147108",
-    "name": "Binawidya"
+    "name": "Binawidya",
+    "postal_code": "28295"
   }
 ]

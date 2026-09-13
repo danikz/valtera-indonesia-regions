@@ -2,51 +2,61 @@
   {
     "code": "1210072001",
     "district_code": "121007",
-    "name": "Sibargot"
+    "name": "Sibargot",
+    "postal_code": "21411"
   },
   {
     "code": "1210072002",
     "district_code": "121007",
-    "name": "Bandar Kumbul"
+    "name": "Bandar Kumbul",
+    "postal_code": "21411"
   },
   {
     "code": "1210072003",
     "district_code": "121007",
-    "name": "Tanjung Medan"
+    "name": "Tanjung Medan",
+    "postal_code": "21411"
   },
   {
     "code": "1210072004",
     "district_code": "121007",
-    "name": "Janji"
+    "name": "Janji",
+    "postal_code": "21411"
   },
   {
     "code": "1210072005",
     "district_code": "121007",
-    "name": "Tebing Linggahara"
+    "name": "Tebing Linggahara",
+    "postal_code": "21411"
   },
   {
     "code": "1210072006",
     "district_code": "121007",
-    "name": "AFD.I Rantauprapat"
+    "name": "AFD.I Rantauprapat",
+    "postal_code": "21411"
   },
   {
     "code": "1210072007",
     "district_code": "121007",
-    "name": "AFD.II Rantauprapat"
+    "name": "AFD.II Rantauprapat",
+    "postal_code": "21411"
   },
   {
     "code": "1210072008",
     "district_code": "121007",
-    "name": "Aek Buru Selatan"
+    "name": "Aek Buru Selatan",
+    "postal_code": "21411"
   },
   {
     "code": "1210072009",
     "district_code": "121007",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "21415"
   },
   {
     "code": "1210072010",
     "district_code": "121007",
-    "name": "Tebing Linggahara Baru"
+    "name": "Tebing Linggahara Baru",
+    "postal_code": "21411"
   }
 ]

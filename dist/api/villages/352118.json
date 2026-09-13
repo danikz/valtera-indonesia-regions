@@ -2,26 +2,31 @@
   {
     "code": "3521182001",
     "district_code": "352118",
-    "name": "Randusongo"
+    "name": "Randusongo",
+    "postal_code": "63270"
   },
   {
     "code": "3521182002",
     "district_code": "352118",
-    "name": "Widodaren"
+    "name": "Widodaren",
+    "postal_code": "63270"
   },
   {
     "code": "3521182003",
     "district_code": "352118",
-    "name": "Gerih"
+    "name": "Gerih",
+    "postal_code": "63270"
   },
   {
     "code": "3521182004",
     "district_code": "352118",
-    "name": "Keraskulon"
+    "name": "Keraskulon",
+    "postal_code": "63270"
   },
   {
     "code": "3521182005",
     "district_code": "352118",
-    "name": "Guyung"
+    "name": "Guyung",
+    "postal_code": "63270"
   }
 ]

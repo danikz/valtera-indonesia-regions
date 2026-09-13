@@ -2,26 +2,31 @@
   {
     "code": "5311192001",
     "district_code": "531119",
-    "name": "Kompa Pari"
+    "name": "Kompa Pari",
+    "postal_code": "87152"
   },
   {
     "code": "5311192002",
     "district_code": "531119",
-    "name": "Matawai Amahu"
+    "name": "Matawai Amahu",
+    "postal_code": "87152"
   },
   {
     "code": "5311192003",
     "district_code": "531119",
-    "name": "Mandahu"
+    "name": "Mandahu",
+    "postal_code": "87152"
   },
   {
     "code": "5311192004",
     "district_code": "531119",
-    "name": "Lailara"
+    "name": "Lailara",
+    "postal_code": "87152"
   },
   {
     "code": "5311192005",
     "district_code": "531119",
-    "name": "Praibakul"
+    "name": "Praibakul",
+    "postal_code": "87152"
   }
 ]

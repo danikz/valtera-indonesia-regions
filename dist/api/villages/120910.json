@@ -2,41 +2,49 @@
   {
     "code": "1209102001",
     "district_code": "120910",
-    "name": "Asahan Mati"
+    "name": "Asahan Mati",
+    "postal_code": "21352"
   },
   {
     "code": "1209102002",
     "district_code": "120910",
-    "name": "Bagan Asahan"
+    "name": "Bagan Asahan",
+    "postal_code": "21352"
   },
   {
     "code": "1209102003",
     "district_code": "120910",
-    "name": "Bagan Asahan Baru"
+    "name": "Bagan Asahan Baru",
+    "postal_code": "21352"
   },
   {
     "code": "1209102004",
     "district_code": "120910",
-    "name": "Bagan Asahan Pekan"
+    "name": "Bagan Asahan Pekan",
+    "postal_code": "21352"
   },
   {
     "code": "1209102005",
     "district_code": "120910",
-    "name": "Kapias Batu VIII"
+    "name": "Kapias Batu VIII",
+    "postal_code": "21352"
   },
   {
     "code": "1209102006",
     "district_code": "120910",
-    "name": "Pematang Sei Baru"
+    "name": "Pematang Sei Baru",
+    "postal_code": "21352"
   },
   {
     "code": "1209102007",
     "district_code": "120910",
-    "name": "Sei Apung"
+    "name": "Sei Apung",
+    "postal_code": "21352"
   },
   {
     "code": "1209102008",
     "district_code": "120910",
-    "name": "Sei Apung Jaya"
+    "name": "Sei Apung Jaya",
+    "postal_code": "21352"
   }
 ]

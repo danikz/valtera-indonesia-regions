@@ -2,31 +2,37 @@
   {
     "code": "9502302001",
     "district_code": "950230",
-    "name": "Jetfa"
+    "name": "Jetfa",
+    "postal_code": "99402"
   },
   {
     "code": "9502302002",
     "district_code": "950230",
-    "name": "Lulis"
+    "name": "Lulis",
+    "postal_code": "99402"
   },
   {
     "code": "9502302003",
     "district_code": "950230",
-    "name": "Tupalma Satu"
+    "name": "Tupalma Satu",
+    "postal_code": "99402"
   },
   {
     "code": "9502302004",
     "district_code": "950230",
-    "name": "Tupalma Dua"
+    "name": "Tupalma Dua",
+    "postal_code": "99402"
   },
   {
     "code": "9502302005",
     "district_code": "950230",
-    "name": "Kalimbu"
+    "name": "Kalimbu",
+    "postal_code": "99402"
   },
   {
     "code": "9502302006",
     "district_code": "950230",
-    "name": "Bris"
+    "name": "Bris",
+    "postal_code": "99402"
   }
 ]

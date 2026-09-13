@@ -2,31 +2,37 @@
   {
     "code": "1603192001",
     "district_code": "160319",
-    "name": "Padang Bindu"
+    "name": "Padang Bindu",
+    "postal_code": "31626"
   },
   {
     "code": "1603192002",
     "district_code": "160319",
-    "name": "Betung"
+    "name": "Betung",
+    "postal_code": "31626"
   },
   {
     "code": "1603192003",
     "district_code": "160319",
-    "name": "Pagar Dewa"
+    "name": "Pagar Dewa",
+    "postal_code": "31626"
   },
   {
     "code": "1603192004",
     "district_code": "160319",
-    "name": "Pagarjati"
+    "name": "Pagarjati",
+    "postal_code": "31626"
   },
   {
     "code": "1603192005",
     "district_code": "160319",
-    "name": "Hidup Baru"
+    "name": "Hidup Baru",
+    "postal_code": "31626"
   },
   {
     "code": "1603192006",
     "district_code": "160319",
-    "name": "Rami Pasai"
+    "name": "Rami Pasai",
+    "postal_code": "31626"
   }
 ]

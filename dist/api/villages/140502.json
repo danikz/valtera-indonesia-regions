@@ -2,36 +2,43 @@
   {
     "code": "1405021007",
     "district_code": "140502",
-    "name": "Pangkalan Kerinci Barat"
+    "name": "Pangkalan Kerinci Barat",
+    "postal_code": "28381"
   },
   {
     "code": "1405021008",
     "district_code": "140502",
-    "name": "Pangkalan Kerinci Kota"
+    "name": "Pangkalan Kerinci Kota",
+    "postal_code": "28381"
   },
   {
     "code": "1405021009",
     "district_code": "140502",
-    "name": "Pangkalan Kerinci Timur Agung"
+    "name": "Pangkalan Kerinci Timur Agung",
+    "postal_code": "28381"
   },
   {
     "code": "1405022001",
     "district_code": "140502",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "28381"
   },
   {
     "code": "1405022002",
     "district_code": "140502",
-    "name": "Kuala Terusan"
+    "name": "Kuala Terusan",
+    "postal_code": "28381"
   },
   {
     "code": "1405022003",
     "district_code": "140502",
-    "name": "Makmur"
+    "name": "Makmur",
+    "postal_code": "28381"
   },
   {
     "code": "1405022005",
     "district_code": "140502",
-    "name": "Rantau Baru"
+    "name": "Rantau Baru",
+    "postal_code": "28381"
   }
 ]

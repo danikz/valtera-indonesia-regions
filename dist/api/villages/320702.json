@@ -2,46 +2,55 @@
   {
     "code": "3207022001",
     "district_code": "320702",
-    "name": "Cikoneng"
+    "name": "Cikoneng",
+    "postal_code": "46261"
   },
   {
     "code": "3207022002",
     "district_code": "320702",
-    "name": "Margaluyu"
+    "name": "Margaluyu",
+    "postal_code": "46261"
   },
   {
     "code": "3207022003",
     "district_code": "320702",
-    "name": "Sindangsari"
+    "name": "Sindangsari",
+    "postal_code": "46261"
   },
   {
     "code": "3207022011",
     "district_code": "320702",
-    "name": "Panaragan"
+    "name": "Panaragan",
+    "postal_code": "46261"
   },
   {
     "code": "3207022012",
     "district_code": "320702",
-    "name": "Darmacaang"
+    "name": "Darmacaang",
+    "postal_code": "46261"
   },
   {
     "code": "3207022013",
     "district_code": "320702",
-    "name": "Kujang"
+    "name": "Kujang",
+    "postal_code": "46261"
   },
   {
     "code": "3207022014",
     "district_code": "320702",
-    "name": "Nasol"
+    "name": "Nasol",
+    "postal_code": "46261"
   },
   {
     "code": "3207022016",
     "district_code": "320702",
-    "name": "Cimari"
+    "name": "Cimari",
+    "postal_code": "46261"
   },
   {
     "code": "3207022017",
     "district_code": "320702",
-    "name": "Gegempalan"
+    "name": "Gegempalan",
+    "postal_code": "46261"
   }
 ]

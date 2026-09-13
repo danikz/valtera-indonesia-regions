@@ -2,26 +2,31 @@
   {
     "code": "5271041001",
     "district_code": "527104",
-    "name": "Karang Pule"
+    "name": "Karang Pule",
+    "postal_code": "83116"
   },
   {
     "code": "5271041002",
     "district_code": "527104",
-    "name": "Tanjung Karang"
+    "name": "Tanjung Karang",
+    "postal_code": "83115"
   },
   {
     "code": "5271041003",
     "district_code": "527104",
-    "name": "Jempong Baru"
+    "name": "Jempong Baru",
+    "postal_code": "83116"
   },
   {
     "code": "5271041004",
     "district_code": "527104",
-    "name": "Tanjung Karang Permai"
+    "name": "Tanjung Karang Permai",
+    "postal_code": "83116"
   },
   {
     "code": "5271041005",
     "district_code": "527104",
-    "name": "Kekalik Jaya"
+    "name": "Kekalik Jaya",
+    "postal_code": "83116"
   }
 ]

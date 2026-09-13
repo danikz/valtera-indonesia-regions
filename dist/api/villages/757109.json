@@ -2,26 +2,31 @@
   {
     "code": "7571091001",
     "district_code": "757109",
-    "name": "Tanjung Kramat"
+    "name": "Tanjung Kramat",
+    "postal_code": "96111"
   },
   {
     "code": "7571091002",
     "district_code": "757109",
-    "name": "Pohe"
+    "name": "Pohe",
+    "postal_code": "96117"
   },
   {
     "code": "7571091003",
     "district_code": "757109",
-    "name": "Tenda"
+    "name": "Tenda",
+    "postal_code": "96117"
   },
   {
     "code": "7571091004",
     "district_code": "757109",
-    "name": "Donggala"
+    "name": "Donggala",
+    "postal_code": "96116"
   },
   {
     "code": "7571091005",
     "district_code": "757109",
-    "name": "Siendeng"
+    "name": "Siendeng",
+    "postal_code": "96111"
   }
 ]

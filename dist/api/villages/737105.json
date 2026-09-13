@@ -2,41 +2,49 @@
   {
     "code": "7371051001",
     "district_code": "737105",
-    "name": "Pattunuang"
+    "name": "Pattunuang",
+    "postal_code": "90174"
   },
   {
     "code": "7371051002",
     "district_code": "737105",
-    "name": "Melayu"
+    "name": "Melayu",
+    "postal_code": "90171"
   },
   {
     "code": "7371051003",
     "district_code": "737105",
-    "name": "Butung"
+    "name": "Butung",
+    "postal_code": "90173"
   },
   {
     "code": "7371051004",
     "district_code": "737105",
-    "name": "Malimongan Tua"
+    "name": "Malimongan Tua",
+    "postal_code": "90172"
   },
   {
     "code": "7371051005",
     "district_code": "737105",
-    "name": "Ende"
+    "name": "Ende",
+    "postal_code": "90174"
   },
   {
     "code": "7371051006",
     "district_code": "737105",
-    "name": "Mampu"
+    "name": "Mampu",
+    "postal_code": "90173"
   },
   {
     "code": "7371051007",
     "district_code": "737105",
-    "name": "Malimongan"
+    "name": "Malimongan",
+    "postal_code": "90172"
   },
   {
     "code": "7371051008",
     "district_code": "737105",
-    "name": "Melayu Baru"
+    "name": "Melayu Baru",
+    "postal_code": "90171"
   }
 ]

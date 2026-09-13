@@ -2,36 +2,43 @@
   {
     "code": "3527142001",
     "district_code": "352714",
-    "name": "Blu uran"
+    "name": "Blu uran",
+    "postal_code": "69254"
   },
   {
     "code": "3527142002",
     "district_code": "352714",
-    "name": "Tlambah"
+    "name": "Tlambah",
+    "postal_code": "69254"
   },
   {
     "code": "3527142003",
     "district_code": "352714",
-    "name": "Bulmatet"
+    "name": "Bulmatet",
+    "postal_code": "69254"
   },
   {
     "code": "3527142004",
     "district_code": "352714",
-    "name": "Poreh"
+    "name": "Poreh",
+    "postal_code": "69254"
   },
   {
     "code": "3527142005",
     "district_code": "352714",
-    "name": "Karangpenang Oloh"
+    "name": "Karangpenang Oloh",
+    "postal_code": "69254"
   },
   {
     "code": "3527142006",
     "district_code": "352714",
-    "name": "Karangpenang Onjur"
+    "name": "Karangpenang Onjur",
+    "postal_code": "69254"
   },
   {
     "code": "3527142007",
     "district_code": "352714",
-    "name": "Gunung Kesan"
+    "name": "Gunung Kesan",
+    "postal_code": "69254"
   }
 ]

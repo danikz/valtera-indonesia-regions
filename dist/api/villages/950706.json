@@ -2,41 +2,49 @@
   {
     "code": "9507062001",
     "district_code": "950706",
-    "name": "Malagai"
+    "name": "Malagai",
+    "postal_code": "99589"
   },
   {
     "code": "9507062002",
     "district_code": "950706",
-    "name": "Oka"
+    "name": "Oka",
+    "postal_code": "99533"
   },
   {
     "code": "9507062003",
     "district_code": "950706",
-    "name": "Bagi"
+    "name": "Bagi",
+    "postal_code": "99589"
   },
   {
     "code": "9507062004",
     "district_code": "950706",
-    "name": "Ganume"
+    "name": "Ganume",
+    "postal_code": "99533"
   },
   {
     "code": "9507062005",
     "district_code": "950706",
-    "name": "Binilani"
+    "name": "Binilani",
+    "postal_code": "99589"
   },
   {
     "code": "9507062006",
     "district_code": "950706",
-    "name": "Gumban"
+    "name": "Gumban",
+    "postal_code": "99589"
   },
   {
     "code": "9507062007",
     "district_code": "950706",
-    "name": "Lowanom"
+    "name": "Lowanom",
+    "postal_code": "99589"
   },
   {
     "code": "9507062008",
     "district_code": "950706",
-    "name": "Nambu"
+    "name": "Nambu",
+    "postal_code": "99589"
   }
 ]

@@ -2,81 +2,97 @@
   {
     "code": "8105022001",
     "district_code": "810502",
-    "name": "Geser"
+    "name": "Geser",
+    "postal_code": "97592"
   },
   {
     "code": "8105022002",
     "district_code": "810502",
-    "name": "Kiltay"
+    "name": "Kiltay",
+    "postal_code": "97592"
   },
   {
     "code": "8105022003",
     "district_code": "810502",
-    "name": "Kilwaru"
+    "name": "Kilwaru",
+    "postal_code": "97592"
   },
   {
     "code": "8105022004",
     "district_code": "810502",
-    "name": "Kellu"
+    "name": "Kellu",
+    "postal_code": "97592"
   },
   {
     "code": "8105022005",
     "district_code": "810502",
-    "name": "Keffing"
+    "name": "Keffing",
+    "postal_code": "97592"
   },
   {
     "code": "8105022006",
     "district_code": "810502",
-    "name": "Urung"
+    "name": "Urung",
+    "postal_code": ""
   },
   {
     "code": "8105022028",
     "district_code": "810502",
-    "name": "Kilfura"
+    "name": "Kilfura",
+    "postal_code": "97592"
   },
   {
     "code": "8105022046",
     "district_code": "810502",
-    "name": "Kwawor Kecil Mata Ata"
+    "name": "Kwawor Kecil Mata Ata",
+    "postal_code": ""
   },
   {
     "code": "8105022047",
     "district_code": "810502",
-    "name": "Kwawor Kecil Mata Wawa"
+    "name": "Kwawor Kecil Mata Wawa",
+    "postal_code": ""
   },
   {
     "code": "8105022048",
     "district_code": "810502",
-    "name": "Kwawor Besar Ena"
+    "name": "Kwawor Besar Ena",
+    "postal_code": ""
   },
   {
     "code": "8105022049",
     "district_code": "810502",
-    "name": "Kwawor Besar Witau"
+    "name": "Kwawor Besar Witau",
+    "postal_code": ""
   },
   {
     "code": "8105022050",
     "district_code": "810502",
-    "name": "Guli-Guli"
+    "name": "Guli-Guli",
+    "postal_code": ""
   },
   {
     "code": "8105022051",
     "district_code": "810502",
-    "name": "Manggis"
+    "name": "Manggis",
+    "postal_code": ""
   },
   {
     "code": "8105022052",
     "district_code": "810502",
-    "name": "Ainena"
+    "name": "Ainena",
+    "postal_code": ""
   },
   {
     "code": "8105022053",
     "district_code": "810502",
-    "name": "Mugusinis"
+    "name": "Mugusinis",
+    "postal_code": ""
   },
   {
     "code": "8105022054",
     "district_code": "810502",
-    "name": "Akatfadedo"
+    "name": "Akatfadedo",
+    "postal_code": ""
   }
 ]

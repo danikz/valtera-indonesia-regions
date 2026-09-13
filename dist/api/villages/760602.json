@@ -2,46 +2,55 @@
   {
     "code": "7606022001",
     "district_code": "760602",
-    "name": "Polo Pangale"
+    "name": "Polo Pangale",
+    "postal_code": "91462"
   },
   {
     "code": "7606022002",
     "district_code": "760602",
-    "name": "Pangale"
+    "name": "Pangale",
+    "postal_code": "91462"
   },
   {
     "code": "7606022003",
     "district_code": "760602",
-    "name": "Sartanamaju"
+    "name": "Sartanamaju",
+    "postal_code": "91462"
   },
   {
     "code": "7606022004",
     "district_code": "760602",
-    "name": "Polo Lereng"
+    "name": "Polo Lereng",
+    "postal_code": "91462"
   },
   {
     "code": "7606022005",
     "district_code": "760602",
-    "name": "Kuo"
+    "name": "Kuo",
+    "postal_code": "91462"
   },
   {
     "code": "7606022006",
     "district_code": "760602",
-    "name": "Polo Camba"
+    "name": "Polo Camba",
+    "postal_code": "91462"
   },
   {
     "code": "7606022007",
     "district_code": "760602",
-    "name": "Lamba-lamba"
+    "name": "Lamba-lamba",
+    "postal_code": "91462"
   },
   {
     "code": "7606022008",
     "district_code": "760602",
-    "name": "Kombiling"
+    "name": "Kombiling",
+    "postal_code": "91462"
   },
   {
     "code": "7606022009",
     "district_code": "760602",
-    "name": "Lemo-Lemo"
+    "name": "Lemo-Lemo",
+    "postal_code": "91462"
   }
 ]

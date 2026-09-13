@@ -2,46 +2,55 @@
   {
     "code": "7313071001",
     "district_code": "731307",
-    "name": "Macero"
+    "name": "Macero",
+    "postal_code": "90953"
   },
   {
     "code": "7313071002",
     "district_code": "731307",
-    "name": "Malangke"
+    "name": "Malangke",
+    "postal_code": "90953"
   },
   {
     "code": "7313071003",
     "district_code": "731307",
-    "name": "Belawa"
+    "name": "Belawa",
+    "postal_code": "90953"
   },
   {
     "code": "7313072004",
     "district_code": "731307",
-    "name": "Ongkoe"
+    "name": "Ongkoe",
+    "postal_code": "90953"
   },
   {
     "code": "7313072005",
     "district_code": "731307",
-    "name": "Leppangeng"
+    "name": "Leppangeng",
+    "postal_code": "90913"
   },
   {
     "code": "7313072006",
     "district_code": "731307",
-    "name": "Wele"
+    "name": "Wele",
+    "postal_code": "90953"
   },
   {
     "code": "7313072007",
     "district_code": "731307",
-    "name": "Limporilau"
+    "name": "Limporilau",
+    "postal_code": "90953"
   },
   {
     "code": "7313072008",
     "district_code": "731307",
-    "name": "Sappa"
+    "name": "Sappa",
+    "postal_code": "90953"
   },
   {
     "code": "7313072009",
     "district_code": "731307",
-    "name": "Lautang"
+    "name": "Lautang",
+    "postal_code": "90953"
   }
 ]

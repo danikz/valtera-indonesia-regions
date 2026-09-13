@@ -2,51 +2,61 @@
   {
     "code": "9504031001",
     "district_code": "950403",
-    "name": "Kanggime"
+    "name": "Kanggime",
+    "postal_code": "99044"
   },
   {
     "code": "9504032002",
     "district_code": "950403",
-    "name": "Marlo"
+    "name": "Marlo",
+    "postal_code": "99413"
   },
   {
     "code": "9504032003",
     "district_code": "950403",
-    "name": "Logon"
+    "name": "Logon",
+    "postal_code": "99413"
   },
   {
     "code": "9504032004",
     "district_code": "950403",
-    "name": "Aulani"
+    "name": "Aulani",
+    "postal_code": "99413"
   },
   {
     "code": "9504032005",
     "district_code": "950403",
-    "name": "Ligiibak"
+    "name": "Ligiibak",
+    "postal_code": "99413"
   },
   {
     "code": "9504032006",
     "district_code": "950403",
-    "name": "Kerena"
+    "name": "Kerena",
+    "postal_code": "99413"
   },
   {
     "code": "9504032007",
     "district_code": "950403",
-    "name": "Purugi"
+    "name": "Purugi",
+    "postal_code": "99413"
   },
   {
     "code": "9504032008",
     "district_code": "950403",
-    "name": "Lawor"
+    "name": "Lawor",
+    "postal_code": "99413"
   },
   {
     "code": "9504032009",
     "district_code": "950403",
-    "name": "Kagimaluk"
+    "name": "Kagimaluk",
+    "postal_code": "99413"
   },
   {
     "code": "9504032010",
     "district_code": "950403",
-    "name": "Dundu"
+    "name": "Dundu",
+    "postal_code": "99413"
   }
 ]

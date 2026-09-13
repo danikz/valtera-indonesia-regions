@@ -2,46 +2,55 @@
   {
     "code": "3309051001",
     "district_code": "330905",
-    "name": "Pulisen"
+    "name": "Pulisen",
+    "postal_code": "57316"
   },
   {
     "code": "3309051002",
     "district_code": "330905",
-    "name": "Siwodipuran"
+    "name": "Siwodipuran",
+    "postal_code": "57311"
   },
   {
     "code": "3309051004",
     "district_code": "330905",
-    "name": "Banaran"
+    "name": "Banaran",
+    "postal_code": "57313"
   },
   {
     "code": "3309052003",
     "district_code": "330905",
-    "name": "Karanggeneng"
+    "name": "Karanggeneng",
+    "postal_code": "57312"
   },
   {
     "code": "3309052005",
     "district_code": "330905",
-    "name": "Winong"
+    "name": "Winong",
+    "postal_code": "57315"
   },
   {
     "code": "3309052006",
     "district_code": "330905",
-    "name": "Penggung"
+    "name": "Penggung",
+    "postal_code": "57316"
   },
   {
     "code": "3309052007",
     "district_code": "330905",
-    "name": "Kiringan"
+    "name": "Kiringan",
+    "postal_code": "57314"
   },
   {
     "code": "3309052008",
     "district_code": "330905",
-    "name": "Mudal"
+    "name": "Mudal",
+    "postal_code": "57316"
   },
   {
     "code": "3309052009",
     "district_code": "330905",
-    "name": "Kebonbimo"
+    "name": "Kebonbimo",
+    "postal_code": "57316"
   }
 ]

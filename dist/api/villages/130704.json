@@ -2,21 +2,25 @@
   {
     "code": "1307042001",
     "district_code": "130704",
-    "name": "Tj. Haro Sikabu-kabu Pd. Panjang"
+    "name": "Tj. Haro Sikabu-kabu Pd. Panjang",
+    "postal_code": "26261"
   },
   {
     "code": "1307042002",
     "district_code": "130704",
-    "name": "Mungo"
+    "name": "Mungo",
+    "postal_code": "26261"
   },
   {
     "code": "1307042003",
     "district_code": "130704",
-    "name": "Sungai Kamuyang"
+    "name": "Sungai Kamuyang",
+    "postal_code": "26261"
   },
   {
     "code": "1307042004",
     "district_code": "130704",
-    "name": "Andaleh"
+    "name": "Andaleh",
+    "postal_code": "26261"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "3505202001",
     "district_code": "350520",
-    "name": "Purworejo"
+    "name": "Purworejo",
+    "postal_code": "66194"
   },
   {
     "code": "3505202002",
     "district_code": "350520",
-    "name": "Tulungrejo"
+    "name": "Tulungrejo",
+    "postal_code": "66194"
   },
   {
     "code": "3505202003",
     "district_code": "350520",
-    "name": "Sumberarum"
+    "name": "Sumberarum",
+    "postal_code": "66194"
   },
   {
     "code": "3505202004",
     "district_code": "350520",
-    "name": "Ringinrejo"
+    "name": "Ringinrejo",
+    "postal_code": "66194"
   },
   {
     "code": "3505202005",
     "district_code": "350520",
-    "name": "Mojorejo"
+    "name": "Mojorejo",
+    "postal_code": "66194"
   },
   {
     "code": "3505202006",
     "district_code": "350520",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "66194"
   },
   {
     "code": "3505202007",
     "district_code": "350520",
-    "name": "Wates"
+    "name": "Wates",
+    "postal_code": "66194"
   },
   {
     "code": "3505202008",
     "district_code": "350520",
-    "name": "Tugurejo"
+    "name": "Tugurejo",
+    "postal_code": "66194"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "1611082001",
     "district_code": "161108",
-    "name": "Puntang"
+    "name": "Puntang",
+    "postal_code": "31594"
   },
   {
     "code": "1611082002",
     "district_code": "161108",
-    "name": "Bandaraji"
+    "name": "Bandaraji",
+    "postal_code": "31594"
   },
   {
     "code": "1611082003",
     "district_code": "161108",
-    "name": "Paduraksa"
+    "name": "Paduraksa",
+    "postal_code": "31594"
   },
   {
     "code": "1611082004",
     "district_code": "161108",
-    "name": "Karang Gede"
+    "name": "Karang Gede",
+    "postal_code": "31594"
   },
   {
     "code": "1611082005",
     "district_code": "161108",
-    "name": "Karang Dapo Baru"
+    "name": "Karang Dapo Baru",
+    "postal_code": "31594"
   },
   {
     "code": "1611082006",
     "district_code": "161108",
-    "name": "Karang Dapo Lama"
+    "name": "Karang Dapo Lama",
+    "postal_code": "31594"
   },
   {
     "code": "1611082007",
     "district_code": "161108",
-    "name": "Tanggarasa"
+    "name": "Tanggarasa",
+    "postal_code": "31594"
   },
   {
     "code": "1611082008",
     "district_code": "161108",
-    "name": "Tapa Baru"
+    "name": "Tapa Baru",
+    "postal_code": "31594"
   },
   {
     "code": "1611082009",
     "district_code": "161108",
-    "name": "Tapa Lama"
+    "name": "Tapa Lama",
+    "postal_code": "31594"
   },
   {
     "code": "1611082010",
     "district_code": "161108",
-    "name": "Martapura"
+    "name": "Martapura",
+    "postal_code": "31594"
   },
   {
     "code": "1611082011",
     "district_code": "161108",
-    "name": "Karang Anyar"
+    "name": "Karang Anyar",
+    "postal_code": "31594"
   }
 ]

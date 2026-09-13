@@ -2,26 +2,31 @@
   {
     "code": "5311201001",
     "district_code": "531120",
-    "name": "Temu"
+    "name": "Temu",
+    "postal_code": "87154"
   },
   {
     "code": "5311202002",
     "district_code": "531120",
-    "name": "Kuta"
+    "name": "Kuta",
+    "postal_code": "87154"
   },
   {
     "code": "5311202003",
     "district_code": "531120",
-    "name": "Hambapraing"
+    "name": "Hambapraing",
+    "postal_code": "87154"
   },
   {
     "code": "5311202004",
     "district_code": "531120",
-    "name": "Mondu"
+    "name": "Mondu",
+    "postal_code": "87154"
   },
   {
     "code": "5311202005",
     "district_code": "531120",
-    "name": "Ndapayami"
+    "name": "Ndapayami",
+    "postal_code": "87154"
   }
 ]

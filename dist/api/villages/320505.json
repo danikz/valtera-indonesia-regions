@@ -2,61 +2,73 @@
   {
     "code": "3205051001",
     "district_code": "320505",
-    "name": "Pataruman"
+    "name": "Pataruman",
+    "postal_code": "44150"
   },
   {
     "code": "3205051002",
     "district_code": "320505",
-    "name": "Sukagalih"
+    "name": "Sukagalih",
+    "postal_code": "44150"
   },
   {
     "code": "3205051006",
     "district_code": "320505",
-    "name": "Jayawaras"
+    "name": "Jayawaras",
+    "postal_code": "44150"
   },
   {
     "code": "3205051009",
     "district_code": "320505",
-    "name": "Sukakarya"
+    "name": "Sukakarya",
+    "postal_code": "44150"
   },
   {
     "code": "3205051012",
     "district_code": "320505",
-    "name": "Sukajaya"
+    "name": "Sukajaya",
+    "postal_code": "44150"
   },
   {
     "code": "3205052003",
     "district_code": "320505",
-    "name": "Jayaraga"
+    "name": "Jayaraga",
+    "postal_code": "44150"
   },
   {
     "code": "3205052004",
     "district_code": "320505",
-    "name": "Haurpanggung"
+    "name": "Haurpanggung",
+    "postal_code": "44150"
   },
   {
     "code": "3205052005",
     "district_code": "320505",
-    "name": "Cibunar"
+    "name": "Cibunar",
+    "postal_code": "44150"
   },
   {
     "code": "3205052007",
     "district_code": "320505",
-    "name": "Sukabakti"
+    "name": "Sukabakti",
+    "postal_code": "44150"
   },
   {
     "code": "3205052008",
     "district_code": "320505",
-    "name": "Tarogong"
+    "name": "Tarogong",
+    "postal_code": "44150"
   },
   {
     "code": "3205052010",
     "district_code": "320505",
-    "name": "Mekargalih"
+    "name": "Mekargalih",
+    "postal_code": "44150"
   },
   {
     "code": "3205052011",
     "district_code": "320505",
-    "name": "Kersamenak"
+    "name": "Kersamenak",
+    "postal_code": "44150"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "7601042001",
     "district_code": "760104",
-    "name": "Sarudu"
+    "name": "Sarudu",
+    "postal_code": "91576"
   },
   {
     "code": "7601042003",
     "district_code": "760104",
-    "name": "Bulu Mario"
+    "name": "Bulu Mario",
+    "postal_code": "91576"
   },
   {
     "code": "7601042005",
     "district_code": "760104",
-    "name": "Kumasari"
+    "name": "Kumasari",
+    "postal_code": "91576"
   },
   {
     "code": "7601042011",
     "district_code": "760104",
-    "name": "Patika"
+    "name": "Patika",
+    "postal_code": "91576"
   },
   {
     "code": "7601042012",
     "district_code": "760104",
-    "name": "Doda"
+    "name": "Doda",
+    "postal_code": "91576"
   }
 ]

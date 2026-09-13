@@ -2,31 +2,37 @@
   {
     "code": "9403162001",
     "district_code": "940316",
-    "name": "Ukauwo"
+    "name": "Ukauwo",
+    "postal_code": "98727"
   },
   {
     "code": "9403162002",
     "district_code": "940316",
-    "name": "Waipa"
+    "name": "Waipa",
+    "postal_code": "98727"
   },
   {
     "code": "9403162003",
     "district_code": "940316",
-    "name": "Ukago"
+    "name": "Ukago",
+    "postal_code": "98727"
   },
   {
     "code": "9403162004",
     "district_code": "940316",
-    "name": "Totiyo"
+    "name": "Totiyo",
+    "postal_code": "98727"
   },
   {
     "code": "9403162005",
     "district_code": "940316",
-    "name": "Biyadide"
+    "name": "Biyadide",
+    "postal_code": "98727"
   },
   {
     "code": "9403162006",
     "district_code": "940316",
-    "name": "Pekege"
+    "name": "Pekege",
+    "postal_code": "98727"
   }
 ]

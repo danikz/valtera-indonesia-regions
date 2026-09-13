@@ -2,46 +2,55 @@
   {
     "code": "1901062001",
     "district_code": "190106",
-    "name": "Bakam"
+    "name": "Bakam",
+    "postal_code": "33252"
   },
   {
     "code": "1901062002",
     "district_code": "190106",
-    "name": "Kapuk"
+    "name": "Kapuk",
+    "postal_code": "33252"
   },
   {
     "code": "1901062003",
     "district_code": "190106",
-    "name": "Dalil"
+    "name": "Dalil",
+    "postal_code": "33252"
   },
   {
     "code": "1901062004",
     "district_code": "190106",
-    "name": "Neknang"
+    "name": "Neknang",
+    "postal_code": "33252"
   },
   {
     "code": "1901062005",
     "district_code": "190106",
-    "name": "Tiang Tarah"
+    "name": "Tiang Tarah",
+    "postal_code": "33252"
   },
   {
     "code": "1901062006",
     "district_code": "190106",
-    "name": "Mangka"
+    "name": "Mangka",
+    "postal_code": "33252"
   },
   {
     "code": "1901062007",
     "district_code": "190106",
-    "name": "Mabat"
+    "name": "Mabat",
+    "postal_code": "33252"
   },
   {
     "code": "1901062008",
     "district_code": "190106",
-    "name": "Bukit Layang"
+    "name": "Bukit Layang",
+    "postal_code": "33252"
   },
   {
     "code": "1901062009",
     "district_code": "190106",
-    "name": "Maras Senang"
+    "name": "Maras Senang",
+    "postal_code": "33252"
   }
 ]

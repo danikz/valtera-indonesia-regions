@@ -2,91 +2,109 @@
   {
     "code": "3522151001",
     "district_code": "352215",
-    "name": "Jetak"
+    "name": "Jetak",
+    "postal_code": "62114"
   },
   {
     "code": "3522151004",
     "district_code": "352215",
-    "name": "Mojokampung"
+    "name": "Mojokampung",
+    "postal_code": "62119"
   },
   {
     "code": "3522151005",
     "district_code": "352215",
-    "name": "Kepatihan"
+    "name": "Kepatihan",
+    "postal_code": "62111"
   },
   {
     "code": "3522151006",
     "district_code": "352215",
-    "name": "Sumbang"
+    "name": "Sumbang",
+    "postal_code": "62115"
   },
   {
     "code": "3522151007",
     "district_code": "352215",
-    "name": "Klangon"
+    "name": "Klangon",
+    "postal_code": "62113"
   },
   {
     "code": "3522151009",
     "district_code": "352215",
-    "name": "Ledok Kulon"
+    "name": "Ledok Kulon",
+    "postal_code": "62112"
   },
   {
     "code": "3522151010",
     "district_code": "352215",
-    "name": "Ledok Wetan"
+    "name": "Ledok Wetan",
+    "postal_code": "62112"
   },
   {
     "code": "3522151011",
     "district_code": "352215",
-    "name": "Kadipaten"
+    "name": "Kadipaten",
+    "postal_code": "62111"
   },
   {
     "code": "3522151012",
     "district_code": "352215",
-    "name": "Ngrowo"
+    "name": "Ngrowo",
+    "postal_code": "62119"
   },
   {
     "code": "3522151013",
     "district_code": "352215",
-    "name": "Karang pacar"
+    "name": "Karang pacar",
+    "postal_code": "62119"
   },
   {
     "code": "3522151014",
     "district_code": "352215",
-    "name": "Banjarrejo"
+    "name": "Banjarrejo",
+    "postal_code": "62118"
   },
   {
     "code": "3522152002",
     "district_code": "352215",
-    "name": "Pacul"
+    "name": "Pacul",
+    "postal_code": "62114"
   },
   {
     "code": "3522152003",
     "district_code": "352215",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "62115"
   },
   {
     "code": "3522152008",
     "district_code": "352215",
-    "name": "Kauman"
+    "name": "Kauman",
+    "postal_code": "62113"
   },
   {
     "code": "3522152015",
     "district_code": "352215",
-    "name": "Campurejo"
+    "name": "Campurejo",
+    "postal_code": "62119"
   },
   {
     "code": "3522152016",
     "district_code": "352215",
-    "name": "Mulyoagung"
+    "name": "Mulyoagung",
+    "postal_code": "62119"
   },
   {
     "code": "3522152017",
     "district_code": "352215",
-    "name": "Kalirejo"
+    "name": "Kalirejo",
+    "postal_code": "62119"
   },
   {
     "code": "3522152018",
     "district_code": "352215",
-    "name": "Semanding"
+    "name": "Semanding",
+    "postal_code": "62119"
   }
 ]

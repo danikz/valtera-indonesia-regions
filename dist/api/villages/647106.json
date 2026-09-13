@@ -2,26 +2,31 @@
   {
     "code": "6471061001",
     "district_code": "647106",
-    "name": "Prapatan"
+    "name": "Prapatan",
+    "postal_code": "76111"
   },
   {
     "code": "6471061002",
     "district_code": "647106",
-    "name": "Telaga Sari"
+    "name": "Telaga Sari",
+    "postal_code": "76111"
   },
   {
     "code": "6471061003",
     "district_code": "647106",
-    "name": "Klandasan Ulu"
+    "name": "Klandasan Ulu",
+    "postal_code": "76112"
   },
   {
     "code": "6471061004",
     "district_code": "647106",
-    "name": "Klandasan Ilir"
+    "name": "Klandasan Ilir",
+    "postal_code": "76113"
   },
   {
     "code": "6471061005",
     "district_code": "647106",
-    "name": "Damai"
+    "name": "Damai",
+    "postal_code": "76114"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "1304022001",
     "district_code": "130402",
-    "name": "Andaleh"
+    "name": "Andaleh",
+    "postal_code": "27265"
   },
   {
     "code": "1304022002",
     "district_code": "130402",
-    "name": "Sabu"
+    "name": "Sabu",
+    "postal_code": "27265"
   },
   {
     "code": "1304022003",
     "district_code": "130402",
-    "name": "Batipuah Ateh"
+    "name": "Batipuah Ateh",
+    "postal_code": "27265"
   },
   {
     "code": "1304022004",
     "district_code": "130402",
-    "name": "Batipuah Baruh"
+    "name": "Batipuah Baruh",
+    "postal_code": "27265"
   },
   {
     "code": "1304022005",
     "district_code": "130402",
-    "name": "Gunuang Rajo"
+    "name": "Gunuang Rajo",
+    "postal_code": "27265"
   },
   {
     "code": "1304022006",
     "district_code": "130402",
-    "name": "Pitalah"
+    "name": "Pitalah",
+    "postal_code": "27265"
   },
   {
     "code": "1304022007",
     "district_code": "130402",
-    "name": "Tanjuang Barulak"
+    "name": "Tanjuang Barulak",
+    "postal_code": "27265"
   },
   {
     "code": "1304022008",
     "district_code": "130402",
-    "name": "Bungo Tanjuang"
+    "name": "Bungo Tanjuang",
+    "postal_code": "27265"
   }
 ]

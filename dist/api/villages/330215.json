@@ -2,51 +2,61 @@
   {
     "code": "3302152001",
     "district_code": "330215",
-    "name": "Karangkemojing"
+    "name": "Karangkemojing",
+    "postal_code": "53165"
   },
   {
     "code": "3302152002",
     "district_code": "330215",
-    "name": "Paningkaban"
+    "name": "Paningkaban",
+    "postal_code": "53165"
   },
   {
     "code": "3302152003",
     "district_code": "330215",
-    "name": "Cihonje"
+    "name": "Cihonje",
+    "postal_code": "53165"
   },
   {
     "code": "3302152004",
     "district_code": "330215",
-    "name": "Gancang"
+    "name": "Gancang",
+    "postal_code": "53165"
   },
   {
     "code": "3302152005",
     "district_code": "330215",
-    "name": "Kedungurang"
+    "name": "Kedungurang",
+    "postal_code": "53165"
   },
   {
     "code": "3302152006",
     "district_code": "330215",
-    "name": "Gumelar"
+    "name": "Gumelar",
+    "postal_code": "53165"
   },
   {
     "code": "3302152007",
     "district_code": "330215",
-    "name": "Cilangkap"
+    "name": "Cilangkap",
+    "postal_code": "53165"
   },
   {
     "code": "3302152008",
     "district_code": "330215",
-    "name": "Tlaga"
+    "name": "Tlaga",
+    "postal_code": "53165"
   },
   {
     "code": "3302152009",
     "district_code": "330215",
-    "name": "Samudra"
+    "name": "Samudra",
+    "postal_code": "53165"
   },
   {
     "code": "3302152010",
     "district_code": "330215",
-    "name": "Samudra Kulon"
+    "name": "Samudra Kulon",
+    "postal_code": "53165"
   }
 ]

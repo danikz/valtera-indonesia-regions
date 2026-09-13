@@ -2,21 +2,25 @@
   {
     "code": "7326141002",
     "district_code": "732614",
-    "name": "Baruppu Selatan"
+    "name": "Baruppu Selatan",
+    "postal_code": "91846"
   },
   {
     "code": "7326142001",
     "district_code": "732614",
-    "name": "Baruppu Utara"
+    "name": "Baruppu Utara",
+    "postal_code": "91846"
   },
   {
     "code": "7326142003",
     "district_code": "732614",
-    "name": "Baruppu Benteng Batu"
+    "name": "Baruppu Benteng Batu",
+    "postal_code": "91846"
   },
   {
     "code": "7326142004",
     "district_code": "732614",
-    "name": "Baruppu Parodo"
+    "name": "Baruppu Parodo",
+    "postal_code": "91846"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "2171051001",
     "district_code": "217105",
-    "name": "Bulang Lintang"
+    "name": "Bulang Lintang",
+    "postal_code": "29471"
   },
   {
     "code": "2171051002",
     "district_code": "217105",
-    "name": "Pulau Buluh"
+    "name": "Pulau Buluh",
+    "postal_code": "29472"
   },
   {
     "code": "2171051003",
     "district_code": "217105",
-    "name": "Temoyong"
+    "name": "Temoyong",
+    "postal_code": "29475"
   },
   {
     "code": "2171051004",
     "district_code": "217105",
-    "name": "Batu Legong"
+    "name": "Batu Legong",
+    "postal_code": "29474"
   },
   {
     "code": "2171051005",
     "district_code": "217105",
-    "name": "Pantai Gelam"
+    "name": "Pantai Gelam",
+    "postal_code": "29473"
   },
   {
     "code": "2171051006",
     "district_code": "217105",
-    "name": "Pulau Setokok"
+    "name": "Pulau Setokok",
+    "postal_code": "29476"
   }
 ]

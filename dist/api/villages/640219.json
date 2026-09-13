@@ -2,51 +2,61 @@
   {
     "code": "6402192001",
     "district_code": "640219",
-    "name": "Kedang Ipil"
+    "name": "Kedang Ipil",
+    "postal_code": "75561"
   },
   {
     "code": "6402192002",
     "district_code": "640219",
-    "name": "Sedulang"
+    "name": "Sedulang",
+    "postal_code": "75561"
   },
   {
     "code": "6402192003",
     "district_code": "640219",
-    "name": "Benua Baru"
+    "name": "Benua Baru",
+    "postal_code": "75561"
   },
   {
     "code": "6402192004",
     "district_code": "640219",
-    "name": "Kota Bangun I"
+    "name": "Kota Bangun I",
+    "postal_code": "75561"
   },
   {
     "code": "6402192005",
     "district_code": "640219",
-    "name": "Kota Bangun II"
+    "name": "Kota Bangun II",
+    "postal_code": "75561"
   },
   {
     "code": "6402192006",
     "district_code": "640219",
-    "name": "Kota Bangun III"
+    "name": "Kota Bangun III",
+    "postal_code": "75561"
   },
   {
     "code": "6402192007",
     "district_code": "640219",
-    "name": "Sumber Sari"
+    "name": "Sumber Sari",
+    "postal_code": "75561"
   },
   {
     "code": "6402192008",
     "district_code": "640219",
-    "name": "Sari Nadi"
+    "name": "Sari Nadi",
+    "postal_code": "75561"
   },
   {
     "code": "6402192009",
     "district_code": "640219",
-    "name": "Suka Bumi"
+    "name": "Suka Bumi",
+    "postal_code": "75561"
   },
   {
     "code": "6402192010",
     "district_code": "640219",
-    "name": "Wonosari"
+    "name": "Wonosari",
+    "postal_code": "75561"
   }
 ]

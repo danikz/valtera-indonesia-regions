@@ -2,51 +2,61 @@
   {
     "code": "1301022001",
     "district_code": "130102",
-    "name": "Pelangai"
+    "name": "Pelangai",
+    "postal_code": "25666"
   },
   {
     "code": "1301022002",
     "district_code": "130102",
-    "name": "Sungai Tunu"
+    "name": "Sungai Tunu",
+    "postal_code": "25666"
   },
   {
     "code": "1301022003",
     "district_code": "130102",
-    "name": "Sungai Tunu Utara"
+    "name": "Sungai Tunu Utara",
+    "postal_code": "25666"
   },
   {
     "code": "1301022004",
     "district_code": "130102",
-    "name": "Sungai Tunu Barat"
+    "name": "Sungai Tunu Barat",
+    "postal_code": "25666"
   },
   {
     "code": "1301022005",
     "district_code": "130102",
-    "name": "Nyiur Melambai Pelangai"
+    "name": "Nyiur Melambai Pelangai",
+    "postal_code": "25666"
   },
   {
     "code": "1301022006",
     "district_code": "130102",
-    "name": "Sungai Liku Pelangai"
+    "name": "Sungai Liku Pelangai",
+    "postal_code": "25666"
   },
   {
     "code": "1301022007",
     "district_code": "130102",
-    "name": "Koto VIII Pelangai"
+    "name": "Koto VIII Pelangai",
+    "postal_code": "25666"
   },
   {
     "code": "1301022008",
     "district_code": "130102",
-    "name": "Pelangai Gadang"
+    "name": "Pelangai Gadang",
+    "postal_code": "25666"
   },
   {
     "code": "1301022009",
     "district_code": "130102",
-    "name": "Pelangai Kaciak"
+    "name": "Pelangai Kaciak",
+    "postal_code": "25666"
   },
   {
     "code": "1301022010",
     "district_code": "130102",
-    "name": "Pasia Pelangai"
+    "name": "Pasia Pelangai",
+    "postal_code": "25666"
   }
 ]

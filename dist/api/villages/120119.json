@@ -2,31 +2,37 @@
   {
     "code": "1201191001",
     "district_code": "120119",
-    "name": "Lumut"
+    "name": "Lumut",
+    "postal_code": "22652"
   },
   {
     "code": "1201192002",
     "district_code": "120119",
-    "name": "Aek Gambir"
+    "name": "Aek Gambir",
+    "postal_code": "22652"
   },
   {
     "code": "1201192003",
     "district_code": "120119",
-    "name": "Masundung"
+    "name": "Masundung",
+    "postal_code": "22652"
   },
   {
     "code": "1201192005",
     "district_code": "120119",
-    "name": "Lumut Nauli"
+    "name": "Lumut Nauli",
+    "postal_code": "22652"
   },
   {
     "code": "1201192006",
     "district_code": "120119",
-    "name": "Lumut Maju"
+    "name": "Lumut Maju",
+    "postal_code": "22652"
   },
   {
     "code": "1201192007",
     "district_code": "120119",
-    "name": "Sialogo"
+    "name": "Sialogo",
+    "postal_code": "22652"
   }
 ]

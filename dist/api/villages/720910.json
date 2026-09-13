@@ -2,51 +2,61 @@
   {
     "code": "7209101001",
     "district_code": "720910",
-    "name": "Uentanaga Bawah"
+    "name": "Uentanaga Bawah",
+    "postal_code": "94685"
   },
   {
     "code": "7209101002",
     "district_code": "720910",
-    "name": "Uentanaga Atas"
+    "name": "Uentanaga Atas",
+    "postal_code": "94685"
   },
   {
     "code": "7209101003",
     "district_code": "720910",
-    "name": "Dondo"
+    "name": "Dondo",
+    "postal_code": "94685"
   },
   {
     "code": "7209101007",
     "district_code": "720910",
-    "name": "Uamalingku"
+    "name": "Uamalingku",
+    "postal_code": "94683"
   },
   {
     "code": "7209101008",
     "district_code": "720910",
-    "name": "Dondo Barat"
+    "name": "Dondo Barat",
+    "postal_code": "94683"
   },
   {
     "code": "7209101009",
     "district_code": "720910",
-    "name": "Muara Toba"
+    "name": "Muara Toba",
+    "postal_code": "94683"
   },
   {
     "code": "7209102004",
     "district_code": "720910",
-    "name": "Sumoli"
+    "name": "Sumoli",
+    "postal_code": "94685"
   },
   {
     "code": "7209102005",
     "district_code": "720910",
-    "name": "Sabulira Toba"
+    "name": "Sabulira Toba",
+    "postal_code": "94685"
   },
   {
     "code": "7209102006",
     "district_code": "720910",
-    "name": "Labuan"
+    "name": "Labuan",
+    "postal_code": "94685"
   },
   {
     "code": "7209102010",
     "district_code": "720910",
-    "name": "Patingko"
+    "name": "Patingko",
+    "postal_code": "94683"
   }
 ]

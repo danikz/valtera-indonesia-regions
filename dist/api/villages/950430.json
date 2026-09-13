@@ -2,56 +2,67 @@
   {
     "code": "9504302001",
     "district_code": "950430",
-    "name": "Dow/Bijere"
+    "name": "Dow/Bijere",
+    "postal_code": "99051"
   },
   {
     "code": "9504302002",
     "district_code": "950430",
-    "name": "Takri"
+    "name": "Takri",
+    "postal_code": "99443"
   },
   {
     "code": "9504302003",
     "district_code": "950430",
-    "name": "Prawa"
+    "name": "Prawa",
+    "postal_code": "99443"
   },
   {
     "code": "9504302004",
     "district_code": "950430",
-    "name": "Sigou"
+    "name": "Sigou",
+    "postal_code": "99051"
   },
   {
     "code": "9504302005",
     "district_code": "950430",
-    "name": "Dagari"
+    "name": "Dagari",
+    "postal_code": "99051"
   },
   {
     "code": "9504302006",
     "district_code": "950430",
-    "name": "Warka"
+    "name": "Warka",
+    "postal_code": "99051"
   },
   {
     "code": "9504302007",
     "district_code": "950430",
-    "name": "Pakare"
+    "name": "Pakare",
+    "postal_code": "99051"
   },
   {
     "code": "9504302008",
     "district_code": "950430",
-    "name": "Tigu"
+    "name": "Tigu",
+    "postal_code": "99051"
   },
   {
     "code": "9504302009",
     "district_code": "950430",
-    "name": "Bire"
+    "name": "Bire",
+    "postal_code": "99443"
   },
   {
     "code": "9504302010",
     "district_code": "950430",
-    "name": "Itoli"
+    "name": "Itoli",
+    "postal_code": "99051"
   },
   {
     "code": "9504302011",
     "district_code": "950430",
-    "name": "Vokuyo"
+    "name": "Vokuyo",
+    "postal_code": "99051"
   }
 ]

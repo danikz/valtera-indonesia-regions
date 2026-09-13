@@ -2,16 +2,19 @@
   {
     "code": "3402072001",
     "district_code": "340207",
-    "name": "Triwidadi"
+    "name": "Triwidadi",
+    "postal_code": "55751"
   },
   {
     "code": "3402072002",
     "district_code": "340207",
-    "name": "Sendangsari"
+    "name": "Sendangsari",
+    "postal_code": "55751"
   },
   {
     "code": "3402072003",
     "district_code": "340207",
-    "name": "Guwosari"
+    "name": "Guwosari",
+    "postal_code": "55751"
   }
 ]

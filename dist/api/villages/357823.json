@@ -2,21 +2,25 @@
   {
     "code": "3578231001",
     "district_code": "357823",
-    "name": "Jambangan"
+    "name": "Jambangan",
+    "postal_code": "60232"
   },
   {
     "code": "3578231002",
     "district_code": "357823",
-    "name": "Karah"
+    "name": "Karah",
+    "postal_code": "60232"
   },
   {
     "code": "3578231003",
     "district_code": "357823",
-    "name": "Kebonsari"
+    "name": "Kebonsari",
+    "postal_code": "60233"
   },
   {
     "code": "3578231004",
     "district_code": "357823",
-    "name": "Pagesangan"
+    "name": "Pagesangan",
+    "postal_code": "60233"
   }
 ]

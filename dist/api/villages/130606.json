@@ -2,36 +2,43 @@
   {
     "code": "1306062001",
     "district_code": "130606",
-    "name": "Padang Lua"
+    "name": "Padang Lua",
+    "postal_code": "26181"
   },
   {
     "code": "1306062002",
     "district_code": "130606",
-    "name": "Taluak Ampek Suku"
+    "name": "Taluak Ampek Suku",
+    "postal_code": "26181"
   },
   {
     "code": "1306062003",
     "district_code": "130606",
-    "name": "Pakan Sinayan"
+    "name": "Pakan Sinayan",
+    "postal_code": "26181"
   },
   {
     "code": "1306062004",
     "district_code": "130606",
-    "name": "Kubang Putiah"
+    "name": "Kubang Putiah",
+    "postal_code": "26181"
   },
   {
     "code": "1306062005",
     "district_code": "130606",
-    "name": "Ladang Laweh"
+    "name": "Ladang Laweh",
+    "postal_code": "26181"
   },
   {
     "code": "1306062006",
     "district_code": "130606",
-    "name": "Cingkariang"
+    "name": "Cingkariang",
+    "postal_code": "26181"
   },
   {
     "code": "1306062007",
     "district_code": "130606",
-    "name": "Sungai Tanang"
+    "name": "Sungai Tanang",
+    "postal_code": "26181"
   }
 ]

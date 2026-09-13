@@ -2,31 +2,37 @@
   {
     "code": "7174041001",
     "district_code": "717404",
-    "name": "Mongkonai"
+    "name": "Mongkonai",
+    "postal_code": "95716"
   },
   {
     "code": "7174041002",
     "district_code": "717404",
-    "name": "Molinow"
+    "name": "Molinow",
+    "postal_code": "95716"
   },
   {
     "code": "7174041003",
     "district_code": "717404",
-    "name": "Mogolaing"
+    "name": "Mogolaing",
+    "postal_code": "95716"
   },
   {
     "code": "7174041004",
     "district_code": "717404",
-    "name": "Gogagoman"
+    "name": "Gogagoman",
+    "postal_code": "95715"
   },
   {
     "code": "7174041005",
     "district_code": "717404",
-    "name": "Kotamobagu"
+    "name": "Kotamobagu",
+    "postal_code": "95711"
   },
   {
     "code": "7174041006",
     "district_code": "717404",
-    "name": "Mongkonai Barat"
+    "name": "Mongkonai Barat",
+    "postal_code": "95716"
   }
 ]

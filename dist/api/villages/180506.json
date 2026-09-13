@@ -2,51 +2,61 @@
   {
     "code": "1805062001",
     "district_code": "180506",
-    "name": "Aji Jaya KNPI"
+    "name": "Aji Jaya KNPI",
+    "postal_code": "34681"
   },
   {
     "code": "1805062002",
     "district_code": "180506",
-    "name": "Kecubung Jaya"
+    "name": "Kecubung Jaya",
+    "postal_code": "34681"
   },
   {
     "code": "1805062008",
     "district_code": "180506",
-    "name": "Kecubung Mulya"
+    "name": "Kecubung Mulya",
+    "postal_code": "34681"
   },
   {
     "code": "1805062015",
     "district_code": "180506",
-    "name": "Gedung Aji"
+    "name": "Gedung Aji",
+    "postal_code": "34681"
   },
   {
     "code": "1805062016",
     "district_code": "180506",
-    "name": "Penawar"
+    "name": "Penawar",
+    "postal_code": "34681"
   },
   {
     "code": "1805062022",
     "district_code": "180506",
-    "name": "Penawar Baru"
+    "name": "Penawar Baru",
+    "postal_code": "34681"
   },
   {
     "code": "1805062023",
     "district_code": "180506",
-    "name": "Aji Murni Jaya"
+    "name": "Aji Murni Jaya",
+    "postal_code": "34681"
   },
   {
     "code": "1805062024",
     "district_code": "180506",
-    "name": "Aji Mesir"
+    "name": "Aji Mesir",
+    "postal_code": "34681"
   },
   {
     "code": "1805062025",
     "district_code": "180506",
-    "name": "Aji Permai Talang Buah"
+    "name": "Aji Permai Talang Buah",
+    "postal_code": "34681"
   },
   {
     "code": "1805062026",
     "district_code": "180506",
-    "name": "Bandar Aji Jaya"
+    "name": "Bandar Aji Jaya",
+    "postal_code": "34681"
   }
 ]

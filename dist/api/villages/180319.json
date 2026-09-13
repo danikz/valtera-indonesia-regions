@@ -2,46 +2,55 @@
   {
     "code": "1803192001",
     "district_code": "180319",
-    "name": "Nyapah Banyu"
+    "name": "Nyapah Banyu",
+    "postal_code": "34582"
   },
   {
     "code": "1803192002",
     "district_code": "180319",
-    "name": "Sinar Gunung"
+    "name": "Sinar Gunung",
+    "postal_code": "34582"
   },
   {
     "code": "1803192003",
     "district_code": "180319",
-    "name": "Campang Gijul"
+    "name": "Campang Gijul",
+    "postal_code": "34582"
   },
   {
     "code": "1803192004",
     "district_code": "180319",
-    "name": "Sumber Tani"
+    "name": "Sumber Tani",
+    "postal_code": "34582"
   },
   {
     "code": "1803192005",
     "district_code": "180319",
-    "name": "Pekurun"
+    "name": "Pekurun",
+    "postal_code": "34582"
   },
   {
     "code": "1803192006",
     "district_code": "180319",
-    "name": "Ogan Campang"
+    "name": "Ogan Campang",
+    "postal_code": "34582"
   },
   {
     "code": "1803192007",
     "district_code": "180319",
-    "name": "Pekurun Tengah"
+    "name": "Pekurun Tengah",
+    "postal_code": "34582"
   },
   {
     "code": "1803192008",
     "district_code": "180319",
-    "name": "Pekurun Udik"
+    "name": "Pekurun Udik",
+    "postal_code": "34582"
   },
   {
     "code": "1803192009",
     "district_code": "180319",
-    "name": "Ogan Jaya"
+    "name": "Ogan Jaya",
+    "postal_code": "34582"
   }
 ]

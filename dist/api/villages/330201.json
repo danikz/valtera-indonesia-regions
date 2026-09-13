@@ -2,51 +2,61 @@
   {
     "code": "3302012001",
     "district_code": "330201",
-    "name": "Cirahab"
+    "name": "Cirahab",
+    "postal_code": "53177"
   },
   {
     "code": "3302012002",
     "district_code": "330201",
-    "name": "Canduk"
+    "name": "Canduk",
+    "postal_code": "53177"
   },
   {
     "code": "3302012003",
     "district_code": "330201",
-    "name": "Parungkamal"
+    "name": "Parungkamal",
+    "postal_code": "53177"
   },
   {
     "code": "3302012004",
     "district_code": "330201",
-    "name": "Besuki"
+    "name": "Besuki",
+    "postal_code": "53177"
   },
   {
     "code": "3302012005",
     "district_code": "330201",
-    "name": "Karanggayam"
+    "name": "Karanggayam",
+    "postal_code": "53177"
   },
   {
     "code": "3302012006",
     "district_code": "330201",
-    "name": "Cidora"
+    "name": "Cidora",
+    "postal_code": "53177"
   },
   {
     "code": "3302012007",
     "district_code": "330201",
-    "name": "Lumbir"
+    "name": "Lumbir",
+    "postal_code": "53177"
   },
   {
     "code": "3302012008",
     "district_code": "330201",
-    "name": "Dermaji"
+    "name": "Dermaji",
+    "postal_code": "53177"
   },
   {
     "code": "3302012009",
     "district_code": "330201",
-    "name": "Kedunggede"
+    "name": "Kedunggede",
+    "postal_code": "53177"
   },
   {
     "code": "3302012010",
     "district_code": "330201",
-    "name": "Cingebul"
+    "name": "Cingebul",
+    "postal_code": "53177"
   }
 ]

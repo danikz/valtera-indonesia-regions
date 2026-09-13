@@ -2,36 +2,43 @@
   {
     "code": "5314072001",
     "district_code": "531407",
-    "name": "Sedeoen"
+    "name": "Sedeoen",
+    "postal_code": "85982"
   },
   {
     "code": "5314072002",
     "district_code": "531407",
-    "name": "Nemberala"
+    "name": "Nemberala",
+    "postal_code": "85982"
   },
   {
     "code": "5314072003",
     "district_code": "531407",
-    "name": "Oenggaut"
+    "name": "Oenggaut",
+    "postal_code": "85982"
   },
   {
     "code": "5314072004",
     "district_code": "531407",
-    "name": "Boa"
+    "name": "Boa",
+    "postal_code": "85982"
   },
   {
     "code": "5314072005",
     "district_code": "531407",
-    "name": "Oenitas"
+    "name": "Oenitas",
+    "postal_code": "85981"
   },
   {
     "code": "5314072006",
     "district_code": "531407",
-    "name": "Oelolok"
+    "name": "Oelolok",
+    "postal_code": "85981"
   },
   {
     "code": "5314072007",
     "district_code": "531407",
-    "name": "Mbueain"
+    "name": "Mbueain",
+    "postal_code": "85981"
   }
 ]

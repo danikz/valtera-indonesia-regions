@@ -2,56 +2,67 @@
   {
     "code": "3503102001",
     "district_code": "350310",
-    "name": "Ngrayung"
+    "name": "Ngrayung",
+    "postal_code": "66372"
   },
   {
     "code": "3503102002",
     "district_code": "350310",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "66372"
   },
   {
     "code": "3503102003",
     "district_code": "350310",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "66372"
   },
   {
     "code": "3503102004",
     "district_code": "350310",
-    "name": "Wonoanti"
+    "name": "Wonoanti",
+    "postal_code": "66372"
   },
   {
     "code": "3503102005",
     "district_code": "350310",
-    "name": "Jajar"
+    "name": "Jajar",
+    "postal_code": "66372"
   },
   {
     "code": "3503102006",
     "district_code": "350310",
-    "name": "Gandusari"
+    "name": "Gandusari",
+    "postal_code": "66372"
   },
   {
     "code": "3503102007",
     "district_code": "350310",
-    "name": "Widoro"
+    "name": "Widoro",
+    "postal_code": "66372"
   },
   {
     "code": "3503102008",
     "district_code": "350310",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "66372"
   },
   {
     "code": "3503102009",
     "district_code": "350310",
-    "name": "Melis"
+    "name": "Melis",
+    "postal_code": "66372"
   },
   {
     "code": "3503102010",
     "district_code": "350310",
-    "name": "Krandegan"
+    "name": "Krandegan",
+    "postal_code": "66372"
   },
   {
     "code": "3503102011",
     "district_code": "350310",
-    "name": "Sukorame"
+    "name": "Sukorame",
+    "postal_code": "66372"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "5321062001",
     "district_code": "532106",
-    "name": "Biau"
+    "name": "Biau",
+    "postal_code": "85768"
   },
   {
     "code": "5321062002",
     "district_code": "532106",
-    "name": "Kufeu"
+    "name": "Kufeu",
+    "postal_code": "85768"
   },
   {
     "code": "5321062003",
     "district_code": "532106",
-    "name": "Tunmat"
+    "name": "Tunmat",
+    "postal_code": "85768"
   },
   {
     "code": "5321062004",
     "district_code": "532106",
-    "name": "Tunabesi"
+    "name": "Tunabesi",
+    "postal_code": "85768"
   },
   {
     "code": "5321062005",
     "district_code": "532106",
-    "name": "Bani-Bani"
+    "name": "Bani-Bani",
+    "postal_code": "85768"
   },
   {
     "code": "5321062006",
     "district_code": "532106",
-    "name": "Fatoin"
+    "name": "Fatoin",
+    "postal_code": "85768"
   },
   {
     "code": "5321062007",
     "district_code": "532106",
-    "name": "Ikan Tuanbeis"
+    "name": "Ikan Tuanbeis",
+    "postal_code": "85768"
   }
 ]

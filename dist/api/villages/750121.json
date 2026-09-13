@@ -2,51 +2,61 @@
   {
     "code": "7501212001",
     "district_code": "750121",
-    "name": "Bululi"
+    "name": "Bululi",
+    "postal_code": "96221"
   },
   {
     "code": "7501212002",
     "district_code": "750121",
-    "name": "Mohiyolo"
+    "name": "Mohiyolo",
+    "postal_code": "96221"
   },
   {
     "code": "7501212003",
     "district_code": "750121",
-    "name": "Pangahu"
+    "name": "Pangahu",
+    "postal_code": "96221"
   },
   {
     "code": "7501212004",
     "district_code": "750121",
-    "name": "Karya Indah"
+    "name": "Karya Indah",
+    "postal_code": "96221"
   },
   {
     "code": "7501212005",
     "district_code": "750121",
-    "name": "Prima"
+    "name": "Prima",
+    "postal_code": "96221"
   },
   {
     "code": "7501212006",
     "district_code": "750121",
-    "name": "Tiohu"
+    "name": "Tiohu",
+    "postal_code": "96221"
   },
   {
     "code": "7501212007",
     "district_code": "750121",
-    "name": "Olimohulo"
+    "name": "Olimohulo",
+    "postal_code": "96221"
   },
   {
     "code": "7501212008",
     "district_code": "750121",
-    "name": "Karya Baru"
+    "name": "Karya Baru",
+    "postal_code": "96221"
   },
   {
     "code": "7501212009",
     "district_code": "750121",
-    "name": "Bontula"
+    "name": "Bontula",
+    "postal_code": "96221"
   },
   {
     "code": "7501212010",
     "district_code": "750121",
-    "name": "Bihe"
+    "name": "Bihe",
+    "postal_code": "96221"
   }
 ]

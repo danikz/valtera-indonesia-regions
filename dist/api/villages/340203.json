@@ -2,26 +2,31 @@
   {
     "code": "3402032001",
     "district_code": "340203",
-    "name": "Tirtomulyo"
+    "name": "Tirtomulyo",
+    "postal_code": "55772"
   },
   {
     "code": "3402032002",
     "district_code": "340203",
-    "name": "Parangtritis"
+    "name": "Parangtritis",
+    "postal_code": "55772"
   },
   {
     "code": "3402032003",
     "district_code": "340203",
-    "name": "Donotirto"
+    "name": "Donotirto",
+    "postal_code": "55772"
   },
   {
     "code": "3402032004",
     "district_code": "340203",
-    "name": "Tirtosari"
+    "name": "Tirtosari",
+    "postal_code": "55772"
   },
   {
     "code": "3402032005",
     "district_code": "340203",
-    "name": "Tirtohargo"
+    "name": "Tirtohargo",
+    "postal_code": "55772"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "9504232001",
     "district_code": "950423",
-    "name": "Dundu"
+    "name": "Dundu",
+    "postal_code": "99052"
   },
   {
     "code": "9504232002",
     "district_code": "950423",
-    "name": "Nugini"
+    "name": "Nugini",
+    "postal_code": "99052"
   },
   {
     "code": "9504232003",
     "district_code": "950423",
-    "name": "Kembu"
+    "name": "Kembu",
+    "postal_code": "99052"
   },
   {
     "code": "9504232004",
     "district_code": "950423",
-    "name": "Kurupu"
+    "name": "Kurupu",
+    "postal_code": "99435"
   },
   {
     "code": "9504232005",
     "district_code": "950423",
-    "name": "Yiku"
+    "name": "Yiku",
+    "postal_code": "99052"
   },
   {
     "code": "9504232006",
     "district_code": "950423",
-    "name": "Bimo"
+    "name": "Bimo",
+    "postal_code": "99435"
   },
   {
     "code": "9504232007",
     "district_code": "950423",
-    "name": "Dugunagep"
+    "name": "Dugunagep",
+    "postal_code": "99435"
   },
   {
     "code": "9504232008",
     "district_code": "950423",
-    "name": "Nilogabu"
+    "name": "Nilogabu",
+    "postal_code": "99052"
   },
   {
     "code": "9504232009",
     "district_code": "950423",
-    "name": "Nakwi"
+    "name": "Nakwi",
+    "postal_code": "99052"
   },
   {
     "code": "9504232010",
     "district_code": "950423",
-    "name": "Nini"
+    "name": "Nini",
+    "postal_code": "99052"
   }
 ]

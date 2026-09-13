@@ -2,76 +2,91 @@
   {
     "code": "5205011001",
     "district_code": "520501",
-    "name": "Bada"
+    "name": "Bada",
+    "postal_code": "84211"
   },
   {
     "code": "5205011002",
     "district_code": "520501",
-    "name": "Bali"
+    "name": "Bali",
+    "postal_code": "84213"
   },
   {
     "code": "5205011003",
     "district_code": "520501",
-    "name": "Potu"
+    "name": "Potu",
+    "postal_code": "84214"
   },
   {
     "code": "5205011004",
     "district_code": "520501",
-    "name": "Karijawa"
+    "name": "Karijawa",
+    "postal_code": "84217"
   },
   {
     "code": "5205011005",
     "district_code": "520501",
-    "name": "Dora Tangga"
+    "name": "Dora Tangga",
+    "postal_code": "84219"
   },
   {
     "code": "5205011006",
     "district_code": "520501",
-    "name": "Kandai I"
+    "name": "Kandai I",
+    "postal_code": "84219"
   },
   {
     "code": "5205012007",
     "district_code": "520501",
-    "name": "O'o"
+    "name": "O'o",
+    "postal_code": "84219"
   },
   {
     "code": "5205012008",
     "district_code": "520501",
-    "name": "Katua"
+    "name": "Katua",
+    "postal_code": "84219"
   },
   {
     "code": "5205012009",
     "district_code": "520501",
-    "name": "Karamabura"
+    "name": "Karamabura",
+    "postal_code": "84219"
   },
   {
     "code": "5205012010",
     "district_code": "520501",
-    "name": "Mbawi"
+    "name": "Mbawi",
+    "postal_code": "84219"
   },
   {
     "code": "5205012011",
     "district_code": "520501",
-    "name": "Dore Bara"
+    "name": "Dore Bara",
+    "postal_code": "84212"
   },
   {
     "code": "5205012012",
     "district_code": "520501",
-    "name": "Kareke"
+    "name": "Kareke",
+    "postal_code": "84219"
   },
   {
     "code": "5205012013",
     "district_code": "520501",
-    "name": "Mangge Nae"
+    "name": "Mangge Nae",
+    "postal_code": "84219"
   },
   {
     "code": "5205012014",
     "district_code": "520501",
-    "name": "Manggeasi"
+    "name": "Manggeasi",
+    "postal_code": "84219"
   },
   {
     "code": "5205012015",
     "district_code": "520501",
-    "name": "Sori Sakolo"
+    "name": "Sori Sakolo",
+    "postal_code": "84213"
   }
 ]

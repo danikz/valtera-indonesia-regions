@@ -2,36 +2,43 @@
   {
     "code": "9201412002",
     "district_code": "920141",
-    "name": "Siwis"
+    "name": "Siwis",
+    "postal_code": ""
   },
   {
     "code": "9201412003",
     "district_code": "920141",
-    "name": "Miskum"
+    "name": "Miskum",
+    "postal_code": ""
   },
   {
     "code": "9201412004",
     "district_code": "920141",
-    "name": "Klamugun"
+    "name": "Klamugun",
+    "postal_code": ""
   },
   {
     "code": "9201412006",
     "district_code": "920141",
-    "name": "Sbaga"
+    "name": "Sbaga",
+    "postal_code": ""
   },
   {
     "code": "9201412007",
     "district_code": "920141",
-    "name": "Klalik"
+    "name": "Klalik",
+    "postal_code": ""
   },
   {
     "code": "9201412008",
     "district_code": "920141",
-    "name": "Malawhili"
+    "name": "Malawhili",
+    "postal_code": ""
   },
   {
     "code": "9201412013",
     "district_code": "920141",
-    "name": "Klasou"
+    "name": "Klasou",
+    "postal_code": ""
   }
 ]

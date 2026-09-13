@@ -2,51 +2,61 @@
   {
     "code": "5317062001",
     "district_code": "531706",
-    "name": "Bolu Bokat"
+    "name": "Bolu Bokat",
+    "postal_code": "87283"
   },
   {
     "code": "5317062002",
     "district_code": "531706",
-    "name": "Mara Desa"
+    "name": "Mara Desa",
+    "postal_code": "87283"
   },
   {
     "code": "5317062003",
     "district_code": "531706",
-    "name": "Weluk Praimemang"
+    "name": "Weluk Praimemang",
+    "postal_code": "87283"
   },
   {
     "code": "5317062004",
     "district_code": "531706",
-    "name": "Bolu Bokat Utara"
+    "name": "Bolu Bokat Utara",
+    "postal_code": "87283"
   },
   {
     "code": "5317062005",
     "district_code": "531706",
-    "name": "Maradesa Timur"
+    "name": "Maradesa Timur",
+    "postal_code": "87283"
   },
   {
     "code": "5317062006",
     "district_code": "531706",
-    "name": "Maradesa Selatan"
+    "name": "Maradesa Selatan",
+    "postal_code": "87283"
   },
   {
     "code": "5317062007",
     "district_code": "531706",
-    "name": "Bolu Bokat Barat"
+    "name": "Bolu Bokat Barat",
+    "postal_code": "87283"
   },
   {
     "code": "5317062008",
     "district_code": "531706",
-    "name": "Wangga Waiyengu"
+    "name": "Wangga Waiyengu",
+    "postal_code": "87281"
   },
   {
     "code": "5317062009",
     "district_code": "531706",
-    "name": "Sambali Loku"
+    "name": "Sambali Loku",
+    "postal_code": "87281"
   },
   {
     "code": "5317062010",
     "district_code": "531706",
-    "name": "Holur Kambata"
+    "name": "Holur Kambata",
+    "postal_code": "87281"
   }
 ]

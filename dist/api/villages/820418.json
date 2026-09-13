@@ -2,41 +2,49 @@
   {
     "code": "8204182001",
     "district_code": "820418",
-    "name": "Sawangakar"
+    "name": "Sawangakar",
+    "postal_code": "97790"
   },
   {
     "code": "8204182002",
     "district_code": "820418",
-    "name": "Bajo"
+    "name": "Bajo",
+    "postal_code": "97790"
   },
   {
     "code": "8204182003",
     "district_code": "820418",
-    "name": "Tanjung Obit"
+    "name": "Tanjung Obit",
+    "postal_code": "97790"
   },
   {
     "code": "8204182004",
     "district_code": "820418",
-    "name": "Prapakanda"
+    "name": "Prapakanda",
+    "postal_code": "97790"
   },
   {
     "code": "8204182005",
     "district_code": "820418",
-    "name": "Toin"
+    "name": "Toin",
+    "postal_code": "97790"
   },
   {
     "code": "8204182006",
     "district_code": "820418",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "97790"
   },
   {
     "code": "8204182007",
     "district_code": "820418",
-    "name": "Batutaga"
+    "name": "Batutaga",
+    "postal_code": "97790"
   },
   {
     "code": "8204182008",
     "district_code": "820418",
-    "name": "Paisumbaos"
+    "name": "Paisumbaos",
+    "postal_code": "97790"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "5204092001",
     "district_code": "520409",
-    "name": "Moyo"
+    "name": "Moyo",
+    "postal_code": "84381"
   },
   {
     "code": "5204092002",
     "district_code": "520409",
-    "name": "Kakiang"
+    "name": "Kakiang",
+    "postal_code": "84381"
   },
   {
     "code": "5204092003",
     "district_code": "520409",
-    "name": "Ngeru"
+    "name": "Ngeru",
+    "postal_code": "84381"
   },
   {
     "code": "5204092004",
     "district_code": "520409",
-    "name": "Berare"
+    "name": "Berare",
+    "postal_code": "84381"
   },
   {
     "code": "5204092005",
     "district_code": "520409",
-    "name": "Poto"
+    "name": "Poto",
+    "postal_code": "84381"
   },
   {
     "code": "5204092009",
     "district_code": "520409",
-    "name": "Serading"
+    "name": "Serading",
+    "postal_code": "84381"
   },
   {
     "code": "5204092010",
     "district_code": "520409",
-    "name": "Olat Rawa"
+    "name": "Olat Rawa",
+    "postal_code": "84381"
   },
   {
     "code": "5204092011",
     "district_code": "520409",
-    "name": "Batu Bangka"
+    "name": "Batu Bangka",
+    "postal_code": "84381"
   },
   {
     "code": "5204092013",
     "district_code": "520409",
-    "name": "Moyo Mekar"
+    "name": "Moyo Mekar",
+    "postal_code": "84381"
   },
   {
     "code": "5204092014",
     "district_code": "520409",
-    "name": "Labuhan Ijuk"
+    "name": "Labuhan Ijuk",
+    "postal_code": "84381"
   }
 ]

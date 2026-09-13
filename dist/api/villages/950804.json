@@ -2,26 +2,31 @@
   {
     "code": "9508042001",
     "district_code": "950804",
-    "name": "Pilini"
+    "name": "Pilini",
+    "postal_code": "99544"
   },
   {
     "code": "9508042002",
     "district_code": "950804",
-    "name": "Ndugwa"
+    "name": "Ndugwa",
+    "postal_code": "99544"
   },
   {
     "code": "9508042003",
     "district_code": "950804",
-    "name": "Biala"
+    "name": "Biala",
+    "postal_code": "99929"
   },
   {
     "code": "9508042004",
     "district_code": "950804",
-    "name": "Bambisik"
+    "name": "Bambisik",
+    "postal_code": "99929"
   },
   {
     "code": "9508042005",
     "district_code": "950804",
-    "name": "Sitpogol"
+    "name": "Sitpogol",
+    "postal_code": "99544"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "9302202001",
     "district_code": "930220",
-    "name": "Wanggom"
+    "name": "Wanggom",
+    "postal_code": "99654"
   },
   {
     "code": "9302202002",
     "district_code": "930220",
-    "name": "Kawagit"
+    "name": "Kawagit",
+    "postal_code": "99654"
   },
   {
     "code": "9302202003",
     "district_code": "930220",
-    "name": "Kombai"
+    "name": "Kombai",
+    "postal_code": "99654"
   },
   {
     "code": "9302202004",
     "district_code": "930220",
-    "name": "Biwage"
+    "name": "Biwage",
+    "postal_code": "99654"
   },
   {
     "code": "9302202005",
     "district_code": "930220",
-    "name": "Biwage Dua"
+    "name": "Biwage Dua",
+    "postal_code": "99654"
   },
   {
     "code": "9302202006",
     "district_code": "930220",
-    "name": "Niop"
+    "name": "Niop",
+    "postal_code": "99654"
   }
 ]

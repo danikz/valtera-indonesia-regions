@@ -2,16 +2,19 @@
   {
     "code": "6501062001",
     "district_code": "650106",
-    "name": "Salimbatu"
+    "name": "Salimbatu",
+    "postal_code": "77216"
   },
   {
     "code": "6501062002",
     "district_code": "650106",
-    "name": "Silva Rahayu"
+    "name": "Silva Rahayu",
+    "postal_code": "77216"
   },
   {
     "code": "6501062003",
     "district_code": "650106",
-    "name": "Tanjung Buka"
+    "name": "Tanjung Buka",
+    "postal_code": "77216"
   }
 ]

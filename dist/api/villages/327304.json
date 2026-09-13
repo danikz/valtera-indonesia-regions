@@ -2,26 +2,31 @@
   {
     "code": "3273041001",
     "district_code": "327304",
-    "name": "Kopo"
+    "name": "Kopo",
+    "postal_code": "40233"
   },
   {
     "code": "3273041002",
     "district_code": "327304",
-    "name": "Babakan Tarogong"
+    "name": "Babakan Tarogong",
+    "postal_code": "40232"
   },
   {
     "code": "3273041003",
     "district_code": "327304",
-    "name": "Jamika"
+    "name": "Jamika",
+    "postal_code": "40231"
   },
   {
     "code": "3273041004",
     "district_code": "327304",
-    "name": "Babakan Asih"
+    "name": "Babakan Asih",
+    "postal_code": "40232"
   },
   {
     "code": "3273041005",
     "district_code": "327304",
-    "name": "Suka Asih"
+    "name": "Suka Asih",
+    "postal_code": "40231"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "3276091001",
     "district_code": "327609",
-    "name": "Cinere"
+    "name": "Cinere",
+    "postal_code": "16514"
   },
   {
     "code": "3276091002",
     "district_code": "327609",
-    "name": "Gandul"
+    "name": "Gandul",
+    "postal_code": "16512"
   },
   {
     "code": "3276091003",
     "district_code": "327609",
-    "name": "Pangkalan Jati"
+    "name": "Pangkalan Jati",
+    "postal_code": "16513"
   },
   {
     "code": "3276091004",
     "district_code": "327609",
-    "name": "Pangkalan Jati Baru"
+    "name": "Pangkalan Jati Baru",
+    "postal_code": "16513"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "9206172001",
     "district_code": "920617",
-    "name": "Masyeta"
+    "name": "Masyeta",
+    "postal_code": "98162"
   },
   {
     "code": "9206172002",
     "district_code": "920617",
-    "name": "Mestofu"
+    "name": "Mestofu",
+    "postal_code": "98162"
   },
   {
     "code": "9206172003",
     "district_code": "920617",
-    "name": "Kalibiru"
+    "name": "Kalibiru",
+    "postal_code": "98162"
   },
   {
     "code": "9206172004",
     "district_code": "920617",
-    "name": "Mesomda"
+    "name": "Mesomda",
+    "postal_code": "98162"
   }
 ]

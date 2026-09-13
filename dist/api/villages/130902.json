@@ -2,36 +2,43 @@
   {
     "code": "1309022001",
     "district_code": "130902",
-    "name": "Bosua"
+    "name": "Bosua",
+    "postal_code": "25392"
   },
   {
     "code": "1309022002",
     "district_code": "130902",
-    "name": "Beriulou"
+    "name": "Beriulou",
+    "postal_code": "25392"
   },
   {
     "code": "1309022003",
     "district_code": "130902",
-    "name": "Nemnemleleu"
+    "name": "Nemnemleleu",
+    "postal_code": "25392"
   },
   {
     "code": "1309022004",
     "district_code": "130902",
-    "name": "Mara"
+    "name": "Mara",
+    "postal_code": "25392"
   },
   {
     "code": "1309022006",
     "district_code": "130902",
-    "name": "Sioban"
+    "name": "Sioban",
+    "postal_code": "25392"
   },
   {
     "code": "1309022007",
     "district_code": "130902",
-    "name": "Matobe"
+    "name": "Matobe",
+    "postal_code": "25392"
   },
   {
     "code": "1309022008",
     "district_code": "130902",
-    "name": "Saureinu"
+    "name": "Saureinu",
+    "postal_code": "25392"
   }
 ]

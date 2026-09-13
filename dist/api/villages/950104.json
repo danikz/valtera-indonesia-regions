@@ -2,56 +2,67 @@
   {
     "code": "9501042001",
     "district_code": "950104",
-    "name": "Hubikosi"
+    "name": "Hubikosi",
+    "postal_code": "99552"
   },
   {
     "code": "9501042002",
     "district_code": "950104",
-    "name": "Kosimeage"
+    "name": "Kosimeage",
+    "postal_code": "99516"
   },
   {
     "code": "9501042003",
     "district_code": "950104",
-    "name": "Kosihilapok"
+    "name": "Kosihilapok",
+    "postal_code": "99516"
   },
   {
     "code": "9501042004",
     "district_code": "950104",
-    "name": "Meagama"
+    "name": "Meagama",
+    "postal_code": "99516"
   },
   {
     "code": "9501042005",
     "district_code": "950104",
-    "name": "Pipukmo"
+    "name": "Pipukmo",
+    "postal_code": "99516"
   },
   {
     "code": "9501042006",
     "district_code": "950104",
-    "name": "Isakusa"
+    "name": "Isakusa",
+    "postal_code": "99516"
   },
   {
     "code": "9501042007",
     "district_code": "950104",
-    "name": "Pelima"
+    "name": "Pelima",
+    "postal_code": "99552"
   },
   {
     "code": "9501042008",
     "district_code": "950104",
-    "name": "Kikhumo"
+    "name": "Kikhumo",
+    "postal_code": "99552"
   },
   {
     "code": "9501042009",
     "district_code": "950104",
-    "name": "Jibilabaga"
+    "name": "Jibilabaga",
+    "postal_code": "99516"
   },
   {
     "code": "9501042010",
     "district_code": "950104",
-    "name": "Ikilumo"
+    "name": "Ikilumo",
+    "postal_code": "99516"
   },
   {
     "code": "9501042011",
     "district_code": "950104",
-    "name": "Sunili"
+    "name": "Sunili",
+    "postal_code": "99516"
   }
 ]

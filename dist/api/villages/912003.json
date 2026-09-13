@@ -2,31 +2,37 @@
   {
     "code": "9120032001",
     "district_code": "912003",
-    "name": "Fona"
+    "name": "Fona",
+    "postal_code": "98695"
   },
   {
     "code": "9120032002",
     "district_code": "912003",
-    "name": "Tayai"
+    "name": "Tayai",
+    "postal_code": "98695"
   },
   {
     "code": "9120032003",
     "district_code": "912003",
-    "name": "Bareri"
+    "name": "Bareri",
+    "postal_code": "98695"
   },
   {
     "code": "9120032004",
     "district_code": "912003",
-    "name": "Sikari"
+    "name": "Sikari",
+    "postal_code": "98695"
   },
   {
     "code": "9120032005",
     "district_code": "912003",
-    "name": "Taria"
+    "name": "Taria",
+    "postal_code": ""
   },
   {
     "code": "9120032006",
     "district_code": "912003",
-    "name": "Kai"
+    "name": "Kai",
+    "postal_code": "98695"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "9304232001",
     "district_code": "930423",
-    "name": "Mabul"
+    "name": "Mabul",
+    "postal_code": "99791"
   },
   {
     "code": "9304232002",
     "district_code": "930423",
-    "name": "Banum"
+    "name": "Banum",
+    "postal_code": "99792"
   },
   {
     "code": "9304232003",
     "district_code": "930423",
-    "name": "Ayak"
+    "name": "Ayak",
+    "postal_code": "99792"
   },
   {
     "code": "9304232004",
     "district_code": "930423",
-    "name": "Amakot"
+    "name": "Amakot",
+    "postal_code": "99792"
   },
   {
     "code": "9304232005",
     "district_code": "930423",
-    "name": "Nagatun"
+    "name": "Nagatun",
+    "postal_code": "99792"
   },
   {
     "code": "9304232006",
     "district_code": "930423",
-    "name": "Ujung Batu"
+    "name": "Ujung Batu",
+    "postal_code": "99792"
   },
   {
     "code": "9304232007",
     "district_code": "930423",
-    "name": "Kapayap Tiga"
+    "name": "Kapayap Tiga",
+    "postal_code": "99792"
   },
   {
     "code": "9304232008",
     "district_code": "930423",
-    "name": "Sipenap"
+    "name": "Sipenap",
+    "postal_code": ""
   }
 ]

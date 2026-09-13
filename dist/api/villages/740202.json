@@ -2,61 +2,73 @@
   {
     "code": "7402021001",
     "district_code": "740202",
-    "name": "Puunaaha"
+    "name": "Puunaaha",
+    "postal_code": "93411"
   },
   {
     "code": "7402021002",
     "district_code": "740202",
-    "name": "Tumpas"
+    "name": "Tumpas",
+    "postal_code": "93411"
   },
   {
     "code": "7402021003",
     "district_code": "740202",
-    "name": "Latoma"
+    "name": "Latoma",
+    "postal_code": "93414"
   },
   {
     "code": "7402021004",
     "district_code": "740202",
-    "name": "Ambekairi"
+    "name": "Ambekairi",
+    "postal_code": "93413"
   },
   {
     "code": "7402021005",
     "district_code": "740202",
-    "name": "Arombu"
+    "name": "Arombu",
+    "postal_code": "93412"
   },
   {
     "code": "7402021006",
     "district_code": "740202",
-    "name": "Asinua"
+    "name": "Asinua",
+    "postal_code": "93416"
   },
   {
     "code": "7402021011",
     "district_code": "740202",
-    "name": "Wawonggole"
+    "name": "Wawonggole",
+    "postal_code": "93416"
   },
   {
     "code": "7402021012",
     "district_code": "740202",
-    "name": "Tuoy"
+    "name": "Tuoy",
+    "postal_code": "93415"
   },
   {
     "code": "7402021013",
     "district_code": "740202",
-    "name": "Unaaha"
+    "name": "Unaaha",
+    "postal_code": "93418"
   },
   {
     "code": "7402021015",
     "district_code": "740202",
-    "name": "Inolobunggadue"
+    "name": "Inolobunggadue",
+    "postal_code": "93416"
   },
   {
     "code": "7402021016",
     "district_code": "740202",
-    "name": "Asambu"
+    "name": "Asambu",
+    "postal_code": "93416"
   },
   {
     "code": "7402021017",
     "district_code": "740202",
-    "name": "Tobeu"
+    "name": "Tobeu",
+    "postal_code": "93416"
   }
 ]

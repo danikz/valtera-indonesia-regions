@@ -2,21 +2,25 @@
   {
     "code": "1215062001",
     "district_code": "121506",
-    "name": "Sibagindar"
+    "name": "Sibagindar",
+    "postal_code": "22270"
   },
   {
     "code": "1215062002",
     "district_code": "121506",
-    "name": "Napatalun Perlambuken"
+    "name": "Napatalun Perlambuken",
+    "postal_code": "22270"
   },
   {
     "code": "1215062003",
     "district_code": "121506",
-    "name": "Lae Mbentar"
+    "name": "Lae Mbentar",
+    "postal_code": "22270"
   },
   {
     "code": "1215062004",
     "district_code": "121506",
-    "name": "Pagindar"
+    "name": "Pagindar",
+    "postal_code": "22270"
   }
 ]

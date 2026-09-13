@@ -2,31 +2,37 @@
   {
     "code": "1108272001",
     "district_code": "110827",
-    "name": "Alue Dua"
+    "name": "Alue Dua",
+    "postal_code": "24379"
   },
   {
     "code": "1108272002",
     "district_code": "110827",
-    "name": "Seumirah"
+    "name": "Seumirah",
+    "postal_code": "24379"
   },
   {
     "code": "1108272003",
     "district_code": "110827",
-    "name": "Darussalam"
+    "name": "Darussalam",
+    "postal_code": "24379"
   },
   {
     "code": "1108272004",
     "district_code": "110827",
-    "name": "Alue Papeun"
+    "name": "Alue Papeun",
+    "postal_code": "24379"
   },
   {
     "code": "1108272005",
     "district_code": "110827",
-    "name": "Blang Jrat"
+    "name": "Blang Jrat",
+    "postal_code": "24379"
   },
   {
     "code": "1108272006",
     "district_code": "110827",
-    "name": "Blang Pohroh"
+    "name": "Blang Pohroh",
+    "postal_code": "24379"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1673031001",
     "district_code": "167303",
-    "name": "Lubuk Kupang"
+    "name": "Lubuk Kupang",
+    "postal_code": "31629"
   },
   {
     "code": "1673031003",
     "district_code": "167303",
-    "name": "Rahmah"
+    "name": "Rahmah",
+    "postal_code": "31629"
   },
   {
     "code": "1673031008",
     "district_code": "167303",
-    "name": "Jukung"
+    "name": "Jukung",
+    "postal_code": "31629"
   },
   {
     "code": "1673031009",
     "district_code": "167303",
-    "name": "Air Kati"
+    "name": "Air Kati",
+    "postal_code": "31629"
   },
   {
     "code": "1673031010",
     "district_code": "167303",
-    "name": "Air Teman"
+    "name": "Air Teman",
+    "postal_code": "31629"
   },
   {
     "code": "1673031011",
     "district_code": "167303",
-    "name": "Perumnas Rahmah"
+    "name": "Perumnas Rahmah",
+    "postal_code": "31629"
   },
   {
     "code": "1673031012",
     "district_code": "167303",
-    "name": "Lubuk Binjai"
+    "name": "Lubuk Binjai",
+    "postal_code": "31629"
   }
 ]

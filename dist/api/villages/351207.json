@@ -2,31 +2,37 @@
   {
     "code": "3512071002",
     "district_code": "351207",
-    "name": "Patokan"
+    "name": "Patokan",
+    "postal_code": "68312"
   },
   {
     "code": "3512071003",
     "district_code": "351207",
-    "name": "Dawuhan"
+    "name": "Dawuhan",
+    "postal_code": "68311"
   },
   {
     "code": "3512072001",
     "district_code": "351207",
-    "name": "Kalibagor"
+    "name": "Kalibagor",
+    "postal_code": "68314"
   },
   {
     "code": "3512072004",
     "district_code": "351207",
-    "name": "Kotakan"
+    "name": "Kotakan",
+    "postal_code": "68313"
   },
   {
     "code": "3512072005",
     "district_code": "351207",
-    "name": "Talkandang"
+    "name": "Talkandang",
+    "postal_code": "68315"
   },
   {
     "code": "3512072006",
     "district_code": "351207",
-    "name": "Olean"
+    "name": "Olean",
+    "postal_code": "68316"
   }
 ]

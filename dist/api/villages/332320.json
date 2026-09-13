@@ -2,51 +2,61 @@
   {
     "code": "3323202001",
     "district_code": "332320",
-    "name": "Gemawang"
+    "name": "Gemawang",
+    "postal_code": "56283"
   },
   {
     "code": "3323202002",
     "district_code": "332320",
-    "name": "Muncar"
+    "name": "Muncar",
+    "postal_code": "56283"
   },
   {
     "code": "3323202003",
     "district_code": "332320",
-    "name": "Kemiriombo"
+    "name": "Kemiriombo",
+    "postal_code": "56283"
   },
   {
     "code": "3323202004",
     "district_code": "332320",
-    "name": "Ngadisepi"
+    "name": "Ngadisepi",
+    "postal_code": "56283"
   },
   {
     "code": "3323202005",
     "district_code": "332320",
-    "name": "Krempong"
+    "name": "Krempong",
+    "postal_code": "56283"
   },
   {
     "code": "3323202006",
     "district_code": "332320",
-    "name": "Sucen"
+    "name": "Sucen",
+    "postal_code": "56283"
   },
   {
     "code": "3323202007",
     "district_code": "332320",
-    "name": "Karangseneng"
+    "name": "Karangseneng",
+    "postal_code": "56283"
   },
   {
     "code": "3323202008",
     "district_code": "332320",
-    "name": "Banaran"
+    "name": "Banaran",
+    "postal_code": "56283"
   },
   {
     "code": "3323202009",
     "district_code": "332320",
-    "name": "Kalibanger"
+    "name": "Kalibanger",
+    "postal_code": "56283"
   },
   {
     "code": "3323202010",
     "district_code": "332320",
-    "name": "Jambon"
+    "name": "Jambon",
+    "postal_code": "56283"
   }
 ]

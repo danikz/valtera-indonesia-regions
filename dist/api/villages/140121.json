@@ -2,31 +2,37 @@
   {
     "code": "1401212001",
     "district_code": "140121",
-    "name": "Siberuang"
+    "name": "Siberuang",
+    "postal_code": "28453"
   },
   {
     "code": "1401212002",
     "district_code": "140121",
-    "name": "Bandur Picak"
+    "name": "Bandur Picak",
+    "postal_code": "28453"
   },
   {
     "code": "1401212003",
     "district_code": "140121",
-    "name": "Gunung Malelo"
+    "name": "Gunung Malelo",
+    "postal_code": "28453"
   },
   {
     "code": "1401212004",
     "district_code": "140121",
-    "name": "Tabing"
+    "name": "Tabing",
+    "postal_code": "28453"
   },
   {
     "code": "1401212005",
     "district_code": "140121",
-    "name": "Pongkai"
+    "name": "Pongkai",
+    "postal_code": "28453"
   },
   {
     "code": "1401212006",
     "district_code": "140121",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "28453"
   }
 ]

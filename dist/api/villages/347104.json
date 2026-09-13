@@ -2,16 +2,19 @@
   {
     "code": "3471041001",
     "district_code": "347104",
-    "name": "Suryatmajan"
+    "name": "Suryatmajan",
+    "postal_code": "55213"
   },
   {
     "code": "3471041002",
     "district_code": "347104",
-    "name": "Tegalpanggung"
+    "name": "Tegalpanggung",
+    "postal_code": "55212"
   },
   {
     "code": "3471041003",
     "district_code": "347104",
-    "name": "Bausasran"
+    "name": "Bausasran",
+    "postal_code": "55211"
   }
 ]

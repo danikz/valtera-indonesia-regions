@@ -2,56 +2,67 @@
   {
     "code": "1401192001",
     "district_code": "140119",
-    "name": "Simalinyang"
+    "name": "Simalinyang",
+    "postal_code": "28475"
   },
   {
     "code": "1401192002",
     "district_code": "140119",
-    "name": "Bina Baru"
+    "name": "Bina Baru",
+    "postal_code": "28475"
   },
   {
     "code": "1401192003",
     "district_code": "140119",
-    "name": "Hidup Baru"
+    "name": "Hidup Baru",
+    "postal_code": "28475"
   },
   {
     "code": "1401192004",
     "district_code": "140119",
-    "name": "Karya Bakti"
+    "name": "Karya Bakti",
+    "postal_code": "28475"
   },
   {
     "code": "1401192005",
     "district_code": "140119",
-    "name": "Lubuk Sakai"
+    "name": "Lubuk Sakai",
+    "postal_code": "28475"
   },
   {
     "code": "1401192006",
     "district_code": "140119",
-    "name": "Penghidupan"
+    "name": "Penghidupan",
+    "postal_code": "28475"
   },
   {
     "code": "1401192007",
     "district_code": "140119",
-    "name": "Mayang Pongkai"
+    "name": "Mayang Pongkai",
+    "postal_code": "28475"
   },
   {
     "code": "1401192008",
     "district_code": "140119",
-    "name": "Koto Damai"
+    "name": "Koto Damai",
+    "postal_code": "28475"
   },
   {
     "code": "1401192009",
     "district_code": "140119",
-    "name": "Utama Karya"
+    "name": "Utama Karya",
+    "postal_code": "28475"
   },
   {
     "code": "1401192010",
     "district_code": "140119",
-    "name": "Bukit Sakai"
+    "name": "Bukit Sakai",
+    "postal_code": "28475"
   },
   {
     "code": "1401192011",
     "district_code": "140119",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "28475"
   }
 ]

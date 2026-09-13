@@ -2,36 +2,43 @@
   {
     "code": "3216222001",
     "district_code": "321622",
-    "name": "Sirnajaya"
+    "name": "Sirnajaya",
+    "postal_code": "17340"
   },
   {
     "code": "3216222002",
     "district_code": "321622",
-    "name": "Ridogalih"
+    "name": "Ridogalih",
+    "postal_code": "17340"
   },
   {
     "code": "3216222003",
     "district_code": "321622",
-    "name": "Ridomanah"
+    "name": "Ridomanah",
+    "postal_code": "17340"
   },
   {
     "code": "3216222004",
     "district_code": "321622",
-    "name": "Wibawamulya"
+    "name": "Wibawamulya",
+    "postal_code": "17340"
   },
   {
     "code": "3216222005",
     "district_code": "321622",
-    "name": "Cibarusah Kota"
+    "name": "Cibarusah Kota",
+    "postal_code": "17340"
   },
   {
     "code": "3216222006",
     "district_code": "321622",
-    "name": "Cibarusah Jaya"
+    "name": "Cibarusah Jaya",
+    "postal_code": "17340"
   },
   {
     "code": "3216222007",
     "district_code": "321622",
-    "name": "Sindangmulya"
+    "name": "Sindangmulya",
+    "postal_code": "17340"
   }
 ]

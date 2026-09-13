@@ -2,81 +2,97 @@
   {
     "code": "1103152001",
     "district_code": "110315",
-    "name": "Jalan Dua"
+    "name": "Jalan Dua",
+    "postal_code": "24458"
   },
   {
     "code": "1103152002",
     "district_code": "110315",
-    "name": "Jambo Reuhat"
+    "name": "Jambo Reuhat",
+    "postal_code": "24458"
   },
   {
     "code": "1103152003",
     "district_code": "110315",
-    "name": "Seuneubok Benteng"
+    "name": "Seuneubok Benteng",
+    "postal_code": "24458"
   },
   {
     "code": "1103152004",
     "district_code": "110315",
-    "name": "Seuneubok Pango"
+    "name": "Seuneubok Pango",
+    "postal_code": "24458"
   },
   {
     "code": "1103152005",
     "district_code": "110315",
-    "name": "Seuneubok Simpang"
+    "name": "Seuneubok Simpang",
+    "postal_code": "24458"
   },
   {
     "code": "1103152006",
     "district_code": "110315",
-    "name": "Seuneubok Kandang"
+    "name": "Seuneubok Kandang",
+    "postal_code": "24458"
   },
   {
     "code": "1103152007",
     "district_code": "110315",
-    "name": "Ulee Jalan"
+    "name": "Ulee Jalan",
+    "postal_code": "24458"
   },
   {
     "code": "1103152008",
     "district_code": "110315",
-    "name": "Uram Jalan"
+    "name": "Uram Jalan",
+    "postal_code": "24458"
   },
   {
     "code": "1103152009",
     "district_code": "110315",
-    "name": "Seuneubok Bayu"
+    "name": "Seuneubok Bayu",
+    "postal_code": "24458"
   },
   {
     "code": "1103152010",
     "district_code": "110315",
-    "name": "Blang Rambong"
+    "name": "Blang Rambong",
+    "postal_code": "24458"
   },
   {
     "code": "1103152011",
     "district_code": "110315",
-    "name": "Buket Drien"
+    "name": "Buket Drien",
+    "postal_code": "24458"
   },
   {
     "code": "1103152012",
     "district_code": "110315",
-    "name": "Panton Rayeuk A"
+    "name": "Panton Rayeuk A",
+    "postal_code": "24458"
   },
   {
     "code": "1103152013",
     "district_code": "110315",
-    "name": "Panton Rayeuk B"
+    "name": "Panton Rayeuk B",
+    "postal_code": "24458"
   },
   {
     "code": "1103152014",
     "district_code": "110315",
-    "name": "Panton Rayeuk M"
+    "name": "Panton Rayeuk M",
+    "postal_code": "24458"
   },
   {
     "code": "1103152015",
     "district_code": "110315",
-    "name": "Panton Rayeuk T"
+    "name": "Panton Rayeuk T",
+    "postal_code": "24458"
   },
   {
     "code": "1103152016",
     "district_code": "110315",
-    "name": "Paya Laman"
+    "name": "Paya Laman",
+    "postal_code": "24458"
   }
 ]

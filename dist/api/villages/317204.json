@@ -2,36 +2,43 @@
   {
     "code": "3172041001",
     "district_code": "317204",
-    "name": "Cilincing"
+    "name": "Cilincing",
+    "postal_code": "14120"
   },
   {
     "code": "3172041002",
     "district_code": "317204",
-    "name": "Sukapura"
+    "name": "Sukapura",
+    "postal_code": "14140"
   },
   {
     "code": "3172041003",
     "district_code": "317204",
-    "name": "Marunda"
+    "name": "Marunda",
+    "postal_code": "14150"
   },
   {
     "code": "3172041004",
     "district_code": "317204",
-    "name": "Kalibaru"
+    "name": "Kalibaru",
+    "postal_code": "14110"
   },
   {
     "code": "3172041005",
     "district_code": "317204",
-    "name": "Semper Timur"
+    "name": "Semper Timur",
+    "postal_code": "14130"
   },
   {
     "code": "3172041006",
     "district_code": "317204",
-    "name": "Rorotan"
+    "name": "Rorotan",
+    "postal_code": "14140"
   },
   {
     "code": "3172041007",
     "district_code": "317204",
-    "name": "Semper Barat"
+    "name": "Semper Barat",
+    "postal_code": "14130"
   }
 ]

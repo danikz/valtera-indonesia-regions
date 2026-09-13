@@ -2,26 +2,31 @@
   {
     "code": "9302162001",
     "district_code": "930216",
-    "name": "Wanggemalo"
+    "name": "Wanggemalo",
+    "postal_code": "99682"
   },
   {
     "code": "9302162002",
     "district_code": "930216",
-    "name": "Sinimburu"
+    "name": "Sinimburu",
+    "postal_code": "99682"
   },
   {
     "code": "9302162003",
     "district_code": "930216",
-    "name": "Yafufla"
+    "name": "Yafufla",
+    "postal_code": "99682"
   },
   {
     "code": "9302162004",
     "district_code": "930216",
-    "name": "Ugo"
+    "name": "Ugo",
+    "postal_code": "99682"
   },
   {
     "code": "9302162005",
     "district_code": "930216",
-    "name": "Dema"
+    "name": "Dema",
+    "postal_code": "99682"
   }
 ]

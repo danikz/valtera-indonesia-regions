@@ -2,31 +2,37 @@
   {
     "code": "7271051001",
     "district_code": "727105",
-    "name": "Buluri"
+    "name": "Buluri",
+    "postal_code": "94228"
   },
   {
     "code": "7271051002",
     "district_code": "727105",
-    "name": "Donggala Kodi"
+    "name": "Donggala Kodi",
+    "postal_code": "94226"
   },
   {
     "code": "7271051003",
     "district_code": "727105",
-    "name": "Kabonena"
+    "name": "Kabonena",
+    "postal_code": "94227"
   },
   {
     "code": "7271051004",
     "district_code": "727105",
-    "name": "Silae"
+    "name": "Silae",
+    "postal_code": "94227"
   },
   {
     "code": "7271051005",
     "district_code": "727105",
-    "name": "Watusampu"
+    "name": "Watusampu",
+    "postal_code": "94229"
   },
   {
     "code": "7271051006",
     "district_code": "727105",
-    "name": "Tipo"
+    "name": "Tipo",
+    "postal_code": "94228"
   }
 ]

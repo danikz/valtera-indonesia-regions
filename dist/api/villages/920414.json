@@ -2,26 +2,31 @@
   {
     "code": "9204142001",
     "district_code": "920414",
-    "name": "Kais"
+    "name": "Kais",
+    "postal_code": ""
   },
   {
     "code": "9204142002",
     "district_code": "920414",
-    "name": "Tapuri"
+    "name": "Tapuri",
+    "postal_code": ""
   },
   {
     "code": "9204142003",
     "district_code": "920414",
-    "name": "Yahadian"
+    "name": "Yahadian",
+    "postal_code": ""
   },
   {
     "code": "9204142004",
     "district_code": "920414",
-    "name": "Benawa I"
+    "name": "Benawa I",
+    "postal_code": ""
   },
   {
     "code": "9204142006",
     "district_code": "920414",
-    "name": "Sumano"
+    "name": "Sumano",
+    "postal_code": ""
   }
 ]

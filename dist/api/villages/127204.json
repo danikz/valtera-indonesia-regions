@@ -2,31 +2,37 @@
   {
     "code": "1272041001",
     "district_code": "127204",
-    "name": "Toba"
+    "name": "Toba",
+    "postal_code": "21123"
   },
   {
     "code": "1272041002",
     "district_code": "127204",
-    "name": "Karo"
+    "name": "Karo",
+    "postal_code": "21122"
   },
   {
     "code": "1272041003",
     "district_code": "127204",
-    "name": "Simalungun"
+    "name": "Simalungun",
+    "postal_code": "21121"
   },
   {
     "code": "1272041004",
     "district_code": "127204",
-    "name": "Martimbang"
+    "name": "Martimbang",
+    "postal_code": "21125"
   },
   {
     "code": "1272041005",
     "district_code": "127204",
-    "name": "Kristen"
+    "name": "Kristen",
+    "postal_code": "21124"
   },
   {
     "code": "1272041006",
     "district_code": "127204",
-    "name": "Aek Nauli"
+    "name": "Aek Nauli",
+    "postal_code": "21126"
   }
 ]

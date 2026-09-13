@@ -2,31 +2,37 @@
   {
     "code": "8204122001",
     "district_code": "820412",
-    "name": "Ngute-Ngute"
+    "name": "Ngute-Ngute",
+    "postal_code": "97780"
   },
   {
     "code": "8204122002",
     "district_code": "820412",
-    "name": "Laluin"
+    "name": "Laluin",
+    "postal_code": "97780"
   },
   {
     "code": "8204122003",
     "district_code": "820412",
-    "name": "Posi-Posi"
+    "name": "Posi-Posi",
+    "postal_code": "97780"
   },
   {
     "code": "8204122004",
     "district_code": "820412",
-    "name": "Sagawele"
+    "name": "Sagawele",
+    "postal_code": "97780"
   },
   {
     "code": "8204122005",
     "district_code": "820412",
-    "name": "Orimakurunga"
+    "name": "Orimakurunga",
+    "postal_code": "97780"
   },
   {
     "code": "8204122006",
     "district_code": "820412",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "97780"
   }
 ]

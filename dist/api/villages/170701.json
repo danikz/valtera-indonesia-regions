@@ -2,61 +2,73 @@
   {
     "code": "1707011004",
     "district_code": "170701",
-    "name": "Kampung Jawa"
+    "name": "Kampung Jawa",
+    "postal_code": "39259"
   },
   {
     "code": "1707011006",
     "district_code": "170701",
-    "name": "Pasar Muara Aman"
+    "name": "Pasar Muara Aman",
+    "postal_code": "39259"
   },
   {
     "code": "1707012002",
     "district_code": "170701",
-    "name": "Gandung"
+    "name": "Gandung",
+    "postal_code": "39259"
   },
   {
     "code": "1707012005",
     "district_code": "170701",
-    "name": "Tunggang"
+    "name": "Tunggang",
+    "postal_code": "39259"
   },
   {
     "code": "1707012007",
     "district_code": "170701",
-    "name": "Talang Ulu"
+    "name": "Talang Ulu",
+    "postal_code": "39259"
   },
   {
     "code": "1707012014",
     "district_code": "170701",
-    "name": "Nangai Amen"
+    "name": "Nangai Amen",
+    "postal_code": "39259"
   },
   {
     "code": "1707012016",
     "district_code": "170701",
-    "name": "Lebong Tambang"
+    "name": "Lebong Tambang",
+    "postal_code": "39259"
   },
   {
     "code": "1707012022",
     "district_code": "170701",
-    "name": "Ladang Palembang"
+    "name": "Ladang Palembang",
+    "postal_code": "39259"
   },
   {
     "code": "1707012023",
     "district_code": "170701",
-    "name": "Kampung Dalam"
+    "name": "Kampung Dalam",
+    "postal_code": "39259"
   },
   {
     "code": "1707012024",
     "district_code": "170701",
-    "name": "Kampung Muara Aman"
+    "name": "Kampung Muara Aman",
+    "postal_code": "39259"
   },
   {
     "code": "1707012028",
     "district_code": "170701",
-    "name": "Lokasari"
+    "name": "Lokasari",
+    "postal_code": "39259"
   },
   {
     "code": "1707012033",
     "district_code": "170701",
-    "name": "Gandung Baru"
+    "name": "Gandung Baru",
+    "postal_code": "39259"
   }
 ]

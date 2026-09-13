@@ -2,56 +2,67 @@
   {
     "code": "7304082001",
     "district_code": "730408",
-    "name": "Paitana"
+    "name": "Paitana",
+    "postal_code": "92313"
   },
   {
     "code": "7304082002",
     "district_code": "730408",
-    "name": "Bonto Mate'ne"
+    "name": "Bonto Mate'ne",
+    "postal_code": "92313"
   },
   {
     "code": "7304082003",
     "district_code": "730408",
-    "name": "Mangepong"
+    "name": "Mangepong",
+    "postal_code": "92313"
   },
   {
     "code": "7304082004",
     "district_code": "730408",
-    "name": "Bululoe"
+    "name": "Bululoe",
+    "postal_code": "92313"
   },
   {
     "code": "7304082005",
     "district_code": "730408",
-    "name": "Kayuloe Barat"
+    "name": "Kayuloe Barat",
+    "postal_code": "92312"
   },
   {
     "code": "7304082006",
     "district_code": "730408",
-    "name": "Langkura"
+    "name": "Langkura",
+    "postal_code": "92313"
   },
   {
     "code": "7304082007",
     "district_code": "730408",
-    "name": "Bungungloe"
+    "name": "Bungungloe",
+    "postal_code": "92313"
   },
   {
     "code": "7304082008",
     "district_code": "730408",
-    "name": "Kayuloe Timur"
+    "name": "Kayuloe Timur",
+    "postal_code": "92313"
   },
   {
     "code": "7304082009",
     "district_code": "730408",
-    "name": "Jombe"
+    "name": "Jombe",
+    "postal_code": "92313"
   },
   {
     "code": "7304082010",
     "district_code": "730408",
-    "name": "Tanjonga"
+    "name": "Tanjonga",
+    "postal_code": "92313"
   },
   {
     "code": "7304082011",
     "district_code": "730408",
-    "name": "Parasanganberu"
+    "name": "Parasanganberu",
+    "postal_code": "92313"
   }
 ]

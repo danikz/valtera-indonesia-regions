@@ -2,26 +2,31 @@
   {
     "code": "1871111001",
     "district_code": "187111",
-    "name": "Tanjung Senang"
+    "name": "Tanjung Senang",
+    "postal_code": "35141"
   },
   {
     "code": "1871111002",
     "district_code": "187111",
-    "name": "Way Kandis"
+    "name": "Way Kandis",
+    "postal_code": "35143"
   },
   {
     "code": "1871111003",
     "district_code": "187111",
-    "name": "Labuhan Dalam"
+    "name": "Labuhan Dalam",
+    "postal_code": "35142"
   },
   {
     "code": "1871111004",
     "district_code": "187111",
-    "name": "Perumnas Way Kandis"
+    "name": "Perumnas Way Kandis",
+    "postal_code": "35141"
   },
   {
     "code": "1871111005",
     "district_code": "187111",
-    "name": "Pematang Wangi"
+    "name": "Pematang Wangi",
+    "postal_code": "35141"
   }
 ]

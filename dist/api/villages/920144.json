@@ -2,46 +2,55 @@
   {
     "code": "9201442001",
     "district_code": "920144",
-    "name": "Disfra"
+    "name": "Disfra",
+    "postal_code": ""
   },
   {
     "code": "9201442002",
     "district_code": "920144",
-    "name": "Bagun"
+    "name": "Bagun",
+    "postal_code": ""
   },
   {
     "code": "9201442003",
     "district_code": "920144",
-    "name": "Klawom"
+    "name": "Klawom",
+    "postal_code": ""
   },
   {
     "code": "9201442004",
     "district_code": "920144",
-    "name": "Klamomis"
+    "name": "Klamomis",
+    "postal_code": ""
   },
   {
     "code": "9201442005",
     "district_code": "920144",
-    "name": "Klakwonrit"
+    "name": "Klakwonrit",
+    "postal_code": ""
   },
   {
     "code": "9201442006",
     "district_code": "920144",
-    "name": "Mode"
+    "name": "Mode",
+    "postal_code": ""
   },
   {
     "code": "9201442007",
     "district_code": "920144",
-    "name": "Bratmawe"
+    "name": "Bratmawe",
+    "postal_code": ""
   },
   {
     "code": "9201442008",
     "district_code": "920144",
-    "name": "Klawon"
+    "name": "Klawon",
+    "postal_code": ""
   },
   {
     "code": "9201442009",
     "district_code": "920144",
-    "name": "Mlamli"
+    "name": "Mlamli",
+    "postal_code": ""
   }
 ]

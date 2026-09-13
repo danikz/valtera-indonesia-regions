@@ -2,46 +2,55 @@
   {
     "code": "9405052001",
     "district_code": "940505",
-    "name": "Pogoma"
+    "name": "Pogoma",
+    "postal_code": "98985"
   },
   {
     "code": "9405052002",
     "district_code": "940505",
-    "name": "Gagama"
+    "name": "Gagama",
+    "postal_code": "98976"
   },
   {
     "code": "9405052003",
     "district_code": "940505",
-    "name": "Wiha"
+    "name": "Wiha",
+    "postal_code": "98985"
   },
   {
     "code": "9405052004",
     "district_code": "940505",
-    "name": "Wakme"
+    "name": "Wakme",
+    "postal_code": "98985"
   },
   {
     "code": "9405052005",
     "district_code": "940505",
-    "name": "Ugutmu"
+    "name": "Ugutmu",
+    "postal_code": "98985"
   },
   {
     "code": "9405052006",
     "district_code": "940505",
-    "name": "Yugume"
+    "name": "Yugume",
+    "postal_code": "98976"
   },
   {
     "code": "9405052007",
     "district_code": "940505",
-    "name": "Kolamagi"
+    "name": "Kolamagi",
+    "postal_code": "98985"
   },
   {
     "code": "9405052008",
     "district_code": "940505",
-    "name": "Guwamu"
+    "name": "Guwamu",
+    "postal_code": "98976"
   },
   {
     "code": "9405052009",
     "district_code": "940505",
-    "name": "Kumasingga"
+    "name": "Kumasingga",
+    "postal_code": "98985"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1807172001",
     "district_code": "180717",
-    "name": "Wana"
+    "name": "Wana",
+    "postal_code": "34377"
   },
   {
     "code": "1807172002",
     "district_code": "180717",
-    "name": "Tanjung Aji"
+    "name": "Tanjung Aji",
+    "postal_code": "34377"
   },
   {
     "code": "1807172003",
     "district_code": "180717",
-    "name": "Tebing"
+    "name": "Tebing",
+    "postal_code": "34377"
   },
   {
     "code": "1807172004",
     "district_code": "180717",
-    "name": "Sido Makmur"
+    "name": "Sido Makmur",
+    "postal_code": "34377"
   },
   {
     "code": "1807172005",
     "district_code": "180717",
-    "name": "Itik Renday"
+    "name": "Itik Renday",
+    "postal_code": "34377"
   },
   {
     "code": "1807172006",
     "district_code": "180717",
-    "name": "Sumber Hadi"
+    "name": "Sumber Hadi",
+    "postal_code": "34377"
   }
 ]

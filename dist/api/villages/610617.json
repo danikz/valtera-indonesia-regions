@@ -2,81 +2,97 @@
   {
     "code": "6106171001",
     "district_code": "610617",
-    "name": "Kedamin Hulu"
+    "name": "Kedamin Hulu",
+    "postal_code": "78715"
   },
   {
     "code": "6106171002",
     "district_code": "610617",
-    "name": "Kedamin Hilir"
+    "name": "Kedamin Hilir",
+    "postal_code": "78714"
   },
   {
     "code": "6106172003",
     "district_code": "610617",
-    "name": "Sungai Uluk"
+    "name": "Sungai Uluk",
+    "postal_code": "78752"
   },
   {
     "code": "6106172004",
     "district_code": "610617",
-    "name": "Jaras"
+    "name": "Jaras",
+    "postal_code": "78752"
   },
   {
     "code": "6106172005",
     "district_code": "610617",
-    "name": "Melapi"
+    "name": "Melapi",
+    "postal_code": "78714"
   },
   {
     "code": "6106172014",
     "district_code": "610617",
-    "name": "Kedamin Darat"
+    "name": "Kedamin Darat",
+    "postal_code": "78714"
   },
   {
     "code": "6106172015",
     "district_code": "610617",
-    "name": "Tanjung Jati"
+    "name": "Tanjung Jati",
+    "postal_code": "78714"
   },
   {
     "code": "6106172016",
     "district_code": "610617",
-    "name": "Sayut"
+    "name": "Sayut",
+    "postal_code": "78714"
   },
   {
     "code": "6106172017",
     "district_code": "610617",
-    "name": "Urang Unsa"
+    "name": "Urang Unsa",
+    "postal_code": "78714"
   },
   {
     "code": "6106172018",
     "district_code": "610617",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "78714"
   },
   {
     "code": "6106172019",
     "district_code": "610617",
-    "name": "Cempaka Baru"
+    "name": "Cempaka Baru",
+    "postal_code": "78714"
   },
   {
     "code": "6106172020",
     "district_code": "610617",
-    "name": "Beringin Jaya"
+    "name": "Beringin Jaya",
+    "postal_code": "78714"
   },
   {
     "code": "6106172021",
     "district_code": "610617",
-    "name": "Bungan Jaya"
+    "name": "Bungan Jaya",
+    "postal_code": "78714"
   },
   {
     "code": "6106172022",
     "district_code": "610617",
-    "name": "Tanjunglokang"
+    "name": "Tanjunglokang",
+    "postal_code": "78714"
   },
   {
     "code": "6106172023",
     "district_code": "610617",
-    "name": "Kereho"
+    "name": "Kereho",
+    "postal_code": "78714"
   },
   {
     "code": "6106172024",
     "district_code": "610617",
-    "name": "Ingko' Tambe"
+    "name": "Ingko' Tambe",
+    "postal_code": "78714"
   }
 ]

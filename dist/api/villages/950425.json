@@ -2,51 +2,61 @@
   {
     "code": "9504252001",
     "district_code": "950425",
-    "name": "Egiam"
+    "name": "Egiam",
+    "postal_code": "99053"
   },
   {
     "code": "9504252002",
     "district_code": "950425",
-    "name": "Yonira"
+    "name": "Yonira",
+    "postal_code": "99437"
   },
   {
     "code": "9504252003",
     "district_code": "950425",
-    "name": "Tabonakme"
+    "name": "Tabonakme",
+    "postal_code": "99437"
   },
   {
     "code": "9504252004",
     "district_code": "950425",
-    "name": "Murni"
+    "name": "Murni",
+    "postal_code": "99437"
   },
   {
     "code": "9504252005",
     "district_code": "950425",
-    "name": "Yoka"
+    "name": "Yoka",
+    "postal_code": "99437"
   },
   {
     "code": "9504252006",
     "district_code": "950425",
-    "name": "Wayongga"
+    "name": "Wayongga",
+    "postal_code": "99437"
   },
   {
     "code": "9504252007",
     "district_code": "950425",
-    "name": "Weri"
+    "name": "Weri",
+    "postal_code": "99437"
   },
   {
     "code": "9504252008",
     "district_code": "950425",
-    "name": "Pinde"
+    "name": "Pinde",
+    "postal_code": "99437"
   },
   {
     "code": "9504252009",
     "district_code": "950425",
-    "name": "Kurba"
+    "name": "Kurba",
+    "postal_code": "99437"
   },
   {
     "code": "9504252010",
     "district_code": "950425",
-    "name": "Kaliundi"
+    "name": "Kaliundi",
+    "postal_code": "99437"
   }
 ]

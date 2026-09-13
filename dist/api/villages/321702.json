@@ -2,36 +2,43 @@
   {
     "code": "3217022001",
     "district_code": "321702",
-    "name": "Karyawangi"
+    "name": "Karyawangi",
+    "postal_code": "40559"
   },
   {
     "code": "3217022002",
     "district_code": "321702",
-    "name": "Cihanjuang"
+    "name": "Cihanjuang",
+    "postal_code": "40559"
   },
   {
     "code": "3217022003",
     "district_code": "321702",
-    "name": "Cihanjuangrahayu"
+    "name": "Cihanjuangrahayu",
+    "postal_code": "40559"
   },
   {
     "code": "3217022004",
     "district_code": "321702",
-    "name": "Cihideung"
+    "name": "Cihideung",
+    "postal_code": "40559"
   },
   {
     "code": "3217022005",
     "district_code": "321702",
-    "name": "Ciwaruga"
+    "name": "Ciwaruga",
+    "postal_code": "40559"
   },
   {
     "code": "3217022006",
     "district_code": "321702",
-    "name": "Cigugurgirang"
+    "name": "Cigugurgirang",
+    "postal_code": "40559"
   },
   {
     "code": "3217022007",
     "district_code": "321702",
-    "name": "Sariwangi"
+    "name": "Sariwangi",
+    "postal_code": "40559"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1371091001",
     "district_code": "137109",
-    "name": "Pasar Ambacang"
+    "name": "Pasar Ambacang",
+    "postal_code": "25152"
   },
   {
     "code": "1371091002",
     "district_code": "137109",
-    "name": "Anduring"
+    "name": "Anduring",
+    "postal_code": "25151"
   },
   {
     "code": "1371091003",
     "district_code": "137109",
-    "name": "Lubuk Lintah"
+    "name": "Lubuk Lintah",
+    "postal_code": "25153"
   },
   {
     "code": "1371091004",
     "district_code": "137109",
-    "name": "Ampang"
+    "name": "Ampang",
+    "postal_code": "25154"
   },
   {
     "code": "1371091005",
     "district_code": "137109",
-    "name": "Kalumbuk"
+    "name": "Kalumbuk",
+    "postal_code": "25155"
   },
   {
     "code": "1371091006",
     "district_code": "137109",
-    "name": "Korong Gadang"
+    "name": "Korong Gadang",
+    "postal_code": "25156"
   },
   {
     "code": "1371091007",
     "district_code": "137109",
-    "name": "Kuranji"
+    "name": "Kuranji",
+    "postal_code": "25157"
   },
   {
     "code": "1371091008",
     "district_code": "137109",
-    "name": "Gunung Sarik"
+    "name": "Gunung Sarik",
+    "postal_code": "25158"
   },
   {
     "code": "1371091009",
     "district_code": "137109",
-    "name": "Sungai Sapih"
+    "name": "Sungai Sapih",
+    "postal_code": "25159"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "9304032001",
     "district_code": "930403",
-    "name": "Sawa"
+    "name": "Sawa",
+    "postal_code": "99783"
   },
   {
     "code": "9304032002",
     "district_code": "930403",
-    "name": "Erma"
+    "name": "Erma",
+    "postal_code": "99783"
   },
   {
     "code": "9304032003",
     "district_code": "930403",
-    "name": "Bu"
+    "name": "Bu",
+    "postal_code": "99783"
   },
   {
     "code": "9304032004",
     "district_code": "930403",
-    "name": "Er"
+    "name": "Er",
+    "postal_code": "99783"
   },
   {
     "code": "9304032005",
     "district_code": "930403",
-    "name": "Pupis"
+    "name": "Pupis",
+    "postal_code": "99783"
   },
   {
     "code": "9304032006",
     "district_code": "930403",
-    "name": "Sona"
+    "name": "Sona",
+    "postal_code": "99783"
   },
   {
     "code": "9304032007",
     "district_code": "930403",
-    "name": "Agani"
+    "name": "Agani",
+    "postal_code": "99783"
   },
   {
     "code": "9304032008",
     "district_code": "930403",
-    "name": "Mumugu"
+    "name": "Mumugu",
+    "postal_code": "99783"
   },
   {
     "code": "9304032009",
     "district_code": "930403",
-    "name": "Sauti"
+    "name": "Sauti",
+    "postal_code": "99783"
   },
   {
     "code": "9304032010",
     "district_code": "930403",
-    "name": "Mumugu Dua"
+    "name": "Mumugu Dua",
+    "postal_code": "99783"
   }
 ]

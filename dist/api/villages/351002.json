@@ -2,36 +2,43 @@
   {
     "code": "3510022001",
     "district_code": "351002",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "68487"
   },
   {
     "code": "3510022002",
     "district_code": "351002",
-    "name": "Sambirejo"
+    "name": "Sambirejo",
+    "postal_code": "68487"
   },
   {
     "code": "3510022003",
     "district_code": "351002",
-    "name": "Temurejo"
+    "name": "Temurejo",
+    "postal_code": "68487"
   },
   {
     "code": "3510022004",
     "district_code": "351002",
-    "name": "Bangorejo"
+    "name": "Bangorejo",
+    "postal_code": "68487"
   },
   {
     "code": "3510022005",
     "district_code": "351002",
-    "name": "Kebondalem"
+    "name": "Kebondalem",
+    "postal_code": "68487"
   },
   {
     "code": "3510022006",
     "district_code": "351002",
-    "name": "Sambimulyo"
+    "name": "Sambimulyo",
+    "postal_code": "68487"
   },
   {
     "code": "3510022007",
     "district_code": "351002",
-    "name": "Ringintelu"
+    "name": "Ringintelu",
+    "postal_code": "68487"
   }
 ]

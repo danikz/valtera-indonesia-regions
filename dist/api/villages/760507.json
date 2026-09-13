@@ -2,36 +2,43 @@
   {
     "code": "7605072001",
     "district_code": "760507",
-    "name": "Onang"
+    "name": "Onang",
+    "postal_code": "91455"
   },
   {
     "code": "7605072002",
     "district_code": "760507",
-    "name": "Tubo"
+    "name": "Tubo",
+    "postal_code": "91455"
   },
   {
     "code": "7605072003",
     "district_code": "760507",
-    "name": "Onang Utara"
+    "name": "Onang Utara",
+    "postal_code": "91455"
   },
   {
     "code": "7605072004",
     "district_code": "760507",
-    "name": "Tubo Selatan"
+    "name": "Tubo Selatan",
+    "postal_code": "91455"
   },
   {
     "code": "7605072005",
     "district_code": "760507",
-    "name": "Bonde bonde"
+    "name": "Bonde bonde",
+    "postal_code": "91455"
   },
   {
     "code": "7605072006",
     "district_code": "760507",
-    "name": "Tubo Tengah"
+    "name": "Tubo Tengah",
+    "postal_code": "91455"
   },
   {
     "code": "7605072007",
     "district_code": "760507",
-    "name": "Tubo Poang"
+    "name": "Tubo Poang",
+    "postal_code": "91455"
   }
 ]

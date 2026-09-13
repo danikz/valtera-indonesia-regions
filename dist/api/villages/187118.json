@@ -2,36 +2,43 @@
   {
     "code": "1871181001",
     "district_code": "187118",
-    "name": "Kedamaian"
+    "name": "Kedamaian",
+    "postal_code": "35122"
   },
   {
     "code": "1871181002",
     "district_code": "187118",
-    "name": "Bumi Kedamaian"
+    "name": "Bumi Kedamaian",
+    "postal_code": "35122"
   },
   {
     "code": "1871181003",
     "district_code": "187118",
-    "name": "Tanjungagung Raya"
+    "name": "Tanjungagung Raya",
+    "postal_code": "35129"
   },
   {
     "code": "1871181004",
     "district_code": "187118",
-    "name": "Tanjungbaru"
+    "name": "Tanjungbaru",
+    "postal_code": "35133"
   },
   {
     "code": "1871181005",
     "district_code": "187118",
-    "name": "Kalibalau Kencana"
+    "name": "Kalibalau Kencana",
+    "postal_code": "35132"
   },
   {
     "code": "1871181006",
     "district_code": "187118",
-    "name": "Tanjungraya"
+    "name": "Tanjungraya",
+    "postal_code": "35128"
   },
   {
     "code": "1871181007",
     "district_code": "187118",
-    "name": "Tanjunggading"
+    "name": "Tanjunggading",
+    "postal_code": "35128"
   }
 ]

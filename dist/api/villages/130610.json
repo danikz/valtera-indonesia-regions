@@ -2,26 +2,31 @@
   {
     "code": "1306102001",
     "district_code": "130610",
-    "name": "Koto Rantang"
+    "name": "Koto Rantang",
+    "postal_code": "26151"
   },
   {
     "code": "1306102002",
     "district_code": "130610",
-    "name": "Pasia Laweh"
+    "name": "Pasia Laweh",
+    "postal_code": "26151"
   },
   {
     "code": "1306102003",
     "district_code": "130610",
-    "name": "Pagadih"
+    "name": "Pagadih",
+    "postal_code": "26151"
   },
   {
     "code": "1306102004",
     "district_code": "130610",
-    "name": "Nan Tujuah"
+    "name": "Nan Tujuah",
+    "postal_code": "26151"
   },
   {
     "code": "1306102005",
     "district_code": "130610",
-    "name": "Nan Limo"
+    "name": "Nan Limo",
+    "postal_code": "26151"
   }
 ]

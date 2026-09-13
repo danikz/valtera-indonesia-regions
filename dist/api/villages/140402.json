@@ -2,71 +2,85 @@
   {
     "code": "1404021001",
     "district_code": "140402",
-    "name": "Enok"
+    "name": "Enok",
+    "postal_code": "29272"
   },
   {
     "code": "1404021002",
     "district_code": "140402",
-    "name": "Pusaran"
+    "name": "Pusaran",
+    "postal_code": "29272"
   },
   {
     "code": "1404021003",
     "district_code": "140402",
-    "name": "Telukmedan"
+    "name": "Telukmedan",
+    "postal_code": "29272"
   },
   {
     "code": "1404021013",
     "district_code": "140402",
-    "name": "Pantaiseberang Makmur"
+    "name": "Pantaiseberang Makmur",
+    "postal_code": "29272"
   },
   {
     "code": "1404022004",
     "district_code": "140402",
-    "name": "Pengalihan"
+    "name": "Pengalihan",
+    "postal_code": "29272"
   },
   {
     "code": "1404022005",
     "district_code": "140402",
-    "name": "Sungaiambat"
+    "name": "Sungaiambat",
+    "postal_code": "29272"
   },
   {
     "code": "1404022006",
     "district_code": "140402",
-    "name": "Simpang Tiga"
+    "name": "Simpang Tiga",
+    "postal_code": "29272"
   },
   {
     "code": "1404022007",
     "district_code": "140402",
-    "name": "Rantau Panjang"
+    "name": "Rantau Panjang",
+    "postal_code": "29272"
   },
   {
     "code": "1404022008",
     "district_code": "140402",
-    "name": "Sungairukam"
+    "name": "Sungairukam",
+    "postal_code": "29272"
   },
   {
     "code": "1404022009",
     "district_code": "140402",
-    "name": "Bagan Jaya"
+    "name": "Bagan Jaya",
+    "postal_code": "29272"
   },
   {
     "code": "1404022010",
     "district_code": "140402",
-    "name": "Suhada"
+    "name": "Suhada",
+    "postal_code": "29272"
   },
   {
     "code": "1404022011",
     "district_code": "140402",
-    "name": "Jaya Bhakti"
+    "name": "Jaya Bhakti",
+    "postal_code": "29272"
   },
   {
     "code": "1404022012",
     "district_code": "140402",
-    "name": "Sungailokan"
+    "name": "Sungailokan",
+    "postal_code": "29272"
   },
   {
     "code": "1404022014",
     "district_code": "140402",
-    "name": "Simpang Tiga Daratan"
+    "name": "Simpang Tiga Daratan",
+    "postal_code": "29272"
   }
 ]

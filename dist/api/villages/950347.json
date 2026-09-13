@@ -2,36 +2,43 @@
   {
     "code": "9503472001",
     "district_code": "950347",
-    "name": "Hilipuk"
+    "name": "Hilipuk",
+    "postal_code": "99732"
   },
   {
     "code": "9503472002",
     "district_code": "950347",
-    "name": "Homidipmu"
+    "name": "Homidipmu",
+    "postal_code": "99732"
   },
   {
     "code": "9503472003",
     "district_code": "950347",
-    "name": "Kini"
+    "name": "Kini",
+    "postal_code": "99732"
   },
   {
     "code": "9503472004",
     "district_code": "950347",
-    "name": "Yaruhuk"
+    "name": "Yaruhuk",
+    "postal_code": "99732"
   },
   {
     "code": "9503472005",
     "district_code": "950347",
-    "name": "Jamin"
+    "name": "Jamin",
+    "postal_code": "99732"
   },
   {
     "code": "9503472006",
     "district_code": "950347",
-    "name": "Dindok"
+    "name": "Dindok",
+    "postal_code": "99732"
   },
   {
     "code": "9503472007",
     "district_code": "950347",
-    "name": "Sohondipmu"
+    "name": "Sohondipmu",
+    "postal_code": "99732"
   }
 ]

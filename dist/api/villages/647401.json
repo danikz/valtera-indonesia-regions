@@ -2,31 +2,37 @@
   {
     "code": "6474011001",
     "district_code": "647401",
-    "name": "Bontang Kuala"
+    "name": "Bontang Kuala",
+    "postal_code": "75312"
   },
   {
     "code": "6474011002",
     "district_code": "647401",
-    "name": "Bontang Baru"
+    "name": "Bontang Baru",
+    "postal_code": "75311"
   },
   {
     "code": "6474011003",
     "district_code": "647401",
-    "name": "Lok Tuan"
+    "name": "Lok Tuan",
+    "postal_code": "75314"
   },
   {
     "code": "6474011004",
     "district_code": "647401",
-    "name": "Guntung"
+    "name": "Guntung",
+    "postal_code": "75314"
   },
   {
     "code": "6474011005",
     "district_code": "647401",
-    "name": "Gunung Elai"
+    "name": "Gunung Elai",
+    "postal_code": "75311"
   },
   {
     "code": "6474011006",
     "district_code": "647401",
-    "name": "Api-api"
+    "name": "Api-api",
+    "postal_code": "75311"
   }
 ]

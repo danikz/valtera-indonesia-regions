@@ -2,46 +2,55 @@
   {
     "code": "8206032001",
     "district_code": "820603",
-    "name": "Bicoli"
+    "name": "Bicoli",
+    "postal_code": "97861"
   },
   {
     "code": "8206032002",
     "district_code": "820603",
-    "name": "Waci"
+    "name": "Waci",
+    "postal_code": "97861"
   },
   {
     "code": "8206032003",
     "district_code": "820603",
-    "name": "Petelei"
+    "name": "Petelei",
+    "postal_code": "97861"
   },
   {
     "code": "8206032004",
     "district_code": "820603",
-    "name": "Loleo Lamo"
+    "name": "Loleo Lamo",
+    "postal_code": "97861"
   },
   {
     "code": "8206032005",
     "district_code": "820603",
-    "name": "Gotowasi"
+    "name": "Gotowasi",
+    "postal_code": "97861"
   },
   {
     "code": "8206032010",
     "district_code": "820603",
-    "name": "Kasuba"
+    "name": "Kasuba",
+    "postal_code": "97861"
   },
   {
     "code": "8206032012",
     "district_code": "820603",
-    "name": "Momole"
+    "name": "Momole",
+    "postal_code": "97861"
   },
   {
     "code": "8206032013",
     "district_code": "820603",
-    "name": "Sil"
+    "name": "Sil",
+    "postal_code": "97861"
   },
   {
     "code": "8206032014",
     "district_code": "820603",
-    "name": "Sowoli"
+    "name": "Sowoli",
+    "postal_code": "97861"
   }
 ]

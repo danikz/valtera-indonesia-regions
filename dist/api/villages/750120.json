@@ -2,41 +2,49 @@
   {
     "code": "7501202001",
     "district_code": "750120",
-    "name": "Biluhu Barat"
+    "name": "Biluhu Barat",
+    "postal_code": "96245"
   },
   {
     "code": "7501202002",
     "district_code": "750120",
-    "name": "Lobuto"
+    "name": "Lobuto",
+    "postal_code": "96245"
   },
   {
     "code": "7501202003",
     "district_code": "750120",
-    "name": "Biluhu Tengah"
+    "name": "Biluhu Tengah",
+    "postal_code": "96245"
   },
   {
     "code": "7501202004",
     "district_code": "750120",
-    "name": "Luluo"
+    "name": "Luluo",
+    "postal_code": "96245"
   },
   {
     "code": "7501202005",
     "district_code": "750120",
-    "name": "Huwongo"
+    "name": "Huwongo",
+    "postal_code": "96245"
   },
   {
     "code": "7501202006",
     "district_code": "750120",
-    "name": "Lobuto Timur"
+    "name": "Lobuto Timur",
+    "postal_code": "96245"
   },
   {
     "code": "7501202007",
     "district_code": "750120",
-    "name": "Botu Boluo"
+    "name": "Botu Boluo",
+    "postal_code": "96245"
   },
   {
     "code": "7501202008",
     "district_code": "750120",
-    "name": "Olimeyala"
+    "name": "Olimeyala",
+    "postal_code": "96245"
   }
 ]

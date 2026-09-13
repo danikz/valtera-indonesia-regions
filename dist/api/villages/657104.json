@@ -2,16 +2,19 @@
   {
     "code": "6571041001",
     "district_code": "657104",
-    "name": "Juata Laut"
+    "name": "Juata Laut",
+    "postal_code": "77116"
   },
   {
     "code": "6571041002",
     "district_code": "657104",
-    "name": "Juata Permai"
+    "name": "Juata Permai",
+    "postal_code": "77116"
   },
   {
     "code": "6571041003",
     "district_code": "657104",
-    "name": "Juata Kerikil"
+    "name": "Juata Kerikil",
+    "postal_code": "77116"
   }
 ]

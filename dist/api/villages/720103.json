@@ -2,71 +2,85 @@
   {
     "code": "7201031006",
     "district_code": "720103",
-    "name": "Kintom"
+    "name": "Kintom",
+    "postal_code": "94761"
   },
   {
     "code": "7201031010",
     "district_code": "720103",
-    "name": "Mendono"
+    "name": "Mendono",
+    "postal_code": "94761"
   },
   {
     "code": "7201031017",
     "district_code": "720103",
-    "name": "Mondonun"
+    "name": "Mondonun",
+    "postal_code": "94761"
   },
   {
     "code": "7201032001",
     "district_code": "720103",
-    "name": "Kalolos"
+    "name": "Kalolos",
+    "postal_code": "94761"
   },
   {
     "code": "7201032002",
     "district_code": "720103",
-    "name": "Tangkiang"
+    "name": "Tangkiang",
+    "postal_code": "94761"
   },
   {
     "code": "7201032003",
     "district_code": "720103",
-    "name": "Padang"
+    "name": "Padang",
+    "postal_code": "94761"
   },
   {
     "code": "7201032004",
     "district_code": "720103",
-    "name": "Manyula"
+    "name": "Manyula",
+    "postal_code": "94761"
   },
   {
     "code": "7201032005",
     "district_code": "720103",
-    "name": "Uling"
+    "name": "Uling",
+    "postal_code": "94761"
   },
   {
     "code": "7201032007",
     "district_code": "720103",
-    "name": "Samadoya"
+    "name": "Samadoya",
+    "postal_code": "94761"
   },
   {
     "code": "7201032008",
     "district_code": "720103",
-    "name": "Dimpalon"
+    "name": "Dimpalon",
+    "postal_code": "94761"
   },
   {
     "code": "7201032009",
     "district_code": "720103",
-    "name": "Solan"
+    "name": "Solan",
+    "postal_code": "94761"
   },
   {
     "code": "7201032013",
     "district_code": "720103",
-    "name": "Babang Buyangge"
+    "name": "Babang Buyangge",
+    "postal_code": "94761"
   },
   {
     "code": "7201032015",
     "district_code": "720103",
-    "name": "Solan Baru"
+    "name": "Solan Baru",
+    "postal_code": "94761"
   },
   {
     "code": "7201032019",
     "district_code": "720103",
-    "name": "Dimpalon Baru"
+    "name": "Dimpalon Baru",
+    "postal_code": "94761"
   }
 ]

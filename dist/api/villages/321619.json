@@ -2,36 +2,43 @@
   {
     "code": "3216192001",
     "district_code": "321619",
-    "name": "Cibatu"
+    "name": "Cibatu",
+    "postal_code": "17532"
   },
   {
     "code": "3216192002",
     "district_code": "321619",
-    "name": "Sukasejati"
+    "name": "Sukasejati",
+    "postal_code": "17532"
   },
   {
     "code": "3216192003",
     "district_code": "321619",
-    "name": "Ciantra"
+    "name": "Ciantra",
+    "postal_code": "17532"
   },
   {
     "code": "3216192004",
     "district_code": "321619",
-    "name": "Sukadami"
+    "name": "Sukadami",
+    "postal_code": "17532"
   },
   {
     "code": "3216192005",
     "district_code": "321619",
-    "name": "Sukaresmi"
+    "name": "Sukaresmi",
+    "postal_code": "17532"
   },
   {
     "code": "3216192006",
     "district_code": "321619",
-    "name": "Serang"
+    "name": "Serang",
+    "postal_code": "17532"
   },
   {
     "code": "3216192007",
     "district_code": "321619",
-    "name": "Pasirsari"
+    "name": "Pasirsari",
+    "postal_code": "17532"
   }
 ]

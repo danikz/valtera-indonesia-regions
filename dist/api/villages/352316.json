@@ -2,86 +2,103 @@
   {
     "code": "3523161003",
     "district_code": "352316",
-    "name": "Mondokan"
+    "name": "Mondokan",
+    "postal_code": "62319"
   },
   {
     "code": "3523161005",
     "district_code": "352316",
-    "name": "Perbon"
+    "name": "Perbon",
+    "postal_code": "62319"
   },
   {
     "code": "3523161006",
     "district_code": "352316",
-    "name": "Latsari"
+    "name": "Latsari",
+    "postal_code": "62314"
   },
   {
     "code": "3523161007",
     "district_code": "352316",
-    "name": "Karangsari"
+    "name": "Karangsari",
+    "postal_code": "62314"
   },
   {
     "code": "3523161008",
     "district_code": "352316",
-    "name": "Kingking"
+    "name": "Kingking",
+    "postal_code": "62313"
   },
   {
     "code": "3523161009",
     "district_code": "352316",
-    "name": "Ronggomulyo"
+    "name": "Ronggomulyo",
+    "postal_code": "62313"
   },
   {
     "code": "3523161010",
     "district_code": "352316",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "62315"
   },
   {
     "code": "3523161011",
     "district_code": "352316",
-    "name": "Doromukti"
+    "name": "Doromukti",
+    "postal_code": "62316"
   },
   {
     "code": "3523161012",
     "district_code": "352316",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "62312"
   },
   {
     "code": "3523161013",
     "district_code": "352316",
-    "name": "Kutorejo"
+    "name": "Kutorejo",
+    "postal_code": "62311"
   },
   {
     "code": "3523161014",
     "district_code": "352316",
-    "name": "Kebonsari"
+    "name": "Kebonsari",
+    "postal_code": "62317"
   },
   {
     "code": "3523161015",
     "district_code": "352316",
-    "name": "Sendangharjo"
+    "name": "Sendangharjo",
+    "postal_code": "62319"
   },
   {
     "code": "3523161016",
     "district_code": "352316",
-    "name": "Baturetno"
+    "name": "Baturetno",
+    "postal_code": "62318"
   },
   {
     "code": "3523161017",
     "district_code": "352316",
-    "name": "Sukolilo"
+    "name": "Sukolilo",
+    "postal_code": "62318"
   },
   {
     "code": "3523162001",
     "district_code": "352316",
-    "name": "Sumurgung"
+    "name": "Sumurgung",
+    "postal_code": "62319"
   },
   {
     "code": "3523162002",
     "district_code": "352316",
-    "name": "Sugiharjo"
+    "name": "Sugiharjo",
+    "postal_code": "62319"
   },
   {
     "code": "3523162004",
     "district_code": "352316",
-    "name": "Kembangbilo"
+    "name": "Kembangbilo",
+    "postal_code": "62319"
   }
 ]

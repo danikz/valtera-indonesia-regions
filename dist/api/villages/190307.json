@@ -2,26 +2,31 @@
   {
     "code": "1903072001",
     "district_code": "190307",
-    "name": "Batu Betumpang"
+    "name": "Batu Betumpang",
+    "postal_code": "33779"
   },
   {
     "code": "1903072002",
     "district_code": "190307",
-    "name": "Sukajaya"
+    "name": "Sukajaya",
+    "postal_code": "33779"
   },
   {
     "code": "1903072003",
     "district_code": "190307",
-    "name": "Panca Tunggal"
+    "name": "Panca Tunggal",
+    "postal_code": "33779"
   },
   {
     "code": "1903072004",
     "district_code": "190307",
-    "name": "Sumber Jaya Permai"
+    "name": "Sumber Jaya Permai",
+    "postal_code": "33779"
   },
   {
     "code": "1903072005",
     "district_code": "190307",
-    "name": "Fajar Indah"
+    "name": "Fajar Indah",
+    "postal_code": "33779"
   }
 ]

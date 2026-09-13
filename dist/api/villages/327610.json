@@ -2,36 +2,43 @@
   {
     "code": "3276101001",
     "district_code": "327610",
-    "name": "Tapos"
+    "name": "Tapos",
+    "postal_code": "16457"
   },
   {
     "code": "3276101002",
     "district_code": "327610",
-    "name": "Leuwinanggung"
+    "name": "Leuwinanggung",
+    "postal_code": "16456"
   },
   {
     "code": "3276101003",
     "district_code": "327610",
-    "name": "Sukatani"
+    "name": "Sukatani",
+    "postal_code": "16454"
   },
   {
     "code": "3276101004",
     "district_code": "327610",
-    "name": "Sukamaju Baru"
+    "name": "Sukamaju Baru",
+    "postal_code": "16455"
   },
   {
     "code": "3276101005",
     "district_code": "327610",
-    "name": "Jatijajar"
+    "name": "Jatijajar",
+    "postal_code": "16451"
   },
   {
     "code": "3276101006",
     "district_code": "327610",
-    "name": "Cilangkap"
+    "name": "Cilangkap",
+    "postal_code": "16458"
   },
   {
     "code": "3276101007",
     "district_code": "327610",
-    "name": "Cimpaeun"
+    "name": "Cimpaeun",
+    "postal_code": "16459"
   }
 ]

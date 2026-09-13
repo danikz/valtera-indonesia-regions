@@ -2,36 +2,43 @@
   {
     "code": "9507112001",
     "district_code": "950711",
-    "name": "Dugume"
+    "name": "Dugume",
+    "postal_code": "99591"
   },
   {
     "code": "9507112002",
     "district_code": "950711",
-    "name": "Wulundia"
+    "name": "Wulundia",
+    "postal_code": "99591"
   },
   {
     "code": "9507112003",
     "district_code": "950711",
-    "name": "Dapogi"
+    "name": "Dapogi",
+    "postal_code": "99591"
   },
   {
     "code": "9507112004",
     "district_code": "950711",
-    "name": "Kulumburu"
+    "name": "Kulumburu",
+    "postal_code": "99591"
   },
   {
     "code": "9507112005",
     "district_code": "950711",
-    "name": "Molobok"
+    "name": "Molobok",
+    "postal_code": "99591"
   },
   {
     "code": "9507112006",
     "district_code": "950711",
-    "name": "Tugunakwi"
+    "name": "Tugunakwi",
+    "postal_code": "99591"
   },
   {
     "code": "9507112007",
     "district_code": "950711",
-    "name": "Yanuru"
+    "name": "Yanuru",
+    "postal_code": "99591"
   }
 ]

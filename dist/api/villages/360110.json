@@ -2,41 +2,49 @@
   {
     "code": "3601102001",
     "district_code": "360110",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "42274"
   },
   {
     "code": "3601102002",
     "district_code": "360110",
-    "name": "Cijakan"
+    "name": "Cijakan",
+    "postal_code": "42274"
   },
   {
     "code": "3601102003",
     "district_code": "360110",
-    "name": "Geredug"
+    "name": "Geredug",
+    "postal_code": "42274"
   },
   {
     "code": "3601102004",
     "district_code": "360110",
-    "name": "Bojong"
+    "name": "Bojong",
+    "postal_code": "42274"
   },
   {
     "code": "3601102005",
     "district_code": "360110",
-    "name": "Banyumas"
+    "name": "Banyumas",
+    "postal_code": "42274"
   },
   {
     "code": "3601102006",
     "district_code": "360110",
-    "name": "Citumenggung"
+    "name": "Citumenggung",
+    "postal_code": "42274"
   },
   {
     "code": "3601102007",
     "district_code": "360110",
-    "name": "Manggungjaya"
+    "name": "Manggungjaya",
+    "postal_code": "42274"
   },
   {
     "code": "3601102008",
     "district_code": "360110",
-    "name": "Cahayamekar"
+    "name": "Cahayamekar",
+    "postal_code": "42274"
   }
 ]

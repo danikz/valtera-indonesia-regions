@@ -2,36 +2,43 @@
   {
     "code": "5311122001",
     "district_code": "531112",
-    "name": "Kananggar"
+    "name": "Kananggar",
+    "postal_code": "87175"
   },
   {
     "code": "5311122002",
     "district_code": "531112",
-    "name": "Mehang Mata"
+    "name": "Mehang Mata",
+    "postal_code": "87175"
   },
   {
     "code": "5311122003",
     "district_code": "531112",
-    "name": "Karera Jangga"
+    "name": "Karera Jangga",
+    "postal_code": "87175"
   },
   {
     "code": "5311122004",
     "district_code": "531112",
-    "name": "Praimbana"
+    "name": "Praimbana",
+    "postal_code": "87175"
   },
   {
     "code": "5311122005",
     "district_code": "531112",
-    "name": "Pabera Manera"
+    "name": "Pabera Manera",
+    "postal_code": "87175"
   },
   {
     "code": "5311122010",
     "district_code": "531112",
-    "name": "Winumuru"
+    "name": "Winumuru",
+    "postal_code": "87175"
   },
   {
     "code": "5311122011",
     "district_code": "531112",
-    "name": "Laitaku"
+    "name": "Laitaku",
+    "postal_code": "87175"
   }
 ]

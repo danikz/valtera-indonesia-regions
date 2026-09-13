@@ -2,36 +2,43 @@
   {
     "code": "3314192001",
     "district_code": "331419",
-    "name": "Katelan"
+    "name": "Katelan",
+    "postal_code": "57261"
   },
   {
     "code": "3314192002",
     "district_code": "331419",
-    "name": "Dukuh"
+    "name": "Dukuh",
+    "postal_code": "57261"
   },
   {
     "code": "3314192003",
     "district_code": "331419",
-    "name": "Jekawal"
+    "name": "Jekawal",
+    "postal_code": "57261"
   },
   {
     "code": "3314192004",
     "district_code": "331419",
-    "name": "Galeh"
+    "name": "Galeh",
+    "postal_code": "57261"
   },
   {
     "code": "3314192005",
     "district_code": "331419",
-    "name": "Ngrombo"
+    "name": "Ngrombo",
+    "postal_code": "57261"
   },
   {
     "code": "3314192006",
     "district_code": "331419",
-    "name": "Sigit"
+    "name": "Sigit",
+    "postal_code": "57261"
   },
   {
     "code": "3314192007",
     "district_code": "331419",
-    "name": "Denanyar"
+    "name": "Denanyar",
+    "postal_code": "57261"
   }
 ]

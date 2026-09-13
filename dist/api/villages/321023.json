@@ -2,66 +2,79 @@
   {
     "code": "3210232001",
     "district_code": "321023",
-    "name": "Sedareja"
+    "name": "Sedareja",
+    "postal_code": "45467"
   },
   {
     "code": "3210232002",
     "district_code": "321023",
-    "name": "Cidadap"
+    "name": "Cidadap",
+    "postal_code": "45467"
   },
   {
     "code": "3210232003",
     "district_code": "321023",
-    "name": "Maniis"
+    "name": "Maniis",
+    "postal_code": "45467"
   },
   {
     "code": "3210232004",
     "district_code": "321023",
-    "name": "Nagarakembang"
+    "name": "Nagarakembang",
+    "postal_code": "45467"
   },
   {
     "code": "3210232005",
     "district_code": "321023",
-    "name": "Wangkelang"
+    "name": "Wangkelang",
+    "postal_code": "45467"
   },
   {
     "code": "3210232006",
     "district_code": "321023",
-    "name": "Cimanggu"
+    "name": "Cimanggu",
+    "postal_code": "45467"
   },
   {
     "code": "3210232007",
     "district_code": "321023",
-    "name": "Cingambul"
+    "name": "Cingambul",
+    "postal_code": "45467"
   },
   {
     "code": "3210232008",
     "district_code": "321023",
-    "name": "Cikondang"
+    "name": "Cikondang",
+    "postal_code": "45467"
   },
   {
     "code": "3210232009",
     "district_code": "321023",
-    "name": "Ciranjeng"
+    "name": "Ciranjeng",
+    "postal_code": "45467"
   },
   {
     "code": "3210232010",
     "district_code": "321023",
-    "name": "Rawa"
+    "name": "Rawa",
+    "postal_code": "45467"
   },
   {
     "code": "3210232011",
     "district_code": "321023",
-    "name": "Kondangmekar"
+    "name": "Kondangmekar",
+    "postal_code": "45467"
   },
   {
     "code": "3210232012",
     "district_code": "321023",
-    "name": "Cintaasih"
+    "name": "Cintaasih",
+    "postal_code": "45467"
   },
   {
     "code": "3210232013",
     "district_code": "321023",
-    "name": "Muktisari"
+    "name": "Muktisari",
+    "postal_code": "45467"
   }
 ]

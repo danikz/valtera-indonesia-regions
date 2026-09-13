@@ -2,36 +2,43 @@
   {
     "code": "9111102001",
     "district_code": "911110",
-    "name": "Yabanda"
+    "name": "Yabanda",
+    "postal_code": "99463"
   },
   {
     "code": "9111102002",
     "district_code": "911110",
-    "name": "Yuruf"
+    "name": "Yuruf",
+    "postal_code": "99463"
   },
   {
     "code": "9111102003",
     "district_code": "911110",
-    "name": "Amgotro"
+    "name": "Amgotro",
+    "postal_code": "99463"
   },
   {
     "code": "9111102004",
     "district_code": "911110",
-    "name": "Jifanggry"
+    "name": "Jifanggry",
+    "postal_code": "99463"
   },
   {
     "code": "9111102005",
     "district_code": "911110",
-    "name": "Monggoafi"
+    "name": "Monggoafi",
+    "postal_code": "99463"
   },
   {
     "code": "9111102006",
     "district_code": "911110",
-    "name": "Fafenumbu"
+    "name": "Fafenumbu",
+    "postal_code": "99463"
   },
   {
     "code": "9111102007",
     "district_code": "911110",
-    "name": "Akarinda"
+    "name": "Akarinda",
+    "postal_code": "99463"
   }
 ]

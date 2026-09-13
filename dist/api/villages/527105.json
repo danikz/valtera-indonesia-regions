@@ -2,46 +2,55 @@
   {
     "code": "5271051001",
     "district_code": "527105",
-    "name": "Mataram Barat"
+    "name": "Mataram Barat",
+    "postal_code": "83126"
   },
   {
     "code": "5271051002",
     "district_code": "527105",
-    "name": "Dasan Agung"
+    "name": "Dasan Agung",
+    "postal_code": "83125"
   },
   {
     "code": "5271051003",
     "district_code": "527105",
-    "name": "Monjok"
+    "name": "Monjok",
+    "postal_code": "83122"
   },
   {
     "code": "5271051004",
     "district_code": "527105",
-    "name": "Karang Baru"
+    "name": "Karang Baru",
+    "postal_code": "83123"
   },
   {
     "code": "5271051005",
     "district_code": "527105",
-    "name": "Rembiga"
+    "name": "Rembiga",
+    "postal_code": "83124"
   },
   {
     "code": "5271051006",
     "district_code": "527105",
-    "name": "Gomong"
+    "name": "Gomong",
+    "postal_code": "83126"
   },
   {
     "code": "5271051007",
     "district_code": "527105",
-    "name": "Dasan Agung Baru"
+    "name": "Dasan Agung Baru",
+    "postal_code": "83125"
   },
   {
     "code": "5271051008",
     "district_code": "527105",
-    "name": "Monjok Timur"
+    "name": "Monjok Timur",
+    "postal_code": "83122"
   },
   {
     "code": "5271051009",
     "district_code": "527105",
-    "name": "Monjok Barat"
+    "name": "Monjok Barat",
+    "postal_code": "83122"
   }
 ]

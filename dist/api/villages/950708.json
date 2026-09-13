@@ -2,46 +2,55 @@
   {
     "code": "9507082001",
     "district_code": "950708",
-    "name": "Kuwobaga"
+    "name": "Kuwobaga",
+    "postal_code": "99595"
   },
   {
     "code": "9507082002",
     "district_code": "950708",
-    "name": "Milinggame"
+    "name": "Milinggame",
+    "postal_code": "99595"
   },
   {
     "code": "9507082003",
     "district_code": "950708",
-    "name": "Arigineri"
+    "name": "Arigineri",
+    "postal_code": "99538"
   },
   {
     "code": "9507082004",
     "district_code": "950708",
-    "name": "Muleme"
+    "name": "Muleme",
+    "postal_code": "99538"
   },
   {
     "code": "9507082005",
     "district_code": "950708",
-    "name": "Arungwi"
+    "name": "Arungwi",
+    "postal_code": "99595"
   },
   {
     "code": "9507082006",
     "district_code": "950708",
-    "name": "Ponuma"
+    "name": "Ponuma",
+    "postal_code": "99538"
   },
   {
     "code": "9507082007",
     "district_code": "950708",
-    "name": "Gubulela"
+    "name": "Gubulela",
+    "postal_code": "99538"
   },
   {
     "code": "9507082008",
     "district_code": "950708",
-    "name": "Kolari"
+    "name": "Kolari",
+    "postal_code": "99538"
   },
   {
     "code": "9507082009",
     "district_code": "950708",
-    "name": "Gumbo"
+    "name": "Gumbo",
+    "postal_code": "99538"
   }
 ]

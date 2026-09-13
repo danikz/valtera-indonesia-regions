@@ -2,36 +2,43 @@
   {
     "code": "6302152001",
     "district_code": "630215",
-    "name": "Buluh Kuning"
+    "name": "Buluh Kuning",
+    "postal_code": "72167"
   },
   {
     "code": "6302152002",
     "district_code": "630215",
-    "name": "Gendang Timburu"
+    "name": "Gendang Timburu",
+    "postal_code": "72167"
   },
   {
     "code": "6302152004",
     "district_code": "630215",
-    "name": "Manunggal Lama"
+    "name": "Manunggal Lama",
+    "postal_code": "72167"
   },
   {
     "code": "6302152006",
     "district_code": "630215",
-    "name": "Rantau Buda"
+    "name": "Rantau Buda",
+    "postal_code": "72167"
   },
   {
     "code": "6302152007",
     "district_code": "630215",
-    "name": "Manunggul Baru"
+    "name": "Manunggul Baru",
+    "postal_code": "72167"
   },
   {
     "code": "6302152008",
     "district_code": "630215",
-    "name": "Terombong Sari"
+    "name": "Terombong Sari",
+    "postal_code": "72167"
   },
   {
     "code": "6302152009",
     "district_code": "630215",
-    "name": "Rantau Jaya"
+    "name": "Rantau Jaya",
+    "postal_code": "72167"
   }
 ]

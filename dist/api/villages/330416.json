@@ -2,41 +2,49 @@
   {
     "code": "3304162001",
     "district_code": "330416",
-    "name": "Batur"
+    "name": "Batur",
+    "postal_code": "53456"
   },
   {
     "code": "3304162002",
     "district_code": "330416",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "53456"
   },
   {
     "code": "3304162003",
     "district_code": "330416",
-    "name": "Pasurenan"
+    "name": "Pasurenan",
+    "postal_code": "53456"
   },
   {
     "code": "3304162004",
     "district_code": "330416",
-    "name": "Pekasiran"
+    "name": "Pekasiran",
+    "postal_code": "53456"
   },
   {
     "code": "3304162005",
     "district_code": "330416",
-    "name": "Kepakisan"
+    "name": "Kepakisan",
+    "postal_code": "53456"
   },
   {
     "code": "3304162006",
     "district_code": "330416",
-    "name": "Bakal"
+    "name": "Bakal",
+    "postal_code": "53456"
   },
   {
     "code": "3304162007",
     "district_code": "330416",
-    "name": "Karangtengah"
+    "name": "Karangtengah",
+    "postal_code": "53456"
   },
   {
     "code": "3304162008",
     "district_code": "330416",
-    "name": "Dieng Kulon"
+    "name": "Dieng Kulon",
+    "postal_code": "53456"
   }
 ]

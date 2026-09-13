@@ -2,36 +2,43 @@
   {
     "code": "9210132001",
     "district_code": "921013",
-    "name": "Ainesra"
+    "name": "Ainesra",
+    "postal_code": ""
   },
   {
     "code": "9210132002",
     "district_code": "921013",
-    "name": "Aimau"
+    "name": "Aimau",
+    "postal_code": ""
   },
   {
     "code": "9210132003",
     "district_code": "921013",
-    "name": "Mesyam"
+    "name": "Mesyam",
+    "postal_code": ""
   },
   {
     "code": "9210132004",
     "district_code": "921013",
-    "name": "Aisasior"
+    "name": "Aisasior",
+    "postal_code": ""
   },
   {
     "code": "9210132005",
     "district_code": "921013",
-    "name": "Franeway"
+    "name": "Franeway",
+    "postal_code": ""
   },
   {
     "code": "9210132006",
     "district_code": "921013",
-    "name": "Aikingging"
+    "name": "Aikingging",
+    "postal_code": ""
   },
   {
     "code": "9210132007",
     "district_code": "921013",
-    "name": "Tiefromen"
+    "name": "Tiefromen",
+    "postal_code": ""
   }
 ]

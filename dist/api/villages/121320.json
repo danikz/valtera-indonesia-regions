@@ -2,56 +2,67 @@
   {
     "code": "1213202001",
     "district_code": "121320",
-    "name": "Huta Lombang"
+    "name": "Huta Lombang",
+    "postal_code": "22995"
   },
   {
     "code": "1213202002",
     "district_code": "121320",
-    "name": "Huta Baru"
+    "name": "Huta Baru",
+    "postal_code": "22995"
   },
   {
     "code": "1213202003",
     "district_code": "121320",
-    "name": "Handel"
+    "name": "Handel",
+    "postal_code": "22995"
   },
   {
     "code": "1213202004",
     "district_code": "121320",
-    "name": "Hutatinggi"
+    "name": "Hutatinggi",
+    "postal_code": "22995"
   },
   {
     "code": "1213202005",
     "district_code": "121320",
-    "name": "Hutanamale"
+    "name": "Hutanamale",
+    "postal_code": "22995"
   },
   {
     "code": "1213202006",
     "district_code": "121320",
-    "name": "Hutabaringin Julu"
+    "name": "Hutabaringin Julu",
+    "postal_code": "22995"
   },
   {
     "code": "1213202007",
     "district_code": "121320",
-    "name": "Sibanggor Jae"
+    "name": "Sibanggor Jae",
+    "postal_code": "22995"
   },
   {
     "code": "1213202008",
     "district_code": "121320",
-    "name": "Sibanggor Tonga"
+    "name": "Sibanggor Tonga",
+    "postal_code": "22995"
   },
   {
     "code": "1213202009",
     "district_code": "121320",
-    "name": "Sibanggor Julu"
+    "name": "Sibanggor Julu",
+    "postal_code": "22995"
   },
   {
     "code": "1213202010",
     "district_code": "121320",
-    "name": "Purba Julu"
+    "name": "Purba Julu",
+    "postal_code": "22995"
   },
   {
     "code": "1213202011",
     "district_code": "121320",
-    "name": "Huta Baringin"
+    "name": "Huta Baringin",
+    "postal_code": "22995"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "6103052001",
     "district_code": "610305",
-    "name": "Bonti"
+    "name": "Bonti",
+    "postal_code": "78552"
   },
   {
     "code": "6103052002",
     "district_code": "610305",
-    "name": "Sami"
+    "name": "Sami",
+    "postal_code": "78552"
   },
   {
     "code": "6103052003",
     "district_code": "610305",
-    "name": "Bahta"
+    "name": "Bahta",
+    "postal_code": "78552"
   },
   {
     "code": "6103052004",
     "district_code": "610305",
-    "name": "Upe"
+    "name": "Upe",
+    "postal_code": "78552"
   },
   {
     "code": "6103052005",
     "district_code": "610305",
-    "name": "Tunggul Boyok"
+    "name": "Tunggul Boyok",
+    "postal_code": "78552"
   },
   {
     "code": "6103052006",
     "district_code": "610305",
-    "name": "Empodis"
+    "name": "Empodis",
+    "postal_code": "78552"
   },
   {
     "code": "6103052007",
     "district_code": "610305",
-    "name": "Kampuh"
+    "name": "Kampuh",
+    "postal_code": "78552"
   },
   {
     "code": "6103052008",
     "district_code": "610305",
-    "name": "Bantai"
+    "name": "Bantai",
+    "postal_code": "78552"
   },
   {
     "code": "6103052009",
     "district_code": "610305",
-    "name": "Majel"
+    "name": "Majel",
+    "postal_code": "78552"
   }
 ]

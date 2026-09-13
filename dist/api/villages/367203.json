@@ -2,21 +2,25 @@
   {
     "code": "3672031001",
     "district_code": "367203",
-    "name": "Tamansari"
+    "name": "Tamansari",
+    "postal_code": "42438"
   },
   {
     "code": "3672031002",
     "district_code": "367203",
-    "name": "Lebakgede"
+    "name": "Lebakgede",
+    "postal_code": "42431"
   },
   {
     "code": "3672031003",
     "district_code": "367203",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "42438"
   },
   {
     "code": "3672031004",
     "district_code": "367203",
-    "name": "Suralaya"
+    "name": "Suralaya",
+    "postal_code": "42439"
   }
 ]

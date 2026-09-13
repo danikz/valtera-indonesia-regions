@@ -2,56 +2,67 @@
   {
     "code": "7306111002",
     "district_code": "730611",
-    "name": "Tonrorita"
+    "name": "Tonrorita",
+    "postal_code": "90244"
   },
   {
     "code": "7306111004",
     "district_code": "730611",
-    "name": "Lauwa"
+    "name": "Lauwa",
+    "postal_code": "90244"
   },
   {
     "code": "7306112001",
     "district_code": "730611",
-    "name": "Taring"
+    "name": "Taring",
+    "postal_code": "90244"
   },
   {
     "code": "7306112003",
     "district_code": "730611",
-    "name": "Pencong"
+    "name": "Pencong",
+    "postal_code": "90244"
   },
   {
     "code": "7306112005",
     "district_code": "730611",
-    "name": "Berutallasa"
+    "name": "Berutallasa",
+    "postal_code": "90244"
   },
   {
     "code": "7306112006",
     "district_code": "730611",
-    "name": "Parangloe"
+    "name": "Parangloe",
+    "postal_code": "90244"
   },
   {
     "code": "7306112007",
     "district_code": "730611",
-    "name": "Baturappe"
+    "name": "Baturappe",
+    "postal_code": "90244"
   },
   {
     "code": "7306112008",
     "district_code": "730611",
-    "name": "Batumalonro"
+    "name": "Batumalonro",
+    "postal_code": "90244"
   },
   {
     "code": "7306112009",
     "district_code": "730611",
-    "name": "Borimasunggu"
+    "name": "Borimasunggu",
+    "postal_code": "90244"
   },
   {
     "code": "7306112010",
     "district_code": "730611",
-    "name": "Lembangloe"
+    "name": "Lembangloe",
+    "postal_code": "90244"
   },
   {
     "code": "7306112011",
     "district_code": "730611",
-    "name": "Julukanaya"
+    "name": "Julukanaya",
+    "postal_code": "90244"
   }
 ]

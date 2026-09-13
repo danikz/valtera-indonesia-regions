@@ -2,31 +2,37 @@
   {
     "code": "1301122001",
     "district_code": "130112",
-    "name": "Puluik-Puluik"
+    "name": "Puluik-Puluik",
+    "postal_code": "25653"
   },
   {
     "code": "1301122002",
     "district_code": "130112",
-    "name": "Koto Ranah"
+    "name": "Koto Ranah",
+    "postal_code": "25653"
   },
   {
     "code": "1301122003",
     "district_code": "130112",
-    "name": "Muaro Aie"
+    "name": "Muaro Aie",
+    "postal_code": "25653"
   },
   {
     "code": "1301122004",
     "district_code": "130112",
-    "name": "Pancuang Taba"
+    "name": "Pancuang Taba",
+    "postal_code": "25653"
   },
   {
     "code": "1301122005",
     "district_code": "130112",
-    "name": "Puluik-Puluik Selatan"
+    "name": "Puluik-Puluik Selatan",
+    "postal_code": "25653"
   },
   {
     "code": "1301122006",
     "district_code": "130112",
-    "name": "Limau Gadang Pancung Taba"
+    "name": "Limau Gadang Pancung Taba",
+    "postal_code": "25653"
   }
 ]

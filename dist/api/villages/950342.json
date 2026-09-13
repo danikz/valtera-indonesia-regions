@@ -2,46 +2,55 @@
   {
     "code": "9503422001",
     "district_code": "950342",
-    "name": "Seradala"
+    "name": "Seradala",
+    "postal_code": "99711"
   },
   {
     "code": "9503422002",
     "district_code": "950342",
-    "name": "Moruf"
+    "name": "Moruf",
+    "postal_code": "99711"
   },
   {
     "code": "9503422003",
     "district_code": "950342",
-    "name": "Koper"
+    "name": "Koper",
+    "postal_code": "99711"
   },
   {
     "code": "9503422004",
     "district_code": "950342",
-    "name": "Teret"
+    "name": "Teret",
+    "postal_code": "99711"
   },
   {
     "code": "9503422005",
     "district_code": "950342",
-    "name": "Tokuni"
+    "name": "Tokuni",
+    "postal_code": "99711"
   },
   {
     "code": "9503422006",
     "district_code": "950342",
-    "name": "Burupmakot"
+    "name": "Burupmakot",
+    "postal_code": "99711"
   },
   {
     "code": "9503422007",
     "district_code": "950342",
-    "name": "Yasip"
+    "name": "Yasip",
+    "postal_code": "99711"
   },
   {
     "code": "9503422008",
     "district_code": "950342",
-    "name": "Masomduba"
+    "name": "Masomduba",
+    "postal_code": "99711"
   },
   {
     "code": "9503422009",
     "district_code": "950342",
-    "name": "Samboga"
+    "name": "Samboga",
+    "postal_code": "99711"
   }
 ]

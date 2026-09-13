@@ -2,66 +2,79 @@
   {
     "code": "3211181001",
     "district_code": "321118",
-    "name": "Kotakaler"
+    "name": "Kotakaler",
+    "postal_code": "45322"
   },
   {
     "code": "3211181002",
     "district_code": "321118",
-    "name": "Situ"
+    "name": "Situ",
+    "postal_code": "45323"
   },
   {
     "code": "3211181003",
     "district_code": "321118",
-    "name": "Talun"
+    "name": "Talun",
+    "postal_code": "45321"
   },
   {
     "code": "3211182004",
     "district_code": "321118",
-    "name": "Padasuka"
+    "name": "Padasuka",
+    "postal_code": "45321"
   },
   {
     "code": "3211182005",
     "district_code": "321118",
-    "name": "Mulyasari"
+    "name": "Mulyasari",
+    "postal_code": "45321"
   },
   {
     "code": "3211182006",
     "district_code": "321118",
-    "name": "Girimukti"
+    "name": "Girimukti",
+    "postal_code": "45321"
   },
   {
     "code": "3211182007",
     "district_code": "321118",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "45321"
   },
   {
     "code": "3211182008",
     "district_code": "321118",
-    "name": "Margamukti"
+    "name": "Margamukti",
+    "postal_code": "45321"
   },
   {
     "code": "3211182009",
     "district_code": "321118",
-    "name": "Sirnamulya"
+    "name": "Sirnamulya",
+    "postal_code": "45321"
   },
   {
     "code": "3211182010",
     "district_code": "321118",
-    "name": "Kebonjati"
+    "name": "Kebonjati",
+    "postal_code": "45321"
   },
   {
     "code": "3211182011",
     "district_code": "321118",
-    "name": "Jatihurip"
+    "name": "Jatihurip",
+    "postal_code": "45321"
   },
   {
     "code": "3211182012",
     "district_code": "321118",
-    "name": "Jatimulya"
+    "name": "Jatimulya",
+    "postal_code": "45321"
   },
   {
     "code": "3211182013",
     "district_code": "321118",
-    "name": "Rancamulya"
+    "name": "Rancamulya",
+    "postal_code": "45321"
   }
 ]

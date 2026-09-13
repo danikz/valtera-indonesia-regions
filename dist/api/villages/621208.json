@@ -2,31 +2,37 @@
   {
     "code": "6212082001",
     "district_code": "621208",
-    "name": "Batu Mirau"
+    "name": "Batu Mirau",
+    "postal_code": "73970"
   },
   {
     "code": "6212082002",
     "district_code": "621208",
-    "name": "Tambelum"
+    "name": "Tambelum",
+    "postal_code": "73970"
   },
   {
     "code": "6212082003",
     "district_code": "621208",
-    "name": "Tumbang Bantian"
+    "name": "Tumbang Bantian",
+    "postal_code": "73970"
   },
   {
     "code": "6212082004",
     "district_code": "621208",
-    "name": "Tumbang Saan"
+    "name": "Tumbang Saan",
+    "postal_code": "73970"
   },
   {
     "code": "6212082005",
     "district_code": "621208",
-    "name": "Tumbang Kolon"
+    "name": "Tumbang Kolon",
+    "postal_code": "73970"
   },
   {
     "code": "6212082006",
     "district_code": "621208",
-    "name": "Tumbang Apat"
+    "name": "Tumbang Apat",
+    "postal_code": "73970"
   }
 ]

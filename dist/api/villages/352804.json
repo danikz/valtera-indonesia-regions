@@ -2,91 +2,109 @@
   {
     "code": "3528041001",
     "district_code": "352804",
-    "name": "Kangenan"
+    "name": "Kangenan",
+    "postal_code": "69317"
   },
   {
     "code": "3528041003",
     "district_code": "352804",
-    "name": "Patemon"
+    "name": "Patemon",
+    "postal_code": "69312"
   },
   {
     "code": "3528041011",
     "district_code": "352804",
-    "name": "Bugih"
+    "name": "Bugih",
+    "postal_code": "69316"
   },
   {
     "code": "3528041012",
     "district_code": "352804",
-    "name": "Jungcang Cang"
+    "name": "Jungcang Cang",
+    "postal_code": "69317"
   },
   {
     "code": "3528041013",
     "district_code": "352804",
-    "name": "Parteker"
+    "name": "Parteker",
+    "postal_code": "69311"
   },
   {
     "code": "3528041014",
     "district_code": "352804",
-    "name": "Barurambat Kota"
+    "name": "Barurambat Kota",
+    "postal_code": "69317"
   },
   {
     "code": "3528041015",
     "district_code": "352804",
-    "name": "Geladak Anyar"
+    "name": "Geladak Anyar",
+    "postal_code": "69317"
   },
   {
     "code": "3528041016",
     "district_code": "352804",
-    "name": "Kolpajung"
+    "name": "Kolpajung",
+    "postal_code": "69314"
   },
   {
     "code": "3528041017",
     "district_code": "352804",
-    "name": "Kowel"
+    "name": "Kowel",
+    "postal_code": "69317"
   },
   {
     "code": "3528042002",
     "district_code": "352804",
-    "name": "Panempan"
+    "name": "Panempan",
+    "postal_code": "69317"
   },
   {
     "code": "3528042004",
     "district_code": "352804",
-    "name": "Laden"
+    "name": "Laden",
+    "postal_code": "69317"
   },
   {
     "code": "3528042005",
     "district_code": "352804",
-    "name": "Jalmak"
+    "name": "Jalmak",
+    "postal_code": "69317"
   },
   {
     "code": "3528042006",
     "district_code": "352804",
-    "name": "Teja Barat"
+    "name": "Teja Barat",
+    "postal_code": "69317"
   },
   {
     "code": "3528042007",
     "district_code": "352804",
-    "name": "Teja Timur"
+    "name": "Teja Timur",
+    "postal_code": "69317"
   },
   {
     "code": "3528042008",
     "district_code": "352804",
-    "name": "Bettet"
+    "name": "Bettet",
+    "postal_code": "69317"
   },
   {
     "code": "3528042009",
     "district_code": "352804",
-    "name": "Nyalabu Laok"
+    "name": "Nyalabu Laok",
+    "postal_code": "69317"
   },
   {
     "code": "3528042010",
     "district_code": "352804",
-    "name": "Nyalabu Daja"
+    "name": "Nyalabu Daja",
+    "postal_code": "69317"
   },
   {
     "code": "3528042018",
     "district_code": "352804",
-    "name": "Toronan"
+    "name": "Toronan",
+    "postal_code": "69317"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "7501192001",
     "district_code": "750119",
-    "name": "Tabongo Timur"
+    "name": "Tabongo Timur",
+    "postal_code": "96242"
   },
   {
     "code": "7501192002",
     "district_code": "750119",
-    "name": "Tabongo Barat"
+    "name": "Tabongo Barat",
+    "postal_code": "96242"
   },
   {
     "code": "7501192003",
     "district_code": "750119",
-    "name": "Limehe Barat"
+    "name": "Limehe Barat",
+    "postal_code": "96242"
   },
   {
     "code": "7501192004",
     "district_code": "750119",
-    "name": "Limehe Timur"
+    "name": "Limehe Timur",
+    "postal_code": "96242"
   },
   {
     "code": "7501192005",
     "district_code": "750119",
-    "name": "Ilomangga"
+    "name": "Ilomangga",
+    "postal_code": "96242"
   },
   {
     "code": "7501192006",
     "district_code": "750119",
-    "name": "Motinelo"
+    "name": "Motinelo",
+    "postal_code": "96242"
   },
   {
     "code": "7501192007",
     "district_code": "750119",
-    "name": "Moahudu"
+    "name": "Moahudu",
+    "postal_code": "96242"
   },
   {
     "code": "7501192008",
     "district_code": "750119",
-    "name": "Teratai"
+    "name": "Teratai",
+    "postal_code": "96242"
   },
   {
     "code": "7501192009",
     "district_code": "750119",
-    "name": "Limehu"
+    "name": "Limehu",
+    "postal_code": "96242"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "7571071001",
     "district_code": "757107",
-    "name": "Tanggikiki"
+    "name": "Tanggikiki",
+    "postal_code": "96126"
   },
   {
     "code": "7571071002",
     "district_code": "757107",
-    "name": "Tapa"
+    "name": "Tapa",
+    "postal_code": "96125"
   },
   {
     "code": "7571071003",
     "district_code": "757107",
-    "name": "Bulotadaa Barat"
+    "name": "Bulotadaa Barat",
+    "postal_code": "96124"
   },
   {
     "code": "7571071004",
     "district_code": "757107",
-    "name": "Bulotadaa Timur"
+    "name": "Bulotadaa Timur",
+    "postal_code": "96121"
   },
   {
     "code": "7571071005",
     "district_code": "757107",
-    "name": "Molosifat U"
+    "name": "Molosifat U",
+    "postal_code": "96126"
   }
 ]

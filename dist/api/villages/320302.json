@@ -2,56 +2,67 @@
   {
     "code": "3203022002",
     "district_code": "320302",
-    "name": "Jambudipa"
+    "name": "Jambudipa",
+    "postal_code": "43260"
   },
   {
     "code": "3203022006",
     "district_code": "320302",
-    "name": "Cisarandi"
+    "name": "Cisarandi",
+    "postal_code": "43260"
   },
   {
     "code": "3203022007",
     "district_code": "320302",
-    "name": "Cikaroya"
+    "name": "Cikaroya",
+    "postal_code": "43260"
   },
   {
     "code": "3203022008",
     "district_code": "320302",
-    "name": "Bunikasih"
+    "name": "Bunikasih",
+    "postal_code": "43260"
   },
   {
     "code": "3203022009",
     "district_code": "320302",
-    "name": "Ciwalen"
+    "name": "Ciwalen",
+    "postal_code": "43260"
   },
   {
     "code": "3203022010",
     "district_code": "320302",
-    "name": "Tegallega"
+    "name": "Tegallega",
+    "postal_code": "43260"
   },
   {
     "code": "3203022011",
     "district_code": "320302",
-    "name": "Sukawangi"
+    "name": "Sukawangi",
+    "postal_code": "43260"
   },
   {
     "code": "3203022014",
     "district_code": "320302",
-    "name": "Bunisari"
+    "name": "Bunisari",
+    "postal_code": "43260"
   },
   {
     "code": "3203022016",
     "district_code": "320302",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "43260"
   },
   {
     "code": "3203022017",
     "district_code": "320302",
-    "name": "Cieundeur"
+    "name": "Cieundeur",
+    "postal_code": "43260"
   },
   {
     "code": "3203022018",
     "district_code": "320302",
-    "name": "Mekarwangi"
+    "name": "Mekarwangi",
+    "postal_code": "43260"
   }
 ]

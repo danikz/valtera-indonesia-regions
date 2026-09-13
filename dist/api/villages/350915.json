@@ -2,26 +2,31 @@
   {
     "code": "3509152001",
     "district_code": "350915",
-    "name": "Jubung"
+    "name": "Jubung",
+    "postal_code": "68151"
   },
   {
     "code": "3509152002",
     "district_code": "350915",
-    "name": "Dukuhmencek"
+    "name": "Dukuhmencek",
+    "postal_code": "68151"
   },
   {
     "code": "3509152003",
     "district_code": "350915",
-    "name": "Sukorambi"
+    "name": "Sukorambi",
+    "postal_code": "68151"
   },
   {
     "code": "3509152004",
     "district_code": "350915",
-    "name": "Karangpring"
+    "name": "Karangpring",
+    "postal_code": "68151"
   },
   {
     "code": "3509152005",
     "district_code": "350915",
-    "name": "Klungkung"
+    "name": "Klungkung",
+    "postal_code": "68151"
   }
 ]

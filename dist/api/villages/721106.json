@@ -2,31 +2,37 @@
   {
     "code": "7211062001",
     "district_code": "721106",
-    "name": "Matanga"
+    "name": "Matanga",
+    "postal_code": "94890"
   },
   {
     "code": "7211062002",
     "district_code": "721106",
-    "name": "Tolokibit"
+    "name": "Tolokibit",
+    "postal_code": "94890"
   },
   {
     "code": "7211062003",
     "district_code": "721106",
-    "name": "Bentean"
+    "name": "Bentean",
+    "postal_code": "94890"
   },
   {
     "code": "7211062004",
     "district_code": "721106",
-    "name": "Malino Padas"
+    "name": "Malino Padas",
+    "postal_code": "94890"
   },
   {
     "code": "7211062005",
     "district_code": "721106",
-    "name": "Kelapa Lima"
+    "name": "Kelapa Lima",
+    "postal_code": "94890"
   },
   {
     "code": "7211062006",
     "district_code": "721106",
-    "name": "Labuan Kapelak"
+    "name": "Labuan Kapelak",
+    "postal_code": "94890"
   }
 ]

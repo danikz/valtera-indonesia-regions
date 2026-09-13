@@ -2,51 +2,61 @@
   {
     "code": "3213272001",
     "district_code": "321327",
-    "name": "Manyeti"
+    "name": "Manyeti",
+    "postal_code": "41270"
   },
   {
     "code": "3213272002",
     "district_code": "321327",
-    "name": "Rawalele"
+    "name": "Rawalele",
+    "postal_code": "41270"
   },
   {
     "code": "3213272003",
     "district_code": "321327",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "41270"
   },
   {
     "code": "3213272004",
     "district_code": "321327",
-    "name": "Situsari"
+    "name": "Situsari",
+    "postal_code": "41270"
   },
   {
     "code": "3213272005",
     "district_code": "321327",
-    "name": "Dawuan Kaler"
+    "name": "Dawuan Kaler",
+    "postal_code": "41270"
   },
   {
     "code": "3213272006",
     "district_code": "321327",
-    "name": "Dawuan Kidul"
+    "name": "Dawuan Kidul",
+    "postal_code": "41270"
   },
   {
     "code": "3213272007",
     "district_code": "321327",
-    "name": "Cisampih"
+    "name": "Cisampih",
+    "postal_code": "41270"
   },
   {
     "code": "3213272008",
     "district_code": "321327",
-    "name": "Margasari"
+    "name": "Margasari",
+    "postal_code": "41270"
   },
   {
     "code": "3213272009",
     "district_code": "321327",
-    "name": "Batusari"
+    "name": "Batusari",
+    "postal_code": "41270"
   },
   {
     "code": "3213272010",
     "district_code": "321327",
-    "name": "Jambelaer"
+    "name": "Jambelaer",
+    "postal_code": "41270"
   }
 ]

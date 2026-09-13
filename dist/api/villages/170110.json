@@ -2,51 +2,61 @@
   {
     "code": "1701102001",
     "district_code": "170110",
-    "name": "Tumbak Tebing"
+    "name": "Tumbak Tebing",
+    "postal_code": "38511"
   },
   {
     "code": "1701102002",
     "district_code": "170110",
-    "name": "Gunung Kayo"
+    "name": "Gunung Kayo",
+    "postal_code": "38511"
   },
   {
     "code": "1701102003",
     "district_code": "170110",
-    "name": "Gindo Suli"
+    "name": "Gindo Suli",
+    "postal_code": "38511"
   },
   {
     "code": "1701102004",
     "district_code": "170110",
-    "name": "Talang Indah"
+    "name": "Talang Indah",
+    "postal_code": "38511"
   },
   {
     "code": "1701102005",
     "district_code": "170110",
-    "name": "Kuripan"
+    "name": "Kuripan",
+    "postal_code": "38511"
   },
   {
     "code": "1701102006",
     "district_code": "170110",
-    "name": "Padang Nibung"
+    "name": "Padang Nibung",
+    "postal_code": "38511"
   },
   {
     "code": "1701102007",
     "district_code": "170110",
-    "name": "Tanjung Tebat"
+    "name": "Tanjung Tebat",
+    "postal_code": "38511"
   },
   {
     "code": "1701102008",
     "district_code": "170110",
-    "name": "Padang Jawi"
+    "name": "Padang Jawi",
+    "postal_code": "38511"
   },
   {
     "code": "1701102009",
     "district_code": "170110",
-    "name": "Tanjung Aur"
+    "name": "Tanjung Aur",
+    "postal_code": "38511"
   },
   {
     "code": "1701102010",
     "district_code": "170110",
-    "name": "Padang Burnai"
+    "name": "Padang Burnai",
+    "postal_code": "38511"
   }
 ]

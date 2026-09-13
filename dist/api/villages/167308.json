@@ -2,51 +2,61 @@
   {
     "code": "1673081001",
     "district_code": "167308",
-    "name": "Batu Urip"
+    "name": "Batu Urip",
+    "postal_code": "31627"
   },
   {
     "code": "1673081002",
     "district_code": "167308",
-    "name": "Ulak Surung"
+    "name": "Ulak Surung",
+    "postal_code": "31617"
   },
   {
     "code": "1673081003",
     "district_code": "167308",
-    "name": "Kenanga"
+    "name": "Kenanga",
+    "postal_code": "31619"
   },
   {
     "code": "1673081004",
     "district_code": "167308",
-    "name": "Pasar Satelit"
+    "name": "Pasar Satelit",
+    "postal_code": "31619"
   },
   {
     "code": "1673081005",
     "district_code": "167308",
-    "name": "Senalang"
+    "name": "Senalang",
+    "postal_code": "31619"
   },
   {
     "code": "1673081006",
     "district_code": "167308",
-    "name": "Megang"
+    "name": "Megang",
+    "postal_code": "31628"
   },
   {
     "code": "1673081007",
     "district_code": "167308",
-    "name": "Jogoboyo"
+    "name": "Jogoboyo",
+    "postal_code": "31619"
   },
   {
     "code": "1673081008",
     "district_code": "167308",
-    "name": "Puncak Kemuning"
+    "name": "Puncak Kemuning",
+    "postal_code": "31619"
   },
   {
     "code": "1673081009",
     "district_code": "167308",
-    "name": "Ponorogo"
+    "name": "Ponorogo",
+    "postal_code": "31619"
   },
   {
     "code": "1673081010",
     "district_code": "167308",
-    "name": "Kali Serayu"
+    "name": "Kali Serayu",
+    "postal_code": "31619"
   }
 ]

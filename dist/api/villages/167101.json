@@ -2,36 +2,43 @@
   {
     "code": "1671011001",
     "district_code": "167101",
-    "name": "35 Ilir"
+    "name": "35 Ilir",
+    "postal_code": "30146"
   },
   {
     "code": "1671011002",
     "district_code": "167101",
-    "name": "32 Ilir"
+    "name": "32 Ilir",
+    "postal_code": "30145"
   },
   {
     "code": "1671011003",
     "district_code": "167101",
-    "name": "30 Ilir"
+    "name": "30 Ilir",
+    "postal_code": "30144"
   },
   {
     "code": "1671011004",
     "district_code": "167101",
-    "name": "29 Ilir"
+    "name": "29 Ilir",
+    "postal_code": "30143"
   },
   {
     "code": "1671011005",
     "district_code": "167101",
-    "name": "28 Ilir"
+    "name": "28 Ilir",
+    "postal_code": "30142"
   },
   {
     "code": "1671011006",
     "district_code": "167101",
-    "name": "27 Ilir"
+    "name": "27 Ilir",
+    "postal_code": "30141"
   },
   {
     "code": "1671011007",
     "district_code": "167101",
-    "name": "Kemang Manis"
+    "name": "Kemang Manis",
+    "postal_code": "30144"
   }
 ]

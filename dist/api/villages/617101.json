@@ -2,26 +2,31 @@
   {
     "code": "6171011002",
     "district_code": "617101",
-    "name": "Benuamelayu Laut"
+    "name": "Benuamelayu Laut",
+    "postal_code": "78123"
   },
   {
     "code": "6171011003",
     "district_code": "617101",
-    "name": "Benuamelayu Darat"
+    "name": "Benuamelayu Darat",
+    "postal_code": "78122"
   },
   {
     "code": "6171011004",
     "district_code": "617101",
-    "name": "Parittokaya"
+    "name": "Parittokaya",
+    "postal_code": "78121"
   },
   {
     "code": "6171011005",
     "district_code": "617101",
-    "name": "Kotabaru"
+    "name": "Kotabaru",
+    "postal_code": "78121"
   },
   {
     "code": "6171011006",
     "district_code": "617101",
-    "name": "Akcaya"
+    "name": "Akcaya",
+    "postal_code": "78121"
   }
 ]

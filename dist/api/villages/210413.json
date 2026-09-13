@@ -2,31 +2,37 @@
   {
     "code": "2104132001",
     "district_code": "210413",
-    "name": "Batu Belubang"
+    "name": "Batu Belubang",
+    "postal_code": "29873"
   },
   {
     "code": "2104132002",
     "district_code": "210413",
-    "name": "Cempa"
+    "name": "Cempa",
+    "postal_code": "29873"
   },
   {
     "code": "2104132003",
     "district_code": "210413",
-    "name": "Pasir Panjang"
+    "name": "Pasir Panjang",
+    "postal_code": "29873"
   },
   {
     "code": "2104132004",
     "district_code": "210413",
-    "name": "Tanjung Kelit"
+    "name": "Tanjung Kelit",
+    "postal_code": "29873"
   },
   {
     "code": "2104132005",
     "district_code": "210413",
-    "name": "Tanjung Lipat"
+    "name": "Tanjung Lipat",
+    "postal_code": "29873"
   },
   {
     "code": "2104132006",
     "district_code": "210413",
-    "name": "Rejai"
+    "name": "Rejai",
+    "postal_code": "29873"
   }
 ]

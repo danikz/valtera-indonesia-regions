@@ -2,21 +2,25 @@
   {
     "code": "3278021001",
     "district_code": "327802",
-    "name": "Panglayungan"
+    "name": "Panglayungan",
+    "postal_code": "46134"
   },
   {
     "code": "3278021002",
     "district_code": "327802",
-    "name": "Cipedes"
+    "name": "Cipedes",
+    "postal_code": "46133"
   },
   {
     "code": "3278021003",
     "district_code": "327802",
-    "name": "Nagarasari"
+    "name": "Nagarasari",
+    "postal_code": "46132"
   },
   {
     "code": "3278021004",
     "district_code": "327802",
-    "name": "Sukamanah"
+    "name": "Sukamanah",
+    "postal_code": "46131"
   }
 ]

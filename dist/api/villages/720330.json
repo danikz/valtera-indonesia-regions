@@ -2,26 +2,31 @@
   {
     "code": "7203302001",
     "district_code": "720330",
-    "name": "Ogoamas I"
+    "name": "Ogoamas I",
+    "postal_code": "94358"
   },
   {
     "code": "7203302002",
     "district_code": "720330",
-    "name": "Ogoamas II"
+    "name": "Ogoamas II",
+    "postal_code": "94358"
   },
   {
     "code": "7203302003",
     "district_code": "720330",
-    "name": "Lenju"
+    "name": "Lenju",
+    "postal_code": "94358"
   },
   {
     "code": "7203302004",
     "district_code": "720330",
-    "name": "Pesik"
+    "name": "Pesik",
+    "postal_code": "94358"
   },
   {
     "code": "7203302005",
     "district_code": "720330",
-    "name": "Bengkoli"
+    "name": "Bengkoli",
+    "postal_code": "94358"
   }
 ]

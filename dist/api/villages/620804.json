@@ -2,21 +2,25 @@
   {
     "code": "6208042001",
     "district_code": "620804",
-    "name": "Sungai Damar"
+    "name": "Sungai Damar",
+    "postal_code": "74170"
   },
   {
     "code": "6208042002",
     "district_code": "620804",
-    "name": "Sungai Tabuk"
+    "name": "Sungai Tabuk",
+    "postal_code": "74170"
   },
   {
     "code": "6208042003",
     "district_code": "620804",
-    "name": "Sungai Cabang Barat"
+    "name": "Sungai Cabang Barat",
+    "postal_code": "74170"
   },
   {
     "code": "6208042004",
     "district_code": "620804",
-    "name": "Sungai Pasir"
+    "name": "Sungai Pasir",
+    "postal_code": "74170"
   }
 ]

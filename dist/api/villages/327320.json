@@ -2,21 +2,25 @@
   {
     "code": "3273201001",
     "district_code": "327320",
-    "name": "Antapani Kulon"
+    "name": "Antapani Kulon",
+    "postal_code": "40291"
   },
   {
     "code": "3273201004",
     "district_code": "327320",
-    "name": "Antapani Tengah"
+    "name": "Antapani Tengah",
+    "postal_code": "40291"
   },
   {
     "code": "3273201005",
     "district_code": "327320",
-    "name": "Antapani Kidul"
+    "name": "Antapani Kidul",
+    "postal_code": "40291"
   },
   {
     "code": "3273201006",
     "district_code": "327320",
-    "name": "Antapani Wetan"
+    "name": "Antapani Wetan",
+    "postal_code": "40291"
   }
 ]

@@ -2,81 +2,97 @@
   {
     "code": "9204011005",
     "district_code": "920401",
-    "name": "Kaibus"
+    "name": "Kaibus",
+    "postal_code": ""
   },
   {
     "code": "9204011006",
     "district_code": "920401",
-    "name": "Kohoin"
+    "name": "Kohoin",
+    "postal_code": ""
   },
   {
     "code": "9204012004",
     "district_code": "920401",
-    "name": "Wersar"
+    "name": "Wersar",
+    "postal_code": ""
   },
   {
     "code": "9204012009",
     "district_code": "920401",
-    "name": "Wehali"
+    "name": "Wehali",
+    "postal_code": ""
   },
   {
     "code": "9204012010",
     "district_code": "920401",
-    "name": "Aibobor"
+    "name": "Aibobor",
+    "postal_code": ""
   },
   {
     "code": "9204012017",
     "district_code": "920401",
-    "name": "Wermit"
+    "name": "Wermit",
+    "postal_code": ""
   },
   {
     "code": "9204012018",
     "district_code": "920401",
-    "name": "Keyen"
+    "name": "Keyen",
+    "postal_code": ""
   },
   {
     "code": "9204012021",
     "district_code": "920401",
-    "name": "Siribau"
+    "name": "Siribau",
+    "postal_code": ""
   },
   {
     "code": "9204012025",
     "district_code": "920401",
-    "name": "Magis"
+    "name": "Magis",
+    "postal_code": ""
   },
   {
     "code": "9204012026",
     "district_code": "920401",
-    "name": "Tegirolo"
+    "name": "Tegirolo",
+    "postal_code": ""
   },
   {
     "code": "9204012034",
     "district_code": "920401",
-    "name": "Wernas"
+    "name": "Wernas",
+    "postal_code": ""
   },
   {
     "code": "9204012035",
     "district_code": "920401",
-    "name": "Tapiri"
+    "name": "Tapiri",
+    "postal_code": ""
   },
   {
     "code": "9204012040",
     "district_code": "920401",
-    "name": "Gorolo"
+    "name": "Gorolo",
+    "postal_code": ""
   },
   {
     "code": "9204012041",
     "district_code": "920401",
-    "name": "Nambro"
+    "name": "Nambro",
+    "postal_code": ""
   },
   {
     "code": "9204012044",
     "district_code": "920401",
-    "name": "Seyolo"
+    "name": "Seyolo",
+    "postal_code": ""
   },
   {
     "code": "9204012045",
     "district_code": "920401",
-    "name": "Ani Sesna"
+    "name": "Ani Sesna",
+    "postal_code": ""
   }
 ]

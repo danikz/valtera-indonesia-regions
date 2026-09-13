@@ -2,31 +2,37 @@
   {
     "code": "9208072001",
     "district_code": "920807",
-    "name": "Ure"
+    "name": "Ure",
+    "postal_code": "98122"
   },
   {
     "code": "9208072002",
     "district_code": "920807",
-    "name": "Wosokuno"
+    "name": "Wosokuno",
+    "postal_code": "98122"
   },
   {
     "code": "9208072003",
     "district_code": "920807",
-    "name": "Urubika"
+    "name": "Urubika",
+    "postal_code": "98122"
   },
   {
     "code": "9208072004",
     "district_code": "920807",
-    "name": "Wagoha"
+    "name": "Wagoha",
+    "postal_code": "98122"
   },
   {
     "code": "9208072005",
     "district_code": "920807",
-    "name": "Hairapara"
+    "name": "Hairapara",
+    "postal_code": "98122"
   },
   {
     "code": "9208072006",
     "district_code": "920807",
-    "name": "Omba Pamuku"
+    "name": "Omba Pamuku",
+    "postal_code": "98122"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3202362001",
     "district_code": "320236",
-    "name": "Sukalarang"
+    "name": "Sukalarang",
+    "postal_code": "43191"
   },
   {
     "code": "3202362002",
     "district_code": "320236",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "43191"
   },
   {
     "code": "3202362003",
     "district_code": "320236",
-    "name": "Cimangkok"
+    "name": "Cimangkok",
+    "postal_code": "43191"
   },
   {
     "code": "3202362004",
     "district_code": "320236",
-    "name": "Titisan"
+    "name": "Titisan",
+    "postal_code": "43191"
   },
   {
     "code": "3202362005",
     "district_code": "320236",
-    "name": "Semplak"
+    "name": "Semplak",
+    "postal_code": "43191"
   },
   {
     "code": "3202362006",
     "district_code": "320236",
-    "name": "Prianganjaya"
+    "name": "Prianganjaya",
+    "postal_code": "43191"
   }
 ]

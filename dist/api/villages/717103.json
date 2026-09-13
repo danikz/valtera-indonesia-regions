@@ -2,46 +2,55 @@
   {
     "code": "7171031001",
     "district_code": "717103",
-    "name": "Singkil Satu"
+    "name": "Singkil Satu",
+    "postal_code": "95234"
   },
   {
     "code": "7171031002",
     "district_code": "717103",
-    "name": "Singkil Dua"
+    "name": "Singkil Dua",
+    "postal_code": "95234"
   },
   {
     "code": "7171031003",
     "district_code": "717103",
-    "name": "Wawonasa"
+    "name": "Wawonasa",
+    "postal_code": "95231"
   },
   {
     "code": "7171031004",
     "district_code": "717103",
-    "name": "Karame"
+    "name": "Karame",
+    "postal_code": "95231"
   },
   {
     "code": "7171031005",
     "district_code": "717103",
-    "name": "Ketang Baru"
+    "name": "Ketang Baru",
+    "postal_code": "95232"
   },
   {
     "code": "7171031006",
     "district_code": "717103",
-    "name": "Ternate Baru"
+    "name": "Ternate Baru",
+    "postal_code": "95232"
   },
   {
     "code": "7171031007",
     "district_code": "717103",
-    "name": "Kombos Barat"
+    "name": "Kombos Barat",
+    "postal_code": "95234"
   },
   {
     "code": "7171031008",
     "district_code": "717103",
-    "name": "Kombos Timur"
+    "name": "Kombos Timur",
+    "postal_code": "95234"
   },
   {
     "code": "7171031009",
     "district_code": "717103",
-    "name": "Ternate Tanjung"
+    "name": "Ternate Tanjung",
+    "postal_code": "95234"
   }
 ]

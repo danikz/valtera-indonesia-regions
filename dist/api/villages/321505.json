@@ -2,66 +2,79 @@
   {
     "code": "3215052001",
     "district_code": "321505",
-    "name": "Duren"
+    "name": "Duren",
+    "postal_code": "41371"
   },
   {
     "code": "3215052002",
     "district_code": "321505",
-    "name": "Pancawati"
+    "name": "Pancawati",
+    "postal_code": "41371"
   },
   {
     "code": "3215052003",
     "district_code": "321505",
-    "name": "Walahar"
+    "name": "Walahar",
+    "postal_code": "41371"
   },
   {
     "code": "3215052004",
     "district_code": "321505",
-    "name": "Kiarapayung"
+    "name": "Kiarapayung",
+    "postal_code": "41371"
   },
   {
     "code": "3215052005",
     "district_code": "321505",
-    "name": "Sumurkondang"
+    "name": "Sumurkondang",
+    "postal_code": "41371"
   },
   {
     "code": "3215052006",
     "district_code": "321505",
-    "name": "Cibalongsari"
+    "name": "Cibalongsari",
+    "postal_code": "41371"
   },
   {
     "code": "3215052007",
     "district_code": "321505",
-    "name": "Klari"
+    "name": "Klari",
+    "postal_code": "41371"
   },
   {
     "code": "3215052008",
     "district_code": "321505",
-    "name": "Belendung"
+    "name": "Belendung",
+    "postal_code": "41371"
   },
   {
     "code": "3215052016",
     "district_code": "321505",
-    "name": "Anggadita"
+    "name": "Anggadita",
+    "postal_code": "41371"
   },
   {
     "code": "3215052017",
     "district_code": "321505",
-    "name": "Gintungkerta"
+    "name": "Gintungkerta",
+    "postal_code": "41371"
   },
   {
     "code": "3215052018",
     "district_code": "321505",
-    "name": "Curug"
+    "name": "Curug",
+    "postal_code": "41371"
   },
   {
     "code": "3215052019",
     "district_code": "321505",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "41371"
   },
   {
     "code": "3215052020",
     "district_code": "321505",
-    "name": "Cimahi"
+    "name": "Cimahi",
+    "postal_code": "41371"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "7601122001",
     "district_code": "760112",
-    "name": "Parabu"
+    "name": "Parabu",
+    "postal_code": "91577"
   },
   {
     "code": "7601122002",
     "district_code": "760112",
-    "name": "Kenangan"
+    "name": "Kenangan",
+    "postal_code": "91577"
   },
   {
     "code": "7601122003",
     "district_code": "760112",
-    "name": "Bajawali"
+    "name": "Bajawali",
+    "postal_code": "91577"
   },
   {
     "code": "7601122004",
     "district_code": "760112",
-    "name": "Singgani"
+    "name": "Singgani",
+    "postal_code": "91577"
   },
   {
     "code": "7601122005",
     "district_code": "760112",
-    "name": "Kulu"
+    "name": "Kulu",
+    "postal_code": "91577"
   },
   {
     "code": "7601122006",
     "district_code": "760112",
-    "name": "Batu Matoru"
+    "name": "Batu Matoru",
+    "postal_code": "91577"
   },
   {
     "code": "7601122007",
     "district_code": "760112",
-    "name": "Bambakoro"
+    "name": "Bambakoro",
+    "postal_code": "91577"
   }
 ]

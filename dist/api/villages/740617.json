@@ -2,26 +2,31 @@
   {
     "code": "7406172001",
     "district_code": "740617",
-    "name": "Masaloka"
+    "name": "Masaloka",
+    "postal_code": "93778"
   },
   {
     "code": "7406172002",
     "district_code": "740617",
-    "name": "Batu Lamburi"
+    "name": "Batu Lamburi",
+    "postal_code": "93778"
   },
   {
     "code": "7406172003",
     "district_code": "740617",
-    "name": "Masaloka Selatan"
+    "name": "Masaloka Selatan",
+    "postal_code": "93778"
   },
   {
     "code": "7406172004",
     "district_code": "740617",
-    "name": "Masaloka Timur"
+    "name": "Masaloka Timur",
+    "postal_code": "93778"
   },
   {
     "code": "7406172005",
     "district_code": "740617",
-    "name": "Masaloka Barat"
+    "name": "Masaloka Barat",
+    "postal_code": "93778"
   }
 ]

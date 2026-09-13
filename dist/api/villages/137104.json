@@ -2,36 +2,43 @@
   {
     "code": "1371041001",
     "district_code": "137104",
-    "name": "Air Tawar Timur"
+    "name": "Air Tawar Timur",
+    "postal_code": "25132"
   },
   {
     "code": "1371041002",
     "district_code": "137104",
-    "name": "Air Tawar Barat"
+    "name": "Air Tawar Barat",
+    "postal_code": "25132"
   },
   {
     "code": "1371041003",
     "district_code": "137104",
-    "name": "Ulak Karang Utara"
+    "name": "Ulak Karang Utara",
+    "postal_code": "25133"
   },
   {
     "code": "1371041004",
     "district_code": "137104",
-    "name": "Ulak Karang Selatan"
+    "name": "Ulak Karang Selatan",
+    "postal_code": "25134"
   },
   {
     "code": "1371041005",
     "district_code": "137104",
-    "name": "Lolong Belanti"
+    "name": "Lolong Belanti",
+    "postal_code": "25136"
   },
   {
     "code": "1371041006",
     "district_code": "137104",
-    "name": "Alai Parak Kopi"
+    "name": "Alai Parak Kopi",
+    "postal_code": "25139"
   },
   {
     "code": "1371041007",
     "district_code": "137104",
-    "name": "Gunung Pangilun"
+    "name": "Gunung Pangilun",
+    "postal_code": "25137"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1205161009",
     "district_code": "120516",
-    "name": "Pekan Besitang"
+    "name": "Pekan Besitang",
+    "postal_code": "20859"
   },
   {
     "code": "1205161010",
     "district_code": "120516",
-    "name": "Bukit Kubu"
+    "name": "Bukit Kubu",
+    "postal_code": "20859"
   },
   {
     "code": "1205161011",
     "district_code": "120516",
-    "name": "Kampung Lama"
+    "name": "Kampung Lama",
+    "postal_code": "20859"
   },
   {
     "code": "1205162001",
     "district_code": "120516",
-    "name": "Halaban"
+    "name": "Halaban",
+    "postal_code": "20859"
   },
   {
     "code": "1205162002",
     "district_code": "120516",
-    "name": "Bukit Mas"
+    "name": "Bukit Mas",
+    "postal_code": "20859"
   },
   {
     "code": "1205162005",
     "district_code": "120516",
-    "name": "Pir ABD Besitang"
+    "name": "Pir ABD Besitang",
+    "postal_code": "20859"
   },
   {
     "code": "1205162006",
     "district_code": "120516",
-    "name": "Sekoci"
+    "name": "Sekoci",
+    "postal_code": "20859"
   },
   {
     "code": "1205162007",
     "district_code": "120516",
-    "name": "Suka Jaya"
+    "name": "Suka Jaya",
+    "postal_code": "20859"
   },
   {
     "code": "1205162008",
     "district_code": "120516",
-    "name": "Bukit Selamat"
+    "name": "Bukit Selamat",
+    "postal_code": "20859"
   }
 ]

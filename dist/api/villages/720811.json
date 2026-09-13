@@ -2,51 +2,61 @@
   {
     "code": "7208112001",
     "district_code": "720811",
-    "name": "Lemusa"
+    "name": "Lemusa",
+    "postal_code": "94461"
   },
   {
     "code": "7208112002",
     "district_code": "720811",
-    "name": "Olobaru"
+    "name": "Olobaru",
+    "postal_code": "94461"
   },
   {
     "code": "7208112003",
     "district_code": "720811",
-    "name": "Boyantongo"
+    "name": "Boyantongo",
+    "postal_code": "94461"
   },
   {
     "code": "7208112004",
     "district_code": "720811",
-    "name": "Dolago"
+    "name": "Dolago",
+    "postal_code": "94461"
   },
   {
     "code": "7208112005",
     "district_code": "720811",
-    "name": "Masari"
+    "name": "Masari",
+    "postal_code": "94461"
   },
   {
     "code": "7208112006",
     "district_code": "720811",
-    "name": "Sumbersari"
+    "name": "Sumbersari",
+    "postal_code": "94461"
   },
   {
     "code": "7208112007",
     "district_code": "720811",
-    "name": "Nambaru"
+    "name": "Nambaru",
+    "postal_code": "94461"
   },
   {
     "code": "7208112008",
     "district_code": "720811",
-    "name": "Tindaki"
+    "name": "Tindaki",
+    "postal_code": "94461"
   },
   {
     "code": "7208112009",
     "district_code": "720811",
-    "name": "Gangga"
+    "name": "Gangga",
+    "postal_code": "94461"
   },
   {
     "code": "7208112010",
     "district_code": "720811",
-    "name": "Dolago Padang"
+    "name": "Dolago Padang",
+    "postal_code": "94461"
   }
 ]

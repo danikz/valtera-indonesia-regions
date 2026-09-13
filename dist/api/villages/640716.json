@@ -2,51 +2,61 @@
   {
     "code": "6407162001",
     "district_code": "640716",
-    "name": "Dempar"
+    "name": "Dempar",
+    "postal_code": "75777"
   },
   {
     "code": "6407162002",
     "district_code": "640716",
-    "name": "Temula"
+    "name": "Temula",
+    "postal_code": "75777"
   },
   {
     "code": "6407162003",
     "district_code": "640716",
-    "name": "Jontai"
+    "name": "Jontai",
+    "postal_code": "75777"
   },
   {
     "code": "6407162004",
     "district_code": "640716",
-    "name": "Sembuan"
+    "name": "Sembuan",
+    "postal_code": "75777"
   },
   {
     "code": "6407162005",
     "district_code": "640716",
-    "name": "Intu Lingau"
+    "name": "Intu Lingau",
+    "postal_code": "75777"
   },
   {
     "code": "6407162006",
     "district_code": "640716",
-    "name": "Mu'ut"
+    "name": "Mu'ut",
+    "postal_code": "75776"
   },
   {
     "code": "6407162007",
     "district_code": "640716",
-    "name": "Terajuk"
+    "name": "Terajuk",
+    "postal_code": "75776"
   },
   {
     "code": "6407162008",
     "district_code": "640716",
-    "name": "Lakan Bilem"
+    "name": "Lakan Bilem",
+    "postal_code": "75776"
   },
   {
     "code": "6407162009",
     "district_code": "640716",
-    "name": "Sentalar"
+    "name": "Sentalar",
+    "postal_code": "75776"
   },
   {
     "code": "6407162010",
     "district_code": "640716",
-    "name": "Awai"
+    "name": "Awai",
+    "postal_code": "75776"
   }
 ]

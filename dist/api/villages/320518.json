@@ -2,26 +2,31 @@
   {
     "code": "3205182001",
     "district_code": "320518",
-    "name": "Cigedug"
+    "name": "Cigedug",
+    "postal_code": "44116"
   },
   {
     "code": "3205182002",
     "district_code": "320518",
-    "name": "Barusuda"
+    "name": "Barusuda",
+    "postal_code": "44116"
   },
   {
     "code": "3205182003",
     "district_code": "320518",
-    "name": "Sukahurip"
+    "name": "Sukahurip",
+    "postal_code": "44116"
   },
   {
     "code": "3205182004",
     "district_code": "320518",
-    "name": "Sindangsari"
+    "name": "Sindangsari",
+    "postal_code": "44116"
   },
   {
     "code": "3205182005",
     "district_code": "320518",
-    "name": "Cintanagara"
+    "name": "Cintanagara",
+    "postal_code": "44116"
   }
 ]

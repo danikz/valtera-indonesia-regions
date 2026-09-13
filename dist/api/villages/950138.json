@@ -2,21 +2,25 @@
   {
     "code": "9501382001",
     "district_code": "950138",
-    "name": "Pupugoba"
+    "name": "Pupugoba",
+    "postal_code": "99506"
   },
   {
     "code": "9501382002",
     "district_code": "950138",
-    "name": "Waima"
+    "name": "Waima",
+    "postal_code": "99506"
   },
   {
     "code": "9501382003",
     "district_code": "950138",
-    "name": "Yomote"
+    "name": "Yomote",
+    "postal_code": "99506"
   },
   {
     "code": "9501382004",
     "district_code": "950138",
-    "name": "Yelelo"
+    "name": "Yelelo",
+    "postal_code": "99506"
   }
 ]

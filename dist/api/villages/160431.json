@@ -2,51 +2,61 @@
   {
     "code": "1604312001",
     "district_code": "160431",
-    "name": "Banjar Negara"
+    "name": "Banjar Negara",
+    "postal_code": "31420"
   },
   {
     "code": "1604312002",
     "district_code": "160431",
-    "name": "Tanjung Payang"
+    "name": "Tanjung Payang",
+    "postal_code": "31424"
   },
   {
     "code": "1604312003",
     "district_code": "160431",
-    "name": "Tanjung Tebat"
+    "name": "Tanjung Tebat",
+    "postal_code": "31425"
   },
   {
     "code": "1604312004",
     "district_code": "160431",
-    "name": "Nantal"
+    "name": "Nantal",
+    "postal_code": "31423"
   },
   {
     "code": "1604312005",
     "district_code": "160431",
-    "name": "Karang Anyar"
+    "name": "Karang Anyar",
+    "postal_code": "31421"
   },
   {
     "code": "1604312006",
     "district_code": "160431",
-    "name": "Karang Baru"
+    "name": "Karang Baru",
+    "postal_code": "31422"
   },
   {
     "code": "1604312007",
     "district_code": "160431",
-    "name": "Kerung"
+    "name": "Kerung",
+    "postal_code": "31426"
   },
   {
     "code": "1604312008",
     "district_code": "160431",
-    "name": "Muara Cawang"
+    "name": "Muara Cawang",
+    "postal_code": "31427"
   },
   {
     "code": "1604312009",
     "district_code": "160431",
-    "name": "Talang Sawah"
+    "name": "Talang Sawah",
+    "postal_code": "31428"
   },
   {
     "code": "1604312010",
     "district_code": "160431",
-    "name": "Talang Sejemput"
+    "name": "Talang Sejemput",
+    "postal_code": "31429"
   }
 ]

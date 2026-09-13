@@ -2,31 +2,37 @@
   {
     "code": "9505052001",
     "district_code": "950505",
-    "name": "Kalarin"
+    "name": "Kalarin",
+    "postal_code": "99073"
   },
   {
     "code": "9505052002",
     "district_code": "950505",
-    "name": "Melenggama"
+    "name": "Melenggama",
+    "postal_code": "99073"
   },
   {
     "code": "9505052003",
     "district_code": "950505",
-    "name": "Ilugwa"
+    "name": "Ilugwa",
+    "postal_code": "99073"
   },
   {
     "code": "9505052004",
     "district_code": "950505",
-    "name": "Wirima"
+    "name": "Wirima",
+    "postal_code": "99073"
   },
   {
     "code": "9505052005",
     "district_code": "950505",
-    "name": "Danama"
+    "name": "Danama",
+    "postal_code": "99073"
   },
   {
     "code": "9505052006",
     "district_code": "950505",
-    "name": "Illusilimo"
+    "name": "Illusilimo",
+    "postal_code": "99073"
   }
 ]

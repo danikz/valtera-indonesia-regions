@@ -2,26 +2,31 @@
   {
     "code": "9204152001",
     "district_code": "920415",
-    "name": "Konda"
+    "name": "Konda",
+    "postal_code": ""
   },
   {
     "code": "9204152002",
     "district_code": "920415",
-    "name": "Wamargege"
+    "name": "Wamargege",
+    "postal_code": ""
   },
   {
     "code": "9204152003",
     "district_code": "920415",
-    "name": "Bariat"
+    "name": "Bariat",
+    "postal_code": ""
   },
   {
     "code": "9204152004",
     "district_code": "920415",
-    "name": "Manelek"
+    "name": "Manelek",
+    "postal_code": ""
   },
   {
     "code": "9204152005",
     "district_code": "920415",
-    "name": "Nagna"
+    "name": "Nagna",
+    "postal_code": ""
   }
 ]

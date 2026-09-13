@@ -2,36 +2,43 @@
   {
     "code": "3514032001",
     "district_code": "351403",
-    "name": "Kemiri"
+    "name": "Kemiri",
+    "postal_code": "67176"
   },
   {
     "code": "3514032002",
     "district_code": "351403",
-    "name": "Janjangwulung"
+    "name": "Janjangwulung",
+    "postal_code": "67176"
   },
   {
     "code": "3514032003",
     "district_code": "351403",
-    "name": "Palangsari"
+    "name": "Palangsari",
+    "postal_code": "67176"
   },
   {
     "code": "3514032004",
     "district_code": "351403",
-    "name": "Puspo"
+    "name": "Puspo",
+    "postal_code": "67176"
   },
   {
     "code": "3514032005",
     "district_code": "351403",
-    "name": "Jimbaran"
+    "name": "Jimbaran",
+    "postal_code": "67176"
   },
   {
     "code": "3514032006",
     "district_code": "351403",
-    "name": "Pusung Malang"
+    "name": "Pusung Malang",
+    "postal_code": "67176"
   },
   {
     "code": "3514032007",
     "district_code": "351403",
-    "name": "Keduwung"
+    "name": "Keduwung",
+    "postal_code": "67176"
   }
 ]

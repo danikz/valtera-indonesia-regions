@@ -2,36 +2,43 @@
   {
     "code": "8106042001",
     "district_code": "810604",
-    "name": "Waesala"
+    "name": "Waesala",
+    "postal_code": "97567"
   },
   {
     "code": "8106042002",
     "district_code": "810604",
-    "name": "Allang Asaude"
+    "name": "Allang Asaude",
+    "postal_code": "97567"
   },
   {
     "code": "8106042003",
     "district_code": "810604",
-    "name": "Sole"
+    "name": "Sole",
+    "postal_code": "97567"
   },
   {
     "code": "8106042004",
     "district_code": "810604",
-    "name": "Tonu Jaya"
+    "name": "Tonu Jaya",
+    "postal_code": "97567"
   },
   {
     "code": "8106042005",
     "district_code": "810604",
-    "name": "Tahalupu"
+    "name": "Tahalupu",
+    "postal_code": "97567"
   },
   {
     "code": "8106042006",
     "district_code": "810604",
-    "name": "Buano Utara"
+    "name": "Buano Utara",
+    "postal_code": "97567"
   },
   {
     "code": "8106042007",
     "district_code": "810604",
-    "name": "Buano Selatan"
+    "name": "Buano Selatan",
+    "postal_code": "97567"
   }
 ]

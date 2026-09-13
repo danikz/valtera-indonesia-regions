@@ -2,76 +2,91 @@
   {
     "code": "3304012001",
     "district_code": "330401",
-    "name": "Berta"
+    "name": "Berta",
+    "postal_code": "53475"
   },
   {
     "code": "3304012002",
     "district_code": "330401",
-    "name": "Derik"
+    "name": "Derik",
+    "postal_code": "53475"
   },
   {
     "code": "3304012003",
     "district_code": "330401",
-    "name": "Gumelem Wetan"
+    "name": "Gumelem Wetan",
+    "postal_code": "53475"
   },
   {
     "code": "3304012004",
     "district_code": "330401",
-    "name": "Gumelem Kulon"
+    "name": "Gumelem Kulon",
+    "postal_code": "53475"
   },
   {
     "code": "3304012005",
     "district_code": "330401",
-    "name": "Penarusan Wetan"
+    "name": "Penarusan Wetan",
+    "postal_code": "53475"
   },
   {
     "code": "3304012006",
     "district_code": "330401",
-    "name": "Penarusan Kulon"
+    "name": "Penarusan Kulon",
+    "postal_code": "53475"
   },
   {
     "code": "3304012007",
     "district_code": "330401",
-    "name": "Brengkok"
+    "name": "Brengkok",
+    "postal_code": "53475"
   },
   {
     "code": "3304012008",
     "district_code": "330401",
-    "name": "Pekikiran"
+    "name": "Pekikiran",
+    "postal_code": "53475"
   },
   {
     "code": "3304012009",
     "district_code": "330401",
-    "name": "Piasa Wetan"
+    "name": "Piasa Wetan",
+    "postal_code": "53475"
   },
   {
     "code": "3304012010",
     "district_code": "330401",
-    "name": "Karangsalam"
+    "name": "Karangsalam",
+    "postal_code": "53475"
   },
   {
     "code": "3304012011",
     "district_code": "330401",
-    "name": "Kemranggon"
+    "name": "Kemranggon",
+    "postal_code": "53475"
   },
   {
     "code": "3304012012",
     "district_code": "330401",
-    "name": "Susukan"
+    "name": "Susukan",
+    "postal_code": "53475"
   },
   {
     "code": "3304012013",
     "district_code": "330401",
-    "name": "Dermasari"
+    "name": "Dermasari",
+    "postal_code": "53475"
   },
   {
     "code": "3304012014",
     "district_code": "330401",
-    "name": "Kedawung"
+    "name": "Kedawung",
+    "postal_code": "53475"
   },
   {
     "code": "3304012015",
     "district_code": "330401",
-    "name": "Karangjati"
+    "name": "Karangjati",
+    "postal_code": "53475"
   }
 ]

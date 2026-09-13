@@ -2,46 +2,55 @@
   {
     "code": "5201072001",
     "district_code": "520107",
-    "name": "Sekotong Tengah"
+    "name": "Sekotong Tengah",
+    "postal_code": "83365"
   },
   {
     "code": "5201072002",
     "district_code": "520107",
-    "name": "Sekotong Barat"
+    "name": "Sekotong Barat",
+    "postal_code": "83365"
   },
   {
     "code": "5201072003",
     "district_code": "520107",
-    "name": "Pelangan"
+    "name": "Pelangan",
+    "postal_code": "83365"
   },
   {
     "code": "5201072004",
     "district_code": "520107",
-    "name": "Buwun Mas"
+    "name": "Buwun Mas",
+    "postal_code": "83365"
   },
   {
     "code": "5201072005",
     "district_code": "520107",
-    "name": "Kedaro"
+    "name": "Kedaro",
+    "postal_code": "83365"
   },
   {
     "code": "5201072006",
     "district_code": "520107",
-    "name": "Batu Putih"
+    "name": "Batu Putih",
+    "postal_code": "83365"
   },
   {
     "code": "5201072007",
     "district_code": "520107",
-    "name": "Gili Gede Indah"
+    "name": "Gili Gede Indah",
+    "postal_code": "83365"
   },
   {
     "code": "5201072008",
     "district_code": "520107",
-    "name": "Cendi Manik"
+    "name": "Cendi Manik",
+    "postal_code": "83365"
   },
   {
     "code": "5201072009",
     "district_code": "520107",
-    "name": "Taman Baru"
+    "name": "Taman Baru",
+    "postal_code": "83365"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "7203242001",
     "district_code": "720324",
-    "name": "Tibo"
+    "name": "Tibo",
+    "postal_code": "94344"
   },
   {
     "code": "7203242002",
     "district_code": "720324",
-    "name": "Kaliburu"
+    "name": "Kaliburu",
+    "postal_code": "94344"
   },
   {
     "code": "7203242003",
     "district_code": "720324",
-    "name": "Batusuya"
+    "name": "Batusuya",
+    "postal_code": "94344"
   },
   {
     "code": "7203242004",
     "district_code": "720324",
-    "name": "Saloya"
+    "name": "Saloya",
+    "postal_code": "94344"
   },
   {
     "code": "7203242005",
     "district_code": "720324",
-    "name": "Batusuya Go'o"
+    "name": "Batusuya Go'o",
+    "postal_code": "94344"
   },
   {
     "code": "7203242006",
     "district_code": "720324",
-    "name": "Kaliburu Kata"
+    "name": "Kaliburu Kata",
+    "postal_code": "94344"
   }
 ]

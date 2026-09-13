@@ -2,51 +2,61 @@
   {
     "code": "3301112001",
     "district_code": "330111",
-    "name": "Tinggarjaya"
+    "name": "Tinggarjaya",
+    "postal_code": "53261"
   },
   {
     "code": "3301112002",
     "district_code": "330111",
-    "name": "Sidareja"
+    "name": "Sidareja",
+    "postal_code": "53261"
   },
   {
     "code": "3301112003",
     "district_code": "330111",
-    "name": "Sidamulya"
+    "name": "Sidamulya",
+    "postal_code": "53261"
   },
   {
     "code": "3301112004",
     "district_code": "330111",
-    "name": "Kunci"
+    "name": "Kunci",
+    "postal_code": "53261"
   },
   {
     "code": "3301112005",
     "district_code": "330111",
-    "name": "Karanggedang"
+    "name": "Karanggedang",
+    "postal_code": "53261"
   },
   {
     "code": "3301112006",
     "district_code": "330111",
-    "name": "Penyarang"
+    "name": "Penyarang",
+    "postal_code": "53261"
   },
   {
     "code": "3301112007",
     "district_code": "330111",
-    "name": "Tegalsari"
+    "name": "Tegalsari",
+    "postal_code": "53261"
   },
   {
     "code": "3301112008",
     "district_code": "330111",
-    "name": "Margasari"
+    "name": "Margasari",
+    "postal_code": "53261"
   },
   {
     "code": "3301112009",
     "district_code": "330111",
-    "name": "Gunungreja"
+    "name": "Gunungreja",
+    "postal_code": "53261"
   },
   {
     "code": "3301112010",
     "district_code": "330111",
-    "name": "Sudagaran"
+    "name": "Sudagaran",
+    "postal_code": "53261"
   }
 ]

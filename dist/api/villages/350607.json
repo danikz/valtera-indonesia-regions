@@ -2,51 +2,61 @@
   {
     "code": "3506072001",
     "district_code": "350607",
-    "name": "Sempu"
+    "name": "Sempu",
+    "postal_code": "64291"
   },
   {
     "code": "3506072002",
     "district_code": "350607",
-    "name": "Pandantoyo"
+    "name": "Pandantoyo",
+    "postal_code": "64291"
   },
   {
     "code": "3506072003",
     "district_code": "350607",
-    "name": "Margourip"
+    "name": "Margourip",
+    "postal_code": "64291"
   },
   {
     "code": "3506072004",
     "district_code": "350607",
-    "name": "Bedali"
+    "name": "Bedali",
+    "postal_code": "64291"
   },
   {
     "code": "3506072005",
     "district_code": "350607",
-    "name": "Kunjang"
+    "name": "Kunjang",
+    "postal_code": "64156"
   },
   {
     "code": "3506072006",
     "district_code": "350607",
-    "name": "Manggis"
+    "name": "Manggis",
+    "postal_code": "64291"
   },
   {
     "code": "3506072007",
     "district_code": "350607",
-    "name": "Ngancar"
+    "name": "Ngancar",
+    "postal_code": "64291"
   },
   {
     "code": "3506072008",
     "district_code": "350607",
-    "name": "Sugihwaras"
+    "name": "Sugihwaras",
+    "postal_code": "64291"
   },
   {
     "code": "3506072009",
     "district_code": "350607",
-    "name": "Babadan"
+    "name": "Babadan",
+    "postal_code": "64291"
   },
   {
     "code": "3506072010",
     "district_code": "350607",
-    "name": "Jagul"
+    "name": "Jagul",
+    "postal_code": "64291"
   }
 ]

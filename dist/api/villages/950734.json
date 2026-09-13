@@ -2,36 +2,43 @@
   {
     "code": "9507342001",
     "district_code": "950734",
-    "name": "Guna"
+    "name": "Guna",
+    "postal_code": "99567"
   },
   {
     "code": "9507342002",
     "district_code": "950734",
-    "name": "Gukopi"
+    "name": "Gukopi",
+    "postal_code": "99567"
   },
   {
     "code": "9507342003",
     "district_code": "950734",
-    "name": "Kori"
+    "name": "Kori",
+    "postal_code": "99567"
   },
   {
     "code": "9507342004",
     "district_code": "950734",
-    "name": "Keyagalo"
+    "name": "Keyagalo",
+    "postal_code": "99567"
   },
   {
     "code": "9507342005",
     "district_code": "950734",
-    "name": "Nondinime"
+    "name": "Nondinime",
+    "postal_code": "99567"
   },
   {
     "code": "9507342006",
     "district_code": "950734",
-    "name": "Wigume"
+    "name": "Wigume",
+    "postal_code": "99567"
   },
   {
     "code": "9507342007",
     "district_code": "950734",
-    "name": "Piwugun"
+    "name": "Piwugun",
+    "postal_code": "99567"
   }
 ]

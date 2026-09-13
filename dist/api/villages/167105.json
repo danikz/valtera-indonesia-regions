@@ -2,56 +2,67 @@
   {
     "code": "1671051001",
     "district_code": "167105",
-    "name": "18 Ilir"
+    "name": "18 Ilir",
+    "postal_code": "30121"
   },
   {
     "code": "1671051002",
     "district_code": "167105",
-    "name": "16 Ilir"
+    "name": "16 Ilir",
+    "postal_code": "30122"
   },
   {
     "code": "1671051003",
     "district_code": "167105",
-    "name": "13 Ilir"
+    "name": "13 Ilir",
+    "postal_code": "30123"
   },
   {
     "code": "1671051004",
     "district_code": "167105",
-    "name": "14 Ilir"
+    "name": "14 Ilir",
+    "postal_code": "30124"
   },
   {
     "code": "1671051005",
     "district_code": "167105",
-    "name": "15 Ilir"
+    "name": "15 Ilir",
+    "postal_code": "30124"
   },
   {
     "code": "1671051006",
     "district_code": "167105",
-    "name": "17 Ilir"
+    "name": "17 Ilir",
+    "postal_code": "30125"
   },
   {
     "code": "1671051007",
     "district_code": "167105",
-    "name": "20 Ilir D. III"
+    "name": "20 Ilir D. III",
+    "postal_code": "30129"
   },
   {
     "code": "1671051008",
     "district_code": "167105",
-    "name": "20 Ilir D IV"
+    "name": "20 Ilir D IV",
+    "postal_code": "30128"
   },
   {
     "code": "1671051009",
     "district_code": "167105",
-    "name": "20 Ilir D. I"
+    "name": "20 Ilir D. I",
+    "postal_code": "30126"
   },
   {
     "code": "1671051010",
     "district_code": "167105",
-    "name": "Sungai Pangeran"
+    "name": "Sungai Pangeran",
+    "postal_code": "30121"
   },
   {
     "code": "1671051011",
     "district_code": "167105",
-    "name": "Kepandean Baru"
+    "name": "Kepandean Baru",
+    "postal_code": "30125"
   }
 ]

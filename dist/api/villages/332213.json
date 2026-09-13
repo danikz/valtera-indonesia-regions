@@ -2,66 +2,79 @@
   {
     "code": "3322131001",
     "district_code": "332213",
-    "name": "Ngempon"
+    "name": "Ngempon",
+    "postal_code": "50552"
   },
   {
     "code": "3322131002",
     "district_code": "332213",
-    "name": "Karangjati"
+    "name": "Karangjati",
+    "postal_code": "50552"
   },
   {
     "code": "3322131005",
     "district_code": "332213",
-    "name": "Wujil"
+    "name": "Wujil",
+    "postal_code": "50552"
   },
   {
     "code": "3322131009",
     "district_code": "332213",
-    "name": "Bergas Lor"
+    "name": "Bergas Lor",
+    "postal_code": "50552"
   },
   {
     "code": "3322132003",
     "district_code": "332213",
-    "name": "Wringinputih"
+    "name": "Wringinputih",
+    "postal_code": "50552"
   },
   {
     "code": "3322132004",
     "district_code": "332213",
-    "name": "Gondoriyo"
+    "name": "Gondoriyo",
+    "postal_code": "50187"
   },
   {
     "code": "3322132006",
     "district_code": "332213",
-    "name": "Gebugan"
+    "name": "Gebugan",
+    "postal_code": "50552"
   },
   {
     "code": "3322132007",
     "district_code": "332213",
-    "name": "Pagersari"
+    "name": "Pagersari",
+    "postal_code": "50552"
   },
   {
     "code": "3322132008",
     "district_code": "332213",
-    "name": "Munding"
+    "name": "Munding",
+    "postal_code": "50552"
   },
   {
     "code": "3322132010",
     "district_code": "332213",
-    "name": "Bergas Kidul"
+    "name": "Bergas Kidul",
+    "postal_code": "50552"
   },
   {
     "code": "3322132011",
     "district_code": "332213",
-    "name": "Randugunting"
+    "name": "Randugunting",
+    "postal_code": "50552"
   },
   {
     "code": "3322132012",
     "district_code": "332213",
-    "name": "Jatijajar"
+    "name": "Jatijajar",
+    "postal_code": "50552"
   },
   {
     "code": "3322132013",
     "district_code": "332213",
-    "name": "Diwak"
+    "name": "Diwak",
+    "postal_code": "50552"
   }
 ]

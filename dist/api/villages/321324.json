@@ -2,36 +2,43 @@
   {
     "code": "3213242001",
     "district_code": "321324",
-    "name": "Anggasari"
+    "name": "Anggasari",
+    "postal_code": "41250"
   },
   {
     "code": "3213242002",
     "district_code": "321324",
-    "name": "Batangsari"
+    "name": "Batangsari",
+    "postal_code": "41250"
   },
   {
     "code": "3213242003",
     "district_code": "321324",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "41250"
   },
   {
     "code": "3213242004",
     "district_code": "321324",
-    "name": "Mandalawangi"
+    "name": "Mandalawangi",
+    "postal_code": "41250"
   },
   {
     "code": "3213242005",
     "district_code": "321324",
-    "name": "Curugreja"
+    "name": "Curugreja",
+    "postal_code": "41250"
   },
   {
     "code": "3213242006",
     "district_code": "321324",
-    "name": "Sukareja"
+    "name": "Sukareja",
+    "postal_code": "41250"
   },
   {
     "code": "3213242007",
     "district_code": "321324",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "41250"
   }
 ]

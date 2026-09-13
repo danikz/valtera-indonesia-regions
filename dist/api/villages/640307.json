@@ -2,26 +2,31 @@
   {
     "code": "6403072001",
     "district_code": "640307",
-    "name": "Pegat Batumbuk"
+    "name": "Pegat Batumbuk",
+    "postal_code": "77380"
   },
   {
     "code": "6403072002",
     "district_code": "640307",
-    "name": "Teluk Semanting"
+    "name": "Teluk Semanting",
+    "postal_code": "77380"
   },
   {
     "code": "6403072003",
     "district_code": "640307",
-    "name": "Tanjung Batu"
+    "name": "Tanjung Batu",
+    "postal_code": "77380"
   },
   {
     "code": "6403072004",
     "district_code": "640307",
-    "name": "Pulau Derawan"
+    "name": "Pulau Derawan",
+    "postal_code": "77380"
   },
   {
     "code": "6403072009",
     "district_code": "640307",
-    "name": "Kasai"
+    "name": "Kasai",
+    "postal_code": "77380"
   }
 ]

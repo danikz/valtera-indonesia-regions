@@ -2,51 +2,61 @@
   {
     "code": "9119032001",
     "district_code": "911903",
-    "name": "Yawerma"
+    "name": "Yawerma",
+    "postal_code": "98573"
   },
   {
     "code": "9119032002",
     "district_code": "911903",
-    "name": "Wombonda"
+    "name": "Wombonda",
+    "postal_code": "98573"
   },
   {
     "code": "9119032003",
     "district_code": "911903",
-    "name": "Marsram"
+    "name": "Marsram",
+    "postal_code": "98573"
   },
   {
     "code": "9119032004",
     "district_code": "911903",
-    "name": "Duber"
+    "name": "Duber",
+    "postal_code": "98573"
   },
   {
     "code": "9119032005",
     "district_code": "911903",
-    "name": "Sauyas"
+    "name": "Sauyas",
+    "postal_code": "98573"
   },
   {
     "code": "9119032006",
     "district_code": "911903",
-    "name": "Wafor"
+    "name": "Wafor",
+    "postal_code": "98573"
   },
   {
     "code": "9119032007",
     "district_code": "911903",
-    "name": "Sorendidori"
+    "name": "Sorendidori",
+    "postal_code": "98573"
   },
   {
     "code": "9119032008",
     "district_code": "911903",
-    "name": "Waryesi"
+    "name": "Waryesi",
+    "postal_code": "98573"
   },
   {
     "code": "9119032009",
     "district_code": "911903",
-    "name": "Syurdori"
+    "name": "Syurdori",
+    "postal_code": "98573"
   },
   {
     "code": "9119032010",
     "district_code": "911903",
-    "name": "Douwbo"
+    "name": "Douwbo",
+    "postal_code": "98573"
   }
 ]

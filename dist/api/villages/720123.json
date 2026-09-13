@@ -2,56 +2,67 @@
   {
     "code": "7201231003",
     "district_code": "720123",
-    "name": "Nambo Padang"
+    "name": "Nambo Padang",
+    "postal_code": "94760"
   },
   {
     "code": "7201231004",
     "district_code": "720123",
-    "name": "Nambo Bosaa"
+    "name": "Nambo Bosaa",
+    "postal_code": "94760"
   },
   {
     "code": "7201231005",
     "district_code": "720123",
-    "name": "Nambo Lempek"
+    "name": "Nambo Lempek",
+    "postal_code": "94760"
   },
   {
     "code": "7201231006",
     "district_code": "720123",
-    "name": "Nambo Lempek Baru"
+    "name": "Nambo Lempek Baru",
+    "postal_code": "94760"
   },
   {
     "code": "7201231007",
     "district_code": "720123",
-    "name": "Lontio"
+    "name": "Lontio",
+    "postal_code": "94760"
   },
   {
     "code": "7201231008",
     "district_code": "720123",
-    "name": "Lontio Baru"
+    "name": "Lontio Baru",
+    "postal_code": "94760"
   },
   {
     "code": "7201232001",
     "district_code": "720123",
-    "name": "Koyoan"
+    "name": "Koyoan",
+    "postal_code": "94760"
   },
   {
     "code": "7201232002",
     "district_code": "720123",
-    "name": "Koyoan Permai"
+    "name": "Koyoan Permai",
+    "postal_code": "94760"
   },
   {
     "code": "7201232009",
     "district_code": "720123",
-    "name": "Padungnyo"
+    "name": "Padungnyo",
+    "postal_code": "94760"
   },
   {
     "code": "7201232010",
     "district_code": "720123",
-    "name": "Sayambongin"
+    "name": "Sayambongin",
+    "postal_code": "94760"
   },
   {
     "code": "7201232011",
     "district_code": "720123",
-    "name": "Lumbe"
+    "name": "Lumbe",
+    "postal_code": "94760"
   }
 ]

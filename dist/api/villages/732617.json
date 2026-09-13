@@ -2,21 +2,25 @@
   {
     "code": "7326172001",
     "district_code": "732617",
-    "name": "To'yasa Akung"
+    "name": "To'yasa Akung",
+    "postal_code": "91853"
   },
   {
     "code": "7326172002",
     "district_code": "732617",
-    "name": "Batu Limbong"
+    "name": "Batu Limbong",
+    "postal_code": "91853"
   },
   {
     "code": "7326172003",
     "district_code": "732617",
-    "name": "Bangkelekilla"
+    "name": "Bangkelekilla",
+    "postal_code": "91853"
   },
   {
     "code": "7326172004",
     "district_code": "732617",
-    "name": "Tampan Bonga"
+    "name": "Tampan Bonga",
+    "postal_code": "91853"
   }
 ]

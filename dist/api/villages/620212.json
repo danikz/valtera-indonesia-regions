@@ -2,31 +2,37 @@
   {
     "code": "6202121001",
     "district_code": "620212",
-    "name": "Mentaya Seberang"
+    "name": "Mentaya Seberang",
+    "postal_code": "74324"
   },
   {
     "code": "6202122002",
     "district_code": "620212",
-    "name": "Terantang"
+    "name": "Terantang",
+    "postal_code": "74314"
   },
   {
     "code": "6202122003",
     "district_code": "620212",
-    "name": "Batuah"
+    "name": "Batuah",
+    "postal_code": "74315"
   },
   {
     "code": "6202122004",
     "district_code": "620212",
-    "name": "Terantang Hilir"
+    "name": "Terantang Hilir",
+    "postal_code": "74315"
   },
   {
     "code": "6202122005",
     "district_code": "620212",
-    "name": "Ganepo"
+    "name": "Ganepo",
+    "postal_code": "74314"
   },
   {
     "code": "6202122006",
     "district_code": "620212",
-    "name": "Seragam Jaya"
+    "name": "Seragam Jaya",
+    "postal_code": "74315"
   }
 ]

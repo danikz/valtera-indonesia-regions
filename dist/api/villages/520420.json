@@ -2,31 +2,37 @@
   {
     "code": "5204202001",
     "district_code": "520420",
-    "name": "Tarusa"
+    "name": "Tarusa",
+    "postal_code": "84355"
   },
   {
     "code": "5204202002",
     "district_code": "520420",
-    "name": "Juru Mapin"
+    "name": "Juru Mapin",
+    "postal_code": "84355"
   },
   {
     "code": "5204202003",
     "district_code": "520420",
-    "name": "Kalabeso"
+    "name": "Kalabeso",
+    "postal_code": "84355"
   },
   {
     "code": "5204202004",
     "district_code": "520420",
-    "name": "Labuhan Burung"
+    "name": "Labuhan Burung",
+    "postal_code": "84355"
   },
   {
     "code": "5204202005",
     "district_code": "520420",
-    "name": "Pulau Kaung"
+    "name": "Pulau Kaung",
+    "postal_code": "84355"
   },
   {
     "code": "5204202006",
     "district_code": "520420",
-    "name": "Buin Baru"
+    "name": "Buin Baru",
+    "postal_code": "84355"
   }
 ]

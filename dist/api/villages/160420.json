@@ -2,56 +2,67 @@
   {
     "code": "1604202001",
     "district_code": "160420",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "31419"
   },
   {
     "code": "1604202002",
     "district_code": "160420",
-    "name": "Tanjung Agung"
+    "name": "Tanjung Agung",
+    "postal_code": "31419"
   },
   {
     "code": "1604202003",
     "district_code": "160420",
-    "name": "Penandingan"
+    "name": "Penandingan",
+    "postal_code": "31419"
   },
   {
     "code": "1604202004",
     "district_code": "160420",
-    "name": "Talang Tinggi"
+    "name": "Talang Tinggi",
+    "postal_code": "31419"
   },
   {
     "code": "1604202005",
     "district_code": "160420",
-    "name": "Batu Niding"
+    "name": "Batu Niding",
+    "postal_code": "31419"
   },
   {
     "code": "1604202006",
     "district_code": "160420",
-    "name": "Tanjung Raya"
+    "name": "Tanjung Raya",
+    "postal_code": "31419"
   },
   {
     "code": "1604202007",
     "district_code": "160420",
-    "name": "Lubuk Mabar"
+    "name": "Lubuk Mabar",
+    "postal_code": "31419"
   },
   {
     "code": "1604202008",
     "district_code": "160420",
-    "name": "Pagar Agung"
+    "name": "Pagar Agung",
+    "postal_code": "31417"
   },
   {
     "code": "1604202009",
     "district_code": "160420",
-    "name": "Lubuk Tuba"
+    "name": "Lubuk Tuba",
+    "postal_code": "31419"
   },
   {
     "code": "1604202010",
     "district_code": "160420",
-    "name": "Lubuk Atung"
+    "name": "Lubuk Atung",
+    "postal_code": "31419"
   },
   {
     "code": "1604202011",
     "district_code": "160420",
-    "name": "Muara Cawang"
+    "name": "Muara Cawang",
+    "postal_code": "31419"
   }
 ]

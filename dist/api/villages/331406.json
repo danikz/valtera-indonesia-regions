@@ -2,46 +2,55 @@
   {
     "code": "3314062001",
     "district_code": "331406",
-    "name": "Srimulyo"
+    "name": "Srimulyo",
+    "postal_code": "57254"
   },
   {
     "code": "3314062002",
     "district_code": "331406",
-    "name": "Tegalrejo"
+    "name": "Tegalrejo",
+    "postal_code": "57254"
   },
   {
     "code": "3314062003",
     "district_code": "331406",
-    "name": "Tunggul"
+    "name": "Tunggul",
+    "postal_code": "57254"
   },
   {
     "code": "3314062004",
     "district_code": "331406",
-    "name": "Glonggong"
+    "name": "Glonggong",
+    "postal_code": "57254"
   },
   {
     "code": "3314062005",
     "district_code": "331406",
-    "name": "Kaliwedi"
+    "name": "Kaliwedi",
+    "postal_code": "57254"
   },
   {
     "code": "3314062006",
     "district_code": "331406",
-    "name": "Wonotolo"
+    "name": "Wonotolo",
+    "postal_code": "57254"
   },
   {
     "code": "3314062007",
     "district_code": "331406",
-    "name": "Plosorejo"
+    "name": "Plosorejo",
+    "postal_code": "57254"
   },
   {
     "code": "3314062008",
     "district_code": "331406",
-    "name": "Gondang"
+    "name": "Gondang",
+    "postal_code": "57254"
   },
   {
     "code": "3314062009",
     "district_code": "331406",
-    "name": "Bumiaji"
+    "name": "Bumiaji",
+    "postal_code": "57254"
   }
 ]

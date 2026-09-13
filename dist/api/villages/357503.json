@@ -2,31 +2,37 @@
   {
     "code": "3575031001",
     "district_code": "357503",
-    "name": "Blandongan"
+    "name": "Blandongan",
+    "postal_code": "67128"
   },
   {
     "code": "3575031002",
     "district_code": "357503",
-    "name": "Kepel"
+    "name": "Kepel",
+    "postal_code": "67129"
   },
   {
     "code": "3575031003",
     "district_code": "357503",
-    "name": "Tapa'an"
+    "name": "Tapa'an",
+    "postal_code": "67129"
   },
   {
     "code": "3575031005",
     "district_code": "357503",
-    "name": "Bakalan"
+    "name": "Bakalan",
+    "postal_code": "67128"
   },
   {
     "code": "3575031006",
     "district_code": "357503",
-    "name": "Krampyangan"
+    "name": "Krampyangan",
+    "postal_code": "67127"
   },
   {
     "code": "3575031009",
     "district_code": "357503",
-    "name": "Bugul Kidul"
+    "name": "Bugul Kidul",
+    "postal_code": "67129"
   }
 ]

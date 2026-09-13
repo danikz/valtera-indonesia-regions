@@ -2,26 +2,31 @@
   {
     "code": "9402132001",
     "district_code": "940213",
-    "name": "Ilamburawi"
+    "name": "Ilamburawi",
+    "postal_code": "98912"
   },
   {
     "code": "9402132002",
     "district_code": "940213",
-    "name": "Berelema"
+    "name": "Berelema",
+    "postal_code": "98912"
   },
   {
     "code": "9402132003",
     "district_code": "940213",
-    "name": "Kalome"
+    "name": "Kalome",
+    "postal_code": "98912"
   },
   {
     "code": "9402132004",
     "district_code": "940213",
-    "name": "Temu"
+    "name": "Temu",
+    "postal_code": "98912"
   },
   {
     "code": "9402132005",
     "district_code": "940213",
-    "name": "Jigunikime"
+    "name": "Jigunikime",
+    "postal_code": "98912"
   }
 ]

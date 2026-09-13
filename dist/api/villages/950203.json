@@ -2,41 +2,49 @@
   {
     "code": "9502032001",
     "district_code": "950203",
-    "name": "Okbifisil"
+    "name": "Okbifisil",
+    "postal_code": "99404"
   },
   {
     "code": "9502032002",
     "district_code": "950203",
-    "name": "Abmisibil"
+    "name": "Abmisibil",
+    "postal_code": "99572"
   },
   {
     "code": "9502032003",
     "district_code": "950203",
-    "name": "Manunggal"
+    "name": "Manunggal",
+    "postal_code": "99572"
   },
   {
     "code": "9502032004",
     "district_code": "950203",
-    "name": "Iriding"
+    "name": "Iriding",
+    "postal_code": "99404"
   },
   {
     "code": "9502032005",
     "district_code": "950203",
-    "name": "Atolbol"
+    "name": "Atolbol",
+    "postal_code": "99572"
   },
   {
     "code": "9502032006",
     "district_code": "950203",
-    "name": "Oktanglap"
+    "name": "Oktanglap",
+    "postal_code": "99572"
   },
   {
     "code": "9502032007",
     "district_code": "950203",
-    "name": "Oksemar"
+    "name": "Oksemar",
+    "postal_code": "99572"
   },
   {
     "code": "9502032008",
     "district_code": "950203",
-    "name": "Okaplo"
+    "name": "Okaplo",
+    "postal_code": "99404"
   }
 ]

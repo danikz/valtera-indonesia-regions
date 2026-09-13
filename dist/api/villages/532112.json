@@ -2,26 +2,31 @@
   {
     "code": "5321122001",
     "district_code": "532112",
-    "name": "Babotin"
+    "name": "Babotin",
+    "postal_code": "85765"
   },
   {
     "code": "5321122002",
     "district_code": "532112",
-    "name": "Kereana"
+    "name": "Kereana",
+    "postal_code": "85765"
   },
   {
     "code": "5321122003",
     "district_code": "532112",
-    "name": "Babotin Maemina"
+    "name": "Babotin Maemina",
+    "postal_code": "85765"
   },
   {
     "code": "5321122004",
     "district_code": "532112",
-    "name": "Babotin Selatan"
+    "name": "Babotin Selatan",
+    "postal_code": "85765"
   },
   {
     "code": "5321122005",
     "district_code": "532112",
-    "name": "Takarai"
+    "name": "Takarai",
+    "postal_code": "85765"
   }
 ]

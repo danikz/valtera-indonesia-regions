@@ -2,36 +2,43 @@
   {
     "code": "7604141001",
     "district_code": "760414",
-    "name": "Matakali"
+    "name": "Matakali",
+    "postal_code": "91352"
   },
   {
     "code": "7604142002",
     "district_code": "760414",
-    "name": "Petampanua"
+    "name": "Petampanua",
+    "postal_code": "91352"
   },
   {
     "code": "7604142003",
     "district_code": "760414",
-    "name": "Barumbung"
+    "name": "Barumbung",
+    "postal_code": "91352"
   },
   {
     "code": "7604142004",
     "district_code": "760414",
-    "name": "Pasiang"
+    "name": "Pasiang",
+    "postal_code": "91352"
   },
   {
     "code": "7604142005",
     "district_code": "760414",
-    "name": "Tonrolima"
+    "name": "Tonrolima",
+    "postal_code": "91352"
   },
   {
     "code": "7604142006",
     "district_code": "760414",
-    "name": "Indomakkombong"
+    "name": "Indomakkombong",
+    "postal_code": "91352"
   },
   {
     "code": "7604142007",
     "district_code": "760414",
-    "name": "Bunga-Bunga"
+    "name": "Bunga-Bunga",
+    "postal_code": "91352"
   }
 ]

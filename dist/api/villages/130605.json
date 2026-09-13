@@ -2,36 +2,43 @@
   {
     "code": "1306052002",
     "district_code": "130605",
-    "name": "Sungai Landia"
+    "name": "Sungai Landia",
+    "postal_code": "26160"
   },
   {
     "code": "1306052003",
     "district_code": "130605",
-    "name": "Balingka"
+    "name": "Balingka",
+    "postal_code": "26160"
   },
   {
     "code": "1306052004",
     "district_code": "130605",
-    "name": "Koto Tuo"
+    "name": "Koto Tuo",
+    "postal_code": "26160"
   },
   {
     "code": "1306052005",
     "district_code": "130605",
-    "name": "Guguk Tabek Sarajo"
+    "name": "Guguk Tabek Sarajo",
+    "postal_code": "26160"
   },
   {
     "code": "1306052006",
     "district_code": "130605",
-    "name": "Koto Panjang"
+    "name": "Koto Panjang",
+    "postal_code": "26160"
   },
   {
     "code": "1306052007",
     "district_code": "130605",
-    "name": "Sianok Anam Suku"
+    "name": "Sianok Anam Suku",
+    "postal_code": "26160"
   },
   {
     "code": "1306052008",
     "district_code": "130605",
-    "name": "Koto Gadang"
+    "name": "Koto Gadang",
+    "postal_code": "26160"
   }
 ]

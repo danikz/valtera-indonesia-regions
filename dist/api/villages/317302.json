@@ -2,36 +2,43 @@
   {
     "code": "3173021001",
     "district_code": "317302",
-    "name": "Grogol"
+    "name": "Grogol",
+    "postal_code": "11450"
   },
   {
     "code": "3173021002",
     "district_code": "317302",
-    "name": "Tanjung Duren Utara"
+    "name": "Tanjung Duren Utara",
+    "postal_code": "11470"
   },
   {
     "code": "3173021003",
     "district_code": "317302",
-    "name": "Tomang"
+    "name": "Tomang",
+    "postal_code": "11440"
   },
   {
     "code": "3173021004",
     "district_code": "317302",
-    "name": "Jelambar"
+    "name": "Jelambar",
+    "postal_code": "11460"
   },
   {
     "code": "3173021005",
     "district_code": "317302",
-    "name": "Tanjung Duren Selatan"
+    "name": "Tanjung Duren Selatan",
+    "postal_code": "11470"
   },
   {
     "code": "3173021006",
     "district_code": "317302",
-    "name": "Jelambar Baru"
+    "name": "Jelambar Baru",
+    "postal_code": "11460"
   },
   {
     "code": "3173021007",
     "district_code": "317302",
-    "name": "Wijaya Kusuma"
+    "name": "Wijaya Kusuma",
+    "postal_code": "11460"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "7171101001",
     "district_code": "717110",
-    "name": "Bunaken"
+    "name": "Bunaken",
+    "postal_code": "95246"
   },
   {
     "code": "7171101002",
     "district_code": "717110",
-    "name": "Manado Tua Satu"
+    "name": "Manado Tua Satu",
+    "postal_code": "95231"
   },
   {
     "code": "7171101003",
     "district_code": "717110",
-    "name": "Manado Tua Dua"
+    "name": "Manado Tua Dua",
+    "postal_code": "95231"
   },
   {
     "code": "7171101004",
     "district_code": "717110",
-    "name": "Alung Banua"
+    "name": "Alung Banua",
+    "postal_code": "95231"
   }
 ]

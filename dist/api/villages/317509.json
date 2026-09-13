@@ -2,26 +2,31 @@
   {
     "code": "3175091001",
     "district_code": "317509",
-    "name": "Ciracas"
+    "name": "Ciracas",
+    "postal_code": "13740"
   },
   {
     "code": "3175091002",
     "district_code": "317509",
-    "name": "Cibubur"
+    "name": "Cibubur",
+    "postal_code": "13720"
   },
   {
     "code": "3175091003",
     "district_code": "317509",
-    "name": "Kelapa Dua Wetan"
+    "name": "Kelapa Dua Wetan",
+    "postal_code": "13730"
   },
   {
     "code": "3175091004",
     "district_code": "317509",
-    "name": "Susukan"
+    "name": "Susukan",
+    "postal_code": "13750"
   },
   {
     "code": "3175091005",
     "district_code": "317509",
-    "name": "Rambutan"
+    "name": "Rambutan",
+    "postal_code": "13830"
   }
 ]

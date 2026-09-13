@@ -2,56 +2,67 @@
   {
     "code": "7201211010",
     "district_code": "720121",
-    "name": "Kilongan"
+    "name": "Kilongan",
+    "postal_code": "94711"
   },
   {
     "code": "7201211011",
     "district_code": "720121",
-    "name": "Kilongan Permai"
+    "name": "Kilongan Permai",
+    "postal_code": "94711"
   },
   {
     "code": "7201212001",
     "district_code": "720121",
-    "name": "Biak"
+    "name": "Biak",
+    "postal_code": "94711"
   },
   {
     "code": "7201212002",
     "district_code": "720121",
-    "name": "Bunga"
+    "name": "Bunga",
+    "postal_code": "94711"
   },
   {
     "code": "7201212003",
     "district_code": "720121",
-    "name": "Kamumu"
+    "name": "Kamumu",
+    "postal_code": "94711"
   },
   {
     "code": "7201212004",
     "district_code": "720121",
-    "name": "Salodik"
+    "name": "Salodik",
+    "postal_code": "94711"
   },
   {
     "code": "7201212005",
     "district_code": "720121",
-    "name": "Lenyek"
+    "name": "Lenyek",
+    "postal_code": "94711"
   },
   {
     "code": "7201212006",
     "district_code": "720121",
-    "name": "Buon Mandiri"
+    "name": "Buon Mandiri",
+    "postal_code": "94711"
   },
   {
     "code": "7201212007",
     "district_code": "720121",
-    "name": "Boyou"
+    "name": "Boyou",
+    "postal_code": "94711"
   },
   {
     "code": "7201212008",
     "district_code": "720121",
-    "name": "Awu"
+    "name": "Awu",
+    "postal_code": "94711"
   },
   {
     "code": "7201212009",
     "district_code": "720121",
-    "name": "Bumi Beringin"
+    "name": "Bumi Beringin",
+    "postal_code": "94711"
   }
 ]

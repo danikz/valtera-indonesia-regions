@@ -2,31 +2,37 @@
   {
     "code": "3173081001",
     "district_code": "317308",
-    "name": "Kembangan Utara"
+    "name": "Kembangan Utara",
+    "postal_code": "11610"
   },
   {
     "code": "3173081002",
     "district_code": "317308",
-    "name": "Meruya Utara"
+    "name": "Meruya Utara",
+    "postal_code": "11620"
   },
   {
     "code": "3173081003",
     "district_code": "317308",
-    "name": "Meruya Selatan"
+    "name": "Meruya Selatan",
+    "postal_code": "11650"
   },
   {
     "code": "3173081004",
     "district_code": "317308",
-    "name": "Srengseng"
+    "name": "Srengseng",
+    "postal_code": "11630"
   },
   {
     "code": "3173081005",
     "district_code": "317308",
-    "name": "Joglo"
+    "name": "Joglo",
+    "postal_code": "11640"
   },
   {
     "code": "3173081006",
     "district_code": "317308",
-    "name": "Kembangan Selatan"
+    "name": "Kembangan Selatan",
+    "postal_code": "11610"
   }
 ]

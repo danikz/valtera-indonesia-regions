@@ -2,41 +2,49 @@
   {
     "code": "9502152001",
     "district_code": "950215",
-    "name": "Yapimakot"
+    "name": "Yapimakot",
+    "postal_code": "99418"
   },
   {
     "code": "9502152002",
     "district_code": "950215",
-    "name": "Seramkatop"
+    "name": "Seramkatop",
+    "postal_code": "99418"
   },
   {
     "code": "9502152003",
     "district_code": "950215",
-    "name": "Parim"
+    "name": "Parim",
+    "postal_code": "99418"
   },
   {
     "code": "9502152004",
     "district_code": "950215",
-    "name": "Siminbuk"
+    "name": "Siminbuk",
+    "postal_code": "99418"
   },
   {
     "code": "9502152005",
     "district_code": "950215",
-    "name": "Modusit"
+    "name": "Modusit",
+    "postal_code": "99418"
   },
   {
     "code": "9502152006",
     "district_code": "950215",
-    "name": "Wanbakon"
+    "name": "Wanbakon",
+    "postal_code": "99418"
   },
   {
     "code": "9502152007",
     "district_code": "950215",
-    "name": "Yakmor"
+    "name": "Yakmor",
+    "postal_code": "99418"
   },
   {
     "code": "9502152008",
     "district_code": "950215",
-    "name": "Okatem"
+    "name": "Okatem",
+    "postal_code": "99418"
   }
 ]

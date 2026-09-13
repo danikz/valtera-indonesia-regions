@@ -2,41 +2,49 @@
   {
     "code": "5314041002",
     "district_code": "531404",
-    "name": "Onatali"
+    "name": "Onatali",
+    "postal_code": "85971"
   },
   {
     "code": "5314042001",
     "district_code": "531404",
-    "name": "Maubesi"
+    "name": "Maubesi",
+    "postal_code": "85971"
   },
   {
     "code": "5314042003",
     "district_code": "531404",
-    "name": "Nggodimeda"
+    "name": "Nggodimeda",
+    "postal_code": "85971"
   },
   {
     "code": "5314042004",
     "district_code": "531404",
-    "name": "Limakoli"
+    "name": "Limakoli",
+    "postal_code": "85971"
   },
   {
     "code": "5314042005",
     "district_code": "531404",
-    "name": "Lidamanu"
+    "name": "Lidamanu",
+    "postal_code": "85971"
   },
   {
     "code": "5314042010",
     "district_code": "531404",
-    "name": "Suebela"
+    "name": "Suebela",
+    "postal_code": "85971"
   },
   {
     "code": "5314042011",
     "district_code": "531404",
-    "name": "Lidabesi"
+    "name": "Lidabesi",
+    "postal_code": "85971"
   },
   {
     "code": "5314042013",
     "district_code": "531404",
-    "name": "Siomeda"
+    "name": "Siomeda",
+    "postal_code": "85971"
   }
 ]

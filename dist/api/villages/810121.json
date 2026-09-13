@@ -2,21 +2,25 @@
   {
     "code": "8101212001",
     "district_code": "810121",
-    "name": "Waraka"
+    "name": "Waraka",
+    "postal_code": "97517"
   },
   {
     "code": "8101212002",
     "district_code": "810121",
-    "name": "Tananahu"
+    "name": "Tananahu",
+    "postal_code": "97517"
   },
   {
     "code": "8101212003",
     "district_code": "810121",
-    "name": "Liang"
+    "name": "Liang",
+    "postal_code": "97517"
   },
   {
     "code": "8101212004",
     "district_code": "810121",
-    "name": "Sahulauw"
+    "name": "Sahulauw",
+    "postal_code": "97517"
   }
 ]

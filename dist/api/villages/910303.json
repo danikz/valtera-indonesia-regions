@@ -2,41 +2,49 @@
   {
     "code": "9103032001",
     "district_code": "910303",
-    "name": "Waiya"
+    "name": "Waiya",
+    "postal_code": "99353"
   },
   {
     "code": "9103032002",
     "district_code": "910303",
-    "name": "Entiyebo"
+    "name": "Entiyebo",
+    "postal_code": "99353"
   },
   {
     "code": "9103032003",
     "district_code": "910303",
-    "name": "Kendate"
+    "name": "Kendate",
+    "postal_code": "99353"
   },
   {
     "code": "9103032004",
     "district_code": "910303",
-    "name": "Tablasupa"
+    "name": "Tablasupa",
+    "postal_code": "99353"
   },
   {
     "code": "9103032005",
     "district_code": "910303",
-    "name": "Yepase"
+    "name": "Yepase",
+    "postal_code": "99353"
   },
   {
     "code": "9103032006",
     "district_code": "910303",
-    "name": "Wambena"
+    "name": "Wambena",
+    "postal_code": "99353"
   },
   {
     "code": "9103032007",
     "district_code": "910303",
-    "name": "Yewena"
+    "name": "Yewena",
+    "postal_code": "99353"
   },
   {
     "code": "9103032012",
     "district_code": "910303",
-    "name": "Doromena"
+    "name": "Doromena",
+    "postal_code": "99353"
   }
 ]

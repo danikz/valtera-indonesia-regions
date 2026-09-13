@@ -2,41 +2,49 @@
   {
     "code": "1801232001",
     "district_code": "180123",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "35456"
   },
   {
     "code": "1801232002",
     "district_code": "180123",
-    "name": "Sumber Agung"
+    "name": "Sumber Agung",
+    "postal_code": "35456"
   },
   {
     "code": "1801232003",
     "district_code": "180123",
-    "name": "Talang Way Sulan"
+    "name": "Talang Way Sulan",
+    "postal_code": "35456"
   },
   {
     "code": "1801232004",
     "district_code": "180123",
-    "name": "Pamulihan"
+    "name": "Pamulihan",
+    "postal_code": "35456"
   },
   {
     "code": "1801232005",
     "district_code": "180123",
-    "name": "Purwodadi"
+    "name": "Purwodadi",
+    "postal_code": "35456"
   },
   {
     "code": "1801232006",
     "district_code": "180123",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "35456"
   },
   {
     "code": "1801232007",
     "district_code": "180123",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "35456"
   },
   {
     "code": "1801232008",
     "district_code": "180123",
-    "name": "Karang Pucung"
+    "name": "Karang Pucung",
+    "postal_code": "35456"
   }
 ]

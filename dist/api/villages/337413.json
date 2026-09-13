@@ -2,81 +2,97 @@
   {
     "code": "3374131001",
     "district_code": "337413",
-    "name": "Ngemplak Simongan"
+    "name": "Ngemplak Simongan",
+    "postal_code": "50148"
   },
   {
     "code": "3374131002",
     "district_code": "337413",
-    "name": "Manyaran"
+    "name": "Manyaran",
+    "postal_code": "50147"
   },
   {
     "code": "3374131003",
     "district_code": "337413",
-    "name": "Krapyak"
+    "name": "Krapyak",
+    "postal_code": "50146"
   },
   {
     "code": "3374131004",
     "district_code": "337413",
-    "name": "Tambakharjo"
+    "name": "Tambakharjo",
+    "postal_code": "50149"
   },
   {
     "code": "3374131005",
     "district_code": "337413",
-    "name": "Kalibanteng Kulon"
+    "name": "Kalibanteng Kulon",
+    "postal_code": "50145"
   },
   {
     "code": "3374131006",
     "district_code": "337413",
-    "name": "Kalibanteng Kidul"
+    "name": "Kalibanteng Kidul",
+    "postal_code": "50149"
   },
   {
     "code": "3374131007",
     "district_code": "337413",
-    "name": "Gisikdrono"
+    "name": "Gisikdrono",
+    "postal_code": "50149"
   },
   {
     "code": "3374131008",
     "district_code": "337413",
-    "name": "Bongsari"
+    "name": "Bongsari",
+    "postal_code": "50148"
   },
   {
     "code": "3374131009",
     "district_code": "337413",
-    "name": "Bojongsalaman"
+    "name": "Bojongsalaman",
+    "postal_code": "50141"
   },
   {
     "code": "3374131010",
     "district_code": "337413",
-    "name": "Salamanmloyo"
+    "name": "Salamanmloyo",
+    "postal_code": "50149"
   },
   {
     "code": "3374131011",
     "district_code": "337413",
-    "name": "Cabean"
+    "name": "Cabean",
+    "postal_code": "50141"
   },
   {
     "code": "3374131012",
     "district_code": "337413",
-    "name": "Karangayu"
+    "name": "Karangayu",
+    "postal_code": "50149"
   },
   {
     "code": "3374131013",
     "district_code": "337413",
-    "name": "Krobokan"
+    "name": "Krobokan",
+    "postal_code": "50141"
   },
   {
     "code": "3374131014",
     "district_code": "337413",
-    "name": "Tawangsari"
+    "name": "Tawangsari",
+    "postal_code": "50144"
   },
   {
     "code": "3374131015",
     "district_code": "337413",
-    "name": "Tawangmas"
+    "name": "Tawangmas",
+    "postal_code": "50144"
   },
   {
     "code": "3374131016",
     "district_code": "337413",
-    "name": "Kembangarum"
+    "name": "Kembangarum",
+    "postal_code": "50183"
   }
 ]

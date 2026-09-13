@@ -2,51 +2,61 @@
   {
     "code": "7407071001",
     "district_code": "740707",
-    "name": "Patipelong"
+    "name": "Patipelong",
+    "postal_code": "93797"
   },
   {
     "code": "7407071002",
     "district_code": "740707",
-    "name": "Tongano Barat"
+    "name": "Tongano Barat",
+    "postal_code": "93797"
   },
   {
     "code": "7407071003",
     "district_code": "740707",
-    "name": "Bahari"
+    "name": "Bahari",
+    "postal_code": "93797"
   },
   {
     "code": "7407071004",
     "district_code": "740707",
-    "name": "Tongano Timur"
+    "name": "Tongano Timur",
+    "postal_code": "93797"
   },
   {
     "code": "7407071011",
     "district_code": "740707",
-    "name": "Rukuwa"
+    "name": "Rukuwa",
+    "postal_code": ""
   },
   {
     "code": "7407072005",
     "district_code": "740707",
-    "name": "Timu"
+    "name": "Timu",
+    "postal_code": "93797"
   },
   {
     "code": "7407072006",
     "district_code": "740707",
-    "name": "Dete"
+    "name": "Dete",
+    "postal_code": "93797"
   },
   {
     "code": "7407072007",
     "district_code": "740707",
-    "name": "Kulati"
+    "name": "Kulati",
+    "postal_code": "93797"
   },
   {
     "code": "7407072008",
     "district_code": "740707",
-    "name": "Wawaotimu"
+    "name": "Wawaotimu",
+    "postal_code": "93797"
   },
   {
     "code": "7407072009",
     "district_code": "740707",
-    "name": "Kahiyanga"
+    "name": "Kahiyanga",
+    "postal_code": "93797"
   }
 ]

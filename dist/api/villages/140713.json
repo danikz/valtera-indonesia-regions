@@ -2,21 +2,25 @@
   {
     "code": "1407131002",
     "district_code": "140713",
-    "name": "Rantau Kopar"
+    "name": "Rantau Kopar",
+    "postal_code": "28984"
   },
   {
     "code": "1407131003",
     "district_code": "140713",
-    "name": "Sungai Rangau"
+    "name": "Sungai Rangau",
+    "postal_code": "28984"
   },
   {
     "code": "1407132001",
     "district_code": "140713",
-    "name": "Sekapas"
+    "name": "Sekapas",
+    "postal_code": "28984"
   },
   {
     "code": "1407132004",
     "district_code": "140713",
-    "name": "Bagan Cempedak"
+    "name": "Bagan Cempedak",
+    "postal_code": "28984"
   }
 ]

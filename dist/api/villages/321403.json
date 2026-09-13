@@ -2,51 +2,61 @@
   {
     "code": "3214032001",
     "district_code": "321403",
-    "name": "Cikaobandung"
+    "name": "Cikaobandung",
+    "postal_code": "41152"
   },
   {
     "code": "3214032002",
     "district_code": "321403",
-    "name": "Jatimekar"
+    "name": "Jatimekar",
+    "postal_code": "41152"
   },
   {
     "code": "3214032003",
     "district_code": "321403",
-    "name": "Jatiluhur"
+    "name": "Jatiluhur",
+    "postal_code": "41152"
   },
   {
     "code": "3214032004",
     "district_code": "321403",
-    "name": "Cilegong"
+    "name": "Cilegong",
+    "postal_code": "41152"
   },
   {
     "code": "3214032005",
     "district_code": "321403",
-    "name": "Kembangkuning"
+    "name": "Kembangkuning",
+    "postal_code": "41152"
   },
   {
     "code": "3214032006",
     "district_code": "321403",
-    "name": "Cibinong"
+    "name": "Cibinong",
+    "postal_code": "41152"
   },
   {
     "code": "3214032007",
     "district_code": "321403",
-    "name": "Bunder"
+    "name": "Bunder",
+    "postal_code": "41161"
   },
   {
     "code": "3214032008",
     "district_code": "321403",
-    "name": "Mekargalih"
+    "name": "Mekargalih",
+    "postal_code": "41152"
   },
   {
     "code": "3214032009",
     "district_code": "321403",
-    "name": "Cisalada"
+    "name": "Cisalada",
+    "postal_code": "41152"
   },
   {
     "code": "3214032010",
     "district_code": "321403",
-    "name": "Parakanlima"
+    "name": "Parakanlima",
+    "postal_code": "41152"
   }
 ]

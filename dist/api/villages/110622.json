@@ -2,31 +2,37 @@
   {
     "code": "1106222001",
     "district_code": "110622",
-    "name": "Layeun"
+    "name": "Layeun",
+    "postal_code": "23353"
   },
   {
     "code": "1106222002",
     "district_code": "110622",
-    "name": "Pulot"
+    "name": "Pulot",
+    "postal_code": "23353"
   },
   {
     "code": "1106222003",
     "district_code": "110622",
-    "name": "Lamseunia"
+    "name": "Lamseunia",
+    "postal_code": "23353"
   },
   {
     "code": "1106222004",
     "district_code": "110622",
-    "name": "Mns. Mesjid"
+    "name": "Mns. Mesjid",
+    "postal_code": "23353"
   },
   {
     "code": "1106222005",
     "district_code": "110622",
-    "name": "Meunasah Bak U"
+    "name": "Meunasah Bak U",
+    "postal_code": "23353"
   },
   {
     "code": "1106222006",
     "district_code": "110622",
-    "name": "Dayah Mamplam"
+    "name": "Dayah Mamplam",
+    "postal_code": "23353"
   }
 ]

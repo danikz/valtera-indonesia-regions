@@ -2,61 +2,73 @@
   {
     "code": "3320022001",
     "district_code": "332002",
-    "name": "Kaliombo"
+    "name": "Kaliombo",
+    "postal_code": "59460"
   },
   {
     "code": "3320022002",
     "district_code": "332002",
-    "name": "Karangrandu"
+    "name": "Karangrandu",
+    "postal_code": "59460"
   },
   {
     "code": "3320022003",
     "district_code": "332002",
-    "name": "Gerdu"
+    "name": "Gerdu",
+    "postal_code": "59460"
   },
   {
     "code": "3320022004",
     "district_code": "332002",
-    "name": "Pecangaan Kulon"
+    "name": "Pecangaan Kulon",
+    "postal_code": "59460"
   },
   {
     "code": "3320022005",
     "district_code": "332002",
-    "name": "Rengging"
+    "name": "Rengging",
+    "postal_code": "59460"
   },
   {
     "code": "3320022006",
     "district_code": "332002",
-    "name": "Troso"
+    "name": "Troso",
+    "postal_code": "59460"
   },
   {
     "code": "3320022007",
     "district_code": "332002",
-    "name": "Ngeling"
+    "name": "Ngeling",
+    "postal_code": "59460"
   },
   {
     "code": "3320022008",
     "district_code": "332002",
-    "name": "Pulodarat"
+    "name": "Pulodarat",
+    "postal_code": "59460"
   },
   {
     "code": "3320022009",
     "district_code": "332002",
-    "name": "Lebuawu"
+    "name": "Lebuawu",
+    "postal_code": "59460"
   },
   {
     "code": "3320022010",
     "district_code": "332002",
-    "name": "Gemulung"
+    "name": "Gemulung",
+    "postal_code": "59460"
   },
   {
     "code": "3320022011",
     "district_code": "332002",
-    "name": "Pecangaan Wetan"
+    "name": "Pecangaan Wetan",
+    "postal_code": "59460"
   },
   {
     "code": "3320022012",
     "district_code": "332002",
-    "name": "Krasak"
+    "name": "Krasak",
+    "postal_code": "59460"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3529022001",
     "district_code": "352902",
-    "name": "Pinggirpapas"
+    "name": "Pinggirpapas",
+    "postal_code": "69471"
   },
   {
     "code": "3529022002",
     "district_code": "352902",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "69471"
   },
   {
     "code": "3529022003",
     "district_code": "352902",
-    "name": "Marengan Laok"
+    "name": "Marengan Laok",
+    "postal_code": "69471"
   },
   {
     "code": "3529022004",
     "district_code": "352902",
-    "name": "Kertasada"
+    "name": "Kertasada",
+    "postal_code": "69471"
   },
   {
     "code": "3529022005",
     "district_code": "352902",
-    "name": "Kalimook"
+    "name": "Kalimook",
+    "postal_code": "69471"
   },
   {
     "code": "3529022006",
     "district_code": "352902",
-    "name": "Kalianget Barat"
+    "name": "Kalianget Barat",
+    "postal_code": "69471"
   },
   {
     "code": "3529022007",
     "district_code": "352902",
-    "name": "Kalianget Timur"
+    "name": "Kalianget Timur",
+    "postal_code": "69471"
   }
 ]

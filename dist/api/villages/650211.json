@@ -2,31 +2,37 @@
   {
     "code": "6502112001",
     "district_code": "650211",
-    "name": "Long Uli"
+    "name": "Long Uli",
+    "postal_code": "77562"
   },
   {
     "code": "6502112002",
     "district_code": "650211",
-    "name": "Long Alango"
+    "name": "Long Alango",
+    "postal_code": "77562"
   },
   {
     "code": "6502112003",
     "district_code": "650211",
-    "name": "Long Berini"
+    "name": "Long Berini",
+    "postal_code": "77562"
   },
   {
     "code": "6502112004",
     "district_code": "650211",
-    "name": "Long Tebulo"
+    "name": "Long Tebulo",
+    "postal_code": "77562"
   },
   {
     "code": "6502112005",
     "district_code": "650211",
-    "name": "Apau Ping"
+    "name": "Apau Ping",
+    "postal_code": "77562"
   },
   {
     "code": "6502112006",
     "district_code": "650211",
-    "name": "Long Kemuat"
+    "name": "Long Kemuat",
+    "postal_code": "77562"
   }
 ]

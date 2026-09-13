@@ -2,66 +2,79 @@
   {
     "code": "5315012001",
     "district_code": "531501",
-    "name": "Bari"
+    "name": "Bari",
+    "postal_code": "86756"
   },
   {
     "code": "5315012002",
     "district_code": "531501",
-    "name": "Rokap"
+    "name": "Rokap",
+    "postal_code": "86756"
   },
   {
     "code": "5315012003",
     "district_code": "531501",
-    "name": "Mbakung"
+    "name": "Mbakung",
+    "postal_code": "86756"
   },
   {
     "code": "5315012004",
     "district_code": "531501",
-    "name": "Nggilat"
+    "name": "Nggilat",
+    "postal_code": "86756"
   },
   {
     "code": "5315012005",
     "district_code": "531501",
-    "name": "Rego"
+    "name": "Rego",
+    "postal_code": "86756"
   },
   {
     "code": "5315012006",
     "district_code": "531501",
-    "name": "Wontong"
+    "name": "Wontong",
+    "postal_code": "86756"
   },
   {
     "code": "5315012007",
     "district_code": "531501",
-    "name": "Raba"
+    "name": "Raba",
+    "postal_code": "86756"
   },
   {
     "code": "5315012008",
     "district_code": "531501",
-    "name": "Nanga Kantor"
+    "name": "Nanga Kantor",
+    "postal_code": "86756"
   },
   {
     "code": "5315012014",
     "district_code": "531501",
-    "name": "Watubaru"
+    "name": "Watubaru",
+    "postal_code": "86756"
   },
   {
     "code": "5315012015",
     "district_code": "531501",
-    "name": "Lewat"
+    "name": "Lewat",
+    "postal_code": "86756"
   },
   {
     "code": "5315012016",
     "district_code": "531501",
-    "name": "Watu Manggar"
+    "name": "Watu Manggar",
+    "postal_code": "86756"
   },
   {
     "code": "5315012025",
     "district_code": "531501",
-    "name": "Sarae Naru"
+    "name": "Sarae Naru",
+    "postal_code": "86756"
   },
   {
     "code": "5315012026",
     "district_code": "531501",
-    "name": "Nanga Kantor Barat"
+    "name": "Nanga Kantor Barat",
+    "postal_code": "86756"
   }
 ]

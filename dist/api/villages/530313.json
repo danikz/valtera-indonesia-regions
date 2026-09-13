@@ -2,21 +2,25 @@
   {
     "code": "5303132001",
     "district_code": "530313",
-    "name": "Tasinifu"
+    "name": "Tasinifu",
+    "postal_code": "85663"
   },
   {
     "code": "5303132002",
     "district_code": "530313",
-    "name": "Naekake A"
+    "name": "Naekake A",
+    "postal_code": "85663"
   },
   {
     "code": "5303132003",
     "district_code": "530313",
-    "name": "Naekake B"
+    "name": "Naekake B",
+    "postal_code": "85663"
   },
   {
     "code": "5303132004",
     "district_code": "530313",
-    "name": "Noelelo"
+    "name": "Noelelo",
+    "postal_code": "85663"
   }
 ]

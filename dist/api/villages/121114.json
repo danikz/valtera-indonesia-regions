@@ -2,26 +2,31 @@
   {
     "code": "1211142001",
     "district_code": "121114",
-    "name": "Silalahi II"
+    "name": "Silalahi II",
+    "postal_code": "22280"
   },
   {
     "code": "1211142002",
     "district_code": "121114",
-    "name": "Silalahi I"
+    "name": "Silalahi I",
+    "postal_code": "22280"
   },
   {
     "code": "1211142003",
     "district_code": "121114",
-    "name": "Paropo"
+    "name": "Paropo",
+    "postal_code": "22280"
   },
   {
     "code": "1211142004",
     "district_code": "121114",
-    "name": "Silalahi III"
+    "name": "Silalahi III",
+    "postal_code": "22280"
   },
   {
     "code": "1211142005",
     "district_code": "121114",
-    "name": "Paropo I"
+    "name": "Paropo I",
+    "postal_code": "22280"
   }
 ]

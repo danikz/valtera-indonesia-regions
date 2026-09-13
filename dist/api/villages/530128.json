@@ -2,21 +2,25 @@
   {
     "code": "5301282001",
     "district_code": "530128",
-    "name": "Oelbiteno"
+    "name": "Oelbiteno",
+    "postal_code": "85220"
   },
   {
     "code": "5301282002",
     "district_code": "530128",
-    "name": "Nonbaun"
+    "name": "Nonbaun",
+    "postal_code": "85220"
   },
   {
     "code": "5301282003",
     "district_code": "530128",
-    "name": "Nunsaen"
+    "name": "Nunsaen",
+    "postal_code": "85220"
   },
   {
     "code": "5301282004",
     "district_code": "530128",
-    "name": "Passi"
+    "name": "Passi",
+    "postal_code": "85220"
   }
 ]

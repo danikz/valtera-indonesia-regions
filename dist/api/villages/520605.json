@@ -2,46 +2,55 @@
   {
     "code": "5206052001",
     "district_code": "520605",
-    "name": "Tarlawi"
+    "name": "Tarlawi",
+    "postal_code": "84184"
   },
   {
     "code": "5206052005",
     "district_code": "520605",
-    "name": "Ntori"
+    "name": "Ntori",
+    "postal_code": "84184"
   },
   {
     "code": "5206052006",
     "district_code": "520605",
-    "name": "Maria"
+    "name": "Maria",
+    "postal_code": "84184"
   },
   {
     "code": "5206052007",
     "district_code": "520605",
-    "name": "Pesa"
+    "name": "Pesa",
+    "postal_code": "84184"
   },
   {
     "code": "5206052008",
     "district_code": "520605",
-    "name": "Raba"
+    "name": "Raba",
+    "postal_code": "84184"
   },
   {
     "code": "5206052011",
     "district_code": "520605",
-    "name": "Kambilo"
+    "name": "Kambilo",
+    "postal_code": "84184"
   },
   {
     "code": "5206052012",
     "district_code": "520605",
-    "name": "Maria Utara"
+    "name": "Maria Utara",
+    "postal_code": "84184"
   },
   {
     "code": "5206052013",
     "district_code": "520605",
-    "name": "Kombo"
+    "name": "Kombo",
+    "postal_code": "84184"
   },
   {
     "code": "5206052014",
     "district_code": "520605",
-    "name": "Rianmau"
+    "name": "Rianmau",
+    "postal_code": "84184"
   }
 ]

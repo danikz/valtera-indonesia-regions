@@ -2,66 +2,79 @@
   {
     "code": "7405051001",
     "district_code": "740505",
-    "name": "Landono"
+    "name": "Landono",
+    "postal_code": "93873"
   },
   {
     "code": "7405052008",
     "district_code": "740505",
-    "name": "Lalonggapu"
+    "name": "Lalonggapu",
+    "postal_code": "93873"
   },
   {
     "code": "7405052009",
     "district_code": "740505",
-    "name": "Matabenua /"
+    "name": "Matabenua /",
+    "postal_code": "93873"
   },
   {
     "code": "7405052014",
     "district_code": "740505",
-    "name": "Tridana Mulia"
+    "name": "Tridana Mulia",
+    "postal_code": "93873"
   },
   {
     "code": "7405052015",
     "district_code": "740505",
-    "name": "Landono Dua"
+    "name": "Landono Dua",
+    "postal_code": "93873"
   },
   {
     "code": "7405052016",
     "district_code": "740505",
-    "name": "Amotowo"
+    "name": "Amotowo",
+    "postal_code": "93873"
   },
   {
     "code": "7405052022",
     "district_code": "740505",
-    "name": "Abenggi"
+    "name": "Abenggi",
+    "postal_code": "93873"
   },
   {
     "code": "7405052023",
     "district_code": "740505",
-    "name": "Arongo"
+    "name": "Arongo",
+    "postal_code": "93873"
   },
   {
     "code": "7405052024",
     "district_code": "740505",
-    "name": "Endanga"
+    "name": "Endanga",
+    "postal_code": "93873"
   },
   {
     "code": "7405052028",
     "district_code": "740505",
-    "name": "Wonua Koa"
+    "name": "Wonua Koa",
+    "postal_code": ""
   },
   {
     "code": "7405052032",
     "district_code": "740505",
-    "name": "Wonua Sangia"
+    "name": "Wonua Sangia",
+    "postal_code": "93873"
   },
   {
     "code": "7405052035",
     "district_code": "740505",
-    "name": "Lakomea"
+    "name": "Lakomea",
+    "postal_code": "93873"
   },
   {
     "code": "7405052042",
     "district_code": "740505",
-    "name": "Morini Mulya"
+    "name": "Morini Mulya",
+    "postal_code": "93873"
   }
 ]

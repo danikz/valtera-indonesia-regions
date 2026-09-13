@@ -2,41 +2,49 @@
   {
     "code": "1302072001",
     "district_code": "130207",
-    "name": "Cupak"
+    "name": "Cupak",
+    "postal_code": "27365"
   },
   {
     "code": "1302072002",
     "district_code": "130207",
-    "name": "Talang"
+    "name": "Talang",
+    "postal_code": "27365"
   },
   {
     "code": "1302072003",
     "district_code": "130207",
-    "name": "Koto Gadang Guguak"
+    "name": "Koto Gadang Guguak",
+    "postal_code": "27365"
   },
   {
     "code": "1302072004",
     "district_code": "130207",
-    "name": "Jawi Jawi"
+    "name": "Jawi Jawi",
+    "postal_code": "27365"
   },
   {
     "code": "1302072005",
     "district_code": "130207",
-    "name": "Sungai Janiah"
+    "name": "Sungai Janiah",
+    "postal_code": "27365"
   },
   {
     "code": "1302072006",
     "district_code": "130207",
-    "name": "Batang Barus"
+    "name": "Batang Barus",
+    "postal_code": "27365"
   },
   {
     "code": "1302072007",
     "district_code": "130207",
-    "name": "Aie Batumbuak"
+    "name": "Aie Batumbuak",
+    "postal_code": "27365"
   },
   {
     "code": "1302072008",
     "district_code": "130207",
-    "name": "Koto Gaek Guguk"
+    "name": "Koto Gaek Guguk",
+    "postal_code": "27365"
   }
 ]

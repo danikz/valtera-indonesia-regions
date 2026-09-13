@@ -2,56 +2,67 @@
   {
     "code": "3602032001",
     "district_code": "360203",
-    "name": "Bayah Barat"
+    "name": "Bayah Barat",
+    "postal_code": "42393"
   },
   {
     "code": "3602032002",
     "district_code": "360203",
-    "name": "Sawarna"
+    "name": "Sawarna",
+    "postal_code": "42393"
   },
   {
     "code": "3602032006",
     "district_code": "360203",
-    "name": "Cidikit"
+    "name": "Cidikit",
+    "postal_code": "42393"
   },
   {
     "code": "3602032007",
     "district_code": "360203",
-    "name": "Suwakan"
+    "name": "Suwakan",
+    "postal_code": "42393"
   },
   {
     "code": "3602032008",
     "district_code": "360203",
-    "name": "Cimancak"
+    "name": "Cimancak",
+    "postal_code": "42393"
   },
   {
     "code": "3602032011",
     "district_code": "360203",
-    "name": "Darmasari"
+    "name": "Darmasari",
+    "postal_code": "42393"
   },
   {
     "code": "3602032013",
     "district_code": "360203",
-    "name": "Bayah Timur"
+    "name": "Bayah Timur",
+    "postal_code": "42393"
   },
   {
     "code": "3602032014",
     "district_code": "360203",
-    "name": "Cisuren"
+    "name": "Cisuren",
+    "postal_code": "42393"
   },
   {
     "code": "3602032016",
     "district_code": "360203",
-    "name": "Pasirgombong"
+    "name": "Pasirgombong",
+    "postal_code": "42393"
   },
   {
     "code": "3602032017",
     "district_code": "360203",
-    "name": "Sawarna Timur"
+    "name": "Sawarna Timur",
+    "postal_code": "42393"
   },
   {
     "code": "3602032018",
     "district_code": "360203",
-    "name": "Pamubulan"
+    "name": "Pamubulan",
+    "postal_code": "42393"
   }
 ]

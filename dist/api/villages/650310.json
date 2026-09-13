@@ -2,21 +2,25 @@
   {
     "code": "6503102001",
     "district_code": "650310",
-    "name": "Sungai Nyamuk"
+    "name": "Sungai Nyamuk",
+    "postal_code": "77488"
   },
   {
     "code": "6503102002",
     "district_code": "650310",
-    "name": "Tanjung Harapan"
+    "name": "Tanjung Harapan",
+    "postal_code": "77488"
   },
   {
     "code": "6503102003",
     "district_code": "650310",
-    "name": "Bukit Aru Indah"
+    "name": "Bukit Aru Indah",
+    "postal_code": "77488"
   },
   {
     "code": "6503102004",
     "district_code": "650310",
-    "name": "Tanjung Aru"
+    "name": "Tanjung Aru",
+    "postal_code": "77488"
   }
 ]

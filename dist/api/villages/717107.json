@@ -2,46 +2,55 @@
   {
     "code": "7171071001",
     "district_code": "717107",
-    "name": "Wanea"
+    "name": "Wanea",
+    "postal_code": "95117"
   },
   {
     "code": "7171071002",
     "district_code": "717107",
-    "name": "Tanjung Batu"
+    "name": "Tanjung Batu",
+    "postal_code": "95117"
   },
   {
     "code": "7171071003",
     "district_code": "717107",
-    "name": "Pakowa"
+    "name": "Pakowa",
+    "postal_code": "95119"
   },
   {
     "code": "7171071004",
     "district_code": "717107",
-    "name": "Bumi Nyiur"
+    "name": "Bumi Nyiur",
+    "postal_code": "95117"
   },
   {
     "code": "7171071005",
     "district_code": "717107",
-    "name": "Ranotana Weru"
+    "name": "Ranotana Weru",
+    "postal_code": "95118"
   },
   {
     "code": "7171071006",
     "district_code": "717107",
-    "name": "Teling Atas"
+    "name": "Teling Atas",
+    "postal_code": "95119"
   },
   {
     "code": "7171071007",
     "district_code": "717107",
-    "name": "Tingkulu"
+    "name": "Tingkulu",
+    "postal_code": "95117"
   },
   {
     "code": "7171071008",
     "district_code": "717107",
-    "name": "Karombasan Utara"
+    "name": "Karombasan Utara",
+    "postal_code": "95117"
   },
   {
     "code": "7171071009",
     "district_code": "717107",
-    "name": "Karombasan Selatan"
+    "name": "Karombasan Selatan",
+    "postal_code": "95117"
   }
 ]

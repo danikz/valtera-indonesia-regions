@@ -2,41 +2,49 @@
   {
     "code": "5311102001",
     "district_code": "531110",
-    "name": "Kaliuda"
+    "name": "Kaliuda",
+    "postal_code": "87182"
   },
   {
     "code": "5311102002",
     "district_code": "531110",
-    "name": "Kuruwaki"
+    "name": "Kuruwaki",
+    "postal_code": "87182"
   },
   {
     "code": "5311102003",
     "district_code": "531110",
-    "name": "Tana Manang"
+    "name": "Tana Manang",
+    "postal_code": "87182"
   },
   {
     "code": "5311102004",
     "district_code": "531110",
-    "name": "Mburukulu"
+    "name": "Mburukulu",
+    "postal_code": "87182"
   },
   {
     "code": "5311102005",
     "district_code": "531110",
-    "name": "Pamburu"
+    "name": "Pamburu",
+    "postal_code": "87182"
   },
   {
     "code": "5311102006",
     "district_code": "531110",
-    "name": "Lambakara"
+    "name": "Lambakara",
+    "postal_code": "87182"
   },
   {
     "code": "5311102007",
     "district_code": "531110",
-    "name": "Tamma"
+    "name": "Tamma",
+    "postal_code": "87182"
   },
   {
     "code": "5311102009",
     "district_code": "531110",
-    "name": "Palanggai"
+    "name": "Palanggai",
+    "postal_code": "87182"
   }
 ]

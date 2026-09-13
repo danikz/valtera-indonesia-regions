@@ -2,36 +2,43 @@
   {
     "code": "3216152001",
     "district_code": "321615",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "17631"
   },
   {
     "code": "3216152002",
     "district_code": "321615",
-    "name": "Sukamanah"
+    "name": "Sukamanah",
+    "postal_code": "17631"
   },
   {
     "code": "3216152003",
     "district_code": "321615",
-    "name": "Sukahurip"
+    "name": "Sukahurip",
+    "postal_code": "17631"
   },
   {
     "code": "3216152004",
     "district_code": "321615",
-    "name": "Sukaasih"
+    "name": "Sukaasih",
+    "postal_code": "17631"
   },
   {
     "code": "3216152005",
     "district_code": "321615",
-    "name": "Sukarukun"
+    "name": "Sukarukun",
+    "postal_code": "17631"
   },
   {
     "code": "3216152006",
     "district_code": "321615",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "17631"
   },
   {
     "code": "3216152007",
     "district_code": "321615",
-    "name": "Sukadarma"
+    "name": "Sukadarma",
+    "postal_code": "17631"
   }
 ]

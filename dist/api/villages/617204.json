@@ -2,36 +2,43 @@
   {
     "code": "6172041001",
     "district_code": "617204",
-    "name": "Sungai Garam Hilir"
+    "name": "Sungai Garam Hilir",
+    "postal_code": "79151"
   },
   {
     "code": "6172041002",
     "district_code": "617204",
-    "name": "Naram"
+    "name": "Naram",
+    "postal_code": "79151"
   },
   {
     "code": "6172041003",
     "district_code": "617204",
-    "name": "Sungai Bulan"
+    "name": "Sungai Bulan",
+    "postal_code": "79151"
   },
   {
     "code": "6172041004",
     "district_code": "617204",
-    "name": "Sungai Rasau"
+    "name": "Sungai Rasau",
+    "postal_code": "79151"
   },
   {
     "code": "6172041005",
     "district_code": "617204",
-    "name": "Setapuk Kecil"
+    "name": "Setapuk Kecil",
+    "postal_code": "79151"
   },
   {
     "code": "6172041006",
     "district_code": "617204",
-    "name": "Setapuk Besar"
+    "name": "Setapuk Besar",
+    "postal_code": "79151"
   },
   {
     "code": "6172041007",
     "district_code": "617204",
-    "name": "Semelagi Kecil"
+    "name": "Semelagi Kecil",
+    "postal_code": "79151"
   }
 ]

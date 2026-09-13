@@ -2,31 +2,37 @@
   {
     "code": "3205262001",
     "district_code": "320526",
-    "name": "Peundeuy"
+    "name": "Peundeuy",
+    "postal_code": "44178"
   },
   {
     "code": "3205262002",
     "district_code": "320526",
-    "name": "Toblong"
+    "name": "Toblong",
+    "postal_code": "44178"
   },
   {
     "code": "3205262003",
     "district_code": "320526",
-    "name": "Saribakti"
+    "name": "Saribakti",
+    "postal_code": "44178"
   },
   {
     "code": "3205262004",
     "district_code": "320526",
-    "name": "Pangrumasan"
+    "name": "Pangrumasan",
+    "postal_code": "44178"
   },
   {
     "code": "3205262005",
     "district_code": "320526",
-    "name": "Sukanagara"
+    "name": "Sukanagara",
+    "postal_code": "44178"
   },
   {
     "code": "3205262006",
     "district_code": "320526",
-    "name": "Purwajaya"
+    "name": "Purwajaya",
+    "postal_code": "44178"
   }
 ]

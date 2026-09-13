@@ -2,51 +2,61 @@
   {
     "code": "8104122001",
     "district_code": "810412",
-    "name": "Waelo"
+    "name": "Waelo",
+    "postal_code": "97579"
   },
   {
     "code": "8104122002",
     "district_code": "810412",
-    "name": "Debowae"
+    "name": "Debowae",
+    "postal_code": "97579"
   },
   {
     "code": "8104122003",
     "district_code": "810412",
-    "name": "Parbulu"
+    "name": "Parbulu",
+    "postal_code": "97579"
   },
   {
     "code": "8104122004",
     "district_code": "810412",
-    "name": "Waetina"
+    "name": "Waetina",
+    "postal_code": "97579"
   },
   {
     "code": "8104122005",
     "district_code": "810412",
-    "name": "Waeleman"
+    "name": "Waeleman",
+    "postal_code": "97579"
   },
   {
     "code": "8104122006",
     "district_code": "810412",
-    "name": "Basalale"
+    "name": "Basalale",
+    "postal_code": "97579"
   },
   {
     "code": "8104122007",
     "district_code": "810412",
-    "name": "Waflan"
+    "name": "Waflan",
+    "postal_code": "97579"
   },
   {
     "code": "8104122008",
     "district_code": "810412",
-    "name": "Dava"
+    "name": "Dava",
+    "postal_code": "97579"
   },
   {
     "code": "8104122009",
     "district_code": "810412",
-    "name": "Waehata"
+    "name": "Waehata",
+    "postal_code": "97579"
   },
   {
     "code": "8104122010",
     "district_code": "810412",
-    "name": "Widit"
+    "name": "Widit",
+    "postal_code": "97579"
   }
 ]

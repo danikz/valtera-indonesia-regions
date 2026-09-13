@@ -2,46 +2,55 @@
   {
     "code": "1707072001",
     "district_code": "170707",
-    "name": "Karang Dapo Atas"
+    "name": "Karang Dapo Atas",
+    "postal_code": "39262"
   },
   {
     "code": "1707072002",
     "district_code": "170707",
-    "name": "Bukit Nibung"
+    "name": "Bukit Nibung",
+    "postal_code": "39262"
   },
   {
     "code": "1707072003",
     "district_code": "170707",
-    "name": "Karang Dapo Bawah"
+    "name": "Karang Dapo Bawah",
+    "postal_code": "39262"
   },
   {
     "code": "1707072004",
     "district_code": "170707",
-    "name": "Pungguk Pedaro"
+    "name": "Pungguk Pedaro",
+    "postal_code": "39262"
   },
   {
     "code": "1707072005",
     "district_code": "170707",
-    "name": "Talang Kerinci"
+    "name": "Talang Kerinci",
+    "postal_code": "39262"
   },
   {
     "code": "1707072006",
     "district_code": "170707",
-    "name": "Pelabuhan Talang Liak"
+    "name": "Pelabuhan Talang Liak",
+    "postal_code": "39262"
   },
   {
     "code": "1707072007",
     "district_code": "170707",
-    "name": "Talang Liak I"
+    "name": "Talang Liak I",
+    "postal_code": "39262"
   },
   {
     "code": "1707072008",
     "district_code": "170707",
-    "name": "Talang Liak II"
+    "name": "Talang Liak II",
+    "postal_code": "39262"
   },
   {
     "code": "1707072009",
     "district_code": "170707",
-    "name": "Bungin"
+    "name": "Bungin",
+    "postal_code": "39262"
   }
 ]

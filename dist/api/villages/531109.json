@@ -2,41 +2,49 @@
   {
     "code": "5311092001",
     "district_code": "531109",
-    "name": "Rindi"
+    "name": "Rindi",
+    "postal_code": "87181"
   },
   {
     "code": "5311092002",
     "district_code": "531109",
-    "name": "Tanaraing"
+    "name": "Tanaraing",
+    "postal_code": "87181"
   },
   {
     "code": "5311092003",
     "district_code": "531109",
-    "name": "Haikatapu"
+    "name": "Haikatapu",
+    "postal_code": "87181"
   },
   {
     "code": "5311092004",
     "district_code": "531109",
-    "name": "Kabaru"
+    "name": "Kabaru",
+    "postal_code": "87181"
   },
   {
     "code": "5311092005",
     "district_code": "531109",
-    "name": "Hanggaroru"
+    "name": "Hanggaroru",
+    "postal_code": "87181"
   },
   {
     "code": "5311092006",
     "district_code": "531109",
-    "name": "Lailanjang"
+    "name": "Lailanjang",
+    "postal_code": "87181"
   },
   {
     "code": "5311092007",
     "district_code": "531109",
-    "name": "Tamburi"
+    "name": "Tamburi",
+    "postal_code": "87181"
   },
   {
     "code": "5311092008",
     "district_code": "531109",
-    "name": "Kayuri"
+    "name": "Kayuri",
+    "postal_code": "87181"
   }
 ]

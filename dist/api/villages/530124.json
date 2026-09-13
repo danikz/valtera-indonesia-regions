@@ -2,41 +2,49 @@
   {
     "code": "5301242001",
     "district_code": "530124",
-    "name": "Oeltuah"
+    "name": "Oeltuah",
+    "postal_code": "85360"
   },
   {
     "code": "5301242002",
     "district_code": "530124",
-    "name": "Baumata"
+    "name": "Baumata",
+    "postal_code": "85360"
   },
   {
     "code": "5301242003",
     "district_code": "530124",
-    "name": "Kuaklalo"
+    "name": "Kuaklalo",
+    "postal_code": "85360"
   },
   {
     "code": "5301242004",
     "district_code": "530124",
-    "name": "Oeletsala"
+    "name": "Oeletsala",
+    "postal_code": "85360"
   },
   {
     "code": "5301242005",
     "district_code": "530124",
-    "name": "Bokong"
+    "name": "Bokong",
+    "postal_code": "85360"
   },
   {
     "code": "5301242006",
     "district_code": "530124",
-    "name": "Baumata Utara"
+    "name": "Baumata Utara",
+    "postal_code": "85360"
   },
   {
     "code": "5301242007",
     "district_code": "530124",
-    "name": "Baumata Timur"
+    "name": "Baumata Timur",
+    "postal_code": "85360"
   },
   {
     "code": "5301242008",
     "district_code": "530124",
-    "name": "Baumata Barat"
+    "name": "Baumata Barat",
+    "postal_code": "85360"
   }
 ]

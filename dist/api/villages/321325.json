@@ -2,46 +2,55 @@
   {
     "code": "3213252001",
     "district_code": "321325",
-    "name": "Tanjungrasa"
+    "name": "Tanjungrasa",
+    "postal_code": "41267"
   },
   {
     "code": "3213252002",
     "district_code": "321325",
-    "name": "Wanajaya"
+    "name": "Wanajaya",
+    "postal_code": "41267"
   },
   {
     "code": "3213252003",
     "district_code": "321325",
-    "name": "Gardumukti"
+    "name": "Gardumukti",
+    "postal_code": "41267"
   },
   {
     "code": "3213252004",
     "district_code": "321325",
-    "name": "Mariuk"
+    "name": "Mariuk",
+    "postal_code": "41267"
   },
   {
     "code": "3213252005",
     "district_code": "321325",
-    "name": "Kertajaya"
+    "name": "Kertajaya",
+    "postal_code": "41267"
   },
   {
     "code": "3213252006",
     "district_code": "321325",
-    "name": "Tambakdahan"
+    "name": "Tambakdahan",
+    "postal_code": "41267"
   },
   {
     "code": "3213252007",
     "district_code": "321325",
-    "name": "Rancaudik"
+    "name": "Rancaudik",
+    "postal_code": "41267"
   },
   {
     "code": "3213252008",
     "district_code": "321325",
-    "name": "Bojongkeding"
+    "name": "Bojongkeding",
+    "postal_code": "41267"
   },
   {
     "code": "3213252009",
     "district_code": "321325",
-    "name": "Bojonegara"
+    "name": "Bojonegara",
+    "postal_code": "41267"
   }
 ]

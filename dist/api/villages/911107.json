@@ -2,51 +2,61 @@
   {
     "code": "9111072001",
     "district_code": "911107",
-    "name": "Towe Hitam"
+    "name": "Towe Hitam",
+    "postal_code": "99466"
   },
   {
     "code": "9111072002",
     "district_code": "911107",
-    "name": "Towe Atas"
+    "name": "Towe Atas",
+    "postal_code": "99466"
   },
   {
     "code": "9111072003",
     "district_code": "911107",
-    "name": "Terfones"
+    "name": "Terfones",
+    "postal_code": "99466"
   },
   {
     "code": "9111072004",
     "district_code": "911107",
-    "name": "Tefalma"
+    "name": "Tefalma",
+    "postal_code": "99466"
   },
   {
     "code": "9111072005",
     "district_code": "911107",
-    "name": "Bias"
+    "name": "Bias",
+    "postal_code": "99466"
   },
   {
     "code": "9111072006",
     "district_code": "911107",
-    "name": "Milki"
+    "name": "Milki",
+    "postal_code": "99466"
   },
   {
     "code": "9111072007",
     "district_code": "911107",
-    "name": "Lules"
+    "name": "Lules",
+    "postal_code": "99466"
   },
   {
     "code": "9111072009",
     "district_code": "911107",
-    "name": "Jember"
+    "name": "Jember",
+    "postal_code": "99466"
   },
   {
     "code": "9111072010",
     "district_code": "911107",
-    "name": "Niliti"
+    "name": "Niliti",
+    "postal_code": "99466"
   },
   {
     "code": "9111072011",
     "district_code": "911107",
-    "name": "Pris"
+    "name": "Pris",
+    "postal_code": "99466"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "9103011001",
     "district_code": "910301",
-    "name": "Sentani Kota"
+    "name": "Sentani Kota",
+    "postal_code": "99352"
   },
   {
     "code": "9103011002",
     "district_code": "910301",
-    "name": "Dobonsolo"
+    "name": "Dobonsolo",
+    "postal_code": "99352"
   },
   {
     "code": "9103011003",
     "district_code": "910301",
-    "name": "Hinekombe"
+    "name": "Hinekombe",
+    "postal_code": "99352"
   },
   {
     "code": "9103012004",
     "district_code": "910301",
-    "name": "Sereh"
+    "name": "Sereh",
+    "postal_code": "99352"
   },
   {
     "code": "9103012005",
     "district_code": "910301",
-    "name": "Yobeh"
+    "name": "Yobeh",
+    "postal_code": "99352"
   },
   {
     "code": "9103012006",
     "district_code": "910301",
-    "name": "Ilfele"
+    "name": "Ilfele",
+    "postal_code": "99352"
   },
   {
     "code": "9103012007",
     "district_code": "910301",
-    "name": "Keheran"
+    "name": "Keheran",
+    "postal_code": ""
   },
   {
     "code": "9103012010",
     "district_code": "910301",
-    "name": "Ifar Besar"
+    "name": "Ifar Besar",
+    "postal_code": ""
   },
   {
     "code": "9103012011",
     "district_code": "910301",
-    "name": "Hobong"
+    "name": "Hobong",
+    "postal_code": "99352"
   },
   {
     "code": "9103012017",
     "district_code": "910301",
-    "name": "Yahim"
+    "name": "Yahim",
+    "postal_code": "99352"
   }
 ]

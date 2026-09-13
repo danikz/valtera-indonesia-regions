@@ -2,56 +2,67 @@
   {
     "code": "1810062001",
     "district_code": "181006",
-    "name": "Banyumas"
+    "name": "Banyumas",
+    "postal_code": "35373"
   },
   {
     "code": "1810062002",
     "district_code": "181006",
-    "name": "Banyuwangi"
+    "name": "Banyuwangi",
+    "postal_code": "35373"
   },
   {
     "code": "1810062003",
     "district_code": "181006",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "35373"
   },
   {
     "code": "1810062004",
     "district_code": "181006",
-    "name": "Sriwungu"
+    "name": "Sriwungu",
+    "postal_code": "35373"
   },
   {
     "code": "1810062005",
     "district_code": "181006",
-    "name": "Banjarejo"
+    "name": "Banjarejo",
+    "postal_code": "35373"
   },
   {
     "code": "1810062006",
     "district_code": "181006",
-    "name": "Waya Krui"
+    "name": "Waya Krui",
+    "postal_code": "35373"
   },
   {
     "code": "1810062007",
     "district_code": "181006",
-    "name": "Sri Rahayu"
+    "name": "Sri Rahayu",
+    "postal_code": "35373"
   },
   {
     "code": "1810062008",
     "district_code": "181006",
-    "name": "Nusa Wungu"
+    "name": "Nusa Wungu",
+    "postal_code": "35373"
   },
   {
     "code": "1810062009",
     "district_code": "181006",
-    "name": "Sinar Mulya"
+    "name": "Sinar Mulya",
+    "postal_code": "35373"
   },
   {
     "code": "1810062010",
     "district_code": "181006",
-    "name": "Banyu Urip"
+    "name": "Banyu Urip",
+    "postal_code": "35373"
   },
   {
     "code": "1810062011",
     "district_code": "181006",
-    "name": "Mulyo Rejo"
+    "name": "Mulyo Rejo",
+    "postal_code": "35373"
   }
 ]

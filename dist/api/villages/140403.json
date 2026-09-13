@@ -2,41 +2,49 @@
   {
     "code": "1404031007",
     "district_code": "140403",
-    "name": "Sapat"
+    "name": "Sapat",
+    "postal_code": "29280"
   },
   {
     "code": "1404032001",
     "district_code": "140403",
-    "name": "Sungaibuluh"
+    "name": "Sungaibuluh",
+    "postal_code": "29280"
   },
   {
     "code": "1404032002",
     "district_code": "140403",
-    "name": "Tanjunglajau"
+    "name": "Tanjunglajau",
+    "postal_code": "29280"
   },
   {
     "code": "1404032003",
     "district_code": "140403",
-    "name": "Sungaibela"
+    "name": "Sungaibela",
+    "postal_code": "29280"
   },
   {
     "code": "1404032006",
     "district_code": "140403",
-    "name": "Telukdalam"
+    "name": "Telukdalam",
+    "postal_code": "29280"
   },
   {
     "code": "1404032008",
     "district_code": "140403",
-    "name": "Sungaipiyai"
+    "name": "Sungaipiyai",
+    "postal_code": "29280"
   },
   {
     "code": "1404032009",
     "district_code": "140403",
-    "name": "Perigi Raja"
+    "name": "Perigi Raja",
+    "postal_code": "29280"
   },
   {
     "code": "1404032010",
     "district_code": "140403",
-    "name": "Tanjungmelayu"
+    "name": "Tanjungmelayu",
+    "postal_code": "29280"
   }
 ]

@@ -2,111 +2,133 @@
   {
     "code": "9106011001",
     "district_code": "910601",
-    "name": "Sorido"
+    "name": "Sorido",
+    "postal_code": "98517"
   },
   {
     "code": "9106011002",
     "district_code": "910601",
-    "name": "Waupnor"
+    "name": "Waupnor",
+    "postal_code": "98515"
   },
   {
     "code": "9106011003",
     "district_code": "910601",
-    "name": "Saramon"
+    "name": "Saramon",
+    "postal_code": "98514"
   },
   {
     "code": "9106011004",
     "district_code": "910601",
-    "name": "Burokup"
+    "name": "Burokup",
+    "postal_code": "98513"
   },
   {
     "code": "9106011005",
     "district_code": "910601",
-    "name": "Fandoi"
+    "name": "Fandoi",
+    "postal_code": "98512"
   },
   {
     "code": "9106011006",
     "district_code": "910601",
-    "name": "Mandala"
+    "name": "Mandala",
+    "postal_code": "98511"
   },
   {
     "code": "9106011016",
     "district_code": "910601",
-    "name": "Yenures"
+    "name": "Yenures",
+    "postal_code": "98534"
   },
   {
     "code": "9106012007",
     "district_code": "910601",
-    "name": "Mnubabo"
+    "name": "Mnubabo",
+    "postal_code": "98527"
   },
   {
     "code": "9106012008",
     "district_code": "910601",
-    "name": "Swapodibo"
+    "name": "Swapodibo",
+    "postal_code": "98533"
   },
   {
     "code": "9106012009",
     "district_code": "910601",
-    "name": "Mokmer"
+    "name": "Mokmer",
+    "postal_code": "98528"
   },
   {
     "code": "9106012010",
     "district_code": "910601",
-    "name": "Inggiri"
+    "name": "Inggiri",
+    "postal_code": "98519"
   },
   {
     "code": "9106012011",
     "district_code": "910601",
-    "name": "Parai"
+    "name": "Parai",
+    "postal_code": "98529"
   },
   {
     "code": "9106012012",
     "district_code": "910601",
-    "name": "Samau"
+    "name": "Samau",
+    "postal_code": "98531"
   },
   {
     "code": "9106012013",
     "district_code": "910601",
-    "name": "Insrom"
+    "name": "Insrom",
+    "postal_code": "98522"
   },
   {
     "code": "9106012014",
     "district_code": "910601",
-    "name": "Anggraidi"
+    "name": "Anggraidi",
+    "postal_code": "98518"
   },
   {
     "code": "9106012015",
     "district_code": "910601",
-    "name": "Manswam"
+    "name": "Manswam",
+    "postal_code": "98526"
   },
   {
     "code": "9106012017",
     "district_code": "910601",
-    "name": "Sanumi"
+    "name": "Sanumi",
+    "postal_code": "98532"
   },
   {
     "code": "9106012018",
     "district_code": "910601",
-    "name": "Manggandisapi"
+    "name": "Manggandisapi",
+    "postal_code": "98525"
   },
   {
     "code": "9106012019",
     "district_code": "910601",
-    "name": "Karyendi"
+    "name": "Karyendi",
+    "postal_code": "98524"
   },
   {
     "code": "9106012020",
     "district_code": "910601",
-    "name": "Kababur"
+    "name": "Kababur",
+    "postal_code": "98523"
   },
   {
     "code": "9106012021",
     "district_code": "910601",
-    "name": "Babrinbo"
+    "name": "Babrinbo",
+    "postal_code": "98516"
   },
   {
     "code": "9106012022",
     "district_code": "910601",
-    "name": "Inggupi"
+    "name": "Inggupi",
+    "postal_code": "98521"
   }
 ]

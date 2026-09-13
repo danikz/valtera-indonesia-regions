@@ -2,41 +2,49 @@
   {
     "code": "1207212001",
     "district_code": "120721",
-    "name": "Lantasan Baru"
+    "name": "Lantasan Baru",
+    "postal_code": "20361"
   },
   {
     "code": "1207212002",
     "district_code": "120721",
-    "name": "Patumbak I"
+    "name": "Patumbak I",
+    "postal_code": "20361"
   },
   {
     "code": "1207212003",
     "district_code": "120721",
-    "name": "Patumbak II"
+    "name": "Patumbak II",
+    "postal_code": "20361"
   },
   {
     "code": "1207212004",
     "district_code": "120721",
-    "name": "Lantasan Lama"
+    "name": "Lantasan Lama",
+    "postal_code": "20361"
   },
   {
     "code": "1207212005",
     "district_code": "120721",
-    "name": "Sigara-gara"
+    "name": "Sigara-gara",
+    "postal_code": "20361"
   },
   {
     "code": "1207212006",
     "district_code": "120721",
-    "name": "Marendal I"
+    "name": "Marendal I",
+    "postal_code": "20361"
   },
   {
     "code": "1207212007",
     "district_code": "120721",
-    "name": "Marindal II"
+    "name": "Marindal II",
+    "postal_code": "20361"
   },
   {
     "code": "1207212008",
     "district_code": "120721",
-    "name": "Patumbak Kampung"
+    "name": "Patumbak Kampung",
+    "postal_code": "20361"
   }
 ]

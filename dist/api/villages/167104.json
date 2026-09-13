@@ -2,31 +2,37 @@
   {
     "code": "1671041001",
     "district_code": "167104",
-    "name": "Bukit Lama"
+    "name": "Bukit Lama",
+    "postal_code": "30139"
   },
   {
     "code": "1671041002",
     "district_code": "167104",
-    "name": "Lorok Pakjo"
+    "name": "Lorok Pakjo",
+    "postal_code": "30137"
   },
   {
     "code": "1671041003",
     "district_code": "167104",
-    "name": "26 Ilir D. I"
+    "name": "26 Ilir D. I",
+    "postal_code": "30136"
   },
   {
     "code": "1671041004",
     "district_code": "167104",
-    "name": "Siring Agung"
+    "name": "Siring Agung",
+    "postal_code": "30138"
   },
   {
     "code": "1671041005",
     "district_code": "167104",
-    "name": "Demang Lebar Daun"
+    "name": "Demang Lebar Daun",
+    "postal_code": "30131"
   },
   {
     "code": "1671041006",
     "district_code": "167104",
-    "name": "Bukit Baru"
+    "name": "Bukit Baru",
+    "postal_code": "30131"
   }
 ]

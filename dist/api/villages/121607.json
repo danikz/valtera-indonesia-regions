@@ -2,51 +2,61 @@
   {
     "code": "1216072001",
     "district_code": "121607",
-    "name": "Batunajagar"
+    "name": "Batunajagar",
+    "postal_code": "22459"
   },
   {
     "code": "1216072002",
     "district_code": "121607",
-    "name": "Sanggaran I"
+    "name": "Sanggaran I",
+    "postal_code": "22459"
   },
   {
     "code": "1216072003",
     "district_code": "121607",
-    "name": "Sitapongan"
+    "name": "Sitapongan",
+    "postal_code": "22459"
   },
   {
     "code": "1216072004",
     "district_code": "121607",
-    "name": "Sigulok"
+    "name": "Sigulok",
+    "postal_code": "22459"
   },
   {
     "code": "1216072005",
     "district_code": "121607",
-    "name": "Hutaginjang"
+    "name": "Hutaginjang",
+    "postal_code": "22459"
   },
   {
     "code": "1216072006",
     "district_code": "121607",
-    "name": "Siborboron"
+    "name": "Siborboron",
+    "postal_code": "22459"
   },
   {
     "code": "1216072007",
     "district_code": "121607",
-    "name": "Bonan Dolok I"
+    "name": "Bonan Dolok I",
+    "postal_code": "22459"
   },
   {
     "code": "1216072008",
     "district_code": "121607",
-    "name": "Bonan Dolok II"
+    "name": "Bonan Dolok II",
+    "postal_code": "22459"
   },
   {
     "code": "1216072009",
     "district_code": "121607",
-    "name": "Sibuntuon"
+    "name": "Sibuntuon",
+    "postal_code": "22459"
   },
   {
     "code": "1216072010",
     "district_code": "121607",
-    "name": "Nagurguran"
+    "name": "Nagurguran",
+    "postal_code": "22459"
   }
 ]

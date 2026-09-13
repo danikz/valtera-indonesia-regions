@@ -2,51 +2,61 @@
   {
     "code": "9406092001",
     "district_code": "940609",
-    "name": "Piyakunu"
+    "name": "Piyakunu",
+    "postal_code": "98873"
   },
   {
     "code": "9406092002",
     "district_code": "940609",
-    "name": "Diyeugi"
+    "name": "Diyeugi",
+    "postal_code": "98873"
   },
   {
     "code": "9406092003",
     "district_code": "940609",
-    "name": "Putaapa"
+    "name": "Putaapa",
+    "postal_code": "98873"
   },
   {
     "code": "9406092004",
     "district_code": "940609",
-    "name": "Atou"
+    "name": "Atou",
+    "postal_code": "98873"
   },
   {
     "code": "9406092005",
     "district_code": "940609",
-    "name": "Modio"
+    "name": "Modio",
+    "postal_code": "98873"
   },
   {
     "code": "9406092006",
     "district_code": "940609",
-    "name": "Upibega"
+    "name": "Upibega",
+    "postal_code": "98873"
   },
   {
     "code": "9406092007",
     "district_code": "940609",
-    "name": "Timepa"
+    "name": "Timepa",
+    "postal_code": "98873"
   },
   {
     "code": "9406092008",
     "district_code": "940609",
-    "name": "Gabaikunu"
+    "name": "Gabaikunu",
+    "postal_code": "98873"
   },
   {
     "code": "9406092009",
     "district_code": "940609",
-    "name": "Adauwo"
+    "name": "Adauwo",
+    "postal_code": "98873"
   },
   {
     "code": "9406092010",
     "district_code": "940609",
-    "name": "Megaikebo"
+    "name": "Megaikebo",
+    "postal_code": "98873"
   }
 ]

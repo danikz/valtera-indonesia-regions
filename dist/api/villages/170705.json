@@ -2,31 +2,37 @@
   {
     "code": "1707051002",
     "district_code": "170705",
-    "name": "Rimbo Pengadang"
+    "name": "Rimbo Pengadang",
+    "postal_code": "39261"
   },
   {
     "code": "1707052009",
     "district_code": "170705",
-    "name": "Talang Ratau"
+    "name": "Talang Ratau",
+    "postal_code": "39261"
   },
   {
     "code": "1707052010",
     "district_code": "170705",
-    "name": "Bioa Sengok"
+    "name": "Bioa Sengok",
+    "postal_code": "39261"
   },
   {
     "code": "1707052011",
     "district_code": "170705",
-    "name": "Tik Kuto"
+    "name": "Tik Kuto",
+    "postal_code": "39261"
   },
   {
     "code": "1707052012",
     "district_code": "170705",
-    "name": "Teluk Dien"
+    "name": "Teluk Dien",
+    "postal_code": "39261"
   },
   {
     "code": "1707052013",
     "district_code": "170705",
-    "name": "Bajok"
+    "name": "Bajok",
+    "postal_code": "39261"
   }
 ]

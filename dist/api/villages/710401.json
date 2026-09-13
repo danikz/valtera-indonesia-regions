@@ -2,36 +2,43 @@
   {
     "code": "7104011005",
     "district_code": "710401",
-    "name": "Lirung"
+    "name": "Lirung",
+    "postal_code": "95875"
   },
   {
     "code": "7104011011",
     "district_code": "710401",
-    "name": "Lirung Satu"
+    "name": "Lirung Satu",
+    "postal_code": "95875"
   },
   {
     "code": "7104011024",
     "district_code": "710401",
-    "name": "Lirung Matane"
+    "name": "Lirung Matane",
+    "postal_code": "95875"
   },
   {
     "code": "7104012006",
     "district_code": "710401",
-    "name": "Sereh"
+    "name": "Sereh",
+    "postal_code": "95875"
   },
   {
     "code": "7104012007",
     "district_code": "710401",
-    "name": "Musi"
+    "name": "Musi",
+    "postal_code": "95875"
   },
   {
     "code": "7104012015",
     "district_code": "710401",
-    "name": "Talolang"
+    "name": "Talolang",
+    "postal_code": "95875"
   },
   {
     "code": "7104012017",
     "district_code": "710401",
-    "name": "Sereh I"
+    "name": "Sereh I",
+    "postal_code": "95875"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1502142001",
     "district_code": "150214",
-    "name": "Rantau Limau Manis"
+    "name": "Rantau Limau Manis",
+    "postal_code": "37358"
   },
   {
     "code": "1502142002",
     "district_code": "150214",
-    "name": "Ulak Makam"
+    "name": "Ulak Makam",
+    "postal_code": "37358"
   },
   {
     "code": "1502142003",
     "district_code": "150214",
-    "name": "Air Batu"
+    "name": "Air Batu",
+    "postal_code": "37358"
   },
   {
     "code": "1502142004",
     "district_code": "150214",
-    "name": "Rejo Sari"
+    "name": "Rejo Sari",
+    "postal_code": "37358"
   },
   {
     "code": "1502142005",
     "district_code": "150214",
-    "name": "Kota Raja"
+    "name": "Kota Raja",
+    "postal_code": "37358"
   },
   {
     "code": "1502142006",
     "district_code": "150214",
-    "name": "Tunggul Bulin"
+    "name": "Tunggul Bulin",
+    "postal_code": "37358"
   },
   {
     "code": "1502142007",
     "district_code": "150214",
-    "name": "Mekar Limau Manis"
+    "name": "Mekar Limau Manis",
+    "postal_code": "37358"
   }
 ]

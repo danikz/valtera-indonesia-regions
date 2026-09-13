@@ -2,66 +2,79 @@
   {
     "code": "7101222003",
     "district_code": "710122",
-    "name": "Pangian"
+    "name": "Pangian",
+    "postal_code": "95750"
   },
   {
     "code": "7101222004",
     "district_code": "710122",
-    "name": "Poopo"
+    "name": "Poopo",
+    "postal_code": "95750"
   },
   {
     "code": "7101222005",
     "district_code": "710122",
-    "name": "Manembo"
+    "name": "Manembo",
+    "postal_code": "95750"
   },
   {
     "code": "7101222006",
     "district_code": "710122",
-    "name": "Sinsingon"
+    "name": "Sinsingon",
+    "postal_code": "95750"
   },
   {
     "code": "7101222007",
     "district_code": "710122",
-    "name": "Insil"
+    "name": "Insil",
+    "postal_code": "95750"
   },
   {
     "code": "7101222009",
     "district_code": "710122",
-    "name": "Mobuya"
+    "name": "Mobuya",
+    "postal_code": "95750"
   },
   {
     "code": "7101222012",
     "district_code": "710122",
-    "name": "Insil Baru"
+    "name": "Insil Baru",
+    "postal_code": "95750"
   },
   {
     "code": "7101222013",
     "district_code": "710122",
-    "name": "Pangian Tengah"
+    "name": "Pangian Tengah",
+    "postal_code": "95750"
   },
   {
     "code": "7101222014",
     "district_code": "710122",
-    "name": "Pangian Barat"
+    "name": "Pangian Barat",
+    "postal_code": "95750"
   },
   {
     "code": "7101222015",
     "district_code": "710122",
-    "name": "Poopo Barat"
+    "name": "Poopo Barat",
+    "postal_code": "95750"
   },
   {
     "code": "7101222016",
     "district_code": "710122",
-    "name": "Poopo Selatan"
+    "name": "Poopo Selatan",
+    "postal_code": "95750"
   },
   {
     "code": "7101222017",
     "district_code": "710122",
-    "name": "Sinsingon Barat"
+    "name": "Sinsingon Barat",
+    "postal_code": "95750"
   },
   {
     "code": "7101222018",
     "district_code": "710122",
-    "name": "Sinsingon Timur"
+    "name": "Sinsingon Timur",
+    "postal_code": "95750"
   }
 ]

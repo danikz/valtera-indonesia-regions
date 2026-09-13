@@ -2,91 +2,109 @@
   {
     "code": "3510161001",
     "district_code": "351016",
-    "name": "Pakis"
+    "name": "Pakis",
+    "postal_code": "68419"
   },
   {
     "code": "3510161002",
     "district_code": "351016",
-    "name": "Sobo"
+    "name": "Sobo",
+    "postal_code": "68418"
   },
   {
     "code": "3510161003",
     "district_code": "351016",
-    "name": "Kebalenan"
+    "name": "Kebalenan",
+    "postal_code": "68417"
   },
   {
     "code": "3510161004",
     "district_code": "351016",
-    "name": "Penganjuran"
+    "name": "Penganjuran",
+    "postal_code": "68416"
   },
   {
     "code": "3510161005",
     "district_code": "351016",
-    "name": "Tukangkayu"
+    "name": "Tukangkayu",
+    "postal_code": "68416"
   },
   {
     "code": "3510161006",
     "district_code": "351016",
-    "name": "Kertosari"
+    "name": "Kertosari",
+    "postal_code": "68418"
   },
   {
     "code": "3510161007",
     "district_code": "351016",
-    "name": "Karangrejo"
+    "name": "Karangrejo",
+    "postal_code": "68411"
   },
   {
     "code": "3510161008",
     "district_code": "351016",
-    "name": "Kepatihan"
+    "name": "Kepatihan",
+    "postal_code": "68411"
   },
   {
     "code": "3510161009",
     "district_code": "351016",
-    "name": "Panderejo"
+    "name": "Panderejo",
+    "postal_code": "68415"
   },
   {
     "code": "3510161010",
     "district_code": "351016",
-    "name": "Singonegaran"
+    "name": "Singonegaran",
+    "postal_code": "68415"
   },
   {
     "code": "3510161011",
     "district_code": "351016",
-    "name": "Temenggungan"
+    "name": "Temenggungan",
+    "postal_code": "68412"
   },
   {
     "code": "3510161012",
     "district_code": "351016",
-    "name": "Kampungmelayu"
+    "name": "Kampungmelayu",
+    "postal_code": "68412"
   },
   {
     "code": "3510161013",
     "district_code": "351016",
-    "name": "Kampungmandar"
+    "name": "Kampungmandar",
+    "postal_code": "68419"
   },
   {
     "code": "3510161014",
     "district_code": "351016",
-    "name": "Lateng"
+    "name": "Lateng",
+    "postal_code": "68413"
   },
   {
     "code": "3510161015",
     "district_code": "351016",
-    "name": "Singotrunan"
+    "name": "Singotrunan",
+    "postal_code": "68414"
   },
   {
     "code": "3510161016",
     "district_code": "351016",
-    "name": "Pengantigan"
+    "name": "Pengantigan",
+    "postal_code": "68414"
   },
   {
     "code": "3510161017",
     "district_code": "351016",
-    "name": "Tamanbaru"
+    "name": "Tamanbaru",
+    "postal_code": "68416"
   },
   {
     "code": "3510161018",
     "district_code": "351016",
-    "name": "Sumberrejo"
+    "name": "Sumberrejo",
+    "postal_code": "68419"
   }
 ]

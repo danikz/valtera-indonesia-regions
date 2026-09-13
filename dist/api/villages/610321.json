@@ -2,26 +2,31 @@
   {
     "code": "6103212001",
     "district_code": "610321",
-    "name": "Nekan"
+    "name": "Nekan",
+    "postal_code": "78557"
   },
   {
     "code": "6103212002",
     "district_code": "610321",
-    "name": "Semanget"
+    "name": "Semanget",
+    "postal_code": "78557"
   },
   {
     "code": "6103212003",
     "district_code": "610321",
-    "name": "Entikong"
+    "name": "Entikong",
+    "postal_code": "78557"
   },
   {
     "code": "6103212004",
     "district_code": "610321",
-    "name": "Pala Pasang"
+    "name": "Pala Pasang",
+    "postal_code": "78557"
   },
   {
     "code": "6103212005",
     "district_code": "610321",
-    "name": "Suruh Tembawang"
+    "name": "Suruh Tembawang",
+    "postal_code": "78557"
   }
 ]

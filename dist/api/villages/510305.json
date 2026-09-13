@@ -2,31 +2,37 @@
   {
     "code": "5103051004",
     "district_code": "510305",
-    "name": "Benoa"
+    "name": "Benoa",
+    "postal_code": "80362"
   },
   {
     "code": "5103051005",
     "district_code": "510305",
-    "name": "Tanjung Benoa"
+    "name": "Tanjung Benoa",
+    "postal_code": "80362"
   },
   {
     "code": "5103051006",
     "district_code": "510305",
-    "name": "Jimbaran"
+    "name": "Jimbaran",
+    "postal_code": "80362"
   },
   {
     "code": "5103052001",
     "district_code": "510305",
-    "name": "Pecatu"
+    "name": "Pecatu",
+    "postal_code": "80362"
   },
   {
     "code": "5103052002",
     "district_code": "510305",
-    "name": "Ungasan"
+    "name": "Ungasan",
+    "postal_code": "80362"
   },
   {
     "code": "5103052003",
     "district_code": "510305",
-    "name": "Kutuh"
+    "name": "Kutuh",
+    "postal_code": "80362"
   }
 ]

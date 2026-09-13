@@ -2,41 +2,49 @@
   {
     "code": "9503352001",
     "district_code": "950335",
-    "name": "Wanim"
+    "name": "Wanim",
+    "postal_code": "99739"
   },
   {
     "code": "9503352002",
     "district_code": "950335",
-    "name": "Lolat"
+    "name": "Lolat",
+    "postal_code": "99739"
   },
   {
     "code": "9503352003",
     "district_code": "950335",
-    "name": "Bunde"
+    "name": "Bunde",
+    "postal_code": "99739"
   },
   {
     "code": "9503352004",
     "district_code": "950335",
-    "name": "Serahak"
+    "name": "Serahak",
+    "postal_code": "99739"
   },
   {
     "code": "9503352005",
     "district_code": "950335",
-    "name": "Webile"
+    "name": "Webile",
+    "postal_code": "99739"
   },
   {
     "code": "9503352006",
     "district_code": "950335",
-    "name": "Dinggila"
+    "name": "Dinggila",
+    "postal_code": "99739"
   },
   {
     "code": "9503352007",
     "district_code": "950335",
-    "name": "Esalek"
+    "name": "Esalek",
+    "postal_code": "99739"
   },
   {
     "code": "9503352008",
     "district_code": "950335",
-    "name": "Denema"
+    "name": "Denema",
+    "postal_code": "99739"
   }
 ]

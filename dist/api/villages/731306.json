@@ -2,81 +2,97 @@
   {
     "code": "7313061001",
     "district_code": "731306",
-    "name": "Siengkang"
+    "name": "Siengkang",
+    "postal_code": "90914"
   },
   {
     "code": "7313061002",
     "district_code": "731306",
-    "name": "Pattirosompe"
+    "name": "Pattirosompe",
+    "postal_code": "90913"
   },
   {
     "code": "7313061003",
     "district_code": "731306",
-    "name": "Tempe"
+    "name": "Tempe",
+    "postal_code": "90911"
   },
   {
     "code": "7313061004",
     "district_code": "731306",
-    "name": "Maddukelleng"
+    "name": "Maddukelleng",
+    "postal_code": "90911"
   },
   {
     "code": "7313061005",
     "district_code": "731306",
-    "name": "Watallipue"
+    "name": "Watallipue",
+    "postal_code": "90911"
   },
   {
     "code": "7313061006",
     "district_code": "731306",
-    "name": "Mattiro Tappareng"
+    "name": "Mattiro Tappareng",
+    "postal_code": "90918"
   },
   {
     "code": "7313061007",
     "district_code": "731306",
-    "name": "Laelo"
+    "name": "Laelo",
+    "postal_code": "90917"
   },
   {
     "code": "7313061008",
     "district_code": "731306",
-    "name": "Salo Menraleng"
+    "name": "Salo Menraleng",
+    "postal_code": "90917"
   },
   {
     "code": "7313061009",
     "district_code": "731306",
-    "name": "Campalagi"
+    "name": "Campalagi",
+    "postal_code": "90911"
   },
   {
     "code": "7313061010",
     "district_code": "731306",
-    "name": "Lapongkoda"
+    "name": "Lapongkoda",
+    "postal_code": "90913"
   },
   {
     "code": "7313061011",
     "district_code": "731306",
-    "name": "Teddaopu"
+    "name": "Teddaopu",
+    "postal_code": "90912"
   },
   {
     "code": "7313061012",
     "district_code": "731306",
-    "name": "Paddupa"
+    "name": "Paddupa",
+    "postal_code": "90914"
   },
   {
     "code": "7313061013",
     "district_code": "731306",
-    "name": "Wiring Palenae"
+    "name": "Wiring Palenae",
+    "postal_code": "90918"
   },
   {
     "code": "7313061014",
     "district_code": "731306",
-    "name": "Attakkae"
+    "name": "Attakkae",
+    "postal_code": "90915"
   },
   {
     "code": "7313061015",
     "district_code": "731306",
-    "name": "Sitampae"
+    "name": "Sitampae",
+    "postal_code": "90916"
   },
   {
     "code": "7313061016",
     "district_code": "731306",
-    "name": "Bulu Pabbulu"
+    "name": "Bulu Pabbulu",
+    "postal_code": "90911"
   }
 ]

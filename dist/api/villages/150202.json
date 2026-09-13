@@ -2,41 +2,49 @@
   {
     "code": "1502021009",
     "district_code": "150202",
-    "name": "Pasar Atas"
+    "name": "Pasar Atas",
+    "postal_code": "37312"
   },
   {
     "code": "1502021010",
     "district_code": "150202",
-    "name": "Pasar Bangko"
+    "name": "Pasar Bangko",
+    "postal_code": "37311"
   },
   {
     "code": "1502021011",
     "district_code": "150202",
-    "name": "Dusun Bangko"
+    "name": "Dusun Bangko",
+    "postal_code": "37313"
   },
   {
     "code": "1502021013",
     "district_code": "150202",
-    "name": "Pematang Kandis"
+    "name": "Pematang Kandis",
+    "postal_code": "37314"
   },
   {
     "code": "1502022004",
     "district_code": "150202",
-    "name": "Kungkai"
+    "name": "Kungkai",
+    "postal_code": "37311"
   },
   {
     "code": "1502022008",
     "district_code": "150202",
-    "name": "Mudo"
+    "name": "Mudo",
+    "postal_code": "37311"
   },
   {
     "code": "1502022012",
     "district_code": "150202",
-    "name": "Langling"
+    "name": "Langling",
+    "postal_code": "37311"
   },
   {
     "code": "1502022024",
     "district_code": "150202",
-    "name": "Sungai Kapas"
+    "name": "Sungai Kapas",
+    "postal_code": "37311"
   }
 ]

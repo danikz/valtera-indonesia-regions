@@ -2,36 +2,43 @@
   {
     "code": "3375011002",
     "district_code": "337501",
-    "name": "Medono"
+    "name": "Medono",
+    "postal_code": "51111"
   },
   {
     "code": "3375011003",
     "district_code": "337501",
-    "name": "Podosugih"
+    "name": "Podosugih",
+    "postal_code": "51111"
   },
   {
     "code": "3375011004",
     "district_code": "337501",
-    "name": "Sapuro Kebulen"
+    "name": "Sapuro Kebulen",
+    "postal_code": "51112"
   },
   {
     "code": "3375011006",
     "district_code": "337501",
-    "name": "Bendan Kergon"
+    "name": "Bendan Kergon",
+    "postal_code": "51113"
   },
   {
     "code": "3375011008",
     "district_code": "337501",
-    "name": "Pasirkratonkramat"
+    "name": "Pasirkratonkramat",
+    "postal_code": "51117"
   },
   {
     "code": "3375011009",
     "district_code": "337501",
-    "name": "Tirto"
+    "name": "Tirto",
+    "postal_code": "51151"
   },
   {
     "code": "3375011012",
     "district_code": "337501",
-    "name": "Pringrejo"
+    "name": "Pringrejo",
+    "postal_code": "51116"
   }
 ]

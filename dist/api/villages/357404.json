@@ -2,31 +2,37 @@
   {
     "code": "3574041001",
     "district_code": "357404",
-    "name": "Tisnonegaran"
+    "name": "Tisnonegaran",
+    "postal_code": "67211"
   },
   {
     "code": "3574041002",
     "district_code": "357404",
-    "name": "Sukoharjo"
+    "name": "Sukoharjo",
+    "postal_code": "67215"
   },
   {
     "code": "3574041003",
     "district_code": "357404",
-    "name": "Kanigaran"
+    "name": "Kanigaran",
+    "postal_code": "67213"
   },
   {
     "code": "3574041004",
     "district_code": "357404",
-    "name": "Kebonsari Wetan"
+    "name": "Kebonsari Wetan",
+    "postal_code": "67214"
   },
   {
     "code": "3574041005",
     "district_code": "357404",
-    "name": "Curahgrinting"
+    "name": "Curahgrinting",
+    "postal_code": "67212"
   },
   {
     "code": "3574041006",
     "district_code": "357404",
-    "name": "Kebonsari Kulon"
+    "name": "Kebonsari Kulon",
+    "postal_code": "67214"
   }
 ]

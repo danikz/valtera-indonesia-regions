@@ -2,51 +2,61 @@
   {
     "code": "1175052001",
     "district_code": "117505",
-    "name": "Longkib"
+    "name": "Longkib",
+    "postal_code": "24782"
   },
   {
     "code": "1175052002",
     "district_code": "117505",
-    "name": "Sepang"
+    "name": "Sepang",
+    "postal_code": "24782"
   },
   {
     "code": "1175052003",
     "district_code": "117505",
-    "name": "Panji"
+    "name": "Panji",
+    "postal_code": "24782"
   },
   {
     "code": "1175052004",
     "district_code": "117505",
-    "name": "Lae Saga"
+    "name": "Lae Saga",
+    "postal_code": "24782"
   },
   {
     "code": "1175052005",
     "district_code": "117505",
-    "name": "Sikerabang"
+    "name": "Sikerabang",
+    "postal_code": "24782"
   },
   {
     "code": "1175052006",
     "district_code": "117505",
-    "name": "Rantau Panjang"
+    "name": "Rantau Panjang",
+    "postal_code": "24782"
   },
   {
     "code": "1175052007",
     "district_code": "117505",
-    "name": "Bukit Panjang"
+    "name": "Bukit Panjang",
+    "postal_code": "24782"
   },
   {
     "code": "1175052008",
     "district_code": "117505",
-    "name": "Darul Aman"
+    "name": "Darul Aman",
+    "postal_code": "24782"
   },
   {
     "code": "1175052009",
     "district_code": "117505",
-    "name": "Bangun Sari"
+    "name": "Bangun Sari",
+    "postal_code": "24782"
   },
   {
     "code": "1175052010",
     "district_code": "117505",
-    "name": "Darussalam"
+    "name": "Darussalam",
+    "postal_code": "24782"
   }
 ]

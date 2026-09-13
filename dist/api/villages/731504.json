@@ -2,41 +2,49 @@
   {
     "code": "7315041001",
     "district_code": "731504",
-    "name": "Jaya"
+    "name": "Jaya",
+    "postal_code": "91213"
   },
   {
     "code": "7315041002",
     "district_code": "731504",
-    "name": "Sawito"
+    "name": "Sawito",
+    "postal_code": "91211"
   },
   {
     "code": "7315041003",
     "district_code": "731504",
-    "name": "Maccorawalie"
+    "name": "Maccorawalie",
+    "postal_code": "91212"
   },
   {
     "code": "7315041004",
     "district_code": "731504",
-    "name": "Penrang"
+    "name": "Penrang",
+    "postal_code": "91219"
   },
   {
     "code": "7315041005",
     "district_code": "731504",
-    "name": "Salo"
+    "name": "Salo",
+    "postal_code": "91216"
   },
   {
     "code": "7315041006",
     "district_code": "731504",
-    "name": "Bentengnge"
+    "name": "Bentengnge",
+    "postal_code": "91221"
   },
   {
     "code": "7315041007",
     "district_code": "731504",
-    "name": "Sipatokkong"
+    "name": "Sipatokkong",
+    "postal_code": "91218"
   },
   {
     "code": "7315041008",
     "district_code": "731504",
-    "name": "Siparappe"
+    "name": "Siparappe",
+    "postal_code": "91217"
   }
 ]

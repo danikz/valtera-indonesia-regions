@@ -2,31 +2,37 @@
   {
     "code": "1307012001",
     "district_code": "130701",
-    "name": "Kurai"
+    "name": "Kurai",
+    "postal_code": "26255"
   },
   {
     "code": "1307012002",
     "district_code": "130701",
-    "name": "Sungai Rimbang"
+    "name": "Sungai Rimbang",
+    "postal_code": "26255"
   },
   {
     "code": "1307012003",
     "district_code": "130701",
-    "name": "Tanjuang Bungo"
+    "name": "Tanjuang Bungo",
+    "postal_code": "26255"
   },
   {
     "code": "1307012004",
     "district_code": "130701",
-    "name": "Suliki"
+    "name": "Suliki",
+    "postal_code": "26255"
   },
   {
     "code": "1307012005",
     "district_code": "130701",
-    "name": "Limbanang"
+    "name": "Limbanang",
+    "postal_code": "26255"
   },
   {
     "code": "1307012006",
     "district_code": "130701",
-    "name": "Andiang"
+    "name": "Andiang",
+    "postal_code": "26255"
   }
 ]

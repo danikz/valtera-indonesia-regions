@@ -2,41 +2,49 @@
   {
     "code": "7311051001",
     "district_code": "731105",
-    "name": "Palanro"
+    "name": "Palanro",
+    "postal_code": "90753"
   },
   {
     "code": "7311051002",
     "district_code": "731105",
-    "name": "Mallawa"
+    "name": "Mallawa",
+    "postal_code": "90711"
   },
   {
     "code": "7311051003",
     "district_code": "731105",
-    "name": "Bojo Baru"
+    "name": "Bojo Baru",
+    "postal_code": "90753"
   },
   {
     "code": "7311052004",
     "district_code": "731105",
-    "name": "Cilellang"
+    "name": "Cilellang",
+    "postal_code": "90753"
   },
   {
     "code": "7311052005",
     "district_code": "731105",
-    "name": "Manuba"
+    "name": "Manuba",
+    "postal_code": "90753"
   },
   {
     "code": "7311052006",
     "district_code": "731105",
-    "name": "Nepo"
+    "name": "Nepo",
+    "postal_code": "90753"
   },
   {
     "code": "7311052007",
     "district_code": "731105",
-    "name": "Kupa"
+    "name": "Kupa",
+    "postal_code": "90753"
   },
   {
     "code": "7311052008",
     "district_code": "731105",
-    "name": "Bojo"
+    "name": "Bojo",
+    "postal_code": "90753"
   }
 ]

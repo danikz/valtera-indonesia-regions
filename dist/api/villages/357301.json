@@ -2,56 +2,67 @@
   {
     "code": "3573011001",
     "district_code": "357301",
-    "name": "Balearjosari"
+    "name": "Balearjosari",
+    "postal_code": "65126"
   },
   {
     "code": "3573011002",
     "district_code": "357301",
-    "name": "Arjosari"
+    "name": "Arjosari",
+    "postal_code": "65126"
   },
   {
     "code": "3573011003",
     "district_code": "357301",
-    "name": "Polowijen"
+    "name": "Polowijen",
+    "postal_code": "65126"
   },
   {
     "code": "3573011004",
     "district_code": "357301",
-    "name": "Purwodadi"
+    "name": "Purwodadi",
+    "postal_code": "65125"
   },
   {
     "code": "3573011005",
     "district_code": "357301",
-    "name": "Blimbing"
+    "name": "Blimbing",
+    "postal_code": "65125"
   },
   {
     "code": "3573011006",
     "district_code": "357301",
-    "name": "Pandanwangi"
+    "name": "Pandanwangi",
+    "postal_code": "65124"
   },
   {
     "code": "3573011007",
     "district_code": "357301",
-    "name": "Purwantoro"
+    "name": "Purwantoro",
+    "postal_code": "65122"
   },
   {
     "code": "3573011008",
     "district_code": "357301",
-    "name": "Bunulrejo"
+    "name": "Bunulrejo",
+    "postal_code": "65123"
   },
   {
     "code": "3573011009",
     "district_code": "357301",
-    "name": "Kesatrian"
+    "name": "Kesatrian",
+    "postal_code": "65121"
   },
   {
     "code": "3573011010",
     "district_code": "357301",
-    "name": "Polehan"
+    "name": "Polehan",
+    "postal_code": "65121"
   },
   {
     "code": "3573011011",
     "district_code": "357301",
-    "name": "Jodipan"
+    "name": "Jodipan",
+    "postal_code": "65137"
   }
 ]

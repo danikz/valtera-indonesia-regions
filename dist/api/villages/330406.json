@@ -2,66 +2,79 @@
   {
     "code": "3304061001",
     "district_code": "330406",
-    "name": "Argasoka"
+    "name": "Argasoka",
+    "postal_code": "53418"
   },
   {
     "code": "3304061006",
     "district_code": "330406",
-    "name": "Karangtengah"
+    "name": "Karangtengah",
+    "postal_code": "53416"
   },
   {
     "code": "3304061007",
     "district_code": "330406",
-    "name": "Wangon"
+    "name": "Wangon",
+    "postal_code": "53417"
   },
   {
     "code": "3304061008",
     "district_code": "330406",
-    "name": "Semampir"
+    "name": "Semampir",
+    "postal_code": "53418"
   },
   {
     "code": "3304061009",
     "district_code": "330406",
-    "name": "Sokanandi"
+    "name": "Sokanandi",
+    "postal_code": "53413"
   },
   {
     "code": "3304061010",
     "district_code": "330406",
-    "name": "Parakancanggah"
+    "name": "Parakancanggah",
+    "postal_code": "53412"
   },
   {
     "code": "3304061011",
     "district_code": "330406",
-    "name": "Semarang"
+    "name": "Semarang",
+    "postal_code": "53411"
   },
   {
     "code": "3304061012",
     "district_code": "330406",
-    "name": "Krandegan"
+    "name": "Krandegan",
+    "postal_code": "53414"
   },
   {
     "code": "3304061013",
     "district_code": "330406",
-    "name": "Kutabanjarnegara"
+    "name": "Kutabanjarnegara",
+    "postal_code": "53418"
   },
   {
     "code": "3304062002",
     "district_code": "330406",
-    "name": "Ampelsari"
+    "name": "Ampelsari",
+    "postal_code": "53418"
   },
   {
     "code": "3304062003",
     "district_code": "330406",
-    "name": "Tlagawera"
+    "name": "Tlagawera",
+    "postal_code": "53418"
   },
   {
     "code": "3304062004",
     "district_code": "330406",
-    "name": "Cendana"
+    "name": "Cendana",
+    "postal_code": "53418"
   },
   {
     "code": "3304062005",
     "district_code": "330406",
-    "name": "Sokayasa"
+    "name": "Sokayasa",
+    "postal_code": "53418"
   }
 ]

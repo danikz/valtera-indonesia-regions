@@ -2,36 +2,43 @@
   {
     "code": "1807162001",
     "district_code": "180716",
-    "name": "Mataram Baru"
+    "name": "Mataram Baru",
+    "postal_code": "34199"
   },
   {
     "code": "1807162002",
     "district_code": "180716",
-    "name": "Rajabasa Baru"
+    "name": "Rajabasa Baru",
+    "postal_code": "34199"
   },
   {
     "code": "1807162003",
     "district_code": "180716",
-    "name": "Teluk Dalem"
+    "name": "Teluk Dalem",
+    "postal_code": "34199"
   },
   {
     "code": "1807162004",
     "district_code": "180716",
-    "name": "Way Areng"
+    "name": "Way Areng",
+    "postal_code": "34199"
   },
   {
     "code": "1807162005",
     "district_code": "180716",
-    "name": "Tulung Pasik"
+    "name": "Tulung Pasik",
+    "postal_code": "34199"
   },
   {
     "code": "1807162006",
     "district_code": "180716",
-    "name": "Mandala Sari"
+    "name": "Mandala Sari",
+    "postal_code": "34199"
   },
   {
     "code": "1807162007",
     "district_code": "180716",
-    "name": "Kebon Damar"
+    "name": "Kebon Damar",
+    "postal_code": "34199"
   }
 ]

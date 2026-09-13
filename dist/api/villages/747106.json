@@ -2,36 +2,43 @@
   {
     "code": "7471061001",
     "district_code": "747106",
-    "name": "Puday"
+    "name": "Puday",
+    "postal_code": "93234"
   },
   {
     "code": "7471061002",
     "district_code": "747106",
-    "name": "Lapulu"
+    "name": "Lapulu",
+    "postal_code": "93234"
   },
   {
     "code": "7471061003",
     "district_code": "747106",
-    "name": "Abeli"
+    "name": "Abeli",
+    "postal_code": "93234"
   },
   {
     "code": "7471061004",
     "district_code": "747106",
-    "name": "Benuanirae"
+    "name": "Benuanirae",
+    "postal_code": "93234"
   },
   {
     "code": "7471061006",
     "district_code": "747106",
-    "name": "Anggalomelai"
+    "name": "Anggalomelai",
+    "postal_code": "93234"
   },
   {
     "code": "7471061007",
     "district_code": "747106",
-    "name": "Talia"
+    "name": "Talia",
+    "postal_code": "93235"
   },
   {
     "code": "7471061008",
     "district_code": "747106",
-    "name": "Poasia"
+    "name": "Poasia",
+    "postal_code": "93235"
   }
 ]

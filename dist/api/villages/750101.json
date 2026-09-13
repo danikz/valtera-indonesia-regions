@@ -2,71 +2,85 @@
   {
     "code": "7501011001",
     "district_code": "750101",
-    "name": "Kayubulan"
+    "name": "Kayubulan",
+    "postal_code": "96211"
   },
   {
     "code": "7501011002",
     "district_code": "750101",
-    "name": "Kayumerah"
+    "name": "Kayumerah",
+    "postal_code": "96214"
   },
   {
     "code": "7501011003",
     "district_code": "750101",
-    "name": "Hunggaluwa"
+    "name": "Hunggaluwa",
+    "postal_code": "96219"
   },
   {
     "code": "7501011004",
     "district_code": "750101",
-    "name": "Bolihuangga"
+    "name": "Bolihuangga",
+    "postal_code": "96218"
   },
   {
     "code": "7501011005",
     "district_code": "750101",
-    "name": "Hepuhulawa"
+    "name": "Hepuhulawa",
+    "postal_code": "96212"
   },
   {
     "code": "7501011006",
     "district_code": "750101",
-    "name": "Hutuo"
+    "name": "Hutuo",
+    "postal_code": "96213"
   },
   {
     "code": "7501011007",
     "district_code": "750101",
-    "name": "Dutulanaa"
+    "name": "Dutulanaa",
+    "postal_code": "96213"
   },
   {
     "code": "7501011008",
     "district_code": "750101",
-    "name": "Tenilo"
+    "name": "Tenilo",
+    "postal_code": "96218"
   },
   {
     "code": "7501011009",
     "district_code": "750101",
-    "name": "Biyonga"
+    "name": "Biyonga",
+    "postal_code": "96212"
   },
   {
     "code": "7501011010",
     "district_code": "750101",
-    "name": "Bongohulawa"
+    "name": "Bongohulawa",
+    "postal_code": "96214"
   },
   {
     "code": "7501011011",
     "district_code": "750101",
-    "name": "Bulota"
+    "name": "Bulota",
+    "postal_code": "96213"
   },
   {
     "code": "7501011012",
     "district_code": "750101",
-    "name": "Malahu"
+    "name": "Malahu",
+    "postal_code": "96211"
   },
   {
     "code": "7501011013",
     "district_code": "750101",
-    "name": "Tilihuwa"
+    "name": "Tilihuwa",
+    "postal_code": "96214"
   },
   {
     "code": "7501011014",
     "district_code": "750101",
-    "name": "Polohungo"
+    "name": "Polohungo",
+    "postal_code": "96212"
   }
 ]

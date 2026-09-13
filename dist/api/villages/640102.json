@@ -2,36 +2,43 @@
   {
     "code": "6401022004",
     "district_code": "640102",
-    "name": "Keladen"
+    "name": "Keladen",
+    "postal_code": "76260"
   },
   {
     "code": "6401022006",
     "district_code": "640102",
-    "name": "Tanjung Aru"
+    "name": "Tanjung Aru",
+    "postal_code": "76260"
   },
   {
     "code": "6401022007",
     "district_code": "640102",
-    "name": "Labuangkallo"
+    "name": "Labuangkallo",
+    "postal_code": "76260"
   },
   {
     "code": "6401022012",
     "district_code": "640102",
-    "name": "Lori"
+    "name": "Lori",
+    "postal_code": "76260"
   },
   {
     "code": "6401022013",
     "district_code": "640102",
-    "name": "Selengot"
+    "name": "Selengot",
+    "postal_code": "76260"
   },
   {
     "code": "6401022014",
     "district_code": "640102",
-    "name": "Random"
+    "name": "Random",
+    "postal_code": "76260"
   },
   {
     "code": "6401022015",
     "district_code": "640102",
-    "name": "Senipah"
+    "name": "Senipah",
+    "postal_code": "76260"
   }
 ]

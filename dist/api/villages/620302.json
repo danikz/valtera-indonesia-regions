@@ -2,41 +2,49 @@
   {
     "code": "6203021001",
     "district_code": "620302",
-    "name": "Mambulau"
+    "name": "Mambulau",
+    "postal_code": "73521"
   },
   {
     "code": "6203021002",
     "district_code": "620302",
-    "name": "Hampatung"
+    "name": "Hampatung",
+    "postal_code": "73522"
   },
   {
     "code": "6203021003",
     "district_code": "620302",
-    "name": "Dahirang"
+    "name": "Dahirang",
+    "postal_code": "73523"
   },
   {
     "code": "6203021004",
     "district_code": "620302",
-    "name": "Barimba"
+    "name": "Barimba",
+    "postal_code": "73524"
   },
   {
     "code": "6203021005",
     "district_code": "620302",
-    "name": "Sei Pasah"
+    "name": "Sei Pasah",
+    "postal_code": "73525"
   },
   {
     "code": "6203022006",
     "district_code": "620302",
-    "name": "Bakungin"
+    "name": "Bakungin",
+    "postal_code": "73525"
   },
   {
     "code": "6203022007",
     "district_code": "620302",
-    "name": "Sei Asam"
+    "name": "Sei Asam",
+    "postal_code": "73525"
   },
   {
     "code": "6203022008",
     "district_code": "620302",
-    "name": "Saka Batur"
+    "name": "Saka Batur",
+    "postal_code": "73525"
   }
 ]

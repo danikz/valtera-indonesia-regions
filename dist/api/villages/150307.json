@@ -2,46 +2,55 @@
   {
     "code": "1503072001",
     "district_code": "150307",
-    "name": "Lubuk Jering"
+    "name": "Lubuk Jering",
+    "postal_code": "37490"
   },
   {
     "code": "1503072002",
     "district_code": "150307",
-    "name": "Jernih"
+    "name": "Jernih",
+    "postal_code": "37490"
   },
   {
     "code": "1503072003",
     "district_code": "150307",
-    "name": "Desa Baru"
+    "name": "Desa Baru",
+    "postal_code": "37490"
   },
   {
     "code": "1503072004",
     "district_code": "150307",
-    "name": "Semurung"
+    "name": "Semurung",
+    "postal_code": "37490"
   },
   {
     "code": "1503072005",
     "district_code": "150307",
-    "name": "Lubuk Kepayang"
+    "name": "Lubuk Kepayang",
+    "postal_code": "37490"
   },
   {
     "code": "1503072006",
     "district_code": "150307",
-    "name": "Pematang Kabau"
+    "name": "Pematang Kabau",
+    "postal_code": "37490"
   },
   {
     "code": "1503072007",
     "district_code": "150307",
-    "name": "Bukit Suban"
+    "name": "Bukit Suban",
+    "postal_code": "37490"
   },
   {
     "code": "1503072008",
     "district_code": "150307",
-    "name": "Mentawak Baru"
+    "name": "Mentawak Baru",
+    "postal_code": "37490"
   },
   {
     "code": "1503072009",
     "district_code": "150307",
-    "name": "Mentawak Ulu"
+    "name": "Mentawak Ulu",
+    "postal_code": "37490"
   }
 ]

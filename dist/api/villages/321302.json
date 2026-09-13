@@ -2,46 +2,55 @@
   {
     "code": "3213022001",
     "district_code": "321302",
-    "name": "Cupunagara"
+    "name": "Cupunagara",
+    "postal_code": "41283"
   },
   {
     "code": "3213022002",
     "district_code": "321302",
-    "name": "Cimanggu"
+    "name": "Cimanggu",
+    "postal_code": "41283"
   },
   {
     "code": "3213022003",
     "district_code": "321302",
-    "name": "Gardusayang"
+    "name": "Gardusayang",
+    "postal_code": "41283"
   },
   {
     "code": "3213022004",
     "district_code": "321302",
-    "name": "Mayang"
+    "name": "Mayang",
+    "postal_code": "41283"
   },
   {
     "code": "3213022005",
     "district_code": "321302",
-    "name": "Sukakerti"
+    "name": "Sukakerti",
+    "postal_code": "41283"
   },
   {
     "code": "3213022007",
     "district_code": "321302",
-    "name": "Darmaga"
+    "name": "Darmaga",
+    "postal_code": "41283"
   },
   {
     "code": "3213022008",
     "district_code": "321302",
-    "name": "Cisalak"
+    "name": "Cisalak",
+    "postal_code": "41283"
   },
   {
     "code": "3213022011",
     "district_code": "321302",
-    "name": "Cigadog"
+    "name": "Cigadog",
+    "postal_code": "41283"
   },
   {
     "code": "3213022014",
     "district_code": "321302",
-    "name": "Pakuhaji"
+    "name": "Pakuhaji",
+    "postal_code": "41283"
   }
 ]

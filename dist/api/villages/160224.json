@@ -2,36 +2,43 @@
   {
     "code": "1602242001",
     "district_code": "160224",
-    "name": "Pulau Geronggang"
+    "name": "Pulau Geronggang",
+    "postal_code": "30670"
   },
   {
     "code": "1602242002",
     "district_code": "160224",
-    "name": "Sumber Hidup"
+    "name": "Sumber Hidup",
+    "postal_code": "30670"
   },
   {
     "code": "1602242003",
     "district_code": "160224",
-    "name": "Gading Raja"
+    "name": "Gading Raja",
+    "postal_code": "30670"
   },
   {
     "code": "1602242004",
     "district_code": "160224",
-    "name": "Maribaya"
+    "name": "Maribaya",
+    "postal_code": "30670"
   },
   {
     "code": "1602242005",
     "district_code": "160224",
-    "name": "Pancawarna"
+    "name": "Pancawarna",
+    "postal_code": "30670"
   },
   {
     "code": "1602242006",
     "district_code": "160224",
-    "name": "Tanjung Makmur"
+    "name": "Tanjung Makmur",
+    "postal_code": "30670"
   },
   {
     "code": "1602242007",
     "district_code": "160224",
-    "name": "Kayu Labu"
+    "name": "Kayu Labu",
+    "postal_code": "30670"
   }
 ]

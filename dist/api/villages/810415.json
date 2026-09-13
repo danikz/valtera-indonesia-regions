@@ -2,26 +2,31 @@
   {
     "code": "8104152001",
     "district_code": "810415",
-    "name": "Ubung"
+    "name": "Ubung",
+    "postal_code": "97570"
   },
   {
     "code": "8104152002",
     "district_code": "810415",
-    "name": "Jikumerasa"
+    "name": "Jikumerasa",
+    "postal_code": "97570"
   },
   {
     "code": "8104152003",
     "district_code": "810415",
-    "name": "Waemiting"
+    "name": "Waemiting",
+    "postal_code": "97570"
   },
   {
     "code": "8104152004",
     "district_code": "810415",
-    "name": "Sawa"
+    "name": "Sawa",
+    "postal_code": "97570"
   },
   {
     "code": "8104152005",
     "district_code": "810415",
-    "name": "Waeperang"
+    "name": "Waeperang",
+    "postal_code": "97570"
   }
 ]

@@ -2,16 +2,19 @@
   {
     "code": "1309092001",
     "district_code": "130909",
-    "name": "Sikakap"
+    "name": "Sikakap",
+    "postal_code": "25399"
   },
   {
     "code": "1309092002",
     "district_code": "130909",
-    "name": "Taikako"
+    "name": "Taikako",
+    "postal_code": "25399"
   },
   {
     "code": "1309092003",
     "district_code": "130909",
-    "name": "Matobe"
+    "name": "Matobe",
+    "postal_code": "25399"
   }
 ]

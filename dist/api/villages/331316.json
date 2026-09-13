@@ -2,51 +2,61 @@
   {
     "code": "3313162001",
     "district_code": "331316",
-    "name": "Kuto"
+    "name": "Kuto",
+    "postal_code": "57753"
   },
   {
     "code": "3313162002",
     "district_code": "331316",
-    "name": "Tamansari"
+    "name": "Tamansari",
+    "postal_code": "57753"
   },
   {
     "code": "3313162003",
     "district_code": "331316",
-    "name": "Ganten"
+    "name": "Ganten",
+    "postal_code": "57753"
   },
   {
     "code": "3313162004",
     "district_code": "331316",
-    "name": "Gempolan"
+    "name": "Gempolan",
+    "postal_code": "57753"
   },
   {
     "code": "3313162005",
     "district_code": "331316",
-    "name": "Plosorejo"
+    "name": "Plosorejo",
+    "postal_code": "57753"
   },
   {
     "code": "3313162006",
     "district_code": "331316",
-    "name": "Karangrejo"
+    "name": "Karangrejo",
+    "postal_code": "57711"
   },
   {
     "code": "3313162007",
     "district_code": "331316",
-    "name": "Kwadungan"
+    "name": "Kwadungan",
+    "postal_code": "57753"
   },
   {
     "code": "3313162008",
     "district_code": "331316",
-    "name": "Botok"
+    "name": "Botok",
+    "postal_code": "57753"
   },
   {
     "code": "3313162009",
     "district_code": "331316",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "57753"
   },
   {
     "code": "3313162010",
     "district_code": "331316",
-    "name": "Tawangsari"
+    "name": "Tawangsari",
+    "postal_code": "57753"
   }
 ]

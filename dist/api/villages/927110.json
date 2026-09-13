@@ -2,21 +2,25 @@
   {
     "code": "9271101001",
     "district_code": "927110",
-    "name": "Suprau"
+    "name": "Suprau",
+    "postal_code": ""
   },
   {
     "code": "9271101002",
     "district_code": "927110",
-    "name": "Tampa Garam"
+    "name": "Tampa Garam",
+    "postal_code": ""
   },
   {
     "code": "9271101003",
     "district_code": "927110",
-    "name": "Saoka"
+    "name": "Saoka",
+    "postal_code": ""
   },
   {
     "code": "9271101004",
     "district_code": "927110",
-    "name": "Tanjung Kasuari"
+    "name": "Tanjung Kasuari",
+    "postal_code": ""
   }
 ]

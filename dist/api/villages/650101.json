@@ -2,46 +2,55 @@
   {
     "code": "6501011001",
     "district_code": "650101",
-    "name": "Tanjung Palas Hulu"
+    "name": "Tanjung Palas Hulu",
+    "postal_code": "77215"
   },
   {
     "code": "6501011002",
     "district_code": "650101",
-    "name": "Tanjung Palas Tengah"
+    "name": "Tanjung Palas Tengah",
+    "postal_code": "77216"
   },
   {
     "code": "6501011003",
     "district_code": "650101",
-    "name": "Tanjung Palas Hilir"
+    "name": "Tanjung Palas Hilir",
+    "postal_code": "77211"
   },
   {
     "code": "6501011004",
     "district_code": "650101",
-    "name": "Karang Anyar"
+    "name": "Karang Anyar",
+    "postal_code": "77214"
   },
   {
     "code": "6501012005",
     "district_code": "650101",
-    "name": "Gunung Putih"
+    "name": "Gunung Putih",
+    "postal_code": "77211"
   },
   {
     "code": "6501012006",
     "district_code": "650101",
-    "name": "Pejalin"
+    "name": "Pejalin",
+    "postal_code": "77211"
   },
   {
     "code": "6501012007",
     "district_code": "650101",
-    "name": "Antutan"
+    "name": "Antutan",
+    "postal_code": "77211"
   },
   {
     "code": "6501012008",
     "district_code": "650101",
-    "name": "Teras Baru"
+    "name": "Teras Baru",
+    "postal_code": "77214"
   },
   {
     "code": "6501012009",
     "district_code": "650101",
-    "name": "Teras Nawang"
+    "name": "Teras Nawang",
+    "postal_code": "77214"
   }
 ]

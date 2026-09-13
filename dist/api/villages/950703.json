@@ -2,41 +2,49 @@
   {
     "code": "9507032001",
     "district_code": "950703",
-    "name": "Kemiri"
+    "name": "Kemiri",
+    "postal_code": "99565"
   },
   {
     "code": "9507032002",
     "district_code": "950703",
-    "name": "Mamiri"
+    "name": "Mamiri",
+    "postal_code": "99535"
   },
   {
     "code": "9507032003",
     "district_code": "950703",
-    "name": "Kotorambur"
+    "name": "Kotorambur",
+    "postal_code": "99535"
   },
   {
     "code": "9507032004",
     "district_code": "950703",
-    "name": "Yorenime"
+    "name": "Yorenime",
+    "postal_code": "99535"
   },
   {
     "code": "9507032005",
     "district_code": "950703",
-    "name": "Waganenga"
+    "name": "Waganenga",
+    "postal_code": "99535"
   },
   {
     "code": "9507032006",
     "district_code": "950703",
-    "name": "Gembilani"
+    "name": "Gembilani",
+    "postal_code": "99535"
   },
   {
     "code": "9507032007",
     "district_code": "950703",
-    "name": "Nambume"
+    "name": "Nambume",
+    "postal_code": "99535"
   },
   {
     "code": "9507032008",
     "district_code": "950703",
-    "name": "Tengenawi"
+    "name": "Tengenawi",
+    "postal_code": "99535"
   }
 ]

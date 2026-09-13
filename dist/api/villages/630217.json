@@ -2,46 +2,55 @@
   {
     "code": "6302172001",
     "district_code": "630217",
-    "name": "Serongga"
+    "name": "Serongga",
+    "postal_code": "72161"
   },
   {
     "code": "6302172002",
     "district_code": "630217",
-    "name": "Tarjun"
+    "name": "Tarjun",
+    "postal_code": "72161"
   },
   {
     "code": "6302172003",
     "district_code": "630217",
-    "name": "Langadai"
+    "name": "Langadai",
+    "postal_code": "72161"
   },
   {
     "code": "6302172004",
     "district_code": "630217",
-    "name": "Pulau Panci"
+    "name": "Pulau Panci",
+    "postal_code": "72161"
   },
   {
     "code": "6302172005",
     "district_code": "630217",
-    "name": "Pelajau Baru"
+    "name": "Pelajau Baru",
+    "postal_code": "72161"
   },
   {
     "code": "6302172006",
     "district_code": "630217",
-    "name": "Tegal Rejo"
+    "name": "Tegal Rejo",
+    "postal_code": "72161"
   },
   {
     "code": "6302172007",
     "district_code": "630217",
-    "name": "Mandala"
+    "name": "Mandala",
+    "postal_code": "72161"
   },
   {
     "code": "6302172008",
     "district_code": "630217",
-    "name": "Telagasari"
+    "name": "Telagasari",
+    "postal_code": "72161"
   },
   {
     "code": "6302172009",
     "district_code": "630217",
-    "name": "Sahapi"
+    "name": "Sahapi",
+    "postal_code": "72161"
   }
 ]

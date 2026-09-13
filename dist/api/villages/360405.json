@@ -2,76 +2,91 @@
   {
     "code": "3604052001",
     "district_code": "360405",
-    "name": "Kramatwatu"
+    "name": "Kramatwatu",
+    "postal_code": "42161"
   },
   {
     "code": "3604052002",
     "district_code": "360405",
-    "name": "Margasana"
+    "name": "Margasana",
+    "postal_code": "42161"
   },
   {
     "code": "3604052003",
     "district_code": "360405",
-    "name": "Pejaten"
+    "name": "Pejaten",
+    "postal_code": "42161"
   },
   {
     "code": "3604052004",
     "district_code": "360405",
-    "name": "Toyomerto"
+    "name": "Toyomerto",
+    "postal_code": "42161"
   },
   {
     "code": "3604052005",
     "district_code": "360405",
-    "name": "Harjatani"
+    "name": "Harjatani",
+    "postal_code": "42161"
   },
   {
     "code": "3604052006",
     "district_code": "360405",
-    "name": "Serdang"
+    "name": "Serdang",
+    "postal_code": "42161"
   },
   {
     "code": "3604052007",
     "district_code": "360405",
-    "name": "Terate"
+    "name": "Terate",
+    "postal_code": "42161"
   },
   {
     "code": "3604052008",
     "district_code": "360405",
-    "name": "Tonjong"
+    "name": "Tonjong",
+    "postal_code": "42161"
   },
   {
     "code": "3604052009",
     "district_code": "360405",
-    "name": "Pamengkang"
+    "name": "Pamengkang",
+    "postal_code": "42161"
   },
   {
     "code": "3604052010",
     "district_code": "360405",
-    "name": "Pegadingan"
+    "name": "Pegadingan",
+    "postal_code": "42161"
   },
   {
     "code": "3604052011",
     "district_code": "360405",
-    "name": "Lebakwana"
+    "name": "Lebakwana",
+    "postal_code": "42161"
   },
   {
     "code": "3604052012",
     "district_code": "360405",
-    "name": "Wanayasa"
+    "name": "Wanayasa",
+    "postal_code": "42161"
   },
   {
     "code": "3604052013",
     "district_code": "360405",
-    "name": "Pelamunan"
+    "name": "Pelamunan",
+    "postal_code": "42161"
   },
   {
     "code": "3604052014",
     "district_code": "360405",
-    "name": "Teluk Terate"
+    "name": "Teluk Terate",
+    "postal_code": "42161"
   },
   {
     "code": "3604052015",
     "district_code": "360405",
-    "name": "Margatani"
+    "name": "Margatani",
+    "postal_code": "42161"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "2103112001",
     "district_code": "210311",
-    "name": "Sabang Mawang"
+    "name": "Sabang Mawang",
+    "postal_code": "29788"
   },
   {
     "code": "2103112003",
     "district_code": "210311",
-    "name": "Sededap"
+    "name": "Sededap",
+    "postal_code": "29788"
   },
   {
     "code": "2103112004",
     "district_code": "210311",
-    "name": "Tanjung Batang"
+    "name": "Tanjung Batang",
+    "postal_code": "29788"
   },
   {
     "code": "2103112005",
     "district_code": "210311",
-    "name": "Serantas"
+    "name": "Serantas",
+    "postal_code": "29788"
   },
   {
     "code": "2103112006",
     "district_code": "210311",
-    "name": "Sabang Mawang Barat"
+    "name": "Sabang Mawang Barat",
+    "postal_code": "29788"
   },
   {
     "code": "2103112010",
     "district_code": "210311",
-    "name": "Teluk Labuh"
+    "name": "Teluk Labuh",
+    "postal_code": "29788"
   }
 ]

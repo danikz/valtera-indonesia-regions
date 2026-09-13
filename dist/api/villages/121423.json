@@ -2,56 +2,67 @@
   {
     "code": "1214232001",
     "district_code": "121423",
-    "name": "Maluo"
+    "name": "Maluo",
+    "postal_code": "22864"
   },
   {
     "code": "1214232002",
     "district_code": "121423",
-    "name": "Hiliadulo"
+    "name": "Hiliadulo",
+    "postal_code": "22864"
   },
   {
     "code": "1214232003",
     "district_code": "121423",
-    "name": "Umbuasi"
+    "name": "Umbuasi",
+    "postal_code": "22864"
   },
   {
     "code": "1214232004",
     "district_code": "121423",
-    "name": "Sisobahili Siwalawa"
+    "name": "Sisobahili Siwalawa",
+    "postal_code": "22864"
   },
   {
     "code": "1214232005",
     "district_code": "121423",
-    "name": "Manawadano"
+    "name": "Manawadano",
+    "postal_code": "22864"
   },
   {
     "code": "1214232006",
     "district_code": "121423",
-    "name": "Talio"
+    "name": "Talio",
+    "postal_code": "22864"
   },
   {
     "code": "1214232007",
     "district_code": "121423",
-    "name": "Anaoma"
+    "name": "Anaoma",
+    "postal_code": "22864"
   },
   {
     "code": "1214232008",
     "district_code": "121423",
-    "name": "Berua Siwalawa"
+    "name": "Berua Siwalawa",
+    "postal_code": "22864"
   },
   {
     "code": "1214232009",
     "district_code": "121423",
-    "name": "Umbuasi Barat"
+    "name": "Umbuasi Barat",
+    "postal_code": "22864"
   },
   {
     "code": "1214232010",
     "district_code": "121423",
-    "name": "Hiligodu"
+    "name": "Hiligodu",
+    "postal_code": "22864"
   },
   {
     "code": "1214232011",
     "district_code": "121423",
-    "name": "Bukit Burasi"
+    "name": "Bukit Burasi",
+    "postal_code": "22864"
   }
 ]

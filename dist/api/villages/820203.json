@@ -2,41 +2,49 @@
   {
     "code": "8202032001",
     "district_code": "820203",
-    "name": "Kapaleo"
+    "name": "Kapaleo",
+    "postal_code": "97859"
   },
   {
     "code": "8202032002",
     "district_code": "820203",
-    "name": "Kacepi"
+    "name": "Kacepi",
+    "postal_code": "97859"
   },
   {
     "code": "8202032003",
     "district_code": "820203",
-    "name": "Sanafi"
+    "name": "Sanafi",
+    "postal_code": "97859"
   },
   {
     "code": "8202032004",
     "district_code": "820203",
-    "name": "Umera"
+    "name": "Umera",
+    "postal_code": "97859"
   },
   {
     "code": "8202032005",
     "district_code": "820203",
-    "name": "Umiyal"
+    "name": "Umiyal",
+    "postal_code": "97859"
   },
   {
     "code": "8202032006",
     "district_code": "820203",
-    "name": "Sonof Kacepo"
+    "name": "Sonof Kacepo",
+    "postal_code": "97859"
   },
   {
     "code": "8202032007",
     "district_code": "820203",
-    "name": "Elfanun"
+    "name": "Elfanun",
+    "postal_code": "97859"
   },
   {
     "code": "8202032008",
     "district_code": "820203",
-    "name": "Yang"
+    "name": "Yang",
+    "postal_code": "97859"
   }
 ]

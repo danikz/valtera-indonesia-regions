@@ -2,21 +2,25 @@
   {
     "code": "5301192001",
     "district_code": "530119",
-    "name": "Oebesi"
+    "name": "Oebesi",
+    "postal_code": "85378"
   },
   {
     "code": "5301192002",
     "district_code": "530119",
-    "name": "Pakubaun"
+    "name": "Pakubaun",
+    "postal_code": "85378"
   },
   {
     "code": "5301192003",
     "district_code": "530119",
-    "name": "Rabeka"
+    "name": "Rabeka",
+    "postal_code": "85378"
   },
   {
     "code": "5301192004",
     "district_code": "530119",
-    "name": "Enoraen"
+    "name": "Enoraen",
+    "postal_code": "85378"
   }
 ]

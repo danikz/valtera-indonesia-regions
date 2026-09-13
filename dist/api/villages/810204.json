@@ -2,51 +2,61 @@
   {
     "code": "8102042001",
     "district_code": "810204",
-    "name": "Weduar"
+    "name": "Weduar",
+    "postal_code": "97632"
   },
   {
     "code": "8102042003",
     "district_code": "810204",
-    "name": "Nerong"
+    "name": "Nerong",
+    "postal_code": "97632"
   },
   {
     "code": "8102042004",
     "district_code": "810204",
-    "name": "Larat"
+    "name": "Larat",
+    "postal_code": "97632"
   },
   {
     "code": "8102042005",
     "district_code": "810204",
-    "name": "Tamangil Nuhuten"
+    "name": "Tamangil Nuhuten",
+    "postal_code": "97632"
   },
   {
     "code": "8102042006",
     "district_code": "810204",
-    "name": "Tamangil Nuhuyanat"
+    "name": "Tamangil Nuhuyanat",
+    "postal_code": "97632"
   },
   {
     "code": "8102042012",
     "district_code": "810204",
-    "name": "Kilwat"
+    "name": "Kilwat",
+    "postal_code": "97632"
   },
   {
     "code": "8102042013",
     "district_code": "810204",
-    "name": "Sather"
+    "name": "Sather",
+    "postal_code": "97632"
   },
   {
     "code": "8102042014",
     "district_code": "810204",
-    "name": "Tutrean"
+    "name": "Tutrean",
+    "postal_code": "97632"
   },
   {
     "code": "8102042015",
     "district_code": "810204",
-    "name": "Ohoirenan"
+    "name": "Ohoirenan",
+    "postal_code": "97632"
   },
   {
     "code": "8102042016",
     "district_code": "810204",
-    "name": "Soindat"
+    "name": "Soindat",
+    "postal_code": "97632"
   }
 ]

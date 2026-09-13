@@ -2,61 +2,73 @@
   {
     "code": "3211202001",
     "district_code": "321120",
-    "name": "Sukamantri"
+    "name": "Sukamantri",
+    "postal_code": "45354"
   },
   {
     "code": "3211202002",
     "district_code": "321120",
-    "name": "Cipanas"
+    "name": "Cipanas",
+    "postal_code": "45354"
   },
   {
     "code": "3211202003",
     "district_code": "321120",
-    "name": "Gunturmekar"
+    "name": "Gunturmekar",
+    "postal_code": "45354"
   },
   {
     "code": "3211202004",
     "district_code": "321120",
-    "name": "Mulyamekar"
+    "name": "Mulyamekar",
+    "postal_code": "45354"
   },
   {
     "code": "3211202005",
     "district_code": "321120",
-    "name": "Banyuasih"
+    "name": "Banyuasih",
+    "postal_code": "45354"
   },
   {
     "code": "3211202006",
     "district_code": "321120",
-    "name": "Kertamekar"
+    "name": "Kertamekar",
+    "postal_code": "45354"
   },
   {
     "code": "3211202007",
     "district_code": "321120",
-    "name": "Kertaharja"
+    "name": "Kertaharja",
+    "postal_code": "45354"
   },
   {
     "code": "3211202008",
     "district_code": "321120",
-    "name": "Cigentur"
+    "name": "Cigentur",
+    "postal_code": "45354"
   },
   {
     "code": "3211202009",
     "district_code": "321120",
-    "name": "Tanjungmekar"
+    "name": "Tanjungmekar",
+    "postal_code": "45354"
   },
   {
     "code": "3211202010",
     "district_code": "321120",
-    "name": "Tanjungmulya"
+    "name": "Tanjungmulya",
+    "postal_code": "45354"
   },
   {
     "code": "3211202011",
     "district_code": "321120",
-    "name": "Boros"
+    "name": "Boros",
+    "postal_code": "45354"
   },
   {
     "code": "3211202012",
     "district_code": "321120",
-    "name": "Awilega"
+    "name": "Awilega",
+    "postal_code": "45354"
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "8272011001",
     "district_code": "827201",
-    "name": "Soasio"
+    "name": "Soasio",
+    "postal_code": "97811"
   },
   {
     "code": "8272011002",
     "district_code": "827201",
-    "name": "Gamtufkange"
+    "name": "Gamtufkange",
+    "postal_code": "97812"
   },
   {
     "code": "8272011003",
     "district_code": "827201",
-    "name": "Indonesiana"
+    "name": "Indonesiana",
+    "postal_code": "97813"
   },
   {
     "code": "8272011005",
     "district_code": "827201",
-    "name": "Seli"
+    "name": "Seli",
+    "postal_code": "97813"
   },
   {
     "code": "8272011006",
     "district_code": "827201",
-    "name": "Soadara"
+    "name": "Soadara",
+    "postal_code": "97813"
   },
   {
     "code": "8272011007",
     "district_code": "827201",
-    "name": "Topo"
+    "name": "Topo",
+    "postal_code": "97813"
   },
   {
     "code": "8272011008",
     "district_code": "827201",
-    "name": "Gurabunga"
+    "name": "Gurabunga",
+    "postal_code": "97813"
   },
   {
     "code": "8272011012",
     "district_code": "827201",
-    "name": "Goto"
+    "name": "Goto",
+    "postal_code": "97813"
   },
   {
     "code": "8272011013",
     "district_code": "827201",
-    "name": "Tomagoba"
+    "name": "Tomagoba",
+    "postal_code": "97813"
   },
   {
     "code": "8272011014",
     "district_code": "827201",
-    "name": "Folarora"
+    "name": "Folarora",
+    "postal_code": "97813"
   },
   {
     "code": "8272011015",
     "district_code": "827201",
-    "name": "Topo Tiga"
+    "name": "Topo Tiga",
+    "postal_code": "97813"
   },
   {
     "code": "8272011016",
     "district_code": "827201",
-    "name": "Tambula"
+    "name": "Tambula",
+    "postal_code": "97813"
   },
   {
     "code": "8272011017",
     "district_code": "827201",
-    "name": "Tuguwaji"
+    "name": "Tuguwaji",
+    "postal_code": "97813"
   }
 ]

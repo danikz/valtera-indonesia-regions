@@ -2,31 +2,37 @@
   {
     "code": "1371101001",
     "district_code": "137110",
-    "name": "Surau Gadang"
+    "name": "Surau Gadang",
+    "postal_code": "25146"
   },
   {
     "code": "1371101002",
     "district_code": "137110",
-    "name": "Kampung Olo"
+    "name": "Kampung Olo",
+    "postal_code": "25143"
   },
   {
     "code": "1371101003",
     "district_code": "137110",
-    "name": "Kurao Pagang"
+    "name": "Kurao Pagang",
+    "postal_code": "25147"
   },
   {
     "code": "1371101004",
     "district_code": "137110",
-    "name": "Gurun Laweh"
+    "name": "Gurun Laweh",
+    "postal_code": "25145"
   },
   {
     "code": "1371101005",
     "district_code": "137110",
-    "name": "Tabing Banda Gadang"
+    "name": "Tabing Banda Gadang",
+    "postal_code": "25144"
   },
   {
     "code": "1371101006",
     "district_code": "137110",
-    "name": "Kampung Lapai"
+    "name": "Kampung Lapai",
+    "postal_code": "25142"
   }
 ]

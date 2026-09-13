@@ -2,36 +2,43 @@
   {
     "code": "3213212001",
     "district_code": "321321",
-    "name": "Tegalurung"
+    "name": "Tegalurung",
+    "postal_code": "41254"
   },
   {
     "code": "3213212002",
     "district_code": "321321",
-    "name": "Bobos"
+    "name": "Bobos",
+    "postal_code": "41254"
   },
   {
     "code": "3213212003",
     "district_code": "321321",
-    "name": "Legonkulon"
+    "name": "Legonkulon",
+    "postal_code": "41254"
   },
   {
     "code": "3213212004",
     "district_code": "321321",
-    "name": "Mayangan"
+    "name": "Mayangan",
+    "postal_code": "41254"
   },
   {
     "code": "3213212005",
     "district_code": "321321",
-    "name": "Legonwetan"
+    "name": "Legonwetan",
+    "postal_code": "41254"
   },
   {
     "code": "3213212006",
     "district_code": "321321",
-    "name": "Pangarengan"
+    "name": "Pangarengan",
+    "postal_code": "41254"
   },
   {
     "code": "3213212007",
     "district_code": "321321",
-    "name": "Karangmulya"
+    "name": "Karangmulya",
+    "postal_code": "41254"
   }
 ]

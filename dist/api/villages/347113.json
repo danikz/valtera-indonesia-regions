@@ -2,36 +2,43 @@
   {
     "code": "3471131001",
     "district_code": "347113",
-    "name": "Semaki"
+    "name": "Semaki",
+    "postal_code": "55166"
   },
   {
     "code": "3471131002",
     "district_code": "347113",
-    "name": "Muja Muju"
+    "name": "Muja Muju",
+    "postal_code": "55165"
   },
   {
     "code": "3471131003",
     "district_code": "347113",
-    "name": "Tahunan"
+    "name": "Tahunan",
+    "postal_code": "55167"
   },
   {
     "code": "3471131004",
     "district_code": "347113",
-    "name": "Warungboto"
+    "name": "Warungboto",
+    "postal_code": "55164"
   },
   {
     "code": "3471131005",
     "district_code": "347113",
-    "name": "Pandeyan"
+    "name": "Pandeyan",
+    "postal_code": "55161"
   },
   {
     "code": "3471131006",
     "district_code": "347113",
-    "name": "Sorosutan"
+    "name": "Sorosutan",
+    "postal_code": "55162"
   },
   {
     "code": "3471131007",
     "district_code": "347113",
-    "name": "Giwangan"
+    "name": "Giwangan",
+    "postal_code": "55163"
   }
 ]

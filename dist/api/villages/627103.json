@@ -2,21 +2,25 @@
   {
     "code": "6271031001",
     "district_code": "627103",
-    "name": "Palangka"
+    "name": "Palangka",
+    "postal_code": "73112"
   },
   {
     "code": "6271031002",
     "district_code": "627103",
-    "name": "Menteng"
+    "name": "Menteng",
+    "postal_code": "73111"
   },
   {
     "code": "6271031003",
     "district_code": "627103",
-    "name": "Bukit Tunggal"
+    "name": "Bukit Tunggal",
+    "postal_code": "73112"
   },
   {
     "code": "6271031004",
     "district_code": "627103",
-    "name": "Petuk Katimpun"
+    "name": "Petuk Katimpun",
+    "postal_code": "73118"
   }
 ]

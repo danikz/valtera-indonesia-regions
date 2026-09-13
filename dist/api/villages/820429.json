@@ -2,21 +2,25 @@
   {
     "code": "8204292001",
     "district_code": "820429",
-    "name": "Kelo"
+    "name": "Kelo",
+    "postal_code": "97792"
   },
   {
     "code": "8204292002",
     "district_code": "820429",
-    "name": "Sum"
+    "name": "Sum",
+    "postal_code": "97792"
   },
   {
     "code": "8204292003",
     "district_code": "820429",
-    "name": "Susepe"
+    "name": "Susepe",
+    "postal_code": "97792"
   },
   {
     "code": "8204292004",
     "district_code": "820429",
-    "name": "Wooi"
+    "name": "Wooi",
+    "postal_code": "97792"
   }
 ]

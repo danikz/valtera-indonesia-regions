@@ -2,66 +2,79 @@
   {
     "code": "6402131007",
     "district_code": "640213",
-    "name": "Sungai Seluang"
+    "name": "Sungai Seluang",
+    "postal_code": "75271"
   },
   {
     "code": "6402131008",
     "district_code": "640213",
-    "name": "Wonotirto"
+    "name": "Wonotirto",
+    "postal_code": "75276"
   },
   {
     "code": "6402131009",
     "district_code": "640213",
-    "name": "Tanjung Harapan"
+    "name": "Tanjung Harapan",
+    "postal_code": "75276"
   },
   {
     "code": "6402131010",
     "district_code": "640213",
-    "name": "Samboja Kuala"
+    "name": "Samboja Kuala",
+    "postal_code": "75277"
   },
   {
     "code": "6402131011",
     "district_code": "640213",
-    "name": "Sanipah"
+    "name": "Sanipah",
+    "postal_code": "75271"
   },
   {
     "code": "6402131012",
     "district_code": "640213",
-    "name": "Handil Baru"
+    "name": "Handil Baru",
+    "postal_code": "75279"
   },
   {
     "code": "6402131013",
     "district_code": "640213",
-    "name": "Muara Sembilang"
+    "name": "Muara Sembilang",
+    "postal_code": "75279"
   },
   {
     "code": "6402131021",
     "district_code": "640213",
-    "name": "Teluk Pemedas"
+    "name": "Teluk Pemedas",
+    "postal_code": "75271"
   },
   {
     "code": "6402131022",
     "district_code": "640213",
-    "name": "Kampung Lama"
+    "name": "Kampung Lama",
+    "postal_code": "75276"
   },
   {
     "code": "6402131023",
     "district_code": "640213",
-    "name": "Handil Baru Darat"
+    "name": "Handil Baru Darat",
+    "postal_code": "75276"
   },
   {
     "code": "6402132014",
     "district_code": "640213",
-    "name": "Karya Jaya"
+    "name": "Karya Jaya",
+    "postal_code": "75271"
   },
   {
     "code": "6402132016",
     "district_code": "640213",
-    "name": "Bukit Raya"
+    "name": "Bukit Raya",
+    "postal_code": "75271"
   },
   {
     "code": "6402132019",
     "district_code": "640213",
-    "name": "Beringin Agung"
+    "name": "Beringin Agung",
+    "postal_code": "75271"
   }
 ]

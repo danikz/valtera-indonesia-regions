@@ -2,36 +2,43 @@
   {
     "code": "7602082001",
     "district_code": "760208",
-    "name": "Bunde"
+    "name": "Bunde",
+    "postal_code": "91563"
   },
   {
     "code": "7602082002",
     "district_code": "760208",
-    "name": "Kalonding"
+    "name": "Kalonding",
+    "postal_code": "91563"
   },
   {
     "code": "7602082003",
     "district_code": "760208",
-    "name": "Tarailu"
+    "name": "Tarailu",
+    "postal_code": "91563"
   },
   {
     "code": "7602082004",
     "district_code": "760208",
-    "name": "Sampaga"
+    "name": "Sampaga",
+    "postal_code": "91563"
   },
   {
     "code": "7602082005",
     "district_code": "760208",
-    "name": "Tanambuah"
+    "name": "Tanambuah",
+    "postal_code": "91563"
   },
   {
     "code": "7602082006",
     "district_code": "760208",
-    "name": "Salubarana"
+    "name": "Salubarana",
+    "postal_code": "91563"
   },
   {
     "code": "7602082007",
     "district_code": "760208",
-    "name": "Losso"
+    "name": "Losso",
+    "postal_code": "91563"
   }
 ]

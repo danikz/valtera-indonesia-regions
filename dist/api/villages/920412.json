@@ -2,41 +2,49 @@
   {
     "code": "9204122001",
     "district_code": "920412",
-    "name": "Sungguer"
+    "name": "Sungguer",
+    "postal_code": ""
   },
   {
     "code": "9204122002",
     "district_code": "920412",
-    "name": "Unggi"
+    "name": "Unggi",
+    "postal_code": ""
   },
   {
     "code": "9204122003",
     "district_code": "920412",
-    "name": "Boldon"
+    "name": "Boldon",
+    "postal_code": ""
   },
   {
     "code": "9204122004",
     "district_code": "920412",
-    "name": "Sesor"
+    "name": "Sesor",
+    "postal_code": ""
   },
   {
     "code": "9204122005",
     "district_code": "920412",
-    "name": "Waigo"
+    "name": "Waigo",
+    "postal_code": ""
   },
   {
     "code": "9204122006",
     "district_code": "920412",
-    "name": "Bagaraga"
+    "name": "Bagaraga",
+    "postal_code": ""
   },
   {
     "code": "9204122007",
     "district_code": "920412",
-    "name": "Wardik"
+    "name": "Wardik",
+    "postal_code": ""
   },
   {
     "code": "9204122008",
     "district_code": "920412",
-    "name": "Wayer"
+    "name": "Wayer",
+    "postal_code": ""
   }
 ]

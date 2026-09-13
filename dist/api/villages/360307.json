@@ -2,51 +2,61 @@
   {
     "code": "3603072001",
     "district_code": "360307",
-    "name": "Kronjo"
+    "name": "Kronjo",
+    "postal_code": "15550"
   },
   {
     "code": "3603072002",
     "district_code": "360307",
-    "name": "Pagenjahan"
+    "name": "Pagenjahan",
+    "postal_code": "15550"
   },
   {
     "code": "3603072006",
     "district_code": "360307",
-    "name": "Pasir"
+    "name": "Pasir",
+    "postal_code": "15550"
   },
   {
     "code": "3603072007",
     "district_code": "360307",
-    "name": "Muncung"
+    "name": "Muncung",
+    "postal_code": "15550"
   },
   {
     "code": "3603072008",
     "district_code": "360307",
-    "name": "Pagedangan Ilir"
+    "name": "Pagedangan Ilir",
+    "postal_code": "15550"
   },
   {
     "code": "3603072009",
     "district_code": "360307",
-    "name": "Pagedangan Udik"
+    "name": "Pagedangan Udik",
+    "postal_code": "15550"
   },
   {
     "code": "3603072010",
     "district_code": "360307",
-    "name": "Pasilian"
+    "name": "Pasilian",
+    "postal_code": "15550"
   },
   {
     "code": "3603072013",
     "district_code": "360307",
-    "name": "Bakung"
+    "name": "Bakung",
+    "postal_code": "15550"
   },
   {
     "code": "3603072015",
     "district_code": "360307",
-    "name": "Blukbuk"
+    "name": "Blukbuk",
+    "postal_code": "15550"
   },
   {
     "code": "3603072017",
     "district_code": "360307",
-    "name": "Cirumpak"
+    "name": "Cirumpak",
+    "postal_code": "15550"
   }
 ]

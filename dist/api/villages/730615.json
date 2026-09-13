@@ -2,41 +2,49 @@
   {
     "code": "7306152001",
     "district_code": "730615",
-    "name": "Julumate'ne"
+    "name": "Julumate'ne",
+    "postal_code": "92176"
   },
   {
     "code": "7306152002",
     "district_code": "730615",
-    "name": "Bontolempangang"
+    "name": "Bontolempangang",
+    "postal_code": "92176"
   },
   {
     "code": "7306152003",
     "district_code": "730615",
-    "name": "Lassa-Lassa"
+    "name": "Lassa-Lassa",
+    "postal_code": "92176"
   },
   {
     "code": "7306152004",
     "district_code": "730615",
-    "name": "Bontoloe"
+    "name": "Bontoloe",
+    "postal_code": "92176"
   },
   {
     "code": "7306152005",
     "district_code": "730615",
-    "name": "Pa'ladingang"
+    "name": "Pa'ladingang",
+    "postal_code": "92176"
   },
   {
     "code": "7306152006",
     "district_code": "730615",
-    "name": "Paranglompoa"
+    "name": "Paranglompoa",
+    "postal_code": "92176"
   },
   {
     "code": "7306152007",
     "district_code": "730615",
-    "name": "Bontotangnga"
+    "name": "Bontotangnga",
+    "postal_code": "92176"
   },
   {
     "code": "7306152008",
     "district_code": "730615",
-    "name": "Ulujangang"
+    "name": "Ulujangang",
+    "postal_code": "92176"
   }
 ]

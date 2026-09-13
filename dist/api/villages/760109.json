@@ -2,21 +2,25 @@
   {
     "code": "7601092001",
     "district_code": "760109",
-    "name": "Malei"
+    "name": "Malei",
+    "postal_code": "91570"
   },
   {
     "code": "7601092002",
     "district_code": "760109",
-    "name": "Pedanda"
+    "name": "Pedanda",
+    "postal_code": "91570"
   },
   {
     "code": "7601092003",
     "district_code": "760109",
-    "name": "Batu Oge"
+    "name": "Batu Oge",
+    "postal_code": "91570"
   },
   {
     "code": "7601092004",
     "district_code": "760109",
-    "name": "Martasari"
+    "name": "Martasari",
+    "postal_code": "91570"
   }
 ]

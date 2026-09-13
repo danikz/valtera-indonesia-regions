@@ -2,46 +2,55 @@
   {
     "code": "6502082001",
     "district_code": "650208",
-    "name": "Long Bila"
+    "name": "Long Bila",
+    "postal_code": "77554"
   },
   {
     "code": "6502082002",
     "district_code": "650208",
-    "name": "Long Kenipe"
+    "name": "Long Kenipe",
+    "postal_code": "77554"
   },
   {
     "code": "6502082003",
     "district_code": "650208",
-    "name": "Punan Bengalun"
+    "name": "Punan Bengalun",
+    "postal_code": "77554"
   },
   {
     "code": "6502082004",
     "district_code": "650208",
-    "name": "Sesua"
+    "name": "Sesua",
+    "postal_code": "77554"
   },
   {
     "code": "6502082005",
     "district_code": "650208",
-    "name": "Sentaban"
+    "name": "Sentaban",
+    "postal_code": "77554"
   },
   {
     "code": "6502082006",
     "district_code": "650208",
-    "name": "Tanjung Lapang"
+    "name": "Tanjung Lapang",
+    "postal_code": "77554"
   },
   {
     "code": "6502082007",
     "district_code": "650208",
-    "name": "Taras"
+    "name": "Taras",
+    "postal_code": "77554"
   },
   {
     "code": "6502082008",
     "district_code": "650208",
-    "name": "Kuala Lapang"
+    "name": "Kuala Lapang",
+    "postal_code": "77554"
   },
   {
     "code": "6502082009",
     "district_code": "650208",
-    "name": "Sempayang"
+    "name": "Sempayang",
+    "postal_code": "77554"
   }
 ]

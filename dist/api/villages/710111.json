@@ -2,81 +2,97 @@
   {
     "code": "7101112001",
     "district_code": "710111",
-    "name": "Tumokang Baru"
+    "name": "Tumokang Baru",
+    "postal_code": "95734"
   },
   {
     "code": "7101112002",
     "district_code": "710111",
-    "name": "Mopugad Utara"
+    "name": "Mopugad Utara",
+    "postal_code": "95734"
   },
   {
     "code": "7101112003",
     "district_code": "710111",
-    "name": "Mopugad Selatan"
+    "name": "Mopugad Selatan",
+    "postal_code": "95734"
   },
   {
     "code": "7101112004",
     "district_code": "710111",
-    "name": "Mopuya Utara"
+    "name": "Mopuya Utara",
+    "postal_code": "95734"
   },
   {
     "code": "7101112005",
     "district_code": "710111",
-    "name": "Mopuya Selatan"
+    "name": "Mopuya Selatan",
+    "postal_code": "95734"
   },
   {
     "code": "7101112007",
     "district_code": "710111",
-    "name": "Dondomon"
+    "name": "Dondomon",
+    "postal_code": "95734"
   },
   {
     "code": "7101112014",
     "district_code": "710111",
-    "name": "Mopugad Utara Satu"
+    "name": "Mopugad Utara Satu",
+    "postal_code": "95734"
   },
   {
     "code": "7101112015",
     "district_code": "710111",
-    "name": "Mopugad Utara Dua"
+    "name": "Mopugad Utara Dua",
+    "postal_code": "95734"
   },
   {
     "code": "7101112016",
     "district_code": "710111",
-    "name": "Mopugad Selatan Satu"
+    "name": "Mopugad Selatan Satu",
+    "postal_code": "95734"
   },
   {
     "code": "7101112017",
     "district_code": "710111",
-    "name": "Mopuya Utara Satu"
+    "name": "Mopuya Utara Satu",
+    "postal_code": "95734"
   },
   {
     "code": "7101112018",
     "district_code": "710111",
-    "name": "Mopuya Utara Dua"
+    "name": "Mopuya Utara Dua",
+    "postal_code": "95734"
   },
   {
     "code": "7101112019",
     "district_code": "710111",
-    "name": "Mopuya Selatan Satu"
+    "name": "Mopuya Selatan Satu",
+    "postal_code": "95734"
   },
   {
     "code": "7101112020",
     "district_code": "710111",
-    "name": "Mopuya Selatan Dua"
+    "name": "Mopuya Selatan Dua",
+    "postal_code": "95734"
   },
   {
     "code": "7101112024",
     "district_code": "710111",
-    "name": "Dondomon Utara"
+    "name": "Dondomon Utara",
+    "postal_code": "95734"
   },
   {
     "code": "7101112025",
     "district_code": "710111",
-    "name": "Dondomon Selatan"
+    "name": "Dondomon Selatan",
+    "postal_code": "95734"
   },
   {
     "code": "7101112026",
     "district_code": "710111",
-    "name": "Tumokang Timur"
+    "name": "Tumokang Timur",
+    "postal_code": "95734"
   }
 ]

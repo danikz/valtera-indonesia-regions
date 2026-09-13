@@ -2,36 +2,43 @@
   {
     "code": "9301142001",
     "district_code": "930114",
-    "name": "Kumbe"
+    "name": "Kumbe",
+    "postal_code": "99647"
   },
   {
     "code": "9301142002",
     "district_code": "930114",
-    "name": "Onggari"
+    "name": "Onggari",
+    "postal_code": "99647"
   },
   {
     "code": "9301142003",
     "district_code": "930114",
-    "name": "Rawa Sari"
+    "name": "Rawa Sari",
+    "postal_code": "99647"
   },
   {
     "code": "9301142004",
     "district_code": "930114",
-    "name": "Padang Raharja"
+    "name": "Padang Raharja",
+    "postal_code": "99647"
   },
   {
     "code": "9301142005",
     "district_code": "930114",
-    "name": "Kaiburse"
+    "name": "Kaiburse",
+    "postal_code": "99647"
   },
   {
     "code": "9301142006",
     "district_code": "930114",
-    "name": "Domande"
+    "name": "Domande",
+    "postal_code": "99647"
   },
   {
     "code": "9301142007",
     "district_code": "930114",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "99647"
   }
 ]

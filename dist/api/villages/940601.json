@@ -2,41 +2,49 @@
   {
     "code": "9406012001",
     "district_code": "940601",
-    "name": "Ikebo"
+    "name": "Ikebo",
+    "postal_code": "98882"
   },
   {
     "code": "9406012002",
     "district_code": "940601",
-    "name": "Mauwa"
+    "name": "Mauwa",
+    "postal_code": "98882"
   },
   {
     "code": "9406012003",
     "district_code": "940601",
-    "name": "Ekemanida"
+    "name": "Ekemanida",
+    "postal_code": "98882"
   },
   {
     "code": "9406012004",
     "district_code": "940601",
-    "name": "Bukapa"
+    "name": "Bukapa",
+    "postal_code": "98882"
   },
   {
     "code": "9406012005",
     "district_code": "940601",
-    "name": "Kimupugi"
+    "name": "Kimupugi",
+    "postal_code": "98882"
   },
   {
     "code": "9406012006",
     "district_code": "940601",
-    "name": "Dikiyouwo"
+    "name": "Dikiyouwo",
+    "postal_code": "98882"
   },
   {
     "code": "9406012007",
     "district_code": "940601",
-    "name": "Idakotu"
+    "name": "Idakotu",
+    "postal_code": "98882"
   },
   {
     "code": "9406012008",
     "district_code": "940601",
-    "name": "Putapa"
+    "name": "Putapa",
+    "postal_code": "98882"
   }
 ]

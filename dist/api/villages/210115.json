@@ -2,26 +2,31 @@
   {
     "code": "2101151003",
     "district_code": "210115",
-    "name": "Teluk Lobam"
+    "name": "Teluk Lobam",
+    "postal_code": "29153"
   },
   {
     "code": "2101151005",
     "district_code": "210115",
-    "name": "Tanjung Permai"
+    "name": "Tanjung Permai",
+    "postal_code": "29153"
   },
   {
     "code": "2101152001",
     "district_code": "210115",
-    "name": "Busung"
+    "name": "Busung",
+    "postal_code": "29153"
   },
   {
     "code": "2101152002",
     "district_code": "210115",
-    "name": "Teluk Sasah"
+    "name": "Teluk Sasah",
+    "postal_code": "29153"
   },
   {
     "code": "2101152004",
     "district_code": "210115",
-    "name": "Kuala Sempang"
+    "name": "Kuala Sempang",
+    "postal_code": "29153"
   }
 ]

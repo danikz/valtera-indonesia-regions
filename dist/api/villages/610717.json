@@ -2,21 +2,25 @@
   {
     "code": "6107172001",
     "district_code": "610717",
-    "name": "Sinar Tebudak"
+    "name": "Sinar Tebudak",
+    "postal_code": "79250"
   },
   {
     "code": "6107172002",
     "district_code": "610717",
-    "name": "Kamuh"
+    "name": "Kamuh",
+    "postal_code": "79250"
   },
   {
     "code": "6107172003",
     "district_code": "610717",
-    "name": "Bengkilu"
+    "name": "Bengkilu",
+    "postal_code": "79250"
   },
   {
     "code": "6107172004",
     "district_code": "610717",
-    "name": "Pisak"
+    "name": "Pisak",
+    "postal_code": "79250"
   }
 ]

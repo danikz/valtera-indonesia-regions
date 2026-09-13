@@ -2,56 +2,67 @@
   {
     "code": "3602162004",
     "district_code": "360216",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "42397"
   },
   {
     "code": "3602162006",
     "district_code": "360216",
-    "name": "Cipalabuh"
+    "name": "Cipalabuh",
+    "postal_code": "42397"
   },
   {
     "code": "3602162007",
     "district_code": "360216",
-    "name": "Cijaku"
+    "name": "Cijaku",
+    "postal_code": "42397"
   },
   {
     "code": "3602162008",
     "district_code": "360216",
-    "name": "Cibeureum"
+    "name": "Cibeureum",
+    "postal_code": "42397"
   },
   {
     "code": "3602162012",
     "district_code": "360216",
-    "name": "Ciapus"
+    "name": "Ciapus",
+    "postal_code": "42397"
   },
   {
     "code": "3602162013",
     "district_code": "360216",
-    "name": "Kandangsapi"
+    "name": "Kandangsapi",
+    "postal_code": "42397"
   },
   {
     "code": "3602162014",
     "district_code": "360216",
-    "name": "Cihujan"
+    "name": "Cihujan",
+    "postal_code": "42397"
   },
   {
     "code": "3602162015",
     "district_code": "360216",
-    "name": "Cimenga"
+    "name": "Cimenga",
+    "postal_code": "42397"
   },
   {
     "code": "3602162016",
     "district_code": "360216",
-    "name": "Kapunduhan"
+    "name": "Kapunduhan",
+    "postal_code": "42397"
   },
   {
     "code": "3602162017",
     "district_code": "360216",
-    "name": "Sukasenang"
+    "name": "Sukasenang",
+    "postal_code": "42397"
   },
   {
     "code": "3602162018",
     "district_code": "360216",
-    "name": "Cikaratuan"
+    "name": "Cikaratuan",
+    "postal_code": ""
   }
 ]

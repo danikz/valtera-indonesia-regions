@@ -2,66 +2,79 @@
   {
     "code": "3328012001",
     "district_code": "332801",
-    "name": "Prupuk Selatan"
+    "name": "Prupuk Selatan",
+    "postal_code": "52463"
   },
   {
     "code": "3328012002",
     "district_code": "332801",
-    "name": "Kaligayam"
+    "name": "Kaligayam",
+    "postal_code": "52463"
   },
   {
     "code": "3328012003",
     "district_code": "332801",
-    "name": "Dukuh Tengah"
+    "name": "Dukuh Tengah",
+    "postal_code": "52463"
   },
   {
     "code": "3328012004",
     "district_code": "332801",
-    "name": "Wanasari"
+    "name": "Wanasari",
+    "postal_code": "52463"
   },
   {
     "code": "3328012005",
     "district_code": "332801",
-    "name": "Danaraja"
+    "name": "Danaraja",
+    "postal_code": "52463"
   },
   {
     "code": "3328012006",
     "district_code": "332801",
-    "name": "Jembayat"
+    "name": "Jembayat",
+    "postal_code": "52463"
   },
   {
     "code": "3328012007",
     "district_code": "332801",
-    "name": "Margasari"
+    "name": "Margasari",
+    "postal_code": "52463"
   },
   {
     "code": "3328012008",
     "district_code": "332801",
-    "name": "Pakulaut"
+    "name": "Pakulaut",
+    "postal_code": "52463"
   },
   {
     "code": "3328012009",
     "district_code": "332801",
-    "name": "Karangdawa"
+    "name": "Karangdawa",
+    "postal_code": "52463"
   },
   {
     "code": "3328012010",
     "district_code": "332801",
-    "name": "Kalisalak"
+    "name": "Kalisalak",
+    "postal_code": "52463"
   },
   {
     "code": "3328012011",
     "district_code": "332801",
-    "name": "Jatilaba"
+    "name": "Jatilaba",
+    "postal_code": "52463"
   },
   {
     "code": "3328012012",
     "district_code": "332801",
-    "name": "Prupuk Utara"
+    "name": "Prupuk Utara",
+    "postal_code": "52463"
   },
   {
     "code": "3328012013",
     "district_code": "332801",
-    "name": "Marga Ayu"
+    "name": "Marga Ayu",
+    "postal_code": "52463"
   }
 ]

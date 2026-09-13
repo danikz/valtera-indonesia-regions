@@ -2,26 +2,31 @@
   {
     "code": "8104142001",
     "district_code": "810414",
-    "name": "Kaiely"
+    "name": "Kaiely",
+    "postal_code": "97577"
   },
   {
     "code": "8104142002",
     "district_code": "810414",
-    "name": "Masarete"
+    "name": "Masarete",
+    "postal_code": "97577"
   },
   {
     "code": "8104142003",
     "district_code": "810414",
-    "name": "Waelapia"
+    "name": "Waelapia",
+    "postal_code": "97577"
   },
   {
     "code": "8104142004",
     "district_code": "810414",
-    "name": "Kaki Air"
+    "name": "Kaki Air",
+    "postal_code": "97577"
   },
   {
     "code": "8104142005",
     "district_code": "810414",
-    "name": "Seith"
+    "name": "Seith",
+    "postal_code": "97577"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "1507021001",
     "district_code": "150702",
-    "name": "Nipah Panjang I"
+    "name": "Nipah Panjang I",
+    "postal_code": "36771"
   },
   {
     "code": "1507021002",
     "district_code": "150702",
-    "name": "Nipah Panjang II"
+    "name": "Nipah Panjang II",
+    "postal_code": "36771"
   },
   {
     "code": "1507022003",
     "district_code": "150702",
-    "name": "Simpang Jelita"
+    "name": "Simpang Jelita",
+    "postal_code": "36771"
   },
   {
     "code": "1507022004",
     "district_code": "150702",
-    "name": "Simpang Datuk"
+    "name": "Simpang Datuk",
+    "postal_code": "36771"
   },
   {
     "code": "1507022005",
     "district_code": "150702",
-    "name": "Teluk Kijing"
+    "name": "Teluk Kijing",
+    "postal_code": "36771"
   },
   {
     "code": "1507022006",
     "district_code": "150702",
-    "name": "Sungai Raya"
+    "name": "Sungai Raya",
+    "postal_code": "36771"
   },
   {
     "code": "1507022007",
     "district_code": "150702",
-    "name": "Pemusiran"
+    "name": "Pemusiran",
+    "postal_code": "36771"
   },
   {
     "code": "1507022008",
     "district_code": "150702",
-    "name": "Sungai Tering"
+    "name": "Sungai Tering",
+    "postal_code": "36771"
   },
   {
     "code": "1507022009",
     "district_code": "150702",
-    "name": "Sungai Jeruk"
+    "name": "Sungai Jeruk",
+    "postal_code": "36771"
   },
   {
     "code": "1507022010",
     "district_code": "150702",
-    "name": "Bunga Tanjung"
+    "name": "Bunga Tanjung",
+    "postal_code": "36771"
   }
 ]

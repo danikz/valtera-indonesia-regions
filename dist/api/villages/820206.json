@@ -2,31 +2,37 @@
   {
     "code": "8202062001",
     "district_code": "820206",
-    "name": "Gemia"
+    "name": "Gemia",
+    "postal_code": "97858"
   },
   {
     "code": "8202062002",
     "district_code": "820206",
-    "name": "Tepeleo"
+    "name": "Tepeleo",
+    "postal_code": "97858"
   },
   {
     "code": "8202062006",
     "district_code": "820206",
-    "name": "Bilifitu"
+    "name": "Bilifitu",
+    "postal_code": "97858"
   },
   {
     "code": "8202062007",
     "district_code": "820206",
-    "name": "Tepeleo Batudua"
+    "name": "Tepeleo Batudua",
+    "postal_code": "97858"
   },
   {
     "code": "8202062008",
     "district_code": "820206",
-    "name": "Pantura Jaya"
+    "name": "Pantura Jaya",
+    "postal_code": "97858"
   },
   {
     "code": "8202062011",
     "district_code": "820206",
-    "name": "Maliforo"
+    "name": "Maliforo",
+    "postal_code": "97858"
   }
 ]

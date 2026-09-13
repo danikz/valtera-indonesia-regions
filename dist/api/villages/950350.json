@@ -2,36 +2,43 @@
   {
     "code": "9503502001",
     "district_code": "950350",
-    "name": "Kayo"
+    "name": "Kayo",
+    "postal_code": "99704"
   },
   {
     "code": "9503502002",
     "district_code": "950350",
-    "name": "Molama"
+    "name": "Molama",
+    "postal_code": "99704"
   },
   {
     "code": "9503502003",
     "district_code": "950350",
-    "name": "Sebu"
+    "name": "Sebu",
+    "postal_code": "99704"
   },
   {
     "code": "9503502004",
     "district_code": "950350",
-    "name": "Walet"
+    "name": "Walet",
+    "postal_code": "99704"
   },
   {
     "code": "9503502005",
     "district_code": "950350",
-    "name": "Hombesaloma"
+    "name": "Hombesaloma",
+    "postal_code": "99704"
   },
   {
     "code": "9503502006",
     "district_code": "950350",
-    "name": "Alhai"
+    "name": "Alhai",
+    "postal_code": "99704"
   },
   {
     "code": "9503502007",
     "district_code": "950350",
-    "name": "Uase"
+    "name": "Uase",
+    "postal_code": "99704"
   }
 ]

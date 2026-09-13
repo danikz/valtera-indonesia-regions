@@ -2,41 +2,49 @@
   {
     "code": "7302031001",
     "district_code": "730203",
-    "name": "Tanahl Lemo"
+    "name": "Tanahl Lemo",
+    "postal_code": "92571"
   },
   {
     "code": "7302031002",
     "district_code": "730203",
-    "name": "Sapo Lohe"
+    "name": "Sapo Lohe",
+    "postal_code": "92571"
   },
   {
     "code": "7302031003",
     "district_code": "730203",
-    "name": "Benjala"
+    "name": "Benjala",
+    "postal_code": "92571"
   },
   {
     "code": "7302031004",
     "district_code": "730203",
-    "name": "Tanah Beru"
+    "name": "Tanah Beru",
+    "postal_code": "92571"
   },
   {
     "code": "7302032005",
     "district_code": "730203",
-    "name": "Bira"
+    "name": "Bira",
+    "postal_code": "92571"
   },
   {
     "code": "7302032006",
     "district_code": "730203",
-    "name": "Ara"
+    "name": "Ara",
+    "postal_code": "92571"
   },
   {
     "code": "7302032007",
     "district_code": "730203",
-    "name": "Darubiah"
+    "name": "Darubiah",
+    "postal_code": "92571"
   },
   {
     "code": "7302032008",
     "district_code": "730203",
-    "name": "Lembanna"
+    "name": "Lembanna",
+    "postal_code": "92571"
   }
 ]

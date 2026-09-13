@@ -2,31 +2,37 @@
   {
     "code": "6210071005",
     "district_code": "621007",
-    "name": "Kampuri"
+    "name": "Kampuri",
+    "postal_code": "74571"
   },
   {
     "code": "6210072001",
     "district_code": "621007",
-    "name": "Tuyun"
+    "name": "Tuyun",
+    "postal_code": "74571"
   },
   {
     "code": "6210072002",
     "district_code": "621007",
-    "name": "Tumbang Empas"
+    "name": "Tumbang Empas",
+    "postal_code": "74571"
   },
   {
     "code": "6210072003",
     "district_code": "621007",
-    "name": "Rangan Tate"
+    "name": "Rangan Tate",
+    "postal_code": "74571"
   },
   {
     "code": "6210072004",
     "district_code": "621007",
-    "name": "Dahian Tambuk"
+    "name": "Dahian Tambuk",
+    "postal_code": "74571"
   },
   {
     "code": "6210072006",
     "district_code": "621007",
-    "name": "Tumbang Danau"
+    "name": "Tumbang Danau",
+    "postal_code": "74571"
   }
 ]

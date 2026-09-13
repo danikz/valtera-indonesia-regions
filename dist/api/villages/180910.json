@@ -2,51 +2,61 @@
   {
     "code": "1809102001",
     "district_code": "180910",
-    "name": "Batu Menyan"
+    "name": "Batu Menyan",
+    "postal_code": "35450"
   },
   {
     "code": "1809102002",
     "district_code": "180910",
-    "name": "Cilimus"
+    "name": "Cilimus",
+    "postal_code": "35450"
   },
   {
     "code": "1809102003",
     "district_code": "180910",
-    "name": "Gebang"
+    "name": "Gebang",
+    "postal_code": "35450"
   },
   {
     "code": "1809102004",
     "district_code": "180910",
-    "name": "Hanura"
+    "name": "Hanura",
+    "postal_code": "35450"
   },
   {
     "code": "1809102005",
     "district_code": "180910",
-    "name": "Hurun"
+    "name": "Hurun",
+    "postal_code": "35450"
   },
   {
     "code": "1809102006",
     "district_code": "180910",
-    "name": "Munca"
+    "name": "Munca",
+    "postal_code": "35450"
   },
   {
     "code": "1809102007",
     "district_code": "180910",
-    "name": "Sidodadi"
+    "name": "Sidodadi",
+    "postal_code": "35450"
   },
   {
     "code": "1809102008",
     "district_code": "180910",
-    "name": "Sukajaya Lempasing"
+    "name": "Sukajaya Lempasing",
+    "postal_code": "35450"
   },
   {
     "code": "1809102009",
     "district_code": "180910",
-    "name": "Talang Mulya"
+    "name": "Talang Mulya",
+    "postal_code": "35450"
   },
   {
     "code": "1809102010",
     "district_code": "180910",
-    "name": "Tanjung Agung"
+    "name": "Tanjung Agung",
+    "postal_code": "35450"
   }
 ]

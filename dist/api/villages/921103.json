@@ -2,36 +2,43 @@
   {
     "code": "9211032001",
     "district_code": "921103",
-    "name": "Wama"
+    "name": "Wama",
+    "postal_code": "98323"
   },
   {
     "code": "9211032002",
     "district_code": "921103",
-    "name": "Disi"
+    "name": "Disi",
+    "postal_code": "98323"
   },
   {
     "code": "9211032003",
     "district_code": "921103",
-    "name": "Hiyou"
+    "name": "Hiyou",
+    "postal_code": "98323"
   },
   {
     "code": "9211032004",
     "district_code": "921103",
-    "name": "Sesum"
+    "name": "Sesum",
+    "postal_code": "98323"
   },
   {
     "code": "9211032005",
     "district_code": "921103",
-    "name": "Benyas"
+    "name": "Benyas",
+    "postal_code": "98323"
   },
   {
     "code": "9211032006",
     "district_code": "921103",
-    "name": "Aryawenmoho"
+    "name": "Aryawenmoho",
+    "postal_code": "98323"
   },
   {
     "code": "9211032007",
     "district_code": "921103",
-    "name": "Neney"
+    "name": "Neney",
+    "postal_code": "98323"
   }
 ]

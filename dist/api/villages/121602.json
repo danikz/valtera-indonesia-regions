@@ -2,66 +2,79 @@
   {
     "code": "1216022001",
     "district_code": "121602",
-    "name": "Parsingguran I"
+    "name": "Parsingguran I",
+    "postal_code": "22457"
   },
   {
     "code": "1216022002",
     "district_code": "121602",
-    "name": "Hutapaung"
+    "name": "Hutapaung",
+    "postal_code": "22457"
   },
   {
     "code": "1216022003",
     "district_code": "121602",
-    "name": "Pollung"
+    "name": "Pollung",
+    "postal_code": "22457"
   },
   {
     "code": "1216022004",
     "district_code": "121602",
-    "name": "Hutajulu"
+    "name": "Hutajulu",
+    "postal_code": "22457"
   },
   {
     "code": "1216022005",
     "district_code": "121602",
-    "name": "Ria Ria"
+    "name": "Ria Ria",
+    "postal_code": "22457"
   },
   {
     "code": "1216022006",
     "district_code": "121602",
-    "name": "Parsingguran II"
+    "name": "Parsingguran II",
+    "postal_code": "22457"
   },
   {
     "code": "1216022007",
     "district_code": "121602",
-    "name": "Pansurbatu"
+    "name": "Pansurbatu",
+    "postal_code": "22457"
   },
   {
     "code": "1216022008",
     "district_code": "121602",
-    "name": "Aek Nauli I"
+    "name": "Aek Nauli I",
+    "postal_code": "22457"
   },
   {
     "code": "1216022009",
     "district_code": "121602",
-    "name": "Aek Nauli II"
+    "name": "Aek Nauli II",
+    "postal_code": "22457"
   },
   {
     "code": "1216022010",
     "district_code": "121602",
-    "name": "Pandumaan"
+    "name": "Pandumaan",
+    "postal_code": "22457"
   },
   {
     "code": "1216022011",
     "district_code": "121602",
-    "name": "Sipituhuta"
+    "name": "Sipituhuta",
+    "postal_code": "22457"
   },
   {
     "code": "1216022012",
     "district_code": "121602",
-    "name": "Pardomuan"
+    "name": "Pardomuan",
+    "postal_code": "22457"
   },
   {
     "code": "1216022013",
     "district_code": "121602",
-    "name": "Hutapaung Utara"
+    "name": "Hutapaung Utara",
+    "postal_code": "22457"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "5207082001",
     "district_code": "520708",
-    "name": "Maluk"
+    "name": "Maluk",
+    "postal_code": "84459"
   },
   {
     "code": "5207082002",
     "district_code": "520708",
-    "name": "Benete"
+    "name": "Benete",
+    "postal_code": "84459"
   },
   {
     "code": "5207082003",
     "district_code": "520708",
-    "name": "Bukit Damai"
+    "name": "Bukit Damai",
+    "postal_code": "84459"
   },
   {
     "code": "5207082004",
     "district_code": "520708",
-    "name": "Mantun"
+    "name": "Mantun",
+    "postal_code": "84459"
   },
   {
     "code": "5207082005",
     "district_code": "520708",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "84459"
   }
 ]

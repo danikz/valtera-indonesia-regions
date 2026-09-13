@@ -2,46 +2,55 @@
   {
     "code": "1113072001",
     "district_code": "111307",
-    "name": "Gumpang"
+    "name": "Gumpang",
+    "postal_code": "24658"
   },
   {
     "code": "1113072002",
     "district_code": "111307",
-    "name": "Marpunge Gabungan"
+    "name": "Marpunge Gabungan",
+    "postal_code": "24658"
   },
   {
     "code": "1113072003",
     "district_code": "111307",
-    "name": "Ramung Musara"
+    "name": "Ramung Musara",
+    "postal_code": "24658"
   },
   {
     "code": "1113072004",
     "district_code": "111307",
-    "name": "Meloak Sepakat"
+    "name": "Meloak Sepakat",
+    "postal_code": "24658"
   },
   {
     "code": "1113072005",
     "district_code": "111307",
-    "name": "Kutelengat Sepakat"
+    "name": "Kutelengat Sepakat",
+    "postal_code": "24658"
   },
   {
     "code": "1113072006",
     "district_code": "111307",
-    "name": "Singah Mulo"
+    "name": "Singah Mulo",
+    "postal_code": "24658"
   },
   {
     "code": "1113072007",
     "district_code": "111307",
-    "name": "Uning Pune"
+    "name": "Uning Pune",
+    "postal_code": "24658"
   },
   {
     "code": "1113072008",
     "district_code": "111307",
-    "name": "Gumpang Lempuh"
+    "name": "Gumpang Lempuh",
+    "postal_code": "24658"
   },
   {
     "code": "1113072009",
     "district_code": "111307",
-    "name": "Putri Betung"
+    "name": "Putri Betung",
+    "postal_code": "24658"
   }
 ]

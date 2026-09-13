@@ -2,41 +2,49 @@
   {
     "code": "3212192001",
     "district_code": "321219",
-    "name": "Arahan Kidul"
+    "name": "Arahan Kidul",
+    "postal_code": "45267"
   },
   {
     "code": "3212192002",
     "district_code": "321219",
-    "name": "Arahan Lor"
+    "name": "Arahan Lor",
+    "postal_code": "45267"
   },
   {
     "code": "3212192003",
     "district_code": "321219",
-    "name": "Linggajati"
+    "name": "Linggajati",
+    "postal_code": "45267"
   },
   {
     "code": "3212192004",
     "district_code": "321219",
-    "name": "Cidempet"
+    "name": "Cidempet",
+    "postal_code": "45267"
   },
   {
     "code": "3212192005",
     "district_code": "321219",
-    "name": "Sukadadi"
+    "name": "Sukadadi",
+    "postal_code": "45267"
   },
   {
     "code": "3212192006",
     "district_code": "321219",
-    "name": "Pranggong"
+    "name": "Pranggong",
+    "postal_code": "45267"
   },
   {
     "code": "3212192007",
     "district_code": "321219",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "45267"
   },
   {
     "code": "3212192008",
     "district_code": "321219",
-    "name": "Tawangsari"
+    "name": "Tawangsari",
+    "postal_code": "45267"
   }
 ]

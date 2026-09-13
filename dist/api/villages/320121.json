@@ -2,56 +2,67 @@
   {
     "code": "3201212001",
     "district_code": "320121",
-    "name": "Malasari"
+    "name": "Malasari",
+    "postal_code": "16650"
   },
   {
     "code": "3201212002",
     "district_code": "320121",
-    "name": "Curugbitung"
+    "name": "Curugbitung",
+    "postal_code": "16650"
   },
   {
     "code": "3201212003",
     "district_code": "320121",
-    "name": "Cisarua"
+    "name": "Cisarua",
+    "postal_code": "16650"
   },
   {
     "code": "3201212004",
     "district_code": "320121",
-    "name": "Bantarkaret"
+    "name": "Bantarkaret",
+    "postal_code": "16650"
   },
   {
     "code": "3201212005",
     "district_code": "320121",
-    "name": "Hambaro"
+    "name": "Hambaro",
+    "postal_code": "16650"
   },
   {
     "code": "3201212006",
     "district_code": "320121",
-    "name": "Kalongliud"
+    "name": "Kalongliud",
+    "postal_code": "16650"
   },
   {
     "code": "3201212007",
     "district_code": "320121",
-    "name": "Nanggung"
+    "name": "Nanggung",
+    "postal_code": "16650"
   },
   {
     "code": "3201212008",
     "district_code": "320121",
-    "name": "Parakanmuncang"
+    "name": "Parakanmuncang",
+    "postal_code": "16650"
   },
   {
     "code": "3201212009",
     "district_code": "320121",
-    "name": "Pangkaljaya"
+    "name": "Pangkaljaya",
+    "postal_code": "16650"
   },
   {
     "code": "3201212010",
     "district_code": "320121",
-    "name": "Sukaluyu"
+    "name": "Sukaluyu",
+    "postal_code": "16650"
   },
   {
     "code": "3201212011",
     "district_code": "320121",
-    "name": "Batu Tulis"
+    "name": "Batu Tulis",
+    "postal_code": "16650"
   }
 ]

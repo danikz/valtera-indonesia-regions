@@ -2,41 +2,49 @@
   {
     "code": "7172071001",
     "district_code": "717207",
-    "name": "Bitung Barat Satu"
+    "name": "Bitung Barat Satu",
+    "postal_code": "95511"
   },
   {
     "code": "7172071002",
     "district_code": "717207",
-    "name": "Pakadoodan"
+    "name": "Pakadoodan",
+    "postal_code": "95512"
   },
   {
     "code": "7172071003",
     "district_code": "717207",
-    "name": "Bitung Barat Dua"
+    "name": "Bitung Barat Dua",
+    "postal_code": "95511"
   },
   {
     "code": "7172071004",
     "district_code": "717207",
-    "name": "Bitung Tengah"
+    "name": "Bitung Tengah",
+    "postal_code": "95521"
   },
   {
     "code": "7172071005",
     "district_code": "717207",
-    "name": "Bitung Timur"
+    "name": "Bitung Timur",
+    "postal_code": "95522"
   },
   {
     "code": "7172071006",
     "district_code": "717207",
-    "name": "Kakenturan Satu"
+    "name": "Kakenturan Satu",
+    "postal_code": "95523"
   },
   {
     "code": "7172071007",
     "district_code": "717207",
-    "name": "Kekenturan Dua"
+    "name": "Kekenturan Dua",
+    "postal_code": "95523"
   },
   {
     "code": "7172071008",
     "district_code": "717207",
-    "name": "Pateten Tiga"
+    "name": "Pateten Tiga",
+    "postal_code": "95512"
   }
 ]

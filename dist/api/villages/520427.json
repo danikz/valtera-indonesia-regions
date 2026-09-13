@@ -2,21 +2,25 @@
   {
     "code": "5204272001",
     "district_code": "520427",
-    "name": "Tatebal"
+    "name": "Tatebal",
+    "postal_code": "84370"
   },
   {
     "code": "5204272002",
     "district_code": "520427",
-    "name": "Lenangguar"
+    "name": "Lenangguar",
+    "postal_code": "84370"
   },
   {
     "code": "5204272003",
     "district_code": "520427",
-    "name": "Ledang"
+    "name": "Ledang",
+    "postal_code": "84370"
   },
   {
     "code": "5204272004",
     "district_code": "520427",
-    "name": "Telaga"
+    "name": "Telaga",
+    "postal_code": "84370"
   }
 ]

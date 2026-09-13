@@ -2,36 +2,43 @@
   {
     "code": "5306142001",
     "district_code": "530614",
-    "name": "Lamika"
+    "name": "Lamika",
+    "postal_code": "86219"
   },
   {
     "code": "5306142002",
     "district_code": "530614",
-    "name": "Watotika Ile"
+    "name": "Watotika Ile",
+    "postal_code": "86219"
   },
   {
     "code": "5306142003",
     "district_code": "530614",
-    "name": "Lewokluok"
+    "name": "Lewokluok",
+    "postal_code": "86219"
   },
   {
     "code": "5306142004",
     "district_code": "530614",
-    "name": "Blepanawa"
+    "name": "Blepanawa",
+    "postal_code": "86219"
   },
   {
     "code": "5306142005",
     "district_code": "530614",
-    "name": "Kawalelo"
+    "name": "Kawalelo",
+    "postal_code": "86219"
   },
   {
     "code": "5306142006",
     "district_code": "530614",
-    "name": "Bama"
+    "name": "Bama",
+    "postal_code": "86219"
   },
   {
     "code": "5306142007",
     "district_code": "530614",
-    "name": "Lewomuda"
+    "name": "Lewomuda",
+    "postal_code": "86219"
   }
 ]

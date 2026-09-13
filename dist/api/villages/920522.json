@@ -2,36 +2,43 @@
   {
     "code": "9205222001",
     "district_code": "920522",
-    "name": "Kalobo"
+    "name": "Kalobo",
+    "postal_code": ""
   },
   {
     "code": "9205222002",
     "district_code": "920522",
-    "name": "Sakabu"
+    "name": "Sakabu",
+    "postal_code": ""
   },
   {
     "code": "9205222003",
     "district_code": "920522",
-    "name": "Waibu"
+    "name": "Waibu",
+    "postal_code": ""
   },
   {
     "code": "9205222004",
     "district_code": "920522",
-    "name": "Waijan"
+    "name": "Waijan",
+    "postal_code": ""
   },
   {
     "code": "9205222005",
     "district_code": "920522",
-    "name": "Waimeci"
+    "name": "Waimeci",
+    "postal_code": ""
   },
   {
     "code": "9205222006",
     "district_code": "920522",
-    "name": "Wailabu"
+    "name": "Wailabu",
+    "postal_code": ""
   },
   {
     "code": "9205222007",
     "district_code": "920522",
-    "name": "Wailen"
+    "name": "Wailen",
+    "postal_code": ""
   }
 ]

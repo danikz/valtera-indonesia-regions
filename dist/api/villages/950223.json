@@ -2,46 +2,55 @@
   {
     "code": "9502232001",
     "district_code": "950223",
-    "name": "Oktau"
+    "name": "Oktau",
+    "postal_code": "99423"
   },
   {
     "code": "9502232002",
     "district_code": "950223",
-    "name": "Oktaru"
+    "name": "Oktaru",
+    "postal_code": "99423"
   },
   {
     "code": "9502232003",
     "district_code": "950223",
-    "name": "Okbem"
+    "name": "Okbem",
+    "postal_code": "99423"
   },
   {
     "code": "9502232004",
     "district_code": "950223",
-    "name": "Okngam"
+    "name": "Okngam",
+    "postal_code": "99423"
   },
   {
     "code": "9502232005",
     "district_code": "950223",
-    "name": "Bemhimiku"
+    "name": "Bemhimiku",
+    "postal_code": "99423"
   },
   {
     "code": "9502232006",
     "district_code": "950223",
-    "name": "Bilip Bayo"
+    "name": "Bilip Bayo",
+    "postal_code": "99423"
   },
   {
     "code": "9502232007",
     "district_code": "950223",
-    "name": "Atang Doki"
+    "name": "Atang Doki",
+    "postal_code": "99423"
   },
   {
     "code": "9502232008",
     "district_code": "950223",
-    "name": "Okalut Kumal"
+    "name": "Okalut Kumal",
+    "postal_code": "99423"
   },
   {
     "code": "9502232009",
     "district_code": "950223",
-    "name": "Kaep"
+    "name": "Kaep",
+    "postal_code": "99423"
   }
 ]

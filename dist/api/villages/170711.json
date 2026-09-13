@@ -2,36 +2,43 @@
   {
     "code": "1707112001",
     "district_code": "170711",
-    "name": "Embong"
+    "name": "Embong",
+    "postal_code": "39268"
   },
   {
     "code": "1707112002",
     "district_code": "170711",
-    "name": "Embong I"
+    "name": "Embong I",
+    "postal_code": "39268"
   },
   {
     "code": "1707112003",
     "district_code": "170711",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "39268"
   },
   {
     "code": "1707112004",
     "district_code": "170711",
-    "name": "Kota Agung"
+    "name": "Kota Agung",
+    "postal_code": "39268"
   },
   {
     "code": "1707112005",
     "district_code": "170711",
-    "name": "Lemeu"
+    "name": "Lemeu",
+    "postal_code": "39268"
   },
   {
     "code": "1707112006",
     "district_code": "170711",
-    "name": "Pangkalan"
+    "name": "Pangkalan",
+    "postal_code": "39268"
   },
   {
     "code": "1707112007",
     "district_code": "170711",
-    "name": "Tangua"
+    "name": "Tangua",
+    "postal_code": "39268"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "8204032001",
     "district_code": "820403",
-    "name": "Maffa"
+    "name": "Maffa",
+    "postal_code": "97783"
   },
   {
     "code": "8204032002",
     "district_code": "820403",
-    "name": "Foya"
+    "name": "Foya",
+    "postal_code": "97783"
   },
   {
     "code": "8204032003",
     "district_code": "820403",
-    "name": "Tobaru"
+    "name": "Tobaru",
+    "postal_code": "97783"
   },
   {
     "code": "8204032004",
     "district_code": "820403",
-    "name": "Foya Tobaru"
+    "name": "Foya Tobaru",
+    "postal_code": "97783"
   },
   {
     "code": "8204032005",
     "district_code": "820403",
-    "name": "Lalubi"
+    "name": "Lalubi",
+    "postal_code": "97783"
   },
   {
     "code": "8204032006",
     "district_code": "820403",
-    "name": "Akelamo"
+    "name": "Akelamo",
+    "postal_code": "97783"
   },
   {
     "code": "8204032007",
     "district_code": "820403",
-    "name": "Batonam"
+    "name": "Batonam",
+    "postal_code": "97783"
   },
   {
     "code": "8204032008",
     "district_code": "820403",
-    "name": "Wosi"
+    "name": "Wosi",
+    "postal_code": "97783"
   },
   {
     "code": "8204032014",
     "district_code": "820403",
-    "name": "Sumber Makmur"
+    "name": "Sumber Makmur",
+    "postal_code": "97783"
   },
   {
     "code": "8204032020",
     "district_code": "820403",
-    "name": "Kotalow"
+    "name": "Kotalow",
+    "postal_code": "97783"
   },
   {
     "code": "8204032022",
     "district_code": "820403",
-    "name": "Kebun Raja"
+    "name": "Kebun Raja",
+    "postal_code": "97783"
   },
   {
     "code": "8204032025",
     "district_code": "820403",
-    "name": "Tanjung Jere"
+    "name": "Tanjung Jere",
+    "postal_code": "97783"
   }
 ]

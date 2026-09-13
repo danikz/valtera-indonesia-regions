@@ -2,36 +2,43 @@
   {
     "code": "7504072001",
     "district_code": "750407",
-    "name": "Pancakarsa I"
+    "name": "Pancakarsa I",
+    "postal_code": "96464"
   },
   {
     "code": "7504072002",
     "district_code": "750407",
-    "name": "Pancakarsa II"
+    "name": "Pancakarsa II",
+    "postal_code": "96464"
   },
   {
     "code": "7504072003",
     "district_code": "750407",
-    "name": "Makarti Jaya"
+    "name": "Makarti Jaya",
+    "postal_code": "96464"
   },
   {
     "code": "7504072004",
     "district_code": "750407",
-    "name": "Kalimas"
+    "name": "Kalimas",
+    "postal_code": "96464"
   },
   {
     "code": "7504072005",
     "district_code": "750407",
-    "name": "Malango"
+    "name": "Malango",
+    "postal_code": "96464"
   },
   {
     "code": "7504072006",
     "district_code": "750407",
-    "name": "Puncak Jaya"
+    "name": "Puncak Jaya",
+    "postal_code": "96464"
   },
   {
     "code": "7504072007",
     "district_code": "750407",
-    "name": "Tirto Asri"
+    "name": "Tirto Asri",
+    "postal_code": "96464"
   }
 ]

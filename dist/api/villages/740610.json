@@ -2,41 +2,49 @@
   {
     "code": "7406102001",
     "district_code": "740610",
-    "name": "Tanpabulu"
+    "name": "Tanpabulu",
+    "postal_code": "93777"
   },
   {
     "code": "7406102002",
     "district_code": "740610",
-    "name": "Tanah Poleang"
+    "name": "Tanah Poleang",
+    "postal_code": "93777"
   },
   {
     "code": "7406102003",
     "district_code": "740610",
-    "name": "Karya Baru"
+    "name": "Karya Baru",
+    "postal_code": "93777"
   },
   {
     "code": "7406102004",
     "district_code": "740610",
-    "name": "Toburi"
+    "name": "Toburi",
+    "postal_code": "93777"
   },
   {
     "code": "7406102005",
     "district_code": "740610",
-    "name": "Rompu Rompu"
+    "name": "Rompu Rompu",
+    "postal_code": "93777"
   },
   {
     "code": "7406102006",
     "district_code": "740610",
-    "name": "Pusu Ea"
+    "name": "Pusu Ea",
+    "postal_code": "93777"
   },
   {
     "code": "7406102007",
     "district_code": "740610",
-    "name": "Lawatu Ea"
+    "name": "Lawatu Ea",
+    "postal_code": "93777"
   },
   {
     "code": "7406102008",
     "district_code": "740610",
-    "name": "Wambarema"
+    "name": "Wambarema",
+    "postal_code": "93777"
   }
 ]

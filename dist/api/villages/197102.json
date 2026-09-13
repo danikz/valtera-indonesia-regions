@@ -2,26 +2,31 @@
   {
     "code": "1971021001",
     "district_code": "197102",
-    "name": "Opas Indah"
+    "name": "Opas Indah",
+    "postal_code": "33121"
   },
   {
     "code": "1971021002",
     "district_code": "197102",
-    "name": "Gedung Nasional"
+    "name": "Gedung Nasional",
+    "postal_code": "33127"
   },
   {
     "code": "1971021003",
     "district_code": "197102",
-    "name": "Batin Tikal"
+    "name": "Batin Tikal",
+    "postal_code": "33121"
   },
   {
     "code": "1971021004",
     "district_code": "197102",
-    "name": "Rawa Bangun"
+    "name": "Rawa Bangun",
+    "postal_code": "33121"
   },
   {
     "code": "1971021005",
     "district_code": "197102",
-    "name": "Kejaksaan"
+    "name": "Kejaksaan",
+    "postal_code": "33123"
   }
 ]

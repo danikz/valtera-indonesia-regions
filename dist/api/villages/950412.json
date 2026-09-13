@@ -2,56 +2,67 @@
   {
     "code": "9504122001",
     "district_code": "950412",
-    "name": "Konda"
+    "name": "Konda",
+    "postal_code": "99028"
   },
   {
     "code": "9504122002",
     "district_code": "950412",
-    "name": "Arulo"
+    "name": "Arulo",
+    "postal_code": "99028"
   },
   {
     "code": "9504122003",
     "district_code": "950412",
-    "name": "Mandura"
+    "name": "Mandura",
+    "postal_code": "99423"
   },
   {
     "code": "9504122004",
     "district_code": "950412",
-    "name": "Mowilome"
+    "name": "Mowilome",
+    "postal_code": "99423"
   },
   {
     "code": "9504122005",
     "district_code": "950412",
-    "name": "Arumagi"
+    "name": "Arumagi",
+    "postal_code": "99423"
   },
   {
     "code": "9504122006",
     "district_code": "950412",
-    "name": "Gimo"
+    "name": "Gimo",
+    "postal_code": "99423"
   },
   {
     "code": "9504122007",
     "district_code": "950412",
-    "name": "Silabulo"
+    "name": "Silabulo",
+    "postal_code": "99423"
   },
   {
     "code": "9504122008",
     "district_code": "950412",
-    "name": "Arikoba"
+    "name": "Arikoba",
+    "postal_code": "99423"
   },
   {
     "code": "9504122009",
     "district_code": "950412",
-    "name": "Tingapura"
+    "name": "Tingapura",
+    "postal_code": "99423"
   },
   {
     "code": "9504122010",
     "district_code": "950412",
-    "name": "Ganage"
+    "name": "Ganage",
+    "postal_code": "99028"
   },
   {
     "code": "9504122011",
     "district_code": "950412",
-    "name": "Yawineri"
+    "name": "Yawineri",
+    "postal_code": "99028"
   }
 ]

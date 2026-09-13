@@ -2,21 +2,25 @@
   {
     "code": "5301302001",
     "district_code": "530130",
-    "name": "Fatumonas"
+    "name": "Fatumonas",
+    "postal_code": "85374"
   },
   {
     "code": "5301302002",
     "district_code": "530130",
-    "name": "Binafun"
+    "name": "Binafun",
+    "postal_code": "85374"
   },
   {
     "code": "5301302003",
     "district_code": "530130",
-    "name": "Bitobe"
+    "name": "Bitobe",
+    "postal_code": "85374"
   },
   {
     "code": "5301302004",
     "district_code": "530130",
-    "name": "Bonmuti"
+    "name": "Bonmuti",
+    "postal_code": "85374"
   }
 ]

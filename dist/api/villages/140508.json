@@ -2,51 +2,61 @@
   {
     "code": "1405081011",
     "district_code": "140508",
-    "name": "Pangkalan Bunut Terap"
+    "name": "Pangkalan Bunut Terap",
+    "postal_code": "28386"
   },
   {
     "code": "1405082001",
     "district_code": "140508",
-    "name": "Petani"
+    "name": "Petani",
+    "postal_code": "28386"
   },
   {
     "code": "1405082002",
     "district_code": "140508",
-    "name": "Merbau"
+    "name": "Merbau",
+    "postal_code": "28386"
   },
   {
     "code": "1405082003",
     "district_code": "140508",
-    "name": "Sungai Buluh"
+    "name": "Sungai Buluh",
+    "postal_code": "28386"
   },
   {
     "code": "1405082008",
     "district_code": "140508",
-    "name": "Lubuk Mas"
+    "name": "Lubuk Mas",
+    "postal_code": "28386"
   },
   {
     "code": "1405082009",
     "district_code": "140508",
-    "name": "Balam Merah"
+    "name": "Balam Merah",
+    "postal_code": "28386"
   },
   {
     "code": "1405082010",
     "district_code": "140508",
-    "name": "Bagan Labah"
+    "name": "Bagan Labah",
+    "postal_code": "28386"
   },
   {
     "code": "1405082013",
     "district_code": "140508",
-    "name": "Lubuk Mandian Gajah"
+    "name": "Lubuk Mandian Gajah",
+    "postal_code": "28386"
   },
   {
     "code": "1405082017",
     "district_code": "140508",
-    "name": "Keriung"
+    "name": "Keriung",
+    "postal_code": "28386"
   },
   {
     "code": "1405082018",
     "district_code": "140508",
-    "name": "Sialang Kayu Batu"
+    "name": "Sialang Kayu Batu",
+    "postal_code": "28386"
   }
 ]

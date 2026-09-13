@@ -2,51 +2,61 @@
   {
     "code": "1804112001",
     "district_code": "180411",
-    "name": "Tanjung Raya"
+    "name": "Tanjung Raya",
+    "postal_code": "34868"
   },
   {
     "code": "1804112002",
     "district_code": "180411",
-    "name": "Hanakau"
+    "name": "Hanakau",
+    "postal_code": "34868"
   },
   {
     "code": "1804112003",
     "district_code": "180411",
-    "name": "Buay Nyerupa"
+    "name": "Buay Nyerupa",
+    "postal_code": "34868"
   },
   {
     "code": "1804112004",
     "district_code": "180411",
-    "name": "Tapak Siring"
+    "name": "Tapak Siring",
+    "postal_code": "34868"
   },
   {
     "code": "1804112005",
     "district_code": "180411",
-    "name": "Jaga Raga"
+    "name": "Jaga Raga",
+    "postal_code": "34868"
   },
   {
     "code": "1804112009",
     "district_code": "180411",
-    "name": "Pagar Dewa"
+    "name": "Pagar Dewa",
+    "postal_code": "34868"
   },
   {
     "code": "1804112012",
     "district_code": "180411",
-    "name": "Suka Mulya"
+    "name": "Suka Mulya",
+    "postal_code": "34868"
   },
   {
     "code": "1804112018",
     "district_code": "180411",
-    "name": "Bandar Baru"
+    "name": "Bandar Baru",
+    "postal_code": "34868"
   },
   {
     "code": "1804112019",
     "district_code": "180411",
-    "name": "Bumi Jaya"
+    "name": "Bumi Jaya",
+    "postal_code": "34868"
   },
   {
     "code": "1804112020",
     "district_code": "180411",
-    "name": "Teba Pering Jaya"
+    "name": "Teba Pering Jaya",
+    "postal_code": "34868"
   }
 ]

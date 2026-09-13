@@ -2,36 +2,43 @@
   {
     "code": "3202232001",
     "district_code": "320223",
-    "name": "Kalibunder"
+    "name": "Kalibunder",
+    "postal_code": "43185"
   },
   {
     "code": "3202232002",
     "district_code": "320223",
-    "name": "Bojong"
+    "name": "Bojong",
+    "postal_code": "43185"
   },
   {
     "code": "3202232003",
     "district_code": "320223",
-    "name": "Cimahpar"
+    "name": "Cimahpar",
+    "postal_code": "43185"
   },
   {
     "code": "3202232004",
     "district_code": "320223",
-    "name": "Sekarsari"
+    "name": "Sekarsari",
+    "postal_code": "43185"
   },
   {
     "code": "3202232005",
     "district_code": "320223",
-    "name": "Sukaluyu"
+    "name": "Sukaluyu",
+    "postal_code": "43185"
   },
   {
     "code": "3202232006",
     "district_code": "320223",
-    "name": "Balekambang"
+    "name": "Balekambang",
+    "postal_code": "43185"
   },
   {
     "code": "3202232007",
     "district_code": "320223",
-    "name": "Mekarwangi"
+    "name": "Mekarwangi",
+    "postal_code": "43185"
   }
 ]

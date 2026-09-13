@@ -2,71 +2,85 @@
   {
     "code": "1203011001",
     "district_code": "120301",
-    "name": "Sitinjak"
+    "name": "Sitinjak",
+    "postal_code": "22735"
   },
   {
     "code": "1203011003",
     "district_code": "120301",
-    "name": "Simatorkis Sisoma"
+    "name": "Simatorkis Sisoma",
+    "postal_code": "22735"
   },
   {
     "code": "1203012002",
     "district_code": "120301",
-    "name": "Panobasan"
+    "name": "Panobasan",
+    "postal_code": "22735"
   },
   {
     "code": "1203012004",
     "district_code": "120301",
-    "name": "Siuhom"
+    "name": "Siuhom",
+    "postal_code": "22735"
   },
   {
     "code": "1203012005",
     "district_code": "120301",
-    "name": "Sigumuru"
+    "name": "Sigumuru",
+    "postal_code": "22735"
   },
   {
     "code": "1203012006",
     "district_code": "120301",
-    "name": "Sibangkua"
+    "name": "Sibangkua",
+    "postal_code": "22735"
   },
   {
     "code": "1203012007",
     "district_code": "120301",
-    "name": "Sisundung"
+    "name": "Sisundung",
+    "postal_code": "22735"
   },
   {
     "code": "1203012008",
     "district_code": "120301",
-    "name": "Aek Nabara"
+    "name": "Aek Nabara",
+    "postal_code": "22735"
   },
   {
     "code": "1203012011",
     "district_code": "120301",
-    "name": "Parsalakan"
+    "name": "Parsalakan",
+    "postal_code": "22735"
   },
   {
     "code": "1203012015",
     "district_code": "120301",
-    "name": "Sitaratoit"
+    "name": "Sitaratoit",
+    "postal_code": "22735"
   },
   {
     "code": "1203012016",
     "district_code": "120301",
-    "name": "Sialogo"
+    "name": "Sialogo",
+    "postal_code": "22735"
   },
   {
     "code": "1203012024",
     "district_code": "120301",
-    "name": "Lembah Lubuk Raya"
+    "name": "Lembah Lubuk Raya",
+    "postal_code": "22735"
   },
   {
     "code": "1203012031",
     "district_code": "120301",
-    "name": "Lobu Layan Sigordang"
+    "name": "Lobu Layan Sigordang",
+    "postal_code": "22735"
   },
   {
     "code": "1203012035",
     "district_code": "120301",
-    "name": "Panobasan Lombang"
+    "name": "Panobasan Lombang",
+    "postal_code": "22735"
   }
 ]

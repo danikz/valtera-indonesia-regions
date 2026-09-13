@@ -2,41 +2,49 @@
   {
     "code": "5205032001",
     "district_code": "520503",
-    "name": "Rasa Bou"
+    "name": "Rasa Bou",
+    "postal_code": "84271"
   },
   {
     "code": "5205032002",
     "district_code": "520503",
-    "name": "Daha"
+    "name": "Daha",
+    "postal_code": "84271"
   },
   {
     "code": "5205032003",
     "district_code": "520503",
-    "name": "Hu'u"
+    "name": "Hu'u",
+    "postal_code": "84271"
   },
   {
     "code": "5205032004",
     "district_code": "520503",
-    "name": "Adu"
+    "name": "Adu",
+    "postal_code": "84271"
   },
   {
     "code": "5205032005",
     "district_code": "520503",
-    "name": "Cempi Jaya"
+    "name": "Cempi Jaya",
+    "postal_code": "84271"
   },
   {
     "code": "5205032006",
     "district_code": "520503",
-    "name": "Merada"
+    "name": "Merada",
+    "postal_code": "84271"
   },
   {
     "code": "5205032007",
     "district_code": "520503",
-    "name": "Jala"
+    "name": "Jala",
+    "postal_code": "84271"
   },
   {
     "code": "5205032008",
     "district_code": "520503",
-    "name": "Sawe"
+    "name": "Sawe",
+    "postal_code": "84271"
   }
 ]

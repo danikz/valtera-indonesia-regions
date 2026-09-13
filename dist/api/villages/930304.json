@@ -2,36 +2,43 @@
   {
     "code": "9303041001",
     "district_code": "930304",
-    "name": "Bade"
+    "name": "Bade",
+    "postal_code": "99852"
   },
   {
     "code": "9303042002",
     "district_code": "930304",
-    "name": "Geturki"
+    "name": "Geturki",
+    "postal_code": "99852"
   },
   {
     "code": "9303042003",
     "district_code": "930304",
-    "name": "Mememu"
+    "name": "Mememu",
+    "postal_code": "99873"
   },
   {
     "code": "9303042004",
     "district_code": "930304",
-    "name": "Gimikya"
+    "name": "Gimikya",
+    "postal_code": "99873"
   },
   {
     "code": "9303042005",
     "district_code": "930304",
-    "name": "Banamepe"
+    "name": "Banamepe",
+    "postal_code": "99873"
   },
   {
     "code": "9303042006",
     "district_code": "930304",
-    "name": "Yodom"
+    "name": "Yodom",
+    "postal_code": "99873"
   },
   {
     "code": "9303042007",
     "district_code": "930304",
-    "name": "Isyaman"
+    "name": "Isyaman",
+    "postal_code": "99873"
   }
 ]

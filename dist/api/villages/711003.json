@@ -2,56 +2,67 @@
   {
     "code": "7110032001",
     "district_code": "711003",
-    "name": "Idumun"
+    "name": "Idumun",
+    "postal_code": "95786"
   },
   {
     "code": "7110032002",
     "district_code": "711003",
-    "name": "Matabulu"
+    "name": "Matabulu",
+    "postal_code": "95786"
   },
   {
     "code": "7110032003",
     "district_code": "711003",
-    "name": "Nuangan"
+    "name": "Nuangan",
+    "postal_code": "95786"
   },
   {
     "code": "7110032006",
     "district_code": "711003",
-    "name": "Bai"
+    "name": "Bai",
+    "postal_code": "95786"
   },
   {
     "code": "7110032007",
     "district_code": "711003",
-    "name": "Jiko Belanga"
+    "name": "Jiko Belanga",
+    "postal_code": "95786"
   },
   {
     "code": "7110032010",
     "district_code": "711003",
-    "name": "Nuangan I"
+    "name": "Nuangan I",
+    "postal_code": "95786"
   },
   {
     "code": "7110032011",
     "district_code": "711003",
-    "name": "Iyok"
+    "name": "Iyok",
+    "postal_code": "95786"
   },
   {
     "code": "7110032012",
     "district_code": "711003",
-    "name": "Loyow"
+    "name": "Loyow",
+    "postal_code": "95786"
   },
   {
     "code": "7110032014",
     "district_code": "711003",
-    "name": "Matabulu Timur"
+    "name": "Matabulu Timur",
+    "postal_code": "95786"
   },
   {
     "code": "7110032018",
     "district_code": "711003",
-    "name": "Nuangan Barat"
+    "name": "Nuangan Barat",
+    "postal_code": "95786"
   },
   {
     "code": "7110032019",
     "district_code": "711003",
-    "name": "Nuangan Selatan"
+    "name": "Nuangan Selatan",
+    "postal_code": "95786"
   }
 ]

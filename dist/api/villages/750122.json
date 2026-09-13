@@ -2,26 +2,31 @@
   {
     "code": "7501222001",
     "district_code": "750122",
-    "name": "Hutadaa"
+    "name": "Hutadaa",
+    "postal_code": "96184"
   },
   {
     "code": "7501222002",
     "district_code": "750122",
-    "name": "Buhu"
+    "name": "Buhu",
+    "postal_code": "96184"
   },
   {
     "code": "7501222003",
     "district_code": "750122",
-    "name": "Luwoo"
+    "name": "Luwoo",
+    "postal_code": "96184"
   },
   {
     "code": "7501222004",
     "district_code": "750122",
-    "name": "Bunggalo"
+    "name": "Bunggalo",
+    "postal_code": "96184"
   },
   {
     "code": "7501222005",
     "district_code": "750122",
-    "name": "Bulota"
+    "name": "Bulota",
+    "postal_code": "96184"
   }
 ]

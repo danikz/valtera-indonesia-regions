@@ -2,31 +2,37 @@
   {
     "code": "9301162001",
     "district_code": "930116",
-    "name": "Po-Epe"
+    "name": "Po-Epe",
+    "postal_code": "99637"
   },
   {
     "code": "9301162002",
     "district_code": "930116",
-    "name": "Yawimu"
+    "name": "Yawimu",
+    "postal_code": "99637"
   },
   {
     "code": "9301162003",
     "district_code": "930116",
-    "name": "Taga Epe"
+    "name": "Taga Epe",
+    "postal_code": "99637"
   },
   {
     "code": "9301162004",
     "district_code": "930116",
-    "name": "Nakias"
+    "name": "Nakias",
+    "postal_code": "99637"
   },
   {
     "code": "9301162005",
     "district_code": "930116",
-    "name": "Salam Epe"
+    "name": "Salam Epe",
+    "postal_code": "99637"
   },
   {
     "code": "9301162006",
     "district_code": "930116",
-    "name": "Yomop"
+    "name": "Yomop",
+    "postal_code": "99637"
   }
 ]

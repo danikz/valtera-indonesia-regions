@@ -2,51 +2,61 @@
   {
     "code": "3211082001",
     "district_code": "321108",
-    "name": "Pasehkidul"
+    "name": "Pasehkidul",
+    "postal_code": "45381"
   },
   {
     "code": "3211082002",
     "district_code": "321108",
-    "name": "Paseh Kaler"
+    "name": "Paseh Kaler",
+    "postal_code": "45381"
   },
   {
     "code": "3211082003",
     "district_code": "321108",
-    "name": "Legok Kidul"
+    "name": "Legok Kidul",
+    "postal_code": "45381"
   },
   {
     "code": "3211082004",
     "district_code": "321108",
-    "name": "Legok Kaler"
+    "name": "Legok Kaler",
+    "postal_code": "45381"
   },
   {
     "code": "3211082005",
     "district_code": "321108",
-    "name": "Bongkok"
+    "name": "Bongkok",
+    "postal_code": "45381"
   },
   {
     "code": "3211082006",
     "district_code": "321108",
-    "name": "Padanan"
+    "name": "Padanan",
+    "postal_code": "45381"
   },
   {
     "code": "3211082007",
     "district_code": "321108",
-    "name": "Pasirreungit"
+    "name": "Pasirreungit",
+    "postal_code": "45381"
   },
   {
     "code": "3211082008",
     "district_code": "321108",
-    "name": "Cijambe"
+    "name": "Cijambe",
+    "postal_code": "45381"
   },
   {
     "code": "3211082009",
     "district_code": "321108",
-    "name": "Haurkuning"
+    "name": "Haurkuning",
+    "postal_code": "45381"
   },
   {
     "code": "3211082010",
     "district_code": "321108",
-    "name": "Citepok"
+    "name": "Citepok",
+    "postal_code": "45381"
   }
 ]

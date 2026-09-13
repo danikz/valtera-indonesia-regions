@@ -2,61 +2,73 @@
   {
     "code": "9202212001",
     "district_code": "920221",
-    "name": "Kaironi"
+    "name": "Kaironi",
+    "postal_code": "98319"
   },
   {
     "code": "9202212002",
     "district_code": "920221",
-    "name": "Sidey"
+    "name": "Sidey",
+    "postal_code": "98319"
   },
   {
     "code": "9202212003",
     "district_code": "920221",
-    "name": "Waramui"
+    "name": "Waramui",
+    "postal_code": "98319"
   },
   {
     "code": "9202212004",
     "district_code": "920221",
-    "name": "Kassi"
+    "name": "Kassi",
+    "postal_code": "98319"
   },
   {
     "code": "9202212005",
     "district_code": "920221",
-    "name": "Saray"
+    "name": "Saray",
+    "postal_code": "98319"
   },
   {
     "code": "9202212006",
     "district_code": "920221",
-    "name": "Sidey Baru"
+    "name": "Sidey Baru",
+    "postal_code": "98319"
   },
   {
     "code": "9202212007",
     "district_code": "920221",
-    "name": "Sidey Makmur"
+    "name": "Sidey Makmur",
+    "postal_code": "98319"
   },
   {
     "code": "9202212008",
     "district_code": "920221",
-    "name": "Meyof I"
+    "name": "Meyof I",
+    "postal_code": "98319"
   },
   {
     "code": "9202212009",
     "district_code": "920221",
-    "name": "Wariki"
+    "name": "Wariki",
+    "postal_code": "98319"
   },
   {
     "code": "9202212010",
     "district_code": "920221",
-    "name": "Womnowi"
+    "name": "Womnowi",
+    "postal_code": "98319"
   },
   {
     "code": "9202212011",
     "district_code": "920221",
-    "name": "Manggupi"
+    "name": "Manggupi",
+    "postal_code": "98319"
   },
   {
     "code": "9202212012",
     "district_code": "920221",
-    "name": "Sidey Jaya"
+    "name": "Sidey Jaya",
+    "postal_code": "98319"
   }
 ]

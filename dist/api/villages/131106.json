@@ -2,21 +2,25 @@
   {
     "code": "1311062001",
     "district_code": "131106",
-    "name": "Alam Pauh Duo"
+    "name": "Alam Pauh Duo",
+    "postal_code": "27776"
   },
   {
     "code": "1311062002",
     "district_code": "131106",
-    "name": "Kapau Alam Pauh Duo"
+    "name": "Kapau Alam Pauh Duo",
+    "postal_code": "27776"
   },
   {
     "code": "1311062003",
     "district_code": "131106",
-    "name": "Luak Kapau Alam Pauh Duo"
+    "name": "Luak Kapau Alam Pauh Duo",
+    "postal_code": "27776"
   },
   {
     "code": "1311062004",
     "district_code": "131106",
-    "name": "Pauh Duo Nan Batigo"
+    "name": "Pauh Duo Nan Batigo",
+    "postal_code": "27776"
   }
 ]

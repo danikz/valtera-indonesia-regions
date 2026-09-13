@@ -2,26 +2,31 @@
   {
     "code": "9301082001",
     "district_code": "930108",
-    "name": "Sota"
+    "name": "Sota",
+    "postal_code": "99648"
   },
   {
     "code": "9301082002",
     "district_code": "930108",
-    "name": "Yanggandur"
+    "name": "Yanggandur",
+    "postal_code": "99648"
   },
   {
     "code": "9301082003",
     "district_code": "930108",
-    "name": "Rawa Biru"
+    "name": "Rawa Biru",
+    "postal_code": "99648"
   },
   {
     "code": "9301082004",
     "district_code": "930108",
-    "name": "Toray"
+    "name": "Toray",
+    "postal_code": "99648"
   },
   {
     "code": "9301082005",
     "district_code": "930108",
-    "name": "Erambu"
+    "name": "Erambu",
+    "postal_code": "99648"
   }
 ]

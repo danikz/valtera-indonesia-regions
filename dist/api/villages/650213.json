@@ -2,41 +2,49 @@
   {
     "code": "6502132001",
     "district_code": "650213",
-    "name": "Setulang"
+    "name": "Setulang",
+    "postal_code": "77552"
   },
   {
     "code": "6502132002",
     "district_code": "650213",
-    "name": "Setarap"
+    "name": "Setarap",
+    "postal_code": "77552"
   },
   {
     "code": "6502132003",
     "district_code": "650213",
-    "name": "Punan Setarap"
+    "name": "Punan Setarap",
+    "postal_code": "77552"
   },
   {
     "code": "6502132004",
     "district_code": "650213",
-    "name": "Batu Kajang"
+    "name": "Batu Kajang",
+    "postal_code": "77552"
   },
   {
     "code": "6502132005",
     "district_code": "650213",
-    "name": "Gong Solok"
+    "name": "Gong Solok",
+    "postal_code": "77552"
   },
   {
     "code": "6502132006",
     "district_code": "650213",
-    "name": "Punan Gong Solok"
+    "name": "Punan Gong Solok",
+    "postal_code": "77552"
   },
   {
     "code": "6502132007",
     "district_code": "650213",
-    "name": "Long Adiu"
+    "name": "Long Adiu",
+    "postal_code": "77552"
   },
   {
     "code": "6502132008",
     "district_code": "650213",
-    "name": "Punan Long Adiu"
+    "name": "Punan Long Adiu",
+    "postal_code": "77552"
   }
 ]

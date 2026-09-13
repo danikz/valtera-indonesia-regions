@@ -2,51 +2,61 @@
   {
     "code": "3201302001",
     "district_code": "320130",
-    "name": "Sukadamai"
+    "name": "Sukadamai",
+    "postal_code": "16680"
   },
   {
     "code": "3201302002",
     "district_code": "320130",
-    "name": "Ciherang"
+    "name": "Ciherang",
+    "postal_code": "16680"
   },
   {
     "code": "3201302003",
     "district_code": "320130",
-    "name": "Sinarsari"
+    "name": "Sinarsari",
+    "postal_code": "16680"
   },
   {
     "code": "3201302004",
     "district_code": "320130",
-    "name": "Sukawening"
+    "name": "Sukawening",
+    "postal_code": "16680"
   },
   {
     "code": "3201302005",
     "district_code": "320130",
-    "name": "Petir"
+    "name": "Petir",
+    "postal_code": "16680"
   },
   {
     "code": "3201302006",
     "district_code": "320130",
-    "name": "Purwasari"
+    "name": "Purwasari",
+    "postal_code": "16680"
   },
   {
     "code": "3201302007",
     "district_code": "320130",
-    "name": "Cikarawang"
+    "name": "Cikarawang",
+    "postal_code": "16680"
   },
   {
     "code": "3201302008",
     "district_code": "320130",
-    "name": "Babakan"
+    "name": "Babakan",
+    "postal_code": "16680"
   },
   {
     "code": "3201302009",
     "district_code": "320130",
-    "name": "Dramaga"
+    "name": "Dramaga",
+    "postal_code": "16680"
   },
   {
     "code": "3201302010",
     "district_code": "320130",
-    "name": "Neglasari"
+    "name": "Neglasari",
+    "postal_code": "16680"
   }
 ]

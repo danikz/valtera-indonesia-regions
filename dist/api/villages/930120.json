@@ -2,21 +2,25 @@
   {
     "code": "9301202001",
     "district_code": "930120",
-    "name": "Wanam"
+    "name": "Wanam",
+    "postal_code": "99640"
   },
   {
     "code": "9301202002",
     "district_code": "930120",
-    "name": "Bibikem"
+    "name": "Bibikem",
+    "postal_code": "99640"
   },
   {
     "code": "9301202003",
     "district_code": "930120",
-    "name": "Wogekel"
+    "name": "Wogekel",
+    "postal_code": "99640"
   },
   {
     "code": "9301202004",
     "district_code": "930120",
-    "name": "Uli Uli"
+    "name": "Uli Uli",
+    "postal_code": "99640"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "3201022001",
     "district_code": "320102",
-    "name": "Wanaherang"
+    "name": "Wanaherang",
+    "postal_code": "16965"
   },
   {
     "code": "3201022002",
     "district_code": "320102",
-    "name": "Bojong Kulur"
+    "name": "Bojong Kulur",
+    "postal_code": "16969"
   },
   {
     "code": "3201022003",
     "district_code": "320102",
-    "name": "Ciangsana"
+    "name": "Ciangsana",
+    "postal_code": "16968"
   },
   {
     "code": "3201022004",
     "district_code": "320102",
-    "name": "Gunung Putri"
+    "name": "Gunung Putri",
+    "postal_code": "16961"
   },
   {
     "code": "3201022005",
     "district_code": "320102",
-    "name": "Bojong Nangka"
+    "name": "Bojong Nangka",
+    "postal_code": "16963"
   },
   {
     "code": "3201022006",
     "district_code": "320102",
-    "name": "Tlajung Udik"
+    "name": "Tlajung Udik",
+    "postal_code": "16962"
   },
   {
     "code": "3201022007",
     "district_code": "320102",
-    "name": "Cicadas"
+    "name": "Cicadas",
+    "postal_code": "16964"
   },
   {
     "code": "3201022008",
     "district_code": "320102",
-    "name": "Cikeas Udik"
+    "name": "Cikeas Udik",
+    "postal_code": "16966"
   },
   {
     "code": "3201022009",
     "district_code": "320102",
-    "name": "Nagrak"
+    "name": "Nagrak",
+    "postal_code": "16967"
   },
   {
     "code": "3201022010",
     "district_code": "320102",
-    "name": "Karanggan"
+    "name": "Karanggan",
+    "postal_code": "16960"
   }
 ]

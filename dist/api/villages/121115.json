@@ -2,21 +2,25 @@
   {
     "code": "1211151004",
     "district_code": "121115",
-    "name": "Panji Dabutar"
+    "name": "Panji Dabutar",
+    "postal_code": "22219"
   },
   {
     "code": "1211152001",
     "district_code": "121115",
-    "name": "Sitinjo"
+    "name": "Sitinjo",
+    "postal_code": "22219"
   },
   {
     "code": "1211152002",
     "district_code": "121115",
-    "name": "Sitinjo I"
+    "name": "Sitinjo I",
+    "postal_code": "22219"
   },
   {
     "code": "1211152003",
     "district_code": "121115",
-    "name": "Sitinjo II"
+    "name": "Sitinjo II",
+    "postal_code": "22219"
   }
 ]

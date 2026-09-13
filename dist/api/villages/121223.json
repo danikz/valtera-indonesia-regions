@@ -2,61 +2,73 @@
   {
     "code": "1212232001",
     "district_code": "121223",
-    "name": "Sihiong"
+    "name": "Sihiong",
+    "postal_code": "22387"
   },
   {
     "code": "1212232002",
     "district_code": "121223",
-    "name": "Sinar Sabungan"
+    "name": "Sinar Sabungan",
+    "postal_code": "22387"
   },
   {
     "code": "1212232003",
     "district_code": "121223",
-    "name": "Lumban Lobu"
+    "name": "Lumban Lobu",
+    "postal_code": "22387"
   },
   {
     "code": "1212232004",
     "district_code": "121223",
-    "name": "Harungguan"
+    "name": "Harungguan",
+    "postal_code": "22387"
   },
   {
     "code": "1212232005",
     "district_code": "121223",
-    "name": "Naga Timbul"
+    "name": "Naga Timbul",
+    "postal_code": "22387"
   },
   {
     "code": "1212232006",
     "district_code": "121223",
-    "name": "Sibadihon"
+    "name": "Sibadihon",
+    "postal_code": "22387"
   },
   {
     "code": "1212232007",
     "district_code": "121223",
-    "name": "Silamosik II"
+    "name": "Silamosik II",
+    "postal_code": "22387"
   },
   {
     "code": "1212232011",
     "district_code": "121223",
-    "name": "Partoruan Lumban Lobu"
+    "name": "Partoruan Lumban Lobu",
+    "postal_code": "22387"
   },
   {
     "code": "1212232012",
     "district_code": "121223",
-    "name": "Pardolok Lumban Lobu"
+    "name": "Pardolok Lumban Lobu",
+    "postal_code": "22387"
   },
   {
     "code": "1212232013",
     "district_code": "121223",
-    "name": "Silombu"
+    "name": "Silombu",
+    "postal_code": "22387"
   },
   {
     "code": "1212232014",
     "district_code": "121223",
-    "name": "Lumban Sangkalan"
+    "name": "Lumban Sangkalan",
+    "postal_code": "22387"
   },
   {
     "code": "1212232015",
     "district_code": "121223",
-    "name": "Nagatimbul Timur"
+    "name": "Nagatimbul Timur",
+    "postal_code": "22387"
   }
 ]

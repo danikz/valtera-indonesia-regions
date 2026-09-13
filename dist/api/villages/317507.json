@@ -2,36 +2,43 @@
   {
     "code": "3175071001",
     "district_code": "317507",
-    "name": "Duren Sawit"
+    "name": "Duren Sawit",
+    "postal_code": "13440"
   },
   {
     "code": "3175071002",
     "district_code": "317507",
-    "name": "Pondok Bambu"
+    "name": "Pondok Bambu",
+    "postal_code": "13430"
   },
   {
     "code": "3175071003",
     "district_code": "317507",
-    "name": "Klender"
+    "name": "Klender",
+    "postal_code": "13470"
   },
   {
     "code": "3175071004",
     "district_code": "317507",
-    "name": "Pondok Kelapa"
+    "name": "Pondok Kelapa",
+    "postal_code": "13450"
   },
   {
     "code": "3175071005",
     "district_code": "317507",
-    "name": "Malaka Sari"
+    "name": "Malaka Sari",
+    "postal_code": "13460"
   },
   {
     "code": "3175071006",
     "district_code": "317507",
-    "name": "Malaka Jaya"
+    "name": "Malaka Jaya",
+    "postal_code": "13460"
   },
   {
     "code": "3175071007",
     "district_code": "317507",
-    "name": "Pondok Kopi"
+    "name": "Pondok Kopi",
+    "postal_code": "13460"
   }
 ]

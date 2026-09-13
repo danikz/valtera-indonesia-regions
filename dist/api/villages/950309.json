@@ -2,36 +2,43 @@
   {
     "code": "9503092001",
     "district_code": "950309",
-    "name": "Gopa"
+    "name": "Gopa",
+    "postal_code": "99049"
   },
   {
     "code": "9503092002",
     "district_code": "950309",
-    "name": "Jinusugu"
+    "name": "Jinusugu",
+    "postal_code": "99049"
   },
   {
     "code": "9503092003",
     "district_code": "950309",
-    "name": "Woropi"
+    "name": "Woropi",
+    "postal_code": "99715"
   },
   {
     "code": "9503092004",
     "district_code": "950309",
-    "name": "Senipan"
+    "name": "Senipan",
+    "postal_code": "99049"
   },
   {
     "code": "9503092005",
     "district_code": "950309",
-    "name": "Yosua"
+    "name": "Yosua",
+    "postal_code": "99049"
   },
   {
     "code": "9503092006",
     "district_code": "950309",
-    "name": "Rentis"
+    "name": "Rentis",
+    "postal_code": "99715"
   },
   {
     "code": "9503092007",
     "district_code": "950309",
-    "name": "Solok"
+    "name": "Solok",
+    "postal_code": "99049"
   }
 ]

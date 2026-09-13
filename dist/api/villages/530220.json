@@ -2,41 +2,49 @@
   {
     "code": "5302202001",
     "district_code": "530220",
-    "name": "Kot'olin"
+    "name": "Kot'olin",
+    "postal_code": "85576"
   },
   {
     "code": "5302202002",
     "district_code": "530220",
-    "name": "Nunbena"
+    "name": "Nunbena",
+    "postal_code": "85576"
   },
   {
     "code": "5302202003",
     "district_code": "530220",
-    "name": "Fatuat"
+    "name": "Fatuat",
+    "postal_code": "85576"
   },
   {
     "code": "5302202004",
     "district_code": "530220",
-    "name": "Hoibeti"
+    "name": "Hoibeti",
+    "postal_code": "85576"
   },
   {
     "code": "5302202005",
     "district_code": "530220",
-    "name": "Nualunat"
+    "name": "Nualunat",
+    "postal_code": "85576"
   },
   {
     "code": "5302202006",
     "district_code": "530220",
-    "name": "Binenok"
+    "name": "Binenok",
+    "postal_code": "85576"
   },
   {
     "code": "5302202007",
     "district_code": "530220",
-    "name": "Ponite"
+    "name": "Ponite",
+    "postal_code": "85576"
   },
   {
     "code": "5302202008",
     "district_code": "530220",
-    "name": "O'obibi"
+    "name": "O'obibi",
+    "postal_code": "85576"
   }
 ]

@@ -2,16 +2,19 @@
   {
     "code": "6111062001",
     "district_code": "611106",
-    "name": "Pelapis"
+    "name": "Pelapis",
+    "postal_code": "78855"
   },
   {
     "code": "6111062002",
     "district_code": "611106",
-    "name": "Betok Jaya"
+    "name": "Betok Jaya",
+    "postal_code": "78855"
   },
   {
     "code": "6111062003",
     "district_code": "611106",
-    "name": "Padang"
+    "name": "Padang",
+    "postal_code": "78855"
   }
 ]

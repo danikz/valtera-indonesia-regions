@@ -2,31 +2,37 @@
   {
     "code": "3171011001",
     "district_code": "317101",
-    "name": "Gambir"
+    "name": "Gambir",
+    "postal_code": "10110"
   },
   {
     "code": "3171011002",
     "district_code": "317101",
-    "name": "Cideng"
+    "name": "Cideng",
+    "postal_code": "10150"
   },
   {
     "code": "3171011003",
     "district_code": "317101",
-    "name": "Petojo Utara"
+    "name": "Petojo Utara",
+    "postal_code": "10130"
   },
   {
     "code": "3171011004",
     "district_code": "317101",
-    "name": "Petojo Selatan"
+    "name": "Petojo Selatan",
+    "postal_code": "10160"
   },
   {
     "code": "3171011005",
     "district_code": "317101",
-    "name": "Kebon Kelapa"
+    "name": "Kebon Kelapa",
+    "postal_code": "10120"
   },
   {
     "code": "3171011006",
     "district_code": "317101",
-    "name": "Duri Pulo"
+    "name": "Duri Pulo",
+    "postal_code": "10140"
   }
 ]

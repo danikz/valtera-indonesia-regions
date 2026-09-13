@@ -2,56 +2,67 @@
   {
     "code": "6301022001",
     "district_code": "630102",
-    "name": "Sabuhur"
+    "name": "Sabuhur",
+    "postal_code": "70881"
   },
   {
     "code": "6301022002",
     "district_code": "630102",
-    "name": "Jorong"
+    "name": "Jorong",
+    "postal_code": "70881"
   },
   {
     "code": "6301022003",
     "district_code": "630102",
-    "name": "Asam-Asam"
+    "name": "Asam-Asam",
+    "postal_code": "70881"
   },
   {
     "code": "6301022004",
     "district_code": "630102",
-    "name": "Batalang"
+    "name": "Batalang",
+    "postal_code": "70881"
   },
   {
     "code": "6301022005",
     "district_code": "630102",
-    "name": "Swarangan"
+    "name": "Swarangan",
+    "postal_code": "70881"
   },
   {
     "code": "6301022006",
     "district_code": "630102",
-    "name": "Muara Asam-Asam"
+    "name": "Muara Asam-Asam",
+    "postal_code": "70881"
   },
   {
     "code": "6301022007",
     "district_code": "630102",
-    "name": "Alur"
+    "name": "Alur",
+    "postal_code": "70881"
   },
   {
     "code": "6301022008",
     "district_code": "630102",
-    "name": "Asri Mulya"
+    "name": "Asri Mulya",
+    "postal_code": "70881"
   },
   {
     "code": "6301022009",
     "district_code": "630102",
-    "name": "Karang Rejo"
+    "name": "Karang Rejo",
+    "postal_code": "70881"
   },
   {
     "code": "6301022010",
     "district_code": "630102",
-    "name": "Asam Jaya"
+    "name": "Asam Jaya",
+    "postal_code": "70881"
   },
   {
     "code": "6301022011",
     "district_code": "630102",
-    "name": "Simpang Empat Sungai Baru"
+    "name": "Simpang Empat Sungai Baru",
+    "postal_code": "70881"
   }
 ]

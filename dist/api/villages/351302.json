@@ -2,46 +2,55 @@
   {
     "code": "3513022001",
     "district_code": "351302",
-    "name": "Ledokombo"
+    "name": "Ledokombo",
+    "postal_code": "67263"
   },
   {
     "code": "3513022002",
     "district_code": "351302",
-    "name": "Pandansari"
+    "name": "Pandansari",
+    "postal_code": "67263"
   },
   {
     "code": "3513022003",
     "district_code": "351302",
-    "name": "Sumber"
+    "name": "Sumber",
+    "postal_code": "67263"
   },
   {
     "code": "3513022004",
     "district_code": "351302",
-    "name": "Wonokerso"
+    "name": "Wonokerso",
+    "postal_code": "67263"
   },
   {
     "code": "3513022005",
     "district_code": "351302",
-    "name": "Gemito"
+    "name": "Gemito",
+    "postal_code": "67263"
   },
   {
     "code": "3513022006",
     "district_code": "351302",
-    "name": "Tukul"
+    "name": "Tukul",
+    "postal_code": "67263"
   },
   {
     "code": "3513022007",
     "district_code": "351302",
-    "name": "Sumberanom"
+    "name": "Sumberanom",
+    "postal_code": "67263"
   },
   {
     "code": "3513022008",
     "district_code": "351302",
-    "name": "Cepoko"
+    "name": "Cepoko",
+    "postal_code": "67263"
   },
   {
     "code": "3513022009",
     "district_code": "351302",
-    "name": "Remba'an"
+    "name": "Remba'an",
+    "postal_code": "67263"
   }
 ]

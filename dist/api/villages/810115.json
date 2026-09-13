@@ -2,56 +2,67 @@
   {
     "code": "8101152006",
     "district_code": "810115",
-    "name": "Asilulu"
+    "name": "Asilulu",
+    "postal_code": "97580"
   },
   {
     "code": "8101152007",
     "district_code": "810115",
-    "name": "Ureng"
+    "name": "Ureng",
+    "postal_code": "97580"
   },
   {
     "code": "8101152008",
     "district_code": "810115",
-    "name": "Negeri Lima"
+    "name": "Negeri Lima",
+    "postal_code": "97580"
   },
   {
     "code": "8101152009",
     "district_code": "810115",
-    "name": "Seith"
+    "name": "Seith",
+    "postal_code": "97580"
   },
   {
     "code": "8101152010",
     "district_code": "810115",
-    "name": "Kaitetu"
+    "name": "Kaitetu",
+    "postal_code": "97580"
   },
   {
     "code": "8101152011",
     "district_code": "810115",
-    "name": "Hila"
+    "name": "Hila",
+    "postal_code": "97580"
   },
   {
     "code": "8101152012",
     "district_code": "810115",
-    "name": "Wakal"
+    "name": "Wakal",
+    "postal_code": "97580"
   },
   {
     "code": "8101152013",
     "district_code": "810115",
-    "name": "Hitulama"
+    "name": "Hitulama",
+    "postal_code": "97580"
   },
   {
     "code": "8101152014",
     "district_code": "810115",
-    "name": "Hitumessing"
+    "name": "Hitumessing",
+    "postal_code": "97580"
   },
   {
     "code": "8101152015",
     "district_code": "810115",
-    "name": "Mamala"
+    "name": "Mamala",
+    "postal_code": "97580"
   },
   {
     "code": "8101152016",
     "district_code": "810115",
-    "name": "Morella"
+    "name": "Morella",
+    "postal_code": "97580"
   }
 ]

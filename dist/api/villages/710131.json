@@ -2,46 +2,55 @@
   {
     "code": "7101312001",
     "district_code": "710131",
-    "name": "Ambang I"
+    "name": "Ambang I",
+    "postal_code": "95754"
   },
   {
     "code": "7101312002",
     "district_code": "710131",
-    "name": "Ambang II"
+    "name": "Ambang II",
+    "postal_code": "95754"
   },
   {
     "code": "7101312003",
     "district_code": "710131",
-    "name": "Tadoy"
+    "name": "Tadoy",
+    "postal_code": "95754"
   },
   {
     "code": "7101312004",
     "district_code": "710131",
-    "name": "Bolaang"
+    "name": "Bolaang",
+    "postal_code": "95754"
   },
   {
     "code": "7101312005",
     "district_code": "710131",
-    "name": "Bantik"
+    "name": "Bantik",
+    "postal_code": "95754"
   },
   {
     "code": "7101312006",
     "district_code": "710131",
-    "name": "Lolan"
+    "name": "Lolan",
+    "postal_code": "95754"
   },
   {
     "code": "7101312007",
     "district_code": "710131",
-    "name": "Tadoy I"
+    "name": "Tadoy I",
+    "postal_code": "95754"
   },
   {
     "code": "7101312008",
     "district_code": "710131",
-    "name": "Bolaang Satu"
+    "name": "Bolaang Satu",
+    "postal_code": "95754"
   },
   {
     "code": "7101312009",
     "district_code": "710131",
-    "name": "Lolan Dua"
+    "name": "Lolan Dua",
+    "postal_code": "95754"
   }
 ]

@@ -2,71 +2,85 @@
   {
     "code": "9210222001",
     "district_code": "921022",
-    "name": "Yaksoro"
+    "name": "Yaksoro",
+    "postal_code": ""
   },
   {
     "code": "9210222002",
     "district_code": "921022",
-    "name": "Awit"
+    "name": "Awit",
+    "postal_code": ""
   },
   {
     "code": "9210222003",
     "district_code": "921022",
-    "name": "Sira"
+    "name": "Sira",
+    "postal_code": ""
   },
   {
     "code": "9210222004",
     "district_code": "921022",
-    "name": "Eway"
+    "name": "Eway",
+    "postal_code": ""
   },
   {
     "code": "9210222005",
     "district_code": "921022",
-    "name": "Erokwero"
+    "name": "Erokwero",
+    "postal_code": ""
   },
   {
     "code": "9210222006",
     "district_code": "921022",
-    "name": "Sabun"
+    "name": "Sabun",
+    "postal_code": ""
   },
   {
     "code": "9210222007",
     "district_code": "921022",
-    "name": "Itigah"
+    "name": "Itigah",
+    "postal_code": ""
   },
   {
     "code": "9210222008",
     "district_code": "921022",
-    "name": "Sira Tee"
+    "name": "Sira Tee",
+    "postal_code": ""
   },
   {
     "code": "9210222009",
     "district_code": "921022",
-    "name": "Wrait 'U'"
+    "name": "Wrait 'U'",
+    "postal_code": ""
   },
   {
     "code": "9210222010",
     "district_code": "921022",
-    "name": "Way 'U'"
+    "name": "Way 'U'",
+    "postal_code": ""
   },
   {
     "code": "9210222011",
     "district_code": "921022",
-    "name": "Asnaif"
+    "name": "Asnaif",
+    "postal_code": ""
   },
   {
     "code": "9210222012",
     "district_code": "921022",
-    "name": "Iroh Sohser"
+    "name": "Iroh Sohser",
+    "postal_code": ""
   },
   {
     "code": "9210222013",
     "district_code": "921022",
-    "name": "Framboh"
+    "name": "Framboh",
+    "postal_code": ""
   },
   {
     "code": "9210222014",
     "district_code": "921022",
-    "name": "Tohmri"
+    "name": "Tohmri",
+    "postal_code": ""
   }
 ]

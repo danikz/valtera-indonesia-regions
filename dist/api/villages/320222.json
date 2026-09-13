@@ -2,46 +2,55 @@
   {
     "code": "3202222001",
     "district_code": "320222",
-    "name": "Ciemas"
+    "name": "Ciemas",
+    "postal_code": "43177"
   },
   {
     "code": "3202222002",
     "district_code": "320222",
-    "name": "Cibenda"
+    "name": "Cibenda",
+    "postal_code": "43177"
   },
   {
     "code": "3202222003",
     "district_code": "320222",
-    "name": "Ciwaru"
+    "name": "Ciwaru",
+    "postal_code": "43177"
   },
   {
     "code": "3202222004",
     "district_code": "320222",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "43177"
   },
   {
     "code": "3202222005",
     "district_code": "320222",
-    "name": "Girimukti"
+    "name": "Girimukti",
+    "postal_code": "43177"
   },
   {
     "code": "3202222006",
     "district_code": "320222",
-    "name": "Tamanjaya"
+    "name": "Tamanjaya",
+    "postal_code": "43177"
   },
   {
     "code": "3202222007",
     "district_code": "320222",
-    "name": "Mandrajaya"
+    "name": "Mandrajaya",
+    "postal_code": "43177"
   },
   {
     "code": "3202222008",
     "district_code": "320222",
-    "name": "Sidamulya"
+    "name": "Sidamulya",
+    "postal_code": "43177"
   },
   {
     "code": "3202222009",
     "district_code": "320222",
-    "name": "Mekarsakti"
+    "name": "Mekarsakti",
+    "postal_code": "43177"
   }
 ]

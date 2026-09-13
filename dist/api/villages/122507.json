@@ -2,41 +2,49 @@
   {
     "code": "1225072001",
     "district_code": "122507",
-    "name": "Sisobawino II"
+    "name": "Sisobawino II",
+    "postal_code": "22875"
   },
   {
     "code": "1225072002",
     "district_code": "122507",
-    "name": "Duria"
+    "name": "Duria",
+    "postal_code": "22875"
   },
   {
     "code": "1225072003",
     "district_code": "122507",
-    "name": "Ambukha"
+    "name": "Ambukha",
+    "postal_code": "22875"
   },
   {
     "code": "1225072004",
     "district_code": "122507",
-    "name": "Hilimbowo Mau"
+    "name": "Hilimbowo Mau",
+    "postal_code": "22875"
   },
   {
     "code": "1225072005",
     "district_code": "122507",
-    "name": "Hilimbuasi"
+    "name": "Hilimbuasi",
+    "postal_code": "22875"
   },
   {
     "code": "1225072006",
     "district_code": "122507",
-    "name": "Lolofitu"
+    "name": "Lolofitu",
+    "postal_code": "22875"
   },
   {
     "code": "1225072007",
     "district_code": "122507",
-    "name": "Hiliuso"
+    "name": "Hiliuso",
+    "postal_code": "22875"
   },
   {
     "code": "1225072008",
     "district_code": "122507",
-    "name": "Wango"
+    "name": "Wango",
+    "postal_code": "22875"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1806202001",
     "district_code": "180620",
-    "name": "Banjar Manis"
+    "name": "Banjar Manis",
+    "postal_code": "35378"
   },
   {
     "code": "1806202002",
     "district_code": "180620",
-    "name": "Campang"
+    "name": "Campang",
+    "postal_code": "35378"
   },
   {
     "code": "1806202003",
     "district_code": "180620",
-    "name": "Kuta Dalom"
+    "name": "Kuta Dalom",
+    "postal_code": "35378"
   },
   {
     "code": "1806202004",
     "district_code": "180620",
-    "name": "Purwodadi"
+    "name": "Purwodadi",
+    "postal_code": "35378"
   },
   {
     "code": "1806202005",
     "district_code": "180620",
-    "name": "Gisting Bawah"
+    "name": "Gisting Bawah",
+    "postal_code": "35378"
   },
   {
     "code": "1806202006",
     "district_code": "180620",
-    "name": "Gisting Atas"
+    "name": "Gisting Atas",
+    "postal_code": "35378"
   },
   {
     "code": "1806202007",
     "district_code": "180620",
-    "name": "Sidokaton"
+    "name": "Sidokaton",
+    "postal_code": "35378"
   },
   {
     "code": "1806202008",
     "district_code": "180620",
-    "name": "Landbaw"
+    "name": "Landbaw",
+    "postal_code": "35378"
   },
   {
     "code": "1806202009",
     "district_code": "180620",
-    "name": "Gisting Permai"
+    "name": "Gisting Permai",
+    "postal_code": "35378"
   }
 ]

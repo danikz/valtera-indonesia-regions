@@ -2,31 +2,37 @@
   {
     "code": "5205082001",
     "district_code": "520508",
-    "name": "Ranggo"
+    "name": "Ranggo",
+    "postal_code": "84272"
   },
   {
     "code": "5205082002",
     "district_code": "520508",
-    "name": "Jambu"
+    "name": "Jambu",
+    "postal_code": "84272"
   },
   {
     "code": "5205082003",
     "district_code": "520508",
-    "name": "Lepadi"
+    "name": "Lepadi",
+    "postal_code": "84272"
   },
   {
     "code": "5205082004",
     "district_code": "520508",
-    "name": "Lune"
+    "name": "Lune",
+    "postal_code": "84272"
   },
   {
     "code": "5205082005",
     "district_code": "520508",
-    "name": "Woko"
+    "name": "Woko",
+    "postal_code": "84272"
   },
   {
     "code": "5205082006",
     "district_code": "520508",
-    "name": "Tembal Lae"
+    "name": "Tembal Lae",
+    "postal_code": "84272"
   }
 ]

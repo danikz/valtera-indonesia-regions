@@ -2,36 +2,43 @@
   {
     "code": "6108122001",
     "district_code": "610812",
-    "name": "Padang Pio"
+    "name": "Padang Pio",
+    "postal_code": "79364"
   },
   {
     "code": "6108122002",
     "district_code": "610812",
-    "name": "Tembawang Bale"
+    "name": "Tembawang Bale",
+    "postal_code": "79364"
   },
   {
     "code": "6108122003",
     "district_code": "610812",
-    "name": "Kampet"
+    "name": "Kampet",
+    "postal_code": "79364"
   },
   {
     "code": "6108122004",
     "district_code": "610812",
-    "name": "Untang"
+    "name": "Untang",
+    "postal_code": "79364"
   },
   {
     "code": "6108122005",
     "district_code": "610812",
-    "name": "Ringo Lojok"
+    "name": "Ringo Lojok",
+    "postal_code": "79364"
   },
   {
     "code": "6108122006",
     "district_code": "610812",
-    "name": "Gamang"
+    "name": "Gamang",
+    "postal_code": "79364"
   },
   {
     "code": "6108122007",
     "district_code": "610812",
-    "name": "Semade"
+    "name": "Semade",
+    "postal_code": "79364"
   }
 ]

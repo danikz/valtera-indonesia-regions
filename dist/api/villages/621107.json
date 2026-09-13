@@ -2,41 +2,49 @@
   {
     "code": "6211072001",
     "district_code": "621107",
-    "name": "Garung"
+    "name": "Garung",
+    "postal_code": "74816"
   },
   {
     "code": "6211072002",
     "district_code": "621107",
-    "name": "Henda"
+    "name": "Henda",
+    "postal_code": "74816"
   },
   {
     "code": "6211072003",
     "district_code": "621107",
-    "name": "Simpur"
+    "name": "Simpur",
+    "postal_code": "74816"
   },
   {
     "code": "6211072004",
     "district_code": "621107",
-    "name": "Sakakajang"
+    "name": "Sakakajang",
+    "postal_code": "74816"
   },
   {
     "code": "6211072005",
     "district_code": "621107",
-    "name": "Jabiren"
+    "name": "Jabiren",
+    "postal_code": "74816"
   },
   {
     "code": "6211072006",
     "district_code": "621107",
-    "name": "Pilang"
+    "name": "Pilang",
+    "postal_code": "74816"
   },
   {
     "code": "6211072007",
     "district_code": "621107",
-    "name": "Tumbang Nusa"
+    "name": "Tumbang Nusa",
+    "postal_code": "74816"
   },
   {
     "code": "6211072008",
     "district_code": "621107",
-    "name": "Tanjung Taruna"
+    "name": "Tanjung Taruna",
+    "postal_code": "74816"
   }
 ]

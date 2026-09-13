@@ -2,81 +2,97 @@
   {
     "code": "1403101001",
     "district_code": "140310",
-    "name": "Batu Panjang"
+    "name": "Batu Panjang",
+    "postal_code": "28781"
   },
   {
     "code": "1403101002",
     "district_code": "140310",
-    "name": "Pergam"
+    "name": "Pergam",
+    "postal_code": "28781"
   },
   {
     "code": "1403101003",
     "district_code": "140310",
-    "name": "Terkul"
+    "name": "Terkul",
+    "postal_code": "28781"
   },
   {
     "code": "1403101004",
     "district_code": "140310",
-    "name": "Tanjung Kapal"
+    "name": "Tanjung Kapal",
+    "postal_code": "28781"
   },
   {
     "code": "1403102005",
     "district_code": "140310",
-    "name": "Sungai Cingam"
+    "name": "Sungai Cingam",
+    "postal_code": "28781"
   },
   {
     "code": "1403102006",
     "district_code": "140310",
-    "name": "Teluk Lecah"
+    "name": "Teluk Lecah",
+    "postal_code": "28781"
   },
   {
     "code": "1403102007",
     "district_code": "140310",
-    "name": "Makeruh"
+    "name": "Makeruh",
+    "postal_code": "28781"
   },
   {
     "code": "1403102008",
     "district_code": "140310",
-    "name": "Hutan Panjang"
+    "name": "Hutan Panjang",
+    "postal_code": "28781"
   },
   {
     "code": "1403102009",
     "district_code": "140310",
-    "name": "Pangkalan Nyirih"
+    "name": "Pangkalan Nyirih",
+    "postal_code": "28781"
   },
   {
     "code": "1403102010",
     "district_code": "140310",
-    "name": "Sukarjo Mesin"
+    "name": "Sukarjo Mesin",
+    "postal_code": "28781"
   },
   {
     "code": "1403102011",
     "district_code": "140310",
-    "name": "Darul Aman"
+    "name": "Darul Aman",
+    "postal_code": "28781"
   },
   {
     "code": "1403102012",
     "district_code": "140310",
-    "name": "Parit Kebumen"
+    "name": "Parit Kebumen",
+    "postal_code": "28781"
   },
   {
     "code": "1403102013",
     "district_code": "140310",
-    "name": "Sri Tanjung"
+    "name": "Sri Tanjung",
+    "postal_code": "28781"
   },
   {
     "code": "1403102014",
     "district_code": "140310",
-    "name": "Pancur Jaya"
+    "name": "Pancur Jaya",
+    "postal_code": "28781"
   },
   {
     "code": "1403102015",
     "district_code": "140310",
-    "name": "Pangkalan Pinang"
+    "name": "Pangkalan Pinang",
+    "postal_code": "28781"
   },
   {
     "code": "1403102016",
     "district_code": "140310",
-    "name": "Dungun Baru"
+    "name": "Dungun Baru",
+    "postal_code": "28781"
   }
 ]

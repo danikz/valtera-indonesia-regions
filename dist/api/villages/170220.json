@@ -2,26 +2,31 @@
   {
     "code": "1702202001",
     "district_code": "170220",
-    "name": "Kepala Curup"
+    "name": "Kepala Curup",
+    "postal_code": "39182"
   },
   {
     "code": "1702202002",
     "district_code": "170220",
-    "name": "Kampung Jeruk"
+    "name": "Kampung Jeruk",
+    "postal_code": "39182"
   },
   {
     "code": "1702202003",
     "district_code": "170220",
-    "name": "Simpang Beliti"
+    "name": "Simpang Beliti",
+    "postal_code": "39182"
   },
   {
     "code": "1702202004",
     "district_code": "170220",
-    "name": "Taba Padang"
+    "name": "Taba Padang",
+    "postal_code": "39182"
   },
   {
     "code": "1702202005",
     "district_code": "170220",
-    "name": "Air Apo"
+    "name": "Air Apo",
+    "postal_code": "39182"
   }
 ]

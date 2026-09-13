@@ -2,36 +2,43 @@
   {
     "code": "7309141001",
     "district_code": "730914",
-    "name": "Pettuadae"
+    "name": "Pettuadae",
+    "postal_code": "90516"
   },
   {
     "code": "7309141002",
     "district_code": "730914",
-    "name": "Bori Bellaya"
+    "name": "Bori Bellaya",
+    "postal_code": "90512"
   },
   {
     "code": "7309141003",
     "district_code": "730914",
-    "name": "Alliri Tengae"
+    "name": "Alliri Tengae",
+    "postal_code": "90511"
   },
   {
     "code": "7309141004",
     "district_code": "730914",
-    "name": "Turikale"
+    "name": "Turikale",
+    "postal_code": "90511"
   },
   {
     "code": "7309141005",
     "district_code": "730914",
-    "name": "Taroada"
+    "name": "Taroada",
+    "postal_code": "90516"
   },
   {
     "code": "7309141006",
     "district_code": "730914",
-    "name": "Raya"
+    "name": "Raya",
+    "postal_code": "90511"
   },
   {
     "code": "7309141007",
     "district_code": "730914",
-    "name": "Adatongeng"
+    "name": "Adatongeng",
+    "postal_code": "90516"
   }
 ]

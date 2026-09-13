@@ -2,66 +2,79 @@
   {
     "code": "1812032001",
     "district_code": "181203",
-    "name": "Karta"
+    "name": "Karta",
+    "postal_code": "34791"
   },
   {
     "code": "1812032002",
     "district_code": "181203",
-    "name": "Karta Sari"
+    "name": "Karta Sari",
+    "postal_code": "34791"
   },
   {
     "code": "1812032003",
     "district_code": "181203",
-    "name": "Karta Raharja"
+    "name": "Karta Raharja",
+    "postal_code": "34791"
   },
   {
     "code": "1812032004",
     "district_code": "181203",
-    "name": "Gunung Katun Tanjungan"
+    "name": "Gunung Katun Tanjungan",
+    "postal_code": "34791"
   },
   {
     "code": "1812032005",
     "district_code": "181203",
-    "name": "Gunung Katun Malai"
+    "name": "Gunung Katun Malai",
+    "postal_code": "34791"
   },
   {
     "code": "1812032006",
     "district_code": "181203",
-    "name": "Gedung Ratu"
+    "name": "Gedung Ratu",
+    "postal_code": "34791"
   },
   {
     "code": "1812032007",
     "district_code": "181203",
-    "name": "Kagungan Ratu"
+    "name": "Kagungan Ratu",
+    "postal_code": "34791"
   },
   {
     "code": "1812032008",
     "district_code": "181203",
-    "name": "Marga Kencana"
+    "name": "Marga Kencana",
+    "postal_code": "34791"
   },
   {
     "code": "1812032009",
     "district_code": "181203",
-    "name": "Way Sido"
+    "name": "Way Sido",
+    "postal_code": "34791"
   },
   {
     "code": "1812032010",
     "district_code": "181203",
-    "name": "Kagungan Ratu Agung"
+    "name": "Kagungan Ratu Agung",
+    "postal_code": "34791"
   },
   {
     "code": "1812032011",
     "district_code": "181203",
-    "name": "Gading Kencana"
+    "name": "Gading Kencana",
+    "postal_code": "34791"
   },
   {
     "code": "1812032012",
     "district_code": "181203",
-    "name": "Karta Raya"
+    "name": "Karta Raya",
+    "postal_code": "34791"
   },
   {
     "code": "1812032013",
     "district_code": "181203",
-    "name": "Karta Tanjung Selamat"
+    "name": "Karta Tanjung Selamat",
+    "postal_code": "34791"
   }
 ]

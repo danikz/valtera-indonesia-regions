@@ -2,36 +2,43 @@
   {
     "code": "7172061001",
     "district_code": "717206",
-    "name": "Girian Atas"
+    "name": "Girian Atas",
+    "postal_code": "95544"
   },
   {
     "code": "7172061002",
     "district_code": "717206",
-    "name": "Girian Weru Satu"
+    "name": "Girian Weru Satu",
+    "postal_code": "95543"
   },
   {
     "code": "7172061003",
     "district_code": "717206",
-    "name": "Girian Bawah"
+    "name": "Girian Bawah",
+    "postal_code": "95542"
   },
   {
     "code": "7172061004",
     "district_code": "717206",
-    "name": "Girian Permai"
+    "name": "Girian Permai",
+    "postal_code": "95511"
   },
   {
     "code": "7172061005",
     "district_code": "717206",
-    "name": "Girian Weru Dua"
+    "name": "Girian Weru Dua",
+    "postal_code": "95543"
   },
   {
     "code": "7172061006",
     "district_code": "717206",
-    "name": "Girian Indah"
+    "name": "Girian Indah",
+    "postal_code": "95511"
   },
   {
     "code": "7172061007",
     "district_code": "717206",
-    "name": "Wangurer"
+    "name": "Wangurer",
+    "postal_code": "95543"
   }
 ]

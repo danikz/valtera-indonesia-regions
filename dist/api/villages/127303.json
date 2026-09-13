@@ -2,21 +2,25 @@
   {
     "code": "1273031001",
     "district_code": "127303",
-    "name": "Aek Habil"
+    "name": "Aek Habil",
+    "postal_code": "22533"
   },
   {
     "code": "1273031002",
     "district_code": "127303",
-    "name": "Aek Manis"
+    "name": "Aek Manis",
+    "postal_code": "22536"
   },
   {
     "code": "1273031003",
     "district_code": "127303",
-    "name": "Aek Muara Pinang"
+    "name": "Aek Muara Pinang",
+    "postal_code": "22537"
   },
   {
     "code": "1273031004",
     "district_code": "127303",
-    "name": "Aek Parombunan"
+    "name": "Aek Parombunan",
+    "postal_code": "22538"
   }
 ]

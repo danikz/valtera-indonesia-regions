@@ -2,36 +2,43 @@
   {
     "code": "1303082001",
     "district_code": "130308",
-    "name": "Limo Koto"
+    "name": "Limo Koto",
+    "postal_code": "27562"
   },
   {
     "code": "1303082002",
     "district_code": "130308",
-    "name": "Palaluar"
+    "name": "Palaluar",
+    "postal_code": "27562"
   },
   {
     "code": "1303082003",
     "district_code": "130308",
-    "name": "Guguak"
+    "name": "Guguak",
+    "postal_code": "27562"
   },
   {
     "code": "1303082004",
     "district_code": "130308",
-    "name": "Padang Laweh"
+    "name": "Padang Laweh",
+    "postal_code": "27562"
   },
   {
     "code": "1303082005",
     "district_code": "130308",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "27562"
   },
   {
     "code": "1303082006",
     "district_code": "130308",
-    "name": "Bukit Bual"
+    "name": "Bukit Bual",
+    "postal_code": "27562"
   },
   {
     "code": "1303082007",
     "district_code": "130308",
-    "name": "Padang Laweh Selatan"
+    "name": "Padang Laweh Selatan",
+    "postal_code": "27562"
   }
 ]

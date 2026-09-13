@@ -2,81 +2,97 @@
   {
     "code": "3322092001",
     "district_code": "332209",
-    "name": "Kebonagung"
+    "name": "Kebonagung",
+    "postal_code": "50123"
   },
   {
     "code": "3322092002",
     "district_code": "332209",
-    "name": "Candigaron"
+    "name": "Candigaron",
+    "postal_code": "50662"
   },
   {
     "code": "3322092003",
     "district_code": "332209",
-    "name": "Ngadikerso"
+    "name": "Ngadikerso",
+    "postal_code": "50662"
   },
   {
     "code": "3322092004",
     "district_code": "332209",
-    "name": "Lanjan"
+    "name": "Lanjan",
+    "postal_code": "50662"
   },
   {
     "code": "3322092005",
     "district_code": "332209",
-    "name": "Jubelan"
+    "name": "Jubelan",
+    "postal_code": "50662"
   },
   {
     "code": "3322092006",
     "district_code": "332209",
-    "name": "Sumowono"
+    "name": "Sumowono",
+    "postal_code": "50662"
   },
   {
     "code": "3322092007",
     "district_code": "332209",
-    "name": "Trayu"
+    "name": "Trayu",
+    "postal_code": "50662"
   },
   {
     "code": "3322092008",
     "district_code": "332209",
-    "name": "Kemitir"
+    "name": "Kemitir",
+    "postal_code": "50662"
   },
   {
     "code": "3322092009",
     "district_code": "332209",
-    "name": "Duren"
+    "name": "Duren",
+    "postal_code": "50662"
   },
   {
     "code": "3322092010",
     "district_code": "332209",
-    "name": "Pledokan"
+    "name": "Pledokan",
+    "postal_code": "50662"
   },
   {
     "code": "3322092011",
     "district_code": "332209",
-    "name": "Mendongan"
+    "name": "Mendongan",
+    "postal_code": "50662"
   },
   {
     "code": "3322092012",
     "district_code": "332209",
-    "name": "Bumen"
+    "name": "Bumen",
+    "postal_code": "50662"
   },
   {
     "code": "3322092013",
     "district_code": "332209",
-    "name": "Losari"
+    "name": "Losari",
+    "postal_code": "50611"
   },
   {
     "code": "3322092014",
     "district_code": "332209",
-    "name": "Kemawi"
+    "name": "Kemawi",
+    "postal_code": "50662"
   },
   {
     "code": "3322092015",
     "district_code": "332209",
-    "name": "Piyanggang"
+    "name": "Piyanggang",
+    "postal_code": "50662"
   },
   {
     "code": "3322092016",
     "district_code": "332209",
-    "name": "Keseneng"
+    "name": "Keseneng",
+    "postal_code": "50662"
   }
 ]

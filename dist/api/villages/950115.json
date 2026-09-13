@@ -2,36 +2,43 @@
   {
     "code": "9501152001",
     "district_code": "950115",
-    "name": "Wouma"
+    "name": "Wouma",
+    "postal_code": "99514"
   },
   {
     "code": "9501152002",
     "district_code": "950115",
-    "name": "Ketimavit"
+    "name": "Ketimavit",
+    "postal_code": "99514"
   },
   {
     "code": "9501152003",
     "district_code": "950115",
-    "name": "Wesakma"
+    "name": "Wesakma",
+    "postal_code": "99514"
   },
   {
     "code": "9501152004",
     "district_code": "950115",
-    "name": "Logonoba"
+    "name": "Logonoba",
+    "postal_code": "99514"
   },
   {
     "code": "9501152005",
     "district_code": "950115",
-    "name": "Wesakin"
+    "name": "Wesakin",
+    "postal_code": "99514"
   },
   {
     "code": "9501152006",
     "district_code": "950115",
-    "name": "Pipitmo"
+    "name": "Pipitmo",
+    "postal_code": "99514"
   },
   {
     "code": "9501152007",
     "district_code": "950115",
-    "name": "Sinarekowa"
+    "name": "Sinarekowa",
+    "postal_code": "99514"
   }
 ]

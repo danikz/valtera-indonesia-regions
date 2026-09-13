@@ -2,31 +2,37 @@
   {
     "code": "1209112008",
     "district_code": "120911",
-    "name": "Sei Kepayang Tengah"
+    "name": "Sei Kepayang Tengah",
+    "postal_code": "21381"
   },
   {
     "code": "1209112010",
     "district_code": "120911",
-    "name": "Sei Kepayang Kanan"
+    "name": "Sei Kepayang Kanan",
+    "postal_code": "21381"
   },
   {
     "code": "1209112011",
     "district_code": "120911",
-    "name": "Sei Paham"
+    "name": "Sei Paham",
+    "postal_code": "21381"
   },
   {
     "code": "1209112014",
     "district_code": "120911",
-    "name": "Pertahanan"
+    "name": "Pertahanan",
+    "postal_code": "21381"
   },
   {
     "code": "1209112015",
     "district_code": "120911",
-    "name": "Perbangunan"
+    "name": "Perbangunan",
+    "postal_code": "21381"
   },
   {
     "code": "1209112016",
     "district_code": "120911",
-    "name": "Bangun Baru"
+    "name": "Bangun Baru",
+    "postal_code": "21381"
   }
 ]

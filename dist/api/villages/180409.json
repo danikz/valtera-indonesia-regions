@@ -2,36 +2,43 @@
   {
     "code": "1804092003",
     "district_code": "180409",
-    "name": "Suka Marga"
+    "name": "Suka Marga",
+    "postal_code": "34880"
   },
   {
     "code": "1804092004",
     "district_code": "180409",
-    "name": "Sumber Agung"
+    "name": "Sumber Agung",
+    "postal_code": "34880"
   },
   {
     "code": "1804092005",
     "district_code": "180409",
-    "name": "Tuguratu"
+    "name": "Tuguratu",
+    "postal_code": "34880"
   },
   {
     "code": "1804092006",
     "district_code": "180409",
-    "name": "Banding Agung"
+    "name": "Banding Agung",
+    "postal_code": "34880"
   },
   {
     "code": "1804092010",
     "district_code": "180409",
-    "name": "Roworejo"
+    "name": "Roworejo",
+    "postal_code": "34880"
   },
   {
     "code": "1804092017",
     "district_code": "180409",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "34880"
   },
   {
     "code": "1804092018",
     "district_code": "180409",
-    "name": "Ringin Sari"
+    "name": "Ringin Sari",
+    "postal_code": "34880"
   }
 ]

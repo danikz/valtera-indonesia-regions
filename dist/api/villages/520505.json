@@ -2,71 +2,85 @@
   {
     "code": "5205051001",
     "district_code": "520505",
-    "name": "Monta Baru"
+    "name": "Monta Baru",
+    "postal_code": "84219"
   },
   {
     "code": "5205051002",
     "district_code": "520505",
-    "name": "Kandai II"
+    "name": "Kandai II",
+    "postal_code": "84218"
   },
   {
     "code": "5205051003",
     "district_code": "520505",
-    "name": "Simpasai"
+    "name": "Simpasai",
+    "postal_code": "84216"
   },
   {
     "code": "5205052004",
     "district_code": "520505",
-    "name": "Saneo"
+    "name": "Saneo",
+    "postal_code": "84251"
   },
   {
     "code": "5205052005",
     "district_code": "520505",
-    "name": "Wawonduru"
+    "name": "Wawonduru",
+    "postal_code": "84251"
   },
   {
     "code": "5205052006",
     "district_code": "520505",
-    "name": "Matua"
+    "name": "Matua",
+    "postal_code": "84251"
   },
   {
     "code": "5205052007",
     "district_code": "520505",
-    "name": "Nowa"
+    "name": "Nowa",
+    "postal_code": "84251"
   },
   {
     "code": "5205052008",
     "district_code": "520505",
-    "name": "Bara"
+    "name": "Bara",
+    "postal_code": "84251"
   },
   {
     "code": "5205052009",
     "district_code": "520505",
-    "name": "Mada Prama"
+    "name": "Mada Prama",
+    "postal_code": "84251"
   },
   {
     "code": "5205052010",
     "district_code": "520505",
-    "name": "Riwo"
+    "name": "Riwo",
+    "postal_code": "84251"
   },
   {
     "code": "5205052011",
     "district_code": "520505",
-    "name": "Mumbu"
+    "name": "Mumbu",
+    "postal_code": "84251"
   },
   {
     "code": "5205052012",
     "district_code": "520505",
-    "name": "Sera Kapi"
+    "name": "Sera Kapi",
+    "postal_code": "84251"
   },
   {
     "code": "5205052013",
     "district_code": "520505",
-    "name": "Raba Baka"
+    "name": "Raba Baka",
+    "postal_code": "84251"
   },
   {
     "code": "5205052014",
     "district_code": "520505",
-    "name": "Baka Jaya"
+    "name": "Baka Jaya",
+    "postal_code": "84251"
   }
 ]

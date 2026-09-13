@@ -2,46 +2,55 @@
   {
     "code": "1303032001",
     "district_code": "130303",
-    "name": "Timbulun"
+    "name": "Timbulun",
+    "postal_code": "27571"
   },
   {
     "code": "1303032002",
     "district_code": "130303",
-    "name": "Tanjung Gadang"
+    "name": "Tanjung Gadang",
+    "postal_code": "27571"
   },
   {
     "code": "1303032003",
     "district_code": "130303",
-    "name": "Taratak Baru"
+    "name": "Taratak Baru",
+    "postal_code": "27571"
   },
   {
     "code": "1303032004",
     "district_code": "130303",
-    "name": "Pulasan"
+    "name": "Pulasan",
+    "postal_code": "27571"
   },
   {
     "code": "1303032005",
     "district_code": "130303",
-    "name": "Langki"
+    "name": "Langki",
+    "postal_code": "27571"
   },
   {
     "code": "1303032006",
     "district_code": "130303",
-    "name": "Sibakur"
+    "name": "Sibakur",
+    "postal_code": "27571"
   },
   {
     "code": "1303032007",
     "district_code": "130303",
-    "name": "Tanjung Lolo"
+    "name": "Tanjung Lolo",
+    "postal_code": "27571"
   },
   {
     "code": "1303032008",
     "district_code": "130303",
-    "name": "Taratak Baru Utara"
+    "name": "Taratak Baru Utara",
+    "postal_code": "27571"
   },
   {
     "code": "1303032009",
     "district_code": "130303",
-    "name": "Sinyamu"
+    "name": "Sinyamu",
+    "postal_code": "27571"
   }
 ]

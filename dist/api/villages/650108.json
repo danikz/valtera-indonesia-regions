@@ -2,31 +2,37 @@
   {
     "code": "6501082001",
     "district_code": "650108",
-    "name": "Long Tungu"
+    "name": "Long Tungu",
+    "postal_code": "77262"
   },
   {
     "code": "6501082002",
     "district_code": "650108",
-    "name": "Long Bang"
+    "name": "Long Bang",
+    "postal_code": "77262"
   },
   {
     "code": "6501082003",
     "district_code": "650108",
-    "name": "Long Telenjau"
+    "name": "Long Telenjau",
+    "postal_code": "77262"
   },
   {
     "code": "6501082004",
     "district_code": "650108",
-    "name": "Naha Aya"
+    "name": "Naha Aya",
+    "postal_code": "77262"
   },
   {
     "code": "6501082005",
     "district_code": "650108",
-    "name": "Long Lembu"
+    "name": "Long Lembu",
+    "postal_code": "77262"
   },
   {
     "code": "6501082006",
     "district_code": "650108",
-    "name": "Long Bang Hulu"
+    "name": "Long Bang Hulu",
+    "postal_code": "77262"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "7326212001",
     "district_code": "732621",
-    "name": "Awan"
+    "name": "Awan",
+    "postal_code": "91854"
   },
   {
     "code": "7326212002",
     "district_code": "732621",
-    "name": "Batu Lotong"
+    "name": "Batu Lotong",
+    "postal_code": "91854"
   },
   {
     "code": "7326212003",
     "district_code": "732621",
-    "name": "Buntu Karua"
+    "name": "Buntu Karua",
+    "postal_code": "91854"
   },
   {
     "code": "7326212004",
     "district_code": "732621",
-    "name": "Londong Biang"
+    "name": "Londong Biang",
+    "postal_code": "91854"
   }
 ]

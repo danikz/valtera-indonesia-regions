@@ -2,46 +2,55 @@
   {
     "code": "7313041001",
     "district_code": "731304",
-    "name": "Akkajeng"
+    "name": "Akkajeng",
+    "postal_code": "90982"
   },
   {
     "code": "7313041002",
     "district_code": "731304",
-    "name": "Assorajang"
+    "name": "Assorajang",
+    "postal_code": "90982"
   },
   {
     "code": "7313041003",
     "district_code": "731304",
-    "name": "Minangae"
+    "name": "Minangae",
+    "postal_code": "90982"
   },
   {
     "code": "7313042004",
     "district_code": "731304",
-    "name": "Akkotengeng"
+    "name": "Akkotengeng",
+    "postal_code": "90982"
   },
   {
     "code": "7313042005",
     "district_code": "731304",
-    "name": "Sakkoli"
+    "name": "Sakkoli",
+    "postal_code": "90982"
   },
   {
     "code": "7313042006",
     "district_code": "731304",
-    "name": "Barangmamase"
+    "name": "Barangmamase",
+    "postal_code": "90982"
   },
   {
     "code": "7313042007",
     "district_code": "731304",
-    "name": "Salobulo"
+    "name": "Salobulo",
+    "postal_code": "90982"
   },
   {
     "code": "7313042008",
     "district_code": "731304",
-    "name": "Towalida"
+    "name": "Towalida",
+    "postal_code": "90982"
   },
   {
     "code": "7313042009",
     "district_code": "731304",
-    "name": "Alewadeng"
+    "name": "Alewadeng",
+    "postal_code": "90982"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3202382001",
     "district_code": "320238",
-    "name": "Purabaya"
+    "name": "Purabaya",
+    "postal_code": "43187"
   },
   {
     "code": "3202382002",
     "district_code": "320238",
-    "name": "Neglasari"
+    "name": "Neglasari",
+    "postal_code": "43187"
   },
   {
     "code": "3202382003",
     "district_code": "320238",
-    "name": "Pagelaran"
+    "name": "Pagelaran",
+    "postal_code": "43187"
   },
   {
     "code": "3202382004",
     "district_code": "320238",
-    "name": "Cimerang"
+    "name": "Cimerang",
+    "postal_code": "43187"
   },
   {
     "code": "3202382005",
     "district_code": "320238",
-    "name": "Citamiang"
+    "name": "Citamiang",
+    "postal_code": "43187"
   },
   {
     "code": "3202382006",
     "district_code": "320238",
-    "name": "Margaluyu"
+    "name": "Margaluyu",
+    "postal_code": "43187"
   },
   {
     "code": "3202382007",
     "district_code": "320238",
-    "name": "Cicukang"
+    "name": "Cicukang",
+    "postal_code": "43187"
   }
 ]

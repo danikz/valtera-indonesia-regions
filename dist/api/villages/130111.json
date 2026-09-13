@@ -2,51 +2,61 @@
   {
     "code": "1301112001",
     "district_code": "130111",
-    "name": "Tapan"
+    "name": "Tapan",
+    "postal_code": "25672"
   },
   {
     "code": "1301112002",
     "district_code": "130111",
-    "name": "Pasar Tapan"
+    "name": "Pasar Tapan",
+    "postal_code": "25672"
   },
   {
     "code": "1301112007",
     "district_code": "130111",
-    "name": "Batang Arah Tapan"
+    "name": "Batang Arah Tapan",
+    "postal_code": "25672"
   },
   {
     "code": "1301112008",
     "district_code": "130111",
-    "name": "Ampang Tulak Tapan"
+    "name": "Ampang Tulak Tapan",
+    "postal_code": "25672"
   },
   {
     "code": "1301112009",
     "district_code": "130111",
-    "name": "Tanjung Pondok Tapan"
+    "name": "Tanjung Pondok Tapan",
+    "postal_code": "25672"
   },
   {
     "code": "1301112010",
     "district_code": "130111",
-    "name": "Batang Betung Tapan"
+    "name": "Batang Betung Tapan",
+    "postal_code": "25672"
   },
   {
     "code": "1301112016",
     "district_code": "130111",
-    "name": "Bukit Buai Tapan"
+    "name": "Bukit Buai Tapan",
+    "postal_code": "25672"
   },
   {
     "code": "1301112017",
     "district_code": "130111",
-    "name": "Riak Danau Tapan"
+    "name": "Riak Danau Tapan",
+    "postal_code": "25672"
   },
   {
     "code": "1301112018",
     "district_code": "130111",
-    "name": "Koto Anau Tapan"
+    "name": "Koto Anau Tapan",
+    "postal_code": "25672"
   },
   {
     "code": "1301112019",
     "district_code": "130111",
-    "name": "Dusun Baru Tapan"
+    "name": "Dusun Baru Tapan",
+    "postal_code": "25672"
   }
 ]

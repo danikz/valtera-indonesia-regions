@@ -2,36 +2,43 @@
   {
     "code": "9301182001",
     "district_code": "930118",
-    "name": "Tabonji"
+    "name": "Tabonji",
+    "postal_code": "99642"
   },
   {
     "code": "9301182002",
     "district_code": "930118",
-    "name": "Wanggambi"
+    "name": "Wanggambi",
+    "postal_code": "99642"
   },
   {
     "code": "9301182003",
     "district_code": "930118",
-    "name": "Suam"
+    "name": "Suam",
+    "postal_code": "99642"
   },
   {
     "code": "9301182004",
     "district_code": "930118",
-    "name": "Yamuka"
+    "name": "Yamuka",
+    "postal_code": "99642"
   },
   {
     "code": "9301182005",
     "district_code": "930118",
-    "name": "Iromoro"
+    "name": "Iromoro",
+    "postal_code": "99642"
   },
   {
     "code": "9301182006",
     "district_code": "930118",
-    "name": "Konjombando"
+    "name": "Konjombando",
+    "postal_code": "99642"
   },
   {
     "code": "9301182007",
     "district_code": "930118",
-    "name": "Yeraha"
+    "name": "Yeraha",
+    "postal_code": "99642"
   }
 ]

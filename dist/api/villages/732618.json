@@ -2,36 +2,43 @@
   {
     "code": "7326181002",
     "district_code": "732618",
-    "name": "Bokin"
+    "name": "Bokin",
+    "postal_code": "91842"
   },
   {
     "code": "7326181005",
     "district_code": "732618",
-    "name": "Buangin"
+    "name": "Buangin",
+    "postal_code": "91842"
   },
   {
     "code": "7326182001",
     "district_code": "732618",
-    "name": "Rantebua"
+    "name": "Rantebua",
+    "postal_code": "91842"
   },
   {
     "code": "7326182003",
     "district_code": "732618",
-    "name": "Pitung Penanian"
+    "name": "Pitung Penanian",
+    "postal_code": "91842"
   },
   {
     "code": "7326182004",
     "district_code": "732618",
-    "name": "Ma'kuan Pare"
+    "name": "Ma'kuan Pare",
+    "postal_code": "91842"
   },
   {
     "code": "7326182006",
     "district_code": "732618",
-    "name": "Rantebua Sumalu"
+    "name": "Rantebua Sumalu",
+    "postal_code": "91842"
   },
   {
     "code": "7326182007",
     "district_code": "732618",
-    "name": "Rantebua Sanggalangi"
+    "name": "Rantebua Sanggalangi",
+    "postal_code": "91842"
   }
 ]

@@ -2,16 +2,19 @@
   {
     "code": "2103222001",
     "district_code": "210322",
-    "name": "Air Kumpai"
+    "name": "Air Kumpai",
+    "postal_code": "29785"
   },
   {
     "code": "2103222002",
     "district_code": "210322",
-    "name": "Batu Belanak"
+    "name": "Batu Belanak",
+    "postal_code": "29785"
   },
   {
     "code": "2103222003",
     "district_code": "210322",
-    "name": "Gunung Jambat"
+    "name": "Gunung Jambat",
+    "postal_code": "29785"
   }
 ]

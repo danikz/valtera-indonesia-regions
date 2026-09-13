@@ -2,16 +2,19 @@
   {
     "code": "1305042002",
     "district_code": "130504",
-    "name": "Sicincin"
+    "name": "Sicincin",
+    "postal_code": "25584"
   },
   {
     "code": "1305042003",
     "district_code": "130504",
-    "name": "Lubuk Pandan"
+    "name": "Lubuk Pandan",
+    "postal_code": "25584"
   },
   {
     "code": "1305042004",
     "district_code": "130504",
-    "name": "Sungai Asam"
+    "name": "Sungai Asam",
+    "postal_code": "25584"
   }
 ]

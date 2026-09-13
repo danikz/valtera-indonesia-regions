@@ -2,56 +2,67 @@
   {
     "code": "5309011002",
     "district_code": "530901",
-    "name": "Aimere"
+    "name": "Aimere",
+    "postal_code": "86452"
   },
   {
     "code": "5309011003",
     "district_code": "530901",
-    "name": "Foa"
+    "name": "Foa",
+    "postal_code": "86452"
   },
   {
     "code": "5309012001",
     "district_code": "530901",
-    "name": "Keligejo"
+    "name": "Keligejo",
+    "postal_code": "86452"
   },
   {
     "code": "5309012014",
     "district_code": "530901",
-    "name": "Aimere Timur"
+    "name": "Aimere Timur",
+    "postal_code": "86452"
   },
   {
     "code": "5309012018",
     "district_code": "530901",
-    "name": "Heawea"
+    "name": "Heawea",
+    "postal_code": "86452"
   },
   {
     "code": "5309012019",
     "district_code": "530901",
-    "name": "Legelapu"
+    "name": "Legelapu",
+    "postal_code": "86452"
   },
   {
     "code": "5309012020",
     "district_code": "530901",
-    "name": "Lekogoko"
+    "name": "Lekogoko",
+    "postal_code": "86452"
   },
   {
     "code": "5309012021",
     "district_code": "530901",
-    "name": "Binawali"
+    "name": "Binawali",
+    "postal_code": "86452"
   },
   {
     "code": "5309012022",
     "district_code": "530901",
-    "name": "Kila"
+    "name": "Kila",
+    "postal_code": "86452"
   },
   {
     "code": "5309012023",
     "district_code": "530901",
-    "name": "Waesae"
+    "name": "Waesae",
+    "postal_code": "86452"
   },
   {
     "code": "5309012024",
     "district_code": "530901",
-    "name": "Mawwo Kisa"
+    "name": "Mawwo Kisa",
+    "postal_code": "86452"
   }
 ]

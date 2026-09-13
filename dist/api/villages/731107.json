@@ -2,31 +2,37 @@
   {
     "code": "7311071001",
     "district_code": "731107",
-    "name": "Takkalasi"
+    "name": "Takkalasi",
+    "postal_code": "90762"
   },
   {
     "code": "7311072002",
     "district_code": "731107",
-    "name": "Balusu"
+    "name": "Balusu",
+    "postal_code": "90762"
   },
   {
     "code": "7311072003",
     "district_code": "731107",
-    "name": "Lampoko"
+    "name": "Lampoko",
+    "postal_code": "90762"
   },
   {
     "code": "7311072004",
     "district_code": "731107",
-    "name": "Kamiri"
+    "name": "Kamiri",
+    "postal_code": "90762"
   },
   {
     "code": "7311072005",
     "district_code": "731107",
-    "name": "Madello"
+    "name": "Madello",
+    "postal_code": "90762"
   },
   {
     "code": "7311072006",
     "district_code": "731107",
-    "name": "Binuang"
+    "name": "Binuang",
+    "postal_code": "90762"
   }
 ]

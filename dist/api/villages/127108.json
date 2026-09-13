@@ -2,31 +2,37 @@
   {
     "code": "1271081001",
     "district_code": "127108",
-    "name": "Belawan I"
+    "name": "Belawan I",
+    "postal_code": "20411"
   },
   {
     "code": "1271081002",
     "district_code": "127108",
-    "name": "Belawan II"
+    "name": "Belawan II",
+    "postal_code": "20412"
   },
   {
     "code": "1271081003",
     "district_code": "127108",
-    "name": "Belawan Bahagia"
+    "name": "Belawan Bahagia",
+    "postal_code": "20415"
   },
   {
     "code": "1271081004",
     "district_code": "127108",
-    "name": "Belawan Bahari"
+    "name": "Belawan Bahari",
+    "postal_code": "20414"
   },
   {
     "code": "1271081005",
     "district_code": "127108",
-    "name": "Belawan Sicanang"
+    "name": "Belawan Sicanang",
+    "postal_code": "20412"
   },
   {
     "code": "1271081006",
     "district_code": "127108",
-    "name": "Bagan Deli"
+    "name": "Bagan Deli",
+    "postal_code": "20414"
   }
 ]

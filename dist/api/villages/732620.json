@@ -2,31 +2,37 @@
   {
     "code": "7326202001",
     "district_code": "732620",
-    "name": "Benteng Ka'do"
+    "name": "Benteng Ka'do",
+    "postal_code": "91848"
   },
   {
     "code": "7326202002",
     "district_code": "732620",
-    "name": "Sikuku'"
+    "name": "Sikuku'",
+    "postal_code": "91848"
   },
   {
     "code": "7326202003",
     "district_code": "732620",
-    "name": "Polo Padang"
+    "name": "Polo Padang",
+    "postal_code": "91848"
   },
   {
     "code": "7326202004",
     "district_code": "732620",
-    "name": "Kantun Poya"
+    "name": "Kantun Poya",
+    "postal_code": "91848"
   },
   {
     "code": "7326202005",
     "district_code": "732620",
-    "name": "Kapala Pitu"
+    "name": "Kapala Pitu",
+    "postal_code": "91848"
   },
   {
     "code": "7326202006",
     "district_code": "732620",
-    "name": "Bontong Mamullu"
+    "name": "Bontong Mamullu",
+    "postal_code": "91848"
   }
 ]

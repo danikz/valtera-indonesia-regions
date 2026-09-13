@@ -2,26 +2,31 @@
   {
     "code": "1209282001",
     "district_code": "120928",
-    "name": "Silo Baru"
+    "name": "Silo Baru",
+    "postal_code": "21267"
   },
   {
     "code": "1209282002",
     "district_code": "120928",
-    "name": "Silo Lama"
+    "name": "Silo Lama",
+    "postal_code": "21267"
   },
   {
     "code": "1209282003",
     "district_code": "120928",
-    "name": "Silo Bonto"
+    "name": "Silo Bonto",
+    "postal_code": "21267"
   },
   {
     "code": "1209282004",
     "district_code": "120928",
-    "name": "Lubuk Palas"
+    "name": "Lubuk Palas",
+    "postal_code": "21267"
   },
   {
     "code": "1209282005",
     "district_code": "120928",
-    "name": "Bangun Sari"
+    "name": "Bangun Sari",
+    "postal_code": "21267"
   }
 ]

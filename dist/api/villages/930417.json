@@ -2,41 +2,49 @@
   {
     "code": "9304172001",
     "district_code": "930417",
-    "name": "Yausakor"
+    "name": "Yausakor",
+    "postal_code": "99787"
   },
   {
     "code": "9304172002",
     "district_code": "930417",
-    "name": "Damen"
+    "name": "Damen",
+    "postal_code": "99787"
   },
   {
     "code": "9304172003",
     "district_code": "930417",
-    "name": "Biwar Darat"
+    "name": "Biwar Darat",
+    "postal_code": "99787"
   },
   {
     "code": "9304172004",
     "district_code": "930417",
-    "name": "Kaimo"
+    "name": "Kaimo",
+    "postal_code": "99787"
   },
   {
     "code": "9304172005",
     "district_code": "930417",
-    "name": "Awok"
+    "name": "Awok",
+    "postal_code": "99787"
   },
   {
     "code": "9304172006",
     "district_code": "930417",
-    "name": "Fos"
+    "name": "Fos",
+    "postal_code": "99787"
   },
   {
     "code": "9304172007",
     "district_code": "930417",
-    "name": "Waganu"
+    "name": "Waganu",
+    "postal_code": "99787"
   },
   {
     "code": "9304172008",
     "district_code": "930417",
-    "name": "Sakor"
+    "name": "Sakor",
+    "postal_code": "99787"
   }
 ]

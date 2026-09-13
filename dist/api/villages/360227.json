@@ -2,51 +2,61 @@
   {
     "code": "3602272001",
     "district_code": "360227",
-    "name": "Datarcae"
+    "name": "Datarcae",
+    "postal_code": "42365"
   },
   {
     "code": "3602272002",
     "district_code": "360227",
-    "name": "Cirinten"
+    "name": "Cirinten",
+    "postal_code": "42365"
   },
   {
     "code": "3602272003",
     "district_code": "360227",
-    "name": "Karangnunggal"
+    "name": "Karangnunggal",
+    "postal_code": "42365"
   },
   {
     "code": "3602272004",
     "district_code": "360227",
-    "name": "Kadudamas"
+    "name": "Kadudamas",
+    "postal_code": "42365"
   },
   {
     "code": "3602272005",
     "district_code": "360227",
-    "name": "Badur"
+    "name": "Badur",
+    "postal_code": "42365"
   },
   {
     "code": "3602272006",
     "district_code": "360227",
-    "name": "Parakanlima"
+    "name": "Parakanlima",
+    "postal_code": "42365"
   },
   {
     "code": "3602272007",
     "district_code": "360227",
-    "name": "Nanggerang"
+    "name": "Nanggerang",
+    "postal_code": "42365"
   },
   {
     "code": "3602272008",
     "district_code": "360227",
-    "name": "Cempaka"
+    "name": "Cempaka",
+    "postal_code": "42365"
   },
   {
     "code": "3602272009",
     "district_code": "360227",
-    "name": "Karoya"
+    "name": "Karoya",
+    "postal_code": "42365"
   },
   {
     "code": "3602272010",
     "district_code": "360227",
-    "name": "Cibarani"
+    "name": "Cibarani",
+    "postal_code": "42365"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "1609192001",
     "district_code": "160919",
-    "name": "Rantau Panjang"
+    "name": "Rantau Panjang",
+    "postal_code": "32211"
   },
   {
     "code": "1609192002",
     "district_code": "160919",
-    "name": "Sukajaya"
+    "name": "Sukajaya",
+    "postal_code": "32211"
   },
   {
     "code": "1609192003",
     "district_code": "160919",
-    "name": "Banjar Agung"
+    "name": "Banjar Agung",
+    "postal_code": "32211"
   },
   {
     "code": "1609192004",
     "district_code": "160919",
-    "name": "Ruos"
+    "name": "Ruos",
+    "postal_code": "32211"
   },
   {
     "code": "1609192005",
     "district_code": "160919",
-    "name": "Gunung Cahya"
+    "name": "Gunung Cahya",
+    "postal_code": "32211"
   },
   {
     "code": "1609192006",
     "district_code": "160919",
-    "name": "Bumi Jaya"
+    "name": "Bumi Jaya",
+    "postal_code": "32211"
   },
   {
     "code": "1609192007",
     "district_code": "160919",
-    "name": "Bendi"
+    "name": "Bendi",
+    "postal_code": "32211"
   },
   {
     "code": "1609192008",
     "district_code": "160919",
-    "name": "Pekuolan"
+    "name": "Pekuolan",
+    "postal_code": "32211"
   },
   {
     "code": "1609192009",
     "district_code": "160919",
-    "name": "Pelawi"
+    "name": "Pelawi",
+    "postal_code": "32211"
   },
   {
     "code": "1609192011",
     "district_code": "160919",
-    "name": "Majar"
+    "name": "Majar",
+    "postal_code": "32211"
   },
   {
     "code": "1609192012",
     "district_code": "160919",
-    "name": "Bumi Agung Jaya"
+    "name": "Bumi Agung Jaya",
+    "postal_code": "32211"
   }
 ]

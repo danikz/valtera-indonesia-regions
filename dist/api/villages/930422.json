@@ -2,31 +2,37 @@
   {
     "code": "9304222001",
     "district_code": "930422",
-    "name": "Yerfum"
+    "name": "Yerfum",
+    "postal_code": "99771"
   },
   {
     "code": "9304222002",
     "district_code": "930422",
-    "name": "Suagai"
+    "name": "Suagai",
+    "postal_code": "99771"
   },
   {
     "code": "9304222003",
     "district_code": "930422",
-    "name": "Sohomane"
+    "name": "Sohomane",
+    "postal_code": "99771"
   },
   {
     "code": "9304222004",
     "district_code": "930422",
-    "name": "Sagare"
+    "name": "Sagare",
+    "postal_code": "99776"
   },
   {
     "code": "9304222005",
     "district_code": "930422",
-    "name": "Yefuwagi"
+    "name": "Yefuwagi",
+    "postal_code": "99776"
   },
   {
     "code": "9304222006",
     "district_code": "930422",
-    "name": "Wagi"
+    "name": "Wagi",
+    "postal_code": "99776"
   }
 ]

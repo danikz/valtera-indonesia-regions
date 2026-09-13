@@ -2,31 +2,37 @@
   {
     "code": "5201152001",
     "district_code": "520115",
-    "name": "Kuripan"
+    "name": "Kuripan",
+    "postal_code": "83360"
   },
   {
     "code": "5201152002",
     "district_code": "520115",
-    "name": "Jagaraga"
+    "name": "Jagaraga",
+    "postal_code": "83360"
   },
   {
     "code": "5201152003",
     "district_code": "520115",
-    "name": "Kuripan Utara"
+    "name": "Kuripan Utara",
+    "postal_code": "83360"
   },
   {
     "code": "5201152004",
     "district_code": "520115",
-    "name": "Kuripan Selatan"
+    "name": "Kuripan Selatan",
+    "postal_code": "83360"
   },
   {
     "code": "5201152005",
     "district_code": "520115",
-    "name": "Kuripan Timur"
+    "name": "Kuripan Timur",
+    "postal_code": "83360"
   },
   {
     "code": "5201152006",
     "district_code": "520115",
-    "name": "Giri Sasak"
+    "name": "Giri Sasak",
+    "postal_code": "83360"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1901052001",
     "district_code": "190105",
-    "name": "Air Ruai"
+    "name": "Air Ruai",
+    "postal_code": "33255"
   },
   {
     "code": "1901052002",
     "district_code": "190105",
-    "name": "Air Duren"
+    "name": "Air Duren",
+    "postal_code": "33255"
   },
   {
     "code": "1901052003",
     "district_code": "190105",
-    "name": "Penyamun"
+    "name": "Penyamun",
+    "postal_code": "33251"
   },
   {
     "code": "1901052004",
     "district_code": "190105",
-    "name": "Sempan"
+    "name": "Sempan",
+    "postal_code": "33251"
   },
   {
     "code": "1901052005",
     "district_code": "190105",
-    "name": "Pemali"
+    "name": "Pemali",
+    "postal_code": "33255"
   },
   {
     "code": "1901052006",
     "district_code": "190105",
-    "name": "Karya Makmur"
+    "name": "Karya Makmur",
+    "postal_code": "33255"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "9501022001",
     "district_code": "950102",
-    "name": "Jiwika"
+    "name": "Jiwika",
+    "postal_code": "99521"
   },
   {
     "code": "9501022002",
     "district_code": "950102",
-    "name": "Mulima"
+    "name": "Mulima",
+    "postal_code": "99512"
   },
   {
     "code": "9501022003",
     "district_code": "950102",
-    "name": "Waga-Waga"
+    "name": "Waga-Waga",
+    "postal_code": "99512"
   },
   {
     "code": "9501022004",
     "district_code": "950102",
-    "name": "Abusa"
+    "name": "Abusa",
+    "postal_code": "99512"
   },
   {
     "code": "9501022005",
     "district_code": "950102",
-    "name": "Eragama"
+    "name": "Eragama",
+    "postal_code": "99512"
   },
   {
     "code": "9501022006",
     "district_code": "950102",
-    "name": "Kimima"
+    "name": "Kimima",
+    "postal_code": "99521"
   },
   {
     "code": "9501022007",
     "district_code": "950102",
-    "name": "Mebagaima"
+    "name": "Mebagaima",
+    "postal_code": "99521"
   },
   {
     "code": "9501022008",
     "district_code": "950102",
-    "name": "Iyantik"
+    "name": "Iyantik",
+    "postal_code": "99512"
   },
   {
     "code": "9501022009",
     "district_code": "950102",
-    "name": "Umpagalo"
+    "name": "Umpagalo",
+    "postal_code": "99521"
   },
   {
     "code": "9501022010",
     "district_code": "950102",
-    "name": "Hopama"
+    "name": "Hopama",
+    "postal_code": "99512"
   },
   {
     "code": "9501022011",
     "district_code": "950102",
-    "name": "Obya"
+    "name": "Obya",
+    "postal_code": "99521"
   },
   {
     "code": "9501022012",
     "district_code": "950102",
-    "name": "Utkolo Satu"
+    "name": "Utkolo Satu",
+    "postal_code": "99512"
   }
 ]

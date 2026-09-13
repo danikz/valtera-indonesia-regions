@@ -2,11 +2,13 @@
   {
     "code": "1903082001",
     "district_code": "190308",
-    "name": "Pongok"
+    "name": "Pongok",
+    "postal_code": "33791"
   },
   {
     "code": "1903082002",
     "district_code": "190308",
-    "name": "Celagen"
+    "name": "Celagen",
+    "postal_code": "33791"
   }
 ]

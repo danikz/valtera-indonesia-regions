@@ -2,61 +2,73 @@
   {
     "code": "5102052001",
     "district_code": "510205",
-    "name": "Sudimara"
+    "name": "Sudimara",
+    "postal_code": "82115"
   },
   {
     "code": "5102052002",
     "district_code": "510205",
-    "name": "Gubug"
+    "name": "Gubug",
+    "postal_code": "82115"
   },
   {
     "code": "5102052003",
     "district_code": "510205",
-    "name": "Bongan"
+    "name": "Bongan",
+    "postal_code": "82112"
   },
   {
     "code": "5102052004",
     "district_code": "510205",
-    "name": "Delod Peken"
+    "name": "Delod Peken",
+    "postal_code": "82113"
   },
   {
     "code": "5102052005",
     "district_code": "510205",
-    "name": "Dauh Peken"
+    "name": "Dauh Peken",
+    "postal_code": "82111"
   },
   {
     "code": "5102052006",
     "district_code": "510205",
-    "name": "Dajan Peken"
+    "name": "Dajan Peken",
+    "postal_code": "82114"
   },
   {
     "code": "5102052007",
     "district_code": "510205",
-    "name": "Denbantas"
+    "name": "Denbantas",
+    "postal_code": "82115"
   },
   {
     "code": "5102052008",
     "district_code": "510205",
-    "name": "Subamia"
+    "name": "Subamia",
+    "postal_code": "82115"
   },
   {
     "code": "5102052009",
     "district_code": "510205",
-    "name": "Wanasari"
+    "name": "Wanasari",
+    "postal_code": "82111"
   },
   {
     "code": "5102052010",
     "district_code": "510205",
-    "name": "Tunjuk"
+    "name": "Tunjuk",
+    "postal_code": "82115"
   },
   {
     "code": "5102052011",
     "district_code": "510205",
-    "name": "Buahan"
+    "name": "Buahan",
+    "postal_code": "82115"
   },
   {
     "code": "5102052012",
     "district_code": "510205",
-    "name": "Sedandan"
+    "name": "Sedandan",
+    "postal_code": "82115"
   }
 ]

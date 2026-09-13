@@ -2,21 +2,25 @@
   {
     "code": "3471011001",
     "district_code": "347101",
-    "name": "Kricak"
+    "name": "Kricak",
+    "postal_code": "55242"
   },
   {
     "code": "3471011002",
     "district_code": "347101",
-    "name": "Karangwaru"
+    "name": "Karangwaru",
+    "postal_code": "55241"
   },
   {
     "code": "3471011003",
     "district_code": "347101",
-    "name": "Tegalrejo"
+    "name": "Tegalrejo",
+    "postal_code": "55244"
   },
   {
     "code": "3471011004",
     "district_code": "347101",
-    "name": "Bener"
+    "name": "Bener",
+    "postal_code": "55243"
   }
 ]

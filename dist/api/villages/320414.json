@@ -2,31 +2,37 @@
   {
     "code": "3204142001",
     "district_code": "320414",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "40376"
   },
   {
     "code": "3204142002",
     "district_code": "320414",
-    "name": "Bojongmanggu"
+    "name": "Bojongmanggu",
+    "postal_code": "40376"
   },
   {
     "code": "3204142003",
     "district_code": "320414",
-    "name": "Rancatungku"
+    "name": "Rancatungku",
+    "postal_code": "40376"
   },
   {
     "code": "3204142004",
     "district_code": "320414",
-    "name": "Bojongkunci"
+    "name": "Bojongkunci",
+    "postal_code": "40376"
   },
   {
     "code": "3204142005",
     "district_code": "320414",
-    "name": "Rancamulya"
+    "name": "Rancamulya",
+    "postal_code": "40376"
   },
   {
     "code": "3204142006",
     "district_code": "320414",
-    "name": "Langonsari"
+    "name": "Langonsari",
+    "postal_code": "40376"
   }
 ]

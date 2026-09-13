@@ -2,36 +2,43 @@
   {
     "code": "1706142001",
     "district_code": "170614",
-    "name": "Dusun Baru V Koto"
+    "name": "Dusun Baru V Koto",
+    "postal_code": "38765"
   },
   {
     "code": "1706142002",
     "district_code": "170614",
-    "name": "Air Dikit"
+    "name": "Air Dikit",
+    "postal_code": "38765"
   },
   {
     "code": "1706142003",
     "district_code": "170614",
-    "name": "Pondok Lunang"
+    "name": "Pondok Lunang",
+    "postal_code": "38765"
   },
   {
     "code": "1706142004",
     "district_code": "170614",
-    "name": "Sari Bulan"
+    "name": "Sari Bulan",
+    "postal_code": "38765"
   },
   {
     "code": "1706142005",
     "district_code": "170614",
-    "name": "Sari Makmur"
+    "name": "Sari Makmur",
+    "postal_code": "38765"
   },
   {
     "code": "1706142006",
     "district_code": "170614",
-    "name": "Sumber Sari"
+    "name": "Sumber Sari",
+    "postal_code": "38765"
   },
   {
     "code": "1706142007",
     "district_code": "170614",
-    "name": "Air Kasai"
+    "name": "Air Kasai",
+    "postal_code": "38765"
   }
 ]

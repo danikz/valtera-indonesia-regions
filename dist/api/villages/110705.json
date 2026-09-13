@@ -2,26 +2,31 @@
   {
     "code": "1107052001",
     "district_code": "110705",
-    "name": "Bangkeh"
+    "name": "Bangkeh",
+    "postal_code": "24167"
   },
   {
     "code": "1107052002",
     "district_code": "110705",
-    "name": "Pucok"
+    "name": "Pucok",
+    "postal_code": "24167"
   },
   {
     "code": "1107052004",
     "district_code": "110705",
-    "name": "Leupu"
+    "name": "Leupu",
+    "postal_code": "24167"
   },
   {
     "code": "1107052005",
     "district_code": "110705",
-    "name": "Pulo Loih"
+    "name": "Pulo Loih",
+    "postal_code": "24167"
   },
   {
     "code": "1107052006",
     "district_code": "110705",
-    "name": "Keune"
+    "name": "Keune",
+    "postal_code": "24167"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "3509102001",
     "district_code": "350910",
-    "name": "Karangduren"
+    "name": "Karangduren",
+    "postal_code": "68161"
   },
   {
     "code": "3509102002",
     "district_code": "350910",
-    "name": "Karang Semanding"
+    "name": "Karang Semanding",
+    "postal_code": "68161"
   },
   {
     "code": "3509102003",
     "district_code": "350910",
-    "name": "Tutul"
+    "name": "Tutul",
+    "postal_code": "68161"
   },
   {
     "code": "3509102004",
     "district_code": "350910",
-    "name": "Balungkulon"
+    "name": "Balungkulon",
+    "postal_code": "68161"
   },
   {
     "code": "3509102005",
     "district_code": "350910",
-    "name": "Balunglor"
+    "name": "Balunglor",
+    "postal_code": "68161"
   },
   {
     "code": "3509102006",
     "district_code": "350910",
-    "name": "Balungkidul"
+    "name": "Balungkidul",
+    "postal_code": "68161"
   },
   {
     "code": "3509102007",
     "district_code": "350910",
-    "name": "Curahlele"
+    "name": "Curahlele",
+    "postal_code": "68161"
   },
   {
     "code": "3509102008",
     "district_code": "350910",
-    "name": "Gumelar"
+    "name": "Gumelar",
+    "postal_code": "68161"
   }
 ]

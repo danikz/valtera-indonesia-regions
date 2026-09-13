@@ -2,71 +2,85 @@
   {
     "code": "1905041001",
     "district_code": "190504",
-    "name": "Kelapa"
+    "name": "Kelapa",
+    "postal_code": "33364"
   },
   {
     "code": "1905042002",
     "district_code": "190504",
-    "name": "Mancung"
+    "name": "Mancung",
+    "postal_code": "33364"
   },
   {
     "code": "1905042003",
     "district_code": "190504",
-    "name": "Kayu Arang"
+    "name": "Kayu Arang",
+    "postal_code": "33364"
   },
   {
     "code": "1905042004",
     "district_code": "190504",
-    "name": "Pusuk"
+    "name": "Pusuk",
+    "postal_code": "33364"
   },
   {
     "code": "1905042005",
     "district_code": "190504",
-    "name": "Dendang"
+    "name": "Dendang",
+    "postal_code": "33364"
   },
   {
     "code": "1905042006",
     "district_code": "190504",
-    "name": "Kacung"
+    "name": "Kacung",
+    "postal_code": "33364"
   },
   {
     "code": "1905042007",
     "district_code": "190504",
-    "name": "Sinar Sari"
+    "name": "Sinar Sari",
+    "postal_code": "33364"
   },
   {
     "code": "1905042008",
     "district_code": "190504",
-    "name": "Beruas"
+    "name": "Beruas",
+    "postal_code": "33364"
   },
   {
     "code": "1905042009",
     "district_code": "190504",
-    "name": "Tebing"
+    "name": "Tebing",
+    "postal_code": "33364"
   },
   {
     "code": "1905042010",
     "district_code": "190504",
-    "name": "Terentang"
+    "name": "Terentang",
+    "postal_code": "33364"
   },
   {
     "code": "1905042011",
     "district_code": "190504",
-    "name": "Tuik"
+    "name": "Tuik",
+    "postal_code": "33364"
   },
   {
     "code": "1905042012",
     "district_code": "190504",
-    "name": "Tugang"
+    "name": "Tugang",
+    "postal_code": "33364"
   },
   {
     "code": "1905042013",
     "district_code": "190504",
-    "name": "Air Bulin"
+    "name": "Air Bulin",
+    "postal_code": "33364"
   },
   {
     "code": "1905042014",
     "district_code": "190504",
-    "name": "Pangkal Beras"
+    "name": "Pangkal Beras",
+    "postal_code": "33364"
   }
 ]

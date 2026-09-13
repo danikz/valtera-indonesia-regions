@@ -2,21 +2,25 @@
   {
     "code": "6171041001",
     "district_code": "617104",
-    "name": "Siantan Hulu"
+    "name": "Siantan Hulu",
+    "postal_code": "78241"
   },
   {
     "code": "6171041002",
     "district_code": "617104",
-    "name": "Siantan Tengah"
+    "name": "Siantan Tengah",
+    "postal_code": "78242"
   },
   {
     "code": "6171041003",
     "district_code": "617104",
-    "name": "Siantan Hilir"
+    "name": "Siantan Hilir",
+    "postal_code": "78243"
   },
   {
     "code": "6171041004",
     "district_code": "617104",
-    "name": "Batulayang"
+    "name": "Batulayang",
+    "postal_code": "78244"
   }
 ]

@@ -2,71 +2,85 @@
   {
     "code": "6210051021",
     "district_code": "621005",
-    "name": "Jakatan Raya"
+    "name": "Jakatan Raya",
+    "postal_code": "74560"
   },
   {
     "code": "6210052001",
     "district_code": "621005",
-    "name": "Tumbang Jutuh"
+    "name": "Tumbang Jutuh",
+    "postal_code": "74560"
   },
   {
     "code": "6210052002",
     "district_code": "621005",
-    "name": "Tumbang Baringei"
+    "name": "Tumbang Baringei",
+    "postal_code": "74560"
   },
   {
     "code": "6210052009",
     "district_code": "621005",
-    "name": "Tumbang Malahoi"
+    "name": "Tumbang Malahoi",
+    "postal_code": "74560"
   },
   {
     "code": "6210052014",
     "district_code": "621005",
-    "name": "Tumbang Bunut"
+    "name": "Tumbang Bunut",
+    "postal_code": "74560"
   },
   {
     "code": "6210052015",
     "district_code": "621005",
-    "name": "Tumbang Kajuei"
+    "name": "Tumbang Kajuei",
+    "postal_code": "74560"
   },
   {
     "code": "6210052016",
     "district_code": "621005",
-    "name": "Luwuk Kantor"
+    "name": "Luwuk Kantor",
+    "postal_code": "74560"
   },
   {
     "code": "6210052017",
     "district_code": "621005",
-    "name": "Luwuk Langkuas"
+    "name": "Luwuk Langkuas",
+    "postal_code": "74560"
   },
   {
     "code": "6210052018",
     "district_code": "621005",
-    "name": "Talangkah"
+    "name": "Talangkah",
+    "postal_code": "74560"
   },
   {
     "code": "6210052019",
     "district_code": "621005",
-    "name": "Parempei"
+    "name": "Parempei",
+    "postal_code": "74560"
   },
   {
     "code": "6210052020",
     "district_code": "621005",
-    "name": "Linau"
+    "name": "Linau",
+    "postal_code": "74560"
   },
   {
     "code": "6210052022",
     "district_code": "621005",
-    "name": "Bereng Baru"
+    "name": "Bereng Baru",
+    "postal_code": "74560"
   },
   {
     "code": "6210052023",
     "district_code": "621005",
-    "name": "Bereng Malaka"
+    "name": "Bereng Malaka",
+    "postal_code": "74560"
   },
   {
     "code": "6210052027",
     "district_code": "621005",
-    "name": "Karya Bhakti"
+    "name": "Karya Bhakti",
+    "postal_code": "74560"
   }
 ]

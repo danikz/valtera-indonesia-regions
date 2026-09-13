@@ -2,36 +2,43 @@
   {
     "code": "3401072001",
     "district_code": "340107",
-    "name": "Tawangsari"
+    "name": "Tawangsari",
+    "postal_code": "55652"
   },
   {
     "code": "3401072002",
     "district_code": "340107",
-    "name": "Karangsari"
+    "name": "Karangsari",
+    "postal_code": "55652"
   },
   {
     "code": "3401072003",
     "district_code": "340107",
-    "name": "Kedungsari"
+    "name": "Kedungsari",
+    "postal_code": "55652"
   },
   {
     "code": "3401072004",
     "district_code": "340107",
-    "name": "Margosari"
+    "name": "Margosari",
+    "postal_code": "55652"
   },
   {
     "code": "3401072005",
     "district_code": "340107",
-    "name": "Pengasih"
+    "name": "Pengasih",
+    "postal_code": "55652"
   },
   {
     "code": "3401072006",
     "district_code": "340107",
-    "name": "Sendangsari"
+    "name": "Sendangsari",
+    "postal_code": "55652"
   },
   {
     "code": "3401072007",
     "district_code": "340107",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "55652"
   }
 ]

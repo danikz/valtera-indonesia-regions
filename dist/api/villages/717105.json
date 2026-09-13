@@ -2,26 +2,31 @@
   {
     "code": "7171051008",
     "district_code": "717105",
-    "name": "Tikala Baru"
+    "name": "Tikala Baru",
+    "postal_code": "95126"
   },
   {
     "code": "7171051009",
     "district_code": "717105",
-    "name": "Taas"
+    "name": "Taas",
+    "postal_code": "95129"
   },
   {
     "code": "7171051010",
     "district_code": "717105",
-    "name": "Paal IV"
+    "name": "Paal IV",
+    "postal_code": "95129"
   },
   {
     "code": "7171051011",
     "district_code": "717105",
-    "name": "Banjer"
+    "name": "Banjer",
+    "postal_code": "95125"
   },
   {
     "code": "7171051012",
     "district_code": "717105",
-    "name": "Tikala Ares"
+    "name": "Tikala Ares",
+    "postal_code": "95124"
   }
 ]

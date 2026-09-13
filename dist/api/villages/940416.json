@@ -2,36 +2,43 @@
   {
     "code": "9404161002",
     "district_code": "940416",
-    "name": "Kamoro Jaya"
+    "name": "Kamoro Jaya",
+    "postal_code": "99963"
   },
   {
     "code": "9404161003",
     "district_code": "940416",
-    "name": "Wonosari Jaya"
+    "name": "Wonosari Jaya",
+    "postal_code": "99963"
   },
   {
     "code": "9404161005",
     "district_code": "940416",
-    "name": "Inauga"
+    "name": "Inauga",
+    "postal_code": "99963"
   },
   {
     "code": "9404162001",
     "district_code": "940416",
-    "name": "Kadun Jaya"
+    "name": "Kadun Jaya",
+    "postal_code": "99963"
   },
   {
     "code": "9404162004",
     "district_code": "940416",
-    "name": "Nawaripi"
+    "name": "Nawaripi",
+    "postal_code": "99963"
   },
   {
     "code": "9404162006",
     "district_code": "940416",
-    "name": "Mawokau Jaya"
+    "name": "Mawokau Jaya",
+    "postal_code": "99963"
   },
   {
     "code": "9404162007",
     "district_code": "940416",
-    "name": "Mandiri Jaya"
+    "name": "Mandiri Jaya",
+    "postal_code": "99963"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "3601312001",
     "district_code": "360131",
-    "name": "Ciodeng"
+    "name": "Ciodeng",
+    "postal_code": "42276"
   },
   {
     "code": "3601312002",
     "district_code": "360131",
-    "name": "Pasirtenjo"
+    "name": "Pasirtenjo",
+    "postal_code": "42276"
   },
   {
     "code": "3601312003",
     "district_code": "360131",
-    "name": "Bojongmanik"
+    "name": "Bojongmanik",
+    "postal_code": "42276"
   },
   {
     "code": "3601312004",
     "district_code": "360131",
-    "name": "Cempakawarna"
+    "name": "Cempakawarna",
+    "postal_code": "42276"
   },
   {
     "code": "3601312005",
     "district_code": "360131",
-    "name": "Pasirloa"
+    "name": "Pasirloa",
+    "postal_code": "42276"
   },
   {
     "code": "3601312006",
     "district_code": "360131",
-    "name": "Pasirlancar"
+    "name": "Pasirlancar",
+    "postal_code": "42276"
   },
   {
     "code": "3601312007",
     "district_code": "360131",
-    "name": "Sidangresmi"
+    "name": "Sidangresmi",
+    "postal_code": "42276"
   },
   {
     "code": "3601312008",
     "district_code": "360131",
-    "name": "Pasirdurung"
+    "name": "Pasirdurung",
+    "postal_code": "42276"
   },
   {
     "code": "3601312009",
     "district_code": "360131",
-    "name": "Kadumalati"
+    "name": "Kadumalati",
+    "postal_code": "42276"
   }
 ]

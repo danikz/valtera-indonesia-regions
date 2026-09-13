@@ -2,26 +2,31 @@
   {
     "code": "3273261003",
     "district_code": "327326",
-    "name": "Pasir Endah"
+    "name": "Pasir Endah",
+    "postal_code": "40619"
   },
   {
     "code": "3273261004",
     "district_code": "327326",
-    "name": "Cigending"
+    "name": "Cigending",
+    "postal_code": "40611"
   },
   {
     "code": "3273261005",
     "district_code": "327326",
-    "name": "Pasirwangi"
+    "name": "Pasirwangi",
+    "postal_code": "40618"
   },
   {
     "code": "3273261006",
     "district_code": "327326",
-    "name": "Pasirjati"
+    "name": "Pasirjati",
+    "postal_code": "40616"
   },
   {
     "code": "3273261007",
     "district_code": "327326",
-    "name": "Pasanggrahan"
+    "name": "Pasanggrahan",
+    "postal_code": "40617"
   }
 ]

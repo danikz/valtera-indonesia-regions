@@ -2,31 +2,37 @@
   {
     "code": "9303112001",
     "district_code": "930311",
-    "name": "Homlikia"
+    "name": "Homlikia",
+    "postal_code": "99853"
   },
   {
     "code": "9303112002",
     "district_code": "930311",
-    "name": "Kobeta"
+    "name": "Kobeta",
+    "postal_code": "99853"
   },
   {
     "code": "9303112003",
     "district_code": "930311",
-    "name": "Asset"
+    "name": "Asset",
+    "postal_code": "99853"
   },
   {
     "code": "9303112004",
     "district_code": "930311",
-    "name": "Osso"
+    "name": "Osso",
+    "postal_code": "99853"
   },
   {
     "code": "9303112005",
     "district_code": "930311",
-    "name": "Bosma"
+    "name": "Bosma",
+    "postal_code": "99853"
   },
   {
     "code": "9303112006",
     "district_code": "930311",
-    "name": "Oghoto"
+    "name": "Oghoto",
+    "postal_code": "99853"
   }
 ]

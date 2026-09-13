@@ -2,81 +2,97 @@
   {
     "code": "1602222001",
     "district_code": "160222",
-    "name": "Tanjung Sari I"
+    "name": "Tanjung Sari I",
+    "postal_code": "30657"
   },
   {
     "code": "1602222002",
     "district_code": "160222",
-    "name": "Lubuk Seberuk"
+    "name": "Lubuk Seberuk",
+    "postal_code": "30657"
   },
   {
     "code": "1602222003",
     "district_code": "160222",
-    "name": "Rantau Durian I"
+    "name": "Rantau Durian I",
+    "postal_code": "30657"
   },
   {
     "code": "1602222004",
     "district_code": "160222",
-    "name": "Sungai Belida"
+    "name": "Sungai Belida",
+    "postal_code": "30657"
   },
   {
     "code": "1602222005",
     "district_code": "160222",
-    "name": "Lempuing Indah"
+    "name": "Lempuing Indah",
+    "postal_code": "30657"
   },
   {
     "code": "1602222006",
     "district_code": "160222",
-    "name": "Muktisari"
+    "name": "Muktisari",
+    "postal_code": "30657"
   },
   {
     "code": "1602222007",
     "district_code": "160222",
-    "name": "Tania Makmur"
+    "name": "Tania Makmur",
+    "postal_code": "30657"
   },
   {
     "code": "1602222008",
     "district_code": "160222",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "30657"
   },
   {
     "code": "1602222009",
     "district_code": "160222",
-    "name": "Muara Burnai II"
+    "name": "Muara Burnai II",
+    "postal_code": "30657"
   },
   {
     "code": "1602222010",
     "district_code": "160222",
-    "name": "Suka Jaya"
+    "name": "Suka Jaya",
+    "postal_code": "30657"
   },
   {
     "code": "1602222011",
     "district_code": "160222",
-    "name": "Rantau Durian II"
+    "name": "Rantau Durian II",
+    "postal_code": "30657"
   },
   {
     "code": "1602222012",
     "district_code": "160222",
-    "name": "Tanjung Sari II"
+    "name": "Tanjung Sari II",
+    "postal_code": "30657"
   },
   {
     "code": "1602222013",
     "district_code": "160222",
-    "name": "Purwo Asri"
+    "name": "Purwo Asri",
+    "postal_code": "30657"
   },
   {
     "code": "1602222014",
     "district_code": "160222",
-    "name": "Muara Burnai I"
+    "name": "Muara Burnai I",
+    "postal_code": "30657"
   },
   {
     "code": "1602222015",
     "district_code": "160222",
-    "name": "Lubuk Makmur"
+    "name": "Lubuk Makmur",
+    "postal_code": "30657"
   },
   {
     "code": "1602222016",
     "district_code": "160222",
-    "name": "Rantau Durian Asli"
+    "name": "Rantau Durian Asli",
+    "postal_code": "30657"
   }
 ]

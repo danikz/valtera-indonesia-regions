@@ -2,41 +2,49 @@
   {
     "code": "1608162001",
     "district_code": "160816",
-    "name": "Jayapura"
+    "name": "Jayapura",
+    "postal_code": "32381"
   },
   {
     "code": "1608162002",
     "district_code": "160816",
-    "name": "Bunga Mayang"
+    "name": "Bunga Mayang",
+    "postal_code": "32381"
   },
   {
     "code": "1608162003",
     "district_code": "160816",
-    "name": "Way Salak"
+    "name": "Way Salak",
+    "postal_code": "32381"
   },
   {
     "code": "1608162004",
     "district_code": "160816",
-    "name": "Mendah"
+    "name": "Mendah",
+    "postal_code": "32381"
   },
   {
     "code": "1608162005",
     "district_code": "160816",
-    "name": "Tumijaya"
+    "name": "Tumijaya",
+    "postal_code": "32381"
   },
   {
     "code": "1608162006",
     "district_code": "160816",
-    "name": "Condong"
+    "name": "Condong",
+    "postal_code": "32381"
   },
   {
     "code": "1608162007",
     "district_code": "160816",
-    "name": "Peracak Jaya"
+    "name": "Peracak Jaya",
+    "postal_code": "32381"
   },
   {
     "code": "1608162008",
     "district_code": "160816",
-    "name": "Kambang"
+    "name": "Kambang",
+    "postal_code": "32381"
   }
 ]

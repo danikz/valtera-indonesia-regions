@@ -2,36 +2,43 @@
   {
     "code": "7603101001",
     "district_code": "760310",
-    "name": "Tabang"
+    "name": "Tabang",
+    "postal_code": "91364"
   },
   {
     "code": "7603102003",
     "district_code": "760310",
-    "name": "Tadokalua"
+    "name": "Tadokalua",
+    "postal_code": "91364"
   },
   {
     "code": "7603102004",
     "district_code": "760310",
-    "name": "Tabang Barat"
+    "name": "Tabang Barat",
+    "postal_code": "91364"
   },
   {
     "code": "7603102005",
     "district_code": "760310",
-    "name": "Masupu"
+    "name": "Masupu",
+    "postal_code": "91364"
   },
   {
     "code": "7603102006",
     "district_code": "760310",
-    "name": "Kalama"
+    "name": "Kalama",
+    "postal_code": "91364"
   },
   {
     "code": "7603102007",
     "district_code": "760310",
-    "name": "Bakadisura"
+    "name": "Bakadisura",
+    "postal_code": "91364"
   },
   {
     "code": "7603102008",
     "district_code": "760310",
-    "name": "Salukona"
+    "name": "Salukona",
+    "postal_code": "91364"
   }
 ]

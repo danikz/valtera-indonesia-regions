@@ -2,46 +2,55 @@
   {
     "code": "3510042001",
     "district_code": "351004",
-    "name": "Purwoasri"
+    "name": "Purwoasri",
+    "postal_code": "68484"
   },
   {
     "code": "3510042002",
     "district_code": "351004",
-    "name": "Kendalrejo"
+    "name": "Kendalrejo",
+    "postal_code": "68484"
   },
   {
     "code": "3510042003",
     "district_code": "351004",
-    "name": "Kedungasri"
+    "name": "Kedungasri",
+    "postal_code": "68484"
   },
   {
     "code": "3510042004",
     "district_code": "351004",
-    "name": "Kedungwungu"
+    "name": "Kedungwungu",
+    "postal_code": "68484"
   },
   {
     "code": "3510042005",
     "district_code": "351004",
-    "name": "Tegaldlimo"
+    "name": "Tegaldlimo",
+    "postal_code": "68484"
   },
   {
     "code": "3510042006",
     "district_code": "351004",
-    "name": "Wringinpitu"
+    "name": "Wringinpitu",
+    "postal_code": "68484"
   },
   {
     "code": "3510042007",
     "district_code": "351004",
-    "name": "Kedunggebang"
+    "name": "Kedunggebang",
+    "postal_code": "68484"
   },
   {
     "code": "3510042008",
     "district_code": "351004",
-    "name": "Purwoagung"
+    "name": "Purwoagung",
+    "postal_code": "68484"
   },
   {
     "code": "3510042009",
     "district_code": "351004",
-    "name": "Kalipait"
+    "name": "Kalipait",
+    "postal_code": "68484"
   }
 ]

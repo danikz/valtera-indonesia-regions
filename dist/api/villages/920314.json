@@ -2,36 +2,43 @@
   {
     "code": "9203142001",
     "district_code": "920314",
-    "name": "Darembang"
+    "name": "Darembang",
+    "postal_code": "98021"
   },
   {
     "code": "9203142002",
     "district_code": "920314",
-    "name": "Goras"
+    "name": "Goras",
+    "postal_code": "98021"
   },
   {
     "code": "9203142003",
     "district_code": "920314",
-    "name": "Mitimber"
+    "name": "Mitimber",
+    "postal_code": "98021"
   },
   {
     "code": "9203142004",
     "district_code": "920314",
-    "name": "Waremu"
+    "name": "Waremu",
+    "postal_code": "98021"
   },
   {
     "code": "9203142005",
     "district_code": "920314",
-    "name": "Wos"
+    "name": "Wos",
+    "postal_code": "98021"
   },
   {
     "code": "9203142006",
     "district_code": "920314",
-    "name": "Mbahamdandra"
+    "name": "Mbahamdandra",
+    "postal_code": "98021"
   },
   {
     "code": "9203142007",
     "district_code": "920314",
-    "name": "Goras Selatan"
+    "name": "Goras Selatan",
+    "postal_code": "98021"
   }
 ]

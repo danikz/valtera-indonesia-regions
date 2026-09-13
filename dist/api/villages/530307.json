@@ -2,46 +2,55 @@
   {
     "code": "5303071007",
     "district_code": "530307",
-    "name": "Ponu"
+    "name": "Ponu",
+    "postal_code": ""
   },
   {
     "code": "5303072001",
     "district_code": "530307",
-    "name": "Motadik"
+    "name": "Motadik",
+    "postal_code": "85613"
   },
   {
     "code": "5303072002",
     "district_code": "530307",
-    "name": "Nonotbatan"
+    "name": "Nonotbatan",
+    "postal_code": "85613"
   },
   {
     "code": "5303072003",
     "district_code": "530307",
-    "name": "Sifaniha"
+    "name": "Sifaniha",
+    "postal_code": "85613"
   },
   {
     "code": "5303072004",
     "district_code": "530307",
-    "name": "Maukabatan"
+    "name": "Maukabatan",
+    "postal_code": "85613"
   },
   {
     "code": "5303072005",
     "district_code": "530307",
-    "name": "Kotafoun"
+    "name": "Kotafoun",
+    "postal_code": "85613"
   },
   {
     "code": "5303072006",
     "district_code": "530307",
-    "name": "Tuamese"
+    "name": "Tuamese",
+    "postal_code": "85613"
   },
   {
     "code": "5303072008",
     "district_code": "530307",
-    "name": "Oemanu"
+    "name": "Oemanu",
+    "postal_code": "85613"
   },
   {
     "code": "5303072009",
     "district_code": "530307",
-    "name": "Nifutasi"
+    "name": "Nifutasi",
+    "postal_code": "85613"
   }
 ]

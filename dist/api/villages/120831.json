@@ -2,51 +2,61 @@
   {
     "code": "1208312001",
     "district_code": "120831",
-    "name": "Ujung Saribu"
+    "name": "Ujung Saribu",
+    "postal_code": "21167"
   },
   {
     "code": "1208312002",
     "district_code": "120831",
-    "name": "Silimakuta Barat"
+    "name": "Silimakuta Barat",
+    "postal_code": "21167"
   },
   {
     "code": "1208312003",
     "district_code": "120831",
-    "name": "Siboras"
+    "name": "Siboras",
+    "postal_code": "21167"
   },
   {
     "code": "1208312004",
     "district_code": "120831",
-    "name": "Mardingding"
+    "name": "Mardingding",
+    "postal_code": "21167"
   },
   {
     "code": "1208312005",
     "district_code": "120831",
-    "name": "Naga Saribu"
+    "name": "Naga Saribu",
+    "postal_code": "21167"
   },
   {
     "code": "1208312007",
     "district_code": "120831",
-    "name": "Saribu Jandi"
+    "name": "Saribu Jandi",
+    "postal_code": "21167"
   },
   {
     "code": "1208312008",
     "district_code": "120831",
-    "name": "Sinar Naga Mariah"
+    "name": "Sinar Naga Mariah",
+    "postal_code": "21167"
   },
   {
     "code": "1208312009",
     "district_code": "120831",
-    "name": "Ujung Mariah"
+    "name": "Ujung Mariah",
+    "postal_code": "21167"
   },
   {
     "code": "1208312010",
     "district_code": "120831",
-    "name": "Bandar Saribu"
+    "name": "Bandar Saribu",
+    "postal_code": "21167"
   },
   {
     "code": "1208312011",
     "district_code": "120831",
-    "name": "Naga Bosar"
+    "name": "Naga Bosar",
+    "postal_code": "21167"
   }
 ]

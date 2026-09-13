@@ -2,56 +2,67 @@
   {
     "code": "3205011001",
     "district_code": "320501",
-    "name": "Kota Kulon"
+    "name": "Kota Kulon",
+    "postal_code": "44112"
   },
   {
     "code": "3205011002",
     "district_code": "320501",
-    "name": "Kota Wetan"
+    "name": "Kota Wetan",
+    "postal_code": "44111"
   },
   {
     "code": "3205011003",
     "district_code": "320501",
-    "name": "Margawati"
+    "name": "Margawati",
+    "postal_code": "44113"
   },
   {
     "code": "3205011004",
     "district_code": "320501",
-    "name": "Pakuwon"
+    "name": "Pakuwon",
+    "postal_code": "44117"
   },
   {
     "code": "3205011005",
     "district_code": "320501",
-    "name": "Muara Sanding"
+    "name": "Muara Sanding",
+    "postal_code": "44119"
   },
   {
     "code": "3205011006",
     "district_code": "320501",
-    "name": "Sukamentri"
+    "name": "Sukamentri",
+    "postal_code": "44116"
   },
   {
     "code": "3205011007",
     "district_code": "320501",
-    "name": "Ciwalen"
+    "name": "Ciwalen",
+    "postal_code": "44115"
   },
   {
     "code": "3205011008",
     "district_code": "320501",
-    "name": "Paminggir"
+    "name": "Paminggir",
+    "postal_code": "44118"
   },
   {
     "code": "3205011009",
     "district_code": "320501",
-    "name": "Regol"
+    "name": "Regol",
+    "postal_code": "44114"
   },
   {
     "code": "3205011010",
     "district_code": "320501",
-    "name": "Sukanegla"
+    "name": "Sukanegla",
+    "postal_code": "44111"
   },
   {
     "code": "3205011011",
     "district_code": "320501",
-    "name": "Cimuncang"
+    "name": "Cimuncang",
+    "postal_code": "44113"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1771071001",
     "district_code": "177107",
-    "name": "Padang Jati"
+    "name": "Padang Jati",
+    "postal_code": "38227"
   },
   {
     "code": "1771071002",
     "district_code": "177107",
-    "name": "Kebun Dahri"
+    "name": "Kebun Dahri",
+    "postal_code": "38221"
   },
   {
     "code": "1771071003",
     "district_code": "177107",
-    "name": "Belakang Pondok"
+    "name": "Belakang Pondok",
+    "postal_code": "38221"
   },
   {
     "code": "1771071004",
     "district_code": "177107",
-    "name": "Penurunan"
+    "name": "Penurunan",
+    "postal_code": "38223"
   },
   {
     "code": "1771071005",
     "district_code": "177107",
-    "name": "Anggut Bawah"
+    "name": "Anggut Bawah",
+    "postal_code": "38223"
   },
   {
     "code": "1771071006",
     "district_code": "177107",
-    "name": "Anggut Atas"
+    "name": "Anggut Atas",
+    "postal_code": "38222"
   },
   {
     "code": "1771071007",
     "district_code": "177107",
-    "name": "Anggut Dalam"
+    "name": "Anggut Dalam",
+    "postal_code": "38222"
   },
   {
     "code": "1771071008",
     "district_code": "177107",
-    "name": "Kebun Geran"
+    "name": "Kebun Geran",
+    "postal_code": "38222"
   },
   {
     "code": "1771071009",
     "district_code": "177107",
-    "name": "Pengantungan"
+    "name": "Pengantungan",
+    "postal_code": "38221"
   }
 ]

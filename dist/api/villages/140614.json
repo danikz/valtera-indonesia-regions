@@ -2,16 +2,19 @@
   {
     "code": "1406142001",
     "district_code": "140614",
-    "name": "Pagaran Tapah"
+    "name": "Pagaran Tapah",
+    "postal_code": "28550"
   },
   {
     "code": "1406142002",
     "district_code": "140614",
-    "name": "Kembang Damai"
+    "name": "Kembang Damai",
+    "postal_code": "28550"
   },
   {
     "code": "1406142005",
     "district_code": "140614",
-    "name": "Sangkir Indah"
+    "name": "Sangkir Indah",
+    "postal_code": "28550"
   }
 ]

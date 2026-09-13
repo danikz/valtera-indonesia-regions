@@ -2,36 +2,43 @@
   {
     "code": "7304092001",
     "district_code": "730409",
-    "name": "Bulo Bulo"
+    "name": "Bulo Bulo",
+    "postal_code": "92361"
   },
   {
     "code": "7304092002",
     "district_code": "730409",
-    "name": "Arungkeke"
+    "name": "Arungkeke",
+    "postal_code": "92361"
   },
   {
     "code": "7304092003",
     "district_code": "730409",
-    "name": "Palajau"
+    "name": "Palajau",
+    "postal_code": "92361"
   },
   {
     "code": "7304092004",
     "district_code": "730409",
-    "name": "Boronglamu"
+    "name": "Boronglamu",
+    "postal_code": "92361"
   },
   {
     "code": "7304092005",
     "district_code": "730409",
-    "name": "Arungkeke Pallantikang"
+    "name": "Arungkeke Pallantikang",
+    "postal_code": "92361"
   },
   {
     "code": "7304092006",
     "district_code": "730409",
-    "name": "Kalumpangloe"
+    "name": "Kalumpangloe",
+    "postal_code": "92361"
   },
   {
     "code": "7304092007",
     "district_code": "730409",
-    "name": "Kampala"
+    "name": "Kampala",
+    "postal_code": "92361"
   }
 ]

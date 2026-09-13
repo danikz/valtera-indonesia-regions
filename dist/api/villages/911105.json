@@ -2,61 +2,73 @@
   {
     "code": "9111052001",
     "district_code": "911105",
-    "name": "Skanto"
+    "name": "Skanto",
+    "postal_code": "99469"
   },
   {
     "code": "9111052002",
     "district_code": "911105",
-    "name": "Jaifuri"
+    "name": "Jaifuri",
+    "postal_code": "99469"
   },
   {
     "code": "9111052003",
     "district_code": "911105",
-    "name": "Arsopura"
+    "name": "Arsopura",
+    "postal_code": "99469"
   },
   {
     "code": "9111052004",
     "district_code": "911105",
-    "name": "Wiantre"
+    "name": "Wiantre",
+    "postal_code": "99469"
   },
   {
     "code": "9111052005",
     "district_code": "911105",
-    "name": "Naramben"
+    "name": "Naramben",
+    "postal_code": "99469"
   },
   {
     "code": "9111052006",
     "district_code": "911105",
-    "name": "Intaimelyan"
+    "name": "Intaimelyan",
+    "postal_code": "99469"
   },
   {
     "code": "9111052007",
     "district_code": "911105",
-    "name": "Traimelyan"
+    "name": "Traimelyan",
+    "postal_code": "99469"
   },
   {
     "code": "9111052008",
     "district_code": "911105",
-    "name": "Wulukubun"
+    "name": "Wulukubun",
+    "postal_code": "99469"
   },
   {
     "code": "9111052009",
     "district_code": "911105",
-    "name": "Gudang Garam"
+    "name": "Gudang Garam",
+    "postal_code": "99469"
   },
   {
     "code": "9111052010",
     "district_code": "911105",
-    "name": "Saefen Empat Dua"
+    "name": "Saefen Empat Dua",
+    "postal_code": "99469"
   },
   {
     "code": "9111052011",
     "district_code": "911105",
-    "name": "Walma"
+    "name": "Walma",
+    "postal_code": "99469"
   },
   {
     "code": "9111052012",
     "district_code": "911105",
-    "name": "Alang-alang Raya"
+    "name": "Alang-alang Raya",
+    "postal_code": "99469"
   }
 ]

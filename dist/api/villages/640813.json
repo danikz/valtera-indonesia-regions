@@ -2,31 +2,37 @@
   {
     "code": "6408132001",
     "district_code": "640813",
-    "name": "Teluk Pandan"
+    "name": "Teluk Pandan",
+    "postal_code": "75682"
   },
   {
     "code": "6408132002",
     "district_code": "640813",
-    "name": "Suka Rahmat"
+    "name": "Suka Rahmat",
+    "postal_code": "75682"
   },
   {
     "code": "6408132003",
     "district_code": "640813",
-    "name": "Suka Damai"
+    "name": "Suka Damai",
+    "postal_code": "75682"
   },
   {
     "code": "6408132004",
     "district_code": "640813",
-    "name": "Kandolo"
+    "name": "Kandolo",
+    "postal_code": "75682"
   },
   {
     "code": "6408132005",
     "district_code": "640813",
-    "name": "Danau Redan"
+    "name": "Danau Redan",
+    "postal_code": "75682"
   },
   {
     "code": "6408132006",
     "district_code": "640813",
-    "name": "Martadinata"
+    "name": "Martadinata",
+    "postal_code": "75682"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "5202122001",
     "district_code": "520212",
-    "name": "Lantan"
+    "name": "Lantan",
+    "postal_code": "83550"
   },
   {
     "code": "5202122002",
     "district_code": "520212",
-    "name": "Setiling"
+    "name": "Setiling",
+    "postal_code": "83550"
   },
   {
     "code": "5202122003",
     "district_code": "520212",
-    "name": "Tanak Beak"
+    "name": "Tanak Beak",
+    "postal_code": "83550"
   },
   {
     "code": "5202122004",
     "district_code": "520212",
-    "name": "Aik Bukaq"
+    "name": "Aik Bukaq",
+    "postal_code": "83550"
   },
   {
     "code": "5202122005",
     "district_code": "520212",
-    "name": "Teratak"
+    "name": "Teratak",
+    "postal_code": "83550"
   },
   {
     "code": "5202122006",
     "district_code": "520212",
-    "name": "Aik Berik"
+    "name": "Aik Berik",
+    "postal_code": "83550"
   },
   {
     "code": "5202122007",
     "district_code": "520212",
-    "name": "Mas-mas"
+    "name": "Mas-mas",
+    "postal_code": "83550"
   },
   {
     "code": "5202122008",
     "district_code": "520212",
-    "name": "Karang Sidemen"
+    "name": "Karang Sidemen",
+    "postal_code": "83550"
   }
 ]

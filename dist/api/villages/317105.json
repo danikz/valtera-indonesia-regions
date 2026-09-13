@@ -2,16 +2,19 @@
   {
     "code": "3171051001",
     "district_code": "317105",
-    "name": "Cempaka Putih Timur"
+    "name": "Cempaka Putih Timur",
+    "postal_code": "10510"
   },
   {
     "code": "3171051002",
     "district_code": "317105",
-    "name": "Cempaka Putih Barat"
+    "name": "Cempaka Putih Barat",
+    "postal_code": "10520"
   },
   {
     "code": "3171051003",
     "district_code": "317105",
-    "name": "Rawasari"
+    "name": "Rawasari",
+    "postal_code": "10570"
   }
 ]

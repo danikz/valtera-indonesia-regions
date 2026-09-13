@@ -2,36 +2,43 @@
   {
     "code": "3212042003",
     "district_code": "321204",
-    "name": "Loyang"
+    "name": "Loyang",
+    "postal_code": "45262"
   },
   {
     "code": "3212042004",
     "district_code": "321204",
-    "name": "Amis"
+    "name": "Amis",
+    "postal_code": "45262"
   },
   {
     "code": "3212042005",
     "district_code": "321204",
-    "name": "Jatisura"
+    "name": "Jatisura",
+    "postal_code": "45262"
   },
   {
     "code": "3212042006",
     "district_code": "321204",
-    "name": "Jambak"
+    "name": "Jambak",
+    "postal_code": "45262"
   },
   {
     "code": "3212042007",
     "district_code": "321204",
-    "name": "Cikidung Kidul"
+    "name": "Cikidung Kidul",
+    "postal_code": "45262"
   },
   {
     "code": "3212042012",
     "district_code": "321204",
-    "name": "Cikedung Lor"
+    "name": "Cikedung Lor",
+    "postal_code": "45262"
   },
   {
     "code": "3212042013",
     "district_code": "321204",
-    "name": "Mundakjaya"
+    "name": "Mundakjaya",
+    "postal_code": "45262"
   }
 ]

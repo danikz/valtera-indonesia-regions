@@ -2,46 +2,55 @@
   {
     "code": "9304062001",
     "district_code": "930406",
-    "name": "Kamur"
+    "name": "Kamur",
+    "postal_code": "99773"
   },
   {
     "code": "9304062002",
     "district_code": "930406",
-    "name": "Sanep"
+    "name": "Sanep",
+    "postal_code": "99773"
   },
   {
     "code": "9304062003",
     "district_code": "930406",
-    "name": "Saramit"
+    "name": "Saramit",
+    "postal_code": "99773"
   },
   {
     "code": "9304062004",
     "district_code": "930406",
-    "name": "Yahoi"
+    "name": "Yahoi",
+    "postal_code": "99773"
   },
   {
     "code": "9304062005",
     "district_code": "930406",
-    "name": "Hainam"
+    "name": "Hainam",
+    "postal_code": "99773"
   },
   {
     "code": "9304062006",
     "district_code": "930406",
-    "name": "Yagamit"
+    "name": "Yagamit",
+    "postal_code": "99773"
   },
   {
     "code": "9304062007",
     "district_code": "930406",
-    "name": "Bawor"
+    "name": "Bawor",
+    "postal_code": "99773"
   },
   {
     "code": "9304062008",
     "district_code": "930406",
-    "name": "Sanapai"
+    "name": "Sanapai",
+    "postal_code": "99773"
   },
   {
     "code": "9304062009",
     "district_code": "930406",
-    "name": "Sarmafo"
+    "name": "Sarmafo",
+    "postal_code": "99773"
   }
 ]

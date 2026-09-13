@@ -2,76 +2,91 @@
   {
     "code": "3210032001",
     "district_code": "321003",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "45466"
   },
   {
     "code": "3210032002",
     "district_code": "321003",
-    "name": "Cisoka"
+    "name": "Cisoka",
+    "postal_code": "45466"
   },
   {
     "code": "3210032003",
     "district_code": "321003",
-    "name": "Sindangpanji"
+    "name": "Sindangpanji",
+    "postal_code": "45466"
   },
   {
     "code": "3210032004",
     "district_code": "321003",
-    "name": "Cikijing"
+    "name": "Cikijing",
+    "postal_code": "45466"
   },
   {
     "code": "3210032005",
     "district_code": "321003",
-    "name": "Sindang"
+    "name": "Sindang",
+    "postal_code": "45466"
   },
   {
     "code": "3210032006",
     "district_code": "321003",
-    "name": "Banjaransari"
+    "name": "Banjaransari",
+    "postal_code": "45466"
   },
   {
     "code": "3210032007",
     "district_code": "321003",
-    "name": "Kasturi"
+    "name": "Kasturi",
+    "postal_code": "45466"
   },
   {
     "code": "3210032008",
     "district_code": "321003",
-    "name": "Cidulang"
+    "name": "Cidulang",
+    "postal_code": "45466"
   },
   {
     "code": "3210032009",
     "district_code": "321003",
-    "name": "Jagasari"
+    "name": "Jagasari",
+    "postal_code": "45466"
   },
   {
     "code": "3210032010",
     "district_code": "321003",
-    "name": "Bagjasari"
+    "name": "Bagjasari",
+    "postal_code": "45466"
   },
   {
     "code": "3210032011",
     "district_code": "321003",
-    "name": "Sunalari"
+    "name": "Sunalari",
+    "postal_code": "45466"
   },
   {
     "code": "3210032012",
     "district_code": "321003",
-    "name": "Cipulus"
+    "name": "Cipulus",
+    "postal_code": "45466"
   },
   {
     "code": "3210032013",
     "district_code": "321003",
-    "name": "Kancana"
+    "name": "Kancana",
+    "postal_code": "45466"
   },
   {
     "code": "3210032014",
     "district_code": "321003",
-    "name": "Sukamukti"
+    "name": "Sukamukti",
+    "postal_code": "45466"
   },
   {
     "code": "3210032015",
     "district_code": "321003",
-    "name": "Cilancang"
+    "name": "Cilancang",
+    "postal_code": "45466"
   }
 ]

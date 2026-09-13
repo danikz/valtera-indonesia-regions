@@ -2,46 +2,55 @@
   {
     "code": "7303032001",
     "district_code": "730303",
-    "name": "Ulu Galung"
+    "name": "Ulu Galung",
+    "postal_code": "92414"
   },
   {
     "code": "7303032002",
     "district_code": "730303",
-    "name": "Lonrong"
+    "name": "Lonrong",
+    "postal_code": "92415"
   },
   {
     "code": "7303032003",
     "district_code": "730303",
-    "name": "Barua"
+    "name": "Barua",
+    "postal_code": "92415"
   },
   {
     "code": "7303032004",
     "district_code": "730303",
-    "name": "Kampala"
+    "name": "Kampala",
+    "postal_code": "92415"
   },
   {
     "code": "7303032005",
     "district_code": "730303",
-    "name": "Pa'bentengan"
+    "name": "Pa'bentengan",
+    "postal_code": "92415"
   },
   {
     "code": "7303032006",
     "district_code": "730303",
-    "name": "Mappilawing"
+    "name": "Mappilawing",
+    "postal_code": "92415"
   },
   {
     "code": "7303032007",
     "district_code": "730303",
-    "name": "Pa'bumbungang"
+    "name": "Pa'bumbungang",
+    "postal_code": "92415"
   },
   {
     "code": "7303032008",
     "district_code": "730303",
-    "name": "Mamampang"
+    "name": "Mamampang",
+    "postal_code": "92415"
   },
   {
     "code": "7303032009",
     "district_code": "730303",
-    "name": "Parang Loe"
+    "name": "Parang Loe",
+    "postal_code": "92415"
   }
 ]

@@ -2,71 +2,85 @@
   {
     "code": "7602031001",
     "district_code": "760203",
-    "name": "Sinyonyoi"
+    "name": "Sinyonyoi",
+    "postal_code": "91561"
   },
   {
     "code": "7602031002",
     "district_code": "760203",
-    "name": "Bebanga"
+    "name": "Bebanga",
+    "postal_code": "91561"
   },
   {
     "code": "7602031003",
     "district_code": "760203",
-    "name": "Kalukku"
+    "name": "Kalukku",
+    "postal_code": "91561"
   },
   {
     "code": "7602031014",
     "district_code": "760203",
-    "name": "Sinyonyoi Selatan"
+    "name": "Sinyonyoi Selatan",
+    "postal_code": "91561"
   },
   {
     "code": "7602032004",
     "district_code": "760203",
-    "name": "Sondoang"
+    "name": "Sondoang",
+    "postal_code": "91561"
   },
   {
     "code": "7602032005",
     "district_code": "760203",
-    "name": "Beru-Beru"
+    "name": "Beru-Beru",
+    "postal_code": "91561"
   },
   {
     "code": "7602032006",
     "district_code": "760203",
-    "name": "Belang Belang"
+    "name": "Belang Belang",
+    "postal_code": "91561"
   },
   {
     "code": "7602032007",
     "district_code": "760203",
-    "name": "Kabuloang"
+    "name": "Kabuloang",
+    "postal_code": "91561"
   },
   {
     "code": "7602032008",
     "district_code": "760203",
-    "name": "Keang"
+    "name": "Keang",
+    "postal_code": "91561"
   },
   {
     "code": "7602032009",
     "district_code": "760203",
-    "name": "Pokkang"
+    "name": "Pokkang",
+    "postal_code": "91561"
   },
   {
     "code": "7602032010",
     "district_code": "760203",
-    "name": "Guliling"
+    "name": "Guliling",
+    "postal_code": "91561"
   },
   {
     "code": "7602032011",
     "district_code": "760203",
-    "name": "Uhaimate"
+    "name": "Uhaimate",
+    "postal_code": "91561"
   },
   {
     "code": "7602032012",
     "district_code": "760203",
-    "name": "Kalukku Barat"
+    "name": "Kalukku Barat",
+    "postal_code": "91561"
   },
   {
     "code": "7602032013",
     "district_code": "760203",
-    "name": "Pammulukang"
+    "name": "Pammulukang",
+    "postal_code": "91561"
   }
 ]

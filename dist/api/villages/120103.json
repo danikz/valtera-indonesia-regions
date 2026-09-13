@@ -2,111 +2,133 @@
   {
     "code": "1201031001",
     "district_code": "120103",
-    "name": "Pandan"
+    "name": "Pandan",
+    "postal_code": "22611"
   },
   {
     "code": "1201031002",
     "district_code": "120103",
-    "name": "Hajoran"
+    "name": "Hajoran",
+    "postal_code": "22612"
   },
   {
     "code": "1201031003",
     "district_code": "120103",
-    "name": "Aek Tolang"
+    "name": "Aek Tolang",
+    "postal_code": "22613"
   },
   {
     "code": "1201031004",
     "district_code": "120103",
-    "name": "Lubuk Tukko"
+    "name": "Lubuk Tukko",
+    "postal_code": "22615"
   },
   {
     "code": "1201031005",
     "district_code": "120103",
-    "name": "Sibuluan Indah"
+    "name": "Sibuluan Indah",
+    "postal_code": "22614"
   },
   {
     "code": "1201031006",
     "district_code": "120103",
-    "name": "Sibuluan Nauli"
+    "name": "Sibuluan Nauli",
+    "postal_code": "22616"
   },
   {
     "code": "1201031011",
     "district_code": "120103",
-    "name": "Aek Sitio-tio"
+    "name": "Aek Sitio-tio",
+    "postal_code": "22613"
   },
   {
     "code": "1201031012",
     "district_code": "120103",
-    "name": "Sibuluan Raya"
+    "name": "Sibuluan Raya",
+    "postal_code": "22616"
   },
   {
     "code": "1201031013",
     "district_code": "120103",
-    "name": "Kalangan"
+    "name": "Kalangan",
+    "postal_code": "22616"
   },
   {
     "code": "1201031016",
     "district_code": "120103",
-    "name": "Pandan Wangi"
+    "name": "Pandan Wangi",
+    "postal_code": "22616"
   },
   {
     "code": "1201031017",
     "district_code": "120103",
-    "name": "Lubuk Tukko Baru"
+    "name": "Lubuk Tukko Baru",
+    "postal_code": "22616"
   },
   {
     "code": "1201031018",
     "district_code": "120103",
-    "name": "Sibuluan Baru"
+    "name": "Sibuluan Baru",
+    "postal_code": "22616"
   },
   {
     "code": "1201031019",
     "district_code": "120103",
-    "name": "Sibuluan Terpadu"
+    "name": "Sibuluan Terpadu",
+    "postal_code": "22616"
   },
   {
     "code": "1201031020",
     "district_code": "120103",
-    "name": "Sihaporas Nauli"
+    "name": "Sihaporas Nauli",
+    "postal_code": "22616"
   },
   {
     "code": "1201031021",
     "district_code": "120103",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "22616"
   },
   {
     "code": "1201031022",
     "district_code": "120103",
-    "name": "Budi Luhur"
+    "name": "Budi Luhur",
+    "postal_code": "22616"
   },
   {
     "code": "1201031023",
     "district_code": "120103",
-    "name": "Kalangan Indah"
+    "name": "Kalangan Indah",
+    "postal_code": "22616"
   },
   {
     "code": "1201031024",
     "district_code": "120103",
-    "name": "Mangga Dua"
+    "name": "Mangga Dua",
+    "postal_code": "22616"
   },
   {
     "code": "1201031025",
     "district_code": "120103",
-    "name": "Muara Nibung"
+    "name": "Muara Nibung",
+    "postal_code": "22616"
   },
   {
     "code": "1201031026",
     "district_code": "120103",
-    "name": "Hajoran Indah"
+    "name": "Hajoran Indah",
+    "postal_code": "22616"
   },
   {
     "code": "1201032014",
     "district_code": "120103",
-    "name": "Aek Garut"
+    "name": "Aek Garut",
+    "postal_code": "22616"
   },
   {
     "code": "1201032015",
     "district_code": "120103",
-    "name": "Sitio-Tio Hilir"
+    "name": "Sitio-Tio Hilir",
+    "postal_code": "22616"
   }
 ]

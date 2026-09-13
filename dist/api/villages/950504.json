@@ -2,21 +2,25 @@
   {
     "code": "9505042001",
     "district_code": "950504",
-    "name": "Megambilis"
+    "name": "Megambilis",
+    "postal_code": "99075"
   },
   {
     "code": "9505042002",
     "district_code": "950504",
-    "name": "Tariko"
+    "name": "Tariko",
+    "postal_code": "99075"
   },
   {
     "code": "9505042003",
     "district_code": "950504",
-    "name": "Homasan"
+    "name": "Homasan",
+    "postal_code": "99075"
   },
   {
     "code": "9505042004",
     "district_code": "950504",
-    "name": "Higisyam"
+    "name": "Higisyam",
+    "postal_code": "99075"
   }
 ]

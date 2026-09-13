@@ -2,41 +2,49 @@
   {
     "code": "9507092001",
     "district_code": "950709",
-    "name": "Kuyawage"
+    "name": "Kuyawage",
+    "postal_code": "99587"
   },
   {
     "code": "9507092002",
     "district_code": "950709",
-    "name": "Wupaga"
+    "name": "Wupaga",
+    "postal_code": "99539"
   },
   {
     "code": "9507092003",
     "district_code": "950709",
-    "name": "Luarem"
+    "name": "Luarem",
+    "postal_code": "99539"
   },
   {
     "code": "9507092004",
     "district_code": "950709",
-    "name": "Tumbupur"
+    "name": "Tumbupur",
+    "postal_code": "99539"
   },
   {
     "code": "9507092005",
     "district_code": "950709",
-    "name": "Uwome"
+    "name": "Uwome",
+    "postal_code": "99587"
   },
   {
     "code": "9507092006",
     "district_code": "950709",
-    "name": "Tunikele"
+    "name": "Tunikele",
+    "postal_code": "99539"
   },
   {
     "code": "9507092007",
     "district_code": "950709",
-    "name": "Peko"
+    "name": "Peko",
+    "postal_code": "99539"
   },
   {
     "code": "9507092008",
     "district_code": "950709",
-    "name": "Yugunomba"
+    "name": "Yugunomba",
+    "postal_code": "99587"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "3214102001",
     "district_code": "321410",
-    "name": "Pasawahananyar"
+    "name": "Pasawahananyar",
+    "postal_code": "41172"
   },
   {
     "code": "3214102002",
     "district_code": "321410",
-    "name": "Pasawahan"
+    "name": "Pasawahan",
+    "postal_code": "41172"
   },
   {
     "code": "3214102003",
     "district_code": "321410",
-    "name": "Sawahkulon"
+    "name": "Sawahkulon",
+    "postal_code": "41172"
   },
   {
     "code": "3214102004",
     "district_code": "321410",
-    "name": "Ciherang"
+    "name": "Ciherang",
+    "postal_code": "41172"
   },
   {
     "code": "3214102005",
     "district_code": "321410",
-    "name": "Cidahu"
+    "name": "Cidahu",
+    "postal_code": "41172"
   },
   {
     "code": "3214102006",
     "district_code": "321410",
-    "name": "Pasawahankidul"
+    "name": "Pasawahankidul",
+    "postal_code": "41172"
   },
   {
     "code": "3214102007",
     "district_code": "321410",
-    "name": "Kertajaya"
+    "name": "Kertajaya",
+    "postal_code": "41172"
   },
   {
     "code": "3214102008",
     "district_code": "321410",
-    "name": "Lebakanyar"
+    "name": "Lebakanyar",
+    "postal_code": "41172"
   },
   {
     "code": "3214102009",
     "district_code": "321410",
-    "name": "Selaawi"
+    "name": "Selaawi",
+    "postal_code": "41172"
   },
   {
     "code": "3214102010",
     "district_code": "321410",
-    "name": "Margasari"
+    "name": "Margasari",
+    "postal_code": "41171"
   },
   {
     "code": "3214102011",
     "district_code": "321410",
-    "name": "Warungkadu"
+    "name": "Warungkadu",
+    "postal_code": "41172"
   },
   {
     "code": "3214102012",
     "district_code": "321410",
-    "name": "Cihuni"
+    "name": "Cihuni",
+    "postal_code": "41172"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3572021001",
     "district_code": "357202",
-    "name": "Pakunden"
+    "name": "Pakunden",
+    "postal_code": "66122"
   },
   {
     "code": "3572021002",
     "district_code": "357202",
-    "name": "Blitar"
+    "name": "Blitar",
+    "postal_code": "66126"
   },
   {
     "code": "3572021003",
     "district_code": "357202",
-    "name": "Tlumpu"
+    "name": "Tlumpu",
+    "postal_code": "66124"
   },
   {
     "code": "3572021004",
     "district_code": "357202",
-    "name": "Turi"
+    "name": "Turi",
+    "postal_code": "66126"
   },
   {
     "code": "3572021005",
     "district_code": "357202",
-    "name": "Karangsari"
+    "name": "Karangsari",
+    "postal_code": "66125"
   },
   {
     "code": "3572021006",
     "district_code": "357202",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "66121"
   },
   {
     "code": "3572021007",
     "district_code": "357202",
-    "name": "Tanjungsari"
+    "name": "Tanjungsari",
+    "postal_code": "66126"
   }
 ]

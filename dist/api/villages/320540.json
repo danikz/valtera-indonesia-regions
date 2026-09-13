@@ -2,26 +2,31 @@
   {
     "code": "3205402001",
     "district_code": "320540",
-    "name": "Cipareuan"
+    "name": "Cipareuan",
+    "postal_code": "44193"
   },
   {
     "code": "3205402002",
     "district_code": "320540",
-    "name": "Cibiuk Kaler"
+    "name": "Cibiuk Kaler",
+    "postal_code": "44193"
   },
   {
     "code": "3205402003",
     "district_code": "320540",
-    "name": "Cibiuk Kidul"
+    "name": "Cibiuk Kidul",
+    "postal_code": "44193"
   },
   {
     "code": "3205402004",
     "district_code": "320540",
-    "name": "Majasari"
+    "name": "Majasari",
+    "postal_code": "44193"
   },
   {
     "code": "3205402005",
     "district_code": "320540",
-    "name": "Lingkungpasir"
+    "name": "Lingkungpasir",
+    "postal_code": "44193"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "3578291001",
     "district_code": "357829",
-    "name": "Kedung Cowek"
+    "name": "Kedung Cowek",
+    "postal_code": "60125"
   },
   {
     "code": "3578291003",
     "district_code": "357829",
-    "name": "Kenjeran"
+    "name": "Kenjeran",
+    "postal_code": "60123"
   },
   {
     "code": "3578291004",
     "district_code": "357829",
-    "name": "Bulak"
+    "name": "Bulak",
+    "postal_code": "60124"
   },
   {
     "code": "3578291005",
     "district_code": "357829",
-    "name": "Sukolilo Baru"
+    "name": "Sukolilo Baru",
+    "postal_code": "60122"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "7102142001",
     "district_code": "710214",
-    "name": "Kembes II"
+    "name": "Kembes II",
+    "postal_code": "95663"
   },
   {
     "code": "7102142002",
     "district_code": "710214",
-    "name": "Kembes I"
+    "name": "Kembes I",
+    "postal_code": "95663"
   },
   {
     "code": "7102142003",
     "district_code": "710214",
-    "name": "Toumbuluan"
+    "name": "Toumbuluan",
+    "postal_code": "95663"
   },
   {
     "code": "7102142004",
     "district_code": "710214",
-    "name": "Koka"
+    "name": "Koka",
+    "postal_code": "95663"
   },
   {
     "code": "7102142005",
     "district_code": "710214",
-    "name": "Suluan"
+    "name": "Suluan",
+    "postal_code": "95663"
   },
   {
     "code": "7102142006",
     "district_code": "710214",
-    "name": "Kamangta"
+    "name": "Kamangta",
+    "postal_code": "95663"
   },
   {
     "code": "7102142007",
     "district_code": "710214",
-    "name": "Sawangan"
+    "name": "Sawangan",
+    "postal_code": "95663"
   },
   {
     "code": "7102142008",
     "district_code": "710214",
-    "name": "Rumengkor"
+    "name": "Rumengkor",
+    "postal_code": "95663"
   },
   {
     "code": "7102142009",
     "district_code": "710214",
-    "name": "Tikela"
+    "name": "Tikela",
+    "postal_code": "95663"
   },
   {
     "code": "7102142010",
     "district_code": "710214",
-    "name": "Rumengkor Satu"
+    "name": "Rumengkor Satu",
+    "postal_code": "95663"
   },
   {
     "code": "7102142011",
     "district_code": "710214",
-    "name": "Rumengkor Dua"
+    "name": "Rumengkor Dua",
+    "postal_code": "95663"
   }
 ]

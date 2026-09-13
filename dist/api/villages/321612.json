@@ -2,36 +2,43 @@
   {
     "code": "3216122001",
     "district_code": "321612",
-    "name": "Karangsambung"
+    "name": "Karangsambung",
+    "postal_code": "17540"
   },
   {
     "code": "3216122002",
     "district_code": "321612",
-    "name": "Waringinjaya"
+    "name": "Waringinjaya",
+    "postal_code": "17540"
   },
   {
     "code": "3216122003",
     "district_code": "321612",
-    "name": "Karangmekar"
+    "name": "Karangmekar",
+    "postal_code": "17540"
   },
   {
     "code": "3216122004",
     "district_code": "321612",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "17540"
   },
   {
     "code": "3216122005",
     "district_code": "321612",
-    "name": "Karangharum"
+    "name": "Karangharum",
+    "postal_code": "17540"
   },
   {
     "code": "3216122006",
     "district_code": "321612",
-    "name": "Bojongsari"
+    "name": "Bojongsari",
+    "postal_code": "17540"
   },
   {
     "code": "3216122007",
     "district_code": "321612",
-    "name": "Kedungwaringin"
+    "name": "Kedungwaringin",
+    "postal_code": "17540"
   }
 ]

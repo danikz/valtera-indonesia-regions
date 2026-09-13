@@ -2,31 +2,37 @@
   {
     "code": "5103061001",
     "district_code": "510306",
-    "name": "Kerobokan Kelod"
+    "name": "Kerobokan Kelod",
+    "postal_code": "80363"
   },
   {
     "code": "5103061002",
     "district_code": "510306",
-    "name": "Kerobokan"
+    "name": "Kerobokan",
+    "postal_code": "80363"
   },
   {
     "code": "5103061003",
     "district_code": "510306",
-    "name": "Kerobokan Kaja"
+    "name": "Kerobokan Kaja",
+    "postal_code": "80363"
   },
   {
     "code": "5103062004",
     "district_code": "510306",
-    "name": "Tibubeneng"
+    "name": "Tibubeneng",
+    "postal_code": "80363"
   },
   {
     "code": "5103062005",
     "district_code": "510306",
-    "name": "Canggu"
+    "name": "Canggu",
+    "postal_code": "80363"
   },
   {
     "code": "5103062006",
     "district_code": "510306",
-    "name": "Dalung"
+    "name": "Dalung",
+    "postal_code": "80363"
   }
 ]

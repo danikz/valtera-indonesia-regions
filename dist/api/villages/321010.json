@@ -2,71 +2,85 @@
   {
     "code": "3210102001",
     "district_code": "321010",
-    "name": "Parakan"
+    "name": "Parakan",
+    "postal_code": "45473"
   },
   {
     "code": "3210102002",
     "district_code": "321010",
-    "name": "Patuanan"
+    "name": "Patuanan",
+    "postal_code": "45473"
   },
   {
     "code": "3210102003",
     "district_code": "321010",
-    "name": "Nanggerang"
+    "name": "Nanggerang",
+    "postal_code": "45473"
   },
   {
     "code": "3210102004",
     "district_code": "321010",
-    "name": "Lame"
+    "name": "Lame",
+    "postal_code": "45473"
   },
   {
     "code": "3210102005",
     "district_code": "321010",
-    "name": "Mindi"
+    "name": "Mindi",
+    "postal_code": "45473"
   },
   {
     "code": "3210102006",
     "district_code": "321010",
-    "name": "Rajawangi"
+    "name": "Rajawangi",
+    "postal_code": "45473"
   },
   {
     "code": "3210102007",
     "district_code": "321010",
-    "name": "Leuwikujang"
+    "name": "Leuwikujang",
+    "postal_code": "45473"
   },
   {
     "code": "3210102008",
     "district_code": "321010",
-    "name": "Mirat"
+    "name": "Mirat",
+    "postal_code": "45473"
   },
   {
     "code": "3210102009",
     "district_code": "321010",
-    "name": "Leuwimunding"
+    "name": "Leuwimunding",
+    "postal_code": "45473"
   },
   {
     "code": "3210102010",
     "district_code": "321010",
-    "name": "Ciparay"
+    "name": "Ciparay",
+    "postal_code": "45473"
   },
   {
     "code": "3210102011",
     "district_code": "321010",
-    "name": "Heuleut"
+    "name": "Heuleut",
+    "postal_code": "45473"
   },
   {
     "code": "3210102012",
     "district_code": "321010",
-    "name": "Karangasem"
+    "name": "Karangasem",
+    "postal_code": "45473"
   },
   {
     "code": "3210102013",
     "district_code": "321010",
-    "name": "Tanjungsari"
+    "name": "Tanjungsari",
+    "postal_code": "45473"
   },
   {
     "code": "3210102014",
     "district_code": "321010",
-    "name": "Parungjaya"
+    "name": "Parungjaya",
+    "postal_code": "45473"
   }
 ]

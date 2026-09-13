@@ -2,36 +2,43 @@
   {
     "code": "1508162001",
     "district_code": "150816",
-    "name": "Tepian Danto"
+    "name": "Tepian Danto",
+    "postal_code": "37257"
   },
   {
     "code": "1508162002",
     "district_code": "150816",
-    "name": "Aur Gading"
+    "name": "Aur Gading",
+    "postal_code": "37257"
   },
   {
     "code": "1508162003",
     "district_code": "150816",
-    "name": "Pulau Batu"
+    "name": "Pulau Batu",
+    "postal_code": "37257"
   },
   {
     "code": "1508162004",
     "district_code": "150816",
-    "name": "Sari Mulya"
+    "name": "Sari Mulya",
+    "postal_code": "37257"
   },
   {
     "code": "1508162005",
     "district_code": "150816",
-    "name": "Bukit Sari"
+    "name": "Bukit Sari",
+    "postal_code": "37257"
   },
   {
     "code": "1508162006",
     "district_code": "150816",
-    "name": "Lubuk Tenam"
+    "name": "Lubuk Tenam",
+    "postal_code": "37257"
   },
   {
     "code": "1508162007",
     "district_code": "150816",
-    "name": "Kuamang"
+    "name": "Kuamang",
+    "postal_code": "37257"
   }
 ]

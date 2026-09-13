@@ -2,31 +2,37 @@
   {
     "code": "7408132001",
     "district_code": "740813",
-    "name": "Lanipa - Nipa"
+    "name": "Lanipa - Nipa",
+    "postal_code": "93916"
   },
   {
     "code": "7408132002",
     "district_code": "740813",
-    "name": "Ujung Tobaku"
+    "name": "Ujung Tobaku",
+    "postal_code": "93916"
   },
   {
     "code": "7408132003",
     "district_code": "740813",
-    "name": "Katoi"
+    "name": "Katoi",
+    "postal_code": "93913"
   },
   {
     "code": "7408132004",
     "district_code": "740813",
-    "name": "Simbula"
+    "name": "Simbula",
+    "postal_code": "93914"
   },
   {
     "code": "7408132005",
     "district_code": "740813",
-    "name": "Maruge"
+    "name": "Maruge",
+    "postal_code": "93914"
   },
   {
     "code": "7408132006",
     "district_code": "740813",
-    "name": "Lambuno"
+    "name": "Lambuno",
+    "postal_code": "93916"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "3320092001",
     "district_code": "332009",
-    "name": "Tempur"
+    "name": "Tempur",
+    "postal_code": "59456"
   },
   {
     "code": "3320092002",
     "district_code": "332009",
-    "name": "Damarwulan"
+    "name": "Damarwulan",
+    "postal_code": "59456"
   },
   {
     "code": "3320092003",
     "district_code": "332009",
-    "name": "Kunir"
+    "name": "Kunir",
+    "postal_code": "59456"
   },
   {
     "code": "3320092004",
     "district_code": "332009",
-    "name": "Watuaji"
+    "name": "Watuaji",
+    "postal_code": "59456"
   },
   {
     "code": "3320092005",
     "district_code": "332009",
-    "name": "Klepu"
+    "name": "Klepu",
+    "postal_code": "59456"
   },
   {
     "code": "3320092006",
     "district_code": "332009",
-    "name": "Tunahan"
+    "name": "Tunahan",
+    "postal_code": "59456"
   },
   {
     "code": "3320092007",
     "district_code": "332009",
-    "name": "Kaligarang"
+    "name": "Kaligarang",
+    "postal_code": "59456"
   },
   {
     "code": "3320092008",
     "district_code": "332009",
-    "name": "Keling"
+    "name": "Keling",
+    "postal_code": "59456"
   },
   {
     "code": "3320092009",
     "district_code": "332009",
-    "name": "Gelang"
+    "name": "Gelang",
+    "postal_code": "59456"
   },
   {
     "code": "3320092010",
     "district_code": "332009",
-    "name": "Jlegong"
+    "name": "Jlegong",
+    "postal_code": "59456"
   },
   {
     "code": "3320092011",
     "district_code": "332009",
-    "name": "Kelet"
+    "name": "Kelet",
+    "postal_code": "59456"
   },
   {
     "code": "3320092020",
     "district_code": "332009",
-    "name": "Bumiharjo"
+    "name": "Bumiharjo",
+    "postal_code": "59456"
   }
 ]

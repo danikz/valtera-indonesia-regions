@@ -2,36 +2,43 @@
   {
     "code": "3212282001",
     "district_code": "321228",
-    "name": "Cangkingan"
+    "name": "Cangkingan",
+    "postal_code": "45280"
   },
   {
     "code": "3212282002",
     "district_code": "321228",
-    "name": "Jayawinangun"
+    "name": "Jayawinangun",
+    "postal_code": "45280"
   },
   {
     "code": "3212282003",
     "district_code": "321228",
-    "name": "Kedokan Agung"
+    "name": "Kedokan Agung",
+    "postal_code": "45280"
   },
   {
     "code": "3212282004",
     "district_code": "321228",
-    "name": "Kedokanbunder"
+    "name": "Kedokanbunder",
+    "postal_code": "45280"
   },
   {
     "code": "3212282005",
     "district_code": "321228",
-    "name": "Kedokanbunderwetan"
+    "name": "Kedokanbunderwetan",
+    "postal_code": "45280"
   },
   {
     "code": "3212282006",
     "district_code": "321228",
-    "name": "Kaplongan"
+    "name": "Kaplongan",
+    "postal_code": "45280"
   },
   {
     "code": "3212282007",
     "district_code": "321228",
-    "name": "Jayalaksana"
+    "name": "Jayalaksana",
+    "postal_code": "45280"
   }
 ]

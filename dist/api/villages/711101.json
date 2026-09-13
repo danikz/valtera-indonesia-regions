@@ -2,86 +2,103 @@
   {
     "code": "7111012004",
     "district_code": "711101",
-    "name": "Tangagah"
+    "name": "Tangagah",
+    "postal_code": "95770"
   },
   {
     "code": "7111012005",
     "district_code": "711101",
-    "name": "Salongo"
+    "name": "Salongo",
+    "postal_code": "95770"
   },
   {
     "code": "7111012006",
     "district_code": "711101",
-    "name": "Toluaya"
+    "name": "Toluaya",
+    "postal_code": "95770"
   },
   {
     "code": "7111012007",
     "district_code": "711101",
-    "name": "Molibagu"
+    "name": "Molibagu",
+    "postal_code": "95770"
   },
   {
     "code": "7111012008",
     "district_code": "711101",
-    "name": "Popodu"
+    "name": "Popodu",
+    "postal_code": "95770"
   },
   {
     "code": "7111012009",
     "district_code": "711101",
-    "name": "Tolondadu"
+    "name": "Tolondadu",
+    "postal_code": "95770"
   },
   {
     "code": "7111012010",
     "district_code": "711101",
-    "name": "Tabilaa"
+    "name": "Tabilaa",
+    "postal_code": "95770"
   },
   {
     "code": "7111012012",
     "district_code": "711101",
-    "name": "Sondana"
+    "name": "Sondana",
+    "postal_code": "95770"
   },
   {
     "code": "7111012013",
     "district_code": "711101",
-    "name": "Dudepo"
+    "name": "Dudepo",
+    "postal_code": "95770"
   },
   {
     "code": "7111012014",
     "district_code": "711101",
-    "name": "Pinolantungan"
+    "name": "Pinolantungan",
+    "postal_code": "95770"
   },
   {
     "code": "7111012015",
     "district_code": "711101",
-    "name": "Tolondadu I"
+    "name": "Tolondadu I",
+    "postal_code": "95770"
   },
   {
     "code": "7111012016",
     "district_code": "711101",
-    "name": "Tolondadu II"
+    "name": "Tolondadu II",
+    "postal_code": "95770"
   },
   {
     "code": "7111012020",
     "district_code": "711101",
-    "name": "Soguo"
+    "name": "Soguo",
+    "postal_code": "95770"
   },
   {
     "code": "7111012022",
     "district_code": "711101",
-    "name": "Pintadia"
+    "name": "Pintadia",
+    "postal_code": "95770"
   },
   {
     "code": "7111012023",
     "district_code": "711101",
-    "name": "Salongo Timur"
+    "name": "Salongo Timur",
+    "postal_code": "95770"
   },
   {
     "code": "7111012027",
     "district_code": "711101",
-    "name": "Salongo Barat"
+    "name": "Salongo Barat",
+    "postal_code": "95770"
   },
   {
     "code": "7111012028",
     "district_code": "711101",
-    "name": "Dudepo Barat"
+    "name": "Dudepo Barat",
+    "postal_code": "95770"
   }
 ]

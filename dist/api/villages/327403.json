@@ -2,26 +2,31 @@
   {
     "code": "3274031001",
     "district_code": "327403",
-    "name": "Kalijaga"
+    "name": "Kalijaga",
+    "postal_code": "45144"
   },
   {
     "code": "3274031002",
     "district_code": "327403",
-    "name": "Harjamukti"
+    "name": "Harjamukti",
+    "postal_code": "45143"
   },
   {
     "code": "3274031003",
     "district_code": "327403",
-    "name": "Kecapi"
+    "name": "Kecapi",
+    "postal_code": "45142"
   },
   {
     "code": "3274031004",
     "district_code": "327403",
-    "name": "Larangan"
+    "name": "Larangan",
+    "postal_code": "45141"
   },
   {
     "code": "3274031005",
     "district_code": "327403",
-    "name": "Argasunya"
+    "name": "Argasunya",
+    "postal_code": "45145"
   }
 ]

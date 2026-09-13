@@ -2,41 +2,49 @@
   {
     "code": "1205232001",
     "district_code": "120523",
-    "name": "Pematang Tengah"
+    "name": "Pematang Tengah",
+    "postal_code": "20858"
   },
   {
     "code": "1205232002",
     "district_code": "120523",
-    "name": "Damar Condong"
+    "name": "Damar Condong",
+    "postal_code": "20858"
   },
   {
     "code": "1205232003",
     "district_code": "120523",
-    "name": "Perkebunan Damar Condong"
+    "name": "Perkebunan Damar Condong",
+    "postal_code": "20858"
   },
   {
     "code": "1205232004",
     "district_code": "120523",
-    "name": "Perkebunan Perapen"
+    "name": "Perkebunan Perapen",
+    "postal_code": "20858"
   },
   {
     "code": "1205232005",
     "district_code": "120523",
-    "name": "Limau Mungkur"
+    "name": "Limau Mungkur",
+    "postal_code": "20858"
   },
   {
     "code": "1205232006",
     "district_code": "120523",
-    "name": "Serang Jaya Hilir"
+    "name": "Serang Jaya Hilir",
+    "postal_code": "20859"
   },
   {
     "code": "1205232007",
     "district_code": "120523",
-    "name": "Serang Jaya"
+    "name": "Serang Jaya",
+    "postal_code": "20859"
   },
   {
     "code": "1205232008",
     "district_code": "120523",
-    "name": "Sala Haji"
+    "name": "Sala Haji",
+    "postal_code": "20859"
   }
 ]

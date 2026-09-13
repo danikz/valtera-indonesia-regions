@@ -2,51 +2,61 @@
   {
     "code": "7101342001",
     "district_code": "710134",
-    "name": "Bonawang"
+    "name": "Bonawang",
+    "postal_code": "95735"
   },
   {
     "code": "7101342002",
     "district_code": "710134",
-    "name": "Tapadaka Satu"
+    "name": "Tapadaka Satu",
+    "postal_code": "95735"
   },
   {
     "code": "7101342003",
     "district_code": "710134",
-    "name": "Tapadaka Utara"
+    "name": "Tapadaka Utara",
+    "postal_code": "95735"
   },
   {
     "code": "7101342004",
     "district_code": "710134",
-    "name": "Tapadaka Timur"
+    "name": "Tapadaka Timur",
+    "postal_code": "95735"
   },
   {
     "code": "7101342005",
     "district_code": "710134",
-    "name": "Konarom"
+    "name": "Konarom",
+    "postal_code": "95735"
   },
   {
     "code": "7101342006",
     "district_code": "710134",
-    "name": "Konarom Barat"
+    "name": "Konarom Barat",
+    "postal_code": "95735"
   },
   {
     "code": "7101342007",
     "district_code": "710134",
-    "name": "Konarom Utara"
+    "name": "Konarom Utara",
+    "postal_code": "95735"
   },
   {
     "code": "7101342008",
     "district_code": "710134",
-    "name": "Osion"
+    "name": "Osion",
+    "postal_code": "95735"
   },
   {
     "code": "7101342009",
     "district_code": "710134",
-    "name": "Ikuna"
+    "name": "Ikuna",
+    "postal_code": "95735"
   },
   {
     "code": "7101342010",
     "district_code": "710134",
-    "name": "Dumara"
+    "name": "Dumara",
+    "postal_code": "95735"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "9111012001",
     "district_code": "911101",
-    "name": "Banda"
+    "name": "Banda",
+    "postal_code": "99467"
   },
   {
     "code": "9111012002",
     "district_code": "911101",
-    "name": "Pund"
+    "name": "Pund",
+    "postal_code": "99467"
   },
   {
     "code": "9111012003",
     "district_code": "911101",
-    "name": "Kalifam"
+    "name": "Kalifam",
+    "postal_code": "99467"
   },
   {
     "code": "9111012004",
     "district_code": "911101",
-    "name": "Yuwainda"
+    "name": "Yuwainda",
+    "postal_code": "99467"
   },
   {
     "code": "9111012005",
     "district_code": "911101",
-    "name": "Kalimala"
+    "name": "Kalimala",
+    "postal_code": "99467"
   },
   {
     "code": "9111012006",
     "district_code": "911101",
-    "name": "Ampas"
+    "name": "Ampas",
+    "postal_code": "99467"
   },
   {
     "code": "9111012007",
     "district_code": "911101",
-    "name": "Bompai"
+    "name": "Bompai",
+    "postal_code": "99467"
   },
   {
     "code": "9111012008",
     "district_code": "911101",
-    "name": "Sack"
+    "name": "Sack",
+    "postal_code": "99467"
   }
 ]

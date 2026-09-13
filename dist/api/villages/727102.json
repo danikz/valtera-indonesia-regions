@@ -2,31 +2,37 @@
   {
     "code": "7271021002",
     "district_code": "727102",
-    "name": "Ujuna"
+    "name": "Ujuna",
+    "postal_code": "94222"
   },
   {
     "code": "7271021005",
     "district_code": "727102",
-    "name": "Balaroa"
+    "name": "Balaroa",
+    "postal_code": "94226"
   },
   {
     "code": "7271021007",
     "district_code": "727102",
-    "name": "Kamonji"
+    "name": "Kamonji",
+    "postal_code": "94223"
   },
   {
     "code": "7271021008",
     "district_code": "727102",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "94221"
   },
   {
     "code": "7271021009",
     "district_code": "727102",
-    "name": "Lere"
+    "name": "Lere",
+    "postal_code": "94221"
   },
   {
     "code": "7271021015",
     "district_code": "727102",
-    "name": "Siranindi"
+    "name": "Siranindi",
+    "postal_code": "94221"
   }
 ]

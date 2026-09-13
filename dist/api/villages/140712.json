@@ -2,26 +2,31 @@
   {
     "code": "1407121004",
     "district_code": "140712",
-    "name": "Bantayan Hilir"
+    "name": "Bantayan Hilir",
+    "postal_code": "28912"
   },
   {
     "code": "1407122001",
     "district_code": "140712",
-    "name": "Bantaian"
+    "name": "Bantaian",
+    "postal_code": "28912"
   },
   {
     "code": "1407122002",
     "district_code": "140712",
-    "name": "Sungaisialang"
+    "name": "Sungaisialang",
+    "postal_code": "28912"
   },
   {
     "code": "1407122003",
     "district_code": "140712",
-    "name": "Bantayan Baru"
+    "name": "Bantayan Baru",
+    "postal_code": "28912"
   },
   {
     "code": "1407122005",
     "district_code": "140712",
-    "name": "Sungaisialang Hulu"
+    "name": "Sungaisialang Hulu",
+    "postal_code": "28912"
   }
 ]

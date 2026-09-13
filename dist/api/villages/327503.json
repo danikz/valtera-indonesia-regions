@@ -2,31 +2,37 @@
   {
     "code": "3275031001",
     "district_code": "327503",
-    "name": "Kaliabang Tengah"
+    "name": "Kaliabang Tengah",
+    "postal_code": "17125"
   },
   {
     "code": "3275031002",
     "district_code": "327503",
-    "name": "Perwira"
+    "name": "Perwira",
+    "postal_code": "17122"
   },
   {
     "code": "3275031003",
     "district_code": "327503",
-    "name": "Harapanbaru"
+    "name": "Harapanbaru",
+    "postal_code": "17123"
   },
   {
     "code": "3275031004",
     "district_code": "327503",
-    "name": "Teluk Pucung"
+    "name": "Teluk Pucung",
+    "postal_code": "17121"
   },
   {
     "code": "3275031005",
     "district_code": "327503",
-    "name": "Margamulya"
+    "name": "Margamulya",
+    "postal_code": "17142"
   },
   {
     "code": "3275031006",
     "district_code": "327503",
-    "name": "Harapanjaya"
+    "name": "Harapanjaya",
+    "postal_code": "17124"
   }
 ]

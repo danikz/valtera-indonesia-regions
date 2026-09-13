@@ -2,76 +2,91 @@
   {
     "code": "1810011001",
     "district_code": "181001",
-    "name": "Fajaresuk"
+    "name": "Fajaresuk",
+    "postal_code": "35371"
   },
   {
     "code": "1810011002",
     "district_code": "181001",
-    "name": "Pringsewu Utara"
+    "name": "Pringsewu Utara",
+    "postal_code": "35371"
   },
   {
     "code": "1810011003",
     "district_code": "181001",
-    "name": "Pringsewu Selatan"
+    "name": "Pringsewu Selatan",
+    "postal_code": "35371"
   },
   {
     "code": "1810011004",
     "district_code": "181001",
-    "name": "Pringsewu Barat"
+    "name": "Pringsewu Barat",
+    "postal_code": "35371"
   },
   {
     "code": "1810011005",
     "district_code": "181001",
-    "name": "Pringsewu Timur"
+    "name": "Pringsewu Timur",
+    "postal_code": "35371"
   },
   {
     "code": "1810012006",
     "district_code": "181001",
-    "name": "Margakaya"
+    "name": "Margakaya",
+    "postal_code": "35371"
   },
   {
     "code": "1810012007",
     "district_code": "181001",
-    "name": "Waluyojati"
+    "name": "Waluyojati",
+    "postal_code": "35371"
   },
   {
     "code": "1810012008",
     "district_code": "181001",
-    "name": "Sidoharjo"
+    "name": "Sidoharjo",
+    "postal_code": "35371"
   },
   {
     "code": "1810012009",
     "district_code": "181001",
-    "name": "Podomoro"
+    "name": "Podomoro",
+    "postal_code": "35371"
   },
   {
     "code": "1810012010",
     "district_code": "181001",
-    "name": "Bumi Arum"
+    "name": "Bumi Arum",
+    "postal_code": "35371"
   },
   {
     "code": "1810012011",
     "district_code": "181001",
-    "name": "Fajar Agung"
+    "name": "Fajar Agung",
+    "postal_code": "35371"
   },
   {
     "code": "1810012012",
     "district_code": "181001",
-    "name": "Rejo Sari"
+    "name": "Rejo Sari",
+    "postal_code": "35371"
   },
   {
     "code": "1810012013",
     "district_code": "181001",
-    "name": "Bumi Ayu"
+    "name": "Bumi Ayu",
+    "postal_code": "35371"
   },
   {
     "code": "1810012014",
     "district_code": "181001",
-    "name": "Podosari"
+    "name": "Podosari",
+    "postal_code": "35371"
   },
   {
     "code": "1810012015",
     "district_code": "181001",
-    "name": "Fajar Agung Barat"
+    "name": "Fajar Agung Barat",
+    "postal_code": "35371"
   }
 ]

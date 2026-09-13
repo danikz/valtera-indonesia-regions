@@ -2,46 +2,55 @@
   {
     "code": "7308112001",
     "district_code": "730811",
-    "name": "Mappesangka"
+    "name": "Mappesangka",
+    "postal_code": "92765"
   },
   {
     "code": "7308112002",
     "district_code": "730811",
-    "name": "Salebba"
+    "name": "Salebba",
+    "postal_code": "92765"
   },
   {
     "code": "7308112003",
     "district_code": "730811",
-    "name": "Mattampae"
+    "name": "Mattampae",
+    "postal_code": "92765"
   },
   {
     "code": "7308112004",
     "district_code": "730811",
-    "name": "Pattimpa"
+    "name": "Pattimpa",
+    "postal_code": "92765"
   },
   {
     "code": "7308112005",
     "district_code": "730811",
-    "name": "Tellu Boccoe"
+    "name": "Tellu Boccoe",
+    "postal_code": "92765"
   },
   {
     "code": "7308112006",
     "district_code": "730811",
-    "name": "Turu Adae"
+    "name": "Turu Adae",
+    "postal_code": "92765"
   },
   {
     "code": "7308112007",
     "district_code": "730811",
-    "name": "Salampe"
+    "name": "Salampe",
+    "postal_code": "92765"
   },
   {
     "code": "7308112008",
     "district_code": "730811",
-    "name": "Poleonro"
+    "name": "Poleonro",
+    "postal_code": "92765"
   },
   {
     "code": "7308112009",
     "district_code": "730811",
-    "name": "Bolli"
+    "name": "Bolli",
+    "postal_code": "92765"
   }
 ]

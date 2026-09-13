@@ -2,46 +2,55 @@
   {
     "code": "3201232001",
     "district_code": "320123",
-    "name": "Tapos"
+    "name": "Tapos",
+    "postal_code": "16370"
   },
   {
     "code": "3201232002",
     "district_code": "320123",
-    "name": "Ciomas"
+    "name": "Ciomas",
+    "postal_code": "16370"
   },
   {
     "code": "3201232003",
     "district_code": "320123",
-    "name": "Batok"
+    "name": "Batok",
+    "postal_code": "16370"
   },
   {
     "code": "3201232004",
     "district_code": "320123",
-    "name": "Babakan"
+    "name": "Babakan",
+    "postal_code": "16370"
   },
   {
     "code": "3201232005",
     "district_code": "320123",
-    "name": "Tenjo"
+    "name": "Tenjo",
+    "postal_code": "16370"
   },
   {
     "code": "3201232006",
     "district_code": "320123",
-    "name": "Cilaku"
+    "name": "Cilaku",
+    "postal_code": "16370"
   },
   {
     "code": "3201232007",
     "district_code": "320123",
-    "name": "Singabraja"
+    "name": "Singabraja",
+    "postal_code": "16370"
   },
   {
     "code": "3201232008",
     "district_code": "320123",
-    "name": "Singabangsa"
+    "name": "Singabangsa",
+    "postal_code": "16370"
   },
   {
     "code": "3201232009",
     "district_code": "320123",
-    "name": "Bojong"
+    "name": "Bojong",
+    "postal_code": "16370"
   }
 ]

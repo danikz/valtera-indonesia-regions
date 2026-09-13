@@ -2,31 +2,37 @@
   {
     "code": "3273141001",
     "district_code": "327314",
-    "name": "Padasuka"
+    "name": "Padasuka",
+    "postal_code": "40125"
   },
   {
     "code": "3273141002",
     "district_code": "327314",
-    "name": "Cikutra"
+    "name": "Cikutra",
+    "postal_code": "40124"
   },
   {
     "code": "3273141003",
     "district_code": "327314",
-    "name": "Cicadas"
+    "name": "Cicadas",
+    "postal_code": "40121"
   },
   {
     "code": "3273141004",
     "district_code": "327314",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "40121"
   },
   {
     "code": "3273141005",
     "district_code": "327314",
-    "name": "Sukapada"
+    "name": "Sukapada",
+    "postal_code": "40125"
   },
   {
     "code": "3273141006",
     "district_code": "327314",
-    "name": "Pasirlayung"
+    "name": "Pasirlayung",
+    "postal_code": "40192"
   }
 ]

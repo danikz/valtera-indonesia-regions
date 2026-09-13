@@ -2,46 +2,55 @@
   {
     "code": "5271021001",
     "district_code": "527102",
-    "name": "Pagesangan"
+    "name": "Pagesangan",
+    "postal_code": "83127"
   },
   {
     "code": "5271021002",
     "district_code": "527102",
-    "name": "Mataram Timur"
+    "name": "Mataram Timur",
+    "postal_code": "83121"
   },
   {
     "code": "5271021008",
     "district_code": "527102",
-    "name": "Pagutan"
+    "name": "Pagutan",
+    "postal_code": "83117"
   },
   {
     "code": "5271021009",
     "district_code": "527102",
-    "name": "Pagesangan Barat"
+    "name": "Pagesangan Barat",
+    "postal_code": "83127"
   },
   {
     "code": "5271021010",
     "district_code": "527102",
-    "name": "Pagesangan Timur"
+    "name": "Pagesangan Timur",
+    "postal_code": "83127"
   },
   {
     "code": "5271021011",
     "district_code": "527102",
-    "name": "Pejanggik"
+    "name": "Pejanggik",
+    "postal_code": "83127"
   },
   {
     "code": "5271021012",
     "district_code": "527102",
-    "name": "Punia"
+    "name": "Punia",
+    "postal_code": "83127"
   },
   {
     "code": "5271021013",
     "district_code": "527102",
-    "name": "Pagutan Timur"
+    "name": "Pagutan Timur",
+    "postal_code": "83127"
   },
   {
     "code": "5271021014",
     "district_code": "527102",
-    "name": "Pagutan Barat"
+    "name": "Pagutan Barat",
+    "postal_code": "83127"
   }
 ]

@@ -2,16 +2,19 @@
   {
     "code": "3471071001",
     "district_code": "347107",
-    "name": "Pakuncen"
+    "name": "Pakuncen",
+    "postal_code": "55253"
   },
   {
     "code": "3471071002",
     "district_code": "347107",
-    "name": "Wirobrajan"
+    "name": "Wirobrajan",
+    "postal_code": "55252"
   },
   {
     "code": "3471071003",
     "district_code": "347107",
-    "name": "Patangpuluhan"
+    "name": "Patangpuluhan",
+    "postal_code": "55251"
   }
 ]

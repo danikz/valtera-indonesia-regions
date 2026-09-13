@@ -2,56 +2,67 @@
   {
     "code": "7371131001",
     "district_code": "737113",
-    "name": "Tidung"
+    "name": "Tidung",
+    "postal_code": "90222"
   },
   {
     "code": "7371131002",
     "district_code": "737113",
-    "name": "Kassi - Kassi"
+    "name": "Kassi - Kassi",
+    "postal_code": "90222"
   },
   {
     "code": "7371131003",
     "district_code": "737113",
-    "name": "Mappala"
+    "name": "Mappala",
+    "postal_code": "90222"
   },
   {
     "code": "7371131004",
     "district_code": "737113",
-    "name": "Buakana"
+    "name": "Buakana",
+    "postal_code": "90222"
   },
   {
     "code": "7371131005",
     "district_code": "737113",
-    "name": "Bonto Makkio"
+    "name": "Bonto Makkio",
+    "postal_code": "90222"
   },
   {
     "code": "7371131006",
     "district_code": "737113",
-    "name": "Rappocini"
+    "name": "Rappocini",
+    "postal_code": "90222"
   },
   {
     "code": "7371131007",
     "district_code": "737113",
-    "name": "Balla Parang"
+    "name": "Balla Parang",
+    "postal_code": "90222"
   },
   {
     "code": "7371131008",
     "district_code": "737113",
-    "name": "Banta-Bantaeng"
+    "name": "Banta-Bantaeng",
+    "postal_code": "90222"
   },
   {
     "code": "7371131009",
     "district_code": "737113",
-    "name": "Karunrung"
+    "name": "Karunrung",
+    "postal_code": "90222"
   },
   {
     "code": "7371131010",
     "district_code": "737113",
-    "name": "Gunung Sari"
+    "name": "Gunung Sari",
+    "postal_code": "90221"
   },
   {
     "code": "7371131011",
     "district_code": "737113",
-    "name": "Minasa Upa"
+    "name": "Minasa Upa",
+    "postal_code": "90221"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3375031002",
     "district_code": "337503",
-    "name": "Krapyak"
+    "name": "Krapyak",
+    "postal_code": "51147"
   },
   {
     "code": "3375031003",
     "district_code": "337503",
-    "name": "Kandang Panjang"
+    "name": "Kandang Panjang",
+    "postal_code": "51149"
   },
   {
     "code": "3375031004",
     "district_code": "337503",
-    "name": "Panjang Wetan"
+    "name": "Panjang Wetan",
+    "postal_code": "51141"
   },
   {
     "code": "3375031006",
     "district_code": "337503",
-    "name": "Padukuhan Kraton"
+    "name": "Padukuhan Kraton",
+    "postal_code": "51146"
   },
   {
     "code": "3375031007",
     "district_code": "337503",
-    "name": "Degayu"
+    "name": "Degayu",
+    "postal_code": "51148"
   },
   {
     "code": "3375031009",
     "district_code": "337503",
-    "name": "Bandengan"
+    "name": "Bandengan",
+    "postal_code": "51143"
   },
   {
     "code": "3375031010",
     "district_code": "337503",
-    "name": "Panjang Baru"
+    "name": "Panjang Baru",
+    "postal_code": "51141"
   }
 ]

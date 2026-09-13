@@ -2,51 +2,61 @@
   {
     "code": "3603042001",
     "district_code": "360304",
-    "name": "Sukamanah"
+    "name": "Sukamanah",
+    "postal_code": "15720"
   },
   {
     "code": "3603042002",
     "district_code": "360304",
-    "name": "Jambe"
+    "name": "Jambe",
+    "postal_code": "15720"
   },
   {
     "code": "3603042003",
     "district_code": "360304",
-    "name": "Tipar Raya"
+    "name": "Tipar Raya",
+    "postal_code": "15720"
   },
   {
     "code": "3603042004",
     "district_code": "360304",
-    "name": "Taban"
+    "name": "Taban",
+    "postal_code": "15720"
   },
   {
     "code": "3603042005",
     "district_code": "360304",
-    "name": "Daru"
+    "name": "Daru",
+    "postal_code": "15720"
   },
   {
     "code": "3603042006",
     "district_code": "360304",
-    "name": "Kutruk"
+    "name": "Kutruk",
+    "postal_code": "15720"
   },
   {
     "code": "3603042007",
     "district_code": "360304",
-    "name": "Ranca Buaya"
+    "name": "Ranca Buaya",
+    "postal_code": "15720"
   },
   {
     "code": "3603042008",
     "district_code": "360304",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "15720"
   },
   {
     "code": "3603042009",
     "district_code": "360304",
-    "name": "Ancol Pasir"
+    "name": "Ancol Pasir",
+    "postal_code": "15720"
   },
   {
     "code": "3603042010",
     "district_code": "360304",
-    "name": "Pasir Barat"
+    "name": "Pasir Barat",
+    "postal_code": "15720"
   }
 ]

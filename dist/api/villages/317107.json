@@ -2,36 +2,43 @@
   {
     "code": "3171071001",
     "district_code": "317107",
-    "name": "Gelora"
+    "name": "Gelora",
+    "postal_code": "10270"
   },
   {
     "code": "3171071002",
     "district_code": "317107",
-    "name": "Bendungan Hilir"
+    "name": "Bendungan Hilir",
+    "postal_code": "10210"
   },
   {
     "code": "3171071003",
     "district_code": "317107",
-    "name": "Karet Tengsin"
+    "name": "Karet Tengsin",
+    "postal_code": "10220"
   },
   {
     "code": "3171071004",
     "district_code": "317107",
-    "name": "Petamburan"
+    "name": "Petamburan",
+    "postal_code": "10260"
   },
   {
     "code": "3171071005",
     "district_code": "317107",
-    "name": "Kebon Melati"
+    "name": "Kebon Melati",
+    "postal_code": "10230"
   },
   {
     "code": "3171071006",
     "district_code": "317107",
-    "name": "Kebon Kacang"
+    "name": "Kebon Kacang",
+    "postal_code": "10240"
   },
   {
     "code": "3171071007",
     "district_code": "317107",
-    "name": "Kampung Bali"
+    "name": "Kampung Bali",
+    "postal_code": "10250"
   }
 ]

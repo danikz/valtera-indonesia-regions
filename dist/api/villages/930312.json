@@ -2,36 +2,43 @@
   {
     "code": "9303122001",
     "district_code": "930312",
-    "name": "Amk"
+    "name": "Amk",
+    "postal_code": "99855"
   },
   {
     "code": "9303122002",
     "district_code": "930312",
-    "name": "Yame"
+    "name": "Yame",
+    "postal_code": "99855"
   },
   {
     "code": "9303122003",
     "district_code": "930312",
-    "name": "Benggo"
+    "name": "Benggo",
+    "postal_code": "99855"
   },
   {
     "code": "9303122004",
     "district_code": "930312",
-    "name": "Kokoya"
+    "name": "Kokoya",
+    "postal_code": "99855"
   },
   {
     "code": "9303122005",
     "district_code": "930312",
-    "name": "Borohaba"
+    "name": "Borohaba",
+    "postal_code": "99855"
   },
   {
     "code": "9303122006",
     "district_code": "930312",
-    "name": "Ogorito"
+    "name": "Ogorito",
+    "postal_code": "99855"
   },
   {
     "code": "9303122007",
     "district_code": "930312",
-    "name": "Hebeske"
+    "name": "Hebeske",
+    "postal_code": "99855"
   }
 ]

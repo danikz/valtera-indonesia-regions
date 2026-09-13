@@ -2,51 +2,61 @@
   {
     "code": "7105122001",
     "district_code": "710512",
-    "name": "Tumpaan Satu"
+    "name": "Tumpaan Satu",
+    "postal_code": "95352"
   },
   {
     "code": "7105122002",
     "district_code": "710512",
-    "name": "Tumpaan"
+    "name": "Tumpaan",
+    "postal_code": "95352"
   },
   {
     "code": "7105122003",
     "district_code": "710512",
-    "name": "Matani"
+    "name": "Matani",
+    "postal_code": "95352"
   },
   {
     "code": "7105122004",
     "district_code": "710512",
-    "name": "Popontolen"
+    "name": "Popontolen",
+    "postal_code": "95352"
   },
   {
     "code": "7105122005",
     "district_code": "710512",
-    "name": "Lelema"
+    "name": "Lelema",
+    "postal_code": "95352"
   },
   {
     "code": "7105122006",
     "district_code": "710512",
-    "name": "Tangkunei"
+    "name": "Tangkunei",
+    "postal_code": "95352"
   },
   {
     "code": "7105122007",
     "district_code": "710512",
-    "name": "Munte"
+    "name": "Munte",
+    "postal_code": "95352"
   },
   {
     "code": "7105122016",
     "district_code": "710512",
-    "name": "Tumpaan Baru"
+    "name": "Tumpaan Baru",
+    "postal_code": "95352"
   },
   {
     "code": "7105122017",
     "district_code": "710512",
-    "name": "Matani Satu"
+    "name": "Matani Satu",
+    "postal_code": "95352"
   },
   {
     "code": "7105122018",
     "district_code": "710512",
-    "name": "Tumpan Dua"
+    "name": "Tumpan Dua",
+    "postal_code": "95352"
   }
 ]

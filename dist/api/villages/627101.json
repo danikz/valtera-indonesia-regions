@@ -2,31 +2,37 @@
   {
     "code": "6271011001",
     "district_code": "627101",
-    "name": "Pahandut"
+    "name": "Pahandut",
+    "postal_code": "73111"
   },
   {
     "code": "6271011002",
     "district_code": "627101",
-    "name": "Panarung"
+    "name": "Panarung",
+    "postal_code": "73111"
   },
   {
     "code": "6271011003",
     "district_code": "627101",
-    "name": "Langkai"
+    "name": "Langkai",
+    "postal_code": "73111"
   },
   {
     "code": "6271011004",
     "district_code": "627101",
-    "name": "Tumbang Rungan"
+    "name": "Tumbang Rungan",
+    "postal_code": "73111"
   },
   {
     "code": "6271011005",
     "district_code": "627101",
-    "name": "Pahandut Seberang"
+    "name": "Pahandut Seberang",
+    "postal_code": "73111"
   },
   {
     "code": "6271011006",
     "district_code": "627101",
-    "name": "Tanjung Pinang"
+    "name": "Tanjung Pinang",
+    "postal_code": "73111"
   }
 ]

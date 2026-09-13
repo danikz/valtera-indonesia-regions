@@ -2,41 +2,49 @@
   {
     "code": "5104042001",
     "district_code": "510404",
-    "name": "Pejeng"
+    "name": "Pejeng",
+    "postal_code": "80552"
   },
   {
     "code": "5104042002",
     "district_code": "510404",
-    "name": "Sanding"
+    "name": "Sanding",
+    "postal_code": "80552"
   },
   {
     "code": "5104042003",
     "district_code": "510404",
-    "name": "Tampaksiring"
+    "name": "Tampaksiring",
+    "postal_code": "80552"
   },
   {
     "code": "5104042004",
     "district_code": "510404",
-    "name": "Manukaya"
+    "name": "Manukaya",
+    "postal_code": "80552"
   },
   {
     "code": "5104042005",
     "district_code": "510404",
-    "name": "Pejeng Kawan"
+    "name": "Pejeng Kawan",
+    "postal_code": "80552"
   },
   {
     "code": "5104042006",
     "district_code": "510404",
-    "name": "Pejeng Kaja"
+    "name": "Pejeng Kaja",
+    "postal_code": "80552"
   },
   {
     "code": "5104042007",
     "district_code": "510404",
-    "name": "Pejeng Kangin"
+    "name": "Pejeng Kangin",
+    "postal_code": "80552"
   },
   {
     "code": "5104042008",
     "district_code": "510404",
-    "name": "Pejeng Kelod"
+    "name": "Pejeng Kelod",
+    "postal_code": "80552"
   }
 ]

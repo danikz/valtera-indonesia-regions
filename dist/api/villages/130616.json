@@ -2,21 +2,25 @@
   {
     "code": "1306162001",
     "district_code": "130616",
-    "name": "Malalak Utara"
+    "name": "Malalak Utara",
+    "postal_code": "26163"
   },
   {
     "code": "1306162002",
     "district_code": "130616",
-    "name": "Malalak Timur"
+    "name": "Malalak Timur",
+    "postal_code": "26163"
   },
   {
     "code": "1306162003",
     "district_code": "130616",
-    "name": "Malalak Selatan"
+    "name": "Malalak Selatan",
+    "postal_code": "26163"
   },
   {
     "code": "1306162004",
     "district_code": "130616",
-    "name": "Malalak Barat"
+    "name": "Malalak Barat",
+    "postal_code": "26163"
   }
 ]

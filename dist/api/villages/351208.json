@@ -2,61 +2,73 @@
   {
     "code": "3512081002",
     "district_code": "351208",
-    "name": "Ardirejo"
+    "name": "Ardirejo",
+    "postal_code": "68321"
   },
   {
     "code": "3512081007",
     "district_code": "351208",
-    "name": "Mimbaan"
+    "name": "Mimbaan",
+    "postal_code": "68322"
   },
   {
     "code": "3512082001",
     "district_code": "351208",
-    "name": "Sliwung"
+    "name": "Sliwung",
+    "postal_code": "68323"
   },
   {
     "code": "3512082003",
     "district_code": "351208",
-    "name": "Battal"
+    "name": "Battal",
+    "postal_code": "68323"
   },
   {
     "code": "3512082004",
     "district_code": "351208",
-    "name": "Klampokan"
+    "name": "Klampokan",
+    "postal_code": "68323"
   },
   {
     "code": "3512082005",
     "district_code": "351208",
-    "name": "Juglangan"
+    "name": "Juglangan",
+    "postal_code": "68323"
   },
   {
     "code": "3512082006",
     "district_code": "351208",
-    "name": "Panji Kidul"
+    "name": "Panji Kidul",
+    "postal_code": "68323"
   },
   {
     "code": "3512082008",
     "district_code": "351208",
-    "name": "Panji Lor"
+    "name": "Panji Lor",
+    "postal_code": "68323"
   },
   {
     "code": "3512082009",
     "district_code": "351208",
-    "name": "Tokelan"
+    "name": "Tokelan",
+    "postal_code": "68323"
   },
   {
     "code": "3512082010",
     "district_code": "351208",
-    "name": "Curah Jeru"
+    "name": "Curah Jeru",
+    "postal_code": "68323"
   },
   {
     "code": "3512082011",
     "district_code": "351208",
-    "name": "Tenggir"
+    "name": "Tenggir",
+    "postal_code": "68323"
   },
   {
     "code": "3512082012",
     "district_code": "351208",
-    "name": "Kayu Putih"
+    "name": "Kayu Putih",
+    "postal_code": "68323"
   }
 ]

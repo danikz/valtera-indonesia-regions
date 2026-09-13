@@ -2,156 +2,187 @@
   {
     "code": "1403011001",
     "district_code": "140301",
-    "name": "Bengkalis Kota"
+    "name": "Bengkalis Kota",
+    "postal_code": "28712"
   },
   {
     "code": "1403011002",
     "district_code": "140301",
-    "name": "Damon"
+    "name": "Damon",
+    "postal_code": "28713"
   },
   {
     "code": "1403011003",
     "district_code": "140301",
-    "name": "Rimba Sekampung"
+    "name": "Rimba Sekampung",
+    "postal_code": "28732"
   },
   {
     "code": "1403012004",
     "district_code": "140301",
-    "name": "Kelapapati"
+    "name": "Kelapapati",
+    "postal_code": "28716"
   },
   {
     "code": "1403012005",
     "district_code": "140301",
-    "name": "Pedekik"
+    "name": "Pedekik",
+    "postal_code": "28726"
   },
   {
     "code": "1403012006",
     "district_code": "140301",
-    "name": "Pangkalan Batang"
+    "name": "Pangkalan Batang",
+    "postal_code": "28724"
   },
   {
     "code": "1403012007",
     "district_code": "140301",
-    "name": "Sebauk"
+    "name": "Sebauk",
+    "postal_code": "28733"
   },
   {
     "code": "1403012008",
     "district_code": "140301",
-    "name": "Teluk Latak"
+    "name": "Teluk Latak",
+    "postal_code": "28739"
   },
   {
     "code": "1403012009",
     "district_code": "140301",
-    "name": "Meskom"
+    "name": "Meskom",
+    "postal_code": "28722"
   },
   {
     "code": "1403012010",
     "district_code": "140301",
-    "name": "Senggoro"
+    "name": "Senggoro",
+    "postal_code": "28714"
   },
   {
     "code": "1403012011",
     "district_code": "140301",
-    "name": "Air Putih"
+    "name": "Air Putih",
+    "postal_code": "28711"
   },
   {
     "code": "1403012012",
     "district_code": "140301",
-    "name": "Sei Alam"
+    "name": "Sei Alam",
+    "postal_code": "28734"
   },
   {
     "code": "1403012013",
     "district_code": "140301",
-    "name": "Penampi"
+    "name": "Penampi",
+    "postal_code": "28729"
   },
   {
     "code": "1403012014",
     "district_code": "140301",
-    "name": "Temeran"
+    "name": "Temeran",
+    "postal_code": "28740"
   },
   {
     "code": "1403012015",
     "district_code": "140301",
-    "name": "Penebal"
+    "name": "Penebal",
+    "postal_code": "28730"
   },
   {
     "code": "1403012016",
     "district_code": "140301",
-    "name": "Pematang Duku"
+    "name": "Pematang Duku",
+    "postal_code": "28727"
   },
   {
     "code": "1403012017",
     "district_code": "140301",
-    "name": "Ketam Putih"
+    "name": "Ketam Putih",
+    "postal_code": "28720"
   },
   {
     "code": "1403012018",
     "district_code": "140301",
-    "name": "Kelemantan"
+    "name": "Kelemantan",
+    "postal_code": "28718"
   },
   {
     "code": "1403012019",
     "district_code": "140301",
-    "name": "Sekodi"
+    "name": "Sekodi",
+    "postal_code": "28735"
   },
   {
     "code": "1403012020",
     "district_code": "140301",
-    "name": "Wonosari"
+    "name": "Wonosari",
+    "postal_code": "28741"
   },
   {
     "code": "1403012021",
     "district_code": "140301",
-    "name": "Kuala Alam"
+    "name": "Kuala Alam",
+    "postal_code": "28721"
   },
   {
     "code": "1403012022",
     "district_code": "140301",
-    "name": "Kelebuk"
+    "name": "Kelebuk",
+    "postal_code": "28717"
   },
   {
     "code": "1403012023",
     "district_code": "140301",
-    "name": "Palkun"
+    "name": "Palkun",
+    "postal_code": "28723"
   },
   {
     "code": "1403012024",
     "district_code": "140301",
-    "name": "Sungai Batang"
+    "name": "Sungai Batang",
+    "postal_code": "28738"
   },
   {
     "code": "1403012025",
     "district_code": "140301",
-    "name": "Prapat Tunggal"
+    "name": "Prapat Tunggal",
+    "postal_code": "28731"
   },
   {
     "code": "1403012026",
     "district_code": "140301",
-    "name": "Simpang Ayam"
+    "name": "Simpang Ayam",
+    "postal_code": "28737"
   },
   {
     "code": "1403012027",
     "district_code": "140301",
-    "name": "Senderak"
+    "name": "Senderak",
+    "postal_code": "28736"
   },
   {
     "code": "1403012028",
     "district_code": "140301",
-    "name": "Kelemantan Barat"
+    "name": "Kelemantan Barat",
+    "postal_code": "28719"
   },
   {
     "code": "1403012029",
     "district_code": "140301",
-    "name": "Damai"
+    "name": "Damai",
+    "postal_code": "28715"
   },
   {
     "code": "1403012030",
     "district_code": "140301",
-    "name": "Pangkalan Batang Barat"
+    "name": "Pangkalan Batang Barat",
+    "postal_code": "28725"
   },
   {
     "code": "1403012031",
     "district_code": "140301",
-    "name": "Pematang Duku Timur"
+    "name": "Pematang Duku Timur",
+    "postal_code": "28728"
   }
 ]

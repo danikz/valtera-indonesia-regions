@@ -2,51 +2,61 @@
   {
     "code": "3328101006",
     "district_code": "332810",
-    "name": "Pakembaran"
+    "name": "Pakembaran",
+    "postal_code": "52415"
   },
   {
     "code": "3328101007",
     "district_code": "332810",
-    "name": "Kagok"
+    "name": "Kagok",
+    "postal_code": "52411"
   },
   {
     "code": "3328101008",
     "district_code": "332810",
-    "name": "Procot"
+    "name": "Procot",
+    "postal_code": "52412"
   },
   {
     "code": "3328101009",
     "district_code": "332810",
-    "name": "Kudaile"
+    "name": "Kudaile",
+    "postal_code": "52413"
   },
   {
     "code": "3328101010",
     "district_code": "332810",
-    "name": "Slawi Wetan"
+    "name": "Slawi Wetan",
+    "postal_code": "52411"
   },
   {
     "code": "3328102001",
     "district_code": "332810",
-    "name": "Kalisapu"
+    "name": "Kalisapu",
+    "postal_code": "52416"
   },
   {
     "code": "3328102002",
     "district_code": "332810",
-    "name": "Dukuhwringin"
+    "name": "Dukuhwringin",
+    "postal_code": "52419"
   },
   {
     "code": "3328102003",
     "district_code": "332810",
-    "name": "Dukuhsalam"
+    "name": "Dukuhsalam",
+    "postal_code": "52418"
   },
   {
     "code": "3328102004",
     "district_code": "332810",
-    "name": "Slawi Kulon"
+    "name": "Slawi Kulon",
+    "postal_code": "52419"
   },
   {
     "code": "3328102005",
     "district_code": "332810",
-    "name": "Trayeman"
+    "name": "Trayeman",
+    "postal_code": "52414"
   }
 ]

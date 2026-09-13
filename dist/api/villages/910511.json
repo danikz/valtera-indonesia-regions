@@ -2,51 +2,61 @@
   {
     "code": "9105112001",
     "district_code": "910511",
-    "name": "Wooi"
+    "name": "Wooi",
+    "postal_code": "98647"
   },
   {
     "code": "9105112002",
     "district_code": "910511",
-    "name": "Woinap"
+    "name": "Woinap",
+    "postal_code": "98647"
   },
   {
     "code": "9105112003",
     "district_code": "910511",
-    "name": "Aibondeni"
+    "name": "Aibondeni",
+    "postal_code": "98647"
   },
   {
     "code": "9105112004",
     "district_code": "910511",
-    "name": "Kanaki"
+    "name": "Kanaki",
+    "postal_code": "98647"
   },
   {
     "code": "9105112005",
     "district_code": "910511",
-    "name": "Dumani"
+    "name": "Dumani",
+    "postal_code": "98647"
   },
   {
     "code": "9105112007",
     "district_code": "910511",
-    "name": "Karemoni"
+    "name": "Karemoni",
+    "postal_code": "98647"
   },
   {
     "code": "9105112008",
     "district_code": "910511",
-    "name": "Haihorei"
+    "name": "Haihorei",
+    "postal_code": "98647"
   },
   {
     "code": "9105112009",
     "district_code": "910511",
-    "name": "Rembai"
+    "name": "Rembai",
+    "postal_code": "98647"
   },
   {
     "code": "9105112010",
     "district_code": "910511",
-    "name": "Jaimaria"
+    "name": "Jaimaria",
+    "postal_code": "98647"
   },
   {
     "code": "9105112011",
     "district_code": "910511",
-    "name": "Awado"
+    "name": "Awado",
+    "postal_code": "98647"
   }
 ]

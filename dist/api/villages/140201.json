@@ -2,81 +2,97 @@
   {
     "code": "1402011004",
     "district_code": "140201",
-    "name": "Kampung Dagang"
+    "name": "Kampung Dagang",
+    "postal_code": "29313"
   },
   {
     "code": "1402011006",
     "district_code": "140201",
-    "name": "Pasar Kota"
+    "name": "Pasar Kota",
+    "postal_code": "29311"
   },
   {
     "code": "1402011007",
     "district_code": "140201",
-    "name": "Kampung Besar Kota"
+    "name": "Kampung Besar Kota",
+    "postal_code": "29312"
   },
   {
     "code": "1402011008",
     "district_code": "140201",
-    "name": "Sekip Hulu"
+    "name": "Sekip Hulu",
+    "postal_code": "29319"
   },
   {
     "code": "1402011011",
     "district_code": "140201",
-    "name": "Kmp Besar Seberang"
+    "name": "Kmp Besar Seberang",
+    "postal_code": "29312"
   },
   {
     "code": "1402011018",
     "district_code": "140201",
-    "name": "Sekip Hilir Jumat"
+    "name": "Sekip Hilir Jumat",
+    "postal_code": "29318"
   },
   {
     "code": "1402012001",
     "district_code": "140201",
-    "name": "Sungai Guntung Tengah"
+    "name": "Sungai Guntung Tengah",
+    "postal_code": "29319"
   },
   {
     "code": "1402012002",
     "district_code": "140201",
-    "name": "Sungai Guntung Hilir"
+    "name": "Sungai Guntung Hilir",
+    "postal_code": "29319"
   },
   {
     "code": "1402012003",
     "district_code": "140201",
-    "name": "Kuantan Baru"
+    "name": "Kuantan Baru",
+    "postal_code": "29314"
   },
   {
     "code": "1402012005",
     "district_code": "140201",
-    "name": "Kampung Pulau"
+    "name": "Kampung Pulau",
+    "postal_code": "29314"
   },
   {
     "code": "1402012009",
     "district_code": "140201",
-    "name": "Sungai Beringin"
+    "name": "Sungai Beringin",
+    "postal_code": "29317"
   },
   {
     "code": "1402012010",
     "district_code": "140201",
-    "name": "Pasir Kemilu"
+    "name": "Pasir Kemilu",
+    "postal_code": "29316"
   },
   {
     "code": "1402012012",
     "district_code": "140201",
-    "name": "Rantau Mapesai"
+    "name": "Rantau Mapesai",
+    "postal_code": "29319"
   },
   {
     "code": "1402012013",
     "district_code": "140201",
-    "name": "Pulau Gajah"
+    "name": "Pulau Gajah",
+    "postal_code": "29313"
   },
   {
     "code": "1402012014",
     "district_code": "140201",
-    "name": "Sungai Raya"
+    "name": "Sungai Raya",
+    "postal_code": "29319"
   },
   {
     "code": "1402012023",
     "district_code": "140201",
-    "name": "Rawa Bangun"
+    "name": "Rawa Bangun",
+    "postal_code": "29319"
   }
 ]

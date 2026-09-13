@@ -2,21 +2,25 @@
   {
     "code": "3274041001",
     "district_code": "327404",
-    "name": "Jagasatru"
+    "name": "Jagasatru",
+    "postal_code": "45115"
   },
   {
     "code": "3274041002",
     "district_code": "327404",
-    "name": "Pekalipan"
+    "name": "Pekalipan",
+    "postal_code": "45117"
   },
   {
     "code": "3274041003",
     "district_code": "327404",
-    "name": "Pulasaren"
+    "name": "Pulasaren",
+    "postal_code": "45116"
   },
   {
     "code": "3274041004",
     "district_code": "327404",
-    "name": "Pekalangan"
+    "name": "Pekalangan",
+    "postal_code": "45118"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "9406042001",
     "district_code": "940604",
-    "name": "Idakebo"
+    "name": "Idakebo",
+    "postal_code": "98885"
   },
   {
     "code": "9406042002",
     "district_code": "940604",
-    "name": "Pugatadi I"
+    "name": "Pugatadi I",
+    "postal_code": "98885"
   },
   {
     "code": "9406042003",
     "district_code": "940604",
-    "name": "Pugatadi II"
+    "name": "Pugatadi II",
+    "postal_code": "98885"
   },
   {
     "code": "9406042004",
     "district_code": "940604",
-    "name": "Ikrar"
+    "name": "Ikrar",
+    "postal_code": "98885"
   },
   {
     "code": "9406042005",
     "district_code": "940604",
-    "name": "Obayo"
+    "name": "Obayo",
+    "postal_code": "98885"
   },
   {
     "code": "9406042006",
     "district_code": "940604",
-    "name": "Kuyakago"
+    "name": "Kuyakago",
+    "postal_code": "98885"
   },
   {
     "code": "9406042007",
     "district_code": "940604",
-    "name": "Mogou"
+    "name": "Mogou",
+    "postal_code": "98885"
   },
   {
     "code": "9406042008",
     "district_code": "940604",
-    "name": "Yametadi"
+    "name": "Yametadi",
+    "postal_code": "98885"
   },
   {
     "code": "9406042009",
     "district_code": "940604",
-    "name": "Duntek"
+    "name": "Duntek",
+    "postal_code": "98885"
   },
   {
     "code": "9406042010",
     "district_code": "940604",
-    "name": "Ekimani"
+    "name": "Ekimani",
+    "postal_code": "98885"
   }
 ]

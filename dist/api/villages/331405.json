@@ -2,46 +2,55 @@
   {
     "code": "3314052001",
     "district_code": "331405",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "57293"
   },
   {
     "code": "3314052002",
     "district_code": "331405",
-    "name": "Jambeyan"
+    "name": "Jambeyan",
+    "postal_code": "57293"
   },
   {
     "code": "3314052003",
     "district_code": "331405",
-    "name": "Jetis"
+    "name": "Jetis",
+    "postal_code": "57293"
   },
   {
     "code": "3314052004",
     "district_code": "331405",
-    "name": "Musuk"
+    "name": "Musuk",
+    "postal_code": "57293"
   },
   {
     "code": "3314052005",
     "district_code": "331405",
-    "name": "Kadipiro"
+    "name": "Kadipiro",
+    "postal_code": "57293"
   },
   {
     "code": "3314052006",
     "district_code": "331405",
-    "name": "Sambirejo"
+    "name": "Sambirejo",
+    "postal_code": "57293"
   },
   {
     "code": "3314052007",
     "district_code": "331405",
-    "name": "Blimbing"
+    "name": "Blimbing",
+    "postal_code": "57293"
   },
   {
     "code": "3314052008",
     "district_code": "331405",
-    "name": "Dawung"
+    "name": "Dawung",
+    "postal_code": "57293"
   },
   {
     "code": "3314052009",
     "district_code": "331405",
-    "name": "Sambi"
+    "name": "Sambi",
+    "postal_code": "57293"
   }
 ]

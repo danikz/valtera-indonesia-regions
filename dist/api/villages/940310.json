@@ -2,61 +2,73 @@
   {
     "code": "9403102001",
     "district_code": "940310",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "98733"
   },
   {
     "code": "9403102002",
     "district_code": "940310",
-    "name": "Geida"
+    "name": "Geida",
+    "postal_code": "98733"
   },
   {
     "code": "9403102003",
     "district_code": "940310",
-    "name": "Widimeida"
+    "name": "Widimeida",
+    "postal_code": "98733"
   },
   {
     "code": "9403102004",
     "district_code": "940310",
-    "name": "Makidimi"
+    "name": "Makidimi",
+    "postal_code": "98733"
   },
   {
     "code": "9403102005",
     "district_code": "940310",
-    "name": "Iteuwo"
+    "name": "Iteuwo",
+    "postal_code": "98733"
   },
   {
     "code": "9403102006",
     "district_code": "940310",
-    "name": "Ogeida"
+    "name": "Ogeida",
+    "postal_code": "98733"
   },
   {
     "code": "9403102007",
     "district_code": "940310",
-    "name": "Teguogi Pugaida"
+    "name": "Teguogi Pugaida",
+    "postal_code": "98733"
   },
   {
     "code": "9403102008",
     "district_code": "940310",
-    "name": "Dabamomaida"
+    "name": "Dabamomaida",
+    "postal_code": "98733"
   },
   {
     "code": "9403102009",
     "district_code": "940310",
-    "name": "Baguwo"
+    "name": "Baguwo",
+    "postal_code": "98733"
   },
   {
     "code": "9403102010",
     "district_code": "940310",
-    "name": "Keneugi"
+    "name": "Keneugi",
+    "postal_code": "98733"
   },
   {
     "code": "9403102011",
     "district_code": "940310",
-    "name": "Debamomaida"
+    "name": "Debamomaida",
+    "postal_code": "98733"
   },
   {
     "code": "9403102012",
     "district_code": "940310",
-    "name": "Tegougi Pugaida"
+    "name": "Tegougi Pugaida",
+    "postal_code": "98733"
   }
 ]

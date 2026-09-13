@@ -2,56 +2,67 @@
   {
     "code": "3209102004",
     "district_code": "320910",
-    "name": "Munjul"
+    "name": "Munjul",
+    "postal_code": "45181"
   },
   {
     "code": "3209102005",
     "district_code": "320910",
-    "name": "Sidamulya"
+    "name": "Sidamulya",
+    "postal_code": "45181"
   },
   {
     "code": "3209102006",
     "district_code": "320910",
-    "name": "Mertapada Kulon"
+    "name": "Mertapada Kulon",
+    "postal_code": "45181"
   },
   {
     "code": "3209102007",
     "district_code": "320910",
-    "name": "Mertapada Wetan"
+    "name": "Mertapada Wetan",
+    "postal_code": "45181"
   },
   {
     "code": "3209102008",
     "district_code": "320910",
-    "name": "Buntet"
+    "name": "Buntet",
+    "postal_code": "45181"
   },
   {
     "code": "3209102009",
     "district_code": "320910",
-    "name": "Kanci Kulon"
+    "name": "Kanci Kulon",
+    "postal_code": "45181"
   },
   {
     "code": "3209102010",
     "district_code": "320910",
-    "name": "Kanci"
+    "name": "Kanci",
+    "postal_code": "45181"
   },
   {
     "code": "3209102011",
     "district_code": "320910",
-    "name": "Astanajapura"
+    "name": "Astanajapura",
+    "postal_code": "45181"
   },
   {
     "code": "3209102012",
     "district_code": "320910",
-    "name": "Kendal"
+    "name": "Kendal",
+    "postal_code": "45181"
   },
   {
     "code": "3209102013",
     "district_code": "320910",
-    "name": "Japura Kidul"
+    "name": "Japura Kidul",
+    "postal_code": "45181"
   },
   {
     "code": "3209102014",
     "district_code": "320910",
-    "name": "Japura Bakti"
+    "name": "Japura Bakti",
+    "postal_code": "45181"
   }
 ]

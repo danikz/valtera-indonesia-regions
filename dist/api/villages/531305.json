@@ -2,91 +2,109 @@
   {
     "code": "5313051001",
     "district_code": "531305",
-    "name": "Lewoleba"
+    "name": "Lewoleba",
+    "postal_code": "86611"
   },
   {
     "code": "5313051002",
     "district_code": "531305",
-    "name": "Lewoleba Timur"
+    "name": "Lewoleba Timur",
+    "postal_code": "86616"
   },
   {
     "code": "5313051003",
     "district_code": "531305",
-    "name": "Lewoleba Tengah"
+    "name": "Lewoleba Tengah",
+    "postal_code": "86615"
   },
   {
     "code": "5313051004",
     "district_code": "531305",
-    "name": "Lewoleba Utara"
+    "name": "Lewoleba Utara",
+    "postal_code": "86612"
   },
   {
     "code": "5313051015",
     "district_code": "531305",
-    "name": "Selandoro"
+    "name": "Selandoro",
+    "postal_code": "86682"
   },
   {
     "code": "5313051016",
     "district_code": "531305",
-    "name": "Lewoleba Selatan"
+    "name": "Lewoleba Selatan",
+    "postal_code": "86682"
   },
   {
     "code": "5313051017",
     "district_code": "531305",
-    "name": "Lewoleba Barat"
+    "name": "Lewoleba Barat",
+    "postal_code": "86613"
   },
   {
     "code": "5313052006",
     "district_code": "531305",
-    "name": "Baolangu"
+    "name": "Baolangu",
+    "postal_code": "86682"
   },
   {
     "code": "5313052007",
     "district_code": "531305",
-    "name": "Nubamado"
+    "name": "Nubamado",
+    "postal_code": "86682"
   },
   {
     "code": "5313052008",
     "district_code": "531305",
-    "name": "Watokobu"
+    "name": "Watokobu",
+    "postal_code": "86682"
   },
   {
     "code": "5313052009",
     "district_code": "531305",
-    "name": "Belobatang"
+    "name": "Belobatang",
+    "postal_code": "86682"
   },
   {
     "code": "5313052010",
     "district_code": "531305",
-    "name": "Waijarang"
+    "name": "Waijarang",
+    "postal_code": "86682"
   },
   {
     "code": "5313052011",
     "district_code": "531305",
-    "name": "Udak Melomata"
+    "name": "Udak Melomata",
+    "postal_code": "86682"
   },
   {
     "code": "5313052012",
     "district_code": "531305",
-    "name": "Paubokol"
+    "name": "Paubokol",
+    "postal_code": "86682"
   },
   {
     "code": "5313052013",
     "district_code": "531305",
-    "name": "Pada"
+    "name": "Pada",
+    "postal_code": "86682"
   },
   {
     "code": "5313052014",
     "district_code": "531305",
-    "name": "Lite Ulu Mado"
+    "name": "Lite Ulu Mado",
+    "postal_code": "86616"
   },
   {
     "code": "5313052018",
     "district_code": "531305",
-    "name": "Bakalerek"
+    "name": "Bakalerek",
+    "postal_code": "86682"
   },
   {
     "code": "5313052019",
     "district_code": "531305",
-    "name": "Bour"
+    "name": "Bour",
+    "postal_code": "86682"
   }
 ]

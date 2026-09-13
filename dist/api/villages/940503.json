@@ -2,41 +2,49 @@
   {
     "code": "9405032001",
     "district_code": "940503",
-    "name": "Yulukoma"
+    "name": "Yulukoma",
+    "postal_code": "98951"
   },
   {
     "code": "9405032002",
     "district_code": "940503",
-    "name": "Milawak"
+    "name": "Milawak",
+    "postal_code": "98951"
   },
   {
     "code": "9405032003",
     "district_code": "940503",
-    "name": "Tinggilbet"
+    "name": "Tinggilbet",
+    "postal_code": "98982"
   },
   {
     "code": "9405032004",
     "district_code": "940503",
-    "name": "Ogamki"
+    "name": "Ogamki",
+    "postal_code": "98982"
   },
   {
     "code": "9405032005",
     "district_code": "940503",
-    "name": "Dengkibuma"
+    "name": "Dengkibuma",
+    "postal_code": "98982"
   },
   {
     "code": "9405032006",
     "district_code": "940503",
-    "name": "Dambet"
+    "name": "Dambet",
+    "postal_code": "98982"
   },
   {
     "code": "9405032007",
     "district_code": "940503",
-    "name": "Ondugi"
+    "name": "Ondugi",
+    "postal_code": "98951"
   },
   {
     "code": "9405032008",
     "district_code": "940503",
-    "name": "Ambobera"
+    "name": "Ambobera",
+    "postal_code": "98982"
   }
 ]

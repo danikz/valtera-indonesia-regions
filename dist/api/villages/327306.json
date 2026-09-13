@@ -2,31 +2,37 @@
   {
     "code": "3273061001",
     "district_code": "327306",
-    "name": "Husen Sastranegara"
+    "name": "Husen Sastranegara",
+    "postal_code": "40174"
   },
   {
     "code": "3273061002",
     "district_code": "327306",
-    "name": "Arjuna"
+    "name": "Arjuna",
+    "postal_code": "40172"
   },
   {
     "code": "3273061003",
     "district_code": "327306",
-    "name": "Pajajaran"
+    "name": "Pajajaran",
+    "postal_code": "40173"
   },
   {
     "code": "3273061004",
     "district_code": "327306",
-    "name": "Pasir Kaliki"
+    "name": "Pasir Kaliki",
+    "postal_code": "40171"
   },
   {
     "code": "3273061005",
     "district_code": "327306",
-    "name": "Pamoyanan"
+    "name": "Pamoyanan",
+    "postal_code": "40173"
   },
   {
     "code": "3273061006",
     "district_code": "327306",
-    "name": "Sukaraja"
+    "name": "Sukaraja",
+    "postal_code": "40175"
   }
 ]

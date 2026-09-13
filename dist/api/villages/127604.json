@@ -2,36 +2,43 @@
   {
     "code": "1276041001",
     "district_code": "127604",
-    "name": "Durian"
+    "name": "Durian",
+    "postal_code": "20621"
   },
   {
     "code": "1276041002",
     "district_code": "127604",
-    "name": "Pelita"
+    "name": "Pelita",
+    "postal_code": "20621"
   },
   {
     "code": "1276041003",
     "district_code": "127604",
-    "name": "Bulian"
+    "name": "Bulian",
+    "postal_code": "20612"
   },
   {
     "code": "1276041004",
     "district_code": "127604",
-    "name": "Berohol"
+    "name": "Berohol",
+    "postal_code": "20611"
   },
   {
     "code": "1276041005",
     "district_code": "127604",
-    "name": "Bandar Sakti"
+    "name": "Bandar Sakti",
+    "postal_code": "20613"
   },
   {
     "code": "1276041006",
     "district_code": "127604",
-    "name": "Pinang Mancung"
+    "name": "Pinang Mancung",
+    "postal_code": "20612"
   },
   {
     "code": "1276041007",
     "district_code": "127604",
-    "name": "Teluk Karang"
+    "name": "Teluk Karang",
+    "postal_code": "20612"
   }
 ]

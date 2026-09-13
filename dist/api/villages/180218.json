@@ -2,46 +2,55 @@
   {
     "code": "1802182001",
     "district_code": "180218",
-    "name": "Sriwijaya Mataram"
+    "name": "Sriwijaya Mataram",
+    "postal_code": "34169"
   },
   {
     "code": "1802182002",
     "district_code": "180218",
-    "name": "Uman Agung Mataram"
+    "name": "Uman Agung Mataram",
+    "postal_code": "34169"
   },
   {
     "code": "1802182003",
     "district_code": "180218",
-    "name": "Terbanggi Ilir"
+    "name": "Terbanggi Ilir",
+    "postal_code": "34169"
   },
   {
     "code": "1802182004",
     "district_code": "180218",
-    "name": "Jatidatar Mataram"
+    "name": "Jatidatar Mataram",
+    "postal_code": "34169"
   },
   {
     "code": "1802182005",
     "district_code": "180218",
-    "name": "Sendang Agung Mataram"
+    "name": "Sendang Agung Mataram",
+    "postal_code": "34169"
   },
   {
     "code": "1802182006",
     "district_code": "180218",
-    "name": "Mataram Udik"
+    "name": "Mataram Udik",
+    "postal_code": "34169"
   },
   {
     "code": "1802182007",
     "district_code": "180218",
-    "name": "Terbanggi Mulya"
+    "name": "Terbanggi Mulya",
+    "postal_code": "34169"
   },
   {
     "code": "1802182008",
     "district_code": "180218",
-    "name": "Mataram Jaya"
+    "name": "Mataram Jaya",
+    "postal_code": "34169"
   },
   {
     "code": "1802182009",
     "district_code": "180218",
-    "name": "Sumber Rejeki Mataram"
+    "name": "Sumber Rejeki Mataram",
+    "postal_code": "34169"
   }
 ]

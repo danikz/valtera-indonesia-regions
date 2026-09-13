@@ -2,21 +2,25 @@
   {
     "code": "6503132001",
     "district_code": "650313",
-    "name": "Srinanti"
+    "name": "Srinanti",
+    "postal_code": "77484"
   },
   {
     "code": "6503132002",
     "district_code": "650313",
-    "name": "Tabur Lestari"
+    "name": "Tabur Lestari",
+    "postal_code": "77484"
   },
   {
     "code": "6503132003",
     "district_code": "650313",
-    "name": "Samaenre Semaja"
+    "name": "Samaenre Semaja",
+    "postal_code": "77484"
   },
   {
     "code": "6503132004",
     "district_code": "650313",
-    "name": "Sekaduyan Taka"
+    "name": "Sekaduyan Taka",
+    "postal_code": "77484"
   }
 ]

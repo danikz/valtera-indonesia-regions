@@ -2,31 +2,37 @@
   {
     "code": "7601031001",
     "district_code": "760103",
-    "name": "Baras"
+    "name": "Baras",
+    "postal_code": "91572"
   },
   {
     "code": "7601032002",
     "district_code": "760103",
-    "name": "Balanti"
+    "name": "Balanti",
+    "postal_code": "91572"
   },
   {
     "code": "7601032003",
     "district_code": "760103",
-    "name": "Motu"
+    "name": "Motu",
+    "postal_code": "91572"
   },
   {
     "code": "7601032012",
     "district_code": "760103",
-    "name": "Bulu Parigi"
+    "name": "Bulu Parigi",
+    "postal_code": "91572"
   },
   {
     "code": "7601032013",
     "district_code": "760103",
-    "name": "Towoni"
+    "name": "Towoni",
+    "postal_code": "91572"
   },
   {
     "code": "7601032016",
     "district_code": "760103",
-    "name": "Kasano"
+    "name": "Kasano",
+    "postal_code": "91572"
   }
 ]

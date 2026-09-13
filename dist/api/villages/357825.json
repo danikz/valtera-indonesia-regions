@@ -2,21 +2,25 @@
   {
     "code": "3578251001",
     "district_code": "357825",
-    "name": "Gunung Anyar"
+    "name": "Gunung Anyar",
+    "postal_code": "60294"
   },
   {
     "code": "3578251002",
     "district_code": "357825",
-    "name": "Rungkut Tengah"
+    "name": "Rungkut Tengah",
+    "postal_code": "60293"
   },
   {
     "code": "3578251003",
     "district_code": "357825",
-    "name": "Rungkut Menanggal"
+    "name": "Rungkut Menanggal",
+    "postal_code": "60293"
   },
   {
     "code": "3578251004",
     "district_code": "357825",
-    "name": "Gunung Anyar Tambak"
+    "name": "Gunung Anyar Tambak",
+    "postal_code": "60294"
   }
 ]

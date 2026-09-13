@@ -2,61 +2,73 @@
   {
     "code": "9210122001",
     "district_code": "921012",
-    "name": "Mupas"
+    "name": "Mupas",
+    "postal_code": ""
   },
   {
     "code": "9210122002",
     "district_code": "921012",
-    "name": "Kamat"
+    "name": "Kamat",
+    "postal_code": ""
   },
   {
     "code": "9210122003",
     "district_code": "921012",
-    "name": "Frambu"
+    "name": "Frambu",
+    "postal_code": ""
   },
   {
     "code": "9210122004",
     "district_code": "921012",
-    "name": "Ayata"
+    "name": "Ayata",
+    "postal_code": ""
   },
   {
     "code": "9210122005",
     "district_code": "921012",
-    "name": "Aikus"
+    "name": "Aikus",
+    "postal_code": ""
   },
   {
     "code": "9210122006",
     "district_code": "921012",
-    "name": "Aiwesa"
+    "name": "Aiwesa",
+    "postal_code": ""
   },
   {
     "code": "9210122007",
     "district_code": "921012",
-    "name": "Pitor"
+    "name": "Pitor",
+    "postal_code": ""
   },
   {
     "code": "9210122008",
     "district_code": "921012",
-    "name": "Aifam"
+    "name": "Aifam",
+    "postal_code": ""
   },
   {
     "code": "9210122009",
     "district_code": "921012",
-    "name": "Saud"
+    "name": "Saud",
+    "postal_code": ""
   },
   {
     "code": "9210122010",
     "district_code": "921012",
-    "name": "Tiam"
+    "name": "Tiam",
+    "postal_code": ""
   },
   {
     "code": "9210122011",
     "district_code": "921012",
-    "name": "Faan Kahrio"
+    "name": "Faan Kahrio",
+    "postal_code": ""
   },
   {
     "code": "9210122012",
     "district_code": "921012",
-    "name": "Assem"
+    "name": "Assem",
+    "postal_code": ""
   }
 ]

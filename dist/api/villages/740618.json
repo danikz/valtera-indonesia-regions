@@ -2,26 +2,31 @@
   {
     "code": "7406181001",
     "district_code": "740618",
-    "name": "Lauru"
+    "name": "Lauru",
+    "postal_code": "93771"
   },
   {
     "code": "7406181002",
     "district_code": "740618",
-    "name": "Poea"
+    "name": "Poea",
+    "postal_code": "93771"
   },
   {
     "code": "7406181003",
     "district_code": "740618",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "93771"
   },
   {
     "code": "7406182004",
     "district_code": "740618",
-    "name": "Tapuhahi"
+    "name": "Tapuhahi",
+    "postal_code": "93771"
   },
   {
     "code": "7406182005",
     "district_code": "740618",
-    "name": "Lampata"
+    "name": "Lampata",
+    "postal_code": "93771"
   }
 ]

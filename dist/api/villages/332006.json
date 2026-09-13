@@ -2,81 +2,97 @@
   {
     "code": "3320061001",
     "district_code": "332006",
-    "name": "Karangkebagusan"
+    "name": "Karangkebagusan",
+    "postal_code": "59411"
   },
   {
     "code": "3320061002",
     "district_code": "332006",
-    "name": "Demaan"
+    "name": "Demaan",
+    "postal_code": "59419"
   },
   {
     "code": "3320061003",
     "district_code": "332006",
-    "name": "Potroyudan"
+    "name": "Potroyudan",
+    "postal_code": "59412"
   },
   {
     "code": "3320061004",
     "district_code": "332006",
-    "name": "Bapangan"
+    "name": "Bapangan",
+    "postal_code": "59413"
   },
   {
     "code": "3320061005",
     "district_code": "332006",
-    "name": "Saripan"
+    "name": "Saripan",
+    "postal_code": "59414"
   },
   {
     "code": "3320061006",
     "district_code": "332006",
-    "name": "Panggang"
+    "name": "Panggang",
+    "postal_code": "59411"
   },
   {
     "code": "3320061007",
     "district_code": "332006",
-    "name": "Kauman"
+    "name": "Kauman",
+    "postal_code": "59417"
   },
   {
     "code": "3320061008",
     "district_code": "332006",
-    "name": "Bulu"
+    "name": "Bulu",
+    "postal_code": "59418"
   },
   {
     "code": "3320061009",
     "district_code": "332006",
-    "name": "Jobokuto"
+    "name": "Jobokuto",
+    "postal_code": "59416"
   },
   {
     "code": "3320061010",
     "district_code": "332006",
-    "name": "Ujungbatu"
+    "name": "Ujungbatu",
+    "postal_code": "59416"
   },
   {
     "code": "3320061011",
     "district_code": "332006",
-    "name": "Pengkol"
+    "name": "Pengkol",
+    "postal_code": "59415"
   },
   {
     "code": "3320062012",
     "district_code": "332006",
-    "name": "Mulyoharjo"
+    "name": "Mulyoharjo",
+    "postal_code": "59431"
   },
   {
     "code": "3320062013",
     "district_code": "332006",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "59431"
   },
   {
     "code": "3320062014",
     "district_code": "332006",
-    "name": "Kedungcino"
+    "name": "Kedungcino",
+    "postal_code": "59432"
   },
   {
     "code": "3320062015",
     "district_code": "332006",
-    "name": "Kuwasen"
+    "name": "Kuwasen",
+    "postal_code": "59431"
   },
   {
     "code": "3320062016",
     "district_code": "332006",
-    "name": "Bandengan"
+    "name": "Bandengan",
+    "postal_code": "59432"
   }
 ]

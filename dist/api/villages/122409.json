@@ -2,46 +2,55 @@
   {
     "code": "1224092001",
     "district_code": "122409",
-    "name": "Afulu"
+    "name": "Afulu",
+    "postal_code": "22857"
   },
   {
     "code": "1224092002",
     "district_code": "122409",
-    "name": "Lauru Fadoro"
+    "name": "Lauru Fadoro",
+    "postal_code": "22857"
   },
   {
     "code": "1224092003",
     "district_code": "122409",
-    "name": "Lauru I"
+    "name": "Lauru I",
+    "postal_code": "22857"
   },
   {
     "code": "1224092004",
     "district_code": "122409",
-    "name": "Ombolata Afulu"
+    "name": "Ombolata Afulu",
+    "postal_code": "22857"
   },
   {
     "code": "1224092005",
     "district_code": "122409",
-    "name": "Harewakhe"
+    "name": "Harewakhe",
+    "postal_code": "22857"
   },
   {
     "code": "1224092006",
     "district_code": "122409",
-    "name": "Sisobahili"
+    "name": "Sisobahili",
+    "postal_code": "22857"
   },
   {
     "code": "1224092007",
     "district_code": "122409",
-    "name": "Lauru Lahewa"
+    "name": "Lauru Lahewa",
+    "postal_code": "22857"
   },
   {
     "code": "1224092008",
     "district_code": "122409",
-    "name": "Sifaoro'asi"
+    "name": "Sifaoro'asi",
+    "postal_code": "22857"
   },
   {
     "code": "1224092009",
     "district_code": "122409",
-    "name": "Faekhuna'a"
+    "name": "Faekhuna'a",
+    "postal_code": "22857"
   }
 ]

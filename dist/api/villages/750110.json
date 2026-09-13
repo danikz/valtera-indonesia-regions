@@ -2,76 +2,91 @@
   {
     "code": "7501102001",
     "district_code": "750110",
-    "name": "Dulamayo Utara"
+    "name": "Dulamayo Utara",
+    "postal_code": "96183"
   },
   {
     "code": "7501102002",
     "district_code": "750110",
-    "name": "Ulapato A"
+    "name": "Ulapato A",
+    "postal_code": "96183"
   },
   {
     "code": "7501102003",
     "district_code": "750110",
-    "name": "Ulapato B"
+    "name": "Ulapato B",
+    "postal_code": "96183"
   },
   {
     "code": "7501102004",
     "district_code": "750110",
-    "name": "Talumelito"
+    "name": "Talumelito",
+    "postal_code": "96183"
   },
   {
     "code": "7501102005",
     "district_code": "750110",
-    "name": "Tuladenggi"
+    "name": "Tuladenggi",
+    "postal_code": "96183"
   },
   {
     "code": "7501102006",
     "district_code": "750110",
-    "name": "Pantungo"
+    "name": "Pantungo",
+    "postal_code": "96183"
   },
   {
     "code": "7501102007",
     "district_code": "750110",
-    "name": "Lupoyo"
+    "name": "Lupoyo",
+    "postal_code": "96183"
   },
   {
     "code": "7501102008",
     "district_code": "750110",
-    "name": "Pentadio Timur"
+    "name": "Pentadio Timur",
+    "postal_code": "96183"
   },
   {
     "code": "7501102009",
     "district_code": "750110",
-    "name": "Pentadio Barat"
+    "name": "Pentadio Barat",
+    "postal_code": "96183"
   },
   {
     "code": "7501102010",
     "district_code": "750110",
-    "name": "Dumati"
+    "name": "Dumati",
+    "postal_code": "96183"
   },
   {
     "code": "7501102011",
     "district_code": "750110",
-    "name": "Modelidu"
+    "name": "Modelidu",
+    "postal_code": "96183"
   },
   {
     "code": "7501102012",
     "district_code": "750110",
-    "name": "Tinelo"
+    "name": "Tinelo",
+    "postal_code": "96183"
   },
   {
     "code": "7501102013",
     "district_code": "750110",
-    "name": "Timuato"
+    "name": "Timuato",
+    "postal_code": "96183"
   },
   {
     "code": "7501102014",
     "district_code": "750110",
-    "name": "Tapaluluo"
+    "name": "Tapaluluo",
+    "postal_code": "96183"
   },
   {
     "code": "7501102015",
     "district_code": "750110",
-    "name": "Tonala"
+    "name": "Tonala",
+    "postal_code": "96183"
   }
 ]

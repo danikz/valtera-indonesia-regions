@@ -2,31 +2,37 @@
   {
     "code": "6107072001",
     "district_code": "610707",
-    "name": "Jagoi"
+    "name": "Jagoi",
+    "postal_code": "79286"
   },
   {
     "code": "6107072002",
     "district_code": "610707",
-    "name": "Kumba"
+    "name": "Kumba",
+    "postal_code": "79286"
   },
   {
     "code": "6107072006",
     "district_code": "610707",
-    "name": "Sekida"
+    "name": "Sekida",
+    "postal_code": "79286"
   },
   {
     "code": "6107072007",
     "district_code": "610707",
-    "name": "Gersik"
+    "name": "Gersik",
+    "postal_code": "79286"
   },
   {
     "code": "6107072008",
     "district_code": "610707",
-    "name": "Semunying Jaya"
+    "name": "Semunying Jaya",
+    "postal_code": "79286"
   },
   {
     "code": "6107072009",
     "district_code": "610707",
-    "name": "Sinar Baru"
+    "name": "Sinar Baru",
+    "postal_code": "79286"
   }
 ]

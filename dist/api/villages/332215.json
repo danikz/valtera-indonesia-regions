@@ -2,46 +2,55 @@
   {
     "code": "3322151004",
     "district_code": "332215",
-    "name": "Pringapus"
+    "name": "Pringapus",
+    "postal_code": "50214"
   },
   {
     "code": "3322152001",
     "district_code": "332215",
-    "name": "Klepu"
+    "name": "Klepu",
+    "postal_code": "50552"
   },
   {
     "code": "3322152002",
     "district_code": "332215",
-    "name": "Derekan"
+    "name": "Derekan",
+    "postal_code": "50214"
   },
   {
     "code": "3322152003",
     "district_code": "332215",
-    "name": "Jatirunggo"
+    "name": "Jatirunggo",
+    "postal_code": "50214"
   },
   {
     "code": "3322152005",
     "district_code": "332215",
-    "name": "Pringsari"
+    "name": "Pringsari",
+    "postal_code": "50214"
   },
   {
     "code": "3322152006",
     "district_code": "332215",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "50212"
   },
   {
     "code": "3322152007",
     "district_code": "332215",
-    "name": "Wonoyoso"
+    "name": "Wonoyoso",
+    "postal_code": "50214"
   },
   {
     "code": "3322152008",
     "district_code": "332215",
-    "name": "Candirejo"
+    "name": "Candirejo",
+    "postal_code": "50214"
   },
   {
     "code": "3322152009",
     "district_code": "332215",
-    "name": "Penawangan"
+    "name": "Penawangan",
+    "postal_code": "50513"
   }
 ]

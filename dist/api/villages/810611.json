@@ -2,36 +2,43 @@
   {
     "code": "8106112002",
     "district_code": "810611",
-    "name": "Sanahu"
+    "name": "Sanahu",
+    "postal_code": "97564"
   },
   {
     "code": "8106112003",
     "district_code": "810611",
-    "name": "Wasia"
+    "name": "Wasia",
+    "postal_code": "97564"
   },
   {
     "code": "8106112004",
     "district_code": "810611",
-    "name": "Sumeith Pasinaro"
+    "name": "Sumeith Pasinaro",
+    "postal_code": "97564"
   },
   {
     "code": "8106112005",
     "district_code": "810611",
-    "name": "Watui"
+    "name": "Watui",
+    "postal_code": "97564"
   },
   {
     "code": "8106112006",
     "district_code": "810611",
-    "name": "Abio Ahiolo"
+    "name": "Abio Ahiolo",
+    "postal_code": "97564"
   },
   {
     "code": "8106112007",
     "district_code": "810611",
-    "name": "Huku Kecil"
+    "name": "Huku Kecil",
+    "postal_code": "97564"
   },
   {
     "code": "8106112008",
     "district_code": "810611",
-    "name": "Elpaputih"
+    "name": "Elpaputih",
+    "postal_code": "97564"
   }
 ]

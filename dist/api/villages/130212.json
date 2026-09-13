@@ -2,46 +2,55 @@
   {
     "code": "1302122001",
     "district_code": "130212",
-    "name": "Sulit Air"
+    "name": "Sulit Air",
+    "postal_code": "27355"
   },
   {
     "code": "1302122002",
     "district_code": "130212",
-    "name": "Tanjung Balik"
+    "name": "Tanjung Balik",
+    "postal_code": "27355"
   },
   {
     "code": "1302122003",
     "district_code": "130212",
-    "name": "Paninjauan"
+    "name": "Paninjauan",
+    "postal_code": "27355"
   },
   {
     "code": "1302122004",
     "district_code": "130212",
-    "name": "Kuncir"
+    "name": "Kuncir",
+    "postal_code": "27355"
   },
   {
     "code": "1302122005",
     "district_code": "130212",
-    "name": "Katialo"
+    "name": "Katialo",
+    "postal_code": "27355"
   },
   {
     "code": "1302122006",
     "district_code": "130212",
-    "name": "Pasilihan"
+    "name": "Pasilihan",
+    "postal_code": "27355"
   },
   {
     "code": "1302122007",
     "district_code": "130212",
-    "name": "Bukit Kanduang"
+    "name": "Bukit Kanduang",
+    "postal_code": "27355"
   },
   {
     "code": "1302122008",
     "district_code": "130212",
-    "name": "Sibarambang"
+    "name": "Sibarambang",
+    "postal_code": "27355"
   },
   {
     "code": "1302122009",
     "district_code": "130212",
-    "name": "Labuh Panjang"
+    "name": "Labuh Panjang",
+    "postal_code": "27355"
   }
 ]

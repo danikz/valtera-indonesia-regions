@@ -2,51 +2,61 @@
   {
     "code": "9502042001",
     "district_code": "950204",
-    "name": "Iwur"
+    "name": "Iwur",
+    "postal_code": "99432"
   },
   {
     "code": "9502042002",
     "district_code": "950204",
-    "name": "Kurumklin"
+    "name": "Kurumklin",
+    "postal_code": "99432"
   },
   {
     "code": "9502042003",
     "district_code": "950204",
-    "name": "Walapkubun"
+    "name": "Walapkubun",
+    "postal_code": "99432"
   },
   {
     "code": "9502042004",
     "district_code": "950204",
-    "name": "Dinmot Arim"
+    "name": "Dinmot Arim",
+    "postal_code": "99575"
   },
   {
     "code": "9502042005",
     "district_code": "950204",
-    "name": "Ewenkatop"
+    "name": "Ewenkatop",
+    "postal_code": "99575"
   },
   {
     "code": "9502042006",
     "district_code": "950204",
-    "name": "Ulkubi"
+    "name": "Ulkubi",
+    "postal_code": "99575"
   },
   {
     "code": "9502042007",
     "district_code": "950204",
-    "name": "Dipol"
+    "name": "Dipol",
+    "postal_code": "99575"
   },
   {
     "code": "9502042008",
     "district_code": "950204",
-    "name": "Nenginum"
+    "name": "Nenginum",
+    "postal_code": "99432"
   },
   {
     "code": "9502042009",
     "district_code": "950204",
-    "name": "Narnger"
+    "name": "Narnger",
+    "postal_code": "99575"
   },
   {
     "code": "9502042010",
     "district_code": "950204",
-    "name": "Kamyoim"
+    "name": "Kamyoim",
+    "postal_code": "99575"
   }
 ]

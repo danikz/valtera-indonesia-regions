@@ -2,46 +2,55 @@
   {
     "code": "1706021009",
     "district_code": "170602",
-    "name": "Pasar Muko-Muko"
+    "name": "Pasar Muko-Muko",
+    "postal_code": "38711"
   },
   {
     "code": "1706021017",
     "district_code": "170602",
-    "name": "Koto Jaya"
+    "name": "Koto Jaya",
+    "postal_code": "38715"
   },
   {
     "code": "1706021018",
     "district_code": "170602",
-    "name": "Bandar Ratu"
+    "name": "Bandar Ratu",
+    "postal_code": "38712"
   },
   {
     "code": "1706022007",
     "district_code": "170602",
-    "name": "Pasar Sebelah"
+    "name": "Pasar Sebelah",
+    "postal_code": "38716"
   },
   {
     "code": "1706022008",
     "district_code": "170602",
-    "name": "Ujung Padang"
+    "name": "Ujung Padang",
+    "postal_code": "38714"
   },
   {
     "code": "1706022010",
     "district_code": "170602",
-    "name": "Pondok Batu"
+    "name": "Pondok Batu",
+    "postal_code": "38713"
   },
   {
     "code": "1706022011",
     "district_code": "170602",
-    "name": "Tanah Rekah"
+    "name": "Tanah Rekah",
+    "postal_code": "38719"
   },
   {
     "code": "1706022012",
     "district_code": "170602",
-    "name": "Selagan Jaya"
+    "name": "Selagan Jaya",
+    "postal_code": "38717"
   },
   {
     "code": "1706022019",
     "district_code": "170602",
-    "name": "Tanah Harapan"
+    "name": "Tanah Harapan",
+    "postal_code": "38718"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "3603052001",
     "district_code": "360305",
-    "name": "Cisoka"
+    "name": "Cisoka",
+    "postal_code": "15730"
   },
   {
     "code": "3603052002",
     "district_code": "360305",
-    "name": "Caringin"
+    "name": "Caringin",
+    "postal_code": "15730"
   },
   {
     "code": "3603052003",
     "district_code": "360305",
-    "name": "Selapajang"
+    "name": "Selapajang",
+    "postal_code": "15730"
   },
   {
     "code": "3603052004",
     "district_code": "360305",
-    "name": "Sukatani"
+    "name": "Sukatani",
+    "postal_code": "15730"
   },
   {
     "code": "3603052006",
     "district_code": "360305",
-    "name": "Bojong Loa"
+    "name": "Bojong Loa",
+    "postal_code": "15730"
   },
   {
     "code": "3603052007",
     "district_code": "360305",
-    "name": "Cibugel"
+    "name": "Cibugel",
+    "postal_code": "15730"
   },
   {
     "code": "3603052008",
     "district_code": "360305",
-    "name": "Cempaka"
+    "name": "Cempaka",
+    "postal_code": "15730"
   },
   {
     "code": "3603052009",
     "district_code": "360305",
-    "name": "Carenang"
+    "name": "Carenang",
+    "postal_code": "15730"
   },
   {
     "code": "3603052014",
     "district_code": "360305",
-    "name": "Karang Harja"
+    "name": "Karang Harja",
+    "postal_code": "15730"
   },
   {
     "code": "3603052017",
     "district_code": "360305",
-    "name": "Jeungjing"
+    "name": "Jeungjing",
+    "postal_code": "15730"
   }
 ]

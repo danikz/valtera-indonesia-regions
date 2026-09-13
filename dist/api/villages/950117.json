@@ -2,51 +2,61 @@
   {
     "code": "9501172001",
     "district_code": "950117",
-    "name": "Yagarobak"
+    "name": "Yagarobak",
+    "postal_code": "99553"
   },
   {
     "code": "9501172002",
     "district_code": "950117",
-    "name": "Zapma"
+    "name": "Zapma",
+    "postal_code": "99553"
   },
   {
     "code": "9501172003",
     "district_code": "950117",
-    "name": "Ayobaibur"
+    "name": "Ayobaibur",
+    "postal_code": "99553"
   },
   {
     "code": "9501172004",
     "district_code": "950117",
-    "name": "Ibele"
+    "name": "Ibele",
+    "postal_code": "99553"
   },
   {
     "code": "9501172005",
     "district_code": "950117",
-    "name": "Tipalok"
+    "name": "Tipalok",
+    "postal_code": "99553"
   },
   {
     "code": "9501172006",
     "district_code": "950117",
-    "name": "Habema"
+    "name": "Habema",
+    "postal_code": "99553"
   },
   {
     "code": "9501172007",
     "district_code": "950117",
-    "name": "Zinai"
+    "name": "Zinai",
+    "postal_code": "99553"
   },
   {
     "code": "9501172008",
     "district_code": "950117",
-    "name": "Holaliba"
+    "name": "Holaliba",
+    "postal_code": "99553"
   },
   {
     "code": "9501172009",
     "district_code": "950117",
-    "name": "Yelebarek"
+    "name": "Yelebarek",
+    "postal_code": "99553"
   },
   {
     "code": "9501172010",
     "district_code": "950117",
-    "name": "Yokalpalek"
+    "name": "Yokalpalek",
+    "postal_code": "99553"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "5207032001",
     "district_code": "520703",
-    "name": "Meraran"
+    "name": "Meraran",
+    "postal_code": "84453"
   },
   {
     "code": "5207032002",
     "district_code": "520703",
-    "name": "Air Suning"
+    "name": "Air Suning",
+    "postal_code": "84453"
   },
   {
     "code": "5207032003",
     "district_code": "520703",
-    "name": "Rempe"
+    "name": "Rempe",
+    "postal_code": "84453"
   },
   {
     "code": "5207032004",
     "district_code": "520703",
-    "name": "Seteluk Atas"
+    "name": "Seteluk Atas",
+    "postal_code": "84453"
   },
   {
     "code": "5207032005",
     "district_code": "520703",
-    "name": "Seteluk Tengah"
+    "name": "Seteluk Tengah",
+    "postal_code": "84453"
   },
   {
     "code": "5207032008",
     "district_code": "520703",
-    "name": "Kelanir"
+    "name": "Kelanir",
+    "postal_code": "84453"
   },
   {
     "code": "5207032011",
     "district_code": "520703",
-    "name": "Tapir"
+    "name": "Tapir",
+    "postal_code": "84453"
   },
   {
     "code": "5207032013",
     "district_code": "520703",
-    "name": "Lamusung"
+    "name": "Lamusung",
+    "postal_code": "84453"
   },
   {
     "code": "5207032014",
     "district_code": "520703",
-    "name": "Seran"
+    "name": "Seran",
+    "postal_code": "84453"
   },
   {
     "code": "5207032015",
     "district_code": "520703",
-    "name": "Desaloka"
+    "name": "Desaloka",
+    "postal_code": "84453"
   }
 ]

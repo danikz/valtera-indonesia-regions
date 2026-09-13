@@ -2,26 +2,31 @@
   {
     "code": "9207132001",
     "district_code": "920713",
-    "name": "Kaprus"
+    "name": "Kaprus",
+    "postal_code": "98334"
   },
   {
     "code": "9207132002",
     "district_code": "920713",
-    "name": "Yarmatum"
+    "name": "Yarmatum",
+    "postal_code": "98334"
   },
   {
     "code": "9207132003",
     "district_code": "920713",
-    "name": "Reyob"
+    "name": "Reyob",
+    "postal_code": "98334"
   },
   {
     "code": "9207132004",
     "district_code": "920713",
-    "name": "Siresi"
+    "name": "Siresi",
+    "postal_code": "98334"
   },
   {
     "code": "9207132005",
     "district_code": "920713",
-    "name": "Nuspairo"
+    "name": "Nuspairo",
+    "postal_code": "98334"
   }
 ]

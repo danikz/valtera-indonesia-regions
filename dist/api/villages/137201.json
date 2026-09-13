@@ -2,36 +2,43 @@
   {
     "code": "1372011001",
     "district_code": "137201",
-    "name": "Tanah Garam"
+    "name": "Tanah Garam",
+    "postal_code": "27312"
   },
   {
     "code": "1372011002",
     "district_code": "137201",
-    "name": "VI Suku"
+    "name": "VI Suku",
+    "postal_code": "27311"
   },
   {
     "code": "1372011003",
     "district_code": "137201",
-    "name": "Sinapa Piliang"
+    "name": "Sinapa Piliang",
+    "postal_code": "27313"
   },
   {
     "code": "1372011004",
     "district_code": "137201",
-    "name": "IX Korong"
+    "name": "IX Korong",
+    "postal_code": "27314"
   },
   {
     "code": "1372011005",
     "district_code": "137201",
-    "name": "Kampai Tabu Karambia"
+    "name": "Kampai Tabu Karambia",
+    "postal_code": "27315"
   },
   {
     "code": "1372011006",
     "district_code": "137201",
-    "name": "Aro IV Korong"
+    "name": "Aro IV Korong",
+    "postal_code": "27317"
   },
   {
     "code": "1372011007",
     "district_code": "137201",
-    "name": "Simpang Rumbio"
+    "name": "Simpang Rumbio",
+    "postal_code": "27316"
   }
 ]

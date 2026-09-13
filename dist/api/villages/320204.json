@@ -2,36 +2,43 @@
   {
     "code": "3202042001",
     "district_code": "320204",
-    "name": "Bantargadung"
+    "name": "Bantargadung",
+    "postal_code": "43363"
   },
   {
     "code": "3202042002",
     "district_code": "320204",
-    "name": "Mangunjaya"
+    "name": "Mangunjaya",
+    "postal_code": "43363"
   },
   {
     "code": "3202042003",
     "district_code": "320204",
-    "name": "Bojonggaling"
+    "name": "Bojonggaling",
+    "postal_code": "43363"
   },
   {
     "code": "3202042004",
     "district_code": "320204",
-    "name": "Limusnunggal"
+    "name": "Limusnunggal",
+    "postal_code": "43363"
   },
   {
     "code": "3202042005",
     "district_code": "320204",
-    "name": "Bantargebang"
+    "name": "Bantargebang",
+    "postal_code": "43363"
   },
   {
     "code": "3202042006",
     "district_code": "320204",
-    "name": "Buanajaya"
+    "name": "Buanajaya",
+    "postal_code": "43363"
   },
   {
     "code": "3202042007",
     "district_code": "320204",
-    "name": "Boyong Sari"
+    "name": "Boyong Sari",
+    "postal_code": "43363"
   }
 ]

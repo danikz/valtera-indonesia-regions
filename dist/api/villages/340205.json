@@ -2,16 +2,19 @@
   {
     "code": "3402052001",
     "district_code": "340205",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "55764"
   },
   {
     "code": "3402052002",
     "district_code": "340205",
-    "name": "Mulyodadi"
+    "name": "Mulyodadi",
+    "postal_code": "55764"
   },
   {
     "code": "3402052003",
     "district_code": "340205",
-    "name": "Sumbermulyo"
+    "name": "Sumbermulyo",
+    "postal_code": "55764"
   }
 ]

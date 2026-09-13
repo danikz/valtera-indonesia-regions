@@ -2,56 +2,67 @@
   {
     "code": "5307151001",
     "district_code": "530715",
-    "name": "Beru"
+    "name": "Beru",
+    "postal_code": "86111"
   },
   {
     "code": "5307151002",
     "district_code": "530715",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "86215"
   },
   {
     "code": "5307151003",
     "district_code": "530715",
-    "name": "Nangameting"
+    "name": "Nangameting",
+    "postal_code": "86118"
   },
   {
     "code": "5307151004",
     "district_code": "530715",
-    "name": "Waioti"
+    "name": "Waioti",
+    "postal_code": "86118"
   },
   {
     "code": "5307151005",
     "district_code": "530715",
-    "name": "Wairotang"
+    "name": "Wairotang",
+    "postal_code": "86111"
   },
   {
     "code": "5307152006",
     "district_code": "530715",
-    "name": "Koja Doi"
+    "name": "Koja Doi",
+    "postal_code": "86116"
   },
   {
     "code": "5307152007",
     "district_code": "530715",
-    "name": "Kojagete"
+    "name": "Kojagete",
+    "postal_code": "86116"
   },
   {
     "code": "5307152008",
     "district_code": "530715",
-    "name": "Lepo Lima"
+    "name": "Lepo Lima",
+    "postal_code": "86116"
   },
   {
     "code": "5307152009",
     "district_code": "530715",
-    "name": "Perumaan"
+    "name": "Perumaan",
+    "postal_code": "86116"
   },
   {
     "code": "5307152010",
     "district_code": "530715",
-    "name": "Watugong"
+    "name": "Watugong",
+    "postal_code": "86116"
   },
   {
     "code": "5307152011",
     "district_code": "530715",
-    "name": "Gong Bekor"
+    "name": "Gong Bekor",
+    "postal_code": "86116"
   }
 ]

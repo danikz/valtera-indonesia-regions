@@ -2,31 +2,37 @@
   {
     "code": "6403051003",
     "district_code": "640305",
-    "name": "Sungai Bedungun"
+    "name": "Sungai Bedungun",
+    "postal_code": "77315"
   },
   {
     "code": "6403051004",
     "district_code": "640305",
-    "name": "Tanjung Redeb"
+    "name": "Tanjung Redeb",
+    "postal_code": "77315"
   },
   {
     "code": "6403051005",
     "district_code": "640305",
-    "name": "Bugis"
+    "name": "Bugis",
+    "postal_code": "77312"
   },
   {
     "code": "6403051006",
     "district_code": "640305",
-    "name": "Gayam"
+    "name": "Gayam",
+    "postal_code": "77315"
   },
   {
     "code": "6403051007",
     "district_code": "640305",
-    "name": "Karang Ambun"
+    "name": "Karang Ambun",
+    "postal_code": "77315"
   },
   {
     "code": "6403051008",
     "district_code": "640305",
-    "name": "Gunung Panjang"
+    "name": "Gunung Panjang",
+    "postal_code": "77311"
   }
 ]

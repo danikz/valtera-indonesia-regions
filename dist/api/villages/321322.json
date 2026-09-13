@@ -2,46 +2,55 @@
   {
     "code": "3213222001",
     "district_code": "321322",
-    "name": "Kawunganten"
+    "name": "Kawunganten",
+    "postal_code": "41266"
   },
   {
     "code": "3213222002",
     "district_code": "321322",
-    "name": "Sindangsari"
+    "name": "Sindangsari",
+    "postal_code": "41266"
   },
   {
     "code": "3213222003",
     "district_code": "321322",
-    "name": "Cikaum Barat"
+    "name": "Cikaum Barat",
+    "postal_code": "41266"
   },
   {
     "code": "3213222004",
     "district_code": "321322",
-    "name": "Cikaum Timur"
+    "name": "Cikaum Timur",
+    "postal_code": "41266"
   },
   {
     "code": "3213222005",
     "district_code": "321322",
-    "name": "Tanjungsari Barat"
+    "name": "Tanjungsari Barat",
+    "postal_code": "41266"
   },
   {
     "code": "3213222006",
     "district_code": "321322",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "41266"
   },
   {
     "code": "3213222007",
     "district_code": "321322",
-    "name": "Tanjungsari Timur"
+    "name": "Tanjungsari Timur",
+    "postal_code": "41266"
   },
   {
     "code": "3213222008",
     "district_code": "321322",
-    "name": "Gandasari"
+    "name": "Gandasari",
+    "postal_code": "41266"
   },
   {
     "code": "3213222009",
     "district_code": "321322",
-    "name": "Pasirmuncang"
+    "name": "Pasirmuncang",
+    "postal_code": "41266"
   }
 ]

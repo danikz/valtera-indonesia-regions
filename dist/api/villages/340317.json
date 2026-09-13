@@ -2,26 +2,31 @@
   {
     "code": "3403172001",
     "district_code": "340317",
-    "name": "Hargosari"
+    "name": "Hargosari",
+    "postal_code": "55881"
   },
   {
     "code": "3403172002",
     "district_code": "340317",
-    "name": "Kemiri"
+    "name": "Kemiri",
+    "postal_code": "55881"
   },
   {
     "code": "3403172003",
     "district_code": "340317",
-    "name": "Kemadang"
+    "name": "Kemadang",
+    "postal_code": "55881"
   },
   {
     "code": "3403172004",
     "district_code": "340317",
-    "name": "Banjarejo"
+    "name": "Banjarejo",
+    "postal_code": "55881"
   },
   {
     "code": "3403172005",
     "district_code": "340317",
-    "name": "Ngestirejo"
+    "name": "Ngestirejo",
+    "postal_code": "55881"
   }
 ]

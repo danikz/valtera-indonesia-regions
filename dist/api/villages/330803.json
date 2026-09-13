@@ -2,41 +2,49 @@
   {
     "code": "3308032001",
     "district_code": "330803",
-    "name": "Bligo"
+    "name": "Bligo",
+    "postal_code": "56485"
   },
   {
     "code": "3308032002",
     "district_code": "330803",
-    "name": "Pakunden"
+    "name": "Pakunden",
+    "postal_code": "56485"
   },
   {
     "code": "3308032003",
     "district_code": "330803",
-    "name": "Somokaton"
+    "name": "Somokaton",
+    "postal_code": "56485"
   },
   {
     "code": "3308032004",
     "district_code": "330803",
-    "name": "Ngluwar"
+    "name": "Ngluwar",
+    "postal_code": "56485"
   },
   {
     "code": "3308032005",
     "district_code": "330803",
-    "name": "Karangtalun"
+    "name": "Karangtalun",
+    "postal_code": "56485"
   },
   {
     "code": "3308032006",
     "district_code": "330803",
-    "name": "Jamuskauman"
+    "name": "Jamuskauman",
+    "postal_code": "56485"
   },
   {
     "code": "3308032007",
     "district_code": "330803",
-    "name": "Plosogede"
+    "name": "Plosogede",
+    "postal_code": "56485"
   },
   {
     "code": "3308032008",
     "district_code": "330803",
-    "name": "Blongkeng"
+    "name": "Blongkeng",
+    "postal_code": "56485"
   }
 ]

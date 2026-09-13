@@ -2,51 +2,61 @@
   {
     "code": "6304151001",
     "district_code": "630415",
-    "name": "Marabahan Kota"
+    "name": "Marabahan Kota",
+    "postal_code": "70511"
   },
   {
     "code": "6304151002",
     "district_code": "630415",
-    "name": "Ulu Benteng"
+    "name": "Ulu Benteng",
+    "postal_code": "70513"
   },
   {
     "code": "6304152003",
     "district_code": "630415",
-    "name": "Penghulu"
+    "name": "Penghulu",
+    "postal_code": "70511"
   },
   {
     "code": "6304152004",
     "district_code": "630415",
-    "name": "Bagus"
+    "name": "Bagus",
+    "postal_code": "70511"
   },
   {
     "code": "6304152005",
     "district_code": "630415",
-    "name": "Baliuk"
+    "name": "Baliuk",
+    "postal_code": "70511"
   },
   {
     "code": "6304152006",
     "district_code": "630415",
-    "name": "Antar Baru"
+    "name": "Antar Baru",
+    "postal_code": "70511"
   },
   {
     "code": "6304152007",
     "district_code": "630415",
-    "name": "Antar Jaya"
+    "name": "Antar Jaya",
+    "postal_code": "70511"
   },
   {
     "code": "6304152008",
     "district_code": "630415",
-    "name": "Antar Raya"
+    "name": "Antar Raya",
+    "postal_code": "70511"
   },
   {
     "code": "6304152009",
     "district_code": "630415",
-    "name": "Sido Makmur"
+    "name": "Sido Makmur",
+    "postal_code": "70511"
   },
   {
     "code": "6304152010",
     "district_code": "630415",
-    "name": "Karya Maju"
+    "name": "Karya Maju",
+    "postal_code": "70513"
   }
 ]

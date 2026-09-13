@@ -2,26 +2,31 @@
   {
     "code": "5316052001",
     "district_code": "531605",
-    "name": "Tendatoto"
+    "name": "Tendatoto",
+    "postal_code": "86471"
   },
   {
     "code": "5316052002",
     "district_code": "531605",
-    "name": "Totomala"
+    "name": "Totomala",
+    "postal_code": "86471"
   },
   {
     "code": "5316052003",
     "district_code": "531605",
-    "name": "Tendakinde"
+    "name": "Tendakinde",
+    "postal_code": "86471"
   },
   {
     "code": "5316052004",
     "district_code": "531605",
-    "name": "Anakoli"
+    "name": "Anakoli",
+    "postal_code": "86471"
   },
   {
     "code": "5316052005",
     "district_code": "531605",
-    "name": "Natatoto"
+    "name": "Natatoto",
+    "postal_code": "86471"
   }
 ]

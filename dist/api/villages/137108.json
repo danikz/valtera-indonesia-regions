@@ -2,46 +2,55 @@
   {
     "code": "1371081001",
     "district_code": "137108",
-    "name": "Limau Manis"
+    "name": "Limau Manis",
+    "postal_code": "25166"
   },
   {
     "code": "1371081002",
     "district_code": "137108",
-    "name": "Koto Lua"
+    "name": "Koto Lua",
+    "postal_code": "25164"
   },
   {
     "code": "1371081003",
     "district_code": "137108",
-    "name": "Limau Manis Selatan"
+    "name": "Limau Manis Selatan",
+    "postal_code": "25163"
   },
   {
     "code": "1371081004",
     "district_code": "137108",
-    "name": "Piai Tangah"
+    "name": "Piai Tangah",
+    "postal_code": "25162"
   },
   {
     "code": "1371081005",
     "district_code": "137108",
-    "name": "Cupak Tangah"
+    "name": "Cupak Tangah",
+    "postal_code": "25162"
   },
   {
     "code": "1371081006",
     "district_code": "137108",
-    "name": "Pisang"
+    "name": "Pisang",
+    "postal_code": "25161"
   },
   {
     "code": "1371081007",
     "district_code": "137108",
-    "name": "Binuang Kampuang Dalam"
+    "name": "Binuang Kampuang Dalam",
+    "postal_code": "25161"
   },
   {
     "code": "1371081008",
     "district_code": "137108",
-    "name": "Kapalo Koto"
+    "name": "Kapalo Koto",
+    "postal_code": "25163"
   },
   {
     "code": "1371081009",
     "district_code": "137108",
-    "name": "Lambung Bukik"
+    "name": "Lambung Bukik",
+    "postal_code": "25168"
   }
 ]

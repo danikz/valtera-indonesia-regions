@@ -2,26 +2,31 @@
   {
     "code": "1310102001",
     "district_code": "131010",
-    "name": "Sungai Limau"
+    "name": "Sungai Limau",
+    "postal_code": "27684"
   },
   {
     "code": "1310102002",
     "district_code": "131010",
-    "name": "Alahan Nan Tigo"
+    "name": "Alahan Nan Tigo",
+    "postal_code": "27684"
   },
   {
     "code": "1310102003",
     "district_code": "131010",
-    "name": "Lubuk Besar"
+    "name": "Lubuk Besar",
+    "postal_code": "27684"
   },
   {
     "code": "1310102004",
     "district_code": "131010",
-    "name": "Tanjung Alam"
+    "name": "Tanjung Alam",
+    "postal_code": "27684"
   },
   {
     "code": "1310102005",
     "district_code": "131010",
-    "name": "Sinamar"
+    "name": "Sinamar",
+    "postal_code": "27684"
   }
 ]

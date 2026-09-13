@@ -2,56 +2,67 @@
   {
     "code": "1108252001",
     "district_code": "110825",
-    "name": "Lhok Asan"
+    "name": "Lhok Asan",
+    "postal_code": "24373"
   },
   {
     "code": "1108252002",
     "district_code": "110825",
-    "name": "Darul Aman"
+    "name": "Darul Aman",
+    "postal_code": "24373"
   },
   {
     "code": "1108252003",
     "district_code": "110825",
-    "name": "Alue Awe"
+    "name": "Alue Awe",
+    "postal_code": "24373"
   },
   {
     "code": "1108252004",
     "district_code": "110825",
-    "name": "Darussalam"
+    "name": "Darussalam",
+    "postal_code": "24373"
   },
   {
     "code": "1108252005",
     "district_code": "110825",
-    "name": "Rayeuk Jawa"
+    "name": "Rayeuk Jawa",
+    "postal_code": "24373"
   },
   {
     "code": "1108252006",
     "district_code": "110825",
-    "name": "Dayah Seupeng"
+    "name": "Dayah Seupeng",
+    "postal_code": "24373"
   },
   {
     "code": "1108252007",
     "district_code": "110825",
-    "name": "Uram Jalan"
+    "name": "Uram Jalan",
+    "postal_code": "24373"
   },
   {
     "code": "1108252008",
     "district_code": "110825",
-    "name": "Peudari"
+    "name": "Peudari",
+    "postal_code": "24373"
   },
   {
     "code": "1108252009",
     "district_code": "110825",
-    "name": "Krueng Mbang"
+    "name": "Krueng Mbang",
+    "postal_code": "24373"
   },
   {
     "code": "1108252010",
     "district_code": "110825",
-    "name": "Pulo Meuria"
+    "name": "Pulo Meuria",
+    "postal_code": "24373"
   },
   {
     "code": "1108252011",
     "district_code": "110825",
-    "name": "Suka Damai"
+    "name": "Suka Damai",
+    "postal_code": "24373"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "3205092001",
     "district_code": "320509",
-    "name": "Leles"
+    "name": "Leles",
+    "postal_code": "44152"
   },
   {
     "code": "3205092002",
     "district_code": "320509",
-    "name": "Ciburial"
+    "name": "Ciburial",
+    "postal_code": "44152"
   },
   {
     "code": "3205092003",
     "district_code": "320509",
-    "name": "Jangkurang"
+    "name": "Jangkurang",
+    "postal_code": "44152"
   },
   {
     "code": "3205092004",
     "district_code": "320509",
-    "name": "Sukarame"
+    "name": "Sukarame",
+    "postal_code": "44152"
   },
   {
     "code": "3205092005",
     "district_code": "320509",
-    "name": "Lembang"
+    "name": "Lembang",
+    "postal_code": "44152"
   },
   {
     "code": "3205092006",
     "district_code": "320509",
-    "name": "Cangkuang"
+    "name": "Cangkuang",
+    "postal_code": "44119"
   },
   {
     "code": "3205092007",
     "district_code": "320509",
-    "name": "Salamnunggal"
+    "name": "Salamnunggal",
+    "postal_code": "44152"
   },
   {
     "code": "3205092008",
     "district_code": "320509",
-    "name": "Kandangmukti"
+    "name": "Kandangmukti",
+    "postal_code": "44152"
   },
   {
     "code": "3205092009",
     "district_code": "320509",
-    "name": "Margaluyu"
+    "name": "Margaluyu",
+    "postal_code": "44152"
   },
   {
     "code": "3205092010",
     "district_code": "320509",
-    "name": "Cipancar"
+    "name": "Cipancar",
+    "postal_code": "44152"
   },
   {
     "code": "3205092011",
     "district_code": "320509",
-    "name": "Haruman"
+    "name": "Haruman",
+    "postal_code": "44152"
   },
   {
     "code": "3205092012",
     "district_code": "320509",
-    "name": "Dano"
+    "name": "Dano",
+    "postal_code": "44152"
   }
 ]

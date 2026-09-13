@@ -2,41 +2,49 @@
   {
     "code": "3215011001",
     "district_code": "321501",
-    "name": "Karawang Kulon"
+    "name": "Karawang Kulon",
+    "postal_code": "41311"
   },
   {
     "code": "3215011003",
     "district_code": "321501",
-    "name": "Adiarsa Barat"
+    "name": "Adiarsa Barat",
+    "postal_code": "41311"
   },
   {
     "code": "3215011005",
     "district_code": "321501",
-    "name": "Tanjungpura"
+    "name": "Tanjungpura",
+    "postal_code": "41316"
   },
   {
     "code": "3215011006",
     "district_code": "321501",
-    "name": "Tanjungmekar"
+    "name": "Tanjungmekar",
+    "postal_code": "41311"
   },
   {
     "code": "3215011007",
     "district_code": "321501",
-    "name": "Tunggakjati"
+    "name": "Tunggakjati",
+    "postal_code": "41311"
   },
   {
     "code": "3215011010",
     "district_code": "321501",
-    "name": "Karawangpawitan"
+    "name": "Karawangpawitan",
+    "postal_code": "41315"
   },
   {
     "code": "3215011011",
     "district_code": "321501",
-    "name": "Nagasari"
+    "name": "Nagasari",
+    "postal_code": "41312"
   },
   {
     "code": "3215011012",
     "district_code": "321501",
-    "name": "Mekarjati"
+    "name": "Mekarjati",
+    "postal_code": "41311"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "9504102001",
     "district_code": "950410",
-    "name": "Lugwi"
+    "name": "Lugwi",
+    "postal_code": "99421"
   },
   {
     "code": "9504102002",
     "district_code": "950410",
-    "name": "Yaliwak"
+    "name": "Yaliwak",
+    "postal_code": "99421"
   },
   {
     "code": "9504102003",
     "district_code": "950410",
-    "name": "Teropme"
+    "name": "Teropme",
+    "postal_code": "99048"
   },
   {
     "code": "9504102004",
     "district_code": "950410",
-    "name": "Yigonime"
+    "name": "Yigonime",
+    "postal_code": "99048"
   },
   {
     "code": "9504102005",
     "district_code": "950410",
-    "name": "Mome"
+    "name": "Mome",
+    "postal_code": "99421"
   },
   {
     "code": "9504102006",
     "district_code": "950410",
-    "name": "Bugum"
+    "name": "Bugum",
+    "postal_code": "99421"
   },
   {
     "code": "9504102007",
     "district_code": "950410",
-    "name": "Pagona"
+    "name": "Pagona",
+    "postal_code": "99421"
   },
   {
     "code": "9504102008",
     "district_code": "950410",
-    "name": "Wunabu"
+    "name": "Wunabu",
+    "postal_code": "99421"
   },
   {
     "code": "9504102009",
     "district_code": "950410",
-    "name": "Wilileme"
+    "name": "Wilileme",
+    "postal_code": "99421"
   },
   {
     "code": "9504102010",
     "district_code": "950410",
-    "name": "Yangguni"
+    "name": "Yangguni",
+    "postal_code": "99048"
   }
 ]

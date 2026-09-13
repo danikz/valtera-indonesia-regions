@@ -2,26 +2,31 @@
   {
     "code": "8106082001",
     "district_code": "810608",
-    "name": "Ariate"
+    "name": "Ariate",
+    "postal_code": "97560"
   },
   {
     "code": "8106082002",
     "district_code": "810608",
-    "name": "Lokki"
+    "name": "Lokki",
+    "postal_code": "97560"
   },
   {
     "code": "8106082003",
     "district_code": "810608",
-    "name": "Luhu"
+    "name": "Luhu",
+    "postal_code": "97560"
   },
   {
     "code": "8106082004",
     "district_code": "810608",
-    "name": "Iha"
+    "name": "Iha",
+    "postal_code": "97560"
   },
   {
     "code": "8106082005",
     "district_code": "810608",
-    "name": "Kulur"
+    "name": "Kulur",
+    "postal_code": "97560"
   }
 ]

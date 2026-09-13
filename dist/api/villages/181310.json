@@ -2,46 +2,55 @@
   {
     "code": "1813102001",
     "district_code": "181310",
-    "name": "Negeri Ratu Ngaras"
+    "name": "Negeri Ratu Ngaras",
+    "postal_code": "34888"
   },
   {
     "code": "1813102003",
     "district_code": "181310",
-    "name": "Kota Batu"
+    "name": "Kota Batu",
+    "postal_code": "34888"
   },
   {
     "code": "1813102004",
     "district_code": "181310",
-    "name": "Mulang Maya"
+    "name": "Mulang Maya",
+    "postal_code": "34888"
   },
   {
     "code": "1813102005",
     "district_code": "181310",
-    "name": "Rajabasa"
+    "name": "Rajabasa",
+    "postal_code": "34888"
   },
   {
     "code": "1813102006",
     "district_code": "181310",
-    "name": "Pardasuka"
+    "name": "Pardasuka",
+    "postal_code": "34888"
   },
   {
     "code": "1813102017",
     "district_code": "181310",
-    "name": "Padang Alam"
+    "name": "Padang Alam",
+    "postal_code": "34888"
   },
   {
     "code": "1813102018",
     "district_code": "181310",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "34888"
   },
   {
     "code": "1813102019",
     "district_code": "181310",
-    "name": "Sukarame"
+    "name": "Sukarame",
+    "postal_code": "34888"
   },
   {
     "code": "1813102020",
     "district_code": "181310",
-    "name": "Bandar Jaya"
+    "name": "Bandar Jaya",
+    "postal_code": "34888"
   }
 ]

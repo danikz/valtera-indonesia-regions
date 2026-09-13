@@ -2,61 +2,73 @@
   {
     "code": "7101092001",
     "district_code": "710109",
-    "name": "Matayangan"
+    "name": "Matayangan",
+    "postal_code": "95731"
   },
   {
     "code": "7101092002",
     "district_code": "710109",
-    "name": "Uuan"
+    "name": "Uuan",
+    "postal_code": "95731"
   },
   {
     "code": "7101092003",
     "district_code": "710109",
-    "name": "Ikhwan"
+    "name": "Ikhwan",
+    "postal_code": "95731"
   },
   {
     "code": "7101092004",
     "district_code": "710109",
-    "name": "Doloduo"
+    "name": "Doloduo",
+    "postal_code": "95731"
   },
   {
     "code": "7101092005",
     "district_code": "710109",
-    "name": "Wangga Baru"
+    "name": "Wangga Baru",
+    "postal_code": "95731"
   },
   {
     "code": "7101092010",
     "district_code": "710109",
-    "name": "Totaut"
+    "name": "Totaut",
+    "postal_code": "95731"
   },
   {
     "code": "7101092011",
     "district_code": "710109",
-    "name": "Mekaruo"
+    "name": "Mekaruo",
+    "postal_code": "95731"
   },
   {
     "code": "7101092017",
     "district_code": "710109",
-    "name": "Toraut Utara"
+    "name": "Toraut Utara",
+    "postal_code": "95731"
   },
   {
     "code": "7101092018",
     "district_code": "710109",
-    "name": "Doloduo Satu"
+    "name": "Doloduo Satu",
+    "postal_code": "95731"
   },
   {
     "code": "7101092019",
     "district_code": "710109",
-    "name": "Doloduo Dua"
+    "name": "Doloduo Dua",
+    "postal_code": "95731"
   },
   {
     "code": "7101092020",
     "district_code": "710109",
-    "name": "Doloduo Tiga"
+    "name": "Doloduo Tiga",
+    "postal_code": "95731"
   },
   {
     "code": "7101092022",
     "district_code": "710109",
-    "name": "Toraut Tengah"
+    "name": "Toraut Tengah",
+    "postal_code": "95731"
   }
 ]

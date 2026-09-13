@@ -2,41 +2,49 @@
   {
     "code": "6104172001",
     "district_code": "610417",
-    "name": "Sungai Awan Kanan"
+    "name": "Sungai Awan Kanan",
+    "postal_code": "78810"
   },
   {
     "code": "6104172002",
     "district_code": "610417",
-    "name": "Sungai Awan Kiri"
+    "name": "Sungai Awan Kiri",
+    "postal_code": "78810"
   },
   {
     "code": "6104172003",
     "district_code": "610417",
-    "name": "Tempurukan"
+    "name": "Tempurukan",
+    "postal_code": "78810"
   },
   {
     "code": "6104172004",
     "district_code": "610417",
-    "name": "Ulak Medang"
+    "name": "Ulak Medang",
+    "postal_code": "78810"
   },
   {
     "code": "6104172005",
     "district_code": "610417",
-    "name": "Tanjung Pura"
+    "name": "Tanjung Pura",
+    "postal_code": "78810"
   },
   {
     "code": "6104172006",
     "district_code": "610417",
-    "name": "Mayak"
+    "name": "Mayak",
+    "postal_code": "78810"
   },
   {
     "code": "6104172007",
     "district_code": "610417",
-    "name": "Tanjung Pasar"
+    "name": "Tanjung Pasar",
+    "postal_code": "78810"
   },
   {
     "code": "6104172008",
     "district_code": "610417",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "78810"
   }
 ]

@@ -2,16 +2,19 @@
   {
     "code": "3471091001",
     "district_code": "347109",
-    "name": "Patehan"
+    "name": "Patehan",
+    "postal_code": "55133"
   },
   {
     "code": "3471091002",
     "district_code": "347109",
-    "name": "Panembahan"
+    "name": "Panembahan",
+    "postal_code": "55131"
   },
   {
     "code": "3471091003",
     "district_code": "347109",
-    "name": "Kadipaten"
+    "name": "Kadipaten",
+    "postal_code": "55132"
   }
 ]

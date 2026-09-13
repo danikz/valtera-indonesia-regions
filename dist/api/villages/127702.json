@@ -2,61 +2,73 @@
   {
     "code": "1277021001",
     "district_code": "127702",
-    "name": "Wek V"
+    "name": "Wek V",
+    "postal_code": "22723"
   },
   {
     "code": "1277021002",
     "district_code": "127702",
-    "name": "Wek VI"
+    "name": "Wek VI",
+    "postal_code": "22724"
   },
   {
     "code": "1277021003",
     "district_code": "127702",
-    "name": "Losung"
+    "name": "Losung",
+    "postal_code": "22722"
   },
   {
     "code": "1277021004",
     "district_code": "127702",
-    "name": "Sitamiang"
+    "name": "Sitamiang",
+    "postal_code": "22723"
   },
   {
     "code": "1277021005",
     "district_code": "127702",
-    "name": "Ujung Padang"
+    "name": "Ujung Padang",
+    "postal_code": "22725"
   },
   {
     "code": "1277021006",
     "district_code": "127702",
-    "name": "Aek Tampang"
+    "name": "Aek Tampang",
+    "postal_code": "22726"
   },
   {
     "code": "1277021007",
     "district_code": "127702",
-    "name": "Padang Matinggi"
+    "name": "Padang Matinggi",
+    "postal_code": "22727"
   },
   {
     "code": "1277021008",
     "district_code": "127702",
-    "name": "Silandit"
+    "name": "Silandit",
+    "postal_code": "22728"
   },
   {
     "code": "1277021009",
     "district_code": "127702",
-    "name": "Sidangkal"
+    "name": "Sidangkal",
+    "postal_code": "22721"
   },
   {
     "code": "1277021010",
     "district_code": "127702",
-    "name": "Hanopan"
+    "name": "Hanopan",
+    "postal_code": "22721"
   },
   {
     "code": "1277021011",
     "district_code": "127702",
-    "name": "Padang Matinggi Lestari"
+    "name": "Padang Matinggi Lestari",
+    "postal_code": "22727"
   },
   {
     "code": "1277021012",
     "district_code": "127702",
-    "name": "Sitamiang Baru"
+    "name": "Sitamiang Baru",
+    "postal_code": "22723"
   }
 ]

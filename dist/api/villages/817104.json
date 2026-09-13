@@ -2,41 +2,49 @@
   {
     "code": "8171041008",
     "district_code": "817104",
-    "name": "Tihu"
+    "name": "Tihu",
+    "postal_code": "97237"
   },
   {
     "code": "8171042001",
     "district_code": "817104",
-    "name": "Hunuth/Durian Patah"
+    "name": "Hunuth/Durian Patah",
+    "postal_code": "97233"
   },
   {
     "code": "8171042002",
     "district_code": "817104",
-    "name": "Poka"
+    "name": "Poka",
+    "postal_code": "97233"
   },
   {
     "code": "8171042003",
     "district_code": "817104",
-    "name": "Rumah Tiga"
+    "name": "Rumah Tiga",
+    "postal_code": "97234"
   },
   {
     "code": "8171042004",
     "district_code": "817104",
-    "name": "Wayame"
+    "name": "Wayame",
+    "postal_code": "97234"
   },
   {
     "code": "8171042005",
     "district_code": "817104",
-    "name": "Tawiri"
+    "name": "Tawiri",
+    "postal_code": "97235"
   },
   {
     "code": "8171042006",
     "district_code": "817104",
-    "name": "Hative Besar"
+    "name": "Hative Besar",
+    "postal_code": "97234"
   },
   {
     "code": "8171042007",
     "district_code": "817104",
-    "name": "Laha"
+    "name": "Laha",
+    "postal_code": "97236"
   }
 ]

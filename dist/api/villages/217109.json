@@ -2,21 +2,25 @@
   {
     "code": "2171091001",
     "district_code": "217109",
-    "name": "Bengkong Indah"
+    "name": "Bengkong Indah",
+    "postal_code": "29458"
   },
   {
     "code": "2171091002",
     "district_code": "217109",
-    "name": "Bengkong Laut"
+    "name": "Bengkong Laut",
+    "postal_code": "29458"
   },
   {
     "code": "2171091003",
     "district_code": "217109",
-    "name": "Sadai"
+    "name": "Sadai",
+    "postal_code": "29432"
   },
   {
     "code": "2171091004",
     "district_code": "217109",
-    "name": "Tanjung Buntung"
+    "name": "Tanjung Buntung",
+    "postal_code": "29432"
   }
 ]

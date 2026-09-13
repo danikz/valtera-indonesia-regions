@@ -2,41 +2,49 @@
   {
     "code": "3604342001",
     "district_code": "360434",
-    "name": "Bandung"
+    "name": "Bandung",
+    "postal_code": "42176"
   },
   {
     "code": "3604342002",
     "district_code": "360434",
-    "name": "Mander"
+    "name": "Mander",
+    "postal_code": "42176"
   },
   {
     "code": "3604342003",
     "district_code": "360434",
-    "name": "Penamping"
+    "name": "Penamping",
+    "postal_code": "42176"
   },
   {
     "code": "3604342004",
     "district_code": "360434",
-    "name": "Pangawinan"
+    "name": "Pangawinan",
+    "postal_code": "42176"
   },
   {
     "code": "3604342005",
     "district_code": "360434",
-    "name": "Malabar"
+    "name": "Malabar",
+    "postal_code": "42176"
   },
   {
     "code": "3604342006",
     "district_code": "360434",
-    "name": "Blokang"
+    "name": "Blokang",
+    "postal_code": "42176"
   },
   {
     "code": "3604342007",
     "district_code": "360434",
-    "name": "Babakan"
+    "name": "Babakan",
+    "postal_code": "42176"
   },
   {
     "code": "3604342008",
     "district_code": "360434",
-    "name": "Pringwulung"
+    "name": "Pringwulung",
+    "postal_code": "42176"
   }
 ]

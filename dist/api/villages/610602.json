@@ -2,41 +2,49 @@
   {
     "code": "6106022001",
     "district_code": "610602",
-    "name": "Teluk Sindur"
+    "name": "Teluk Sindur",
+    "postal_code": "78753"
   },
   {
     "code": "6106022002",
     "district_code": "610602",
-    "name": "Bika"
+    "name": "Bika",
+    "postal_code": "78753"
   },
   {
     "code": "6106022003",
     "district_code": "610602",
-    "name": "Jelemuk"
+    "name": "Jelemuk",
+    "postal_code": "78753"
   },
   {
     "code": "6106022008",
     "district_code": "610602",
-    "name": "Bika Hulu"
+    "name": "Bika Hulu",
+    "postal_code": "78753"
   },
   {
     "code": "6106022009",
     "district_code": "610602",
-    "name": "Nanga Manday"
+    "name": "Nanga Manday",
+    "postal_code": "78753"
   },
   {
     "code": "6106022010",
     "district_code": "610602",
-    "name": "Melapi Manday"
+    "name": "Melapi Manday",
+    "postal_code": "78753"
   },
   {
     "code": "6106022011",
     "district_code": "610602",
-    "name": "Penyeluang"
+    "name": "Penyeluang",
+    "postal_code": "78753"
   },
   {
     "code": "6106022012",
     "district_code": "610602",
-    "name": "Jongkong Manday"
+    "name": "Jongkong Manday",
+    "postal_code": "78753"
   }
 ]

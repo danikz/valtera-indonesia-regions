@@ -2,31 +2,37 @@
   {
     "code": "3674071001",
     "district_code": "367407",
-    "name": "Muncul"
+    "name": "Muncul",
+    "postal_code": "15314"
   },
   {
     "code": "3674071002",
     "district_code": "367407",
-    "name": "Setu"
+    "name": "Setu",
+    "postal_code": "15314"
   },
   {
     "code": "3674071003",
     "district_code": "367407",
-    "name": "Keranggan"
+    "name": "Keranggan",
+    "postal_code": "15312"
   },
   {
     "code": "3674071004",
     "district_code": "367407",
-    "name": "Kademangan"
+    "name": "Kademangan",
+    "postal_code": "15313"
   },
   {
     "code": "3674071005",
     "district_code": "367407",
-    "name": "Babakan"
+    "name": "Babakan",
+    "postal_code": "15315"
   },
   {
     "code": "3674071006",
     "district_code": "367407",
-    "name": "Bakti Jaya"
+    "name": "Bakti Jaya",
+    "postal_code": "15315"
   }
 ]

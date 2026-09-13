@@ -2,46 +2,55 @@
   {
     "code": "1706152001",
     "district_code": "170615",
-    "name": "Retak Mudik"
+    "name": "Retak Mudik",
+    "postal_code": "38761"
   },
   {
     "code": "1706152002",
     "district_code": "170615",
-    "name": "Padang Gading"
+    "name": "Padang Gading",
+    "postal_code": "38761"
   },
   {
     "code": "1706152003",
     "district_code": "170615",
-    "name": "Gajah Mati"
+    "name": "Gajah Mati",
+    "postal_code": "38761"
   },
   {
     "code": "1706152004",
     "district_code": "170615",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "38761"
   },
   {
     "code": "1706152005",
     "district_code": "170615",
-    "name": "Sido Dadi"
+    "name": "Sido Dadi",
+    "postal_code": "38761"
   },
   {
     "code": "1706152006",
     "district_code": "170615",
-    "name": "Sumber Makmur"
+    "name": "Sumber Makmur",
+    "postal_code": "38761"
   },
   {
     "code": "1706152007",
     "district_code": "170615",
-    "name": "Talang Gading"
+    "name": "Talang Gading",
+    "postal_code": "38761"
   },
   {
     "code": "1706152008",
     "district_code": "170615",
-    "name": "Gading Jaya"
+    "name": "Gading Jaya",
+    "postal_code": "38761"
   },
   {
     "code": "1706152009",
     "district_code": "170615",
-    "name": "Banjar Sari"
+    "name": "Banjar Sari",
+    "postal_code": "38761"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "1871051002",
     "district_code": "187105",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "35121"
   },
   {
     "code": "1871051003",
     "district_code": "187105",
-    "name": "Tanjung Agung"
+    "name": "Tanjung Agung",
+    "postal_code": "35126"
   },
   {
     "code": "1871051004",
     "district_code": "187105",
-    "name": "Kebon Jeruk"
+    "name": "Kebon Jeruk",
+    "postal_code": "35121"
   },
   {
     "code": "1871051005",
     "district_code": "187105",
-    "name": "Sawah Lama"
+    "name": "Sawah Lama",
+    "postal_code": "35125"
   },
   {
     "code": "1871051006",
     "district_code": "187105",
-    "name": "Sawah Brebes"
+    "name": "Sawah Brebes",
+    "postal_code": "35124"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "1702061004",
     "district_code": "170206",
-    "name": "Kota Padang"
+    "name": "Kota Padang",
+    "postal_code": "39183"
   },
   {
     "code": "1702061015",
     "district_code": "170206",
-    "name": "Bedeng SS."
+    "name": "Bedeng SS.",
+    "postal_code": "39183"
   },
   {
     "code": "1702061016",
     "district_code": "170206",
-    "name": "Dusun Baru"
+    "name": "Dusun Baru",
+    "postal_code": "39183"
   },
   {
     "code": "1702062001",
     "district_code": "170206",
-    "name": "Derati"
+    "name": "Derati",
+    "postal_code": "39183"
   },
   {
     "code": "1702062002",
     "district_code": "170206",
-    "name": "Taba Anyar"
+    "name": "Taba Anyar",
+    "postal_code": "39183"
   },
   {
     "code": "1702062003",
     "district_code": "170206",
-    "name": "Suka Rami"
+    "name": "Suka Rami",
+    "postal_code": "39183"
   },
   {
     "code": "1702062005",
     "district_code": "170206",
-    "name": "Lubuk Mumpo"
+    "name": "Lubuk Mumpo",
+    "postal_code": "39183"
   },
   {
     "code": "1702062006",
     "district_code": "170206",
-    "name": "Durian Mas"
+    "name": "Durian Mas",
+    "postal_code": "39183"
   },
   {
     "code": "1702062018",
     "district_code": "170206",
-    "name": "Kota Padang Baru"
+    "name": "Kota Padang Baru",
+    "postal_code": "39183"
   },
   {
     "code": "1702062020",
     "district_code": "170206",
-    "name": "Tanjung Gelang"
+    "name": "Tanjung Gelang",
+    "postal_code": "39183"
   }
 ]

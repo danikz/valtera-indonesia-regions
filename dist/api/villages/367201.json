@@ -2,31 +2,37 @@
   {
     "code": "3672011001",
     "district_code": "367201",
-    "name": "Cibeber"
+    "name": "Cibeber",
+    "postal_code": "42423"
   },
   {
     "code": "3672011002",
     "district_code": "367201",
-    "name": "Kedaleman"
+    "name": "Kedaleman",
+    "postal_code": "42422"
   },
   {
     "code": "3672011003",
     "district_code": "367201",
-    "name": "Bulakan"
+    "name": "Bulakan",
+    "postal_code": "42426"
   },
   {
     "code": "3672011004",
     "district_code": "367201",
-    "name": "Cikerai"
+    "name": "Cikerai",
+    "postal_code": "42427"
   },
   {
     "code": "3672011005",
     "district_code": "367201",
-    "name": "Karang Asem"
+    "name": "Karang Asem",
+    "postal_code": "42425"
   },
   {
     "code": "3672011006",
     "district_code": "367201",
-    "name": "Kalitimbang"
+    "name": "Kalitimbang",
+    "postal_code": "42424"
   }
 ]

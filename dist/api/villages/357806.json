@@ -2,31 +2,37 @@
   {
     "code": "3578061001",
     "district_code": "357806",
-    "name": "Petemon"
+    "name": "Petemon",
+    "postal_code": "60252"
   },
   {
     "code": "3578061002",
     "district_code": "357806",
-    "name": "Sawahan"
+    "name": "Sawahan",
+    "postal_code": "60251"
   },
   {
     "code": "3578061003",
     "district_code": "357806",
-    "name": "Banyu Urip"
+    "name": "Banyu Urip",
+    "postal_code": "60254"
   },
   {
     "code": "3578061004",
     "district_code": "357806",
-    "name": "Putat Jaya"
+    "name": "Putat Jaya",
+    "postal_code": "60255"
   },
   {
     "code": "3578061005",
     "district_code": "357806",
-    "name": "Kupang Krajan"
+    "name": "Kupang Krajan",
+    "postal_code": "60253"
   },
   {
     "code": "3578061006",
     "district_code": "357806",
-    "name": "Pakis"
+    "name": "Pakis",
+    "postal_code": "60256"
   }
 ]

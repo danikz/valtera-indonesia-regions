@@ -2,56 +2,67 @@
   {
     "code": "3304112001",
     "district_code": "330411",
-    "name": "Pingit"
+    "name": "Pingit",
+    "postal_code": "53463"
   },
   {
     "code": "3304112002",
     "district_code": "330411",
-    "name": "Situwangi"
+    "name": "Situwangi",
+    "postal_code": "53463"
   },
   {
     "code": "3304112003",
     "district_code": "330411",
-    "name": "Gelang"
+    "name": "Gelang",
+    "postal_code": "53463"
   },
   {
     "code": "3304112004",
     "district_code": "330411",
-    "name": "Rakit"
+    "name": "Rakit",
+    "postal_code": "53463"
   },
   {
     "code": "3304112005",
     "district_code": "330411",
-    "name": "Adipasir"
+    "name": "Adipasir",
+    "postal_code": "53463"
   },
   {
     "code": "3304112006",
     "district_code": "330411",
-    "name": "Bandingan"
+    "name": "Bandingan",
+    "postal_code": "53463"
   },
   {
     "code": "3304112007",
     "district_code": "330411",
-    "name": "Kincang"
+    "name": "Kincang",
+    "postal_code": "53463"
   },
   {
     "code": "3304112008",
     "district_code": "330411",
-    "name": "Badamita"
+    "name": "Badamita",
+    "postal_code": "53463"
   },
   {
     "code": "3304112009",
     "district_code": "330411",
-    "name": "Tanjunganom"
+    "name": "Tanjunganom",
+    "postal_code": "53463"
   },
   {
     "code": "3304112010",
     "district_code": "330411",
-    "name": "Luwung"
+    "name": "Luwung",
+    "postal_code": "53463"
   },
   {
     "code": "3304112011",
     "district_code": "330411",
-    "name": "Lengkong"
+    "name": "Lengkong",
+    "postal_code": "53463"
   }
 ]

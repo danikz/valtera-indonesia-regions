@@ -2,31 +2,37 @@
   {
     "code": "3373031001",
     "district_code": "337303",
-    "name": "Noborejo"
+    "name": "Noborejo",
+    "postal_code": "50736"
   },
   {
     "code": "3373031002",
     "district_code": "337303",
-    "name": "Ledok"
+    "name": "Ledok",
+    "postal_code": "50732"
   },
   {
     "code": "3373031003",
     "district_code": "337303",
-    "name": "Tegalrejo"
+    "name": "Tegalrejo",
+    "postal_code": "50733"
   },
   {
     "code": "3373031004",
     "district_code": "337303",
-    "name": "Kumpulrejo"
+    "name": "Kumpulrejo",
+    "postal_code": "50734"
   },
   {
     "code": "3373031005",
     "district_code": "337303",
-    "name": "Randuacir"
+    "name": "Randuacir",
+    "postal_code": "50735"
   },
   {
     "code": "3373031006",
     "district_code": "337303",
-    "name": "Cebongan"
+    "name": "Cebongan",
+    "postal_code": "50736"
   }
 ]

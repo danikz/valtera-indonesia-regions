@@ -2,51 +2,61 @@
   {
     "code": "6205011001",
     "district_code": "620501",
-    "name": "Montallat I"
+    "name": "Montallat I",
+    "postal_code": "73861"
   },
   {
     "code": "6205011002",
     "district_code": "620501",
-    "name": "Montallat II"
+    "name": "Montallat II",
+    "postal_code": "73861"
   },
   {
     "code": "6205011003",
     "district_code": "620501",
-    "name": "Tumpung Laung I"
+    "name": "Tumpung Laung I",
+    "postal_code": "73861"
   },
   {
     "code": "6205011004",
     "district_code": "620501",
-    "name": "Tumpung Laung II"
+    "name": "Tumpung Laung II",
+    "postal_code": "73861"
   },
   {
     "code": "6205012005",
     "district_code": "620501",
-    "name": "Sikan"
+    "name": "Sikan",
+    "postal_code": "73861"
   },
   {
     "code": "6205012006",
     "district_code": "620501",
-    "name": "Rubei"
+    "name": "Rubei",
+    "postal_code": "73861"
   },
   {
     "code": "6205012007",
     "district_code": "620501",
-    "name": "Pepas"
+    "name": "Pepas",
+    "postal_code": "73861"
   },
   {
     "code": "6205012008",
     "district_code": "620501",
-    "name": "Ruji"
+    "name": "Ruji",
+    "postal_code": "73861"
   },
   {
     "code": "6205012009",
     "district_code": "620501",
-    "name": "Paring Lahung"
+    "name": "Paring Lahung",
+    "postal_code": "73861"
   },
   {
     "code": "6205012010",
     "district_code": "620501",
-    "name": "Kamawen"
+    "name": "Kamawen",
+    "postal_code": "73861"
   }
 ]

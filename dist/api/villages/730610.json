@@ -2,46 +2,55 @@
   {
     "code": "7306101001",
     "district_code": "730610",
-    "name": "Tamaona"
+    "name": "Tamaona",
+    "postal_code": "92170"
   },
   {
     "code": "7306102002",
     "district_code": "730610",
-    "name": "Ta'binjai"
+    "name": "Ta'binjai",
+    "postal_code": "92170"
   },
   {
     "code": "7306102003",
     "district_code": "730610",
-    "name": "Erelembang"
+    "name": "Erelembang",
+    "postal_code": "92170"
   },
   {
     "code": "7306102004",
     "district_code": "730610",
-    "name": "Kanreapia"
+    "name": "Kanreapia",
+    "postal_code": "92170"
   },
   {
     "code": "7306102005",
     "district_code": "730610",
-    "name": "Pao"
+    "name": "Pao",
+    "postal_code": "92170"
   },
   {
     "code": "7306102006",
     "district_code": "730610",
-    "name": "Balassuka"
+    "name": "Balassuka",
+    "postal_code": "92170"
   },
   {
     "code": "7306102007",
     "district_code": "730610",
-    "name": "Mamampang"
+    "name": "Mamampang",
+    "postal_code": "92170"
   },
   {
     "code": "7306102008",
     "district_code": "730610",
-    "name": "Tonasa"
+    "name": "Tonasa",
+    "postal_code": "92170"
   },
   {
     "code": "7306102009",
     "district_code": "730610",
-    "name": "Bolaromang"
+    "name": "Bolaromang",
+    "postal_code": "92170"
   }
 ]

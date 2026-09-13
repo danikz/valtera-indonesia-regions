@@ -2,61 +2,73 @@
   {
     "code": "9210092001",
     "district_code": "921009",
-    "name": "Yubiah"
+    "name": "Yubiah",
+    "postal_code": ""
   },
   {
     "code": "9210092003",
     "district_code": "921009",
-    "name": "Karetubun"
+    "name": "Karetubun",
+    "postal_code": ""
   },
   {
     "code": "9210092004",
     "district_code": "921009",
-    "name": "Setta"
+    "name": "Setta",
+    "postal_code": ""
   },
   {
     "code": "9210092006",
     "district_code": "921009",
-    "name": "Hohoyor"
+    "name": "Hohoyor",
+    "postal_code": ""
   },
   {
     "code": "9210092007",
     "district_code": "921009",
-    "name": "Arne"
+    "name": "Arne",
+    "postal_code": ""
   },
   {
     "code": "9210092009",
     "district_code": "921009",
-    "name": "Aus Tiwit"
+    "name": "Aus Tiwit",
+    "postal_code": ""
   },
   {
     "code": "9210092010",
     "district_code": "921009",
-    "name": "Johafah"
+    "name": "Johafah",
+    "postal_code": ""
   },
   {
     "code": "9210092011",
     "district_code": "921009",
-    "name": "Yukase"
+    "name": "Yukase",
+    "postal_code": ""
   },
   {
     "code": "9210092012",
     "district_code": "921009",
-    "name": "Serma"
+    "name": "Serma",
+    "postal_code": ""
   },
   {
     "code": "9210092013",
     "district_code": "921009",
-    "name": "Kfaa"
+    "name": "Kfaa",
+    "postal_code": ""
   },
   {
     "code": "9210092014",
     "district_code": "921009",
-    "name": "Arne Timur"
+    "name": "Arne Timur",
+    "postal_code": ""
   },
   {
     "code": "9210092020",
     "district_code": "921009",
-    "name": "Nauwita"
+    "name": "Nauwita",
+    "postal_code": ""
   }
 ]

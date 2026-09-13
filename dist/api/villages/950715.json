@@ -2,46 +2,55 @@
   {
     "code": "9507152001",
     "district_code": "950715",
-    "name": "Konikme"
+    "name": "Konikme",
+    "postal_code": "99599"
   },
   {
     "code": "9507152002",
     "district_code": "950715",
-    "name": "Giwan"
+    "name": "Giwan",
+    "postal_code": "99599"
   },
   {
     "code": "9507152003",
     "district_code": "950715",
-    "name": "Lugom"
+    "name": "Lugom",
+    "postal_code": "99599"
   },
   {
     "code": "9507152004",
     "district_code": "950715",
-    "name": "Mabume"
+    "name": "Mabume",
+    "postal_code": "99599"
   },
   {
     "code": "9507152005",
     "district_code": "950715",
-    "name": "Wandoak"
+    "name": "Wandoak",
+    "postal_code": "99599"
   },
   {
     "code": "9507152006",
     "district_code": "950715",
-    "name": "Bogun Kunik"
+    "name": "Bogun Kunik",
+    "postal_code": "99599"
   },
   {
     "code": "9507152007",
     "district_code": "950715",
-    "name": "Urgelo"
+    "name": "Urgelo",
+    "postal_code": "99599"
   },
   {
     "code": "9507152008",
     "district_code": "950715",
-    "name": "Omapaga"
+    "name": "Omapaga",
+    "postal_code": "99599"
   },
   {
     "code": "9507152009",
     "district_code": "950715",
-    "name": "Gimili Alome"
+    "name": "Gimili Alome",
+    "postal_code": "99599"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "8271041001",
     "district_code": "827104",
-    "name": "Takofi"
+    "name": "Takofi",
+    "postal_code": "97741"
   },
   {
     "code": "8271041002",
     "district_code": "827104",
-    "name": "Moti Kota"
+    "name": "Moti Kota",
+    "postal_code": "97741"
   },
   {
     "code": "8271041003",
     "district_code": "827104",
-    "name": "Tafamutu"
+    "name": "Tafamutu",
+    "postal_code": "97741"
   },
   {
     "code": "8271041004",
     "district_code": "827104",
-    "name": "Tafaga"
+    "name": "Tafaga",
+    "postal_code": "97741"
   },
   {
     "code": "8271041006",
     "district_code": "827104",
-    "name": "Figur"
+    "name": "Figur",
+    "postal_code": "97741"
   },
   {
     "code": "8271041007",
     "district_code": "827104",
-    "name": "Tadenas"
+    "name": "Tadenas",
+    "postal_code": "97741"
   }
 ]

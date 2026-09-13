@@ -2,36 +2,43 @@
   {
     "code": "7109052001",
     "district_code": "710905",
-    "name": "Tanaki"
+    "name": "Tanaki",
+    "postal_code": "95868"
   },
   {
     "code": "7109052002",
     "district_code": "710905",
-    "name": "Kapeta"
+    "name": "Kapeta",
+    "postal_code": "95868"
   },
   {
     "code": "7109052003",
     "district_code": "710905",
-    "name": "Talawid"
+    "name": "Talawid",
+    "postal_code": "95868"
   },
   {
     "code": "7109052004",
     "district_code": "710905",
-    "name": "Laghaeng"
+    "name": "Laghaeng",
+    "postal_code": "95868"
   },
   {
     "code": "7109052005",
     "district_code": "710905",
-    "name": "Makoa"
+    "name": "Makoa",
+    "postal_code": "95868"
   },
   {
     "code": "7109052006",
     "district_code": "710905",
-    "name": "Batusenggo"
+    "name": "Batusenggo",
+    "postal_code": "95868"
   },
   {
     "code": "7109052007",
     "district_code": "710905",
-    "name": "Mahuneni"
+    "name": "Mahuneni",
+    "postal_code": "95868"
   }
 ]

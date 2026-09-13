@@ -2,46 +2,55 @@
   {
     "code": "1704142001",
     "district_code": "170414",
-    "name": "Pulau Panggung"
+    "name": "Pulau Panggung",
+    "postal_code": "38958"
   },
   {
     "code": "1704142002",
     "district_code": "170414",
-    "name": "Talang Besar"
+    "name": "Talang Besar",
+    "postal_code": "38958"
   },
   {
     "code": "1704142003",
     "district_code": "170414",
-    "name": "Talang Jawi I"
+    "name": "Talang Jawi I",
+    "postal_code": "38958"
   },
   {
     "code": "1704142004",
     "district_code": "170414",
-    "name": "Talang Jawi II"
+    "name": "Talang Jawi II",
+    "postal_code": "38958"
   },
   {
     "code": "1704142005",
     "district_code": "170414",
-    "name": "Air Kering"
+    "name": "Air Kering",
+    "postal_code": "38958"
   },
   {
     "code": "1704142006",
     "district_code": "170414",
-    "name": "Gunung Kaya"
+    "name": "Gunung Kaya",
+    "postal_code": "38958"
   },
   {
     "code": "1704142007",
     "district_code": "170414",
-    "name": "Ulak Agung"
+    "name": "Ulak Agung",
+    "postal_code": "38958"
   },
   {
     "code": "1704142008",
     "district_code": "170414",
-    "name": "Talang Padang"
+    "name": "Talang Padang",
+    "postal_code": "38958"
   },
   {
     "code": "1704142009",
     "district_code": "170414",
-    "name": "Air Kering II"
+    "name": "Air Kering II",
+    "postal_code": "38958"
   }
 ]

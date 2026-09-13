@@ -2,101 +2,121 @@
   {
     "code": "6109012001",
     "district_code": "610901",
-    "name": "Sungai Ringin"
+    "name": "Sungai Ringin",
+    "postal_code": "79582"
   },
   {
     "code": "6109012002",
     "district_code": "610901",
-    "name": "Mungguk"
+    "name": "Mungguk",
+    "postal_code": "79511"
   },
   {
     "code": "6109012003",
     "district_code": "610901",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "79511"
   },
   {
     "code": "6109012004",
     "district_code": "610901",
-    "name": "Merapi"
+    "name": "Merapi",
+    "postal_code": "79512"
   },
   {
     "code": "6109012005",
     "district_code": "610901",
-    "name": "Seraras"
+    "name": "Seraras",
+    "postal_code": "79512"
   },
   {
     "code": "6109012006",
     "district_code": "610901",
-    "name": "Semabi"
+    "name": "Semabi",
+    "postal_code": "79515"
   },
   {
     "code": "6109012007",
     "district_code": "610901",
-    "name": "Seberang Kapuas"
+    "name": "Seberang Kapuas",
+    "postal_code": "79515"
   },
   {
     "code": "6109012008",
     "district_code": "610901",
-    "name": "Landau Kodah"
+    "name": "Landau Kodah",
+    "postal_code": "79514"
   },
   {
     "code": "6109012009",
     "district_code": "610901",
-    "name": "Timpuk"
+    "name": "Timpuk",
+    "postal_code": "79514"
   },
   {
     "code": "6109012010",
     "district_code": "610901",
-    "name": "Sungai Kunyit"
+    "name": "Sungai Kunyit",
+    "postal_code": "79516"
   },
   {
     "code": "6109012011",
     "district_code": "610901",
-    "name": "Peniti"
+    "name": "Peniti",
+    "postal_code": "79516"
   },
   {
     "code": "6109012012",
     "district_code": "610901",
-    "name": "Gonis Tekam"
+    "name": "Gonis Tekam",
+    "postal_code": "79582"
   },
   {
     "code": "6109012013",
     "district_code": "610901",
-    "name": "Tapang Semadak"
+    "name": "Tapang Semadak",
+    "postal_code": "79513"
   },
   {
     "code": "6109012014",
     "district_code": "610901",
-    "name": "Engkersik"
+    "name": "Engkersik",
+    "postal_code": "79513"
   },
   {
     "code": "6109012015",
     "district_code": "610901",
-    "name": "Ensalang"
+    "name": "Ensalang",
+    "postal_code": "79516"
   },
   {
     "code": "6109012016",
     "district_code": "610901",
-    "name": "Bokak Sebumbun"
+    "name": "Bokak Sebumbun",
+    "postal_code": "79582"
   },
   {
     "code": "6109012017",
     "district_code": "610901",
-    "name": "Selalong"
+    "name": "Selalong",
+    "postal_code": "79582"
   },
   {
     "code": "6109012018",
     "district_code": "610901",
-    "name": "Sempulau Indah"
+    "name": "Sempulau Indah",
+    "postal_code": "79514"
   },
   {
     "code": "6109012019",
     "district_code": "610901",
-    "name": "Tigur Jaya"
+    "name": "Tigur Jaya",
+    "postal_code": "79514"
   },
   {
     "code": "6109012020",
     "district_code": "610901",
-    "name": "Beringkai Raya"
+    "name": "Beringkai Raya",
+    "postal_code": "79514"
   }
 ]

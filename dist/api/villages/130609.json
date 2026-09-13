@@ -2,16 +2,19 @@
   {
     "code": "1306092001",
     "district_code": "130609",
-    "name": "Koto Tangah"
+    "name": "Koto Tangah",
+    "postal_code": "26153"
   },
   {
     "code": "1306092003",
     "district_code": "130609",
-    "name": "Gadut"
+    "name": "Gadut",
+    "postal_code": "26153"
   },
   {
     "code": "1306092004",
     "district_code": "130609",
-    "name": "Kapau"
+    "name": "Kapau",
+    "postal_code": "26153"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "3205322001",
     "district_code": "320532",
-    "name": "Mekarmukti"
+    "name": "Mekarmukti",
+    "postal_code": "44155"
   },
   {
     "code": "3205322002",
     "district_code": "320532",
-    "name": "Karangwangi"
+    "name": "Karangwangi",
+    "postal_code": "44155"
   },
   {
     "code": "3205322003",
     "district_code": "320532",
-    "name": "Jayabaya"
+    "name": "Jayabaya",
+    "postal_code": "44155"
   },
   {
     "code": "3205322004",
     "district_code": "320532",
-    "name": "Cijayana"
+    "name": "Cijayana",
+    "postal_code": "44155"
   },
   {
     "code": "3205322005",
     "district_code": "320532",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "44155"
   }
 ]

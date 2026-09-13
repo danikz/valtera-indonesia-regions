@@ -2,56 +2,67 @@
   {
     "code": "7202041001",
     "district_code": "720204",
-    "name": "Tentena"
+    "name": "Tentena",
+    "postal_code": "94663"
   },
   {
     "code": "7202041006",
     "district_code": "720204",
-    "name": "Pamona"
+    "name": "Pamona",
+    "postal_code": "94663"
   },
   {
     "code": "7202041008",
     "district_code": "720204",
-    "name": "Sangele"
+    "name": "Sangele",
+    "postal_code": "94663"
   },
   {
     "code": "7202042003",
     "district_code": "720204",
-    "name": "Tonusu"
+    "name": "Tonusu",
+    "postal_code": "94663"
   },
   {
     "code": "7202042004",
     "district_code": "720204",
-    "name": "Mayakeli"
+    "name": "Mayakeli",
+    "postal_code": "94663"
   },
   {
     "code": "7202042005",
     "district_code": "720204",
-    "name": "Buyumpondoli"
+    "name": "Buyumpondoli",
+    "postal_code": "94663"
   },
   {
     "code": "7202042009",
     "district_code": "720204",
-    "name": "Peura"
+    "name": "Peura",
+    "postal_code": "94663"
   },
   {
     "code": "7202042010",
     "district_code": "720204",
-    "name": "Dulumai"
+    "name": "Dulumai",
+    "postal_code": "94663"
   },
   {
     "code": "7202042019",
     "district_code": "720204",
-    "name": "Soe"
+    "name": "Soe",
+    "postal_code": "94663"
   },
   {
     "code": "7202042021",
     "district_code": "720204",
-    "name": "Leboni"
+    "name": "Leboni",
+    "postal_code": "94663"
   },
   {
     "code": "7202042022",
     "district_code": "720204",
-    "name": "Wera"
+    "name": "Wera",
+    "postal_code": "94663"
   }
 ]

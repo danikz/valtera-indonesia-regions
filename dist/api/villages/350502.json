@@ -2,61 +2,73 @@
   {
     "code": "3505022001",
     "district_code": "350502",
-    "name": "Jati"
+    "name": "Jati",
+    "postal_code": "66154"
   },
   {
     "code": "3505022002",
     "district_code": "350502",
-    "name": "Temenggungan"
+    "name": "Temenggungan",
+    "postal_code": "66154"
   },
   {
     "code": "3505022003",
     "district_code": "350502",
-    "name": "Besuki"
+    "name": "Besuki",
+    "postal_code": "66154"
   },
   {
     "code": "3505022004",
     "district_code": "350502",
-    "name": "Tunjung"
+    "name": "Tunjung",
+    "postal_code": "66154"
   },
   {
     "code": "3505022005",
     "district_code": "350502",
-    "name": "Bakung"
+    "name": "Bakung",
+    "postal_code": "66154"
   },
   {
     "code": "3505022006",
     "district_code": "350502",
-    "name": "Mangunan"
+    "name": "Mangunan",
+    "postal_code": "66154"
   },
   {
     "code": "3505022007",
     "district_code": "350502",
-    "name": "Karanggondang"
+    "name": "Karanggondang",
+    "postal_code": "66154"
   },
   {
     "code": "3505022008",
     "district_code": "350502",
-    "name": "Ringinanom"
+    "name": "Ringinanom",
+    "postal_code": "66154"
   },
   {
     "code": "3505022009",
     "district_code": "350502",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "66154"
   },
   {
     "code": "3505022010",
     "district_code": "350502",
-    "name": "Slemanan"
+    "name": "Slemanan",
+    "postal_code": "66154"
   },
   {
     "code": "3505022011",
     "district_code": "350502",
-    "name": "Sumbersari"
+    "name": "Sumbersari",
+    "postal_code": "66154"
   },
   {
     "code": "3505022012",
     "district_code": "350502",
-    "name": "Bendorejo"
+    "name": "Bendorejo",
+    "postal_code": "66154"
   }
 ]

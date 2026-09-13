@@ -2,21 +2,25 @@
   {
     "code": "9271011001",
     "district_code": "927101",
-    "name": "Remu Utara"
+    "name": "Remu Utara",
+    "postal_code": ""
   },
   {
     "code": "9271011002",
     "district_code": "927101",
-    "name": "Klademak"
+    "name": "Klademak",
+    "postal_code": ""
   },
   {
     "code": "9271011007",
     "district_code": "927101",
-    "name": "Kofkerbu"
+    "name": "Kofkerbu",
+    "postal_code": ""
   },
   {
     "code": "9271011008",
     "district_code": "927101",
-    "name": "Remu"
+    "name": "Remu",
+    "postal_code": ""
   }
 ]

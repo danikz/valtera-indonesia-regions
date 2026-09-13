@@ -2,36 +2,43 @@
   {
     "code": "3210132001",
     "district_code": "321013",
-    "name": "Heuleut"
+    "name": "Heuleut",
+    "postal_code": "45452"
   },
   {
     "code": "3210132002",
     "district_code": "321013",
-    "name": "Kadipaten"
+    "name": "Kadipaten",
+    "postal_code": "45452"
   },
   {
     "code": "3210132003",
     "district_code": "321013",
-    "name": "Babakananyar"
+    "name": "Babakananyar",
+    "postal_code": "45452"
   },
   {
     "code": "3210132004",
     "district_code": "321013",
-    "name": "Karangsambung"
+    "name": "Karangsambung",
+    "postal_code": "45452"
   },
   {
     "code": "3210132005",
     "district_code": "321013",
-    "name": "Liangjulang"
+    "name": "Liangjulang",
+    "postal_code": "45452"
   },
   {
     "code": "3210132006",
     "district_code": "321013",
-    "name": "Pagandon"
+    "name": "Pagandon",
+    "postal_code": "45452"
   },
   {
     "code": "3210132007",
     "district_code": "321013",
-    "name": "Cipaku"
+    "name": "Cipaku",
+    "postal_code": "45452"
   }
 ]

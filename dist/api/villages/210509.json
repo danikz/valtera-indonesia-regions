@@ -2,16 +2,19 @@
   {
     "code": "2105092001",
     "district_code": "210509",
-    "name": "Impol"
+    "name": "Impol",
+    "postal_code": "29792"
   },
   {
     "code": "2105092002",
     "district_code": "210509",
-    "name": "Keramut"
+    "name": "Keramut",
+    "postal_code": "29792"
   },
   {
     "code": "2105092003",
     "district_code": "210509",
-    "name": "Sunggak"
+    "name": "Sunggak",
+    "postal_code": "29792"
   }
 ]

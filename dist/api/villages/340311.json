@@ -2,41 +2,49 @@
   {
     "code": "3403112001",
     "district_code": "340311",
-    "name": "Bohol"
+    "name": "Bohol",
+    "postal_code": "55884"
   },
   {
     "code": "3403112002",
     "district_code": "340311",
-    "name": "Pringombo"
+    "name": "Pringombo",
+    "postal_code": "55884"
   },
   {
     "code": "3403112003",
     "district_code": "340311",
-    "name": "Botodayaan"
+    "name": "Botodayaan",
+    "postal_code": "55884"
   },
   {
     "code": "3403112004",
     "district_code": "340311",
-    "name": "Petir"
+    "name": "Petir",
+    "postal_code": "55884"
   },
   {
     "code": "3403112005",
     "district_code": "340311",
-    "name": "Pucanganom"
+    "name": "Pucanganom",
+    "postal_code": "55884"
   },
   {
     "code": "3403112006",
     "district_code": "340311",
-    "name": "Semugih"
+    "name": "Semugih",
+    "postal_code": "55884"
   },
   {
     "code": "3403112007",
     "district_code": "340311",
-    "name": "Melikan"
+    "name": "Melikan",
+    "postal_code": "55884"
   },
   {
     "code": "3403112008",
     "district_code": "340311",
-    "name": "Karangwuni"
+    "name": "Karangwuni",
+    "postal_code": "55884"
   }
 ]

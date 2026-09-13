@@ -2,51 +2,61 @@
   {
     "code": "7102121005",
     "district_code": "710212",
-    "name": "Sendangan"
+    "name": "Sendangan",
+    "postal_code": "95690"
   },
   {
     "code": "7102121011",
     "district_code": "710212",
-    "name": "Kinali"
+    "name": "Kinali",
+    "postal_code": "95690"
   },
   {
     "code": "7102121019",
     "district_code": "710212",
-    "name": "Sendangan Selatan"
+    "name": "Sendangan Selatan",
+    "postal_code": "95690"
   },
   {
     "code": "7102121020",
     "district_code": "710212",
-    "name": "Sendangan Tengah"
+    "name": "Sendangan Tengah",
+    "postal_code": "95690"
   },
   {
     "code": "7102121028",
     "district_code": "710212",
-    "name": "Uner Satu"
+    "name": "Uner Satu",
+    "postal_code": "95690"
   },
   {
     "code": "7102121029",
     "district_code": "710212",
-    "name": "Kinali Satu"
+    "name": "Kinali Satu",
+    "postal_code": "95690"
   },
   {
     "code": "7102122012",
     "district_code": "710212",
-    "name": "Tondegesan"
+    "name": "Tondegesan",
+    "postal_code": "95690"
   },
   {
     "code": "7102122016",
     "district_code": "710212",
-    "name": "Kanonang Tiga"
+    "name": "Kanonang Tiga",
+    "postal_code": "95690"
   },
   {
     "code": "7102122030",
     "district_code": "710212",
-    "name": "Tondegesan I"
+    "name": "Tondegesan I",
+    "postal_code": "95690"
   },
   {
     "code": "7102122031",
     "district_code": "710212",
-    "name": "Tondegesan II"
+    "name": "Tondegesan II",
+    "postal_code": "95690"
   }
 ]

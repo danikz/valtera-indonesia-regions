@@ -2,81 +2,97 @@
   {
     "code": "3529011015",
     "district_code": "352901",
-    "name": "Kepanjin"
+    "name": "Kepanjin",
+    "postal_code": "69415"
   },
   {
     "code": "3529011016",
     "district_code": "352901",
-    "name": "Pajagalan"
+    "name": "Pajagalan",
+    "postal_code": "69416"
   },
   {
     "code": "3529011017",
     "district_code": "352901",
-    "name": "Bangselok"
+    "name": "Bangselok",
+    "postal_code": "69416"
   },
   {
     "code": "3529011018",
     "district_code": "352901",
-    "name": "Karangduak"
+    "name": "Karangduak",
+    "postal_code": "69417"
   },
   {
     "code": "3529012005",
     "district_code": "352901",
-    "name": "Kolor"
+    "name": "Kolor",
+    "postal_code": "69417"
   },
   {
     "code": "3529012006",
     "district_code": "352901",
-    "name": "Pabian"
+    "name": "Pabian",
+    "postal_code": "69417"
   },
   {
     "code": "3529012007",
     "district_code": "352901",
-    "name": "Marengan Daya"
+    "name": "Marengan Daya",
+    "postal_code": "69417"
   },
   {
     "code": "3529012008",
     "district_code": "352901",
-    "name": "Kacongan"
+    "name": "Kacongan",
+    "postal_code": "69417"
   },
   {
     "code": "3529012009",
     "district_code": "352901",
-    "name": "Paberasan"
+    "name": "Paberasan",
+    "postal_code": "69417"
   },
   {
     "code": "3529012010",
     "district_code": "352901",
-    "name": "Parsanga"
+    "name": "Parsanga",
+    "postal_code": "69417"
   },
   {
     "code": "3529012011",
     "district_code": "352901",
-    "name": "Bangkal"
+    "name": "Bangkal",
+    "postal_code": "69417"
   },
   {
     "code": "3529012012",
     "district_code": "352901",
-    "name": "Kebunan"
+    "name": "Kebunan",
+    "postal_code": "69417"
   },
   {
     "code": "3529012013",
     "district_code": "352901",
-    "name": "Pamolokan"
+    "name": "Pamolokan",
+    "postal_code": "69412"
   },
   {
     "code": "3529012014",
     "district_code": "352901",
-    "name": "Pangarangan"
+    "name": "Pangarangan",
+    "postal_code": "69412"
   },
   {
     "code": "3529012019",
     "district_code": "352901",
-    "name": "Pandian"
+    "name": "Pandian",
+    "postal_code": "69414"
   },
   {
     "code": "3529012020",
     "district_code": "352901",
-    "name": "Kebunagung"
+    "name": "Kebunagung",
+    "postal_code": "69413"
   }
 ]

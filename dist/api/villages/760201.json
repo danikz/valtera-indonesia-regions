@@ -2,41 +2,49 @@
   {
     "code": "7602011002",
     "district_code": "760201",
-    "name": "Binanga"
+    "name": "Binanga",
+    "postal_code": "91511"
   },
   {
     "code": "7602011003",
     "district_code": "760201",
-    "name": "Mamunyu"
+    "name": "Mamunyu",
+    "postal_code": "91511"
   },
   {
     "code": "7602011012",
     "district_code": "760201",
-    "name": "Karema"
+    "name": "Karema",
+    "postal_code": "91515"
   },
   {
     "code": "7602011013",
     "district_code": "760201",
-    "name": "Rimuku"
+    "name": "Rimuku",
+    "postal_code": "91515"
   },
   {
     "code": "7602012005",
     "district_code": "760201",
-    "name": "Bambu"
+    "name": "Bambu",
+    "postal_code": "91514"
   },
   {
     "code": "7602012006",
     "district_code": "760201",
-    "name": "Karampuang"
+    "name": "Karampuang",
+    "postal_code": "91515"
   },
   {
     "code": "7602012010",
     "district_code": "760201",
-    "name": "Tadui"
+    "name": "Tadui",
+    "postal_code": "91511"
   },
   {
     "code": "7602012014",
     "district_code": "760201",
-    "name": "Batu Pannu"
+    "name": "Batu Pannu",
+    "postal_code": "91511"
   }
 ]

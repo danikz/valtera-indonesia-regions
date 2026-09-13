@@ -2,56 +2,67 @@
   {
     "code": "5307092001",
     "district_code": "530709",
-    "name": "Runut"
+    "name": "Runut",
+    "postal_code": "86185"
   },
   {
     "code": "5307092002",
     "district_code": "530709",
-    "name": "Egon"
+    "name": "Egon",
+    "postal_code": "86185"
   },
   {
     "code": "5307092003",
     "district_code": "530709",
-    "name": "Pogon"
+    "name": "Pogon",
+    "postal_code": "86185"
   },
   {
     "code": "5307092004",
     "district_code": "530709",
-    "name": "Aibura"
+    "name": "Aibura",
+    "postal_code": "86185"
   },
   {
     "code": "5307092005",
     "district_code": "530709",
-    "name": "Wairbleler"
+    "name": "Wairbleler",
+    "postal_code": "86185"
   },
   {
     "code": "5307092006",
     "district_code": "530709",
-    "name": "Hoder"
+    "name": "Hoder",
+    "postal_code": "86185"
   },
   {
     "code": "5307092007",
     "district_code": "530709",
-    "name": "Wairterang"
+    "name": "Wairterang",
+    "postal_code": "86185"
   },
   {
     "code": "5307092008",
     "district_code": "530709",
-    "name": "Nangatobong"
+    "name": "Nangatobong",
+    "postal_code": "86185"
   },
   {
     "code": "5307092009",
     "district_code": "530709",
-    "name": "Watudiran"
+    "name": "Watudiran",
+    "postal_code": "86185"
   },
   {
     "code": "5307092010",
     "district_code": "530709",
-    "name": "Mahe Kelan"
+    "name": "Mahe Kelan",
+    "postal_code": "86185"
   },
   {
     "code": "5307092011",
     "district_code": "530709",
-    "name": "Egon Buluk"
+    "name": "Egon Buluk",
+    "postal_code": "86185"
   }
 ]

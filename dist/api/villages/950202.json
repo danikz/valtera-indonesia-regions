@@ -2,61 +2,73 @@
   {
     "code": "9502022001",
     "district_code": "950202",
-    "name": "Oknanggul"
+    "name": "Oknanggul",
+    "postal_code": "99421"
   },
   {
     "code": "9502022002",
     "district_code": "950202",
-    "name": "Kukihil"
+    "name": "Kukihil",
+    "postal_code": "99574"
   },
   {
     "code": "9502022003",
     "district_code": "950202",
-    "name": "Kiwi"
+    "name": "Kiwi",
+    "postal_code": "99574"
   },
   {
     "code": "9502022004",
     "district_code": "950202",
-    "name": "Berusaha"
+    "name": "Berusaha",
+    "postal_code": "99421"
   },
   {
     "code": "9502022005",
     "district_code": "950202",
-    "name": "Pelebib"
+    "name": "Pelebib",
+    "postal_code": "99574"
   },
   {
     "code": "9502022006",
     "district_code": "950202",
-    "name": "Sopamikma"
+    "name": "Sopamikma",
+    "postal_code": "99574"
   },
   {
     "code": "9502022007",
     "district_code": "950202",
-    "name": "Asua"
+    "name": "Asua",
+    "postal_code": "99421"
   },
   {
     "code": "9502022008",
     "district_code": "950202",
-    "name": "Lolim"
+    "name": "Lolim",
+    "postal_code": "99574"
   },
   {
     "code": "9502022009",
     "district_code": "950202",
-    "name": "Pomding"
+    "name": "Pomding",
+    "postal_code": "99574"
   },
   {
     "code": "9502022010",
     "district_code": "950202",
-    "name": "Diip"
+    "name": "Diip",
+    "postal_code": "99421"
   },
   {
     "code": "9502022011",
     "district_code": "950202",
-    "name": "Delpem"
+    "name": "Delpem",
+    "postal_code": "99574"
   },
   {
     "code": "9502022012",
     "district_code": "950202",
-    "name": "Mangoldoki"
+    "name": "Mangoldoki",
+    "postal_code": "99574"
   }
 ]

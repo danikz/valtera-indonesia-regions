@@ -2,51 +2,61 @@
   {
     "code": "8101112011",
     "district_code": "810111",
-    "name": "Telutih Baru"
+    "name": "Telutih Baru",
+    "postal_code": "97519"
   },
   {
     "code": "8101112012",
     "district_code": "810111",
-    "name": "Mosso"
+    "name": "Mosso",
+    "postal_code": "97519"
   },
   {
     "code": "8101112013",
     "district_code": "810111",
-    "name": "Hatumete"
+    "name": "Hatumete",
+    "postal_code": "97519"
   },
   {
     "code": "8101112014",
     "district_code": "810111",
-    "name": "Hatu"
+    "name": "Hatu",
+    "postal_code": "97519"
   },
   {
     "code": "8101112015",
     "district_code": "810111",
-    "name": "Piliana"
+    "name": "Piliana",
+    "postal_code": "97519"
   },
   {
     "code": "8101112016",
     "district_code": "810111",
-    "name": "Yaputih"
+    "name": "Yaputih",
+    "postal_code": "97519"
   },
   {
     "code": "8101112017",
     "district_code": "810111",
-    "name": "Saunulu"
+    "name": "Saunulu",
+    "postal_code": "97519"
   },
   {
     "code": "8101112018",
     "district_code": "810111",
-    "name": "Tehoru"
+    "name": "Tehoru",
+    "postal_code": "97519"
   },
   {
     "code": "8101112019",
     "district_code": "810111",
-    "name": "Haya"
+    "name": "Haya",
+    "postal_code": "97519"
   },
   {
     "code": "8101112020",
     "district_code": "810111",
-    "name": "Salamahu"
+    "name": "Salamahu",
+    "postal_code": "97519"
   }
 ]

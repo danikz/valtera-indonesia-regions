@@ -2,46 +2,55 @@
   {
     "code": "3511102001",
     "district_code": "351110",
-    "name": "Wonokusumo"
+    "name": "Wonokusumo",
+    "postal_code": "68283"
   },
   {
     "code": "3511102002",
     "district_code": "351110",
-    "name": "Mangli Wetan"
+    "name": "Mangli Wetan",
+    "postal_code": "68283"
   },
   {
     "code": "3511102003",
     "district_code": "351110",
-    "name": "Taal"
+    "name": "Taal",
+    "postal_code": "68283"
   },
   {
     "code": "3511102004",
     "district_code": "351110",
-    "name": "Mrawan"
+    "name": "Mrawan",
+    "postal_code": "68283"
   },
   {
     "code": "3511102005",
     "district_code": "351110",
-    "name": "Gunung Anyar"
+    "name": "Gunung Anyar",
+    "postal_code": "68283"
   },
   {
     "code": "3511102006",
     "district_code": "351110",
-    "name": "Jurang Sapi"
+    "name": "Jurang Sapi",
+    "postal_code": "68283"
   },
   {
     "code": "3511102007",
     "district_code": "351110",
-    "name": "Cindogo"
+    "name": "Cindogo",
+    "postal_code": "68283"
   },
   {
     "code": "3511102008",
     "district_code": "351110",
-    "name": "Kalitapen"
+    "name": "Kalitapen",
+    "postal_code": "68283"
   },
   {
     "code": "3511102009",
     "district_code": "351110",
-    "name": "Tapen"
+    "name": "Tapen",
+    "postal_code": "68283"
   }
 ]

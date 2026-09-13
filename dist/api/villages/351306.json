@@ -2,71 +2,85 @@
   {
     "code": "3513062001",
     "district_code": "351306",
-    "name": "Sentulan"
+    "name": "Sentulan",
+    "postal_code": "67275"
   },
   {
     "code": "3513062002",
     "district_code": "351306",
-    "name": "Gadingkulon"
+    "name": "Gadingkulon",
+    "postal_code": "67275"
   },
   {
     "code": "3513062003",
     "district_code": "351306",
-    "name": "Klenangkidul"
+    "name": "Klenangkidul",
+    "postal_code": "67275"
   },
   {
     "code": "3513062004",
     "district_code": "351306",
-    "name": "Klenanglor"
+    "name": "Klenanglor",
+    "postal_code": "67275"
   },
   {
     "code": "3513062005",
     "district_code": "351306",
-    "name": "Alassapi"
+    "name": "Alassapi",
+    "postal_code": "67275"
   },
   {
     "code": "3513062006",
     "district_code": "351306",
-    "name": "Pendil"
+    "name": "Pendil",
+    "postal_code": "67275"
   },
   {
     "code": "3513062007",
     "district_code": "351306",
-    "name": "Tarokan"
+    "name": "Tarokan",
+    "postal_code": "67275"
   },
   {
     "code": "3513062008",
     "district_code": "351306",
-    "name": "Liprak Wetan"
+    "name": "Liprak Wetan",
+    "postal_code": "67275"
   },
   {
     "code": "3513062009",
     "district_code": "351306",
-    "name": "Liprak Kidul"
+    "name": "Liprak Kidul",
+    "postal_code": "67275"
   },
   {
     "code": "3513062010",
     "district_code": "351306",
-    "name": "Liprak Kulon"
+    "name": "Liprak Kulon",
+    "postal_code": "67275"
   },
   {
     "code": "3513062011",
     "district_code": "351306",
-    "name": "Banyuanyar Tengah"
+    "name": "Banyuanyar Tengah",
+    "postal_code": "67275"
   },
   {
     "code": "3513062012",
     "district_code": "351306",
-    "name": "Banyuanyar Kidul"
+    "name": "Banyuanyar Kidul",
+    "postal_code": "67275"
   },
   {
     "code": "3513062013",
     "district_code": "351306",
-    "name": "Gununggeni"
+    "name": "Gununggeni",
+    "postal_code": "67275"
   },
   {
     "code": "3513062014",
     "district_code": "351306",
-    "name": "Blado Wetan"
+    "name": "Blado Wetan",
+    "postal_code": "67275"
   }
 ]

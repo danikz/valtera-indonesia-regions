@@ -2,31 +2,37 @@
   {
     "code": "1209312001",
     "district_code": "120931",
-    "name": "Air Teluk Kiri"
+    "name": "Air Teluk Kiri",
+    "postal_code": "21270"
   },
   {
     "code": "1209312002",
     "district_code": "120931",
-    "name": "Teluk Dalam"
+    "name": "Teluk Dalam",
+    "postal_code": "21270"
   },
   {
     "code": "1209312003",
     "district_code": "120931",
-    "name": "Perkebunan Teluk Dalam"
+    "name": "Perkebunan Teluk Dalam",
+    "postal_code": "21270"
   },
   {
     "code": "1209312004",
     "district_code": "120931",
-    "name": "Pulau Maria"
+    "name": "Pulau Maria",
+    "postal_code": "21270"
   },
   {
     "code": "1209312005",
     "district_code": "120931",
-    "name": "Pulau Tanjung"
+    "name": "Pulau Tanjung",
+    "postal_code": "21270"
   },
   {
     "code": "1209312006",
     "district_code": "120931",
-    "name": "Mekar Tanjung"
+    "name": "Mekar Tanjung",
+    "postal_code": "21270"
   }
 ]

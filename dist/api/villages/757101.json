@@ -2,36 +2,43 @@
   {
     "code": "7571011001",
     "district_code": "757101",
-    "name": "Dembe I"
+    "name": "Dembe I",
+    "postal_code": "96131"
   },
   {
     "code": "7571011002",
     "district_code": "757101",
-    "name": "Lekobalo"
+    "name": "Lekobalo",
+    "postal_code": "96131"
   },
   {
     "code": "7571011003",
     "district_code": "757101",
-    "name": "Pilolodaa"
+    "name": "Pilolodaa",
+    "postal_code": "96132"
   },
   {
     "code": "7571011004",
     "district_code": "757101",
-    "name": "Buliide"
+    "name": "Buliide",
+    "postal_code": "96133"
   },
   {
     "code": "7571011005",
     "district_code": "757101",
-    "name": "Tenilo"
+    "name": "Tenilo",
+    "postal_code": "96133"
   },
   {
     "code": "7571011006",
     "district_code": "757101",
-    "name": "Molosipat W"
+    "name": "Molosipat W",
+    "postal_code": "96134"
   },
   {
     "code": "7571011008",
     "district_code": "757101",
-    "name": "Buladu"
+    "name": "Buladu",
+    "postal_code": "96136"
   }
 ]

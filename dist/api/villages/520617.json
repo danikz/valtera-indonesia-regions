@@ -2,31 +2,37 @@
   {
     "code": "5206172001",
     "district_code": "520617",
-    "name": "Kabaro"
+    "name": "Kabaro",
+    "postal_code": "84181"
   },
   {
     "code": "5206172002",
     "district_code": "520617",
-    "name": "Kuta"
+    "name": "Kuta",
+    "postal_code": "84181"
   },
   {
     "code": "5206172003",
     "district_code": "520617",
-    "name": "Sambori"
+    "name": "Sambori",
+    "postal_code": "84181"
   },
   {
     "code": "5206172004",
     "district_code": "520617",
-    "name": "Teta"
+    "name": "Teta",
+    "postal_code": "84181"
   },
   {
     "code": "5206172005",
     "district_code": "520617",
-    "name": "Ka'owa"
+    "name": "Ka'owa",
+    "postal_code": "84181"
   },
   {
     "code": "5206172006",
     "district_code": "520617",
-    "name": "Londu"
+    "name": "Londu",
+    "postal_code": "84181"
   }
 ]

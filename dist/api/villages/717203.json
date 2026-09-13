@@ -2,56 +2,67 @@
   {
     "code": "7172031001",
     "district_code": "717203",
-    "name": "Karondoran"
+    "name": "Karondoran",
+    "postal_code": "95536"
   },
   {
     "code": "7172031002",
     "district_code": "717203",
-    "name": "Kumeresot"
+    "name": "Kumeresot",
+    "postal_code": "95538"
   },
   {
     "code": "7172031004",
     "district_code": "717203",
-    "name": "Pinokalan"
+    "name": "Pinokalan",
+    "postal_code": "95531"
   },
   {
     "code": "7172031005",
     "district_code": "717203",
-    "name": "Tewaan"
+    "name": "Tewaan",
+    "postal_code": "95532"
   },
   {
     "code": "7172031006",
     "district_code": "717203",
-    "name": "Danowudu"
+    "name": "Danowudu",
+    "postal_code": "95533"
   },
   {
     "code": "7172031007",
     "district_code": "717203",
-    "name": "Duasadara"
+    "name": "Duasadara",
+    "postal_code": "95531"
   },
   {
     "code": "7172031008",
     "district_code": "717203",
-    "name": "Apela Dua"
+    "name": "Apela Dua",
+    "postal_code": "95537"
   },
   {
     "code": "7172031009",
     "district_code": "717203",
-    "name": "Apela Satu"
+    "name": "Apela Satu",
+    "postal_code": "95537"
   },
   {
     "code": "7172031010",
     "district_code": "717203",
-    "name": "Pinasungkulan"
+    "name": "Pinasungkulan",
+    "postal_code": "95535"
   },
   {
     "code": "7172031011",
     "district_code": "717203",
-    "name": "Batuputih Atas"
+    "name": "Batuputih Atas",
+    "postal_code": "95535"
   },
   {
     "code": "7172031012",
     "district_code": "717203",
-    "name": "Batuputih Bawah"
+    "name": "Batuputih Bawah",
+    "postal_code": "95535"
   }
 ]

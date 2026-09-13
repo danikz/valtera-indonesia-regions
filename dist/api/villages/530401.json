@@ -2,46 +2,55 @@
   {
     "code": "5304012001",
     "district_code": "530401",
-    "name": "Kewar"
+    "name": "Kewar",
+    "postal_code": "85772"
   },
   {
     "code": "5304012002",
     "district_code": "530401",
-    "name": "Fulur"
+    "name": "Fulur",
+    "postal_code": "85772"
   },
   {
     "code": "5304012004",
     "district_code": "530401",
-    "name": "Duarato"
+    "name": "Duarato",
+    "postal_code": "85772"
   },
   {
     "code": "5304012005",
     "district_code": "530401",
-    "name": "Makir"
+    "name": "Makir",
+    "postal_code": "85772"
   },
   {
     "code": "5304012006",
     "district_code": "530401",
-    "name": "Lamaksenulu"
+    "name": "Lamaksenulu",
+    "postal_code": "85772"
   },
   {
     "code": "5304012008",
     "district_code": "530401",
-    "name": "Dirun"
+    "name": "Dirun",
+    "postal_code": "85772"
   },
   {
     "code": "5304012009",
     "district_code": "530401",
-    "name": "Leowalu"
+    "name": "Leowalu",
+    "postal_code": "85772"
   },
   {
     "code": "5304012014",
     "district_code": "530401",
-    "name": "Maudemu"
+    "name": "Maudemu",
+    "postal_code": "85772"
   },
   {
     "code": "5304012015",
     "district_code": "530401",
-    "name": "Mahuitas"
+    "name": "Mahuitas",
+    "postal_code": "85772"
   }
 ]

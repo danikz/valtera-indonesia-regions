@@ -2,61 +2,73 @@
   {
     "code": "3315121001",
     "district_code": "331512",
-    "name": "Grobogan"
+    "name": "Grobogan",
+    "postal_code": "58152"
   },
   {
     "code": "3315122002",
     "district_code": "331512",
-    "name": "Getasrejo"
+    "name": "Getasrejo",
+    "postal_code": "58152"
   },
   {
     "code": "3315122003",
     "district_code": "331512",
-    "name": "Rejosari"
+    "name": "Rejosari",
+    "postal_code": "58152"
   },
   {
     "code": "3315122004",
     "district_code": "331512",
-    "name": "Tanggungharjo"
+    "name": "Tanggungharjo",
+    "postal_code": "58152"
   },
   {
     "code": "3315122005",
     "district_code": "331512",
-    "name": "Teguhan"
+    "name": "Teguhan",
+    "postal_code": "58152"
   },
   {
     "code": "3315122006",
     "district_code": "331512",
-    "name": "Ngabenrejo"
+    "name": "Ngabenrejo",
+    "postal_code": "58152"
   },
   {
     "code": "3315122007",
     "district_code": "331512",
-    "name": "Karangrejo"
+    "name": "Karangrejo",
+    "postal_code": "58152"
   },
   {
     "code": "3315122008",
     "district_code": "331512",
-    "name": "Putatsari"
+    "name": "Putatsari",
+    "postal_code": "58152"
   },
   {
     "code": "3315122009",
     "district_code": "331512",
-    "name": "Lebak"
+    "name": "Lebak",
+    "postal_code": "58152"
   },
   {
     "code": "3315122010",
     "district_code": "331512",
-    "name": "Lebengjumuk"
+    "name": "Lebengjumuk",
+    "postal_code": "58152"
   },
   {
     "code": "3315122011",
     "district_code": "331512",
-    "name": "Sedayu"
+    "name": "Sedayu",
+    "postal_code": "58152"
   },
   {
     "code": "3315122012",
     "district_code": "331512",
-    "name": "Sumberjatipohon"
+    "name": "Sumberjatipohon",
+    "postal_code": "58152"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1571011001",
     "district_code": "157101",
-    "name": "Simpang IV Sipin"
+    "name": "Simpang IV Sipin",
+    "postal_code": "36124"
   },
   {
     "code": "1571011002",
     "district_code": "157101",
-    "name": "Buluran Kenali"
+    "name": "Buluran Kenali",
+    "postal_code": "36123"
   },
   {
     "code": "1571011003",
     "district_code": "157101",
-    "name": "Teluk Kenali"
+    "name": "Teluk Kenali",
+    "postal_code": "36123"
   },
   {
     "code": "1571011004",
     "district_code": "157101",
-    "name": "Telanaipura"
+    "name": "Telanaipura",
+    "postal_code": "36122"
   },
   {
     "code": "1571011010",
     "district_code": "157101",
-    "name": "Penyengat Rendah"
+    "name": "Penyengat Rendah",
+    "postal_code": "36124"
   },
   {
     "code": "1571011011",
     "district_code": "157101",
-    "name": "Pematang Sulur"
+    "name": "Pematang Sulur",
+    "postal_code": "36129"
   },
   {
     "code": "1571011012",
     "district_code": "157101",
-    "name": "Alur Kenali"
+    "name": "Alur Kenali",
+    "postal_code": "36129"
   }
 ]

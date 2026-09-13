@@ -2,26 +2,31 @@
   {
     "code": "9502292001",
     "district_code": "950229",
-    "name": "Mot"
+    "name": "Mot",
+    "postal_code": "99443"
   },
   {
     "code": "9502292002",
     "district_code": "950229",
-    "name": "Milki"
+    "name": "Milki",
+    "postal_code": "99443"
   },
   {
     "code": "9502292003",
     "district_code": "950229",
-    "name": "Yubu"
+    "name": "Yubu",
+    "postal_code": "99443"
   },
   {
     "code": "9502292004",
     "district_code": "950229",
-    "name": "Muara Asbi"
+    "name": "Muara Asbi",
+    "postal_code": "99443"
   },
   {
     "code": "9502292005",
     "district_code": "950229",
-    "name": "Tual"
+    "name": "Tual",
+    "postal_code": "99443"
   }
 ]

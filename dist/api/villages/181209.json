@@ -2,51 +2,61 @@
   {
     "code": "1812092001",
     "district_code": "181209",
-    "name": "Panca Marga"
+    "name": "Panca Marga",
+    "postal_code": "34785"
   },
   {
     "code": "1812092002",
     "district_code": "181209",
-    "name": "Sido Makmur"
+    "name": "Sido Makmur",
+    "postal_code": "34785"
   },
   {
     "code": "1812092003",
     "district_code": "181209",
-    "name": "Sakti Jaya"
+    "name": "Sakti Jaya",
+    "postal_code": "34785"
   },
   {
     "code": "1812092004",
     "district_code": "181209",
-    "name": "Margo Mulya"
+    "name": "Margo Mulya",
+    "postal_code": "34785"
   },
   {
     "code": "1812092005",
     "district_code": "181209",
-    "name": "Margo Dadi"
+    "name": "Margo Dadi",
+    "postal_code": "34785"
   },
   {
     "code": "1812092006",
     "district_code": "181209",
-    "name": "Marga Sari"
+    "name": "Marga Sari",
+    "postal_code": "34785"
   },
   {
     "code": "1812092007",
     "district_code": "181209",
-    "name": "Mulyo Sari"
+    "name": "Mulyo Sari",
+    "postal_code": "34785"
   },
   {
     "code": "1812092008",
     "district_code": "181209",
-    "name": "Toto Katon"
+    "name": "Toto Katon",
+    "postal_code": "34785"
   },
   {
     "code": "1812092009",
     "district_code": "181209",
-    "name": "Toto Makmur"
+    "name": "Toto Makmur",
+    "postal_code": "34785"
   },
   {
     "code": "1812092010",
     "district_code": "181209",
-    "name": "Toto Wonodadi"
+    "name": "Toto Wonodadi",
+    "postal_code": "34785"
   }
 ]

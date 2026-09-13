@@ -2,51 +2,61 @@
   {
     "code": "7201201002",
     "district_code": "720120",
-    "name": "Simpong"
+    "name": "Simpong",
+    "postal_code": "94717"
   },
   {
     "code": "7201201003",
     "district_code": "720120",
-    "name": "Hanga Hanga"
+    "name": "Hanga Hanga",
+    "postal_code": "94717"
   },
   {
     "code": "7201201004",
     "district_code": "720120",
-    "name": "Jole"
+    "name": "Jole",
+    "postal_code": "94717"
   },
   {
     "code": "7201201005",
     "district_code": "720120",
-    "name": "Hanga-Hanga Permai"
+    "name": "Hanga-Hanga Permai",
+    "postal_code": "94717"
   },
   {
     "code": "7201201006",
     "district_code": "720120",
-    "name": "Kompo"
+    "name": "Kompo",
+    "postal_code": "94717"
   },
   {
     "code": "7201201007",
     "district_code": "720120",
-    "name": "Bukit Mambual"
+    "name": "Bukit Mambual",
+    "postal_code": "94717"
   },
   {
     "code": "7201201008",
     "district_code": "720120",
-    "name": "Tombang Permai"
+    "name": "Tombang Permai",
+    "postal_code": "94717"
   },
   {
     "code": "7201201009",
     "district_code": "720120",
-    "name": "Maahas"
+    "name": "Maahas",
+    "postal_code": "94717"
   },
   {
     "code": "7201201010",
     "district_code": "720120",
-    "name": "Tanjung Tuwis"
+    "name": "Tanjung Tuwis",
+    "postal_code": "94717"
   },
   {
     "code": "7201202001",
     "district_code": "720120",
-    "name": "Bubung"
+    "name": "Bubung",
+    "postal_code": "94717"
   }
 ]

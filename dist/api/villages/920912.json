@@ -2,56 +2,67 @@
   {
     "code": "9209122001",
     "district_code": "920912",
-    "name": "Arfu"
+    "name": "Arfu",
+    "postal_code": ""
   },
   {
     "code": "9209122002",
     "district_code": "920912",
-    "name": "Bawey"
+    "name": "Bawey",
+    "postal_code": ""
   },
   {
     "code": "9209122003",
     "district_code": "920912",
-    "name": "Wasnembri"
+    "name": "Wasnembri",
+    "postal_code": ""
   },
   {
     "code": "9209122004",
     "district_code": "920912",
-    "name": "Waru"
+    "name": "Waru",
+    "postal_code": ""
   },
   {
     "code": "9209122005",
     "district_code": "920912",
-    "name": "Atori"
+    "name": "Atori",
+    "postal_code": ""
   },
   {
     "code": "9209122006",
     "district_code": "920912",
-    "name": "Meriambeker"
+    "name": "Meriambeker",
+    "postal_code": ""
   },
   {
     "code": "9209122007",
     "district_code": "920912",
-    "name": "Bijamfou"
+    "name": "Bijamfou",
+    "postal_code": ""
   },
   {
     "code": "9209122015",
     "district_code": "920912",
-    "name": "Warokon"
+    "name": "Warokon",
+    "postal_code": ""
   },
   {
     "code": "9209122016",
     "district_code": "920912",
-    "name": "Arekon"
+    "name": "Arekon",
+    "postal_code": ""
   },
   {
     "code": "9209122017",
     "district_code": "920912",
-    "name": "Bonpaya"
+    "name": "Bonpaya",
+    "postal_code": ""
   },
   {
     "code": "9209122018",
     "district_code": "920912",
-    "name": "Marbuan"
+    "name": "Marbuan",
+    "postal_code": ""
   }
 ]

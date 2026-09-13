@@ -2,26 +2,31 @@
   {
     "code": "6103062001",
     "district_code": "610306",
-    "name": "Kasro Mego"
+    "name": "Kasro Mego",
+    "postal_code": "78555"
   },
   {
     "code": "6103062002",
     "district_code": "610306",
-    "name": "Bereng Berkawat"
+    "name": "Bereng Berkawat",
+    "postal_code": "78555"
   },
   {
     "code": "6103062003",
     "district_code": "610306",
-    "name": "Sungai Ilai"
+    "name": "Sungai Ilai",
+    "postal_code": "78555"
   },
   {
     "code": "6103062004",
     "district_code": "610306",
-    "name": "Thang Raya"
+    "name": "Thang Raya",
+    "postal_code": "78555"
   },
   {
     "code": "6103062005",
     "district_code": "610306",
-    "name": "Mawang Muda"
+    "name": "Mawang Muda",
+    "postal_code": "78555"
   }
 ]

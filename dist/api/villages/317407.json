@@ -2,51 +2,61 @@
   {
     "code": "3174071001",
     "district_code": "317407",
-    "name": "Melawai"
+    "name": "Melawai",
+    "postal_code": "12160"
   },
   {
     "code": "3174071002",
     "district_code": "317407",
-    "name": "Gunung"
+    "name": "Gunung",
+    "postal_code": "12120"
   },
   {
     "code": "3174071003",
     "district_code": "317407",
-    "name": "Kramat Pela"
+    "name": "Kramat Pela",
+    "postal_code": "12130"
   },
   {
     "code": "3174071004",
     "district_code": "317407",
-    "name": "Selong"
+    "name": "Selong",
+    "postal_code": "12110"
   },
   {
     "code": "3174071005",
     "district_code": "317407",
-    "name": "Rawa Barat"
+    "name": "Rawa Barat",
+    "postal_code": "12180"
   },
   {
     "code": "3174071006",
     "district_code": "317407",
-    "name": "Senayan"
+    "name": "Senayan",
+    "postal_code": "12190"
   },
   {
     "code": "3174071007",
     "district_code": "317407",
-    "name": "Pulo"
+    "name": "Pulo",
+    "postal_code": "12160"
   },
   {
     "code": "3174071008",
     "district_code": "317407",
-    "name": "Petogogan"
+    "name": "Petogogan",
+    "postal_code": "12170"
   },
   {
     "code": "3174071009",
     "district_code": "317407",
-    "name": "Gandaria Utara"
+    "name": "Gandaria Utara",
+    "postal_code": "12140"
   },
   {
     "code": "3174071010",
     "district_code": "317407",
-    "name": "Cipete Utara"
+    "name": "Cipete Utara",
+    "postal_code": "12150"
   }
 ]

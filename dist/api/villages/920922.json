@@ -2,36 +2,43 @@
   {
     "code": "9209222001",
     "district_code": "920922",
-    "name": "Wausin"
+    "name": "Wausin",
+    "postal_code": ""
   },
   {
     "code": "9209222002",
     "district_code": "920922",
-    "name": "Asiti"
+    "name": "Asiti",
+    "postal_code": ""
   },
   {
     "code": "9209222003",
     "district_code": "920922",
-    "name": "Bisaud"
+    "name": "Bisaud",
+    "postal_code": ""
   },
   {
     "code": "9209222004",
     "district_code": "920922",
-    "name": "Wufmana"
+    "name": "Wufmana",
+    "postal_code": ""
   },
   {
     "code": "9209222005",
     "district_code": "920922",
-    "name": "Nisandauw"
+    "name": "Nisandauw",
+    "postal_code": ""
   },
   {
     "code": "9209222006",
     "district_code": "920922",
-    "name": "Afrawi"
+    "name": "Afrawi",
+    "postal_code": ""
   },
   {
     "code": "9209222007",
     "district_code": "920922",
-    "name": "Ajokwapi"
+    "name": "Ajokwapi",
+    "postal_code": ""
   }
 ]

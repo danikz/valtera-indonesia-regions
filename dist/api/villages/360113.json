@@ -2,61 +2,73 @@
   {
     "code": "3601132001",
     "district_code": "360113",
-    "name": "Alaswangi"
+    "name": "Alaswangi",
+    "postal_code": "42262"
   },
   {
     "code": "3601132002",
     "district_code": "360113",
-    "name": "Tegalwangi"
+    "name": "Tegalwangi",
+    "postal_code": "42262"
   },
   {
     "code": "3601132003",
     "district_code": "360113",
-    "name": "Kananga"
+    "name": "Kananga",
+    "postal_code": "42262"
   },
   {
     "code": "3601132004",
     "district_code": "360113",
-    "name": "Cigandeng"
+    "name": "Cigandeng",
+    "postal_code": "42262"
   },
   {
     "code": "3601132005",
     "district_code": "360113",
-    "name": "Menes"
+    "name": "Menes",
+    "postal_code": "42262"
   },
   {
     "code": "3601132006",
     "district_code": "360113",
-    "name": "Muruy"
+    "name": "Muruy",
+    "postal_code": "42262"
   },
   {
     "code": "3601132010",
     "district_code": "360113",
-    "name": "Sukamanah"
+    "name": "Sukamanah",
+    "postal_code": "42262"
   },
   {
     "code": "3601132011",
     "district_code": "360113",
-    "name": "Purwaraja"
+    "name": "Purwaraja",
+    "postal_code": "42262"
   },
   {
     "code": "3601132012",
     "district_code": "360113",
-    "name": "Sindangkarya"
+    "name": "Sindangkarya",
+    "postal_code": "42262"
   },
   {
     "code": "3601132013",
     "district_code": "360113",
-    "name": "Cilabanbulan"
+    "name": "Cilabanbulan",
+    "postal_code": "42262"
   },
   {
     "code": "3601132015",
     "district_code": "360113",
-    "name": "Kadupayung"
+    "name": "Kadupayung",
+    "postal_code": "42262"
   },
   {
     "code": "3601132016",
     "district_code": "360113",
-    "name": "Ramaya"
+    "name": "Ramaya",
+    "postal_code": "42262"
   }
 ]

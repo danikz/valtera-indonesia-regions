@@ -2,56 +2,67 @@
   {
     "code": "3312061004",
     "district_code": "331206",
-    "name": "Kedungrejo"
+    "name": "Kedungrejo",
+    "postal_code": "57671"
   },
   {
     "code": "3312061008",
     "district_code": "331206",
-    "name": "Beji"
+    "name": "Beji",
+    "postal_code": "57671"
   },
   {
     "code": "3312062001",
     "district_code": "331206",
-    "name": "Wonoharjo"
+    "name": "Wonoharjo",
+    "postal_code": "57671"
   },
   {
     "code": "3312062002",
     "district_code": "331206",
-    "name": "Bulurejo"
+    "name": "Bulurejo",
+    "postal_code": "57671"
   },
   {
     "code": "3312062003",
     "district_code": "331206",
-    "name": "Kulurejo"
+    "name": "Kulurejo",
+    "postal_code": "57671"
   },
   {
     "code": "3312062005",
     "district_code": "331206",
-    "name": "Semin"
+    "name": "Semin",
+    "postal_code": "57671"
   },
   {
     "code": "3312062006",
     "district_code": "331206",
-    "name": "Bumiharjo"
+    "name": "Bumiharjo",
+    "postal_code": "57671"
   },
   {
     "code": "3312062007",
     "district_code": "331206",
-    "name": "Gebang"
+    "name": "Gebang",
+    "postal_code": "57671"
   },
   {
     "code": "3312062009",
     "district_code": "331206",
-    "name": "Pondoksari"
+    "name": "Pondoksari",
+    "postal_code": "57671"
   },
   {
     "code": "3312062010",
     "district_code": "331206",
-    "name": "Ngadiroyo"
+    "name": "Ngadiroyo",
+    "postal_code": "57671"
   },
   {
     "code": "3312062011",
     "district_code": "331206",
-    "name": "Ngadipiro"
+    "name": "Ngadipiro",
+    "postal_code": "57671"
   }
 ]

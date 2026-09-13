@@ -2,56 +2,67 @@
   {
     "code": "3529032001",
     "district_code": "352903",
-    "name": "Kasengan"
+    "name": "Kasengan",
+    "postal_code": "69452"
   },
   {
     "code": "3529032002",
     "district_code": "352903",
-    "name": "Lalangon"
+    "name": "Lalangon",
+    "postal_code": "69452"
   },
   {
     "code": "3529032003",
     "district_code": "352903",
-    "name": "Tenonan"
+    "name": "Tenonan",
+    "postal_code": "69452"
   },
   {
     "code": "3529032004",
     "district_code": "352903",
-    "name": "Lanjuk"
+    "name": "Lanjuk",
+    "postal_code": "69452"
   },
   {
     "code": "3529032005",
     "district_code": "352903",
-    "name": "Gadding"
+    "name": "Gadding",
+    "postal_code": "69452"
   },
   {
     "code": "3529032006",
     "district_code": "352903",
-    "name": "Giring"
+    "name": "Giring",
+    "postal_code": "69452"
   },
   {
     "code": "3529032007",
     "district_code": "352903",
-    "name": "Gunung Kembar"
+    "name": "Gunung Kembar",
+    "postal_code": "69452"
   },
   {
     "code": "3529032008",
     "district_code": "352903",
-    "name": "Jaba'an"
+    "name": "Jaba'an",
+    "postal_code": "69452"
   },
   {
     "code": "3529032009",
     "district_code": "352903",
-    "name": "Manding Laok"
+    "name": "Manding Laok",
+    "postal_code": "69452"
   },
   {
     "code": "3529032010",
     "district_code": "352903",
-    "name": "Manding Timur"
+    "name": "Manding Timur",
+    "postal_code": "69452"
   },
   {
     "code": "3529032011",
     "district_code": "352903",
-    "name": "Manding Daya"
+    "name": "Manding Daya",
+    "postal_code": "69452"
   }
 ]

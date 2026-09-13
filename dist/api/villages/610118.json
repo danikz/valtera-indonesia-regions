@@ -2,26 +2,31 @@
   {
     "code": "6101182001",
     "district_code": "610118",
-    "name": "Parit Baru"
+    "name": "Parit Baru",
+    "postal_code": "79456"
   },
   {
     "code": "6101182002",
     "district_code": "610118",
-    "name": "Sungai Toman"
+    "name": "Sungai Toman",
+    "postal_code": "79456"
   },
   {
     "code": "6101182003",
     "district_code": "610118",
-    "name": "Serunai"
+    "name": "Serunai",
+    "postal_code": "79456"
   },
   {
     "code": "6101182004",
     "district_code": "610118",
-    "name": "Serumpun"
+    "name": "Serumpun",
+    "postal_code": "79456"
   },
   {
     "code": "6101182005",
     "district_code": "610118",
-    "name": "Salatiga"
+    "name": "Salatiga",
+    "postal_code": "79456"
   }
 ]

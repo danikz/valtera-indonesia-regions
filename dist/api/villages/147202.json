@@ -2,26 +2,31 @@
   {
     "code": "1472021002",
     "district_code": "147202",
-    "name": "Teluk Binjai"
+    "name": "Teluk Binjai",
+    "postal_code": "28813"
   },
   {
     "code": "1472021003",
     "district_code": "147202",
-    "name": "Tanjung Palas"
+    "name": "Tanjung Palas",
+    "postal_code": "28816"
   },
   {
     "code": "1472021004",
     "district_code": "147202",
-    "name": "Jaya Mukti"
+    "name": "Jaya Mukti",
+    "postal_code": "28815"
   },
   {
     "code": "1472021006",
     "district_code": "147202",
-    "name": "Buluh Kasap"
+    "name": "Buluh Kasap",
+    "postal_code": "28814"
   },
   {
     "code": "1472021009",
     "district_code": "147202",
-    "name": "Bukit Batrem"
+    "name": "Bukit Batrem",
+    "postal_code": "28811"
   }
 ]

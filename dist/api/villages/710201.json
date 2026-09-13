@@ -2,46 +2,55 @@
   {
     "code": "7102011007",
     "district_code": "710201",
-    "name": "Masarang"
+    "name": "Masarang",
+    "postal_code": "95616"
   },
   {
     "code": "7102011008",
     "district_code": "710201",
-    "name": "Rinegetan"
+    "name": "Rinegetan",
+    "postal_code": "95617"
   },
   {
     "code": "7102011009",
     "district_code": "710201",
-    "name": "Roong"
+    "name": "Roong",
+    "postal_code": "95617"
   },
   {
     "code": "7102011010",
     "district_code": "710201",
-    "name": "Tuutu"
+    "name": "Tuutu",
+    "postal_code": "95617"
   },
   {
     "code": "7102011011",
     "district_code": "710201",
-    "name": "Tounkuramber"
+    "name": "Tounkuramber",
+    "postal_code": "95616"
   },
   {
     "code": "7102011012",
     "district_code": "710201",
-    "name": "Wawalintouan"
+    "name": "Wawalintouan",
+    "postal_code": "95616"
   },
   {
     "code": "7102011013",
     "district_code": "710201",
-    "name": "Rerewokan"
+    "name": "Rerewokan",
+    "postal_code": "95615"
   },
   {
     "code": "7102011014",
     "district_code": "710201",
-    "name": "Watulambot"
+    "name": "Watulambot",
+    "postal_code": "95615"
   },
   {
     "code": "7102011015",
     "district_code": "710201",
-    "name": "Wewelan"
+    "name": "Wewelan",
+    "postal_code": "95615"
   }
 ]

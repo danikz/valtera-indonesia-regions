@@ -2,36 +2,43 @@
   {
     "code": "3203102001",
     "district_code": "320310",
-    "name": "Ciherang"
+    "name": "Ciherang",
+    "postal_code": "43253"
   },
   {
     "code": "3203102003",
     "district_code": "320310",
-    "name": "Cibodas"
+    "name": "Cibodas",
+    "postal_code": "43253"
   },
   {
     "code": "3203102005",
     "district_code": "320310",
-    "name": "Sukanagalih"
+    "name": "Sukanagalih",
+    "postal_code": "43253"
   },
   {
     "code": "3203102007",
     "district_code": "320310",
-    "name": "Cipendawa"
+    "name": "Cipendawa",
+    "postal_code": "43253"
   },
   {
     "code": "3203102010",
     "district_code": "320310",
-    "name": "Ciputri"
+    "name": "Ciputri",
+    "postal_code": "43281"
   },
   {
     "code": "3203102012",
     "district_code": "320310",
-    "name": "Gadog"
+    "name": "Gadog",
+    "postal_code": "43253"
   },
   {
     "code": "3203102013",
     "district_code": "320310",
-    "name": "Sukatani"
+    "name": "Sukatani",
+    "postal_code": "43253"
   }
 ]

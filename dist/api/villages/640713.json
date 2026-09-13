@@ -2,31 +2,37 @@
   {
     "code": "6407132001",
     "district_code": "640713",
-    "name": "Loa Deras"
+    "name": "Loa Deras",
+    "postal_code": "75763"
   },
   {
     "code": "6407132002",
     "district_code": "640713",
-    "name": "Minta"
+    "name": "Minta",
+    "postal_code": "75763"
   },
   {
     "code": "6407132003",
     "district_code": "640713",
-    "name": "Tanjung Haur"
+    "name": "Tanjung Haur",
+    "postal_code": "75763"
   },
   {
     "code": "6407132004",
     "district_code": "640713",
-    "name": "Penyinggahan Ilir"
+    "name": "Penyinggahan Ilir",
+    "postal_code": "75763"
   },
   {
     "code": "6407132005",
     "district_code": "640713",
-    "name": "Penyinggahan Ulu"
+    "name": "Penyinggahan Ulu",
+    "postal_code": "75763"
   },
   {
     "code": "6407132006",
     "district_code": "640713",
-    "name": "Bakung"
+    "name": "Bakung",
+    "postal_code": "75763"
   }
 ]

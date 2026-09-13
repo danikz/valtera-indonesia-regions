@@ -2,21 +2,25 @@
   {
     "code": "2172031001",
     "district_code": "217203",
-    "name": "Tanjung Pinang Kota"
+    "name": "Tanjung Pinang Kota",
+    "postal_code": "29111"
   },
   {
     "code": "2172031003",
     "district_code": "217203",
-    "name": "Senggarang"
+    "name": "Senggarang",
+    "postal_code": "29111"
   },
   {
     "code": "2172031004",
     "district_code": "217203",
-    "name": "Penyengat"
+    "name": "Penyengat",
+    "postal_code": "29114"
   },
   {
     "code": "2172031005",
     "district_code": "217203",
-    "name": "Kampung Bugis"
+    "name": "Kampung Bugis",
+    "postal_code": "29115"
   }
 ]

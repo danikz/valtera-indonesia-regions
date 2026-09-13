@@ -2,21 +2,25 @@
   {
     "code": "2105052001",
     "district_code": "210505",
-    "name": "Kuala Maras"
+    "name": "Kuala Maras",
+    "postal_code": "29793"
   },
   {
     "code": "2105052002",
     "district_code": "210505",
-    "name": "Ulu Maras"
+    "name": "Ulu Maras",
+    "postal_code": "29793"
   },
   {
     "code": "2105052003",
     "district_code": "210505",
-    "name": "Bukit Padi"
+    "name": "Bukit Padi",
+    "postal_code": "29793"
   },
   {
     "code": "2105052004",
     "district_code": "210505",
-    "name": "Genting Pulur"
+    "name": "Genting Pulur",
+    "postal_code": "29793"
   }
 ]

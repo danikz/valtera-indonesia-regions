@@ -2,51 +2,61 @@
   {
     "code": "9304212001",
     "district_code": "930421",
-    "name": "Piramat"
+    "name": "Piramat",
+    "postal_code": "99782"
   },
   {
     "code": "9304212002",
     "district_code": "930421",
-    "name": "Bawos"
+    "name": "Bawos",
+    "postal_code": "99782"
   },
   {
     "code": "9304212003",
     "district_code": "930421",
-    "name": "Akan Tapak"
+    "name": "Akan Tapak",
+    "postal_code": "99782"
   },
   {
     "code": "9304212004",
     "district_code": "930421",
-    "name": "Tauro"
+    "name": "Tauro",
+    "postal_code": "99782"
   },
   {
     "code": "9304212005",
     "district_code": "930421",
-    "name": "Bagair"
+    "name": "Bagair",
+    "postal_code": "99782"
   },
   {
     "code": "9304212006",
     "district_code": "930421",
-    "name": "Wiyar"
+    "name": "Wiyar",
+    "postal_code": "99782"
   },
   {
     "code": "9304212007",
     "district_code": "930421",
-    "name": "Kagas"
+    "name": "Kagas",
+    "postal_code": "99782"
   },
   {
     "code": "9304212008",
     "district_code": "930421",
-    "name": "Mapane"
+    "name": "Mapane",
+    "postal_code": "99782"
   },
   {
     "code": "9304212009",
     "district_code": "930421",
-    "name": "Ainamsato"
+    "name": "Ainamsato",
+    "postal_code": "99782"
   },
   {
     "code": "9304212010",
     "district_code": "930421",
-    "name": "Amaita"
+    "name": "Amaita",
+    "postal_code": "99782"
   }
 ]

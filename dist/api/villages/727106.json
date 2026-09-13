@@ -2,31 +2,37 @@
   {
     "code": "7271061001",
     "district_code": "727106",
-    "name": "Nunu"
+    "name": "Nunu",
+    "postal_code": "94222"
   },
   {
     "code": "7271061002",
     "district_code": "727106",
-    "name": "Palupi"
+    "name": "Palupi",
+    "postal_code": "94238"
   },
   {
     "code": "7271061003",
     "district_code": "727106",
-    "name": "Tawanjuka"
+    "name": "Tawanjuka",
+    "postal_code": "94237"
   },
   {
     "code": "7271061004",
     "district_code": "727106",
-    "name": "Pengawu"
+    "name": "Pengawu",
+    "postal_code": "94239"
   },
   {
     "code": "7271061005",
     "district_code": "727106",
-    "name": "Duyu"
+    "name": "Duyu",
+    "postal_code": "94225"
   },
   {
     "code": "7271061006",
     "district_code": "727106",
-    "name": "Boyaoge"
+    "name": "Boyaoge",
+    "postal_code": "94221"
   }
 ]

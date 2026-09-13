@@ -2,31 +2,37 @@
   {
     "code": "8108132001",
     "district_code": "810813",
-    "name": "Nabar"
+    "name": "Nabar",
+    "postal_code": "97449"
   },
   {
     "code": "8108132002",
     "district_code": "810813",
-    "name": "Elsulith"
+    "name": "Elsulith",
+    "postal_code": "97449"
   },
   {
     "code": "8108132003",
     "district_code": "810813",
-    "name": "Naumatang"
+    "name": "Naumatang",
+    "postal_code": "97449"
   },
   {
     "code": "8108132004",
     "district_code": "810813",
-    "name": "Lurang"
+    "name": "Lurang",
+    "postal_code": "97449"
   },
   {
     "code": "8108132005",
     "district_code": "810813",
-    "name": "Uhak"
+    "name": "Uhak",
+    "postal_code": "97449"
   },
   {
     "code": "8108132006",
     "district_code": "810813",
-    "name": "Eray"
+    "name": "Eray",
+    "postal_code": "97449"
   }
 ]

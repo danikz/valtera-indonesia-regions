@@ -2,26 +2,31 @@
   {
     "code": "9301132001",
     "district_code": "930113",
-    "name": "Koa"
+    "name": "Koa",
+    "postal_code": "99644"
   },
   {
     "code": "9301132002",
     "district_code": "930113",
-    "name": "Baad"
+    "name": "Baad",
+    "postal_code": "99644"
   },
   {
     "code": "9301132003",
     "district_code": "930113",
-    "name": "Senegi"
+    "name": "Senegi",
+    "postal_code": "99644"
   },
   {
     "code": "9301132004",
     "district_code": "930113",
-    "name": "Wayau"
+    "name": "Wayau",
+    "postal_code": "99644"
   },
   {
     "code": "9301132005",
     "district_code": "930113",
-    "name": "Kaisah"
+    "name": "Kaisah",
+    "postal_code": "99644"
   }
 ]

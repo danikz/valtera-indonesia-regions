@@ -2,31 +2,37 @@
   {
     "code": "1871151001",
     "district_code": "187115",
-    "name": "Perumnas Way Halim"
+    "name": "Perumnas Way Halim",
+    "postal_code": "35141"
   },
   {
     "code": "1871151002",
     "district_code": "187115",
-    "name": "Way Halim Permai"
+    "name": "Way Halim Permai",
+    "postal_code": "35135"
   },
   {
     "code": "1871151003",
     "district_code": "187115",
-    "name": "Gunungsulah"
+    "name": "Gunungsulah",
+    "postal_code": "35136"
   },
   {
     "code": "1871151004",
     "district_code": "187115",
-    "name": "Jagabaya I"
+    "name": "Jagabaya I",
+    "postal_code": "35123"
   },
   {
     "code": "1871151005",
     "district_code": "187115",
-    "name": "Jagabaya II"
+    "name": "Jagabaya II",
+    "postal_code": "35132"
   },
   {
     "code": "1871151006",
     "district_code": "187115",
-    "name": "Jagabaya III"
+    "name": "Jagabaya III",
+    "postal_code": "35132"
   }
 ]

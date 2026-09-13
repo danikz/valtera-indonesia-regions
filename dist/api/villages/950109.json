@@ -2,46 +2,55 @@
   {
     "code": "9501092001",
     "district_code": "950109",
-    "name": "Sinata"
+    "name": "Sinata",
+    "postal_code": "99524"
   },
   {
     "code": "9501092002",
     "district_code": "950109",
-    "name": "Asolokobal"
+    "name": "Asolokobal",
+    "postal_code": "99524"
   },
   {
     "code": "9501092003",
     "district_code": "950109",
-    "name": "Hesatom"
+    "name": "Hesatom",
+    "postal_code": "99524"
   },
   {
     "code": "9501092004",
     "district_code": "950109",
-    "name": "Asotapo"
+    "name": "Asotapo",
+    "postal_code": "99524"
   },
   {
     "code": "9501092005",
     "district_code": "950109",
-    "name": "Wiaima"
+    "name": "Wiaima",
+    "postal_code": "99501"
   },
   {
     "code": "9501092006",
     "district_code": "950109",
-    "name": "Ninabua"
+    "name": "Ninabua",
+    "postal_code": "99501"
   },
   {
     "code": "9501092007",
     "district_code": "950109",
-    "name": "Helaluwa"
+    "name": "Helaluwa",
+    "postal_code": "99524"
   },
   {
     "code": "9501092008",
     "district_code": "950109",
-    "name": "Mulinekama"
+    "name": "Mulinekama",
+    "postal_code": "99524"
   },
   {
     "code": "9501092009",
     "district_code": "950109",
-    "name": "Yapema"
+    "name": "Yapema",
+    "postal_code": "99524"
   }
 ]

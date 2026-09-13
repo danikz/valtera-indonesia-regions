@@ -2,66 +2,79 @@
   {
     "code": "3322012001",
     "district_code": "332201",
-    "name": "Tajuk"
+    "name": "Tajuk",
+    "postal_code": "50774"
   },
   {
     "code": "3322012002",
     "district_code": "332201",
-    "name": "Batur"
+    "name": "Batur",
+    "postal_code": "50774"
   },
   {
     "code": "3322012003",
     "district_code": "332201",
-    "name": "Kopeng"
+    "name": "Kopeng",
+    "postal_code": "50774"
   },
   {
     "code": "3322012004",
     "district_code": "332201",
-    "name": "Tolokan"
+    "name": "Tolokan",
+    "postal_code": "50774"
   },
   {
     "code": "3322012005",
     "district_code": "332201",
-    "name": "Wates"
+    "name": "Wates",
+    "postal_code": "50774"
   },
   {
     "code": "3322012006",
     "district_code": "332201",
-    "name": "Getasan"
+    "name": "Getasan",
+    "postal_code": "50774"
   },
   {
     "code": "3322012007",
     "district_code": "332201",
-    "name": "Sumogawe"
+    "name": "Sumogawe",
+    "postal_code": "50774"
   },
   {
     "code": "3322012008",
     "district_code": "332201",
-    "name": "Samirono"
+    "name": "Samirono",
+    "postal_code": "50774"
   },
   {
     "code": "3322012009",
     "district_code": "332201",
-    "name": "Jetak"
+    "name": "Jetak",
+    "postal_code": "50774"
   },
   {
     "code": "3322012010",
     "district_code": "332201",
-    "name": "Polobogo"
+    "name": "Polobogo",
+    "postal_code": "50774"
   },
   {
     "code": "3322012011",
     "district_code": "332201",
-    "name": "Manggihan"
+    "name": "Manggihan",
+    "postal_code": "50774"
   },
   {
     "code": "3322012012",
     "district_code": "332201",
-    "name": "Ngrawan"
+    "name": "Ngrawan",
+    "postal_code": "50774"
   },
   {
     "code": "3322012013",
     "district_code": "332201",
-    "name": "Nogosaren"
+    "name": "Nogosaren",
+    "postal_code": "50774"
   }
 ]

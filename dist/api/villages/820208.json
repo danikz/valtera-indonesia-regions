@@ -2,26 +2,31 @@
   {
     "code": "8202082001",
     "district_code": "820208",
-    "name": "Banemo"
+    "name": "Banemo",
+    "postal_code": "97856"
   },
   {
     "code": "8202082002",
     "district_code": "820208",
-    "name": "Bobane Jaya"
+    "name": "Bobane Jaya",
+    "postal_code": "97856"
   },
   {
     "code": "8202082003",
     "district_code": "820208",
-    "name": "Bobane Indah"
+    "name": "Bobane Indah",
+    "postal_code": "97856"
   },
   {
     "code": "8202082004",
     "district_code": "820208",
-    "name": "Mareala"
+    "name": "Mareala",
+    "postal_code": "97856"
   },
   {
     "code": "8202082005",
     "district_code": "820208",
-    "name": "Sibenpope"
+    "name": "Sibenpope",
+    "postal_code": "97856"
   }
 ]

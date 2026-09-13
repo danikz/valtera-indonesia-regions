@@ -2,21 +2,25 @@
   {
     "code": "9271041001",
     "district_code": "927104",
-    "name": "Dum Barat"
+    "name": "Dum Barat",
+    "postal_code": ""
   },
   {
     "code": "9271041002",
     "district_code": "927104",
-    "name": "Dum Timur"
+    "name": "Dum Timur",
+    "postal_code": ""
   },
   {
     "code": "9271041003",
     "district_code": "927104",
-    "name": "Soop"
+    "name": "Soop",
+    "postal_code": ""
   },
   {
     "code": "9271041004",
     "district_code": "927104",
-    "name": "Raam"
+    "name": "Raam",
+    "postal_code": ""
   }
 ]

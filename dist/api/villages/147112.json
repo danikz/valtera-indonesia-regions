@@ -2,16 +2,19 @@
   {
     "code": "1471121001",
     "district_code": "147112",
-    "name": "Meranti Pandak"
+    "name": "Meranti Pandak",
+    "postal_code": "28266"
   },
   {
     "code": "1471121004",
     "district_code": "147112",
-    "name": "Lembah Damai"
+    "name": "Lembah Damai",
+    "postal_code": "28263"
   },
   {
     "code": "1471121006",
     "district_code": "147112",
-    "name": "Limbungan Baru"
+    "name": "Limbungan Baru",
+    "postal_code": "28261"
   }
 ]

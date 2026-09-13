@@ -2,66 +2,79 @@
   {
     "code": "5202101001",
     "district_code": "520210",
-    "name": "Gerantung"
+    "name": "Gerantung",
+    "postal_code": "83523"
   },
   {
     "code": "5202101002",
     "district_code": "520210",
-    "name": "Jontlak"
+    "name": "Jontlak",
+    "postal_code": "83513"
   },
   {
     "code": "5202101003",
     "district_code": "520210",
-    "name": "Sasake"
+    "name": "Sasake",
+    "postal_code": "83582"
   },
   {
     "code": "5202102004",
     "district_code": "520210",
-    "name": "Jurang Jaler"
+    "name": "Jurang Jaler",
+    "postal_code": "83582"
   },
   {
     "code": "5202102005",
     "district_code": "520210",
-    "name": "Beraim"
+    "name": "Beraim",
+    "postal_code": "83582"
   },
   {
     "code": "5202102006",
     "district_code": "520210",
-    "name": "Batunyala"
+    "name": "Batunyala",
+    "postal_code": "83582"
   },
   {
     "code": "5202102007",
     "district_code": "520210",
-    "name": "Lajut"
+    "name": "Lajut",
+    "postal_code": "83582"
   },
   {
     "code": "5202102008",
     "district_code": "520210",
-    "name": "Pengadang"
+    "name": "Pengadang",
+    "postal_code": "83582"
   },
   {
     "code": "5202102009",
     "district_code": "520210",
-    "name": "Kelebuh"
+    "name": "Kelebuh",
+    "postal_code": "83582"
   },
   {
     "code": "5202102010",
     "district_code": "520210",
-    "name": "Pejanggik"
+    "name": "Pejanggik",
+    "postal_code": "83582"
   },
   {
     "code": "5202102011",
     "district_code": "520210",
-    "name": "Dakung"
+    "name": "Dakung",
+    "postal_code": "83582"
   },
   {
     "code": "5202102012",
     "district_code": "520210",
-    "name": "Prai Meke"
+    "name": "Prai Meke",
+    "postal_code": "83582"
   },
   {
     "code": "5202102013",
     "district_code": "520210",
-    "name": "Lelong"
+    "name": "Lelong",
+    "postal_code": "83582"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "7413112001",
     "district_code": "741311",
-    "name": "Masara"
+    "name": "Masara",
+    "postal_code": "93658"
   },
   {
     "code": "7413112002",
     "district_code": "741311",
-    "name": "Lahaji"
+    "name": "Lahaji",
+    "postal_code": "93658"
   },
   {
     "code": "7413112003",
     "district_code": "741311",
-    "name": "Umba"
+    "name": "Umba",
+    "postal_code": "93658"
   },
   {
     "code": "7413112004",
     "district_code": "741311",
-    "name": "Kombikuno"
+    "name": "Kombikuno",
+    "postal_code": "93658"
   },
   {
     "code": "7413112005",
     "district_code": "741311",
-    "name": "Latawe"
+    "name": "Latawe",
+    "postal_code": "93658"
   },
   {
     "code": "7413112006",
     "district_code": "741311",
-    "name": "Tangkumaho"
+    "name": "Tangkumaho",
+    "postal_code": "93658"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "9203122001",
     "district_code": "920312",
-    "name": "Waserat"
+    "name": "Waserat",
+    "postal_code": "98031"
   },
   {
     "code": "9203122002",
     "district_code": "920312",
-    "name": "Wambar"
+    "name": "Wambar",
+    "postal_code": "98031"
   },
   {
     "code": "9203122003",
     "district_code": "920312",
-    "name": "Kotam"
+    "name": "Kotam",
+    "postal_code": "98031"
   },
   {
     "code": "9203122004",
     "district_code": "920312",
-    "name": "Kwama"
+    "name": "Kwama",
+    "postal_code": "98031"
   },
   {
     "code": "9203122005",
     "district_code": "920312",
-    "name": "Kalamanuk"
+    "name": "Kalamanuk",
+    "postal_code": "98031"
   },
   {
     "code": "9203122006",
     "district_code": "920312",
-    "name": "Wayati Timur"
+    "name": "Wayati Timur",
+    "postal_code": "98031"
   },
   {
     "code": "9203122007",
     "district_code": "920312",
-    "name": "Wayati"
+    "name": "Wayati",
+    "postal_code": "98031"
   },
   {
     "code": "9203122008",
     "district_code": "920312",
-    "name": "Wayati Barat"
+    "name": "Wayati Barat",
+    "postal_code": "98031"
   },
   {
     "code": "9203122009",
     "district_code": "920312",
-    "name": "Krabelang"
+    "name": "Krabelang",
+    "postal_code": "98031"
   },
   {
     "code": "9203122010",
     "district_code": "920312",
-    "name": "Wambar Timur"
+    "name": "Wambar Timur",
+    "postal_code": "98031"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "7409112001",
     "district_code": "740911",
-    "name": "Tanjung Bunga"
+    "name": "Tanjung Bunga",
+    "postal_code": "93342"
   },
   {
     "code": "7409112002",
     "district_code": "740911",
-    "name": "Kampoh Bunga"
+    "name": "Kampoh Bunga",
+    "postal_code": "93342"
   },
   {
     "code": "7409112003",
     "district_code": "740911",
-    "name": "Lemo Bajo"
+    "name": "Lemo Bajo",
+    "postal_code": "93342"
   },
   {
     "code": "7409112004",
     "district_code": "740911",
-    "name": "Barasanga"
+    "name": "Barasanga",
+    "postal_code": "93342"
   },
   {
     "code": "7409112005",
     "district_code": "740911",
-    "name": "Wawolesea"
+    "name": "Wawolesea",
+    "postal_code": "93342"
   },
   {
     "code": "7409112006",
     "district_code": "740911",
-    "name": "Toreo"
+    "name": "Toreo",
+    "postal_code": "93342"
   },
   {
     "code": "7409112007",
     "district_code": "740911",
-    "name": "Otipulu"
+    "name": "Otipulu",
+    "postal_code": "93342"
   },
   {
     "code": "7409112009",
     "district_code": "740911",
-    "name": "Kampoh Cina"
+    "name": "Kampoh Cina",
+    "postal_code": "93342"
   }
 ]

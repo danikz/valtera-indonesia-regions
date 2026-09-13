@@ -2,61 +2,73 @@
   {
     "code": "5303041011",
     "district_code": "530304",
-    "name": "Oenak"
+    "name": "Oenak",
+    "postal_code": ""
   },
   {
     "code": "5303041012",
     "district_code": "530304",
-    "name": "Nifuboke"
+    "name": "Nifuboke",
+    "postal_code": ""
   },
   {
     "code": "5303041013",
     "district_code": "530304",
-    "name": "Noemuti"
+    "name": "Noemuti",
+    "postal_code": ""
   },
   {
     "code": "5303041014",
     "district_code": "530304",
-    "name": "Fatumuti"
+    "name": "Fatumuti",
+    "postal_code": ""
   },
   {
     "code": "5303041015",
     "district_code": "530304",
-    "name": "Kiuola"
+    "name": "Kiuola",
+    "postal_code": ""
   },
   {
     "code": "5303042001",
     "district_code": "530304",
-    "name": "Bijeli"
+    "name": "Bijeli",
+    "postal_code": "85664"
   },
   {
     "code": "5303042002",
     "district_code": "530304",
-    "name": "Noebaun"
+    "name": "Noebaun",
+    "postal_code": "85664"
   },
   {
     "code": "5303042003",
     "district_code": "530304",
-    "name": "Seo"
+    "name": "Seo",
+    "postal_code": "85664"
   },
   {
     "code": "5303042004",
     "district_code": "530304",
-    "name": "Popnam"
+    "name": "Popnam",
+    "postal_code": "85664"
   },
   {
     "code": "5303042009",
     "district_code": "530304",
-    "name": "Nibaaf"
+    "name": "Nibaaf",
+    "postal_code": "85664"
   },
   {
     "code": "5303042010",
     "district_code": "530304",
-    "name": "Banfanu"
+    "name": "Banfanu",
+    "postal_code": "85664"
   },
   {
     "code": "5303042016",
     "district_code": "530304",
-    "name": "Oeperigi"
+    "name": "Oeperigi",
+    "postal_code": "85664"
   }
 ]

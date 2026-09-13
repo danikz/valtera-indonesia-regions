@@ -2,21 +2,25 @@
   {
     "code": "6403112001",
     "district_code": "640311",
-    "name": "Bohe Silian"
+    "name": "Bohe Silian",
+    "postal_code": "77381"
   },
   {
     "code": "6403112002",
     "district_code": "640311",
-    "name": "Payung-Payung"
+    "name": "Payung-Payung",
+    "postal_code": "77381"
   },
   {
     "code": "6403112003",
     "district_code": "640311",
-    "name": "Teluk Alulu"
+    "name": "Teluk Alulu",
+    "postal_code": "77381"
   },
   {
     "code": "6403112004",
     "district_code": "640311",
-    "name": "Teluk Harapan"
+    "name": "Teluk Harapan",
+    "postal_code": "77381"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "1674031001",
     "district_code": "167403",
-    "name": "Cambai"
+    "name": "Cambai",
+    "postal_code": "31141"
   },
   {
     "code": "1674031002",
     "district_code": "167403",
-    "name": "Sindur"
+    "name": "Sindur",
+    "postal_code": "31142"
   },
   {
     "code": "1674031005",
     "district_code": "167403",
-    "name": "Sungai Medang"
+    "name": "Sungai Medang",
+    "postal_code": "31145"
   },
   {
     "code": "1674032003",
     "district_code": "167403",
-    "name": "Pangkul"
+    "name": "Pangkul",
+    "postal_code": "31143"
   },
   {
     "code": "1674032004",
     "district_code": "167403",
-    "name": "Muara Sungai"
+    "name": "Muara Sungai",
+    "postal_code": "31144"
   }
 ]

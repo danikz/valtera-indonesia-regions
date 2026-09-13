@@ -2,61 +2,73 @@
   {
     "code": "9504332001",
     "district_code": "950433",
-    "name": "Wama"
+    "name": "Wama",
+    "postal_code": "99047"
   },
   {
     "code": "9504332002",
     "district_code": "950433",
-    "name": "Wonitu"
+    "name": "Wonitu",
+    "postal_code": "99047"
   },
   {
     "code": "9504332003",
     "district_code": "950433",
-    "name": "Kumbur"
+    "name": "Kumbur",
+    "postal_code": "99047"
   },
   {
     "code": "9504332004",
     "district_code": "950433",
-    "name": "Kwarini"
+    "name": "Kwarini",
+    "postal_code": "99047"
   },
   {
     "code": "9504332005",
     "district_code": "950433",
-    "name": "Weyage"
+    "name": "Weyage",
+    "postal_code": "99047"
   },
   {
     "code": "9504332006",
     "district_code": "950433",
-    "name": "Timer"
+    "name": "Timer",
+    "postal_code": "99047"
   },
   {
     "code": "9504332007",
     "district_code": "950433",
-    "name": "Gulak"
+    "name": "Gulak",
+    "postal_code": "99047"
   },
   {
     "code": "9504332008",
     "district_code": "950433",
-    "name": "Nowo"
+    "name": "Nowo",
+    "postal_code": "99047"
   },
   {
     "code": "9504332009",
     "district_code": "950433",
-    "name": "Gunalo"
+    "name": "Gunalo",
+    "postal_code": "99047"
   },
   {
     "code": "9504332010",
     "district_code": "950433",
-    "name": "Korlo"
+    "name": "Korlo",
+    "postal_code": "99047"
   },
   {
     "code": "9504332011",
     "district_code": "950433",
-    "name": "Towolome"
+    "name": "Towolome",
+    "postal_code": "99047"
   },
   {
     "code": "9504332012",
     "district_code": "950433",
-    "name": "Golena"
+    "name": "Golena",
+    "postal_code": "99047"
   }
 ]

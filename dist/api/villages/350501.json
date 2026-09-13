@@ -2,56 +2,67 @@
   {
     "code": "3505012001",
     "district_code": "350501",
-    "name": "Jaten"
+    "name": "Jaten",
+    "postal_code": "66155"
   },
   {
     "code": "3505012002",
     "district_code": "350501",
-    "name": "Salam"
+    "name": "Salam",
+    "postal_code": "66155"
   },
   {
     "code": "3505012003",
     "district_code": "350501",
-    "name": "Rejosari"
+    "name": "Rejosari",
+    "postal_code": "66155"
   },
   {
     "code": "3505012004",
     "district_code": "350501",
-    "name": "Kaliboto"
+    "name": "Kaliboto",
+    "postal_code": "66155"
   },
   {
     "code": "3505012005",
     "district_code": "350501",
-    "name": "Wonodadi"
+    "name": "Wonodadi",
+    "postal_code": "66155"
   },
   {
     "code": "3505012006",
     "district_code": "350501",
-    "name": "Tawangrejo"
+    "name": "Tawangrejo",
+    "postal_code": "66155"
   },
   {
     "code": "3505012007",
     "district_code": "350501",
-    "name": "Kebonagung"
+    "name": "Kebonagung",
+    "postal_code": "66155"
   },
   {
     "code": "3505012008",
     "district_code": "350501",
-    "name": "Pikatan"
+    "name": "Pikatan",
+    "postal_code": "66155"
   },
   {
     "code": "3505012009",
     "district_code": "350501",
-    "name": "Gandekan"
+    "name": "Gandekan",
+    "postal_code": "66155"
   },
   {
     "code": "3505012010",
     "district_code": "350501",
-    "name": "Kunir"
+    "name": "Kunir",
+    "postal_code": "66155"
   },
   {
     "code": "3505012011",
     "district_code": "350501",
-    "name": "Kolomayan"
+    "name": "Kolomayan",
+    "postal_code": "66155"
   }
 ]

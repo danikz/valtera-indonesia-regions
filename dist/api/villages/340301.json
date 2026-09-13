@@ -2,71 +2,85 @@
   {
     "code": "3403012001",
     "district_code": "340301",
-    "name": "Wonosari"
+    "name": "Wonosari",
+    "postal_code": "55851"
   },
   {
     "code": "3403012002",
     "district_code": "340301",
-    "name": "Kepek"
+    "name": "Kepek",
+    "postal_code": "55813"
   },
   {
     "code": "3403012003",
     "district_code": "340301",
-    "name": "Piyaman"
+    "name": "Piyaman",
+    "postal_code": "55851"
   },
   {
     "code": "3403012004",
     "district_code": "340301",
-    "name": "Gari"
+    "name": "Gari",
+    "postal_code": "55851"
   },
   {
     "code": "3403012005",
     "district_code": "340301",
-    "name": "Karangtengah"
+    "name": "Karangtengah",
+    "postal_code": "55851"
   },
   {
     "code": "3403012006",
     "district_code": "340301",
-    "name": "Selang"
+    "name": "Selang",
+    "postal_code": "55851"
   },
   {
     "code": "3403012007",
     "district_code": "340301",
-    "name": "Baleharjo"
+    "name": "Baleharjo",
+    "postal_code": "55811"
   },
   {
     "code": "3403012008",
     "district_code": "340301",
-    "name": "Siraman"
+    "name": "Siraman",
+    "postal_code": "55851"
   },
   {
     "code": "3403012009",
     "district_code": "340301",
-    "name": "Pulutan"
+    "name": "Pulutan",
+    "postal_code": "55851"
   },
   {
     "code": "3403012010",
     "district_code": "340301",
-    "name": "Wareng"
+    "name": "Wareng",
+    "postal_code": "55851"
   },
   {
     "code": "3403012011",
     "district_code": "340301",
-    "name": "Duwet"
+    "name": "Duwet",
+    "postal_code": "55851"
   },
   {
     "code": "3403012012",
     "district_code": "340301",
-    "name": "Mulo"
+    "name": "Mulo",
+    "postal_code": "55851"
   },
   {
     "code": "3403012013",
     "district_code": "340301",
-    "name": "Wunung"
+    "name": "Wunung",
+    "postal_code": "55851"
   },
   {
     "code": "3403012014",
     "district_code": "340301",
-    "name": "Karangrejek"
+    "name": "Karangrejek",
+    "postal_code": "55851"
   }
 ]

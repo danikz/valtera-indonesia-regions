@@ -2,31 +2,37 @@
   {
     "code": "3578181001",
     "district_code": "357818",
-    "name": "Bangkingan"
+    "name": "Bangkingan",
+    "postal_code": "60214"
   },
   {
     "code": "3578181002",
     "district_code": "357818",
-    "name": "Jeruk"
+    "name": "Jeruk",
+    "postal_code": "60212"
   },
   {
     "code": "3578181003",
     "district_code": "357818",
-    "name": "Lakarsantri"
+    "name": "Lakarsantri",
+    "postal_code": "60211"
   },
   {
     "code": "3578181004",
     "district_code": "357818",
-    "name": "Lidah kulon"
+    "name": "Lidah kulon",
+    "postal_code": "60213"
   },
   {
     "code": "3578181005",
     "district_code": "357818",
-    "name": "Lidah Wetan"
+    "name": "Lidah Wetan",
+    "postal_code": "60213"
   },
   {
     "code": "3578181006",
     "district_code": "357818",
-    "name": "Sumurwelut"
+    "name": "Sumurwelut",
+    "postal_code": "60215"
   }
 ]

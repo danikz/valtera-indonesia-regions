@@ -2,26 +2,31 @@
   {
     "code": "6108102001",
     "district_code": "610810",
-    "name": "Sebangki"
+    "name": "Sebangki",
+    "postal_code": "79358"
   },
   {
     "code": "6108102002",
     "district_code": "610810",
-    "name": "Kumpang Tengah"
+    "name": "Kumpang Tengah",
+    "postal_code": "79358"
   },
   {
     "code": "6108102003",
     "district_code": "610810",
-    "name": "Agak"
+    "name": "Agak",
+    "postal_code": "79358"
   },
   {
     "code": "6108102004",
     "district_code": "610810",
-    "name": "Rantau Panjang"
+    "name": "Rantau Panjang",
+    "postal_code": "79358"
   },
   {
     "code": "6108102005",
     "district_code": "610810",
-    "name": "Sungai Segak"
+    "name": "Sungai Segak",
+    "postal_code": "79358"
   }
 ]

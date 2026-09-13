@@ -2,71 +2,85 @@
   {
     "code": "9504162001",
     "district_code": "950416",
-    "name": "Abena"
+    "name": "Abena",
+    "postal_code": "99011"
   },
   {
     "code": "9504162002",
     "district_code": "950416",
-    "name": "Nogobumbu"
+    "name": "Nogobumbu",
+    "postal_code": "99011"
   },
   {
     "code": "9504162003",
     "district_code": "950416",
-    "name": "Bilubaga"
+    "name": "Bilubaga",
+    "postal_code": "99011"
   },
   {
     "code": "9504162004",
     "district_code": "950416",
-    "name": "Gabunggobak"
+    "name": "Gabunggobak",
+    "postal_code": "99011"
   },
   {
     "code": "9504162005",
     "district_code": "950416",
-    "name": "Wulurik"
+    "name": "Wulurik",
+    "postal_code": "99011"
   },
   {
     "code": "9504162006",
     "district_code": "950416",
-    "name": "Wanggulam"
+    "name": "Wanggulam",
+    "postal_code": "99011"
   },
   {
     "code": "9504162007",
     "district_code": "950416",
-    "name": "Bitillabur"
+    "name": "Bitillabur",
+    "postal_code": "99011"
   },
   {
     "code": "9504162008",
     "district_code": "950416",
-    "name": "Windik"
+    "name": "Windik",
+    "postal_code": "99011"
   },
   {
     "code": "9504162009",
     "district_code": "950416",
-    "name": "Yibalo"
+    "name": "Yibalo",
+    "postal_code": "99011"
   },
   {
     "code": "9504162010",
     "district_code": "950416",
-    "name": "Wania"
+    "name": "Wania",
+    "postal_code": "99011"
   },
   {
     "code": "9504162011",
     "district_code": "950416",
-    "name": "Arelam"
+    "name": "Arelam",
+    "postal_code": "99011"
   },
   {
     "code": "9504162012",
     "district_code": "950416",
-    "name": "Gelalo"
+    "name": "Gelalo",
+    "postal_code": "99011"
   },
   {
     "code": "9504162013",
     "district_code": "950416",
-    "name": "Duma"
+    "name": "Duma",
+    "postal_code": "99011"
   },
   {
     "code": "9504162014",
     "district_code": "950416",
-    "name": "Yinama"
+    "name": "Yinama",
+    "postal_code": "99011"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "9503412001",
     "district_code": "950341",
-    "name": "Suntamon"
+    "name": "Suntamon",
+    "postal_code": "99744"
   },
   {
     "code": "9503412002",
     "district_code": "950341",
-    "name": "Tapasik"
+    "name": "Tapasik",
+    "postal_code": "99744"
   },
   {
     "code": "9503412003",
     "district_code": "950341",
-    "name": "Bulbul"
+    "name": "Bulbul",
+    "postal_code": "99744"
   },
   {
     "code": "9503412004",
     "district_code": "950341",
-    "name": "Dirik"
+    "name": "Dirik",
+    "postal_code": "99744"
   },
   {
     "code": "9503412005",
     "district_code": "950341",
-    "name": "Yup"
+    "name": "Yup",
+    "postal_code": "99744"
   },
   {
     "code": "9503412006",
     "district_code": "950341",
-    "name": "Bongkok"
+    "name": "Bongkok",
+    "postal_code": "99744"
   },
   {
     "code": "9503412007",
     "district_code": "950341",
-    "name": "Masumkon"
+    "name": "Masumkon",
+    "postal_code": "99744"
   },
   {
     "code": "9503412008",
     "district_code": "950341",
-    "name": "Binalkon"
+    "name": "Binalkon",
+    "postal_code": "99744"
   }
 ]

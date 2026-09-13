@@ -2,41 +2,49 @@
   {
     "code": "7306132001",
     "district_code": "730613",
-    "name": "Timbuseng"
+    "name": "Timbuseng",
+    "postal_code": "92172"
   },
   {
     "code": "7306132002",
     "district_code": "730613",
-    "name": "Pallantikang"
+    "name": "Pallantikang",
+    "postal_code": "92172"
   },
   {
     "code": "7306132003",
     "district_code": "730613",
-    "name": "Sunggumanai"
+    "name": "Sunggumanai",
+    "postal_code": "92172"
   },
   {
     "code": "7306132004",
     "district_code": "730613",
-    "name": "Paccellekang"
+    "name": "Paccellekang",
+    "postal_code": "92172"
   },
   {
     "code": "7306132005",
     "district_code": "730613",
-    "name": "Pattallassang"
+    "name": "Pattallassang",
+    "postal_code": "92172"
   },
   {
     "code": "7306132006",
     "district_code": "730613",
-    "name": "Je'nemadinging"
+    "name": "Je'nemadinging",
+    "postal_code": "92172"
   },
   {
     "code": "7306132007",
     "district_code": "730613",
-    "name": "Panaikang"
+    "name": "Panaikang",
+    "postal_code": "92172"
   },
   {
     "code": "7306132008",
     "district_code": "730613",
-    "name": "Borongpala'la"
+    "name": "Borongpala'la",
+    "postal_code": "92172"
   }
 ]

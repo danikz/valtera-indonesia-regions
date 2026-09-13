@@ -2,46 +2,55 @@
   {
     "code": "1410011001",
     "district_code": "141001",
-    "name": "Selatpanjang Kota"
+    "name": "Selatpanjang Kota",
+    "postal_code": "28753"
   },
   {
     "code": "1410011002",
     "district_code": "141001",
-    "name": "Selatpanjang Barat"
+    "name": "Selatpanjang Barat",
+    "postal_code": "28753"
   },
   {
     "code": "1410011003",
     "district_code": "141001",
-    "name": "Selatpanjang Selatan"
+    "name": "Selatpanjang Selatan",
+    "postal_code": "28753"
   },
   {
     "code": "1410011004",
     "district_code": "141001",
-    "name": "Selatpanjang Timur"
+    "name": "Selatpanjang Timur",
+    "postal_code": "28753"
   },
   {
     "code": "1410012005",
     "district_code": "141001",
-    "name": "Banglas"
+    "name": "Banglas",
+    "postal_code": "28753"
   },
   {
     "code": "1410012006",
     "district_code": "141001",
-    "name": "Alah Air"
+    "name": "Alah Air",
+    "postal_code": "28753"
   },
   {
     "code": "1410012007",
     "district_code": "141001",
-    "name": "Alah Air Timur"
+    "name": "Alah Air Timur",
+    "postal_code": "28753"
   },
   {
     "code": "1410012008",
     "district_code": "141001",
-    "name": "Sesap"
+    "name": "Sesap",
+    "postal_code": "28753"
   },
   {
     "code": "1410012016",
     "district_code": "141001",
-    "name": "Banglas Barat"
+    "name": "Banglas Barat",
+    "postal_code": "28753"
   }
 ]

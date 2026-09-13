@@ -2,61 +2,73 @@
   {
     "code": "7304021001",
     "district_code": "730402",
-    "name": "Bonto Tangnga"
+    "name": "Bonto Tangnga",
+    "postal_code": "92350"
   },
   {
     "code": "7304021002",
     "district_code": "730402",
-    "name": "Tonro Kassi"
+    "name": "Tonro Kassi",
+    "postal_code": "92350"
   },
   {
     "code": "7304021003",
     "district_code": "730402",
-    "name": "Tonro Kassi Barat"
+    "name": "Tonro Kassi Barat",
+    "postal_code": "92350"
   },
   {
     "code": "7304021004",
     "district_code": "730402",
-    "name": "Tonro Kassi Timur"
+    "name": "Tonro Kassi Timur",
+    "postal_code": "92350"
   },
   {
     "code": "7304021005",
     "district_code": "730402",
-    "name": "Taman Roya"
+    "name": "Taman Roya",
+    "postal_code": "92350"
   },
   {
     "code": "7304021006",
     "district_code": "730402",
-    "name": "Manjangloe"
+    "name": "Manjangloe",
+    "postal_code": "92350"
   },
   {
     "code": "7304022007",
     "district_code": "730402",
-    "name": "Borongtala"
+    "name": "Borongtala",
+    "postal_code": "92350"
   },
   {
     "code": "7304022008",
     "district_code": "730402",
-    "name": "Bontosunggu"
+    "name": "Bontosunggu",
+    "postal_code": "92350"
   },
   {
     "code": "7304022009",
     "district_code": "730402",
-    "name": "Turatea"
+    "name": "Turatea",
+    "postal_code": "92350"
   },
   {
     "code": "7304022010",
     "district_code": "730402",
-    "name": "Karelayu"
+    "name": "Karelayu",
+    "postal_code": "92350"
   },
   {
     "code": "7304022011",
     "district_code": "730402",
-    "name": "Bontojai"
+    "name": "Bontojai",
+    "postal_code": "92350"
   },
   {
     "code": "7304022012",
     "district_code": "730402",
-    "name": "Turatea Timur"
+    "name": "Turatea Timur",
+    "postal_code": "92350"
   }
 ]

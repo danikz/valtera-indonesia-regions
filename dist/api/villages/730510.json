@@ -2,31 +2,37 @@
   {
     "code": "7305102001",
     "district_code": "730510",
-    "name": "Tompotana"
+    "name": "Tompotana",
+    "postal_code": "92232"
   },
   {
     "code": "7305102002",
     "district_code": "730510",
-    "name": "Mattiro Baji"
+    "name": "Mattiro Baji",
+    "postal_code": "92232"
   },
   {
     "code": "7305102003",
     "district_code": "730510",
-    "name": "Rewataya"
+    "name": "Rewataya",
+    "postal_code": "92232"
   },
   {
     "code": "7305102004",
     "district_code": "730510",
-    "name": "Balangdatu"
+    "name": "Balangdatu",
+    "postal_code": "92232"
   },
   {
     "code": "7305102005",
     "district_code": "730510",
-    "name": "Maccini Baji"
+    "name": "Maccini Baji",
+    "postal_code": "92232"
   },
   {
     "code": "7305102006",
     "district_code": "730510",
-    "name": "Minasa Baji"
+    "name": "Minasa Baji",
+    "postal_code": "92232"
   }
 ]

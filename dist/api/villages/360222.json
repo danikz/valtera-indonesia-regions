@@ -2,51 +2,61 @@
   {
     "code": "3602222001",
     "district_code": "360222",
-    "name": "Ciparasi"
+    "name": "Ciparasi",
+    "postal_code": "42318"
   },
   {
     "code": "3602222002",
     "district_code": "360222",
-    "name": "Sobang"
+    "name": "Sobang",
+    "postal_code": "42318"
   },
   {
     "code": "3602222003",
     "district_code": "360222",
-    "name": "Sukajaya"
+    "name": "Sukajaya",
+    "postal_code": "42318"
   },
   {
     "code": "3602222004",
     "district_code": "360222",
-    "name": "Sindanglaya"
+    "name": "Sindanglaya",
+    "postal_code": "42315"
   },
   {
     "code": "3602222005",
     "district_code": "360222",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "42318"
   },
   {
     "code": "3602222006",
     "district_code": "360222",
-    "name": "Hariang"
+    "name": "Hariang",
+    "postal_code": "42318"
   },
   {
     "code": "3602222007",
     "district_code": "360222",
-    "name": "Majasari"
+    "name": "Majasari",
+    "postal_code": "42318"
   },
   {
     "code": "3602222008",
     "district_code": "360222",
-    "name": "Sinar Jaya"
+    "name": "Sinar Jaya",
+    "postal_code": "42318"
   },
   {
     "code": "3602222009",
     "district_code": "360222",
-    "name": "Cirompang"
+    "name": "Cirompang",
+    "postal_code": "42318"
   },
   {
     "code": "3602222010",
     "district_code": "360222",
-    "name": "Sukaresmi"
+    "name": "Sukaresmi",
+    "postal_code": "42318"
   }
 ]

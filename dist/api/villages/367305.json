@@ -2,41 +2,49 @@
   {
     "code": "3673051001",
     "district_code": "367305",
-    "name": "Cipocok Jaya"
+    "name": "Cipocok Jaya",
+    "postal_code": "42121"
   },
   {
     "code": "3673051002",
     "district_code": "367305",
-    "name": "Karundang"
+    "name": "Karundang",
+    "postal_code": "42125"
   },
   {
     "code": "3673051003",
     "district_code": "367305",
-    "name": "Panancangan"
+    "name": "Panancangan",
+    "postal_code": "42124"
   },
   {
     "code": "3673051004",
     "district_code": "367305",
-    "name": "Banjar Agung"
+    "name": "Banjar Agung",
+    "postal_code": "42122"
   },
   {
     "code": "3673051005",
     "district_code": "367305",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "42123"
   },
   {
     "code": "3673051006",
     "district_code": "367305",
-    "name": "Tembong"
+    "name": "Tembong",
+    "postal_code": "42126"
   },
   {
     "code": "3673051007",
     "district_code": "367305",
-    "name": "Dalung"
+    "name": "Dalung",
+    "postal_code": "42127"
   },
   {
     "code": "3673051008",
     "district_code": "367305",
-    "name": "Gelam"
+    "name": "Gelam",
+    "postal_code": "42128"
   }
 ]

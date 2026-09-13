@@ -2,36 +2,43 @@
   {
     "code": "6111032001",
     "district_code": "611103",
-    "name": "Mas Bangun"
+    "name": "Mas Bangun",
+    "postal_code": "78856"
   },
   {
     "code": "6111032002",
     "district_code": "611103",
-    "name": "Alur Bandung"
+    "name": "Alur Bandung",
+    "postal_code": "78856"
   },
   {
     "code": "6111032003",
     "district_code": "611103",
-    "name": "Telukbatang"
+    "name": "Telukbatang",
+    "postal_code": "78856"
   },
   {
     "code": "6111032004",
     "district_code": "611103",
-    "name": "Sungaipaduan"
+    "name": "Sungaipaduan",
+    "postal_code": "78856"
   },
   {
     "code": "6111032005",
     "district_code": "611103",
-    "name": "Banyu Abang"
+    "name": "Banyu Abang",
+    "postal_code": "78856"
   },
   {
     "code": "6111032006",
     "district_code": "611103",
-    "name": "Telukbatang Selatan"
+    "name": "Telukbatang Selatan",
+    "postal_code": "78856"
   },
   {
     "code": "6111032007",
     "district_code": "611103",
-    "name": "Telukbatang Utara"
+    "name": "Telukbatang Utara",
+    "postal_code": "78856"
   }
 ]

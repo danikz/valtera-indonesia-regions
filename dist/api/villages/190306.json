@@ -2,26 +2,31 @@
   {
     "code": "1903062001",
     "district_code": "190306",
-    "name": "Sadai"
+    "name": "Sadai",
+    "postal_code": "33784"
   },
   {
     "code": "1903062002",
     "district_code": "190306",
-    "name": "Tukak"
+    "name": "Tukak",
+    "postal_code": "33784"
   },
   {
     "code": "1903062003",
     "district_code": "190306",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "33784"
   },
   {
     "code": "1903062004",
     "district_code": "190306",
-    "name": "Tiram"
+    "name": "Tiram",
+    "postal_code": "33784"
   },
   {
     "code": "1903062005",
     "district_code": "190306",
-    "name": "Bukit Terap"
+    "name": "Bukit Terap",
+    "postal_code": "33784"
   }
 ]

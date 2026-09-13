@@ -2,76 +2,91 @@
   {
     "code": "7107042001",
     "district_code": "710704",
-    "name": "Ratatotok Satu"
+    "name": "Ratatotok Satu",
+    "postal_code": "95999"
   },
   {
     "code": "7107042002",
     "district_code": "710704",
-    "name": "Ratatotok Dua"
+    "name": "Ratatotok Dua",
+    "postal_code": "95999"
   },
   {
     "code": "7107042003",
     "district_code": "710704",
-    "name": "Ratatotok Selatan"
+    "name": "Ratatotok Selatan",
+    "postal_code": "95999"
   },
   {
     "code": "7107042004",
     "district_code": "710704",
-    "name": "Ratatotok Timur"
+    "name": "Ratatotok Timur",
+    "postal_code": "95999"
   },
   {
     "code": "7107042005",
     "district_code": "710704",
-    "name": "Basaan"
+    "name": "Basaan",
+    "postal_code": "95999"
   },
   {
     "code": "7107042006",
     "district_code": "710704",
-    "name": "Basaan Satu"
+    "name": "Basaan Satu",
+    "postal_code": "95999"
   },
   {
     "code": "7107042007",
     "district_code": "710704",
-    "name": "Morea"
+    "name": "Morea",
+    "postal_code": "95999"
   },
   {
     "code": "7107042008",
     "district_code": "710704",
-    "name": "Morea Satu"
+    "name": "Morea Satu",
+    "postal_code": "95999"
   },
   {
     "code": "7107042009",
     "district_code": "710704",
-    "name": "Soyoan"
+    "name": "Soyoan",
+    "postal_code": "95999"
   },
   {
     "code": "7107042010",
     "district_code": "710704",
-    "name": "Basaan Dua"
+    "name": "Basaan Dua",
+    "postal_code": "95999"
   },
   {
     "code": "7107042011",
     "district_code": "710704",
-    "name": "Ratatotok Utara"
+    "name": "Ratatotok Utara",
+    "postal_code": "95999"
   },
   {
     "code": "7107042012",
     "district_code": "710704",
-    "name": "Ratatotok Tenggara"
+    "name": "Ratatotok Tenggara",
+    "postal_code": "95999"
   },
   {
     "code": "7107042013",
     "district_code": "710704",
-    "name": "Ratatotok Tengah"
+    "name": "Ratatotok Tengah",
+    "postal_code": "95999"
   },
   {
     "code": "7107042014",
     "district_code": "710704",
-    "name": "Ratatotok"
+    "name": "Ratatotok",
+    "postal_code": "95999"
   },
   {
     "code": "7107042015",
     "district_code": "710704",
-    "name": "Ratatotok Muara"
+    "name": "Ratatotok Muara",
+    "postal_code": "95999"
   }
 ]

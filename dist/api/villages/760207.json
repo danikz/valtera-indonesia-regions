@@ -2,46 +2,55 @@
   {
     "code": "7602072001",
     "district_code": "760207",
-    "name": "Toabo"
+    "name": "Toabo",
+    "postal_code": "91565"
   },
   {
     "code": "7602072002",
     "district_code": "760207",
-    "name": "Papalang"
+    "name": "Papalang",
+    "postal_code": "91565"
   },
   {
     "code": "7602072003",
     "district_code": "760207",
-    "name": "Bonda"
+    "name": "Bonda",
+    "postal_code": "91565"
   },
   {
     "code": "7602072004",
     "district_code": "760207",
-    "name": "Topore"
+    "name": "Topore",
+    "postal_code": "91565"
   },
   {
     "code": "7602072005",
     "district_code": "760207",
-    "name": "Salukayu"
+    "name": "Salukayu",
+    "postal_code": "91565"
   },
   {
     "code": "7602072006",
     "district_code": "760207",
-    "name": "Sukadamai"
+    "name": "Sukadamai",
+    "postal_code": "91565"
   },
   {
     "code": "7602072007",
     "district_code": "760207",
-    "name": "Boda-Boda"
+    "name": "Boda-Boda",
+    "postal_code": "91565"
   },
   {
     "code": "7602072008",
     "district_code": "760207",
-    "name": "Sisango"
+    "name": "Sisango",
+    "postal_code": "91565"
   },
   {
     "code": "7602072009",
     "district_code": "760207",
-    "name": "Batu Ampa"
+    "name": "Batu Ampa",
+    "postal_code": "91565"
   }
 ]

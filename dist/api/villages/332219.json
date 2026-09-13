@@ -2,51 +2,61 @@
   {
     "code": "3322191001",
     "district_code": "332219",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "50514"
   },
   {
     "code": "3322191002",
     "district_code": "332219",
-    "name": "Kalirejo"
+    "name": "Kalirejo",
+    "postal_code": "50515"
   },
   {
     "code": "3322191003",
     "district_code": "332219",
-    "name": "Susukan"
+    "name": "Susukan",
+    "postal_code": "50516"
   },
   {
     "code": "3322191007",
     "district_code": "332219",
-    "name": "Gedanganak"
+    "name": "Gedanganak",
+    "postal_code": "50519"
   },
   {
     "code": "3322191008",
     "district_code": "332219",
-    "name": "Beji"
+    "name": "Beji",
+    "postal_code": "50519"
   },
   {
     "code": "3322192004",
     "district_code": "332219",
-    "name": "Mluweh"
+    "name": "Mluweh",
+    "postal_code": "50519"
   },
   {
     "code": "3322192005",
     "district_code": "332219",
-    "name": "Kawengen"
+    "name": "Kawengen",
+    "postal_code": "50519"
   },
   {
     "code": "3322192006",
     "district_code": "332219",
-    "name": "Kalikayen"
+    "name": "Kalikayen",
+    "postal_code": "50519"
   },
   {
     "code": "3322192009",
     "district_code": "332219",
-    "name": "Leyangan"
+    "name": "Leyangan",
+    "postal_code": "50519"
   },
   {
     "code": "3322192010",
     "district_code": "332219",
-    "name": "Kalongan"
+    "name": "Kalongan",
+    "postal_code": "50519"
   }
 ]

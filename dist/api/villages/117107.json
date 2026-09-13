@@ -2,51 +2,61 @@
   {
     "code": "1171072001",
     "district_code": "117107",
-    "name": "Geuceu Komplek"
+    "name": "Geuceu Komplek",
+    "postal_code": "23239"
   },
   {
     "code": "1171072002",
     "district_code": "117107",
-    "name": "Lamlagang"
+    "name": "Lamlagang",
+    "postal_code": "23239"
   },
   {
     "code": "1171072003",
     "district_code": "117107",
-    "name": "Geuceu Iniem"
+    "name": "Geuceu Iniem",
+    "postal_code": "23239"
   },
   {
     "code": "1171072004",
     "district_code": "117107",
-    "name": "Geuceu Kayee Jato"
+    "name": "Geuceu Kayee Jato",
+    "postal_code": "23239"
   },
   {
     "code": "1171072005",
     "district_code": "117107",
-    "name": "Lam Ara"
+    "name": "Lam Ara",
+    "postal_code": "23238"
   },
   {
     "code": "1171072006",
     "district_code": "117107",
-    "name": "Lhong Raya"
+    "name": "Lhong Raya",
+    "postal_code": "23238"
   },
   {
     "code": "1171072007",
     "district_code": "117107",
-    "name": "Mibo"
+    "name": "Mibo",
+    "postal_code": "23238"
   },
   {
     "code": "1171072008",
     "district_code": "117107",
-    "name": "Peunyerat"
+    "name": "Peunyerat",
+    "postal_code": "23238"
   },
   {
     "code": "1171072009",
     "district_code": "117107",
-    "name": "Lhong Cut"
+    "name": "Lhong Cut",
+    "postal_code": "23238"
   },
   {
     "code": "1171072010",
     "district_code": "117107",
-    "name": "Lampeout"
+    "name": "Lampeout",
+    "postal_code": "23238"
   }
 ]

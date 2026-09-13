@@ -2,41 +2,49 @@
   {
     "code": "1672021003",
     "district_code": "167202",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "31527"
   },
   {
     "code": "1672021004",
     "district_code": "167202",
-    "name": "Nendayung"
+    "name": "Nendayung",
+    "postal_code": "31527"
   },
   {
     "code": "1672021005",
     "district_code": "167202",
-    "name": "Gunung Dempo"
+    "name": "Gunung Dempo",
+    "postal_code": "31529"
   },
   {
     "code": "1672021018",
     "district_code": "167202",
-    "name": "Tebat Giri Indah"
+    "name": "Tebat Giri Indah",
+    "postal_code": "31526"
   },
   {
     "code": "1672021019",
     "district_code": "167202",
-    "name": "Tumbak Ulas"
+    "name": "Tumbak Ulas",
+    "postal_code": "31526"
   },
   {
     "code": "1672021020",
     "district_code": "167202",
-    "name": "Ulu Rurah"
+    "name": "Ulu Rurah",
+    "postal_code": "31526"
   },
   {
     "code": "1672021021",
     "district_code": "167202",
-    "name": "Tanjung Agung"
+    "name": "Tanjung Agung",
+    "postal_code": "31522"
   },
   {
     "code": "1672021022",
     "district_code": "167202",
-    "name": "Basemah Sersan"
+    "name": "Basemah Sersan",
+    "postal_code": "31526"
   }
 ]

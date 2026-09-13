@@ -2,61 +2,73 @@
   {
     "code": "5304022001",
     "district_code": "530402",
-    "name": "Silawan"
+    "name": "Silawan",
+    "postal_code": "85771"
   },
   {
     "code": "5304022002",
     "district_code": "530402",
-    "name": "Tulakadi"
+    "name": "Tulakadi",
+    "postal_code": "85771"
   },
   {
     "code": "5304022003",
     "district_code": "530402",
-    "name": "Sadi"
+    "name": "Sadi",
+    "postal_code": "85711"
   },
   {
     "code": "5304022004",
     "district_code": "530402",
-    "name": "Umaklaran"
+    "name": "Umaklaran",
+    "postal_code": "85771"
   },
   {
     "code": "5304022005",
     "district_code": "530402",
-    "name": "Manleten"
+    "name": "Manleten",
+    "postal_code": "85771"
   },
   {
     "code": "5304022006",
     "district_code": "530402",
-    "name": "Fatuba'a"
+    "name": "Fatuba'a",
+    "postal_code": "85771"
   },
   {
     "code": "5304022007",
     "district_code": "530402",
-    "name": "Dafala"
+    "name": "Dafala",
+    "postal_code": "85771"
   },
   {
     "code": "5304022008",
     "district_code": "530402",
-    "name": "Takirin"
+    "name": "Takirin",
+    "postal_code": "85771"
   },
   {
     "code": "5304022009",
     "district_code": "530402",
-    "name": "Bauho"
+    "name": "Bauho",
+    "postal_code": "85771"
   },
   {
     "code": "5304022010",
     "district_code": "530402",
-    "name": "Sarabau"
+    "name": "Sarabau",
+    "postal_code": "85771"
   },
   {
     "code": "5304022018",
     "district_code": "530402",
-    "name": "Tialai"
+    "name": "Tialai",
+    "postal_code": "85771"
   },
   {
     "code": "5304022019",
     "district_code": "530402",
-    "name": "Halimodok"
+    "name": "Halimodok",
+    "postal_code": "85771"
   }
 ]

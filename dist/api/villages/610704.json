@@ -2,31 +2,37 @@
   {
     "code": "6107041001",
     "district_code": "610704",
-    "name": "Bumi Emas"
+    "name": "Bumi Emas",
+    "postal_code": "79212"
   },
   {
     "code": "6107041010",
     "district_code": "610704",
-    "name": "Sebalo"
+    "name": "Sebalo",
+    "postal_code": "79211"
   },
   {
     "code": "6107042003",
     "district_code": "610704",
-    "name": "Tirta Kencana"
+    "name": "Tirta Kencana",
+    "postal_code": "79211"
   },
   {
     "code": "6107042004",
     "district_code": "610704",
-    "name": "Bhakti Mulya"
+    "name": "Bhakti Mulya",
+    "postal_code": "79213"
   },
   {
     "code": "6107042006",
     "district_code": "610704",
-    "name": "Bani Amas"
+    "name": "Bani Amas",
+    "postal_code": "79211"
   },
   {
     "code": "6107042009",
     "district_code": "610704",
-    "name": "Setia Budi"
+    "name": "Setia Budi",
+    "postal_code": "79211"
   }
 ]

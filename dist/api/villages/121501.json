@@ -2,51 +2,61 @@
   {
     "code": "1215012001",
     "district_code": "121501",
-    "name": "Tanjung Meriah"
+    "name": "Tanjung Meriah",
+    "postal_code": "22275"
   },
   {
     "code": "1215012002",
     "district_code": "121501",
-    "name": "Tanjung Mulia"
+    "name": "Tanjung Mulia",
+    "postal_code": "22275"
   },
   {
     "code": "1215012003",
     "district_code": "121501",
-    "name": "Kaban Tengah"
+    "name": "Kaban Tengah",
+    "postal_code": "22275"
   },
   {
     "code": "1215012004",
     "district_code": "121501",
-    "name": "Bandar Baru"
+    "name": "Bandar Baru",
+    "postal_code": "22275"
   },
   {
     "code": "1215012005",
     "district_code": "121501",
-    "name": "Simberruna"
+    "name": "Simberruna",
+    "postal_code": "22275"
   },
   {
     "code": "1215012006",
     "district_code": "121501",
-    "name": "Perolihen"
+    "name": "Perolihen",
+    "postal_code": "22275"
   },
   {
     "code": "1215012007",
     "district_code": "121501",
-    "name": "Maholida"
+    "name": "Maholida",
+    "postal_code": "22275"
   },
   {
     "code": "1215012008",
     "district_code": "121501",
-    "name": "Perjaga"
+    "name": "Perjaga",
+    "postal_code": "22275"
   },
   {
     "code": "1215012009",
     "district_code": "121501",
-    "name": "Malum"
+    "name": "Malum",
+    "postal_code": "22275"
   },
   {
     "code": "1215012010",
     "district_code": "121501",
-    "name": "Mbinalun"
+    "name": "Mbinalun",
+    "postal_code": "22275"
   }
 ]

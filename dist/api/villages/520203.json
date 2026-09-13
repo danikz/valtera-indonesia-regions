@@ -2,56 +2,67 @@
   {
     "code": "5202032001",
     "district_code": "520203",
-    "name": "Bujak"
+    "name": "Bujak",
+    "postal_code": "83552"
   },
   {
     "code": "5202032002",
     "district_code": "520203",
-    "name": "Selebung"
+    "name": "Selebung",
+    "postal_code": "83552"
   },
   {
     "code": "5202032003",
     "district_code": "520203",
-    "name": "Peresak"
+    "name": "Peresak",
+    "postal_code": "83552"
   },
   {
     "code": "5202032004",
     "district_code": "520203",
-    "name": "Mantang"
+    "name": "Mantang",
+    "postal_code": "83552"
   },
   {
     "code": "5202032005",
     "district_code": "520203",
-    "name": "Aik Darek"
+    "name": "Aik Darek",
+    "postal_code": "83552"
   },
   {
     "code": "5202032006",
     "district_code": "520203",
-    "name": "Tampak Siring"
+    "name": "Tampak Siring",
+    "postal_code": "83552"
   },
   {
     "code": "5202032007",
     "district_code": "520203",
-    "name": "Barabali"
+    "name": "Barabali",
+    "postal_code": "83552"
   },
   {
     "code": "5202032008",
     "district_code": "520203",
-    "name": "Beber"
+    "name": "Beber",
+    "postal_code": "83552"
   },
   {
     "code": "5202032009",
     "district_code": "520203",
-    "name": "Pagutan"
+    "name": "Pagutan",
+    "postal_code": "83552"
   },
   {
     "code": "5202032010",
     "district_code": "520203",
-    "name": "Mekar Bersatu"
+    "name": "Mekar Bersatu",
+    "postal_code": "83552"
   },
   {
     "code": "5202032011",
     "district_code": "520203",
-    "name": "Lendang Tampel"
+    "name": "Lendang Tampel",
+    "postal_code": "83552"
   }
 ]

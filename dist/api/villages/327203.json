@@ -2,26 +2,31 @@
   {
     "code": "3272031001",
     "district_code": "327203",
-    "name": "Citamiang"
+    "name": "Citamiang",
+    "postal_code": "43143"
   },
   {
     "code": "3272031002",
     "district_code": "327203",
-    "name": "Tipar"
+    "name": "Tipar",
+    "postal_code": "43141"
   },
   {
     "code": "3272031003",
     "district_code": "327203",
-    "name": "Nanggeleng"
+    "name": "Nanggeleng",
+    "postal_code": "43145"
   },
   {
     "code": "3272031004",
     "district_code": "327203",
-    "name": "Gedongpanjang"
+    "name": "Gedongpanjang",
+    "postal_code": "43144"
   },
   {
     "code": "3272031005",
     "district_code": "327203",
-    "name": "Cikondang"
+    "name": "Cikondang",
+    "postal_code": "43142"
   }
 ]

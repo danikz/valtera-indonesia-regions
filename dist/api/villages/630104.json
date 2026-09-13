@@ -2,56 +2,67 @@
   {
     "code": "6301042001",
     "district_code": "630104",
-    "name": "Sungai Bakau"
+    "name": "Sungai Bakau",
+    "postal_code": "70851"
   },
   {
     "code": "6301042002",
     "district_code": "630104",
-    "name": "Maluka Baulin"
+    "name": "Maluka Baulin",
+    "postal_code": "70851"
   },
   {
     "code": "6301042003",
     "district_code": "630104",
-    "name": "Bawah Layung"
+    "name": "Bawah Layung",
+    "postal_code": "70851"
   },
   {
     "code": "6301042004",
     "district_code": "630104",
-    "name": "Tambak Sarinah"
+    "name": "Tambak Sarinah",
+    "postal_code": "70851"
   },
   {
     "code": "6301042005",
     "district_code": "630104",
-    "name": "Kali Besar"
+    "name": "Kali Besar",
+    "postal_code": "70851"
   },
   {
     "code": "6301042006",
     "district_code": "630104",
-    "name": "Handil Negara"
+    "name": "Handil Negara",
+    "postal_code": "70851"
   },
   {
     "code": "6301042007",
     "district_code": "630104",
-    "name": "Padang Luas"
+    "name": "Padang Luas",
+    "postal_code": "70851"
   },
   {
     "code": "6301042008",
     "district_code": "630104",
-    "name": "Kurau"
+    "name": "Kurau",
+    "postal_code": "70851"
   },
   {
     "code": "6301042017",
     "district_code": "630104",
-    "name": "Tambak Karya"
+    "name": "Tambak Karya",
+    "postal_code": "70851"
   },
   {
     "code": "6301042018",
     "district_code": "630104",
-    "name": "Raden"
+    "name": "Raden",
+    "postal_code": "70851"
   },
   {
     "code": "6301042019",
     "district_code": "630104",
-    "name": "Sarikandi"
+    "name": "Sarikandi",
+    "postal_code": "70851"
   }
 ]

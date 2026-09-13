@@ -2,21 +2,25 @@
   {
     "code": "3273011001",
     "district_code": "327301",
-    "name": "Sukarasa"
+    "name": "Sukarasa",
+    "postal_code": "40152"
   },
   {
     "code": "3273011002",
     "district_code": "327301",
-    "name": "Gegerkalong"
+    "name": "Gegerkalong",
+    "postal_code": "40153"
   },
   {
     "code": "3273011003",
     "district_code": "327301",
-    "name": "Isola"
+    "name": "Isola",
+    "postal_code": "40154"
   },
   {
     "code": "3273011004",
     "district_code": "327301",
-    "name": "Sarijadi"
+    "name": "Sarijadi",
+    "postal_code": "40151"
   }
 ]

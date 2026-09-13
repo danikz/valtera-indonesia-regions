@@ -2,46 +2,55 @@
   {
     "code": "9301032001",
     "district_code": "930103",
-    "name": "Okaba"
+    "name": "Okaba",
+    "postal_code": "99638"
   },
   {
     "code": "9301032002",
     "district_code": "930103",
-    "name": "Wambi"
+    "name": "Wambi",
+    "postal_code": "99638"
   },
   {
     "code": "9301032003",
     "district_code": "930103",
-    "name": "Makaling"
+    "name": "Makaling",
+    "postal_code": "99638"
   },
   {
     "code": "9301032004",
     "district_code": "930103",
-    "name": "Alatep"
+    "name": "Alatep",
+    "postal_code": "99638"
   },
   {
     "code": "9301032005",
     "district_code": "930103",
-    "name": "Iwol"
+    "name": "Iwol",
+    "postal_code": "99638"
   },
   {
     "code": "9301032006",
     "district_code": "930103",
-    "name": "Duf Miraf"
+    "name": "Duf Miraf",
+    "postal_code": "99638"
   },
   {
     "code": "9301032007",
     "district_code": "930103",
-    "name": "Alaku"
+    "name": "Alaku",
+    "postal_code": "99638"
   },
   {
     "code": "9301032008",
     "district_code": "930103",
-    "name": "Sanggase"
+    "name": "Sanggase",
+    "postal_code": "99638"
   },
   {
     "code": "9301032009",
     "district_code": "930103",
-    "name": "Es Wambi"
+    "name": "Es Wambi",
+    "postal_code": "99638"
   }
 ]

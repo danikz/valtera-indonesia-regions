@@ -2,46 +2,55 @@
   {
     "code": "6501051001",
     "district_code": "650105",
-    "name": "Tanjung Selor Hulu"
+    "name": "Tanjung Selor Hulu",
+    "postal_code": "77211"
   },
   {
     "code": "6501051002",
     "district_code": "650105",
-    "name": "Tanjung Selor Hilir"
+    "name": "Tanjung Selor Hilir",
+    "postal_code": "77212"
   },
   {
     "code": "6501051008",
     "district_code": "650105",
-    "name": "Tanjung Selor Timur"
+    "name": "Tanjung Selor Timur",
+    "postal_code": "77212"
   },
   {
     "code": "6501052003",
     "district_code": "650105",
-    "name": "Jelarai Selor"
+    "name": "Jelarai Selor",
+    "postal_code": "77212"
   },
   {
     "code": "6501052004",
     "district_code": "650105",
-    "name": "Gunung Seriang"
+    "name": "Gunung Seriang",
+    "postal_code": "77212"
   },
   {
     "code": "6501052005",
     "district_code": "650105",
-    "name": "Bumi Rahayu"
+    "name": "Bumi Rahayu",
+    "postal_code": "77212"
   },
   {
     "code": "6501052006",
     "district_code": "650105",
-    "name": "Gunung Sari"
+    "name": "Gunung Sari",
+    "postal_code": "77212"
   },
   {
     "code": "6501052007",
     "district_code": "650105",
-    "name": "Apung"
+    "name": "Apung",
+    "postal_code": "77212"
   },
   {
     "code": "6501052009",
     "district_code": "650105",
-    "name": "Tengkapak"
+    "name": "Tengkapak",
+    "postal_code": "77212"
   }
 ]

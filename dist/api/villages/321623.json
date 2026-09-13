@@ -2,31 +2,37 @@
   {
     "code": "3216232001",
     "district_code": "321623",
-    "name": "Karangmulya"
+    "name": "Karangmulya",
+    "postal_code": "17356"
   },
   {
     "code": "3216232002",
     "district_code": "321623",
-    "name": "Karangindah"
+    "name": "Karangindah",
+    "postal_code": "17350"
   },
   {
     "code": "3216232003",
     "district_code": "321623",
-    "name": "Bojongmangu"
+    "name": "Bojongmangu",
+    "postal_code": "17352"
   },
   {
     "code": "3216232004",
     "district_code": "321623",
-    "name": "Sukabungah"
+    "name": "Sukabungah",
+    "postal_code": "17350"
   },
   {
     "code": "3216232005",
     "district_code": "321623",
-    "name": "Sukamukti"
+    "name": "Sukamukti",
+    "postal_code": "17350"
   },
   {
     "code": "3216232006",
     "district_code": "321623",
-    "name": "Medalkrisna"
+    "name": "Medalkrisna",
+    "postal_code": "17350"
   }
 ]

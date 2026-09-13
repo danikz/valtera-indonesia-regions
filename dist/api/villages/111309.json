@@ -2,51 +2,61 @@
   {
     "code": "1113092001",
     "district_code": "111309",
-    "name": "Penosan"
+    "name": "Penosan",
+    "postal_code": "24655"
   },
   {
     "code": "1113092002",
     "district_code": "111309",
-    "name": "Sekuelen"
+    "name": "Sekuelen",
+    "postal_code": "24655"
   },
   {
     "code": "1113092003",
     "district_code": "111309",
-    "name": "Akul"
+    "name": "Akul",
+    "postal_code": "24655"
   },
   {
     "code": "1113092004",
     "district_code": "111309",
-    "name": "Gegarang"
+    "name": "Gegarang",
+    "postal_code": "24655"
   },
   {
     "code": "1113092005",
     "district_code": "111309",
-    "name": "Peparik Gaib"
+    "name": "Peparik Gaib",
+    "postal_code": "24655"
   },
   {
     "code": "1113092006",
     "district_code": "111309",
-    "name": "Penosan Sepakat"
+    "name": "Penosan Sepakat",
+    "postal_code": "24655"
   },
   {
     "code": "1113092007",
     "district_code": "111309",
-    "name": "Tingkem"
+    "name": "Tingkem",
+    "postal_code": "24655"
   },
   {
     "code": "1113092008",
     "district_code": "111309",
-    "name": "Ketukah"
+    "name": "Ketukah",
+    "postal_code": "24655"
   },
   {
     "code": "1113092009",
     "district_code": "111309",
-    "name": "Peparik Dekat"
+    "name": "Peparik Dekat",
+    "postal_code": "24655"
   },
   {
     "code": "1113092010",
     "district_code": "111309",
-    "name": "Blang Jerango"
+    "name": "Blang Jerango",
+    "postal_code": "24655"
   }
 ]

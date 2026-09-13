@@ -2,41 +2,49 @@
   {
     "code": "3603102001",
     "district_code": "360310",
-    "name": "Sukadiri"
+    "name": "Sukadiri",
+    "postal_code": "15532"
   },
   {
     "code": "3603102002",
     "district_code": "360310",
-    "name": "Buaran Jati"
+    "name": "Buaran Jati",
+    "postal_code": "15532"
   },
   {
     "code": "3603102003",
     "district_code": "360310",
-    "name": "Rawa Kidang"
+    "name": "Rawa Kidang",
+    "postal_code": "15532"
   },
   {
     "code": "3603102004",
     "district_code": "360310",
-    "name": "Pekayon"
+    "name": "Pekayon",
+    "postal_code": "15532"
   },
   {
     "code": "3603102005",
     "district_code": "360310",
-    "name": "Karang Serang"
+    "name": "Karang Serang",
+    "postal_code": "15532"
   },
   {
     "code": "3603102006",
     "district_code": "360310",
-    "name": "Kosambi"
+    "name": "Kosambi",
+    "postal_code": "15532"
   },
   {
     "code": "3603102007",
     "district_code": "360310",
-    "name": "Mekar Kondang"
+    "name": "Mekar Kondang",
+    "postal_code": "15532"
   },
   {
     "code": "3603102008",
     "district_code": "360310",
-    "name": "Gintung"
+    "name": "Gintung",
+    "postal_code": "15532"
   }
 ]

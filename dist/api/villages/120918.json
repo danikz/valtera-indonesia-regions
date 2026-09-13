@@ -2,36 +2,43 @@
   {
     "code": "1209181001",
     "district_code": "120918",
-    "name": "Aek Loba Pekan"
+    "name": "Aek Loba Pekan",
+    "postal_code": "21273"
   },
   {
     "code": "1209182002",
     "district_code": "120918",
-    "name": "Aek Loba Afd I"
+    "name": "Aek Loba Afd I",
+    "postal_code": "21273"
   },
   {
     "code": "1209182003",
     "district_code": "120918",
-    "name": "Alang Bonbon"
+    "name": "Alang Bonbon",
+    "postal_code": "21273"
   },
   {
     "code": "1209182009",
     "district_code": "120918",
-    "name": "Sengon Sari"
+    "name": "Sengon Sari",
+    "postal_code": "21273"
   },
   {
     "code": "1209182010",
     "district_code": "120918",
-    "name": "Lobu Jiur"
+    "name": "Lobu Jiur",
+    "postal_code": "21273"
   },
   {
     "code": "1209182011",
     "district_code": "120918",
-    "name": "Rawa Sari"
+    "name": "Rawa Sari",
+    "postal_code": "21273"
   },
   {
     "code": "1209182013",
     "district_code": "120918",
-    "name": "Aek Loba"
+    "name": "Aek Loba",
+    "postal_code": "21273"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1572072001",
     "district_code": "157207",
-    "name": "Koto Baru"
+    "name": "Koto Baru",
+    "postal_code": "37152"
   },
   {
     "code": "1572072002",
     "district_code": "157207",
-    "name": "Koto Limau Manis"
+    "name": "Koto Limau Manis",
+    "postal_code": "37152"
   },
   {
     "code": "1572072003",
     "district_code": "157207",
-    "name": "Kampung Tengah"
+    "name": "Kampung Tengah",
+    "postal_code": "37152"
   },
   {
     "code": "1572072004",
     "district_code": "157207",
-    "name": "Dujung Sakti"
+    "name": "Dujung Sakti",
+    "postal_code": "37152"
   },
   {
     "code": "1572072005",
     "district_code": "157207",
-    "name": "Permai Indah"
+    "name": "Permai Indah",
+    "postal_code": "37152"
   },
   {
     "code": "1572072006",
     "district_code": "157207",
-    "name": "Srimenanti"
+    "name": "Srimenanti",
+    "postal_code": "37152"
   }
 ]

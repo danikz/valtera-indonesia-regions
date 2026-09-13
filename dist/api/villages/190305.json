@@ -2,46 +2,55 @@
   {
     "code": "1903052001",
     "district_code": "190305",
-    "name": "Payung"
+    "name": "Payung",
+    "postal_code": "33778"
   },
   {
     "code": "1903052002",
     "district_code": "190305",
-    "name": "Malik"
+    "name": "Malik",
+    "postal_code": "33778"
   },
   {
     "code": "1903052003",
     "district_code": "190305",
-    "name": "Sengir"
+    "name": "Sengir",
+    "postal_code": "33778"
   },
   {
     "code": "1903052004",
     "district_code": "190305",
-    "name": "Pangkal Buluh"
+    "name": "Pangkal Buluh",
+    "postal_code": "33778"
   },
   {
     "code": "1903052005",
     "district_code": "190305",
-    "name": "Irat"
+    "name": "Irat",
+    "postal_code": "33778"
   },
   {
     "code": "1903052006",
     "district_code": "190305",
-    "name": "Bedengung"
+    "name": "Bedengung",
+    "postal_code": "33778"
   },
   {
     "code": "1903052008",
     "district_code": "190305",
-    "name": "Nadung"
+    "name": "Nadung",
+    "postal_code": "33778"
   },
   {
     "code": "1903052009",
     "district_code": "190305",
-    "name": "Ranggung"
+    "name": "Ranggung",
+    "postal_code": "33778"
   },
   {
     "code": "1903052012",
     "district_code": "190305",
-    "name": "Paku"
+    "name": "Paku",
+    "postal_code": "33778"
   }
 ]

@@ -2,196 +2,235 @@
   {
     "code": "1213011011",
     "district_code": "121301",
-    "name": "Kota Siantar"
+    "name": "Kota Siantar",
+    "postal_code": "22919"
   },
   {
     "code": "1213011014",
     "district_code": "121301",
-    "name": "Kayu Jati"
+    "name": "Kayu Jati",
+    "postal_code": "22919"
   },
   {
     "code": "1213011022",
     "district_code": "121301",
-    "name": "Pasar Hilir"
+    "name": "Pasar Hilir",
+    "postal_code": "22916"
   },
   {
     "code": "1213011023",
     "district_code": "121301",
-    "name": "Pidoli Dolok"
+    "name": "Pidoli Dolok",
+    "postal_code": "22915"
   },
   {
     "code": "1213011031",
     "district_code": "121301",
-    "name": "Panyabungan II"
+    "name": "Panyabungan II",
+    "postal_code": "22913"
   },
   {
     "code": "1213011032",
     "district_code": "121301",
-    "name": "Panyabungan III"
+    "name": "Panyabungan III",
+    "postal_code": "22911"
   },
   {
     "code": "1213011033",
     "district_code": "121301",
-    "name": "Panyabungan I"
+    "name": "Panyabungan I",
+    "postal_code": "22912"
   },
   {
     "code": "1213011035",
     "district_code": "121301",
-    "name": "Sipolu-Polu"
+    "name": "Sipolu-Polu",
+    "postal_code": "22912"
   },
   {
     "code": "1213011036",
     "district_code": "121301",
-    "name": "Dalan Lidang"
+    "name": "Dalan Lidang",
+    "postal_code": "22912"
   },
   {
     "code": "1213012001",
     "district_code": "121301",
-    "name": "Adian Jior"
+    "name": "Adian Jior",
+    "postal_code": "22912"
   },
   {
     "code": "1213012002",
     "district_code": "121301",
-    "name": "Aek Banir"
+    "name": "Aek Banir",
+    "postal_code": "22912"
   },
   {
     "code": "1213012003",
     "district_code": "121301",
-    "name": "Aek Mata"
+    "name": "Aek Mata",
+    "postal_code": "22912"
   },
   {
     "code": "1213012004",
     "district_code": "121301",
-    "name": "Darussalam"
+    "name": "Darussalam",
+    "postal_code": "22912"
   },
   {
     "code": "1213012005",
     "district_code": "121301",
-    "name": "Gunung Barani"
+    "name": "Gunung Barani",
+    "postal_code": "22912"
   },
   {
     "code": "1213012006",
     "district_code": "121301",
-    "name": "Gunung Manaon"
+    "name": "Gunung Manaon",
+    "postal_code": "22912"
   },
   {
     "code": "1213012007",
     "district_code": "121301",
-    "name": "Gunung Tua Jae"
+    "name": "Gunung Tua Jae",
+    "postal_code": "22918"
   },
   {
     "code": "1213012008",
     "district_code": "121301",
-    "name": "Gunung Tua Julu"
+    "name": "Gunung Tua Julu",
+    "postal_code": "22918"
   },
   {
     "code": "1213012009",
     "district_code": "121301",
-    "name": "Gunung Tua Tonga"
+    "name": "Gunung Tua Tonga",
+    "postal_code": "22918"
   },
   {
     "code": "1213012010",
     "district_code": "121301",
-    "name": "Huta Lombang Lubis"
+    "name": "Huta Lombang Lubis",
+    "postal_code": "22912"
   },
   {
     "code": "1213012012",
     "district_code": "121301",
-    "name": "Ipar Bondar"
+    "name": "Ipar Bondar",
+    "postal_code": "22918"
   },
   {
     "code": "1213012013",
     "district_code": "121301",
-    "name": "Kampung Padang"
+    "name": "Kampung Padang",
+    "postal_code": "22912"
   },
   {
     "code": "1213012015",
     "district_code": "121301",
-    "name": "Lumban Pasir"
+    "name": "Lumban Pasir",
+    "postal_code": "22912"
   },
   {
     "code": "1213012016",
     "district_code": "121301",
-    "name": "Manyabar"
+    "name": "Manyabar",
+    "postal_code": "22912"
   },
   {
     "code": "1213012017",
     "district_code": "121301",
-    "name": "Pagaran Tonga"
+    "name": "Pagaran Tonga",
+    "postal_code": "22912"
   },
   {
     "code": "1213012018",
     "district_code": "121301",
-    "name": "Panyabungan Jae"
+    "name": "Panyabungan Jae",
+    "postal_code": "22917"
   },
   {
     "code": "1213012019",
     "district_code": "121301",
-    "name": "Panyabungan Julu"
+    "name": "Panyabungan Julu",
+    "postal_code": "22916"
   },
   {
     "code": "1213012020",
     "district_code": "121301",
-    "name": "Panyabungan Tonga"
+    "name": "Panyabungan Tonga",
+    "postal_code": "22916"
   },
   {
     "code": "1213012021",
     "district_code": "121301",
-    "name": "Perbangunan"
+    "name": "Perbangunan",
+    "postal_code": "22912"
   },
   {
     "code": "1213012024",
     "district_code": "121301",
-    "name": "Pidoli Lombang"
+    "name": "Pidoli Lombang",
+    "postal_code": "22915"
   },
   {
     "code": "1213012025",
     "district_code": "121301",
-    "name": "Salam Bue"
+    "name": "Salam Bue",
+    "postal_code": "22912"
   },
   {
     "code": "1213012026",
     "district_code": "121301",
-    "name": "Sarak Matua"
+    "name": "Sarak Matua",
+    "postal_code": "22912"
   },
   {
     "code": "1213012027",
     "district_code": "121301",
-    "name": "Sigalapang Julu"
+    "name": "Sigalapang Julu",
+    "postal_code": "22912"
   },
   {
     "code": "1213012028",
     "district_code": "121301",
-    "name": "Siobon Julu"
+    "name": "Siobon Julu",
+    "postal_code": "22912"
   },
   {
     "code": "1213012029",
     "district_code": "121301",
-    "name": "Sipapaga"
+    "name": "Sipapaga",
+    "postal_code": "22912"
   },
   {
     "code": "1213012030",
     "district_code": "121301",
-    "name": "Sopobatu"
+    "name": "Sopobatu",
+    "postal_code": "22912"
   },
   {
     "code": "1213012037",
     "district_code": "121301",
-    "name": "Siobon Jae"
+    "name": "Siobon Jae",
+    "postal_code": "22912"
   },
   {
     "code": "1213012038",
     "district_code": "121301",
-    "name": "Panggorengan"
+    "name": "Panggorengan",
+    "postal_code": "22912"
   },
   {
     "code": "1213012039",
     "district_code": "121301",
-    "name": "Saba Jambu"
+    "name": "Saba Jambu",
+    "postal_code": "22912"
   },
   {
     "code": "1213012040",
     "district_code": "121301",
-    "name": "Manyabar Jae"
+    "name": "Manyabar Jae",
+    "postal_code": "22912"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "1802212001",
     "district_code": "180221",
-    "name": "Srikaton"
+    "name": "Srikaton",
+    "postal_code": "34161"
   },
   {
     "code": "1802212002",
     "district_code": "180221",
-    "name": "Jaya Sakti"
+    "name": "Jaya Sakti",
+    "postal_code": "34161"
   },
   {
     "code": "1802212003",
     "district_code": "180221",
-    "name": "Haji Pemanggilan"
+    "name": "Haji Pemanggilan",
+    "postal_code": "34161"
   },
   {
     "code": "1802212004",
     "district_code": "180221",
-    "name": "Negara Bumi Ilir"
+    "name": "Negara Bumi Ilir",
+    "postal_code": "34161"
   },
   {
     "code": "1802212005",
     "district_code": "180221",
-    "name": "Bumi Aji"
+    "name": "Bumi Aji",
+    "postal_code": "34161"
   },
   {
     "code": "1802212006",
     "district_code": "180221",
-    "name": "Negara Aji Tua"
+    "name": "Negara Aji Tua",
+    "postal_code": "34161"
   },
   {
     "code": "1802212007",
     "district_code": "180221",
-    "name": "Negara Bumi Udik"
+    "name": "Negara Bumi Udik",
+    "postal_code": "34161"
   },
   {
     "code": "1802212008",
     "district_code": "180221",
-    "name": "Negara Aji Baru"
+    "name": "Negara Aji Baru",
+    "postal_code": "34161"
   },
   {
     "code": "1802212009",
     "district_code": "180221",
-    "name": "Gunung Agung"
+    "name": "Gunung Agung",
+    "postal_code": "34161"
   },
   {
     "code": "1802212010",
     "district_code": "180221",
-    "name": "Tanjung Harapan"
+    "name": "Tanjung Harapan",
+    "postal_code": "34161"
   },
   {
     "code": "1802212011",
     "district_code": "180221",
-    "name": "Bumi Jaya"
+    "name": "Bumi Jaya",
+    "postal_code": "34161"
   },
   {
     "code": "1802212012",
     "district_code": "180221",
-    "name": "Mulyo Haji"
+    "name": "Mulyo Haji",
+    "postal_code": "34161"
   }
 ]

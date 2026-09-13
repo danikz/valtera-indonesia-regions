@@ -2,46 +2,55 @@
   {
     "code": "7173021009",
     "district_code": "717302",
-    "name": "Talete Satu"
+    "name": "Talete Satu",
+    "postal_code": "95441"
   },
   {
     "code": "7173021010",
     "district_code": "717302",
-    "name": "Talete Dua"
+    "name": "Talete Dua",
+    "postal_code": "95441"
   },
   {
     "code": "7173021011",
     "district_code": "717302",
-    "name": "Kamasi"
+    "name": "Kamasi",
+    "postal_code": "95442"
   },
   {
     "code": "7173021012",
     "district_code": "717302",
-    "name": "Kolongan"
+    "name": "Kolongan",
+    "postal_code": "95442"
   },
   {
     "code": "7173021015",
     "district_code": "717302",
-    "name": "Matani Satu"
+    "name": "Matani Satu",
+    "postal_code": "95445"
   },
   {
     "code": "7173021016",
     "district_code": "717302",
-    "name": "Matani Dua"
+    "name": "Matani Dua",
+    "postal_code": "95444"
   },
   {
     "code": "7173021017",
     "district_code": "717302",
-    "name": "Matani Tiga"
+    "name": "Matani Tiga",
+    "postal_code": "95443"
   },
   {
     "code": "7173021018",
     "district_code": "717302",
-    "name": "Kamasi Satu"
+    "name": "Kamasi Satu",
+    "postal_code": "95441"
   },
   {
     "code": "7173021019",
     "district_code": "717302",
-    "name": "Kolongan Satu"
+    "name": "Kolongan Satu",
+    "postal_code": "95441"
   }
 ]

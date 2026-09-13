@@ -2,26 +2,31 @@
   {
     "code": "6171051001",
     "district_code": "617105",
-    "name": "Sungaibangkong"
+    "name": "Sungaibangkong",
+    "postal_code": "78116"
   },
   {
     "code": "6171051002",
     "district_code": "617105",
-    "name": "Daratsekip"
+    "name": "Daratsekip",
+    "postal_code": "78117"
   },
   {
     "code": "6171051003",
     "district_code": "617105",
-    "name": "Tengah"
+    "name": "Tengah",
+    "postal_code": "78111"
   },
   {
     "code": "6171051004",
     "district_code": "617105",
-    "name": "Mariana"
+    "name": "Mariana",
+    "postal_code": "78112"
   },
   {
     "code": "6171051005",
     "district_code": "617105",
-    "name": "Sungaijawi"
+    "name": "Sungaijawi",
+    "postal_code": "78113"
   }
 ]

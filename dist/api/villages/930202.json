@@ -2,66 +2,79 @@
   {
     "code": "9302022001",
     "district_code": "930202",
-    "name": "Mindiptana"
+    "name": "Mindiptana",
+    "postal_code": "99663"
   },
   {
     "code": "9302022002",
     "district_code": "930202",
-    "name": "Umap"
+    "name": "Umap",
+    "postal_code": "99662"
   },
   {
     "code": "9302022003",
     "district_code": "930202",
-    "name": "Awayanka"
+    "name": "Awayanka",
+    "postal_code": "99663"
   },
   {
     "code": "9302022004",
     "district_code": "930202",
-    "name": "Wanggatkibi"
+    "name": "Wanggatkibi",
+    "postal_code": "99662"
   },
   {
     "code": "9302022005",
     "district_code": "930202",
-    "name": "Epsembit"
+    "name": "Epsembit",
+    "postal_code": "99663"
   },
   {
     "code": "9302022006",
     "district_code": "930202",
-    "name": "Andobit"
+    "name": "Andobit",
+    "postal_code": "99662"
   },
   {
     "code": "9302022007",
     "district_code": "930202",
-    "name": "Niyimbang"
+    "name": "Niyimbang",
+    "postal_code": "99662"
   },
   {
     "code": "9302022008",
     "district_code": "930202",
-    "name": "Anggumbit"
+    "name": "Anggumbit",
+    "postal_code": "99662"
   },
   {
     "code": "9302022009",
     "district_code": "930202",
-    "name": "Imko"
+    "name": "Imko",
+    "postal_code": "99663"
   },
   {
     "code": "9302022010",
     "district_code": "930202",
-    "name": "Kamka"
+    "name": "Kamka",
+    "postal_code": "99662"
   },
   {
     "code": "9302022011",
     "district_code": "930202",
-    "name": "Osso"
+    "name": "Osso",
+    "postal_code": "99662"
   },
   {
     "code": "9302022012",
     "district_code": "930202",
-    "name": "Tinggam"
+    "name": "Tinggam",
+    "postal_code": "99663"
   },
   {
     "code": "9302022013",
     "district_code": "930202",
-    "name": "Kakuna"
+    "name": "Kakuna",
+    "postal_code": "99663"
   }
 ]

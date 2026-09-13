@@ -2,56 +2,67 @@
   {
     "code": "7371101001",
     "district_code": "737110",
-    "name": "Barombong"
+    "name": "Barombong",
+    "postal_code": "90225"
   },
   {
     "code": "7371101002",
     "district_code": "737110",
-    "name": "Maccini Sombala"
+    "name": "Maccini Sombala",
+    "postal_code": "90224"
   },
   {
     "code": "7371101003",
     "district_code": "737110",
-    "name": "Jongaya"
+    "name": "Jongaya",
+    "postal_code": "90223"
   },
   {
     "code": "7371101004",
     "district_code": "737110",
-    "name": "Mangasa"
+    "name": "Mangasa",
+    "postal_code": "90221"
   },
   {
     "code": "7371101005",
     "district_code": "737110",
-    "name": "Bongaya"
+    "name": "Bongaya",
+    "postal_code": "90223"
   },
   {
     "code": "7371101006",
     "district_code": "737110",
-    "name": "Balang Baru"
+    "name": "Balang Baru",
+    "postal_code": "90224"
   },
   {
     "code": "7371101007",
     "district_code": "737110",
-    "name": "Mannuruki"
+    "name": "Mannuruki",
+    "postal_code": "90221"
   },
   {
     "code": "7371101008",
     "district_code": "737110",
-    "name": "Pa'baeng-Baeng"
+    "name": "Pa'baeng-Baeng",
+    "postal_code": "90221"
   },
   {
     "code": "7371101009",
     "district_code": "737110",
-    "name": "Parang Tambung"
+    "name": "Parang Tambung",
+    "postal_code": "90224"
   },
   {
     "code": "7371101010",
     "district_code": "737110",
-    "name": "Tanjung Merdeka"
+    "name": "Tanjung Merdeka",
+    "postal_code": "90225"
   },
   {
     "code": "7371101011",
     "district_code": "737110",
-    "name": "Bonto Duri"
+    "name": "Bonto Duri",
+    "postal_code": "90224"
   }
 ]

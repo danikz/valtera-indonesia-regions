@@ -2,26 +2,31 @@
   {
     "code": "8208022001",
     "district_code": "820802",
-    "name": "Nggele"
+    "name": "Nggele",
+    "postal_code": "97794"
   },
   {
     "code": "8208022002",
     "district_code": "820802",
-    "name": "Salati"
+    "name": "Salati",
+    "postal_code": "97794"
   },
   {
     "code": "8208022003",
     "district_code": "820802",
-    "name": "Beringin Jaya"
+    "name": "Beringin Jaya",
+    "postal_code": "97794"
   },
   {
     "code": "8208022004",
     "district_code": "820802",
-    "name": "Kasango"
+    "name": "Kasango",
+    "postal_code": "97794"
   },
   {
     "code": "8208022005",
     "district_code": "820802",
-    "name": "Onemay"
+    "name": "Onemay",
+    "postal_code": "97794"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "2104062001",
     "district_code": "210406",
-    "name": "Berindat"
+    "name": "Berindat",
+    "postal_code": "29870"
   },
   {
     "code": "2104062002",
     "district_code": "210406",
-    "name": "Sedamai"
+    "name": "Sedamai",
+    "postal_code": "29870"
   },
   {
     "code": "2104062003",
     "district_code": "210406",
-    "name": "Lanjut"
+    "name": "Lanjut",
+    "postal_code": "29870"
   },
   {
     "code": "2104062004",
     "district_code": "210406",
-    "name": "Kote"
+    "name": "Kote",
+    "postal_code": "29870"
   },
   {
     "code": "2104062005",
     "district_code": "210406",
-    "name": "Persing"
+    "name": "Persing",
+    "postal_code": "29870"
   },
   {
     "code": "2104062006",
     "district_code": "210406",
-    "name": "Pelakak"
+    "name": "Pelakak",
+    "postal_code": "29870"
   }
 ]

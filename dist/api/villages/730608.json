@@ -2,71 +2,85 @@
   {
     "code": "7306081001",
     "district_code": "730608",
-    "name": "Sungguminasa"
+    "name": "Sungguminasa",
+    "postal_code": "92111"
   },
   {
     "code": "7306081002",
     "district_code": "730608",
-    "name": "Bonto Bontoa"
+    "name": "Bonto Bontoa",
+    "postal_code": "92111"
   },
   {
     "code": "7306081003",
     "district_code": "730608",
-    "name": "Batangkaluku"
+    "name": "Batangkaluku",
+    "postal_code": "92117"
   },
   {
     "code": "7306081004",
     "district_code": "730608",
-    "name": "Tompobalang"
+    "name": "Tompobalang",
+    "postal_code": "92112"
   },
   {
     "code": "7306081005",
     "district_code": "730608",
-    "name": "Samata"
+    "name": "Samata",
+    "postal_code": "92113"
   },
   {
     "code": "7306081006",
     "district_code": "730608",
-    "name": "Katangka"
+    "name": "Katangka",
+    "postal_code": "92114"
   },
   {
     "code": "7306081007",
     "district_code": "730608",
-    "name": "Pandang Pandang"
+    "name": "Pandang Pandang",
+    "postal_code": "92115"
   },
   {
     "code": "7306081008",
     "district_code": "730608",
-    "name": "Tombolo"
+    "name": "Tombolo",
+    "postal_code": "92114"
   },
   {
     "code": "7306081009",
     "district_code": "730608",
-    "name": "Kalegowa"
+    "name": "Kalegowa",
+    "postal_code": "92116"
   },
   {
     "code": "7306081010",
     "district_code": "730608",
-    "name": "Romangpolong"
+    "name": "Romangpolong",
+    "postal_code": "92118"
   },
   {
     "code": "7306081011",
     "district_code": "730608",
-    "name": "Paccinongang"
+    "name": "Paccinongang",
+    "postal_code": "92113"
   },
   {
     "code": "7306081012",
     "district_code": "730608",
-    "name": "Tamarunang"
+    "name": "Tamarunang",
+    "postal_code": "92112"
   },
   {
     "code": "7306081013",
     "district_code": "730608",
-    "name": "Bontoramba"
+    "name": "Bontoramba",
+    "postal_code": "92119"
   },
   {
     "code": "7306081014",
     "district_code": "730608",
-    "name": "Mawang"
+    "name": "Mawang",
+    "postal_code": "92119"
   }
 ]

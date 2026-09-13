@@ -2,71 +2,85 @@
   {
     "code": "9201071001",
     "district_code": "920107",
-    "name": "Aimas"
+    "name": "Aimas",
+    "postal_code": ""
   },
   {
     "code": "9201071002",
     "district_code": "920107",
-    "name": "Malawili"
+    "name": "Malawili",
+    "postal_code": ""
   },
   {
     "code": "9201071003",
     "district_code": "920107",
-    "name": "Malawele"
+    "name": "Malawele",
+    "postal_code": ""
   },
   {
     "code": "9201071006",
     "district_code": "920107",
-    "name": "Mariat Pantai"
+    "name": "Mariat Pantai",
+    "postal_code": ""
   },
   {
     "code": "9201071026",
     "district_code": "920107",
-    "name": "Mariat Gunung"
+    "name": "Mariat Gunung",
+    "postal_code": ""
   },
   {
     "code": "9201071029",
     "district_code": "920107",
-    "name": "Warmon"
+    "name": "Warmon",
+    "postal_code": ""
   },
   {
     "code": "9201071030",
     "district_code": "920107",
-    "name": "Klabinain"
+    "name": "Klabinain",
+    "postal_code": ""
   },
   {
     "code": "9201071031",
     "district_code": "920107",
-    "name": "Malasom"
+    "name": "Malasom",
+    "postal_code": ""
   },
   {
     "code": "9201071032",
     "district_code": "920107",
-    "name": "Klaigit"
+    "name": "Klaigit",
+    "postal_code": ""
   },
   {
     "code": "9201071034",
     "district_code": "920107",
-    "name": "Malagusa"
+    "name": "Malagusa",
+    "postal_code": ""
   },
   {
     "code": "9201071035",
     "district_code": "920107",
-    "name": "Klafma"
+    "name": "Klafma",
+    "postal_code": ""
   },
   {
     "code": "9201072028",
     "district_code": "920107",
-    "name": "Maibo"
+    "name": "Maibo",
+    "postal_code": ""
   },
   {
     "code": "9201072033",
     "district_code": "920107",
-    "name": "Aimo"
+    "name": "Aimo",
+    "postal_code": ""
   },
   {
     "code": "9201072038",
     "district_code": "920107",
-    "name": "Malasaum"
+    "name": "Malasaum",
+    "postal_code": ""
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "5302112001",
     "district_code": "530211",
-    "name": "Olais"
+    "name": "Olais",
+    "postal_code": "85564"
   },
   {
     "code": "5302112002",
     "district_code": "530211",
-    "name": "Lasi"
+    "name": "Lasi",
+    "postal_code": "85564"
   },
   {
     "code": "5302112003",
     "district_code": "530211",
-    "name": "Kakan"
+    "name": "Kakan",
+    "postal_code": "85564"
   },
   {
     "code": "5302112005",
     "district_code": "530211",
-    "name": "Basmuti"
+    "name": "Basmuti",
+    "postal_code": "85564"
   },
   {
     "code": "5302112006",
     "district_code": "530211",
-    "name": "Kusi"
+    "name": "Kusi",
+    "postal_code": "85564"
   },
   {
     "code": "5302112007",
     "district_code": "530211",
-    "name": "Kuanfatu"
+    "name": "Kuanfatu",
+    "postal_code": "85564"
   },
   {
     "code": "5302112008",
     "district_code": "530211",
-    "name": "Kelle"
+    "name": "Kelle",
+    "postal_code": "85564"
   },
   {
     "code": "5302112009",
     "district_code": "530211",
-    "name": "Taupi"
+    "name": "Taupi",
+    "postal_code": "85564"
   },
   {
     "code": "5302112010",
     "district_code": "530211",
-    "name": "Oebo"
+    "name": "Oebo",
+    "postal_code": "85564"
   },
   {
     "code": "5302112011",
     "district_code": "530211",
-    "name": "Kusi Utara"
+    "name": "Kusi Utara",
+    "postal_code": "85564"
   },
   {
     "code": "5302112012",
     "district_code": "530211",
-    "name": "Kelle Tunan"
+    "name": "Kelle Tunan",
+    "postal_code": "85564"
   },
   {
     "code": "5302112013",
     "district_code": "530211",
-    "name": "Noebeba"
+    "name": "Noebeba",
+    "postal_code": "85564"
   },
   {
     "code": "5302112014",
     "district_code": "530211",
-    "name": "Oehan"
+    "name": "Oehan",
+    "postal_code": "85564"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "9301102001",
     "district_code": "930110",
-    "name": "Bupul"
+    "name": "Bupul",
+    "postal_code": "99633"
   },
   {
     "code": "9301102002",
     "district_code": "930110",
-    "name": "Tanas"
+    "name": "Tanas",
+    "postal_code": "99633"
   },
   {
     "code": "9301102003",
     "district_code": "930110",
-    "name": "Kweel"
+    "name": "Kweel",
+    "postal_code": "99633"
   },
   {
     "code": "9301102004",
     "district_code": "930110",
-    "name": "Sipias"
+    "name": "Sipias",
+    "postal_code": "99633"
   },
   {
     "code": "9301102005",
     "district_code": "930110",
-    "name": "Metaat Makmur"
+    "name": "Metaat Makmur",
+    "postal_code": "99633"
   },
   {
     "code": "9301102006",
     "district_code": "930110",
-    "name": "Enggal Jaya"
+    "name": "Enggal Jaya",
+    "postal_code": "99633"
   },
   {
     "code": "9301102007",
     "district_code": "930110",
-    "name": "Gerisar"
+    "name": "Gerisar",
+    "postal_code": "99633"
   },
   {
     "code": "9301102008",
     "district_code": "930110",
-    "name": "Bupul Indah"
+    "name": "Bupul Indah",
+    "postal_code": "99633"
   },
   {
     "code": "9301102009",
     "district_code": "930110",
-    "name": "Tof-Tof"
+    "name": "Tof-Tof",
+    "postal_code": "99633"
   },
   {
     "code": "9301102010",
     "district_code": "930110",
-    "name": "Bunggay"
+    "name": "Bunggay",
+    "postal_code": "99633"
   },
   {
     "code": "9301102011",
     "district_code": "930110",
-    "name": "Bouwer"
+    "name": "Bouwer",
+    "postal_code": "99633"
   },
   {
     "code": "9301102012",
     "district_code": "930110",
-    "name": "Bumun"
+    "name": "Bumun",
+    "postal_code": "99633"
   }
 ]

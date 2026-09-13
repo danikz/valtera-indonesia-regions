@@ -2,51 +2,61 @@
   {
     "code": "3510151002",
     "district_code": "351015",
-    "name": "Bakungan"
+    "name": "Bakungan",
+    "postal_code": "68431"
   },
   {
     "code": "3510151003",
     "district_code": "351015",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "68432"
   },
   {
     "code": "3510152001",
     "district_code": "351015",
-    "name": "Rejosari"
+    "name": "Rejosari",
+    "postal_code": "68432"
   },
   {
     "code": "3510152004",
     "district_code": "351015",
-    "name": "Kemiren"
+    "name": "Kemiren",
+    "postal_code": "68432"
   },
   {
     "code": "3510152005",
     "district_code": "351015",
-    "name": "Olehsari"
+    "name": "Olehsari",
+    "postal_code": "68432"
   },
   {
     "code": "3510152006",
     "district_code": "351015",
-    "name": "Glagah"
+    "name": "Glagah",
+    "postal_code": "68432"
   },
   {
     "code": "3510152007",
     "district_code": "351015",
-    "name": "Paspan"
+    "name": "Paspan",
+    "postal_code": "68432"
   },
   {
     "code": "3510152010",
     "district_code": "351015",
-    "name": "Tamansuruh"
+    "name": "Tamansuruh",
+    "postal_code": "68432"
   },
   {
     "code": "3510152011",
     "district_code": "351015",
-    "name": "Kenjo"
+    "name": "Kenjo",
+    "postal_code": "68432"
   },
   {
     "code": "3510152012",
     "district_code": "351015",
-    "name": "Kampunganyar"
+    "name": "Kampunganyar",
+    "postal_code": "68432"
   }
 ]

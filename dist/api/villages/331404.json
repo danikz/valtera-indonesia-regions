@@ -2,51 +2,61 @@
   {
     "code": "3314042001",
     "district_code": "331404",
-    "name": "Pengkok"
+    "name": "Pengkok",
+    "postal_code": "57292"
   },
   {
     "code": "3314042002",
     "district_code": "331404",
-    "name": "Celep"
+    "name": "Celep",
+    "postal_code": "57292"
   },
   {
     "code": "3314042003",
     "district_code": "331404",
-    "name": "Karangpelem"
+    "name": "Karangpelem",
+    "postal_code": "57292"
   },
   {
     "code": "3314042004",
     "district_code": "331404",
-    "name": "Mojodoyong"
+    "name": "Mojodoyong",
+    "postal_code": "57292"
   },
   {
     "code": "3314042005",
     "district_code": "331404",
-    "name": "Jenggrik"
+    "name": "Jenggrik",
+    "postal_code": "57292"
   },
   {
     "code": "3314042006",
     "district_code": "331404",
-    "name": "Mojokerto"
+    "name": "Mojokerto",
+    "postal_code": "57292"
   },
   {
     "code": "3314042007",
     "district_code": "331404",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "57292"
   },
   {
     "code": "3314042008",
     "district_code": "331404",
-    "name": "Wonokerso"
+    "name": "Wonokerso",
+    "postal_code": "57292"
   },
   {
     "code": "3314042009",
     "district_code": "331404",
-    "name": "Kedawung"
+    "name": "Kedawung",
+    "postal_code": "57292"
   },
   {
     "code": "3314042010",
     "district_code": "331404",
-    "name": "Bendungan"
+    "name": "Bendungan",
+    "postal_code": "57292"
   }
 ]

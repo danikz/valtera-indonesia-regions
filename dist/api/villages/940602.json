@@ -2,36 +2,43 @@
   {
     "code": "9406022001",
     "district_code": "940602",
-    "name": "Bobomani"
+    "name": "Bobomani",
+    "postal_code": "98871"
   },
   {
     "code": "9406022002",
     "district_code": "940602",
-    "name": "Abaimaida"
+    "name": "Abaimaida",
+    "postal_code": "98871"
   },
   {
     "code": "9406022003",
     "district_code": "940602",
-    "name": "Bonakunu"
+    "name": "Bonakunu",
+    "postal_code": "98871"
   },
   {
     "code": "9406022004",
     "district_code": "940602",
-    "name": "Dawaikunu"
+    "name": "Dawaikunu",
+    "postal_code": "98871"
   },
   {
     "code": "9406022005",
     "district_code": "940602",
-    "name": "Magone"
+    "name": "Magone",
+    "postal_code": "98871"
   },
   {
     "code": "9406022006",
     "district_code": "940602",
-    "name": "Diyoudimi"
+    "name": "Diyoudimi",
+    "postal_code": "98871"
   },
   {
     "code": "9406022007",
     "district_code": "940602",
-    "name": "Obaikagopa"
+    "name": "Obaikagopa",
+    "postal_code": "98871"
   }
 ]

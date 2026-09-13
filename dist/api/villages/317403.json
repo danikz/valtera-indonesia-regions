@@ -2,26 +2,31 @@
   {
     "code": "3174031001",
     "district_code": "317403",
-    "name": "Mampang Prapatan"
+    "name": "Mampang Prapatan",
+    "postal_code": "12790"
   },
   {
     "code": "3174031002",
     "district_code": "317403",
-    "name": "Bangka"
+    "name": "Bangka",
+    "postal_code": "12730"
   },
   {
     "code": "3174031003",
     "district_code": "317403",
-    "name": "Pela Mampang"
+    "name": "Pela Mampang",
+    "postal_code": "12720"
   },
   {
     "code": "3174031004",
     "district_code": "317403",
-    "name": "Tegal Parang"
+    "name": "Tegal Parang",
+    "postal_code": "12790"
   },
   {
     "code": "3174031005",
     "district_code": "317403",
-    "name": "Kuningan Barat"
+    "name": "Kuningan Barat",
+    "postal_code": "12710"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3509012001",
     "district_code": "350901",
-    "name": "Padomasan"
+    "name": "Padomasan",
+    "postal_code": "68168"
   },
   {
     "code": "3509012002",
     "district_code": "350901",
-    "name": "Keting"
+    "name": "Keting",
+    "postal_code": "68168"
   },
   {
     "code": "3509012003",
     "district_code": "350901",
-    "name": "Jombang"
+    "name": "Jombang",
+    "postal_code": "68168"
   },
   {
     "code": "3509012004",
     "district_code": "350901",
-    "name": "Ngampelrejo"
+    "name": "Ngampelrejo",
+    "postal_code": "68168"
   },
   {
     "code": "3509012005",
     "district_code": "350901",
-    "name": "Wringinagung"
+    "name": "Wringinagung",
+    "postal_code": "68168"
   },
   {
     "code": "3509012006",
     "district_code": "350901",
-    "name": "Sarimulyo"
+    "name": "Sarimulyo",
+    "postal_code": "68168"
   }
 ]

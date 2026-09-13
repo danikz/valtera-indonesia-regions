@@ -2,46 +2,55 @@
   {
     "code": "9501202001",
     "district_code": "950120",
-    "name": "Siepkosi"
+    "name": "Siepkosi",
+    "postal_code": "99507"
   },
   {
     "code": "9501202002",
     "district_code": "950120",
-    "name": "Yumogima"
+    "name": "Yumogima",
+    "postal_code": "99507"
   },
   {
     "code": "9501202003",
     "district_code": "950120",
-    "name": "Sekan"
+    "name": "Sekan",
+    "postal_code": "99507"
   },
   {
     "code": "9501202004",
     "district_code": "950120",
-    "name": "Noagalo"
+    "name": "Noagalo",
+    "postal_code": "99507"
   },
   {
     "code": "9501202005",
     "district_code": "950120",
-    "name": "Manika"
+    "name": "Manika",
+    "postal_code": "99507"
   },
   {
     "code": "9501202006",
     "district_code": "950120",
-    "name": "Sekan Dalam"
+    "name": "Sekan Dalam",
+    "postal_code": "99507"
   },
   {
     "code": "9501202007",
     "district_code": "950120",
-    "name": "Isawa Himan"
+    "name": "Isawa Himan",
+    "postal_code": "99507"
   },
   {
     "code": "9501202008",
     "district_code": "950120",
-    "name": "Lunaima"
+    "name": "Lunaima",
+    "postal_code": "99507"
   },
   {
     "code": "9501202009",
     "district_code": "950120",
-    "name": "Wekia"
+    "name": "Wekia",
+    "postal_code": "99507"
   }
 ]

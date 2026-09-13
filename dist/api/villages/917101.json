@@ -2,41 +2,49 @@
   {
     "code": "9171011001",
     "district_code": "917101",
-    "name": "Gurabesi"
+    "name": "Gurabesi",
+    "postal_code": "99111"
   },
   {
     "code": "9171011002",
     "district_code": "917101",
-    "name": "Bayangkara"
+    "name": "Bayangkara",
+    "postal_code": "99112"
   },
   {
     "code": "9171011003",
     "district_code": "917101",
-    "name": "Trikora"
+    "name": "Trikora",
+    "postal_code": "99114"
   },
   {
     "code": "9171011004",
     "district_code": "917101",
-    "name": "Imbi"
+    "name": "Imbi",
+    "postal_code": "99116"
   },
   {
     "code": "9171011005",
     "district_code": "917101",
-    "name": "Tanjung Ria"
+    "name": "Tanjung Ria",
+    "postal_code": "99117"
   },
   {
     "code": "9171011006",
     "district_code": "917101",
-    "name": "Mandala"
+    "name": "Mandala",
+    "postal_code": "99115"
   },
   {
     "code": "9171011007",
     "district_code": "917101",
-    "name": "Angkasapura"
+    "name": "Angkasapura",
+    "postal_code": "99113"
   },
   {
     "code": "9171012008",
     "district_code": "917101",
-    "name": "Kayo Batu"
+    "name": "Kayo Batu",
+    "postal_code": "99118"
   }
 ]

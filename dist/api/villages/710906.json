@@ -2,31 +2,37 @@
   {
     "code": "7109062001",
     "district_code": "710906",
-    "name": "Bulangan"
+    "name": "Bulangan",
+    "postal_code": "95865"
   },
   {
     "code": "7109062002",
     "district_code": "710906",
-    "name": "Minanga"
+    "name": "Minanga",
+    "postal_code": "95865"
   },
   {
     "code": "7109062003",
     "district_code": "710906",
-    "name": "Wo"
+    "name": "Wo",
+    "postal_code": "95865"
   },
   {
     "code": "7109062004",
     "district_code": "710906",
-    "name": "Bawoleu"
+    "name": "Bawoleu",
+    "postal_code": "95865"
   },
   {
     "code": "7109062005",
     "district_code": "710906",
-    "name": "Lumbo"
+    "name": "Lumbo",
+    "postal_code": "95865"
   },
   {
     "code": "7109062006",
     "district_code": "710906",
-    "name": "Bawo"
+    "name": "Bawo",
+    "postal_code": "95865"
   }
 ]

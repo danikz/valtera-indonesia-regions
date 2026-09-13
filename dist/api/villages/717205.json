@@ -2,41 +2,49 @@
   {
     "code": "7172051001",
     "district_code": "717205",
-    "name": "Tanjung Merah"
+    "name": "Tanjung Merah",
+    "postal_code": "95547"
   },
   {
     "code": "7172051002",
     "district_code": "717205",
-    "name": "Sagerat"
+    "name": "Sagerat",
+    "postal_code": "95546"
   },
   {
     "code": "7172051003",
     "district_code": "717205",
-    "name": "Manembo-nembo Atas"
+    "name": "Manembo-nembo Atas",
+    "postal_code": "95545"
   },
   {
     "code": "7172051007",
     "district_code": "717205",
-    "name": "Manembo-nembo"
+    "name": "Manembo-nembo",
+    "postal_code": "95545"
   },
   {
     "code": "7172051011",
     "district_code": "717205",
-    "name": "Sagerat Weru Satu"
+    "name": "Sagerat Weru Satu",
+    "postal_code": "95546"
   },
   {
     "code": "7172051012",
     "district_code": "717205",
-    "name": "Sagerat Weru Dua"
+    "name": "Sagerat Weru Dua",
+    "postal_code": "95546"
   },
   {
     "code": "7172051013",
     "district_code": "717205",
-    "name": "Manembo-nembo Tengah"
+    "name": "Manembo-nembo Tengah",
+    "postal_code": "95545"
   },
   {
     "code": "7172051014",
     "district_code": "717205",
-    "name": "Tendeki"
+    "name": "Tendeki",
+    "postal_code": "95539"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "5272031001",
     "district_code": "527203",
-    "name": "Melayu"
+    "name": "Melayu",
+    "postal_code": "84119"
   },
   {
     "code": "5272031002",
     "district_code": "527203",
-    "name": "Jatiwangi"
+    "name": "Jatiwangi",
+    "postal_code": "84119"
   },
   {
     "code": "5272031003",
     "district_code": "527203",
-    "name": "Jatibaru"
+    "name": "Jatibaru",
+    "postal_code": "84119"
   },
   {
     "code": "5272031004",
     "district_code": "527203",
-    "name": "Kolo"
+    "name": "Kolo",
+    "postal_code": "84119"
   },
   {
     "code": "5272031005",
     "district_code": "527203",
-    "name": "Jaibaru Timur"
+    "name": "Jaibaru Timur",
+    "postal_code": "84119"
   },
   {
     "code": "5272031006",
     "district_code": "527203",
-    "name": "Ole"
+    "name": "Ole",
+    "postal_code": "84119"
   }
 ]

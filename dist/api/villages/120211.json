@@ -2,71 +2,85 @@
   {
     "code": "1202112001",
     "district_code": "120211",
-    "name": "Manalu"
+    "name": "Manalu",
+    "postal_code": "22453"
   },
   {
     "code": "1202112002",
     "district_code": "120211",
-    "name": "Manalu Purba"
+    "name": "Manalu Purba",
+    "postal_code": "22453"
   },
   {
     "code": "1202112003",
     "district_code": "120211",
-    "name": "Manalu Dolok"
+    "name": "Manalu Dolok",
+    "postal_code": "22453"
   },
   {
     "code": "1202112004",
     "district_code": "120211",
-    "name": "Hutajulu"
+    "name": "Hutajulu",
+    "postal_code": "22453"
   },
   {
     "code": "1202112005",
     "district_code": "120211",
-    "name": "Aek Raja"
+    "name": "Aek Raja",
+    "postal_code": "22453"
   },
   {
     "code": "1202112006",
     "district_code": "120211",
-    "name": "Hutatinggi"
+    "name": "Hutatinggi",
+    "postal_code": "22453"
   },
   {
     "code": "1202112007",
     "district_code": "120211",
-    "name": "Lobusunut"
+    "name": "Lobusunut",
+    "postal_code": "22453"
   },
   {
     "code": "1202112008",
     "district_code": "120211",
-    "name": "Sisordak"
+    "name": "Sisordak",
+    "postal_code": "22453"
   },
   {
     "code": "1202112009",
     "district_code": "120211",
-    "name": "Pertengahan"
+    "name": "Pertengahan",
+    "postal_code": "22453"
   },
   {
     "code": "1202112010",
     "district_code": "120211",
-    "name": "Hutatua"
+    "name": "Hutatua",
+    "postal_code": "22453"
   },
   {
     "code": "1202112011",
     "district_code": "120211",
-    "name": "Hutajulu Parbalik"
+    "name": "Hutajulu Parbalik",
+    "postal_code": "22453"
   },
   {
     "code": "1202112012",
     "district_code": "120211",
-    "name": "Horisan Ranggitgit"
+    "name": "Horisan Ranggitgit",
+    "postal_code": "22453"
   },
   {
     "code": "1202112013",
     "district_code": "120211",
-    "name": "Purba Dolok"
+    "name": "Purba Dolok",
+    "postal_code": "22453"
   },
   {
     "code": "1202112014",
     "district_code": "120211",
-    "name": "Batuarimo"
+    "name": "Batuarimo",
+    "postal_code": "22453"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1301032001",
     "district_code": "130103",
-    "name": "Kambang"
+    "name": "Kambang",
+    "postal_code": "25663"
   },
   {
     "code": "1301032002",
     "district_code": "130103",
-    "name": "Lakitan"
+    "name": "Lakitan",
+    "postal_code": "25663"
   },
   {
     "code": "1301032003",
     "district_code": "130103",
-    "name": "Kambang Utara"
+    "name": "Kambang Utara",
+    "postal_code": "25663"
   },
   {
     "code": "1301032004",
     "district_code": "130103",
-    "name": "Kambang Timur"
+    "name": "Kambang Timur",
+    "postal_code": "25663"
   },
   {
     "code": "1301032005",
     "district_code": "130103",
-    "name": "Kambang Barat"
+    "name": "Kambang Barat",
+    "postal_code": "25663"
   },
   {
     "code": "1301032006",
     "district_code": "130103",
-    "name": "Lakitan Utara"
+    "name": "Lakitan Utara",
+    "postal_code": "25663"
   },
   {
     "code": "1301032007",
     "district_code": "130103",
-    "name": "Lakitan Selatan"
+    "name": "Lakitan Selatan",
+    "postal_code": "25663"
   },
   {
     "code": "1301032008",
     "district_code": "130103",
-    "name": "Lakitan Timur"
+    "name": "Lakitan Timur",
+    "postal_code": "25663"
   },
   {
     "code": "1301032009",
     "district_code": "130103",
-    "name": "Lakitan Tengah"
+    "name": "Lakitan Tengah",
+    "postal_code": "25663"
   }
 ]

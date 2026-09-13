@@ -2,26 +2,31 @@
   {
     "code": "7373061001",
     "district_code": "737306",
-    "name": "Tomarundung"
+    "name": "Tomarundung",
+    "postal_code": "91921"
   },
   {
     "code": "7373061002",
     "district_code": "737306",
-    "name": "Battang"
+    "name": "Battang",
+    "postal_code": "91958"
   },
   {
     "code": "7373061003",
     "district_code": "737306",
-    "name": "Lebang"
+    "name": "Lebang",
+    "postal_code": "91921"
   },
   {
     "code": "7373061004",
     "district_code": "737306",
-    "name": "Battang Barat"
+    "name": "Battang Barat",
+    "postal_code": "91921"
   },
   {
     "code": "7373061005",
     "district_code": "737306",
-    "name": "Padang Lambe"
+    "name": "Padang Lambe",
+    "postal_code": "91921"
   }
 ]

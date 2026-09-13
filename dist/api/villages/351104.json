@@ -2,21 +2,25 @@
   {
     "code": "3511042001",
     "district_code": "351104",
-    "name": "Sukosari Lor"
+    "name": "Sukosari Lor",
+    "postal_code": "68287"
   },
   {
     "code": "3511042002",
     "district_code": "351104",
-    "name": "Nogosari"
+    "name": "Nogosari",
+    "postal_code": "68287"
   },
   {
     "code": "3511042003",
     "district_code": "351104",
-    "name": "Pecalongan"
+    "name": "Pecalongan",
+    "postal_code": "68287"
   },
   {
     "code": "3511042004",
     "district_code": "351104",
-    "name": "Kerang"
+    "name": "Kerang",
+    "postal_code": "68287"
   }
 ]

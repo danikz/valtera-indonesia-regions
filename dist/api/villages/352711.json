@@ -2,61 +2,73 @@
   {
     "code": "3527112001",
     "district_code": "352711",
-    "name": "Tobai Barat"
+    "name": "Tobai Barat",
+    "postal_code": "69262"
   },
   {
     "code": "3527112002",
     "district_code": "352711",
-    "name": "Tobai Tengah"
+    "name": "Tobai Tengah",
+    "postal_code": "69262"
   },
   {
     "code": "3527112003",
     "district_code": "352711",
-    "name": "Tobai Timur"
+    "name": "Tobai Timur",
+    "postal_code": "69262"
   },
   {
     "code": "3527112004",
     "district_code": "352711",
-    "name": "Bira Tengah"
+    "name": "Bira Tengah",
+    "postal_code": "69262"
   },
   {
     "code": "3527112005",
     "district_code": "352711",
-    "name": "Bira Timur"
+    "name": "Bira Timur",
+    "postal_code": "69262"
   },
   {
     "code": "3527112006",
     "district_code": "352711",
-    "name": "Sokobanah Laok"
+    "name": "Sokobanah Laok",
+    "postal_code": "69262"
   },
   {
     "code": "3527112007",
     "district_code": "352711",
-    "name": "Tamberu Laok"
+    "name": "Tamberu Laok",
+    "postal_code": "69262"
   },
   {
     "code": "3527112008",
     "district_code": "352711",
-    "name": "Tamberu Daya"
+    "name": "Tamberu Daya",
+    "postal_code": "69262"
   },
   {
     "code": "3527112009",
     "district_code": "352711",
-    "name": "Sokobanah Tengah"
+    "name": "Sokobanah Tengah",
+    "postal_code": "69262"
   },
   {
     "code": "3527112010",
     "district_code": "352711",
-    "name": "Sokobanah Daya"
+    "name": "Sokobanah Daya",
+    "postal_code": "69262"
   },
   {
     "code": "3527112011",
     "district_code": "352711",
-    "name": "Tamberu Barat"
+    "name": "Tamberu Barat",
+    "postal_code": "69262"
   },
   {
     "code": "3527112012",
     "district_code": "352711",
-    "name": "Tamberu Timur"
+    "name": "Tamberu Timur",
+    "postal_code": "69262"
   }
 ]

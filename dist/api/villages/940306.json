@@ -2,26 +2,31 @@
   {
     "code": "9403062001",
     "district_code": "940306",
-    "name": "Duma"
+    "name": "Duma",
+    "postal_code": "98743"
   },
   {
     "code": "9403062002",
     "district_code": "940306",
-    "name": "Bomosiga"
+    "name": "Bomosiga",
+    "postal_code": "98743"
   },
   {
     "code": "9403062003",
     "district_code": "940306",
-    "name": "Japesigaiwaka"
+    "name": "Japesigaiwaka",
+    "postal_code": "98743"
   },
   {
     "code": "9403062004",
     "district_code": "940306",
-    "name": "Waitapa"
+    "name": "Waitapa",
+    "postal_code": "98743"
   },
   {
     "code": "9403062005",
     "district_code": "940306",
-    "name": "Duma II"
+    "name": "Duma II",
+    "postal_code": "98743"
   }
 ]

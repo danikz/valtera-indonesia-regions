@@ -2,41 +2,49 @@
   {
     "code": "9501302001",
     "district_code": "950130",
-    "name": "Wogi"
+    "name": "Wogi",
+    "postal_code": "99535"
   },
   {
     "code": "9501302002",
     "district_code": "950130",
-    "name": "Elaboge"
+    "name": "Elaboge",
+    "postal_code": "99535"
   },
   {
     "code": "9501302003",
     "district_code": "950130",
-    "name": "Holasili"
+    "name": "Holasili",
+    "postal_code": "99535"
   },
   {
     "code": "9501302004",
     "district_code": "950130",
-    "name": "Yerega"
+    "name": "Yerega",
+    "postal_code": "99535"
   },
   {
     "code": "9501302005",
     "district_code": "950130",
-    "name": "Olagi"
+    "name": "Olagi",
+    "postal_code": "99535"
   },
   {
     "code": "9501302006",
     "district_code": "950130",
-    "name": "Gigilobo"
+    "name": "Gigilobo",
+    "postal_code": "99535"
   },
   {
     "code": "9501302007",
     "district_code": "950130",
-    "name": "Apnae"
+    "name": "Apnae",
+    "postal_code": "99535"
   },
   {
     "code": "9501302008",
     "district_code": "950130",
-    "name": "Wonenggulik"
+    "name": "Wonenggulik",
+    "postal_code": "99535"
   }
 ]

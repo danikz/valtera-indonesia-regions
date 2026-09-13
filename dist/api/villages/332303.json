@@ -2,126 +2,151 @@
   {
     "code": "3323031001",
     "district_code": "332303",
-    "name": "Temanggung I"
+    "name": "Temanggung I",
+    "postal_code": "56212"
   },
   {
     "code": "3323031002",
     "district_code": "332303",
-    "name": "Temanggung II"
+    "name": "Temanggung II",
+    "postal_code": "56213"
   },
   {
     "code": "3323031003",
     "district_code": "332303",
-    "name": "Butuh"
+    "name": "Butuh",
+    "postal_code": "56214"
   },
   {
     "code": "3323031004",
     "district_code": "332303",
-    "name": "Jampiroso"
+    "name": "Jampiroso",
+    "postal_code": "56216"
   },
   {
     "code": "3323031005",
     "district_code": "332303",
-    "name": "Jampirejo"
+    "name": "Jampirejo",
+    "postal_code": "56215"
   },
   {
     "code": "3323031006",
     "district_code": "332303",
-    "name": "Kertosari"
+    "name": "Kertosari",
+    "postal_code": "56217"
   },
   {
     "code": "3323031007",
     "district_code": "332303",
-    "name": "Banyuurip"
+    "name": "Banyuurip",
+    "postal_code": "56211"
   },
   {
     "code": "3323031008",
     "district_code": "332303",
-    "name": "Kowangan"
+    "name": "Kowangan",
+    "postal_code": "56218"
   },
   {
     "code": "3323031009",
     "district_code": "332303",
-    "name": "Jurang"
+    "name": "Jurang",
+    "postal_code": "56222"
   },
   {
     "code": "3323031010",
     "district_code": "332303",
-    "name": "Tlogorejo"
+    "name": "Tlogorejo",
+    "postal_code": "56229"
   },
   {
     "code": "3323031012",
     "district_code": "332303",
-    "name": "Kebonsari"
+    "name": "Kebonsari",
+    "postal_code": "56223"
   },
   {
     "code": "3323031013",
     "district_code": "332303",
-    "name": "Manding"
+    "name": "Manding",
+    "postal_code": "56224"
   },
   {
     "code": "3323031014",
     "district_code": "332303",
-    "name": "Mungseng"
+    "name": "Mungseng",
+    "postal_code": "56225"
   },
   {
     "code": "3323031015",
     "district_code": "332303",
-    "name": "Purworejo"
+    "name": "Purworejo",
+    "postal_code": "56227"
   },
   {
     "code": "3323031016",
     "district_code": "332303",
-    "name": "Giyanti"
+    "name": "Giyanti",
+    "postal_code": "56226"
   },
   {
     "code": "3323031018",
     "district_code": "332303",
-    "name": "Madureso"
+    "name": "Madureso",
+    "postal_code": "56229"
   },
   {
     "code": "3323031022",
     "district_code": "332303",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "56221"
   },
   {
     "code": "3323031025",
     "district_code": "332303",
-    "name": "Walitelon Utara"
+    "name": "Walitelon Utara",
+    "postal_code": "56229"
   },
   {
     "code": "3323031026",
     "district_code": "332303",
-    "name": "Walitelon Selatan"
+    "name": "Walitelon Selatan",
+    "postal_code": "56229"
   },
   {
     "code": "3323032011",
     "district_code": "332303",
-    "name": "Joho"
+    "name": "Joho",
+    "postal_code": "56229"
   },
   {
     "code": "3323032017",
     "district_code": "332303",
-    "name": "Guntur"
+    "name": "Guntur",
+    "postal_code": "56229"
   },
   {
     "code": "3323032019",
     "district_code": "332303",
-    "name": "Lungge"
+    "name": "Lungge",
+    "postal_code": "56229"
   },
   {
     "code": "3323032020",
     "district_code": "332303",
-    "name": "Mudal"
+    "name": "Mudal",
+    "postal_code": "56228"
   },
   {
     "code": "3323032021",
     "district_code": "332303",
-    "name": "Gilingsari"
+    "name": "Gilingsari",
+    "postal_code": "56229"
   },
   {
     "code": "3323032024",
     "district_code": "332303",
-    "name": "Nampirejo"
+    "name": "Nampirejo",
+    "postal_code": "56229"
   }
 ]

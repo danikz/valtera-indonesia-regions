@@ -2,31 +2,37 @@
   {
     "code": "9302052001",
     "district_code": "930205",
-    "name": "Getentiri"
+    "name": "Getentiri",
+    "postal_code": "99661"
   },
   {
     "code": "9302052002",
     "district_code": "930205",
-    "name": "Anggai"
+    "name": "Anggai",
+    "postal_code": "99661"
   },
   {
     "code": "9302052003",
     "district_code": "930205",
-    "name": "Butiptiri"
+    "name": "Butiptiri",
+    "postal_code": "99661"
   },
   {
     "code": "9302052004",
     "district_code": "930205",
-    "name": "Asiki"
+    "name": "Asiki",
+    "postal_code": "99661"
   },
   {
     "code": "9302052005",
     "district_code": "930205",
-    "name": "Kapogu"
+    "name": "Kapogu",
+    "postal_code": "99661"
   },
   {
     "code": "9302052006",
     "district_code": "930205",
-    "name": "Miri"
+    "name": "Miri",
+    "postal_code": "99651"
   }
 ]

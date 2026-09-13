@@ -2,26 +2,31 @@
   {
     "code": "1471071005",
     "district_code": "147107",
-    "name": "Simpang Tiga"
+    "name": "Simpang Tiga",
+    "postal_code": "28284"
   },
   {
     "code": "1471071006",
     "district_code": "147107",
-    "name": "Tangkerang Selatan"
+    "name": "Tangkerang Selatan",
+    "postal_code": "28288"
   },
   {
     "code": "1471071008",
     "district_code": "147107",
-    "name": "Tangkerang Utara"
+    "name": "Tangkerang Utara",
+    "postal_code": "28289"
   },
   {
     "code": "1471071011",
     "district_code": "147107",
-    "name": "Tangkerang Labuai"
+    "name": "Tangkerang Labuai",
+    "postal_code": "28281"
   },
   {
     "code": "1471071012",
     "district_code": "147107",
-    "name": "Airdingin"
+    "name": "Airdingin",
+    "postal_code": "28284"
   }
 ]

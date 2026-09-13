@@ -2,51 +2,61 @@
   {
     "code": "1174032001",
     "district_code": "117403",
-    "name": "Teungoh"
+    "name": "Teungoh",
+    "postal_code": "24416"
   },
   {
     "code": "1174032002",
     "district_code": "117403",
-    "name": "Peukan Langsa"
+    "name": "Peukan Langsa",
+    "postal_code": "24412"
   },
   {
     "code": "1174032004",
     "district_code": "117403",
-    "name": "Jawa"
+    "name": "Jawa",
+    "postal_code": "24416"
   },
   {
     "code": "1174032005",
     "district_code": "117403",
-    "name": "Paya Bujok Blang Pase"
+    "name": "Paya Bujok Blang Pase",
+    "postal_code": "24414"
   },
   {
     "code": "1174032006",
     "district_code": "117403",
-    "name": "Blang"
+    "name": "Blang",
+    "postal_code": "24416"
   },
   {
     "code": "1174032007",
     "district_code": "117403",
-    "name": "Alue Beurawe"
+    "name": "Alue Beurawe",
+    "postal_code": "24410"
   },
   {
     "code": "1174032009",
     "district_code": "117403",
-    "name": "Daulat"
+    "name": "Daulat",
+    "postal_code": "24416"
   },
   {
     "code": "1174032010",
     "district_code": "117403",
-    "name": "Meutia"
+    "name": "Meutia",
+    "postal_code": "24416"
   },
   {
     "code": "1174032011",
     "district_code": "117403",
-    "name": "Blang Seunibong"
+    "name": "Blang Seunibong",
+    "postal_code": "24412"
   },
   {
     "code": "1174032013",
     "district_code": "117403",
-    "name": "Tualang Teungoh"
+    "name": "Tualang Teungoh",
+    "postal_code": "24414"
   }
 ]

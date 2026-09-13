@@ -2,51 +2,61 @@
   {
     "code": "5371061001",
     "district_code": "537106",
-    "name": "Airmata"
+    "name": "Airmata",
+    "postal_code": "85229"
   },
   {
     "code": "5371061002",
     "district_code": "537106",
-    "name": "Lai Lai Bisi Kopan"
+    "name": "Lai Lai Bisi Kopan",
+    "postal_code": "85221"
   },
   {
     "code": "5371061003",
     "district_code": "537106",
-    "name": "Bonipoi"
+    "name": "Bonipoi",
+    "postal_code": "85221"
   },
   {
     "code": "5371061004",
     "district_code": "537106",
-    "name": "Solor"
+    "name": "Solor",
+    "postal_code": "85229"
   },
   {
     "code": "5371061005",
     "district_code": "537106",
-    "name": "Tode Kisar"
+    "name": "Tode Kisar",
+    "postal_code": "85229"
   },
   {
     "code": "5371061006",
     "district_code": "537106",
-    "name": "Merdeka"
+    "name": "Merdeka",
+    "postal_code": "85225"
   },
   {
     "code": "5371061007",
     "district_code": "537106",
-    "name": "Oeba"
+    "name": "Oeba",
+    "postal_code": "85226"
   },
   {
     "code": "5371061008",
     "district_code": "537106",
-    "name": "Fatubesi"
+    "name": "Fatubesi",
+    "postal_code": "85226"
   },
   {
     "code": "5371061009",
     "district_code": "537106",
-    "name": "Pasir Panjang"
+    "name": "Pasir Panjang",
+    "postal_code": "85227"
   },
   {
     "code": "5371061010",
     "district_code": "537106",
-    "name": "Nefonaek"
+    "name": "Nefonaek",
+    "postal_code": "85229"
   }
 ]

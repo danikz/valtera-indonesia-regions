@@ -2,41 +2,49 @@
   {
     "code": "3273151001",
     "district_code": "327315",
-    "name": "Cijerah"
+    "name": "Cijerah",
+    "postal_code": "40213"
   },
   {
     "code": "3273151002",
     "district_code": "327315",
-    "name": "Cibuntu"
+    "name": "Cibuntu",
+    "postal_code": "40212"
   },
   {
     "code": "3273151003",
     "district_code": "327315",
-    "name": "Warung Muncang"
+    "name": "Warung Muncang",
+    "postal_code": "40211"
   },
   {
     "code": "3273151004",
     "district_code": "327315",
-    "name": "Caringin"
+    "name": "Caringin",
+    "postal_code": "40212"
   },
   {
     "code": "3273151005",
     "district_code": "327315",
-    "name": "Cigondewah Kaler"
+    "name": "Cigondewah Kaler",
+    "postal_code": "40214"
   },
   {
     "code": "3273151006",
     "district_code": "327315",
-    "name": "Gempolsari"
+    "name": "Gempolsari",
+    "postal_code": "40215"
   },
   {
     "code": "3273151007",
     "district_code": "327315",
-    "name": "Cigondewah Rahayu"
+    "name": "Cigondewah Rahayu",
+    "postal_code": "40215"
   },
   {
     "code": "3273151008",
     "district_code": "327315",
-    "name": "Cigondewah Kidul"
+    "name": "Cigondewah Kidul",
+    "postal_code": "40214"
   }
 ]

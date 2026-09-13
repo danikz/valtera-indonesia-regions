@@ -2,36 +2,43 @@
   {
     "code": "1308122001",
     "district_code": "130812",
-    "name": "Simpang Tonang"
+    "name": "Simpang Tonang",
+    "postal_code": "26311"
   },
   {
     "code": "1308122002",
     "district_code": "130812",
-    "name": "Cubadak"
+    "name": "Cubadak",
+    "postal_code": "26311"
   },
   {
     "code": "1308122003",
     "district_code": "130812",
-    "name": "Simpang Tonang Selatan"
+    "name": "Simpang Tonang Selatan",
+    "postal_code": "26311"
   },
   {
     "code": "1308122004",
     "district_code": "130812",
-    "name": "Simpang Tonang Utara"
+    "name": "Simpang Tonang Utara",
+    "postal_code": "26311"
   },
   {
     "code": "1308122005",
     "district_code": "130812",
-    "name": "Cubadak Timur"
+    "name": "Cubadak Timur",
+    "postal_code": "26311"
   },
   {
     "code": "1308122006",
     "district_code": "130812",
-    "name": "Cubadak Tengah"
+    "name": "Cubadak Tengah",
+    "postal_code": "26311"
   },
   {
     "code": "1308122007",
     "district_code": "130812",
-    "name": "Cubadak Barat"
+    "name": "Cubadak Barat",
+    "postal_code": "26311"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "5101021006",
     "district_code": "510102",
-    "name": "Tegalcangkring"
+    "name": "Tegalcangkring",
+    "postal_code": "82261"
   },
   {
     "code": "5101022001",
     "district_code": "510102",
-    "name": "Mendoyo Dauh Tukad"
+    "name": "Mendoyo Dauh Tukad",
+    "postal_code": "82261"
   },
   {
     "code": "5101022002",
     "district_code": "510102",
-    "name": "Pohsanten"
+    "name": "Pohsanten",
+    "postal_code": "82261"
   },
   {
     "code": "5101022003",
     "district_code": "510102",
-    "name": "Mendoyo Dangin Tukad"
+    "name": "Mendoyo Dangin Tukad",
+    "postal_code": "82261"
   },
   {
     "code": "5101022004",
     "district_code": "510102",
-    "name": "Pergung"
+    "name": "Pergung",
+    "postal_code": "82261"
   },
   {
     "code": "5101022005",
     "district_code": "510102",
-    "name": "Delodberawah"
+    "name": "Delodberawah",
+    "postal_code": "82261"
   },
   {
     "code": "5101022007",
     "district_code": "510102",
-    "name": "Penyaringan"
+    "name": "Penyaringan",
+    "postal_code": "82261"
   },
   {
     "code": "5101022008",
     "district_code": "510102",
-    "name": "Yehembang"
+    "name": "Yehembang",
+    "postal_code": "82261"
   },
   {
     "code": "5101022009",
     "district_code": "510102",
-    "name": "Yeh Sumbul"
+    "name": "Yeh Sumbul",
+    "postal_code": "82261"
   },
   {
     "code": "5101022010",
     "district_code": "510102",
-    "name": "Yehembang Kauh"
+    "name": "Yehembang Kauh",
+    "postal_code": "82261"
   },
   {
     "code": "5101022011",
     "district_code": "510102",
-    "name": "Yehembang Kangin"
+    "name": "Yehembang Kangin",
+    "postal_code": "82261"
   }
 ]

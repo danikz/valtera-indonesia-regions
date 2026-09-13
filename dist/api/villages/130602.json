@@ -2,26 +2,31 @@
   {
     "code": "1306022001",
     "district_code": "130602",
-    "name": "Lubuk Basung"
+    "name": "Lubuk Basung",
+    "postal_code": "26451"
   },
   {
     "code": "1306022002",
     "district_code": "130602",
-    "name": "Geragahan"
+    "name": "Geragahan",
+    "postal_code": "26451"
   },
   {
     "code": "1306022003",
     "district_code": "130602",
-    "name": "Kampung Pinang"
+    "name": "Kampung Pinang",
+    "postal_code": "26451"
   },
   {
     "code": "1306022004",
     "district_code": "130602",
-    "name": "Kampung Tangah"
+    "name": "Kampung Tangah",
+    "postal_code": "26451"
   },
   {
     "code": "1306022005",
     "district_code": "130602",
-    "name": "Manggopoh"
+    "name": "Manggopoh",
+    "postal_code": "26451"
   }
 ]

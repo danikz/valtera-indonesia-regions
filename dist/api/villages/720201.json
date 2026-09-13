@@ -2,36 +2,43 @@
   {
     "code": "7202011001",
     "district_code": "720201",
-    "name": "Moengko Lama"
+    "name": "Moengko Lama",
+    "postal_code": "94618"
   },
   {
     "code": "7202011002",
     "district_code": "720201",
-    "name": "Moengko Baru"
+    "name": "Moengko Baru",
+    "postal_code": "94618"
   },
   {
     "code": "7202011003",
     "district_code": "720201",
-    "name": "Kayamanya"
+    "name": "Kayamanya",
+    "postal_code": "94617"
   },
   {
     "code": "7202011007",
     "district_code": "720201",
-    "name": "Gebangrejo"
+    "name": "Gebangrejo",
+    "postal_code": "94619"
   },
   {
     "code": "7202011016",
     "district_code": "720201",
-    "name": "Gebangrejo Timur"
+    "name": "Gebangrejo Timur",
+    "postal_code": "94619"
   },
   {
     "code": "7202011017",
     "district_code": "720201",
-    "name": "Gebangrejo Barat"
+    "name": "Gebangrejo Barat",
+    "postal_code": "94619"
   },
   {
     "code": "7202011018",
     "district_code": "720201",
-    "name": "Kayamanya Sentral"
+    "name": "Kayamanya Sentral",
+    "postal_code": "94617"
   }
 ]

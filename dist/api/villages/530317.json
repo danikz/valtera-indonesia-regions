@@ -2,46 +2,55 @@
   {
     "code": "5303172001",
     "district_code": "530317",
-    "name": "Faenake"
+    "name": "Faenake",
+    "postal_code": "85653"
   },
   {
     "code": "5303172002",
     "district_code": "530317",
-    "name": "Banain A"
+    "name": "Banain A",
+    "postal_code": "85653"
   },
   {
     "code": "5303172003",
     "district_code": "530317",
-    "name": "Banain B"
+    "name": "Banain B",
+    "postal_code": "85653"
   },
   {
     "code": "5303172004",
     "district_code": "530317",
-    "name": "Banain C"
+    "name": "Banain C",
+    "postal_code": "85653"
   },
   {
     "code": "5303172005",
     "district_code": "530317",
-    "name": "Sainoni"
+    "name": "Sainoni",
+    "postal_code": "85653"
   },
   {
     "code": "5303172006",
     "district_code": "530317",
-    "name": "Tes"
+    "name": "Tes",
+    "postal_code": "85653"
   },
   {
     "code": "5303172007",
     "district_code": "530317",
-    "name": "Napan"
+    "name": "Napan",
+    "postal_code": "85653"
   },
   {
     "code": "5303172008",
     "district_code": "530317",
-    "name": "Haumeni"
+    "name": "Haumeni",
+    "postal_code": "85653"
   },
   {
     "code": "5303172009",
     "district_code": "530317",
-    "name": "Baas"
+    "name": "Baas",
+    "postal_code": "85653"
   }
 ]

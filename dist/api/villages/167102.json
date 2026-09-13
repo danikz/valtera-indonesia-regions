@@ -2,26 +2,31 @@
   {
     "code": "1671021002",
     "district_code": "167102",
-    "name": "1 Ulu"
+    "name": "1 Ulu",
+    "postal_code": "30257"
   },
   {
     "code": "1671021003",
     "district_code": "167102",
-    "name": "2 Ulu"
+    "name": "2 Ulu",
+    "postal_code": "30257"
   },
   {
     "code": "1671021004",
     "district_code": "167102",
-    "name": "3 / 4 Ulu"
+    "name": "3 / 4 Ulu",
+    "postal_code": "30255"
   },
   {
     "code": "1671021005",
     "district_code": "167102",
-    "name": "5 Ulu"
+    "name": "5 Ulu",
+    "postal_code": "30254"
   },
   {
     "code": "1671021006",
     "district_code": "167102",
-    "name": "7 Ulu"
+    "name": "7 Ulu",
+    "postal_code": "30253"
   }
 ]

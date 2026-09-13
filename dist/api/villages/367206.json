@@ -2,21 +2,25 @@
   {
     "code": "3672061001",
     "district_code": "367206",
-    "name": "Kotasari"
+    "name": "Kotasari",
+    "postal_code": "42436"
   },
   {
     "code": "3672061002",
     "district_code": "367206",
-    "name": "Grogol"
+    "name": "Grogol",
+    "postal_code": "42436"
   },
   {
     "code": "3672061003",
     "district_code": "367206",
-    "name": "Rawa Arum"
+    "name": "Rawa Arum",
+    "postal_code": "42436"
   },
   {
     "code": "3672061004",
     "district_code": "367206",
-    "name": "Gerem"
+    "name": "Gerem",
+    "postal_code": "42438"
   }
 ]

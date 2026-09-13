@@ -2,46 +2,55 @@
   {
     "code": "9502072001",
     "district_code": "950207",
-    "name": "Okyop"
+    "name": "Okyop",
+    "postal_code": "99574"
   },
   {
     "code": "9502072002",
     "district_code": "950207",
-    "name": "Oketur"
+    "name": "Oketur",
+    "postal_code": "99422"
   },
   {
     "code": "9502072003",
     "district_code": "950207",
-    "name": "Ehipten"
+    "name": "Ehipten",
+    "postal_code": "99422"
   },
   {
     "code": "9502072004",
     "district_code": "950207",
-    "name": "Wantem"
+    "name": "Wantem",
+    "postal_code": "99422"
   },
   {
     "code": "9502072005",
     "district_code": "950207",
-    "name": "Dikdon"
+    "name": "Dikdon",
+    "postal_code": "99422"
   },
   {
     "code": "9502072006",
     "district_code": "950207",
-    "name": "Okyako"
+    "name": "Okyako",
+    "postal_code": "99422"
   },
   {
     "code": "9502072007",
     "district_code": "950207",
-    "name": "Okyaop"
+    "name": "Okyaop",
+    "postal_code": "99574"
   },
   {
     "code": "9502072008",
     "district_code": "950207",
-    "name": "Tatam"
+    "name": "Tatam",
+    "postal_code": "99422"
   },
   {
     "code": "9502072009",
     "district_code": "950207",
-    "name": "Okhik"
+    "name": "Okhik",
+    "postal_code": "99574"
   }
 ]

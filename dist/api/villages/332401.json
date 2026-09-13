@@ -2,61 +2,73 @@
   {
     "code": "3324012001",
     "district_code": "332401",
-    "name": "Blumah"
+    "name": "Blumah",
+    "postal_code": "51362"
   },
   {
     "code": "3324012002",
     "district_code": "332401",
-    "name": "Kediten"
+    "name": "Kediten",
+    "postal_code": "51362"
   },
   {
     "code": "3324012003",
     "district_code": "332401",
-    "name": "Tlogopayung"
+    "name": "Tlogopayung",
+    "postal_code": "51362"
   },
   {
     "code": "3324012004",
     "district_code": "332401",
-    "name": "Wonodadi"
+    "name": "Wonodadi",
+    "postal_code": "51362"
   },
   {
     "code": "3324012005",
     "district_code": "332401",
-    "name": "Manggungmangu"
+    "name": "Manggungmangu",
+    "postal_code": "51362"
   },
   {
     "code": "3324012006",
     "district_code": "332401",
-    "name": "Tirtomulyo"
+    "name": "Tirtomulyo",
+    "postal_code": "51362"
   },
   {
     "code": "3324012007",
     "district_code": "332401",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "51362"
   },
   {
     "code": "3324012008",
     "district_code": "332401",
-    "name": "Jurangagung"
+    "name": "Jurangagung",
+    "postal_code": "51362"
   },
   {
     "code": "3324012009",
     "district_code": "332401",
-    "name": "Jati"
+    "name": "Jati",
+    "postal_code": "51362"
   },
   {
     "code": "3324012010",
     "district_code": "332401",
-    "name": "Wadas"
+    "name": "Wadas",
+    "postal_code": "51362"
   },
   {
     "code": "3324012011",
     "district_code": "332401",
-    "name": "Bendosari"
+    "name": "Bendosari",
+    "postal_code": "51362"
   },
   {
     "code": "3324012012",
     "district_code": "332401",
-    "name": "Mojoagung"
+    "name": "Mojoagung",
+    "postal_code": "51362"
   }
 ]

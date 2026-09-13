@@ -2,31 +2,37 @@
   {
     "code": "5311222001",
     "district_code": "531122",
-    "name": "Lahiru"
+    "name": "Lahiru",
+    "postal_code": "87170"
   },
   {
     "code": "5311222002",
     "district_code": "531122",
-    "name": "Patamawai"
+    "name": "Patamawai",
+    "postal_code": "87170"
   },
   {
     "code": "5311222003",
     "district_code": "531122",
-    "name": "Wairara"
+    "name": "Wairara",
+    "postal_code": "87170"
   },
   {
     "code": "5311222004",
     "district_code": "531122",
-    "name": "Praikalala"
+    "name": "Praikalala",
+    "postal_code": "87170"
   },
   {
     "code": "5311222005",
     "district_code": "531122",
-    "name": "Lulundilu"
+    "name": "Lulundilu",
+    "postal_code": "87170"
   },
   {
     "code": "5311222006",
     "district_code": "531122",
-    "name": "Haray"
+    "name": "Haray",
+    "postal_code": "87170"
   }
 ]

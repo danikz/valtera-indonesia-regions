@@ -2,46 +2,55 @@
   {
     "code": "1609112001",
     "district_code": "160911",
-    "name": "Pius"
+    "name": "Pius",
+    "postal_code": "32272"
   },
   {
     "code": "1609112002",
     "district_code": "160911",
-    "name": "Pengandonan"
+    "name": "Pengandonan",
+    "postal_code": "32272"
   },
   {
     "code": "1609112003",
     "district_code": "160911",
-    "name": "Siring Alam"
+    "name": "Siring Alam",
+    "postal_code": "32272"
   },
   {
     "code": "1609112004",
     "district_code": "160911",
-    "name": "Simpang Campang"
+    "name": "Simpang Campang",
+    "postal_code": "32272"
   },
   {
     "code": "1609112005",
     "district_code": "160911",
-    "name": "Pulau Kemiling"
+    "name": "Pulau Kemiling",
+    "postal_code": "32272"
   },
   {
     "code": "1609112006",
     "district_code": "160911",
-    "name": "Keban Agung"
+    "name": "Keban Agung",
+    "postal_code": "32272"
   },
   {
     "code": "1609112007",
     "district_code": "160911",
-    "name": "Muara Sindang"
+    "name": "Muara Sindang",
+    "postal_code": "32272"
   },
   {
     "code": "1609112008",
     "district_code": "160911",
-    "name": "Campang Jaya"
+    "name": "Campang Jaya",
+    "postal_code": "32272"
   },
   {
     "code": "1609112009",
     "district_code": "160911",
-    "name": "Tanjung Jati"
+    "name": "Tanjung Jati",
+    "postal_code": "32272"
   }
 ]

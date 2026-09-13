@@ -2,26 +2,31 @@
   {
     "code": "2172021001",
     "district_code": "217202",
-    "name": "Melayu Kota Piring"
+    "name": "Melayu Kota Piring",
+    "postal_code": "29123"
   },
   {
     "code": "2172021002",
     "district_code": "217202",
-    "name": "Kampung Bulang"
+    "name": "Kampung Bulang",
+    "postal_code": "29122"
   },
   {
     "code": "2172021003",
     "district_code": "217202",
-    "name": "Air Raja"
+    "name": "Air Raja",
+    "postal_code": "29122"
   },
   {
     "code": "2172021004",
     "district_code": "217202",
-    "name": "Batu IX"
+    "name": "Batu IX",
+    "postal_code": "29125"
   },
   {
     "code": "2172021005",
     "district_code": "217202",
-    "name": "Pinang Kencana"
+    "name": "Pinang Kencana",
+    "postal_code": "29122"
   }
 ]

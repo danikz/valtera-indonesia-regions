@@ -2,46 +2,55 @@
   {
     "code": "7605081001",
     "district_code": "760508",
-    "name": "Baurung"
+    "name": "Baurung",
+    "postal_code": "91412"
   },
   {
     "code": "7605081002",
     "district_code": "760508",
-    "name": "Baruga"
+    "name": "Baruga",
+    "postal_code": "91414"
   },
   {
     "code": "7605081003",
     "district_code": "760508",
-    "name": "Baruga Dhua"
+    "name": "Baruga Dhua",
+    "postal_code": "91411"
   },
   {
     "code": "7605081004",
     "district_code": "760508",
-    "name": "Labuang"
+    "name": "Labuang",
+    "postal_code": "91412"
   },
   {
     "code": "7605081005",
     "district_code": "760508",
-    "name": "Tande"
+    "name": "Tande",
+    "postal_code": "91413"
   },
   {
     "code": "7605081006",
     "district_code": "760508",
-    "name": "Lembang"
+    "name": "Lembang",
+    "postal_code": "91413"
   },
   {
     "code": "7605081007",
     "district_code": "760508",
-    "name": "Labuang Utara"
+    "name": "Labuang Utara",
+    "postal_code": "91413"
   },
   {
     "code": "7605081008",
     "district_code": "760508",
-    "name": "Tande Timur"
+    "name": "Tande Timur",
+    "postal_code": "91413"
   },
   {
     "code": "7605082009",
     "district_code": "760508",
-    "name": "Buttu Baruga"
+    "name": "Buttu Baruga",
+    "postal_code": "91413"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "5302222001",
     "district_code": "530222",
-    "name": "Besana"
+    "name": "Besana",
+    "postal_code": "85541"
   },
   {
     "code": "5302222002",
     "district_code": "530222",
-    "name": "Fatukoko"
+    "name": "Fatukoko",
+    "postal_code": "85541"
   },
   {
     "code": "5302222003",
     "district_code": "530222",
-    "name": "Koa"
+    "name": "Koa",
+    "postal_code": "85541"
   },
   {
     "code": "5302222004",
     "district_code": "530222",
-    "name": "Oel Uban"
+    "name": "Oel Uban",
+    "postal_code": "85541"
   },
   {
     "code": "5302222005",
     "district_code": "530222",
-    "name": "Salbait"
+    "name": "Salbait",
+    "postal_code": "85541"
   }
 ]

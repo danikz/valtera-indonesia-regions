@@ -2,31 +2,37 @@
   {
     "code": "1271211001",
     "district_code": "127121",
-    "name": "Asam Kumbang"
+    "name": "Asam Kumbang",
+    "postal_code": "20133"
   },
   {
     "code": "1271211002",
     "district_code": "127121",
-    "name": "Tanjungsari"
+    "name": "Tanjungsari",
+    "postal_code": "20132"
   },
   {
     "code": "1271211003",
     "district_code": "127121",
-    "name": "P Bulan Selayang II"
+    "name": "P Bulan Selayang II",
+    "postal_code": "20131"
   },
   {
     "code": "1271211004",
     "district_code": "127121",
-    "name": "Beringin"
+    "name": "Beringin",
+    "postal_code": "20131"
   },
   {
     "code": "1271211005",
     "district_code": "127121",
-    "name": "P Bulan Selayang I"
+    "name": "P Bulan Selayang I",
+    "postal_code": "20131"
   },
   {
     "code": "1271211006",
     "district_code": "127121",
-    "name": "Sempakata"
+    "name": "Sempakata",
+    "postal_code": "20132"
   }
 ]

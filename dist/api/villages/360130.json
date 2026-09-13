@@ -2,41 +2,49 @@
   {
     "code": "3601302001",
     "district_code": "360130",
-    "name": "Kadubelang"
+    "name": "Kadubelang",
+    "postal_code": "42279"
   },
   {
     "code": "3601302002",
     "district_code": "360130",
-    "name": "Pareang"
+    "name": "Pareang",
+    "postal_code": "42279"
   },
   {
     "code": "3601302003",
     "district_code": "360130",
-    "name": "Warasinga"
+    "name": "Warasinga",
+    "postal_code": "42279"
   },
   {
     "code": "3601302004",
     "district_code": "360130",
-    "name": "Rancabugel"
+    "name": "Rancabugel",
+    "postal_code": "42279"
   },
   {
     "code": "3601302005",
     "district_code": "360130",
-    "name": "Kadujangkung"
+    "name": "Kadujangkung",
+    "postal_code": "42279"
   },
   {
     "code": "3601302006",
     "district_code": "360130",
-    "name": "Medong"
+    "name": "Medong",
+    "postal_code": "42279"
   },
   {
     "code": "3601302007",
     "district_code": "360130",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "42279"
   },
   {
     "code": "3601302008",
     "district_code": "360130",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "42279"
   }
 ]

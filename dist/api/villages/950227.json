@@ -2,46 +2,55 @@
   {
     "code": "9502272001",
     "district_code": "950227",
-    "name": "Merpasikne"
+    "name": "Merpasikne",
+    "postal_code": "99446"
   },
   {
     "code": "9502272002",
     "district_code": "950227",
-    "name": "Taramlu"
+    "name": "Taramlu",
+    "postal_code": "99446"
   },
   {
     "code": "9502272003",
     "district_code": "950227",
-    "name": "Weime"
+    "name": "Weime",
+    "postal_code": "99446"
   },
   {
     "code": "9502272004",
     "district_code": "950227",
-    "name": "Meryang"
+    "name": "Meryang",
+    "postal_code": "99446"
   },
   {
     "code": "9502272005",
     "district_code": "950227",
-    "name": "Limrepasikne"
+    "name": "Limrepasikne",
+    "postal_code": "99446"
   },
   {
     "code": "9502272006",
     "district_code": "950227",
-    "name": "Youlban"
+    "name": "Youlban",
+    "postal_code": "99446"
   },
   {
     "code": "9502272007",
     "district_code": "950227",
-    "name": "Mekdamgon"
+    "name": "Mekdamgon",
+    "postal_code": "99446"
   },
   {
     "code": "9502272008",
     "district_code": "950227",
-    "name": "Daluban"
+    "name": "Daluban",
+    "postal_code": "99446"
   },
   {
     "code": "9502272009",
     "district_code": "950227",
-    "name": "Nomteren"
+    "name": "Nomteren",
+    "postal_code": "99446"
   }
 ]

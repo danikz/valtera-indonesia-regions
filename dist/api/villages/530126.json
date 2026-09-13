@@ -2,26 +2,31 @@
   {
     "code": "5301262001",
     "district_code": "530126",
-    "name": "Nunuanah"
+    "name": "Nunuanah",
+    "postal_code": "85375"
   },
   {
     "code": "5301262002",
     "district_code": "530126",
-    "name": "Kifu"
+    "name": "Kifu",
+    "postal_code": "85375"
   },
   {
     "code": "5301262003",
     "district_code": "530126",
-    "name": "Netemnanu Selatan"
+    "name": "Netemnanu Selatan",
+    "postal_code": "85375"
   },
   {
     "code": "5301262004",
     "district_code": "530126",
-    "name": "Netemnanu Utara"
+    "name": "Netemnanu Utara",
+    "postal_code": "85375"
   },
   {
     "code": "5301262005",
     "district_code": "530126",
-    "name": "Netemnanu"
+    "name": "Netemnanu",
+    "postal_code": "85375"
   }
 ]

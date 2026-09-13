@@ -2,51 +2,61 @@
   {
     "code": "7311021001",
     "district_code": "731102",
-    "name": "Lalolang"
+    "name": "Lalolang",
+    "postal_code": "90761"
   },
   {
     "code": "7311021002",
     "district_code": "731102",
-    "name": "Tanete"
+    "name": "Tanete",
+    "postal_code": "90761"
   },
   {
     "code": "7311022003",
     "district_code": "731102",
-    "name": "Pancana"
+    "name": "Pancana",
+    "postal_code": "90761"
   },
   {
     "code": "7311022004",
     "district_code": "731102",
-    "name": "Lalabata"
+    "name": "Lalabata",
+    "postal_code": "90761"
   },
   {
     "code": "7311022005",
     "district_code": "731102",
-    "name": "Corawali"
+    "name": "Corawali",
+    "postal_code": "90761"
   },
   {
     "code": "7311022006",
     "district_code": "731102",
-    "name": "Pao Pao"
+    "name": "Pao Pao",
+    "postal_code": "90761"
   },
   {
     "code": "7311022007",
     "district_code": "731102",
-    "name": "Tellumpanua"
+    "name": "Tellumpanua",
+    "postal_code": "90761"
   },
   {
     "code": "7311022008",
     "district_code": "731102",
-    "name": "Lipukasi"
+    "name": "Lipukasi",
+    "postal_code": "90761"
   },
   {
     "code": "7311022009",
     "district_code": "731102",
-    "name": "Garessi"
+    "name": "Garessi",
+    "postal_code": "90711"
   },
   {
     "code": "7311022010",
     "district_code": "731102",
-    "name": "Lasitae"
+    "name": "Lasitae",
+    "postal_code": "90761"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "7202202001",
     "district_code": "720220",
-    "name": "Taipa"
+    "name": "Taipa",
+    "postal_code": "94662"
   },
   {
     "code": "7202202002",
     "district_code": "720220",
-    "name": "Meko"
+    "name": "Meko",
+    "postal_code": "94662"
   },
   {
     "code": "7202202003",
     "district_code": "720220",
-    "name": "Toinasa"
+    "name": "Toinasa",
+    "postal_code": "94662"
   },
   {
     "code": "7202202004",
     "district_code": "720220",
-    "name": "Salukaia"
+    "name": "Salukaia",
+    "postal_code": "94662"
   },
   {
     "code": "7202202005",
     "district_code": "720220",
-    "name": "Uranosari"
+    "name": "Uranosari",
+    "postal_code": "94662"
   },
   {
     "code": "7202202006",
     "district_code": "720220",
-    "name": "Owini"
+    "name": "Owini",
+    "postal_code": "94662"
   }
 ]

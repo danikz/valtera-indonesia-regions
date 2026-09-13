@@ -2,51 +2,61 @@
   {
     "code": "1506061001",
     "district_code": "150606",
-    "name": "Tebing Tinggi"
+    "name": "Tebing Tinggi",
+    "postal_code": "36551"
   },
   {
     "code": "1506062002",
     "district_code": "150606",
-    "name": "Purwodadi"
+    "name": "Purwodadi",
+    "postal_code": "36551"
   },
   {
     "code": "1506062003",
     "district_code": "150606",
-    "name": "Suka Damai"
+    "name": "Suka Damai",
+    "postal_code": "36551"
   },
   {
     "code": "1506062004",
     "district_code": "150606",
-    "name": "Adi Jaya"
+    "name": "Adi Jaya",
+    "postal_code": "36551"
   },
   {
     "code": "1506062005",
     "district_code": "150606",
-    "name": "Kelagian"
+    "name": "Kelagian",
+    "postal_code": "36551"
   },
   {
     "code": "1506062006",
     "district_code": "150606",
-    "name": "Telukpengkah"
+    "name": "Telukpengkah",
+    "postal_code": "36551"
   },
   {
     "code": "1506062007",
     "district_code": "150606",
-    "name": "Talang Makmur"
+    "name": "Talang Makmur",
+    "postal_code": "36551"
   },
   {
     "code": "1506062008",
     "district_code": "150606",
-    "name": "Sungaikeruh"
+    "name": "Sungaikeruh",
+    "postal_code": "36551"
   },
   {
     "code": "1506062009",
     "district_code": "150606",
-    "name": "Dataran Kempas"
+    "name": "Dataran Kempas",
+    "postal_code": "36551"
   },
   {
     "code": "1506062010",
     "district_code": "150606",
-    "name": "Delima"
+    "name": "Delima",
+    "postal_code": "36551"
   }
 ]

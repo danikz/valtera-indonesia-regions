@@ -2,36 +2,43 @@
   {
     "code": "7472021001",
     "district_code": "747202",
-    "name": "Wale"
+    "name": "Wale",
+    "postal_code": "93711"
   },
   {
     "code": "7472021002",
     "district_code": "747202",
-    "name": "Tomba"
+    "name": "Tomba",
+    "postal_code": "93712"
   },
   {
     "code": "7472021003",
     "district_code": "747202",
-    "name": "Bataraguru"
+    "name": "Bataraguru",
+    "postal_code": "93714"
   },
   {
     "code": "7472021004",
     "district_code": "747202",
-    "name": "Wangkanapi"
+    "name": "Wangkanapi",
+    "postal_code": "93713"
   },
   {
     "code": "7472021005",
     "district_code": "747202",
-    "name": "Batulo"
+    "name": "Batulo",
+    "postal_code": "93717"
   },
   {
     "code": "7472021007",
     "district_code": "747202",
-    "name": "Kadolo Katapi"
+    "name": "Kadolo Katapi",
+    "postal_code": "93715"
   },
   {
     "code": "7472021011",
     "district_code": "747202",
-    "name": "Bukit Wolio Indah"
+    "name": "Bukit Wolio Indah",
+    "postal_code": "93711"
   }
 ]

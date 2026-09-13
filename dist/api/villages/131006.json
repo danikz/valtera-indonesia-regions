@@ -2,26 +2,31 @@
   {
     "code": "1310062001",
     "district_code": "131006",
-    "name": "Timpeh"
+    "name": "Timpeh",
+    "postal_code": "27679"
   },
   {
     "code": "1310062002",
     "district_code": "131006",
-    "name": "Taratak Tinggi"
+    "name": "Taratak Tinggi",
+    "postal_code": "27679"
   },
   {
     "code": "1310062003",
     "district_code": "131006",
-    "name": "Tabek"
+    "name": "Tabek",
+    "postal_code": "27679"
   },
   {
     "code": "1310062004",
     "district_code": "131006",
-    "name": "Panyubarangan"
+    "name": "Panyubarangan",
+    "postal_code": "27679"
   },
   {
     "code": "1310062005",
     "district_code": "131006",
-    "name": "Ranah Palabi"
+    "name": "Ranah Palabi",
+    "postal_code": "27679"
   }
 ]

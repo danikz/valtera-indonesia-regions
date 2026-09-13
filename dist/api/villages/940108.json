@@ -2,21 +2,25 @@
   {
     "code": "9401082001",
     "district_code": "940108",
-    "name": "Napan Yaur"
+    "name": "Napan Yaur",
+    "postal_code": "98851"
   },
   {
     "code": "9401082002",
     "district_code": "940108",
-    "name": "Yeretuar"
+    "name": "Yeretuar",
+    "postal_code": "98851"
   },
   {
     "code": "9401082003",
     "district_code": "940108",
-    "name": "Bawei"
+    "name": "Bawei",
+    "postal_code": "98851"
   },
   {
     "code": "9401082004",
     "district_code": "940108",
-    "name": "Goni"
+    "name": "Goni",
+    "postal_code": "98851"
   }
 ]

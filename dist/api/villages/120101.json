@@ -2,66 +2,79 @@
   {
     "code": "1201011001",
     "district_code": "120101",
-    "name": "Pasar Batu Gerigis"
+    "name": "Pasar Batu Gerigis",
+    "postal_code": "22564"
   },
   {
     "code": "1201011002",
     "district_code": "120101",
-    "name": "Padang Masiang"
+    "name": "Padang Masiang",
+    "postal_code": "22564"
   },
   {
     "code": "1201012003",
     "district_code": "120101",
-    "name": "Kampung Solok"
+    "name": "Kampung Solok",
+    "postal_code": "22564"
   },
   {
     "code": "1201012004",
     "district_code": "120101",
-    "name": "Pasar Terandam"
+    "name": "Pasar Terandam",
+    "postal_code": "22564"
   },
   {
     "code": "1201012005",
     "district_code": "120101",
-    "name": "Sigambo Gambo"
+    "name": "Sigambo Gambo",
+    "postal_code": "22564"
   },
   {
     "code": "1201012006",
     "district_code": "120101",
-    "name": "Ujung Batu"
+    "name": "Ujung Batu",
+    "postal_code": "22564"
   },
   {
     "code": "1201012007",
     "district_code": "120101",
-    "name": "Kinali"
+    "name": "Kinali",
+    "postal_code": "22564"
   },
   {
     "code": "1201012008",
     "district_code": "120101",
-    "name": "Kampung Mudik"
+    "name": "Kampung Mudik",
+    "postal_code": "22564"
   },
   {
     "code": "1201012009",
     "district_code": "120101",
-    "name": "Aek Dakka"
+    "name": "Aek Dakka",
+    "postal_code": "22564"
   },
   {
     "code": "1201012010",
     "district_code": "120101",
-    "name": "Patupangan"
+    "name": "Patupangan",
+    "postal_code": "22564"
   },
   {
     "code": "1201012011",
     "district_code": "120101",
-    "name": "Gabungan Hasang"
+    "name": "Gabungan Hasang",
+    "postal_code": "22564"
   },
   {
     "code": "1201012017",
     "district_code": "120101",
-    "name": "Bungo Tanjung"
+    "name": "Bungo Tanjung",
+    "postal_code": "22564"
   },
   {
     "code": "1201012018",
     "district_code": "120101",
-    "name": "Kedai Gedang"
+    "name": "Kedai Gedang",
+    "postal_code": "22564"
   }
 ]

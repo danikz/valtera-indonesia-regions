@@ -2,36 +2,43 @@
   {
     "code": "1471011002",
     "district_code": "147101",
-    "name": "Jadirejo"
+    "name": "Jadirejo",
+    "postal_code": "28126"
   },
   {
     "code": "1471011003",
     "district_code": "147101",
-    "name": "Kampung Tengah"
+    "name": "Kampung Tengah",
+    "postal_code": "28128"
   },
   {
     "code": "1471011004",
     "district_code": "147101",
-    "name": "Kampung Melayu"
+    "name": "Kampung Melayu",
+    "postal_code": "28124"
   },
   {
     "code": "1471011005",
     "district_code": "147101",
-    "name": "Kedung Sari"
+    "name": "Kedung Sari",
+    "postal_code": "28123"
   },
   {
     "code": "1471011006",
     "district_code": "147101",
-    "name": "Harjosari"
+    "name": "Harjosari",
+    "postal_code": "28122"
   },
   {
     "code": "1471011007",
     "district_code": "147101",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "28121"
   },
   {
     "code": "1471011008",
     "district_code": "147101",
-    "name": "Pulau Karomah"
+    "name": "Pulau Karomah",
+    "postal_code": "28127"
   }
 ]

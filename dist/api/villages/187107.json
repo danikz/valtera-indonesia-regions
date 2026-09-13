@@ -2,31 +2,37 @@
   {
     "code": "1871071001",
     "district_code": "187107",
-    "name": "Pesawahan"
+    "name": "Pesawahan",
+    "postal_code": "35223"
   },
   {
     "code": "1871071002",
     "district_code": "187107",
-    "name": "Telukbetung"
+    "name": "Telukbetung",
+    "postal_code": "35221"
   },
   {
     "code": "1871071008",
     "district_code": "187107",
-    "name": "Talang"
+    "name": "Talang",
+    "postal_code": "35229"
   },
   {
     "code": "1871071009",
     "district_code": "187107",
-    "name": "Gedong Pakuon"
+    "name": "Gedong Pakuon",
+    "postal_code": "35222"
   },
   {
     "code": "1871071012",
     "district_code": "187107",
-    "name": "Sumur Putri"
+    "name": "Sumur Putri",
+    "postal_code": "35215"
   },
   {
     "code": "1871071013",
     "district_code": "187107",
-    "name": "Gunungmas"
+    "name": "Gunungmas",
+    "postal_code": "35211"
   }
 ]

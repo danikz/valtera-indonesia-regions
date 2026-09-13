@@ -2,66 +2,79 @@
   {
     "code": "9304052001",
     "district_code": "930405",
-    "name": "Basim"
+    "name": "Basim",
+    "postal_code": "99782"
   },
   {
     "code": "9304052002",
     "district_code": "930405",
-    "name": "Waras"
+    "name": "Waras",
+    "postal_code": "99782"
   },
   {
     "code": "9304052003",
     "district_code": "930405",
-    "name": "Biopis"
+    "name": "Biopis",
+    "postal_code": "99782"
   },
   {
     "code": "9304052004",
     "district_code": "930405",
-    "name": "Nanai"
+    "name": "Nanai",
+    "postal_code": "99782"
   },
   {
     "code": "9304052005",
     "district_code": "930405",
-    "name": "Pirien"
+    "name": "Pirien",
+    "postal_code": "99782"
   },
   {
     "code": "9304052006",
     "district_code": "930405",
-    "name": "Ocenep"
+    "name": "Ocenep",
+    "postal_code": "99782"
   },
   {
     "code": "9304052007",
     "district_code": "930405",
-    "name": "Ais"
+    "name": "Ais",
+    "postal_code": "99782"
   },
   {
     "code": "9304052008",
     "district_code": "930405",
-    "name": "Yawas"
+    "name": "Yawas",
+    "postal_code": "99782"
   },
   {
     "code": "9304052009",
     "district_code": "930405",
-    "name": "Bakyor"
+    "name": "Bakyor",
+    "postal_code": "99782"
   },
   {
     "code": "9304052010",
     "district_code": "930405",
-    "name": "Isar"
+    "name": "Isar",
+    "postal_code": "99782"
   },
   {
     "code": "9304052011",
     "district_code": "930405",
-    "name": "Kayarpis"
+    "name": "Kayarpis",
+    "postal_code": "99782"
   },
   {
     "code": "9304052012",
     "district_code": "930405",
-    "name": "Sayoa"
+    "name": "Sayoa",
+    "postal_code": "99782"
   },
   {
     "code": "9304052013",
     "district_code": "930405",
-    "name": "Bora"
+    "name": "Bora",
+    "postal_code": "99782"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "3313122001",
     "district_code": "331312",
-    "name": "Ngasem"
+    "name": "Ngasem",
+    "postal_code": "57179"
   },
   {
     "code": "3313122002",
     "district_code": "331312",
-    "name": "Bolon"
+    "name": "Bolon",
+    "postal_code": "57178"
   },
   {
     "code": "3313122003",
     "district_code": "331312",
-    "name": "Malangjiwan"
+    "name": "Malangjiwan",
+    "postal_code": "57177"
   },
   {
     "code": "3313122004",
     "district_code": "331312",
-    "name": "Paulan"
+    "name": "Paulan",
+    "postal_code": "57176"
   },
   {
     "code": "3313122005",
     "district_code": "331312",
-    "name": "Gajahan"
+    "name": "Gajahan",
+    "postal_code": "57176"
   },
   {
     "code": "3313122006",
     "district_code": "331312",
-    "name": "Blulukan"
+    "name": "Blulukan",
+    "postal_code": "57174"
   },
   {
     "code": "3313122007",
     "district_code": "331312",
-    "name": "Gawanan"
+    "name": "Gawanan",
+    "postal_code": "57175"
   },
   {
     "code": "3313122008",
     "district_code": "331312",
-    "name": "Gedongan"
+    "name": "Gedongan",
+    "postal_code": "57173"
   },
   {
     "code": "3313122009",
     "district_code": "331312",
-    "name": "Tohudan"
+    "name": "Tohudan",
+    "postal_code": "57173"
   },
   {
     "code": "3313122010",
     "district_code": "331312",
-    "name": "Baturan"
+    "name": "Baturan",
+    "postal_code": "57171"
   },
   {
     "code": "3313122011",
     "district_code": "331312",
-    "name": "Klodran"
+    "name": "Klodran",
+    "postal_code": "57172"
   }
 ]

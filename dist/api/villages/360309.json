@@ -2,36 +2,43 @@
   {
     "code": "3603092001",
     "district_code": "360309",
-    "name": "Patramanggala"
+    "name": "Patramanggala",
+    "postal_code": "15530"
   },
   {
     "code": "3603092002",
     "district_code": "360309",
-    "name": "Karang Anyar"
+    "name": "Karang Anyar",
+    "postal_code": "15530"
   },
   {
     "code": "3603092003",
     "district_code": "360309",
-    "name": "Lontar"
+    "name": "Lontar",
+    "postal_code": "15530"
   },
   {
     "code": "3603092004",
     "district_code": "360309",
-    "name": "Kemiri"
+    "name": "Kemiri",
+    "postal_code": "15530"
   },
   {
     "code": "3603092005",
     "district_code": "360309",
-    "name": "Ranca Labuh"
+    "name": "Ranca Labuh",
+    "postal_code": "15530"
   },
   {
     "code": "3603092006",
     "district_code": "360309",
-    "name": "Klebet"
+    "name": "Klebet",
+    "postal_code": "15530"
   },
   {
     "code": "3603092007",
     "district_code": "360309",
-    "name": "Legok Suka Maju"
+    "name": "Legok Suka Maju",
+    "postal_code": "15530"
   }
 ]

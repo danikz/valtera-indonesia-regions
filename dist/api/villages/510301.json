@@ -2,26 +2,31 @@
   {
     "code": "5103011001",
     "district_code": "510301",
-    "name": "Tuban"
+    "name": "Tuban",
+    "postal_code": "80361"
   },
   {
     "code": "5103011002",
     "district_code": "510301",
-    "name": "Kuta"
+    "name": "Kuta",
+    "postal_code": "80361"
   },
   {
     "code": "5103011003",
     "district_code": "510301",
-    "name": "Kedonganan"
+    "name": "Kedonganan",
+    "postal_code": "80361"
   },
   {
     "code": "5103011004",
     "district_code": "510301",
-    "name": "Legian"
+    "name": "Legian",
+    "postal_code": "80361"
   },
   {
     "code": "5103011005",
     "district_code": "510301",
-    "name": "Seminyak"
+    "name": "Seminyak",
+    "postal_code": "80361"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "6502012001",
     "district_code": "650201",
-    "name": "Long Gafid"
+    "name": "Long Gafid",
+    "postal_code": ""
   },
   {
     "code": "6502012002",
     "district_code": "650201",
-    "name": "Long Bisai"
+    "name": "Long Bisai",
+    "postal_code": "77555"
   },
   {
     "code": "6502012003",
     "district_code": "650201",
-    "name": "Temalang"
+    "name": "Temalang",
+    "postal_code": ""
   },
   {
     "code": "6502012004",
     "district_code": "650201",
-    "name": "Long Liku"
+    "name": "Long Liku",
+    "postal_code": ""
   },
   {
     "code": "6502012005",
     "district_code": "650201",
-    "name": "Pulau Sapi"
+    "name": "Pulau Sapi",
+    "postal_code": "77555"
   },
   {
     "code": "6502012006",
     "district_code": "650201",
-    "name": "Paking"
+    "name": "Paking",
+    "postal_code": "77555"
   },
   {
     "code": "6502012007",
     "district_code": "650201",
-    "name": "Lidung Kemenci"
+    "name": "Lidung Kemenci",
+    "postal_code": "77555"
   },
   {
     "code": "6502012008",
     "district_code": "650201",
-    "name": "Mentarang Baru"
+    "name": "Mentarang Baru",
+    "postal_code": "77555"
   },
   {
     "code": "6502012009",
     "district_code": "650201",
-    "name": "Harapan Maju"
+    "name": "Harapan Maju",
+    "postal_code": "77555"
   }
 ]

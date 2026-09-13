@@ -2,16 +2,19 @@
   {
     "code": "3471121001",
     "district_code": "347112",
-    "name": "Keparakan"
+    "name": "Keparakan",
+    "postal_code": "55152"
   },
   {
     "code": "3471121002",
     "district_code": "347112",
-    "name": "Wirogunan"
+    "name": "Wirogunan",
+    "postal_code": "55151"
   },
   {
     "code": "3471121003",
     "district_code": "347112",
-    "name": "Brontokusuman"
+    "name": "Brontokusuman",
+    "postal_code": "55153"
   }
 ]

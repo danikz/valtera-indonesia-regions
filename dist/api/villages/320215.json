@@ -2,31 +2,37 @@
   {
     "code": "3202152001",
     "district_code": "320215",
-    "name": "Parakan Salak"
+    "name": "Parakan Salak",
+    "postal_code": "43355"
   },
   {
     "code": "3202152002",
     "district_code": "320215",
-    "name": "Bojong Longok"
+    "name": "Bojong Longok",
+    "postal_code": "43355"
   },
   {
     "code": "3202152003",
     "district_code": "320215",
-    "name": "Sukakersa"
+    "name": "Sukakersa",
+    "postal_code": "43355"
   },
   {
     "code": "3202152004",
     "district_code": "320215",
-    "name": "Sukatani"
+    "name": "Sukatani",
+    "postal_code": "43355"
   },
   {
     "code": "3202152005",
     "district_code": "320215",
-    "name": "Bojongasih"
+    "name": "Bojongasih",
+    "postal_code": "43355"
   },
   {
     "code": "3202152006",
     "district_code": "320215",
-    "name": "Lebaksari"
+    "name": "Lebaksari",
+    "postal_code": "43355"
   }
 ]

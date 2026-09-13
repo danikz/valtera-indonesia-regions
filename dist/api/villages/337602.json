@@ -2,26 +2,31 @@
   {
     "code": "3376021001",
     "district_code": "337602",
-    "name": "Kejambon"
+    "name": "Kejambon",
+    "postal_code": "52124"
   },
   {
     "code": "3376021002",
     "district_code": "337602",
-    "name": "Slerok"
+    "name": "Slerok",
+    "postal_code": "52125"
   },
   {
     "code": "3376021003",
     "district_code": "337602",
-    "name": "Panggung"
+    "name": "Panggung",
+    "postal_code": "52122"
   },
   {
     "code": "3376021004",
     "district_code": "337602",
-    "name": "Mangkukusuman"
+    "name": "Mangkukusuman",
+    "postal_code": "52123"
   },
   {
     "code": "3376021005",
     "district_code": "337602",
-    "name": "Mintaragen"
+    "name": "Mintaragen",
+    "postal_code": "52121"
   }
 ]

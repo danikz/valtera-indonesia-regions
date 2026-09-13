@@ -2,46 +2,55 @@
   {
     "code": "5106021003",
     "district_code": "510602",
-    "name": "Bebalang"
+    "name": "Bebalang",
+    "postal_code": "80614"
   },
   {
     "code": "5106021004",
     "district_code": "510602",
-    "name": "Kawan"
+    "name": "Kawan",
+    "postal_code": "80613"
   },
   {
     "code": "5106021005",
     "district_code": "510602",
-    "name": "Cempaga"
+    "name": "Cempaga",
+    "postal_code": "80612"
   },
   {
     "code": "5106021006",
     "district_code": "510602",
-    "name": "Kubu"
+    "name": "Kubu",
+    "postal_code": "80611"
   },
   {
     "code": "5106022001",
     "district_code": "510602",
-    "name": "Bunutin"
+    "name": "Bunutin",
+    "postal_code": "80614"
   },
   {
     "code": "5106022002",
     "district_code": "510602",
-    "name": "Tamanbali"
+    "name": "Tamanbali",
+    "postal_code": "80614"
   },
   {
     "code": "5106022007",
     "district_code": "510602",
-    "name": "Kayubihi"
+    "name": "Kayubihi",
+    "postal_code": "80614"
   },
   {
     "code": "5106022008",
     "district_code": "510602",
-    "name": "Pengotan"
+    "name": "Pengotan",
+    "postal_code": "80614"
   },
   {
     "code": "5106022009",
     "district_code": "510602",
-    "name": "Landih"
+    "name": "Landih",
+    "postal_code": "80611"
   }
 ]

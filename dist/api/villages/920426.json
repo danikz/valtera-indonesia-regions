@@ -2,36 +2,43 @@
   {
     "code": "9204262001",
     "district_code": "920426",
-    "name": "Mukamat"
+    "name": "Mukamat",
+    "postal_code": ""
   },
   {
     "code": "9204262002",
     "district_code": "920426",
-    "name": "Ikana"
+    "name": "Ikana",
+    "postal_code": ""
   },
   {
     "code": "9204262003",
     "district_code": "920426",
-    "name": "Haemaran"
+    "name": "Haemaran",
+    "postal_code": ""
   },
   {
     "code": "9204262004",
     "district_code": "920426",
-    "name": "Siranggo"
+    "name": "Siranggo",
+    "postal_code": ""
   },
   {
     "code": "9204262005",
     "district_code": "920426",
-    "name": "Mogatemin"
+    "name": "Mogatemin",
+    "postal_code": ""
   },
   {
     "code": "9204262006",
     "district_code": "920426",
-    "name": "Onimsefa"
+    "name": "Onimsefa",
+    "postal_code": ""
   },
   {
     "code": "9204262007",
     "district_code": "920426",
-    "name": "Makaroro"
+    "name": "Makaroro",
+    "postal_code": ""
   }
 ]

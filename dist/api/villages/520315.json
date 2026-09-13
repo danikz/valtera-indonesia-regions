@@ -2,31 +2,37 @@
   {
     "code": "5203152001",
     "district_code": "520315",
-    "name": "Sembalun Bumbung"
+    "name": "Sembalun Bumbung",
+    "postal_code": "83657"
   },
   {
     "code": "5203152002",
     "district_code": "520315",
-    "name": "Sembalun Lawang"
+    "name": "Sembalun Lawang",
+    "postal_code": "83657"
   },
   {
     "code": "5203152003",
     "district_code": "520315",
-    "name": "Sajang"
+    "name": "Sajang",
+    "postal_code": "83657"
   },
   {
     "code": "5203152004",
     "district_code": "520315",
-    "name": "Bilok Petung"
+    "name": "Bilok Petung",
+    "postal_code": "83657"
   },
   {
     "code": "5203152005",
     "district_code": "520315",
-    "name": "Sembalun"
+    "name": "Sembalun",
+    "postal_code": "83657"
   },
   {
     "code": "5203152006",
     "district_code": "520315",
-    "name": "Sembalun Timba Gading"
+    "name": "Sembalun Timba Gading",
+    "postal_code": "83657"
   }
 ]

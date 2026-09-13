@@ -2,31 +2,37 @@
   {
     "code": "6210111005",
     "district_code": "621011",
-    "name": "Tehang"
+    "name": "Tehang",
+    "postal_code": "74563"
   },
   {
     "code": "6210112002",
     "district_code": "621011",
-    "name": "Tumbang Samui"
+    "name": "Tumbang Samui",
+    "postal_code": "74563"
   },
   {
     "code": "6210112003",
     "district_code": "621011",
-    "name": "Tumbang Oroi"
+    "name": "Tumbang Oroi",
+    "postal_code": "74563"
   },
   {
     "code": "6210112004",
     "district_code": "621011",
-    "name": "Luwuk Tukau"
+    "name": "Luwuk Tukau",
+    "postal_code": "74563"
   },
   {
     "code": "6210112006",
     "district_code": "621011",
-    "name": "Putat Durei"
+    "name": "Putat Durei",
+    "postal_code": "74563"
   },
   {
     "code": "6210112007",
     "district_code": "621011",
-    "name": "Tumbang Mantuhe"
+    "name": "Tumbang Mantuhe",
+    "postal_code": "74563"
   }
 ]

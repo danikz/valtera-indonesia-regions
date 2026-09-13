@@ -2,31 +2,37 @@
   {
     "code": "9205062001",
     "district_code": "920506",
-    "name": "Folley"
+    "name": "Folley",
+    "postal_code": ""
   },
   {
     "code": "9205062003",
     "district_code": "920506",
-    "name": "Tomolol"
+    "name": "Tomolol",
+    "postal_code": ""
   },
   {
     "code": "9205062011",
     "district_code": "920506",
-    "name": "Usaha Jaya"
+    "name": "Usaha Jaya",
+    "postal_code": ""
   },
   {
     "code": "9205062012",
     "district_code": "920506",
-    "name": "Limalas Timur"
+    "name": "Limalas Timur",
+    "postal_code": ""
   },
   {
     "code": "9205062016",
     "district_code": "920506",
-    "name": "Audam"
+    "name": "Audam",
+    "postal_code": ""
   },
   {
     "code": "9205062017",
     "district_code": "920506",
-    "name": "Limalas Barat"
+    "name": "Limalas Barat",
+    "postal_code": ""
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "7310132001",
     "district_code": "731013",
-    "name": "Mattiro Kanja"
+    "name": "Mattiro Kanja",
+    "postal_code": "90670"
   },
   {
     "code": "7310132002",
     "district_code": "731013",
-    "name": "Mattiro Baji"
+    "name": "Mattiro Baji",
+    "postal_code": "90670"
   },
   {
     "code": "7310132003",
     "district_code": "731013",
-    "name": "Mattiro Bulu"
+    "name": "Mattiro Bulu",
+    "postal_code": "90670"
   },
   {
     "code": "7310132004",
     "district_code": "731013",
-    "name": "Mattiro Bombang"
+    "name": "Mattiro Bombang",
+    "postal_code": "90670"
   },
   {
     "code": "7310132005",
     "district_code": "731013",
-    "name": "Mattiro Labangeng"
+    "name": "Mattiro Labangeng",
+    "postal_code": "90670"
   },
   {
     "code": "7310132006",
     "district_code": "731013",
-    "name": "Mattiro Uleng"
+    "name": "Mattiro Uleng",
+    "postal_code": "90670"
   },
   {
     "code": "7310132007",
     "district_code": "731013",
-    "name": "Mattiro Walie"
+    "name": "Mattiro Walie",
+    "postal_code": "90670"
   }
 ]

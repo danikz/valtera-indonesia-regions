@@ -2,36 +2,43 @@
   {
     "code": "3508082001",
     "district_code": "350808",
-    "name": "Nogosari"
+    "name": "Nogosari",
+    "postal_code": "67359"
   },
   {
     "code": "3508082002",
     "district_code": "350808",
-    "name": "Kedungrejo"
+    "name": "Kedungrejo",
+    "postal_code": "67359"
   },
   {
     "code": "3508082003",
     "district_code": "350808",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "67359"
   },
   {
     "code": "3508082004",
     "district_code": "350808",
-    "name": "Rowokangkung"
+    "name": "Rowokangkung",
+    "postal_code": "67359"
   },
   {
     "code": "3508082005",
     "district_code": "350808",
-    "name": "Sumbersari"
+    "name": "Sumbersari",
+    "postal_code": "67359"
   },
   {
     "code": "3508082006",
     "district_code": "350808",
-    "name": "Dawuhan Wetan"
+    "name": "Dawuhan Wetan",
+    "postal_code": "67359"
   },
   {
     "code": "3508082007",
     "district_code": "350808",
-    "name": "Sumberanyar"
+    "name": "Sumberanyar",
+    "postal_code": "67359"
   }
 ]

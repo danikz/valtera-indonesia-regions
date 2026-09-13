@@ -2,96 +2,115 @@
   {
     "code": "7322031001",
     "district_code": "732203",
-    "name": "Kappuna"
+    "name": "Kappuna",
+    "postal_code": "92913"
   },
   {
     "code": "7322031002",
     "district_code": "732203",
-    "name": "Bone"
+    "name": "Bone",
+    "postal_code": "92914"
   },
   {
     "code": "7322031003",
     "district_code": "732203",
-    "name": "Baliase"
+    "name": "Baliase",
+    "postal_code": "92916"
   },
   {
     "code": "7322031006",
     "district_code": "732203",
-    "name": "Kasimbong"
+    "name": "Kasimbong",
+    "postal_code": "92915"
   },
   {
     "code": "7322032004",
     "district_code": "732203",
-    "name": "Pincara"
+    "name": "Pincara",
+    "postal_code": "92961"
   },
   {
     "code": "7322032005",
     "district_code": "732203",
-    "name": "Balebo"
+    "name": "Balebo",
+    "postal_code": "92912"
   },
   {
     "code": "7322032007",
     "district_code": "732203",
-    "name": "Pombakka"
+    "name": "Pombakka",
+    "postal_code": "92961"
   },
   {
     "code": "7322032008",
     "district_code": "732203",
-    "name": "Rompu"
+    "name": "Rompu",
+    "postal_code": "92961"
   },
   {
     "code": "7322032009",
     "district_code": "732203",
-    "name": "Lantang Tallang"
+    "name": "Lantang Tallang",
+    "postal_code": "92961"
   },
   {
     "code": "7322032010",
     "district_code": "732203",
-    "name": "Lapapa"
+    "name": "Lapapa",
+    "postal_code": "92961"
   },
   {
     "code": "7322032011",
     "district_code": "732203",
-    "name": "Maipi"
+    "name": "Maipi",
+    "postal_code": "92961"
   },
   {
     "code": "7322032012",
     "district_code": "732203",
-    "name": "Masamba"
+    "name": "Masamba",
+    "postal_code": "92961"
   },
   {
     "code": "7322032013",
     "district_code": "732203",
-    "name": "Pandak"
+    "name": "Pandak",
+    "postal_code": "92961"
   },
   {
     "code": "7322032014",
     "district_code": "732203",
-    "name": "Sepakat"
+    "name": "Sepakat",
+    "postal_code": "92961"
   },
   {
     "code": "7322032015",
     "district_code": "732203",
-    "name": "Pongo"
+    "name": "Pongo",
+    "postal_code": "92961"
   },
   {
     "code": "7322032016",
     "district_code": "732203",
-    "name": "Laba"
+    "name": "Laba",
+    "postal_code": "92961"
   },
   {
     "code": "7322032017",
     "district_code": "732203",
-    "name": "Toradda"
+    "name": "Toradda",
+    "postal_code": "92961"
   },
   {
     "code": "7322032018",
     "district_code": "732203",
-    "name": "Sumilin"
+    "name": "Sumilin",
+    "postal_code": "92961"
   },
   {
     "code": "7322032019",
     "district_code": "732203",
-    "name": "Kamiri"
+    "name": "Kamiri",
+    "postal_code": "92961"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "3510032001",
     "district_code": "351003",
-    "name": "Grajagan"
+    "name": "Grajagan",
+    "postal_code": "68483"
   },
   {
     "code": "3510032002",
     "district_code": "351003",
-    "name": "Sumbersari"
+    "name": "Sumbersari",
+    "postal_code": "68483"
   },
   {
     "code": "3510032003",
     "district_code": "351003",
-    "name": "Glagahagung"
+    "name": "Glagahagung",
+    "postal_code": "68483"
   },
   {
     "code": "3510032004",
     "district_code": "351003",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "68483"
   },
   {
     "code": "3510032005",
     "district_code": "351003",
-    "name": "Purwoharjo"
+    "name": "Purwoharjo",
+    "postal_code": "68483"
   },
   {
     "code": "3510032006",
     "district_code": "351003",
-    "name": "Bulurejo"
+    "name": "Bulurejo",
+    "postal_code": "68483"
   },
   {
     "code": "3510032007",
     "district_code": "351003",
-    "name": "Kradenan"
+    "name": "Kradenan",
+    "postal_code": "68483"
   },
   {
     "code": "3510032008",
     "district_code": "351003",
-    "name": "Karetan"
+    "name": "Karetan",
+    "postal_code": "68483"
   }
 ]

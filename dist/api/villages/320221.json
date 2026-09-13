@@ -2,56 +2,67 @@
   {
     "code": "3202211001",
     "district_code": "320221",
-    "name": "Jampangkulon"
+    "name": "Jampangkulon",
+    "postal_code": "43170"
   },
   {
     "code": "3202212002",
     "district_code": "320221",
-    "name": "Bojonggenteng"
+    "name": "Bojonggenteng",
+    "postal_code": "43170"
   },
   {
     "code": "3202212003",
     "district_code": "320221",
-    "name": "Cikarang"
+    "name": "Cikarang",
+    "postal_code": "43170"
   },
   {
     "code": "3202212005",
     "district_code": "320221",
-    "name": "Bojongsari"
+    "name": "Bojongsari",
+    "postal_code": "43170"
   },
   {
     "code": "3202212007",
     "district_code": "320221",
-    "name": "Nagraksari"
+    "name": "Nagraksari",
+    "postal_code": "43170"
   },
   {
     "code": "3202212008",
     "district_code": "320221",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "43170"
   },
   {
     "code": "3202212009",
     "district_code": "320221",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "43170"
   },
   {
     "code": "3202212011",
     "district_code": "320221",
-    "name": "Ciparay"
+    "name": "Ciparay",
+    "postal_code": "43170"
   },
   {
     "code": "3202212013",
     "district_code": "320221",
-    "name": "Padajaya"
+    "name": "Padajaya",
+    "postal_code": "43170"
   },
   {
     "code": "3202212014",
     "district_code": "320221",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "43170"
   },
   {
     "code": "3202212016",
     "district_code": "320221",
-    "name": "Cikaranggeusan"
+    "name": "Cikaranggeusan",
+    "postal_code": "43170"
   }
 ]

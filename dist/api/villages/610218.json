@@ -2,41 +2,49 @@
   {
     "code": "6102181001",
     "district_code": "610218",
-    "name": "Pulau Pedalaman"
+    "name": "Pulau Pedalaman",
+    "postal_code": "78917"
   },
   {
     "code": "6102181002",
     "district_code": "610218",
-    "name": "Pasir Wan Salim"
+    "name": "Pasir Wan Salim",
+    "postal_code": "78915"
   },
   {
     "code": "6102182003",
     "district_code": "610218",
-    "name": "Antibar"
+    "name": "Antibar",
+    "postal_code": "78917"
   },
   {
     "code": "6102182004",
     "district_code": "610218",
-    "name": "Sejegi"
+    "name": "Sejegi",
+    "postal_code": "78918"
   },
   {
     "code": "6102182005",
     "district_code": "610218",
-    "name": "Pasir Palembang"
+    "name": "Pasir Palembang",
+    "postal_code": "78916"
   },
   {
     "code": "6102182006",
     "district_code": "610218",
-    "name": "Pasir Panjang"
+    "name": "Pasir Panjang",
+    "postal_code": "78915"
   },
   {
     "code": "6102182007",
     "district_code": "610218",
-    "name": "Sungai Bakau Kecil"
+    "name": "Sungai Bakau Kecil",
+    "postal_code": "78919"
   },
   {
     "code": "6102182008",
     "district_code": "610218",
-    "name": "Parit Banjar"
+    "name": "Parit Banjar",
+    "postal_code": "78919"
   }
 ]

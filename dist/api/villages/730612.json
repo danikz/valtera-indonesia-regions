@@ -2,36 +2,43 @@
   {
     "code": "7306121001",
     "district_code": "730612",
-    "name": "Benteng Somba Opu"
+    "name": "Benteng Somba Opu",
+    "postal_code": "90225"
   },
   {
     "code": "7306121005",
     "district_code": "730612",
-    "name": "Lembang Parang"
+    "name": "Lembang Parang",
+    "postal_code": "90225"
   },
   {
     "code": "7306122002",
     "district_code": "730612",
-    "name": "Kanjilo"
+    "name": "Kanjilo",
+    "postal_code": "90225"
   },
   {
     "code": "7306122003",
     "district_code": "730612",
-    "name": "Moncobalang"
+    "name": "Moncobalang",
+    "postal_code": "90225"
   },
   {
     "code": "7306122004",
     "district_code": "730612",
-    "name": "Tinggimae"
+    "name": "Tinggimae",
+    "postal_code": "90225"
   },
   {
     "code": "7306122006",
     "district_code": "730612",
-    "name": "Biringala"
+    "name": "Biringala",
+    "postal_code": "90225"
   },
   {
     "code": "7306122007",
     "district_code": "730612",
-    "name": "Tamannyeleng"
+    "name": "Tamannyeleng",
+    "postal_code": "90225"
   }
 ]

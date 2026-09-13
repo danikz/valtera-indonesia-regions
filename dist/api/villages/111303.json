@@ -2,66 +2,79 @@
   {
     "code": "1113032001",
     "district_code": "111303",
-    "name": "Ampa Kolak"
+    "name": "Ampa Kolak",
+    "postal_code": "24651"
   },
   {
     "code": "1113032002",
     "district_code": "111303",
-    "name": "Cane Toa"
+    "name": "Cane Toa",
+    "postal_code": "24651"
   },
   {
     "code": "1113032003",
     "district_code": "111303",
-    "name": "Padang Pasir"
+    "name": "Padang Pasir",
+    "postal_code": "24651"
   },
   {
     "code": "1113032005",
     "district_code": "111303",
-    "name": "Pinang Rugub"
+    "name": "Pinang Rugub",
+    "postal_code": "24651"
   },
   {
     "code": "1113032006",
     "district_code": "111303",
-    "name": "Kuning"
+    "name": "Kuning",
+    "postal_code": "24651"
   },
   {
     "code": "1113032008",
     "district_code": "111303",
-    "name": "Mangang"
+    "name": "Mangang",
+    "postal_code": "24651"
   },
   {
     "code": "1113032011",
     "district_code": "111303",
-    "name": "Rempelam"
+    "name": "Rempelam",
+    "postal_code": "24651"
   },
   {
     "code": "1113032012",
     "district_code": "111303",
-    "name": "Cane Uken"
+    "name": "Cane Uken",
+    "postal_code": "24651"
   },
   {
     "code": "1113032013",
     "district_code": "111303",
-    "name": "Tungel"
+    "name": "Tungel",
+    "postal_code": "24651"
   },
   {
     "code": "1113032014",
     "district_code": "111303",
-    "name": "Kota Rikit Gaib"
+    "name": "Kota Rikit Gaib",
+    "postal_code": "24651"
   },
   {
     "code": "1113032016",
     "district_code": "111303",
-    "name": "Lukup Baru"
+    "name": "Lukup Baru",
+    "postal_code": "24651"
   },
   {
     "code": "1113032017",
     "district_code": "111303",
-    "name": "Penomon Jaya"
+    "name": "Penomon Jaya",
+    "postal_code": "24651"
   },
   {
     "code": "1113032018",
     "district_code": "111303",
-    "name": "Tungel Baru"
+    "name": "Tungel Baru",
+    "postal_code": "24651"
   }
 ]

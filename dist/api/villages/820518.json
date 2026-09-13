@@ -2,36 +2,43 @@
   {
     "code": "8205182001",
     "district_code": "820518",
-    "name": "Man-Gega"
+    "name": "Man-Gega",
+    "postal_code": "97796"
   },
   {
     "code": "8205182002",
     "district_code": "820518",
-    "name": "Bajo"
+    "name": "Bajo",
+    "postal_code": "97796"
   },
   {
     "code": "8205182003",
     "district_code": "820518",
-    "name": "Pohea"
+    "name": "Pohea",
+    "postal_code": "97796"
   },
   {
     "code": "8205182004",
     "district_code": "820518",
-    "name": "Fukweu"
+    "name": "Fukweu",
+    "postal_code": "97796"
   },
   {
     "code": "8205182005",
     "district_code": "820518",
-    "name": "Wainin"
+    "name": "Wainin",
+    "postal_code": "97796"
   },
   {
     "code": "8205182006",
     "district_code": "820518",
-    "name": "Malbufa"
+    "name": "Malbufa",
+    "postal_code": "97796"
   },
   {
     "code": "8205182007",
     "district_code": "820518",
-    "name": "Fokalik"
+    "name": "Fokalik",
+    "postal_code": "97796"
   }
 ]

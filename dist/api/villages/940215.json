@@ -2,46 +2,55 @@
   {
     "code": "9402152001",
     "district_code": "940215",
-    "name": "Lumo"
+    "name": "Lumo",
+    "postal_code": "98944"
   },
   {
     "code": "9402152002",
     "district_code": "940215",
-    "name": "Kililumo"
+    "name": "Kililumo",
+    "postal_code": "98944"
   },
   {
     "code": "9402152003",
     "district_code": "940215",
-    "name": "Gilibe"
+    "name": "Gilibe",
+    "postal_code": "98944"
   },
   {
     "code": "9402152004",
     "district_code": "940215",
-    "name": "Ninggineri"
+    "name": "Ninggineri",
+    "postal_code": "98944"
   },
   {
     "code": "9402152005",
     "district_code": "940215",
-    "name": "Wurabak"
+    "name": "Wurabak",
+    "postal_code": "98944"
   },
   {
     "code": "9402152006",
     "district_code": "940215",
-    "name": "Wuluma"
+    "name": "Wuluma",
+    "postal_code": "98944"
   },
   {
     "code": "9402152007",
     "district_code": "940215",
-    "name": "Tigir"
+    "name": "Tigir",
+    "postal_code": "98944"
   },
   {
     "code": "9402152008",
     "district_code": "940215",
-    "name": "Gililome"
+    "name": "Gililome",
+    "postal_code": "98944"
   },
   {
     "code": "9402152009",
     "district_code": "940215",
-    "name": "Wuramburu"
+    "name": "Wuramburu",
+    "postal_code": "98944"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "3218062001",
     "district_code": "321806",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "46371"
   },
   {
     "code": "3218062002",
     "district_code": "321806",
-    "name": "Kertajaya"
+    "name": "Kertajaya",
+    "postal_code": "46371"
   },
   {
     "code": "3218062003",
     "district_code": "321806",
-    "name": "Mangunjaya"
+    "name": "Mangunjaya",
+    "postal_code": "46371"
   },
   {
     "code": "3218062004",
     "district_code": "321806",
-    "name": "Sindangjaya"
+    "name": "Sindangjaya",
+    "postal_code": "46371"
   },
   {
     "code": "3218062005",
     "district_code": "321806",
-    "name": "Jangraga"
+    "name": "Jangraga",
+    "postal_code": "46371"
   }
 ]

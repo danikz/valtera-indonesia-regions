@@ -2,21 +2,25 @@
   {
     "code": "2171041001",
     "district_code": "217104",
-    "name": "Sambau"
+    "name": "Sambau",
+    "postal_code": "29465"
   },
   {
     "code": "2171041002",
     "district_code": "217104",
-    "name": "Batu Besar"
+    "name": "Batu Besar",
+    "postal_code": "29466"
   },
   {
     "code": "2171041003",
     "district_code": "217104",
-    "name": "Kabil"
+    "name": "Kabil",
+    "postal_code": "29467"
   },
   {
     "code": "2171041004",
     "district_code": "217104",
-    "name": "Ngenang"
+    "name": "Ngenang",
+    "postal_code": "29468"
   }
 ]

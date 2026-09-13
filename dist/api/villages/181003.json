@@ -2,41 +2,49 @@
   {
     "code": "1810032001",
     "district_code": "181003",
-    "name": "Ambarawa"
+    "name": "Ambarawa",
+    "postal_code": "35376"
   },
   {
     "code": "1810032002",
     "district_code": "181003",
-    "name": "Ambarawa Barat"
+    "name": "Ambarawa Barat",
+    "postal_code": "35376"
   },
   {
     "code": "1810032003",
     "district_code": "181003",
-    "name": "Kresno Mulyo"
+    "name": "Kresno Mulyo",
+    "postal_code": "35376"
   },
   {
     "code": "1810032004",
     "district_code": "181003",
-    "name": "Sumber Agung"
+    "name": "Sumber Agung",
+    "postal_code": "35376"
   },
   {
     "code": "1810032005",
     "district_code": "181003",
-    "name": "Tanjung Anom"
+    "name": "Tanjung Anom",
+    "postal_code": "35376"
   },
   {
     "code": "1810032006",
     "district_code": "181003",
-    "name": "Jati Agung"
+    "name": "Jati Agung",
+    "postal_code": "35376"
   },
   {
     "code": "1810032007",
     "district_code": "181003",
-    "name": "Margodadi"
+    "name": "Margodadi",
+    "postal_code": "35376"
   },
   {
     "code": "1810032008",
     "district_code": "181003",
-    "name": "Ambarawa Timur"
+    "name": "Ambarawa Timur",
+    "postal_code": "35376"
   }
 ]

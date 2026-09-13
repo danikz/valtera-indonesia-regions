@@ -2,56 +2,67 @@
   {
     "code": "3304102001",
     "district_code": "330410",
-    "name": "Kasilib"
+    "name": "Kasilib",
+    "postal_code": "53461"
   },
   {
     "code": "3304102002",
     "district_code": "330410",
-    "name": "Tapen"
+    "name": "Tapen",
+    "postal_code": "53461"
   },
   {
     "code": "3304102003",
     "district_code": "330410",
-    "name": "Karangjambe"
+    "name": "Karangjambe",
+    "postal_code": "53461"
   },
   {
     "code": "3304102004",
     "district_code": "330410",
-    "name": "Wanadadi"
+    "name": "Wanadadi",
+    "postal_code": "53461"
   },
   {
     "code": "3304102005",
     "district_code": "330410",
-    "name": "Wanakarsa"
+    "name": "Wanakarsa",
+    "postal_code": "53461"
   },
   {
     "code": "3304102006",
     "district_code": "330410",
-    "name": "Lemahjaya"
+    "name": "Lemahjaya",
+    "postal_code": "53461"
   },
   {
     "code": "3304102007",
     "district_code": "330410",
-    "name": "Karangkemiri"
+    "name": "Karangkemiri",
+    "postal_code": "53461"
   },
   {
     "code": "3304102008",
     "district_code": "330410",
-    "name": "Kandangwangi"
+    "name": "Kandangwangi",
+    "postal_code": "53461"
   },
   {
     "code": "3304102009",
     "district_code": "330410",
-    "name": "Medayu"
+    "name": "Medayu",
+    "postal_code": "53461"
   },
   {
     "code": "3304102010",
     "district_code": "330410",
-    "name": "Linggasari"
+    "name": "Linggasari",
+    "postal_code": "53461"
   },
   {
     "code": "3304102011",
     "district_code": "330410",
-    "name": "Gumingsir"
+    "name": "Gumingsir",
+    "postal_code": "53461"
   }
 ]

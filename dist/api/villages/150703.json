@@ -2,46 +2,55 @@
   {
     "code": "1507031002",
     "district_code": "150703",
-    "name": "Mendahara Ilir"
+    "name": "Mendahara Ilir",
+    "postal_code": "36765"
   },
   {
     "code": "1507032001",
     "district_code": "150703",
-    "name": "Pangkal Duri"
+    "name": "Pangkal Duri",
+    "postal_code": "36765"
   },
   {
     "code": "1507032003",
     "district_code": "150703",
-    "name": "Mendahara Tengah"
+    "name": "Mendahara Tengah",
+    "postal_code": "36765"
   },
   {
     "code": "1507032007",
     "district_code": "150703",
-    "name": "Lagan Ilir"
+    "name": "Lagan Ilir",
+    "postal_code": "36765"
   },
   {
     "code": "1507032014",
     "district_code": "150703",
-    "name": "Sinar Kalimantan"
+    "name": "Sinar Kalimantan",
+    "postal_code": "36765"
   },
   {
     "code": "1507032015",
     "district_code": "150703",
-    "name": "Sungai Tawar"
+    "name": "Sungai Tawar",
+    "postal_code": "36765"
   },
   {
     "code": "1507032016",
     "district_code": "150703",
-    "name": "Bakti Idaman"
+    "name": "Bakti Idaman",
+    "postal_code": "36765"
   },
   {
     "code": "1507032017",
     "district_code": "150703",
-    "name": "Merbau"
+    "name": "Merbau",
+    "postal_code": "36765"
   },
   {
     "code": "1507032018",
     "district_code": "150703",
-    "name": "Pangkal Duri Ilir"
+    "name": "Pangkal Duri Ilir",
+    "postal_code": "36765"
   }
 ]

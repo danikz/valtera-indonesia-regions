@@ -2,51 +2,61 @@
   {
     "code": "5319121001",
     "district_code": "531912",
-    "name": "Golo Wangkung"
+    "name": "Golo Wangkung",
+    "postal_code": "86584"
   },
   {
     "code": "5319121007",
     "district_code": "531912",
-    "name": "Golo Wangkung Barat"
+    "name": "Golo Wangkung Barat",
+    "postal_code": "86584"
   },
   {
     "code": "5319122002",
     "district_code": "531912",
-    "name": "Buti"
+    "name": "Buti",
+    "postal_code": "86584"
   },
   {
     "code": "5319122003",
     "district_code": "531912",
-    "name": "Golo Ngawan"
+    "name": "Golo Ngawan",
+    "postal_code": "86584"
   },
   {
     "code": "5319122004",
     "district_code": "531912",
-    "name": "Satar Nawang"
+    "name": "Satar Nawang",
+    "postal_code": "86584"
   },
   {
     "code": "5319122005",
     "district_code": "531912",
-    "name": "Rana Mese"
+    "name": "Rana Mese",
+    "postal_code": "86584"
   },
   {
     "code": "5319122006",
     "district_code": "531912",
-    "name": "Compang Congkar"
+    "name": "Compang Congkar",
+    "postal_code": "86584"
   },
   {
     "code": "5319122008",
     "district_code": "531912",
-    "name": "Compang Lawi"
+    "name": "Compang Lawi",
+    "postal_code": "86584"
   },
   {
     "code": "5319122009",
     "district_code": "531912",
-    "name": "Golo Pari"
+    "name": "Golo Pari",
+    "postal_code": "86584"
   },
   {
     "code": "5319122010",
     "district_code": "531912",
-    "name": "Wea"
+    "name": "Wea",
+    "postal_code": "86584"
   }
 ]

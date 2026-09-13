@@ -2,31 +2,37 @@
   {
     "code": "1508022001",
     "district_code": "150802",
-    "name": "Rantau Duku"
+    "name": "Rantau Duku",
+    "postal_code": "37261"
   },
   {
     "code": "1508022002",
     "district_code": "150802",
-    "name": "Talang Sungai Bungo"
+    "name": "Talang Sungai Bungo",
+    "postal_code": "37261"
   },
   {
     "code": "1508022003",
     "district_code": "150802",
-    "name": "Rantau Pandan"
+    "name": "Rantau Pandan",
+    "postal_code": "37261"
   },
   {
     "code": "1508022004",
     "district_code": "150802",
-    "name": "Leban"
+    "name": "Leban",
+    "postal_code": "37261"
   },
   {
     "code": "1508022005",
     "district_code": "150802",
-    "name": "Lubuk Kayu Aro"
+    "name": "Lubuk Kayu Aro",
+    "postal_code": "37261"
   },
   {
     "code": "1508022015",
     "district_code": "150802",
-    "name": "Lubuk Mayan"
+    "name": "Lubuk Mayan",
+    "postal_code": "37261"
   }
 ]

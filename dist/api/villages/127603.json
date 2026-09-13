@@ -2,36 +2,43 @@
   {
     "code": "1276031001",
     "district_code": "127603",
-    "name": "Bagelen"
+    "name": "Bagelen",
+    "postal_code": "20634"
   },
   {
     "code": "1276031002",
     "district_code": "127603",
-    "name": "Tambangan"
+    "name": "Tambangan",
+    "postal_code": "20631"
   },
   {
     "code": "1276031004",
     "district_code": "127603",
-    "name": "Tebing Tinggi"
+    "name": "Tebing Tinggi",
+    "postal_code": "20631"
   },
   {
     "code": "1276031006",
     "district_code": "127603",
-    "name": "Satria"
+    "name": "Satria",
+    "postal_code": "20636"
   },
   {
     "code": "1276031007",
     "district_code": "127603",
-    "name": "Damar Sari"
+    "name": "Damar Sari",
+    "postal_code": "20636"
   },
   {
     "code": "1276031008",
     "district_code": "127603",
-    "name": "Tambangan Hulu"
+    "name": "Tambangan Hulu",
+    "postal_code": "20636"
   },
   {
     "code": "1276031009",
     "district_code": "127603",
-    "name": "Deblod Sundoro"
+    "name": "Deblod Sundoro",
+    "postal_code": "20636"
   }
 ]

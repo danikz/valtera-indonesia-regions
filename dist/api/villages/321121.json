@@ -2,46 +2,55 @@
   {
     "code": "3211212001",
     "district_code": "321121",
-    "name": "Cikaramas"
+    "name": "Cikaramas",
+    "postal_code": "45352"
   },
   {
     "code": "3211212002",
     "district_code": "321121",
-    "name": "Wargaluyu"
+    "name": "Wargaluyu",
+    "postal_code": "45352"
   },
   {
     "code": "3211212003",
     "district_code": "321121",
-    "name": "Jingkang"
+    "name": "Jingkang",
+    "postal_code": "45352"
   },
   {
     "code": "3211212004",
     "district_code": "321121",
-    "name": "Kamal"
+    "name": "Kamal",
+    "postal_code": "45352"
   },
   {
     "code": "3211212005",
     "district_code": "321121",
-    "name": "Kertamukti"
+    "name": "Kertamukti",
+    "postal_code": "45352"
   },
   {
     "code": "3211212006",
     "district_code": "321121",
-    "name": "Tanjungwangi"
+    "name": "Tanjungwangi",
+    "postal_code": "45352"
   },
   {
     "code": "3211212007",
     "district_code": "321121",
-    "name": "Sukamukti"
+    "name": "Sukamukti",
+    "postal_code": "45352"
   },
   {
     "code": "3211212008",
     "district_code": "321121",
-    "name": "Sukatani"
+    "name": "Sukatani",
+    "postal_code": "45352"
   },
   {
     "code": "3211212009",
     "district_code": "321121",
-    "name": "Tanjung Medar"
+    "name": "Tanjung Medar",
+    "postal_code": "45352"
   }
 ]

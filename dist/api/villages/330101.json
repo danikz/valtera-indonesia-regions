@@ -2,56 +2,67 @@
   {
     "code": "3301012001",
     "district_code": "330101",
-    "name": "Tambakreja"
+    "name": "Tambakreja",
+    "postal_code": "53263"
   },
   {
     "code": "3301012002",
     "district_code": "330101",
-    "name": "Bumireja"
+    "name": "Bumireja",
+    "postal_code": "53263"
   },
   {
     "code": "3301012003",
     "district_code": "330101",
-    "name": "Ciklapa"
+    "name": "Ciklapa",
+    "postal_code": "53263"
   },
   {
     "code": "3301012004",
     "district_code": "330101",
-    "name": "Kedungreja"
+    "name": "Kedungreja",
+    "postal_code": "53263"
   },
   {
     "code": "3301012005",
     "district_code": "330101",
-    "name": "Tambaksari"
+    "name": "Tambaksari",
+    "postal_code": "53263"
   },
   {
     "code": "3301012006",
     "district_code": "330101",
-    "name": "Rejamulya"
+    "name": "Rejamulya",
+    "postal_code": "53263"
   },
   {
     "code": "3301012007",
     "district_code": "330101",
-    "name": "Sidanegara"
+    "name": "Sidanegara",
+    "postal_code": "53263"
   },
   {
     "code": "3301012008",
     "district_code": "330101",
-    "name": "Kaliwungu"
+    "name": "Kaliwungu",
+    "postal_code": "53263"
   },
   {
     "code": "3301012009",
     "district_code": "330101",
-    "name": "Jatisari"
+    "name": "Jatisari",
+    "postal_code": "53263"
   },
   {
     "code": "3301012010",
     "district_code": "330101",
-    "name": "Bangunreja"
+    "name": "Bangunreja",
+    "postal_code": "53263"
   },
   {
     "code": "3301012011",
     "district_code": "330101",
-    "name": "Bojongsari"
+    "name": "Bojongsari",
+    "postal_code": "53263"
   }
 ]

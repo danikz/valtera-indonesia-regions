@@ -2,51 +2,61 @@
   {
     "code": "3601152001",
     "district_code": "360115",
-    "name": "Palanyar"
+    "name": "Palanyar",
+    "postal_code": "42272"
   },
   {
     "code": "3601152002",
     "district_code": "360115",
-    "name": "Baturanjang"
+    "name": "Baturanjang",
+    "postal_code": "42272"
   },
   {
     "code": "3601152003",
     "district_code": "360115",
-    "name": "Cikadueun"
+    "name": "Cikadueun",
+    "postal_code": "42272"
   },
   {
     "code": "3601152004",
     "district_code": "360115",
-    "name": "Koncang"
+    "name": "Koncang",
+    "postal_code": "42272"
   },
   {
     "code": "3601152005",
     "district_code": "360115",
-    "name": "Kadugadung"
+    "name": "Kadugadung",
+    "postal_code": "42272"
   },
   {
     "code": "3601152006",
     "district_code": "360115",
-    "name": "Parumasan"
+    "name": "Parumasan",
+    "postal_code": "42272"
   },
   {
     "code": "3601152007",
     "district_code": "360115",
-    "name": "Curugbarang"
+    "name": "Curugbarang",
+    "postal_code": "42272"
   },
   {
     "code": "3601152008",
     "district_code": "360115",
-    "name": "Kalanggunung"
+    "name": "Kalanggunung",
+    "postal_code": "42272"
   },
   {
     "code": "3601152009",
     "district_code": "360115",
-    "name": "Pasireurih"
+    "name": "Pasireurih",
+    "postal_code": "42272"
   },
   {
     "code": "3601152010",
     "district_code": "360115",
-    "name": "Pasirmae"
+    "name": "Pasirmae",
+    "postal_code": "42272"
   }
 ]

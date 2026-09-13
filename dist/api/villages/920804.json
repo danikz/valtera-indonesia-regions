@@ -2,26 +2,31 @@
   {
     "code": "9208042001",
     "district_code": "920804",
-    "name": "Rurumo"
+    "name": "Rurumo",
+    "postal_code": "98121"
   },
   {
     "code": "9208042002",
     "district_code": "920804",
-    "name": "Boiya"
+    "name": "Boiya",
+    "postal_code": "98121"
   },
   {
     "code": "9208042003",
     "district_code": "920804",
-    "name": "Nariki"
+    "name": "Nariki",
+    "postal_code": "98121"
   },
   {
     "code": "9208042004",
     "district_code": "920804",
-    "name": "Bamana"
+    "name": "Bamana",
+    "postal_code": "98121"
   },
   {
     "code": "9208042005",
     "district_code": "920804",
-    "name": "Siawatan"
+    "name": "Siawatan",
+    "postal_code": "98121"
   }
 ]

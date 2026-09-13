@@ -2,61 +2,73 @@
   {
     "code": "7205052001",
     "district_code": "720505",
-    "name": "Umu"
+    "name": "Umu",
+    "postal_code": "94569"
   },
   {
     "code": "7205052002",
     "district_code": "720505",
-    "name": "Mulangato"
+    "name": "Mulangato",
+    "postal_code": "94569"
   },
   {
     "code": "7205052003",
     "district_code": "720505",
-    "name": "Lilito"
+    "name": "Lilito",
+    "postal_code": "94569"
   },
   {
     "code": "7205052004",
     "district_code": "720505",
-    "name": "Talaki"
+    "name": "Talaki",
+    "postal_code": "94569"
   },
   {
     "code": "7205052005",
     "district_code": "720505",
-    "name": "Baturata"
+    "name": "Baturata",
+    "postal_code": "94569"
   },
   {
     "code": "7205052006",
     "district_code": "720505",
-    "name": "Kwalabesar"
+    "name": "Kwalabesar",
+    "postal_code": "94569"
   },
   {
     "code": "7205052007",
     "district_code": "720505",
-    "name": "Tolau"
+    "name": "Tolau",
+    "postal_code": "94569"
   },
   {
     "code": "7205052008",
     "district_code": "720505",
-    "name": "Paleleh"
+    "name": "Paleleh",
+    "postal_code": "94569"
   },
   {
     "code": "7205052009",
     "district_code": "720505",
-    "name": "Lintidu"
+    "name": "Lintidu",
+    "postal_code": "94569"
   },
   {
     "code": "7205052014",
     "district_code": "720505",
-    "name": "Pionoto"
+    "name": "Pionoto",
+    "postal_code": "94569"
   },
   {
     "code": "7205052017",
     "district_code": "720505",
-    "name": "Dopalak"
+    "name": "Dopalak",
+    "postal_code": "94569"
   },
   {
     "code": "7205052018",
     "district_code": "720505",
-    "name": "Dotuno"
+    "name": "Dotuno",
+    "postal_code": "94569"
   }
 ]

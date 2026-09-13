@@ -2,36 +2,43 @@
   {
     "code": "9403242001",
     "district_code": "940324",
-    "name": "Yabomaida"
+    "name": "Yabomaida",
+    "postal_code": "98732"
   },
   {
     "code": "9403242002",
     "district_code": "940324",
-    "name": "Akoubaida"
+    "name": "Akoubaida",
+    "postal_code": "98732"
   },
   {
     "code": "9403242003",
     "district_code": "940324",
-    "name": "Dauwagu"
+    "name": "Dauwagu",
+    "postal_code": "98731"
   },
   {
     "code": "9403242004",
     "district_code": "940324",
-    "name": "Ganeyetaka"
+    "name": "Ganeyetaka",
+    "postal_code": "98731"
   },
   {
     "code": "9403242005",
     "district_code": "940324",
-    "name": "Yabomaida II"
+    "name": "Yabomaida II",
+    "postal_code": "98732"
   },
   {
     "code": "9403242006",
     "district_code": "940324",
-    "name": "Bodatadi"
+    "name": "Bodatadi",
+    "postal_code": "98731"
   },
   {
     "code": "9403242007",
     "district_code": "940324",
-    "name": "Ibouwagu"
+    "name": "Ibouwagu",
+    "postal_code": "98731"
   }
 ]

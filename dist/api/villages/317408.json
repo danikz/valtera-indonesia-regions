@@ -2,31 +2,37 @@
   {
     "code": "3174081001",
     "district_code": "317408",
-    "name": "Pancoran"
+    "name": "Pancoran",
+    "postal_code": "12780"
   },
   {
     "code": "3174081002",
     "district_code": "317408",
-    "name": "Kalibata"
+    "name": "Kalibata",
+    "postal_code": "12740"
   },
   {
     "code": "3174081003",
     "district_code": "317408",
-    "name": "Rawajati"
+    "name": "Rawajati",
+    "postal_code": "12750"
   },
   {
     "code": "3174081004",
     "district_code": "317408",
-    "name": "Duren Tiga"
+    "name": "Duren Tiga",
+    "postal_code": "12760"
   },
   {
     "code": "3174081005",
     "district_code": "317408",
-    "name": "Pengadegan"
+    "name": "Pengadegan",
+    "postal_code": "12770"
   },
   {
     "code": "3174081006",
     "district_code": "317408",
-    "name": "Cikoko"
+    "name": "Cikoko",
+    "postal_code": "12770"
   }
 ]

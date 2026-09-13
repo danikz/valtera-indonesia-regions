@@ -2,26 +2,31 @@
   {
     "code": "1308132001",
     "district_code": "130813",
-    "name": "Malampah"
+    "name": "Malampah",
+    "postal_code": "26358"
   },
   {
     "code": "1308132002",
     "district_code": "130813",
-    "name": "Ladang Panjang"
+    "name": "Ladang Panjang",
+    "postal_code": "26358"
   },
   {
     "code": "1308132003",
     "district_code": "130813",
-    "name": "Binjai"
+    "name": "Binjai",
+    "postal_code": "26358"
   },
   {
     "code": "1308132004",
     "district_code": "130813",
-    "name": "Malampah Barat"
+    "name": "Malampah Barat",
+    "postal_code": "26358"
   },
   {
     "code": "1308132005",
     "district_code": "130813",
-    "name": "Ladang Panjang Barat"
+    "name": "Ladang Panjang Barat",
+    "postal_code": "26358"
   }
 ]

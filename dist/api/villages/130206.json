@@ -2,31 +2,37 @@
   {
     "code": "1302062001",
     "district_code": "130206",
-    "name": "Batu Banyak"
+    "name": "Batu Banyak",
+    "postal_code": "27384"
   },
   {
     "code": "1302062002",
     "district_code": "130206",
-    "name": "Batu Bajanjang"
+    "name": "Batu Bajanjang",
+    "postal_code": "27384"
   },
   {
     "code": "1302062003",
     "district_code": "130206",
-    "name": "Koto Laweh"
+    "name": "Koto Laweh",
+    "postal_code": "27384"
   },
   {
     "code": "1302062004",
     "district_code": "130206",
-    "name": "Limau Lunggo"
+    "name": "Limau Lunggo",
+    "postal_code": "27384"
   },
   {
     "code": "1302062005",
     "district_code": "130206",
-    "name": "Koto Gadang Koto Anau"
+    "name": "Koto Gadang Koto Anau",
+    "postal_code": "27384"
   },
   {
     "code": "1302062006",
     "district_code": "130206",
-    "name": "Selayo Tanang B. Sileh"
+    "name": "Selayo Tanang B. Sileh",
+    "postal_code": "27384"
   }
 ]

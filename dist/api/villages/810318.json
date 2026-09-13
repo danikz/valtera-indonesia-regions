@@ -2,26 +2,31 @@
   {
     "code": "8103182001",
     "district_code": "810318",
-    "name": "Wadankou"
+    "name": "Wadankou",
+    "postal_code": "97462"
   },
   {
     "code": "8103182002",
     "district_code": "810318",
-    "name": "Adodo Molu"
+    "name": "Adodo Molu",
+    "postal_code": "97462"
   },
   {
     "code": "8103182003",
     "district_code": "810318",
-    "name": "Wulmasa"
+    "name": "Wulmasa",
+    "postal_code": "97462"
   },
   {
     "code": "8103182004",
     "district_code": "810318",
-    "name": "Tutunametal"
+    "name": "Tutunametal",
+    "postal_code": "97462"
   },
   {
     "code": "8103182005",
     "district_code": "810318",
-    "name": "Nurkat"
+    "name": "Nurkat",
+    "postal_code": "97462"
   }
 ]

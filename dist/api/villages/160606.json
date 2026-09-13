@@ -2,71 +2,85 @@
   {
     "code": "1606061038",
     "district_code": "160606",
-    "name": "Babat"
+    "name": "Babat",
+    "postal_code": "30752"
   },
   {
     "code": "1606061039",
     "district_code": "160606",
-    "name": "Mangun Jaya"
+    "name": "Mangun Jaya",
+    "postal_code": "30752"
   },
   {
     "code": "1606062001",
     "district_code": "160606",
-    "name": "Sereka"
+    "name": "Sereka",
+    "postal_code": "30752"
   },
   {
     "code": "1606062002",
     "district_code": "160606",
-    "name": "Sugi Raya"
+    "name": "Sugi Raya",
+    "postal_code": "30752"
   },
   {
     "code": "1606062003",
     "district_code": "160606",
-    "name": "Sugi Waras"
+    "name": "Sugi Waras",
+    "postal_code": "30752"
   },
   {
     "code": "1606062004",
     "district_code": "160606",
-    "name": "Beruge"
+    "name": "Beruge",
+    "postal_code": "30752"
   },
   {
     "code": "1606062005",
     "district_code": "160606",
-    "name": "Muara Punjung"
+    "name": "Muara Punjung",
+    "postal_code": "30752"
   },
   {
     "code": "1606062007",
     "district_code": "160606",
-    "name": "Bangun Sari"
+    "name": "Bangun Sari",
+    "postal_code": "30752"
   },
   {
     "code": "1606062008",
     "district_code": "160606",
-    "name": "Toman"
+    "name": "Toman",
+    "postal_code": "30752"
   },
   {
     "code": "1606062009",
     "district_code": "160606",
-    "name": "Kasmaran"
+    "name": "Kasmaran",
+    "postal_code": "30752"
   },
   {
     "code": "1606062022",
     "district_code": "160606",
-    "name": "Sungai Angit"
+    "name": "Sungai Angit",
+    "postal_code": "30752"
   },
   {
     "code": "1606062023",
     "district_code": "160606",
-    "name": "Srimulyo"
+    "name": "Srimulyo",
+    "postal_code": "30752"
   },
   {
     "code": "1606062042",
     "district_code": "160606",
-    "name": "Pangkalan Jaya"
+    "name": "Pangkalan Jaya",
+    "postal_code": "30752"
   },
   {
     "code": "1606062043",
     "district_code": "160606",
-    "name": "Toman Baru"
+    "name": "Toman Baru",
+    "postal_code": "30752"
   }
 ]

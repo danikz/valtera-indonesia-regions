@@ -2,36 +2,43 @@
   {
     "code": "3209332001",
     "district_code": "320933",
-    "name": "Sukadana"
+    "name": "Sukadana",
+    "postal_code": "45194"
   },
   {
     "code": "3209332002",
     "district_code": "320933",
-    "name": "Pabuaran Kidul"
+    "name": "Pabuaran Kidul",
+    "postal_code": "45194"
   },
   {
     "code": "3209332003",
     "district_code": "320933",
-    "name": "Pabuaran Wetan"
+    "name": "Pabuaran Wetan",
+    "postal_code": "45194"
   },
   {
     "code": "3209332004",
     "district_code": "320933",
-    "name": "Pabuaran Lor"
+    "name": "Pabuaran Lor",
+    "postal_code": "45194"
   },
   {
     "code": "3209332005",
     "district_code": "320933",
-    "name": "Jatirenggang"
+    "name": "Jatirenggang",
+    "postal_code": "45194"
   },
   {
     "code": "3209332006",
     "district_code": "320933",
-    "name": "Hulubanteng"
+    "name": "Hulubanteng",
+    "postal_code": "45194"
   },
   {
     "code": "3209332007",
     "district_code": "320933",
-    "name": "Hulubanteng Lor"
+    "name": "Hulubanteng Lor",
+    "postal_code": "45194"
   }
 ]

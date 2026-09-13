@@ -2,46 +2,55 @@
   {
     "code": "3510192001",
     "district_code": "351019",
-    "name": "Songgon"
+    "name": "Songgon",
+    "postal_code": "68463"
   },
   {
     "code": "3510192002",
     "district_code": "351019",
-    "name": "Balak"
+    "name": "Balak",
+    "postal_code": "68463"
   },
   {
     "code": "3510192003",
     "district_code": "351019",
-    "name": "Sragi"
+    "name": "Sragi",
+    "postal_code": "68463"
   },
   {
     "code": "3510192004",
     "district_code": "351019",
-    "name": "Parangharjo"
+    "name": "Parangharjo",
+    "postal_code": "68463"
   },
   {
     "code": "3510192005",
     "district_code": "351019",
-    "name": "Bedewang"
+    "name": "Bedewang",
+    "postal_code": "68463"
   },
   {
     "code": "3510192006",
     "district_code": "351019",
-    "name": "Bayu"
+    "name": "Bayu",
+    "postal_code": "68463"
   },
   {
     "code": "3510192007",
     "district_code": "351019",
-    "name": "Sumberarum"
+    "name": "Sumberarum",
+    "postal_code": "68463"
   },
   {
     "code": "3510192008",
     "district_code": "351019",
-    "name": "Sumberbulu"
+    "name": "Sumberbulu",
+    "postal_code": "68463"
   },
   {
     "code": "3510192009",
     "district_code": "351019",
-    "name": "Bangunsari"
+    "name": "Bangunsari",
+    "postal_code": "68463"
   }
 ]

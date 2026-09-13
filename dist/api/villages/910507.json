@@ -2,36 +2,43 @@
   {
     "code": "9105072001",
     "district_code": "910507",
-    "name": "Tindaret"
+    "name": "Tindaret",
+    "postal_code": "98645"
   },
   {
     "code": "9105072002",
     "district_code": "910507",
-    "name": "Yobi"
+    "name": "Yobi",
+    "postal_code": "98645"
   },
   {
     "code": "9105072003",
     "district_code": "910507",
-    "name": "Sambrawai"
+    "name": "Sambrawai",
+    "postal_code": "98645"
   },
   {
     "code": "9105072006",
     "district_code": "910507",
-    "name": "Kiriyou"
+    "name": "Kiriyou",
+    "postal_code": "98645"
   },
   {
     "code": "9105072007",
     "district_code": "910507",
-    "name": "Soromasen"
+    "name": "Soromasen",
+    "postal_code": "98645"
   },
   {
     "code": "9105072009",
     "district_code": "910507",
-    "name": "Roswari"
+    "name": "Roswari",
+    "postal_code": "98645"
   },
   {
     "code": "9105072010",
     "district_code": "910507",
-    "name": "Doreimanona"
+    "name": "Doreimanona",
+    "postal_code": "98645"
   }
 ]

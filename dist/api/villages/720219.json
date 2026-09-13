@@ -2,46 +2,55 @@
   {
     "code": "7202192001",
     "district_code": "720219",
-    "name": "Dewua"
+    "name": "Dewua",
+    "postal_code": "94650"
   },
   {
     "code": "7202192002",
     "district_code": "720219",
-    "name": "Sangginora"
+    "name": "Sangginora",
+    "postal_code": "94650"
   },
   {
     "code": "7202192003",
     "district_code": "720219",
-    "name": "Tangkura"
+    "name": "Tangkura",
+    "postal_code": "94650"
   },
   {
     "code": "7202192004",
     "district_code": "720219",
-    "name": "Malitu"
+    "name": "Malitu",
+    "postal_code": "94650"
   },
   {
     "code": "7202192005",
     "district_code": "720219",
-    "name": "Patiwunga"
+    "name": "Patiwunga",
+    "postal_code": "94650"
   },
   {
     "code": "7202192006",
     "district_code": "720219",
-    "name": "Betalemba"
+    "name": "Betalemba",
+    "postal_code": "94650"
   },
   {
     "code": "7202192007",
     "district_code": "720219",
-    "name": "Pantangolemba"
+    "name": "Pantangolemba",
+    "postal_code": "94650"
   },
   {
     "code": "7202192008",
     "district_code": "720219",
-    "name": "Padalembara"
+    "name": "Padalembara",
+    "postal_code": "94650"
   },
   {
     "code": "7202192009",
     "district_code": "720219",
-    "name": "Taunca"
+    "name": "Taunca",
+    "postal_code": "94650"
   }
 ]

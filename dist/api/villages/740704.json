@@ -2,46 +2,55 @@
   {
     "code": "7407041005",
     "district_code": "740704",
-    "name": "Taipabu"
+    "name": "Taipabu",
+    "postal_code": "93794"
   },
   {
     "code": "7407041007",
     "district_code": "740704",
-    "name": "Palahidu"
+    "name": "Palahidu",
+    "postal_code": "93794"
   },
   {
     "code": "7407041010",
     "district_code": "740704",
-    "name": "Wali"
+    "name": "Wali",
+    "postal_code": "93794"
   },
   {
     "code": "7407041012",
     "district_code": "740704",
-    "name": "Rukuwa"
+    "name": "Rukuwa",
+    "postal_code": "93794"
   },
   {
     "code": "7407042006",
     "district_code": "740704",
-    "name": "Makoro"
+    "name": "Makoro",
+    "postal_code": "93794"
   },
   {
     "code": "7407042008",
     "district_code": "740704",
-    "name": "Kampo Kampo"
+    "name": "Kampo Kampo",
+    "postal_code": "93794"
   },
   {
     "code": "7407042009",
     "district_code": "740704",
-    "name": "Lagongga"
+    "name": "Lagongga",
+    "postal_code": "93794"
   },
   {
     "code": "7407042011",
     "district_code": "740704",
-    "name": "Palahidu Barat"
+    "name": "Palahidu Barat",
+    "postal_code": "93794"
   },
   {
     "code": "7407042013",
     "district_code": "740704",
-    "name": "Jaya Makmur"
+    "name": "Jaya Makmur",
+    "postal_code": "93794"
   }
 ]

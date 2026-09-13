@@ -2,101 +2,121 @@
   {
     "code": "5310121001",
     "district_code": "531012",
-    "name": "Golo Dukal"
+    "name": "Golo Dukal",
+    "postal_code": "86515"
   },
   {
     "code": "5310121002",
     "district_code": "531012",
-    "name": "Wali"
+    "name": "Wali",
+    "postal_code": "86514"
   },
   {
     "code": "5310121003",
     "district_code": "531012",
-    "name": "Karot"
+    "name": "Karot",
+    "postal_code": "86512"
   },
   {
     "code": "5310121004",
     "district_code": "531012",
-    "name": "Pitak"
+    "name": "Pitak",
+    "postal_code": "86513"
   },
   {
     "code": "5310121005",
     "district_code": "531012",
-    "name": "Lawir"
+    "name": "Lawir",
+    "postal_code": "86516"
   },
   {
     "code": "5310121006",
     "district_code": "531012",
-    "name": "Pau"
+    "name": "Pau",
+    "postal_code": "86516"
   },
   {
     "code": "5310121007",
     "district_code": "531012",
-    "name": "Waso"
+    "name": "Waso",
+    "postal_code": "86517"
   },
   {
     "code": "5310121008",
     "district_code": "531012",
-    "name": "Watu"
+    "name": "Watu",
+    "postal_code": "86511"
   },
   {
     "code": "5310121009",
     "district_code": "531012",
-    "name": "Mbaumuku"
+    "name": "Mbaumuku",
+    "postal_code": "86511"
   },
   {
     "code": "5310121010",
     "district_code": "531012",
-    "name": "Tenda"
+    "name": "Tenda",
+    "postal_code": "86518"
   },
   {
     "code": "5310121011",
     "district_code": "531012",
-    "name": "Carep"
+    "name": "Carep",
+    "postal_code": "86519"
   },
   {
     "code": "5310121012",
     "district_code": "531012",
-    "name": "Bangka Nekang"
+    "name": "Bangka Nekang",
+    "postal_code": "86511"
   },
   {
     "code": "5310121013",
     "district_code": "531012",
-    "name": "Satar Tacik"
+    "name": "Satar Tacik",
+    "postal_code": "86518"
   },
   {
     "code": "5310121014",
     "district_code": "531012",
-    "name": "Poco Mal"
+    "name": "Poco Mal",
+    "postal_code": "86518"
   },
   {
     "code": "5310121015",
     "district_code": "531012",
-    "name": "Compang Carep"
+    "name": "Compang Carep",
+    "postal_code": "86519"
   },
   {
     "code": "5310121016",
     "district_code": "531012",
-    "name": "Laci Carep"
+    "name": "Laci Carep",
+    "postal_code": "86519"
   },
   {
     "code": "5310121017",
     "district_code": "531012",
-    "name": "Tadong"
+    "name": "Tadong",
+    "postal_code": "86512"
   },
   {
     "code": "5310121018",
     "district_code": "531012",
-    "name": "Rowang"
+    "name": "Rowang",
+    "postal_code": "86517"
   },
   {
     "code": "5310121019",
     "district_code": "531012",
-    "name": "Bangka Leda"
+    "name": "Bangka Leda",
+    "postal_code": "86515"
   },
   {
     "code": "5310121020",
     "district_code": "531012",
-    "name": "Compang Tuke"
+    "name": "Compang Tuke",
+    "postal_code": "86514"
   }
 ]

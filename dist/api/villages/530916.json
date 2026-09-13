@@ -2,56 +2,67 @@
   {
     "code": "5309162001",
     "district_code": "530916",
-    "name": "Nginamanu"
+    "name": "Nginamanu",
+    "postal_code": "86423"
   },
   {
     "code": "5309162002",
     "district_code": "530916",
-    "name": "Denatana"
+    "name": "Denatana",
+    "postal_code": "86423"
   },
   {
     "code": "5309162003",
     "district_code": "530916",
-    "name": "Mainai"
+    "name": "Mainai",
+    "postal_code": "86423"
   },
   {
     "code": "5309162004",
     "district_code": "530916",
-    "name": "Turaloa"
+    "name": "Turaloa",
+    "postal_code": "86423"
   },
   {
     "code": "5309162005",
     "district_code": "530916",
-    "name": "Nginamanu Selatan"
+    "name": "Nginamanu Selatan",
+    "postal_code": "86423"
   },
   {
     "code": "5309162006",
     "district_code": "530916",
-    "name": "Nginamanu Barat"
+    "name": "Nginamanu Barat",
+    "postal_code": "86423"
   },
   {
     "code": "5309162007",
     "district_code": "530916",
-    "name": "Wue"
+    "name": "Wue",
+    "postal_code": "86423"
   },
   {
     "code": "5309162008",
     "district_code": "530916",
-    "name": "Denatana Timur"
+    "name": "Denatana Timur",
+    "postal_code": "86423"
   },
   {
     "code": "5309162009",
     "district_code": "530916",
-    "name": "Larilaki"
+    "name": "Larilaki",
+    "postal_code": "86423"
   },
   {
     "code": "5309162010",
     "district_code": "530916",
-    "name": "Mulumese"
+    "name": "Mulumese",
+    "postal_code": "86423"
   },
   {
     "code": "5309162011",
     "district_code": "530916",
-    "name": "Turaloa Timur"
+    "name": "Turaloa Timur",
+    "postal_code": "86423"
   }
 ]

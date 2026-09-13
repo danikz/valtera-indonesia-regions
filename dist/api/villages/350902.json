@@ -2,26 +2,31 @@
   {
     "code": "3509022001",
     "district_code": "350902",
-    "name": "Cakru"
+    "name": "Cakru",
+    "postal_code": "68167"
   },
   {
     "code": "3509022002",
     "district_code": "350902",
-    "name": "Paseban"
+    "name": "Paseban",
+    "postal_code": "68167"
   },
   {
     "code": "3509022003",
     "district_code": "350902",
-    "name": "Kraton"
+    "name": "Kraton",
+    "postal_code": "68167"
   },
   {
     "code": "3509022004",
     "district_code": "350902",
-    "name": "Kencong"
+    "name": "Kencong",
+    "postal_code": "68167"
   },
   {
     "code": "3509022005",
     "district_code": "350902",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "68167"
   }
 ]

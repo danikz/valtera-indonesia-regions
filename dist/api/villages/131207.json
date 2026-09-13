@@ -2,36 +2,43 @@
   {
     "code": "1312072001",
     "district_code": "131207",
-    "name": "Batahan"
+    "name": "Batahan",
+    "postal_code": "26366"
   },
   {
     "code": "1312072002",
     "district_code": "131207",
-    "name": "Desa Baru"
+    "name": "Desa Baru",
+    "postal_code": "26366"
   },
   {
     "code": "1312072003",
     "district_code": "131207",
-    "name": "Batahan Utara"
+    "name": "Batahan Utara",
+    "postal_code": "26366"
   },
   {
     "code": "1312072004",
     "district_code": "131207",
-    "name": "Batahan Tengah"
+    "name": "Batahan Tengah",
+    "postal_code": "26366"
   },
   {
     "code": "1312072005",
     "district_code": "131207",
-    "name": "Batahan Barat"
+    "name": "Batahan Barat",
+    "postal_code": "26366"
   },
   {
     "code": "1312072006",
     "district_code": "131207",
-    "name": "Batahan Selatan"
+    "name": "Batahan Selatan",
+    "postal_code": "26366"
   },
   {
     "code": "1312072007",
     "district_code": "131207",
-    "name": "Desa Baru Barat"
+    "name": "Desa Baru Barat",
+    "postal_code": "26366"
   }
 ]

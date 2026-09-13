@@ -2,16 +2,19 @@
   {
     "code": "3101011001",
     "district_code": "310101",
-    "name": "Pulau Panggang"
+    "name": "Pulau Panggang",
+    "postal_code": "14530"
   },
   {
     "code": "3101011002",
     "district_code": "310101",
-    "name": "Pulau Kelapa"
+    "name": "Pulau Kelapa",
+    "postal_code": "14540"
   },
   {
     "code": "3101011003",
     "district_code": "310101",
-    "name": "Pulau Harapan"
+    "name": "Pulau Harapan",
+    "postal_code": "14540"
   }
 ]

@@ -2,71 +2,85 @@
   {
     "code": "7502022001",
     "district_code": "750202",
-    "name": "Harapan"
+    "name": "Harapan",
+    "postal_code": "96262"
   },
   {
     "code": "7502022002",
     "district_code": "750202",
-    "name": "Bongo II"
+    "name": "Bongo II",
+    "postal_code": "96262"
   },
   {
     "code": "7502022003",
     "district_code": "750202",
-    "name": "Bongo III"
+    "name": "Bongo III",
+    "postal_code": "96262"
   },
   {
     "code": "7502022004",
     "district_code": "750202",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "96262"
   },
   {
     "code": "7502022005",
     "district_code": "750202",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "96262"
   },
   {
     "code": "7502022006",
     "district_code": "750202",
-    "name": "Pangeya"
+    "name": "Pangeya",
+    "postal_code": "96262"
   },
   {
     "code": "7502022007",
     "district_code": "750202",
-    "name": "Jatimulya"
+    "name": "Jatimulya",
+    "postal_code": "96262"
   },
   {
     "code": "7502022008",
     "district_code": "750202",
-    "name": "Suka Mulya"
+    "name": "Suka Mulya",
+    "postal_code": "96262"
   },
   {
     "code": "7502022009",
     "district_code": "750202",
-    "name": "Sari Tani"
+    "name": "Sari Tani",
+    "postal_code": "96262"
   },
   {
     "code": "7502022010",
     "district_code": "750202",
-    "name": "Dimito"
+    "name": "Dimito",
+    "postal_code": "96262"
   },
   {
     "code": "7502022011",
     "district_code": "750202",
-    "name": "Tanjung Harapan"
+    "name": "Tanjung Harapan",
+    "postal_code": "96262"
   },
   {
     "code": "7502022012",
     "district_code": "750202",
-    "name": "Raharja"
+    "name": "Raharja",
+    "postal_code": "96262"
   },
   {
     "code": "7502022013",
     "district_code": "750202",
-    "name": "Trirukun"
+    "name": "Trirukun",
+    "postal_code": "96262"
   },
   {
     "code": "7502022014",
     "district_code": "750202",
-    "name": "Dulohupa"
+    "name": "Dulohupa",
+    "postal_code": "96262"
   }
 ]

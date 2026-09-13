@@ -2,26 +2,31 @@
   {
     "code": "3276081001",
     "district_code": "327608",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "16415"
   },
   {
     "code": "3276081002",
     "district_code": "327608",
-    "name": "Cilodong"
+    "name": "Cilodong",
+    "postal_code": "16414"
   },
   {
     "code": "3276081003",
     "district_code": "327608",
-    "name": "Kalibaru"
+    "name": "Kalibaru",
+    "postal_code": "16414"
   },
   {
     "code": "3276081004",
     "district_code": "327608",
-    "name": "Kalimulya"
+    "name": "Kalimulya",
+    "postal_code": "16413"
   },
   {
     "code": "3276081005",
     "district_code": "327608",
-    "name": "Jatimulya"
+    "name": "Jatimulya",
+    "postal_code": "16413"
   }
 ]

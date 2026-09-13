@@ -2,91 +2,109 @@
   {
     "code": "5105031008",
     "district_code": "510503",
-    "name": "Semarapura Kaja"
+    "name": "Semarapura Kaja",
+    "postal_code": "80712"
   },
   {
     "code": "5105031009",
     "district_code": "510503",
-    "name": "Semarapura Kauh"
+    "name": "Semarapura Kauh",
+    "postal_code": "80713"
   },
   {
     "code": "5105031010",
     "district_code": "510503",
-    "name": "Semarapura Tengah"
+    "name": "Semarapura Tengah",
+    "postal_code": "80711"
   },
   {
     "code": "5105031011",
     "district_code": "510503",
-    "name": "Semarapura Kangin"
+    "name": "Semarapura Kangin",
+    "postal_code": "80716"
   },
   {
     "code": "5105031012",
     "district_code": "510503",
-    "name": "Semarapura Kelod Kangin"
+    "name": "Semarapura Kelod Kangin",
+    "postal_code": "80716"
   },
   {
     "code": "5105031013",
     "district_code": "510503",
-    "name": "Semarapura Kelod"
+    "name": "Semarapura Kelod",
+    "postal_code": "80716"
   },
   {
     "code": "5105032001",
     "district_code": "510503",
-    "name": "Satra"
+    "name": "Satra",
+    "postal_code": "80716"
   },
   {
     "code": "5105032002",
     "district_code": "510503",
-    "name": "Tojan"
+    "name": "Tojan",
+    "postal_code": "80716"
   },
   {
     "code": "5105032003",
     "district_code": "510503",
-    "name": "Gelgel"
+    "name": "Gelgel",
+    "postal_code": "80716"
   },
   {
     "code": "5105032004",
     "district_code": "510503",
-    "name": "Kampung Gelgel"
+    "name": "Kampung Gelgel",
+    "postal_code": "80716"
   },
   {
     "code": "5105032005",
     "district_code": "510503",
-    "name": "Jumpai"
+    "name": "Jumpai",
+    "postal_code": "80716"
   },
   {
     "code": "5105032006",
     "district_code": "510503",
-    "name": "Tangkas"
+    "name": "Tangkas",
+    "postal_code": "80716"
   },
   {
     "code": "5105032007",
     "district_code": "510503",
-    "name": "Kamasan"
+    "name": "Kamasan",
+    "postal_code": "80716"
   },
   {
     "code": "5105032014",
     "district_code": "510503",
-    "name": "Akah"
+    "name": "Akah",
+    "postal_code": "80716"
   },
   {
     "code": "5105032015",
     "district_code": "510503",
-    "name": "Manduang"
+    "name": "Manduang",
+    "postal_code": "80716"
   },
   {
     "code": "5105032016",
     "district_code": "510503",
-    "name": "Selat"
+    "name": "Selat",
+    "postal_code": "80716"
   },
   {
     "code": "5105032017",
     "district_code": "510503",
-    "name": "Tegak"
+    "name": "Tegak",
+    "postal_code": "80716"
   },
   {
     "code": "5105032018",
     "district_code": "510503",
-    "name": "Selisihan"
+    "name": "Selisihan",
+    "postal_code": "80716"
   }
 ]

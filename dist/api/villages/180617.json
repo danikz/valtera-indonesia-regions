@@ -2,41 +2,49 @@
   {
     "code": "1806172001",
     "district_code": "180617",
-    "name": "Negeri Kelumbayan"
+    "name": "Negeri Kelumbayan",
+    "postal_code": "35388"
   },
   {
     "code": "1806172002",
     "district_code": "180617",
-    "name": "Pekon Susuk"
+    "name": "Pekon Susuk",
+    "postal_code": "35388"
   },
   {
     "code": "1806172003",
     "district_code": "180617",
-    "name": "Napal"
+    "name": "Napal",
+    "postal_code": "35388"
   },
   {
     "code": "1806172005",
     "district_code": "180617",
-    "name": "Pekon Unggak"
+    "name": "Pekon Unggak",
+    "postal_code": "35388"
   },
   {
     "code": "1806172006",
     "district_code": "180617",
-    "name": "Penyandingan"
+    "name": "Penyandingan",
+    "postal_code": "35388"
   },
   {
     "code": "1806172009",
     "district_code": "180617",
-    "name": "Paku"
+    "name": "Paku",
+    "postal_code": "35388"
   },
   {
     "code": "1806172010",
     "district_code": "180617",
-    "name": "Umbar"
+    "name": "Umbar",
+    "postal_code": "35388"
   },
   {
     "code": "1806172012",
     "district_code": "180617",
-    "name": "Kiluan Negeri"
+    "name": "Kiluan Negeri",
+    "postal_code": "35388"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "3209012008",
     "district_code": "320901",
-    "name": "Waled Desa"
+    "name": "Waled Desa",
+    "postal_code": "45180"
   },
   {
     "code": "3209012009",
     "district_code": "320901",
-    "name": "Waled Kota"
+    "name": "Waled Kota",
+    "postal_code": "45180"
   },
   {
     "code": "3209012010",
     "district_code": "320901",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "45180"
   },
   {
     "code": "3209012011",
     "district_code": "320901",
-    "name": "Waled Asem"
+    "name": "Waled Asem",
+    "postal_code": "45180"
   },
   {
     "code": "3209012012",
     "district_code": "320901",
-    "name": "Ambit"
+    "name": "Ambit",
+    "postal_code": "45180"
   },
   {
     "code": "3209012013",
     "district_code": "320901",
-    "name": "Ciuyah"
+    "name": "Ciuyah",
+    "postal_code": "45180"
   },
   {
     "code": "3209012014",
     "district_code": "320901",
-    "name": "Gunungsari"
+    "name": "Gunungsari",
+    "postal_code": "45180"
   },
   {
     "code": "3209012015",
     "district_code": "320901",
-    "name": "Karangsari"
+    "name": "Karangsari",
+    "postal_code": "45180"
   },
   {
     "code": "3209012016",
     "district_code": "320901",
-    "name": "Cikulak Kidul"
+    "name": "Cikulak Kidul",
+    "postal_code": "45180"
   },
   {
     "code": "3209012017",
     "district_code": "320901",
-    "name": "Cikulak"
+    "name": "Cikulak",
+    "postal_code": "45180"
   },
   {
     "code": "3209012018",
     "district_code": "320901",
-    "name": "Cibogo"
+    "name": "Cibogo",
+    "postal_code": "45180"
   },
   {
     "code": "3209012019",
     "district_code": "320901",
-    "name": "Cisaat"
+    "name": "Cisaat",
+    "postal_code": "45180"
   }
 ]

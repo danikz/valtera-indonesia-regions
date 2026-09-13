@@ -2,66 +2,79 @@
   {
     "code": "3506112001",
     "district_code": "350611",
-    "name": "Bulupasar"
+    "name": "Bulupasar",
+    "postal_code": "64184"
   },
   {
     "code": "3506112002",
     "district_code": "350611",
-    "name": "Wonosari"
+    "name": "Wonosari",
+    "postal_code": "64184"
   },
   {
     "code": "3506112003",
     "district_code": "350611",
-    "name": "Kambingan"
+    "name": "Kambingan",
+    "postal_code": "64184"
   },
   {
     "code": "3506112004",
     "district_code": "350611",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "64184"
   },
   {
     "code": "3506112005",
     "district_code": "350611",
-    "name": "Wates"
+    "name": "Wates",
+    "postal_code": "64184"
   },
   {
     "code": "3506112006",
     "district_code": "350611",
-    "name": "Menang"
+    "name": "Menang",
+    "postal_code": "64184"
   },
   {
     "code": "3506112007",
     "district_code": "350611",
-    "name": "Tengger Kidul"
+    "name": "Tengger Kidul",
+    "postal_code": "64184"
   },
   {
     "code": "3506112008",
     "district_code": "350611",
-    "name": "Semanding"
+    "name": "Semanding",
+    "postal_code": "64184"
   },
   {
     "code": "3506112009",
     "district_code": "350611",
-    "name": "Sitimerto"
+    "name": "Sitimerto",
+    "postal_code": "64184"
   },
   {
     "code": "3506112010",
     "district_code": "350611",
-    "name": "Pagu"
+    "name": "Pagu",
+    "postal_code": "64184"
   },
   {
     "code": "3506112011",
     "district_code": "350611",
-    "name": "Bendo"
+    "name": "Bendo",
+    "postal_code": "64184"
   },
   {
     "code": "3506112012",
     "district_code": "350611",
-    "name": "Semen"
+    "name": "Semen",
+    "postal_code": "64184"
   },
   {
     "code": "3506112016",
     "district_code": "350611",
-    "name": "Jagung"
+    "name": "Jagung",
+    "postal_code": "64184"
   }
 ]

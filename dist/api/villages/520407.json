@@ -2,31 +2,37 @@
   {
     "code": "5204072001",
     "district_code": "520407",
-    "name": "Batu Rotok"
+    "name": "Batu Rotok",
+    "postal_code": "84361"
   },
   {
     "code": "5204072002",
     "district_code": "520407",
-    "name": "Tangkam Pulit"
+    "name": "Tangkam Pulit",
+    "postal_code": "84361"
   },
   {
     "code": "5204072003",
     "district_code": "520407",
-    "name": "Bao Desa"
+    "name": "Bao Desa",
+    "postal_code": "84361"
   },
   {
     "code": "5204072004",
     "district_code": "520407",
-    "name": "Tepal"
+    "name": "Tepal",
+    "postal_code": "84361"
   },
   {
     "code": "5204072005",
     "district_code": "520407",
-    "name": "Batu Dulang"
+    "name": "Batu Dulang",
+    "postal_code": "84361"
   },
   {
     "code": "5204072006",
     "district_code": "520407",
-    "name": "Kelungkung"
+    "name": "Kelungkung",
+    "postal_code": "84361"
   }
 ]

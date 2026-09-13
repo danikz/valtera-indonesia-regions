@@ -2,36 +2,43 @@
   {
     "code": "9201472001",
     "district_code": "920147",
-    "name": "Buk"
+    "name": "Buk",
+    "postal_code": ""
   },
   {
     "code": "9201472002",
     "district_code": "920147",
-    "name": "Mlakhan"
+    "name": "Mlakhan",
+    "postal_code": ""
   },
   {
     "code": "9201472003",
     "district_code": "920147",
-    "name": "Klais"
+    "name": "Klais",
+    "postal_code": ""
   },
   {
     "code": "9201472004",
     "district_code": "920147",
-    "name": "Mimpe"
+    "name": "Mimpe",
+    "postal_code": ""
   },
   {
     "code": "9201472005",
     "district_code": "920147",
-    "name": "Tiklen"
+    "name": "Tiklen",
+    "postal_code": ""
   },
   {
     "code": "9201472006",
     "district_code": "920147",
-    "name": "Klahen"
+    "name": "Klahen",
+    "postal_code": ""
   },
   {
     "code": "9201472007",
     "district_code": "920147",
-    "name": "Moos"
+    "name": "Moos",
+    "postal_code": ""
   }
 ]

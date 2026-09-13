@@ -2,66 +2,79 @@
   {
     "code": "3210222001",
     "district_code": "321022",
-    "name": "Genteng"
+    "name": "Genteng",
+    "postal_code": "45468"
   },
   {
     "code": "3210222002",
     "district_code": "321022",
-    "name": "Sunia"
+    "name": "Sunia",
+    "postal_code": "45468"
   },
   {
     "code": "3210222003",
     "district_code": "321022",
-    "name": "Darmalarang"
+    "name": "Darmalarang",
+    "postal_code": "45468"
   },
   {
     "code": "3210222004",
     "district_code": "321022",
-    "name": "Sindangpala"
+    "name": "Sindangpala",
+    "postal_code": "45468"
   },
   {
     "code": "3210222005",
     "district_code": "321022",
-    "name": "Banjaran"
+    "name": "Banjaran",
+    "postal_code": "45468"
   },
   {
     "code": "3210222006",
     "district_code": "321022",
-    "name": "Kagok"
+    "name": "Kagok",
+    "postal_code": "45468"
   },
   {
     "code": "3210222007",
     "district_code": "321022",
-    "name": "Cimeong"
+    "name": "Cimeong",
+    "postal_code": "45468"
   },
   {
     "code": "3210222008",
     "district_code": "321022",
-    "name": "Panyindangan"
+    "name": "Panyindangan",
+    "postal_code": "45468"
   },
   {
     "code": "3210222009",
     "district_code": "321022",
-    "name": "Kareo"
+    "name": "Kareo",
+    "postal_code": "45468"
   },
   {
     "code": "3210222010",
     "district_code": "321022",
-    "name": "Sangiang"
+    "name": "Sangiang",
+    "postal_code": "45468"
   },
   {
     "code": "3210222011",
     "district_code": "321022",
-    "name": "Sunia Baru"
+    "name": "Sunia Baru",
+    "postal_code": "45468"
   },
   {
     "code": "3210222012",
     "district_code": "321022",
-    "name": "Hegarmanah"
+    "name": "Hegarmanah",
+    "postal_code": "45468"
   },
   {
     "code": "3210222013",
     "district_code": "321022",
-    "name": "Girimulya"
+    "name": "Girimulya",
+    "postal_code": "45468"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "3505222001",
     "district_code": "350522",
-    "name": "Mandesan"
+    "name": "Mandesan",
+    "postal_code": "66184"
   },
   {
     "code": "3505222002",
     "district_code": "350522",
-    "name": "Jatitengah"
+    "name": "Jatitengah",
+    "postal_code": "66184"
   },
   {
     "code": "3505222003",
     "district_code": "350522",
-    "name": "Jambewangi"
+    "name": "Jambewangi",
+    "postal_code": "66184"
   },
   {
     "code": "3505222004",
     "district_code": "350522",
-    "name": "Selopuro"
+    "name": "Selopuro",
+    "postal_code": "66184"
   },
   {
     "code": "3505222005",
     "district_code": "350522",
-    "name": "Tegalrejo"
+    "name": "Tegalrejo",
+    "postal_code": "66184"
   },
   {
     "code": "3505222006",
     "district_code": "350522",
-    "name": "Ploso"
+    "name": "Ploso",
+    "postal_code": "66184"
   },
   {
     "code": "3505222007",
     "district_code": "350522",
-    "name": "Popoh"
+    "name": "Popoh",
+    "postal_code": "66184"
   },
   {
     "code": "3505222008",
     "district_code": "350522",
-    "name": "Mronjo"
+    "name": "Mronjo",
+    "postal_code": "66184"
   }
 ]

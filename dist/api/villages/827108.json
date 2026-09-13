@@ -2,36 +2,43 @@
   {
     "code": "8271081001",
     "district_code": "827108",
-    "name": "Togafo"
+    "name": "Togafo",
+    "postal_code": "97747"
   },
   {
     "code": "8271081002",
     "district_code": "827108",
-    "name": "Loto"
+    "name": "Loto",
+    "postal_code": "97747"
   },
   {
     "code": "8271081003",
     "district_code": "827108",
-    "name": "Takome"
+    "name": "Takome",
+    "postal_code": "97747"
   },
   {
     "code": "8271081004",
     "district_code": "827108",
-    "name": "Sulamadaha"
+    "name": "Sulamadaha",
+    "postal_code": "97747"
   },
   {
     "code": "8271081005",
     "district_code": "827108",
-    "name": "Tobololo"
+    "name": "Tobololo",
+    "postal_code": "97747"
   },
   {
     "code": "8271081006",
     "district_code": "827108",
-    "name": "Bula"
+    "name": "Bula",
+    "postal_code": "97747"
   },
   {
     "code": "8271081007",
     "district_code": "827108",
-    "name": "Kulaba"
+    "name": "Kulaba",
+    "postal_code": "97747"
   }
 ]

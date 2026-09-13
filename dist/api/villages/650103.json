@@ -2,31 +2,37 @@
   {
     "code": "6501032001",
     "district_code": "650103",
-    "name": "Karang Agung"
+    "name": "Karang Agung",
+    "postal_code": "77218"
   },
   {
     "code": "6501032002",
     "district_code": "650103",
-    "name": "Pimping"
+    "name": "Pimping",
+    "postal_code": "77218"
   },
   {
     "code": "6501032003",
     "district_code": "650103",
-    "name": "Panca Agung"
+    "name": "Panca Agung",
+    "postal_code": "77218"
   },
   {
     "code": "6501032004",
     "district_code": "650103",
-    "name": "Ruhui Rahayu"
+    "name": "Ruhui Rahayu",
+    "postal_code": "77218"
   },
   {
     "code": "6501032005",
     "district_code": "650103",
-    "name": "Ardi Mulyo"
+    "name": "Ardi Mulyo",
+    "postal_code": "77218"
   },
   {
     "code": "6501032006",
     "district_code": "650103",
-    "name": "Kelubir"
+    "name": "Kelubir",
+    "postal_code": "77218"
   }
 ]

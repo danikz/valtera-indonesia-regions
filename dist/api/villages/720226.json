@@ -2,46 +2,55 @@
   {
     "code": "7202262001",
     "district_code": "720226",
-    "name": "Korobono"
+    "name": "Korobono",
+    "postal_code": "94665"
   },
   {
     "code": "7202262002",
     "district_code": "720226",
-    "name": "Omporiwo"
+    "name": "Omporiwo",
+    "postal_code": "94665"
   },
   {
     "code": "7202262003",
     "district_code": "720226",
-    "name": "Wayura"
+    "name": "Wayura",
+    "postal_code": "94665"
   },
   {
     "code": "7202262004",
     "district_code": "720226",
-    "name": "Tokilo"
+    "name": "Tokilo",
+    "postal_code": "94665"
   },
   {
     "code": "7202262005",
     "district_code": "720226",
-    "name": "Tindoli"
+    "name": "Tindoli",
+    "postal_code": "94665"
   },
   {
     "code": "7202262006",
     "district_code": "720226",
-    "name": "Tolambo"
+    "name": "Tolambo",
+    "postal_code": "94665"
   },
   {
     "code": "7202262007",
     "district_code": "720226",
-    "name": "Singkona"
+    "name": "Singkona",
+    "postal_code": "94665"
   },
   {
     "code": "7202262008",
     "district_code": "720226",
-    "name": "Salindu"
+    "name": "Salindu",
+    "postal_code": "94665"
   },
   {
     "code": "7202262009",
     "district_code": "720226",
-    "name": "Barati"
+    "name": "Barati",
+    "postal_code": "94665"
   }
 ]

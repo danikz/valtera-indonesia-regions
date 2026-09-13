@@ -2,31 +2,37 @@
   {
     "code": "1401132001",
     "district_code": "140113",
-    "name": "Salo"
+    "name": "Salo",
+    "postal_code": "28451"
   },
   {
     "code": "1401132002",
     "district_code": "140113",
-    "name": "Siabu"
+    "name": "Siabu",
+    "postal_code": "28451"
   },
   {
     "code": "1401132003",
     "district_code": "140113",
-    "name": "Salo Timur"
+    "name": "Salo Timur",
+    "postal_code": "28451"
   },
   {
     "code": "1401132004",
     "district_code": "140113",
-    "name": "Sepungguk"
+    "name": "Sepungguk",
+    "postal_code": "28451"
   },
   {
     "code": "1401132005",
     "district_code": "140113",
-    "name": "Ganting Damai"
+    "name": "Ganting Damai",
+    "postal_code": "28451"
   },
   {
     "code": "1401132006",
     "district_code": "140113",
-    "name": "Ganting"
+    "name": "Ganting",
+    "postal_code": "28451"
   }
 ]

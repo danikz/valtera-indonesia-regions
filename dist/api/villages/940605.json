@@ -2,21 +2,25 @@
   {
     "code": "9406052001",
     "district_code": "940605",
-    "name": "Unito"
+    "name": "Unito",
+    "postal_code": "98875"
   },
   {
     "code": "9406052002",
     "district_code": "940605",
-    "name": "Sukikai"
+    "name": "Sukikai",
+    "postal_code": "98875"
   },
   {
     "code": "9406052003",
     "district_code": "940605",
-    "name": "Iyaro"
+    "name": "Iyaro",
+    "postal_code": "98875"
   },
   {
     "code": "9406052004",
     "district_code": "940605",
-    "name": "Wigoumakida"
+    "name": "Wigoumakida",
+    "postal_code": "98875"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "8101122001",
     "district_code": "810112",
-    "name": "Booi"
+    "name": "Booi",
+    "postal_code": "97584"
   },
   {
     "code": "8101122002",
     "district_code": "810112",
-    "name": "Paperu"
+    "name": "Paperu",
+    "postal_code": "97584"
   },
   {
     "code": "8101122003",
     "district_code": "810112",
-    "name": "Tiouw"
+    "name": "Tiouw",
+    "postal_code": "97584"
   },
   {
     "code": "8101122004",
     "district_code": "810112",
-    "name": "Haria"
+    "name": "Haria",
+    "postal_code": "97584"
   },
   {
     "code": "8101122005",
     "district_code": "810112",
-    "name": "Porto"
+    "name": "Porto",
+    "postal_code": "97584"
   },
   {
     "code": "8101122006",
     "district_code": "810112",
-    "name": "Kulur"
+    "name": "Kulur",
+    "postal_code": "97584"
   },
   {
     "code": "8101122012",
     "district_code": "810112",
-    "name": "Saparua"
+    "name": "Saparua",
+    "postal_code": "97584"
   }
 ]

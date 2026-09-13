@@ -2,36 +2,43 @@
   {
     "code": "1110102001",
     "district_code": "111010",
-    "name": "Gosong Telaga Utara"
+    "name": "Gosong Telaga Utara",
+    "postal_code": "24791"
   },
   {
     "code": "1110102002",
     "district_code": "111010",
-    "name": "Gosong Telaga Selatan"
+    "name": "Gosong Telaga Selatan",
+    "postal_code": "24791"
   },
   {
     "code": "1110102003",
     "district_code": "111010",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "24791"
   },
   {
     "code": "1110102004",
     "district_code": "111010",
-    "name": "Ketapang Indah"
+    "name": "Ketapang Indah",
+    "postal_code": "24791"
   },
   {
     "code": "1110102005",
     "district_code": "111010",
-    "name": "Gosong Telaga Timur"
+    "name": "Gosong Telaga Timur",
+    "postal_code": "24791"
   },
   {
     "code": "1110102006",
     "district_code": "111010",
-    "name": "Gosong Telaga Barat"
+    "name": "Gosong Telaga Barat",
+    "postal_code": "24791"
   },
   {
     "code": "1110102007",
     "district_code": "111010",
-    "name": "Telaga Bakti"
+    "name": "Telaga Bakti",
+    "postal_code": "24791"
   }
 ]

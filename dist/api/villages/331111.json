@@ -2,71 +2,85 @@
   {
     "code": "3311112001",
     "district_code": "331111",
-    "name": "Sanggung"
+    "name": "Sanggung",
+    "postal_code": "57557"
   },
   {
     "code": "3311112002",
     "district_code": "331111",
-    "name": "Kagokan"
+    "name": "Kagokan",
+    "postal_code": "57557"
   },
   {
     "code": "3311112003",
     "district_code": "331111",
-    "name": "Blimbing"
+    "name": "Blimbing",
+    "postal_code": "57557"
   },
   {
     "code": "3311112004",
     "district_code": "331111",
-    "name": "Krajan"
+    "name": "Krajan",
+    "postal_code": "57557"
   },
   {
     "code": "3311112005",
     "district_code": "331111",
-    "name": "Geneng"
+    "name": "Geneng",
+    "postal_code": "57557"
   },
   {
     "code": "3311112006",
     "district_code": "331111",
-    "name": "Jati"
+    "name": "Jati",
+    "postal_code": "57557"
   },
   {
     "code": "3311112007",
     "district_code": "331111",
-    "name": "Trosemi"
+    "name": "Trosemi",
+    "postal_code": "57557"
   },
   {
     "code": "3311112008",
     "district_code": "331111",
-    "name": "Luwang"
+    "name": "Luwang",
+    "postal_code": "57557"
   },
   {
     "code": "3311112009",
     "district_code": "331111",
-    "name": "Klaseman"
+    "name": "Klaseman",
+    "postal_code": "57557"
   },
   {
     "code": "3311112010",
     "district_code": "331111",
-    "name": "Tempel"
+    "name": "Tempel",
+    "postal_code": "57557"
   },
   {
     "code": "3311112011",
     "district_code": "331111",
-    "name": "Sraten"
+    "name": "Sraten",
+    "postal_code": "57557"
   },
   {
     "code": "3311112012",
     "district_code": "331111",
-    "name": "Wironanggan"
+    "name": "Wironanggan",
+    "postal_code": "57557"
   },
   {
     "code": "3311112013",
     "district_code": "331111",
-    "name": "Trangsan"
+    "name": "Trangsan",
+    "postal_code": "57557"
   },
   {
     "code": "3311112014",
     "district_code": "331111",
-    "name": "Mayang"
+    "name": "Mayang",
+    "postal_code": "57557"
   }
 ]

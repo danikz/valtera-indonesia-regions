@@ -2,66 +2,79 @@
   {
     "code": "1810042001",
     "district_code": "181004",
-    "name": "Kedaung"
+    "name": "Kedaung",
+    "postal_code": "35681"
   },
   {
     "code": "1810042002",
     "district_code": "181004",
-    "name": "Pardasuka"
+    "name": "Pardasuka",
+    "postal_code": "35681"
   },
   {
     "code": "1810042003",
     "district_code": "181004",
-    "name": "Suka Negeri"
+    "name": "Suka Negeri",
+    "postal_code": "35681"
   },
   {
     "code": "1810042004",
     "district_code": "181004",
-    "name": "Tanjung Rusia"
+    "name": "Tanjung Rusia",
+    "postal_code": "35681"
   },
   {
     "code": "1810042005",
     "district_code": "181004",
-    "name": "Warga Mulyo"
+    "name": "Warga Mulyo",
+    "postal_code": "35681"
   },
   {
     "code": "1810042006",
     "district_code": "181004",
-    "name": "Pujodadi"
+    "name": "Pujodadi",
+    "postal_code": "35681"
   },
   {
     "code": "1810042007",
     "district_code": "181004",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "35681"
   },
   {
     "code": "1810042008",
     "district_code": "181004",
-    "name": "Selapan"
+    "name": "Selapan",
+    "postal_code": "35681"
   },
   {
     "code": "1810042009",
     "district_code": "181004",
-    "name": "Rantau Tijang"
+    "name": "Rantau Tijang",
+    "postal_code": "35681"
   },
   {
     "code": "1810042010",
     "district_code": "181004",
-    "name": "Sidodadi"
+    "name": "Sidodadi",
+    "postal_code": "35681"
   },
   {
     "code": "1810042011",
     "district_code": "181004",
-    "name": "Pardasuka Timur"
+    "name": "Pardasuka Timur",
+    "postal_code": "35681"
   },
   {
     "code": "1810042012",
     "district_code": "181004",
-    "name": "Tanjung Rusia Timur"
+    "name": "Tanjung Rusia Timur",
+    "postal_code": "35681"
   },
   {
     "code": "1810042013",
     "district_code": "181004",
-    "name": "Pardasuka Selatan"
+    "name": "Pardasuka Selatan",
+    "postal_code": "35681"
   }
 ]

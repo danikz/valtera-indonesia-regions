@@ -2,26 +2,31 @@
   {
     "code": "3510222001",
     "district_code": "351022",
-    "name": "Buluagung"
+    "name": "Buluagung",
+    "postal_code": "68489"
   },
   {
     "code": "3510222002",
     "district_code": "351022",
-    "name": "Siliragung"
+    "name": "Siliragung",
+    "postal_code": "68489"
   },
   {
     "code": "3510222003",
     "district_code": "351022",
-    "name": "Kesilir"
+    "name": "Kesilir",
+    "postal_code": "68489"
   },
   {
     "code": "3510222004",
     "district_code": "351022",
-    "name": "Sineporejo"
+    "name": "Sineporejo",
+    "postal_code": "68489"
   },
   {
     "code": "3510222005",
     "district_code": "351022",
-    "name": "Barurejo"
+    "name": "Barurejo",
+    "postal_code": "68489"
   }
 ]

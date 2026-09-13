@@ -2,36 +2,43 @@
   {
     "code": "3507122001",
     "district_code": "350712",
-    "name": "Ternyang"
+    "name": "Ternyang",
+    "postal_code": "65160"
   },
   {
     "code": "3507122002",
     "district_code": "350712",
-    "name": "Senggreng"
+    "name": "Senggreng",
+    "postal_code": "65160"
   },
   {
     "code": "3507122003",
     "district_code": "350712",
-    "name": "Sambigede"
+    "name": "Sambigede",
+    "postal_code": "65160"
   },
   {
     "code": "3507122004",
     "district_code": "350712",
-    "name": "Ngebrug"
+    "name": "Ngebrug",
+    "postal_code": "65160"
   },
   {
     "code": "3507122005",
     "district_code": "350712",
-    "name": "Jatiguwi"
+    "name": "Jatiguwi",
+    "postal_code": "65160"
   },
   {
     "code": "3507122006",
     "district_code": "350712",
-    "name": "Sumberpucung"
+    "name": "Sumberpucung",
+    "postal_code": "65160"
   },
   {
     "code": "3507122007",
     "district_code": "350712",
-    "name": "Karangkates"
+    "name": "Karangkates",
+    "postal_code": "65160"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "1304032001",
     "district_code": "130403",
-    "name": "Simawang"
+    "name": "Simawang",
+    "postal_code": "27271"
   },
   {
     "code": "1304032002",
     "district_code": "130403",
-    "name": "Balimbiang"
+    "name": "Balimbiang",
+    "postal_code": "27271"
   },
   {
     "code": "1304032003",
     "district_code": "130403",
-    "name": "III Koto"
+    "name": "III Koto",
+    "postal_code": "27271"
   },
   {
     "code": "1304032004",
     "district_code": "130403",
-    "name": "Padang Magek"
+    "name": "Padang Magek",
+    "postal_code": "27271"
   },
   {
     "code": "1304032005",
     "district_code": "130403",
-    "name": "Rambatan"
+    "name": "Rambatan",
+    "postal_code": "27271"
   }
 ]

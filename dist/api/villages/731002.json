@@ -2,36 +2,43 @@
   {
     "code": "7310021001",
     "district_code": "731002",
-    "name": "Kalukuang"
+    "name": "Kalukuang",
+    "postal_code": "90672"
   },
   {
     "code": "7310022002",
     "district_code": "731002",
-    "name": "Pammas"
+    "name": "Pammas",
+    "postal_code": "90672"
   },
   {
     "code": "7310022003",
     "district_code": "731002",
-    "name": "Sabaru"
+    "name": "Sabaru",
+    "postal_code": "90672"
   },
   {
     "code": "7310022004",
     "district_code": "731002",
-    "name": "Kanyurang"
+    "name": "Kanyurang",
+    "postal_code": "90672"
   },
   {
     "code": "7310022005",
     "district_code": "731002",
-    "name": "Doang Doangan Lompo"
+    "name": "Doang Doangan Lompo",
+    "postal_code": "90672"
   },
   {
     "code": "7310022006",
     "district_code": "731002",
-    "name": "Marasende"
+    "name": "Marasende",
+    "postal_code": "90672"
   },
   {
     "code": "7310022007",
     "district_code": "731002",
-    "name": "Dewakang"
+    "name": "Dewakang",
+    "postal_code": "90672"
   }
 ]

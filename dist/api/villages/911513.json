@@ -2,51 +2,61 @@
   {
     "code": "9115132001",
     "district_code": "911513",
-    "name": "Urato"
+    "name": "Urato",
+    "postal_code": "98672"
   },
   {
     "code": "9115132002",
     "district_code": "911513",
-    "name": "Mayaghaido"
+    "name": "Mayaghaido",
+    "postal_code": "98672"
   },
   {
     "code": "9115132003",
     "district_code": "911513",
-    "name": "Aniboi"
+    "name": "Aniboi",
+    "postal_code": "98672"
   },
   {
     "code": "9115132007",
     "district_code": "911513",
-    "name": "Tetui"
+    "name": "Tetui",
+    "postal_code": "98672"
   },
   {
     "code": "9115132008",
     "district_code": "911513",
-    "name": "Demba"
+    "name": "Demba",
+    "postal_code": "98672"
   },
   {
     "code": "9115132009",
     "district_code": "911513",
-    "name": "Fafai"
+    "name": "Fafai",
+    "postal_code": "98672"
   },
   {
     "code": "9115132017",
     "district_code": "911513",
-    "name": "Wudokuri"
+    "name": "Wudokuri",
+    "postal_code": "98672"
   },
   {
     "code": "9115132018",
     "district_code": "911513",
-    "name": "Aiwa"
+    "name": "Aiwa",
+    "postal_code": "98672"
   },
   {
     "code": "9115132019",
     "district_code": "911513",
-    "name": "Biati"
+    "name": "Biati",
+    "postal_code": "98672"
   },
   {
     "code": "9115132020",
     "district_code": "911513",
-    "name": "Ronarai"
+    "name": "Ronarai",
+    "postal_code": "98672"
   }
 ]

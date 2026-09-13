@@ -2,86 +2,103 @@
   {
     "code": "9504292001",
     "district_code": "950429",
-    "name": "Yanora"
+    "name": "Yanora",
+    "postal_code": "99062"
   },
   {
     "code": "9504292002",
     "district_code": "950429",
-    "name": "Wari/Taiyeve"
+    "name": "Wari/Taiyeve",
+    "postal_code": "99442"
   },
   {
     "code": "9504292003",
     "district_code": "950429",
-    "name": "Papedari"
+    "name": "Papedari",
+    "postal_code": "99442"
   },
   {
     "code": "9504292004",
     "district_code": "950429",
-    "name": "Dotori"
+    "name": "Dotori",
+    "postal_code": "99062"
   },
   {
     "code": "9504292005",
     "district_code": "950429",
-    "name": "Arebe/Ninggame"
+    "name": "Arebe/Ninggame",
+    "postal_code": "99062"
   },
   {
     "code": "9504292006",
     "district_code": "950429",
-    "name": "Kowari"
+    "name": "Kowari",
+    "postal_code": "99062"
   },
   {
     "code": "9504292007",
     "district_code": "950429",
-    "name": "Wiki"
+    "name": "Wiki",
+    "postal_code": "99062"
   },
   {
     "code": "9504292008",
     "district_code": "950429",
-    "name": "Kuruku"
+    "name": "Kuruku",
+    "postal_code": "99062"
   },
   {
     "code": "9504292009",
     "district_code": "950429",
-    "name": "Friji"
+    "name": "Friji",
+    "postal_code": "99442"
   },
   {
     "code": "9504292010",
     "district_code": "950429",
-    "name": "Dorera"
+    "name": "Dorera",
+    "postal_code": "99062"
   },
   {
     "code": "9504292011",
     "district_code": "950429",
-    "name": "Dustra/Yamiriko"
+    "name": "Dustra/Yamiriko",
+    "postal_code": "99062"
   },
   {
     "code": "9504292012",
     "district_code": "950429",
-    "name": "Muna"
+    "name": "Muna",
+    "postal_code": "99062"
   },
   {
     "code": "9504292013",
     "district_code": "950429",
-    "name": "Kalibu"
+    "name": "Kalibu",
+    "postal_code": "99062"
   },
   {
     "code": "9504292014",
     "district_code": "950429",
-    "name": "Laniloma"
+    "name": "Laniloma",
+    "postal_code": "99062"
   },
   {
     "code": "9504292015",
     "district_code": "950429",
-    "name": "Wakumendek"
+    "name": "Wakumendek",
+    "postal_code": "99062"
   },
   {
     "code": "9504292016",
     "district_code": "950429",
-    "name": "Timoga/Kabupaga"
+    "name": "Timoga/Kabupaga",
+    "postal_code": "99062"
   },
   {
     "code": "9504292017",
     "district_code": "950429",
-    "name": "Beleise"
+    "name": "Beleise",
+    "postal_code": "99062"
   }
 ]

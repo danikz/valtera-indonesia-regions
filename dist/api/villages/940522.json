@@ -2,31 +2,37 @@
   {
     "code": "9405222001",
     "district_code": "940522",
-    "name": "Jiwot"
+    "name": "Jiwot",
+    "postal_code": "98975"
   },
   {
     "code": "9405222002",
     "district_code": "940522",
-    "name": "Gunaluk"
+    "name": "Gunaluk",
+    "postal_code": "98975"
   },
   {
     "code": "9405222003",
     "district_code": "940522",
-    "name": "Kugiame"
+    "name": "Kugiame",
+    "postal_code": "98975"
   },
   {
     "code": "9405222004",
     "district_code": "940522",
-    "name": "Wuyunggame"
+    "name": "Wuyunggame",
+    "postal_code": "98975"
   },
   {
     "code": "9405222005",
     "district_code": "940522",
-    "name": "Deogi"
+    "name": "Deogi",
+    "postal_code": "98975"
   },
   {
     "code": "9405222006",
     "district_code": "940522",
-    "name": "Jugumi"
+    "name": "Jugumi",
+    "postal_code": "98975"
   }
 ]

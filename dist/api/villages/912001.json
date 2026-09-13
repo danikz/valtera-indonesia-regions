@@ -2,56 +2,67 @@
   {
     "code": "9120012001",
     "district_code": "912001",
-    "name": "Burmeso"
+    "name": "Burmeso",
+    "postal_code": "98692"
   },
   {
     "code": "9120012002",
     "district_code": "912001",
-    "name": "Anggreso"
+    "name": "Anggreso",
+    "postal_code": "98692"
   },
   {
     "code": "9120012003",
     "district_code": "912001",
-    "name": "Kasonaweja"
+    "name": "Kasonaweja",
+    "postal_code": "98692"
   },
   {
     "code": "9120012004",
     "district_code": "912001",
-    "name": "Metaweja"
+    "name": "Metaweja",
+    "postal_code": "98692"
   },
   {
     "code": "9120012005",
     "district_code": "912001",
-    "name": "Namunaweja"
+    "name": "Namunaweja",
+    "postal_code": "98692"
   },
   {
     "code": "9120012006",
     "district_code": "912001",
-    "name": "Danau Bira"
+    "name": "Danau Bira",
+    "postal_code": "98692"
   },
   {
     "code": "9120012007",
     "district_code": "912001",
-    "name": "Muru Mare"
+    "name": "Muru Mare",
+    "postal_code": "98692"
   },
   {
     "code": "9120012008",
     "district_code": "912001",
-    "name": "Kwerba"
+    "name": "Kwerba",
+    "postal_code": "98692"
   },
   {
     "code": "9120012009",
     "district_code": "912001",
-    "name": "Sasakwesar"
+    "name": "Sasakwesar",
+    "postal_code": "98692"
   },
   {
     "code": "9120012010",
     "district_code": "912001",
-    "name": "Babija"
+    "name": "Babija",
+    "postal_code": "98692"
   },
   {
     "code": "9120012011",
     "district_code": "912001",
-    "name": "Marina Valen"
+    "name": "Marina Valen",
+    "postal_code": "98692"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1172022004",
     "district_code": "117202",
-    "name": "Jaboi"
+    "name": "Jaboi",
+    "postal_code": "23526"
   },
   {
     "code": "1172022005",
     "district_code": "117202",
-    "name": "Balohan"
+    "name": "Balohan",
+    "postal_code": "23525"
   },
   {
     "code": "1172022006",
     "district_code": "117202",
-    "name": "Cot Abeuk"
+    "name": "Cot Abeuk",
+    "postal_code": "23523"
   },
   {
     "code": "1172022007",
     "district_code": "117202",
-    "name": "Cot Ba U"
+    "name": "Cot Ba U",
+    "postal_code": "23522"
   },
   {
     "code": "1172022008",
     "district_code": "117202",
-    "name": "Ie Meulee"
+    "name": "Ie Meulee",
+    "postal_code": "23521"
   },
   {
     "code": "1172022009",
     "district_code": "117202",
-    "name": "Ujoeng Kareung"
+    "name": "Ujoeng Kareung",
+    "postal_code": "23521"
   },
   {
     "code": "1172022010",
     "district_code": "117202",
-    "name": "Anoe Itam"
+    "name": "Anoe Itam",
+    "postal_code": "23524"
   }
 ]

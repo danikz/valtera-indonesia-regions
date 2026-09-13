@@ -2,26 +2,31 @@
   {
     "code": "3522252001",
     "district_code": "352225",
-    "name": "Kawengan"
+    "name": "Kawengan",
+    "postal_code": "62160"
   },
   {
     "code": "3522252002",
     "district_code": "352225",
-    "name": "Wonocolo"
+    "name": "Wonocolo",
+    "postal_code": "62160"
   },
   {
     "code": "3522252003",
     "district_code": "352225",
-    "name": "Hargomulyo"
+    "name": "Hargomulyo",
+    "postal_code": "62160"
   },
   {
     "code": "3522252004",
     "district_code": "352225",
-    "name": "Kedewan"
+    "name": "Kedewan",
+    "postal_code": "62160"
   },
   {
     "code": "3522252005",
     "district_code": "352225",
-    "name": "Beji"
+    "name": "Beji",
+    "postal_code": "62160"
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "9501102001",
     "district_code": "950110",
-    "name": "Heatnem"
+    "name": "Heatnem",
+    "postal_code": "99519"
   },
   {
     "code": "9501102002",
     "district_code": "950110",
-    "name": "Wililimo"
+    "name": "Wililimo",
+    "postal_code": "99519"
   },
   {
     "code": "9501102003",
     "district_code": "950110",
-    "name": "Yabem"
+    "name": "Yabem",
+    "postal_code": "99554"
   },
   {
     "code": "9501102004",
     "district_code": "950110",
-    "name": "Waukahilapok"
+    "name": "Waukahilapok",
+    "postal_code": "99519"
   },
   {
     "code": "9501102005",
     "district_code": "950110",
-    "name": "Aleak"
+    "name": "Aleak",
+    "postal_code": "99519"
   },
   {
     "code": "9501102006",
     "district_code": "950110",
-    "name": "Inanekelok"
+    "name": "Inanekelok",
+    "postal_code": "99519"
   },
   {
     "code": "9501102007",
     "district_code": "950110",
-    "name": "Witalak"
+    "name": "Witalak",
+    "postal_code": "99519"
   },
   {
     "code": "9501102008",
     "district_code": "950110",
-    "name": "Mulukmo"
+    "name": "Mulukmo",
+    "postal_code": "99554"
   },
   {
     "code": "9501102009",
     "district_code": "950110",
-    "name": "Landia"
+    "name": "Landia",
+    "postal_code": "99554"
   },
   {
     "code": "9501102010",
     "district_code": "950110",
-    "name": "Filia"
+    "name": "Filia",
+    "postal_code": "99519"
   },
   {
     "code": "9501102011",
     "district_code": "950110",
-    "name": "Isugunik"
+    "name": "Isugunik",
+    "postal_code": "99519"
   },
   {
     "code": "9501102012",
     "district_code": "950110",
-    "name": "Hitelowa"
+    "name": "Hitelowa",
+    "postal_code": "99554"
   },
   {
     "code": "9501102013",
     "district_code": "950110",
-    "name": "Duabalek"
+    "name": "Duabalek",
+    "postal_code": "99554"
   }
 ]

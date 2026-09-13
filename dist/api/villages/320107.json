@@ -2,61 +2,73 @@
   {
     "code": "3201072001",
     "district_code": "320107",
-    "name": "Pasirangin"
+    "name": "Pasirangin",
+    "postal_code": "16820"
   },
   {
     "code": "3201072002",
     "district_code": "320107",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "16820"
   },
   {
     "code": "3201072003",
     "district_code": "320107",
-    "name": "Mampir"
+    "name": "Mampir",
+    "postal_code": "16820"
   },
   {
     "code": "3201072004",
     "district_code": "320107",
-    "name": "Dayeuh"
+    "name": "Dayeuh",
+    "postal_code": "16820"
   },
   {
     "code": "3201072005",
     "district_code": "320107",
-    "name": "Gandoang"
+    "name": "Gandoang",
+    "postal_code": "16820"
   },
   {
     "code": "3201072006",
     "district_code": "320107",
-    "name": "Jatisari"
+    "name": "Jatisari",
+    "postal_code": "16820"
   },
   {
     "code": "3201072007",
     "district_code": "320107",
-    "name": "Cileungsi Kidul"
+    "name": "Cileungsi Kidul",
+    "postal_code": "16820"
   },
   {
     "code": "3201072008",
     "district_code": "320107",
-    "name": "Cipeucang"
+    "name": "Cipeucang",
+    "postal_code": "16820"
   },
   {
     "code": "3201072009",
     "district_code": "320107",
-    "name": "Situsari"
+    "name": "Situsari",
+    "postal_code": "16820"
   },
   {
     "code": "3201072010",
     "district_code": "320107",
-    "name": "Cipenjo"
+    "name": "Cipenjo",
+    "postal_code": "16820"
   },
   {
     "code": "3201072011",
     "district_code": "320107",
-    "name": "Limusnunggal"
+    "name": "Limusnunggal",
+    "postal_code": "16820"
   },
   {
     "code": "3201072012",
     "district_code": "320107",
-    "name": "Cileungsi"
+    "name": "Cileungsi",
+    "postal_code": "16820"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "7471051001",
     "district_code": "747105",
-    "name": "Kemaraya"
+    "name": "Kemaraya",
+    "postal_code": "93121"
   },
   {
     "code": "7471051002",
     "district_code": "747105",
-    "name": "Watu-Watu"
+    "name": "Watu-Watu",
+    "postal_code": "93121"
   },
   {
     "code": "7471051003",
     "district_code": "747105",
-    "name": "Tipulu"
+    "name": "Tipulu",
+    "postal_code": "93122"
   },
   {
     "code": "7471051004",
     "district_code": "747105",
-    "name": "Punggaloba"
+    "name": "Punggaloba",
+    "postal_code": "93123"
   },
   {
     "code": "7471051005",
     "district_code": "747105",
-    "name": "Benu Benua"
+    "name": "Benu Benua",
+    "postal_code": "93123"
   },
   {
     "code": "7471051006",
     "district_code": "747105",
-    "name": "Sodoha"
+    "name": "Sodoha",
+    "postal_code": "93124"
   },
   {
     "code": "7471051007",
     "district_code": "747105",
-    "name": "Sanua"
+    "name": "Sanua",
+    "postal_code": "93127"
   },
   {
     "code": "7471051008",
     "district_code": "747105",
-    "name": "Dapu Dapura"
+    "name": "Dapu Dapura",
+    "postal_code": "93127"
   },
   {
     "code": "7471051009",
     "district_code": "747105",
-    "name": "Lahundape"
+    "name": "Lahundape",
+    "postal_code": "93127"
   }
 ]

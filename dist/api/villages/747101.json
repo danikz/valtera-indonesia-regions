@@ -2,31 +2,37 @@
   {
     "code": "7471011005",
     "district_code": "747101",
-    "name": "Mandonga"
+    "name": "Mandonga",
+    "postal_code": "93111"
   },
   {
     "code": "7471011006",
     "district_code": "747101",
-    "name": "Korumba"
+    "name": "Korumba",
+    "postal_code": "93111"
   },
   {
     "code": "7471011007",
     "district_code": "747101",
-    "name": "Labibia"
+    "name": "Labibia",
+    "postal_code": "93113"
   },
   {
     "code": "7471011008",
     "district_code": "747101",
-    "name": "Wawombalata"
+    "name": "Wawombalata",
+    "postal_code": "93113"
   },
   {
     "code": "7471011009",
     "district_code": "747101",
-    "name": "Alolama"
+    "name": "Alolama",
+    "postal_code": "93112"
   },
   {
     "code": "7471011010",
     "district_code": "747101",
-    "name": "Anggilowu"
+    "name": "Anggilowu",
+    "postal_code": "93111"
   }
 ]

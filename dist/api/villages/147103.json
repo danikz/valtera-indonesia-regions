@@ -2,16 +2,19 @@
   {
     "code": "1471031001",
     "district_code": "147103",
-    "name": "Cinta Raja"
+    "name": "Cinta Raja",
+    "postal_code": "28131"
   },
   {
     "code": "1471031002",
     "district_code": "147103",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "28133"
   },
   {
     "code": "1471031003",
     "district_code": "147103",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "28132"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "1213212001",
     "district_code": "121321",
-    "name": "Pakantan Dolok"
+    "name": "Pakantan Dolok",
+    "postal_code": "22997"
   },
   {
     "code": "1213212002",
     "district_code": "121321",
-    "name": "Pakantan Lombang"
+    "name": "Pakantan Lombang",
+    "postal_code": "22997"
   },
   {
     "code": "1213212003",
     "district_code": "121321",
-    "name": "Huta Gambir"
+    "name": "Huta Gambir",
+    "postal_code": "22997"
   },
   {
     "code": "1213212004",
     "district_code": "121321",
-    "name": "Huta Lancat"
+    "name": "Huta Lancat",
+    "postal_code": "22997"
   },
   {
     "code": "1213212005",
     "district_code": "121321",
-    "name": "Huta Julu"
+    "name": "Huta Julu",
+    "postal_code": "22997"
   },
   {
     "code": "1213212006",
     "district_code": "121321",
-    "name": "Huta Toras"
+    "name": "Huta Toras",
+    "postal_code": "22997"
   },
   {
     "code": "1213212007",
     "district_code": "121321",
-    "name": "Huta Padang"
+    "name": "Huta Padang",
+    "postal_code": "22997"
   },
   {
     "code": "1213212008",
     "district_code": "121321",
-    "name": "Silogun"
+    "name": "Silogun",
+    "postal_code": "22997"
   }
 ]

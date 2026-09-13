@@ -2,36 +2,43 @@
   {
     "code": "6271021001",
     "district_code": "627102",
-    "name": "Marang"
+    "name": "Marang",
+    "postal_code": "73222"
   },
   {
     "code": "6271021002",
     "district_code": "627102",
-    "name": "Tumbang Tahai"
+    "name": "Tumbang Tahai",
+    "postal_code": "73223"
   },
   {
     "code": "6271021003",
     "district_code": "627102",
-    "name": "Banturung"
+    "name": "Banturung",
+    "postal_code": "73224"
   },
   {
     "code": "6271021004",
     "district_code": "627102",
-    "name": "Tangkiling"
+    "name": "Tangkiling",
+    "postal_code": "73221"
   },
   {
     "code": "6271021005",
     "district_code": "627102",
-    "name": "Sei Gohong"
+    "name": "Sei Gohong",
+    "postal_code": "73225"
   },
   {
     "code": "6271021006",
     "district_code": "627102",
-    "name": "Kanarakan"
+    "name": "Kanarakan",
+    "postal_code": "73226"
   },
   {
     "code": "6271021007",
     "district_code": "627102",
-    "name": "Habaring Hurung"
+    "name": "Habaring Hurung",
+    "postal_code": "73221"
   }
 ]

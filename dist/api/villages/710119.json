@@ -2,66 +2,79 @@
   {
     "code": "7101192001",
     "district_code": "710119",
-    "name": "Muntoi"
+    "name": "Muntoi",
+    "postal_code": "95751"
   },
   {
     "code": "7101192002",
     "district_code": "710119",
-    "name": "Poyuyanan"
+    "name": "Poyuyanan",
+    "postal_code": "95751"
   },
   {
     "code": "7101192003",
     "district_code": "710119",
-    "name": "Lobong"
+    "name": "Lobong",
+    "postal_code": "95751"
   },
   {
     "code": "7101192004",
     "district_code": "710119",
-    "name": "Passi"
+    "name": "Passi",
+    "postal_code": "95751"
   },
   {
     "code": "7101192017",
     "district_code": "710119",
-    "name": "Bintau"
+    "name": "Bintau",
+    "postal_code": "95751"
   },
   {
     "code": "7101192018",
     "district_code": "710119",
-    "name": "Bulud"
+    "name": "Bulud",
+    "postal_code": "95751"
   },
   {
     "code": "7101192019",
     "district_code": "710119",
-    "name": "Otam"
+    "name": "Otam",
+    "postal_code": "95751"
   },
   {
     "code": "7101192020",
     "district_code": "710119",
-    "name": "Wangga"
+    "name": "Wangga",
+    "postal_code": "95751"
   },
   {
     "code": "7101192022",
     "district_code": "710119",
-    "name": "Inuai"
+    "name": "Inuai",
+    "postal_code": "95751"
   },
   {
     "code": "7101192023",
     "district_code": "710119",
-    "name": "Passi II"
+    "name": "Passi II",
+    "postal_code": "95751"
   },
   {
     "code": "7101192024",
     "district_code": "710119",
-    "name": "Muntoi Timur"
+    "name": "Muntoi Timur",
+    "postal_code": "95751"
   },
   {
     "code": "7101192025",
     "district_code": "710119",
-    "name": "Otam Barat"
+    "name": "Otam Barat",
+    "postal_code": "95751"
   },
   {
     "code": "7101192026",
     "district_code": "710119",
-    "name": "Wangga Satu"
+    "name": "Wangga Satu",
+    "postal_code": "95751"
   }
 ]

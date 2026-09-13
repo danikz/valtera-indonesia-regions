@@ -2,31 +2,37 @@
   {
     "code": "5272011001",
     "district_code": "527201",
-    "name": "Paruga"
+    "name": "Paruga",
+    "postal_code": "84111"
   },
   {
     "code": "5272011002",
     "district_code": "527201",
-    "name": "NaE"
+    "name": "NaE",
+    "postal_code": "84116"
   },
   {
     "code": "5272011003",
     "district_code": "527201",
-    "name": "SaraE"
+    "name": "SaraE",
+    "postal_code": "84117"
   },
   {
     "code": "5272011004",
     "district_code": "527201",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "84118"
   },
   {
     "code": "5272011013",
     "district_code": "527201",
-    "name": "Pane"
+    "name": "Pane",
+    "postal_code": "84119"
   },
   {
     "code": "5272011014",
     "district_code": "527201",
-    "name": "Dara"
+    "name": "Dara",
+    "postal_code": "84119"
   }
 ]

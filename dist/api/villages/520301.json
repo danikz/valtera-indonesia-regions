@@ -2,76 +2,91 @@
   {
     "code": "5203012001",
     "district_code": "520301",
-    "name": "Tanjung Luar"
+    "name": "Tanjung Luar",
+    "postal_code": "83673"
   },
   {
     "code": "5203012002",
     "district_code": "520301",
-    "name": "Pijot"
+    "name": "Pijot",
+    "postal_code": "83673"
   },
   {
     "code": "5203012003",
     "district_code": "520301",
-    "name": "Selebung Ketangga"
+    "name": "Selebung Ketangga",
+    "postal_code": "83673"
   },
   {
     "code": "5203012004",
     "district_code": "520301",
-    "name": "Sepit"
+    "name": "Sepit",
+    "postal_code": "83673"
   },
   {
     "code": "5203012005",
     "district_code": "520301",
-    "name": "Batu Putik"
+    "name": "Batu Putik",
+    "postal_code": "83673"
   },
   {
     "code": "5203012006",
     "district_code": "520301",
-    "name": "Senyiur"
+    "name": "Senyiur",
+    "postal_code": "83673"
   },
   {
     "code": "5203012007",
     "district_code": "520301",
-    "name": "Keruak"
+    "name": "Keruak",
+    "postal_code": "83673"
   },
   {
     "code": "5203012008",
     "district_code": "520301",
-    "name": "Ketapang Raya"
+    "name": "Ketapang Raya",
+    "postal_code": "83673"
   },
   {
     "code": "5203012009",
     "district_code": "520301",
-    "name": "Pijot Utara"
+    "name": "Pijot Utara",
+    "postal_code": "83673"
   },
   {
     "code": "5203012010",
     "district_code": "520301",
-    "name": "Dane Rase"
+    "name": "Dane Rase",
+    "postal_code": "83673"
   },
   {
     "code": "5203012011",
     "district_code": "520301",
-    "name": "Ketangga Jeraeng"
+    "name": "Ketangga Jeraeng",
+    "postal_code": "83673"
   },
   {
     "code": "5203012012",
     "district_code": "520301",
-    "name": "Mendana Raya"
+    "name": "Mendana Raya",
+    "postal_code": "83673"
   },
   {
     "code": "5203012013",
     "district_code": "520301",
-    "name": "Setungkep Lingsar"
+    "name": "Setungkep Lingsar",
+    "postal_code": "83673"
   },
   {
     "code": "5203012014",
     "district_code": "520301",
-    "name": "Montong Belae"
+    "name": "Montong Belae",
+    "postal_code": "83673"
   },
   {
     "code": "5203012015",
     "district_code": "520301",
-    "name": "Pulau Maringkik"
+    "name": "Pulau Maringkik",
+    "postal_code": "83673"
   }
 ]

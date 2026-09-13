@@ -2,26 +2,31 @@
   {
     "code": "1274021001",
     "district_code": "127402",
-    "name": "Tanjung Balai Kota III"
+    "name": "Tanjung Balai Kota III",
+    "postal_code": "21321"
   },
   {
     "code": "1274021002",
     "district_code": "127402",
-    "name": "Tanjung Balai Kota IV"
+    "name": "Tanjung Balai Kota IV",
+    "postal_code": "21322"
   },
   {
     "code": "1274021003",
     "district_code": "127402",
-    "name": "Sejahtera"
+    "name": "Sejahtera",
+    "postal_code": "21323"
   },
   {
     "code": "1274021004",
     "district_code": "127402",
-    "name": "Kuala Silo Bestari"
+    "name": "Kuala Silo Bestari",
+    "postal_code": "21324"
   },
   {
     "code": "1274021005",
     "district_code": "127402",
-    "name": "Matahalasan"
+    "name": "Matahalasan",
+    "postal_code": "21325"
   }
 ]

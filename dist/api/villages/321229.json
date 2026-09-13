@@ -2,31 +2,37 @@
   {
     "code": "3212292001",
     "district_code": "321229",
-    "name": "Brondong"
+    "name": "Brondong",
+    "postal_code": "45219"
   },
   {
     "code": "3212292002",
     "district_code": "321229",
-    "name": "Pabean Ilir"
+    "name": "Pabean Ilir",
+    "postal_code": "45219"
   },
   {
     "code": "3212292003",
     "district_code": "321229",
-    "name": "Pagirikan"
+    "name": "Pagirikan",
+    "postal_code": "45227"
   },
   {
     "code": "3212292004",
     "district_code": "321229",
-    "name": "Pasekan"
+    "name": "Pasekan",
+    "postal_code": "45228"
   },
   {
     "code": "3212292005",
     "district_code": "321229",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "45213"
   },
   {
     "code": "3212292006",
     "district_code": "321229",
-    "name": "Totoran"
+    "name": "Totoran",
+    "postal_code": "45229"
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "1223011001",
     "district_code": "122301",
-    "name": "Aek Kanopan"
+    "name": "Aek Kanopan",
+    "postal_code": "21457"
   },
   {
     "code": "1223011002",
     "district_code": "122301",
-    "name": "Aek Kanopan Timur"
+    "name": "Aek Kanopan Timur",
+    "postal_code": "21457"
   },
   {
     "code": "1223012003",
     "district_code": "122301",
-    "name": "Kuala Beringin"
+    "name": "Kuala Beringin",
+    "postal_code": "21457"
   },
   {
     "code": "1223012004",
     "district_code": "122301",
-    "name": "Parpaudangan"
+    "name": "Parpaudangan",
+    "postal_code": "21457"
   },
   {
     "code": "1223012005",
     "district_code": "122301",
-    "name": "Pulo Dogom"
+    "name": "Pulo Dogom",
+    "postal_code": "21457"
   },
   {
     "code": "1223012006",
     "district_code": "122301",
-    "name": "Londut"
+    "name": "Londut",
+    "postal_code": "21457"
   },
   {
     "code": "1223012007",
     "district_code": "122301",
-    "name": "Perkebunan Kanopan Ulu"
+    "name": "Perkebunan Kanopan Ulu",
+    "postal_code": "21457"
   },
   {
     "code": "1223012008",
     "district_code": "122301",
-    "name": "Perkebunan Membang Muda"
+    "name": "Perkebunan Membang Muda",
+    "postal_code": "21457"
   },
   {
     "code": "1223012009",
     "district_code": "122301",
-    "name": "Perkebunan Labuhan Haji"
+    "name": "Perkebunan Labuhan Haji",
+    "postal_code": "21457"
   },
   {
     "code": "1223012010",
     "district_code": "122301",
-    "name": "Perkebunan Hanna"
+    "name": "Perkebunan Hanna",
+    "postal_code": "21457"
   },
   {
     "code": "1223012011",
     "district_code": "122301",
-    "name": "Sonomartani"
+    "name": "Sonomartani",
+    "postal_code": "21457"
   },
   {
     "code": "1223012012",
     "district_code": "122301",
-    "name": "Sukarame"
+    "name": "Sukarame",
+    "postal_code": "21457"
   },
   {
     "code": "1223012013",
     "district_code": "122301",
-    "name": "Sukarame Baru"
+    "name": "Sukarame Baru",
+    "postal_code": "21457"
   }
 ]

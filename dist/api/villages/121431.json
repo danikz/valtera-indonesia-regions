@@ -2,61 +2,73 @@
   {
     "code": "1214312001",
     "district_code": "121431",
-    "name": "Baluta"
+    "name": "Baluta",
+    "postal_code": "22887"
   },
   {
     "code": "1214312002",
     "district_code": "121431",
-    "name": "Eho Baluta"
+    "name": "Eho Baluta",
+    "postal_code": "22887"
   },
   {
     "code": "1214312003",
     "district_code": "121431",
-    "name": "Bawo Ofuloa"
+    "name": "Bawo Ofuloa",
+    "postal_code": "22887"
   },
   {
     "code": "1214312004",
     "district_code": "121431",
-    "name": "Hale Baluta"
+    "name": "Hale Baluta",
+    "postal_code": "22887"
   },
   {
     "code": "1214312005",
     "district_code": "121431",
-    "name": "Bawo Orudua"
+    "name": "Bawo Orudua",
+    "postal_code": "22887"
   },
   {
     "code": "1214312006",
     "district_code": "121431",
-    "name": "Jeke"
+    "name": "Jeke",
+    "postal_code": "22887"
   },
   {
     "code": "1214312007",
     "district_code": "121431",
-    "name": "Makole"
+    "name": "Makole",
+    "postal_code": "22887"
   },
   {
     "code": "1214312008",
     "district_code": "121431",
-    "name": "Sifauruasi"
+    "name": "Sifauruasi",
+    "postal_code": "22887"
   },
   {
     "code": "1214312009",
     "district_code": "121431",
-    "name": "Bawo Analita Saeru"
+    "name": "Bawo Analita Saeru",
+    "postal_code": "22887"
   },
   {
     "code": "1214312010",
     "district_code": "121431",
-    "name": "Saeru Melayu"
+    "name": "Saeru Melayu",
+    "postal_code": "22887"
   },
   {
     "code": "1214312011",
     "district_code": "121431",
-    "name": "Hiligeho Sogawu"
+    "name": "Hiligeho Sogawu",
+    "postal_code": "22887"
   },
   {
     "code": "1214312012",
     "district_code": "121431",
-    "name": "Hiliomasio"
+    "name": "Hiliomasio",
+    "postal_code": "22887"
   }
 ]

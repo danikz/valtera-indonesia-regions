@@ -2,56 +2,67 @@
   {
     "code": "3601182001",
     "district_code": "360118",
-    "name": "Cimanuk"
+    "name": "Cimanuk",
+    "postal_code": "42270"
   },
   {
     "code": "3601182002",
     "district_code": "360118",
-    "name": "Batubantar"
+    "name": "Batubantar",
+    "postal_code": "42270"
   },
   {
     "code": "3601182003",
     "district_code": "360118",
-    "name": "Kadubungbang"
+    "name": "Kadubungbang",
+    "postal_code": "42270"
   },
   {
     "code": "3601182004",
     "district_code": "360118",
-    "name": "Kupahandap"
+    "name": "Kupahandap",
+    "postal_code": "42270"
   },
   {
     "code": "3601182005",
     "district_code": "360118",
-    "name": "Dalembalar"
+    "name": "Dalembalar",
+    "postal_code": "42270"
   },
   {
     "code": "3601182006",
     "district_code": "360118",
-    "name": "Kadumadang"
+    "name": "Kadumadang",
+    "postal_code": "42270"
   },
   {
     "code": "3601182007",
     "district_code": "360118",
-    "name": "Rocek"
+    "name": "Rocek",
+    "postal_code": "42270"
   },
   {
     "code": "3601182008",
     "district_code": "360118",
-    "name": "Kadudodol"
+    "name": "Kadudodol",
+    "postal_code": "42270"
   },
   {
     "code": "3601182010",
     "district_code": "360118",
-    "name": "Gunungdatar"
+    "name": "Gunungdatar",
+    "postal_code": "42270"
   },
   {
     "code": "3601182013",
     "district_code": "360118",
-    "name": "Sekong"
+    "name": "Sekong",
+    "postal_code": "42270"
   },
   {
     "code": "3601182015",
     "district_code": "360118",
-    "name": "Gunungcupu"
+    "name": "Gunungcupu",
+    "postal_code": "42270"
   }
 ]

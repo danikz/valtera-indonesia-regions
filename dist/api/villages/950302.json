@@ -2,61 +2,73 @@
   {
     "code": "9503022001",
     "district_code": "950302",
-    "name": "Yahulikma"
+    "name": "Yahulikma",
+    "postal_code": "99751"
   },
   {
     "code": "9503022002",
     "district_code": "950302",
-    "name": "Lelambo"
+    "name": "Lelambo",
+    "postal_code": "99042"
   },
   {
     "code": "9503022003",
     "district_code": "950302",
-    "name": "Tulpa"
+    "name": "Tulpa",
+    "postal_code": "99042"
   },
   {
     "code": "9503022004",
     "district_code": "950302",
-    "name": "Ilwap"
+    "name": "Ilwap",
+    "postal_code": "99042"
   },
   {
     "code": "9503022005",
     "district_code": "950302",
-    "name": "Kiltam"
+    "name": "Kiltam",
+    "postal_code": "99042"
   },
   {
     "code": "9503022006",
     "district_code": "950302",
-    "name": "Pilong"
+    "name": "Pilong",
+    "postal_code": "99042"
   },
   {
     "code": "9503022007",
     "district_code": "950302",
-    "name": "Vuno"
+    "name": "Vuno",
+    "postal_code": "99042"
   },
   {
     "code": "9503022008",
     "district_code": "950302",
-    "name": "Suahi"
+    "name": "Suahi",
+    "postal_code": "99042"
   },
   {
     "code": "9503022009",
     "district_code": "950302",
-    "name": "Tohong"
+    "name": "Tohong",
+    "postal_code": "99042"
   },
   {
     "code": "9503022010",
     "district_code": "950302",
-    "name": "Paliptek"
+    "name": "Paliptek",
+    "postal_code": "99042"
   },
   {
     "code": "9503022011",
     "district_code": "950302",
-    "name": "Letin"
+    "name": "Letin",
+    "postal_code": "99042"
   },
   {
     "code": "9503022012",
     "district_code": "950302",
-    "name": "Hohe"
+    "name": "Hohe",
+    "postal_code": "99042"
   }
 ]

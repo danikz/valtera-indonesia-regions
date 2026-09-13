@@ -2,41 +2,49 @@
   {
     "code": "9402122001",
     "district_code": "940212",
-    "name": "Kulirik"
+    "name": "Kulirik",
+    "postal_code": "98914"
   },
   {
     "code": "9402122002",
     "district_code": "940212",
-    "name": "Doligobak"
+    "name": "Doligobak",
+    "postal_code": "98914"
   },
   {
     "code": "9402122003",
     "district_code": "940212",
-    "name": "Yalinggua"
+    "name": "Yalinggua",
+    "postal_code": "98914"
   },
   {
     "code": "9402122004",
     "district_code": "940212",
-    "name": "Talilome"
+    "name": "Talilome",
+    "postal_code": "98914"
   },
   {
     "code": "9402122005",
     "district_code": "940212",
-    "name": "Muara"
+    "name": "Muara",
+    "postal_code": "98914"
   },
   {
     "code": "9402122006",
     "district_code": "940212",
-    "name": "Karubate"
+    "name": "Karubate",
+    "postal_code": "98914"
   },
   {
     "code": "9402122007",
     "district_code": "940212",
-    "name": "Dologobak"
+    "name": "Dologobak",
+    "postal_code": "98914"
   },
   {
     "code": "9402122008",
     "district_code": "940212",
-    "name": "Yambidugum"
+    "name": "Yambidugum",
+    "postal_code": "98914"
   }
 ]

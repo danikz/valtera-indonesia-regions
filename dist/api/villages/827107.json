@@ -2,31 +2,37 @@
   {
     "code": "8271071001",
     "district_code": "827107",
-    "name": "Faudu"
+    "name": "Faudu",
+    "postal_code": "97745"
   },
   {
     "code": "8271071002",
     "district_code": "827107",
-    "name": "Tomajiko"
+    "name": "Tomajiko",
+    "postal_code": "97745"
   },
   {
     "code": "8271071003",
     "district_code": "827107",
-    "name": "Dorari Isa"
+    "name": "Dorari Isa",
+    "postal_code": "97745"
   },
   {
     "code": "8271071004",
     "district_code": "827107",
-    "name": "Togolobe"
+    "name": "Togolobe",
+    "postal_code": "97745"
   },
   {
     "code": "8271071005",
     "district_code": "827107",
-    "name": "Mado"
+    "name": "Mado",
+    "postal_code": "97745"
   },
   {
     "code": "8271071006",
     "district_code": "827107",
-    "name": "Tafraka"
+    "name": "Tafraka",
+    "postal_code": "97745"
   }
 ]

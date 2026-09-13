@@ -2,31 +2,37 @@
   {
     "code": "3509222001",
     "district_code": "350922",
-    "name": "Kemuninglor"
+    "name": "Kemuninglor",
+    "postal_code": "68191"
   },
   {
     "code": "3509222002",
     "district_code": "350922",
-    "name": "Darsono"
+    "name": "Darsono",
+    "postal_code": "68191"
   },
   {
     "code": "3509222003",
     "district_code": "350922",
-    "name": "Arjasa"
+    "name": "Arjasa",
+    "postal_code": "68191"
   },
   {
     "code": "3509222004",
     "district_code": "350922",
-    "name": "Candijati"
+    "name": "Candijati",
+    "postal_code": "68191"
   },
   {
     "code": "3509222005",
     "district_code": "350922",
-    "name": "Biting"
+    "name": "Biting",
+    "postal_code": "68191"
   },
   {
     "code": "3509222006",
     "district_code": "350922",
-    "name": "Kamal"
+    "name": "Kamal",
+    "postal_code": "68191"
   }
 ]

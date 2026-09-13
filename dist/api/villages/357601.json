@@ -2,31 +2,37 @@
   {
     "code": "3576011003",
     "district_code": "357601",
-    "name": "Mentikan"
+    "name": "Mentikan",
+    "postal_code": "61323"
   },
   {
     "code": "3576011004",
     "district_code": "357601",
-    "name": "Kauman"
+    "name": "Kauman",
+    "postal_code": "61324"
   },
   {
     "code": "3576011005",
     "district_code": "357601",
-    "name": "Pulorejo"
+    "name": "Pulorejo",
+    "postal_code": "61325"
   },
   {
     "code": "3576011006",
     "district_code": "357601",
-    "name": "Prajuritkulon"
+    "name": "Prajuritkulon",
+    "postal_code": "61326"
   },
   {
     "code": "3576011007",
     "district_code": "357601",
-    "name": "Surodinawan"
+    "name": "Surodinawan",
+    "postal_code": "61328"
   },
   {
     "code": "3576011008",
     "district_code": "357601",
-    "name": "Blooto"
+    "name": "Blooto",
+    "postal_code": "61327"
   }
 ]

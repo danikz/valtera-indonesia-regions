@@ -2,36 +2,43 @@
   {
     "code": "3374041001",
     "district_code": "337404",
-    "name": "Tambakrejo"
+    "name": "Tambakrejo",
+    "postal_code": "50174"
   },
   {
     "code": "3374041002",
     "district_code": "337404",
-    "name": "Kaligawe"
+    "name": "Kaligawe",
+    "postal_code": "50164"
   },
   {
     "code": "3374041003",
     "district_code": "337404",
-    "name": "Sawah Besar"
+    "name": "Sawah Besar",
+    "postal_code": "50163"
   },
   {
     "code": "3374041004",
     "district_code": "337404",
-    "name": "Sambirejo"
+    "name": "Sambirejo",
+    "postal_code": "50166"
   },
   {
     "code": "3374041005",
     "district_code": "337404",
-    "name": "Siwalan"
+    "name": "Siwalan",
+    "postal_code": "50162"
   },
   {
     "code": "3374041006",
     "district_code": "337404",
-    "name": "Pandean Lamper"
+    "name": "Pandean Lamper",
+    "postal_code": "50249"
   },
   {
     "code": "3374041007",
     "district_code": "337404",
-    "name": "Gayamsari"
+    "name": "Gayamsari",
+    "postal_code": "50248"
   }
 ]

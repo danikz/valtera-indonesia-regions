@@ -2,36 +2,43 @@
   {
     "code": "8204092001",
     "district_code": "820409",
-    "name": "Indari"
+    "name": "Indari",
+    "postal_code": "97791"
   },
   {
     "code": "8204092014",
     "district_code": "820409",
-    "name": "Tawabi"
+    "name": "Tawabi",
+    "postal_code": "97791"
   },
   {
     "code": "8204092015",
     "district_code": "820409",
-    "name": "Wiring"
+    "name": "Wiring",
+    "postal_code": "97791"
   },
   {
     "code": "8204092016",
     "district_code": "820409",
-    "name": "Nondang"
+    "name": "Nondang",
+    "postal_code": "97791"
   },
   {
     "code": "8204092017",
     "district_code": "820409",
-    "name": "Kusubibi"
+    "name": "Kusubibi",
+    "postal_code": "97791"
   },
   {
     "code": "8204092018",
     "district_code": "820409",
-    "name": "Nang"
+    "name": "Nang",
+    "postal_code": "97791"
   },
   {
     "code": "8204092030",
     "district_code": "820409",
-    "name": "Kokotu"
+    "name": "Kokotu",
+    "postal_code": "97791"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "2102021001",
     "district_code": "210202",
-    "name": "Tanjungbatu Barat"
+    "name": "Tanjungbatu Barat",
+    "postal_code": "29662"
   },
   {
     "code": "2102021002",
     "district_code": "210202",
-    "name": "Tanjungbatu Kota"
+    "name": "Tanjungbatu Kota",
+    "postal_code": "29662"
   },
   {
     "code": "2102021009",
     "district_code": "210202",
-    "name": "Gading Sari"
+    "name": "Gading Sari",
+    "postal_code": "29662"
   },
   {
     "code": "2102022004",
     "district_code": "210202",
-    "name": "Sebesi"
+    "name": "Sebesi",
+    "postal_code": "29662"
   },
   {
     "code": "2102022005",
     "district_code": "210202",
-    "name": "Sei Ungar"
+    "name": "Sei Ungar",
+    "postal_code": "29662"
   },
   {
     "code": "2102022006",
     "district_code": "210202",
-    "name": "Lubuk"
+    "name": "Lubuk",
+    "postal_code": "29662"
   }
 ]

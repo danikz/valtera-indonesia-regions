@@ -2,31 +2,37 @@
   {
     "code": "7405182001",
     "district_code": "740518",
-    "name": "Wolasi"
+    "name": "Wolasi",
+    "postal_code": "93878"
   },
   {
     "code": "7405182002",
     "district_code": "740518",
-    "name": "Aoma"
+    "name": "Aoma",
+    "postal_code": "93878"
   },
   {
     "code": "7405182003",
     "district_code": "740518",
-    "name": "Amoito Jaya"
+    "name": "Amoito Jaya",
+    "postal_code": "93878"
   },
   {
     "code": "7405182004",
     "district_code": "740518",
-    "name": "Leleka"
+    "name": "Leleka",
+    "postal_code": "93878"
   },
   {
     "code": "7405182005",
     "district_code": "740518",
-    "name": "Mata Wolasi"
+    "name": "Mata Wolasi",
+    "postal_code": "93878"
   },
   {
     "code": "7405182007",
     "district_code": "740518",
-    "name": "Aunupe"
+    "name": "Aunupe",
+    "postal_code": "93878"
   }
 ]

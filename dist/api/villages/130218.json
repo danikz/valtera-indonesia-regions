@@ -2,26 +2,31 @@
   {
     "code": "1302182001",
     "district_code": "130218",
-    "name": "Rangkiang Luluih"
+    "name": "Rangkiang Luluih",
+    "postal_code": "27374"
   },
   {
     "code": "1302182002",
     "district_code": "130218",
-    "name": "Batu Bajanjang"
+    "name": "Batu Bajanjang",
+    "postal_code": "27374"
   },
   {
     "code": "1302182003",
     "district_code": "130218",
-    "name": "Garabak Data"
+    "name": "Garabak Data",
+    "postal_code": "27374"
   },
   {
     "code": "1302182004",
     "district_code": "130218",
-    "name": "Tanjung Balik Sumiso"
+    "name": "Tanjung Balik Sumiso",
+    "postal_code": "27374"
   },
   {
     "code": "1302182005",
     "district_code": "130218",
-    "name": "Simanau"
+    "name": "Simanau",
+    "postal_code": "27374"
   }
 ]

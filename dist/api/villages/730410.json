@@ -2,61 +2,73 @@
   {
     "code": "7304102001",
     "district_code": "730410",
-    "name": "Rumbia"
+    "name": "Rumbia",
+    "postal_code": "92371"
   },
   {
     "code": "7304102002",
     "district_code": "730410",
-    "name": "Lebangmanai"
+    "name": "Lebangmanai",
+    "postal_code": "92371"
   },
   {
     "code": "7304102003",
     "district_code": "730410",
-    "name": "Bontomanai"
+    "name": "Bontomanai",
+    "postal_code": "92371"
   },
   {
     "code": "7304102004",
     "district_code": "730410",
-    "name": "Bontotiro"
+    "name": "Bontotiro",
+    "postal_code": "92572"
   },
   {
     "code": "7304102005",
     "district_code": "730410",
-    "name": "Loka"
+    "name": "Loka",
+    "postal_code": "92516"
   },
   {
     "code": "7304102006",
     "district_code": "730410",
-    "name": "Tompobulu"
+    "name": "Tompobulu",
+    "postal_code": "92371"
   },
   {
     "code": "7304102007",
     "district_code": "730410",
-    "name": "Kassi"
+    "name": "Kassi",
+    "postal_code": "92371"
   },
   {
     "code": "7304102008",
     "district_code": "730410",
-    "name": "Pallantikang"
+    "name": "Pallantikang",
+    "postal_code": "92371"
   },
   {
     "code": "7304102009",
     "district_code": "730410",
-    "name": "Lebangmanai Utara"
+    "name": "Lebangmanai Utara",
+    "postal_code": "92371"
   },
   {
     "code": "7304102010",
     "district_code": "730410",
-    "name": "Bontocini"
+    "name": "Bontocini",
+    "postal_code": "92371"
   },
   {
     "code": "7304102011",
     "district_code": "730410",
-    "name": "Janetallasa"
+    "name": "Janetallasa",
+    "postal_code": "92314"
   },
   {
     "code": "7304102012",
     "district_code": "730410",
-    "name": "Ujung Bulu"
+    "name": "Ujung Bulu",
+    "postal_code": "92371"
   }
 ]

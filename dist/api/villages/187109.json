@@ -2,31 +2,37 @@
   {
     "code": "1871091001",
     "district_code": "187109",
-    "name": "Kupang Kota"
+    "name": "Kupang Kota",
+    "postal_code": "35211"
   },
   {
     "code": "1871091003",
     "district_code": "187109",
-    "name": "Kupang Raya"
+    "name": "Kupang Raya",
+    "postal_code": "35212"
   },
   {
     "code": "1871091004",
     "district_code": "187109",
-    "name": "Kupang Teba"
+    "name": "Kupang Teba",
+    "postal_code": "35212"
   },
   {
     "code": "1871091006",
     "district_code": "187109",
-    "name": "Pengajaran"
+    "name": "Pengajaran",
+    "postal_code": "35215"
   },
   {
     "code": "1871091007",
     "district_code": "187109",
-    "name": "Gulak Galik"
+    "name": "Gulak Galik",
+    "postal_code": "35214"
   },
   {
     "code": "1871091008",
     "district_code": "187109",
-    "name": "Sumur Batu"
+    "name": "Sumur Batu",
+    "postal_code": "35214"
   }
 ]

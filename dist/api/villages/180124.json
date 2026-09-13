@@ -2,21 +2,25 @@
   {
     "code": "1801242001",
     "district_code": "180124",
-    "name": "Sidoharjo"
+    "name": "Sidoharjo",
+    "postal_code": "35354"
   },
   {
     "code": "1801242002",
     "district_code": "180124",
-    "name": "Sidomakmur"
+    "name": "Sidomakmur",
+    "postal_code": "35354"
   },
   {
     "code": "1801242003",
     "district_code": "180124",
-    "name": "Sidoreno"
+    "name": "Sidoreno",
+    "postal_code": "35354"
   },
   {
     "code": "1801242004",
     "district_code": "180124",
-    "name": "Bali Nuraga"
+    "name": "Bali Nuraga",
+    "postal_code": "35354"
   }
 ]

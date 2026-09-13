@@ -2,66 +2,79 @@
   {
     "code": "3501032001",
     "district_code": "350103",
-    "name": "Bomo"
+    "name": "Bomo",
+    "postal_code": "63553"
   },
   {
     "code": "3501032002",
     "district_code": "350103",
-    "name": "Sooka"
+    "name": "Sooka",
+    "postal_code": "63553"
   },
   {
     "code": "3501032003",
     "district_code": "350103",
-    "name": "Punung"
+    "name": "Punung",
+    "postal_code": "63553"
   },
   {
     "code": "3501032004",
     "district_code": "350103",
-    "name": "Mendolo Kidul"
+    "name": "Mendolo Kidul",
+    "postal_code": "63553"
   },
   {
     "code": "3501032005",
     "district_code": "350103",
-    "name": "Piton"
+    "name": "Piton",
+    "postal_code": "63553"
   },
   {
     "code": "3501032006",
     "district_code": "350103",
-    "name": "Kendal"
+    "name": "Kendal",
+    "postal_code": "63553"
   },
   {
     "code": "3501032007",
     "district_code": "350103",
-    "name": "Wareng"
+    "name": "Wareng",
+    "postal_code": "63553"
   },
   {
     "code": "3501032008",
     "district_code": "350103",
-    "name": "Mantren"
+    "name": "Mantren",
+    "postal_code": "63553"
   },
   {
     "code": "3501032009",
     "district_code": "350103",
-    "name": "Mendolo Lor"
+    "name": "Mendolo Lor",
+    "postal_code": "63553"
   },
   {
     "code": "3501032010",
     "district_code": "350103",
-    "name": "Ploso"
+    "name": "Ploso",
+    "postal_code": "63553"
   },
   {
     "code": "3501032011",
     "district_code": "350103",
-    "name": "Gondosari"
+    "name": "Gondosari",
+    "postal_code": "63553"
   },
   {
     "code": "3501032012",
     "district_code": "350103",
-    "name": "Kebonsari"
+    "name": "Kebonsari",
+    "postal_code": "63553"
   },
   {
     "code": "3501032013",
     "district_code": "350103",
-    "name": "Tinatar"
+    "name": "Tinatar",
+    "postal_code": "63553"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "3506132001",
     "district_code": "350613",
-    "name": "Kalipang"
+    "name": "Kalipang",
+    "postal_code": "64151"
   },
   {
     "code": "3506132002",
     "district_code": "350613",
-    "name": "Grogol"
+    "name": "Grogol",
+    "postal_code": "64151"
   },
   {
     "code": "3506132003",
     "district_code": "350613",
-    "name": "Cerme"
+    "name": "Cerme",
+    "postal_code": "64151"
   },
   {
     "code": "3506132004",
     "district_code": "350613",
-    "name": "Wonoasri"
+    "name": "Wonoasri",
+    "postal_code": "64151"
   },
   {
     "code": "3506132005",
     "district_code": "350613",
-    "name": "Sonorejo"
+    "name": "Sonorejo",
+    "postal_code": "64151"
   },
   {
     "code": "3506132006",
     "district_code": "350613",
-    "name": "Datengan"
+    "name": "Datengan",
+    "postal_code": "64151"
   },
   {
     "code": "3506132007",
     "district_code": "350613",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "64151"
   },
   {
     "code": "3506132008",
     "district_code": "350613",
-    "name": "Gambyok"
+    "name": "Gambyok",
+    "postal_code": "64151"
   },
   {
     "code": "3506132009",
     "district_code": "350613",
-    "name": "Bakalan"
+    "name": "Bakalan",
+    "postal_code": "64151"
   }
 ]

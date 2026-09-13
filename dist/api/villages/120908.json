@@ -2,36 +2,43 @@
   {
     "code": "1209082002",
     "district_code": "120908",
-    "name": "Meranti"
+    "name": "Meranti",
+    "postal_code": "21264"
   },
   {
     "code": "1209082004",
     "district_code": "120908",
-    "name": "Perkebunan Sei Balai"
+    "name": "Perkebunan Sei Balai",
+    "postal_code": "21264"
   },
   {
     "code": "1209082011",
     "district_code": "120908",
-    "name": "Sei Beluru"
+    "name": "Sei Beluru",
+    "postal_code": "21264"
   },
   {
     "code": "1209082012",
     "district_code": "120908",
-    "name": "Serdang"
+    "name": "Serdang",
+    "postal_code": "21264"
   },
   {
     "code": "1209082019",
     "district_code": "120908",
-    "name": "Gajah"
+    "name": "Gajah",
+    "postal_code": "21264"
   },
   {
     "code": "1209082021",
     "district_code": "120908",
-    "name": "Air Putih"
+    "name": "Air Putih",
+    "postal_code": "21264"
   },
   {
     "code": "1209082022",
     "district_code": "120908",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "21264"
   }
 ]

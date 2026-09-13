@@ -2,36 +2,43 @@
   {
     "code": "9501252001",
     "district_code": "950125",
-    "name": "Pisugi"
+    "name": "Pisugi",
+    "postal_code": "99523"
   },
   {
     "code": "9501252002",
     "district_code": "950125",
-    "name": "Pabuma"
+    "name": "Pabuma",
+    "postal_code": "99523"
   },
   {
     "code": "9501252003",
     "district_code": "950125",
-    "name": "Aikima"
+    "name": "Aikima",
+    "postal_code": "99523"
   },
   {
     "code": "9501252004",
     "district_code": "950125",
-    "name": "Pikhe"
+    "name": "Pikhe",
+    "postal_code": "99523"
   },
   {
     "code": "9501252005",
     "district_code": "950125",
-    "name": "Akiaput"
+    "name": "Akiaput",
+    "postal_code": "99523"
   },
   {
     "code": "9501252006",
     "district_code": "950125",
-    "name": "Suroba"
+    "name": "Suroba",
+    "postal_code": "99523"
   },
   {
     "code": "9501252007",
     "district_code": "950125",
-    "name": "Wara"
+    "name": "Wara",
+    "postal_code": "99523"
   }
 ]

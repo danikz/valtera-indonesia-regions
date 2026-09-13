@@ -2,21 +2,25 @@
   {
     "code": "7312072001",
     "district_code": "731207",
-    "name": "Belo"
+    "name": "Belo",
+    "postal_code": "90860"
   },
   {
     "code": "7312072002",
     "district_code": "731207",
-    "name": "Ganra"
+    "name": "Ganra",
+    "postal_code": "90860"
   },
   {
     "code": "7312072003",
     "district_code": "731207",
-    "name": "Lompulle"
+    "name": "Lompulle",
+    "postal_code": "90860"
   },
   {
     "code": "7312072004",
     "district_code": "731207",
-    "name": "Enrekang"
+    "name": "Enrekang",
+    "postal_code": "90860"
   }
 ]

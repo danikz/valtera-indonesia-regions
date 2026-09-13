@@ -2,31 +2,37 @@
   {
     "code": "3574021001",
     "district_code": "357402",
-    "name": "Jrebeng Kidul"
+    "name": "Jrebeng Kidul",
+    "postal_code": "67233"
   },
   {
     "code": "3574021002",
     "district_code": "357402",
-    "name": "Pakistaji"
+    "name": "Pakistaji",
+    "postal_code": "67239"
   },
   {
     "code": "3574021003",
     "district_code": "357402",
-    "name": "Kedunggaleng"
+    "name": "Kedunggaleng",
+    "postal_code": "67239"
   },
   {
     "code": "3574021005",
     "district_code": "357402",
-    "name": "Kedung Asem"
+    "name": "Kedung Asem",
+    "postal_code": "67236"
   },
   {
     "code": "3574021006",
     "district_code": "357402",
-    "name": "Sumber Taman"
+    "name": "Sumber Taman",
+    "postal_code": "67237"
   },
   {
     "code": "3574021007",
     "district_code": "357402",
-    "name": "Wonoasih"
+    "name": "Wonoasih",
+    "postal_code": "67232"
   }
 ]

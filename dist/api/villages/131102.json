@@ -2,56 +2,67 @@
   {
     "code": "1311022001",
     "district_code": "131102",
-    "name": "Pasir Talang"
+    "name": "Pasir Talang",
+    "postal_code": "27774"
   },
   {
     "code": "1311022002",
     "district_code": "131102",
-    "name": "Koto Baru"
+    "name": "Koto Baru",
+    "postal_code": "27774"
   },
   {
     "code": "1311022004",
     "district_code": "131102",
-    "name": "Sako Pasia Talang"
+    "name": "Sako Pasia Talang",
+    "postal_code": "27774"
   },
   {
     "code": "1311022005",
     "district_code": "131102",
-    "name": "Pasar Muara Labuh"
+    "name": "Pasar Muara Labuh",
+    "postal_code": "27774"
   },
   {
     "code": "1311022006",
     "district_code": "131102",
-    "name": "Pulakek Koto Baru"
+    "name": "Pulakek Koto Baru",
+    "postal_code": "27774"
   },
   {
     "code": "1311022007",
     "district_code": "131102",
-    "name": "Bomas"
+    "name": "Bomas",
+    "postal_code": "27774"
   },
   {
     "code": "1311022008",
     "district_code": "131102",
-    "name": "Sako Utara Pasia Talang"
+    "name": "Sako Utara Pasia Talang",
+    "postal_code": "27774"
   },
   {
     "code": "1311022009",
     "district_code": "131102",
-    "name": "Sako Selatan Pasia Talang"
+    "name": "Sako Selatan Pasia Talang",
+    "postal_code": "27774"
   },
   {
     "code": "1311022010",
     "district_code": "131102",
-    "name": "Pasir Talang Barat"
+    "name": "Pasir Talang Barat",
+    "postal_code": "27774"
   },
   {
     "code": "1311022011",
     "district_code": "131102",
-    "name": "Pasir Talang Timur"
+    "name": "Pasir Talang Timur",
+    "postal_code": "27774"
   },
   {
     "code": "1311022012",
     "district_code": "131102",
-    "name": "Pasir Talang Selatan"
+    "name": "Pasir Talang Selatan",
+    "postal_code": "27774"
   }
 ]

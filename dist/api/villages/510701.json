@@ -2,31 +2,37 @@
   {
     "code": "5107012001",
     "district_code": "510701",
-    "name": "Nongan"
+    "name": "Nongan",
+    "postal_code": "80863"
   },
   {
     "code": "5107012002",
     "district_code": "510701",
-    "name": "Rendang"
+    "name": "Rendang",
+    "postal_code": "80863"
   },
   {
     "code": "5107012003",
     "district_code": "510701",
-    "name": "Menanga"
+    "name": "Menanga",
+    "postal_code": "80863"
   },
   {
     "code": "5107012004",
     "district_code": "510701",
-    "name": "Besakih"
+    "name": "Besakih",
+    "postal_code": "80863"
   },
   {
     "code": "5107012005",
     "district_code": "510701",
-    "name": "Pempatan"
+    "name": "Pempatan",
+    "postal_code": "80863"
   },
   {
     "code": "5107012006",
     "district_code": "510701",
-    "name": "Pesaban"
+    "name": "Pesaban",
+    "postal_code": "80863"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "5301252001",
     "district_code": "530125",
-    "name": "Fatukanutu"
+    "name": "Fatukanutu",
+    "postal_code": "85362"
   },
   {
     "code": "5301252002",
     "district_code": "530125",
-    "name": "Kairane"
+    "name": "Kairane",
+    "postal_code": "85362"
   },
   {
     "code": "5301252003",
     "district_code": "530125",
-    "name": "Raknamo"
+    "name": "Raknamo",
+    "postal_code": "85362"
   },
   {
     "code": "5301252004",
     "district_code": "530125",
-    "name": "Kuanheum"
+    "name": "Kuanheum",
+    "postal_code": "85362"
   },
   {
     "code": "5301252005",
     "district_code": "530125",
-    "name": "Fatuteta"
+    "name": "Fatuteta",
+    "postal_code": "85362"
   },
   {
     "code": "5301252006",
     "district_code": "530125",
-    "name": "Oefeto"
+    "name": "Oefeto",
+    "postal_code": "85363"
   },
   {
     "code": "5301252007",
     "district_code": "530125",
-    "name": "Niunbaun"
+    "name": "Niunbaun",
+    "postal_code": "85363"
   }
 ]

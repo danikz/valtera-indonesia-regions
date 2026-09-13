@@ -2,51 +2,61 @@
   {
     "code": "7602021001",
     "district_code": "760202",
-    "name": "Galung"
+    "name": "Galung",
+    "postal_code": "91551"
   },
   {
     "code": "7602021002",
     "district_code": "760202",
-    "name": "Kasambang"
+    "name": "Kasambang",
+    "postal_code": "91551"
   },
   {
     "code": "7602021014",
     "district_code": "760202",
-    "name": "Dayanginna"
+    "name": "Dayanginna",
+    "postal_code": "91551"
   },
   {
     "code": "7602022003",
     "district_code": "760202",
-    "name": "Orobatu"
+    "name": "Orobatu",
+    "postal_code": "91551"
   },
   {
     "code": "7602022006",
     "district_code": "760202",
-    "name": "Takandeang"
+    "name": "Takandeang",
+    "postal_code": "91551"
   },
   {
     "code": "7602022009",
     "district_code": "760202",
-    "name": "Bela"
+    "name": "Bela",
+    "postal_code": "91551"
   },
   {
     "code": "7602022010",
     "district_code": "760202",
-    "name": "Taan"
+    "name": "Taan",
+    "postal_code": "91551"
   },
   {
     "code": "7602022011",
     "district_code": "760202",
-    "name": "Tampalang"
+    "name": "Tampalang",
+    "postal_code": "91551"
   },
   {
     "code": "7602022012",
     "district_code": "760202",
-    "name": "Rantedoda"
+    "name": "Rantedoda",
+    "postal_code": "91551"
   },
   {
     "code": "7602022013",
     "district_code": "760202",
-    "name": "Kopeang"
+    "name": "Kopeang",
+    "postal_code": "91551"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "1902022001",
     "district_code": "190202",
-    "name": "Membalong"
+    "name": "Membalong",
+    "postal_code": "33452"
   },
   {
     "code": "1902022002",
     "district_code": "190202",
-    "name": "Perpat"
+    "name": "Perpat",
+    "postal_code": "33452"
   },
   {
     "code": "1902022003",
     "district_code": "190202",
-    "name": "Lassar"
+    "name": "Lassar",
+    "postal_code": "33452"
   },
   {
     "code": "1902022004",
     "district_code": "190202",
-    "name": "Simpang Rusa"
+    "name": "Simpang Rusa",
+    "postal_code": "33452"
   },
   {
     "code": "1902022005",
     "district_code": "190202",
-    "name": "Kembiri"
+    "name": "Kembiri",
+    "postal_code": "33452"
   },
   {
     "code": "1902022006",
     "district_code": "190202",
-    "name": "Bantan"
+    "name": "Bantan",
+    "postal_code": "33452"
   },
   {
     "code": "1902022007",
     "district_code": "190202",
-    "name": "Tanjungrusa"
+    "name": "Tanjungrusa",
+    "postal_code": "33452"
   },
   {
     "code": "1902022008",
     "district_code": "190202",
-    "name": "Mentigi"
+    "name": "Mentigi",
+    "postal_code": "33452"
   },
   {
     "code": "1902022009",
     "district_code": "190202",
-    "name": "Pulau Seliu"
+    "name": "Pulau Seliu",
+    "postal_code": "33452"
   },
   {
     "code": "1902022010",
     "district_code": "190202",
-    "name": "Pulau Sumedang"
+    "name": "Pulau Sumedang",
+    "postal_code": "33452"
   },
   {
     "code": "1902022011",
     "district_code": "190202",
-    "name": "Gunung Riting"
+    "name": "Gunung Riting",
+    "postal_code": "33452"
   },
   {
     "code": "1902022012",
     "district_code": "190202",
-    "name": "Padang Kandis"
+    "name": "Padang Kandis",
+    "postal_code": "33452"
   }
 ]

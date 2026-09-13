@@ -2,41 +2,49 @@
   {
     "code": "1275051001",
     "district_code": "127505",
-    "name": "Tanah Merah"
+    "name": "Tanah Merah",
+    "postal_code": "20725"
   },
   {
     "code": "1275051002",
     "district_code": "127505",
-    "name": "Binjai Estate"
+    "name": "Binjai Estate",
+    "postal_code": "20724"
   },
   {
     "code": "1275051003",
     "district_code": "127505",
-    "name": "Bhakti Karya"
+    "name": "Bhakti Karya",
+    "postal_code": "20728"
   },
   {
     "code": "1275051004",
     "district_code": "127505",
-    "name": "Rambung Dalam"
+    "name": "Rambung Dalam",
+    "postal_code": "20722"
   },
   {
     "code": "1275051005",
     "district_code": "127505",
-    "name": "Pujidadi"
+    "name": "Pujidadi",
+    "postal_code": "20727"
   },
   {
     "code": "1275051006",
     "district_code": "127505",
-    "name": "Tanah Seribu"
+    "name": "Tanah Seribu",
+    "postal_code": "20726"
   },
   {
     "code": "1275051007",
     "district_code": "127505",
-    "name": "Rambung Barat"
+    "name": "Rambung Barat",
+    "postal_code": "20723"
   },
   {
     "code": "1275051008",
     "district_code": "127505",
-    "name": "Rambung Timur"
+    "name": "Rambung Timur",
+    "postal_code": "20721"
   }
 ]

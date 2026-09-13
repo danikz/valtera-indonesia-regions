@@ -2,26 +2,31 @@
   {
     "code": "9205072001",
     "district_code": "920507",
-    "name": "Selpele"
+    "name": "Selpele",
+    "postal_code": ""
   },
   {
     "code": "9205072005",
     "district_code": "920507",
-    "name": "Mutus"
+    "name": "Mutus",
+    "postal_code": ""
   },
   {
     "code": "9205072007",
     "district_code": "920507",
-    "name": "Bianci"
+    "name": "Bianci",
+    "postal_code": ""
   },
   {
     "code": "9205072011",
     "district_code": "920507",
-    "name": "Saleo"
+    "name": "Saleo",
+    "postal_code": ""
   },
   {
     "code": "9205072012",
     "district_code": "920507",
-    "name": "Waisilip"
+    "name": "Waisilip",
+    "postal_code": ""
   }
 ]

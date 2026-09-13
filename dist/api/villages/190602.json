@@ -2,36 +2,43 @@
   {
     "code": "1906022001",
     "district_code": "190602",
-    "name": "Gantung"
+    "name": "Gantung",
+    "postal_code": "33562"
   },
   {
     "code": "1906022002",
     "district_code": "190602",
-    "name": "Selingsing"
+    "name": "Selingsing",
+    "postal_code": "33562"
   },
   {
     "code": "1906022003",
     "district_code": "190602",
-    "name": "Jangkar Asam"
+    "name": "Jangkar Asam",
+    "postal_code": "33562"
   },
   {
     "code": "1906022004",
     "district_code": "190602",
-    "name": "Lilangan"
+    "name": "Lilangan",
+    "postal_code": "33562"
   },
   {
     "code": "1906022009",
     "district_code": "190602",
-    "name": "Lenggang"
+    "name": "Lenggang",
+    "postal_code": "33562"
   },
   {
     "code": "1906022010",
     "district_code": "190602",
-    "name": "Batu Penyu"
+    "name": "Batu Penyu",
+    "postal_code": "33562"
   },
   {
     "code": "1906022011",
     "district_code": "190602",
-    "name": "Limbongan"
+    "name": "Limbongan",
+    "postal_code": "33562"
   }
 ]

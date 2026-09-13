@@ -2,46 +2,55 @@
   {
     "code": "3213132001",
     "district_code": "321313",
-    "name": "Tanjungtiga"
+    "name": "Tanjungtiga",
+    "postal_code": "41259"
   },
   {
     "code": "3213132002",
     "district_code": "321313",
-    "name": "Muara"
+    "name": "Muara",
+    "postal_code": "41259"
   },
   {
     "code": "3213132003",
     "district_code": "321313",
-    "name": "Blanakan"
+    "name": "Blanakan",
+    "postal_code": "41259"
   },
   {
     "code": "3213132004",
     "district_code": "321313",
-    "name": "Rawameneng"
+    "name": "Rawameneng",
+    "postal_code": "41259"
   },
   {
     "code": "3213132005",
     "district_code": "321313",
-    "name": "Cilamayagirang"
+    "name": "Cilamayagirang",
+    "postal_code": "41259"
   },
   {
     "code": "3213132006",
     "district_code": "321313",
-    "name": "Jayamukti"
+    "name": "Jayamukti",
+    "postal_code": "41259"
   },
   {
     "code": "3213132007",
     "district_code": "321313",
-    "name": "Cilamayahilir"
+    "name": "Cilamayahilir",
+    "postal_code": "41259"
   },
   {
     "code": "3213132008",
     "district_code": "321313",
-    "name": "Rawamekar"
+    "name": "Rawamekar",
+    "postal_code": "41259"
   },
   {
     "code": "3213132009",
     "district_code": "321313",
-    "name": "Langensari"
+    "name": "Langensari",
+    "postal_code": "41259"
   }
 ]

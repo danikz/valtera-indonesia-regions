@@ -2,36 +2,43 @@
   {
     "code": "1401142001",
     "district_code": "140114",
-    "name": "Pulau Payung"
+    "name": "Pulau Payung",
+    "postal_code": "28458"
   },
   {
     "code": "1401142002",
     "district_code": "140114",
-    "name": "Teratak"
+    "name": "Teratak",
+    "postal_code": "28458"
   },
   {
     "code": "1401142003",
     "district_code": "140114",
-    "name": "Alam Panjang"
+    "name": "Alam Panjang",
+    "postal_code": "28458"
   },
   {
     "code": "1401142004",
     "district_code": "140114",
-    "name": "Bukit Keratai"
+    "name": "Bukit Keratai",
+    "postal_code": "28458"
   },
   {
     "code": "1401142005",
     "district_code": "140114",
-    "name": "Batang Batindih"
+    "name": "Batang Batindih",
+    "postal_code": "28458"
   },
   {
     "code": "1401142006",
     "district_code": "140114",
-    "name": "Tambusai"
+    "name": "Tambusai",
+    "postal_code": "28458"
   },
   {
     "code": "1401142007",
     "district_code": "140114",
-    "name": "Simpang Petai"
+    "name": "Simpang Petai",
+    "postal_code": "28458"
   }
 ]

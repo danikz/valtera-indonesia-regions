@@ -2,66 +2,79 @@
   {
     "code": "1601141001",
     "district_code": "160114",
-    "name": "Baturaja Lama"
+    "name": "Baturaja Lama",
+    "postal_code": "32114"
   },
   {
     "code": "1601141003",
     "district_code": "160114",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "32116"
   },
   {
     "code": "1601141004",
     "district_code": "160114",
-    "name": "Kemalaraja"
+    "name": "Kemalaraja",
+    "postal_code": "32111"
   },
   {
     "code": "1601141005",
     "district_code": "160114",
-    "name": "Sukaraya"
+    "name": "Sukaraya",
+    "postal_code": "32112"
   },
   {
     "code": "1601141006",
     "district_code": "160114",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "32117"
   },
   {
     "code": "1601141011",
     "district_code": "160114",
-    "name": "Kemelak Bindung Langit"
+    "name": "Kemelak Bindung Langit",
+    "postal_code": "32111"
   },
   {
     "code": "1601141012",
     "district_code": "160114",
-    "name": "Sepancar Lawang Kulon"
+    "name": "Sepancar Lawang Kulon",
+    "postal_code": "32111"
   },
   {
     "code": "1601141013",
     "district_code": "160114",
-    "name": "Baturaja Permai"
+    "name": "Baturaja Permai",
+    "postal_code": "32111"
   },
   {
     "code": "1601141014",
     "district_code": "160114",
-    "name": "Sekar Jaya"
+    "name": "Sekar Jaya",
+    "postal_code": "32115"
   },
   {
     "code": "1601142007",
     "district_code": "160114",
-    "name": "Tanjung Kemala"
+    "name": "Tanjung Kemala",
+    "postal_code": "32111"
   },
   {
     "code": "1601142008",
     "district_code": "160114",
-    "name": "Tanjung Baru"
+    "name": "Tanjung Baru",
+    "postal_code": "32113"
   },
   {
     "code": "1601142015",
     "district_code": "160114",
-    "name": "Air Paoh"
+    "name": "Air Paoh",
+    "postal_code": "32111"
   },
   {
     "code": "1601142016",
     "district_code": "160114",
-    "name": "Terusan"
+    "name": "Terusan",
+    "postal_code": "32111"
   }
 ]

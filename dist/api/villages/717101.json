@@ -2,26 +2,31 @@
   {
     "code": "7171011001",
     "district_code": "717101",
-    "name": "Molas"
+    "name": "Molas",
+    "postal_code": "95231"
   },
   {
     "code": "7171011006",
     "district_code": "717101",
-    "name": "Tongkaina"
+    "name": "Tongkaina",
+    "postal_code": "95231"
   },
   {
     "code": "7171011007",
     "district_code": "717101",
-    "name": "Meras"
+    "name": "Meras",
+    "postal_code": "95231"
   },
   {
     "code": "7171011008",
     "district_code": "717101",
-    "name": "Bailang"
+    "name": "Bailang",
+    "postal_code": "95231"
   },
   {
     "code": "7171011009",
     "district_code": "717101",
-    "name": "Pandu"
+    "name": "Pandu",
+    "postal_code": "95249"
   }
 ]

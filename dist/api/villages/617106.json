@@ -2,21 +2,25 @@
   {
     "code": "6171061001",
     "district_code": "617106",
-    "name": "Bansir Laut"
+    "name": "Bansir Laut",
+    "postal_code": "78124"
   },
   {
     "code": "6171061002",
     "district_code": "617106",
-    "name": "Bansir Darat"
+    "name": "Bansir Darat",
+    "postal_code": "78124"
   },
   {
     "code": "6171061003",
     "district_code": "617106",
-    "name": "Bangka Belitung Laut"
+    "name": "Bangka Belitung Laut",
+    "postal_code": "78124"
   },
   {
     "code": "6171061004",
     "district_code": "617106",
-    "name": "Bangka Belitung Darat"
+    "name": "Bangka Belitung Darat",
+    "postal_code": "78124"
   }
 ]

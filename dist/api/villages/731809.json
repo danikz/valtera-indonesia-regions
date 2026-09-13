@@ -2,31 +2,37 @@
   {
     "code": "7318091008",
     "district_code": "731809",
-    "name": "Sima"
+    "name": "Sima",
+    "postal_code": "91874"
   },
   {
     "code": "7318092003",
     "district_code": "731809",
-    "name": "Simbuang"
+    "name": "Simbuang",
+    "postal_code": "91874"
   },
   {
     "code": "7318092004",
     "district_code": "731809",
-    "name": "Pongbembe"
+    "name": "Pongbembe",
+    "postal_code": "91874"
   },
   {
     "code": "7318092006",
     "district_code": "731809",
-    "name": "Simbuang Batutallu"
+    "name": "Simbuang Batutallu",
+    "postal_code": "91874"
   },
   {
     "code": "7318092009",
     "district_code": "731809",
-    "name": "Makkodo"
+    "name": "Makkodo",
+    "postal_code": "91874"
   },
   {
     "code": "7318092010",
     "district_code": "731809",
-    "name": "Pongbembe Mesakada"
+    "name": "Pongbembe Mesakada",
+    "postal_code": "91874"
   }
 ]

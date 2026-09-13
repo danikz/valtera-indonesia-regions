@@ -2,26 +2,31 @@
   {
     "code": "9204252001",
     "district_code": "920425",
-    "name": "Wenslolo"
+    "name": "Wenslolo",
+    "postal_code": ""
   },
   {
     "code": "9204252002",
     "district_code": "920425",
-    "name": "Klamit"
+    "name": "Klamit",
+    "postal_code": ""
   },
   {
     "code": "9204252003",
     "district_code": "920425",
-    "name": "Mlabolo"
+    "name": "Mlabolo",
+    "postal_code": ""
   },
   {
     "code": "9204252004",
     "district_code": "920425",
-    "name": "Kofalit"
+    "name": "Kofalit",
+    "postal_code": ""
   },
   {
     "code": "9204252005",
     "district_code": "920425",
-    "name": "Alma"
+    "name": "Alma",
+    "postal_code": ""
   }
 ]

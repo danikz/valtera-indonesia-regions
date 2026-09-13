@@ -2,36 +2,43 @@
   {
     "code": "9501372001",
     "district_code": "950137",
-    "name": "Maima"
+    "name": "Maima",
+    "postal_code": "99504"
   },
   {
     "code": "9501372002",
     "district_code": "950137",
-    "name": "Minimo"
+    "name": "Minimo",
+    "postal_code": "99504"
   },
   {
     "code": "9501372003",
     "district_code": "950137",
-    "name": "Esiak"
+    "name": "Esiak",
+    "postal_code": "99512"
   },
   {
     "code": "9501372004",
     "district_code": "950137",
-    "name": "Heraewa"
+    "name": "Heraewa",
+    "postal_code": "99504"
   },
   {
     "code": "9501372005",
     "district_code": "950137",
-    "name": "Kepi"
+    "name": "Kepi",
+    "postal_code": "99504"
   },
   {
     "code": "9501372006",
     "district_code": "950137",
-    "name": "Husewa"
+    "name": "Husewa",
+    "postal_code": "99504"
   },
   {
     "code": "9501372007",
     "district_code": "950137",
-    "name": "Menagaima"
+    "name": "Menagaima",
+    "postal_code": "99504"
   }
 ]

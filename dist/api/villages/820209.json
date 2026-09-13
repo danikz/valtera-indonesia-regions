@@ -2,21 +2,25 @@
   {
     "code": "8202092001",
     "district_code": "820209",
-    "name": "Dotte"
+    "name": "Dotte",
+    "postal_code": "97852"
   },
   {
     "code": "8202092002",
     "district_code": "820209",
-    "name": "Messa"
+    "name": "Messa",
+    "postal_code": "97852"
   },
   {
     "code": "8202092003",
     "district_code": "820209",
-    "name": "Kotalo"
+    "name": "Kotalo",
+    "postal_code": "97852"
   },
   {
     "code": "8202092004",
     "district_code": "820209",
-    "name": "Yeke"
+    "name": "Yeke",
+    "postal_code": "97852"
   }
 ]

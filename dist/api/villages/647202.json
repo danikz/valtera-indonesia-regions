@@ -2,31 +2,37 @@
   {
     "code": "6472021001",
     "district_code": "647202",
-    "name": "Sungai Keledang"
+    "name": "Sungai Keledang",
+    "postal_code": "75131"
   },
   {
     "code": "6472021002",
     "district_code": "647202",
-    "name": "Baqa"
+    "name": "Baqa",
+    "postal_code": "75131"
   },
   {
     "code": "6472021003",
     "district_code": "647202",
-    "name": "Mesjid"
+    "name": "Mesjid",
+    "postal_code": "75133"
   },
   {
     "code": "6472021009",
     "district_code": "647202",
-    "name": "Mangkupalas"
+    "name": "Mangkupalas",
+    "postal_code": "75133"
   },
   {
     "code": "6472021010",
     "district_code": "647202",
-    "name": "Tenun Samarinda"
+    "name": "Tenun Samarinda",
+    "postal_code": "75133"
   },
   {
     "code": "6472021011",
     "district_code": "647202",
-    "name": "Gunung Panjang"
+    "name": "Gunung Panjang",
+    "postal_code": "75131"
   }
 ]

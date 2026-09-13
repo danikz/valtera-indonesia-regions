@@ -2,46 +2,55 @@
   {
     "code": "3509312001",
     "district_code": "350931",
-    "name": "Plerean"
+    "name": "Plerean",
+    "postal_code": "68195"
   },
   {
     "code": "3509312002",
     "district_code": "350931",
-    "name": "Sumberpakem"
+    "name": "Sumberpakem",
+    "postal_code": "68195"
   },
   {
     "code": "3509312003",
     "district_code": "350931",
-    "name": "Pringgondani"
+    "name": "Pringgondani",
+    "postal_code": "68195"
   },
   {
     "code": "3509312004",
     "district_code": "350931",
-    "name": "Randuagung"
+    "name": "Randuagung",
+    "postal_code": "68195"
   },
   {
     "code": "3509312005",
     "district_code": "350931",
-    "name": "Cumedak"
+    "name": "Cumedak",
+    "postal_code": "68195"
   },
   {
     "code": "3509312006",
     "district_code": "350931",
-    "name": "Sumberjambe"
+    "name": "Sumberjambe",
+    "postal_code": "68195"
   },
   {
     "code": "3509312007",
     "district_code": "350931",
-    "name": "Gunungmalang"
+    "name": "Gunungmalang",
+    "postal_code": "68195"
   },
   {
     "code": "3509312008",
     "district_code": "350931",
-    "name": "Jambearum"
+    "name": "Jambearum",
+    "postal_code": "68195"
   },
   {
     "code": "3509312009",
     "district_code": "350931",
-    "name": "Rowosari"
+    "name": "Rowosari",
+    "postal_code": "68195"
   }
 ]

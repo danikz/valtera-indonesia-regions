@@ -2,56 +2,67 @@
   {
     "code": "1703122001",
     "district_code": "170312",
-    "name": "Urai"
+    "name": "Urai",
+    "postal_code": "38361"
   },
   {
     "code": "1703122002",
     "district_code": "170312",
-    "name": "Pasar Ketahun"
+    "name": "Pasar Ketahun",
+    "postal_code": "38361"
   },
   {
     "code": "1703122003",
     "district_code": "170312",
-    "name": "Giri Kencana"
+    "name": "Giri Kencana",
+    "postal_code": "38361"
   },
   {
     "code": "1703122004",
     "district_code": "170312",
-    "name": "Kualalangi"
+    "name": "Kualalangi",
+    "postal_code": "38361"
   },
   {
     "code": "1703122005",
     "district_code": "170312",
-    "name": "Dusun Raja"
+    "name": "Dusun Raja",
+    "postal_code": "38361"
   },
   {
     "code": "1703122012",
     "district_code": "170312",
-    "name": "Lubuk Mindai"
+    "name": "Lubuk Mindai",
+    "postal_code": "38361"
   },
   {
     "code": "1703122013",
     "district_code": "170312",
-    "name": "Fajar Baru"
+    "name": "Fajar Baru",
+    "postal_code": "38361"
   },
   {
     "code": "1703122014",
     "district_code": "170312",
-    "name": "Talang Baru"
+    "name": "Talang Baru",
+    "postal_code": "38361"
   },
   {
     "code": "1703122019",
     "district_code": "170312",
-    "name": "Melati Harjo"
+    "name": "Melati Harjo",
+    "postal_code": "38361"
   },
   {
     "code": "1703122020",
     "district_code": "170312",
-    "name": "Bukit Indah"
+    "name": "Bukit Indah",
+    "postal_code": "38361"
   },
   {
     "code": "1703122021",
     "district_code": "170312",
-    "name": "Bukit Tinggi"
+    "name": "Bukit Tinggi",
+    "postal_code": "38361"
   }
 ]

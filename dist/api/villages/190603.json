@@ -2,21 +2,25 @@
   {
     "code": "1906032001",
     "district_code": "190603",
-    "name": "Dendang"
+    "name": "Dendang",
+    "postal_code": "33561"
   },
   {
     "code": "1906032002",
     "district_code": "190603",
-    "name": "Jangkang"
+    "name": "Jangkang",
+    "postal_code": "33561"
   },
   {
     "code": "1906032005",
     "district_code": "190603",
-    "name": "Nyuruk"
+    "name": "Nyuruk",
+    "postal_code": "33561"
   },
   {
     "code": "1906032008",
     "district_code": "190603",
-    "name": "Balok"
+    "name": "Balok",
+    "postal_code": "33561"
   }
 ]

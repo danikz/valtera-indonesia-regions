@@ -2,66 +2,79 @@
   {
     "code": "3210092001",
     "district_code": "321009",
-    "name": "Pajajar"
+    "name": "Pajajar",
+    "postal_code": "45472"
   },
   {
     "code": "3210092002",
     "district_code": "321009",
-    "name": "Teja"
+    "name": "Teja",
+    "postal_code": "45472"
   },
   {
     "code": "3210092003",
     "district_code": "321009",
-    "name": "Payung"
+    "name": "Payung",
+    "postal_code": "45472"
   },
   {
     "code": "3210092004",
     "district_code": "321009",
-    "name": "Babakankareo"
+    "name": "Babakankareo",
+    "postal_code": "45472"
   },
   {
     "code": "3210092005",
     "district_code": "321009",
-    "name": "Sindangpano"
+    "name": "Sindangpano",
+    "postal_code": "45472"
   },
   {
     "code": "3210092006",
     "district_code": "321009",
-    "name": "Sadomas"
+    "name": "Sadomas",
+    "postal_code": "45472"
   },
   {
     "code": "3210092007",
     "district_code": "321009",
-    "name": "Kumbung"
+    "name": "Kumbung",
+    "postal_code": "45472"
   },
   {
     "code": "3210092008",
     "district_code": "321009",
-    "name": "Rajagaluh Kidul"
+    "name": "Rajagaluh Kidul",
+    "postal_code": "45472"
   },
   {
     "code": "3210092009",
     "district_code": "321009",
-    "name": "Singawada"
+    "name": "Singawada",
+    "postal_code": "45472"
   },
   {
     "code": "3210092010",
     "district_code": "321009",
-    "name": "Rajagaluh Lor"
+    "name": "Rajagaluh Lor",
+    "postal_code": "45472"
   },
   {
     "code": "3210092011",
     "district_code": "321009",
-    "name": "Cipinang"
+    "name": "Cipinang",
+    "postal_code": "45472"
   },
   {
     "code": "3210092012",
     "district_code": "321009",
-    "name": "Cisetu"
+    "name": "Cisetu",
+    "postal_code": "45472"
   },
   {
     "code": "3210092013",
     "district_code": "321009",
-    "name": "Rajagaluh"
+    "name": "Rajagaluh",
+    "postal_code": "45472"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1304102001",
     "district_code": "130410",
-    "name": "Sumanik"
+    "name": "Sumanik",
+    "postal_code": "27263"
   },
   {
     "code": "1304102002",
     "district_code": "130410",
-    "name": "Situmbuk"
+    "name": "Situmbuk",
+    "postal_code": "27263"
   },
   {
     "code": "1304102003",
     "district_code": "130410",
-    "name": "Lawang Mandahiling"
+    "name": "Lawang Mandahiling",
+    "postal_code": "27263"
   },
   {
     "code": "1304102004",
     "district_code": "130410",
-    "name": "Supayang"
+    "name": "Supayang",
+    "postal_code": "27263"
   },
   {
     "code": "1304102005",
     "district_code": "130410",
-    "name": "Salimpaung"
+    "name": "Salimpaung",
+    "postal_code": "27263"
   },
   {
     "code": "1304102006",
     "district_code": "130410",
-    "name": "Tabek Patah"
+    "name": "Tabek Patah",
+    "postal_code": "27262"
   }
 ]

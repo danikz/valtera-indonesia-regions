@@ -2,46 +2,55 @@
   {
     "code": "3603121005",
     "district_code": "360312",
-    "name": "Sindangsari"
+    "name": "Sindangsari",
+    "postal_code": "15560"
   },
   {
     "code": "3603121010",
     "district_code": "360312",
-    "name": "Kutabumi"
+    "name": "Kutabumi",
+    "postal_code": "15560"
   },
   {
     "code": "3603121012",
     "district_code": "360312",
-    "name": "Kuta Jaya"
+    "name": "Kuta Jaya",
+    "postal_code": "15560"
   },
   {
     "code": "3603121014",
     "district_code": "360312",
-    "name": "Kuta Baru"
+    "name": "Kuta Baru",
+    "postal_code": "15560"
   },
   {
     "code": "3603122001",
     "district_code": "360312",
-    "name": "Pasar Kemis"
+    "name": "Pasar Kemis",
+    "postal_code": "15560"
   },
   {
     "code": "3603122008",
     "district_code": "360312",
-    "name": "Sukamantri"
+    "name": "Sukamantri",
+    "postal_code": "15560"
   },
   {
     "code": "3603122011",
     "district_code": "360312",
-    "name": "Pangadegan"
+    "name": "Pangadegan",
+    "postal_code": "15560"
   },
   {
     "code": "3603122013",
     "district_code": "360312",
-    "name": "Gelam Jaya"
+    "name": "Gelam Jaya",
+    "postal_code": "15560"
   },
   {
     "code": "3603122015",
     "district_code": "360312",
-    "name": "Suka Asih"
+    "name": "Suka Asih",
+    "postal_code": "15560"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1771051001",
     "district_code": "177105",
-    "name": "Kandang"
+    "name": "Kandang",
+    "postal_code": "38216"
   },
   {
     "code": "1771051002",
     "district_code": "177105",
-    "name": "Kandang Mas"
+    "name": "Kandang Mas",
+    "postal_code": "38215"
   },
   {
     "code": "1771051003",
     "district_code": "177105",
-    "name": "Teluk Sepang"
+    "name": "Teluk Sepang",
+    "postal_code": "38215"
   },
   {
     "code": "1771051004",
     "district_code": "177105",
-    "name": "Sumber Jaya"
+    "name": "Sumber Jaya",
+    "postal_code": "38215"
   },
   {
     "code": "1771051005",
     "district_code": "177105",
-    "name": "Padang Serai"
+    "name": "Padang Serai",
+    "postal_code": "38215"
   },
   {
     "code": "1771051006",
     "district_code": "177105",
-    "name": "Muara Dua"
+    "name": "Muara Dua",
+    "postal_code": "38215"
   }
 ]

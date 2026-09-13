@@ -2,31 +2,37 @@
   {
     "code": "5305152001",
     "district_code": "530515",
-    "name": "Lembur Timur"
+    "name": "Lembur Timur",
+    "postal_code": "85875"
   },
   {
     "code": "5305152002",
     "district_code": "530515",
-    "name": "Luba"
+    "name": "Luba",
+    "postal_code": "85875"
   },
   {
     "code": "5305152003",
     "district_code": "530515",
-    "name": "Talwai"
+    "name": "Talwai",
+    "postal_code": "85875"
   },
   {
     "code": "5305152004",
     "district_code": "530515",
-    "name": "Tulleng"
+    "name": "Tulleng",
+    "postal_code": "85875"
   },
   {
     "code": "5305152005",
     "district_code": "530515",
-    "name": "Waimi"
+    "name": "Waimi",
+    "postal_code": "85875"
   },
   {
     "code": "5305152006",
     "district_code": "530515",
-    "name": "Tasi"
+    "name": "Tasi",
+    "postal_code": "85875"
   }
 ]

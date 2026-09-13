@@ -2,31 +2,37 @@
   {
     "code": "7103231001",
     "district_code": "710323",
-    "name": "Pananekeng"
+    "name": "Pananekeng",
+    "postal_code": "95811"
   },
   {
     "code": "7103231002",
     "district_code": "710323",
-    "name": "Angges"
+    "name": "Angges",
+    "postal_code": "95817"
   },
   {
     "code": "7103231003",
     "district_code": "710323",
-    "name": "Kolongan Mitung"
+    "name": "Kolongan Mitung",
+    "postal_code": "95817"
   },
   {
     "code": "7103231004",
     "district_code": "710323",
-    "name": "Kolongan Beha"
+    "name": "Kolongan Beha",
+    "postal_code": "95818"
   },
   {
     "code": "7103231005",
     "district_code": "710323",
-    "name": "Kolongan Beha Baru"
+    "name": "Kolongan Beha Baru",
+    "postal_code": "95815"
   },
   {
     "code": "7103231006",
     "district_code": "710323",
-    "name": "Kolongan Akembawi"
+    "name": "Kolongan Akembawi",
+    "postal_code": "95818"
   }
 ]

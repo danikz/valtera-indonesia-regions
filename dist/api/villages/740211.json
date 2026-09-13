@@ -2,76 +2,91 @@
   {
     "code": "7402111001",
     "district_code": "740211",
-    "name": "Toronipa"
+    "name": "Toronipa",
+    "postal_code": "93451"
   },
   {
     "code": "7402112002",
     "district_code": "740211",
-    "name": "Atowatu"
+    "name": "Atowatu",
+    "postal_code": "93451"
   },
   {
     "code": "7402112004",
     "district_code": "740211",
-    "name": "Waworaha"
+    "name": "Waworaha",
+    "postal_code": "93451"
   },
   {
     "code": "7402112006",
     "district_code": "740211",
-    "name": "Sorue Jaya"
+    "name": "Sorue Jaya",
+    "postal_code": "93451"
   },
   {
     "code": "7402112010",
     "district_code": "740211",
-    "name": "Soropia"
+    "name": "Soropia",
+    "postal_code": "93451"
   },
   {
     "code": "7402112011",
     "district_code": "740211",
-    "name": "Tapulaga"
+    "name": "Tapulaga",
+    "postal_code": "93451"
   },
   {
     "code": "7402112012",
     "district_code": "740211",
-    "name": "Sawapudo"
+    "name": "Sawapudo",
+    "postal_code": "93451"
   },
   {
     "code": "7402112014",
     "district_code": "740211",
-    "name": "Bokori"
+    "name": "Bokori",
+    "postal_code": "93451"
   },
   {
     "code": "7402112015",
     "district_code": "740211",
-    "name": "Saponda"
+    "name": "Saponda",
+    "postal_code": "93451"
   },
   {
     "code": "7402112016",
     "district_code": "740211",
-    "name": "Mekar"
+    "name": "Mekar",
+    "postal_code": "93451"
   },
   {
     "code": "7402112017",
     "district_code": "740211",
-    "name": "Bajo Indah"
+    "name": "Bajo Indah",
+    "postal_code": "93451"
   },
   {
     "code": "7402112022",
     "district_code": "740211",
-    "name": "Telaga Biru"
+    "name": "Telaga Biru",
+    "postal_code": "93451"
   },
   {
     "code": "7402112023",
     "district_code": "740211",
-    "name": "Leppe"
+    "name": "Leppe",
+    "postal_code": "93451"
   },
   {
     "code": "7402112024",
     "district_code": "740211",
-    "name": "Bajoe"
+    "name": "Bajoe",
+    "postal_code": "93451"
   },
   {
     "code": "7402112025",
     "district_code": "740211",
-    "name": "Saponda Laut"
+    "name": "Saponda Laut",
+    "postal_code": "93451"
   }
 ]

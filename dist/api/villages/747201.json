@@ -2,26 +2,31 @@
   {
     "code": "7472011007",
     "district_code": "747201",
-    "name": "Katobengke"
+    "name": "Katobengke",
+    "postal_code": "93724"
   },
   {
     "code": "7472011012",
     "district_code": "747201",
-    "name": "Waborobo"
+    "name": "Waborobo",
+    "postal_code": "93721"
   },
   {
     "code": "7472011013",
     "district_code": "747201",
-    "name": "Sulaa"
+    "name": "Sulaa",
+    "postal_code": "93721"
   },
   {
     "code": "7472011014",
     "district_code": "747201",
-    "name": "Lipu"
+    "name": "Lipu",
+    "postal_code": "93721"
   },
   {
     "code": "7472011016",
     "district_code": "747201",
-    "name": "Labalawa"
+    "name": "Labalawa",
+    "postal_code": "93725"
   }
 ]

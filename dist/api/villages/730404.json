@@ -2,31 +2,37 @@
   {
     "code": "7304041001",
     "district_code": "730404",
-    "name": "Togo Togo"
+    "name": "Togo Togo",
+    "postal_code": "92360"
   },
   {
     "code": "7304041002",
     "district_code": "730404",
-    "name": "Bonto Raya"
+    "name": "Bonto Raya",
+    "postal_code": "92360"
   },
   {
     "code": "7304042003",
     "district_code": "730404",
-    "name": "Maccinibaji"
+    "name": "Maccinibaji",
+    "postal_code": "92360"
   },
   {
     "code": "7304042008",
     "district_code": "730404",
-    "name": "Camba Camba"
+    "name": "Camba Camba",
+    "postal_code": "92360"
   },
   {
     "code": "7304042009",
     "district_code": "730404",
-    "name": "Kaluku"
+    "name": "Kaluku",
+    "postal_code": "92360"
   },
   {
     "code": "7304042014",
     "district_code": "730404",
-    "name": "Bungeng"
+    "name": "Bungeng",
+    "postal_code": "92360"
   }
 ]

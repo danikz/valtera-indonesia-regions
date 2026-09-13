@@ -2,46 +2,55 @@
   {
     "code": "3322162001",
     "district_code": "332216",
-    "name": "Bancak"
+    "name": "Bancak",
+    "postal_code": "50182"
   },
   {
     "code": "3322162002",
     "district_code": "332216",
-    "name": "Wonokerto"
+    "name": "Wonokerto",
+    "postal_code": "50182"
   },
   {
     "code": "3322162003",
     "district_code": "332216",
-    "name": "Jlumpang"
+    "name": "Jlumpang",
+    "postal_code": "50182"
   },
   {
     "code": "3322162004",
     "district_code": "332216",
-    "name": "Bantal"
+    "name": "Bantal",
+    "postal_code": "50182"
   },
   {
     "code": "3322162005",
     "district_code": "332216",
-    "name": "Rejosari"
+    "name": "Rejosari",
+    "postal_code": "50125"
   },
   {
     "code": "3322162006",
     "district_code": "332216",
-    "name": "Plumutan"
+    "name": "Plumutan",
+    "postal_code": "50182"
   },
   {
     "code": "3322162007",
     "district_code": "332216",
-    "name": "Lembu"
+    "name": "Lembu",
+    "postal_code": "50182"
   },
   {
     "code": "3322162008",
     "district_code": "332216",
-    "name": "Pucung"
+    "name": "Pucung",
+    "postal_code": "50182"
   },
   {
     "code": "3322162009",
     "district_code": "332216",
-    "name": "Boto"
+    "name": "Boto",
+    "postal_code": "50182"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1110132001",
     "district_code": "111013",
-    "name": "Singkohor"
+    "name": "Singkohor",
+    "postal_code": "24788"
   },
   {
     "code": "1110132002",
     "district_code": "111013",
-    "name": "Lae Sipola"
+    "name": "Lae Sipola",
+    "postal_code": "24788"
   },
   {
     "code": "1110132003",
     "district_code": "111013",
-    "name": "Lae Pinang"
+    "name": "Lae Pinang",
+    "postal_code": "24788"
   },
   {
     "code": "1110132004",
     "district_code": "111013",
-    "name": "Mukti Jaya"
+    "name": "Mukti Jaya",
+    "postal_code": "24788"
   },
   {
     "code": "1110132006",
     "district_code": "111013",
-    "name": "Sri Kayu"
+    "name": "Sri Kayu",
+    "postal_code": "24788"
   },
   {
     "code": "1110132007",
     "district_code": "111013",
-    "name": "Pea Jambu"
+    "name": "Pea Jambu",
+    "postal_code": "24788"
   }
 ]

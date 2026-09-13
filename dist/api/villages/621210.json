@@ -2,26 +2,31 @@
   {
     "code": "6212102001",
     "district_code": "621210",
-    "name": "Tumbang Tujang"
+    "name": "Tumbang Tujang",
+    "postal_code": "73983"
   },
   {
     "code": "6212102002",
     "district_code": "621210",
-    "name": "Tumbang Olong I"
+    "name": "Tumbang Olong I",
+    "postal_code": "73983"
   },
   {
     "code": "6212102003",
     "district_code": "621210",
-    "name": "Kalasin"
+    "name": "Kalasin",
+    "postal_code": "73983"
   },
   {
     "code": "6212102004",
     "district_code": "621210",
-    "name": "Tumbang Topus"
+    "name": "Tumbang Topus",
+    "postal_code": "73983"
   },
   {
     "code": "6212102005",
     "district_code": "621210",
-    "name": "Tumbang Olong II"
+    "name": "Tumbang Olong II",
+    "postal_code": "73983"
   }
 ]

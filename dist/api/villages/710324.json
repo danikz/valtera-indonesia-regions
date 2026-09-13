@@ -2,41 +2,49 @@
   {
     "code": "7103241001",
     "district_code": "710324",
-    "name": "Lesa"
+    "name": "Lesa",
+    "postal_code": "95812"
   },
   {
     "code": "7103241002",
     "district_code": "710324",
-    "name": "Enengpahembang"
+    "name": "Enengpahembang",
+    "postal_code": "95815"
   },
   {
     "code": "7103241003",
     "district_code": "710324",
-    "name": "Tapuang"
+    "name": "Tapuang",
+    "postal_code": "95815"
   },
   {
     "code": "7103241004",
     "district_code": "710324",
-    "name": "Tidore"
+    "name": "Tidore",
+    "postal_code": "95814"
   },
   {
     "code": "7103241005",
     "district_code": "710324",
-    "name": "Tona I"
+    "name": "Tona I",
+    "postal_code": "95815"
   },
   {
     "code": "7103241006",
     "district_code": "710324",
-    "name": "Tona II"
+    "name": "Tona II",
+    "postal_code": "95815"
   },
   {
     "code": "7103241007",
     "district_code": "710324",
-    "name": "Dumuhung"
+    "name": "Dumuhung",
+    "postal_code": "95816"
   },
   {
     "code": "7103241008",
     "district_code": "710324",
-    "name": "Batulewehe"
+    "name": "Batulewehe",
+    "postal_code": "95814"
   }
 ]

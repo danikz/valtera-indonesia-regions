@@ -2,31 +2,37 @@
   {
     "code": "3510072001",
     "district_code": "351007",
-    "name": "Purwodadi"
+    "name": "Purwodadi",
+    "postal_code": "68486"
   },
   {
     "code": "3510072002",
     "district_code": "351007",
-    "name": "Jajag"
+    "name": "Jajag",
+    "postal_code": "68486"
   },
   {
     "code": "3510072007",
     "district_code": "351007",
-    "name": "Gambiran"
+    "name": "Gambiran",
+    "postal_code": "68486"
   },
   {
     "code": "3510072008",
     "district_code": "351007",
-    "name": "Yosomulyo"
+    "name": "Yosomulyo",
+    "postal_code": "68486"
   },
   {
     "code": "3510072009",
     "district_code": "351007",
-    "name": "Wringinrejo"
+    "name": "Wringinrejo",
+    "postal_code": "68486"
   },
   {
     "code": "3510072010",
     "district_code": "351007",
-    "name": "Wringinagung"
+    "name": "Wringinagung",
+    "postal_code": "68486"
   }
 ]

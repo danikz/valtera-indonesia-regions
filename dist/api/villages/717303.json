@@ -2,51 +2,61 @@
   {
     "code": "7173031001",
     "district_code": "717303",
-    "name": "Tinoor Satu"
+    "name": "Tinoor Satu",
+    "postal_code": "95412"
   },
   {
     "code": "7173031002",
     "district_code": "717303",
-    "name": "Tinoor Dua"
+    "name": "Tinoor Dua",
+    "postal_code": "95411"
   },
   {
     "code": "7173031003",
     "district_code": "717303",
-    "name": "Kinilow"
+    "name": "Kinilow",
+    "postal_code": "95414"
   },
   {
     "code": "7173031004",
     "district_code": "717303",
-    "name": "Kakaskasen Satu"
+    "name": "Kakaskasen Satu",
+    "postal_code": "95415"
   },
   {
     "code": "7173031005",
     "district_code": "717303",
-    "name": "Kakaskasen Dua"
+    "name": "Kakaskasen Dua",
+    "postal_code": "95416"
   },
   {
     "code": "7173031006",
     "district_code": "717303",
-    "name": "Kakaskasen Tiga"
+    "name": "Kakaskasen Tiga",
+    "postal_code": "95417"
   },
   {
     "code": "7173031007",
     "district_code": "717303",
-    "name": "Wailan"
+    "name": "Wailan",
+    "postal_code": "95418"
   },
   {
     "code": "7173031008",
     "district_code": "717303",
-    "name": "Kayawu"
+    "name": "Kayawu",
+    "postal_code": "95419"
   },
   {
     "code": "7173031009",
     "district_code": "717303",
-    "name": "Kinilow Satu"
+    "name": "Kinilow Satu",
+    "postal_code": "95413"
   },
   {
     "code": "7173031010",
     "district_code": "717303",
-    "name": "Kakaskasen"
+    "name": "Kakaskasen",
+    "postal_code": "95418"
   }
 ]

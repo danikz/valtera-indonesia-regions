@@ -2,41 +2,49 @@
   {
     "code": "3206342001",
     "district_code": "320634",
-    "name": "Dawagung"
+    "name": "Dawagung",
+    "postal_code": "46155"
   },
   {
     "code": "3206342002",
     "district_code": "320634",
-    "name": "Rajapolah"
+    "name": "Rajapolah",
+    "postal_code": "46155"
   },
   {
     "code": "3206342003",
     "district_code": "320634",
-    "name": "Manggungjaya"
+    "name": "Manggungjaya",
+    "postal_code": "46155"
   },
   {
     "code": "3206342004",
     "district_code": "320634",
-    "name": "Manggungsari"
+    "name": "Manggungsari",
+    "postal_code": "46155"
   },
   {
     "code": "3206342005",
     "district_code": "320634",
-    "name": "Sukaraja"
+    "name": "Sukaraja",
+    "postal_code": "46183"
   },
   {
     "code": "3206342006",
     "district_code": "320634",
-    "name": "Rajamandala"
+    "name": "Rajamandala",
+    "postal_code": "46155"
   },
   {
     "code": "3206342007",
     "district_code": "320634",
-    "name": "Sukanagalih"
+    "name": "Sukanagalih",
+    "postal_code": "46155"
   },
   {
     "code": "3206342008",
     "district_code": "320634",
-    "name": "Tanjungpura"
+    "name": "Tanjungpura",
+    "postal_code": "46155"
   }
 ]

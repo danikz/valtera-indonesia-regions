@@ -2,56 +2,67 @@
   {
     "code": "3403042001",
     "district_code": "340304",
-    "name": "Bunder"
+    "name": "Bunder",
+    "postal_code": "55862"
   },
   {
     "code": "3403042002",
     "district_code": "340304",
-    "name": "Beji"
+    "name": "Beji",
+    "postal_code": "55862"
   },
   {
     "code": "3403042003",
     "district_code": "340304",
-    "name": "Pengkok"
+    "name": "Pengkok",
+    "postal_code": "55862"
   },
   {
     "code": "3403042004",
     "district_code": "340304",
-    "name": "Semoyo"
+    "name": "Semoyo",
+    "postal_code": "55862"
   },
   {
     "code": "3403042005",
     "district_code": "340304",
-    "name": "Salam"
+    "name": "Salam",
+    "postal_code": "55862"
   },
   {
     "code": "3403042006",
     "district_code": "340304",
-    "name": "Patuk"
+    "name": "Patuk",
+    "postal_code": "55862"
   },
   {
     "code": "3403042007",
     "district_code": "340304",
-    "name": "Ngoro-oro"
+    "name": "Ngoro-oro",
+    "postal_code": "55862"
   },
   {
     "code": "3403042008",
     "district_code": "340304",
-    "name": "Nglanggeran"
+    "name": "Nglanggeran",
+    "postal_code": "55862"
   },
   {
     "code": "3403042009",
     "district_code": "340304",
-    "name": "Putat"
+    "name": "Putat",
+    "postal_code": "55862"
   },
   {
     "code": "3403042010",
     "district_code": "340304",
-    "name": "Nglegi"
+    "name": "Nglegi",
+    "postal_code": "55862"
   },
   {
     "code": "3403042011",
     "district_code": "340304",
-    "name": "Terbah"
+    "name": "Terbah",
+    "postal_code": "55862"
   }
 ]

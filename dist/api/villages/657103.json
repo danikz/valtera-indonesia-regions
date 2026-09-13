@@ -2,36 +2,43 @@
   {
     "code": "6571031001",
     "district_code": "657103",
-    "name": "Lingkas Ujung"
+    "name": "Lingkas Ujung",
+    "postal_code": "77126"
   },
   {
     "code": "6571031002",
     "district_code": "657103",
-    "name": "Gunung Lingkas"
+    "name": "Gunung Lingkas",
+    "postal_code": "77115"
   },
   {
     "code": "6571031003",
     "district_code": "657103",
-    "name": "Kampung Empat"
+    "name": "Kampung Empat",
+    "postal_code": "77124"
   },
   {
     "code": "6571031004",
     "district_code": "657103",
-    "name": "Kampung Enam"
+    "name": "Kampung Enam",
+    "postal_code": "77123"
   },
   {
     "code": "6571031005",
     "district_code": "657103",
-    "name": "Mamburungan"
+    "name": "Mamburungan",
+    "postal_code": "77125"
   },
   {
     "code": "6571031006",
     "district_code": "657103",
-    "name": "Pantai Amal"
+    "name": "Pantai Amal",
+    "postal_code": "77115"
   },
   {
     "code": "6571031007",
     "district_code": "657103",
-    "name": "Mamburungan Timur"
+    "name": "Mamburungan Timur",
+    "postal_code": "77115"
   }
 ]

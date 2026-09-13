@@ -2,41 +2,49 @@
   {
     "code": "5320022001",
     "district_code": "532002",
-    "name": "Bebae"
+    "name": "Bebae",
+    "postal_code": "85392"
   },
   {
     "code": "5320022002",
     "district_code": "532002",
-    "name": "Tada"
+    "name": "Tada",
+    "postal_code": "85392"
   },
   {
     "code": "5320022003",
     "district_code": "532002",
-    "name": "Matei"
+    "name": "Matei",
+    "postal_code": "85392"
   },
   {
     "code": "5320022004",
     "district_code": "532002",
-    "name": "Loboaju"
+    "name": "Loboaju",
+    "postal_code": "85392"
   },
   {
     "code": "5320022005",
     "district_code": "532002",
-    "name": "Eimadake"
+    "name": "Eimadake",
+    "postal_code": "85392"
   },
   {
     "code": "5320022006",
     "district_code": "532002",
-    "name": "Jiwuwu"
+    "name": "Jiwuwu",
+    "postal_code": "85392"
   },
   {
     "code": "5320022007",
     "district_code": "532002",
-    "name": "Eilode"
+    "name": "Eilode",
+    "postal_code": "85392"
   },
   {
     "code": "5320022008",
     "district_code": "532002",
-    "name": "Eimau"
+    "name": "Eimau",
+    "postal_code": "85392"
   }
 ]

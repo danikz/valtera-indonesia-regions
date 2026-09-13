@@ -2,51 +2,61 @@
   {
     "code": "3507012001",
     "district_code": "350701",
-    "name": "Tulungrejo"
+    "name": "Tulungrejo",
+    "postal_code": "65167"
   },
   {
     "code": "3507012002",
     "district_code": "350701",
-    "name": "Banjarejo"
+    "name": "Banjarejo",
+    "postal_code": "65167"
   },
   {
     "code": "3507012003",
     "district_code": "350701",
-    "name": "Kedungsalam"
+    "name": "Kedungsalam",
+    "postal_code": "65167"
   },
   {
     "code": "3507012004",
     "district_code": "350701",
-    "name": "Tlogosari"
+    "name": "Tlogosari",
+    "postal_code": "65167"
   },
   {
     "code": "3507012005",
     "district_code": "350701",
-    "name": "Tempursari"
+    "name": "Tempursari",
+    "postal_code": "65167"
   },
   {
     "code": "3507012006",
     "district_code": "350701",
-    "name": "Donomulyo"
+    "name": "Donomulyo",
+    "postal_code": "65167"
   },
   {
     "code": "3507012007",
     "district_code": "350701",
-    "name": "Purworejo"
+    "name": "Purworejo",
+    "postal_code": "65167"
   },
   {
     "code": "3507012008",
     "district_code": "350701",
-    "name": "Sumberoto"
+    "name": "Sumberoto",
+    "postal_code": "65167"
   },
   {
     "code": "3507012009",
     "district_code": "350701",
-    "name": "Mentaraman"
+    "name": "Mentaraman",
+    "postal_code": "65167"
   },
   {
     "code": "3507012010",
     "district_code": "350701",
-    "name": "Purwodadi"
+    "name": "Purwodadi",
+    "postal_code": "65167"
   }
 ]

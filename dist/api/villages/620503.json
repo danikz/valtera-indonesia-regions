@@ -2,56 +2,67 @@
   {
     "code": "6205032001",
     "district_code": "620503",
-    "name": "Tanjung Harapan"
+    "name": "Tanjung Harapan",
+    "postal_code": "73871"
   },
   {
     "code": "6205032002",
     "district_code": "620503",
-    "name": "Linon Besi I"
+    "name": "Linon Besi I",
+    "postal_code": "73871"
   },
   {
     "code": "6205032003",
     "district_code": "620503",
-    "name": "Linon Besi II"
+    "name": "Linon Besi II",
+    "postal_code": "73871"
   },
   {
     "code": "6205032004",
     "district_code": "620503",
-    "name": "Muara Mea"
+    "name": "Muara Mea",
+    "postal_code": "73871"
   },
   {
     "code": "6205032005",
     "district_code": "620503",
-    "name": "Lawarang"
+    "name": "Lawarang",
+    "postal_code": "73871"
   },
   {
     "code": "6205032006",
     "district_code": "620503",
-    "name": "Lampeong I"
+    "name": "Lampeong I",
+    "postal_code": "73871"
   },
   {
     "code": "6205032007",
     "district_code": "620503",
-    "name": "Lampeong II"
+    "name": "Lampeong II",
+    "postal_code": "73871"
   },
   {
     "code": "6205032008",
     "district_code": "620503",
-    "name": "Payang"
+    "name": "Payang",
+    "postal_code": "73871"
   },
   {
     "code": "6205032009",
     "district_code": "620503",
-    "name": "Berong"
+    "name": "Berong",
+    "postal_code": "73871"
   },
   {
     "code": "6205032010",
     "district_code": "620503",
-    "name": "Baok"
+    "name": "Baok",
+    "postal_code": "73871"
   },
   {
     "code": "6205032011",
     "district_code": "620503",
-    "name": "Tambaba"
+    "name": "Tambaba",
+    "postal_code": "73871"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "1410062001",
     "district_code": "141006",
-    "name": "Kuala Merbau"
+    "name": "Kuala Merbau",
+    "postal_code": "28750"
   },
   {
     "code": "1410062002",
     "district_code": "141006",
-    "name": "Renak Dungun"
+    "name": "Renak Dungun",
+    "postal_code": "28750"
   },
   {
     "code": "1410062003",
     "district_code": "141006",
-    "name": "Baran Melintang"
+    "name": "Baran Melintang",
+    "postal_code": "28750"
   },
   {
     "code": "1410062004",
     "district_code": "141006",
-    "name": "Teluk Ketapang"
+    "name": "Teluk Ketapang",
+    "postal_code": "28750"
   },
   {
     "code": "1410062005",
     "district_code": "141006",
-    "name": "Semukut"
+    "name": "Semukut",
+    "postal_code": "28750"
   },
   {
     "code": "1410062006",
     "district_code": "141006",
-    "name": "Centai"
+    "name": "Centai",
+    "postal_code": "28750"
   },
   {
     "code": "1410062007",
     "district_code": "141006",
-    "name": "Tanjungbunga"
+    "name": "Tanjungbunga",
+    "postal_code": "28750"
   },
   {
     "code": "1410062008",
     "district_code": "141006",
-    "name": "Batang Meranti"
+    "name": "Batang Meranti",
+    "postal_code": "28750"
   },
   {
     "code": "1410062009",
     "district_code": "141006",
-    "name": "Pangkalan Balai"
+    "name": "Pangkalan Balai",
+    "postal_code": "28750"
   },
   {
     "code": "1410062010",
     "district_code": "141006",
-    "name": "Padang Kamal"
+    "name": "Padang Kamal",
+    "postal_code": "28750"
   },
   {
     "code": "1410062011",
     "district_code": "141006",
-    "name": "Ketapang Permai"
+    "name": "Ketapang Permai",
+    "postal_code": "28750"
   }
 ]

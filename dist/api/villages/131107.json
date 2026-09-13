@@ -2,21 +2,25 @@
   {
     "code": "1311072001",
     "district_code": "131107",
-    "name": "Sungai Kunyit"
+    "name": "Sungai Kunyit",
+    "postal_code": "27777"
   },
   {
     "code": "1311072002",
     "district_code": "131107",
-    "name": "Talao Sungai Kunyit"
+    "name": "Talao Sungai Kunyit",
+    "postal_code": "27777"
   },
   {
     "code": "1311072003",
     "district_code": "131107",
-    "name": "Sungai Kunyit Barat"
+    "name": "Sungai Kunyit Barat",
+    "postal_code": "27777"
   },
   {
     "code": "1311072004",
     "district_code": "131107",
-    "name": "Talunan Maju"
+    "name": "Talunan Maju",
+    "postal_code": "27777"
   }
 ]

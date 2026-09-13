@@ -2,31 +2,37 @@
   {
     "code": "1502072009",
     "district_code": "150207",
-    "name": "Muara Jernih"
+    "name": "Muara Jernih",
+    "postal_code": "37356"
   },
   {
     "code": "1502072010",
     "district_code": "150207",
-    "name": "Kapuk"
+    "name": "Kapuk",
+    "postal_code": "37356"
   },
   {
     "code": "1502072011",
     "district_code": "150207",
-    "name": "Pulau Aro"
+    "name": "Pulau Aro",
+    "postal_code": "37356"
   },
   {
     "code": "1502072012",
     "district_code": "150207",
-    "name": "Rantau Ngarau"
+    "name": "Rantau Ngarau",
+    "postal_code": "37356"
   },
   {
     "code": "1502072013",
     "district_code": "150207",
-    "name": "Medan Baru"
+    "name": "Medan Baru",
+    "postal_code": "37356"
   },
   {
     "code": "1502072014",
     "district_code": "150207",
-    "name": "Muaro Seketuk"
+    "name": "Muaro Seketuk",
+    "postal_code": "37356"
   }
 ]

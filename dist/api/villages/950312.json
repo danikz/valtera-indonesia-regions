@@ -2,51 +2,61 @@
   {
     "code": "9503122001",
     "district_code": "950312",
-    "name": "Usaregeik"
+    "name": "Usaregeik",
+    "postal_code": "99707"
   },
   {
     "code": "9503122002",
     "district_code": "950312",
-    "name": "Lidipmu"
+    "name": "Lidipmu",
+    "postal_code": "99707"
   },
   {
     "code": "9503122003",
     "district_code": "950312",
-    "name": "Sumegen"
+    "name": "Sumegen",
+    "postal_code": "99707"
   },
   {
     "code": "9503122004",
     "district_code": "950312",
-    "name": "Hendikma"
+    "name": "Hendikma",
+    "postal_code": "99707"
   },
   {
     "code": "9503122005",
     "district_code": "950312",
-    "name": "Bue"
+    "name": "Bue",
+    "postal_code": "99707"
   },
   {
     "code": "9503122006",
     "district_code": "950312",
-    "name": "Haletuk"
+    "name": "Haletuk",
+    "postal_code": "99707"
   },
   {
     "code": "9503122007",
     "district_code": "950312",
-    "name": "Dekbok"
+    "name": "Dekbok",
+    "postal_code": "99707"
   },
   {
     "code": "9503122008",
     "district_code": "950312",
-    "name": "Yeriko"
+    "name": "Yeriko",
+    "postal_code": "99707"
   },
   {
     "code": "9503122009",
     "district_code": "950312",
-    "name": "Weleheikma"
+    "name": "Weleheikma",
+    "postal_code": "99707"
   },
   {
     "code": "9503122010",
     "district_code": "950312",
-    "name": "Esaikma"
+    "name": "Esaikma",
+    "postal_code": "99707"
   }
 ]

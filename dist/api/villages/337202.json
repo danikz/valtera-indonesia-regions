@@ -2,36 +2,43 @@
   {
     "code": "3372021001",
     "district_code": "337202",
-    "name": "Joyotakan"
+    "name": "Joyotakan",
+    "postal_code": "57157"
   },
   {
     "code": "3372021002",
     "district_code": "337202",
-    "name": "Danukusuman"
+    "name": "Danukusuman",
+    "postal_code": "57156"
   },
   {
     "code": "3372021003",
     "district_code": "337202",
-    "name": "Serengan"
+    "name": "Serengan",
+    "postal_code": "57155"
   },
   {
     "code": "3372021004",
     "district_code": "337202",
-    "name": "Tipes"
+    "name": "Tipes",
+    "postal_code": "57154"
   },
   {
     "code": "3372021005",
     "district_code": "337202",
-    "name": "Kratonan"
+    "name": "Kratonan",
+    "postal_code": "57153"
   },
   {
     "code": "3372021006",
     "district_code": "337202",
-    "name": "Jayengan"
+    "name": "Jayengan",
+    "postal_code": "57152"
   },
   {
     "code": "3372021007",
     "district_code": "337202",
-    "name": "Kemlayan"
+    "name": "Kemlayan",
+    "postal_code": "57151"
   }
 ]

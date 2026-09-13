@@ -2,26 +2,31 @@
   {
     "code": "3404042001",
     "district_code": "340404",
-    "name": "Sendangarum"
+    "name": "Sendangarum",
+    "postal_code": "55562"
   },
   {
     "code": "3404042002",
     "district_code": "340404",
-    "name": "Sendangmulyo"
+    "name": "Sendangmulyo",
+    "postal_code": "55562"
   },
   {
     "code": "3404042003",
     "district_code": "340404",
-    "name": "Sendangagung"
+    "name": "Sendangagung",
+    "postal_code": "55562"
   },
   {
     "code": "3404042004",
     "district_code": "340404",
-    "name": "Sendangsari"
+    "name": "Sendangsari",
+    "postal_code": "55562"
   },
   {
     "code": "3404042005",
     "district_code": "340404",
-    "name": "Sendangrejo"
+    "name": "Sendangrejo",
+    "postal_code": "55562"
   }
 ]

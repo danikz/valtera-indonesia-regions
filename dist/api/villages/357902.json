@@ -2,46 +2,55 @@
   {
     "code": "3579022001",
     "district_code": "357902",
-    "name": "Punten"
+    "name": "Punten",
+    "postal_code": "65338"
   },
   {
     "code": "3579022002",
     "district_code": "357902",
-    "name": "Gunungsari"
+    "name": "Gunungsari",
+    "postal_code": "65337"
   },
   {
     "code": "3579022003",
     "district_code": "357902",
-    "name": "Tulungrejo"
+    "name": "Tulungrejo",
+    "postal_code": "65336"
   },
   {
     "code": "3579022004",
     "district_code": "357902",
-    "name": "Sumbergondo"
+    "name": "Sumbergondo",
+    "postal_code": "65335"
   },
   {
     "code": "3579022005",
     "district_code": "357902",
-    "name": "Pandanrejo"
+    "name": "Pandanrejo",
+    "postal_code": "65332"
   },
   {
     "code": "3579022006",
     "district_code": "357902",
-    "name": "Bumiaji"
+    "name": "Bumiaji",
+    "postal_code": "65331"
   },
   {
     "code": "3579022007",
     "district_code": "357902",
-    "name": "Giripurno"
+    "name": "Giripurno",
+    "postal_code": "65333"
   },
   {
     "code": "3579022008",
     "district_code": "357902",
-    "name": "Bulukerto"
+    "name": "Bulukerto",
+    "postal_code": "65334"
   },
   {
     "code": "3579022009",
     "district_code": "357902",
-    "name": "Sumberbrantas"
+    "name": "Sumberbrantas",
+    "postal_code": "65338"
   }
 ]

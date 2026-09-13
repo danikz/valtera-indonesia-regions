@@ -2,21 +2,25 @@
   {
     "code": "9206232001",
     "district_code": "920623",
-    "name": "Meyado"
+    "name": "Meyado",
+    "postal_code": "98153"
   },
   {
     "code": "9206232002",
     "district_code": "920623",
-    "name": "Barma"
+    "name": "Barma",
+    "postal_code": "98153"
   },
   {
     "code": "9206232003",
     "district_code": "920623",
-    "name": "Barma Baru"
+    "name": "Barma Baru",
+    "postal_code": "98153"
   },
   {
     "code": "9206232004",
     "district_code": "920623",
-    "name": "Vasco Damneen"
+    "name": "Vasco Damneen",
+    "postal_code": "98153"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "1307112001",
     "district_code": "130711",
-    "name": "Jopang Manganti"
+    "name": "Jopang Manganti",
+    "postal_code": "26254"
   },
   {
     "code": "1307112002",
     "district_code": "130711",
-    "name": "Simpang Kapuak"
+    "name": "Simpang Kapuak",
+    "postal_code": "26254"
   },
   {
     "code": "1307112003",
     "district_code": "130711",
-    "name": "Mungka"
+    "name": "Mungka",
+    "postal_code": "26254"
   },
   {
     "code": "1307112004",
     "district_code": "130711",
-    "name": "Talang Maur"
+    "name": "Talang Maur",
+    "postal_code": "26254"
   },
   {
     "code": "1307112005",
     "district_code": "130711",
-    "name": "Sungai Antuan"
+    "name": "Sungai Antuan",
+    "postal_code": "26254"
   }
 ]

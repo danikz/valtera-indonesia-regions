@@ -2,21 +2,25 @@
   {
     "code": "6372021003",
     "district_code": "637202",
-    "name": "Landasan Ulin Timur"
+    "name": "Landasan Ulin Timur",
+    "postal_code": "70724"
   },
   {
     "code": "6372021004",
     "district_code": "637202",
-    "name": "Guntung Payung"
+    "name": "Guntung Payung",
+    "postal_code": "70721"
   },
   {
     "code": "6372021005",
     "district_code": "637202",
-    "name": "Guntung Manggis"
+    "name": "Guntung Manggis",
+    "postal_code": "70724"
   },
   {
     "code": "6372021006",
     "district_code": "637202",
-    "name": "Syamsudin Noor"
+    "name": "Syamsudin Noor",
+    "postal_code": "70724"
   }
 ]

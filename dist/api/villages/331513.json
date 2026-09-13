@@ -2,86 +2,103 @@
   {
     "code": "3315131003",
     "district_code": "331513",
-    "name": "Danyang"
+    "name": "Danyang",
+    "postal_code": "58113"
   },
   {
     "code": "3315131004",
     "district_code": "331513",
-    "name": "Kalongan"
+    "name": "Kalongan",
+    "postal_code": "58114"
   },
   {
     "code": "3315131012",
     "district_code": "331513",
-    "name": "Purwodadi"
+    "name": "Purwodadi",
+    "postal_code": "58111"
   },
   {
     "code": "3315131013",
     "district_code": "331513",
-    "name": "Kuripan"
+    "name": "Kuripan",
+    "postal_code": "58112"
   },
   {
     "code": "3315132001",
     "district_code": "331513",
-    "name": "Candisari"
+    "name": "Candisari",
+    "postal_code": "58114"
   },
   {
     "code": "3315132002",
     "district_code": "331513",
-    "name": "Genuksuran"
+    "name": "Genuksuran",
+    "postal_code": "58114"
   },
   {
     "code": "3315132005",
     "district_code": "331513",
-    "name": "Ngraji"
+    "name": "Ngraji",
+    "postal_code": "58114"
   },
   {
     "code": "3315132006",
     "district_code": "331513",
-    "name": "Kandangan"
+    "name": "Kandangan",
+    "postal_code": "58114"
   },
   {
     "code": "3315132007",
     "district_code": "331513",
-    "name": "Nambuhan"
+    "name": "Nambuhan",
+    "postal_code": "58114"
   },
   {
     "code": "3315132008",
     "district_code": "331513",
-    "name": "Warukaranganyar"
+    "name": "Warukaranganyar",
+    "postal_code": "58114"
   },
   {
     "code": "3315132009",
     "district_code": "331513",
-    "name": "Nglobar"
+    "name": "Nglobar",
+    "postal_code": "58114"
   },
   {
     "code": "3315132010",
     "district_code": "331513",
-    "name": "Kedungrejo"
+    "name": "Kedungrejo",
+    "postal_code": "58114"
   },
   {
     "code": "3315132011",
     "district_code": "331513",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "58114"
   },
   {
     "code": "3315132014",
     "district_code": "331513",
-    "name": "Ngembak"
+    "name": "Ngembak",
+    "postal_code": "58114"
   },
   {
     "code": "3315132015",
     "district_code": "331513",
-    "name": "Cingkrong"
+    "name": "Cingkrong",
+    "postal_code": "58114"
   },
   {
     "code": "3315132016",
     "district_code": "331513",
-    "name": "Pulorejo"
+    "name": "Pulorejo",
+    "postal_code": "58114"
   },
   {
     "code": "3315132017",
     "district_code": "331513",
-    "name": "Putat"
+    "name": "Putat",
+    "postal_code": "58114"
   }
 ]

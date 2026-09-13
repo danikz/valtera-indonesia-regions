@@ -2,46 +2,55 @@
   {
     "code": "3210182001",
     "district_code": "321018",
-    "name": "Cijurey"
+    "name": "Cijurey",
+    "postal_code": "45459"
   },
   {
     "code": "3210182002",
     "district_code": "321018",
-    "name": "Pasirmuncang"
+    "name": "Pasirmuncang",
+    "postal_code": "45459"
   },
   {
     "code": "3210182003",
     "district_code": "321018",
-    "name": "Jatipamor"
+    "name": "Jatipamor",
+    "postal_code": "45459"
   },
   {
     "code": "3210182004",
     "district_code": "321018",
-    "name": "Bantrangsana"
+    "name": "Bantrangsana",
+    "postal_code": "45459"
   },
   {
     "code": "3210182005",
     "district_code": "321018",
-    "name": "Jatiserang"
+    "name": "Jatiserang",
+    "postal_code": "45459"
   },
   {
     "code": "3210182006",
     "district_code": "321018",
-    "name": "Bonang"
+    "name": "Bonang",
+    "postal_code": "45459"
   },
   {
     "code": "3210182007",
     "district_code": "321018",
-    "name": "Leuwiseeng"
+    "name": "Leuwiseeng",
+    "postal_code": "45459"
   },
   {
     "code": "3210182008",
     "district_code": "321018",
-    "name": "Panyingkiran"
+    "name": "Panyingkiran",
+    "postal_code": "45459"
   },
   {
     "code": "3210182009",
     "district_code": "321018",
-    "name": "Karyamukti"
+    "name": "Karyamukti",
+    "postal_code": "45459"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "9304012001",
     "district_code": "930401",
-    "name": "Yomoth"
+    "name": "Yomoth",
+    "postal_code": "99777"
   },
   {
     "code": "9304012002",
     "district_code": "930401",
-    "name": "Uwus"
+    "name": "Uwus",
+    "postal_code": "99777"
   },
   {
     "code": "9304012003",
     "district_code": "930401",
-    "name": "Asuwetsy"
+    "name": "Asuwetsy",
+    "postal_code": "99777"
   },
   {
     "code": "9304012004",
     "district_code": "930401",
-    "name": "Bisman"
+    "name": "Bisman",
+    "postal_code": "99777"
   },
   {
     "code": "9304012005",
     "district_code": "930401",
-    "name": "Bis Agats"
+    "name": "Bis Agats",
+    "postal_code": "99777"
   },
   {
     "code": "9304012006",
     "district_code": "930401",
-    "name": "Per"
+    "name": "Per",
+    "postal_code": "99777"
   },
   {
     "code": "9304012007",
     "district_code": "930401",
-    "name": "Briten"
+    "name": "Briten",
+    "postal_code": "99777"
   },
   {
     "code": "9304012008",
     "district_code": "930401",
-    "name": "Mbait"
+    "name": "Mbait",
+    "postal_code": "99777"
   },
   {
     "code": "9304012009",
     "district_code": "930401",
-    "name": "Bou"
+    "name": "Bou",
+    "postal_code": "99777"
   },
   {
     "code": "9304012010",
     "district_code": "930401",
-    "name": "Saw"
+    "name": "Saw",
+    "postal_code": "99777"
   },
   {
     "code": "9304012011",
     "district_code": "930401",
-    "name": "Kaye"
+    "name": "Kaye",
+    "postal_code": "99777"
   },
   {
     "code": "9304012012",
     "district_code": "930401",
-    "name": "Suwru"
+    "name": "Suwru",
+    "postal_code": "99777"
   }
 ]

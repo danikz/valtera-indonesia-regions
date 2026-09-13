@@ -2,86 +2,103 @@
   {
     "code": "8271021001",
     "district_code": "827102",
-    "name": "Sasa"
+    "name": "Sasa",
+    "postal_code": "97719"
   },
   {
     "code": "8271021002",
     "district_code": "827102",
-    "name": "Gambesi"
+    "name": "Gambesi",
+    "postal_code": "97719"
   },
   {
     "code": "8271021003",
     "district_code": "827102",
-    "name": "Fitu"
+    "name": "Fitu",
+    "postal_code": "97718"
   },
   {
     "code": "8271021004",
     "district_code": "827102",
-    "name": "Kalumata"
+    "name": "Kalumata",
+    "postal_code": "97718"
   },
   {
     "code": "8271021005",
     "district_code": "827102",
-    "name": "Kayu Merah"
+    "name": "Kayu Merah",
+    "postal_code": "97733"
   },
   {
     "code": "8271021006",
     "district_code": "827102",
-    "name": "Bastiong Talangame"
+    "name": "Bastiong Talangame",
+    "postal_code": "97716"
   },
   {
     "code": "8271021007",
     "district_code": "827102",
-    "name": "Ubo-Ubo"
+    "name": "Ubo-Ubo",
+    "postal_code": "97717"
   },
   {
     "code": "8271021008",
     "district_code": "827102",
-    "name": "Mangga Dua"
+    "name": "Mangga Dua",
+    "postal_code": "97734"
   },
   {
     "code": "8271021009",
     "district_code": "827102",
-    "name": "Jati"
+    "name": "Jati",
+    "postal_code": "97716"
   },
   {
     "code": "8271021010",
     "district_code": "827102",
-    "name": "Toboko"
+    "name": "Toboko",
+    "postal_code": "97715"
   },
   {
     "code": "8271021011",
     "district_code": "827102",
-    "name": "Tanah Tinggi"
+    "name": "Tanah Tinggi",
+    "postal_code": "97715"
   },
   {
     "code": "8271021020",
     "district_code": "827102",
-    "name": "Tanah Tinggi Barat"
+    "name": "Tanah Tinggi Barat",
+    "postal_code": "97713"
   },
   {
     "code": "8271021021",
     "district_code": "827102",
-    "name": "Mangga Dua Utara"
+    "name": "Mangga Dua Utara",
+    "postal_code": "97713"
   },
   {
     "code": "8271021022",
     "district_code": "827102",
-    "name": "Jati Perumnas"
+    "name": "Jati Perumnas",
+    "postal_code": "97713"
   },
   {
     "code": "8271021023",
     "district_code": "827102",
-    "name": "Tabona"
+    "name": "Tabona",
+    "postal_code": "97713"
   },
   {
     "code": "8271021024",
     "district_code": "827102",
-    "name": "Bastiong Karance"
+    "name": "Bastiong Karance",
+    "postal_code": "97713"
   },
   {
     "code": "8271021025",
     "district_code": "827102",
-    "name": "Ngade"
+    "name": "Ngade",
+    "postal_code": "97713"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1101152001",
     "district_code": "110115",
-    "name": "Pasie Seubadeh"
+    "name": "Pasie Seubadeh",
+    "postal_code": "23777"
   },
   {
     "code": "1101152002",
     "district_code": "110115",
-    "name": "Ladang Rimba"
+    "name": "Ladang Rimba",
+    "postal_code": "23777"
   },
   {
     "code": "1101152003",
     "district_code": "110115",
-    "name": "Ujong Pulo Rayeuk"
+    "name": "Ujong Pulo Rayeuk",
+    "postal_code": "23777"
   },
   {
     "code": "1101152004",
     "district_code": "110115",
-    "name": "Sawah Tingkeum"
+    "name": "Sawah Tingkeum",
+    "postal_code": "23777"
   },
   {
     "code": "1101152005",
     "district_code": "110115",
-    "name": "Simpang"
+    "name": "Simpang",
+    "postal_code": "23777"
   },
   {
     "code": "1101152006",
     "district_code": "110115",
-    "name": "Ujong Pulo Cut"
+    "name": "Ujong Pulo Cut",
+    "postal_code": "23777"
   },
   {
     "code": "1101152008",
     "district_code": "110115",
-    "name": "Seuleukat"
+    "name": "Seuleukat",
+    "postal_code": "23777"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "9503212001",
     "district_code": "950321",
-    "name": "Kosarek"
+    "name": "Kosarek",
+    "postal_code": "99756"
   },
   {
     "code": "9503212002",
     "district_code": "950321",
-    "name": "Nahomas"
+    "name": "Nahomas",
+    "postal_code": "99756"
   },
   {
     "code": "9503212003",
     "district_code": "950321",
-    "name": "Silkom"
+    "name": "Silkom",
+    "postal_code": "99756"
   },
   {
     "code": "9503212004",
     "district_code": "950321",
-    "name": "Wahe"
+    "name": "Wahe",
+    "postal_code": "99756"
   },
   {
     "code": "9503212005",
     "district_code": "950321",
-    "name": "Hombuka"
+    "name": "Hombuka",
+    "postal_code": "99756"
   },
   {
     "code": "9503212006",
     "district_code": "950321",
-    "name": "Mine"
+    "name": "Mine",
+    "postal_code": "99756"
   },
   {
     "code": "9503212007",
     "district_code": "950321",
-    "name": "Uldam"
+    "name": "Uldam",
+    "postal_code": "99756"
   },
   {
     "code": "9503212008",
     "district_code": "950321",
-    "name": "Tiple"
+    "name": "Tiple",
+    "postal_code": "99756"
   },
   {
     "code": "9503212009",
     "district_code": "950321",
-    "name": "Wesaltek"
+    "name": "Wesaltek",
+    "postal_code": "99756"
   },
   {
     "code": "9503212010",
     "district_code": "950321",
-    "name": "Konosa"
+    "name": "Konosa",
+    "postal_code": "99756"
   },
   {
     "code": "9503212011",
     "district_code": "950321",
-    "name": "Illion"
+    "name": "Illion",
+    "postal_code": "99756"
   }
 ]

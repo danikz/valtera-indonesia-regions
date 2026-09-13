@@ -2,31 +2,37 @@
   {
     "code": "1171062001",
     "district_code": "117106",
-    "name": "Keudah"
+    "name": "Keudah",
+    "postal_code": "23129"
   },
   {
     "code": "1171062002",
     "district_code": "117106",
-    "name": "Peulanggahan"
+    "name": "Peulanggahan",
+    "postal_code": "23129"
   },
   {
     "code": "1171062003",
     "district_code": "117106",
-    "name": "Merduati"
+    "name": "Merduati",
+    "postal_code": "23242"
   },
   {
     "code": "1171062004",
     "district_code": "117106",
-    "name": "Lampaseh Kota"
+    "name": "Lampaseh Kota",
+    "postal_code": "23231"
   },
   {
     "code": "1171062005",
     "district_code": "117106",
-    "name": "Gampong Pande"
+    "name": "Gampong Pande",
+    "postal_code": "23128"
   },
   {
     "code": "1171062006",
     "district_code": "117106",
-    "name": "Gampong Jawa"
+    "name": "Gampong Jawa",
+    "postal_code": "23128"
   }
 ]

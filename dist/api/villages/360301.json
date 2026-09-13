@@ -2,46 +2,55 @@
   {
     "code": "3603011001",
     "district_code": "360301",
-    "name": "Balaraja"
+    "name": "Balaraja",
+    "postal_code": "15610"
   },
   {
     "code": "3603012003",
     "district_code": "360301",
-    "name": "Cangkudu"
+    "name": "Cangkudu",
+    "postal_code": "15610"
   },
   {
     "code": "3603012005",
     "district_code": "360301",
-    "name": "Talagasari"
+    "name": "Talagasari",
+    "postal_code": "15610"
   },
   {
     "code": "3603012009",
     "district_code": "360301",
-    "name": "Tobat"
+    "name": "Tobat",
+    "postal_code": "15610"
   },
   {
     "code": "3603012010",
     "district_code": "360301",
-    "name": "Sentul"
+    "name": "Sentul",
+    "postal_code": "15610"
   },
   {
     "code": "3603012011",
     "district_code": "360301",
-    "name": "Gembong"
+    "name": "Gembong",
+    "postal_code": "15610"
   },
   {
     "code": "3603012013",
     "district_code": "360301",
-    "name": "Sukamurni"
+    "name": "Sukamurni",
+    "postal_code": "15610"
   },
   {
     "code": "3603012014",
     "district_code": "360301",
-    "name": "Saga"
+    "name": "Saga",
+    "postal_code": "15610"
   },
   {
     "code": "3603012016",
     "district_code": "360301",
-    "name": "Sentul Jaya"
+    "name": "Sentul Jaya",
+    "postal_code": "15610"
   }
 ]

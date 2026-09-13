@@ -2,46 +2,55 @@
   {
     "code": "5371021001",
     "district_code": "537102",
-    "name": "Oepura"
+    "name": "Oepura",
+    "postal_code": "85142"
   },
   {
     "code": "5371021002",
     "district_code": "537102",
-    "name": "Maulafa"
+    "name": "Maulafa",
+    "postal_code": "85141"
   },
   {
     "code": "5371021003",
     "district_code": "537102",
-    "name": "Penfui"
+    "name": "Penfui",
+    "postal_code": "85148"
   },
   {
     "code": "5371021004",
     "district_code": "537102",
-    "name": "Naimata"
+    "name": "Naimata",
+    "postal_code": "85147"
   },
   {
     "code": "5371021005",
     "district_code": "537102",
-    "name": "Bello"
+    "name": "Bello",
+    "postal_code": "85148"
   },
   {
     "code": "5371021006",
     "district_code": "537102",
-    "name": "Fatukoa"
+    "name": "Fatukoa",
+    "postal_code": "85144"
   },
   {
     "code": "5371021007",
     "district_code": "537102",
-    "name": "Kolhua"
+    "name": "Kolhua",
+    "postal_code": "85146"
   },
   {
     "code": "5371021008",
     "district_code": "537102",
-    "name": "Sikumana"
+    "name": "Sikumana",
+    "postal_code": "85143"
   },
   {
     "code": "5371021009",
     "district_code": "537102",
-    "name": "Naikolan"
+    "name": "Naikolan",
+    "postal_code": "85142"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3518152001",
     "district_code": "351815",
-    "name": "Sudimoroharjo"
+    "name": "Sudimoroharjo",
+    "postal_code": "64462"
   },
   {
     "code": "3518152002",
     "district_code": "351815",
-    "name": "Wilangan"
+    "name": "Wilangan",
+    "postal_code": "64462"
   },
   {
     "code": "3518152003",
     "district_code": "351815",
-    "name": "Ngadipiro"
+    "name": "Ngadipiro",
+    "postal_code": "64462"
   },
   {
     "code": "3518152004",
     "district_code": "351815",
-    "name": "Mancon"
+    "name": "Mancon",
+    "postal_code": "64462"
   },
   {
     "code": "3518152005",
     "district_code": "351815",
-    "name": "Ngudikan"
+    "name": "Ngudikan",
+    "postal_code": "64462"
   },
   {
     "code": "3518152006",
     "district_code": "351815",
-    "name": "Sokoharjo"
+    "name": "Sokoharjo",
+    "postal_code": "64462"
   }
 ]

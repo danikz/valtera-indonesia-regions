@@ -2,26 +2,31 @@
   {
     "code": "7413052001",
     "district_code": "741305",
-    "name": "Parura Jaya"
+    "name": "Parura Jaya",
+    "postal_code": "93644"
   },
   {
     "code": "7413052002",
     "district_code": "741305",
-    "name": "Katangana"
+    "name": "Katangana",
+    "postal_code": "93644"
   },
   {
     "code": "7413052003",
     "district_code": "741305",
-    "name": "Kasimpa Jaya"
+    "name": "Kasimpa Jaya",
+    "postal_code": "93644"
   },
   {
     "code": "7413052004",
     "district_code": "741305",
-    "name": "Sangia Tiworo"
+    "name": "Sangia Tiworo",
+    "postal_code": "93644"
   },
   {
     "code": "7413052005",
     "district_code": "741305",
-    "name": "Barakkah"
+    "name": "Barakkah",
+    "postal_code": "93644"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "2103082001",
     "district_code": "210308",
-    "name": "Kelarik Utara"
+    "name": "Kelarik Utara",
+    "postal_code": "29775"
   },
   {
     "code": "2103082002",
     "district_code": "210308",
-    "name": "Kelarik"
+    "name": "Kelarik",
+    "postal_code": "29775"
   },
   {
     "code": "2103082003",
     "district_code": "210308",
-    "name": "Kelarik Barat"
+    "name": "Kelarik Barat",
+    "postal_code": ""
   },
   {
     "code": "2103082004",
     "district_code": "210308",
-    "name": "Kelarik Air Mali"
+    "name": "Kelarik Air Mali",
+    "postal_code": "29775"
   },
   {
     "code": "2103082005",
     "district_code": "210308",
-    "name": "Teluk Buton"
+    "name": "Teluk Buton",
+    "postal_code": "29775"
   },
   {
     "code": "2103082006",
     "district_code": "210308",
-    "name": "Belakang Gunung"
+    "name": "Belakang Gunung",
+    "postal_code": "29775"
   },
   {
     "code": "2103082007",
     "district_code": "210308",
-    "name": "Seluan Barat"
+    "name": "Seluan Barat",
+    "postal_code": ""
   },
   {
     "code": "2103082008",
     "district_code": "210308",
-    "name": "Gunung Durian"
+    "name": "Gunung Durian",
+    "postal_code": "29775"
   }
 ]

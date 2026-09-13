@@ -2,31 +2,37 @@
   {
     "code": "7318381002",
     "district_code": "731838",
-    "name": "Bambalu"
+    "name": "Bambalu",
+    "postal_code": ""
   },
   {
     "code": "7318382001",
     "district_code": "731838",
-    "name": "Rante Kurra"
+    "name": "Rante Kurra",
+    "postal_code": ""
   },
   {
     "code": "7318382003",
     "district_code": "731838",
-    "name": "Maroson"
+    "name": "Maroson",
+    "postal_code": "91862"
   },
   {
     "code": "7318382004",
     "district_code": "731838",
-    "name": "Lipungan Tanete"
+    "name": "Lipungan Tanete",
+    "postal_code": "91862"
   },
   {
     "code": "7318382005",
     "district_code": "731838",
-    "name": "Rante limbong"
+    "name": "Rante limbong",
+    "postal_code": "91862"
   },
   {
     "code": "7318382006",
     "district_code": "731838",
-    "name": "Limbong Sangpolo"
+    "name": "Limbong Sangpolo",
+    "postal_code": "91862"
   }
 ]

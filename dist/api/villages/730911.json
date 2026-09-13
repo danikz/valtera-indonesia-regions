@@ -2,41 +2,49 @@
   {
     "code": "7309112001",
     "district_code": "730911",
-    "name": "Tompobulu"
+    "name": "Tompobulu",
+    "postal_code": "90565"
   },
   {
     "code": "7309112002",
     "district_code": "730911",
-    "name": "Benteng Gajah"
+    "name": "Benteng Gajah",
+    "postal_code": "90565"
   },
   {
     "code": "7309112003",
     "district_code": "730911",
-    "name": "Bonto Manai"
+    "name": "Bonto Manai",
+    "postal_code": "90565"
   },
   {
     "code": "7309112004",
     "district_code": "730911",
-    "name": "Bonto Somba"
+    "name": "Bonto Somba",
+    "postal_code": "90565"
   },
   {
     "code": "7309112005",
     "district_code": "730911",
-    "name": "Toddolimae"
+    "name": "Toddolimae",
+    "postal_code": "90565"
   },
   {
     "code": "7309112006",
     "district_code": "730911",
-    "name": "Pucak"
+    "name": "Pucak",
+    "postal_code": "90565"
   },
   {
     "code": "7309112007",
     "district_code": "730911",
-    "name": "Bonto Matinggi"
+    "name": "Bonto Matinggi",
+    "postal_code": "90565"
   },
   {
     "code": "7309112008",
     "district_code": "730911",
-    "name": "Bonto Manurung"
+    "name": "Bonto Manurung",
+    "postal_code": "90565"
   }
 ]

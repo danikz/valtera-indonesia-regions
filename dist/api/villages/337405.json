@@ -2,66 +2,79 @@
   {
     "code": "3374051001",
     "district_code": "337405",
-    "name": "Sembungharjo"
+    "name": "Sembungharjo",
+    "postal_code": "50116"
   },
   {
     "code": "3374051002",
     "district_code": "337405",
-    "name": "Kudu"
+    "name": "Kudu",
+    "postal_code": "50116"
   },
   {
     "code": "3374051003",
     "district_code": "337405",
-    "name": "Karangroto"
+    "name": "Karangroto",
+    "postal_code": "50117"
   },
   {
     "code": "3374051004",
     "district_code": "337405",
-    "name": "Genuksari"
+    "name": "Genuksari",
+    "postal_code": "50231"
   },
   {
     "code": "3374051005",
     "district_code": "337405",
-    "name": "Banjardowo"
+    "name": "Banjardowo",
+    "postal_code": "50117"
   },
   {
     "code": "3374051006",
     "district_code": "337405",
-    "name": "Gebangsari"
+    "name": "Gebangsari",
+    "postal_code": "50117"
   },
   {
     "code": "3374051007",
     "district_code": "337405",
-    "name": "Trimulyo"
+    "name": "Trimulyo",
+    "postal_code": "50118"
   },
   {
     "code": "3374051008",
     "district_code": "337405",
-    "name": "Penggaron Lor"
+    "name": "Penggaron Lor",
+    "postal_code": "50113"
   },
   {
     "code": "3374051009",
     "district_code": "337405",
-    "name": "Muktiharjo Lor"
+    "name": "Muktiharjo Lor",
+    "postal_code": "50111"
   },
   {
     "code": "3374051010",
     "district_code": "337405",
-    "name": "Bangetayu Kulon"
+    "name": "Bangetayu Kulon",
+    "postal_code": "50115"
   },
   {
     "code": "3374051011",
     "district_code": "337405",
-    "name": "Bangetayu Wetan"
+    "name": "Bangetayu Wetan",
+    "postal_code": "50115"
   },
   {
     "code": "3374051012",
     "district_code": "337405",
-    "name": "Terboyo Kulon"
+    "name": "Terboyo Kulon",
+    "postal_code": "50112"
   },
   {
     "code": "3374051013",
     "district_code": "337405",
-    "name": "Terboyo Wetan"
+    "name": "Terboyo Wetan",
+    "postal_code": "50112"
   }
 ]

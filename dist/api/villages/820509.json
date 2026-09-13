@@ -2,26 +2,31 @@
   {
     "code": "8205092001",
     "district_code": "820509",
-    "name": "Waigai"
+    "name": "Waigai",
+    "postal_code": "97798"
   },
   {
     "code": "8205092002",
     "district_code": "820509",
-    "name": "Fuata"
+    "name": "Fuata",
+    "postal_code": "97798"
   },
   {
     "code": "8205092003",
     "district_code": "820509",
-    "name": "Wainib"
+    "name": "Wainib",
+    "postal_code": "97798"
   },
   {
     "code": "8205092004",
     "district_code": "820509",
-    "name": "Skom"
+    "name": "Skom",
+    "postal_code": "97798"
   },
   {
     "code": "8205092005",
     "district_code": "820509",
-    "name": "Wai Tamua"
+    "name": "Wai Tamua",
+    "postal_code": "97798"
   }
 ]

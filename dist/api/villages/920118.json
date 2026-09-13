@@ -2,56 +2,67 @@
   {
     "code": "9201182001",
     "district_code": "920118",
-    "name": "Wilty"
+    "name": "Wilty",
+    "postal_code": ""
   },
   {
     "code": "9201182004",
     "district_code": "920118",
-    "name": "Mlawen"
+    "name": "Mlawen",
+    "postal_code": ""
   },
   {
     "code": "9201182008",
     "district_code": "920118",
-    "name": "Byaklokfle"
+    "name": "Byaklokfle",
+    "postal_code": ""
   },
   {
     "code": "9201182009",
     "district_code": "920118",
-    "name": "Tbotjin"
+    "name": "Tbotjin",
+    "postal_code": ""
   },
   {
     "code": "9201182010",
     "district_code": "920118",
-    "name": "Sas"
+    "name": "Sas",
+    "postal_code": ""
   },
   {
     "code": "9201182011",
     "district_code": "920118",
-    "name": "Samolslo"
+    "name": "Samolslo",
+    "postal_code": ""
   },
   {
     "code": "9201182012",
     "district_code": "920118",
-    "name": "Kmasen"
+    "name": "Kmasen",
+    "postal_code": ""
   },
   {
     "code": "9201182013",
     "district_code": "920118",
-    "name": "Klasawon"
+    "name": "Klasawon",
+    "postal_code": ""
   },
   {
     "code": "9201182014",
     "district_code": "920118",
-    "name": "Yurkaden"
+    "name": "Yurkaden",
+    "postal_code": ""
   },
   {
     "code": "9201182019",
     "district_code": "920118",
-    "name": "Betwaft"
+    "name": "Betwaft",
+    "postal_code": ""
   },
   {
     "code": "9201182025",
     "district_code": "920118",
-    "name": "Cokif"
+    "name": "Cokif",
+    "postal_code": ""
   }
 ]

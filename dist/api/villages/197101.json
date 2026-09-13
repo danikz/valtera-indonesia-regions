@@ -2,36 +2,43 @@
   {
     "code": "1971011004",
     "district_code": "197101",
-    "name": "Semabung Lama"
+    "name": "Semabung Lama",
+    "postal_code": "33147"
   },
   {
     "code": "1971011006",
     "district_code": "197101",
-    "name": "Bacang"
+    "name": "Bacang",
+    "postal_code": "33148"
   },
   {
     "code": "1971011007",
     "district_code": "197101",
-    "name": "Air Itam"
+    "name": "Air Itam",
+    "postal_code": "33149"
   },
   {
     "code": "1971011008",
     "district_code": "197101",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "33147"
   },
   {
     "code": "1971011009",
     "district_code": "197101",
-    "name": "Temberan"
+    "name": "Temberan",
+    "postal_code": "33147"
   },
   {
     "code": "1971011010",
     "district_code": "197101",
-    "name": "Sinar Bulan"
+    "name": "Sinar Bulan",
+    "postal_code": "33147"
   },
   {
     "code": "1971011011",
     "district_code": "197101",
-    "name": "Air Mawar"
+    "name": "Air Mawar",
+    "postal_code": "33147"
   }
 ]

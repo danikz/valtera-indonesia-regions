@@ -2,31 +2,37 @@
   {
     "code": "1305162001",
     "district_code": "130516",
-    "name": "Sungai Durian"
+    "name": "Sungai Durian",
+    "postal_code": "25574"
   },
   {
     "code": "1305162002",
     "district_code": "130516",
-    "name": "Tandikek"
+    "name": "Tandikek",
+    "postal_code": "25574"
   },
   {
     "code": "1305162003",
     "district_code": "130516",
-    "name": "Tandikek Utara"
+    "name": "Tandikek Utara",
+    "postal_code": "25574"
   },
   {
     "code": "1305162004",
     "district_code": "130516",
-    "name": "Tandikek Selatan"
+    "name": "Tandikek Selatan",
+    "postal_code": "25574"
   },
   {
     "code": "1305162005",
     "district_code": "130516",
-    "name": "Tandikek Barat"
+    "name": "Tandikek Barat",
+    "postal_code": "25574"
   },
   {
     "code": "1305162006",
     "district_code": "130516",
-    "name": "Kampuang Tanjuang Koto Mambang Sungai"
+    "name": "Kampuang Tanjuang Koto Mambang Sungai",
+    "postal_code": "25574"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "9501072001",
     "district_code": "950107",
-    "name": "Temia"
+    "name": "Temia",
+    "postal_code": "99533"
   },
   {
     "code": "9501072002",
     "district_code": "950107",
-    "name": "Anegera"
+    "name": "Anegera",
+    "postal_code": "99533"
   },
   {
     "code": "9501072003",
     "district_code": "950107",
-    "name": "Elabukama"
+    "name": "Elabukama",
+    "postal_code": "99533"
   },
   {
     "code": "9501072004",
     "district_code": "950107",
-    "name": "Siapma"
+    "name": "Siapma",
+    "postal_code": "99533"
   },
   {
     "code": "9501072005",
     "district_code": "950107",
-    "name": "Hamuhi"
+    "name": "Hamuhi",
+    "postal_code": "99533"
   },
   {
     "code": "9501072006",
     "district_code": "950107",
-    "name": "Kosihave"
+    "name": "Kosihave",
+    "postal_code": "99533"
   },
   {
     "code": "9501072007",
     "district_code": "950107",
-    "name": "Mulupalek"
+    "name": "Mulupalek",
+    "postal_code": "99533"
   },
   {
     "code": "9501072008",
     "district_code": "950107",
-    "name": "Pumasili"
+    "name": "Pumasili",
+    "postal_code": "99533"
   },
   {
     "code": "9501072009",
     "district_code": "950107",
-    "name": "Abulukmo"
+    "name": "Abulukmo",
+    "postal_code": "99533"
   },
   {
     "code": "9501072010",
     "district_code": "950107",
-    "name": "Yumugima"
+    "name": "Yumugima",
+    "postal_code": "99533"
   }
 ]

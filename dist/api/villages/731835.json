@@ -2,31 +2,37 @@
   {
     "code": "7318351001",
     "district_code": "731835",
-    "name": "Malimbong"
+    "name": "Malimbong",
+    "postal_code": "91861"
   },
   {
     "code": "7318352002",
     "district_code": "731835",
-    "name": "Leppan"
+    "name": "Leppan",
+    "postal_code": "91861"
   },
   {
     "code": "7318352003",
     "district_code": "731835",
-    "name": "Kole Sawangan"
+    "name": "Kole Sawangan",
+    "postal_code": "91861"
   },
   {
     "code": "7318352004",
     "district_code": "731835",
-    "name": "Kole Barebatu"
+    "name": "Kole Barebatu",
+    "postal_code": "91861"
   },
   {
     "code": "7318352005",
     "district_code": "731835",
-    "name": "Lemo Menduruk"
+    "name": "Lemo Menduruk",
+    "postal_code": "91861"
   },
   {
     "code": "7318352006",
     "district_code": "731835",
-    "name": "Balepe'"
+    "name": "Balepe'",
+    "postal_code": "91861"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "9206142001",
     "district_code": "920614",
-    "name": "Tofoi"
+    "name": "Tofoi",
+    "postal_code": "98136"
   },
   {
     "code": "9206142002",
     "district_code": "920614",
-    "name": "Tanah Merah"
+    "name": "Tanah Merah",
+    "postal_code": "98136"
   },
   {
     "code": "9206142003",
     "district_code": "920614",
-    "name": "Saengga"
+    "name": "Saengga",
+    "postal_code": "98136"
   },
   {
     "code": "9206142004",
     "district_code": "920614",
-    "name": "Forada"
+    "name": "Forada",
+    "postal_code": "98136"
   },
   {
     "code": "9206142005",
     "district_code": "920614",
-    "name": "Materabu Jaya"
+    "name": "Materabu Jaya",
+    "postal_code": "98136"
   }
 ]

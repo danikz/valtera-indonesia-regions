@@ -2,36 +2,43 @@
   {
     "code": "3217092001",
     "district_code": "321709",
-    "name": "Batujajar Timur"
+    "name": "Batujajar Timur",
+    "postal_code": "40561"
   },
   {
     "code": "3217092002",
     "district_code": "321709",
-    "name": "Batujajar Barat"
+    "name": "Batujajar Barat",
+    "postal_code": "40561"
   },
   {
     "code": "3217092004",
     "district_code": "321709",
-    "name": "Galanggang"
+    "name": "Galanggang",
+    "postal_code": "40561"
   },
   {
     "code": "3217092005",
     "district_code": "321709",
-    "name": "Cangkorah"
+    "name": "Cangkorah",
+    "postal_code": "40561"
   },
   {
     "code": "3217092007",
     "district_code": "321709",
-    "name": "Selacau"
+    "name": "Selacau",
+    "postal_code": "40561"
   },
   {
     "code": "3217092008",
     "district_code": "321709",
-    "name": "Pangauban"
+    "name": "Pangauban",
+    "postal_code": "40561"
   },
   {
     "code": "3217092010",
     "district_code": "321709",
-    "name": "Giriasih"
+    "name": "Giriasih",
+    "postal_code": "40561"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "5305051001",
     "district_code": "530505",
-    "name": "Kolana Utara"
+    "name": "Kolana Utara",
+    "postal_code": "85872"
   },
   {
     "code": "5305052004",
     "district_code": "530505",
-    "name": "Tanglapui"
+    "name": "Tanglapui",
+    "postal_code": "85872"
   },
   {
     "code": "5305052005",
     "district_code": "530505",
-    "name": "Kolana Selatan"
+    "name": "Kolana Selatan",
+    "postal_code": "85872"
   },
   {
     "code": "5305052007",
     "district_code": "530505",
-    "name": "Padang Panjang"
+    "name": "Padang Panjang",
+    "postal_code": "85872"
   },
   {
     "code": "5305052008",
     "district_code": "530505",
-    "name": "Maritaing"
+    "name": "Maritaing",
+    "postal_code": "85872"
   },
   {
     "code": "5305052010",
     "district_code": "530505",
-    "name": "Elok"
+    "name": "Elok",
+    "postal_code": "85872"
   },
   {
     "code": "5305052011",
     "district_code": "530505",
-    "name": "Tanglapui Timur"
+    "name": "Tanglapui Timur",
+    "postal_code": "85872"
   },
   {
     "code": "5305052012",
     "district_code": "530505",
-    "name": "Mausamang"
+    "name": "Mausamang",
+    "postal_code": "85872"
   },
   {
     "code": "5305052013",
     "district_code": "530505",
-    "name": "Belemana"
+    "name": "Belemana",
+    "postal_code": "85872"
   },
   {
     "code": "5305052014",
     "district_code": "530505",
-    "name": "Maukuru"
+    "name": "Maukuru",
+    "postal_code": "85872"
   }
 ]

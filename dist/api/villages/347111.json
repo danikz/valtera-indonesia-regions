@@ -2,11 +2,13 @@
   {
     "code": "3471111001",
     "district_code": "347111",
-    "name": "Purwokinanti"
+    "name": "Purwokinanti",
+    "postal_code": "55112"
   },
   {
     "code": "3471111002",
     "district_code": "347111",
-    "name": "Gunungketur"
+    "name": "Gunungketur",
+    "postal_code": "55111"
   }
 ]

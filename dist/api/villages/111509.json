@@ -2,56 +2,67 @@
   {
     "code": "1115092001",
     "district_code": "111509",
-    "name": "Kuala Tripa"
+    "name": "Kuala Tripa",
+    "postal_code": "23663"
   },
   {
     "code": "1115092002",
     "district_code": "111509",
-    "name": "Babah Lueng"
+    "name": "Babah Lueng",
+    "postal_code": "23663"
   },
   {
     "code": "1115092003",
     "district_code": "111509",
-    "name": "Drien Tujoh"
+    "name": "Drien Tujoh",
+    "postal_code": "23663"
   },
   {
     "code": "1115092004",
     "district_code": "111509",
-    "name": "Lueng Keubeu Jagat"
+    "name": "Lueng Keubeu Jagat",
+    "postal_code": "23663"
   },
   {
     "code": "1115092005",
     "district_code": "111509",
-    "name": "Kabu"
+    "name": "Kabu",
+    "postal_code": "23663"
   },
   {
     "code": "1115092006",
     "district_code": "111509",
-    "name": "Pasie Keube Dom"
+    "name": "Pasie Keube Dom",
+    "postal_code": "23663"
   },
   {
     "code": "1115092007",
     "district_code": "111509",
-    "name": "Neubok Yee PK"
+    "name": "Neubok Yee PK",
+    "postal_code": "23663"
   },
   {
     "code": "1115092008",
     "district_code": "111509",
-    "name": "Neubok Yee PP"
+    "name": "Neubok Yee PP",
+    "postal_code": "23663"
   },
   {
     "code": "1115092009",
     "district_code": "111509",
-    "name": "Mon Dua"
+    "name": "Mon Dua",
+    "postal_code": "23663"
   },
   {
     "code": "1115092010",
     "district_code": "111509",
-    "name": "Ujong Krueng"
+    "name": "Ujong Krueng",
+    "postal_code": "23663"
   },
   {
     "code": "1115092011",
     "district_code": "111509",
-    "name": "Panton Pange"
+    "name": "Panton Pange",
+    "postal_code": "23663"
   }
 ]

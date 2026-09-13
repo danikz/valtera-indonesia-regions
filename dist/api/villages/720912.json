@@ -2,31 +2,37 @@
   {
     "code": "7209122001",
     "district_code": "720912",
-    "name": "Kalia"
+    "name": "Kalia",
+    "postal_code": "94692"
   },
   {
     "code": "7209122002",
     "district_code": "720912",
-    "name": "Malenge"
+    "name": "Malenge",
+    "postal_code": "94692"
   },
   {
     "code": "7209122003",
     "district_code": "720912",
-    "name": "Pautu"
+    "name": "Pautu",
+    "postal_code": "94692"
   },
   {
     "code": "7209122004",
     "district_code": "720912",
-    "name": "Tumotok"
+    "name": "Tumotok",
+    "postal_code": "94692"
   },
   {
     "code": "7209122005",
     "district_code": "720912",
-    "name": "Kabalutan"
+    "name": "Kabalutan",
+    "postal_code": "94692"
   },
   {
     "code": "7209122006",
     "district_code": "720912",
-    "name": "Kadoda"
+    "name": "Kadoda",
+    "postal_code": "94692"
   }
 ]

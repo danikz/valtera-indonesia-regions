@@ -2,21 +2,25 @@
   {
     "code": "3275071003",
     "district_code": "327507",
-    "name": "Bantargebang"
+    "name": "Bantargebang",
+    "postal_code": "17151"
   },
   {
     "code": "3275071004",
     "district_code": "327507",
-    "name": "Cikiwul"
+    "name": "Cikiwul",
+    "postal_code": "17152"
   },
   {
     "code": "3275071007",
     "district_code": "327507",
-    "name": "Ciketingudik"
+    "name": "Ciketingudik",
+    "postal_code": "17153"
   },
   {
     "code": "3275071008",
     "district_code": "327507",
-    "name": "Sumurbatu"
+    "name": "Sumurbatu",
+    "postal_code": "17154"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "6309102001",
     "district_code": "630910",
-    "name": "Bilas"
+    "name": "Bilas",
+    "postal_code": "71575"
   },
   {
     "code": "6309102002",
     "district_code": "630910",
-    "name": "Kaong"
+    "name": "Kaong",
+    "postal_code": "71575"
   },
   {
     "code": "6309102003",
     "district_code": "630910",
-    "name": "Pangelak"
+    "name": "Pangelak",
+    "postal_code": "71575"
   },
   {
     "code": "6309102004",
     "district_code": "630910",
-    "name": "Kinarum"
+    "name": "Kinarum",
+    "postal_code": "71575"
   },
   {
     "code": "6309102005",
     "district_code": "630910",
-    "name": "Masingai II"
+    "name": "Masingai II",
+    "postal_code": "71575"
   },
   {
     "code": "6309102006",
     "district_code": "630910",
-    "name": "Masingai I"
+    "name": "Masingai I",
+    "postal_code": "71575"
   }
 ]

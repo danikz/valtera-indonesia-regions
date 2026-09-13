@@ -2,26 +2,31 @@
   {
     "code": "5302122001",
     "district_code": "530212",
-    "name": "Nenas"
+    "name": "Nenas",
+    "postal_code": "85561"
   },
   {
     "code": "5302122004",
     "district_code": "530212",
-    "name": "Fatumnasi"
+    "name": "Fatumnasi",
+    "postal_code": "85561"
   },
   {
     "code": "5302122005",
     "district_code": "530212",
-    "name": "Nuapin"
+    "name": "Nuapin",
+    "postal_code": "85561"
   },
   {
     "code": "5302122009",
     "district_code": "530212",
-    "name": "Kuanoel"
+    "name": "Kuanoel",
+    "postal_code": "85561"
   },
   {
     "code": "5302122010",
     "district_code": "530212",
-    "name": "Mutis"
+    "name": "Mutis",
+    "postal_code": "85561"
   }
 ]

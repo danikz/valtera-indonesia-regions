@@ -2,56 +2,67 @@
   {
     "code": "6103082001",
     "district_code": "610308",
-    "name": "Tanjung Bunga"
+    "name": "Tanjung Bunga",
+    "postal_code": "78553"
   },
   {
     "code": "6103082002",
     "district_code": "610308",
-    "name": "Semayang"
+    "name": "Semayang",
+    "postal_code": "78553"
   },
   {
     "code": "6103082003",
     "district_code": "610308",
-    "name": "Sebongkuh"
+    "name": "Sebongkuh",
+    "postal_code": "78553"
   },
   {
     "code": "6103082004",
     "district_code": "610308",
-    "name": "Kuala Dua"
+    "name": "Kuala Dua",
+    "postal_code": "78553"
   },
   {
     "code": "6103082005",
     "district_code": "610308",
-    "name": "Tanjung Merpati"
+    "name": "Tanjung Merpati",
+    "postal_code": "78553"
   },
   {
     "code": "6103082006",
     "district_code": "610308",
-    "name": "Sejuah"
+    "name": "Sejuah",
+    "postal_code": "78553"
   },
   {
     "code": "6103082007",
     "district_code": "610308",
-    "name": "Mobui"
+    "name": "Mobui",
+    "postal_code": "78553"
   },
   {
     "code": "6103082008",
     "district_code": "610308",
-    "name": "Tanap"
+    "name": "Tanap",
+    "postal_code": "78553"
   },
   {
     "code": "6103082009",
     "district_code": "610308",
-    "name": "Sebuduh"
+    "name": "Sebuduh",
+    "postal_code": "78553"
   },
   {
     "code": "6103082010",
     "district_code": "610308",
-    "name": "Kelompu"
+    "name": "Kelompu",
+    "postal_code": "78553"
   },
   {
     "code": "6103082011",
     "district_code": "610308",
-    "name": "Tunggal Bhakti"
+    "name": "Tunggal Bhakti",
+    "postal_code": "78553"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "6301102001",
     "district_code": "630110",
-    "name": "Bajuin"
+    "name": "Bajuin",
+    "postal_code": "70815"
   },
   {
     "code": "6301102002",
     "district_code": "630110",
-    "name": "Sungai Bakar"
+    "name": "Sungai Bakar",
+    "postal_code": "70815"
   },
   {
     "code": "6301102003",
     "district_code": "630110",
-    "name": "Ketapang"
+    "name": "Ketapang",
+    "postal_code": "70815"
   },
   {
     "code": "6301102004",
     "district_code": "630110",
-    "name": "Tirta Jaya"
+    "name": "Tirta Jaya",
+    "postal_code": "70815"
   },
   {
     "code": "6301102005",
     "district_code": "630110",
-    "name": "Galam"
+    "name": "Galam",
+    "postal_code": "70815"
   },
   {
     "code": "6301102006",
     "district_code": "630110",
-    "name": "Pemalongan"
+    "name": "Pemalongan",
+    "postal_code": "70815"
   },
   {
     "code": "6301102007",
     "district_code": "630110",
-    "name": "Kunyit"
+    "name": "Kunyit",
+    "postal_code": "70815"
   },
   {
     "code": "6301102008",
     "district_code": "630110",
-    "name": "Tebing Siring"
+    "name": "Tebing Siring",
+    "postal_code": "70815"
   },
   {
     "code": "6301102009",
     "district_code": "630110",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "70815"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "3505121002",
     "district_code": "350512",
-    "name": "Kedungbunder"
+    "name": "Kedungbunder",
+    "postal_code": "66172"
   },
   {
     "code": "3505121003",
     "district_code": "350512",
-    "name": "Kembangarum"
+    "name": "Kembangarum",
+    "postal_code": "66172"
   },
   {
     "code": "3505121004",
     "district_code": "350512",
-    "name": "Kalipang"
+    "name": "Kalipang",
+    "postal_code": "66172"
   },
   {
     "code": "3505121005",
     "district_code": "350512",
-    "name": "Sutojayan"
+    "name": "Sutojayan",
+    "postal_code": "66172"
   },
   {
     "code": "3505121006",
     "district_code": "350512",
-    "name": "Jingglong"
+    "name": "Jingglong",
+    "postal_code": "66172"
   },
   {
     "code": "3505121007",
     "district_code": "350512",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "66172"
   },
   {
     "code": "3505121008",
     "district_code": "350512",
-    "name": "Jegu"
+    "name": "Jegu",
+    "postal_code": "66172"
   },
   {
     "code": "3505122001",
     "district_code": "350512",
-    "name": "Pandanarum"
+    "name": "Pandanarum",
+    "postal_code": "66172"
   },
   {
     "code": "3505122009",
     "district_code": "350512",
-    "name": "Bacem"
+    "name": "Bacem",
+    "postal_code": "66172"
   },
   {
     "code": "3505122010",
     "district_code": "350512",
-    "name": "Sumberjo"
+    "name": "Sumberjo",
+    "postal_code": "66172"
   },
   {
     "code": "3505122011",
     "district_code": "350512",
-    "name": "Kaulon"
+    "name": "Kaulon",
+    "postal_code": "66172"
   }
 ]

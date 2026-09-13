@@ -2,41 +2,49 @@
   {
     "code": "5303031003",
     "district_code": "530303",
-    "name": "Up Faon"
+    "name": "Up Faon",
+    "postal_code": ""
   },
   {
     "code": "5303031011",
     "district_code": "530303",
-    "name": "Supun"
+    "name": "Supun",
+    "postal_code": ""
   },
   {
     "code": "5303032001",
     "district_code": "530303",
-    "name": "Pantae"
+    "name": "Pantae",
+    "postal_code": "85680"
   },
   {
     "code": "5303032002",
     "district_code": "530303",
-    "name": "Oenaem"
+    "name": "Oenaem",
+    "postal_code": "85680"
   },
   {
     "code": "5303032007",
     "district_code": "530303",
-    "name": "Tautpah"
+    "name": "Tautpah",
+    "postal_code": "85680"
   },
   {
     "code": "5303032009",
     "district_code": "530303",
-    "name": "Tokbesi"
+    "name": "Tokbesi",
+    "postal_code": "85680"
   },
   {
     "code": "5303032010",
     "district_code": "530303",
-    "name": "Sainiup"
+    "name": "Sainiup",
+    "postal_code": "85680"
   },
   {
     "code": "5303032012",
     "district_code": "530303",
-    "name": "Tunbaen"
+    "name": "Tunbaen",
+    "postal_code": "85680"
   }
 ]

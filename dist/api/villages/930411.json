@@ -2,31 +2,37 @@
   {
     "code": "9304112001",
     "district_code": "930411",
-    "name": "Yamas"
+    "name": "Yamas",
+    "postal_code": "99784"
   },
   {
     "code": "9304112002",
     "district_code": "930411",
-    "name": "Yeni"
+    "name": "Yeni",
+    "postal_code": "99784"
   },
   {
     "code": "9304112003",
     "district_code": "930411",
-    "name": "Omor"
+    "name": "Omor",
+    "postal_code": "99784"
   },
   {
     "code": "9304112004",
     "district_code": "930411",
-    "name": "Jufri"
+    "name": "Jufri",
+    "postal_code": "99784"
   },
   {
     "code": "9304112005",
     "district_code": "930411",
-    "name": "Yaun"
+    "name": "Yaun",
+    "postal_code": "99784"
   },
   {
     "code": "9304112006",
     "district_code": "930411",
-    "name": "Onavai"
+    "name": "Onavai",
+    "postal_code": "99784"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "7408152001",
     "district_code": "740815",
-    "name": "Lawaki Jaya"
+    "name": "Lawaki Jaya",
+    "postal_code": "93951"
   },
   {
     "code": "7408152002",
     "district_code": "740815",
-    "name": "Patikala"
+    "name": "Patikala",
+    "postal_code": "93951"
   },
   {
     "code": "7408152003",
     "district_code": "740815",
-    "name": "Tolala"
+    "name": "Tolala",
+    "postal_code": "93951"
   },
   {
     "code": "7408152004",
     "district_code": "740815",
-    "name": "Bahari"
+    "name": "Bahari",
+    "postal_code": "93951"
   },
   {
     "code": "7408152005",
     "district_code": "740815",
-    "name": "Leleulu"
+    "name": "Leleulu",
+    "postal_code": "93951"
   },
   {
     "code": "7408152006",
     "district_code": "740815",
-    "name": "Loka"
+    "name": "Loka",
+    "postal_code": "93951"
   }
 ]

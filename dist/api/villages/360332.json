@@ -2,46 +2,55 @@
   {
     "code": "3603322001",
     "district_code": "360332",
-    "name": "Gunung Kaler"
+    "name": "Gunung Kaler",
+    "postal_code": "15620"
   },
   {
     "code": "3603322002",
     "district_code": "360332",
-    "name": "Sidoko"
+    "name": "Sidoko",
+    "postal_code": "15620"
   },
   {
     "code": "3603322003",
     "district_code": "360332",
-    "name": "Rancagede"
+    "name": "Rancagede",
+    "postal_code": "15620"
   },
   {
     "code": "3603322004",
     "district_code": "360332",
-    "name": "Kedung"
+    "name": "Kedung",
+    "postal_code": "15620"
   },
   {
     "code": "3603322005",
     "district_code": "360332",
-    "name": "Cipaeh"
+    "name": "Cipaeh",
+    "postal_code": "15620"
   },
   {
     "code": "3603322006",
     "district_code": "360332",
-    "name": "Onyam"
+    "name": "Onyam",
+    "postal_code": "15620"
   },
   {
     "code": "3603322007",
     "district_code": "360332",
-    "name": "Tamiang"
+    "name": "Tamiang",
+    "postal_code": "15620"
   },
   {
     "code": "3603322008",
     "district_code": "360332",
-    "name": "Kandawati"
+    "name": "Kandawati",
+    "postal_code": "15620"
   },
   {
     "code": "3603322009",
     "district_code": "360332",
-    "name": "Cibetok"
+    "name": "Cibetok",
+    "postal_code": "15620"
   }
 ]

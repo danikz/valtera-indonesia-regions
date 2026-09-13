@@ -2,26 +2,31 @@
   {
     "code": "3175051001",
     "district_code": "317505",
-    "name": "Gedong"
+    "name": "Gedong",
+    "postal_code": "13760"
   },
   {
     "code": "3175051002",
     "district_code": "317505",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "13780"
   },
   {
     "code": "3175051003",
     "district_code": "317505",
-    "name": "Cijantung"
+    "name": "Cijantung",
+    "postal_code": "13770"
   },
   {
     "code": "3175051004",
     "district_code": "317505",
-    "name": "Kalisari"
+    "name": "Kalisari",
+    "postal_code": "13790"
   },
   {
     "code": "3175051005",
     "district_code": "317505",
-    "name": "Pekayon"
+    "name": "Pekayon",
+    "postal_code": "13710"
   }
 ]

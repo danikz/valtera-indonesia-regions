@@ -2,26 +2,31 @@
   {
     "code": "7309132001",
     "district_code": "730913",
-    "name": "Moncongloe"
+    "name": "Moncongloe",
+    "postal_code": "90564"
   },
   {
     "code": "7309132002",
     "district_code": "730913",
-    "name": "Moncongloe Bulu"
+    "name": "Moncongloe Bulu",
+    "postal_code": "90564"
   },
   {
     "code": "7309132003",
     "district_code": "730913",
-    "name": "Moncongloe Lappara"
+    "name": "Moncongloe Lappara",
+    "postal_code": "90564"
   },
   {
     "code": "7309132004",
     "district_code": "730913",
-    "name": "Bonto Bunga"
+    "name": "Bonto Bunga",
+    "postal_code": "90564"
   },
   {
     "code": "7309132005",
     "district_code": "730913",
-    "name": "Bonto Marannu"
+    "name": "Bonto Marannu",
+    "postal_code": "90564"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1671031001",
     "district_code": "167103",
-    "name": "11 Ulu"
+    "name": "11 Ulu",
+    "postal_code": "30267"
   },
   {
     "code": "1671031002",
     "district_code": "167103",
-    "name": "12 Ulu"
+    "name": "12 Ulu",
+    "postal_code": "30262"
   },
   {
     "code": "1671031003",
     "district_code": "167103",
-    "name": "13 Ulu"
+    "name": "13 Ulu",
+    "postal_code": "30263"
   },
   {
     "code": "1671031004",
     "district_code": "167103",
-    "name": "14 Ulu"
+    "name": "14 Ulu",
+    "postal_code": "30264"
   },
   {
     "code": "1671031005",
     "district_code": "167103",
-    "name": "16 Ulu"
+    "name": "16 Ulu",
+    "postal_code": "30265"
   },
   {
     "code": "1671031006",
     "district_code": "167103",
-    "name": "Tangga Takat"
+    "name": "Tangga Takat",
+    "postal_code": "30264"
   },
   {
     "code": "1671031007",
     "district_code": "167103",
-    "name": "Sentosa"
+    "name": "Sentosa",
+    "postal_code": "30261"
   }
 ]

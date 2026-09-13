@@ -2,61 +2,73 @@
   {
     "code": "7408051002",
     "district_code": "740805",
-    "name": "Mala - Mala"
+    "name": "Mala - Mala",
+    "postal_code": "93957"
   },
   {
     "code": "7408052001",
     "district_code": "740805",
-    "name": "Awo"
+    "name": "Awo",
+    "postal_code": "93957"
   },
   {
     "code": "7408052003",
     "district_code": "740805",
-    "name": "Koroha"
+    "name": "Koroha",
+    "postal_code": "93957"
   },
   {
     "code": "7408052004",
     "district_code": "740805",
-    "name": "Kamisi"
+    "name": "Kamisi",
+    "postal_code": "93957"
   },
   {
     "code": "7408052006",
     "district_code": "740805",
-    "name": "Lametuna"
+    "name": "Lametuna",
+    "postal_code": "93957"
   },
   {
     "code": "7408052007",
     "district_code": "740805",
-    "name": "Meeto"
+    "name": "Meeto",
+    "postal_code": "93957"
   },
   {
     "code": "7408052009",
     "district_code": "740805",
-    "name": "Kalu-Kaluku"
+    "name": "Kalu-Kaluku",
+    "postal_code": "93957"
   },
   {
     "code": "7408052010",
     "district_code": "740805",
-    "name": "Jabal Nur"
+    "name": "Jabal Nur",
+    "postal_code": "93957"
   },
   {
     "code": "7408052012",
     "district_code": "740805",
-    "name": "Jabal Kubis"
+    "name": "Jabal Kubis",
+    "postal_code": "93957"
   },
   {
     "code": "7408052014",
     "district_code": "740805",
-    "name": "Sawangaoha"
+    "name": "Sawangaoha",
+    "postal_code": "93957"
   },
   {
     "code": "7408052018",
     "district_code": "740805",
-    "name": "Ainani Tajriani"
+    "name": "Ainani Tajriani",
+    "postal_code": "93957"
   },
   {
     "code": "7408052019",
     "district_code": "740805",
-    "name": "Delang-Delang"
+    "name": "Delang-Delang",
+    "postal_code": "93957"
   }
 ]

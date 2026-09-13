@@ -2,71 +2,85 @@
   {
     "code": "5305072001",
     "district_code": "530507",
-    "name": "Lembur Barat"
+    "name": "Lembur Barat",
+    "postal_code": "85870"
   },
   {
     "code": "5305072002",
     "district_code": "530507",
-    "name": "Lembur Tengah"
+    "name": "Lembur Tengah",
+    "postal_code": "85870"
   },
   {
     "code": "5305072004",
     "district_code": "530507",
-    "name": "Likwatang"
+    "name": "Likwatang",
+    "postal_code": "85870"
   },
   {
     "code": "5305072007",
     "district_code": "530507",
-    "name": "Fungafeng"
+    "name": "Fungafeng",
+    "postal_code": "85870"
   },
   {
     "code": "5305072008",
     "district_code": "530507",
-    "name": "Fuisama"
+    "name": "Fuisama",
+    "postal_code": "85870"
   },
   {
     "code": "5305072009",
     "district_code": "530507",
-    "name": "Nur Benlelang"
+    "name": "Nur Benlelang",
+    "postal_code": "85870"
   },
   {
     "code": "5305072010",
     "district_code": "530507",
-    "name": "Kafakbeka"
+    "name": "Kafakbeka",
+    "postal_code": "85870"
   },
   {
     "code": "5305072011",
     "district_code": "530507",
-    "name": "Manetwati"
+    "name": "Manetwati",
+    "postal_code": "85870"
   },
   {
     "code": "5305072012",
     "district_code": "530507",
-    "name": "Lakwati"
+    "name": "Lakwati",
+    "postal_code": "85870"
   },
   {
     "code": "5305072014",
     "district_code": "530507",
-    "name": "Dapitau"
+    "name": "Dapitau",
+    "postal_code": "85870"
   },
   {
     "code": "5305072017",
     "district_code": "530507",
-    "name": "Alim Mebung"
+    "name": "Alim Mebung",
+    "postal_code": "85870"
   },
   {
     "code": "5305072018",
     "district_code": "530507",
-    "name": "Petleng"
+    "name": "Petleng",
+    "postal_code": "85870"
   },
   {
     "code": "5305072019",
     "district_code": "530507",
-    "name": "Welai Selatan"
+    "name": "Welai Selatan",
+    "postal_code": "85870"
   },
   {
     "code": "5305072020",
     "district_code": "530507",
-    "name": "Tominuku"
+    "name": "Tominuku",
+    "postal_code": "85870"
   }
 ]

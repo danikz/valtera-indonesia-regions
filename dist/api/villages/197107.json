@@ -2,26 +2,31 @@
   {
     "code": "1971071001",
     "district_code": "197107",
-    "name": "Pasar Padi"
+    "name": "Pasar Padi",
+    "postal_code": "33142"
   },
   {
     "code": "1971071002",
     "district_code": "197107",
-    "name": "Bukitintan"
+    "name": "Bukitintan",
+    "postal_code": "33141"
   },
   {
     "code": "1971071003",
     "district_code": "197107",
-    "name": "Bukitbesar"
+    "name": "Bukitbesar",
+    "postal_code": "33145"
   },
   {
     "code": "1971071004",
     "district_code": "197107",
-    "name": "Sriwijaya"
+    "name": "Sriwijaya",
+    "postal_code": "33143"
   },
   {
     "code": "1971071005",
     "district_code": "197107",
-    "name": "Semabung Baru"
+    "name": "Semabung Baru",
+    "postal_code": "33146"
   }
 ]

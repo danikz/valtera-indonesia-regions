@@ -2,26 +2,31 @@
   {
     "code": "1508152001",
     "district_code": "150815",
-    "name": "Pelayang"
+    "name": "Pelayang",
+    "postal_code": "37254"
   },
   {
     "code": "1508152002",
     "district_code": "150815",
-    "name": "Peninjau"
+    "name": "Peninjau",
+    "postal_code": "37254"
   },
   {
     "code": "1508152003",
     "district_code": "150815",
-    "name": "Talang Selungko"
+    "name": "Talang Selungko",
+    "postal_code": "37254"
   },
   {
     "code": "1508152004",
     "district_code": "150815",
-    "name": "Pulau Kerakap"
+    "name": "Pulau Kerakap",
+    "postal_code": "37254"
   },
   {
     "code": "1508152005",
     "district_code": "150815",
-    "name": "Seberang Jaya"
+    "name": "Seberang Jaya",
+    "postal_code": "37254"
   }
 ]

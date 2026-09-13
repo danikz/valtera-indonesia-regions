@@ -2,46 +2,55 @@
   {
     "code": "1507101010",
     "district_code": "150710",
-    "name": "Pandan Jaya"
+    "name": "Pandan Jaya",
+    "postal_code": "36764"
   },
   {
     "code": "1507102001",
     "district_code": "150710",
-    "name": "Lagan Ulu"
+    "name": "Lagan Ulu",
+    "postal_code": "36764"
   },
   {
     "code": "1507102002",
     "district_code": "150710",
-    "name": "Lagan Tengah"
+    "name": "Lagan Tengah",
+    "postal_code": "36764"
   },
   {
     "code": "1507102004",
     "district_code": "150710",
-    "name": "Pandan Makmur"
+    "name": "Pandan Makmur",
+    "postal_code": "36764"
   },
   {
     "code": "1507102005",
     "district_code": "150710",
-    "name": "Pandan Lagan"
+    "name": "Pandan Lagan",
+    "postal_code": "36764"
   },
   {
     "code": "1507102006",
     "district_code": "150710",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "36764"
   },
   {
     "code": "1507102007",
     "district_code": "150710",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "36764"
   },
   {
     "code": "1507102008",
     "district_code": "150710",
-    "name": "Rantau Karya"
+    "name": "Rantau Karya",
+    "postal_code": "36764"
   },
   {
     "code": "1507102009",
     "district_code": "150710",
-    "name": "Pandan Sejahtera"
+    "name": "Pandan Sejahtera",
+    "postal_code": "36764"
   }
 ]

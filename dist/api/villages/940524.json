@@ -2,26 +2,31 @@
   {
     "code": "9405242001",
     "district_code": "940524",
-    "name": "Mundidok"
+    "name": "Mundidok",
+    "postal_code": "98964"
   },
   {
     "code": "9405242002",
     "district_code": "940524",
-    "name": "Yaiki Maiki"
+    "name": "Yaiki Maiki",
+    "postal_code": "98964"
   },
   {
     "code": "9405242003",
     "district_code": "940524",
-    "name": "Tobenggi"
+    "name": "Tobenggi",
+    "postal_code": "98964"
   },
   {
     "code": "9405242004",
     "district_code": "940524",
-    "name": "Towenggi II"
+    "name": "Towenggi II",
+    "postal_code": "98964"
   },
   {
     "code": "9405242005",
     "district_code": "940524",
-    "name": "Welenggaru"
+    "name": "Welenggaru",
+    "postal_code": "98964"
   }
 ]

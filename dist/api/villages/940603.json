@@ -2,41 +2,49 @@
   {
     "code": "9406032001",
     "district_code": "940603",
-    "name": "Apogomakida"
+    "name": "Apogomakida",
+    "postal_code": "98874"
   },
   {
     "code": "9406032002",
     "district_code": "940603",
-    "name": "Deneiode"
+    "name": "Deneiode",
+    "postal_code": "98874"
   },
   {
     "code": "9406032003",
     "district_code": "940603",
-    "name": "Yegiyepa"
+    "name": "Yegiyepa",
+    "postal_code": "98874"
   },
   {
     "code": "9406032004",
     "district_code": "940603",
-    "name": "Ideduwa"
+    "name": "Ideduwa",
+    "postal_code": "98874"
   },
   {
     "code": "9406032005",
     "district_code": "940603",
-    "name": "Kegata"
+    "name": "Kegata",
+    "postal_code": "98874"
   },
   {
     "code": "9406032006",
     "district_code": "940603",
-    "name": "Egipa"
+    "name": "Egipa",
+    "postal_code": "98874"
   },
   {
     "code": "9406032007",
     "district_code": "940603",
-    "name": "Ukagu"
+    "name": "Ukagu",
+    "postal_code": "98874"
   },
   {
     "code": "9406032008",
     "district_code": "940603",
-    "name": "Tibaugi"
+    "name": "Tibaugi",
+    "postal_code": "98874"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "1506071001",
     "district_code": "150607",
-    "name": "Dusun Kebun"
+    "name": "Dusun Kebun",
+    "postal_code": "36550"
   },
   {
     "code": "1506072002",
     "district_code": "150607",
-    "name": "Sri Agung"
+    "name": "Sri Agung",
+    "postal_code": "36550"
   },
   {
     "code": "1506072003",
     "district_code": "150607",
-    "name": "Suban"
+    "name": "Suban",
+    "postal_code": "36550"
   },
   {
     "code": "1506072004",
     "district_code": "150607",
-    "name": "Tanjungbojo"
+    "name": "Tanjungbojo",
+    "postal_code": "36550"
   },
   {
     "code": "1506072005",
     "district_code": "150607",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "36550"
   },
   {
     "code": "1506072006",
     "district_code": "150607",
-    "name": "Lubuk Bernai"
+    "name": "Lubuk Bernai",
+    "postal_code": "36550"
   },
   {
     "code": "1506072007",
     "district_code": "150607",
-    "name": "Rawamedang"
+    "name": "Rawamedang",
+    "postal_code": "36550"
   },
   {
     "code": "1506072008",
     "district_code": "150607",
-    "name": "Sungaipenoban"
+    "name": "Sungaipenoban",
+    "postal_code": "36550"
   },
   {
     "code": "1506072009",
     "district_code": "150607",
-    "name": "Rawangkempas"
+    "name": "Rawangkempas",
+    "postal_code": "36550"
   },
   {
     "code": "1506072010",
     "district_code": "150607",
-    "name": "Lubuk Lawas"
+    "name": "Lubuk Lawas",
+    "postal_code": "36550"
   },
   {
     "code": "1506072011",
     "district_code": "150607",
-    "name": "Sungaibadar"
+    "name": "Sungaibadar",
+    "postal_code": "36550"
   }
 ]

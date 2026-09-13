@@ -2,31 +2,37 @@
   {
     "code": "6106232001",
     "district_code": "610623",
-    "name": "Sungai Antu"
+    "name": "Sungai Antu",
+    "postal_code": "78769"
   },
   {
     "code": "6106232002",
     "district_code": "610623",
-    "name": "Merakai Panjang"
+    "name": "Merakai Panjang",
+    "postal_code": "78769"
   },
   {
     "code": "6106232003",
     "district_code": "610623",
-    "name": "Kantuk Asam"
+    "name": "Kantuk Asam",
+    "postal_code": "78769"
   },
   {
     "code": "6106232004",
     "district_code": "610623",
-    "name": "Kantuk Bunut"
+    "name": "Kantuk Bunut",
+    "postal_code": "78769"
   },
   {
     "code": "6106232005",
     "district_code": "610623",
-    "name": "Sungai Mawang"
+    "name": "Sungai Mawang",
+    "postal_code": "78769"
   },
   {
     "code": "6106232006",
     "district_code": "610623",
-    "name": "Langau"
+    "name": "Langau",
+    "postal_code": "78769"
   }
 ]

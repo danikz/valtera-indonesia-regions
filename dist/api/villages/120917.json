@@ -2,46 +2,55 @@
   {
     "code": "1209172001",
     "district_code": "120917",
-    "name": "Bandar Pasir Mandoge"
+    "name": "Bandar Pasir Mandoge",
+    "postal_code": "21262"
   },
   {
     "code": "1209172002",
     "district_code": "120917",
-    "name": "Huta Bagasan"
+    "name": "Huta Bagasan",
+    "postal_code": "21262"
   },
   {
     "code": "1209172003",
     "district_code": "120917",
-    "name": "Sei Nadoras"
+    "name": "Sei Nadoras",
+    "postal_code": "21262"
   },
   {
     "code": "1209172004",
     "district_code": "120917",
-    "name": "Silau Jawa"
+    "name": "Silau Jawa",
+    "postal_code": "21262"
   },
   {
     "code": "1209172005",
     "district_code": "120917",
-    "name": "Suka Makmur"
+    "name": "Suka Makmur",
+    "postal_code": "21262"
   },
   {
     "code": "1209172006",
     "district_code": "120917",
-    "name": "Sei Kopas"
+    "name": "Sei Kopas",
+    "postal_code": "21262"
   },
   {
     "code": "1209172007",
     "district_code": "120917",
-    "name": "Huta Padang"
+    "name": "Huta Padang",
+    "postal_code": "21262"
   },
   {
     "code": "1209172008",
     "district_code": "120917",
-    "name": "Tomuan Holbung"
+    "name": "Tomuan Holbung",
+    "postal_code": "21262"
   },
   {
     "code": "1209172009",
     "district_code": "120917",
-    "name": "Gotting Sidodadi"
+    "name": "Gotting Sidodadi",
+    "postal_code": "21262"
   }
 ]

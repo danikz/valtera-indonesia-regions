@@ -2,46 +2,55 @@
   {
     "code": "1904062001",
     "district_code": "190406",
-    "name": "Perlang"
+    "name": "Perlang",
+    "postal_code": "33682"
   },
   {
     "code": "1904062002",
     "district_code": "190406",
-    "name": "Batu Beriga"
+    "name": "Batu Beriga",
+    "postal_code": "33682"
   },
   {
     "code": "1904062003",
     "district_code": "190406",
-    "name": "Lubuk Besar"
+    "name": "Lubuk Besar",
+    "postal_code": "33682"
   },
   {
     "code": "1904062004",
     "district_code": "190406",
-    "name": "Kulur"
+    "name": "Kulur",
+    "postal_code": "33682"
   },
   {
     "code": "1904062005",
     "district_code": "190406",
-    "name": "Lubuk Lingkuk"
+    "name": "Lubuk Lingkuk",
+    "postal_code": "33682"
   },
   {
     "code": "1904062006",
     "district_code": "190406",
-    "name": "Lubuk Pabrik"
+    "name": "Lubuk Pabrik",
+    "postal_code": "33682"
   },
   {
     "code": "1904062007",
     "district_code": "190406",
-    "name": "Trubus"
+    "name": "Trubus",
+    "postal_code": "33682"
   },
   {
     "code": "1904062008",
     "district_code": "190406",
-    "name": "Kulur Ilir"
+    "name": "Kulur Ilir",
+    "postal_code": "33682"
   },
   {
     "code": "1904062009",
     "district_code": "190406",
-    "name": "Belimbing"
+    "name": "Belimbing",
+    "postal_code": "33682"
   }
 ]

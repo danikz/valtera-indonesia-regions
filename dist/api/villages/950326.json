@@ -2,26 +2,31 @@
   {
     "code": "9503262001",
     "district_code": "950326",
-    "name": "Subundalek"
+    "name": "Subundalek",
+    "postal_code": "99745"
   },
   {
     "code": "9503262002",
     "district_code": "950326",
-    "name": "Tanggeam"
+    "name": "Tanggeam",
+    "postal_code": "99745"
   },
   {
     "code": "9503262003",
     "district_code": "950326",
-    "name": "Amfulma"
+    "name": "Amfulma",
+    "postal_code": "99745"
   },
   {
     "code": "9503262004",
     "district_code": "950326",
-    "name": "Suksale"
+    "name": "Suksale",
+    "postal_code": "99745"
   },
   {
     "code": "9503262005",
     "district_code": "950326",
-    "name": "Linggisen"
+    "name": "Linggisen",
+    "postal_code": "99745"
   }
 ]

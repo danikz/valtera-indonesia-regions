@@ -2,46 +2,55 @@
   {
     "code": "3201052001",
     "district_code": "320105",
-    "name": "Cijayanti"
+    "name": "Cijayanti",
+    "postal_code": "16810"
   },
   {
     "code": "3201052002",
     "district_code": "320105",
-    "name": "Sumurbatu"
+    "name": "Sumurbatu",
+    "postal_code": "16810"
   },
   {
     "code": "3201052003",
     "district_code": "320105",
-    "name": "Sentul"
+    "name": "Sentul",
+    "postal_code": "16810"
   },
   {
     "code": "3201052004",
     "district_code": "320105",
-    "name": "Karangtengah"
+    "name": "Karangtengah",
+    "postal_code": "16810"
   },
   {
     "code": "3201052005",
     "district_code": "320105",
-    "name": "Cipambuan"
+    "name": "Cipambuan",
+    "postal_code": "16810"
   },
   {
     "code": "3201052006",
     "district_code": "320105",
-    "name": "Kadumanggu"
+    "name": "Kadumanggu",
+    "postal_code": "16810"
   },
   {
     "code": "3201052007",
     "district_code": "320105",
-    "name": "Citaringgul"
+    "name": "Citaringgul",
+    "postal_code": "16810"
   },
   {
     "code": "3201052008",
     "district_code": "320105",
-    "name": "Babakan Madang"
+    "name": "Babakan Madang",
+    "postal_code": "16810"
   },
   {
     "code": "3201052009",
     "district_code": "320105",
-    "name": "Bojong Koneng"
+    "name": "Bojong Koneng",
+    "postal_code": "16810"
   }
 ]

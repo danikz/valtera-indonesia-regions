@@ -2,51 +2,61 @@
   {
     "code": "9204222001",
     "district_code": "920422",
-    "name": "Manggroholo"
+    "name": "Manggroholo",
+    "postal_code": ""
   },
   {
     "code": "9204222002",
     "district_code": "920422",
-    "name": "Komanggaret"
+    "name": "Komanggaret",
+    "postal_code": ""
   },
   {
     "code": "9204222003",
     "district_code": "920422",
-    "name": "Sayal"
+    "name": "Sayal",
+    "postal_code": ""
   },
   {
     "code": "9204222004",
     "district_code": "920422",
-    "name": "Kayabo"
+    "name": "Kayabo",
+    "postal_code": ""
   },
   {
     "code": "9204222005",
     "district_code": "920422",
-    "name": "Sisir"
+    "name": "Sisir",
+    "postal_code": ""
   },
   {
     "code": "9204222006",
     "district_code": "920422",
-    "name": "Mlaswat"
+    "name": "Mlaswat",
+    "postal_code": ""
   },
   {
     "code": "9204222007",
     "district_code": "920422",
-    "name": "Kwowok"
+    "name": "Kwowok",
+    "postal_code": ""
   },
   {
     "code": "9204222008",
     "district_code": "920422",
-    "name": "Sira"
+    "name": "Sira",
+    "postal_code": ""
   },
   {
     "code": "9204222009",
     "district_code": "920422",
-    "name": "Kenaya"
+    "name": "Kenaya",
+    "postal_code": ""
   },
   {
     "code": "9204222010",
     "district_code": "920422",
-    "name": "Botain"
+    "name": "Botain",
+    "postal_code": ""
   }
 ]

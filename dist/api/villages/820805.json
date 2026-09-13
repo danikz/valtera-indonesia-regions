@@ -2,21 +2,25 @@
   {
     "code": "8208052001",
     "district_code": "820805",
-    "name": "Penu"
+    "name": "Penu",
+    "postal_code": "97794"
   },
   {
     "code": "8208052002",
     "district_code": "820805",
-    "name": "Parigi"
+    "name": "Parigi",
+    "postal_code": "97794"
   },
   {
     "code": "8208052003",
     "district_code": "820805",
-    "name": "Samuya"
+    "name": "Samuya",
+    "postal_code": "97794"
   },
   {
     "code": "8208052004",
     "district_code": "820805",
-    "name": "Tubang"
+    "name": "Tubang",
+    "postal_code": "97794"
   }
 ]

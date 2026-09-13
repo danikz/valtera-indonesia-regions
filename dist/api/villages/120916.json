@@ -2,46 +2,55 @@
   {
     "code": "1209162001",
     "district_code": "120916",
-    "name": "Ambalutu"
+    "name": "Ambalutu",
+    "postal_code": "21261"
   },
   {
     "code": "1209162002",
     "district_code": "120916",
-    "name": "Buntu Pane"
+    "name": "Buntu Pane",
+    "postal_code": "21261"
   },
   {
     "code": "1209162003",
     "district_code": "120916",
-    "name": "Lestari"
+    "name": "Lestari",
+    "postal_code": "21261"
   },
   {
     "code": "1209162005",
     "district_code": "120916",
-    "name": "Prapat Janji"
+    "name": "Prapat Janji",
+    "postal_code": "21261"
   },
   {
     "code": "1209162007",
     "district_code": "120916",
-    "name": "Sei Silau Timur"
+    "name": "Sei Silau Timur",
+    "postal_code": "21261"
   },
   {
     "code": "1209162016",
     "district_code": "120916",
-    "name": "Sionggang"
+    "name": "Sionggang",
+    "postal_code": "21261"
   },
   {
     "code": "1209162017",
     "district_code": "120916",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "21261"
   },
   {
     "code": "1209162018",
     "district_code": "120916",
-    "name": "Perkebunan Sei Silau"
+    "name": "Perkebunan Sei Silau",
+    "postal_code": "21261"
   },
   {
     "code": "1209162019",
     "district_code": "120916",
-    "name": "Karya Ambalutu"
+    "name": "Karya Ambalutu",
+    "postal_code": "21261"
   }
 ]

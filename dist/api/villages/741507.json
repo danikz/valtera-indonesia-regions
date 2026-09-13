@@ -2,51 +2,61 @@
   {
     "code": "7415072001",
     "district_code": "741507",
-    "name": "Waonu"
+    "name": "Waonu",
+    "postal_code": "93742"
   },
   {
     "code": "7415072002",
     "district_code": "741507",
-    "name": "Kaofe"
+    "name": "Kaofe",
+    "postal_code": "93742"
   },
   {
     "code": "7415072003",
     "district_code": "741507",
-    "name": "Uwemaasi"
+    "name": "Uwemaasi",
+    "postal_code": "93742"
   },
   {
     "code": "7415072004",
     "district_code": "741507",
-    "name": "Lipu"
+    "name": "Lipu",
+    "postal_code": "93742"
   },
   {
     "code": "7415072005",
     "district_code": "741507",
-    "name": "Kapoa"
+    "name": "Kapoa",
+    "postal_code": "93742"
   },
   {
     "code": "7415072006",
     "district_code": "741507",
-    "name": "Banabungi"
+    "name": "Banabungi",
+    "postal_code": "93742"
   },
   {
     "code": "7415072007",
     "district_code": "741507",
-    "name": "Mawambunga"
+    "name": "Mawambunga",
+    "postal_code": "93742"
   },
   {
     "code": "7415072008",
     "district_code": "741507",
-    "name": "Banabungi Selatan"
+    "name": "Banabungi Selatan",
+    "postal_code": "93742"
   },
   {
     "code": "7415072009",
     "district_code": "741507",
-    "name": "Marawali"
+    "name": "Marawali",
+    "postal_code": "93742"
   },
   {
     "code": "7415072010",
     "district_code": "741507",
-    "name": "Kapoa Barat"
+    "name": "Kapoa Barat",
+    "postal_code": "93742"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "9302092001",
     "district_code": "930209",
-    "name": "Maju"
+    "name": "Maju",
+    "postal_code": "99671"
   },
   {
     "code": "9302092002",
     "district_code": "930209",
-    "name": "Bukit"
+    "name": "Bukit",
+    "postal_code": "99671"
   },
   {
     "code": "9302092003",
     "district_code": "930209",
-    "name": "Ujung"
+    "name": "Ujung",
+    "postal_code": "99671"
   },
   {
     "code": "9302092004",
     "district_code": "930209",
-    "name": "Ginggimop"
+    "name": "Ginggimop",
+    "postal_code": "99671"
   },
   {
     "code": "9302092005",
     "district_code": "930209",
-    "name": "Patriot"
+    "name": "Patriot",
+    "postal_code": "99671"
   },
   {
     "code": "9302092006",
     "district_code": "930209",
-    "name": "Arimbet"
+    "name": "Arimbet",
+    "postal_code": "99671"
   },
   {
     "code": "9302092007",
     "district_code": "930209",
-    "name": "Aroa"
+    "name": "Aroa",
+    "postal_code": "99671"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "1202072001",
     "district_code": "120207",
-    "name": "Silosung"
+    "name": "Silosung",
+    "postal_code": "22466"
   },
   {
     "code": "1202072002",
     "district_code": "120207",
-    "name": "Dolok Sanggul"
+    "name": "Dolok Sanggul",
+    "postal_code": "22466"
   },
   {
     "code": "1202072003",
     "district_code": "120207",
-    "name": "Simangumban Jae"
+    "name": "Simangumban Jae",
+    "postal_code": "22466"
   },
   {
     "code": "1202072004",
     "district_code": "120207",
-    "name": "Aek Nabara"
+    "name": "Aek Nabara",
+    "postal_code": "22466"
   },
   {
     "code": "1202072005",
     "district_code": "120207",
-    "name": "Dolok Saut"
+    "name": "Dolok Saut",
+    "postal_code": "22466"
   },
   {
     "code": "1202072006",
     "district_code": "120207",
-    "name": "Simangumban Julu"
+    "name": "Simangumban Julu",
+    "postal_code": "22466"
   },
   {
     "code": "1202072007",
     "district_code": "120207",
-    "name": "Lobu Sihim"
+    "name": "Lobu Sihim",
+    "postal_code": "22466"
   },
   {
     "code": "1202072008",
     "district_code": "120207",
-    "name": "Pardomuan"
+    "name": "Pardomuan",
+    "postal_code": "22466"
   }
 ]

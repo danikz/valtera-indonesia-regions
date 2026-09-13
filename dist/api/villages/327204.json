@@ -2,26 +2,31 @@
   {
     "code": "3272041001",
     "district_code": "327204",
-    "name": "Warudoyong"
+    "name": "Warudoyong",
+    "postal_code": "43133"
   },
   {
     "code": "3272041002",
     "district_code": "327204",
-    "name": "Nyomplong"
+    "name": "Nyomplong",
+    "postal_code": "43131"
   },
   {
     "code": "3272041003",
     "district_code": "327204",
-    "name": "Dayeuhluhur"
+    "name": "Dayeuhluhur",
+    "postal_code": "43134"
   },
   {
     "code": "3272041004",
     "district_code": "327204",
-    "name": "Sukakarya"
+    "name": "Sukakarya",
+    "postal_code": "43135"
   },
   {
     "code": "3272041005",
     "district_code": "327204",
-    "name": "Benteng"
+    "name": "Benteng",
+    "postal_code": "43132"
   }
 ]

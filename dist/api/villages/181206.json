@@ -2,51 +2,61 @@
   {
     "code": "1812062001",
     "district_code": "181206",
-    "name": "Agung Jaya"
+    "name": "Agung Jaya",
+    "postal_code": "34788"
   },
   {
     "code": "1812062002",
     "district_code": "181206",
-    "name": "Mercu Buana"
+    "name": "Mercu Buana",
+    "postal_code": "34788"
   },
   {
     "code": "1812062003",
     "district_code": "181206",
-    "name": "Balam Jaya"
+    "name": "Balam Jaya",
+    "postal_code": "34788"
   },
   {
     "code": "1812062004",
     "district_code": "181206",
-    "name": "Pagar Buana"
+    "name": "Pagar Buana",
+    "postal_code": "34788"
   },
   {
     "code": "1812062005",
     "district_code": "181206",
-    "name": "Indraloka I"
+    "name": "Indraloka I",
+    "postal_code": "34788"
   },
   {
     "code": "1812062006",
     "district_code": "181206",
-    "name": "Indraloka II"
+    "name": "Indraloka II",
+    "postal_code": "34788"
   },
   {
     "code": "1812062007",
     "district_code": "181206",
-    "name": "Balam Asri"
+    "name": "Balam Asri",
+    "postal_code": "34788"
   },
   {
     "code": "1812062008",
     "district_code": "181206",
-    "name": "Indraloka Jaya"
+    "name": "Indraloka Jaya",
+    "postal_code": "34788"
   },
   {
     "code": "1812062009",
     "district_code": "181206",
-    "name": "Indraloka Mukti"
+    "name": "Indraloka Mukti",
+    "postal_code": "34788"
   },
   {
     "code": "1812062010",
     "district_code": "181206",
-    "name": "Sido Agung"
+    "name": "Sido Agung",
+    "postal_code": "34788"
   }
 ]

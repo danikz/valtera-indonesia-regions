@@ -2,31 +2,37 @@
   {
     "code": "5311062001",
     "district_code": "531106",
-    "name": "Ramuk"
+    "name": "Ramuk",
+    "postal_code": "87161"
   },
   {
     "code": "5311062002",
     "district_code": "531106",
-    "name": "Wangga Mbewa"
+    "name": "Wangga Mbewa",
+    "postal_code": "87161"
   },
   {
     "code": "5311062003",
     "district_code": "531106",
-    "name": "Lailunggi"
+    "name": "Lailunggi",
+    "postal_code": "87161"
   },
   {
     "code": "5311062004",
     "district_code": "531106",
-    "name": "Tawui"
+    "name": "Tawui",
+    "postal_code": "87161"
   },
   {
     "code": "5311062005",
     "district_code": "531106",
-    "name": "Wahang"
+    "name": "Wahang",
+    "postal_code": "87161"
   },
   {
     "code": "5311062006",
     "district_code": "531106",
-    "name": "Mahaniwa"
+    "name": "Mahaniwa",
+    "postal_code": "87161"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "9210192001",
     "district_code": "921019",
-    "name": "Mapura"
+    "name": "Mapura",
+    "postal_code": ""
   },
   {
     "code": "9210192002",
     "district_code": "921019",
-    "name": "Suwiam"
+    "name": "Suwiam",
+    "postal_code": ""
   },
   {
     "code": "9210192003",
     "district_code": "921019",
-    "name": "Tomase"
+    "name": "Tomase",
+    "postal_code": ""
   },
   {
     "code": "9210192004",
     "district_code": "921019",
-    "name": "Frabo"
+    "name": "Frabo",
+    "postal_code": ""
   },
   {
     "code": "9210192005",
     "district_code": "921019",
-    "name": "Karfa"
+    "name": "Karfa",
+    "postal_code": ""
   },
   {
     "code": "9210192006",
     "district_code": "921019",
-    "name": "Kona"
+    "name": "Kona",
+    "postal_code": ""
   },
   {
     "code": "9210192007",
     "district_code": "921019",
-    "name": "Kosah"
+    "name": "Kosah",
+    "postal_code": ""
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "1671121001",
     "district_code": "167112",
-    "name": "Gandus"
+    "name": "Gandus",
+    "postal_code": "30149"
   },
   {
     "code": "1671121002",
     "district_code": "167112",
-    "name": "Karang Anyar"
+    "name": "Karang Anyar",
+    "postal_code": "30148"
   },
   {
     "code": "1671121003",
     "district_code": "167112",
-    "name": "36 Ilir"
+    "name": "36 Ilir",
+    "postal_code": "30147"
   },
   {
     "code": "1671121004",
     "district_code": "167112",
-    "name": "Karang Jaya"
+    "name": "Karang Jaya",
+    "postal_code": "30149"
   },
   {
     "code": "1671121005",
     "district_code": "167112",
-    "name": "Pulo Kerto"
+    "name": "Pulo Kerto",
+    "postal_code": "30149"
   }
 ]

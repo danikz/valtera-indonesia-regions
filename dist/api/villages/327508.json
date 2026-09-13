@@ -2,26 +2,31 @@
   {
     "code": "3275081001",
     "district_code": "327508",
-    "name": "Jatiwaringin"
+    "name": "Jatiwaringin",
+    "postal_code": "17411"
   },
   {
     "code": "3275081002",
     "district_code": "327508",
-    "name": "Jatibening"
+    "name": "Jatibening",
+    "postal_code": "17412"
   },
   {
     "code": "3275081003",
     "district_code": "327508",
-    "name": "Jatimakmur"
+    "name": "Jatimakmur",
+    "postal_code": "17413"
   },
   {
     "code": "3275081006",
     "district_code": "327508",
-    "name": "Jatibening Baru"
+    "name": "Jatibening Baru",
+    "postal_code": "17412"
   },
   {
     "code": "3275081007",
     "district_code": "327508",
-    "name": "Jaticempaka"
+    "name": "Jaticempaka",
+    "postal_code": "17411"
   }
 ]

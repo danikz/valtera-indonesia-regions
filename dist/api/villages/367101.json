@@ -2,41 +2,49 @@
   {
     "code": "3671011001",
     "district_code": "367101",
-    "name": "Sukarasa"
+    "name": "Sukarasa",
+    "postal_code": "15111"
   },
   {
     "code": "3671011002",
     "district_code": "367101",
-    "name": "Sukaasih"
+    "name": "Sukaasih",
+    "postal_code": "15111"
   },
   {
     "code": "3671011003",
     "district_code": "367101",
-    "name": "Tanah Tinggi"
+    "name": "Tanah Tinggi",
+    "postal_code": "15119"
   },
   {
     "code": "3671011004",
     "district_code": "367101",
-    "name": "Buaran Indah"
+    "name": "Buaran Indah",
+    "postal_code": "15119"
   },
   {
     "code": "3671011005",
     "district_code": "367101",
-    "name": "Cikokol"
+    "name": "Cikokol",
+    "postal_code": "15117"
   },
   {
     "code": "3671011006",
     "district_code": "367101",
-    "name": "Kelapa Indah"
+    "name": "Kelapa Indah",
+    "postal_code": "15117"
   },
   {
     "code": "3671011007",
     "district_code": "367101",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "15118"
   },
   {
     "code": "3671011008",
     "district_code": "367101",
-    "name": "Babakan"
+    "name": "Babakan",
+    "postal_code": "15118"
   }
 ]

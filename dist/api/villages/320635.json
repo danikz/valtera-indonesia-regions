@@ -2,41 +2,49 @@
   {
     "code": "3206352001",
     "district_code": "320635",
-    "name": "Condong"
+    "name": "Condong",
+    "postal_code": "46175"
   },
   {
     "code": "3206352002",
     "district_code": "320635",
-    "name": "Bojonggaok"
+    "name": "Bojonggaok",
+    "postal_code": "46175"
   },
   {
     "code": "3206352003",
     "district_code": "320635",
-    "name": "Sindangraja"
+    "name": "Sindangraja",
+    "postal_code": "46175"
   },
   {
     "code": "3206352004",
     "district_code": "320635",
-    "name": "Karangmulya"
+    "name": "Karangmulya",
+    "postal_code": "46175"
   },
   {
     "code": "3206352005",
     "district_code": "320635",
-    "name": "Geresik"
+    "name": "Geresik",
+    "postal_code": "46175"
   },
   {
     "code": "3206352006",
     "district_code": "320635",
-    "name": "Karangsembung"
+    "name": "Karangsembung",
+    "postal_code": "46175"
   },
   {
     "code": "3206352007",
     "district_code": "320635",
-    "name": "Tanjungmekar"
+    "name": "Tanjungmekar",
+    "postal_code": "46175"
   },
   {
     "code": "3206352008",
     "district_code": "320635",
-    "name": "Karangresik"
+    "name": "Karangresik",
+    "postal_code": "46175"
   }
 ]

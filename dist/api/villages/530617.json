@@ -2,41 +2,49 @@
   {
     "code": "5306172001",
     "district_code": "530617",
-    "name": "Sagu"
+    "name": "Sagu",
+    "postal_code": "86262"
   },
   {
     "code": "5306172002",
     "district_code": "530617",
-    "name": "Kolimasang"
+    "name": "Kolimasang",
+    "postal_code": "86262"
   },
   {
     "code": "5306172003",
     "district_code": "530617",
-    "name": "Kolilanang"
+    "name": "Kolilanang",
+    "postal_code": "86262"
   },
   {
     "code": "5306172004",
     "district_code": "530617",
-    "name": "Tikatukan"
+    "name": "Tikatukan",
+    "postal_code": "86262"
   },
   {
     "code": "5306172005",
     "district_code": "530617",
-    "name": "Nisa Nulan"
+    "name": "Nisa Nulan",
+    "postal_code": "86262"
   },
   {
     "code": "5306172006",
     "district_code": "530617",
-    "name": "Lamahoda"
+    "name": "Lamahoda",
+    "postal_code": "86262"
   },
   {
     "code": "5306172007",
     "district_code": "530617",
-    "name": "Adonara"
+    "name": "Adonara",
+    "postal_code": "86262"
   },
   {
     "code": "5306172008",
     "district_code": "530617",
-    "name": "Kolipetung"
+    "name": "Kolipetung",
+    "postal_code": "86262"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "3313072001",
     "district_code": "331307",
-    "name": "Puntukrejo"
+    "name": "Puntukrejo",
+    "postal_code": "57793"
   },
   {
     "code": "3313072002",
     "district_code": "331307",
-    "name": "Berjo"
+    "name": "Berjo",
+    "postal_code": "57793"
   },
   {
     "code": "3313072003",
     "district_code": "331307",
-    "name": "Girimulyo"
+    "name": "Girimulyo",
+    "postal_code": "57793"
   },
   {
     "code": "3313072004",
     "district_code": "331307",
-    "name": "Segorogunung"
+    "name": "Segorogunung",
+    "postal_code": "57793"
   },
   {
     "code": "3313072005",
     "district_code": "331307",
-    "name": "Kemuning"
+    "name": "Kemuning",
+    "postal_code": "57793"
   },
   {
     "code": "3313072006",
     "district_code": "331307",
-    "name": "Nglegok"
+    "name": "Nglegok",
+    "postal_code": "57793"
   },
   {
     "code": "3313072007",
     "district_code": "331307",
-    "name": "Dukuh"
+    "name": "Dukuh",
+    "postal_code": "57731"
   },
   {
     "code": "3313072008",
     "district_code": "331307",
-    "name": "Jatirejo"
+    "name": "Jatirejo",
+    "postal_code": "57793"
   },
   {
     "code": "3313072009",
     "district_code": "331307",
-    "name": "Ngargoyoso"
+    "name": "Ngargoyoso",
+    "postal_code": "57793"
   }
 ]

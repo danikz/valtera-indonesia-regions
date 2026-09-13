@@ -2,21 +2,25 @@
   {
     "code": "3274011001",
     "district_code": "327401",
-    "name": "Kejaksan"
+    "name": "Kejaksan",
+    "postal_code": "45123"
   },
   {
     "code": "3274011002",
     "district_code": "327401",
-    "name": "Sukapura"
+    "name": "Sukapura",
+    "postal_code": "45122"
   },
   {
     "code": "3274011003",
     "district_code": "327401",
-    "name": "Kesenden"
+    "name": "Kesenden",
+    "postal_code": "45121"
   },
   {
     "code": "3274011004",
     "district_code": "327401",
-    "name": "Kebonbaru"
+    "name": "Kebonbaru",
+    "postal_code": "45121"
   }
 ]

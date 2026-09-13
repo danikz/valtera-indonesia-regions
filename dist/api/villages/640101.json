@@ -2,46 +2,55 @@
   {
     "code": "6401012009",
     "district_code": "640101",
-    "name": "Samuranggau"
+    "name": "Samuranggau",
+    "postal_code": "76252"
   },
   {
     "code": "6401012010",
     "district_code": "640101",
-    "name": "Busui"
+    "name": "Busui",
+    "postal_code": "76252"
   },
   {
     "code": "6401012011",
     "district_code": "640101",
-    "name": "Batu Kajang"
+    "name": "Batu Kajang",
+    "postal_code": "76252"
   },
   {
     "code": "6401012012",
     "district_code": "640101",
-    "name": "Legai"
+    "name": "Legai",
+    "postal_code": "76252"
   },
   {
     "code": "6401012013",
     "district_code": "640101",
-    "name": "Sungai Terik"
+    "name": "Sungai Terik",
+    "postal_code": "76252"
   },
   {
     "code": "6401012014",
     "district_code": "640101",
-    "name": "Kasungai"
+    "name": "Kasungai",
+    "postal_code": "76252"
   },
   {
     "code": "6401012015",
     "district_code": "640101",
-    "name": "Rantau Buta"
+    "name": "Rantau Buta",
+    "postal_code": "76252"
   },
   {
     "code": "6401012016",
     "district_code": "640101",
-    "name": "Rantau Layung"
+    "name": "Rantau Layung",
+    "postal_code": "76252"
   },
   {
     "code": "6401012017",
     "district_code": "640101",
-    "name": "Songka"
+    "name": "Songka",
+    "postal_code": "76252"
   }
 ]

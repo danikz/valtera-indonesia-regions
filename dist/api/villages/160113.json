@@ -2,61 +2,73 @@
   {
     "code": "1601131003",
     "district_code": "160113",
-    "name": "Tanjungagung"
+    "name": "Tanjungagung",
+    "postal_code": "32123"
   },
   {
     "code": "1601131004",
     "district_code": "160113",
-    "name": "Saung Naga"
+    "name": "Saung Naga",
+    "postal_code": "32124"
   },
   {
     "code": "1601131005",
     "district_code": "160113",
-    "name": "Talang Jawa"
+    "name": "Talang Jawa",
+    "postal_code": "32122"
   },
   {
     "code": "1601131007",
     "district_code": "160113",
-    "name": "Batu Kuning"
+    "name": "Batu Kuning",
+    "postal_code": "32121"
   },
   {
     "code": "1601131011",
     "district_code": "160113",
-    "name": "Air Gading"
+    "name": "Air Gading",
+    "postal_code": "32121"
   },
   {
     "code": "1601132001",
     "district_code": "160113",
-    "name": "Batu Putih"
+    "name": "Batu Putih",
+    "postal_code": "32121"
   },
   {
     "code": "1601132002",
     "district_code": "160113",
-    "name": "Laya"
+    "name": "Laya",
+    "postal_code": "32125"
   },
   {
     "code": "1601132006",
     "district_code": "160113",
-    "name": "Pusar"
+    "name": "Pusar",
+    "postal_code": "32126"
   },
   {
     "code": "1601132008",
     "district_code": "160113",
-    "name": "Karang Agung"
+    "name": "Karang Agung",
+    "postal_code": "32121"
   },
   {
     "code": "1601132009",
     "district_code": "160113",
-    "name": "Karang Endah"
+    "name": "Karang Endah",
+    "postal_code": "32121"
   },
   {
     "code": "1601132010",
     "district_code": "160113",
-    "name": "Tanjung Karang"
+    "name": "Tanjung Karang",
+    "postal_code": "32121"
   },
   {
     "code": "1601132012",
     "district_code": "160113",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "32124"
   }
 ]

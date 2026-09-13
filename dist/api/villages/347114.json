@@ -2,16 +2,19 @@
   {
     "code": "3471141001",
     "district_code": "347114",
-    "name": "Rejowinangun"
+    "name": "Rejowinangun",
+    "postal_code": "55171"
   },
   {
     "code": "3471141002",
     "district_code": "347114",
-    "name": "Prenggan"
+    "name": "Prenggan",
+    "postal_code": "55172"
   },
   {
     "code": "3471141003",
     "district_code": "347114",
-    "name": "Purbayan"
+    "name": "Purbayan",
+    "postal_code": "55173"
   }
 ]

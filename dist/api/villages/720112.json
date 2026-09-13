@@ -2,86 +2,103 @@
   {
     "code": "7201122001",
     "district_code": "720112",
-    "name": "Dongin"
+    "name": "Dongin",
+    "postal_code": "94766"
   },
   {
     "code": "7201122002",
     "district_code": "720112",
-    "name": "Pandan Wangi"
+    "name": "Pandan Wangi",
+    "postal_code": "94766"
   },
   {
     "code": "7201122003",
     "district_code": "720112",
-    "name": "Kami Wangi"
+    "name": "Kami Wangi",
+    "postal_code": "94766"
   },
   {
     "code": "7201122004",
     "district_code": "720112",
-    "name": "Sindang Sari"
+    "name": "Sindang Sari",
+    "postal_code": "94766"
   },
   {
     "code": "7201122005",
     "district_code": "720112",
-    "name": "Makapa"
+    "name": "Makapa",
+    "postal_code": "94766"
   },
   {
     "code": "7201122006",
     "district_code": "720112",
-    "name": "Karya Makmur"
+    "name": "Karya Makmur",
+    "postal_code": "94766"
   },
   {
     "code": "7201122007",
     "district_code": "720112",
-    "name": "Mantawa"
+    "name": "Mantawa",
+    "postal_code": "94766"
   },
   {
     "code": "7201122008",
     "district_code": "720112",
-    "name": "Pasir Lamba"
+    "name": "Pasir Lamba",
+    "postal_code": "94766"
   },
   {
     "code": "7201122009",
     "district_code": "720112",
-    "name": "Mantawa Bonebae"
+    "name": "Mantawa Bonebae",
+    "postal_code": "94766"
   },
   {
     "code": "7201122010",
     "district_code": "720112",
-    "name": "Gunung Kramat"
+    "name": "Gunung Kramat",
+    "postal_code": "94766"
   },
   {
     "code": "7201122011",
     "district_code": "720112",
-    "name": "Lembah Kramat"
+    "name": "Lembah Kramat",
+    "postal_code": "94766"
   },
   {
     "code": "7201122012",
     "district_code": "720112",
-    "name": "Rata"
+    "name": "Rata",
+    "postal_code": "94766"
   },
   {
     "code": "7201122013",
     "district_code": "720112",
-    "name": "Bukit Makarti"
+    "name": "Bukit Makarti",
+    "postal_code": "94766"
   },
   {
     "code": "7201122014",
     "district_code": "720112",
-    "name": "Uwe Lolu"
+    "name": "Uwe Lolu",
+    "postal_code": "94766"
   },
   {
     "code": "7201122015",
     "district_code": "720112",
-    "name": "Bumi Harapan"
+    "name": "Bumi Harapan",
+    "postal_code": "94766"
   },
   {
     "code": "7201122016",
     "district_code": "720112",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "94766"
   },
   {
     "code": "7201122017",
     "district_code": "720112",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "94766"
   }
 ]

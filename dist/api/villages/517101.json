@@ -2,51 +2,61 @@
   {
     "code": "5171011001",
     "district_code": "517101",
-    "name": "Serangan"
+    "name": "Serangan",
+    "postal_code": "80229"
   },
   {
     "code": "5171011002",
     "district_code": "517101",
-    "name": "Pedungan"
+    "name": "Pedungan",
+    "postal_code": "80222"
   },
   {
     "code": "5171011003",
     "district_code": "517101",
-    "name": "Sesetan"
+    "name": "Sesetan",
+    "postal_code": "80223"
   },
   {
     "code": "5171011004",
     "district_code": "517101",
-    "name": "Panjer"
+    "name": "Panjer",
+    "postal_code": "80225"
   },
   {
     "code": "5171011005",
     "district_code": "517101",
-    "name": "Renon"
+    "name": "Renon",
+    "postal_code": "80226"
   },
   {
     "code": "5171011006",
     "district_code": "517101",
-    "name": "Sanur"
+    "name": "Sanur",
+    "postal_code": "80228"
   },
   {
     "code": "5171012007",
     "district_code": "517101",
-    "name": "Sidakarya"
+    "name": "Sidakarya",
+    "postal_code": "80224"
   },
   {
     "code": "5171012008",
     "district_code": "517101",
-    "name": "Pemogan"
+    "name": "Pemogan",
+    "postal_code": "80221"
   },
   {
     "code": "5171012009",
     "district_code": "517101",
-    "name": "Sanur Kaja"
+    "name": "Sanur Kaja",
+    "postal_code": "80227"
   },
   {
     "code": "5171012010",
     "district_code": "517101",
-    "name": "Sanur Kauh"
+    "name": "Sanur Kauh",
+    "postal_code": "80227"
   }
 ]

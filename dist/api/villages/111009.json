@@ -2,46 +2,55 @@
   {
     "code": "1110092001",
     "district_code": "111009",
-    "name": "Lentong"
+    "name": "Lentong",
+    "postal_code": "24792"
   },
   {
     "code": "1110092002",
     "district_code": "111009",
-    "name": "Lapahan Buaya"
+    "name": "Lapahan Buaya",
+    "postal_code": "24792"
   },
   {
     "code": "1110092003",
     "district_code": "111009",
-    "name": "Butar"
+    "name": "Butar",
+    "postal_code": "24792"
   },
   {
     "code": "1110092004",
     "district_code": "111009",
-    "name": "Samar Dua"
+    "name": "Samar Dua",
+    "postal_code": "24792"
   },
   {
     "code": "1110092005",
     "district_code": "111009",
-    "name": "Ladang Bisik"
+    "name": "Ladang Bisik",
+    "postal_code": "24792"
   },
   {
     "code": "1110092006",
     "district_code": "111009",
-    "name": "Muara Pea"
+    "name": "Muara Pea",
+    "postal_code": "24792"
   },
   {
     "code": "1110092008",
     "district_code": "111009",
-    "name": "Sumber Mukti"
+    "name": "Sumber Mukti",
+    "postal_code": "24792"
   },
   {
     "code": "1110092009",
     "district_code": "111009",
-    "name": "Pea Jambu"
+    "name": "Pea Jambu",
+    "postal_code": "24792"
   },
   {
     "code": "1110092010",
     "district_code": "111009",
-    "name": "Danau Bungara"
+    "name": "Danau Bungara",
+    "postal_code": "24792"
   }
 ]

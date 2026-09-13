@@ -2,51 +2,61 @@
   {
     "code": "7314011001",
     "district_code": "731401",
-    "name": "Bilokka"
+    "name": "Bilokka",
+    "postal_code": "91672"
   },
   {
     "code": "7314011002",
     "district_code": "731401",
-    "name": "Wette'E"
+    "name": "Wette'E",
+    "postal_code": "91672"
   },
   {
     "code": "7314011003",
     "district_code": "731401",
-    "name": "Lajonga"
+    "name": "Lajonga",
+    "postal_code": "91672"
   },
   {
     "code": "7314012004",
     "district_code": "731401",
-    "name": "Wanio"
+    "name": "Wanio",
+    "postal_code": "91672"
   },
   {
     "code": "7314012005",
     "district_code": "731401",
-    "name": "Wanio Timoreng"
+    "name": "Wanio Timoreng",
+    "postal_code": "91672"
   },
   {
     "code": "7314012006",
     "district_code": "731401",
-    "name": "Corawali"
+    "name": "Corawali",
+    "postal_code": "91672"
   },
   {
     "code": "7314012007",
     "district_code": "731401",
-    "name": "Lise"
+    "name": "Lise",
+    "postal_code": "91672"
   },
   {
     "code": "7314012008",
     "district_code": "731401",
-    "name": "Bapangi"
+    "name": "Bapangi",
+    "postal_code": "91672"
   },
   {
     "code": "7314012009",
     "district_code": "731401",
-    "name": "Alesalewo"
+    "name": "Alesalewo",
+    "postal_code": "91672"
   },
   {
     "code": "7314012010",
     "district_code": "731401",
-    "name": "Cenrana"
+    "name": "Cenrana",
+    "postal_code": "91672"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "2101081006",
     "district_code": "210108",
-    "name": "Tembeling Tanjung"
+    "name": "Tembeling Tanjung",
+    "postal_code": "29132"
   },
   {
     "code": "2101082001",
     "district_code": "210108",
-    "name": "Bintan Buyu"
+    "name": "Bintan Buyu",
+    "postal_code": "29133"
   },
   {
     "code": "2101082002",
     "district_code": "210108",
-    "name": "Pangkil"
+    "name": "Pangkil",
+    "postal_code": "29136"
   },
   {
     "code": "2101082003",
     "district_code": "210108",
-    "name": "Penaga"
+    "name": "Penaga",
+    "postal_code": "29134"
   },
   {
     "code": "2101082004",
     "district_code": "210108",
-    "name": "Pengujan"
+    "name": "Pengujan",
+    "postal_code": "29135"
   },
   {
     "code": "2101082005",
     "district_code": "210108",
-    "name": "Tembeling"
+    "name": "Tembeling",
+    "postal_code": "29132"
   }
 ]

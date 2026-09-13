@@ -2,61 +2,73 @@
   {
     "code": "9111022001",
     "district_code": "911102",
-    "name": "Arso Kota"
+    "name": "Arso Kota",
+    "postal_code": "99471"
   },
   {
     "code": "9111022002",
     "district_code": "911102",
-    "name": "Workwana"
+    "name": "Workwana",
+    "postal_code": "99471"
   },
   {
     "code": "9111022003",
     "district_code": "911102",
-    "name": "Kwimi"
+    "name": "Kwimi",
+    "postal_code": "99471"
   },
   {
     "code": "9111022004",
     "district_code": "911102",
-    "name": "Ubiyau"
+    "name": "Ubiyau",
+    "postal_code": "99471"
   },
   {
     "code": "9111022006",
     "district_code": "911102",
-    "name": "Sawanawa"
+    "name": "Sawanawa",
+    "postal_code": "99471"
   },
   {
     "code": "9111022009",
     "district_code": "911102",
-    "name": "Yuwanain"
+    "name": "Yuwanain",
+    "postal_code": "99471"
   },
   {
     "code": "9111022010",
     "district_code": "911102",
-    "name": "Yanamaa"
+    "name": "Yanamaa",
+    "postal_code": "99471"
   },
   {
     "code": "9111022011",
     "district_code": "911102",
-    "name": "Asyaman"
+    "name": "Asyaman",
+    "postal_code": "99471"
   },
   {
     "code": "9111022012",
     "district_code": "911102",
-    "name": "Yamta"
+    "name": "Yamta",
+    "postal_code": "99471"
   },
   {
     "code": "9111022016",
     "district_code": "911102",
-    "name": "Bagia"
+    "name": "Bagia",
+    "postal_code": "99471"
   },
   {
     "code": "9111022030",
     "district_code": "911102",
-    "name": "Sawabuun"
+    "name": "Sawabuun",
+    "postal_code": "99471"
   },
   {
     "code": "9111022031",
     "district_code": "911102",
-    "name": "Bibiosi"
+    "name": "Bibiosi",
+    "postal_code": "99471"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "1505041002",
     "district_code": "150504",
-    "name": "Jambi Kecil"
+    "name": "Jambi Kecil",
+    "postal_code": "36382"
   },
   {
     "code": "1505042001",
     "district_code": "150504",
-    "name": "Setiris"
+    "name": "Setiris",
+    "postal_code": "36382"
   },
   {
     "code": "1505042003",
     "district_code": "150504",
-    "name": "Tanjung Katung"
+    "name": "Tanjung Katung",
+    "postal_code": "36382"
   },
   {
     "code": "1505042004",
     "district_code": "150504",
-    "name": "Jambi Tulo"
+    "name": "Jambi Tulo",
+    "postal_code": "36382"
   },
   {
     "code": "1505042005",
     "district_code": "150504",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "36382"
   },
   {
     "code": "1505042006",
     "district_code": "150504",
-    "name": "Danau Lamo"
+    "name": "Danau Lamo",
+    "postal_code": "36382"
   },
   {
     "code": "1505042007",
     "district_code": "150504",
-    "name": "Muaro Jambi"
+    "name": "Muaro Jambi",
+    "postal_code": "36382"
   },
   {
     "code": "1505042016",
     "district_code": "150504",
-    "name": "Niaso"
+    "name": "Niaso",
+    "postal_code": "36382"
   },
   {
     "code": "1505042017",
     "district_code": "150504",
-    "name": "Bakung"
+    "name": "Bakung",
+    "postal_code": "36382"
   },
   {
     "code": "1505042018",
     "district_code": "150504",
-    "name": "Danau Kedap"
+    "name": "Danau Kedap",
+    "postal_code": "36382"
   },
   {
     "code": "1505042019",
     "district_code": "150504",
-    "name": "Mudung Darat"
+    "name": "Mudung Darat",
+    "postal_code": "36382"
   },
   {
     "code": "1505042020",
     "district_code": "150504",
-    "name": "Lubuk Raman"
+    "name": "Lubuk Raman",
+    "postal_code": "36382"
   }
 ]

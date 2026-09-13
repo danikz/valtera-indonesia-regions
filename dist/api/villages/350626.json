@@ -2,41 +2,49 @@
   {
     "code": "3506262001",
     "district_code": "350626",
-    "name": "Canggu"
+    "name": "Canggu",
+    "postal_code": "64217"
   },
   {
     "code": "3506262002",
     "district_code": "350626",
-    "name": "Lamong"
+    "name": "Lamong",
+    "postal_code": "64216"
   },
   {
     "code": "3506262003",
     "district_code": "350626",
-    "name": "Bringin"
+    "name": "Bringin",
+    "postal_code": "64224"
   },
   {
     "code": "3506262004",
     "district_code": "350626",
-    "name": "Sekoto"
+    "name": "Sekoto",
+    "postal_code": "64223"
   },
   {
     "code": "3506262005",
     "district_code": "350626",
-    "name": "Tunglur"
+    "name": "Tunglur",
+    "postal_code": "64222"
   },
   {
     "code": "3506262006",
     "district_code": "350626",
-    "name": "Krecek"
+    "name": "Krecek",
+    "postal_code": "64218"
   },
   {
     "code": "3506262007",
     "district_code": "350626",
-    "name": "Blaru"
+    "name": "Blaru",
+    "postal_code": "64219"
   },
   {
     "code": "3506262008",
     "district_code": "350626",
-    "name": "Badas"
+    "name": "Badas",
+    "postal_code": "64221"
   }
 ]

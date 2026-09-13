@@ -2,36 +2,43 @@
   {
     "code": "6302102001",
     "district_code": "630210",
-    "name": "Sungai Hanyar"
+    "name": "Sungai Hanyar",
+    "postal_code": "72165"
   },
   {
     "code": "6302102002",
     "district_code": "630210",
-    "name": "Sungai Seluang"
+    "name": "Sungai Seluang",
+    "postal_code": "72165"
   },
   {
     "code": "6302102003",
     "district_code": "630210",
-    "name": "Pudi"
+    "name": "Pudi",
+    "postal_code": "72165"
   },
   {
     "code": "6302102004",
     "district_code": "630210",
-    "name": "Mangga"
+    "name": "Mangga",
+    "postal_code": "72165"
   },
   {
     "code": "6302102005",
     "district_code": "630210",
-    "name": "Wilas"
+    "name": "Wilas",
+    "postal_code": "72165"
   },
   {
     "code": "6302102006",
     "district_code": "630210",
-    "name": "Pudi Seberang"
+    "name": "Pudi Seberang",
+    "postal_code": "72165"
   },
   {
     "code": "6302102007",
     "district_code": "630210",
-    "name": "Sulangkit"
+    "name": "Sulangkit",
+    "postal_code": "72165"
   }
 ]

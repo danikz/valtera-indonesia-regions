@@ -2,26 +2,31 @@
   {
     "code": "3671081001",
     "district_code": "367108",
-    "name": "Periuk"
+    "name": "Periuk",
+    "postal_code": "15131"
   },
   {
     "code": "3671081002",
     "district_code": "367108",
-    "name": "Gembor"
+    "name": "Gembor",
+    "postal_code": "15133"
   },
   {
     "code": "3671081003",
     "district_code": "367108",
-    "name": "Gebang Raya"
+    "name": "Gebang Raya",
+    "postal_code": "15132"
   },
   {
     "code": "3671081004",
     "district_code": "367108",
-    "name": "Sangiang Jaya"
+    "name": "Sangiang Jaya",
+    "postal_code": "15132"
   },
   {
     "code": "3671081005",
     "district_code": "367108",
-    "name": "Periuk Jaya"
+    "name": "Periuk Jaya",
+    "postal_code": "15131"
   }
 ]

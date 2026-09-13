@@ -2,66 +2,79 @@
   {
     "code": "1771031001",
     "district_code": "177103",
-    "name": "Berkas"
+    "name": "Berkas",
+    "postal_code": "38114"
   },
   {
     "code": "1771031002",
     "district_code": "177103",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "38114"
   },
   {
     "code": "1771031003",
     "district_code": "177103",
-    "name": "Jitra"
+    "name": "Jitra",
+    "postal_code": "38119"
   },
   {
     "code": "1771031004",
     "district_code": "177103",
-    "name": "Pasar Melintang"
+    "name": "Pasar Melintang",
+    "postal_code": "38115"
   },
   {
     "code": "1771031005",
     "district_code": "177103",
-    "name": "Kebun Roos"
+    "name": "Kebun Roos",
+    "postal_code": "38117"
   },
   {
     "code": "1771031007",
     "district_code": "177103",
-    "name": "Tengah Padang"
+    "name": "Tengah Padang",
+    "postal_code": "38118"
   },
   {
     "code": "1771031008",
     "district_code": "177103",
-    "name": "Bajak"
+    "name": "Bajak",
+    "postal_code": "38118"
   },
   {
     "code": "1771031010",
     "district_code": "177103",
-    "name": "Pondok Besi"
+    "name": "Pondok Besi",
+    "postal_code": "38117"
   },
   {
     "code": "1771031011",
     "district_code": "177103",
-    "name": "Kebun Keling"
+    "name": "Kebun Keling",
+    "postal_code": "38116"
   },
   {
     "code": "1771031013",
     "district_code": "177103",
-    "name": "Sumur Meleleh"
+    "name": "Sumur Meleleh",
+    "postal_code": "38113"
   },
   {
     "code": "1771031014",
     "district_code": "177103",
-    "name": "Malabero"
+    "name": "Malabero",
+    "postal_code": "38119"
   },
   {
     "code": "1771031018",
     "district_code": "177103",
-    "name": "Pintu Batu"
+    "name": "Pintu Batu",
+    "postal_code": "38115"
   },
   {
     "code": "1771031019",
     "district_code": "177103",
-    "name": "Kampung Bali"
+    "name": "Kampung Bali",
+    "postal_code": "38119"
   }
 ]

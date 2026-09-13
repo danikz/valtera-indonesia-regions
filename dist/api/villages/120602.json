@@ -2,51 +2,61 @@
   {
     "code": "1206021006",
     "district_code": "120602",
-    "name": "Tambak Lau Mulgap I"
+    "name": "Tambak Lau Mulgap I",
+    "postal_code": "22152"
   },
   {
     "code": "1206021007",
     "district_code": "120602",
-    "name": "Tambak Lau Mulgap II"
+    "name": "Tambak Lau Mulgap II",
+    "postal_code": "22152"
   },
   {
     "code": "1206021008",
     "district_code": "120602",
-    "name": "Gundaling I"
+    "name": "Gundaling I",
+    "postal_code": "22152"
   },
   {
     "code": "1206021009",
     "district_code": "120602",
-    "name": "Gundaling II"
+    "name": "Gundaling II",
+    "postal_code": "22152"
   },
   {
     "code": "1206022001",
     "district_code": "120602",
-    "name": "Doulu"
+    "name": "Doulu",
+    "postal_code": "22152"
   },
   {
     "code": "1206022002",
     "district_code": "120602",
-    "name": "Gurusinga"
+    "name": "Gurusinga",
+    "postal_code": "22152"
   },
   {
     "code": "1206022003",
     "district_code": "120602",
-    "name": "R a y a"
+    "name": "R a y a",
+    "postal_code": "22152"
   },
   {
     "code": "1206022004",
     "district_code": "120602",
-    "name": "Rumah Berastagi"
+    "name": "Rumah Berastagi",
+    "postal_code": "22152"
   },
   {
     "code": "1206022005",
     "district_code": "120602",
-    "name": "Sempajaya"
+    "name": "Sempajaya",
+    "postal_code": "22152"
   },
   {
     "code": "1206022010",
     "district_code": "120602",
-    "name": "Lau Gumba"
+    "name": "Lau Gumba",
+    "postal_code": "22152"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "1303092001",
     "district_code": "130309",
-    "name": "Silantai"
+    "name": "Silantai",
+    "postal_code": "27563"
   },
   {
     "code": "1303092002",
     "district_code": "130309",
-    "name": "Sisawah"
+    "name": "Sisawah",
+    "postal_code": "27563"
   },
   {
     "code": "1303092003",
     "district_code": "130309",
-    "name": "Unggan"
+    "name": "Unggan",
+    "postal_code": "27563"
   },
   {
     "code": "1303092004",
     "district_code": "130309",
-    "name": "Tanjung Bonai Aur"
+    "name": "Tanjung Bonai Aur",
+    "postal_code": "27563"
   },
   {
     "code": "1303092005",
     "district_code": "130309",
-    "name": "Sumpur Kudus"
+    "name": "Sumpur Kudus",
+    "postal_code": "27563"
   },
   {
     "code": "1303092006",
     "district_code": "130309",
-    "name": "Tamparungo"
+    "name": "Tamparungo",
+    "postal_code": "27563"
   },
   {
     "code": "1303092007",
     "district_code": "130309",
-    "name": "Kumanis"
+    "name": "Kumanis",
+    "postal_code": "27563"
   },
   {
     "code": "1303092008",
     "district_code": "130309",
-    "name": "Manganti"
+    "name": "Manganti",
+    "postal_code": "27563"
   },
   {
     "code": "1303092009",
     "district_code": "130309",
-    "name": "Sumpur Kudus Selatan"
+    "name": "Sumpur Kudus Selatan",
+    "postal_code": "27563"
   },
   {
     "code": "1303092010",
     "district_code": "130309",
-    "name": "Tanjung Labuah"
+    "name": "Tanjung Labuah",
+    "postal_code": "27563"
   },
   {
     "code": "1303092011",
     "district_code": "130309",
-    "name": "Tanjung Bonai Aur Selatan"
+    "name": "Tanjung Bonai Aur Selatan",
+    "postal_code": "27563"
   }
 ]

@@ -2,76 +2,91 @@
   {
     "code": "6409041005",
     "district_code": "640904",
-    "name": "Sepaku"
+    "name": "Sepaku",
+    "postal_code": "76148"
   },
   {
     "code": "6409041006",
     "district_code": "640904",
-    "name": "Pemaluan"
+    "name": "Pemaluan",
+    "postal_code": "76147"
   },
   {
     "code": "6409041007",
     "district_code": "640904",
-    "name": "Maridan"
+    "name": "Maridan",
+    "postal_code": "76146"
   },
   {
     "code": "6409041008",
     "district_code": "640904",
-    "name": "Mentawir"
+    "name": "Mentawir",
+    "postal_code": "76149"
   },
   {
     "code": "6409042001",
     "district_code": "640904",
-    "name": "Tengin Baru"
+    "name": "Tengin Baru",
+    "postal_code": "76147"
   },
   {
     "code": "6409042002",
     "district_code": "640904",
-    "name": "Bukit Raya"
+    "name": "Bukit Raya",
+    "postal_code": "76147"
   },
   {
     "code": "6409042003",
     "district_code": "640904",
-    "name": "Suka Raja"
+    "name": "Suka Raja",
+    "postal_code": "76147"
   },
   {
     "code": "6409042004",
     "district_code": "640904",
-    "name": "Bumi Harapan"
+    "name": "Bumi Harapan",
+    "postal_code": "76147"
   },
   {
     "code": "6409042009",
     "district_code": "640904",
-    "name": "Argo Mulyo"
+    "name": "Argo Mulyo",
+    "postal_code": "76147"
   },
   {
     "code": "6409042010",
     "district_code": "640904",
-    "name": "Semoi Dua"
+    "name": "Semoi Dua",
+    "postal_code": "76147"
   },
   {
     "code": "6409042011",
     "district_code": "640904",
-    "name": "Suko Mulyo"
+    "name": "Suko Mulyo",
+    "postal_code": "76147"
   },
   {
     "code": "6409042012",
     "district_code": "640904",
-    "name": "Wono Sari"
+    "name": "Wono Sari",
+    "postal_code": "76147"
   },
   {
     "code": "6409042013",
     "district_code": "640904",
-    "name": "Karang Jinawi"
+    "name": "Karang Jinawi",
+    "postal_code": "76148"
   },
   {
     "code": "6409042014",
     "district_code": "640904",
-    "name": "Binuang"
+    "name": "Binuang",
+    "postal_code": "76147"
   },
   {
     "code": "6409042015",
     "district_code": "640904",
-    "name": "Telemow"
+    "name": "Telemow",
+    "postal_code": "76147"
   }
 ]

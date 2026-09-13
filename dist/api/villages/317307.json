@@ -2,31 +2,37 @@
   {
     "code": "3173071001",
     "district_code": "317307",
-    "name": "Palmerah"
+    "name": "Palmerah",
+    "postal_code": "11480"
   },
   {
     "code": "3173071002",
     "district_code": "317307",
-    "name": "Slipi"
+    "name": "Slipi",
+    "postal_code": "11410"
   },
   {
     "code": "3173071003",
     "district_code": "317307",
-    "name": "Kota Bambu Utara"
+    "name": "Kota Bambu Utara",
+    "postal_code": "11420"
   },
   {
     "code": "3173071004",
     "district_code": "317307",
-    "name": "Jatipulo"
+    "name": "Jatipulo",
+    "postal_code": "11430"
   },
   {
     "code": "3173071005",
     "district_code": "317307",
-    "name": "Kemanggisan"
+    "name": "Kemanggisan",
+    "postal_code": "11480"
   },
   {
     "code": "3173071006",
     "district_code": "317307",
-    "name": "Kota Bambu Selatan"
+    "name": "Kota Bambu Selatan",
+    "postal_code": "11420"
   }
 ]

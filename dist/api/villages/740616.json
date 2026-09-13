@@ -2,36 +2,43 @@
   {
     "code": "7406162001",
     "district_code": "740616",
-    "name": "Lamonggi"
+    "name": "Lamonggi",
+    "postal_code": "93783"
   },
   {
     "code": "7406162002",
     "district_code": "740616",
-    "name": "Tangkeno"
+    "name": "Tangkeno",
+    "postal_code": "93783"
   },
   {
     "code": "7406162003",
     "district_code": "740616",
-    "name": "Lengora"
+    "name": "Lengora",
+    "postal_code": "93783"
   },
   {
     "code": "7406162004",
     "district_code": "740616",
-    "name": "Enano"
+    "name": "Enano",
+    "postal_code": "93783"
   },
   {
     "code": "7406162005",
     "district_code": "740616",
-    "name": "Ulungkura"
+    "name": "Ulungkura",
+    "postal_code": "93783"
   },
   {
     "code": "7406162006",
     "district_code": "740616",
-    "name": "Lengora Selatan"
+    "name": "Lengora Selatan",
+    "postal_code": "93783"
   },
   {
     "code": "7406162007",
     "district_code": "740616",
-    "name": "Lengora Pantai"
+    "name": "Lengora Pantai",
+    "postal_code": "93783"
   }
 ]

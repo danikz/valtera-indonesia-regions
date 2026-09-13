@@ -2,31 +2,37 @@
   {
     "code": "7403302001",
     "district_code": "740330",
-    "name": "Kafo Foo"
+    "name": "Kafo Foo",
+    "postal_code": "93660"
   },
   {
     "code": "7403302002",
     "district_code": "740330",
-    "name": "Karoo"
+    "name": "Karoo",
+    "postal_code": "93660"
   },
   {
     "code": "7403302003",
     "district_code": "740330",
-    "name": "Kilambibito"
+    "name": "Kilambibito",
+    "postal_code": "93660"
   },
   {
     "code": "7403302004",
     "district_code": "740330",
-    "name": "Bahutara"
+    "name": "Bahutara",
+    "postal_code": "93660"
   },
   {
     "code": "7403302005",
     "district_code": "740330",
-    "name": "Kontu Kowuna"
+    "name": "Kontu Kowuna",
+    "postal_code": "93660"
   },
   {
     "code": "7403302006",
     "district_code": "740330",
-    "name": "Laghorio"
+    "name": "Laghorio",
+    "postal_code": "93660"
   }
 ]

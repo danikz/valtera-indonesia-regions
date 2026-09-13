@@ -2,21 +2,25 @@
   {
     "code": "6503122001",
     "district_code": "650312",
-    "name": "Sungai Limau"
+    "name": "Sungai Limau",
+    "postal_code": "77487"
   },
   {
     "code": "6503122002",
     "district_code": "650312",
-    "name": "Maspul"
+    "name": "Maspul",
+    "postal_code": "77487"
   },
   {
     "code": "6503122003",
     "district_code": "650312",
-    "name": "Aji Kuning"
+    "name": "Aji Kuning",
+    "postal_code": "77487"
   },
   {
     "code": "6503122004",
     "district_code": "650312",
-    "name": "Bukit Harapan"
+    "name": "Bukit Harapan",
+    "postal_code": "77487"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "9402262001",
     "district_code": "940226",
-    "name": "Kiyage"
+    "name": "Kiyage",
+    "postal_code": "98943"
   },
   {
     "code": "9402262002",
     "district_code": "940226",
-    "name": "Wanggiba"
+    "name": "Wanggiba",
+    "postal_code": "98943"
   },
   {
     "code": "9402262003",
     "district_code": "940226",
-    "name": "Amuringgik"
+    "name": "Amuringgik",
+    "postal_code": "98943"
   },
   {
     "code": "9402262004",
     "district_code": "940226",
-    "name": "Tenggabanggwi"
+    "name": "Tenggabanggwi",
+    "postal_code": "98943"
   },
   {
     "code": "9402262005",
     "district_code": "940226",
-    "name": "Tumbiwolu"
+    "name": "Tumbiwolu",
+    "postal_code": "98943"
   },
   {
     "code": "9402262006",
     "district_code": "940226",
-    "name": "Kelandu"
+    "name": "Kelandu",
+    "postal_code": "98943"
   },
   {
     "code": "9402262007",
     "district_code": "940226",
-    "name": "Ambo"
+    "name": "Ambo",
+    "postal_code": "98943"
   },
   {
     "code": "9402262008",
     "district_code": "940226",
-    "name": "Atoli"
+    "name": "Atoli",
+    "postal_code": "98943"
   }
 ]

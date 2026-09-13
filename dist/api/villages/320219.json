@@ -2,31 +2,37 @@
   {
     "code": "3202192001",
     "district_code": "320219",
-    "name": "Kabandungan"
+    "name": "Kabandungan",
+    "postal_code": "43368"
   },
   {
     "code": "3202192002",
     "district_code": "320219",
-    "name": "Cipeuteuy"
+    "name": "Cipeuteuy",
+    "postal_code": "43368"
   },
   {
     "code": "3202192003",
     "district_code": "320219",
-    "name": "Cihamerang"
+    "name": "Cihamerang",
+    "postal_code": "43368"
   },
   {
     "code": "3202192004",
     "district_code": "320219",
-    "name": "Tugubandung"
+    "name": "Tugubandung",
+    "postal_code": "43368"
   },
   {
     "code": "3202192005",
     "district_code": "320219",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "43368"
   },
   {
     "code": "3202192006",
     "district_code": "320219",
-    "name": "Cianaga"
+    "name": "Cianaga",
+    "postal_code": "43368"
   }
 ]

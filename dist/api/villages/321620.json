@@ -2,31 +2,37 @@
   {
     "code": "3216202001",
     "district_code": "321620",
-    "name": "Cicau"
+    "name": "Cicau",
+    "postal_code": "17531"
   },
   {
     "code": "3216202002",
     "district_code": "321620",
-    "name": "Sukamahi"
+    "name": "Sukamahi",
+    "postal_code": "17531"
   },
   {
     "code": "3216202003",
     "district_code": "321620",
-    "name": "Pasiranji"
+    "name": "Pasiranji",
+    "postal_code": "17531"
   },
   {
     "code": "3216202004",
     "district_code": "321620",
-    "name": "Hegarmukti"
+    "name": "Hegarmukti",
+    "postal_code": "17531"
   },
   {
     "code": "3216202005",
     "district_code": "321620",
-    "name": "Jayamukti"
+    "name": "Jayamukti",
+    "postal_code": "17531"
   },
   {
     "code": "3216202006",
     "district_code": "321620",
-    "name": "Pasirtanjung"
+    "name": "Pasirtanjung",
+    "postal_code": "17531"
   }
 ]

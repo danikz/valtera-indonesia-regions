@@ -2,21 +2,25 @@
   {
     "code": "1310012002",
     "district_code": "131001",
-    "name": "Koto Baru"
+    "name": "Koto Baru",
+    "postal_code": "27681"
   },
   {
     "code": "1310012003",
     "district_code": "131001",
-    "name": "Sialang Gaung"
+    "name": "Sialang Gaung",
+    "postal_code": "27681"
   },
   {
     "code": "1310012005",
     "district_code": "131001",
-    "name": "Ampang Kuranji"
+    "name": "Ampang Kuranji",
+    "postal_code": "27681"
   },
   {
     "code": "1310012008",
     "district_code": "131001",
-    "name": "Koto Padang"
+    "name": "Koto Padang",
+    "postal_code": "27681"
   }
 ]

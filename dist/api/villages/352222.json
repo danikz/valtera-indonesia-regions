@@ -2,31 +2,37 @@
   {
     "code": "3522222001",
     "district_code": "352222",
-    "name": "Kalangan"
+    "name": "Kalangan",
+    "postal_code": "62168"
   },
   {
     "code": "3522222002",
     "district_code": "352222",
-    "name": "Ngelo"
+    "name": "Ngelo",
+    "postal_code": "62168"
   },
   {
     "code": "3522222003",
     "district_code": "352222",
-    "name": "Margomulyo"
+    "name": "Margomulyo",
+    "postal_code": "62168"
   },
   {
     "code": "3522222004",
     "district_code": "352222",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "62168"
   },
   {
     "code": "3522222005",
     "district_code": "352222",
-    "name": "Meduri"
+    "name": "Meduri",
+    "postal_code": "62168"
   },
   {
     "code": "3522222006",
     "district_code": "352222",
-    "name": "Geneng"
+    "name": "Geneng",
+    "postal_code": "62168"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "9201131001",
     "district_code": "920113",
-    "name": "Makbusum"
+    "name": "Makbusum",
+    "postal_code": ""
   },
   {
     "code": "9201131002",
     "district_code": "920113",
-    "name": "Makbalim"
+    "name": "Makbalim",
+    "postal_code": ""
   },
   {
     "code": "9201131003",
     "district_code": "920113",
-    "name": "Makotyamsa"
+    "name": "Makotyamsa",
+    "postal_code": ""
   },
   {
     "code": "9201132004",
     "district_code": "920113",
-    "name": "Jeflio"
+    "name": "Jeflio",
+    "postal_code": ""
   },
   {
     "code": "9201132005",
     "district_code": "920113",
-    "name": "Arar"
+    "name": "Arar",
+    "postal_code": ""
   },
   {
     "code": "9201132006",
     "district_code": "920113",
-    "name": "Klalin"
+    "name": "Klalin",
+    "postal_code": ""
   },
   {
     "code": "9201132007",
     "district_code": "920113",
-    "name": "Klasmelek"
+    "name": "Klasmelek",
+    "postal_code": ""
   },
   {
     "code": "9201132008",
     "district_code": "920113",
-    "name": "Wen"
+    "name": "Wen",
+    "postal_code": ""
   },
   {
     "code": "9201132009",
     "district_code": "920113",
-    "name": "Warmon Kokoda"
+    "name": "Warmon Kokoda",
+    "postal_code": ""
   },
   {
     "code": "9201132010",
     "district_code": "920113",
-    "name": "Asjidba"
+    "name": "Asjidba",
+    "postal_code": ""
   },
   {
     "code": "9201132011",
     "district_code": "920113",
-    "name": "Malamay"
+    "name": "Malamay",
+    "postal_code": ""
   }
 ]

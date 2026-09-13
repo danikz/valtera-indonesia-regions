@@ -2,21 +2,25 @@
   {
     "code": "3404102001",
     "district_code": "340410",
-    "name": "Purwomartani"
+    "name": "Purwomartani",
+    "postal_code": "55571"
   },
   {
     "code": "3404102002",
     "district_code": "340410",
-    "name": "Tirtomartani"
+    "name": "Tirtomartani",
+    "postal_code": "55571"
   },
   {
     "code": "3404102003",
     "district_code": "340410",
-    "name": "Tamanmartani"
+    "name": "Tamanmartani",
+    "postal_code": "55571"
   },
   {
     "code": "3404102004",
     "district_code": "340410",
-    "name": "Selomartani"
+    "name": "Selomartani",
+    "postal_code": "55571"
   }
 ]

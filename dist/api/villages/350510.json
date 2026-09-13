@@ -2,61 +2,73 @@
   {
     "code": "3505101008",
     "district_code": "350510",
-    "name": "Kanigoro"
+    "name": "Kanigoro",
+    "postal_code": "66171"
   },
   {
     "code": "3505101010",
     "district_code": "350510",
-    "name": "Satreyan"
+    "name": "Satreyan",
+    "postal_code": "66171"
   },
   {
     "code": "3505102001",
     "district_code": "350510",
-    "name": "Minggirsari"
+    "name": "Minggirsari",
+    "postal_code": "66171"
   },
   {
     "code": "3505102002",
     "district_code": "350510",
-    "name": "Jatinom"
+    "name": "Jatinom",
+    "postal_code": "66171"
   },
   {
     "code": "3505102003",
     "district_code": "350510",
-    "name": "Gogodeso"
+    "name": "Gogodeso",
+    "postal_code": "66171"
   },
   {
     "code": "3505102004",
     "district_code": "350510",
-    "name": "Gaprang"
+    "name": "Gaprang",
+    "postal_code": "66171"
   },
   {
     "code": "3505102005",
     "district_code": "350510",
-    "name": "Papungan"
+    "name": "Papungan",
+    "postal_code": "66171"
   },
   {
     "code": "3505102006",
     "district_code": "350510",
-    "name": "Tlogo"
+    "name": "Tlogo",
+    "postal_code": "66171"
   },
   {
     "code": "3505102007",
     "district_code": "350510",
-    "name": "Karangsono"
+    "name": "Karangsono",
+    "postal_code": "66171"
   },
   {
     "code": "3505102009",
     "district_code": "350510",
-    "name": "Banggle"
+    "name": "Banggle",
+    "postal_code": "66171"
   },
   {
     "code": "3505102011",
     "district_code": "350510",
-    "name": "Sawentar"
+    "name": "Sawentar",
+    "postal_code": "66171"
   },
   {
     "code": "3505102012",
     "district_code": "350510",
-    "name": "Kuningan"
+    "name": "Kuningan",
+    "postal_code": "66171"
   }
 ]

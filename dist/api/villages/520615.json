@@ -2,36 +2,43 @@
   {
     "code": "5206152001",
     "district_code": "520615",
-    "name": "Bajo"
+    "name": "Bajo",
+    "postal_code": "84163"
   },
   {
     "code": "5206152002",
     "district_code": "520615",
-    "name": "Punti"
+    "name": "Punti",
+    "postal_code": "84163"
   },
   {
     "code": "5206152003",
     "district_code": "520615",
-    "name": "Wadukopa"
+    "name": "Wadukopa",
+    "postal_code": "84163"
   },
   {
     "code": "5206152004",
     "district_code": "520615",
-    "name": "Kanata"
+    "name": "Kanata",
+    "postal_code": "84163"
   },
   {
     "code": "5206152005",
     "district_code": "520615",
-    "name": "Sai"
+    "name": "Sai",
+    "postal_code": "84163"
   },
   {
     "code": "5206152006",
     "district_code": "520615",
-    "name": "Sampungu"
+    "name": "Sampungu",
+    "postal_code": "84163"
   },
   {
     "code": "5206152007",
     "district_code": "520615",
-    "name": "Lewintana"
+    "name": "Lewintana",
+    "postal_code": "84163"
   }
 ]

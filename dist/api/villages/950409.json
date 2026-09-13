@@ -2,46 +2,55 @@
   {
     "code": "9504092001",
     "district_code": "950409",
-    "name": "Panaga"
+    "name": "Panaga",
+    "postal_code": "99057"
   },
   {
     "code": "9504092002",
     "district_code": "950409",
-    "name": "Ibunuh"
+    "name": "Ibunuh",
+    "postal_code": "99419"
   },
   {
     "code": "9504092003",
     "district_code": "950409",
-    "name": "Saksi Maler"
+    "name": "Saksi Maler",
+    "postal_code": "99419"
   },
   {
     "code": "9504092004",
     "district_code": "950409",
-    "name": "Kutiom"
+    "name": "Kutiom",
+    "postal_code": "99057"
   },
   {
     "code": "9504092005",
     "district_code": "950409",
-    "name": "Eragani"
+    "name": "Eragani",
+    "postal_code": "99419"
   },
   {
     "code": "9504092006",
     "district_code": "950409",
-    "name": "Pindanggun"
+    "name": "Pindanggun",
+    "postal_code": "99419"
   },
   {
     "code": "9504092007",
     "district_code": "950409",
-    "name": "Siak"
+    "name": "Siak",
+    "postal_code": "99419"
   },
   {
     "code": "9504092008",
     "district_code": "950409",
-    "name": "Yandono"
+    "name": "Yandono",
+    "postal_code": "99419"
   },
   {
     "code": "9504092009",
     "district_code": "950409",
-    "name": "Paido"
+    "name": "Paido",
+    "postal_code": "99419"
   }
 ]

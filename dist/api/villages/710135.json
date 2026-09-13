@@ -2,51 +2,61 @@
   {
     "code": "7101352001",
     "district_code": "710135",
-    "name": "Ibolian"
+    "name": "Ibolian",
+    "postal_code": "95732"
   },
   {
     "code": "7101352002",
     "district_code": "710135",
-    "name": "Ibolian Satu"
+    "name": "Ibolian Satu",
+    "postal_code": "95732"
   },
   {
     "code": "7101352003",
     "district_code": "710135",
-    "name": "Kinomalingan"
+    "name": "Kinomalingan",
+    "postal_code": "95732"
   },
   {
     "code": "7101352004",
     "district_code": "710135",
-    "name": "Kosio"
+    "name": "Kosio",
+    "postal_code": "95732"
   },
   {
     "code": "7101352005",
     "district_code": "710135",
-    "name": "Kosio Timur"
+    "name": "Kosio Timur",
+    "postal_code": "95732"
   },
   {
     "code": "7101352006",
     "district_code": "710135",
-    "name": "Kasio Barat"
+    "name": "Kasio Barat",
+    "postal_code": "95732"
   },
   {
     "code": "7101352007",
     "district_code": "710135",
-    "name": "Werdhi Agung"
+    "name": "Werdhi Agung",
+    "postal_code": "95732"
   },
   {
     "code": "7101352008",
     "district_code": "710135",
-    "name": "Werdhi Agung Selatan"
+    "name": "Werdhi Agung Selatan",
+    "postal_code": "95732"
   },
   {
     "code": "7101352009",
     "district_code": "710135",
-    "name": "Werdhi Agung Utara"
+    "name": "Werdhi Agung Utara",
+    "postal_code": "95732"
   },
   {
     "code": "7101352010",
     "district_code": "710135",
-    "name": "Werdhi Agung Timur"
+    "name": "Werdhi Agung Timur",
+    "postal_code": "95732"
   }
 ]

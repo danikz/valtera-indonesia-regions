@@ -2,76 +2,91 @@
   {
     "code": "3374011001",
     "district_code": "337401",
-    "name": "Miroto"
+    "name": "Miroto",
+    "postal_code": "50134"
   },
   {
     "code": "3374011002",
     "district_code": "337401",
-    "name": "Brumbungan"
+    "name": "Brumbungan",
+    "postal_code": "50135"
   },
   {
     "code": "3374011003",
     "district_code": "337401",
-    "name": "Jagalan"
+    "name": "Jagalan",
+    "postal_code": "50613"
   },
   {
     "code": "3374011004",
     "district_code": "337401",
-    "name": "Kranggan"
+    "name": "Kranggan",
+    "postal_code": "50139"
   },
   {
     "code": "3374011005",
     "district_code": "337401",
-    "name": "Gabahan"
+    "name": "Gabahan",
+    "postal_code": "50135"
   },
   {
     "code": "3374011006",
     "district_code": "337401",
-    "name": "Kembangsari"
+    "name": "Kembangsari",
+    "postal_code": "50133"
   },
   {
     "code": "3374011007",
     "district_code": "337401",
-    "name": "Sekayu"
+    "name": "Sekayu",
+    "postal_code": "50132"
   },
   {
     "code": "3374011008",
     "district_code": "337401",
-    "name": "Pandansari"
+    "name": "Pandansari",
+    "postal_code": "50139"
   },
   {
     "code": "3374011009",
     "district_code": "337401",
-    "name": "Bangunharjo"
+    "name": "Bangunharjo",
+    "postal_code": "50138"
   },
   {
     "code": "3374011010",
     "district_code": "337401",
-    "name": "Kauman"
+    "name": "Kauman",
+    "postal_code": "50188"
   },
   {
     "code": "3374011011",
     "district_code": "337401",
-    "name": "Purwodinatan"
+    "name": "Purwodinatan",
+    "postal_code": "50137"
   },
   {
     "code": "3374011012",
     "district_code": "337401",
-    "name": "Karang Kidul"
+    "name": "Karang Kidul",
+    "postal_code": "50241"
   },
   {
     "code": "3374011013",
     "district_code": "337401",
-    "name": "Pekunden"
+    "name": "Pekunden",
+    "postal_code": "50241"
   },
   {
     "code": "3374011014",
     "district_code": "337401",
-    "name": "Pindrikan Kidul"
+    "name": "Pindrikan Kidul",
+    "postal_code": "50131"
   },
   {
     "code": "3374011015",
     "district_code": "337401",
-    "name": "Pindrikan Lor"
+    "name": "Pindrikan Lor",
+    "postal_code": "50131"
   }
 ]

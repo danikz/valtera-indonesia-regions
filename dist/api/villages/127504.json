@@ -2,36 +2,43 @@
   {
     "code": "1275041001",
     "district_code": "127504",
-    "name": "Tanah Tinggi"
+    "name": "Tanah Tinggi",
+    "postal_code": "20731"
   },
   {
     "code": "1275041002",
     "district_code": "127504",
-    "name": "Dataran Tinggi"
+    "name": "Dataran Tinggi",
+    "postal_code": "20736"
   },
   {
     "code": "1275041003",
     "district_code": "127504",
-    "name": "Timbang Langkat"
+    "name": "Timbang Langkat",
+    "postal_code": "20732"
   },
   {
     "code": "1275041004",
     "district_code": "127504",
-    "name": "Mencirim"
+    "name": "Mencirim",
+    "postal_code": "20733"
   },
   {
     "code": "1275041005",
     "district_code": "127504",
-    "name": "Tunggurono"
+    "name": "Tunggurono",
+    "postal_code": "20734"
   },
   {
     "code": "1275041006",
     "district_code": "127504",
-    "name": "Sumber Mulyorejo"
+    "name": "Sumber Mulyorejo",
+    "postal_code": "20735"
   },
   {
     "code": "1275041007",
     "district_code": "127504",
-    "name": "Sumber Karya"
+    "name": "Sumber Karya",
+    "postal_code": "20737"
   }
 ]

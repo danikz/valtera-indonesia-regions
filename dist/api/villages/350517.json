@@ -2,46 +2,55 @@
   {
     "code": "3505171001",
     "district_code": "350517",
-    "name": "Beru"
+    "name": "Beru",
+    "postal_code": "66184"
   },
   {
     "code": "3505171002",
     "district_code": "350517",
-    "name": "Babadan"
+    "name": "Babadan",
+    "postal_code": "66184"
   },
   {
     "code": "3505171003",
     "district_code": "350517",
-    "name": "Tangkil"
+    "name": "Tangkil",
+    "postal_code": "66184"
   },
   {
     "code": "3505171004",
     "district_code": "350517",
-    "name": "Wlingi"
+    "name": "Wlingi",
+    "postal_code": "66184"
   },
   {
     "code": "3505171006",
     "district_code": "350517",
-    "name": "Klemunan"
+    "name": "Klemunan",
+    "postal_code": "66184"
   },
   {
     "code": "3505172005",
     "district_code": "350517",
-    "name": "Tembalang"
+    "name": "Tembalang",
+    "postal_code": "66184"
   },
   {
     "code": "3505172007",
     "district_code": "350517",
-    "name": "Ngadirenggo"
+    "name": "Ngadirenggo",
+    "postal_code": "66184"
   },
   {
     "code": "3505172008",
     "district_code": "350517",
-    "name": "Tegalasri"
+    "name": "Tegalasri",
+    "postal_code": "66184"
   },
   {
     "code": "3505172009",
     "district_code": "350517",
-    "name": "Balerejo"
+    "name": "Balerejo",
+    "postal_code": "66184"
   }
 ]

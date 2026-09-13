@@ -2,36 +2,43 @@
   {
     "code": "7301112001",
     "district_code": "730111",
-    "name": "Buki"
+    "name": "Buki",
+    "postal_code": "92854"
   },
   {
     "code": "7301112002",
     "district_code": "730111",
-    "name": "Lalang Bata"
+    "name": "Lalang Bata",
+    "postal_code": "92854"
   },
   {
     "code": "7301112003",
     "district_code": "730111",
-    "name": "Balang Butung"
+    "name": "Balang Butung",
+    "postal_code": "92854"
   },
   {
     "code": "7301112004",
     "district_code": "730111",
-    "name": "Kohala"
+    "name": "Kohala",
+    "postal_code": "92851"
   },
   {
     "code": "7301112005",
     "district_code": "730111",
-    "name": "Bontolempangan"
+    "name": "Bontolempangan",
+    "postal_code": "92851"
   },
   {
     "code": "7301112006",
     "district_code": "730111",
-    "name": "Mekar Indah"
+    "name": "Mekar Indah",
+    "postal_code": "92854"
   },
   {
     "code": "7301112007",
     "district_code": "730111",
-    "name": "Buki Timur"
+    "name": "Buki Timur",
+    "postal_code": "92854"
   }
 ]

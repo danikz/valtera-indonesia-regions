@@ -2,51 +2,61 @@
   {
     "code": "7603082002",
     "district_code": "760308",
-    "name": "Orobua"
+    "name": "Orobua",
+    "postal_code": "91365"
   },
   {
     "code": "7603082003",
     "district_code": "760308",
-    "name": "Paladan"
+    "name": "Paladan",
+    "postal_code": "91365"
   },
   {
     "code": "7603082004",
     "district_code": "760308",
-    "name": "Orobua Timur"
+    "name": "Orobua Timur",
+    "postal_code": "91365"
   },
   {
     "code": "7603082006",
     "district_code": "760308",
-    "name": "Rante Puang"
+    "name": "Rante Puang",
+    "postal_code": "91365"
   },
   {
     "code": "7603082007",
     "district_code": "760308",
-    "name": "Satenetean"
+    "name": "Satenetean",
+    "postal_code": "91365"
   },
   {
     "code": "7603082008",
     "district_code": "760308",
-    "name": "Lisuan Ada"
+    "name": "Lisuan Ada",
+    "postal_code": "91365"
   },
   {
     "code": "7603082010",
     "district_code": "760308",
-    "name": "Orobua Selatan"
+    "name": "Orobua Selatan",
+    "postal_code": "91365"
   },
   {
     "code": "7603082012",
     "district_code": "760308",
-    "name": "Malangkena Padang"
+    "name": "Malangkena Padang",
+    "postal_code": "91365"
   },
   {
     "code": "7603082013",
     "district_code": "760308",
-    "name": "Malimbong"
+    "name": "Malimbong",
+    "postal_code": "91365"
   },
   {
     "code": "7603082014",
     "district_code": "760308",
-    "name": "Marampan Orobua"
+    "name": "Marampan Orobua",
+    "postal_code": "91365"
   }
 ]

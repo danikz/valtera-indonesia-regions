@@ -2,46 +2,55 @@
   {
     "code": "9302032001",
     "district_code": "930203",
-    "name": "Woropko"
+    "name": "Woropko",
+    "postal_code": "99684"
   },
   {
     "code": "9302032002",
     "district_code": "930203",
-    "name": "Winiktit"
+    "name": "Winiktit",
+    "postal_code": "99684"
   },
   {
     "code": "9302032003",
     "district_code": "930203",
-    "name": "Kanggewot"
+    "name": "Kanggewot",
+    "postal_code": "99684"
   },
   {
     "code": "9302032004",
     "district_code": "930203",
-    "name": "Jetetkun"
+    "name": "Jetetkun",
+    "postal_code": ""
   },
   {
     "code": "9302032005",
     "district_code": "930203",
-    "name": "Inggembit"
+    "name": "Inggembit",
+    "postal_code": "99684"
   },
   {
     "code": "9302032006",
     "district_code": "930203",
-    "name": "Wametkapa"
+    "name": "Wametkapa",
+    "postal_code": "99684"
   },
   {
     "code": "9302032007",
     "district_code": "930203",
-    "name": "Wombon"
+    "name": "Wombon",
+    "postal_code": "99664"
   },
   {
     "code": "9302032008",
     "district_code": "930203",
-    "name": "Upkim"
+    "name": "Upkim",
+    "postal_code": "99664"
   },
   {
     "code": "9302032009",
     "district_code": "930203",
-    "name": "Ikcan"
+    "name": "Ikcan",
+    "postal_code": "99684"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "6103022001",
     "district_code": "610302",
-    "name": "Kedukul"
+    "name": "Kedukul",
+    "postal_code": "78581"
   },
   {
     "code": "6103022002",
     "district_code": "610302",
-    "name": "Semuntai"
+    "name": "Semuntai",
+    "postal_code": "78581"
   },
   {
     "code": "6103022003",
     "district_code": "610302",
-    "name": "Engkode"
+    "name": "Engkode",
+    "postal_code": "78581"
   },
   {
     "code": "6103022004",
     "district_code": "610302",
-    "name": "Sungai Mawang"
+    "name": "Sungai Mawang",
+    "postal_code": "78581"
   },
   {
     "code": "6103022005",
     "district_code": "610302",
-    "name": "Inggis"
+    "name": "Inggis",
+    "postal_code": "78581"
   },
   {
     "code": "6103022006",
     "district_code": "610302",
-    "name": "Layak Omang"
+    "name": "Layak Omang",
+    "postal_code": "78581"
   },
   {
     "code": "6103022007",
     "district_code": "610302",
-    "name": "Semanggis Raya"
+    "name": "Semanggis Raya",
+    "postal_code": "78581"
   },
   {
     "code": "6103022008",
     "district_code": "610302",
-    "name": "Tri Mulya"
+    "name": "Tri Mulya",
+    "postal_code": "78581"
   },
   {
     "code": "6103022009",
     "district_code": "610302",
-    "name": "Serambai Jaya"
+    "name": "Serambai Jaya",
+    "postal_code": "78581"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "2103071011",
     "district_code": "210307",
-    "name": "Ranai Kota"
+    "name": "Ranai Kota",
+    "postal_code": "29777"
   },
   {
     "code": "2103071016",
     "district_code": "210307",
-    "name": "Ranai Darat"
+    "name": "Ranai Darat",
+    "postal_code": "29777"
   },
   {
     "code": "2103071017",
     "district_code": "210307",
-    "name": "Bandarsyah"
+    "name": "Bandarsyah",
+    "postal_code": "29777"
   },
   {
     "code": "2103071019",
     "district_code": "210307",
-    "name": "Batu Hitam"
+    "name": "Batu Hitam",
+    "postal_code": "29777"
   },
   {
     "code": "2103072002",
     "district_code": "210307",
-    "name": "Sungai Ulu"
+    "name": "Sungai Ulu",
+    "postal_code": "29777"
   },
   {
     "code": "2103072004",
     "district_code": "210307",
-    "name": "Sepempang"
+    "name": "Sepempang",
+    "postal_code": "29777"
   },
   {
     "code": "2103072014",
     "district_code": "210307",
-    "name": "Batu Gajah"
+    "name": "Batu Gajah",
+    "postal_code": "29777"
   }
 ]

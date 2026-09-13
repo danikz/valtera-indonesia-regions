@@ -2,36 +2,43 @@
   {
     "code": "1276021004",
     "district_code": "127602",
-    "name": "Rantau Laban"
+    "name": "Rantau Laban",
+    "postal_code": "20614"
   },
   {
     "code": "1276021007",
     "district_code": "127602",
-    "name": "Karya Jaya"
+    "name": "Karya Jaya",
+    "postal_code": "20611"
   },
   {
     "code": "1276021009",
     "district_code": "127602",
-    "name": "Lalang"
+    "name": "Lalang",
+    "postal_code": "20614"
   },
   {
     "code": "1276021010",
     "district_code": "127602",
-    "name": "Tanjung Marulak"
+    "name": "Tanjung Marulak",
+    "postal_code": "20616"
   },
   {
     "code": "1276021011",
     "district_code": "127602",
-    "name": "Sri Padang"
+    "name": "Sri Padang",
+    "postal_code": "20616"
   },
   {
     "code": "1276021012",
     "district_code": "127602",
-    "name": "Tanjung Marulak Hilir"
+    "name": "Tanjung Marulak Hilir",
+    "postal_code": "20616"
   },
   {
     "code": "1276021013",
     "district_code": "127602",
-    "name": "Mekar Sentosa"
+    "name": "Mekar Sentosa",
+    "postal_code": "20616"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "8108082001",
     "district_code": "810808",
-    "name": "Laitutun"
+    "name": "Laitutun",
+    "postal_code": "97444"
   },
   {
     "code": "8108082002",
     "district_code": "810808",
-    "name": "Batumiau"
+    "name": "Batumiau",
+    "postal_code": "97444"
   },
   {
     "code": "8108082003",
     "district_code": "810808",
-    "name": "Tutukey"
+    "name": "Tutukey",
+    "postal_code": "97444"
   },
   {
     "code": "8108082004",
     "district_code": "810808",
-    "name": "Tomra"
+    "name": "Tomra",
+    "postal_code": "97444"
   },
   {
     "code": "8108082005",
     "district_code": "810808",
-    "name": "Nuwewang"
+    "name": "Nuwewang",
+    "postal_code": "97444"
   },
   {
     "code": "8108082006",
     "district_code": "810808",
-    "name": "Tutuwaru"
+    "name": "Tutuwaru",
+    "postal_code": "97444"
   },
   {
     "code": "8108082007",
     "district_code": "810808",
-    "name": "Luhuely"
+    "name": "Luhuely",
+    "postal_code": "97444"
   }
 ]

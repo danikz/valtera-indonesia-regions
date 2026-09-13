@@ -2,46 +2,55 @@
   {
     "code": "7105232001",
     "district_code": "710523",
-    "name": "Talaitad"
+    "name": "Talaitad",
+    "postal_code": "95952"
   },
   {
     "code": "7105232002",
     "district_code": "710523",
-    "name": "Suluun Satu"
+    "name": "Suluun Satu",
+    "postal_code": "95952"
   },
   {
     "code": "7105232003",
     "district_code": "710523",
-    "name": "Suluun Dua"
+    "name": "Suluun Dua",
+    "postal_code": "95952"
   },
   {
     "code": "7105232004",
     "district_code": "710523",
-    "name": "Suluun Tiga"
+    "name": "Suluun Tiga",
+    "postal_code": "95952"
   },
   {
     "code": "7105232005",
     "district_code": "710523",
-    "name": "Suluun Empat"
+    "name": "Suluun Empat",
+    "postal_code": "95952"
   },
   {
     "code": "7105232006",
     "district_code": "710523",
-    "name": "Pinapalangkow"
+    "name": "Pinapalangkow",
+    "postal_code": "95952"
   },
   {
     "code": "7105232007",
     "district_code": "710523",
-    "name": "Kapoya"
+    "name": "Kapoya",
+    "postal_code": "95952"
   },
   {
     "code": "7105232008",
     "district_code": "710523",
-    "name": "Talaitad Utara"
+    "name": "Talaitad Utara",
+    "postal_code": "95952"
   },
   {
     "code": "7105232009",
     "district_code": "710523",
-    "name": "Kapoya Satu"
+    "name": "Kapoya Satu",
+    "postal_code": "95952"
   }
 ]

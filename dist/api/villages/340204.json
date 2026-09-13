@@ -2,16 +2,19 @@
   {
     "code": "3402042001",
     "district_code": "340204",
-    "name": "Seloharjo"
+    "name": "Seloharjo",
+    "postal_code": "55771"
   },
   {
     "code": "3402042002",
     "district_code": "340204",
-    "name": "Panjangrejo"
+    "name": "Panjangrejo",
+    "postal_code": "55771"
   },
   {
     "code": "3402042003",
     "district_code": "340204",
-    "name": "Srihardono"
+    "name": "Srihardono",
+    "postal_code": "55771"
   }
 ]

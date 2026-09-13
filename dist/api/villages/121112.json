@@ -2,41 +2,49 @@
   {
     "code": "1211122001",
     "district_code": "121112",
-    "name": "Bukit Lau Kersik"
+    "name": "Bukit Lau Kersik",
+    "postal_code": "22250"
   },
   {
     "code": "1211122002",
     "district_code": "121112",
-    "name": "Gunung Sitember"
+    "name": "Gunung Sitember",
+    "postal_code": "22250"
   },
   {
     "code": "1211122003",
     "district_code": "121112",
-    "name": "Batu Gun Gun"
+    "name": "Batu Gun Gun",
+    "postal_code": "22250"
   },
   {
     "code": "1211122004",
     "district_code": "121112",
-    "name": "Rante Besi"
+    "name": "Rante Besi",
+    "postal_code": "22250"
   },
   {
     "code": "1211122005",
     "district_code": "121112",
-    "name": "Gundaling"
+    "name": "Gundaling",
+    "postal_code": "22250"
   },
   {
     "code": "1211122006",
     "district_code": "121112",
-    "name": "Kendit Liang"
+    "name": "Kendit Liang",
+    "postal_code": "22250"
   },
   {
     "code": "1211122007",
     "district_code": "121112",
-    "name": "Lau Lebah"
+    "name": "Lau Lebah",
+    "postal_code": "22250"
   },
   {
     "code": "1211122008",
     "district_code": "121112",
-    "name": "Tupak Raja"
+    "name": "Tupak Raja",
+    "postal_code": "22250"
   }
 ]

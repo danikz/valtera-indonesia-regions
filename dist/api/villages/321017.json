@@ -2,76 +2,91 @@
   {
     "code": "3210172001",
     "district_code": "321017",
-    "name": "Bongas Wetan"
+    "name": "Bongas Wetan",
+    "postal_code": "45455"
   },
   {
     "code": "3210172002",
     "district_code": "321017",
-    "name": "Bongas Kulon"
+    "name": "Bongas Kulon",
+    "postal_code": "45455"
   },
   {
     "code": "3210172003",
     "district_code": "321017",
-    "name": "Garawangi"
+    "name": "Garawangi",
+    "postal_code": "45455"
   },
   {
     "code": "3210172004",
     "district_code": "321017",
-    "name": "Rancaputat"
+    "name": "Rancaputat",
+    "postal_code": "45455"
   },
   {
     "code": "3210172005",
     "district_code": "321017",
-    "name": "Banjaran"
+    "name": "Banjaran",
+    "postal_code": "45468"
   },
   {
     "code": "3210172006",
     "district_code": "321017",
-    "name": "Sepat"
+    "name": "Sepat",
+    "postal_code": "45455"
   },
   {
     "code": "3210172007",
     "district_code": "321017",
-    "name": "Paningkiran"
+    "name": "Paningkiran",
+    "postal_code": "45455"
   },
   {
     "code": "3210172008",
     "district_code": "321017",
-    "name": "Parapatan"
+    "name": "Parapatan",
+    "postal_code": "45455"
   },
   {
     "code": "3210172009",
     "district_code": "321017",
-    "name": "Panjalin Kidul"
+    "name": "Panjalin Kidul",
+    "postal_code": "45455"
   },
   {
     "code": "3210172010",
     "district_code": "321017",
-    "name": "Cidenok"
+    "name": "Cidenok",
+    "postal_code": "45455"
   },
   {
     "code": "3210172011",
     "district_code": "321017",
-    "name": "Lojikobong"
+    "name": "Lojikobong",
+    "postal_code": "45455"
   },
   {
     "code": "3210172012",
     "district_code": "321017",
-    "name": "Panjalin Lor"
+    "name": "Panjalin Lor",
+    "postal_code": "45455"
   },
   {
     "code": "3210172013",
     "district_code": "321017",
-    "name": "Sumberjaya"
+    "name": "Sumberjaya",
+    "postal_code": "45455"
   },
   {
     "code": "3210172014",
     "district_code": "321017",
-    "name": "Pancaksuji"
+    "name": "Pancaksuji",
+    "postal_code": "45455"
   },
   {
     "code": "3210172015",
     "district_code": "321017",
-    "name": "Gelok Mulya"
+    "name": "Gelok Mulya",
+    "postal_code": "45455"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "9403042001",
     "district_code": "940304",
-    "name": "Bogobaida"
+    "name": "Bogobaida",
+    "postal_code": "98736"
   },
   {
     "code": "9403042002",
     "district_code": "940304",
-    "name": "Nawipauwo"
+    "name": "Nawipauwo",
+    "postal_code": "98736"
   },
   {
     "code": "9403042003",
     "district_code": "940304",
-    "name": "Madou"
+    "name": "Madou",
+    "postal_code": "98736"
   },
   {
     "code": "9403042004",
     "district_code": "940304",
-    "name": "Jibudide II"
+    "name": "Jibudide II",
+    "postal_code": "98736"
   },
   {
     "code": "9403042005",
     "district_code": "940304",
-    "name": "Yamauwo"
+    "name": "Yamauwo",
+    "postal_code": "98736"
   },
   {
     "code": "9403042006",
     "district_code": "940304",
-    "name": "Kagoudide"
+    "name": "Kagoudide",
+    "postal_code": "98736"
   },
   {
     "code": "9403042007",
     "district_code": "940304",
-    "name": "Eyapouda"
+    "name": "Eyapouda",
+    "postal_code": "98736"
   },
   {
     "code": "9403042008",
     "district_code": "940304",
-    "name": "Miyokepi"
+    "name": "Miyokepi",
+    "postal_code": "98736"
   },
   {
     "code": "9403042009",
     "district_code": "940304",
-    "name": "Obaya Dimi"
+    "name": "Obaya Dimi",
+    "postal_code": "98736"
   }
 ]

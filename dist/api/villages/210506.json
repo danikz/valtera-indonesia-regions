@@ -2,31 +2,37 @@
   {
     "code": "2105061005",
     "district_code": "210506",
-    "name": "Letung"
+    "name": "Letung",
+    "postal_code": "29792"
   },
   {
     "code": "2105062001",
     "district_code": "210506",
-    "name": "Mampok"
+    "name": "Mampok",
+    "postal_code": "29792"
   },
   {
     "code": "2105062002",
     "district_code": "210506",
-    "name": "Rewak"
+    "name": "Rewak",
+    "postal_code": "29792"
   },
   {
     "code": "2105062006",
     "district_code": "210506",
-    "name": "Air Biru"
+    "name": "Air Biru",
+    "postal_code": "29792"
   },
   {
     "code": "2105062008",
     "district_code": "210506",
-    "name": "Batu Berapit"
+    "name": "Batu Berapit",
+    "postal_code": "29792"
   },
   {
     "code": "2105062009",
     "district_code": "210506",
-    "name": "Landak"
+    "name": "Landak",
+    "postal_code": "29792"
   }
 ]

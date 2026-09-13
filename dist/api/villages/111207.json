@@ -2,46 +2,55 @@
   {
     "code": "1112072001",
     "district_code": "111207",
-    "name": "Lhang"
+    "name": "Lhang",
+    "postal_code": "23763"
   },
   {
     "code": "1112072002",
     "district_code": "111207",
-    "name": "Rambong"
+    "name": "Rambong",
+    "postal_code": "23763"
   },
   {
     "code": "1112072003",
     "district_code": "111207",
-    "name": "Pisang"
+    "name": "Pisang",
+    "postal_code": "23763"
   },
   {
     "code": "1112072004",
     "district_code": "111207",
-    "name": "Ujong Tanoh"
+    "name": "Ujong Tanoh",
+    "postal_code": "23763"
   },
   {
     "code": "1112072005",
     "district_code": "111207",
-    "name": "Alue Dama"
+    "name": "Alue Dama",
+    "postal_code": "23763"
   },
   {
     "code": "1112072007",
     "district_code": "111207",
-    "name": "Tangan-Tangan Cut"
+    "name": "Tangan-Tangan Cut",
+    "postal_code": "23763"
   },
   {
     "code": "1112072008",
     "district_code": "111207",
-    "name": "Mon Mameh"
+    "name": "Mon Mameh",
+    "postal_code": "23763"
   },
   {
     "code": "1112072009",
     "district_code": "111207",
-    "name": "Cinta Makmur"
+    "name": "Cinta Makmur",
+    "postal_code": "23763"
   },
   {
     "code": "1112072010",
     "district_code": "111207",
-    "name": "Kuta Murni"
+    "name": "Kuta Murni",
+    "postal_code": "23763"
   }
 ]

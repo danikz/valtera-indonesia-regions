@@ -2,46 +2,55 @@
   {
     "code": "1901072001",
     "district_code": "190107",
-    "name": "Riau"
+    "name": "Riau",
+    "postal_code": "33254"
   },
   {
     "code": "1901072002",
     "district_code": "190107",
-    "name": "Pangkal Niur"
+    "name": "Pangkal Niur",
+    "postal_code": "33254"
   },
   {
     "code": "1901072003",
     "district_code": "190107",
-    "name": "Pugul"
+    "name": "Pugul",
+    "postal_code": "33254"
   },
   {
     "code": "1901072004",
     "district_code": "190107",
-    "name": "Cit"
+    "name": "Cit",
+    "postal_code": "33254"
   },
   {
     "code": "1901072005",
     "district_code": "190107",
-    "name": "Deniang"
+    "name": "Deniang",
+    "postal_code": "33254"
   },
   {
     "code": "1901072006",
     "district_code": "190107",
-    "name": "Silip"
+    "name": "Silip",
+    "postal_code": "33254"
   },
   {
     "code": "1901072007",
     "district_code": "190107",
-    "name": "Mapur"
+    "name": "Mapur",
+    "postal_code": "33254"
   },
   {
     "code": "1901072008",
     "district_code": "190107",
-    "name": "Banyu Asin"
+    "name": "Banyu Asin",
+    "postal_code": "33254"
   },
   {
     "code": "1901072009",
     "district_code": "190107",
-    "name": "Berbura"
+    "name": "Berbura",
+    "postal_code": "33254"
   }
 ]

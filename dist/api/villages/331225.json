@@ -2,31 +2,37 @@
   {
     "code": "3312251002",
     "district_code": "331225",
-    "name": "Giriharjo"
+    "name": "Giriharjo",
+    "postal_code": "57698"
   },
   {
     "code": "3312252001",
     "district_code": "331225",
-    "name": "Puhpelem"
+    "name": "Puhpelem",
+    "postal_code": "57698"
   },
   {
     "code": "3312252003",
     "district_code": "331225",
-    "name": "Nguneng"
+    "name": "Nguneng",
+    "postal_code": "57698"
   },
   {
     "code": "3312252004",
     "district_code": "331225",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "57698"
   },
   {
     "code": "3312252005",
     "district_code": "331225",
-    "name": "Tengger"
+    "name": "Tengger",
+    "postal_code": "57698"
   },
   {
     "code": "3312252006",
     "district_code": "331225",
-    "name": "Golo"
+    "name": "Golo",
+    "postal_code": "57698"
   }
 ]

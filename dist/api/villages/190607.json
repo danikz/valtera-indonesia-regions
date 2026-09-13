@@ -2,21 +2,25 @@
   {
     "code": "1906072001",
     "district_code": "190607",
-    "name": "Simpang Pesak"
+    "name": "Simpang Pesak",
+    "postal_code": "33560"
   },
   {
     "code": "1906072002",
     "district_code": "190607",
-    "name": "Tanjung Batu Itam"
+    "name": "Tanjung Batu Itam",
+    "postal_code": "33560"
   },
   {
     "code": "1906072003",
     "district_code": "190607",
-    "name": "Tanjung Kelumpang"
+    "name": "Tanjung Kelumpang",
+    "postal_code": "33560"
   },
   {
     "code": "1906072004",
     "district_code": "190607",
-    "name": "Dukong"
+    "name": "Dukong",
+    "postal_code": "33560"
   }
 ]

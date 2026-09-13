@@ -2,46 +2,55 @@
   {
     "code": "1171092001",
     "district_code": "117109",
-    "name": "Lambhuk"
+    "name": "Lambhuk",
+    "postal_code": "23118"
   },
   {
     "code": "1171092002",
     "district_code": "117109",
-    "name": "Lamteh"
+    "name": "Lamteh",
+    "postal_code": "23118"
   },
   {
     "code": "1171092003",
     "district_code": "117109",
-    "name": "Ilie"
+    "name": "Ilie",
+    "postal_code": "23119"
   },
   {
     "code": "1171092004",
     "district_code": "117109",
-    "name": "Pango Raya"
+    "name": "Pango Raya",
+    "postal_code": "23119"
   },
   {
     "code": "1171092005",
     "district_code": "117109",
-    "name": "Pango Deah"
+    "name": "Pango Deah",
+    "postal_code": "23119"
   },
   {
     "code": "1171092006",
     "district_code": "117109",
-    "name": "Ceurih"
+    "name": "Ceurih",
+    "postal_code": "23117"
   },
   {
     "code": "1171092007",
     "district_code": "117109",
-    "name": "Doy"
+    "name": "Doy",
+    "postal_code": "23117"
   },
   {
     "code": "1171092008",
     "district_code": "117109",
-    "name": "Lamglumpang"
+    "name": "Lamglumpang",
+    "postal_code": "23117"
   },
   {
     "code": "1171092009",
     "district_code": "117109",
-    "name": "Ie Masen Ulee Kareng"
+    "name": "Ie Masen Ulee Kareng",
+    "postal_code": "23117"
   }
 ]

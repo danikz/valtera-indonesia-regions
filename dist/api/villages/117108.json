@@ -2,46 +2,55 @@
   {
     "code": "1171082001",
     "district_code": "117108",
-    "name": "Punge Blang Cut"
+    "name": "Punge Blang Cut",
+    "postal_code": "23234"
   },
   {
     "code": "1171082002",
     "district_code": "117108",
-    "name": "Bitai"
+    "name": "Bitai",
+    "postal_code": "23235"
   },
   {
     "code": "1171082003",
     "district_code": "117108",
-    "name": "Lamjamee"
+    "name": "Lamjamee",
+    "postal_code": "23235"
   },
   {
     "code": "1171082004",
     "district_code": "117108",
-    "name": "Ulee Pata"
+    "name": "Ulee Pata",
+    "postal_code": "23235"
   },
   {
     "code": "1171082005",
     "district_code": "117108",
-    "name": "Lampoh Daya"
+    "name": "Lampoh Daya",
+    "postal_code": "23235"
   },
   {
     "code": "1171082006",
     "district_code": "117108",
-    "name": "Emperom"
+    "name": "Emperom",
+    "postal_code": "23236"
   },
   {
     "code": "1171082007",
     "district_code": "117108",
-    "name": "Geuceu Meunara"
+    "name": "Geuceu Meunara",
+    "postal_code": "23241"
   },
   {
     "code": "1171082008",
     "district_code": "117108",
-    "name": "Lamteumen Timur"
+    "name": "Lamteumen Timur",
+    "postal_code": "23230"
   },
   {
     "code": "1171082009",
     "district_code": "117108",
-    "name": "Lamteumen Barat"
+    "name": "Lamteumen Barat",
+    "postal_code": "23230"
   }
 ]

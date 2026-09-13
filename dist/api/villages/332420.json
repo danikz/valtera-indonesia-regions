@@ -2,41 +2,49 @@
   {
     "code": "3324202001",
     "district_code": "332420",
-    "name": "Jerukgiling"
+    "name": "Jerukgiling",
+    "postal_code": "51382"
   },
   {
     "code": "3324202002",
     "district_code": "332420",
-    "name": "Kedungsuren"
+    "name": "Kedungsuren",
+    "postal_code": "51372"
   },
   {
     "code": "3324202003",
     "district_code": "332420",
-    "name": "Darupono"
+    "name": "Darupono",
+    "postal_code": "51372"
   },
   {
     "code": "3324202004",
     "district_code": "332420",
-    "name": "Protomulyo"
+    "name": "Protomulyo",
+    "postal_code": "51372"
   },
   {
     "code": "3324202005",
     "district_code": "332420",
-    "name": "Magelung"
+    "name": "Magelung",
+    "postal_code": "51372"
   },
   {
     "code": "3324202006",
     "district_code": "332420",
-    "name": "Plantaran"
+    "name": "Plantaran",
+    "postal_code": "51372"
   },
   {
     "code": "3324202007",
     "district_code": "332420",
-    "name": "Sukomulyo"
+    "name": "Sukomulyo",
+    "postal_code": "51372"
   },
   {
     "code": "3324202008",
     "district_code": "332420",
-    "name": "Sidomakmur"
+    "name": "Sidomakmur",
+    "postal_code": "51372"
   }
 ]

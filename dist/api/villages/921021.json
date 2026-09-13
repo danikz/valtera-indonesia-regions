@@ -2,41 +2,49 @@
   {
     "code": "9210212001",
     "district_code": "921021",
-    "name": "Soroan"
+    "name": "Soroan",
+    "postal_code": ""
   },
   {
     "code": "9210212002",
     "district_code": "921021",
-    "name": "Fanse"
+    "name": "Fanse",
+    "postal_code": ""
   },
   {
     "code": "9210212003",
     "district_code": "921021",
-    "name": "Chaliat"
+    "name": "Chaliat",
+    "postal_code": ""
   },
   {
     "code": "9210212004",
     "district_code": "921021",
-    "name": "Sfacko"
+    "name": "Sfacko",
+    "postal_code": ""
   },
   {
     "code": "9210212005",
     "district_code": "921021",
-    "name": "Sehu"
+    "name": "Sehu",
+    "postal_code": ""
   },
   {
     "code": "9210212006",
     "district_code": "921021",
-    "name": "Tbo"
+    "name": "Tbo",
+    "postal_code": ""
   },
   {
     "code": "9210212007",
     "district_code": "921021",
-    "name": "Sien"
+    "name": "Sien",
+    "postal_code": ""
   },
   {
     "code": "9210212008",
     "district_code": "921021",
-    "name": "Sfaraka"
+    "name": "Sfaraka",
+    "postal_code": ""
   }
 ]

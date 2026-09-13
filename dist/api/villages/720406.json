@@ -2,46 +2,55 @@
   {
     "code": "7204062001",
     "district_code": "720406",
-    "name": "Janja"
+    "name": "Janja",
+    "postal_code": "94518"
   },
   {
     "code": "7204062002",
     "district_code": "720406",
-    "name": "Oyom"
+    "name": "Oyom",
+    "postal_code": "94518"
   },
   {
     "code": "7204062003",
     "district_code": "720406",
-    "name": "Salugan"
+    "name": "Salugan",
+    "postal_code": "94518"
   },
   {
     "code": "7204062004",
     "district_code": "720406",
-    "name": "Lampasio"
+    "name": "Lampasio",
+    "postal_code": "94517"
   },
   {
     "code": "7204062005",
     "district_code": "720406",
-    "name": "Tinading"
+    "name": "Tinading",
+    "postal_code": "94517"
   },
   {
     "code": "7204062006",
     "district_code": "720406",
-    "name": "Sibea"
+    "name": "Sibea",
+    "postal_code": "94518"
   },
   {
     "code": "7204062007",
     "district_code": "720406",
-    "name": "Maibua"
+    "name": "Maibua",
+    "postal_code": "94518"
   },
   {
     "code": "7204062008",
     "district_code": "720406",
-    "name": "Mulya Sari"
+    "name": "Mulya Sari",
+    "postal_code": "94518"
   },
   {
     "code": "7204062009",
     "district_code": "720406",
-    "name": "Ogomatanang"
+    "name": "Ogomatanang",
+    "postal_code": "94517"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "5201022001",
     "district_code": "520102",
-    "name": "Kediri"
+    "name": "Kediri",
+    "postal_code": "83362"
   },
   {
     "code": "5201022002",
     "district_code": "520102",
-    "name": "Montong Are"
+    "name": "Montong Are",
+    "postal_code": "83362"
   },
   {
     "code": "5201022003",
     "district_code": "520102",
-    "name": "Jagaraga Indah"
+    "name": "Jagaraga Indah",
+    "postal_code": "83362"
   },
   {
     "code": "5201022004",
     "district_code": "520102",
-    "name": "Gelogor"
+    "name": "Gelogor",
+    "postal_code": "83362"
   },
   {
     "code": "5201022005",
     "district_code": "520102",
-    "name": "Rumak"
+    "name": "Rumak",
+    "postal_code": "83362"
   },
   {
     "code": "5201022006",
     "district_code": "520102",
-    "name": "Banyumulek"
+    "name": "Banyumulek",
+    "postal_code": "83362"
   },
   {
     "code": "5201022007",
     "district_code": "520102",
-    "name": "Ombe Baru"
+    "name": "Ombe Baru",
+    "postal_code": "83362"
   },
   {
     "code": "5201022008",
     "district_code": "520102",
-    "name": "Dasan Baru"
+    "name": "Dasan Baru",
+    "postal_code": "83362"
   },
   {
     "code": "5201022009",
     "district_code": "520102",
-    "name": "Kediri Selatan"
+    "name": "Kediri Selatan",
+    "postal_code": "83362"
   },
   {
     "code": "5201022010",
     "district_code": "520102",
-    "name": "Lelede"
+    "name": "Lelede",
+    "postal_code": "83362"
   }
 ]

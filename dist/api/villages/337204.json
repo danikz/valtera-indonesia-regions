@@ -2,56 +2,67 @@
   {
     "code": "3372041001",
     "district_code": "337204",
-    "name": "Kepatihan Kulon"
+    "name": "Kepatihan Kulon",
+    "postal_code": "57129"
   },
   {
     "code": "3372041002",
     "district_code": "337204",
-    "name": "Kepatihan Wetan"
+    "name": "Kepatihan Wetan",
+    "postal_code": "57129"
   },
   {
     "code": "3372041003",
     "district_code": "337204",
-    "name": "Sudiroprajan"
+    "name": "Sudiroprajan",
+    "postal_code": "57121"
   },
   {
     "code": "3372041004",
     "district_code": "337204",
-    "name": "Gandekan"
+    "name": "Gandekan",
+    "postal_code": "57122"
   },
   {
     "code": "3372041005",
     "district_code": "337204",
-    "name": "Sewu"
+    "name": "Sewu",
+    "postal_code": "57129"
   },
   {
     "code": "3372041006",
     "district_code": "337204",
-    "name": "Pucangsawit"
+    "name": "Pucangsawit",
+    "postal_code": "57125"
   },
   {
     "code": "3372041007",
     "district_code": "337204",
-    "name": "Jagalan"
+    "name": "Jagalan",
+    "postal_code": "57162"
   },
   {
     "code": "3372041008",
     "district_code": "337204",
-    "name": "Purwodiningratan"
+    "name": "Purwodiningratan",
+    "postal_code": "57128"
   },
   {
     "code": "3372041009",
     "district_code": "337204",
-    "name": "Tegalharjo"
+    "name": "Tegalharjo",
+    "postal_code": "57128"
   },
   {
     "code": "3372041010",
     "district_code": "337204",
-    "name": "Jebres"
+    "name": "Jebres",
+    "postal_code": "57126"
   },
   {
     "code": "3372041011",
     "district_code": "337204",
-    "name": "Mojosongo"
+    "name": "Mojosongo",
+    "postal_code": "57127"
   }
 ]

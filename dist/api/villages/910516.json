@@ -2,36 +2,43 @@
   {
     "code": "9105162001",
     "district_code": "910516",
-    "name": "Kontinuai"
+    "name": "Kontinuai",
+    "postal_code": "98654"
   },
   {
     "code": "9105162002",
     "district_code": "910516",
-    "name": "Woniwon"
+    "name": "Woniwon",
+    "postal_code": "98654"
   },
   {
     "code": "9105162003",
     "district_code": "910516",
-    "name": "Sanayoka"
+    "name": "Sanayoka",
+    "postal_code": "98654"
   },
   {
     "code": "9105162004",
     "district_code": "910516",
-    "name": "Rambai"
+    "name": "Rambai",
+    "postal_code": "98654"
   },
   {
     "code": "9105162005",
     "district_code": "910516",
-    "name": "Yafanani"
+    "name": "Yafanani",
+    "postal_code": "98654"
   },
   {
     "code": "9105162006",
     "district_code": "910516",
-    "name": "Borai"
+    "name": "Borai",
+    "postal_code": "98654"
   },
   {
     "code": "9105162007",
     "district_code": "910516",
-    "name": "Kabuaena"
+    "name": "Kabuaena",
+    "postal_code": "98654"
   }
 ]

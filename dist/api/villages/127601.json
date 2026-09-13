@@ -2,36 +2,43 @@
   {
     "code": "1276011001",
     "district_code": "127601",
-    "name": "Pabatu"
+    "name": "Pabatu",
+    "postal_code": "20623"
   },
   {
     "code": "1276011002",
     "district_code": "127601",
-    "name": "Lubuk Baru"
+    "name": "Lubuk Baru",
+    "postal_code": "20622"
   },
   {
     "code": "1276011006",
     "district_code": "127601",
-    "name": "Persiakan"
+    "name": "Persiakan",
+    "postal_code": "20624"
   },
   {
     "code": "1276011007",
     "district_code": "127601",
-    "name": "Bandar Sono"
+    "name": "Bandar Sono",
+    "postal_code": "20625"
   },
   {
     "code": "1276011010",
     "district_code": "127601",
-    "name": "Tualang"
+    "name": "Tualang",
+    "postal_code": "20624"
   },
   {
     "code": "1276011011",
     "district_code": "127601",
-    "name": "Padang Merbau"
+    "name": "Padang Merbau",
+    "postal_code": "20624"
   },
   {
     "code": "1276011012",
     "district_code": "127601",
-    "name": "Lubuk Raya"
+    "name": "Lubuk Raya",
+    "postal_code": "20624"
   }
 ]

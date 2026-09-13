@@ -2,31 +2,37 @@
   {
     "code": "9103162001",
     "district_code": "910316",
-    "name": "Hulu Atas"
+    "name": "Hulu Atas",
+    "postal_code": "99363"
   },
   {
     "code": "9103162002",
     "district_code": "910316",
-    "name": "Pagai"
+    "name": "Pagai",
+    "postal_code": "99363"
   },
   {
     "code": "9103162003",
     "district_code": "910316",
-    "name": "Aurina"
+    "name": "Aurina",
+    "postal_code": "99363"
   },
   {
     "code": "9103162004",
     "district_code": "910316",
-    "name": "Muara Nawa"
+    "name": "Muara Nawa",
+    "postal_code": "99363"
   },
   {
     "code": "9103162005",
     "district_code": "910316",
-    "name": "Kamikaru"
+    "name": "Kamikaru",
+    "postal_code": "99363"
   },
   {
     "code": "9103162006",
     "district_code": "910316",
-    "name": "Naira"
+    "name": "Naira",
+    "postal_code": "99363"
   }
 ]

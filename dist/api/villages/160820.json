@@ -2,36 +2,43 @@
   {
     "code": "1608202001",
     "district_code": "160820",
-    "name": "Sri Bunga"
+    "name": "Sri Bunga",
+    "postal_code": "32364"
   },
   {
     "code": "1608202002",
     "district_code": "160820",
-    "name": "Anyar"
+    "name": "Anyar",
+    "postal_code": "32364"
   },
   {
     "code": "1608202003",
     "district_code": "160820",
-    "name": "Pandan Sari III"
+    "name": "Pandan Sari III",
+    "postal_code": "32364"
   },
   {
     "code": "1608202004",
     "district_code": "160820",
-    "name": "Rawasari"
+    "name": "Rawasari",
+    "postal_code": "32364"
   },
   {
     "code": "1608202005",
     "district_code": "160820",
-    "name": "Surya Menang"
+    "name": "Surya Menang",
+    "postal_code": "32364"
   },
   {
     "code": "1608202006",
     "district_code": "160820",
-    "name": "Muncak Kabau"
+    "name": "Muncak Kabau",
+    "postal_code": "32364"
   },
   {
     "code": "1608202007",
     "district_code": "160820",
-    "name": "Sri Bulan"
+    "name": "Sri Bulan",
+    "postal_code": "32364"
   }
 ]

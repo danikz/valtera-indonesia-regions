@@ -2,26 +2,31 @@
   {
     "code": "1502222001",
     "district_code": "150222",
-    "name": "Tambang Baru"
+    "name": "Tambang Baru",
+    "postal_code": "37357"
   },
   {
     "code": "1502222002",
     "district_code": "150222",
-    "name": "Sido Lego"
+    "name": "Sido Lego",
+    "postal_code": "37357"
   },
   {
     "code": "1502222003",
     "district_code": "150222",
-    "name": "Mensango"
+    "name": "Mensango",
+    "postal_code": "37357"
   },
   {
     "code": "1502222004",
     "district_code": "150222",
-    "name": "Koto Baru"
+    "name": "Koto Baru",
+    "postal_code": "37357"
   },
   {
     "code": "1502222005",
     "district_code": "150222",
-    "name": "Sido Harjo"
+    "name": "Sido Harjo",
+    "postal_code": "37357"
   }
 ]

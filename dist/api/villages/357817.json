@@ -2,21 +2,25 @@
   {
     "code": "3578171001",
     "district_code": "357817",
-    "name": "Tanah Kali Kedinding"
+    "name": "Tanah Kali Kedinding",
+    "postal_code": "60129"
   },
   {
     "code": "3578171002",
     "district_code": "357817",
-    "name": "Sidotopo Wetan"
+    "name": "Sidotopo Wetan",
+    "postal_code": "60128"
   },
   {
     "code": "3578171003",
     "district_code": "357817",
-    "name": "Bulak Banteng"
+    "name": "Bulak Banteng",
+    "postal_code": "60127"
   },
   {
     "code": "3578171004",
     "district_code": "357817",
-    "name": "Tambak Wedi"
+    "name": "Tambak Wedi",
+    "postal_code": "60126"
   }
 ]

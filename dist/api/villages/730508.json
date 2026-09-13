@@ -2,31 +2,37 @@
   {
     "code": "7305082001",
     "district_code": "730508",
-    "name": "Laguruda"
+    "name": "Laguruda",
+    "postal_code": "92231"
   },
   {
     "code": "7305082002",
     "district_code": "730508",
-    "name": "Banyuanyara"
+    "name": "Banyuanyara",
+    "postal_code": "92231"
   },
   {
     "code": "7305082003",
     "district_code": "730508",
-    "name": "Sanrobone"
+    "name": "Sanrobone",
+    "postal_code": "92231"
   },
   {
     "code": "7305082004",
     "district_code": "730508",
-    "name": "Paddinging"
+    "name": "Paddinging",
+    "postal_code": "92231"
   },
   {
     "code": "7305082005",
     "district_code": "730508",
-    "name": "Ujung Baji"
+    "name": "Ujung Baji",
+    "postal_code": "92231"
   },
   {
     "code": "7305082006",
     "district_code": "730508",
-    "name": "Tonasa"
+    "name": "Tonasa",
+    "postal_code": "92231"
   }
 ]

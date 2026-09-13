@@ -2,36 +2,43 @@
   {
     "code": "3310232001",
     "district_code": "331023",
-    "name": "Jimbung"
+    "name": "Jimbung",
+    "postal_code": "57451"
   },
   {
     "code": "3310232002",
     "district_code": "331023",
-    "name": "Ngemplak"
+    "name": "Ngemplak",
+    "postal_code": "57451"
   },
   {
     "code": "3310232003",
     "district_code": "331023",
-    "name": "Kalikotes"
+    "name": "Kalikotes",
+    "postal_code": "57451"
   },
   {
     "code": "3310232004",
     "district_code": "331023",
-    "name": "Krajan"
+    "name": "Krajan",
+    "postal_code": "57451"
   },
   {
     "code": "3310232005",
     "district_code": "331023",
-    "name": "Tambongwetan"
+    "name": "Tambongwetan",
+    "postal_code": "57451"
   },
   {
     "code": "3310232006",
     "district_code": "331023",
-    "name": "Jogosetran"
+    "name": "Jogosetran",
+    "postal_code": "57451"
   },
   {
     "code": "3310232007",
     "district_code": "331023",
-    "name": "Gemblegan"
+    "name": "Gemblegan",
+    "postal_code": "57451"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "7324112001",
     "district_code": "732411",
-    "name": "Ledu Ledu"
+    "name": "Ledu Ledu",
+    "postal_code": "92984"
   },
   {
     "code": "7324112002",
     "district_code": "732411",
-    "name": "Kawata"
+    "name": "Kawata",
+    "postal_code": "92984"
   },
   {
     "code": "7324112003",
     "district_code": "732411",
-    "name": "Tabarano"
+    "name": "Tabarano",
+    "postal_code": "92984"
   },
   {
     "code": "7324112004",
     "district_code": "732411",
-    "name": "Wasuponda"
+    "name": "Wasuponda",
+    "postal_code": "92984"
   },
   {
     "code": "7324112005",
     "district_code": "732411",
-    "name": "Parumpanai"
+    "name": "Parumpanai",
+    "postal_code": "92984"
   },
   {
     "code": "7324112006",
     "district_code": "732411",
-    "name": "Balambano"
+    "name": "Balambano",
+    "postal_code": "92984"
   }
 ]

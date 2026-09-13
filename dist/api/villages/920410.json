@@ -2,36 +2,43 @@
   {
     "code": "9204102001",
     "district_code": "920410",
-    "name": "Moswaren"
+    "name": "Moswaren",
+    "postal_code": ""
   },
   {
     "code": "9204102002",
     "district_code": "920410",
-    "name": "Johsiro"
+    "name": "Johsiro",
+    "postal_code": ""
   },
   {
     "code": "9204102003",
     "district_code": "920410",
-    "name": "Hararo"
+    "name": "Hararo",
+    "postal_code": ""
   },
   {
     "code": "9204102004",
     "district_code": "920410",
-    "name": "Bumi Ajo"
+    "name": "Bumi Ajo",
+    "postal_code": ""
   },
   {
     "code": "9204102005",
     "district_code": "920410",
-    "name": "Hasik Jaya"
+    "name": "Hasik Jaya",
+    "postal_code": ""
   },
   {
     "code": "9204102006",
     "district_code": "920410",
-    "name": "Kamisabe"
+    "name": "Kamisabe",
+    "postal_code": ""
   },
   {
     "code": "9204102007",
     "district_code": "920410",
-    "name": "Tokass"
+    "name": "Tokass",
+    "postal_code": ""
   }
 ]

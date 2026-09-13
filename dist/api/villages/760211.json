@@ -2,71 +2,85 @@
   {
     "code": "7602112001",
     "district_code": "760211",
-    "name": "Tommo"
+    "name": "Tommo",
+    "postal_code": "91564"
   },
   {
     "code": "7602112002",
     "district_code": "760211",
-    "name": "Campaloga"
+    "name": "Campaloga",
+    "postal_code": "91564"
   },
   {
     "code": "7602112003",
     "district_code": "760211",
-    "name": "Buana Sakti"
+    "name": "Buana Sakti",
+    "postal_code": "91564"
   },
   {
     "code": "7602112004",
     "district_code": "760211",
-    "name": "Tamemongga"
+    "name": "Tamemongga",
+    "postal_code": "91564"
   },
   {
     "code": "7602112005",
     "district_code": "760211",
-    "name": "Tamejarra"
+    "name": "Tamejarra",
+    "postal_code": "91564"
   },
   {
     "code": "7602112006",
     "district_code": "760211",
-    "name": "Rantemario"
+    "name": "Rantemario",
+    "postal_code": "91564"
   },
   {
     "code": "7602112007",
     "district_code": "760211",
-    "name": "Malino"
+    "name": "Malino",
+    "postal_code": "91564"
   },
   {
     "code": "7602112008",
     "district_code": "760211",
-    "name": "Kakullasang"
+    "name": "Kakullasang",
+    "postal_code": "91564"
   },
   {
     "code": "7602112009",
     "district_code": "760211",
-    "name": "Leling"
+    "name": "Leling",
+    "postal_code": "91564"
   },
   {
     "code": "7602112010",
     "district_code": "760211",
-    "name": "Kalepu"
+    "name": "Kalepu",
+    "postal_code": "91564"
   },
   {
     "code": "7602112011",
     "district_code": "760211",
-    "name": "Sandana"
+    "name": "Sandana",
+    "postal_code": "91564"
   },
   {
     "code": "7602112012",
     "district_code": "760211",
-    "name": "Leling Barat"
+    "name": "Leling Barat",
+    "postal_code": "91564"
   },
   {
     "code": "7602112013",
     "district_code": "760211",
-    "name": "Leling Utara"
+    "name": "Leling Utara",
+    "postal_code": "91564"
   },
   {
     "code": "7602112014",
     "district_code": "760211",
-    "name": "Saludengen"
+    "name": "Saludengen",
+    "postal_code": "91564"
   }
 ]

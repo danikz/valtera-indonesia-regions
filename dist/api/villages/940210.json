@@ -2,56 +2,67 @@
   {
     "code": "9402102001",
     "district_code": "940210",
-    "name": "Yarmukum"
+    "name": "Yarmukum",
+    "postal_code": "98911"
   },
   {
     "code": "9402102002",
     "district_code": "940210",
-    "name": "Pilia"
+    "name": "Pilia",
+    "postal_code": "98911"
   },
   {
     "code": "9402102003",
     "district_code": "940210",
-    "name": "Yaniruk"
+    "name": "Yaniruk",
+    "postal_code": "98911"
   },
   {
     "code": "9402102004",
     "district_code": "940210",
-    "name": "Gwenggu"
+    "name": "Gwenggu",
+    "postal_code": "98911"
   },
   {
     "code": "9402102005",
     "district_code": "940210",
-    "name": "Tukwi"
+    "name": "Tukwi",
+    "postal_code": "98911"
   },
   {
     "code": "9402102006",
     "district_code": "940210",
-    "name": "Tiru"
+    "name": "Tiru",
+    "postal_code": "98911"
   },
   {
     "code": "9402102007",
     "district_code": "940210",
-    "name": "Yogorini"
+    "name": "Yogorini",
+    "postal_code": "98911"
   },
   {
     "code": "9402102008",
     "district_code": "940210",
-    "name": "Nalime"
+    "name": "Nalime",
+    "postal_code": "98911"
   },
   {
     "code": "9402102009",
     "district_code": "940210",
-    "name": "Urgele"
+    "name": "Urgele",
+    "postal_code": "98911"
   },
   {
     "code": "9402102010",
     "district_code": "940210",
-    "name": "Yagonik"
+    "name": "Yagonik",
+    "postal_code": "98911"
   },
   {
     "code": "9402102011",
     "district_code": "940210",
-    "name": "Lulame"
+    "name": "Lulame",
+    "postal_code": "98911"
   }
 ]

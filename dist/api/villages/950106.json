@@ -2,31 +2,37 @@
   {
     "code": "9501062001",
     "district_code": "950106",
-    "name": "Walelagama"
+    "name": "Walelagama",
+    "postal_code": "99510"
   },
   {
     "code": "9501062002",
     "district_code": "950106",
-    "name": "Pugima"
+    "name": "Pugima",
+    "postal_code": "99510"
   },
   {
     "code": "9501062003",
     "district_code": "950106",
-    "name": "Itlay Halitopo"
+    "name": "Itlay Halitopo",
+    "postal_code": "99521"
   },
   {
     "code": "9501062004",
     "district_code": "950106",
-    "name": "Kubulakma"
+    "name": "Kubulakma",
+    "postal_code": "99521"
   },
   {
     "code": "9501062005",
     "district_code": "950106",
-    "name": "Kulaken"
+    "name": "Kulaken",
+    "postal_code": "99521"
   },
   {
     "code": "9501062006",
     "district_code": "950106",
-    "name": "Wamusage"
+    "name": "Wamusage",
+    "postal_code": "99521"
   }
 ]

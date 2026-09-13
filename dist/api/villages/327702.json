@@ -2,31 +2,37 @@
   {
     "code": "3277021001",
     "district_code": "327702",
-    "name": "Baros"
+    "name": "Baros",
+    "postal_code": "40521"
   },
   {
     "code": "3277021002",
     "district_code": "327702",
-    "name": "Cigugur Tengah"
+    "name": "Cigugur Tengah",
+    "postal_code": "40522"
   },
   {
     "code": "3277021003",
     "district_code": "327702",
-    "name": "Karangmekar"
+    "name": "Karangmekar",
+    "postal_code": "40523"
   },
   {
     "code": "3277021004",
     "district_code": "327702",
-    "name": "Setiamanah"
+    "name": "Setiamanah",
+    "postal_code": "40524"
   },
   {
     "code": "3277021005",
     "district_code": "327702",
-    "name": "Padasuka"
+    "name": "Padasuka",
+    "postal_code": "40526"
   },
   {
     "code": "3277021006",
     "district_code": "327702",
-    "name": "Cimahi"
+    "name": "Cimahi",
+    "postal_code": "40525"
   }
 ]

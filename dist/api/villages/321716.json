@@ -2,31 +2,37 @@
   {
     "code": "3217162001",
     "district_code": "321716",
-    "name": "Cikande"
+    "name": "Cikande",
+    "postal_code": "40560"
   },
   {
     "code": "3217162002",
     "district_code": "321716",
-    "name": "Jati"
+    "name": "Jati",
+    "postal_code": "40560"
   },
   {
     "code": "3217162003",
     "district_code": "321716",
-    "name": "Girimukti"
+    "name": "Girimukti",
+    "postal_code": "40560"
   },
   {
     "code": "3217162004",
     "district_code": "321716",
-    "name": "Bojonghaleuang"
+    "name": "Bojonghaleuang",
+    "postal_code": "40560"
   },
   {
     "code": "3217162005",
     "district_code": "321716",
-    "name": "Cipangeran"
+    "name": "Cipangeran",
+    "postal_code": "40560"
   },
   {
     "code": "3217162006",
     "district_code": "321716",
-    "name": "Saguling"
+    "name": "Saguling",
+    "postal_code": "40560"
   }
 ]

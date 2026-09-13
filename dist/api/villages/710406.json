@@ -2,61 +2,73 @@
   {
     "code": "7104062001",
     "district_code": "710406",
-    "name": "Pangeran"
+    "name": "Pangeran",
+    "postal_code": "95873"
   },
   {
     "code": "7104062007",
     "district_code": "710406",
-    "name": "Bulude"
+    "name": "Bulude",
+    "postal_code": "95873"
   },
   {
     "code": "7104062008",
     "district_code": "710406",
-    "name": "Pantuge"
+    "name": "Pantuge",
+    "postal_code": "95873"
   },
   {
     "code": "7104062009",
     "district_code": "710406",
-    "name": "Kabaruan"
+    "name": "Kabaruan",
+    "postal_code": "95873"
   },
   {
     "code": "7104062010",
     "district_code": "710406",
-    "name": "Mangaran"
+    "name": "Mangaran",
+    "postal_code": "95873"
   },
   {
     "code": "7104062011",
     "district_code": "710406",
-    "name": "Kordakel"
+    "name": "Kordakel",
+    "postal_code": "95873"
   },
   {
     "code": "7104062012",
     "district_code": "710406",
-    "name": "Rarange"
+    "name": "Rarange",
+    "postal_code": "95873"
   },
   {
     "code": "7104062013",
     "district_code": "710406",
-    "name": "Taduna"
+    "name": "Taduna",
+    "postal_code": "95873"
   },
   {
     "code": "7104062017",
     "district_code": "710406",
-    "name": "Kabaruan Timur"
+    "name": "Kabaruan Timur",
+    "postal_code": "95873"
   },
   {
     "code": "7104062018",
     "district_code": "710406",
-    "name": "Pantuge Timur"
+    "name": "Pantuge Timur",
+    "postal_code": "95873"
   },
   {
     "code": "7104062019",
     "district_code": "710406",
-    "name": "Pannulan"
+    "name": "Pannulan",
+    "postal_code": "95873"
   },
   {
     "code": "7104062020",
     "district_code": "710406",
-    "name": "Bulude Selatan"
+    "name": "Bulude Selatan",
+    "postal_code": "95873"
   }
 ]

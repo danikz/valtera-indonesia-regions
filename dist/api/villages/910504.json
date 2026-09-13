@@ -2,56 +2,67 @@
   {
     "code": "9105042003",
     "district_code": "910504",
-    "name": "Menawi"
+    "name": "Menawi",
+    "postal_code": "98655"
   },
   {
     "code": "9105042004",
     "district_code": "910504",
-    "name": "Wadapi"
+    "name": "Wadapi",
+    "postal_code": "98655"
   },
   {
     "code": "9105042009",
     "district_code": "910504",
-    "name": "Kainui I"
+    "name": "Kainui I",
+    "postal_code": "98655"
   },
   {
     "code": "9105042010",
     "district_code": "910504",
-    "name": "Aitiri"
+    "name": "Aitiri",
+    "postal_code": "98655"
   },
   {
     "code": "9105042011",
     "district_code": "910504",
-    "name": "Wawuti"
+    "name": "Wawuti",
+    "postal_code": "98655"
   },
   {
     "code": "9105042015",
     "district_code": "910504",
-    "name": "Roipi"
+    "name": "Roipi",
+    "postal_code": "98655"
   },
   {
     "code": "9105042016",
     "district_code": "910504",
-    "name": "Ransarnoni"
+    "name": "Ransarnoni",
+    "postal_code": "98655"
   },
   {
     "code": "9105042021",
     "district_code": "910504",
-    "name": "Kainui II"
+    "name": "Kainui II",
+    "postal_code": "98655"
   },
   {
     "code": "9105042024",
     "district_code": "910504",
-    "name": "Wanampompi"
+    "name": "Wanampompi",
+    "postal_code": "98655"
   },
   {
     "code": "9105042028",
     "district_code": "910504",
-    "name": "Mananayam"
+    "name": "Mananayam",
+    "postal_code": "98655"
   },
   {
     "code": "9105042030",
     "district_code": "910504",
-    "name": "Roipi Dua"
+    "name": "Roipi Dua",
+    "postal_code": "98655"
   }
 ]

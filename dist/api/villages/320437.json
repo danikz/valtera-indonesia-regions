@@ -2,51 +2,61 @@
   {
     "code": "3204372001",
     "district_code": "320437",
-    "name": "Soreang"
+    "name": "Soreang",
+    "postal_code": "40911"
   },
   {
     "code": "3204372002",
     "district_code": "320437",
-    "name": "Sadu"
+    "name": "Sadu",
+    "postal_code": "40913"
   },
   {
     "code": "3204372004",
     "district_code": "320437",
-    "name": "Panyirapan"
+    "name": "Panyirapan",
+    "postal_code": "40915"
   },
   {
     "code": "3204372010",
     "district_code": "320437",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "40911"
   },
   {
     "code": "3204372011",
     "district_code": "320437",
-    "name": "Pamekaran"
+    "name": "Pamekaran",
+    "postal_code": "40912"
   },
   {
     "code": "3204372017",
     "district_code": "320437",
-    "name": "Karamatmulya"
+    "name": "Karamatmulya",
+    "postal_code": "40914"
   },
   {
     "code": "3204372018",
     "district_code": "320437",
-    "name": "Sukanagara"
+    "name": "Sukanagara",
+    "postal_code": "40911"
   },
   {
     "code": "3204372019",
     "district_code": "320437",
-    "name": "Cingcin"
+    "name": "Cingcin",
+    "postal_code": "40914"
   },
   {
     "code": "3204372020",
     "district_code": "320437",
-    "name": "Parungserab"
+    "name": "Parungserab",
+    "postal_code": "40914"
   },
   {
     "code": "3204372021",
     "district_code": "320437",
-    "name": "Sekarwangi"
+    "name": "Sekarwangi",
+    "postal_code": "40914"
   }
 ]

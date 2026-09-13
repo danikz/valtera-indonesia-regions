@@ -2,31 +2,37 @@
   {
     "code": "1806282001",
     "district_code": "180628",
-    "name": "Lengkukai"
+    "name": "Lengkukai",
+    "postal_code": "35389"
   },
   {
     "code": "1806282002",
     "district_code": "180628",
-    "name": "Sidoharjo"
+    "name": "Sidoharjo",
+    "postal_code": "35389"
   },
   {
     "code": "1806282003",
     "district_code": "180628",
-    "name": "Merbau"
+    "name": "Merbau",
+    "postal_code": "35389"
   },
   {
     "code": "1806282004",
     "district_code": "180628",
-    "name": "Batu Patah"
+    "name": "Batu Patah",
+    "postal_code": "35389"
   },
   {
     "code": "1806282005",
     "district_code": "180628",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "35389"
   },
   {
     "code": "1806282006",
     "district_code": "180628",
-    "name": "Marga Mulya"
+    "name": "Marga Mulya",
+    "postal_code": "35389"
   }
 ]

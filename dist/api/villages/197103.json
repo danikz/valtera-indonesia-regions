@@ -2,26 +2,31 @@
   {
     "code": "1971031004",
     "district_code": "197103",
-    "name": "Pasir Garam"
+    "name": "Pasir Garam",
+    "postal_code": "33115"
   },
   {
     "code": "1971031005",
     "district_code": "197103",
-    "name": "Lontong Pancur"
+    "name": "Lontong Pancur",
+    "postal_code": "33115"
   },
   {
     "code": "1971031006",
     "district_code": "197103",
-    "name": "Ketapang"
+    "name": "Ketapang",
+    "postal_code": "33111"
   },
   {
     "code": "1971031007",
     "district_code": "197103",
-    "name": "Ampui"
+    "name": "Ampui",
+    "postal_code": "33113"
   },
   {
     "code": "1971031008",
     "district_code": "197103",
-    "name": "Rejo Sari"
+    "name": "Rejo Sari",
+    "postal_code": "33111"
   }
 ]

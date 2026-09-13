@@ -2,16 +2,19 @@
   {
     "code": "2103162001",
     "district_code": "210316",
-    "name": "Tapau"
+    "name": "Tapau",
+    "postal_code": "29778"
   },
   {
     "code": "2103162002",
     "district_code": "210316",
-    "name": "Harapan Jaya"
+    "name": "Harapan Jaya",
+    "postal_code": "29778"
   },
   {
     "code": "2103162003",
     "district_code": "210316",
-    "name": "Air Lengit"
+    "name": "Air Lengit",
+    "postal_code": "29778"
   }
 ]

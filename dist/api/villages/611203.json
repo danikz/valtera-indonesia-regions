@@ -2,76 +2,91 @@
   {
     "code": "6112032001",
     "district_code": "611203",
-    "name": "Simpang Kanan"
+    "name": "Simpang Kanan",
+    "postal_code": "78393"
   },
   {
     "code": "6112032002",
     "district_code": "611203",
-    "name": "Mega Timur"
+    "name": "Mega Timur",
+    "postal_code": "78393"
   },
   {
     "code": "6112032003",
     "district_code": "611203",
-    "name": "Bengkarek"
+    "name": "Bengkarek",
+    "postal_code": "78393"
   },
   {
     "code": "6112032004",
     "district_code": "611203",
-    "name": "Lingga"
+    "name": "Lingga",
+    "postal_code": "78393"
   },
   {
     "code": "6112032005",
     "district_code": "611203",
-    "name": "Sungai Ambawang Kuala"
+    "name": "Sungai Ambawang Kuala",
+    "postal_code": "78393"
   },
   {
     "code": "6112032006",
     "district_code": "611203",
-    "name": "Jawa Tengah"
+    "name": "Jawa Tengah",
+    "postal_code": "78393"
   },
   {
     "code": "6112032007",
     "district_code": "611203",
-    "name": "Durian"
+    "name": "Durian",
+    "postal_code": "78393"
   },
   {
     "code": "6112032008",
     "district_code": "611203",
-    "name": "Pancaroba"
+    "name": "Pancaroba",
+    "postal_code": "78393"
   },
   {
     "code": "6112032009",
     "district_code": "611203",
-    "name": "Puguk"
+    "name": "Puguk",
+    "postal_code": "78393"
   },
   {
     "code": "6112032010",
     "district_code": "611203",
-    "name": "Korek"
+    "name": "Korek",
+    "postal_code": "78393"
   },
   {
     "code": "6112032011",
     "district_code": "611203",
-    "name": "Pasak"
+    "name": "Pasak",
+    "postal_code": "78393"
   },
   {
     "code": "6112032012",
     "district_code": "611203",
-    "name": "Pasak Piang"
+    "name": "Pasak Piang",
+    "postal_code": "78393"
   },
   {
     "code": "6112032013",
     "district_code": "611203",
-    "name": "Teluk Bakung"
+    "name": "Teluk Bakung",
+    "postal_code": "78393"
   },
   {
     "code": "6112032014",
     "district_code": "611203",
-    "name": "Ampera Raya"
+    "name": "Ampera Raya",
+    "postal_code": "78393"
   },
   {
     "code": "6112032015",
     "district_code": "611203",
-    "name": "Sungai Malaya"
+    "name": "Sungai Malaya",
+    "postal_code": "78393"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "9106102001",
     "district_code": "910610",
-    "name": "Pai"
+    "name": "Pai",
+    "postal_code": "98556"
   },
   {
     "code": "9106102002",
     "district_code": "910610",
-    "name": "Auki"
+    "name": "Auki",
+    "postal_code": "98556"
   },
   {
     "code": "9106102003",
     "district_code": "910610",
-    "name": "Wundi"
+    "name": "Wundi",
+    "postal_code": "98556"
   },
   {
     "code": "9106102004",
     "district_code": "910610",
-    "name": "Nusi Babaruk"
+    "name": "Nusi Babaruk",
+    "postal_code": "98556"
   },
   {
     "code": "9106102005",
     "district_code": "910610",
-    "name": "Nusi"
+    "name": "Nusi",
+    "postal_code": "98556"
   },
   {
     "code": "9106102014",
     "district_code": "910610",
-    "name": "Inbeyomi"
+    "name": "Inbeyomi",
+    "postal_code": "98556"
   },
   {
     "code": "9106102015",
     "district_code": "910610",
-    "name": "Sorina"
+    "name": "Sorina",
+    "postal_code": "98556"
   },
   {
     "code": "9106102016",
     "district_code": "910610",
-    "name": "Sandidori"
+    "name": "Sandidori",
+    "postal_code": "98556"
   },
   {
     "code": "9106102020",
     "district_code": "910610",
-    "name": "Paidori"
+    "name": "Paidori",
+    "postal_code": "98556"
   },
   {
     "code": "9106102021",
     "district_code": "910610",
-    "name": "Kanai"
+    "name": "Kanai",
+    "postal_code": "98556"
   },
   {
     "code": "9106102022",
     "district_code": "910610",
-    "name": "Sokani"
+    "name": "Sokani",
+    "postal_code": "98556"
   }
 ]

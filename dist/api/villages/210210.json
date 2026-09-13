@@ -2,21 +2,25 @@
   {
     "code": "2102101001",
     "district_code": "210210",
-    "name": "Pasir Panjang"
+    "name": "Pasir Panjang",
+    "postal_code": "29667"
   },
   {
     "code": "2102101002",
     "district_code": "210210",
-    "name": "Darussalam"
+    "name": "Darussalam",
+    "postal_code": "29667"
   },
   {
     "code": "2102102003",
     "district_code": "210210",
-    "name": "Pangke"
+    "name": "Pangke",
+    "postal_code": "29667"
   },
   {
     "code": "2102102004",
     "district_code": "210210",
-    "name": "Pangke Barat"
+    "name": "Pangke Barat",
+    "postal_code": "29667"
   }
 ]

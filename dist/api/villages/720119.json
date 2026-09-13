@@ -2,51 +2,61 @@
   {
     "code": "7201192001",
     "district_code": "720119",
-    "name": "Kampangar"
+    "name": "Kampangar",
+    "postal_code": "94775"
   },
   {
     "code": "7201192002",
     "district_code": "720119",
-    "name": "Kuntang"
+    "name": "Kuntang",
+    "postal_code": "94775"
   },
   {
     "code": "7201192003",
     "district_code": "720119",
-    "name": "Pulau Dua"
+    "name": "Pulau Dua",
+    "postal_code": "94775"
   },
   {
     "code": "7201192004",
     "district_code": "720119",
-    "name": "Teku"
+    "name": "Teku",
+    "postal_code": "94775"
   },
   {
     "code": "7201192005",
     "district_code": "720119",
-    "name": "Ondoliang"
+    "name": "Ondoliang",
+    "postal_code": "94775"
   },
   {
     "code": "7201192006",
     "district_code": "720119",
-    "name": "Batu Simpang"
+    "name": "Batu Simpang",
+    "postal_code": "94775"
   },
   {
     "code": "7201192007",
     "district_code": "720119",
-    "name": "Batu Mandi"
+    "name": "Batu Mandi",
+    "postal_code": "94775"
   },
   {
     "code": "7201192008",
     "district_code": "720119",
-    "name": "Pangkalaseang"
+    "name": "Pangkalaseang",
+    "postal_code": "94775"
   },
   {
     "code": "7201192009",
     "district_code": "720119",
-    "name": "Pangkalaseang Baru"
+    "name": "Pangkalaseang Baru",
+    "postal_code": "94775"
   },
   {
     "code": "7201192010",
     "district_code": "720119",
-    "name": "Toweer"
+    "name": "Toweer",
+    "postal_code": "94775"
   }
 ]

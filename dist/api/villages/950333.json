@@ -2,26 +2,31 @@
   {
     "code": "9503332001",
     "district_code": "950333",
-    "name": "Dirwemna"
+    "name": "Dirwemna",
+    "postal_code": "99752"
   },
   {
     "code": "9503332002",
     "district_code": "950333",
-    "name": "Aksal"
+    "name": "Aksal",
+    "postal_code": "99752"
   },
   {
     "code": "9503332003",
     "district_code": "950333",
-    "name": "Dolsen"
+    "name": "Dolsen",
+    "postal_code": "99752"
   },
   {
     "code": "9503332004",
     "district_code": "950333",
-    "name": "Salengkomo"
+    "name": "Salengkomo",
+    "postal_code": "99752"
   },
   {
     "code": "9503332005",
     "district_code": "950333",
-    "name": "Silion"
+    "name": "Silion",
+    "postal_code": "99752"
   }
 ]

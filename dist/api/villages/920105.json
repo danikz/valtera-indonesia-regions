@@ -2,36 +2,43 @@
   {
     "code": "9201051001",
     "district_code": "920105",
-    "name": "Katinim"
+    "name": "Katinim",
+    "postal_code": ""
   },
   {
     "code": "9201051006",
     "district_code": "920105",
-    "name": "Majener"
+    "name": "Majener",
+    "postal_code": ""
   },
   {
     "code": "9201051007",
     "district_code": "920105",
-    "name": "Majaran"
+    "name": "Majaran",
+    "postal_code": ""
   },
   {
     "code": "9201051009",
     "district_code": "920105",
-    "name": "Matawolot"
+    "name": "Matawolot",
+    "postal_code": ""
   },
   {
     "code": "9201052011",
     "district_code": "920105",
-    "name": "Walal"
+    "name": "Walal",
+    "postal_code": ""
   },
   {
     "code": "9201052012",
     "district_code": "920105",
-    "name": "Malaus"
+    "name": "Malaus",
+    "postal_code": ""
   },
   {
     "code": "9201052018",
     "district_code": "920105",
-    "name": "Rawa Sugi"
+    "name": "Rawa Sugi",
+    "postal_code": ""
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "7106102001",
     "district_code": "710610",
-    "name": "Kokoleh Satu"
+    "name": "Kokoleh Satu",
+    "postal_code": "95374"
   },
   {
     "code": "7106102002",
     "district_code": "710610",
-    "name": "Kokoleh Dua"
+    "name": "Kokoleh Dua",
+    "postal_code": "95374"
   },
   {
     "code": "7106102003",
     "district_code": "710610",
-    "name": "Paslaten"
+    "name": "Paslaten",
+    "postal_code": "95374"
   },
   {
     "code": "7106102004",
     "district_code": "710610",
-    "name": "Kaweruan"
+    "name": "Kaweruan",
+    "postal_code": "95374"
   },
   {
     "code": "7106102005",
     "district_code": "710610",
-    "name": "Wangurer"
+    "name": "Wangurer",
+    "postal_code": "95374"
   },
   {
     "code": "7106102006",
     "district_code": "710610",
-    "name": "Batu"
+    "name": "Batu",
+    "postal_code": "95374"
   },
   {
     "code": "7106102007",
     "district_code": "710610",
-    "name": "Werot"
+    "name": "Werot",
+    "postal_code": "95374"
   }
 ]

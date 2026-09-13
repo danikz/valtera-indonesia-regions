@@ -2,41 +2,49 @@
   {
     "code": "6101052001",
     "district_code": "610105",
-    "name": "Pemangkat Kota"
+    "name": "Pemangkat Kota",
+    "postal_code": "79455"
   },
   {
     "code": "6101052002",
     "district_code": "610105",
-    "name": "Harapan"
+    "name": "Harapan",
+    "postal_code": "79455"
   },
   {
     "code": "6101052003",
     "district_code": "610105",
-    "name": "Penjajap"
+    "name": "Penjajap",
+    "postal_code": "79455"
   },
   {
     "code": "6101052005",
     "district_code": "610105",
-    "name": "Jelutung"
+    "name": "Jelutung",
+    "postal_code": "79455"
   },
   {
     "code": "6101052013",
     "district_code": "610105",
-    "name": "Perapakan"
+    "name": "Perapakan",
+    "postal_code": "79455"
   },
   {
     "code": "6101052016",
     "district_code": "610105",
-    "name": "Sebatuan"
+    "name": "Sebatuan",
+    "postal_code": "79455"
   },
   {
     "code": "6101052017",
     "district_code": "610105",
-    "name": "Gugah Sejahtera"
+    "name": "Gugah Sejahtera",
+    "postal_code": "79455"
   },
   {
     "code": "6101052018",
     "district_code": "610105",
-    "name": "Lonam"
+    "name": "Lonam",
+    "postal_code": "79455"
   }
 ]

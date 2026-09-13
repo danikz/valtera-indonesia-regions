@@ -2,41 +2,49 @@
   {
     "code": "9304242001",
     "district_code": "930424",
-    "name": "Tomor"
+    "name": "Tomor",
+    "postal_code": "99780"
   },
   {
     "code": "9304242002",
     "district_code": "930424",
-    "name": "Munu"
+    "name": "Munu",
+    "postal_code": "99780"
   },
   {
     "code": "9304242003",
     "district_code": "930424",
-    "name": "Abamu"
+    "name": "Abamu",
+    "postal_code": "99780"
   },
   {
     "code": "9304242004",
     "district_code": "930424",
-    "name": "Tie"
+    "name": "Tie",
+    "postal_code": "99781"
   },
   {
     "code": "9304242005",
     "district_code": "930424",
-    "name": "Koba"
+    "name": "Koba",
+    "postal_code": "99781"
   },
   {
     "code": "9304242006",
     "district_code": "930424",
-    "name": "Sagapu"
+    "name": "Sagapu",
+    "postal_code": "99781"
   },
   {
     "code": "9304242007",
     "district_code": "930424",
-    "name": "Jifak"
+    "name": "Jifak",
+    "postal_code": "99781"
   },
   {
     "code": "9304242008",
     "district_code": "930424",
-    "name": "Yensuku"
+    "name": "Yensuku",
+    "postal_code": "99781"
   }
 ]

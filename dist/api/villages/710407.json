@@ -2,66 +2,79 @@
   {
     "code": "7104071001",
     "district_code": "710407",
-    "name": "Melonguane"
+    "name": "Melonguane",
+    "postal_code": "95885"
   },
   {
     "code": "7104071009",
     "district_code": "710407",
-    "name": "Melonguane Timur"
+    "name": "Melonguane Timur",
+    "postal_code": "95885"
   },
   {
     "code": "7104071010",
     "district_code": "710407",
-    "name": "Melonguane Barat"
+    "name": "Melonguane Barat",
+    "postal_code": "95885"
   },
   {
     "code": "7104072002",
     "district_code": "710407",
-    "name": "Mala"
+    "name": "Mala",
+    "postal_code": "95885"
   },
   {
     "code": "7104072003",
     "district_code": "710407",
-    "name": "Kiama"
+    "name": "Kiama",
+    "postal_code": "95885"
   },
   {
     "code": "7104072006",
     "district_code": "710407",
-    "name": "Tarun"
+    "name": "Tarun",
+    "postal_code": "95885"
   },
   {
     "code": "7104072007",
     "district_code": "710407",
-    "name": "Sawang"
+    "name": "Sawang",
+    "postal_code": "95885"
   },
   {
     "code": "7104072008",
     "district_code": "710407",
-    "name": "Ambela"
+    "name": "Ambela",
+    "postal_code": "95885"
   },
   {
     "code": "7104072011",
     "district_code": "710407",
-    "name": "Tarun Selatan"
+    "name": "Tarun Selatan",
+    "postal_code": "95885"
   },
   {
     "code": "7104072012",
     "district_code": "710407",
-    "name": "Kiama Barat"
+    "name": "Kiama Barat",
+    "postal_code": "95885"
   },
   {
     "code": "7104072015",
     "district_code": "710407",
-    "name": "Maredaren Utara"
+    "name": "Maredaren Utara",
+    "postal_code": "95885"
   },
   {
     "code": "7104072016",
     "district_code": "710407",
-    "name": "Sawang Utara"
+    "name": "Sawang Utara",
+    "postal_code": "95885"
   },
   {
     "code": "7104072017",
     "district_code": "710407",
-    "name": "Mala Timur"
+    "name": "Mala Timur",
+    "postal_code": "95885"
   }
 ]

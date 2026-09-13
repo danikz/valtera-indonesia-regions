@@ -2,31 +2,37 @@
   {
     "code": "3208272001",
     "district_code": "320827",
-    "name": "Kalimanggis Kulon"
+    "name": "Kalimanggis Kulon",
+    "postal_code": "45594"
   },
   {
     "code": "3208272002",
     "district_code": "320827",
-    "name": "Partawangunan"
+    "name": "Partawangunan",
+    "postal_code": "45594"
   },
   {
     "code": "3208272003",
     "district_code": "320827",
-    "name": "Cipancur"
+    "name": "Cipancur",
+    "postal_code": "45594"
   },
   {
     "code": "3208272004",
     "district_code": "320827",
-    "name": "Kertawana"
+    "name": "Kertawana",
+    "postal_code": "45594"
   },
   {
     "code": "3208272005",
     "district_code": "320827",
-    "name": "Wanasaraya"
+    "name": "Wanasaraya",
+    "postal_code": "45594"
   },
   {
     "code": "3208272006",
     "district_code": "320827",
-    "name": "Kalimanggis Wetan"
+    "name": "Kalimanggis Wetan",
+    "postal_code": "45594"
   }
 ]

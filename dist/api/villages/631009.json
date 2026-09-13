@@ -2,46 +2,55 @@
   {
     "code": "6310092001",
     "district_code": "631009",
-    "name": "Bunati"
+    "name": "Bunati",
+    "postal_code": "72275"
   },
   {
     "code": "6310092002",
     "district_code": "631009",
-    "name": "Purwodadi"
+    "name": "Purwodadi",
+    "postal_code": "72275"
   },
   {
     "code": "6310092003",
     "district_code": "631009",
-    "name": "Sumber Baru"
+    "name": "Sumber Baru",
+    "postal_code": "72275"
   },
   {
     "code": "6310092004",
     "district_code": "631009",
-    "name": "Karang Indah"
+    "name": "Karang Indah",
+    "postal_code": "72275"
   },
   {
     "code": "6310092005",
     "district_code": "631009",
-    "name": "Angsana"
+    "name": "Angsana",
+    "postal_code": "72275"
   },
   {
     "code": "6310092006",
     "district_code": "631009",
-    "name": "Banjar Sari"
+    "name": "Banjar Sari",
+    "postal_code": "72275"
   },
   {
     "code": "6310092007",
     "district_code": "631009",
-    "name": "Bayan Sari"
+    "name": "Bayan Sari",
+    "postal_code": "72275"
   },
   {
     "code": "6310092008",
     "district_code": "631009",
-    "name": "Makmur"
+    "name": "Makmur",
+    "postal_code": "72275"
   },
   {
     "code": "6310092009",
     "district_code": "631009",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "72275"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3672041001",
     "district_code": "367204",
-    "name": "Banjar Negara"
+    "name": "Banjar Negara",
+    "postal_code": "42441"
   },
   {
     "code": "3672041002",
     "district_code": "367204",
-    "name": "Tegal Ratu"
+    "name": "Tegal Ratu",
+    "postal_code": "42445"
   },
   {
     "code": "3672041003",
     "district_code": "367204",
-    "name": "Kubangsari"
+    "name": "Kubangsari",
+    "postal_code": "42445"
   },
   {
     "code": "3672041004",
     "district_code": "367204",
-    "name": "Gunung Sugih"
+    "name": "Gunung Sugih",
+    "postal_code": "42447"
   },
   {
     "code": "3672041005",
     "district_code": "367204",
-    "name": "Kepuh"
+    "name": "Kepuh",
+    "postal_code": "42446"
   },
   {
     "code": "3672041006",
     "district_code": "367204",
-    "name": "Randakari"
+    "name": "Randakari",
+    "postal_code": "42446"
   }
 ]

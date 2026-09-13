@@ -2,81 +2,97 @@
   {
     "code": "1606022001",
     "district_code": "160602",
-    "name": "Danau Cala"
+    "name": "Danau Cala",
+    "postal_code": "30757"
   },
   {
     "code": "1606022002",
     "district_code": "160602",
-    "name": "Rantau Keroya"
+    "name": "Rantau Keroya",
+    "postal_code": "30757"
   },
   {
     "code": "1606022003",
     "district_code": "160602",
-    "name": "Tanjung Agung Timur"
+    "name": "Tanjung Agung Timur",
+    "postal_code": "30757"
   },
   {
     "code": "1606022004",
     "district_code": "160602",
-    "name": "Petaling"
+    "name": "Petaling",
+    "postal_code": "30757"
   },
   {
     "code": "1606022005",
     "district_code": "160602",
-    "name": "Lais"
+    "name": "Lais",
+    "postal_code": "30757"
   },
   {
     "code": "1606022006",
     "district_code": "160602",
-    "name": "Teluk"
+    "name": "Teluk",
+    "postal_code": "30757"
   },
   {
     "code": "1606022007",
     "district_code": "160602",
-    "name": "Epil"
+    "name": "Epil",
+    "postal_code": "30757"
   },
   {
     "code": "1606022008",
     "district_code": "160602",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "30757"
   },
   {
     "code": "1606022009",
     "district_code": "160602",
-    "name": "Teluk Kijing I"
+    "name": "Teluk Kijing I",
+    "postal_code": "30757"
   },
   {
     "code": "1606022010",
     "district_code": "160602",
-    "name": "Teluk Kijing II"
+    "name": "Teluk Kijing II",
+    "postal_code": "30757"
   },
   {
     "code": "1606022011",
     "district_code": "160602",
-    "name": "Teluk Kijing III"
+    "name": "Teluk Kijing III",
+    "postal_code": "30757"
   },
   {
     "code": "1606022012",
     "district_code": "160602",
-    "name": "Tanjung Agung Utara"
+    "name": "Tanjung Agung Utara",
+    "postal_code": "30757"
   },
   {
     "code": "1606022013",
     "district_code": "160602",
-    "name": "Tanjung Agung Barat"
+    "name": "Tanjung Agung Barat",
+    "postal_code": "30757"
   },
   {
     "code": "1606022014",
     "district_code": "160602",
-    "name": "Tanjung Agung Selatan"
+    "name": "Tanjung Agung Selatan",
+    "postal_code": "30757"
   },
   {
     "code": "1606022015",
     "district_code": "160602",
-    "name": "Lais Utara"
+    "name": "Lais Utara",
+    "postal_code": "30757"
   },
   {
     "code": "1606022016",
     "district_code": "160602",
-    "name": "Epil Barat"
+    "name": "Epil Barat",
+    "postal_code": "30757"
   }
 ]

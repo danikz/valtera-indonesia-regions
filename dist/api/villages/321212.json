@@ -2,71 +2,85 @@
   {
     "code": "3212122001",
     "district_code": "321212",
-    "name": "Sleman"
+    "name": "Sleman",
+    "postal_code": "45281"
   },
   {
     "code": "3212122002",
     "district_code": "321212",
-    "name": "Tambi"
+    "name": "Tambi",
+    "postal_code": "45281"
   },
   {
     "code": "3212122003",
     "district_code": "321212",
-    "name": "Sudikampiran"
+    "name": "Sudikampiran",
+    "postal_code": "45281"
   },
   {
     "code": "3212122004",
     "district_code": "321212",
-    "name": "Tambi Lor"
+    "name": "Tambi Lor",
+    "postal_code": "45281"
   },
   {
     "code": "3212122005",
     "district_code": "321212",
-    "name": "Sleman Lor"
+    "name": "Sleman Lor",
+    "postal_code": "45281"
   },
   {
     "code": "3212122006",
     "district_code": "321212",
-    "name": "Majasari"
+    "name": "Majasari",
+    "postal_code": "45281"
   },
   {
     "code": "3212122007",
     "district_code": "321212",
-    "name": "Majasih"
+    "name": "Majasih",
+    "postal_code": "45281"
   },
   {
     "code": "3212122008",
     "district_code": "321212",
-    "name": "Sliyeg"
+    "name": "Sliyeg",
+    "postal_code": "45281"
   },
   {
     "code": "3212122009",
     "district_code": "321212",
-    "name": "Gadingan"
+    "name": "Gadingan",
+    "postal_code": "45281"
   },
   {
     "code": "3212122010",
     "district_code": "321212",
-    "name": "Mekargading"
+    "name": "Mekargading",
+    "postal_code": "45281"
   },
   {
     "code": "3212122011",
     "district_code": "321212",
-    "name": "Sliyeg Lor"
+    "name": "Sliyeg Lor",
+    "postal_code": "45281"
   },
   {
     "code": "3212122012",
     "district_code": "321212",
-    "name": "Tugukidul"
+    "name": "Tugukidul",
+    "postal_code": "45281"
   },
   {
     "code": "3212122013",
     "district_code": "321212",
-    "name": "Tugu"
+    "name": "Tugu",
+    "postal_code": "45281"
   },
   {
     "code": "3212122016",
     "district_code": "321212",
-    "name": "Longok"
+    "name": "Longok",
+    "postal_code": "45281"
   }
 ]

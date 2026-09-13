@@ -2,51 +2,61 @@
   {
     "code": "5303061001",
     "district_code": "530306",
-    "name": "Boronubaen"
+    "name": "Boronubaen",
+    "postal_code": ""
   },
   {
     "code": "5303061015",
     "district_code": "530306",
-    "name": "Boronubaen Timur"
+    "name": "Boronubaen Timur",
+    "postal_code": "85683"
   },
   {
     "code": "5303062002",
     "district_code": "530306",
-    "name": "Hautaes"
+    "name": "Hautaes",
+    "postal_code": "85683"
   },
   {
     "code": "5303062003",
     "district_code": "530306",
-    "name": "Tualena"
+    "name": "Tualena",
+    "postal_code": "85683"
   },
   {
     "code": "5303062004",
     "district_code": "530306",
-    "name": "Biloe"
+    "name": "Biloe",
+    "postal_code": "85683"
   },
   {
     "code": "5303062005",
     "district_code": "530306",
-    "name": "Taunbaen"
+    "name": "Taunbaen",
+    "postal_code": "85683"
   },
   {
     "code": "5303062006",
     "district_code": "530306",
-    "name": "Sapaen"
+    "name": "Sapaen",
+    "postal_code": "85683"
   },
   {
     "code": "5303062012",
     "district_code": "530306",
-    "name": "Lokomea"
+    "name": "Lokomea",
+    "postal_code": "85683"
   },
   {
     "code": "5303062013",
     "district_code": "530306",
-    "name": "Taunbaen Timur"
+    "name": "Taunbaen Timur",
+    "postal_code": "85683"
   },
   {
     "code": "5303062014",
     "district_code": "530306",
-    "name": "Hauteas Barat"
+    "name": "Hauteas Barat",
+    "postal_code": "85683"
   }
 ]

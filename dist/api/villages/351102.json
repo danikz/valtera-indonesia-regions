@@ -2,46 +2,55 @@
   {
     "code": "3511022001",
     "district_code": "351102",
-    "name": "Sukosari"
+    "name": "Sukosari",
+    "postal_code": "68263"
   },
   {
     "code": "3511022002",
     "district_code": "351102",
-    "name": "Karang Melok"
+    "name": "Karang Melok",
+    "postal_code": "68263"
   },
   {
     "code": "3511022003",
     "district_code": "351102",
-    "name": "Mengen"
+    "name": "Mengen",
+    "postal_code": "68263"
   },
   {
     "code": "3511022004",
     "district_code": "351102",
-    "name": "Kemirian"
+    "name": "Kemirian",
+    "postal_code": "68263"
   },
   {
     "code": "3511022005",
     "district_code": "351102",
-    "name": "Tamanan"
+    "name": "Tamanan",
+    "postal_code": "68263"
   },
   {
     "code": "3511022006",
     "district_code": "351102",
-    "name": "Wonosuko"
+    "name": "Wonosuko",
+    "postal_code": "68263"
   },
   {
     "code": "3511022007",
     "district_code": "351102",
-    "name": "Kalianyar"
+    "name": "Kalianyar",
+    "postal_code": "68263"
   },
   {
     "code": "3511022012",
     "district_code": "351102",
-    "name": "Sumber Kemuning"
+    "name": "Sumber Kemuning",
+    "postal_code": "68263"
   },
   {
     "code": "3511022014",
     "district_code": "351102",
-    "name": "Sumber Anom"
+    "name": "Sumber Anom",
+    "postal_code": "68263"
   }
 ]

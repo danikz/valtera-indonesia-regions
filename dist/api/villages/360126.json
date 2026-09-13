@@ -2,51 +2,61 @@
   {
     "code": "3601262001",
     "district_code": "360126",
-    "name": "Karyasari"
+    "name": "Karyasari",
+    "postal_code": "42271"
   },
   {
     "code": "3601262002",
     "district_code": "360126",
-    "name": "Tegal"
+    "name": "Tegal",
+    "postal_code": "42271"
   },
   {
     "code": "3601262003",
     "district_code": "360126",
-    "name": "Cipicung"
+    "name": "Cipicung",
+    "postal_code": "42271"
   },
   {
     "code": "3601262004",
     "district_code": "360126",
-    "name": "Dahu"
+    "name": "Dahu",
+    "postal_code": "42271"
   },
   {
     "code": "3601262005",
     "district_code": "360126",
-    "name": "Babakanlor"
+    "name": "Babakanlor",
+    "postal_code": "42271"
   },
   {
     "code": "3601262006",
     "district_code": "360126",
-    "name": "Karyautama"
+    "name": "Karyautama",
+    "postal_code": "42271"
   },
   {
     "code": "3601262007",
     "district_code": "360126",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "42271"
   },
   {
     "code": "3601262008",
     "district_code": "360126",
-    "name": "Padahayu"
+    "name": "Padahayu",
+    "postal_code": "42271"
   },
   {
     "code": "3601262009",
     "district_code": "360126",
-    "name": "Cening"
+    "name": "Cening",
+    "postal_code": "42271"
   },
   {
     "code": "3601262010",
     "district_code": "360126",
-    "name": "Bangkuyung"
+    "name": "Bangkuyung",
+    "postal_code": "42271"
   }
 ]

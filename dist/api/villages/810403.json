@@ -2,36 +2,43 @@
   {
     "code": "8104032001",
     "district_code": "810403",
-    "name": "Savana Jaya"
+    "name": "Savana Jaya",
+    "postal_code": "97578"
   },
   {
     "code": "8104032002",
     "district_code": "810403",
-    "name": "Waetele"
+    "name": "Waetele",
+    "postal_code": "97578"
   },
   {
     "code": "8104032003",
     "district_code": "810403",
-    "name": "Waekasar"
+    "name": "Waekasar",
+    "postal_code": "97578"
   },
   {
     "code": "8104032004",
     "district_code": "810403",
-    "name": "Waenetat"
+    "name": "Waenetat",
+    "postal_code": "97578"
   },
   {
     "code": "8104032016",
     "district_code": "810403",
-    "name": "Waekerta"
+    "name": "Waekerta",
+    "postal_code": "97578"
   },
   {
     "code": "8104032019",
     "district_code": "810403",
-    "name": "Wanareja"
+    "name": "Wanareja",
+    "postal_code": "97578"
   },
   {
     "code": "8104032027",
     "district_code": "810403",
-    "name": "Gogorea"
+    "name": "Gogorea",
+    "postal_code": "97578"
   }
 ]

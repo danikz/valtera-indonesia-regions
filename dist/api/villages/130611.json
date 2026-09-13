@@ -2,46 +2,55 @@
   {
     "code": "1306112001",
     "district_code": "130611",
-    "name": "Baringin"
+    "name": "Baringin",
+    "postal_code": "26164"
   },
   {
     "code": "1306112002",
     "district_code": "130611",
-    "name": "Sipinang"
+    "name": "Sipinang",
+    "postal_code": "26164"
   },
   {
     "code": "1306112003",
     "district_code": "130611",
-    "name": "Sungai Puar"
+    "name": "Sungai Puar",
+    "postal_code": "26164"
   },
   {
     "code": "1306112004",
     "district_code": "130611",
-    "name": "Ampek Koto Palembayan"
+    "name": "Ampek Koto Palembayan",
+    "postal_code": "26164"
   },
   {
     "code": "1306112005",
     "district_code": "130611",
-    "name": "Tigo Koto Silungkang"
+    "name": "Tigo Koto Silungkang",
+    "postal_code": "26164"
   },
   {
     "code": "1306112006",
     "district_code": "130611",
-    "name": "Salareh Aia"
+    "name": "Salareh Aia",
+    "postal_code": "26164"
   },
   {
     "code": "1306112007",
     "district_code": "130611",
-    "name": "Salareh Aia Timur"
+    "name": "Salareh Aia Timur",
+    "postal_code": "26164"
   },
   {
     "code": "1306112008",
     "district_code": "130611",
-    "name": "Salareh Aia Utara"
+    "name": "Salareh Aia Utara",
+    "postal_code": "26164"
   },
   {
     "code": "1306112009",
     "district_code": "130611",
-    "name": "Salareh Aia Barat"
+    "name": "Salareh Aia Barat",
+    "postal_code": "26164"
   }
 ]

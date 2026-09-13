@@ -2,41 +2,49 @@
   {
     "code": "7314051001",
     "district_code": "731405",
-    "name": "Rappang"
+    "name": "Rappang",
+    "postal_code": "91651"
   },
   {
     "code": "7314051002",
     "district_code": "731405",
-    "name": "Lalebata"
+    "name": "Lalebata",
+    "postal_code": "91651"
   },
   {
     "code": "7314051003",
     "district_code": "731405",
-    "name": "Maccorawalie"
+    "name": "Maccorawalie",
+    "postal_code": "91651"
   },
   {
     "code": "7314051004",
     "district_code": "731405",
-    "name": "Kadidi"
+    "name": "Kadidi",
+    "postal_code": "91651"
   },
   {
     "code": "7314052005",
     "district_code": "731405",
-    "name": "Timoreng Panua"
+    "name": "Timoreng Panua",
+    "postal_code": "91651"
   },
   {
     "code": "7314052006",
     "district_code": "731405",
-    "name": "Bulo Wattang"
+    "name": "Bulo Wattang",
+    "postal_code": "91651"
   },
   {
     "code": "7314052007",
     "district_code": "731405",
-    "name": "Bulo"
+    "name": "Bulo",
+    "postal_code": "91651"
   },
   {
     "code": "7314052008",
     "district_code": "731405",
-    "name": "Cipotakari"
+    "name": "Cipotakari",
+    "postal_code": "91651"
   }
 ]

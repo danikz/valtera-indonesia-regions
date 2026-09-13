@@ -2,46 +2,55 @@
   {
     "code": "3204061001",
     "district_code": "320406",
-    "name": "Padasuka"
+    "name": "Padasuka",
+    "postal_code": "40191"
   },
   {
     "code": "3204061002",
     "district_code": "320406",
-    "name": "Cibeunying"
+    "name": "Cibeunying",
+    "postal_code": "40191"
   },
   {
     "code": "3204062003",
     "district_code": "320406",
-    "name": "Cimenyan"
+    "name": "Cimenyan",
+    "postal_code": "40197"
   },
   {
     "code": "3204062004",
     "district_code": "320406",
-    "name": "Mandalamekar"
+    "name": "Mandalamekar",
+    "postal_code": "40193"
   },
   {
     "code": "3204062005",
     "district_code": "320406",
-    "name": "Cikadut"
+    "name": "Cikadut",
+    "postal_code": "40191"
   },
   {
     "code": "3204062006",
     "district_code": "320406",
-    "name": "Ciburial"
+    "name": "Ciburial",
+    "postal_code": "40198"
   },
   {
     "code": "3204062007",
     "district_code": "320406",
-    "name": "Sindanglaya"
+    "name": "Sindanglaya",
+    "postal_code": "40195"
   },
   {
     "code": "3204062008",
     "district_code": "320406",
-    "name": "Mekarsaluyu"
+    "name": "Mekarsaluyu",
+    "postal_code": "40198"
   },
   {
     "code": "3204062009",
     "district_code": "320406",
-    "name": "Mekarmanik"
+    "name": "Mekarmanik",
+    "postal_code": "40196"
   }
 ]

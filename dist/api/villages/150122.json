@@ -2,61 +2,73 @@
   {
     "code": "1501222001",
     "district_code": "150122",
-    "name": "Kayu Aro Ambai"
+    "name": "Kayu Aro Ambai",
+    "postal_code": "37171"
   },
   {
     "code": "1501222002",
     "district_code": "150122",
-    "name": "Bunga Tanjung"
+    "name": "Bunga Tanjung",
+    "postal_code": "37171"
   },
   {
     "code": "1501222003",
     "district_code": "150122",
-    "name": "Pondok Beringin"
+    "name": "Pondok Beringin",
+    "postal_code": "37171"
   },
   {
     "code": "1501222004",
     "district_code": "150122",
-    "name": "Semerah"
+    "name": "Semerah",
+    "postal_code": "37171"
   },
   {
     "code": "1501222005",
     "district_code": "150122",
-    "name": "Sebukar"
+    "name": "Sebukar",
+    "postal_code": "37171"
   },
   {
     "code": "1501222006",
     "district_code": "150122",
-    "name": "Koto Tuo Ujung Pasir"
+    "name": "Koto Tuo Ujung Pasir",
+    "postal_code": "37172"
   },
   {
     "code": "1501222007",
     "district_code": "150122",
-    "name": "Ujung Pasir"
+    "name": "Ujung Pasir",
+    "postal_code": "37172"
   },
   {
     "code": "1501222008",
     "district_code": "150122",
-    "name": "Koto Petai"
+    "name": "Koto Petai",
+    "postal_code": "37172"
   },
   {
     "code": "1501222009",
     "district_code": "150122",
-    "name": "Koto Salak"
+    "name": "Koto Salak",
+    "postal_code": "37172"
   },
   {
     "code": "1501222010",
     "district_code": "150122",
-    "name": "Agung Koto Iman"
+    "name": "Agung Koto Iman",
+    "postal_code": "37172"
   },
   {
     "code": "1501222011",
     "district_code": "150122",
-    "name": "Koto Iman"
+    "name": "Koto Iman",
+    "postal_code": "37172"
   },
   {
     "code": "1501222012",
     "district_code": "150122",
-    "name": "Baru Semerah"
+    "name": "Baru Semerah",
+    "postal_code": "37171"
   }
 ]

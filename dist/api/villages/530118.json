@@ -2,26 +2,31 @@
   {
     "code": "5301181001",
     "district_code": "530118",
-    "name": "Buraen"
+    "name": "Buraen",
+    "postal_code": "85377"
   },
   {
     "code": "5301181002",
     "district_code": "530118",
-    "name": "Sonraen"
+    "name": "Sonraen",
+    "postal_code": "85377"
   },
   {
     "code": "5301182003",
     "district_code": "530118",
-    "name": "Nekmese"
+    "name": "Nekmese",
+    "postal_code": "85377"
   },
   {
     "code": "5301182004",
     "district_code": "530118",
-    "name": "Retraen"
+    "name": "Retraen",
+    "postal_code": "85377"
   },
   {
     "code": "5301182005",
     "district_code": "530118",
-    "name": "Sahraen"
+    "name": "Sahraen",
+    "postal_code": "85377"
   }
 ]

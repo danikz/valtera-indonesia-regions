@@ -2,51 +2,61 @@
   {
     "code": "3508032001",
     "district_code": "350803",
-    "name": "Jugosari"
+    "name": "Jugosari",
+    "postal_code": "67373"
   },
   {
     "code": "3508032002",
     "district_code": "350803",
-    "name": "Jarit"
+    "name": "Jarit",
+    "postal_code": "67373"
   },
   {
     "code": "3508032003",
     "district_code": "350803",
-    "name": "Candipuro"
+    "name": "Candipuro",
+    "postal_code": "67373"
   },
   {
     "code": "3508032004",
     "district_code": "350803",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "67373"
   },
   {
     "code": "3508032005",
     "district_code": "350803",
-    "name": "Sumber Wuluh"
+    "name": "Sumber Wuluh",
+    "postal_code": "67373"
   },
   {
     "code": "3508032006",
     "district_code": "350803",
-    "name": "Sumber Mujur"
+    "name": "Sumber Mujur",
+    "postal_code": "67373"
   },
   {
     "code": "3508032007",
     "district_code": "350803",
-    "name": "Penanggal"
+    "name": "Penanggal",
+    "postal_code": "67373"
   },
   {
     "code": "3508032008",
     "district_code": "350803",
-    "name": "Tambahrejo"
+    "name": "Tambahrejo",
+    "postal_code": "67373"
   },
   {
     "code": "3508032009",
     "district_code": "350803",
-    "name": "Klopo Sawit"
+    "name": "Klopo Sawit",
+    "postal_code": "67373"
   },
   {
     "code": "3508032010",
     "district_code": "350803",
-    "name": "Tumpeng"
+    "name": "Tumpeng",
+    "postal_code": "67373"
   }
 ]

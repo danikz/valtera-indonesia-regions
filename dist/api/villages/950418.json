@@ -2,51 +2,61 @@
   {
     "code": "9504182001",
     "district_code": "950418",
-    "name": "Tinggom"
+    "name": "Tinggom",
+    "postal_code": "99043"
   },
   {
     "code": "9504182002",
     "district_code": "950418",
-    "name": "Egoni"
+    "name": "Egoni",
+    "postal_code": "99429"
   },
   {
     "code": "9504182003",
     "district_code": "950418",
-    "name": "Martelo"
+    "name": "Martelo",
+    "postal_code": "99043"
   },
   {
     "code": "9504182004",
     "district_code": "950418",
-    "name": "Lerewere"
+    "name": "Lerewere",
+    "postal_code": "99043"
   },
   {
     "code": "9504182005",
     "district_code": "950418",
-    "name": "Yakep"
+    "name": "Yakep",
+    "postal_code": "99429"
   },
   {
     "code": "9504182006",
     "district_code": "950418",
-    "name": "Welesi"
+    "name": "Welesi",
+    "postal_code": "99043"
   },
   {
     "code": "9504182007",
     "district_code": "950418",
-    "name": "Orelukban"
+    "name": "Orelukban",
+    "postal_code": "99043"
   },
   {
     "code": "9504182008",
     "district_code": "950418",
-    "name": "Baguni"
+    "name": "Baguni",
+    "postal_code": "99429"
   },
   {
     "code": "9504182009",
     "district_code": "950418",
-    "name": "Kulutin"
+    "name": "Kulutin",
+    "postal_code": "99043"
   },
   {
     "code": "9504182010",
     "district_code": "950418",
-    "name": "Yamulo"
+    "name": "Yamulo",
+    "postal_code": "99043"
   }
 ]

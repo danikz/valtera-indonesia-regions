@@ -2,41 +2,49 @@
   {
     "code": "3175031001",
     "district_code": "317503",
-    "name": "Kampung Melayu"
+    "name": "Kampung Melayu",
+    "postal_code": "13320"
   },
   {
     "code": "3175031002",
     "district_code": "317503",
-    "name": "Bidara Cina"
+    "name": "Bidara Cina",
+    "postal_code": "13330"
   },
   {
     "code": "3175031003",
     "district_code": "317503",
-    "name": "Bali Mester"
+    "name": "Bali Mester",
+    "postal_code": "13310"
   },
   {
     "code": "3175031004",
     "district_code": "317503",
-    "name": "Rawa Bunga"
+    "name": "Rawa Bunga",
+    "postal_code": "13350"
   },
   {
     "code": "3175031005",
     "district_code": "317503",
-    "name": "Cipinang Cempedak"
+    "name": "Cipinang Cempedak",
+    "postal_code": "13340"
   },
   {
     "code": "3175031006",
     "district_code": "317503",
-    "name": "Cipinang Muara"
+    "name": "Cipinang Muara",
+    "postal_code": "13420"
   },
   {
     "code": "3175031007",
     "district_code": "317503",
-    "name": "Cipinang Besar Selatan"
+    "name": "Cipinang Besar Selatan",
+    "postal_code": "13410"
   },
   {
     "code": "3175031008",
     "district_code": "317503",
-    "name": "Cipinang Besar Utara"
+    "name": "Cipinang Besar Utara",
+    "postal_code": "13410"
   }
 ]

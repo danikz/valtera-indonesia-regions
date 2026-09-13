@@ -2,36 +2,43 @@
   {
     "code": "5271061001",
     "district_code": "527106",
-    "name": "Dasan Cermen"
+    "name": "Dasan Cermen",
+    "postal_code": "83232"
   },
   {
     "code": "5271061002",
     "district_code": "527106",
-    "name": "Babakan"
+    "name": "Babakan",
+    "postal_code": "83233"
   },
   {
     "code": "5271061003",
     "district_code": "527106",
-    "name": "Bertais"
+    "name": "Bertais",
+    "postal_code": "83236"
   },
   {
     "code": "5271061004",
     "district_code": "527106",
-    "name": "Selagalas"
+    "name": "Selagalas",
+    "postal_code": "83237"
   },
   {
     "code": "5271061005",
     "district_code": "527106",
-    "name": "Abian Tubuh Baru"
+    "name": "Abian Tubuh Baru",
+    "postal_code": "83237"
   },
   {
     "code": "5271061006",
     "district_code": "527106",
-    "name": "Turida"
+    "name": "Turida",
+    "postal_code": "83237"
   },
   {
     "code": "5271061007",
     "district_code": "527106",
-    "name": "Mandalika"
+    "name": "Mandalika",
+    "postal_code": "83237"
   }
 ]

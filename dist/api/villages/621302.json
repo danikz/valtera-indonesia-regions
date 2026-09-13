@@ -2,36 +2,43 @@
   {
     "code": "6213021001",
     "district_code": "621302",
-    "name": "Pasar Panas/Taniran"
+    "name": "Pasar Panas/Taniran",
+    "postal_code": "73661"
   },
   {
     "code": "6213022002",
     "district_code": "621302",
-    "name": "Kandris"
+    "name": "Kandris",
+    "postal_code": "73661"
   },
   {
     "code": "6213022003",
     "district_code": "621302",
-    "name": "Banyu Landas"
+    "name": "Banyu Landas",
+    "postal_code": "73661"
   },
   {
     "code": "6213022004",
     "district_code": "621302",
-    "name": "Bagok"
+    "name": "Bagok",
+    "postal_code": "73661"
   },
   {
     "code": "6213022005",
     "district_code": "621302",
-    "name": "Bamban"
+    "name": "Bamban",
+    "postal_code": "73661"
   },
   {
     "code": "6213022006",
     "district_code": "621302",
-    "name": "Tewah Pupuh"
+    "name": "Tewah Pupuh",
+    "postal_code": "73661"
   },
   {
     "code": "6213022007",
     "district_code": "621302",
-    "name": "Gudang Seng"
+    "name": "Gudang Seng",
+    "postal_code": "73661"
   }
 ]

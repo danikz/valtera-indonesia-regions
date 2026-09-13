@@ -2,26 +2,31 @@
   {
     "code": "6302192001",
     "district_code": "630219",
-    "name": "Sengayam"
+    "name": "Sengayam",
+    "postal_code": "72169"
   },
   {
     "code": "6302192002",
     "district_code": "630219",
-    "name": "Mayang Sari"
+    "name": "Mayang Sari",
+    "postal_code": "72169"
   },
   {
     "code": "6302192003",
     "district_code": "630219",
-    "name": "Marga Jaya"
+    "name": "Marga Jaya",
+    "postal_code": "72169"
   },
   {
     "code": "6302192004",
     "district_code": "630219",
-    "name": "Mangka"
+    "name": "Mangka",
+    "postal_code": "72169"
   },
   {
     "code": "6302192005",
     "district_code": "630219",
-    "name": "Batuah"
+    "name": "Batuah",
+    "postal_code": "72169"
   }
 ]

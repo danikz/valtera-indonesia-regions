@@ -2,66 +2,79 @@
   {
     "code": "5202022001",
     "district_code": "520202",
-    "name": "Barejulat"
+    "name": "Barejulat",
+    "postal_code": "83561"
   },
   {
     "code": "5202022002",
     "district_code": "520202",
-    "name": "Ubung"
+    "name": "Ubung",
+    "postal_code": "83561"
   },
   {
     "code": "5202022003",
     "district_code": "520202",
-    "name": "Jelantik"
+    "name": "Jelantik",
+    "postal_code": "83561"
   },
   {
     "code": "5202022004",
     "district_code": "520202",
-    "name": "Labulia"
+    "name": "Labulia",
+    "postal_code": "83561"
   },
   {
     "code": "5202022005",
     "district_code": "520202",
-    "name": "Batu Tulis"
+    "name": "Batu Tulis",
+    "postal_code": "83561"
   },
   {
     "code": "5202022006",
     "district_code": "520202",
-    "name": "Perina"
+    "name": "Perina",
+    "postal_code": "83561"
   },
   {
     "code": "5202022007",
     "district_code": "520202",
-    "name": "Pengenjek"
+    "name": "Pengenjek",
+    "postal_code": "83561"
   },
   {
     "code": "5202022008",
     "district_code": "520202",
-    "name": "Puyung"
+    "name": "Puyung",
+    "postal_code": "83561"
   },
   {
     "code": "5202022009",
     "district_code": "520202",
-    "name": "Nyerot"
+    "name": "Nyerot",
+    "postal_code": "83561"
   },
   {
     "code": "5202022010",
     "district_code": "520202",
-    "name": "Sukarara"
+    "name": "Sukarara",
+    "postal_code": "83561"
   },
   {
     "code": "5202022011",
     "district_code": "520202",
-    "name": "Gemel"
+    "name": "Gemel",
+    "postal_code": "83561"
   },
   {
     "code": "5202022012",
     "district_code": "520202",
-    "name": "Bonjeruk"
+    "name": "Bonjeruk",
+    "postal_code": "83561"
   },
   {
     "code": "5202022013",
     "district_code": "520202",
-    "name": "Bunkate"
+    "name": "Bunkate",
+    "postal_code": "83561"
   }
 ]

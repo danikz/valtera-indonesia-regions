@@ -2,81 +2,97 @@
   {
     "code": "3271011001",
     "district_code": "327101",
-    "name": "Batu Tulis"
+    "name": "Batu Tulis",
+    "postal_code": "16133"
   },
   {
     "code": "3271011002",
     "district_code": "327101",
-    "name": "Bondongan"
+    "name": "Bondongan",
+    "postal_code": "16131"
   },
   {
     "code": "3271011003",
     "district_code": "327101",
-    "name": "Empang"
+    "name": "Empang",
+    "postal_code": "16132"
   },
   {
     "code": "3271011004",
     "district_code": "327101",
-    "name": "Lawanggintung"
+    "name": "Lawanggintung",
+    "postal_code": "16134"
   },
   {
     "code": "3271011005",
     "district_code": "327101",
-    "name": "Pamoyanan"
+    "name": "Pamoyanan",
+    "postal_code": "16136"
   },
   {
     "code": "3271011006",
     "district_code": "327101",
-    "name": "Ranggamekar"
+    "name": "Ranggamekar",
+    "postal_code": "16136"
   },
   {
     "code": "3271011007",
     "district_code": "327101",
-    "name": "Mulyaharja"
+    "name": "Mulyaharja",
+    "postal_code": "16135"
   },
   {
     "code": "3271011008",
     "district_code": "327101",
-    "name": "Cikaret"
+    "name": "Cikaret",
+    "postal_code": "16132"
   },
   {
     "code": "3271011009",
     "district_code": "327101",
-    "name": "Bojongkerta"
+    "name": "Bojongkerta",
+    "postal_code": "16139"
   },
   {
     "code": "3271011010",
     "district_code": "327101",
-    "name": "Rancamaya"
+    "name": "Rancamaya",
+    "postal_code": "16139"
   },
   {
     "code": "3271011011",
     "district_code": "327101",
-    "name": "Kertamaya"
+    "name": "Kertamaya",
+    "postal_code": "16138"
   },
   {
     "code": "3271011012",
     "district_code": "327101",
-    "name": "Harjasari"
+    "name": "Harjasari",
+    "postal_code": "16138"
   },
   {
     "code": "3271011013",
     "district_code": "327101",
-    "name": "Muarasari"
+    "name": "Muarasari",
+    "postal_code": "16137"
   },
   {
     "code": "3271011014",
     "district_code": "327101",
-    "name": "Genteng"
+    "name": "Genteng",
+    "postal_code": "16137"
   },
   {
     "code": "3271011015",
     "district_code": "327101",
-    "name": "Pakuan"
+    "name": "Pakuan",
+    "postal_code": "16134"
   },
   {
     "code": "3271011016",
     "district_code": "327101",
-    "name": "Cipaku"
+    "name": "Cipaku",
+    "postal_code": "16133"
   }
 ]

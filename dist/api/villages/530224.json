@@ -2,26 +2,31 @@
   {
     "code": "5302242001",
     "district_code": "530224",
-    "name": "Noebana"
+    "name": "Noebana",
+    "postal_code": "85585"
   },
   {
     "code": "5302242002",
     "district_code": "530224",
-    "name": "Fatumnasi"
+    "name": "Fatumnasi",
+    "postal_code": "85585"
   },
   {
     "code": "5302242003",
     "district_code": "530224",
-    "name": "Suni"
+    "name": "Suni",
+    "postal_code": "85585"
   },
   {
     "code": "5302242004",
     "district_code": "530224",
-    "name": "Mella"
+    "name": "Mella",
+    "postal_code": "85585"
   },
   {
     "code": "5302242005",
     "district_code": "530224",
-    "name": "Mnelapetu"
+    "name": "Mnelapetu",
+    "postal_code": "85585"
   }
 ]

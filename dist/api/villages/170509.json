@@ -2,41 +2,49 @@
   {
     "code": "1705091004",
     "district_code": "170509",
-    "name": "Selebar"
+    "name": "Selebar",
+    "postal_code": "38885"
   },
   {
     "code": "1705091005",
     "district_code": "170509",
-    "name": "Sembayat"
+    "name": "Sembayat",
+    "postal_code": "38885"
   },
   {
     "code": "1705091006",
     "district_code": "170509",
-    "name": "Bunga Mas"
+    "name": "Bunga Mas",
+    "postal_code": "38885"
   },
   {
     "code": "1705092001",
     "district_code": "170509",
-    "name": "Talang Sali"
+    "name": "Talang Sali",
+    "postal_code": "38885"
   },
   {
     "code": "1705092002",
     "district_code": "170509",
-    "name": "Kunduran"
+    "name": "Kunduran",
+    "postal_code": "38885"
   },
   {
     "code": "1705092003",
     "district_code": "170509",
-    "name": "Kota Agung"
+    "name": "Kota Agung",
+    "postal_code": "38885"
   },
   {
     "code": "1705092007",
     "district_code": "170509",
-    "name": "Tenangan"
+    "name": "Tenangan",
+    "postal_code": "38885"
   },
   {
     "code": "1705092008",
     "district_code": "170509",
-    "name": "Rawa Sari"
+    "name": "Rawa Sari",
+    "postal_code": "38885"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "1203222003",
     "district_code": "120322",
-    "name": "Sigolang"
+    "name": "Sigolang",
+    "postal_code": "22758"
   },
   {
     "code": "1203222005",
     "district_code": "120322",
-    "name": "Biru"
+    "name": "Biru",
+    "postal_code": "22758"
   },
   {
     "code": "1203222008",
     "district_code": "120322",
-    "name": "Tapus Godang"
+    "name": "Tapus Godang",
+    "postal_code": "22758"
   },
   {
     "code": "1203222017",
     "district_code": "120322",
-    "name": "Lobu Tayas"
+    "name": "Lobu Tayas",
+    "postal_code": "22758"
   },
   {
     "code": "1203222020",
     "district_code": "120322",
-    "name": "Silangkitang"
+    "name": "Silangkitang",
+    "postal_code": "22758"
   },
   {
     "code": "1203222033",
     "district_code": "120322",
-    "name": "Sihulambu"
+    "name": "Sihulambu",
+    "postal_code": "22758"
   },
   {
     "code": "1203222043",
     "district_code": "120322",
-    "name": "Tolang"
+    "name": "Tolang",
+    "postal_code": "22758"
   },
   {
     "code": "1203222044",
     "district_code": "120322",
-    "name": "Tapus Sipagabu"
+    "name": "Tapus Sipagabu",
+    "postal_code": "22758"
   },
   {
     "code": "1203222045",
     "district_code": "120322",
-    "name": "Huta baru"
+    "name": "Huta baru",
+    "postal_code": "22758"
   },
   {
     "code": "1203222046",
     "district_code": "120322",
-    "name": "Aek Latong"
+    "name": "Aek Latong",
+    "postal_code": "22758"
   },
   {
     "code": "1203222047",
     "district_code": "120322",
-    "name": "Aek Urat"
+    "name": "Aek Urat",
+    "postal_code": "22758"
   },
   {
     "code": "1203222048",
     "district_code": "120322",
-    "name": "Gorahut"
+    "name": "Gorahut",
+    "postal_code": "22758"
   }
 ]

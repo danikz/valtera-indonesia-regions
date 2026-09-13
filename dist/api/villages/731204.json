@@ -2,51 +2,61 @@
   {
     "code": "7312041001",
     "district_code": "731204",
-    "name": "Lalabata Rilau"
+    "name": "Lalabata Rilau",
+    "postal_code": "90812"
   },
   {
     "code": "7312041002",
     "district_code": "731204",
-    "name": "Ompo"
+    "name": "Ompo",
+    "postal_code": "90813"
   },
   {
     "code": "7312041003",
     "district_code": "731204",
-    "name": "Botto"
+    "name": "Botto",
+    "postal_code": "90811"
   },
   {
     "code": "7312041004",
     "district_code": "731204",
-    "name": "Lemba"
+    "name": "Lemba",
+    "postal_code": "90811"
   },
   {
     "code": "7312041005",
     "district_code": "731204",
-    "name": "Bila"
+    "name": "Bila",
+    "postal_code": "90814"
   },
   {
     "code": "7312041006",
     "district_code": "731204",
-    "name": "Lapajung"
+    "name": "Lapajung",
+    "postal_code": "90811"
   },
   {
     "code": "7312041007",
     "district_code": "731204",
-    "name": "Salokaraja"
+    "name": "Salokaraja",
+    "postal_code": "90814"
   },
   {
     "code": "7312042008",
     "district_code": "731204",
-    "name": "Maccile"
+    "name": "Maccile",
+    "postal_code": "90814"
   },
   {
     "code": "7312042009",
     "district_code": "731204",
-    "name": "Umpungeng"
+    "name": "Umpungeng",
+    "postal_code": "90811"
   },
   {
     "code": "7312042010",
     "district_code": "731204",
-    "name": "Mattabulu"
+    "name": "Mattabulu",
+    "postal_code": "90811"
   }
 ]

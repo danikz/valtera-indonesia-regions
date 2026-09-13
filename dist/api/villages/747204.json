@@ -2,26 +2,31 @@
   {
     "code": "7472041001",
     "district_code": "747204",
-    "name": "Liabuku"
+    "name": "Liabuku",
+    "postal_code": "93732"
   },
   {
     "code": "7472041002",
     "district_code": "747204",
-    "name": "Ngkaring Karing"
+    "name": "Ngkaring Karing",
+    "postal_code": "93732"
   },
   {
     "code": "7472041003",
     "district_code": "747204",
-    "name": "Kampeonaho"
+    "name": "Kampeonaho",
+    "postal_code": "93732"
   },
   {
     "code": "7472041008",
     "district_code": "747204",
-    "name": "Waliabuku"
+    "name": "Waliabuku",
+    "postal_code": "93732"
   },
   {
     "code": "7472041010",
     "district_code": "747204",
-    "name": "Tampuna"
+    "name": "Tampuna",
+    "postal_code": "93732"
   }
 ]

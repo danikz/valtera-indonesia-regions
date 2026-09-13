@@ -2,36 +2,43 @@
   {
     "code": "7306091001",
     "district_code": "730609",
-    "name": "Sapaya"
+    "name": "Sapaya",
+    "postal_code": "92177"
   },
   {
     "code": "7306091010",
     "district_code": "730609",
-    "name": "Je'nebatu"
+    "name": "Je'nebatu",
+    "postal_code": "92177"
   },
   {
     "code": "7306092002",
     "district_code": "730609",
-    "name": "Bontomanai"
+    "name": "Bontomanai",
+    "postal_code": "92177"
   },
   {
     "code": "7306092003",
     "district_code": "730609",
-    "name": "Buakkang"
+    "name": "Buakkang",
+    "postal_code": "92177"
   },
   {
     "code": "7306092004",
     "district_code": "730609",
-    "name": "Bissoloro"
+    "name": "Bissoloro",
+    "postal_code": "92177"
   },
   {
     "code": "7306092011",
     "district_code": "730609",
-    "name": "Rannaloe"
+    "name": "Rannaloe",
+    "postal_code": "92177"
   },
   {
     "code": "7306092012",
     "district_code": "730609",
-    "name": "Mangempang"
+    "name": "Mangempang",
+    "postal_code": "92177"
   }
 ]

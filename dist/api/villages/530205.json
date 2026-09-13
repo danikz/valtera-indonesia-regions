@@ -2,56 +2,67 @@
   {
     "code": "5302051010",
     "district_code": "530205",
-    "name": "Niki-Niki"
+    "name": "Niki-Niki",
+    "postal_code": "85571"
   },
   {
     "code": "5302052001",
     "district_code": "530205",
-    "name": "Taebesa"
+    "name": "Taebesa",
+    "postal_code": "85571"
   },
   {
     "code": "5302052002",
     "district_code": "530205",
-    "name": "Nakfunu"
+    "name": "Nakfunu",
+    "postal_code": "85571"
   },
   {
     "code": "5302052003",
     "district_code": "530205",
-    "name": "Oe'ekam"
+    "name": "Oe'ekam",
+    "postal_code": "85571"
   },
   {
     "code": "5302052004",
     "district_code": "530205",
-    "name": "Baki"
+    "name": "Baki",
+    "postal_code": "85571"
   },
   {
     "code": "5302052005",
     "district_code": "530205",
-    "name": "Tumu"
+    "name": "Tumu",
+    "postal_code": "85571"
   },
   {
     "code": "5302052006",
     "district_code": "530205",
-    "name": "Noebesa"
+    "name": "Noebesa",
+    "postal_code": "85571"
   },
   {
     "code": "5302052007",
     "district_code": "530205",
-    "name": "Nobi-Nobi"
+    "name": "Nobi-Nobi",
+    "postal_code": "85571"
   },
   {
     "code": "5302052008",
     "district_code": "530205",
-    "name": "Sopo"
+    "name": "Sopo",
+    "postal_code": "85571"
   },
   {
     "code": "5302052009",
     "district_code": "530205",
-    "name": "Bone"
+    "name": "Bone",
+    "postal_code": "85571"
   },
   {
     "code": "5302052011",
     "district_code": "530205",
-    "name": "Maunum Niki-Niki"
+    "name": "Maunum Niki-Niki",
+    "postal_code": "85571"
   }
 ]

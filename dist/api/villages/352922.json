@@ -2,46 +2,55 @@
   {
     "code": "3529222001",
     "district_code": "352922",
-    "name": "Ketupat"
+    "name": "Ketupat",
+    "postal_code": "69485"
   },
   {
     "code": "3529222002",
     "district_code": "352922",
-    "name": "Jungkat"
+    "name": "Jungkat",
+    "postal_code": "69485"
   },
   {
     "code": "3529222003",
     "district_code": "352922",
-    "name": "Kropoh"
+    "name": "Kropoh",
+    "postal_code": "69485"
   },
   {
     "code": "3529222004",
     "district_code": "352922",
-    "name": "Karangnangka"
+    "name": "Karangnangka",
+    "postal_code": "69485"
   },
   {
     "code": "3529222005",
     "district_code": "352922",
-    "name": "Alas Malang"
+    "name": "Alas Malang",
+    "postal_code": "69485"
   },
   {
     "code": "3529222006",
     "district_code": "352922",
-    "name": "Poteran"
+    "name": "Poteran",
+    "postal_code": "69485"
   },
   {
     "code": "3529222007",
     "district_code": "352922",
-    "name": "Brakas"
+    "name": "Brakas",
+    "postal_code": "69485"
   },
   {
     "code": "3529222008",
     "district_code": "352922",
-    "name": "Tonduk"
+    "name": "Tonduk",
+    "postal_code": "69485"
   },
   {
     "code": "3529222009",
     "district_code": "352922",
-    "name": "Guwa-Guwa"
+    "name": "Guwa-Guwa",
+    "postal_code": "69485"
   }
 ]

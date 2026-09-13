@@ -2,46 +2,55 @@
   {
     "code": "1704041007",
     "district_code": "170404",
-    "name": "Tanjung Iman"
+    "name": "Tanjung Iman",
+    "postal_code": "38961"
   },
   {
     "code": "1704042001",
     "district_code": "170404",
-    "name": "Sukarami"
+    "name": "Sukarami",
+    "postal_code": "38961"
   },
   {
     "code": "1704042002",
     "district_code": "170404",
-    "name": "Pajar Bulan"
+    "name": "Pajar Bulan",
+    "postal_code": "38961"
   },
   {
     "code": "1704042003",
     "district_code": "170404",
-    "name": "Padang Hangat"
+    "name": "Padang Hangat",
+    "postal_code": "38961"
   },
   {
     "code": "1704042004",
     "district_code": "170404",
-    "name": "Kemang Manis"
+    "name": "Kemang Manis",
+    "postal_code": "38961"
   },
   {
     "code": "1704042005",
     "district_code": "170404",
-    "name": "Penyandingan"
+    "name": "Penyandingan",
+    "postal_code": "38961"
   },
   {
     "code": "1704042006",
     "district_code": "170404",
-    "name": "Sinar Jaya"
+    "name": "Sinar Jaya",
+    "postal_code": "38961"
   },
   {
     "code": "1704042008",
     "district_code": "170404",
-    "name": "Tanjung Pandan"
+    "name": "Tanjung Pandan",
+    "postal_code": "38961"
   },
   {
     "code": "1704042009",
     "district_code": "170404",
-    "name": "Padang Baru"
+    "name": "Padang Baru",
+    "postal_code": "38961"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "8203052004",
     "district_code": "820305",
-    "name": "Gamsungi"
+    "name": "Gamsungi",
+    "postal_code": "97762"
   },
   {
     "code": "8203052005",
     "district_code": "820305",
-    "name": "Gura"
+    "name": "Gura",
+    "postal_code": "97762"
   },
   {
     "code": "8203052006",
     "district_code": "820305",
-    "name": "Wari"
+    "name": "Wari",
+    "postal_code": "97762"
   },
   {
     "code": "8203052012",
     "district_code": "820305",
-    "name": "Kakara"
+    "name": "Kakara",
+    "postal_code": "97762"
   },
   {
     "code": "8203052013",
     "district_code": "820305",
-    "name": "Kumo"
+    "name": "Kumo",
+    "postal_code": "97762"
   },
   {
     "code": "8203052014",
     "district_code": "820305",
-    "name": "Gosoma"
+    "name": "Gosoma",
+    "postal_code": "97762"
   },
   {
     "code": "8203052015",
     "district_code": "820305",
-    "name": "Rawajaya"
+    "name": "Rawajaya",
+    "postal_code": "97762"
   },
   {
     "code": "8203052018",
     "district_code": "820305",
-    "name": "MKCM"
+    "name": "MKCM",
+    "postal_code": "97762"
   },
   {
     "code": "8203052024",
     "district_code": "820305",
-    "name": "Tagalaya"
+    "name": "Tagalaya",
+    "postal_code": "97762"
   },
   {
     "code": "8203052025",
     "district_code": "820305",
-    "name": "Wari Ino"
+    "name": "Wari Ino",
+    "postal_code": "97762"
   }
 ]

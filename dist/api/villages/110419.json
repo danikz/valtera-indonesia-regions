@@ -2,51 +2,61 @@
   {
     "code": "1104192001",
     "district_code": "110419",
-    "name": "Merah Said"
+    "name": "Merah Said",
+    "postal_code": "24564"
   },
   {
     "code": "1104192002",
     "district_code": "110419",
-    "name": "Berawang Dewal"
+    "name": "Berawang Dewal",
+    "postal_code": "24564"
   },
   {
     "code": "1104192003",
     "district_code": "110419",
-    "name": "Gegarang"
+    "name": "Gegarang",
+    "postal_code": "24564"
   },
   {
     "code": "1104192004",
     "district_code": "110419",
-    "name": "Telege Sari"
+    "name": "Telege Sari",
+    "postal_code": "24564"
   },
   {
     "code": "1104192005",
     "district_code": "110419",
-    "name": "Jeget Ayu"
+    "name": "Jeget Ayu",
+    "postal_code": "24564"
   },
   {
     "code": "1104192006",
     "district_code": "110419",
-    "name": "Paya Tungel"
+    "name": "Paya Tungel",
+    "postal_code": "24564"
   },
   {
     "code": "1104192007",
     "district_code": "110419",
-    "name": "Jagong Jeget"
+    "name": "Jagong Jeget",
+    "postal_code": "24564"
   },
   {
     "code": "1104192008",
     "district_code": "110419",
-    "name": "Bukit Sari"
+    "name": "Bukit Sari",
+    "postal_code": "24564"
   },
   {
     "code": "1104192009",
     "district_code": "110419",
-    "name": "Bukit Kemuning"
+    "name": "Bukit Kemuning",
+    "postal_code": "24564"
   },
   {
     "code": "1104192010",
     "district_code": "110419",
-    "name": "Paya Dedep"
+    "name": "Paya Dedep",
+    "postal_code": "24564"
   }
 ]

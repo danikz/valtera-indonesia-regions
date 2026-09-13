@@ -2,36 +2,43 @@
   {
     "code": "3401042001",
     "district_code": "340104",
-    "name": "Banaran"
+    "name": "Banaran",
+    "postal_code": "55661"
   },
   {
     "code": "3401042002",
     "district_code": "340104",
-    "name": "Kranggan"
+    "name": "Kranggan",
+    "postal_code": "55661"
   },
   {
     "code": "3401042003",
     "district_code": "340104",
-    "name": "Nomporejo"
+    "name": "Nomporejo",
+    "postal_code": "55661"
   },
   {
     "code": "3401042004",
     "district_code": "340104",
-    "name": "Karangsewu"
+    "name": "Karangsewu",
+    "postal_code": "55661"
   },
   {
     "code": "3401042005",
     "district_code": "340104",
-    "name": "Tirtorahayu"
+    "name": "Tirtorahayu",
+    "postal_code": "55661"
   },
   {
     "code": "3401042006",
     "district_code": "340104",
-    "name": "Pandowan"
+    "name": "Pandowan",
+    "postal_code": "55661"
   },
   {
     "code": "3401042007",
     "district_code": "340104",
-    "name": "Brosot"
+    "name": "Brosot",
+    "postal_code": "55661"
   }
 ]

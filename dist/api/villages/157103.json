@@ -2,46 +2,55 @@
   {
     "code": "1571031001",
     "district_code": "157103",
-    "name": "Sijenjang"
+    "name": "Sijenjang",
+    "postal_code": "36149"
   },
   {
     "code": "1571031002",
     "district_code": "157103",
-    "name": "Kasang Jaya"
+    "name": "Kasang Jaya",
+    "postal_code": "36141"
   },
   {
     "code": "1571031003",
     "district_code": "157103",
-    "name": "Talang Banjar"
+    "name": "Talang Banjar",
+    "postal_code": "36142"
   },
   {
     "code": "1571031004",
     "district_code": "157103",
-    "name": "Budiman"
+    "name": "Budiman",
+    "postal_code": "36145"
   },
   {
     "code": "1571031005",
     "district_code": "157103",
-    "name": "Sulanjana"
+    "name": "Sulanjana",
+    "postal_code": "36144"
   },
   {
     "code": "1571031006",
     "district_code": "157103",
-    "name": "Kasang"
+    "name": "Kasang",
+    "postal_code": "36141"
   },
   {
     "code": "1571031007",
     "district_code": "157103",
-    "name": "Tanjung Sari"
+    "name": "Tanjung Sari",
+    "postal_code": "36147"
   },
   {
     "code": "1571031008",
     "district_code": "157103",
-    "name": "Rajawali"
+    "name": "Rajawali",
+    "postal_code": "36143"
   },
   {
     "code": "1571031010",
     "district_code": "157103",
-    "name": "Tanjung Pinang"
+    "name": "Tanjung Pinang",
+    "postal_code": "36146"
   }
 ]

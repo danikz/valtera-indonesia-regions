@@ -2,41 +2,49 @@
   {
     "code": "1803011001",
     "district_code": "180301",
-    "name": "Bukit Kemuning"
+    "name": "Bukit Kemuning",
+    "postal_code": "34564"
   },
   {
     "code": "1803012002",
     "district_code": "180301",
-    "name": "Tanjung Baru"
+    "name": "Tanjung Baru",
+    "postal_code": "34564"
   },
   {
     "code": "1803012003",
     "district_code": "180301",
-    "name": "Suka Menanti"
+    "name": "Suka Menanti",
+    "postal_code": "34564"
   },
   {
     "code": "1803012004",
     "district_code": "180301",
-    "name": "Muara Aman"
+    "name": "Muara Aman",
+    "postal_code": "34564"
   },
   {
     "code": "1803012005",
     "district_code": "180301",
-    "name": "Tanjung Baru Timur"
+    "name": "Tanjung Baru Timur",
+    "postal_code": "34564"
   },
   {
     "code": "1803012006",
     "district_code": "180301",
-    "name": "Dwikora"
+    "name": "Dwikora",
+    "postal_code": "34564"
   },
   {
     "code": "1803012007",
     "district_code": "180301",
-    "name": "Tanjung Waras"
+    "name": "Tanjung Waras",
+    "postal_code": "34564"
   },
   {
     "code": "1803012008",
     "district_code": "180301",
-    "name": "Sido Mulyo"
+    "name": "Sido Mulyo",
+    "postal_code": "34564"
   }
 ]

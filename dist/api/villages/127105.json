@@ -2,31 +2,37 @@
   {
     "code": "1271051001",
     "district_code": "127105",
-    "name": "Kesawan"
+    "name": "Kesawan",
+    "postal_code": "20111"
   },
   {
     "code": "1271051002",
     "district_code": "127105",
-    "name": "Silalas"
+    "name": "Silalas",
+    "postal_code": "20114"
   },
   {
     "code": "1271051003",
     "district_code": "127105",
-    "name": "Glugur Kota"
+    "name": "Glugur Kota",
+    "postal_code": "20115"
   },
   {
     "code": "1271051004",
     "district_code": "127105",
-    "name": "Pulo Berayan Kota"
+    "name": "Pulo Berayan Kota",
+    "postal_code": "20116"
   },
   {
     "code": "1271051005",
     "district_code": "127105",
-    "name": "Sei Agul"
+    "name": "Sei Agul",
+    "postal_code": "20117"
   },
   {
     "code": "1271051006",
     "district_code": "127105",
-    "name": "Karang Berombak"
+    "name": "Karang Berombak",
+    "postal_code": "20117"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "3204321001",
     "district_code": "320432",
-    "name": "Baleendah"
+    "name": "Baleendah",
+    "postal_code": "40375"
   },
   {
     "code": "3204321002",
     "district_code": "320432",
-    "name": "Andir"
+    "name": "Andir",
+    "postal_code": "40375"
   },
   {
     "code": "3204321003",
     "district_code": "320432",
-    "name": "Manggahang"
+    "name": "Manggahang",
+    "postal_code": "40375"
   },
   {
     "code": "3204321004",
     "district_code": "320432",
-    "name": "Jelekong"
+    "name": "Jelekong",
+    "postal_code": "40375"
   },
   {
     "code": "3204321008",
     "district_code": "320432",
-    "name": "Wargamekar"
+    "name": "Wargamekar",
+    "postal_code": "40375"
   },
   {
     "code": "3204322005",
     "district_code": "320432",
-    "name": "Bojongmalaka"
+    "name": "Bojongmalaka",
+    "postal_code": "40375"
   },
   {
     "code": "3204322006",
     "district_code": "320432",
-    "name": "Rancamanyar"
+    "name": "Rancamanyar",
+    "postal_code": "40375"
   },
   {
     "code": "3204322007",
     "district_code": "320432",
-    "name": "Malakasari"
+    "name": "Malakasari",
+    "postal_code": "40258"
   }
 ]

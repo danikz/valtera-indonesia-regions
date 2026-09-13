@@ -2,31 +2,37 @@
   {
     "code": "1271131001",
     "district_code": "127113",
-    "name": "Pekan Labuhan"
+    "name": "Pekan Labuhan",
+    "postal_code": "20253"
   },
   {
     "code": "1271131002",
     "district_code": "127113",
-    "name": "Sei Mati"
+    "name": "Sei Mati",
+    "postal_code": "20252"
   },
   {
     "code": "1271131003",
     "district_code": "127113",
-    "name": "Besar"
+    "name": "Besar",
+    "postal_code": "20251"
   },
   {
     "code": "1271131004",
     "district_code": "127113",
-    "name": "Martubung"
+    "name": "Martubung",
+    "postal_code": "20252"
   },
   {
     "code": "1271131005",
     "district_code": "127113",
-    "name": "Nelayan Indah"
+    "name": "Nelayan Indah",
+    "postal_code": "20524"
   },
   {
     "code": "1271131006",
     "district_code": "127113",
-    "name": "Tangkahan"
+    "name": "Tangkahan",
+    "postal_code": "20525"
   }
 ]

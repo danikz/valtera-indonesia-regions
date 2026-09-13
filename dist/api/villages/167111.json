@@ -2,31 +2,37 @@
   {
     "code": "1671111001",
     "district_code": "167111",
-    "name": "19 Ilir"
+    "name": "19 Ilir",
+    "postal_code": "30132"
   },
   {
     "code": "1671111002",
     "district_code": "167111",
-    "name": "22 Ilir"
+    "name": "22 Ilir",
+    "postal_code": "30131"
   },
   {
     "code": "1671111003",
     "district_code": "167111",
-    "name": "23 Ilir"
+    "name": "23 Ilir",
+    "postal_code": "30133"
   },
   {
     "code": "1671111004",
     "district_code": "167111",
-    "name": "24 Ilir"
+    "name": "24 Ilir",
+    "postal_code": "30134"
   },
   {
     "code": "1671111005",
     "district_code": "167111",
-    "name": "26 Ilir"
+    "name": "26 Ilir",
+    "postal_code": "30136"
   },
   {
     "code": "1671111006",
     "district_code": "167111",
-    "name": "Talang Semut"
+    "name": "Talang Semut",
+    "postal_code": "30135"
   }
 ]

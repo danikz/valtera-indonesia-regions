@@ -2,51 +2,61 @@
   {
     "code": "9504212001",
     "district_code": "950421",
-    "name": "Numba"
+    "name": "Numba",
+    "postal_code": "99033"
   },
   {
     "code": "9504212002",
     "district_code": "950421",
-    "name": "Baliminggi"
+    "name": "Baliminggi",
+    "postal_code": "99433"
   },
   {
     "code": "9504212003",
     "district_code": "950421",
-    "name": "Kuma"
+    "name": "Kuma",
+    "postal_code": "99433"
   },
   {
     "code": "9504212004",
     "district_code": "950421",
-    "name": "Yugumena"
+    "name": "Yugumena",
+    "postal_code": "99433"
   },
   {
     "code": "9504212005",
     "district_code": "950421",
-    "name": "Yalogo"
+    "name": "Yalogo",
+    "postal_code": "99033"
   },
   {
     "code": "9504212006",
     "district_code": "950421",
-    "name": "Yiragame"
+    "name": "Yiragame",
+    "postal_code": "99033"
   },
   {
     "code": "9504212007",
     "district_code": "950421",
-    "name": "Tingwineri"
+    "name": "Tingwineri",
+    "postal_code": "99033"
   },
   {
     "code": "9504212008",
     "district_code": "950421",
-    "name": "Guniki"
+    "name": "Guniki",
+    "postal_code": "99433"
   },
   {
     "code": "9504212009",
     "district_code": "950421",
-    "name": "Keragigelok"
+    "name": "Keragigelok",
+    "postal_code": "99033"
   },
   {
     "code": "9504212010",
     "district_code": "950421",
-    "name": "Jinuwanu"
+    "name": "Jinuwanu",
+    "postal_code": "99433"
   }
 ]

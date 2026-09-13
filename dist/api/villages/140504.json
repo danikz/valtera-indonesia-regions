@@ -2,51 +2,61 @@
   {
     "code": "1405041001",
     "district_code": "140504",
-    "name": "Pangkalan Lesung"
+    "name": "Pangkalan Lesung",
+    "postal_code": "28387"
   },
   {
     "code": "1405042002",
     "district_code": "140504",
-    "name": "Dusun Tua"
+    "name": "Dusun Tua",
+    "postal_code": "28387"
   },
   {
     "code": "1405042003",
     "district_code": "140504",
-    "name": "Genduang"
+    "name": "Genduang",
+    "postal_code": "28387"
   },
   {
     "code": "1405042004",
     "district_code": "140504",
-    "name": "Mayang Sari"
+    "name": "Mayang Sari",
+    "postal_code": "28387"
   },
   {
     "code": "1405042005",
     "district_code": "140504",
-    "name": "Rawang Sari"
+    "name": "Rawang Sari",
+    "postal_code": "28387"
   },
   {
     "code": "1405042006",
     "district_code": "140504",
-    "name": "Mulya Subur"
+    "name": "Mulya Subur",
+    "postal_code": "28387"
   },
   {
     "code": "1405042007",
     "district_code": "140504",
-    "name": "Sari Mulya"
+    "name": "Sari Mulya",
+    "postal_code": "28387"
   },
   {
     "code": "1405042008",
     "district_code": "140504",
-    "name": "Sari Makmur"
+    "name": "Sari Makmur",
+    "postal_code": "28387"
   },
   {
     "code": "1405042009",
     "district_code": "140504",
-    "name": "Tanjung Kuyo"
+    "name": "Tanjung Kuyo",
+    "postal_code": "28387"
   },
   {
     "code": "1405042010",
     "district_code": "140504",
-    "name": "Pesaguan"
+    "name": "Pesaguan",
+    "postal_code": "28387"
   }
 ]

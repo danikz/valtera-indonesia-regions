@@ -2,101 +2,121 @@
   {
     "code": "6201021002",
     "district_code": "620102",
-    "name": "Mendawai Seberang"
+    "name": "Mendawai Seberang",
+    "postal_code": "74117"
   },
   {
     "code": "6201021003",
     "district_code": "620102",
-    "name": "Mendawai"
+    "name": "Mendawai",
+    "postal_code": "74115"
   },
   {
     "code": "6201021005",
     "district_code": "620102",
-    "name": "Madurejo"
+    "name": "Madurejo",
+    "postal_code": "74112"
   },
   {
     "code": "6201021006",
     "district_code": "620102",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "74111"
   },
   {
     "code": "6201021007",
     "district_code": "620102",
-    "name": "Raja"
+    "name": "Raja",
+    "postal_code": "74114"
   },
   {
     "code": "6201021008",
     "district_code": "620102",
-    "name": "Raja Seberang"
+    "name": "Raja Seberang",
+    "postal_code": "74116"
   },
   {
     "code": "6201021009",
     "district_code": "620102",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "74113"
   },
   {
     "code": "6201022001",
     "district_code": "620102",
-    "name": "Tanjung Putri"
+    "name": "Tanjung Putri",
+    "postal_code": "74117"
   },
   {
     "code": "6201022004",
     "district_code": "620102",
-    "name": "Pasir Panjang"
+    "name": "Pasir Panjang",
+    "postal_code": "74117"
   },
   {
     "code": "6201022010",
     "district_code": "620102",
-    "name": "Rangda"
+    "name": "Rangda",
+    "postal_code": "74117"
   },
   {
     "code": "6201022011",
     "district_code": "620102",
-    "name": "Kenambui"
+    "name": "Kenambui",
+    "postal_code": "74117"
   },
   {
     "code": "6201022012",
     "district_code": "620102",
-    "name": "Runtu"
+    "name": "Runtu",
+    "postal_code": "74117"
   },
   {
     "code": "6201022013",
     "district_code": "620102",
-    "name": "Umpang"
+    "name": "Umpang",
+    "postal_code": "74117"
   },
   {
     "code": "6201022014",
     "district_code": "620102",
-    "name": "Kumpai Batu Bawah"
+    "name": "Kumpai Batu Bawah",
+    "postal_code": "74117"
   },
   {
     "code": "6201022015",
     "district_code": "620102",
-    "name": "Kumpai Batu Atas"
+    "name": "Kumpai Batu Atas",
+    "postal_code": "74117"
   },
   {
     "code": "6201022016",
     "district_code": "620102",
-    "name": "Natai Raya"
+    "name": "Natai Raya",
+    "postal_code": "74117"
   },
   {
     "code": "6201022017",
     "district_code": "620102",
-    "name": "Medang Sari"
+    "name": "Medang Sari",
+    "postal_code": "74117"
   },
   {
     "code": "6201022018",
     "district_code": "620102",
-    "name": "Natai Baru"
+    "name": "Natai Baru",
+    "postal_code": "74117"
   },
   {
     "code": "6201022019",
     "district_code": "620102",
-    "name": "Tanjung Terantang"
+    "name": "Tanjung Terantang",
+    "postal_code": "74117"
   },
   {
     "code": "6201022020",
     "district_code": "620102",
-    "name": "Sulung"
+    "name": "Sulung",
+    "postal_code": "74117"
   }
 ]

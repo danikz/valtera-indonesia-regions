@@ -2,26 +2,31 @@
   {
     "code": "3402082001",
     "district_code": "340208",
-    "name": "Palbapang"
+    "name": "Palbapang",
+    "postal_code": "55713"
   },
   {
     "code": "3402082002",
     "district_code": "340208",
-    "name": "Ringinharjo"
+    "name": "Ringinharjo",
+    "postal_code": "55712"
   },
   {
     "code": "3402082003",
     "district_code": "340208",
-    "name": "Bantul"
+    "name": "Bantul",
+    "postal_code": "55711"
   },
   {
     "code": "3402082004",
     "district_code": "340208",
-    "name": "Trirenggo"
+    "name": "Trirenggo",
+    "postal_code": "55714"
   },
   {
     "code": "3402082005",
     "district_code": "340208",
-    "name": "Sabdodadi"
+    "name": "Sabdodadi",
+    "postal_code": "55715"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "9105082001",
     "district_code": "910508",
-    "name": "Waindu"
+    "name": "Waindu",
+    "postal_code": "98641"
   },
   {
     "code": "9105082008",
     "district_code": "910508",
-    "name": "Barawai"
+    "name": "Barawai",
+    "postal_code": "98641"
   },
   {
     "code": "9105082009",
     "district_code": "910508",
-    "name": "Woda"
+    "name": "Woda",
+    "postal_code": "98641"
   },
   {
     "code": "9105082010",
     "district_code": "910508",
-    "name": "Kororompui"
+    "name": "Kororompui",
+    "postal_code": "98641"
   },
   {
     "code": "9105082011",
     "district_code": "910508",
-    "name": "Aisau"
+    "name": "Aisau",
+    "postal_code": "98641"
   },
   {
     "code": "9105082012",
     "district_code": "910508",
-    "name": "Sewenui"
+    "name": "Sewenui",
+    "postal_code": "98641"
   },
   {
     "code": "9105082013",
     "district_code": "910508",
-    "name": "Sawendui"
+    "name": "Sawendui",
+    "postal_code": "98641"
   }
 ]

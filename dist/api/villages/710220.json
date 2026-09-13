@@ -2,51 +2,61 @@
   {
     "code": "7102202001",
     "district_code": "710220",
-    "name": "Wasian"
+    "name": "Wasian",
+    "postal_code": "95682"
   },
   {
     "code": "7102202002",
     "district_code": "710220",
-    "name": "Panasen"
+    "name": "Panasen",
+    "postal_code": "95682"
   },
   {
     "code": "7102202003",
     "district_code": "710220",
-    "name": "Tountimomor"
+    "name": "Tountimomor",
+    "postal_code": "95682"
   },
   {
     "code": "7102202004",
     "district_code": "710220",
-    "name": "Totolan"
+    "name": "Totolan",
+    "postal_code": "95682"
   },
   {
     "code": "7102202005",
     "district_code": "710220",
-    "name": "Passo"
+    "name": "Passo",
+    "postal_code": "95682"
   },
   {
     "code": "7102202006",
     "district_code": "710220",
-    "name": "Kalawiran"
+    "name": "Kalawiran",
+    "postal_code": "95682"
   },
   {
     "code": "7102202007",
     "district_code": "710220",
-    "name": "Touliang"
+    "name": "Touliang",
+    "postal_code": "95682"
   },
   {
     "code": "7102202008",
     "district_code": "710220",
-    "name": "Simbel"
+    "name": "Simbel",
+    "postal_code": "95682"
   },
   {
     "code": "7102202009",
     "district_code": "710220",
-    "name": "Wailang"
+    "name": "Wailang",
+    "postal_code": "95682"
   },
   {
     "code": "7102202010",
     "district_code": "710220",
-    "name": "Bukit Tinggi"
+    "name": "Bukit Tinggi",
+    "postal_code": "95682"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "6411032001",
     "district_code": "641103",
-    "name": "Laham"
+    "name": "Laham",
+    "postal_code": "75779"
   },
   {
     "code": "6411032002",
     "district_code": "641103",
-    "name": "Long Gelawang"
+    "name": "Long Gelawang",
+    "postal_code": "75779"
   },
   {
     "code": "6411032003",
     "district_code": "641103",
-    "name": "Muara Ratah"
+    "name": "Muara Ratah",
+    "postal_code": "75779"
   },
   {
     "code": "6411032004",
     "district_code": "641103",
-    "name": "Danum Paroy"
+    "name": "Danum Paroy",
+    "postal_code": "75779"
   },
   {
     "code": "6411032005",
     "district_code": "641103",
-    "name": "Nyaribungan"
+    "name": "Nyaribungan",
+    "postal_code": "75779"
   }
 ]

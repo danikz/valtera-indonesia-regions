@@ -2,36 +2,43 @@
   {
     "code": "3202272001",
     "district_code": "320227",
-    "name": "Cikujang"
+    "name": "Cikujang",
+    "postal_code": "43156"
   },
   {
     "code": "3202272002",
     "district_code": "320227",
-    "name": "Gunungguruh"
+    "name": "Gunungguruh",
+    "postal_code": "43156"
   },
   {
     "code": "3202272003",
     "district_code": "320227",
-    "name": "Cibentang"
+    "name": "Cibentang",
+    "postal_code": "43156"
   },
   {
     "code": "3202272004",
     "district_code": "320227",
-    "name": "Sirnaresmi"
+    "name": "Sirnaresmi",
+    "postal_code": "43156"
   },
   {
     "code": "3202272005",
     "district_code": "320227",
-    "name": "Kebonmanggu"
+    "name": "Kebonmanggu",
+    "postal_code": "43156"
   },
   {
     "code": "3202272006",
     "district_code": "320227",
-    "name": "Cibolang"
+    "name": "Cibolang",
+    "postal_code": "43156"
   },
   {
     "code": "3202272007",
     "district_code": "320227",
-    "name": "Mangkalaya"
+    "name": "Mangkalaya",
+    "postal_code": "43156"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "7504042003",
     "district_code": "750404",
-    "name": "Marisa Selatan"
+    "name": "Marisa Selatan",
+    "postal_code": "96365"
   },
   {
     "code": "7504042004",
     "district_code": "750404",
-    "name": "Marisa Utara"
+    "name": "Marisa Utara",
+    "postal_code": "96365"
   },
   {
     "code": "7504042007",
     "district_code": "750404",
-    "name": "Teratai"
+    "name": "Teratai",
+    "postal_code": "96365"
   },
   {
     "code": "7504042008",
     "district_code": "750404",
-    "name": "Pohuwato"
+    "name": "Pohuwato",
+    "postal_code": "96365"
   },
   {
     "code": "7504042015",
     "district_code": "750404",
-    "name": "Batubilotahu"
+    "name": "Batubilotahu",
+    "postal_code": "96365"
   },
   {
     "code": "7504042016",
     "district_code": "750404",
-    "name": "Palopo"
+    "name": "Palopo",
+    "postal_code": "96365"
   },
   {
     "code": "7504042017",
     "district_code": "750404",
-    "name": "Pohuwato Timur"
+    "name": "Pohuwato Timur",
+    "postal_code": "96365"
   },
   {
     "code": "7504042018",
     "district_code": "750404",
-    "name": "Bulangita"
+    "name": "Bulangita",
+    "postal_code": "96365"
   }
 ]

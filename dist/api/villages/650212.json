@@ -2,36 +2,43 @@
   {
     "code": "6502122001",
     "district_code": "650212",
-    "name": "Lung Fala"
+    "name": "Lung Fala",
+    "postal_code": "77155"
   },
   {
     "code": "6502122002",
     "district_code": "650212",
-    "name": "Lung Kebinu"
+    "name": "Lung Kebinu",
+    "postal_code": "77155"
   },
   {
     "code": "6502122003",
     "district_code": "650212",
-    "name": "Lung Mekatip"
+    "name": "Lung Mekatip",
+    "postal_code": "77155"
   },
   {
     "code": "6502122004",
     "district_code": "650212",
-    "name": "Lung Simau"
+    "name": "Lung Simau",
+    "postal_code": "77155"
   },
   {
     "code": "6502122005",
     "district_code": "650212",
-    "name": "Lung Barang"
+    "name": "Lung Barang",
+    "postal_code": "77155"
   },
   {
     "code": "6502122006",
     "district_code": "650212",
-    "name": "Lung Sulit"
+    "name": "Lung Sulit",
+    "postal_code": "77155"
   },
   {
     "code": "6502122007",
     "district_code": "650212",
-    "name": "Lung Semamu"
+    "name": "Lung Semamu",
+    "postal_code": "77155"
   }
 ]

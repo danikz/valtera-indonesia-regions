@@ -2,21 +2,25 @@
   {
     "code": "1273041001",
     "district_code": "127304",
-    "name": "Pancuran Kerambil"
+    "name": "Pancuran Kerambil",
+    "postal_code": "22531"
   },
   {
     "code": "1273041002",
     "district_code": "127304",
-    "name": "Pancuran Dewa"
+    "name": "Pancuran Dewa",
+    "postal_code": "22532"
   },
   {
     "code": "1273041003",
     "district_code": "127304",
-    "name": "Pancuran Pinang"
+    "name": "Pancuran Pinang",
+    "postal_code": "22534"
   },
   {
     "code": "1273041004",
     "district_code": "127304",
-    "name": "Pancuran Bambu"
+    "name": "Pancuran Bambu",
+    "postal_code": "22535"
   }
 ]

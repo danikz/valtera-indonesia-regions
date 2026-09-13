@@ -2,41 +2,49 @@
   {
     "code": "5107062001",
     "district_code": "510706",
-    "name": "Bungaya"
+    "name": "Bungaya",
+    "postal_code": "80861"
   },
   {
     "code": "5107062002",
     "district_code": "510706",
-    "name": "Budekeling"
+    "name": "Budekeling",
+    "postal_code": "80861"
   },
   {
     "code": "5107062003",
     "district_code": "510706",
-    "name": "Bebanden"
+    "name": "Bebanden",
+    "postal_code": "80861"
   },
   {
     "code": "5107062004",
     "district_code": "510706",
-    "name": "Sibetan"
+    "name": "Sibetan",
+    "postal_code": "80861"
   },
   {
     "code": "5107062005",
     "district_code": "510706",
-    "name": "Jungutan"
+    "name": "Jungutan",
+    "postal_code": "80861"
   },
   {
     "code": "5107062006",
     "district_code": "510706",
-    "name": "Bungaya Kangin"
+    "name": "Bungaya Kangin",
+    "postal_code": "80861"
   },
   {
     "code": "5107062007",
     "district_code": "510706",
-    "name": "Buana Giri"
+    "name": "Buana Giri",
+    "postal_code": "80861"
   },
   {
     "code": "5107062008",
     "district_code": "510706",
-    "name": "Macang"
+    "name": "Macang",
+    "postal_code": "80861"
   }
 ]

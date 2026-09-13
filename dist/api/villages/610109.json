@@ -2,26 +2,31 @@
   {
     "code": "6101092001",
     "district_code": "610109",
-    "name": "Kaliau'"
+    "name": "Kaliau'",
+    "postal_code": "79467"
   },
   {
     "code": "6101092002",
     "district_code": "610109",
-    "name": "Sebunga"
+    "name": "Sebunga",
+    "postal_code": "79467"
   },
   {
     "code": "6101092003",
     "district_code": "610109",
-    "name": "Santaban"
+    "name": "Santaban",
+    "postal_code": "79467"
   },
   {
     "code": "6101092004",
     "district_code": "610109",
-    "name": "Senatab"
+    "name": "Senatab",
+    "postal_code": "79467"
   },
   {
     "code": "6101092005",
     "district_code": "610109",
-    "name": "Sungai Bening"
+    "name": "Sungai Bening",
+    "postal_code": "79467"
   }
 ]

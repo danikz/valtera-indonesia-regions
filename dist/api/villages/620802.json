@@ -2,26 +2,31 @@
   {
     "code": "6208021001",
     "district_code": "620802",
-    "name": "Kuala Jelai"
+    "name": "Kuala Jelai",
+    "postal_code": "74171"
   },
   {
     "code": "6208022002",
     "district_code": "620802",
-    "name": "Pulau Nibung"
+    "name": "Pulau Nibung",
+    "postal_code": "74171"
   },
   {
     "code": "6208022003",
     "district_code": "620802",
-    "name": "Sungai Baru"
+    "name": "Sungai Baru",
+    "postal_code": "74171"
   },
   {
     "code": "6208022004",
     "district_code": "620802",
-    "name": "Sungai Bundung"
+    "name": "Sungai Bundung",
+    "postal_code": "74171"
   },
   {
     "code": "6208022005",
     "district_code": "620802",
-    "name": "Sungai Raja"
+    "name": "Sungai Raja",
+    "postal_code": "74171"
   }
 ]

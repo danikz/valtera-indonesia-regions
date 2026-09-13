@@ -2,36 +2,43 @@
   {
     "code": "1471111001",
     "district_code": "147111",
-    "name": "Tampan"
+    "name": "Tampan",
+    "postal_code": "28292"
   },
   {
     "code": "1471111002",
     "district_code": "147111",
-    "name": "Labuh Baru Timur"
+    "name": "Labuh Baru Timur",
+    "postal_code": "28292"
   },
   {
     "code": "1471111003",
     "district_code": "147111",
-    "name": "Labuh Baru Barat"
+    "name": "Labuh Baru Barat",
+    "postal_code": "28292"
   },
   {
     "code": "1471111004",
     "district_code": "147111",
-    "name": "Air Hitam"
+    "name": "Air Hitam",
+    "postal_code": "28292"
   },
   {
     "code": "1471111005",
     "district_code": "147111",
-    "name": "Bandarraya"
+    "name": "Bandarraya",
+    "postal_code": "28292"
   },
   {
     "code": "1471111006",
     "district_code": "147111",
-    "name": "Sungaisibam"
+    "name": "Sungaisibam",
+    "postal_code": ""
   },
   {
     "code": "1471111007",
     "district_code": "147111",
-    "name": "Tirtasiak"
+    "name": "Tirtasiak",
+    "postal_code": "28292"
   }
 ]

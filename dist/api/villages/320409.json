@@ -2,26 +2,31 @@
   {
     "code": "3204091004",
     "district_code": "320409",
-    "name": "Sulaiman"
+    "name": "Sulaiman",
+    "postal_code": "40229"
   },
   {
     "code": "3204092001",
     "district_code": "320409",
-    "name": "Margahayu Tengah"
+    "name": "Margahayu Tengah",
+    "postal_code": "40225"
   },
   {
     "code": "3204092002",
     "district_code": "320409",
-    "name": "Magahayu Selatan"
+    "name": "Magahayu Selatan",
+    "postal_code": "40226"
   },
   {
     "code": "3204092003",
     "district_code": "320409",
-    "name": "Sukamenak"
+    "name": "Sukamenak",
+    "postal_code": "40227"
   },
   {
     "code": "3204092005",
     "district_code": "320409",
-    "name": "Sayati"
+    "name": "Sayati",
+    "postal_code": "40228"
   }
 ]

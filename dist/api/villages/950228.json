@@ -2,21 +2,25 @@
   {
     "code": "9502282001",
     "district_code": "950228",
-    "name": "Bias"
+    "name": "Bias",
+    "postal_code": "99444"
   },
   {
     "code": "9502282002",
     "district_code": "950228",
-    "name": "Bumi"
+    "name": "Bumi",
+    "postal_code": "99444"
   },
   {
     "code": "9502282003",
     "district_code": "950228",
-    "name": "Tero"
+    "name": "Tero",
+    "postal_code": "99444"
   },
   {
     "code": "9502282004",
     "district_code": "950228",
-    "name": "Delemo"
+    "name": "Delemo",
+    "postal_code": "99444"
   }
 ]

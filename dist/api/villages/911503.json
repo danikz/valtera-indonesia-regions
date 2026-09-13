@@ -2,46 +2,55 @@
   {
     "code": "9115032006",
     "district_code": "911503",
-    "name": "Saurisirami"
+    "name": "Saurisirami",
+    "postal_code": "98671"
   },
   {
     "code": "9115032009",
     "district_code": "911503",
-    "name": "Sinonde"
+    "name": "Sinonde",
+    "postal_code": "98671"
   },
   {
     "code": "9115032013",
     "district_code": "911503",
-    "name": "Kali Baru"
+    "name": "Kali Baru",
+    "postal_code": "98671"
   },
   {
     "code": "9115032014",
     "district_code": "911503",
-    "name": "Sirami"
+    "name": "Sirami",
+    "postal_code": "98671"
   },
   {
     "code": "9115032015",
     "district_code": "911503",
-    "name": "Bunggu"
+    "name": "Bunggu",
+    "postal_code": "98671"
   },
   {
     "code": "9115032016",
     "district_code": "911503",
-    "name": "Kowogi"
+    "name": "Kowogi",
+    "postal_code": "98671"
   },
   {
     "code": "9115032017",
     "district_code": "911503",
-    "name": "Emauri"
+    "name": "Emauri",
+    "postal_code": "98671"
   },
   {
     "code": "9115032018",
     "district_code": "911503",
-    "name": "Obutay"
+    "name": "Obutay",
+    "postal_code": "98671"
   },
   {
     "code": "9115032019",
     "district_code": "911503",
-    "name": "Wairo"
+    "name": "Wairo",
+    "postal_code": "98671"
   }
 ]

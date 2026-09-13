@@ -2,36 +2,43 @@
   {
     "code": "1807142001",
     "district_code": "180714",
-    "name": "Donomulyo"
+    "name": "Donomulyo",
+    "postal_code": "34182"
   },
   {
     "code": "1807142002",
     "district_code": "180714",
-    "name": "Nyampir"
+    "name": "Nyampir",
+    "postal_code": "34182"
   },
   {
     "code": "1807142003",
     "district_code": "180714",
-    "name": "Bumi Tinggi"
+    "name": "Bumi Tinggi",
+    "postal_code": "34182"
   },
   {
     "code": "1807142004",
     "district_code": "180714",
-    "name": "Lehan"
+    "name": "Lehan",
+    "postal_code": "34182"
   },
   {
     "code": "1807142005",
     "district_code": "180714",
-    "name": "Marga Mulya"
+    "name": "Marga Mulya",
+    "postal_code": "34182"
   },
   {
     "code": "1807142006",
     "district_code": "180714",
-    "name": "Catur Swako"
+    "name": "Catur Swako",
+    "postal_code": "34182"
   },
   {
     "code": "1807142007",
     "district_code": "180714",
-    "name": "Mulyo Asri"
+    "name": "Mulyo Asri",
+    "postal_code": "34182"
   }
 ]

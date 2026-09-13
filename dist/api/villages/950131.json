@@ -2,51 +2,61 @@
   {
     "code": "9501312001",
     "district_code": "950131",
-    "name": "Piramid"
+    "name": "Piramid",
+    "postal_code": "99534"
   },
   {
     "code": "9501312002",
     "district_code": "950131",
-    "name": "Yonggime"
+    "name": "Yonggime",
+    "postal_code": "99534"
   },
   {
     "code": "9501312003",
     "district_code": "950131",
-    "name": "Perabaga"
+    "name": "Perabaga",
+    "postal_code": "99534"
   },
   {
     "code": "9501312004",
     "district_code": "950131",
-    "name": "Algonik"
+    "name": "Algonik",
+    "postal_code": "99534"
   },
   {
     "code": "9501312005",
     "district_code": "950131",
-    "name": "Yalinggume"
+    "name": "Yalinggume",
+    "postal_code": "99534"
   },
   {
     "code": "9501312006",
     "district_code": "950131",
-    "name": "Aboneri"
+    "name": "Aboneri",
+    "postal_code": "99534"
   },
   {
     "code": "9501312007",
     "district_code": "950131",
-    "name": "Gobalimo"
+    "name": "Gobalimo",
+    "postal_code": "99534"
   },
   {
     "code": "9501312008",
     "district_code": "950131",
-    "name": "Balima"
+    "name": "Balima",
+    "postal_code": "99534"
   },
   {
     "code": "9501312009",
     "district_code": "950131",
-    "name": "Yumbun"
+    "name": "Yumbun",
+    "postal_code": "99534"
   },
   {
     "code": "9501312010",
     "district_code": "950131",
-    "name": "Beam"
+    "name": "Beam",
+    "postal_code": "99534"
   }
 ]

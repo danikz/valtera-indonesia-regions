@@ -2,26 +2,31 @@
   {
     "code": "5314092001",
     "district_code": "531409",
-    "name": "Mbali Lendeiki"
+    "name": "Mbali Lendeiki",
+    "postal_code": "85983"
   },
   {
     "code": "5314092002",
     "district_code": "531409",
-    "name": "Anarae"
+    "name": "Anarae",
+    "postal_code": "85983"
   },
   {
     "code": "5314092003",
     "district_code": "531409",
-    "name": "Mbiu Lombo"
+    "name": "Mbiu Lombo",
+    "postal_code": "85983"
   },
   {
     "code": "5314092004",
     "district_code": "531409",
-    "name": "Nuse"
+    "name": "Nuse",
+    "postal_code": "85983"
   },
   {
     "code": "5314092005",
     "district_code": "531409",
-    "name": "Ndaonuse"
+    "name": "Ndaonuse",
+    "postal_code": "85983"
   }
 ]

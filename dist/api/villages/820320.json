@@ -2,61 +2,73 @@
   {
     "code": "8203202001",
     "district_code": "820320",
-    "name": "Wateto"
+    "name": "Wateto",
+    "postal_code": "97764"
   },
   {
     "code": "8203202002",
     "district_code": "820320",
-    "name": "Gulo"
+    "name": "Gulo",
+    "postal_code": "97764"
   },
   {
     "code": "8203202003",
     "district_code": "820320",
-    "name": "Tunuo"
+    "name": "Tunuo",
+    "postal_code": "97764"
   },
   {
     "code": "8203202004",
     "district_code": "820320",
-    "name": "Pediwang"
+    "name": "Pediwang",
+    "postal_code": "97764"
   },
   {
     "code": "8203202005",
     "district_code": "820320",
-    "name": "Bori"
+    "name": "Bori",
+    "postal_code": "97764"
   },
   {
     "code": "8203202006",
     "district_code": "820320",
-    "name": "Doro"
+    "name": "Doro",
+    "postal_code": "97764"
   },
   {
     "code": "8203202007",
     "district_code": "820320",
-    "name": "Daru"
+    "name": "Daru",
+    "postal_code": "97764"
   },
   {
     "code": "8203202008",
     "district_code": "820320",
-    "name": "Bobale"
+    "name": "Bobale",
+    "postal_code": "97764"
   },
   {
     "code": "8203202009",
     "district_code": "820320",
-    "name": "Gamlaha"
+    "name": "Gamlaha",
+    "postal_code": "97764"
   },
   {
     "code": "8203202010",
     "district_code": "820320",
-    "name": "Boulamo"
+    "name": "Boulamo",
+    "postal_code": "97764"
   },
   {
     "code": "8203202011",
     "district_code": "820320",
-    "name": "Warudu"
+    "name": "Warudu",
+    "postal_code": "97764"
   },
   {
     "code": "8203202012",
     "district_code": "820320",
-    "name": "Dowongimaiti"
+    "name": "Dowongimaiti",
+    "postal_code": "97764"
   }
 ]

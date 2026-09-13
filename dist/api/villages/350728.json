@@ -2,31 +2,37 @@
   {
     "code": "3507282001",
     "district_code": "350728",
-    "name": "Pondokagung"
+    "name": "Pondokagung",
+    "postal_code": "65393"
   },
   {
     "code": "3507282002",
     "district_code": "350728",
-    "name": "Bayem"
+    "name": "Bayem",
+    "postal_code": "65393"
   },
   {
     "code": "3507282003",
     "district_code": "350728",
-    "name": "Pait"
+    "name": "Pait",
+    "postal_code": "65393"
   },
   {
     "code": "3507282004",
     "district_code": "350728",
-    "name": "Wonoagung"
+    "name": "Wonoagung",
+    "postal_code": "65393"
   },
   {
     "code": "3507282005",
     "district_code": "350728",
-    "name": "Kasembon"
+    "name": "Kasembon",
+    "postal_code": "65393"
   },
   {
     "code": "3507282006",
     "district_code": "350728",
-    "name": "Sukosari"
+    "name": "Sukosari",
+    "postal_code": "65393"
   }
 ]

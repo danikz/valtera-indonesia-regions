@@ -2,61 +2,73 @@
   {
     "code": "1213111003",
     "district_code": "121311",
-    "name": "Huta Godang"
+    "name": "Huta Godang",
+    "postal_code": "22999"
   },
   {
     "code": "1213112001",
     "district_code": "121311",
-    "name": "Alahan Kae"
+    "name": "Alahan Kae",
+    "postal_code": "22999"
   },
   {
     "code": "1213112002",
     "district_code": "121311",
-    "name": "Habincaran"
+    "name": "Habincaran",
+    "postal_code": "22999"
   },
   {
     "code": "1213112004",
     "district_code": "121311",
-    "name": "Huta Padang UP"
+    "name": "Huta Padang UP",
+    "postal_code": "22999"
   },
   {
     "code": "1213112005",
     "district_code": "121311",
-    "name": "Hutaimbaru UP"
+    "name": "Hutaimbaru UP",
+    "postal_code": "22999"
   },
   {
     "code": "1213112007",
     "district_code": "121311",
-    "name": "Patahajang"
+    "name": "Patahajang",
+    "postal_code": "22999"
   },
   {
     "code": "1213112008",
     "district_code": "121311",
-    "name": "Simpang Banyak Jae"
+    "name": "Simpang Banyak Jae",
+    "postal_code": "22999"
   },
   {
     "code": "1213112009",
     "district_code": "121311",
-    "name": "Simpang Banyak Julu"
+    "name": "Simpang Banyak Julu",
+    "postal_code": "22999"
   },
   {
     "code": "1213112010",
     "district_code": "121311",
-    "name": "Simpang Duhu Dolok"
+    "name": "Simpang Duhu Dolok",
+    "postal_code": "22999"
   },
   {
     "code": "1213112011",
     "district_code": "121311",
-    "name": "Simpang Duhu Lombang"
+    "name": "Simpang Duhu Lombang",
+    "postal_code": "22999"
   },
   {
     "code": "1213112012",
     "district_code": "121311",
-    "name": "Simpang Pining"
+    "name": "Simpang Pining",
+    "postal_code": "22999"
   },
   {
     "code": "1213112013",
     "district_code": "121311",
-    "name": "Tolang"
+    "name": "Tolang",
+    "postal_code": "22999"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "9502182001",
     "district_code": "950218",
-    "name": "Awinbon"
+    "name": "Awinbon",
+    "postal_code": "99431"
   },
   {
     "code": "9502182002",
     "district_code": "950218",
-    "name": "Nanum Anaip"
+    "name": "Nanum Anaip",
+    "postal_code": "99431"
   },
   {
     "code": "9502182003",
     "district_code": "950218",
-    "name": "Mikir"
+    "name": "Mikir",
+    "postal_code": "99431"
   },
   {
     "code": "9502182004",
     "district_code": "950218",
-    "name": "Kawe"
+    "name": "Kawe",
+    "postal_code": "99431"
   },
   {
     "code": "9502182005",
     "district_code": "950218",
-    "name": "Yelobib"
+    "name": "Yelobib",
+    "postal_code": "99431"
   }
 ]

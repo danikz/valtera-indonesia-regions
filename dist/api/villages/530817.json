@@ -2,51 +2,61 @@
   {
     "code": "5308172001",
     "district_code": "530817",
-    "name": "Maubasa"
+    "name": "Maubasa",
+    "postal_code": "86372"
   },
   {
     "code": "5308172002",
     "district_code": "530817",
-    "name": "Maubasa Timur"
+    "name": "Maubasa Timur",
+    "postal_code": "86372"
   },
   {
     "code": "5308172003",
     "district_code": "530817",
-    "name": "Wonda"
+    "name": "Wonda",
+    "postal_code": "86372"
   },
   {
     "code": "5308172004",
     "district_code": "530817",
-    "name": "Serandori"
+    "name": "Serandori",
+    "postal_code": "86372"
   },
   {
     "code": "5308172005",
     "district_code": "530817",
-    "name": "Kelisamba"
+    "name": "Kelisamba",
+    "postal_code": "86372"
   },
   {
     "code": "5308172006",
     "district_code": "530817",
-    "name": "Mole"
+    "name": "Mole",
+    "postal_code": "86372"
   },
   {
     "code": "5308172007",
     "district_code": "530817",
-    "name": "Lungaria"
+    "name": "Lungaria",
+    "postal_code": "86372"
   },
   {
     "code": "5308172008",
     "district_code": "530817",
-    "name": "Aebara"
+    "name": "Aebara",
+    "postal_code": "86372"
   },
   {
     "code": "5308172009",
     "district_code": "530817",
-    "name": "Ratemangga"
+    "name": "Ratemangga",
+    "postal_code": "86372"
   },
   {
     "code": "5308172010",
     "district_code": "530817",
-    "name": "Maubasa Barat"
+    "name": "Maubasa Barat",
+    "postal_code": "86372"
   }
 ]

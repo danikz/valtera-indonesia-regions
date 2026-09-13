@@ -2,41 +2,49 @@
   {
     "code": "1205141001",
     "district_code": "120514",
-    "name": "Pelawi Utara"
+    "name": "Pelawi Utara",
+    "postal_code": "20857"
   },
   {
     "code": "1205141006",
     "district_code": "120514",
-    "name": "Berandan Barat"
+    "name": "Berandan Barat",
+    "postal_code": "20857"
   },
   {
     "code": "1205141007",
     "district_code": "120514",
-    "name": "Berandan Timur Baru"
+    "name": "Berandan Timur Baru",
+    "postal_code": "20857"
   },
   {
     "code": "1205141008",
     "district_code": "120514",
-    "name": "Berandan Timur"
+    "name": "Berandan Timur",
+    "postal_code": "20857"
   },
   {
     "code": "1205142002",
     "district_code": "120514",
-    "name": "Securai Utara"
+    "name": "Securai Utara",
+    "postal_code": "20857"
   },
   {
     "code": "1205142003",
     "district_code": "120514",
-    "name": "Teluk Meku"
+    "name": "Teluk Meku",
+    "postal_code": "20857"
   },
   {
     "code": "1205142004",
     "district_code": "120514",
-    "name": "Pelawi Selatan"
+    "name": "Pelawi Selatan",
+    "postal_code": "20857"
   },
   {
     "code": "1205142005",
     "district_code": "120514",
-    "name": "Securai Selatan"
+    "name": "Securai Selatan",
+    "postal_code": "20857"
   }
 ]

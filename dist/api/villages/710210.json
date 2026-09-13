@@ -2,81 +2,97 @@
   {
     "code": "7102102001",
     "district_code": "710210",
-    "name": "Koyawas"
+    "name": "Koyawas",
+    "postal_code": "95694"
   },
   {
     "code": "7102102002",
     "district_code": "710210",
-    "name": "Walewangko"
+    "name": "Walewangko",
+    "postal_code": "95694"
   },
   {
     "code": "7102102003",
     "district_code": "710210",
-    "name": "Noongan"
+    "name": "Noongan",
+    "postal_code": "95694"
   },
   {
     "code": "7102102004",
     "district_code": "710210",
-    "name": "Raringis"
+    "name": "Raringis",
+    "postal_code": "95694"
   },
   {
     "code": "7102102005",
     "district_code": "710210",
-    "name": "Ampreng"
+    "name": "Ampreng",
+    "postal_code": "95694"
   },
   {
     "code": "7102102006",
     "district_code": "710210",
-    "name": "Tumaratas"
+    "name": "Tumaratas",
+    "postal_code": "95694"
   },
   {
     "code": "7102102009",
     "district_code": "710210",
-    "name": "Paslaten"
+    "name": "Paslaten",
+    "postal_code": "95694"
   },
   {
     "code": "7102102010",
     "district_code": "710210",
-    "name": "Lowian"
+    "name": "Lowian",
+    "postal_code": "95694"
   },
   {
     "code": "7102102011",
     "district_code": "710210",
-    "name": "Tounelet"
+    "name": "Tounelet",
+    "postal_code": "95694"
   },
   {
     "code": "7102102014",
     "district_code": "710210",
-    "name": "Kopiwangker"
+    "name": "Kopiwangker",
+    "postal_code": "95694"
   },
   {
     "code": "7102102015",
     "district_code": "710210",
-    "name": "Noongan Dua"
+    "name": "Noongan Dua",
+    "postal_code": "95694"
   },
   {
     "code": "7102102016",
     "district_code": "710210",
-    "name": "Noongan Tiga"
+    "name": "Noongan Tiga",
+    "postal_code": "95694"
   },
   {
     "code": "7102102017",
     "district_code": "710210",
-    "name": "Tumaratas Dua"
+    "name": "Tumaratas Dua",
+    "postal_code": "95694"
   },
   {
     "code": "7102102018",
     "district_code": "710210",
-    "name": "Raranon"
+    "name": "Raranon",
+    "postal_code": "95694"
   },
   {
     "code": "7102102019",
     "district_code": "710210",
-    "name": "Raringis Utara"
+    "name": "Raringis Utara",
+    "postal_code": "95694"
   },
   {
     "code": "7102102020",
     "district_code": "710210",
-    "name": "Raringis Selatan"
+    "name": "Raringis Selatan",
+    "postal_code": "95694"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "1403031010",
     "district_code": "140303",
-    "name": "Sungai Pakning"
+    "name": "Sungai Pakning",
+    "postal_code": "28761"
   },
   {
     "code": "1403032001",
     "district_code": "140303",
-    "name": "Sejangat"
+    "name": "Sejangat",
+    "postal_code": "28761"
   },
   {
     "code": "1403032002",
     "district_code": "140303",
-    "name": "Dompas"
+    "name": "Dompas",
+    "postal_code": "28761"
   },
   {
     "code": "1403032003",
     "district_code": "140303",
-    "name": "Pangkalan Jambi"
+    "name": "Pangkalan Jambi",
+    "postal_code": "28761"
   },
   {
     "code": "1403032004",
     "district_code": "140303",
-    "name": "Sungai Selari"
+    "name": "Sungai Selari",
+    "postal_code": "28761"
   },
   {
     "code": "1403032005",
     "district_code": "140303",
-    "name": "Buruk Bakul"
+    "name": "Buruk Bakul",
+    "postal_code": "28761"
   },
   {
     "code": "1403032006",
     "district_code": "140303",
-    "name": "Bukit Batu"
+    "name": "Bukit Batu",
+    "postal_code": "28761"
   },
   {
     "code": "1403032007",
     "district_code": "140303",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "28761"
   },
   {
     "code": "1403032016",
     "district_code": "140303",
-    "name": "Batang Duku"
+    "name": "Batang Duku",
+    "postal_code": "28761"
   },
   {
     "code": "1403032017",
     "district_code": "140303",
-    "name": "Pakning Asal"
+    "name": "Pakning Asal",
+    "postal_code": "28761"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "3509132001",
     "district_code": "350913",
-    "name": "Nogosari"
+    "name": "Nogosari",
+    "postal_code": "68152"
   },
   {
     "code": "3509132002",
     "district_code": "350913",
-    "name": "Curahmalang"
+    "name": "Curahmalang",
+    "postal_code": "68152"
   },
   {
     "code": "3509132003",
     "district_code": "350913",
-    "name": "Rowotamtu"
+    "name": "Rowotamtu",
+    "postal_code": "68152"
   },
   {
     "code": "3509132004",
     "district_code": "350913",
-    "name": "Kaliwining"
+    "name": "Kaliwining",
+    "postal_code": "68152"
   },
   {
     "code": "3509132005",
     "district_code": "350913",
-    "name": "Pecoro"
+    "name": "Pecoro",
+    "postal_code": "68152"
   },
   {
     "code": "3509132006",
     "district_code": "350913",
-    "name": "Rambipuji"
+    "name": "Rambipuji",
+    "postal_code": "68152"
   },
   {
     "code": "3509132007",
     "district_code": "350913",
-    "name": "Gugut"
+    "name": "Gugut",
+    "postal_code": "68152"
   },
   {
     "code": "3509132008",
     "district_code": "350913",
-    "name": "Rambigundam"
+    "name": "Rambigundam",
+    "postal_code": "68152"
   }
 ]

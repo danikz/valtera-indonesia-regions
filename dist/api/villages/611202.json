@@ -2,31 +2,37 @@
   {
     "code": "6112022001",
     "district_code": "611202",
-    "name": "Kuala Mandor B"
+    "name": "Kuala Mandor B",
+    "postal_code": "78355"
   },
   {
     "code": "6112022002",
     "district_code": "611202",
-    "name": "Kubu Padi"
+    "name": "Kubu Padi",
+    "postal_code": "78355"
   },
   {
     "code": "6112022003",
     "district_code": "611202",
-    "name": "Kuala Mandor A"
+    "name": "Kuala Mandor A",
+    "postal_code": "78355"
   },
   {
     "code": "6112022004",
     "district_code": "611202",
-    "name": "Retok"
+    "name": "Retok",
+    "postal_code": "78355"
   },
   {
     "code": "6112022005",
     "district_code": "611202",
-    "name": "Sungai Enau"
+    "name": "Sungai Enau",
+    "postal_code": "78355"
   },
   {
     "code": "6112022006",
     "district_code": "611202",
-    "name": "Padi Jaya"
+    "name": "Padi Jaya",
+    "postal_code": "78355"
   }
 ]

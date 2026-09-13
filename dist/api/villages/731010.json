@@ -2,41 +2,49 @@
   {
     "code": "7310101001",
     "district_code": "731010",
-    "name": "Minasa Tene"
+    "name": "Minasa Tene",
+    "postal_code": "90615"
   },
   {
     "code": "7310101002",
     "district_code": "731010",
-    "name": "Kalabbirang"
+    "name": "Kalabbirang",
+    "postal_code": "90615"
   },
   {
     "code": "7310101003",
     "district_code": "731010",
-    "name": "Biraeng"
+    "name": "Biraeng",
+    "postal_code": "90614"
   },
   {
     "code": "7310101004",
     "district_code": "731010",
-    "name": "Bonto Kio"
+    "name": "Bonto Kio",
+    "postal_code": "90614"
   },
   {
     "code": "7310101005",
     "district_code": "731010",
-    "name": "Bontoa"
+    "name": "Bontoa",
+    "postal_code": "90615"
   },
   {
     "code": "7310101006",
     "district_code": "731010",
-    "name": "Bonto Langkasa"
+    "name": "Bonto Langkasa",
+    "postal_code": "90618"
   },
   {
     "code": "7310102007",
     "district_code": "731010",
-    "name": "Kabba"
+    "name": "Kabba",
+    "postal_code": "90619"
   },
   {
     "code": "7310102008",
     "district_code": "731010",
-    "name": "Panaikang"
+    "name": "Panaikang",
+    "postal_code": "90619"
   }
 ]

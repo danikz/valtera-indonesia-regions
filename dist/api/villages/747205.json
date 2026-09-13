@@ -2,31 +2,37 @@
   {
     "code": "7472051001",
     "district_code": "747205",
-    "name": "Liwuto"
+    "name": "Liwuto",
+    "postal_code": "93711"
   },
   {
     "code": "7472051002",
     "district_code": "747205",
-    "name": "Sukanaeyo"
+    "name": "Sukanaeyo",
+    "postal_code": "93711"
   },
   {
     "code": "7472051003",
     "district_code": "747205",
-    "name": "Lakologou"
+    "name": "Lakologou",
+    "postal_code": "93719"
   },
   {
     "code": "7472051004",
     "district_code": "747205",
-    "name": "Waruruma"
+    "name": "Waruruma",
+    "postal_code": "93719"
   },
   {
     "code": "7472051005",
     "district_code": "747205",
-    "name": "Kadolomoko"
+    "name": "Kadolomoko",
+    "postal_code": "93716"
   },
   {
     "code": "7472051006",
     "district_code": "747205",
-    "name": "Kadolo"
+    "name": "Kadolo",
+    "postal_code": "93716"
   }
 ]

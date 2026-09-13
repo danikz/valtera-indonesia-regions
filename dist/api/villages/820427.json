@@ -2,41 +2,49 @@
   {
     "code": "8204272001",
     "district_code": "820427",
-    "name": "Bisui"
+    "name": "Bisui",
+    "postal_code": "97788"
   },
   {
     "code": "8204272002",
     "district_code": "820427",
-    "name": "Lelewi"
+    "name": "Lelewi",
+    "postal_code": "97788"
   },
   {
     "code": "8204272003",
     "district_code": "820427",
-    "name": "Luim"
+    "name": "Luim",
+    "postal_code": "97788"
   },
   {
     "code": "8204272004",
     "district_code": "820427",
-    "name": "Matuting"
+    "name": "Matuting",
+    "postal_code": "97788"
   },
   {
     "code": "8204272005",
     "district_code": "820427",
-    "name": "Matuting Tanjung"
+    "name": "Matuting Tanjung",
+    "postal_code": "97788"
   },
   {
     "code": "8204272006",
     "district_code": "820427",
-    "name": "Tabahidayah"
+    "name": "Tabahidayah",
+    "postal_code": "97788"
   },
   {
     "code": "8204272007",
     "district_code": "820427",
-    "name": "Tabahijrah"
+    "name": "Tabahijrah",
+    "postal_code": "97788"
   },
   {
     "code": "8204272008",
     "district_code": "820427",
-    "name": "Tagia"
+    "name": "Tagia",
+    "postal_code": "97788"
   }
 ]

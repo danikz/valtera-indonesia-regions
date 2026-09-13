@@ -2,41 +2,49 @@
   {
     "code": "5307112001",
     "district_code": "530711",
-    "name": "Hokor"
+    "name": "Hokor",
+    "postal_code": "86171"
   },
   {
     "code": "5307112002",
     "district_code": "530711",
-    "name": "Wolonwalu"
+    "name": "Wolonwalu",
+    "postal_code": "86171"
   },
   {
     "code": "5307112003",
     "district_code": "530711",
-    "name": "Wolokoli"
+    "name": "Wolokoli",
+    "postal_code": "86171"
   },
   {
     "code": "5307112004",
     "district_code": "530711",
-    "name": "Bola"
+    "name": "Bola",
+    "postal_code": "86171"
   },
   {
     "code": "5307112005",
     "district_code": "530711",
-    "name": "Umauta"
+    "name": "Umauta",
+    "postal_code": "86171"
   },
   {
     "code": "5307112006",
     "district_code": "530711",
-    "name": "Ipir"
+    "name": "Ipir",
+    "postal_code": "86171"
   },
   {
     "code": "5307112018",
     "district_code": "530711",
-    "name": "Bura Bekor"
+    "name": "Bura Bekor",
+    "postal_code": "86171"
   },
   {
     "code": "5307112019",
     "district_code": "530711",
-    "name": "Watukrus"
+    "name": "Watukrus",
+    "postal_code": "86171"
   }
 ]

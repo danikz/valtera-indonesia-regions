@@ -2,26 +2,31 @@
   {
     "code": "9401112001",
     "district_code": "940111",
-    "name": "Totoberi"
+    "name": "Totoberi",
+    "postal_code": "98861"
   },
   {
     "code": "9401112002",
     "district_code": "940111",
-    "name": "Samanui"
+    "name": "Samanui",
+    "postal_code": "98861"
   },
   {
     "code": "9401112003",
     "district_code": "940111",
-    "name": "Kamarisano"
+    "name": "Kamarisano",
+    "postal_code": "98861"
   },
   {
     "code": "9401112004",
     "district_code": "940111",
-    "name": "Taumi"
+    "name": "Taumi",
+    "postal_code": "98861"
   },
   {
     "code": "9401112005",
     "district_code": "940111",
-    "name": "Keuw"
+    "name": "Keuw",
+    "postal_code": "98861"
   }
 ]

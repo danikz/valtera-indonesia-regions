@@ -2,26 +2,31 @@
   {
     "code": "7406202001",
     "district_code": "740620",
-    "name": "Tontonunu"
+    "name": "Tontonunu",
+    "postal_code": "93789"
   },
   {
     "code": "7406202002",
     "district_code": "740620",
-    "name": "Tongkoseng"
+    "name": "Tongkoseng",
+    "postal_code": "93789"
   },
   {
     "code": "7406202003",
     "district_code": "740620",
-    "name": "Tete Haka"
+    "name": "Tete Haka",
+    "postal_code": "93789"
   },
   {
     "code": "7406202004",
     "district_code": "740620",
-    "name": "Watu Melomba"
+    "name": "Watu Melomba",
+    "postal_code": "93789"
   },
   {
     "code": "7406202005",
     "district_code": "740620",
-    "name": "Puu Wonua"
+    "name": "Puu Wonua",
+    "postal_code": "93789"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1271181001",
     "district_code": "127118",
-    "name": "Pandau Hilir"
+    "name": "Pandau Hilir",
+    "postal_code": "20232"
   },
   {
     "code": "1271181002",
     "district_code": "127118",
-    "name": "Pahlawan"
+    "name": "Pahlawan",
+    "postal_code": "20233"
   },
   {
     "code": "1271181003",
     "district_code": "127118",
-    "name": "Sei Kera Hilir I"
+    "name": "Sei Kera Hilir I",
+    "postal_code": "20233"
   },
   {
     "code": "1271181004",
     "district_code": "127118",
-    "name": "Sei Kera Hilir II"
+    "name": "Sei Kera Hilir II",
+    "postal_code": "20233"
   },
   {
     "code": "1271181005",
     "district_code": "127118",
-    "name": "Sei Kera Hulu"
+    "name": "Sei Kera Hulu",
+    "postal_code": "20233"
   },
   {
     "code": "1271181006",
     "district_code": "127118",
-    "name": "Sidorame Timur"
+    "name": "Sidorame Timur",
+    "postal_code": "20236"
   },
   {
     "code": "1271181007",
     "district_code": "127118",
-    "name": "Sidorame Barat I"
+    "name": "Sidorame Barat I",
+    "postal_code": "20236"
   },
   {
     "code": "1271181008",
     "district_code": "127118",
-    "name": "Sidorame Barat II"
+    "name": "Sidorame Barat II",
+    "postal_code": "20236"
   },
   {
     "code": "1271181009",
     "district_code": "127118",
-    "name": "Tegalrejo"
+    "name": "Tegalrejo",
+    "postal_code": "20237"
   }
 ]

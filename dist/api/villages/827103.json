@@ -2,71 +2,85 @@
   {
     "code": "8271031007",
     "district_code": "827103",
-    "name": "Soa"
+    "name": "Soa",
+    "postal_code": "97725"
   },
   {
     "code": "8271031008",
     "district_code": "827103",
-    "name": "Soa Sio"
+    "name": "Soa Sio",
+    "postal_code": "97723"
   },
   {
     "code": "8271031009",
     "district_code": "827103",
-    "name": "Kasturian"
+    "name": "Kasturian",
+    "postal_code": "97726"
   },
   {
     "code": "8271031010",
     "district_code": "827103",
-    "name": "Salero"
+    "name": "Salero",
+    "postal_code": "97725"
   },
   {
     "code": "8271031011",
     "district_code": "827103",
-    "name": "Toboleu"
+    "name": "Toboleu",
+    "postal_code": "97726"
   },
   {
     "code": "8271031012",
     "district_code": "827103",
-    "name": "Sangaji"
+    "name": "Sangaji",
+    "postal_code": "97727"
   },
   {
     "code": "8271031013",
     "district_code": "827103",
-    "name": "Dufa-Dufa"
+    "name": "Dufa-Dufa",
+    "postal_code": "97727"
   },
   {
     "code": "8271031014",
     "district_code": "827103",
-    "name": "Tafure"
+    "name": "Tafure",
+    "postal_code": "97728"
   },
   {
     "code": "8271031015",
     "district_code": "827103",
-    "name": "Tabam"
+    "name": "Tabam",
+    "postal_code": "97728"
   },
   {
     "code": "8271031016",
     "district_code": "827103",
-    "name": "Sango"
+    "name": "Sango",
+    "postal_code": "97729"
   },
   {
     "code": "8271031017",
     "district_code": "827103",
-    "name": "Tarau"
+    "name": "Tarau",
+    "postal_code": "97737"
   },
   {
     "code": "8271031019",
     "district_code": "827103",
-    "name": "Sangaji utara"
+    "name": "Sangaji utara",
+    "postal_code": "97736"
   },
   {
     "code": "8271031020",
     "district_code": "827103",
-    "name": "Akehuda"
+    "name": "Akehuda",
+    "postal_code": "97735"
   },
   {
     "code": "8271031021",
     "district_code": "827103",
-    "name": "Tubo"
+    "name": "Tubo",
+    "postal_code": "97738"
   }
 ]

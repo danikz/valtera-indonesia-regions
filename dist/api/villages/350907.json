@@ -2,31 +2,37 @@
   {
     "code": "3509072001",
     "district_code": "350907",
-    "name": "Pondokjoyo"
+    "name": "Pondokjoyo",
+    "postal_code": "68157"
   },
   {
     "code": "3509072002",
     "district_code": "350907",
-    "name": "Pondokdalem"
+    "name": "Pondokdalem",
+    "postal_code": "68157"
   },
   {
     "code": "3509072003",
     "district_code": "350907",
-    "name": "Rejoagung"
+    "name": "Rejoagung",
+    "postal_code": "68157"
   },
   {
     "code": "3509072004",
     "district_code": "350907",
-    "name": "Semboro"
+    "name": "Semboro",
+    "postal_code": "68157"
   },
   {
     "code": "3509072005",
     "district_code": "350907",
-    "name": "Sidomekar"
+    "name": "Sidomekar",
+    "postal_code": "68157"
   },
   {
     "code": "3509072006",
     "district_code": "350907",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "68157"
   }
 ]

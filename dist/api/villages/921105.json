@@ -2,36 +2,43 @@
   {
     "code": "9211052001",
     "district_code": "921105",
-    "name": "Dembek"
+    "name": "Dembek",
+    "postal_code": "98322"
   },
   {
     "code": "9211052002",
     "district_code": "921105",
-    "name": "Nij"
+    "name": "Nij",
+    "postal_code": "98322"
   },
   {
     "code": "9211052003",
     "district_code": "921105",
-    "name": "Siwi"
+    "name": "Siwi",
+    "postal_code": "98322"
   },
   {
     "code": "9211052004",
     "district_code": "921105",
-    "name": "Gaya Baru"
+    "name": "Gaya Baru",
+    "postal_code": "98322"
   },
   {
     "code": "9211052005",
     "district_code": "921105",
-    "name": "Waren"
+    "name": "Waren",
+    "postal_code": "98322"
   },
   {
     "code": "9211052006",
     "district_code": "921105",
-    "name": "Demini"
+    "name": "Demini",
+    "postal_code": "98322"
   },
   {
     "code": "9211052007",
     "district_code": "921105",
-    "name": "Yekwandi"
+    "name": "Yekwandi",
+    "postal_code": "98322"
   }
 ]

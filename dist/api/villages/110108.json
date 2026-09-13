@@ -2,81 +2,97 @@
   {
     "code": "1101082001",
     "district_code": "110108",
-    "name": "Lhok Keutapang"
+    "name": "Lhok Keutapang",
+    "postal_code": "23718"
   },
   {
     "code": "1101082002",
     "district_code": "110108",
-    "name": "Hilir"
+    "name": "Hilir",
+    "postal_code": "23717"
   },
   {
     "code": "1101082003",
     "district_code": "110108",
-    "name": "Padang"
+    "name": "Padang",
+    "postal_code": "23713"
   },
   {
     "code": "1101082004",
     "district_code": "110108",
-    "name": "Hulu"
+    "name": "Hulu",
+    "postal_code": "23714"
   },
   {
     "code": "1101082005",
     "district_code": "110108",
-    "name": "Jambo Apha"
+    "name": "Jambo Apha",
+    "postal_code": "23716"
   },
   {
     "code": "1101082006",
     "district_code": "110108",
-    "name": "Tepi Air"
+    "name": "Tepi Air",
+    "postal_code": "23712"
   },
   {
     "code": "1101082007",
     "district_code": "110108",
-    "name": "Pasar"
+    "name": "Pasar",
+    "postal_code": "23711"
   },
   {
     "code": "1101082008",
     "district_code": "110108",
-    "name": "Lhok Bengkuang"
+    "name": "Lhok Bengkuang",
+    "postal_code": "23715"
   },
   {
     "code": "1101082009",
     "district_code": "110108",
-    "name": "Panton Luas"
+    "name": "Panton Luas",
+    "postal_code": "23711"
   },
   {
     "code": "1101082010",
     "district_code": "110108",
-    "name": "Gunung Kerambil"
+    "name": "Gunung Kerambil",
+    "postal_code": "23711"
   },
   {
     "code": "1101082011",
     "district_code": "110108",
-    "name": "Air Berudang"
+    "name": "Air Berudang",
+    "postal_code": "23711"
   },
   {
     "code": "1101082012",
     "district_code": "110108",
-    "name": "Batu Itam"
+    "name": "Batu Itam",
+    "postal_code": "23711"
   },
   {
     "code": "1101082013",
     "district_code": "110108",
-    "name": "Panjupian"
+    "name": "Panjupian",
+    "postal_code": "23711"
   },
   {
     "code": "1101082014",
     "district_code": "110108",
-    "name": "Lhok Rukam"
+    "name": "Lhok Rukam",
+    "postal_code": "23711"
   },
   {
     "code": "1101082015",
     "district_code": "110108",
-    "name": "Air Pinang"
+    "name": "Air Pinang",
+    "postal_code": "23711"
   },
   {
     "code": "1101082016",
     "district_code": "110108",
-    "name": "Lhok Bengkuang Timur"
+    "name": "Lhok Bengkuang Timur",
+    "postal_code": "23712"
   }
 ]

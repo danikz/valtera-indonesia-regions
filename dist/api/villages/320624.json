@@ -2,51 +2,61 @@
   {
     "code": "3206242001",
     "district_code": "320624",
-    "name": "Cikunten"
+    "name": "Cikunten",
+    "postal_code": "46414"
   },
   {
     "code": "3206242002",
     "district_code": "320624",
-    "name": "Singaparna"
+    "name": "Singaparna",
+    "postal_code": "46411"
   },
   {
     "code": "3206242003",
     "district_code": "320624",
-    "name": "Cipakat"
+    "name": "Cipakat",
+    "postal_code": "46417"
   },
   {
     "code": "3206242004",
     "district_code": "320624",
-    "name": "Cintaraja"
+    "name": "Cintaraja",
+    "postal_code": "46417"
   },
   {
     "code": "3206242005",
     "district_code": "320624",
-    "name": "Cikunir"
+    "name": "Cikunir",
+    "postal_code": "46418"
   },
   {
     "code": "3206242006",
     "district_code": "320624",
-    "name": "Cokadongdong"
+    "name": "Cokadongdong",
+    "postal_code": "46418"
   },
   {
     "code": "3206242007",
     "district_code": "320624",
-    "name": "Sukaasih"
+    "name": "Sukaasih",
+    "postal_code": "46415"
   },
   {
     "code": "3206242008",
     "district_code": "320624",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "46416"
   },
   {
     "code": "3206242009",
     "district_code": "320624",
-    "name": "Singasari"
+    "name": "Singasari",
+    "postal_code": "46412"
   },
   {
     "code": "3206242010",
     "district_code": "320624",
-    "name": "Sukaherang"
+    "name": "Sukaherang",
+    "postal_code": "46413"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "7471041003",
     "district_code": "747104",
-    "name": "Andonohu"
+    "name": "Andonohu",
+    "postal_code": "93231"
   },
   {
     "code": "7471041004",
     "district_code": "747104",
-    "name": "Rahandouna"
+    "name": "Rahandouna",
+    "postal_code": "93232"
   },
   {
     "code": "7471041005",
     "district_code": "747104",
-    "name": "Anggoeya"
+    "name": "Anggoeya",
+    "postal_code": "93231"
   },
   {
     "code": "7471041006",
     "district_code": "747104",
-    "name": "Matabubu"
+    "name": "Matabubu",
+    "postal_code": "93233"
   },
   {
     "code": "7471041021",
     "district_code": "747104",
-    "name": "Wundumbatu"
+    "name": "Wundumbatu",
+    "postal_code": "93232"
   }
 ]

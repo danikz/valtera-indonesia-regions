@@ -2,31 +2,37 @@
   {
     "code": "3213232001",
     "district_code": "321323",
-    "name": "Cijengkol"
+    "name": "Cijengkol",
+    "postal_code": "41288"
   },
   {
     "code": "3213232002",
     "district_code": "321323",
-    "name": "Talagasari"
+    "name": "Talagasari",
+    "postal_code": "41288"
   },
   {
     "code": "3213232003",
     "district_code": "321323",
-    "name": "Cintamekar"
+    "name": "Cintamekar",
+    "postal_code": "41288"
   },
   {
     "code": "3213232004",
     "district_code": "321323",
-    "name": "Ponggang"
+    "name": "Ponggang",
+    "postal_code": "41288"
   },
   {
     "code": "3213232005",
     "district_code": "321323",
-    "name": "Cikujang"
+    "name": "Cikujang",
+    "postal_code": "41288"
   },
   {
     "code": "3213232006",
     "district_code": "321323",
-    "name": "Cipancar"
+    "name": "Cipancar",
+    "postal_code": "41288"
   }
 ]

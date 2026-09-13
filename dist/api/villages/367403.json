@@ -2,56 +2,67 @@
   {
     "code": "3674031001",
     "district_code": "367403",
-    "name": "Pondok Betung"
+    "name": "Pondok Betung",
+    "postal_code": "15221"
   },
   {
     "code": "3674031002",
     "district_code": "367403",
-    "name": "Pondok Pucung"
+    "name": "Pondok Pucung",
+    "postal_code": "15229"
   },
   {
     "code": "3674031003",
     "district_code": "367403",
-    "name": "Pondok Karya"
+    "name": "Pondok Karya",
+    "postal_code": "15225"
   },
   {
     "code": "3674031004",
     "district_code": "367403",
-    "name": "Pondok Jaya"
+    "name": "Pondok Jaya",
+    "postal_code": "15220"
   },
   {
     "code": "3674031005",
     "district_code": "367403",
-    "name": "Pondok Aren"
+    "name": "Pondok Aren",
+    "postal_code": "15224"
   },
   {
     "code": "3674031006",
     "district_code": "367403",
-    "name": "Pondok Kacang Barat"
+    "name": "Pondok Kacang Barat",
+    "postal_code": "15226"
   },
   {
     "code": "3674031007",
     "district_code": "367403",
-    "name": "Pondok Kacang Timur"
+    "name": "Pondok Kacang Timur",
+    "postal_code": "15226"
   },
   {
     "code": "3674031008",
     "district_code": "367403",
-    "name": "Parigi"
+    "name": "Parigi",
+    "postal_code": "15227"
   },
   {
     "code": "3674031009",
     "district_code": "367403",
-    "name": "Parigi Baru"
+    "name": "Parigi Baru",
+    "postal_code": "15228"
   },
   {
     "code": "3674031010",
     "district_code": "367403",
-    "name": "Jurangmangu Barat"
+    "name": "Jurangmangu Barat",
+    "postal_code": "15223"
   },
   {
     "code": "3674031011",
     "district_code": "367403",
-    "name": "Jurangmangu Timur"
+    "name": "Jurangmangu Timur",
+    "postal_code": "15222"
   }
 ]

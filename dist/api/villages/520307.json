@@ -2,61 +2,73 @@
   {
     "code": "5203071001",
     "district_code": "520307",
-    "name": "Pancor"
+    "name": "Pancor",
+    "postal_code": "83611"
   },
   {
     "code": "5203071002",
     "district_code": "520307",
-    "name": "Selong"
+    "name": "Selong",
+    "postal_code": "83619"
   },
   {
     "code": "5203071003",
     "district_code": "520307",
-    "name": "Kelayu Selatan"
+    "name": "Kelayu Selatan",
+    "postal_code": "83613"
   },
   {
     "code": "5203071004",
     "district_code": "520307",
-    "name": "Denggen"
+    "name": "Denggen",
+    "postal_code": "83618"
   },
   {
     "code": "5203071005",
     "district_code": "520307",
-    "name": "Sekarteja"
+    "name": "Sekarteja",
+    "postal_code": "83611"
   },
   {
     "code": "5203071006",
     "district_code": "520307",
-    "name": "Majidi"
+    "name": "Majidi",
+    "postal_code": "83619"
   },
   {
     "code": "5203071007",
     "district_code": "520307",
-    "name": "Rakam"
+    "name": "Rakam",
+    "postal_code": "83619"
   },
   {
     "code": "5203071008",
     "district_code": "520307",
-    "name": "Sandu Baya"
+    "name": "Sandu Baya",
+    "postal_code": "83612"
   },
   {
     "code": "5203071009",
     "district_code": "520307",
-    "name": "Kembang Sari"
+    "name": "Kembang Sari",
+    "postal_code": "83618"
   },
   {
     "code": "5203071010",
     "district_code": "520307",
-    "name": "Kelayu Utara"
+    "name": "Kelayu Utara",
+    "postal_code": "83619"
   },
   {
     "code": "5203071011",
     "district_code": "520307",
-    "name": "Kelaju Jorong"
+    "name": "Kelaju Jorong",
+    "postal_code": "83617"
   },
   {
     "code": "5203072012",
     "district_code": "520307",
-    "name": "Danggen Timur"
+    "name": "Danggen Timur",
+    "postal_code": "83618"
   }
 ]

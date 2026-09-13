@@ -2,36 +2,43 @@
   {
     "code": "3513032001",
     "district_code": "351303",
-    "name": "Wonoasri"
+    "name": "Wonoasri",
+    "postal_code": "67262"
   },
   {
     "code": "3513032002",
     "district_code": "351303",
-    "name": "Jatisari"
+    "name": "Jatisari",
+    "postal_code": "67262"
   },
   {
     "code": "3513032003",
     "district_code": "351303",
-    "name": "Kedawung"
+    "name": "Kedawung",
+    "postal_code": "67262"
   },
   {
     "code": "3513032004",
     "district_code": "351303",
-    "name": "Karangrejo"
+    "name": "Karangrejo",
+    "postal_code": "67262"
   },
   {
     "code": "3513032005",
     "district_code": "351303",
-    "name": "Resongo"
+    "name": "Resongo",
+    "postal_code": "67262"
   },
   {
     "code": "3513032006",
     "district_code": "351303",
-    "name": "Menyono"
+    "name": "Menyono",
+    "postal_code": "67262"
   },
   {
     "code": "3513032007",
     "district_code": "351303",
-    "name": "Wringinanom"
+    "name": "Wringinanom",
+    "postal_code": "67262"
   }
 ]

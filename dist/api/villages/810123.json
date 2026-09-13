@@ -2,51 +2,61 @@
   {
     "code": "8101232001",
     "district_code": "810123",
-    "name": "Ulahahan"
+    "name": "Ulahahan",
+    "postal_code": "97510"
   },
   {
     "code": "8101232002",
     "district_code": "810123",
-    "name": "Laha Kaba"
+    "name": "Laha Kaba",
+    "postal_code": "97510"
   },
   {
     "code": "8101232003",
     "district_code": "810123",
-    "name": "Lafa"
+    "name": "Lafa",
+    "postal_code": "97510"
   },
   {
     "code": "8101232004",
     "district_code": "810123",
-    "name": "Yamalatu"
+    "name": "Yamalatu",
+    "postal_code": "97510"
   },
   {
     "code": "8101232005",
     "district_code": "810123",
-    "name": "Hunisi"
+    "name": "Hunisi",
+    "postal_code": "97510"
   },
   {
     "code": "8101232006",
     "district_code": "810123",
-    "name": "Laimu"
+    "name": "Laimu",
+    "postal_code": "97510"
   },
   {
     "code": "8101232007",
     "district_code": "810123",
-    "name": "Maneoratu"
+    "name": "Maneoratu",
+    "postal_code": "97510"
   },
   {
     "code": "8101232008",
     "district_code": "810123",
-    "name": "Tehua"
+    "name": "Tehua",
+    "postal_code": "97510"
   },
   {
     "code": "8101232009",
     "district_code": "810123",
-    "name": "Laha"
+    "name": "Laha",
+    "postal_code": "97510"
   },
   {
     "code": "8101232010",
     "district_code": "810123",
-    "name": "Wolu"
+    "name": "Wolu",
+    "postal_code": "97510"
   }
 ]

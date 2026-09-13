@@ -2,51 +2,61 @@
   {
     "code": "1410072001",
     "district_code": "141007",
-    "name": "Lukun"
+    "name": "Lukun",
+    "postal_code": "28754"
   },
   {
     "code": "1410072002",
     "district_code": "141007",
-    "name": "Sungai Tohor"
+    "name": "Sungai Tohor",
+    "postal_code": "28754"
   },
   {
     "code": "1410072003",
     "district_code": "141007",
-    "name": "Nipah Sendanu"
+    "name": "Nipah Sendanu",
+    "postal_code": "28754"
   },
   {
     "code": "1410072004",
     "district_code": "141007",
-    "name": "Tanjung Sari"
+    "name": "Tanjung Sari",
+    "postal_code": "28754"
   },
   {
     "code": "1410072005",
     "district_code": "141007",
-    "name": "Tanjung Gadai"
+    "name": "Tanjung Gadai",
+    "postal_code": "28754"
   },
   {
     "code": "1410072006",
     "district_code": "141007",
-    "name": "Teluk Buntal"
+    "name": "Teluk Buntal",
+    "postal_code": "28754"
   },
   {
     "code": "1410072007",
     "district_code": "141007",
-    "name": "Kepau Baru"
+    "name": "Kepau Baru",
+    "postal_code": "28754"
   },
   {
     "code": "1410072008",
     "district_code": "141007",
-    "name": "Sungai Tohor Barat"
+    "name": "Sungai Tohor Barat",
+    "postal_code": "28754"
   },
   {
     "code": "1410072009",
     "district_code": "141007",
-    "name": "Sendanu Darul Ihsan"
+    "name": "Sendanu Darul Ihsan",
+    "postal_code": "28754"
   },
   {
     "code": "1410072010",
     "district_code": "141007",
-    "name": "Batin Suir"
+    "name": "Batin Suir",
+    "postal_code": "28754"
   }
 ]

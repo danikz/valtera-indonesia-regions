@@ -2,31 +2,37 @@
   {
     "code": "7471111001",
     "district_code": "747111",
-    "name": "Tobimeita"
+    "name": "Tobimeita",
+    "postal_code": "93237"
   },
   {
     "code": "7471111002",
     "district_code": "747111",
-    "name": "Petoaha"
+    "name": "Petoaha",
+    "postal_code": "93236"
   },
   {
     "code": "7471111003",
     "district_code": "747111",
-    "name": "Nambo"
+    "name": "Nambo",
+    "postal_code": "93236"
   },
   {
     "code": "7471111004",
     "district_code": "747111",
-    "name": "Bungkutoko"
+    "name": "Bungkutoko",
+    "postal_code": "93234"
   },
   {
     "code": "7471111005",
     "district_code": "747111",
-    "name": "Sambuli"
+    "name": "Sambuli",
+    "postal_code": "93238"
   },
   {
     "code": "7471111006",
     "district_code": "747111",
-    "name": "Tondonggeu"
+    "name": "Tondonggeu",
+    "postal_code": "93238"
   }
 ]

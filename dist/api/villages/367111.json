@@ -2,56 +2,67 @@
   {
     "code": "3671111001",
     "district_code": "367111",
-    "name": "Pinang"
+    "name": "Pinang",
+    "postal_code": "15145"
   },
   {
     "code": "3671111002",
     "district_code": "367111",
-    "name": "Sudimara Pinang"
+    "name": "Sudimara Pinang",
+    "postal_code": "15145"
   },
   {
     "code": "3671111003",
     "district_code": "367111",
-    "name": "Nerogtog"
+    "name": "Nerogtog",
+    "postal_code": "15145"
   },
   {
     "code": "3671111004",
     "district_code": "367111",
-    "name": "Kunciran"
+    "name": "Kunciran",
+    "postal_code": "15144"
   },
   {
     "code": "3671111005",
     "district_code": "367111",
-    "name": "Kunciran Indah"
+    "name": "Kunciran Indah",
+    "postal_code": "15144"
   },
   {
     "code": "3671111006",
     "district_code": "367111",
-    "name": "Kunciran Jaya"
+    "name": "Kunciran Jaya",
+    "postal_code": "15144"
   },
   {
     "code": "3671111007",
     "district_code": "367111",
-    "name": "Cipete"
+    "name": "Cipete",
+    "postal_code": "15142"
   },
   {
     "code": "3671111008",
     "district_code": "367111",
-    "name": "Pakojan"
+    "name": "Pakojan",
+    "postal_code": "15142"
   },
   {
     "code": "3671111009",
     "district_code": "367111",
-    "name": "Panunggangan"
+    "name": "Panunggangan",
+    "postal_code": "15143"
   },
   {
     "code": "3671111010",
     "district_code": "367111",
-    "name": "Panunggangan Utara"
+    "name": "Panunggangan Utara",
+    "postal_code": "15143"
   },
   {
     "code": "3671111011",
     "district_code": "367111",
-    "name": "Panunggangan Timur"
+    "name": "Panunggangan Timur",
+    "postal_code": "15143"
   }
 ]

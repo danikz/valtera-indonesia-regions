@@ -2,36 +2,43 @@
   {
     "code": "3602242001",
     "district_code": "360224",
-    "name": "Kalanganyar"
+    "name": "Kalanganyar",
+    "postal_code": "42312"
   },
   {
     "code": "3602242002",
     "district_code": "360224",
-    "name": "Pasirkupa"
+    "name": "Pasirkupa",
+    "postal_code": "42312"
   },
   {
     "code": "3602242003",
     "district_code": "360224",
-    "name": "Cilangkap"
+    "name": "Cilangkap",
+    "postal_code": "42312"
   },
   {
     "code": "3602242004",
     "district_code": "360224",
-    "name": "Aweh"
+    "name": "Aweh",
+    "postal_code": "42312"
   },
   {
     "code": "3602242005",
     "district_code": "360224",
-    "name": "Sangiangtanjung"
+    "name": "Sangiangtanjung",
+    "postal_code": "42312"
   },
   {
     "code": "3602242006",
     "district_code": "360224",
-    "name": "Sukamekarsari"
+    "name": "Sukamekarsari",
+    "postal_code": "42312"
   },
   {
     "code": "3602242007",
     "district_code": "360224",
-    "name": "Cikatapis"
+    "name": "Cikatapis",
+    "postal_code": "42311"
   }
 ]

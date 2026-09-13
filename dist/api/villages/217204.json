@@ -2,26 +2,31 @@
   {
     "code": "2172041001",
     "district_code": "217204",
-    "name": "Tanjung Pinang Timur"
+    "name": "Tanjung Pinang Timur",
+    "postal_code": "29122"
   },
   {
     "code": "2172041002",
     "district_code": "217204",
-    "name": "Dompak"
+    "name": "Dompak",
+    "postal_code": "29124"
   },
   {
     "code": "2172041003",
     "district_code": "217204",
-    "name": "Tanjung Ayun Sakti"
+    "name": "Tanjung Ayun Sakti",
+    "postal_code": "29124"
   },
   {
     "code": "2172041004",
     "district_code": "217204",
-    "name": "Sei Jang"
+    "name": "Sei Jang",
+    "postal_code": "29124"
   },
   {
     "code": "2172041005",
     "district_code": "217204",
-    "name": "Tanjung Unggat"
+    "name": "Tanjung Unggat",
+    "postal_code": "29122"
   }
 ]

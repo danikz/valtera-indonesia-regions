@@ -2,76 +2,91 @@
   {
     "code": "3210152001",
     "district_code": "321015",
-    "name": "Biyawak"
+    "name": "Biyawak",
+    "postal_code": "45458"
   },
   {
     "code": "3210152002",
     "district_code": "321015",
-    "name": "Panyingkiran"
+    "name": "Panyingkiran",
+    "postal_code": "45458"
   },
   {
     "code": "3210152003",
     "district_code": "321015",
-    "name": "Panongan"
+    "name": "Panongan",
+    "postal_code": "45458"
   },
   {
     "code": "3210152004",
     "district_code": "321015",
-    "name": "Randegan Wetan"
+    "name": "Randegan Wetan",
+    "postal_code": "45458"
   },
   {
     "code": "3210152005",
     "district_code": "321015",
-    "name": "Putridalem"
+    "name": "Putridalem",
+    "postal_code": "45458"
   },
   {
     "code": "3210152006",
     "district_code": "321015",
-    "name": "Jatitengah"
+    "name": "Jatitengah",
+    "postal_code": "45458"
   },
   {
     "code": "3210152007",
     "district_code": "321015",
-    "name": "Jatitujuh"
+    "name": "Jatitujuh",
+    "postal_code": "45458"
   },
   {
     "code": "3210152008",
     "district_code": "321015",
-    "name": "Babajurang"
+    "name": "Babajurang",
+    "postal_code": "45458"
   },
   {
     "code": "3210152009",
     "district_code": "321015",
-    "name": "Pilangsari"
+    "name": "Pilangsari",
+    "postal_code": "45458"
   },
   {
     "code": "3210152010",
     "district_code": "321015",
-    "name": "Jatiraga"
+    "name": "Jatiraga",
+    "postal_code": "45458"
   },
   {
     "code": "3210152011",
     "district_code": "321015",
-    "name": "Sumber Wetan"
+    "name": "Sumber Wetan",
+    "postal_code": "45458"
   },
   {
     "code": "3210152012",
     "district_code": "321015",
-    "name": "Pangkalanpari"
+    "name": "Pangkalanpari",
+    "postal_code": "45458"
   },
   {
     "code": "3210152013",
     "district_code": "321015",
-    "name": "Randegan Kulon"
+    "name": "Randegan Kulon",
+    "postal_code": "45458"
   },
   {
     "code": "3210152014",
     "district_code": "321015",
-    "name": "Sumber Kulon"
+    "name": "Sumber Kulon",
+    "postal_code": "45458"
   },
   {
     "code": "3210152015",
     "district_code": "321015",
-    "name": "Pasindangan"
+    "name": "Pasindangan",
+    "postal_code": "45458"
   }
 ]

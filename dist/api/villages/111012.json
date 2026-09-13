@@ -2,56 +2,67 @@
   {
     "code": "1110122001",
     "district_code": "111012",
-    "name": "Suro"
+    "name": "Suro",
+    "postal_code": "24787"
   },
   {
     "code": "1110122002",
     "district_code": "111012",
-    "name": "Pangkalan Sulampi"
+    "name": "Pangkalan Sulampi",
+    "postal_code": "24787"
   },
   {
     "code": "1110122003",
     "district_code": "111012",
-    "name": "Bulu Sema"
+    "name": "Bulu Sema",
+    "postal_code": "24787"
   },
   {
     "code": "1110122004",
     "district_code": "111012",
-    "name": "Lae Bangun"
+    "name": "Lae Bangun",
+    "postal_code": "24787"
   },
   {
     "code": "1110122005",
     "district_code": "111012",
-    "name": "Alur Linci"
+    "name": "Alur Linci",
+    "postal_code": "24787"
   },
   {
     "code": "1110122006",
     "district_code": "111012",
-    "name": "Siompin"
+    "name": "Siompin",
+    "postal_code": "24787"
   },
   {
     "code": "1110122007",
     "district_code": "111012",
-    "name": "Ketangkuhan"
+    "name": "Ketangkuhan",
+    "postal_code": "24787"
   },
   {
     "code": "1110122008",
     "district_code": "111012",
-    "name": "Keras"
+    "name": "Keras",
+    "postal_code": "24787"
   },
   {
     "code": "1110122009",
     "district_code": "111012",
-    "name": "Mandumpang"
+    "name": "Mandumpang",
+    "postal_code": "24787"
   },
   {
     "code": "1110122010",
     "district_code": "111012",
-    "name": "Sirimo Mungkur"
+    "name": "Sirimo Mungkur",
+    "postal_code": "24787"
   },
   {
     "code": "1110122011",
     "district_code": "111012",
-    "name": "Bulu Ara"
+    "name": "Bulu Ara",
+    "postal_code": "24787"
   }
 ]

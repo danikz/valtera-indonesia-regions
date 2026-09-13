@@ -2,61 +2,73 @@
   {
     "code": "1113022002",
     "district_code": "111302",
-    "name": "Tampeng"
+    "name": "Tampeng",
+    "postal_code": "24650"
   },
   {
     "code": "1113022004",
     "district_code": "111302",
-    "name": "Bener"
+    "name": "Bener",
+    "postal_code": "24650"
   },
   {
     "code": "1113022005",
     "district_code": "111302",
-    "name": "Ulun Tanoh"
+    "name": "Ulun Tanoh",
+    "postal_code": "24650"
   },
   {
     "code": "1113022006",
     "district_code": "111302",
-    "name": "Kuta Ujung"
+    "name": "Kuta Ujung",
+    "postal_code": "24650"
   },
   {
     "code": "1113022008",
     "district_code": "111302",
-    "name": "Beranang"
+    "name": "Beranang",
+    "postal_code": "24650"
   },
   {
     "code": "1113022010",
     "district_code": "111302",
-    "name": "Rikit Dekat"
+    "name": "Rikit Dekat",
+    "postal_code": "24650"
   },
   {
     "code": "1113022011",
     "district_code": "111302",
-    "name": "Rema"
+    "name": "Rema",
+    "postal_code": "24650"
   },
   {
     "code": "1113022014",
     "district_code": "111302",
-    "name": "Rema Baru"
+    "name": "Rema Baru",
+    "postal_code": "24650"
   },
   {
     "code": "1113022015",
     "district_code": "111302",
-    "name": "Cike"
+    "name": "Cike",
+    "postal_code": "24650"
   },
   {
     "code": "1113022016",
     "district_code": "111302",
-    "name": "Kerukunan Kuta Panjang"
+    "name": "Kerukunan Kuta Panjang",
+    "postal_code": "24650"
   },
   {
     "code": "1113022020",
     "district_code": "111302",
-    "name": "Tampeng Musara"
+    "name": "Tampeng Musara",
+    "postal_code": "24650"
   },
   {
     "code": "1113022021",
     "district_code": "111302",
-    "name": "Kong Paluh"
+    "name": "Kong Paluh",
+    "postal_code": "24650"
   }
 ]

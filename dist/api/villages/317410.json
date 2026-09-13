@@ -2,26 +2,31 @@
   {
     "code": "3174101001",
     "district_code": "317410",
-    "name": "Pesanggrahan"
+    "name": "Pesanggrahan",
+    "postal_code": "12320"
   },
   {
     "code": "3174101002",
     "district_code": "317410",
-    "name": "Bintaro"
+    "name": "Bintaro",
+    "postal_code": "12330"
   },
   {
     "code": "3174101003",
     "district_code": "317410",
-    "name": "Petukangan Utara"
+    "name": "Petukangan Utara",
+    "postal_code": "12260"
   },
   {
     "code": "3174101004",
     "district_code": "317410",
-    "name": "Petukangan Selatan"
+    "name": "Petukangan Selatan",
+    "postal_code": "12270"
   },
   {
     "code": "3174101005",
     "district_code": "317410",
-    "name": "Ulujami"
+    "name": "Ulujami",
+    "postal_code": "12250"
   }
 ]

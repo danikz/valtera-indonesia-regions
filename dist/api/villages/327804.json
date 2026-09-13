@@ -2,31 +2,37 @@
   {
     "code": "3278041003",
     "district_code": "327804",
-    "name": "Indihiang"
+    "name": "Indihiang",
+    "postal_code": "46151"
   },
   {
     "code": "3278041004",
     "district_code": "327804",
-    "name": "Sirnagalih"
+    "name": "Sirnagalih",
+    "postal_code": "46151"
   },
   {
     "code": "3278041005",
     "district_code": "327804",
-    "name": "Parakannyasag"
+    "name": "Parakannyasag",
+    "postal_code": "46151"
   },
   {
     "code": "3278041006",
     "district_code": "327804",
-    "name": "Panyingkiran"
+    "name": "Panyingkiran",
+    "postal_code": "46411"
   },
   {
     "code": "3278041007",
     "district_code": "327804",
-    "name": "Sukamaju Kaler"
+    "name": "Sukamaju Kaler",
+    "postal_code": "46151"
   },
   {
     "code": "3278041008",
     "district_code": "327804",
-    "name": "Sukamaju Kidul"
+    "name": "Sukamaju Kidul",
+    "postal_code": "46151"
   }
 ]

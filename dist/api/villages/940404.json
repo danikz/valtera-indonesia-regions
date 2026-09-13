@@ -2,36 +2,43 @@
   {
     "code": "9404042001",
     "district_code": "940404",
-    "name": "Kokonao"
+    "name": "Kokonao",
+    "postal_code": "99975"
   },
   {
     "code": "9404042002",
     "district_code": "940404",
-    "name": "Migiwia"
+    "name": "Migiwia",
+    "postal_code": "99975"
   },
   {
     "code": "9404042003",
     "district_code": "940404",
-    "name": "Kiura"
+    "name": "Kiura",
+    "postal_code": "99975"
   },
   {
     "code": "9404042004",
     "district_code": "940404",
-    "name": "Mimika"
+    "name": "Mimika",
+    "postal_code": "99975"
   },
   {
     "code": "9404042005",
     "district_code": "940404",
-    "name": "Aparuka"
+    "name": "Aparuka",
+    "postal_code": "99961"
   },
   {
     "code": "9404042006",
     "district_code": "940404",
-    "name": "Atapo"
+    "name": "Atapo",
+    "postal_code": "99961"
   },
   {
     "code": "9404042007",
     "district_code": "940404",
-    "name": "Apuri"
+    "name": "Apuri",
+    "postal_code": "99961"
   }
 ]

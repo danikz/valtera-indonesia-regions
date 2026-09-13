@@ -2,21 +2,25 @@
   {
     "code": "2171071001",
     "district_code": "217107",
-    "name": "Muka Kuning"
+    "name": "Muka Kuning",
+    "postal_code": "29433"
   },
   {
     "code": "2171071002",
     "district_code": "217107",
-    "name": "Duriangkang"
+    "name": "Duriangkang",
+    "postal_code": "29437"
   },
   {
     "code": "2171071003",
     "district_code": "217107",
-    "name": "Mangsang"
+    "name": "Mangsang",
+    "postal_code": "29437"
   },
   {
     "code": "2171071004",
     "district_code": "217107",
-    "name": "Tanjung Piayu"
+    "name": "Tanjung Piayu",
+    "postal_code": "29437"
   }
 ]

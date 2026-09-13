@@ -2,36 +2,43 @@
   {
     "code": "3603292001",
     "district_code": "360329",
-    "name": "Sindang Jaya"
+    "name": "Sindang Jaya",
+    "postal_code": "15561"
   },
   {
     "code": "3603292002",
     "district_code": "360329",
-    "name": "Wanakerta"
+    "name": "Wanakerta",
+    "postal_code": "15561"
   },
   {
     "code": "3603292003",
     "district_code": "360329",
-    "name": "Sukaharja"
+    "name": "Sukaharja",
+    "postal_code": "15561"
   },
   {
     "code": "3603292004",
     "district_code": "360329",
-    "name": "Sindangasih"
+    "name": "Sindangasih",
+    "postal_code": "15561"
   },
   {
     "code": "3603292005",
     "district_code": "360329",
-    "name": "Sindangpanon"
+    "name": "Sindangpanon",
+    "postal_code": "15561"
   },
   {
     "code": "3603292006",
     "district_code": "360329",
-    "name": "Sindangsono"
+    "name": "Sindangsono",
+    "postal_code": "15561"
   },
   {
     "code": "3603292007",
     "district_code": "360329",
-    "name": "Badak Anom"
+    "name": "Badak Anom",
+    "postal_code": "15561"
   }
 ]

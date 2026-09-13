@@ -2,26 +2,31 @@
   {
     "code": "2103202001",
     "district_code": "210320",
-    "name": "Batubi Jaya"
+    "name": "Batubi Jaya",
+    "postal_code": "29787"
   },
   {
     "code": "2103202002",
     "district_code": "210320",
-    "name": "Gunung Putri"
+    "name": "Gunung Putri",
+    "postal_code": "29787"
   },
   {
     "code": "2103202003",
     "district_code": "210320",
-    "name": "Sedarat Baru"
+    "name": "Sedarat Baru",
+    "postal_code": "29787"
   },
   {
     "code": "2103202004",
     "district_code": "210320",
-    "name": "Sedanau Timur"
+    "name": "Sedanau Timur",
+    "postal_code": "29787"
   },
   {
     "code": "2103202005",
     "district_code": "210320",
-    "name": "Semedang"
+    "name": "Semedang",
+    "postal_code": "29787"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "7104182001",
     "district_code": "710418",
-    "name": "Pampalu"
+    "name": "Pampalu",
+    "postal_code": "95877"
   },
   {
     "code": "7104182002",
     "district_code": "710418",
-    "name": "Ruso"
+    "name": "Ruso",
+    "postal_code": "95877"
   },
   {
     "code": "7104182003",
     "district_code": "710418",
-    "name": "Niampak"
+    "name": "Niampak",
+    "postal_code": "95877"
   },
   {
     "code": "7104182004",
     "district_code": "710418",
-    "name": "Niampak Utara"
+    "name": "Niampak Utara",
+    "postal_code": "95877"
   },
   {
     "code": "7104182005",
     "district_code": "710418",
-    "name": "Tarohan"
+    "name": "Tarohan",
+    "postal_code": "95877"
   },
   {
     "code": "7104182006",
     "district_code": "710418",
-    "name": "Tarohan Selatan"
+    "name": "Tarohan Selatan",
+    "postal_code": "95877"
   },
   {
     "code": "7104182007",
     "district_code": "710418",
-    "name": "Matahit"
+    "name": "Matahit",
+    "postal_code": "95877"
   }
 ]

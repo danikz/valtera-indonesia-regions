@@ -2,51 +2,61 @@
   {
     "code": "6371041001",
     "district_code": "637104",
-    "name": "Alalak Tengah"
+    "name": "Alalak Tengah",
+    "postal_code": "70126"
   },
   {
     "code": "6371041002",
     "district_code": "637104",
-    "name": "Alalak Utara"
+    "name": "Alalak Utara",
+    "postal_code": "70125"
   },
   {
     "code": "6371041003",
     "district_code": "637104",
-    "name": "Alalak Selatan"
+    "name": "Alalak Selatan",
+    "postal_code": "70126"
   },
   {
     "code": "6371041004",
     "district_code": "637104",
-    "name": "Sungai Jingah"
+    "name": "Sungai Jingah",
+    "postal_code": "70121"
   },
   {
     "code": "6371041005",
     "district_code": "637104",
-    "name": "Sungai Miai"
+    "name": "Sungai Miai",
+    "postal_code": "70123"
   },
   {
     "code": "6371041006",
     "district_code": "637104",
-    "name": "Surgi Mufti"
+    "name": "Surgi Mufti",
+    "postal_code": "70122"
   },
   {
     "code": "6371041007",
     "district_code": "637104",
-    "name": "Pangeran"
+    "name": "Pangeran",
+    "postal_code": "70124"
   },
   {
     "code": "6371041008",
     "district_code": "637104",
-    "name": "Antasan Kecil Timur"
+    "name": "Antasan Kecil Timur",
+    "postal_code": "70123"
   },
   {
     "code": "6371041009",
     "district_code": "637104",
-    "name": "Kuin Utara"
+    "name": "Kuin Utara",
+    "postal_code": "70127"
   },
   {
     "code": "6371041010",
     "district_code": "637104",
-    "name": "Sungai Andai"
+    "name": "Sungai Andai",
+    "postal_code": "70122"
   }
 ]

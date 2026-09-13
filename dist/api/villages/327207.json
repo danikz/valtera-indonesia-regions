@@ -2,21 +2,25 @@
   {
     "code": "3272071001",
     "district_code": "327207",
-    "name": "Cibeureum Hilir"
+    "name": "Cibeureum Hilir",
+    "postal_code": "43165"
   },
   {
     "code": "3272071002",
     "district_code": "327207",
-    "name": "Babakan"
+    "name": "Babakan",
+    "postal_code": "43142"
   },
   {
     "code": "3272071003",
     "district_code": "327207",
-    "name": "Sindangpalay"
+    "name": "Sindangpalay",
+    "postal_code": "43162"
   },
   {
     "code": "3272071004",
     "district_code": "327207",
-    "name": "Limusnunggal"
+    "name": "Limusnunggal",
+    "postal_code": "43165"
   }
 ]

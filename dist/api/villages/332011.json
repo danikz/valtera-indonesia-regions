@@ -2,76 +2,91 @@
   {
     "code": "3320112001",
     "district_code": "332011",
-    "name": "Ngabul"
+    "name": "Ngabul",
+    "postal_code": "59428"
   },
   {
     "code": "3320112002",
     "district_code": "332011",
-    "name": "Langon"
+    "name": "Langon",
+    "postal_code": "59425"
   },
   {
     "code": "3320112003",
     "district_code": "332011",
-    "name": "Sukodono"
+    "name": "Sukodono",
+    "postal_code": "59425"
   },
   {
     "code": "3320112004",
     "district_code": "332011",
-    "name": "Petekeyan"
+    "name": "Petekeyan",
+    "postal_code": "59423"
   },
   {
     "code": "3320112005",
     "district_code": "332011",
-    "name": "Mangunan"
+    "name": "Mangunan",
+    "postal_code": "59422"
   },
   {
     "code": "3320112006",
     "district_code": "332011",
-    "name": "Platar"
+    "name": "Platar",
+    "postal_code": "59423"
   },
   {
     "code": "3320112007",
     "district_code": "332011",
-    "name": "Semat"
+    "name": "Semat",
+    "postal_code": "59424"
   },
   {
     "code": "3320112008",
     "district_code": "332011",
-    "name": "Telukawur"
+    "name": "Telukawur",
+    "postal_code": "59427"
   },
   {
     "code": "3320112009",
     "district_code": "332011",
-    "name": "Demangan"
+    "name": "Demangan",
+    "postal_code": "59422"
   },
   {
     "code": "3320112010",
     "district_code": "332011",
-    "name": "Tegalsambi"
+    "name": "Tegalsambi",
+    "postal_code": "59427"
   },
   {
     "code": "3320112011",
     "district_code": "332011",
-    "name": "Mantingan"
+    "name": "Mantingan",
+    "postal_code": "59421"
   },
   {
     "code": "3320112012",
     "district_code": "332011",
-    "name": "Tahunan"
+    "name": "Tahunan",
+    "postal_code": "59451"
   },
   {
     "code": "3320112013",
     "district_code": "332011",
-    "name": "Kecapi"
+    "name": "Kecapi",
+    "postal_code": "59429"
   },
   {
     "code": "3320112014",
     "district_code": "332011",
-    "name": "Senenan"
+    "name": "Senenan",
+    "postal_code": "59426"
   },
   {
     "code": "3320112015",
     "district_code": "332011",
-    "name": "Krapyak"
+    "name": "Krapyak",
+    "postal_code": "59421"
   }
 ]

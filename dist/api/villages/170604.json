@@ -2,56 +2,67 @@
   {
     "code": "1706042001",
     "district_code": "170604",
-    "name": "Air Bikuk"
+    "name": "Air Bikuk",
+    "postal_code": "38766"
   },
   {
     "code": "1706042004",
     "district_code": "170604",
-    "name": "Tunggang"
+    "name": "Tunggang",
+    "postal_code": "38766"
   },
   {
     "code": "1706042005",
     "district_code": "170604",
-    "name": "Pondok Suguh"
+    "name": "Pondok Suguh",
+    "postal_code": "38766"
   },
   {
     "code": "1706042006",
     "district_code": "170604",
-    "name": "Air Berau"
+    "name": "Air Berau",
+    "postal_code": "38766"
   },
   {
     "code": "1706042010",
     "district_code": "170604",
-    "name": "Air Hitam"
+    "name": "Air Hitam",
+    "postal_code": "38766"
   },
   {
     "code": "1706042014",
     "district_code": "170604",
-    "name": "Pondok Kandang"
+    "name": "Pondok Kandang",
+    "postal_code": "38766"
   },
   {
     "code": "1706042022",
     "district_code": "170604",
-    "name": "Bumi Mekar Jaya"
+    "name": "Bumi Mekar Jaya",
+    "postal_code": "38766"
   },
   {
     "code": "1706042027",
     "district_code": "170604",
-    "name": "Lubuk Bento"
+    "name": "Lubuk Bento",
+    "postal_code": "38766"
   },
   {
     "code": "1706042029",
     "district_code": "170604",
-    "name": "Sinar Laut"
+    "name": "Sinar Laut",
+    "postal_code": "38766"
   },
   {
     "code": "1706042030",
     "district_code": "170604",
-    "name": "Karya Mulya"
+    "name": "Karya Mulya",
+    "postal_code": "38766"
   },
   {
     "code": "1706042031",
     "district_code": "170604",
-    "name": "Teluk Bakung"
+    "name": "Teluk Bakung",
+    "postal_code": "38766"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "7371041001",
     "district_code": "737104",
-    "name": "Maloku"
+    "name": "Maloku",
+    "postal_code": "90112"
   },
   {
     "code": "7371041002",
     "district_code": "737104",
-    "name": "Mangkura"
+    "name": "Mangkura",
+    "postal_code": "90113"
   },
   {
     "code": "7371041003",
     "district_code": "737104",
-    "name": "Pisang Selatan"
+    "name": "Pisang Selatan",
+    "postal_code": "90114"
   },
   {
     "code": "7371041004",
     "district_code": "737104",
-    "name": "Pisang Utara"
+    "name": "Pisang Utara",
+    "postal_code": "90115"
   },
   {
     "code": "7371041005",
     "district_code": "737104",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "90111"
   },
   {
     "code": "7371041006",
     "district_code": "737104",
-    "name": "Bulogading"
+    "name": "Bulogading",
+    "postal_code": "90111"
   },
   {
     "code": "7371041007",
     "district_code": "737104",
-    "name": "Lae-Lae"
+    "name": "Lae-Lae",
+    "postal_code": "90111"
   },
   {
     "code": "7371041008",
     "district_code": "737104",
-    "name": "Losari"
+    "name": "Losari",
+    "postal_code": "90112"
   },
   {
     "code": "7371041009",
     "district_code": "737104",
-    "name": "Sawerigading"
+    "name": "Sawerigading",
+    "postal_code": "90113"
   },
   {
     "code": "7371041010",
     "district_code": "737104",
-    "name": "Lajangiru"
+    "name": "Lajangiru",
+    "postal_code": "90114"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "6204011003",
     "district_code": "620401",
-    "name": "Rantau Kujang"
+    "name": "Rantau Kujang",
+    "postal_code": "73763"
   },
   {
     "code": "6204012001",
     "district_code": "620401",
-    "name": "Tampulang"
+    "name": "Tampulang",
+    "postal_code": "73763"
   },
   {
     "code": "6204012002",
     "district_code": "620401",
-    "name": "Rantau Bahuang"
+    "name": "Rantau Bahuang",
+    "postal_code": "73763"
   },
   {
     "code": "6204012004",
     "district_code": "620401",
-    "name": "Rangga Ilung"
+    "name": "Rangga Ilung",
+    "postal_code": "73763"
   },
   {
     "code": "6204012005",
     "district_code": "620401",
-    "name": "Tabatan"
+    "name": "Tabatan",
+    "postal_code": "73763"
   }
 ]

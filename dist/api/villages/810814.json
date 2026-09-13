@@ -2,26 +2,31 @@
   {
     "code": "8108142001",
     "district_code": "810814",
-    "name": "Telemar"
+    "name": "Telemar",
+    "postal_code": "97447"
   },
   {
     "code": "8108142002",
     "district_code": "810814",
-    "name": "Karbubu"
+    "name": "Karbubu",
+    "postal_code": "97447"
   },
   {
     "code": "8108142003",
     "district_code": "810814",
-    "name": "Ustutun"
+    "name": "Ustutun",
+    "postal_code": "97447"
   },
   {
     "code": "8108142004",
     "district_code": "810814",
-    "name": "Klishatu"
+    "name": "Klishatu",
+    "postal_code": "97447"
   },
   {
     "code": "8108142005",
     "district_code": "810814",
-    "name": "Ilmamau"
+    "name": "Ilmamau",
+    "postal_code": "97447"
   }
 ]

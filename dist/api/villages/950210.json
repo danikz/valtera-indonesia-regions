@@ -2,51 +2,61 @@
   {
     "code": "9502102001",
     "district_code": "950210",
-    "name": "Bime"
+    "name": "Bime",
+    "postal_code": "99451"
   },
   {
     "code": "9502102002",
     "district_code": "950210",
-    "name": "Bob"
+    "name": "Bob",
+    "postal_code": "99586"
   },
   {
     "code": "9502102003",
     "district_code": "950210",
-    "name": "Kameme"
+    "name": "Kameme",
+    "postal_code": "99586"
   },
   {
     "code": "9502102004",
     "district_code": "950210",
-    "name": "Calab"
+    "name": "Calab",
+    "postal_code": "99451"
   },
   {
     "code": "9502102005",
     "district_code": "950210",
-    "name": "Limiri"
+    "name": "Limiri",
+    "postal_code": "99451"
   },
   {
     "code": "9502102006",
     "district_code": "950210",
-    "name": "Teli"
+    "name": "Teli",
+    "postal_code": "99451"
   },
   {
     "code": "9502102007",
     "district_code": "950210",
-    "name": "Lim Lim"
+    "name": "Lim Lim",
+    "postal_code": "99451"
   },
   {
     "code": "9502102008",
     "district_code": "950210",
-    "name": "Bunggon"
+    "name": "Bunggon",
+    "postal_code": "99451"
   },
   {
     "code": "9502102009",
     "district_code": "950210",
-    "name": "Perem"
+    "name": "Perem",
+    "postal_code": "99451"
   },
   {
     "code": "9502102010",
     "district_code": "950210",
-    "name": "Turwe"
+    "name": "Turwe",
+    "postal_code": "99451"
   }
 ]

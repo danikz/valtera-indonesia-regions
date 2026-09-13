@@ -2,26 +2,31 @@
   {
     "code": "3671041001",
     "district_code": "367104",
-    "name": "Belendung"
+    "name": "Belendung",
+    "postal_code": "15123"
   },
   {
     "code": "3671041002",
     "district_code": "367104",
-    "name": "Jurumudi"
+    "name": "Jurumudi",
+    "postal_code": "15124"
   },
   {
     "code": "3671041003",
     "district_code": "367104",
-    "name": "Benda"
+    "name": "Benda",
+    "postal_code": "15125"
   },
   {
     "code": "3671041004",
     "district_code": "367104",
-    "name": "Pajang"
+    "name": "Pajang",
+    "postal_code": "15126"
   },
   {
     "code": "3671041005",
     "district_code": "367104",
-    "name": "Jurumudi Baru"
+    "name": "Jurumudi Baru",
+    "postal_code": "15124"
   }
 ]

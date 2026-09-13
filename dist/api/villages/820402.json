@@ -2,71 +2,85 @@
   {
     "code": "8204022004",
     "district_code": "820402",
-    "name": "Siko"
+    "name": "Siko",
+    "postal_code": "97780"
   },
   {
     "code": "8204022005",
     "district_code": "820402",
-    "name": "Gafi"
+    "name": "Gafi",
+    "postal_code": "97780"
   },
   {
     "code": "8204022006",
     "district_code": "820402",
-    "name": "Laigoma"
+    "name": "Laigoma",
+    "postal_code": "97780"
   },
   {
     "code": "8204022016",
     "district_code": "820402",
-    "name": "Ligua"
+    "name": "Ligua",
+    "postal_code": "97780"
   },
   {
     "code": "8204022017",
     "district_code": "820402",
-    "name": "Kida"
+    "name": "Kida",
+    "postal_code": "97780"
   },
   {
     "code": "8204022018",
     "district_code": "820402",
-    "name": "Buli"
+    "name": "Buli",
+    "postal_code": "97780"
   },
   {
     "code": "8204022019",
     "district_code": "820402",
-    "name": "Talimau"
+    "name": "Talimau",
+    "postal_code": "97780"
   },
   {
     "code": "8204022020",
     "district_code": "820402",
-    "name": "Gunange"
+    "name": "Gunange",
+    "postal_code": "97780"
   },
   {
     "code": "8204022021",
     "district_code": "820402",
-    "name": "Lelei"
+    "name": "Lelei",
+    "postal_code": "97780"
   },
   {
     "code": "8204022022",
     "district_code": "820402",
-    "name": "Bajo"
+    "name": "Bajo",
+    "postal_code": "97780"
   },
   {
     "code": "8204022023",
     "district_code": "820402",
-    "name": "Guruapin"
+    "name": "Guruapin",
+    "postal_code": "97780"
   },
   {
     "code": "8204022024",
     "district_code": "820402",
-    "name": "Karamat"
+    "name": "Karamat",
+    "postal_code": "97780"
   },
   {
     "code": "8204022029",
     "district_code": "820402",
-    "name": "Tawabi"
+    "name": "Tawabi",
+    "postal_code": "97780"
   },
   {
     "code": "8204022030",
     "district_code": "820402",
-    "name": "Dorolamo"
+    "name": "Dorolamo",
+    "postal_code": "97780"
   }
 ]

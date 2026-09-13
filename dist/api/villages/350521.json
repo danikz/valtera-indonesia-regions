@@ -2,51 +2,61 @@
   {
     "code": "3505212001",
     "district_code": "350521",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "66192"
   },
   {
     "code": "3505212002",
     "district_code": "350521",
-    "name": "Pohgajih"
+    "name": "Pohgajih",
+    "postal_code": "66192"
   },
   {
     "code": "3505212003",
     "district_code": "350521",
-    "name": "Selorejo"
+    "name": "Selorejo",
+    "postal_code": "66192"
   },
   {
     "code": "3505212004",
     "district_code": "350521",
-    "name": "Sumberagung"
+    "name": "Sumberagung",
+    "postal_code": "66192"
   },
   {
     "code": "3505212005",
     "district_code": "350521",
-    "name": "Ngrendeng"
+    "name": "Ngrendeng",
+    "postal_code": "66192"
   },
   {
     "code": "3505212006",
     "district_code": "350521",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "66192"
   },
   {
     "code": "3505212007",
     "district_code": "350521",
-    "name": "Ampelgading"
+    "name": "Ampelgading",
+    "postal_code": "66192"
   },
   {
     "code": "3505212008",
     "district_code": "350521",
-    "name": "Olak Alen"
+    "name": "Olak Alen",
+    "postal_code": "66192"
   },
   {
     "code": "3505212009",
     "district_code": "350521",
-    "name": "Boro"
+    "name": "Boro",
+    "postal_code": "66192"
   },
   {
     "code": "3505212010",
     "district_code": "350521",
-    "name": "Ngreco"
+    "name": "Ngreco",
+    "postal_code": "66192"
   }
 ]

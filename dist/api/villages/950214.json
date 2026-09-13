@@ -2,26 +2,31 @@
   {
     "code": "9502142001",
     "district_code": "950214",
-    "name": "Oksop"
+    "name": "Oksop",
+    "postal_code": "99416"
   },
   {
     "code": "9502142002",
     "district_code": "950214",
-    "name": "Mimin"
+    "name": "Mimin",
+    "postal_code": "99416"
   },
   {
     "code": "9502142003",
     "district_code": "950214",
-    "name": "Atenor"
+    "name": "Atenor",
+    "postal_code": "99416"
   },
   {
     "code": "9502142004",
     "district_code": "950214",
-    "name": "Oktumi"
+    "name": "Oktumi",
+    "postal_code": "99416"
   },
   {
     "code": "9502142005",
     "district_code": "950214",
-    "name": "Alutbakon"
+    "name": "Alutbakon",
+    "postal_code": "99416"
   }
 ]

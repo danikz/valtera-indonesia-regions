@@ -2,51 +2,61 @@
   {
     "code": "9504352001",
     "district_code": "950435",
-    "name": "Telenggeme"
+    "name": "Telenggeme",
+    "postal_code": "99059"
   },
   {
     "code": "9504352002",
     "district_code": "950435",
-    "name": "Aukuni"
+    "name": "Aukuni",
+    "postal_code": "99059"
   },
   {
     "code": "9504352003",
     "district_code": "950435",
-    "name": "Tenek"
+    "name": "Tenek",
+    "postal_code": "99059"
   },
   {
     "code": "9504352004",
     "district_code": "950435",
-    "name": "Kimunuk"
+    "name": "Kimunuk",
+    "postal_code": "99059"
   },
   {
     "code": "9504352005",
     "district_code": "950435",
-    "name": "Kimugu"
+    "name": "Kimugu",
+    "postal_code": "99059"
   },
   {
     "code": "9504352006",
     "district_code": "950435",
-    "name": "Yagagobak"
+    "name": "Yagagobak",
+    "postal_code": "99059"
   },
   {
     "code": "9504352007",
     "district_code": "950435",
-    "name": "Linggira"
+    "name": "Linggira",
+    "postal_code": "99059"
   },
   {
     "code": "9504352008",
     "district_code": "950435",
-    "name": "Wekaru"
+    "name": "Wekaru",
+    "postal_code": "99059"
   },
   {
     "code": "9504352009",
     "district_code": "950435",
-    "name": "Dolunggun"
+    "name": "Dolunggun",
+    "postal_code": "99059"
   },
   {
     "code": "9504352010",
     "district_code": "950435",
-    "name": "Kagi"
+    "name": "Kagi",
+    "postal_code": "99059"
   }
 ]

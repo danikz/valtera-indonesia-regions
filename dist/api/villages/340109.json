@@ -2,21 +2,25 @@
   {
     "code": "3401092001",
     "district_code": "340109",
-    "name": "Jatimulyo"
+    "name": "Jatimulyo",
+    "postal_code": "55674"
   },
   {
     "code": "3401092002",
     "district_code": "340109",
-    "name": "Giripurwo"
+    "name": "Giripurwo",
+    "postal_code": "55674"
   },
   {
     "code": "3401092003",
     "district_code": "340109",
-    "name": "Pendoworejo"
+    "name": "Pendoworejo",
+    "postal_code": "55674"
   },
   {
     "code": "3401092004",
     "district_code": "340109",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "55674"
   }
 ]

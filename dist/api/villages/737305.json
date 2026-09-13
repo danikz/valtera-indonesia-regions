@@ -2,36 +2,43 @@
   {
     "code": "7373051001",
     "district_code": "737305",
-    "name": "Surutanga"
+    "name": "Surutanga",
+    "postal_code": "91921"
   },
   {
     "code": "7373051002",
     "district_code": "737305",
-    "name": "Benteng"
+    "name": "Benteng",
+    "postal_code": "91921"
   },
   {
     "code": "7373051003",
     "district_code": "737305",
-    "name": "Pontap"
+    "name": "Pontap",
+    "postal_code": "91921"
   },
   {
     "code": "7373051004",
     "district_code": "737305",
-    "name": "Malatunrung"
+    "name": "Malatunrung",
+    "postal_code": "91921"
   },
   {
     "code": "7373051005",
     "district_code": "737305",
-    "name": "Salekoe"
+    "name": "Salekoe",
+    "postal_code": "91921"
   },
   {
     "code": "7373051006",
     "district_code": "737305",
-    "name": "Salotellue"
+    "name": "Salotellue",
+    "postal_code": "91921"
   },
   {
     "code": "7373051007",
     "district_code": "737305",
-    "name": "Ponjalae"
+    "name": "Ponjalae",
+    "postal_code": "91921"
   }
 ]

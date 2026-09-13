@@ -2,31 +2,37 @@
   {
     "code": "5302322001",
     "district_code": "530232",
-    "name": "Lill ana"
+    "name": "Lill ana",
+    "postal_code": "85544"
   },
   {
     "code": "5302322002",
     "district_code": "530232",
-    "name": "Nunbena"
+    "name": "Nunbena",
+    "postal_code": "85544"
   },
   {
     "code": "5302322003",
     "district_code": "530232",
-    "name": "Noebesi"
+    "name": "Noebesi",
+    "postal_code": "85544"
   },
   {
     "code": "5302322004",
     "district_code": "530232",
-    "name": "Taneotob"
+    "name": "Taneotob",
+    "postal_code": "85544"
   },
   {
     "code": "5302322005",
     "district_code": "530232",
-    "name": "Feto Mone"
+    "name": "Feto Mone",
+    "postal_code": "85544"
   },
   {
     "code": "5302322006",
     "district_code": "530232",
-    "name": "Tunbes"
+    "name": "Tunbes",
+    "postal_code": "85544"
   }
 ]

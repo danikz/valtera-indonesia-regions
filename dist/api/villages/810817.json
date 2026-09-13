@@ -2,16 +2,19 @@
   {
     "code": "8108172001",
     "district_code": "810817",
-    "name": "Purpura"
+    "name": "Purpura",
+    "postal_code": "97441"
   },
   {
     "code": "8108172002",
     "district_code": "810817",
-    "name": "Nomaha"
+    "name": "Nomaha",
+    "postal_code": "97441"
   },
   {
     "code": "8108172003",
     "district_code": "810817",
-    "name": "Labelau"
+    "name": "Labelau",
+    "postal_code": "97441"
   }
 ]

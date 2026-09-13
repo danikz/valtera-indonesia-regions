@@ -2,26 +2,31 @@
   {
     "code": "3578071001",
     "district_code": "357807",
-    "name": "Embong Kaliasin"
+    "name": "Embong Kaliasin",
+    "postal_code": "60271"
   },
   {
     "code": "3578071002",
     "district_code": "357807",
-    "name": "Genteng"
+    "name": "Genteng",
+    "postal_code": "60275"
   },
   {
     "code": "3578071003",
     "district_code": "357807",
-    "name": "Kapasari"
+    "name": "Kapasari",
+    "postal_code": "60273"
   },
   {
     "code": "3578071004",
     "district_code": "357807",
-    "name": "Ketabang"
+    "name": "Ketabang",
+    "postal_code": "60272"
   },
   {
     "code": "3578071005",
     "district_code": "357807",
-    "name": "Peneleh"
+    "name": "Peneleh",
+    "postal_code": "60274"
   }
 ]

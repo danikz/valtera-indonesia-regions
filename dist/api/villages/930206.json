@@ -2,26 +2,31 @@
   {
     "code": "9302062001",
     "district_code": "930206",
-    "name": "Bomakia I"
+    "name": "Bomakia I",
+    "postal_code": "99672"
   },
   {
     "code": "9302062002",
     "district_code": "930206",
-    "name": "Bomakia II"
+    "name": "Bomakia II",
+    "postal_code": "99672"
   },
   {
     "code": "9302062003",
     "district_code": "930206",
-    "name": "Somi"
+    "name": "Somi",
+    "postal_code": "99672"
   },
   {
     "code": "9302062004",
     "district_code": "930206",
-    "name": "Aifa"
+    "name": "Aifa",
+    "postal_code": "99672"
   },
   {
     "code": "9302062005",
     "district_code": "930206",
-    "name": "Uni"
+    "name": "Uni",
+    "postal_code": "99672"
   }
 ]

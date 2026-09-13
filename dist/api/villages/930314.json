@@ -2,41 +2,49 @@
   {
     "code": "9303142001",
     "district_code": "930314",
-    "name": "Wonggi"
+    "name": "Wonggi",
+    "postal_code": "99877"
   },
   {
     "code": "9303142002",
     "district_code": "930314",
-    "name": "Busiri"
+    "name": "Busiri",
+    "postal_code": "99877"
   },
   {
     "code": "9303142003",
     "district_code": "930314",
-    "name": "Keta"
+    "name": "Keta",
+    "postal_code": "99877"
   },
   {
     "code": "9303142004",
     "district_code": "930314",
-    "name": "Veta"
+    "name": "Veta",
+    "postal_code": "99877"
   },
   {
     "code": "9303142005",
     "district_code": "930314",
-    "name": "Honya"
+    "name": "Honya",
+    "postal_code": "99877"
   },
   {
     "code": "9303142006",
     "district_code": "930314",
-    "name": "Haku"
+    "name": "Haku",
+    "postal_code": "99877"
   },
   {
     "code": "9303142007",
     "district_code": "930314",
-    "name": "Bifo"
+    "name": "Bifo",
+    "postal_code": "99877"
   },
   {
     "code": "9303142008",
     "district_code": "930314",
-    "name": "Samurukie"
+    "name": "Samurukie",
+    "postal_code": "99877"
   }
 ]

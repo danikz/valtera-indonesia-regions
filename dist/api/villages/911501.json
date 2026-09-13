@@ -2,36 +2,43 @@
   {
     "code": "9115012003",
     "district_code": "911501",
-    "name": "Waren I"
+    "name": "Waren I",
+    "postal_code": "98662"
   },
   {
     "code": "9115012004",
     "district_code": "911501",
-    "name": "Waren II"
+    "name": "Waren II",
+    "postal_code": "98662"
   },
   {
     "code": "9115012011",
     "district_code": "911501",
-    "name": "Nonomi"
+    "name": "Nonomi",
+    "postal_code": "98662"
   },
   {
     "code": "9115012020",
     "district_code": "911501",
-    "name": "Sarafambai"
+    "name": "Sarafambai",
+    "postal_code": "98662"
   },
   {
     "code": "9115012025",
     "district_code": "911501",
-    "name": "Uri"
+    "name": "Uri",
+    "postal_code": "98662"
   },
   {
     "code": "9115012027",
     "district_code": "911501",
-    "name": "Batu Zaman"
+    "name": "Batu Zaman",
+    "postal_code": "98662"
   },
   {
     "code": "9115012029",
     "district_code": "911501",
-    "name": "Sawara Jaya"
+    "name": "Sawara Jaya",
+    "postal_code": "98662"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "1110142001",
     "district_code": "111014",
-    "name": "Kuala Baru Laut"
+    "name": "Kuala Baru Laut",
+    "postal_code": "24789"
   },
   {
     "code": "1110142002",
     "district_code": "111014",
-    "name": "Kuala Baru Sungai"
+    "name": "Kuala Baru Sungai",
+    "postal_code": "24789"
   },
   {
     "code": "1110142003",
     "district_code": "111014",
-    "name": "Suka Jaya"
+    "name": "Suka Jaya",
+    "postal_code": "24789"
   },
   {
     "code": "1110142004",
     "district_code": "111014",
-    "name": "Kayu Menang"
+    "name": "Kayu Menang",
+    "postal_code": "24789"
   }
 ]

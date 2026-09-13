@@ -2,51 +2,61 @@
   {
     "code": "9208022001",
     "district_code": "920802",
-    "name": "Kambala"
+    "name": "Kambala",
+    "postal_code": "98123"
   },
   {
     "code": "9208022002",
     "district_code": "920802",
-    "name": "Yarona"
+    "name": "Yarona",
+    "postal_code": "98123"
   },
   {
     "code": "9208022003",
     "district_code": "920802",
-    "name": "Edor"
+    "name": "Edor",
+    "postal_code": "98123"
   },
   {
     "code": "9208022004",
     "district_code": "920802",
-    "name": "Tairi"
+    "name": "Tairi",
+    "postal_code": "98123"
   },
   {
     "code": "9208022005",
     "district_code": "920802",
-    "name": "Gaka"
+    "name": "Gaka",
+    "postal_code": "98123"
   },
   {
     "code": "9208022006",
     "district_code": "920802",
-    "name": "Guriasa"
+    "name": "Guriasa",
+    "postal_code": "98123"
   },
   {
     "code": "9208022007",
     "district_code": "920802",
-    "name": "Adi Jaya"
+    "name": "Adi Jaya",
+    "postal_code": "98123"
   },
   {
     "code": "9208022008",
     "district_code": "920802",
-    "name": "Nusaulan"
+    "name": "Nusaulan",
+    "postal_code": "98123"
   },
   {
     "code": "9208022009",
     "district_code": "920802",
-    "name": "Esania"
+    "name": "Esania",
+    "postal_code": "98123"
   },
   {
     "code": "9208022010",
     "district_code": "920802",
-    "name": "Hia"
+    "name": "Hia",
+    "postal_code": "98123"
   }
 ]

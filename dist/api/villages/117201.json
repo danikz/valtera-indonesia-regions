@@ -2,26 +2,31 @@
   {
     "code": "1172012004",
     "district_code": "117201",
-    "name": "Krueng Raya"
+    "name": "Krueng Raya",
+    "postal_code": "23515"
   },
   {
     "code": "1172012005",
     "district_code": "117201",
-    "name": "Aneuk Laot"
+    "name": "Aneuk Laot",
+    "postal_code": "23514"
   },
   {
     "code": "1172012006",
     "district_code": "117201",
-    "name": "Kuta Timu"
+    "name": "Kuta Timu",
+    "postal_code": "23513"
   },
   {
     "code": "1172012007",
     "district_code": "117201",
-    "name": "Kuta Barat"
+    "name": "Kuta Barat",
+    "postal_code": "23512"
   },
   {
     "code": "1172012008",
     "district_code": "117201",
-    "name": "Kuta Ateuh"
+    "name": "Kuta Ateuh",
+    "postal_code": "23511"
   }
 ]

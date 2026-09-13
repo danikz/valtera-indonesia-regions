@@ -2,26 +2,31 @@
   {
     "code": "9508242001",
     "district_code": "950824",
-    "name": "Wendama"
+    "name": "Wendama",
+    "postal_code": "99920"
   },
   {
     "code": "9508242002",
     "district_code": "950824",
-    "name": "Embetpem"
+    "name": "Embetpem",
+    "postal_code": "99920"
   },
   {
     "code": "9508242003",
     "district_code": "950824",
-    "name": "Yenai"
+    "name": "Yenai",
+    "postal_code": "99920"
   },
   {
     "code": "9508242004",
     "district_code": "950824",
-    "name": "Digilimu"
+    "name": "Digilimu",
+    "postal_code": "99920"
   },
   {
     "code": "9508242005",
     "district_code": "950824",
-    "name": "Bisikimu"
+    "name": "Bisikimu",
+    "postal_code": "99920"
   }
 ]

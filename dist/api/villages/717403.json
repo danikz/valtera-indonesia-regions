@@ -2,46 +2,55 @@
   {
     "code": "7174031007",
     "district_code": "717403",
-    "name": "Motoboi Kecil"
+    "name": "Motoboi Kecil",
+    "postal_code": "95717"
   },
   {
     "code": "7174031008",
     "district_code": "717403",
-    "name": "Mongondow"
+    "name": "Mongondow",
+    "postal_code": "95717"
   },
   {
     "code": "7174031009",
     "district_code": "717403",
-    "name": "Pobundayan"
+    "name": "Pobundayan",
+    "postal_code": "95717"
   },
   {
     "code": "7174032001",
     "district_code": "717403",
-    "name": "Poyowa Besar Satu"
+    "name": "Poyowa Besar Satu",
+    "postal_code": "95717"
   },
   {
     "code": "7174032002",
     "district_code": "717403",
-    "name": "Poyowa Besar Dua"
+    "name": "Poyowa Besar Dua",
+    "postal_code": "95717"
   },
   {
     "code": "7174032003",
     "district_code": "717403",
-    "name": "Tabang"
+    "name": "Tabang",
+    "postal_code": "95717"
   },
   {
     "code": "7174032004",
     "district_code": "717403",
-    "name": "Bungko"
+    "name": "Bungko",
+    "postal_code": "95717"
   },
   {
     "code": "7174032005",
     "district_code": "717403",
-    "name": "Kopandakan Satu"
+    "name": "Kopandakan Satu",
+    "postal_code": "95717"
   },
   {
     "code": "7174032006",
     "district_code": "717403",
-    "name": "Poyowa Kecil"
+    "name": "Poyowa Kecil",
+    "postal_code": "95717"
   }
 ]

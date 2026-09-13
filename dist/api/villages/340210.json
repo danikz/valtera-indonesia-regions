@@ -2,41 +2,49 @@
   {
     "code": "3402102001",
     "district_code": "340210",
-    "name": "Selopamioro"
+    "name": "Selopamioro",
+    "postal_code": "55782"
   },
   {
     "code": "3402102002",
     "district_code": "340210",
-    "name": "Sriharjo"
+    "name": "Sriharjo",
+    "postal_code": "55782"
   },
   {
     "code": "3402102003",
     "district_code": "340210",
-    "name": "Wukirsari"
+    "name": "Wukirsari",
+    "postal_code": "55782"
   },
   {
     "code": "3402102004",
     "district_code": "340210",
-    "name": "Kebonagung"
+    "name": "Kebonagung",
+    "postal_code": "55782"
   },
   {
     "code": "3402102005",
     "district_code": "340210",
-    "name": "Karangtengah"
+    "name": "Karangtengah",
+    "postal_code": "55782"
   },
   {
     "code": "3402102006",
     "district_code": "340210",
-    "name": "Girirejo"
+    "name": "Girirejo",
+    "postal_code": "55782"
   },
   {
     "code": "3402102007",
     "district_code": "340210",
-    "name": "Karangtalun"
+    "name": "Karangtalun",
+    "postal_code": "55782"
   },
   {
     "code": "3402102008",
     "district_code": "340210",
-    "name": "Imogiri"
+    "name": "Imogiri",
+    "postal_code": "55782"
   }
 ]

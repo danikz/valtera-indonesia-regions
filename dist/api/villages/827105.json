@@ -2,31 +2,37 @@
   {
     "code": "8271051001",
     "district_code": "827105",
-    "name": "Mayau"
+    "name": "Mayau",
+    "postal_code": "97743"
   },
   {
     "code": "8271051002",
     "district_code": "827105",
-    "name": "Tifure"
+    "name": "Tifure",
+    "postal_code": "97743"
   },
   {
     "code": "8271051003",
     "district_code": "827105",
-    "name": "Lelewi"
+    "name": "Lelewi",
+    "postal_code": "97743"
   },
   {
     "code": "8271051004",
     "district_code": "827105",
-    "name": "Bido"
+    "name": "Bido",
+    "postal_code": "97743"
   },
   {
     "code": "8271051005",
     "district_code": "827105",
-    "name": "Pantai Sagu"
+    "name": "Pantai Sagu",
+    "postal_code": "97743"
   },
   {
     "code": "8271051006",
     "district_code": "827105",
-    "name": "Perum Bersatu"
+    "name": "Perum Bersatu",
+    "postal_code": "97743"
   }
 ]

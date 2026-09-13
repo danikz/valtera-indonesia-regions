@@ -2,41 +2,49 @@
   {
     "code": "3213112002",
     "district_code": "321311",
-    "name": "Rancasari"
+    "name": "Rancasari",
+    "postal_code": "41264"
   },
   {
     "code": "3213112003",
     "district_code": "321311",
-    "name": "Rancahilir"
+    "name": "Rancahilir",
+    "postal_code": "41264"
   },
   {
     "code": "3213112004",
     "district_code": "321311",
-    "name": "Pamanukan"
+    "name": "Pamanukan",
+    "postal_code": "41264"
   },
   {
     "code": "3213112006",
     "district_code": "321311",
-    "name": "Pamanukan Hilir"
+    "name": "Pamanukan Hilir",
+    "postal_code": "41264"
   },
   {
     "code": "3213112007",
     "district_code": "321311",
-    "name": "Pamanukan Sebrang"
+    "name": "Pamanukan Sebrang",
+    "postal_code": "41264"
   },
   {
     "code": "3213112009",
     "district_code": "321311",
-    "name": "Mulyasari"
+    "name": "Mulyasari",
+    "postal_code": "41264"
   },
   {
     "code": "3213112010",
     "district_code": "321311",
-    "name": "Lengkongjaya"
+    "name": "Lengkongjaya",
+    "postal_code": "41264"
   },
   {
     "code": "3213112011",
     "district_code": "321311",
-    "name": "Bongas"
+    "name": "Bongas",
+    "postal_code": "41264"
   }
 ]

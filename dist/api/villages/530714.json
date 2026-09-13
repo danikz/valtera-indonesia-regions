@@ -2,21 +2,25 @@
   {
     "code": "5307141001",
     "district_code": "530714",
-    "name": "Hewuli"
+    "name": "Hewuli",
+    "postal_code": "86115"
   },
   {
     "code": "5307141002",
     "district_code": "530714",
-    "name": "Wailiti"
+    "name": "Wailiti",
+    "postal_code": "86114"
   },
   {
     "code": "5307141003",
     "district_code": "530714",
-    "name": "Wolomarang"
+    "name": "Wolomarang",
+    "postal_code": "86114"
   },
   {
     "code": "5307141004",
     "district_code": "530714",
-    "name": "Wuring"
+    "name": "Wuring",
+    "postal_code": "86115"
   }
 ]

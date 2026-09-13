@@ -2,31 +2,37 @@
   {
     "code": "3206062001",
     "district_code": "320606",
-    "name": "Cisempur"
+    "name": "Cisempur",
+    "postal_code": "46185"
   },
   {
     "code": "3206062002",
     "district_code": "320606",
-    "name": "Setiawaras"
+    "name": "Setiawaras",
+    "postal_code": "46185"
   },
   {
     "code": "3206062003",
     "district_code": "320606",
-    "name": "Eureunpalay"
+    "name": "Eureunpalay",
+    "postal_code": "46185"
   },
   {
     "code": "3206062004",
     "district_code": "320606",
-    "name": "Cibalong"
+    "name": "Cibalong",
+    "postal_code": "46185"
   },
   {
     "code": "3206062005",
     "district_code": "320606",
-    "name": "Singajaya"
+    "name": "Singajaya",
+    "postal_code": "46185"
   },
   {
     "code": "3206062006",
     "district_code": "320606",
-    "name": "Parung"
+    "name": "Parung",
+    "postal_code": "46185"
   }
 ]

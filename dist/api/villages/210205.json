@@ -2,31 +2,37 @@
   {
     "code": "2102051001",
     "district_code": "210205",
-    "name": "Tebing"
+    "name": "Tebing",
+    "postal_code": "29668"
   },
   {
     "code": "2102051002",
     "district_code": "210205",
-    "name": "Teluk Uma"
+    "name": "Teluk Uma",
+    "postal_code": "29668"
   },
   {
     "code": "2102051003",
     "district_code": "210205",
-    "name": "Kapling"
+    "name": "Kapling",
+    "postal_code": "29668"
   },
   {
     "code": "2102051004",
     "district_code": "210205",
-    "name": "Pamak"
+    "name": "Pamak",
+    "postal_code": "29668"
   },
   {
     "code": "2102051008",
     "district_code": "210205",
-    "name": "Harjosari"
+    "name": "Harjosari",
+    "postal_code": "29668"
   },
   {
     "code": "2102052007",
     "district_code": "210205",
-    "name": "Pongkar"
+    "name": "Pongkar",
+    "postal_code": "29668"
   }
 ]

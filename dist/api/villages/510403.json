@@ -2,86 +2,103 @@
   {
     "code": "5104031003",
     "district_code": "510403",
-    "name": "Samplangan"
+    "name": "Samplangan",
+    "postal_code": "80512"
   },
   {
     "code": "5104031005",
     "district_code": "510403",
-    "name": "Abianbase"
+    "name": "Abianbase",
+    "postal_code": "80515"
   },
   {
     "code": "5104031006",
     "district_code": "510403",
-    "name": "Gianyar"
+    "name": "Gianyar",
+    "postal_code": "80511"
   },
   {
     "code": "5104031007",
     "district_code": "510403",
-    "name": "Bitera"
+    "name": "Bitera",
+    "postal_code": "80515"
   },
   {
     "code": "5104031008",
     "district_code": "510403",
-    "name": "Beng"
+    "name": "Beng",
+    "postal_code": "80513"
   },
   {
     "code": "5104032001",
     "district_code": "510403",
-    "name": "Tulikup"
+    "name": "Tulikup",
+    "postal_code": "80515"
   },
   {
     "code": "5104032002",
     "district_code": "510403",
-    "name": "Sidan"
+    "name": "Sidan",
+    "postal_code": "80515"
   },
   {
     "code": "5104032004",
     "district_code": "510403",
-    "name": "Lebih"
+    "name": "Lebih",
+    "postal_code": "80515"
   },
   {
     "code": "5104032009",
     "district_code": "510403",
-    "name": "Bakbakan"
+    "name": "Bakbakan",
+    "postal_code": "80515"
   },
   {
     "code": "5104032010",
     "district_code": "510403",
-    "name": "Siangan"
+    "name": "Siangan",
+    "postal_code": "80515"
   },
   {
     "code": "5104032011",
     "district_code": "510403",
-    "name": "Suwat"
+    "name": "Suwat",
+    "postal_code": "80515"
   },
   {
     "code": "5104032012",
     "district_code": "510403",
-    "name": "Petak"
+    "name": "Petak",
+    "postal_code": "80515"
   },
   {
     "code": "5104032013",
     "district_code": "510403",
-    "name": "Serongga"
+    "name": "Serongga",
+    "postal_code": "80515"
   },
   {
     "code": "5104032014",
     "district_code": "510403",
-    "name": "Petak Kaja"
+    "name": "Petak Kaja",
+    "postal_code": "80515"
   },
   {
     "code": "5104032015",
     "district_code": "510403",
-    "name": "Temesi"
+    "name": "Temesi",
+    "postal_code": "80515"
   },
   {
     "code": "5104032016",
     "district_code": "510403",
-    "name": "Sumita"
+    "name": "Sumita",
+    "postal_code": "80515"
   },
   {
     "code": "5104032017",
     "district_code": "510403",
-    "name": "Tegal Tugu"
+    "name": "Tegal Tugu",
+    "postal_code": "80515"
   }
 ]

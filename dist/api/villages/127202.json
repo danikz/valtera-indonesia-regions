@@ -2,41 +2,49 @@
   {
     "code": "1272021001",
     "district_code": "127202",
-    "name": "Dwikora"
+    "name": "Dwikora",
+    "postal_code": "21118"
   },
   {
     "code": "1272021002",
     "district_code": "127202",
-    "name": "Proklamasi"
+    "name": "Proklamasi",
+    "postal_code": "21117"
   },
   {
     "code": "1272021003",
     "district_code": "127202",
-    "name": "Bantan"
+    "name": "Bantan",
+    "postal_code": "21111"
   },
   {
     "code": "1272021004",
     "district_code": "127202",
-    "name": "Timbang Galung"
+    "name": "Timbang Galung",
+    "postal_code": "21116"
   },
   {
     "code": "1272021005",
     "district_code": "127202",
-    "name": "Simarito"
+    "name": "Simarito",
+    "postal_code": "21113"
   },
   {
     "code": "1272021006",
     "district_code": "127202",
-    "name": "Sipinggolpinggol"
+    "name": "Sipinggolpinggol",
+    "postal_code": "21114"
   },
   {
     "code": "1272021007",
     "district_code": "127202",
-    "name": "Banjar"
+    "name": "Banjar",
+    "postal_code": "21112"
   },
   {
     "code": "1272021008",
     "district_code": "127202",
-    "name": "Teladan"
+    "name": "Teladan",
+    "postal_code": "21115"
   }
 ]

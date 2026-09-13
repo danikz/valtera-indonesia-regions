@@ -2,51 +2,61 @@
   {
     "code": "1905062001",
     "district_code": "190506",
-    "name": "Sekar Biru"
+    "name": "Sekar Biru",
+    "postal_code": "33363"
   },
   {
     "code": "1905062002",
     "district_code": "190506",
-    "name": "Telak"
+    "name": "Telak",
+    "postal_code": "33363"
   },
   {
     "code": "1905062003",
     "district_code": "190506",
-    "name": "Cupat"
+    "name": "Cupat",
+    "postal_code": "33363"
   },
   {
     "code": "1905062004",
     "district_code": "190506",
-    "name": "Bakit"
+    "name": "Bakit",
+    "postal_code": "33363"
   },
   {
     "code": "1905062005",
     "district_code": "190506",
-    "name": "Puput"
+    "name": "Puput",
+    "postal_code": "33363"
   },
   {
     "code": "1905062006",
     "district_code": "190506",
-    "name": "Air Gantang"
+    "name": "Air Gantang",
+    "postal_code": "33363"
   },
   {
     "code": "1905062007",
     "district_code": "190506",
-    "name": "Kelabat"
+    "name": "Kelabat",
+    "postal_code": "33363"
   },
   {
     "code": "1905062008",
     "district_code": "190506",
-    "name": "Kapit"
+    "name": "Kapit",
+    "postal_code": "33363"
   },
   {
     "code": "1905062009",
     "district_code": "190506",
-    "name": "Semulut"
+    "name": "Semulut",
+    "postal_code": "33363"
   },
   {
     "code": "1905062010",
     "district_code": "190506",
-    "name": "Teluk Limau"
+    "name": "Teluk Limau",
+    "postal_code": "33363"
   }
 ]

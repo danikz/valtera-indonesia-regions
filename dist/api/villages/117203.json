@@ -2,31 +2,37 @@
   {
     "code": "1172032001",
     "district_code": "117203",
-    "name": "Iboih"
+    "name": "Iboih",
+    "postal_code": "23518"
   },
   {
     "code": "1172032002",
     "district_code": "117203",
-    "name": "Batee Shoek"
+    "name": "Batee Shoek",
+    "postal_code": "23517"
   },
   {
     "code": "1172032003",
     "district_code": "117203",
-    "name": "Paya Seunara"
+    "name": "Paya Seunara",
+    "postal_code": "23516"
   },
   {
     "code": "1172032004",
     "district_code": "117203",
-    "name": "Paya"
+    "name": "Paya",
+    "postal_code": "23529"
   },
   {
     "code": "1172032005",
     "district_code": "117203",
-    "name": "Keuneukai"
+    "name": "Keuneukai",
+    "postal_code": "23528"
   },
   {
     "code": "1172032006",
     "district_code": "117203",
-    "name": "Beurawang"
+    "name": "Beurawang",
+    "postal_code": "23527"
   }
 ]

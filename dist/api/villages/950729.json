@@ -2,46 +2,55 @@
   {
     "code": "9507292001",
     "district_code": "950729",
-    "name": "Pirambor"
+    "name": "Pirambor",
+    "postal_code": "99561"
   },
   {
     "code": "9507292002",
     "district_code": "950729",
-    "name": "Gondura"
+    "name": "Gondura",
+    "postal_code": "99561"
   },
   {
     "code": "9507292003",
     "district_code": "950729",
-    "name": "Juta"
+    "name": "Juta",
+    "postal_code": "99561"
   },
   {
     "code": "9507292004",
     "district_code": "950729",
-    "name": "Tigima"
+    "name": "Tigima",
+    "postal_code": "99561"
   },
   {
     "code": "9507292005",
     "district_code": "950729",
-    "name": "Gelok"
+    "name": "Gelok",
+    "postal_code": "99561"
   },
   {
     "code": "9507292006",
     "district_code": "950729",
-    "name": "Murtani"
+    "name": "Murtani",
+    "postal_code": "99561"
   },
   {
     "code": "9507292007",
     "district_code": "950729",
-    "name": "Beam"
+    "name": "Beam",
+    "postal_code": "99561"
   },
   {
     "code": "9507292008",
     "district_code": "950729",
-    "name": "Wanggu"
+    "name": "Wanggu",
+    "postal_code": "99561"
   },
   {
     "code": "9507292009",
     "district_code": "950729",
-    "name": "Kulip"
+    "name": "Kulip",
+    "postal_code": "99561"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "5304232001",
     "district_code": "530423",
-    "name": "Dubesi"
+    "name": "Dubesi",
+    "postal_code": "85751"
   },
   {
     "code": "5304232002",
     "district_code": "530423",
-    "name": "Nanaet"
+    "name": "Nanaet",
+    "postal_code": "85751"
   },
   {
     "code": "5304232003",
     "district_code": "530423",
-    "name": "Fohoeka"
+    "name": "Fohoeka",
+    "postal_code": "85751"
   },
   {
     "code": "5304232004",
     "district_code": "530423",
-    "name": "Nanaenoe"
+    "name": "Nanaenoe",
+    "postal_code": "85751"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3511192001",
     "district_code": "351119",
-    "name": "Sempol"
+    "name": "Sempol",
+    "postal_code": "68288"
   },
   {
     "code": "3511192002",
     "district_code": "351119",
-    "name": "Kalianyar"
+    "name": "Kalianyar",
+    "postal_code": "68288"
   },
   {
     "code": "3511192003",
     "district_code": "351119",
-    "name": "Jampit"
+    "name": "Jampit",
+    "postal_code": "68288"
   },
   {
     "code": "3511192004",
     "district_code": "351119",
-    "name": "Kalisat"
+    "name": "Kalisat",
+    "postal_code": "68288"
   },
   {
     "code": "3511192005",
     "district_code": "351119",
-    "name": "Kali Gedang"
+    "name": "Kali Gedang",
+    "postal_code": "68288"
   },
   {
     "code": "3511192006",
     "district_code": "351119",
-    "name": "Sumber Rejo"
+    "name": "Sumber Rejo",
+    "postal_code": "68288"
   }
 ]

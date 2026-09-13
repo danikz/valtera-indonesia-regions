@@ -2,41 +2,49 @@
   {
     "code": "5204222001",
     "district_code": "520422",
-    "name": "Pelat"
+    "name": "Pelat",
+    "postal_code": "84310"
   },
   {
     "code": "5204222002",
     "district_code": "520422",
-    "name": "Kerekeh"
+    "name": "Kerekeh",
+    "postal_code": "84310"
   },
   {
     "code": "5204222003",
     "district_code": "520422",
-    "name": "Boak"
+    "name": "Boak",
+    "postal_code": "84310"
   },
   {
     "code": "5204222004",
     "district_code": "520422",
-    "name": "Jorok"
+    "name": "Jorok",
+    "postal_code": "84310"
   },
   {
     "code": "5204222005",
     "district_code": "520422",
-    "name": "Kerato"
+    "name": "Kerato",
+    "postal_code": "84310"
   },
   {
     "code": "5204222006",
     "district_code": "520422",
-    "name": "Pungka"
+    "name": "Pungka",
+    "postal_code": "84310"
   },
   {
     "code": "5204222007",
     "district_code": "520422",
-    "name": "Uma Beringin"
+    "name": "Uma Beringin",
+    "postal_code": "84310"
   },
   {
     "code": "5204222008",
     "district_code": "520422",
-    "name": "Nijang"
+    "name": "Nijang",
+    "postal_code": "84310"
   }
 ]

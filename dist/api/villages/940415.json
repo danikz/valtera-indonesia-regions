@@ -2,36 +2,43 @@
   {
     "code": "9404152001",
     "district_code": "940415",
-    "name": "Limau Asri Timur"
+    "name": "Limau Asri Timur",
+    "postal_code": "99968"
   },
   {
     "code": "9404152002",
     "district_code": "940415",
-    "name": "Wangirja"
+    "name": "Wangirja",
+    "postal_code": "99968"
   },
   {
     "code": "9404152003",
     "district_code": "940415",
-    "name": "Iwaka"
+    "name": "Iwaka",
+    "postal_code": "99968"
   },
   {
     "code": "9404152004",
     "district_code": "940415",
-    "name": "Naena Muktipura"
+    "name": "Naena Muktipura",
+    "postal_code": "99968"
   },
   {
     "code": "9404152005",
     "district_code": "940415",
-    "name": "Mulia Kencana"
+    "name": "Mulia Kencana",
+    "postal_code": "99968"
   },
   {
     "code": "9404152006",
     "district_code": "940415",
-    "name": "Pigapu"
+    "name": "Pigapu",
+    "postal_code": "99968"
   },
   {
     "code": "9404152007",
     "district_code": "940415",
-    "name": "Limau Asri Barat"
+    "name": "Limau Asri Barat",
+    "postal_code": "99968"
   }
 ]

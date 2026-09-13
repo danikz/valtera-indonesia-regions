@@ -53,7 +53,7 @@ Base URL: `https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/d
 - **Response Shape**:
   ```json
   [
-    { "code": "3201011001", "district_code": "320101", "name": "Cirimekar" }
+    { "code": "3201011001", "district_code": "320101", "name": "Cirimekar", "postal_code": "16916" }
   ]
   ```
 
@@ -79,6 +79,7 @@ export interface District extends RegionItem {
 
 export interface Village extends RegionItem {
   district_code: string;
+  postal_code?: string;
 }
 ```
 

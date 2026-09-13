@@ -2,21 +2,25 @@
   {
     "code": "7403332001",
     "district_code": "740333",
-    "name": "Kolese"
+    "name": "Kolese",
+    "postal_code": "93684"
   },
   {
     "code": "7403332002",
     "district_code": "740333",
-    "name": "Tampunabale"
+    "name": "Tampunabale",
+    "postal_code": "93684"
   },
   {
     "code": "7403332003",
     "district_code": "740333",
-    "name": "Mata Indaha"
+    "name": "Mata Indaha",
+    "postal_code": "93684"
   },
   {
     "code": "7403332004",
     "district_code": "740333",
-    "name": "Lambelu"
+    "name": "Lambelu",
+    "postal_code": "93684"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "1208222001",
     "district_code": "120822",
-    "name": "Naga Jaya I"
+    "name": "Naga Jaya I",
+    "postal_code": "21184"
   },
   {
     "code": "1208222002",
     "district_code": "120822",
-    "name": "Bah Gunung"
+    "name": "Bah Gunung",
+    "postal_code": "21184"
   },
   {
     "code": "1208222003",
     "district_code": "120822",
-    "name": "Bandar Tonga"
+    "name": "Bandar Tonga",
+    "postal_code": "21184"
   },
   {
     "code": "1208222004",
     "district_code": "120822",
-    "name": "Dolok Parmonangan"
+    "name": "Dolok Parmonangan",
+    "postal_code": "21184"
   },
   {
     "code": "1208222005",
     "district_code": "120822",
-    "name": "Laras"
+    "name": "Laras",
+    "postal_code": "21184"
   },
   {
     "code": "1208222006",
     "district_code": "120822",
-    "name": "Naga Jaya II"
+    "name": "Naga Jaya II",
+    "postal_code": "21184"
   },
   {
     "code": "1208222007",
     "district_code": "120822",
-    "name": "Tanjung Hataran"
+    "name": "Tanjung Hataran",
+    "postal_code": "21184"
   },
   {
     "code": "1208222008",
     "district_code": "120822",
-    "name": "Bandar Betsy I"
+    "name": "Bandar Betsy I",
+    "postal_code": "21184"
   },
   {
     "code": "1208222009",
     "district_code": "120822",
-    "name": "Bandar Betsy II"
+    "name": "Bandar Betsy II",
+    "postal_code": "21184"
   },
   {
     "code": "1208222010",
     "district_code": "120822",
-    "name": "Naga Soppa"
+    "name": "Naga Soppa",
+    "postal_code": "21184"
   }
 ]

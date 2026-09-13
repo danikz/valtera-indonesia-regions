@@ -2,56 +2,67 @@
   {
     "code": "1211102001",
     "district_code": "121110",
-    "name": "Bangun"
+    "name": "Bangun",
+    "postal_code": "22282"
   },
   {
     "code": "1211102002",
     "district_code": "121110",
-    "name": "Lae Hole"
+    "name": "Lae Hole",
+    "postal_code": "22282"
   },
   {
     "code": "1211102003",
     "district_code": "121110",
-    "name": "Parbuluan IV"
+    "name": "Parbuluan IV",
+    "postal_code": "22282"
   },
   {
     "code": "1211102004",
     "district_code": "121110",
-    "name": "Parbuluan III"
+    "name": "Parbuluan III",
+    "postal_code": "22282"
   },
   {
     "code": "1211102005",
     "district_code": "121110",
-    "name": "Parbuluan II"
+    "name": "Parbuluan II",
+    "postal_code": "22282"
   },
   {
     "code": "1211102006",
     "district_code": "121110",
-    "name": "Parbuluan I"
+    "name": "Parbuluan I",
+    "postal_code": "22282"
   },
   {
     "code": "1211102007",
     "district_code": "121110",
-    "name": "Parbuluan V"
+    "name": "Parbuluan V",
+    "postal_code": "22282"
   },
   {
     "code": "1211102008",
     "district_code": "121110",
-    "name": "Parbuluan VI"
+    "name": "Parbuluan VI",
+    "postal_code": "22282"
   },
   {
     "code": "1211102009",
     "district_code": "121110",
-    "name": "Lae Hole I"
+    "name": "Lae Hole I",
+    "postal_code": "22282"
   },
   {
     "code": "1211102010",
     "district_code": "121110",
-    "name": "Lae Hole II"
+    "name": "Lae Hole II",
+    "postal_code": "22282"
   },
   {
     "code": "1211102011",
     "district_code": "121110",
-    "name": "Bangun I"
+    "name": "Bangun I",
+    "postal_code": "22282"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "9503132001",
     "district_code": "950313",
-    "name": "Pasema"
+    "name": "Pasema",
+    "postal_code": "99709"
   },
   {
     "code": "9503132002",
     "district_code": "950313",
-    "name": "Leinoko"
+    "name": "Leinoko",
+    "postal_code": "99709"
   },
   {
     "code": "9503132003",
     "district_code": "950313",
-    "name": "Lowet"
+    "name": "Lowet",
+    "postal_code": "99709"
   },
   {
     "code": "9503132004",
     "district_code": "950313",
-    "name": "Wea"
+    "name": "Wea",
+    "postal_code": "99709"
   },
   {
     "code": "9503132005",
     "district_code": "950313",
-    "name": "Sengangge"
+    "name": "Sengangge",
+    "postal_code": "99709"
   },
   {
     "code": "9503132006",
     "district_code": "950313",
-    "name": "Wulin"
+    "name": "Wulin",
+    "postal_code": "99709"
   },
   {
     "code": "9503132007",
     "district_code": "950313",
-    "name": "Pupi"
+    "name": "Pupi",
+    "postal_code": "99709"
   }
 ]

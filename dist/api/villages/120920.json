@@ -2,61 +2,73 @@
   {
     "code": "1209201001",
     "district_code": "120920",
-    "name": "Teladan"
+    "name": "Teladan",
+    "postal_code": "21222"
   },
   {
     "code": "1209201002",
     "district_code": "120920",
-    "name": "Siumbut Umbut"
+    "name": "Siumbut Umbut",
+    "postal_code": "21225"
   },
   {
     "code": "1209201003",
     "district_code": "120920",
-    "name": "Siumbut Baru"
+    "name": "Siumbut Baru",
+    "postal_code": "21226"
   },
   {
     "code": "1209201004",
     "district_code": "120920",
-    "name": "Sentang"
+    "name": "Sentang",
+    "postal_code": "21224"
   },
   {
     "code": "1209201005",
     "district_code": "120920",
-    "name": "Selawan"
+    "name": "Selawan",
+    "postal_code": "21228"
   },
   {
     "code": "1209201006",
     "district_code": "120920",
-    "name": "Mutiara"
+    "name": "Mutiara",
+    "postal_code": "21223"
   },
   {
     "code": "1209201007",
     "district_code": "120920",
-    "name": "Lestari"
+    "name": "Lestari",
+    "postal_code": "21221"
   },
   {
     "code": "1209201008",
     "district_code": "120920",
-    "name": "Kisaran Timur"
+    "name": "Kisaran Timur",
+    "postal_code": "21222"
   },
   {
     "code": "1209201009",
     "district_code": "120920",
-    "name": "Kisaran Naga"
+    "name": "Kisaran Naga",
+    "postal_code": "21219"
   },
   {
     "code": "1209201010",
     "district_code": "120920",
-    "name": "Kedai Ledang"
+    "name": "Kedai Ledang",
+    "postal_code": "21227"
   },
   {
     "code": "1209201011",
     "district_code": "120920",
-    "name": "Karang Anyer"
+    "name": "Karang Anyer",
+    "postal_code": "21229"
   },
   {
     "code": "1209201012",
     "district_code": "120920",
-    "name": "Gambir Baru"
+    "name": "Gambir Baru",
+    "postal_code": "21221"
   }
 ]

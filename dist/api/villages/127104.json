@@ -2,31 +2,37 @@
   {
     "code": "1271041001",
     "district_code": "127104",
-    "name": "Tegal S Mandala I"
+    "name": "Tegal S Mandala I",
+    "postal_code": "20226"
   },
   {
     "code": "1271041002",
     "district_code": "127104",
-    "name": "Tegal S Mandala II"
+    "name": "Tegal S Mandala II",
+    "postal_code": "20226"
   },
   {
     "code": "1271041003",
     "district_code": "127104",
-    "name": "Tegal S Mandala III"
+    "name": "Tegal S Mandala III",
+    "postal_code": "20226"
   },
   {
     "code": "1271041004",
     "district_code": "127104",
-    "name": "Denai"
+    "name": "Denai",
+    "postal_code": "20227"
   },
   {
     "code": "1271041005",
     "district_code": "127104",
-    "name": "Binjai"
+    "name": "Binjai",
+    "postal_code": "20228"
   },
   {
     "code": "1271041006",
     "district_code": "127104",
-    "name": "Medan Tenggara"
+    "name": "Medan Tenggara",
+    "postal_code": "20228"
   }
 ]

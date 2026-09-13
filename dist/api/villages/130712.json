@@ -2,26 +2,31 @@
   {
     "code": "1307122001",
     "district_code": "130712",
-    "name": "Maek"
+    "name": "Maek",
+    "postal_code": "26257"
   },
   {
     "code": "1307122002",
     "district_code": "130712",
-    "name": "Banja Loweh"
+    "name": "Banja Loweh",
+    "postal_code": "26257"
   },
   {
     "code": "1307122003",
     "district_code": "130712",
-    "name": "Baruah Gunuang"
+    "name": "Baruah Gunuang",
+    "postal_code": "26257"
   },
   {
     "code": "1307122004",
     "district_code": "130712",
-    "name": "Sungai Naniang"
+    "name": "Sungai Naniang",
+    "postal_code": "26257"
   },
   {
     "code": "1307122005",
     "district_code": "130712",
-    "name": "Koto Tangah"
+    "name": "Koto Tangah",
+    "postal_code": "26257"
   }
 ]

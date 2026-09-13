@@ -2,26 +2,31 @@
   {
     "code": "7202252001",
     "district_code": "720225",
-    "name": "Watutau"
+    "name": "Watutau",
+    "postal_code": "94653"
   },
   {
     "code": "7202252002",
     "district_code": "720225",
-    "name": "Betue"
+    "name": "Betue",
+    "postal_code": "94653"
   },
   {
     "code": "7202252003",
     "district_code": "720225",
-    "name": "Talabosa"
+    "name": "Talabosa",
+    "postal_code": "94653"
   },
   {
     "code": "7202252004",
     "district_code": "720225",
-    "name": "Wanga"
+    "name": "Wanga",
+    "postal_code": "94653"
   },
   {
     "code": "7202252005",
     "district_code": "720225",
-    "name": "Siliwanga"
+    "name": "Siliwanga",
+    "postal_code": "94653"
   }
 ]

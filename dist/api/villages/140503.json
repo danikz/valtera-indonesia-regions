@@ -2,86 +2,103 @@
   {
     "code": "1405031001",
     "district_code": "140503",
-    "name": "Sorek I"
+    "name": "Sorek I",
+    "postal_code": "28382"
   },
   {
     "code": "1405032002",
     "district_code": "140503",
-    "name": "Sorek II"
+    "name": "Sorek II",
+    "postal_code": "28382"
   },
   {
     "code": "1405032003",
     "district_code": "140503",
-    "name": "Dundangan"
+    "name": "Dundangan",
+    "postal_code": "28382"
   },
   {
     "code": "1405032004",
     "district_code": "140503",
-    "name": "Palas"
+    "name": "Palas",
+    "postal_code": "28382"
   },
   {
     "code": "1405032005",
     "district_code": "140503",
-    "name": "Terantang Manuk"
+    "name": "Terantang Manuk",
+    "postal_code": "28382"
   },
   {
     "code": "1405032006",
     "district_code": "140503",
-    "name": "Kemang"
+    "name": "Kemang",
+    "postal_code": "28382"
   },
   {
     "code": "1405032007",
     "district_code": "140503",
-    "name": "Talau"
+    "name": "Talau",
+    "postal_code": "28382"
   },
   {
     "code": "1405032008",
     "district_code": "140503",
-    "name": "Tanjung Beringin"
+    "name": "Tanjung Beringin",
+    "postal_code": "28382"
   },
   {
     "code": "1405032009",
     "district_code": "140503",
-    "name": "Betung"
+    "name": "Betung",
+    "postal_code": "28382"
   },
   {
     "code": "1405032010",
     "district_code": "140503",
-    "name": "Kesuma"
+    "name": "Kesuma",
+    "postal_code": "28382"
   },
   {
     "code": "1405032011",
     "district_code": "140503",
-    "name": "Surya Indah"
+    "name": "Surya Indah",
+    "postal_code": "28382"
   },
   {
     "code": "1405032012",
     "district_code": "140503",
-    "name": "Sialang Indah"
+    "name": "Sialang Indah",
+    "postal_code": "28382"
   },
   {
     "code": "1405032013",
     "district_code": "140503",
-    "name": "Beringin Indah"
+    "name": "Beringin Indah",
+    "postal_code": "28382"
   },
   {
     "code": "1405032014",
     "district_code": "140503",
-    "name": "Meranti"
+    "name": "Meranti",
+    "postal_code": "28382"
   },
   {
     "code": "1405032015",
     "district_code": "140503",
-    "name": "Harapan Jaya"
+    "name": "Harapan Jaya",
+    "postal_code": "28382"
   },
   {
     "code": "1405032016",
     "district_code": "140503",
-    "name": "Batang Kulim"
+    "name": "Batang Kulim",
+    "postal_code": "28382"
   },
   {
     "code": "1405032017",
     "district_code": "140503",
-    "name": "Sidomukti"
+    "name": "Sidomukti",
+    "postal_code": "28382"
   }
 ]

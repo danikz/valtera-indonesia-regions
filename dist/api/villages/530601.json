@@ -2,56 +2,67 @@
   {
     "code": "5306012001",
     "district_code": "530601",
-    "name": "Ojandetun"
+    "name": "Ojandetun",
+    "postal_code": "86256"
   },
   {
     "code": "5306012002",
     "district_code": "530601",
-    "name": "Hewa"
+    "name": "Hewa",
+    "postal_code": "86256"
   },
   {
     "code": "5306012003",
     "district_code": "530601",
-    "name": "Waiula"
+    "name": "Waiula",
+    "postal_code": "86256"
   },
   {
     "code": "5306012007",
     "district_code": "530601",
-    "name": "Nawokote"
+    "name": "Nawokote",
+    "postal_code": "86256"
   },
   {
     "code": "5306012008",
     "district_code": "530601",
-    "name": "Boru"
+    "name": "Boru",
+    "postal_code": "86256"
   },
   {
     "code": "5306012009",
     "district_code": "530601",
-    "name": "Pululera"
+    "name": "Pululera",
+    "postal_code": "86256"
   },
   {
     "code": "5306012011",
     "district_code": "530601",
-    "name": "Nileknoheng"
+    "name": "Nileknoheng",
+    "postal_code": "86256"
   },
   {
     "code": "5306012012",
     "district_code": "530601",
-    "name": "Hokeng Jaya"
+    "name": "Hokeng Jaya",
+    "postal_code": "86256"
   },
   {
     "code": "5306012013",
     "district_code": "530601",
-    "name": "Pantai Oa"
+    "name": "Pantai Oa",
+    "postal_code": "86256"
   },
   {
     "code": "5306012014",
     "district_code": "530601",
-    "name": "Boru Kedang"
+    "name": "Boru Kedang",
+    "postal_code": "86256"
   },
   {
     "code": "5306012021",
     "district_code": "530601",
-    "name": "Klatanlo"
+    "name": "Klatanlo",
+    "postal_code": "86256"
   }
 ]

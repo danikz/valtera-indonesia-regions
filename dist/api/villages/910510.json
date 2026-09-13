@@ -2,91 +2,109 @@
   {
     "code": "9105102001",
     "district_code": "910510",
-    "name": "Ambai I"
+    "name": "Ambai I",
+    "postal_code": "98653"
   },
   {
     "code": "9105102002",
     "district_code": "910510",
-    "name": "Saweru"
+    "name": "Saweru",
+    "postal_code": ""
   },
   {
     "code": "9105102004",
     "district_code": "910510",
-    "name": "Kawipi"
+    "name": "Kawipi",
+    "postal_code": "98653"
   },
   {
     "code": "9105102005",
     "district_code": "910510",
-    "name": "Wamori"
+    "name": "Wamori",
+    "postal_code": "98653"
   },
   {
     "code": "9105102006",
     "district_code": "910510",
-    "name": "Adiwipi"
+    "name": "Adiwipi",
+    "postal_code": "98653"
   },
   {
     "code": "9105102007",
     "district_code": "910510",
-    "name": "Umani"
+    "name": "Umani",
+    "postal_code": ""
   },
   {
     "code": "9105102008",
     "district_code": "910510",
-    "name": "Ambai II"
+    "name": "Ambai II",
+    "postal_code": "98653"
   },
   {
     "code": "9105102009",
     "district_code": "910510",
-    "name": "Mambawi"
+    "name": "Mambawi",
+    "postal_code": "98653"
   },
   {
     "code": "9105102010",
     "district_code": "910510",
-    "name": "Baisore"
+    "name": "Baisore",
+    "postal_code": "98653"
   },
   {
     "code": "9105102011",
     "district_code": "910510",
-    "name": "Rondepi"
+    "name": "Rondepi",
+    "postal_code": "98653"
   },
   {
     "code": "9105102012",
     "district_code": "910510",
-    "name": "Dorau"
+    "name": "Dorau",
+    "postal_code": ""
   },
   {
     "code": "9105102013",
     "district_code": "910510",
-    "name": "Perea"
+    "name": "Perea",
+    "postal_code": ""
   },
   {
     "code": "9105102014",
     "district_code": "910510",
-    "name": "Imboriawa"
+    "name": "Imboriawa",
+    "postal_code": "98653"
   },
   {
     "code": "9105102015",
     "district_code": "910510",
-    "name": "Bairei"
+    "name": "Bairei",
+    "postal_code": "98653"
   },
   {
     "code": "9105102016",
     "district_code": "910510",
-    "name": "Aiwaraggani"
+    "name": "Aiwaraggani",
+    "postal_code": "98653"
   },
   {
     "code": "9105102017",
     "district_code": "910510",
-    "name": "Toroa"
+    "name": "Toroa",
+    "postal_code": "98653"
   },
   {
     "code": "9105102018",
     "district_code": "910510",
-    "name": "Nuniandei"
+    "name": "Nuniandei",
+    "postal_code": ""
   },
   {
     "code": "9105102019",
     "district_code": "910510",
-    "name": "Marawi"
+    "name": "Marawi",
+    "postal_code": "98653"
   }
 ]

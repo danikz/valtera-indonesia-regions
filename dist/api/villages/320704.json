@@ -2,41 +2,49 @@
   {
     "code": "3207042001",
     "district_code": "320704",
-    "name": "Gunungsari"
+    "name": "Gunungsari",
+    "postal_code": "46256"
   },
   {
     "code": "3207042002",
     "district_code": "320704",
-    "name": "Sadananya"
+    "name": "Sadananya",
+    "postal_code": "46256"
   },
   {
     "code": "3207042003",
     "district_code": "320704",
-    "name": "Werasari"
+    "name": "Werasari",
+    "postal_code": "46256"
   },
   {
     "code": "3207042004",
     "district_code": "320704",
-    "name": "Mangkubumi"
+    "name": "Mangkubumi",
+    "postal_code": "46256"
   },
   {
     "code": "3207042005",
     "district_code": "320704",
-    "name": "Tanjungsari"
+    "name": "Tanjungsari",
+    "postal_code": "46256"
   },
   {
     "code": "3207042006",
     "district_code": "320704",
-    "name": "Bendasari"
+    "name": "Bendasari",
+    "postal_code": "46256"
   },
   {
     "code": "3207042007",
     "district_code": "320704",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "46256"
   },
   {
     "code": "3207042008",
     "district_code": "320704",
-    "name": "Mekarjadi"
+    "name": "Mekarjadi",
+    "postal_code": "46256"
   }
 ]

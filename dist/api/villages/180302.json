@@ -2,66 +2,79 @@
   {
     "code": "1803021001",
     "district_code": "180302",
-    "name": "Kotabumi Udik"
+    "name": "Kotabumi Udik",
+    "postal_code": "34518"
   },
   {
     "code": "1803021002",
     "district_code": "180302",
-    "name": "Cempedak"
+    "name": "Cempedak",
+    "postal_code": "34516"
   },
   {
     "code": "1803021003",
     "district_code": "180302",
-    "name": "Rejo Sari"
+    "name": "Rejo Sari",
+    "postal_code": "34514"
   },
   {
     "code": "1803021004",
     "district_code": "180302",
-    "name": "Kotabumi Tengah"
+    "name": "Kotabumi Tengah",
+    "postal_code": "34516"
   },
   {
     "code": "1803021005",
     "district_code": "180302",
-    "name": "Kotabumi Pasar"
+    "name": "Kotabumi Pasar",
+    "postal_code": "34518"
   },
   {
     "code": "1803021006",
     "district_code": "180302",
-    "name": "Kotabumi Ilir"
+    "name": "Kotabumi Ilir",
+    "postal_code": "34517"
   },
   {
     "code": "1803021007",
     "district_code": "180302",
-    "name": "Sindang Sari"
+    "name": "Sindang Sari",
+    "postal_code": "34517"
   },
   {
     "code": "1803021008",
     "district_code": "180302",
-    "name": "Sri Basuki"
+    "name": "Sri Basuki",
+    "postal_code": "34515"
   },
   {
     "code": "1803021009",
     "district_code": "180302",
-    "name": "Kota Gapura"
+    "name": "Kota Gapura",
+    "postal_code": "34511"
   },
   {
     "code": "1803022010",
     "district_code": "180302",
-    "name": "Talang Bojong"
+    "name": "Talang Bojong",
+    "postal_code": "34511"
   },
   {
     "code": "1803022011",
     "district_code": "180302",
-    "name": "Sumber Arum"
+    "name": "Sumber Arum",
+    "postal_code": "34511"
   },
   {
     "code": "1803022012",
     "district_code": "180302",
-    "name": "Bojong Barat"
+    "name": "Bojong Barat",
+    "postal_code": "34511"
   },
   {
     "code": "1803022013",
     "district_code": "180302",
-    "name": "Kotabumi Tengah Barat"
+    "name": "Kotabumi Tengah Barat",
+    "postal_code": "34516"
   }
 ]

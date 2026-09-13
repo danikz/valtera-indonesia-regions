@@ -2,91 +2,109 @@
   {
     "code": "1104172001",
     "district_code": "110417",
-    "name": "Takengon Timur"
+    "name": "Takengon Timur",
+    "postal_code": "24511"
   },
   {
     "code": "1104172002",
     "district_code": "110417",
-    "name": "Asir Asir"
+    "name": "Asir Asir",
+    "postal_code": "24513"
   },
   {
     "code": "1104172003",
     "district_code": "110417",
-    "name": "Asir Asir Asia"
+    "name": "Asir Asir Asia",
+    "postal_code": "24512"
   },
   {
     "code": "1104172004",
     "district_code": "110417",
-    "name": "Bale Atu"
+    "name": "Bale Atu",
+    "postal_code": "24512"
   },
   {
     "code": "1104172005",
     "district_code": "110417",
-    "name": "Bujang"
+    "name": "Bujang",
+    "postal_code": "24512"
   },
   {
     "code": "1104172006",
     "district_code": "110417",
-    "name": "Gunung Suku"
+    "name": "Gunung Suku",
+    "postal_code": "24512"
   },
   {
     "code": "1104172007",
     "district_code": "110417",
-    "name": "Hakim Bale Bujang"
+    "name": "Hakim Bale Bujang",
+    "postal_code": "24513"
   },
   {
     "code": "1104172008",
     "district_code": "110417",
-    "name": "Kenawat"
+    "name": "Kenawat",
+    "postal_code": "24515"
   },
   {
     "code": "1104172009",
     "district_code": "110417",
-    "name": "Kuteni Reje"
+    "name": "Kuteni Reje",
+    "postal_code": "24512"
   },
   {
     "code": "1104172010",
     "district_code": "110417",
-    "name": "Pedemun One One"
+    "name": "Pedemun One One",
+    "postal_code": "24515"
   },
   {
     "code": "1104172011",
     "district_code": "110417",
-    "name": "Rawe"
+    "name": "Rawe",
+    "postal_code": "24516"
   },
   {
     "code": "1104172012",
     "district_code": "110417",
-    "name": "Takengon Barat"
+    "name": "Takengon Barat",
+    "postal_code": "24514"
   },
   {
     "code": "1104172013",
     "district_code": "110417",
-    "name": "Toweren Antara"
+    "name": "Toweren Antara",
+    "postal_code": "24516"
   },
   {
     "code": "1104172014",
     "district_code": "110417",
-    "name": "Toweran Toa"
+    "name": "Toweran Toa",
+    "postal_code": "24516"
   },
   {
     "code": "1104172015",
     "district_code": "110417",
-    "name": "Toweren Uken"
+    "name": "Toweren Uken",
+    "postal_code": "24516"
   },
   {
     "code": "1104172016",
     "district_code": "110417",
-    "name": "Teluk One-One"
+    "name": "Teluk One-One",
+    "postal_code": "24515"
   },
   {
     "code": "1104172017",
     "district_code": "110417",
-    "name": "Merah Mersa"
+    "name": "Merah Mersa",
+    "postal_code": "24516"
   },
   {
     "code": "1104172018",
     "district_code": "110417",
-    "name": "Waq Toweren"
+    "name": "Waq Toweren",
+    "postal_code": "24516"
   }
 ]

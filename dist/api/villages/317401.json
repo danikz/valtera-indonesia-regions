@@ -2,36 +2,43 @@
   {
     "code": "3174011001",
     "district_code": "317401",
-    "name": "Tebet Timur"
+    "name": "Tebet Timur",
+    "postal_code": "12820"
   },
   {
     "code": "3174011002",
     "district_code": "317401",
-    "name": "Tebet Barat"
+    "name": "Tebet Barat",
+    "postal_code": "12810"
   },
   {
     "code": "3174011003",
     "district_code": "317401",
-    "name": "Menteng Dalam"
+    "name": "Menteng Dalam",
+    "postal_code": "12870"
   },
   {
     "code": "3174011004",
     "district_code": "317401",
-    "name": "Kebon Baru"
+    "name": "Kebon Baru",
+    "postal_code": "12830"
   },
   {
     "code": "3174011005",
     "district_code": "317401",
-    "name": "Bukit Duri"
+    "name": "Bukit Duri",
+    "postal_code": "12840"
   },
   {
     "code": "3174011006",
     "district_code": "317401",
-    "name": "Manggarai Selatan"
+    "name": "Manggarai Selatan",
+    "postal_code": "12860"
   },
   {
     "code": "3174011007",
     "district_code": "317401",
-    "name": "Manggarai"
+    "name": "Manggarai",
+    "postal_code": "12850"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "2171031001",
     "district_code": "217103",
-    "name": "Sungai Harapan"
+    "name": "Sungai Harapan",
+    "postal_code": "29428"
   },
   {
     "code": "2171031002",
     "district_code": "217103",
-    "name": "Tanjung Pinggir"
+    "name": "Tanjung Pinggir",
+    "postal_code": "29428"
   },
   {
     "code": "2171031003",
     "district_code": "217103",
-    "name": "Tanjung Riau"
+    "name": "Tanjung Riau",
+    "postal_code": "29425"
   },
   {
     "code": "2171031005",
     "district_code": "217103",
-    "name": "Tiban Indah"
+    "name": "Tiban Indah",
+    "postal_code": "29426"
   },
   {
     "code": "2171031006",
     "district_code": "217103",
-    "name": "Tiban Baru"
+    "name": "Tiban Baru",
+    "postal_code": "29426"
   },
   {
     "code": "2171031007",
     "district_code": "217103",
-    "name": "Tiban Lama"
+    "name": "Tiban Lama",
+    "postal_code": "29425"
   },
   {
     "code": "2171031008",
     "district_code": "217103",
-    "name": "Patam Lestari"
+    "name": "Patam Lestari",
+    "postal_code": "29427"
   }
 ]

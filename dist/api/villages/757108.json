@@ -2,26 +2,31 @@
   {
     "code": "7571081001",
     "district_code": "757108",
-    "name": "Leato Utara"
+    "name": "Leato Utara",
+    "postal_code": "96119"
   },
   {
     "code": "7571081002",
     "district_code": "757108",
-    "name": "Leato Selatan"
+    "name": "Leato Selatan",
+    "postal_code": "96119"
   },
   {
     "code": "7571081003",
     "district_code": "757108",
-    "name": "Talumolo"
+    "name": "Talumolo",
+    "postal_code": "96118"
   },
   {
     "code": "7571081004",
     "district_code": "757108",
-    "name": "Botu"
+    "name": "Botu",
+    "postal_code": "96118"
   },
   {
     "code": "7571081005",
     "district_code": "757108",
-    "name": "Bugis"
+    "name": "Bugis",
+    "postal_code": "96112"
   }
 ]

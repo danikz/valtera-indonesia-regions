@@ -2,36 +2,43 @@
   {
     "code": "1803222001",
     "district_code": "180322",
-    "name": "Aji Kagungan"
+    "name": "Aji Kagungan",
+    "postal_code": "34565"
   },
   {
     "code": "1803222002",
     "district_code": "180322",
-    "name": "Talang Jembatan"
+    "name": "Talang Jembatan",
+    "postal_code": "34565"
   },
   {
     "code": "1803222003",
     "district_code": "180322",
-    "name": "Sabuk Empat"
+    "name": "Sabuk Empat",
+    "postal_code": "34565"
   },
   {
     "code": "1803222004",
     "district_code": "180322",
-    "name": "Beringin"
+    "name": "Beringin",
+    "postal_code": "34565"
   },
   {
     "code": "1803222005",
     "district_code": "180322",
-    "name": "Sabuk Indah"
+    "name": "Sabuk Indah",
+    "postal_code": "34565"
   },
   {
     "code": "1803222006",
     "district_code": "180322",
-    "name": "Bindu"
+    "name": "Bindu",
+    "postal_code": "34565"
   },
   {
     "code": "1803222007",
     "district_code": "180322",
-    "name": "Way Perancang"
+    "name": "Way Perancang",
+    "postal_code": "34565"
   }
 ]

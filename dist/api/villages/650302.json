@@ -2,26 +2,31 @@
   {
     "code": "6503021001",
     "district_code": "650302",
-    "name": "Nunukan Timur"
+    "name": "Nunukan Timur",
+    "postal_code": "77482"
   },
   {
     "code": "6503021002",
     "district_code": "650302",
-    "name": "Nunukan Barat"
+    "name": "Nunukan Barat",
+    "postal_code": "77482"
   },
   {
     "code": "6503021003",
     "district_code": "650302",
-    "name": "Nunukan Utara"
+    "name": "Nunukan Utara",
+    "postal_code": "77482"
   },
   {
     "code": "6503021005",
     "district_code": "650302",
-    "name": "Nunukan Tengah"
+    "name": "Nunukan Tengah",
+    "postal_code": "77482"
   },
   {
     "code": "6503022004",
     "district_code": "650302",
-    "name": "Binusan"
+    "name": "Binusan",
+    "postal_code": "77482"
   }
 ]

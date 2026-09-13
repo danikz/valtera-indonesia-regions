@@ -2,36 +2,43 @@
   {
     "code": "1276051001",
     "district_code": "127605",
-    "name": "Mandailing"
+    "name": "Mandailing",
+    "postal_code": "20626"
   },
   {
     "code": "1276051002",
     "district_code": "127605",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "20627"
   },
   {
     "code": "1276051003",
     "district_code": "127605",
-    "name": "Pasar Gambir"
+    "name": "Pasar Gambir",
+    "postal_code": "20628"
   },
   {
     "code": "1276051004",
     "district_code": "127605",
-    "name": "Badak Bejuang"
+    "name": "Badak Bejuang",
+    "postal_code": "20615"
   },
   {
     "code": "1276051005",
     "district_code": "127605",
-    "name": "Bandar Utama"
+    "name": "Bandar Utama",
+    "postal_code": "20613"
   },
   {
     "code": "1276051006",
     "district_code": "127605",
-    "name": "Rambung"
+    "name": "Rambung",
+    "postal_code": "20633"
   },
   {
     "code": "1276051007",
     "district_code": "127605",
-    "name": "Tebing Tinggi Lama"
+    "name": "Tebing Tinggi Lama",
+    "postal_code": "20632"
   }
 ]

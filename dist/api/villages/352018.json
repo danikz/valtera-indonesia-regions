@@ -2,51 +2,61 @@
   {
     "code": "3520182001",
     "district_code": "352018",
-    "name": "Sambirobyong"
+    "name": "Sambirobyong",
+    "postal_code": "63319"
   },
   {
     "code": "3520182002",
     "district_code": "352018",
-    "name": "Campursari"
+    "name": "Campursari",
+    "postal_code": "63319"
   },
   {
     "code": "3520182003",
     "district_code": "352018",
-    "name": "Kalang"
+    "name": "Kalang",
+    "postal_code": "63319"
   },
   {
     "code": "3520182004",
     "district_code": "352018",
-    "name": "Durenan"
+    "name": "Durenan",
+    "postal_code": "63361"
   },
   {
     "code": "3520182005",
     "district_code": "352018",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "63361"
   },
   {
     "code": "3520182006",
     "district_code": "352018",
-    "name": "Getasanyar"
+    "name": "Getasanyar",
+    "postal_code": "63361"
   },
   {
     "code": "3520182007",
     "district_code": "352018",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "63361"
   },
   {
     "code": "3520182008",
     "district_code": "352018",
-    "name": "Sumbersawit"
+    "name": "Sumbersawit",
+    "postal_code": "63352"
   },
   {
     "code": "3520182009",
     "district_code": "352018",
-    "name": "Sidokerto"
+    "name": "Sidokerto",
+    "postal_code": "63352"
   },
   {
     "code": "3520182010",
     "district_code": "352018",
-    "name": "Widorokandang"
+    "name": "Widorokandang",
+    "postal_code": "63352"
   }
 ]

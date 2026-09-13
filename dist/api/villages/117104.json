@@ -2,51 +2,61 @@
   {
     "code": "1171042001",
     "district_code": "117104",
-    "name": "Jeulingke"
+    "name": "Jeulingke",
+    "postal_code": "23114"
   },
   {
     "code": "1171042002",
     "district_code": "117104",
-    "name": "Tibang"
+    "name": "Tibang",
+    "postal_code": "23114"
   },
   {
     "code": "1171042003",
     "district_code": "117104",
-    "name": "Deah Raya"
+    "name": "Deah Raya",
+    "postal_code": "23116"
   },
   {
     "code": "1171042004",
     "district_code": "117104",
-    "name": "Alue Naga"
+    "name": "Alue Naga",
+    "postal_code": "23116"
   },
   {
     "code": "1171042005",
     "district_code": "117104",
-    "name": "Ie Masen Kayee Adang"
+    "name": "Ie Masen Kayee Adang",
+    "postal_code": "23116"
   },
   {
     "code": "1171042006",
     "district_code": "117104",
-    "name": "Pineung"
+    "name": "Pineung",
+    "postal_code": "23116"
   },
   {
     "code": "1171042007",
     "district_code": "117104",
-    "name": "Lamgugob"
+    "name": "Lamgugob",
+    "postal_code": "23115"
   },
   {
     "code": "1171042008",
     "district_code": "117104",
-    "name": "Kopelma Darussalam"
+    "name": "Kopelma Darussalam",
+    "postal_code": "23111"
   },
   {
     "code": "1171042009",
     "district_code": "117104",
-    "name": "Rukoh"
+    "name": "Rukoh",
+    "postal_code": "23112"
   },
   {
     "code": "1171042010",
     "district_code": "117104",
-    "name": "Peurada"
+    "name": "Peurada",
+    "postal_code": "23116"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1507071001",
     "district_code": "150707",
-    "name": "Kampung Singkep"
+    "name": "Kampung Singkep",
+    "postal_code": "36761"
   },
   {
     "code": "1507071002",
     "district_code": "150707",
-    "name": "Nibung Putih"
+    "name": "Nibung Putih",
+    "postal_code": "36761"
   },
   {
     "code": "1507071003",
     "district_code": "150707",
-    "name": "Rano"
+    "name": "Rano",
+    "postal_code": "36761"
   },
   {
     "code": "1507071004",
     "district_code": "150707",
-    "name": "Talang Babat"
+    "name": "Talang Babat",
+    "postal_code": "36761"
   },
   {
     "code": "1507071005",
     "district_code": "150707",
-    "name": "Parit Culum I"
+    "name": "Parit Culum I",
+    "postal_code": "36761"
   },
   {
     "code": "1507071006",
     "district_code": "150707",
-    "name": "Parit Culum II"
+    "name": "Parit Culum II",
+    "postal_code": "36761"
   },
   {
     "code": "1507071007",
     "district_code": "150707",
-    "name": "Telukdawan"
+    "name": "Telukdawan",
+    "postal_code": "36761"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "9507122001",
     "district_code": "950712",
-    "name": "Yirene"
+    "name": "Yirene",
+    "postal_code": "99592"
   },
   {
     "code": "9507122002",
     "district_code": "950712",
-    "name": "Yogobak"
+    "name": "Yogobak",
+    "postal_code": "99592"
   },
   {
     "code": "9507122003",
     "district_code": "950712",
-    "name": "Kwenukwi"
+    "name": "Kwenukwi",
+    "postal_code": "99592"
   },
   {
     "code": "9507122004",
     "district_code": "950712",
-    "name": "Libungga"
+    "name": "Libungga",
+    "postal_code": "99592"
   },
   {
     "code": "9507122005",
     "district_code": "950712",
-    "name": "Unom"
+    "name": "Unom",
+    "postal_code": "99592"
   },
   {
     "code": "9507122006",
     "district_code": "950712",
-    "name": "Wimolome"
+    "name": "Wimolome",
+    "postal_code": "99592"
   },
   {
     "code": "9507122007",
     "district_code": "950712",
-    "name": "Weneogun"
+    "name": "Weneogun",
+    "postal_code": "99592"
   },
   {
     "code": "9507122008",
     "district_code": "950712",
-    "name": "Berangwi"
+    "name": "Berangwi",
+    "postal_code": "99592"
   }
 ]

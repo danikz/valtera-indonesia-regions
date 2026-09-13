@@ -2,46 +2,55 @@
   {
     "code": "3214122001",
     "district_code": "321412",
-    "name": "Cilangkap"
+    "name": "Cilangkap",
+    "postal_code": "41151"
   },
   {
     "code": "3214122002",
     "district_code": "321412",
-    "name": "Cicadas"
+    "name": "Cicadas",
+    "postal_code": "41151"
   },
   {
     "code": "3214122003",
     "district_code": "321412",
-    "name": "Hegarmanah"
+    "name": "Hegarmanah",
+    "postal_code": "41151"
   },
   {
     "code": "3214122004",
     "district_code": "321412",
-    "name": "Babakancikao"
+    "name": "Babakancikao",
+    "postal_code": "41151"
   },
   {
     "code": "3214122005",
     "district_code": "321412",
-    "name": "Kadumekar"
+    "name": "Kadumekar",
+    "postal_code": "41151"
   },
   {
     "code": "3214122006",
     "district_code": "321412",
-    "name": "Marancang"
+    "name": "Marancang",
+    "postal_code": "41151"
   },
   {
     "code": "3214122007",
     "district_code": "321412",
-    "name": "Ciwareng"
+    "name": "Ciwareng",
+    "postal_code": "41151"
   },
   {
     "code": "3214122008",
     "district_code": "321412",
-    "name": "Mulyamekar"
+    "name": "Mulyamekar",
+    "postal_code": "41151"
   },
   {
     "code": "3214122009",
     "district_code": "321412",
-    "name": "Cigelam"
+    "name": "Cigelam",
+    "postal_code": "41151"
   }
 ]

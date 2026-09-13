@@ -2,21 +2,25 @@
   {
     "code": "1311012001",
     "district_code": "131101",
-    "name": "Lubuk Gadang"
+    "name": "Lubuk Gadang",
+    "postal_code": "27778"
   },
   {
     "code": "1311012002",
     "district_code": "131101",
-    "name": "Lubuk Gadang Timur"
+    "name": "Lubuk Gadang Timur",
+    "postal_code": "27778"
   },
   {
     "code": "1311012003",
     "district_code": "131101",
-    "name": "Lubuk Gadang Selatan"
+    "name": "Lubuk Gadang Selatan",
+    "postal_code": "27778"
   },
   {
     "code": "1311012004",
     "district_code": "131101",
-    "name": "Lubuk Gadang Utara"
+    "name": "Lubuk Gadang Utara",
+    "postal_code": "27778"
   }
 ]

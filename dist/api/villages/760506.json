@@ -2,36 +2,43 @@
   {
     "code": "7605062001",
     "district_code": "760506",
-    "name": "Seppong"
+    "name": "Seppong",
+    "postal_code": "91450"
   },
   {
     "code": "7605062002",
     "district_code": "760506",
-    "name": "Tammerodo"
+    "name": "Tammerodo",
+    "postal_code": "91450"
   },
   {
     "code": "7605062003",
     "district_code": "760506",
-    "name": "Ulidang"
+    "name": "Ulidang",
+    "postal_code": "91450"
   },
   {
     "code": "7605062004",
     "district_code": "760506",
-    "name": "Tallambalao"
+    "name": "Tallambalao",
+    "postal_code": "91450"
   },
   {
     "code": "7605062005",
     "district_code": "760506",
-    "name": "Tammerodo Utara"
+    "name": "Tammerodo Utara",
+    "postal_code": "91450"
   },
   {
     "code": "7605062006",
     "district_code": "760506",
-    "name": "Manyamba"
+    "name": "Manyamba",
+    "postal_code": "91450"
   },
   {
     "code": "7605062007",
     "district_code": "760506",
-    "name": "Awo"
+    "name": "Awo",
+    "postal_code": "91450"
   }
 ]

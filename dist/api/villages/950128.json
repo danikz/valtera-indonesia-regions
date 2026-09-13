@@ -2,31 +2,37 @@
   {
     "code": "9501282001",
     "district_code": "950128",
-    "name": "Tanahmerah"
+    "name": "Tanahmerah",
+    "postal_code": "99545"
   },
   {
     "code": "9501282002",
     "district_code": "950128",
-    "name": "Towagame"
+    "name": "Towagame",
+    "postal_code": "99545"
   },
   {
     "code": "9501282003",
     "district_code": "950128",
-    "name": "Molagalome"
+    "name": "Molagalome",
+    "postal_code": "99545"
   },
   {
     "code": "9501282004",
     "district_code": "950128",
-    "name": "Kwigiluk"
+    "name": "Kwigiluk",
+    "postal_code": "99545"
   },
   {
     "code": "9501282005",
     "district_code": "950128",
-    "name": "Mebunukme"
+    "name": "Mebunukme",
+    "postal_code": "99545"
   },
   {
     "code": "9501282006",
     "district_code": "950128",
-    "name": "Okwa"
+    "name": "Okwa",
+    "postal_code": "99545"
   }
 ]

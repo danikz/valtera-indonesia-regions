@@ -2,31 +2,37 @@
   {
     "code": "1471021001",
     "district_code": "147102",
-    "name": "Simpang Empat"
+    "name": "Simpang Empat",
+    "postal_code": "28116"
   },
   {
     "code": "1471021002",
     "district_code": "147102",
-    "name": "Sumahilang"
+    "name": "Sumahilang",
+    "postal_code": "28111"
   },
   {
     "code": "1471021003",
     "district_code": "147102",
-    "name": "Tanah Datar"
+    "name": "Tanah Datar",
+    "postal_code": "28115"
   },
   {
     "code": "1471021004",
     "district_code": "147102",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "28114"
   },
   {
     "code": "1471021005",
     "district_code": "147102",
-    "name": "Sukaramai"
+    "name": "Sukaramai",
+    "postal_code": "28113"
   },
   {
     "code": "1471021006",
     "district_code": "147102",
-    "name": "Kota Tinggi"
+    "name": "Kota Tinggi",
+    "postal_code": "28112"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "2102081001",
     "district_code": "210208",
-    "name": "Sawang"
+    "name": "Sawang",
+    "postal_code": "29662"
   },
   {
     "code": "2102082002",
     "district_code": "210208",
-    "name": "Sawang Selatan"
+    "name": "Sawang Selatan",
+    "postal_code": "29662"
   },
   {
     "code": "2102082003",
     "district_code": "210208",
-    "name": "Sawang Laut"
+    "name": "Sawang Laut",
+    "postal_code": "29662"
   },
   {
     "code": "2102082004",
     "district_code": "210208",
-    "name": "Kundur"
+    "name": "Kundur",
+    "postal_code": "29662"
   },
   {
     "code": "2102082005",
     "district_code": "210208",
-    "name": "Gemuruh"
+    "name": "Gemuruh",
+    "postal_code": "29662"
   }
 ]

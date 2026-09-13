@@ -2,26 +2,31 @@
   {
     "code": "9404112001",
     "district_code": "940411",
-    "name": "Potowai Buru"
+    "name": "Potowai Buru",
+    "postal_code": "99974"
   },
   {
     "code": "9404112002",
     "district_code": "940411",
-    "name": "Yapkoka"
+    "name": "Yapkoka",
+    "postal_code": "99974"
   },
   {
     "code": "9404112003",
     "district_code": "940411",
-    "name": "Aindua"
+    "name": "Aindua",
+    "postal_code": "99974"
   },
   {
     "code": "9404112004",
     "district_code": "940411",
-    "name": "Tapomai"
+    "name": "Tapomai",
+    "postal_code": "99974"
   },
   {
     "code": "9404112005",
     "district_code": "940411",
-    "name": "Umar"
+    "name": "Umar",
+    "postal_code": "99974"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "7326011001",
     "district_code": "732601",
-    "name": "Laang Tanduk"
+    "name": "Laang Tanduk",
+    "postal_code": "91834"
   },
   {
     "code": "7326011002",
     "district_code": "732601",
-    "name": "Rantepao"
+    "name": "Rantepao",
+    "postal_code": "91831"
   },
   {
     "code": "7326011003",
     "district_code": "732601",
-    "name": "Mentirotiku"
+    "name": "Mentirotiku",
+    "postal_code": "91834"
   },
   {
     "code": "7326011004",
     "district_code": "732601",
-    "name": "Manggalo"
+    "name": "Manggalo",
+    "postal_code": "91831"
   },
   {
     "code": "7326011005",
     "district_code": "732601",
-    "name": "Pasale"
+    "name": "Pasale",
+    "postal_code": "91831"
   },
   {
     "code": "7326011006",
     "district_code": "732601",
-    "name": "Singki'"
+    "name": "Singki'",
+    "postal_code": "91835"
   },
   {
     "code": "7326011007",
     "district_code": "732601",
-    "name": "Karassik"
+    "name": "Karassik",
+    "postal_code": "91835"
   },
   {
     "code": "7326011008",
     "district_code": "732601",
-    "name": "Penanian"
+    "name": "Penanian",
+    "postal_code": "91835"
   },
   {
     "code": "7326011009",
     "district_code": "732601",
-    "name": "Rante Pasele"
+    "name": "Rante Pasele",
+    "postal_code": "91835"
   },
   {
     "code": "7326012010",
     "district_code": "732601",
-    "name": "Limbong"
+    "name": "Limbong",
+    "postal_code": "91835"
   },
   {
     "code": "7326012011",
     "district_code": "732601",
-    "name": "Saloso"
+    "name": "Saloso",
+    "postal_code": "91835"
   }
 ]

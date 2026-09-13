@@ -2,31 +2,37 @@
   {
     "code": "6471031001",
     "district_code": "647103",
-    "name": "Batu Ampar"
+    "name": "Batu Ampar",
+    "postal_code": "76136"
   },
   {
     "code": "6471031002",
     "district_code": "647103",
-    "name": "Gunungsamarinda"
+    "name": "Gunungsamarinda",
+    "postal_code": "76125"
   },
   {
     "code": "6471031003",
     "district_code": "647103",
-    "name": "Karang Joang"
+    "name": "Karang Joang",
+    "postal_code": "76127"
   },
   {
     "code": "6471031004",
     "district_code": "647103",
-    "name": "Muararapak"
+    "name": "Muararapak",
+    "postal_code": "76125"
   },
   {
     "code": "6471031005",
     "district_code": "647103",
-    "name": "Gunungsamarinda Baru"
+    "name": "Gunungsamarinda Baru",
+    "postal_code": "76128"
   },
   {
     "code": "6471031006",
     "district_code": "647103",
-    "name": "Graha Indah"
+    "name": "Graha Indah",
+    "postal_code": "76129"
   }
 ]

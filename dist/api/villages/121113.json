@@ -2,26 +2,31 @@
   {
     "code": "1211132001",
     "district_code": "121113",
-    "name": "Sambaliang"
+    "name": "Sambaliang",
+    "postal_code": "22251"
   },
   {
     "code": "1211132002",
     "district_code": "121113",
-    "name": "Pasi"
+    "name": "Pasi",
+    "postal_code": "22251"
   },
   {
     "code": "1211132003",
     "district_code": "121113",
-    "name": "Banjar Toba"
+    "name": "Banjar Toba",
+    "postal_code": "22251"
   },
   {
     "code": "1211132004",
     "district_code": "121113",
-    "name": "Berampu"
+    "name": "Berampu",
+    "postal_code": "22251"
   },
   {
     "code": "1211132005",
     "district_code": "121113",
-    "name": "Karing"
+    "name": "Karing",
+    "postal_code": "22251"
   }
 ]

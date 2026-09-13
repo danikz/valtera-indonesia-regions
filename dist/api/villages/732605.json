@@ -2,31 +2,37 @@
   {
     "code": "7326051005",
     "district_code": "732605",
-    "name": "Tullang' Sura"
+    "name": "Tullang' Sura",
+    "postal_code": "91841"
   },
   {
     "code": "7326051006",
     "district_code": "732605",
-    "name": "Tongkonan Bassae"
+    "name": "Tongkonan Bassae",
+    "postal_code": "91841"
   },
   {
     "code": "7326052001",
     "district_code": "732605",
-    "name": "Sapan Kua-kua"
+    "name": "Sapan Kua-kua",
+    "postal_code": "91841"
   },
   {
     "code": "7326052002",
     "district_code": "732605",
-    "name": "Rindingkila'"
+    "name": "Rindingkila'",
+    "postal_code": "91841"
   },
   {
     "code": "7326052003",
     "district_code": "732605",
-    "name": "Misa'ba'bana"
+    "name": "Misa'ba'bana",
+    "postal_code": "91841"
   },
   {
     "code": "7326052004",
     "district_code": "732605",
-    "name": "Issong Kalua'"
+    "name": "Issong Kalua'",
+    "postal_code": "91841"
   }
 ]

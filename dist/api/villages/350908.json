@@ -2,61 +2,73 @@
   {
     "code": "3509082001",
     "district_code": "350908",
-    "name": "Mlokorejo"
+    "name": "Mlokorejo",
+    "postal_code": "68164"
   },
   {
     "code": "3509082002",
     "district_code": "350908",
-    "name": "Mojomulyo"
+    "name": "Mojomulyo",
+    "postal_code": "68164"
   },
   {
     "code": "3509082003",
     "district_code": "350908",
-    "name": "Mojosari"
+    "name": "Mojosari",
+    "postal_code": "68164"
   },
   {
     "code": "3509082004",
     "district_code": "350908",
-    "name": "Pugerkulon"
+    "name": "Pugerkulon",
+    "postal_code": "68164"
   },
   {
     "code": "3509082005",
     "district_code": "350908",
-    "name": "Wringintelu"
+    "name": "Wringintelu",
+    "postal_code": "68164"
   },
   {
     "code": "3509082006",
     "district_code": "350908",
-    "name": "Kasiyan"
+    "name": "Kasiyan",
+    "postal_code": "68164"
   },
   {
     "code": "3509082007",
     "district_code": "350908",
-    "name": "Bagon"
+    "name": "Bagon",
+    "postal_code": "68164"
   },
   {
     "code": "3509082008",
     "district_code": "350908",
-    "name": "Kasiyan Timur"
+    "name": "Kasiyan Timur",
+    "postal_code": "68164"
   },
   {
     "code": "3509082009",
     "district_code": "350908",
-    "name": "Wonosari"
+    "name": "Wonosari",
+    "postal_code": "68164"
   },
   {
     "code": "3509082010",
     "district_code": "350908",
-    "name": "Jambearum"
+    "name": "Jambearum",
+    "postal_code": "68164"
   },
   {
     "code": "3509082011",
     "district_code": "350908",
-    "name": "Grenden"
+    "name": "Grenden",
+    "postal_code": "68164"
   },
   {
     "code": "3509082012",
     "district_code": "350908",
-    "name": "Pugerwetan"
+    "name": "Pugerwetan",
+    "postal_code": "68164"
   }
 ]

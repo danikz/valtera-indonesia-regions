@@ -2,41 +2,49 @@
   {
     "code": "3508212001",
     "district_code": "350821",
-    "name": "Sumbersuko"
+    "name": "Sumbersuko",
+    "postal_code": "67316"
   },
   {
     "code": "3508212002",
     "district_code": "350821",
-    "name": "Kebonsari"
+    "name": "Kebonsari",
+    "postal_code": "67316"
   },
   {
     "code": "3508212003",
     "district_code": "350821",
-    "name": "Grati"
+    "name": "Grati",
+    "postal_code": "67316"
   },
   {
     "code": "3508212004",
     "district_code": "350821",
-    "name": "Labruk Kidul"
+    "name": "Labruk Kidul",
+    "postal_code": "67316"
   },
   {
     "code": "3508212005",
     "district_code": "350821",
-    "name": "Mojosari"
+    "name": "Mojosari",
+    "postal_code": "67316"
   },
   {
     "code": "3508212006",
     "district_code": "350821",
-    "name": "Sentul"
+    "name": "Sentul",
+    "postal_code": "67316"
   },
   {
     "code": "3508212007",
     "district_code": "350821",
-    "name": "Purwosono"
+    "name": "Purwosono",
+    "postal_code": "67316"
   },
   {
     "code": "3508212008",
     "district_code": "350821",
-    "name": "Petahunan"
+    "name": "Petahunan",
+    "postal_code": "67316"
   }
 ]

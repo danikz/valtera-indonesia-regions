@@ -2,66 +2,79 @@
   {
     "code": "3575041001",
     "district_code": "357504",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "67131"
   },
   {
     "code": "3575041002",
     "district_code": "357504",
-    "name": "Tamba'an"
+    "name": "Tamba'an",
+    "postal_code": "67133"
   },
   {
     "code": "3575041003",
     "district_code": "357504",
-    "name": "Trajeng"
+    "name": "Trajeng",
+    "postal_code": "67132"
   },
   {
     "code": "3575041004",
     "district_code": "357504",
-    "name": "Bangilan"
+    "name": "Bangilan",
+    "postal_code": "67111"
   },
   {
     "code": "3575041005",
     "district_code": "357504",
-    "name": "Kebonsari"
+    "name": "Kebonsari",
+    "postal_code": "67114"
   },
   {
     "code": "3575041006",
     "district_code": "357504",
-    "name": "Mayangan"
+    "name": "Mayangan",
+    "postal_code": "67112"
   },
   {
     "code": "3575041007",
     "district_code": "357504",
-    "name": "Ngemplakrejo"
+    "name": "Ngemplakrejo",
+    "postal_code": "67113"
   },
   {
     "code": "3575041008",
     "district_code": "357504",
-    "name": "Petamanan"
+    "name": "Petamanan",
+    "postal_code": "67126"
   },
   {
     "code": "3575041009",
     "district_code": "357504",
-    "name": "Pekuncen"
+    "name": "Pekuncen",
+    "postal_code": "67126"
   },
   {
     "code": "3575041010",
     "district_code": "357504",
-    "name": "Bugul Lor"
+    "name": "Bugul Lor",
+    "postal_code": "67129"
   },
   {
     "code": "3575041011",
     "district_code": "357504",
-    "name": "Kandangsapi"
+    "name": "Kandangsapi",
+    "postal_code": "67125"
   },
   {
     "code": "3575041012",
     "district_code": "357504",
-    "name": "Panggungrejo"
+    "name": "Panggungrejo",
+    "postal_code": "67124"
   },
   {
     "code": "3575041013",
     "district_code": "357504",
-    "name": "Mandaranrejo"
+    "name": "Mandaranrejo",
+    "postal_code": "67123"
   }
 ]

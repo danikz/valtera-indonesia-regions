@@ -2,36 +2,43 @@
   {
     "code": "3210252001",
     "district_code": "321025",
-    "name": "Pasirayu"
+    "name": "Pasirayu",
+    "postal_code": "45471"
   },
   {
     "code": "3210252002",
     "district_code": "321025",
-    "name": "Sindang"
+    "name": "Sindang",
+    "postal_code": "45471"
   },
   {
     "code": "3210252003",
     "district_code": "321025",
-    "name": "Garawastu"
+    "name": "Garawastu",
+    "postal_code": "45471"
   },
   {
     "code": "3210252004",
     "district_code": "321025",
-    "name": "Indrakila"
+    "name": "Indrakila",
+    "postal_code": "45471"
   },
   {
     "code": "3210252005",
     "district_code": "321025",
-    "name": "Gunungkuning"
+    "name": "Gunungkuning",
+    "postal_code": "45471"
   },
   {
     "code": "3210252007",
     "district_code": "321025",
-    "name": "Sangkanhurip"
+    "name": "Sangkanhurip",
+    "postal_code": "45471"
   },
   {
     "code": "3210252008",
     "district_code": "321025",
-    "name": "Bayureja"
+    "name": "Bayureja",
+    "postal_code": "45471"
   }
 ]

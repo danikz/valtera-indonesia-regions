@@ -2,46 +2,55 @@
   {
     "code": "9103082001",
     "district_code": "910308",
-    "name": "Nimbokrang"
+    "name": "Nimbokrang",
+    "postal_code": "99362"
   },
   {
     "code": "9103082002",
     "district_code": "910308",
-    "name": "Benyom Jaya I"
+    "name": "Benyom Jaya I",
+    "postal_code": "99362"
   },
   {
     "code": "9103082003",
     "district_code": "910308",
-    "name": "Benyom Jaya II"
+    "name": "Benyom Jaya II",
+    "postal_code": "99362"
   },
   {
     "code": "9103082004",
     "district_code": "910308",
-    "name": "Berab"
+    "name": "Berab",
+    "postal_code": "99362"
   },
   {
     "code": "9103082005",
     "district_code": "910308",
-    "name": "Hamonggrang"
+    "name": "Hamonggrang",
+    "postal_code": "99362"
   },
   {
     "code": "9103082006",
     "district_code": "910308",
-    "name": "Wahab"
+    "name": "Wahab",
+    "postal_code": "99362"
   },
   {
     "code": "9103082007",
     "district_code": "910308",
-    "name": "Nombukrang Sari"
+    "name": "Nombukrang Sari",
+    "postal_code": "99362"
   },
   {
     "code": "9103082008",
     "district_code": "910308",
-    "name": "Rhepang Muaf"
+    "name": "Rhepang Muaf",
+    "postal_code": "99362"
   },
   {
     "code": "9103082009",
     "district_code": "910308",
-    "name": "Bunyom"
+    "name": "Bunyom",
+    "postal_code": "99362"
   }
 ]

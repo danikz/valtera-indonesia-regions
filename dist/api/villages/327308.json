@@ -2,16 +2,19 @@
   {
     "code": "3273081001",
     "district_code": "327308",
-    "name": "Hegarmanah"
+    "name": "Hegarmanah",
+    "postal_code": "40141"
   },
   {
     "code": "3273081002",
     "district_code": "327308",
-    "name": "Ciumbuleuit"
+    "name": "Ciumbuleuit",
+    "postal_code": "40142"
   },
   {
     "code": "3273081003",
     "district_code": "327308",
-    "name": "Ledeng"
+    "name": "Ledeng",
+    "postal_code": "40143"
   }
 ]

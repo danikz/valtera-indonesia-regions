@@ -2,21 +2,25 @@
   {
     "code": "3275111001",
     "district_code": "327511",
-    "name": "Padurenan"
+    "name": "Padurenan",
+    "postal_code": "17156"
   },
   {
     "code": "3275111002",
     "district_code": "327511",
-    "name": "Cimuning"
+    "name": "Cimuning",
+    "postal_code": "17155"
   },
   {
     "code": "3275111003",
     "district_code": "327511",
-    "name": "Mustikajaya"
+    "name": "Mustikajaya",
+    "postal_code": "17158"
   },
   {
     "code": "3275111004",
     "district_code": "327511",
-    "name": "Mustikasari"
+    "name": "Mustikasari",
+    "postal_code": "17157"
   }
 ]

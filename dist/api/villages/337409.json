@@ -2,41 +2,49 @@
   {
     "code": "3374091001",
     "district_code": "337409",
-    "name": "Karangrejo"
+    "name": "Karangrejo",
+    "postal_code": "50235"
   },
   {
     "code": "3374091002",
     "district_code": "337409",
-    "name": "Bendan Dhuwur"
+    "name": "Bendan Dhuwur",
+    "postal_code": "50235"
   },
   {
     "code": "3374091003",
     "district_code": "337409",
-    "name": "Bendan Ngisor"
+    "name": "Bendan Ngisor",
+    "postal_code": "50233"
   },
   {
     "code": "3374091004",
     "district_code": "337409",
-    "name": "Sampangan"
+    "name": "Sampangan",
+    "postal_code": "50232"
   },
   {
     "code": "3374091005",
     "district_code": "337409",
-    "name": "Gajahmungkur"
+    "name": "Gajahmungkur",
+    "postal_code": "50232"
   },
   {
     "code": "3374091006",
     "district_code": "337409",
-    "name": "Lempongsari"
+    "name": "Lempongsari",
+    "postal_code": "50231"
   },
   {
     "code": "3374091007",
     "district_code": "337409",
-    "name": "Petompon"
+    "name": "Petompon",
+    "postal_code": "50237"
   },
   {
     "code": "3374091008",
     "district_code": "337409",
-    "name": "Bendungan"
+    "name": "Bendungan",
+    "postal_code": "50231"
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "1705132001",
     "district_code": "170513",
-    "name": "Pagar"
+    "name": "Pagar",
+    "postal_code": "38886"
   },
   {
     "code": "1705132002",
     "district_code": "170513",
-    "name": "Muara Simpur"
+    "name": "Muara Simpur",
+    "postal_code": "38886"
   },
   {
     "code": "1705132003",
     "district_code": "170513",
-    "name": "Pagar Agung"
+    "name": "Pagar Agung",
+    "postal_code": "38886"
   },
   {
     "code": "1705132004",
     "district_code": "170513",
-    "name": "Pagar Banyu"
+    "name": "Pagar Banyu",
+    "postal_code": "38886"
   },
   {
     "code": "1705132005",
     "district_code": "170513",
-    "name": "Simpur Ijang"
+    "name": "Simpur Ijang",
+    "postal_code": "38886"
   },
   {
     "code": "1705132006",
     "district_code": "170513",
-    "name": "Air Keruh"
+    "name": "Air Keruh",
+    "postal_code": "38886"
   },
   {
     "code": "1705132007",
     "district_code": "170513",
-    "name": "Hargo Binangun"
+    "name": "Hargo Binangun",
+    "postal_code": "38886"
   },
   {
     "code": "1705132008",
     "district_code": "170513",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "38886"
   },
   {
     "code": "1705132009",
     "district_code": "170513",
-    "name": "Giri Nanto"
+    "name": "Giri Nanto",
+    "postal_code": "38886"
   },
   {
     "code": "1705132010",
     "district_code": "170513",
-    "name": "Banyu Kencana"
+    "name": "Banyu Kencana",
+    "postal_code": "38886"
   },
   {
     "code": "1705132011",
     "district_code": "170513",
-    "name": "Muara Nibung"
+    "name": "Muara Nibung",
+    "postal_code": "38886"
   },
   {
     "code": "1705132012",
     "district_code": "170513",
-    "name": "Tanjung Agung"
+    "name": "Tanjung Agung",
+    "postal_code": "38886"
   },
   {
     "code": "1705132013",
     "district_code": "170513",
-    "name": "Giri Mulya"
+    "name": "Giri Mulya",
+    "postal_code": "38886"
   }
 ]

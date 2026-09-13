@@ -2,31 +2,37 @@
   {
     "code": "3402112001",
     "district_code": "340211",
-    "name": "Mangunan"
+    "name": "Mangunan",
+    "postal_code": "55783"
   },
   {
     "code": "3402112002",
     "district_code": "340211",
-    "name": "Muntuk"
+    "name": "Muntuk",
+    "postal_code": "55783"
   },
   {
     "code": "3402112003",
     "district_code": "340211",
-    "name": "Dlingo"
+    "name": "Dlingo",
+    "postal_code": "55783"
   },
   {
     "code": "3402112004",
     "district_code": "340211",
-    "name": "Temuwuh"
+    "name": "Temuwuh",
+    "postal_code": "55783"
   },
   {
     "code": "3402112005",
     "district_code": "340211",
-    "name": "Terong"
+    "name": "Terong",
+    "postal_code": "55783"
   },
   {
     "code": "3402112006",
     "district_code": "340211",
-    "name": "Jatimulyo"
+    "name": "Jatimulyo",
+    "postal_code": "55783"
   }
 ]

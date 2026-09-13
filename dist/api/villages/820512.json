@@ -2,26 +2,31 @@
   {
     "code": "8205122001",
     "district_code": "820512",
-    "name": "Kaporo"
+    "name": "Kaporo",
+    "postal_code": "97793"
   },
   {
     "code": "8205122002",
     "district_code": "820512",
-    "name": "Waikafia"
+    "name": "Waikafia",
+    "postal_code": "97793"
   },
   {
     "code": "8205122003",
     "district_code": "820512",
-    "name": "Buya"
+    "name": "Buya",
+    "postal_code": "97793"
   },
   {
     "code": "8205122004",
     "district_code": "820512",
-    "name": "Auponhia"
+    "name": "Auponhia",
+    "postal_code": "97793"
   },
   {
     "code": "8205122005",
     "district_code": "820512",
-    "name": "Wailab"
+    "name": "Wailab",
+    "postal_code": "97793"
   }
 ]

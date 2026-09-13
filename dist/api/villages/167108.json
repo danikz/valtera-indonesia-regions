@@ -2,21 +2,25 @@
   {
     "code": "1671081001",
     "district_code": "167108",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "30164"
   },
   {
     "code": "1671081002",
     "district_code": "167108",
-    "name": "Sako"
+    "name": "Sako",
+    "postal_code": "30163"
   },
   {
     "code": "1671081006",
     "district_code": "167108",
-    "name": "Sialang"
+    "name": "Sialang",
+    "postal_code": "30161"
   },
   {
     "code": "1671081007",
     "district_code": "167108",
-    "name": "Sako Baru"
+    "name": "Sako Baru",
+    "postal_code": "30165"
   }
 ]

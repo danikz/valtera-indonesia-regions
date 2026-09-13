@@ -2,56 +2,67 @@
   {
     "code": "6402082004",
     "district_code": "640208",
-    "name": "Loleng"
+    "name": "Loleng",
+    "postal_code": "75561"
   },
   {
     "code": "6402082005",
     "district_code": "640208",
-    "name": "Kota Bangun Ulu"
+    "name": "Kota Bangun Ulu",
+    "postal_code": "75561"
   },
   {
     "code": "6402082006",
     "district_code": "640208",
-    "name": "Kota Bangun Ilir"
+    "name": "Kota Bangun Ilir",
+    "postal_code": "75561"
   },
   {
     "code": "6402082007",
     "district_code": "640208",
-    "name": "Liang"
+    "name": "Liang",
+    "postal_code": "75561"
   },
   {
     "code": "6402082008",
     "district_code": "640208",
-    "name": "Muhuran"
+    "name": "Muhuran",
+    "postal_code": "75561"
   },
   {
     "code": "6402082009",
     "district_code": "640208",
-    "name": "Pela"
+    "name": "Pela",
+    "postal_code": "75561"
   },
   {
     "code": "6402082017",
     "district_code": "640208",
-    "name": "Kedang Murung"
+    "name": "Kedang Murung",
+    "postal_code": "75561"
   },
   {
     "code": "6402082018",
     "district_code": "640208",
-    "name": "Kota Bangun Seberang"
+    "name": "Kota Bangun Seberang",
+    "postal_code": "75561"
   },
   {
     "code": "6402082019",
     "district_code": "640208",
-    "name": "Liang Ulu"
+    "name": "Liang Ulu",
+    "postal_code": "75561"
   },
   {
     "code": "6402082020",
     "district_code": "640208",
-    "name": "Sebelimbingan"
+    "name": "Sebelimbingan",
+    "postal_code": "75561"
   },
   {
     "code": "6402082021",
     "district_code": "640208",
-    "name": "Sangkuliman"
+    "name": "Sangkuliman",
+    "postal_code": "75561"
   }
 ]

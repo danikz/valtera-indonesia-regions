@@ -2,56 +2,67 @@
   {
     "code": "7104032003",
     "district_code": "710403",
-    "name": "A l o"
+    "name": "A l o",
+    "postal_code": "95880"
   },
   {
     "code": "7104032004",
     "district_code": "710403",
-    "name": "N u n u"
+    "name": "N u n u",
+    "postal_code": "95880"
   },
   {
     "code": "7104032005",
     "district_code": "710403",
-    "name": "R a i n i s"
+    "name": "R a i n i s",
+    "postal_code": "95880"
   },
   {
     "code": "7104032006",
     "district_code": "710403",
-    "name": "Bantane"
+    "name": "Bantane",
+    "postal_code": "95880"
   },
   {
     "code": "7104032007",
     "district_code": "710403",
-    "name": "Tabang"
+    "name": "Tabang",
+    "postal_code": "95880"
   },
   {
     "code": "7104032014",
     "district_code": "710403",
-    "name": "Parangen"
+    "name": "Parangen",
+    "postal_code": "95880"
   },
   {
     "code": "7104032015",
     "district_code": "710403",
-    "name": "Bantane Utara"
+    "name": "Bantane Utara",
+    "postal_code": "95880"
   },
   {
     "code": "7104032018",
     "district_code": "710403",
-    "name": "Tabang Barat"
+    "name": "Tabang Barat",
+    "postal_code": "95880"
   },
   {
     "code": "7104032020",
     "district_code": "710403",
-    "name": "Nunu Utara"
+    "name": "Nunu Utara",
+    "postal_code": "95880"
   },
   {
     "code": "7104032021",
     "district_code": "710403",
-    "name": "Rainis Batupenga"
+    "name": "Rainis Batupenga",
+    "postal_code": "95880"
   },
   {
     "code": "7104032022",
     "district_code": "710403",
-    "name": "Alo Utara"
+    "name": "Alo Utara",
+    "postal_code": "95880"
   }
 ]

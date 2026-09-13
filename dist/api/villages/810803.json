@@ -2,56 +2,67 @@
   {
     "code": "8108032001",
     "district_code": "810803",
-    "name": "Luang Barat"
+    "name": "Luang Barat",
+    "postal_code": "97652"
   },
   {
     "code": "8108032002",
     "district_code": "810803",
-    "name": "Luang Timur"
+    "name": "Luang Timur",
+    "postal_code": "97652"
   },
   {
     "code": "8108032003",
     "district_code": "810803",
-    "name": "Elo"
+    "name": "Elo",
+    "postal_code": "97652"
   },
   {
     "code": "8108032004",
     "district_code": "810803",
-    "name": "Rumkisar"
+    "name": "Rumkisar",
+    "postal_code": "97652"
   },
   {
     "code": "8108032005",
     "district_code": "810803",
-    "name": "Lelang"
+    "name": "Lelang",
+    "postal_code": "97652"
   },
   {
     "code": "8108032006",
     "district_code": "810803",
-    "name": "Mahaleta"
+    "name": "Mahaleta",
+    "postal_code": "97652"
   },
   {
     "code": "8108032007",
     "district_code": "810803",
-    "name": "Romdara"
+    "name": "Romdara",
+    "postal_code": "97652"
   },
   {
     "code": "8108032008",
     "district_code": "810803",
-    "name": "Rotnama"
+    "name": "Rotnama",
+    "postal_code": "97652"
   },
   {
     "code": "8108032009",
     "district_code": "810803",
-    "name": "Batugajah"
+    "name": "Batugajah",
+    "postal_code": "97652"
   },
   {
     "code": "8108032010",
     "district_code": "810803",
-    "name": "Pupliora"
+    "name": "Pupliora",
+    "postal_code": "97652"
   },
   {
     "code": "8108032011",
     "district_code": "810803",
-    "name": "Regoha"
+    "name": "Regoha",
+    "postal_code": "97652"
   }
 ]

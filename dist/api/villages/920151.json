@@ -2,26 +2,31 @@
   {
     "code": "9201512001",
     "district_code": "920151",
-    "name": "Maladuk"
+    "name": "Maladuk",
+    "postal_code": ""
   },
   {
     "code": "9201512002",
     "district_code": "920151",
-    "name": "Klamono Oil"
+    "name": "Klamono Oil",
+    "postal_code": ""
   },
   {
     "code": "9201512003",
     "district_code": "920151",
-    "name": "Bar Ros"
+    "name": "Bar Ros",
+    "postal_code": ""
   },
   {
     "code": "9201512004",
     "district_code": "920151",
-    "name": "Pusu Tiligum"
+    "name": "Pusu Tiligum",
+    "postal_code": ""
   },
   {
     "code": "9201512005",
     "district_code": "920151",
-    "name": "Klawili Be"
+    "name": "Klawili Be",
+    "postal_code": ""
   }
 ]

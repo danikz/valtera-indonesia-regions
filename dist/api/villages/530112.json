@@ -2,36 +2,43 @@
   {
     "code": "5301121003",
     "district_code": "530112",
-    "name": "Lelogama"
+    "name": "Lelogama",
+    "postal_code": "85373"
   },
   {
     "code": "5301122001",
     "district_code": "530112",
-    "name": "Fatusuki"
+    "name": "Fatusuki",
+    "postal_code": "85373"
   },
   {
     "code": "5301122002",
     "district_code": "530112",
-    "name": "Oelbanu"
+    "name": "Oelbanu",
+    "postal_code": "85373"
   },
   {
     "code": "5301122004",
     "district_code": "530112",
-    "name": "Fatumetan"
+    "name": "Fatumetan",
+    "postal_code": "85373"
   },
   {
     "code": "5301122005",
     "district_code": "530112",
-    "name": "Oh'aem"
+    "name": "Oh'aem",
+    "postal_code": "85373"
   },
   {
     "code": "5301122008",
     "district_code": "530112",
-    "name": "Leloboko"
+    "name": "Leloboko",
+    "postal_code": "85373"
   },
   {
     "code": "5301122011",
     "district_code": "530112",
-    "name": "Oh'aem II"
+    "name": "Oh'aem II",
+    "postal_code": "85373"
   }
 ]

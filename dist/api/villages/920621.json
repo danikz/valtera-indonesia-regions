@@ -2,26 +2,31 @@
   {
     "code": "9206212001",
     "district_code": "920621",
-    "name": "Weriagar"
+    "name": "Weriagar",
+    "postal_code": "98157"
   },
   {
     "code": "9206212002",
     "district_code": "920621",
-    "name": "Mogotira"
+    "name": "Mogotira",
+    "postal_code": "98157"
   },
   {
     "code": "9206212003",
     "district_code": "920621",
-    "name": "Weriagar Baru"
+    "name": "Weriagar Baru",
+    "postal_code": "98157"
   },
   {
     "code": "9206212004",
     "district_code": "920621",
-    "name": "Weriagar Utara"
+    "name": "Weriagar Utara",
+    "postal_code": "98157"
   },
   {
     "code": "9206212005",
     "district_code": "920621",
-    "name": "Tuanaikin"
+    "name": "Tuanaikin",
+    "postal_code": "98157"
   }
 ]

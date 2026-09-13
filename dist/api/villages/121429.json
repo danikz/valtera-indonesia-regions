@@ -2,46 +2,55 @@
   {
     "code": "1214292001",
     "district_code": "121429",
-    "name": "Fuge"
+    "name": "Fuge",
+    "postal_code": "22883"
   },
   {
     "code": "1214292002",
     "district_code": "121429",
-    "name": "Luaha Idano Pono"
+    "name": "Luaha Idano Pono",
+    "postal_code": "22883"
   },
   {
     "code": "1214292003",
     "district_code": "121429",
-    "name": "Sigese"
+    "name": "Sigese",
+    "postal_code": "22883"
   },
   {
     "code": "1214292004",
     "district_code": "121429",
-    "name": "Bawositora"
+    "name": "Bawositora",
+    "postal_code": "22883"
   },
   {
     "code": "1214292005",
     "district_code": "121429",
-    "name": "Bintuang"
+    "name": "Bintuang",
+    "postal_code": "22883"
   },
   {
     "code": "1214292006",
     "district_code": "121429",
-    "name": "Sibaranun"
+    "name": "Sibaranun",
+    "postal_code": "22883"
   },
   {
     "code": "1214292007",
     "district_code": "121429",
-    "name": "Bawolawindra"
+    "name": "Bawolawindra",
+    "postal_code": "22883"
   },
   {
     "code": "1214292008",
     "district_code": "121429",
-    "name": "Hayo"
+    "name": "Hayo",
+    "postal_code": "22883"
   },
   {
     "code": "1214292009",
     "district_code": "121429",
-    "name": "Hilizamorogotano"
+    "name": "Hilizamorogotano",
+    "postal_code": "22883"
   }
 ]

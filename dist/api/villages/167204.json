@@ -2,26 +2,31 @@
   {
     "code": "1672041002",
     "district_code": "167204",
-    "name": "Lubuk Buntak"
+    "name": "Lubuk Buntak",
+    "postal_code": "31521"
   },
   {
     "code": "1672041018",
     "district_code": "167204",
-    "name": "Prabu Dipo"
+    "name": "Prabu Dipo",
+    "postal_code": "31521"
   },
   {
     "code": "1672041020",
     "district_code": "167204",
-    "name": "Kance Diwe"
+    "name": "Kance Diwe",
+    "postal_code": "31521"
   },
   {
     "code": "1672041021",
     "district_code": "167204",
-    "name": "Atung Bungsu"
+    "name": "Atung Bungsu",
+    "postal_code": "31521"
   },
   {
     "code": "1672041022",
     "district_code": "167204",
-    "name": "Penjalang"
+    "name": "Penjalang",
+    "postal_code": "31521"
   }
 ]

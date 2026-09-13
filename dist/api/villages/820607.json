@@ -2,41 +2,49 @@
   {
     "code": "8206072001",
     "district_code": "820607",
-    "name": "Dodaga"
+    "name": "Dodaga",
+    "postal_code": "97868"
   },
   {
     "code": "8206072002",
     "district_code": "820607",
-    "name": "Daka Ino"
+    "name": "Daka Ino",
+    "postal_code": "97868"
   },
   {
     "code": "8206072003",
     "district_code": "820607",
-    "name": "Akedaga"
+    "name": "Akedaga",
+    "postal_code": "97868"
   },
   {
     "code": "8206072004",
     "district_code": "820607",
-    "name": "Tobo Ino"
+    "name": "Tobo Ino",
+    "postal_code": "97868"
   },
   {
     "code": "8206072005",
     "district_code": "820607",
-    "name": "Tutuling Jaya"
+    "name": "Tutuling Jaya",
+    "postal_code": "97868"
   },
   {
     "code": "8206072006",
     "district_code": "820607",
-    "name": "Woka Jaya"
+    "name": "Woka Jaya",
+    "postal_code": "97868"
   },
   {
     "code": "8206072007",
     "district_code": "820607",
-    "name": "Rawamangun"
+    "name": "Rawamangun",
+    "postal_code": "97868"
   },
   {
     "code": "8206072008",
     "district_code": "820607",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "97868"
   }
 ]

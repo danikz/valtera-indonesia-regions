@@ -2,56 +2,67 @@
   {
     "code": "3209392001",
     "district_code": "320939",
-    "name": "Sambeng"
+    "name": "Sambeng",
+    "postal_code": ""
   },
   {
     "code": "3209392002",
     "district_code": "320939",
-    "name": "Sirnabaya"
+    "name": "Sirnabaya",
+    "postal_code": ""
   },
   {
     "code": "3209392003",
     "district_code": "320939",
-    "name": "Muara"
+    "name": "Muara",
+    "postal_code": "45150"
   },
   {
     "code": "3209392004",
     "district_code": "320939",
-    "name": "Purwawinangun"
+    "name": "Purwawinangun",
+    "postal_code": "45150"
   },
   {
     "code": "3209392005",
     "district_code": "320939",
-    "name": "Keraton"
+    "name": "Keraton",
+    "postal_code": "45150"
   },
   {
     "code": "3209392006",
     "district_code": "320939",
-    "name": "Surakarta"
+    "name": "Surakarta",
+    "postal_code": "45150"
   },
   {
     "code": "3209392007",
     "district_code": "320939",
-    "name": "Karangreja"
+    "name": "Karangreja",
+    "postal_code": "45150"
   },
   {
     "code": "3209392008",
     "district_code": "320939",
-    "name": "Suranenggala Kidul"
+    "name": "Suranenggala Kidul",
+    "postal_code": "45150"
   },
   {
     "code": "3209392009",
     "district_code": "320939",
-    "name": "Suranenggala Kulon"
+    "name": "Suranenggala Kulon",
+    "postal_code": "45150"
   },
   {
     "code": "3209392010",
     "district_code": "320939",
-    "name": "Suranenggala Lor"
+    "name": "Suranenggala Lor",
+    "postal_code": "45150"
   },
   {
     "code": "3209392011",
     "district_code": "320939",
-    "name": "Suranenggala"
+    "name": "Suranenggala",
+    "postal_code": "45150"
   }
 ]

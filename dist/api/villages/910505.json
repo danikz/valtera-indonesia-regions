@@ -2,41 +2,49 @@
   {
     "code": "9105052001",
     "district_code": "910505",
-    "name": "Poom I"
+    "name": "Poom I",
+    "postal_code": "98652"
   },
   {
     "code": "9105052003",
     "district_code": "910505",
-    "name": "Serewen"
+    "name": "Serewen",
+    "postal_code": "98652"
   },
   {
     "code": "9105052006",
     "district_code": "910505",
-    "name": "Poom II"
+    "name": "Poom II",
+    "postal_code": "98652"
   },
   {
     "code": "9105052007",
     "district_code": "910505",
-    "name": "Mokiroan"
+    "name": "Mokiroan",
+    "postal_code": "98652"
   },
   {
     "code": "9105052011",
     "district_code": "910505",
-    "name": "Rarisi"
+    "name": "Rarisi",
+    "postal_code": "98652"
   },
   {
     "code": "9105052012",
     "district_code": "910505",
-    "name": "Warioi"
+    "name": "Warioi",
+    "postal_code": "98652"
   },
   {
     "code": "9105052015",
     "district_code": "910505",
-    "name": "Humbe Awai"
+    "name": "Humbe Awai",
+    "postal_code": "98652"
   },
   {
     "code": "9105052016",
     "district_code": "910505",
-    "name": "Nurawi"
+    "name": "Nurawi",
+    "postal_code": "98652"
   }
 ]

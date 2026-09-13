@@ -2,26 +2,31 @@
   {
     "code": "6107062001",
     "district_code": "610706",
-    "name": "Lembang"
+    "name": "Lembang",
+    "postal_code": "79284"
   },
   {
     "code": "6107062002",
     "district_code": "610706",
-    "name": "Gua"
+    "name": "Gua",
+    "postal_code": "79284"
   },
   {
     "code": "6107062003",
     "district_code": "610706",
-    "name": "Bange"
+    "name": "Bange",
+    "postal_code": "79284"
   },
   {
     "code": "6107062004",
     "district_code": "610706",
-    "name": "Danti"
+    "name": "Danti",
+    "postal_code": "79284"
   },
   {
     "code": "6107062005",
     "district_code": "610706",
-    "name": "Sango"
+    "name": "Sango",
+    "postal_code": "79284"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "7371121001",
     "district_code": "737112",
-    "name": "Manggala"
+    "name": "Manggala",
+    "postal_code": "90234"
   },
   {
     "code": "7371121002",
     "district_code": "737112",
-    "name": "Bangkala"
+    "name": "Bangkala",
+    "postal_code": "90235"
   },
   {
     "code": "7371121003",
     "district_code": "737112",
-    "name": "Tamangapa"
+    "name": "Tamangapa",
+    "postal_code": "90235"
   },
   {
     "code": "7371121004",
     "district_code": "737112",
-    "name": "Antang"
+    "name": "Antang",
+    "postal_code": "90234"
   },
   {
     "code": "7371121005",
     "district_code": "737112",
-    "name": "Batua"
+    "name": "Batua",
+    "postal_code": "90233"
   },
   {
     "code": "7371121006",
     "district_code": "737112",
-    "name": "Borong"
+    "name": "Borong",
+    "postal_code": "90233"
   },
   {
     "code": "7371121007",
     "district_code": "737112",
-    "name": "Biring Romang"
+    "name": "Biring Romang",
+    "postal_code": "90235"
   },
   {
     "code": "7371121008",
     "district_code": "737112",
-    "name": "Bitowo"
+    "name": "Bitowo",
+    "postal_code": "90234"
   }
 ]

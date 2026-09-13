@@ -2,41 +2,49 @@
   {
     "code": "9502012001",
     "district_code": "950201",
-    "name": "Kabiding"
+    "name": "Kabiding",
+    "postal_code": "99415"
   },
   {
     "code": "9502012002",
     "district_code": "950201",
-    "name": "Aldom"
+    "name": "Aldom",
+    "postal_code": "99573"
   },
   {
     "code": "9502012003",
     "district_code": "950201",
-    "name": "Kutdol"
+    "name": "Kutdol",
+    "postal_code": "99573"
   },
   {
     "code": "9502012004",
     "district_code": "950201",
-    "name": "Polsam"
+    "name": "Polsam",
+    "postal_code": "99573"
   },
   {
     "code": "9502012005",
     "district_code": "950201",
-    "name": "Akmakot"
+    "name": "Akmakot",
+    "postal_code": "99573"
   },
   {
     "code": "9502012006",
     "district_code": "950201",
-    "name": "Mabilabol"
+    "name": "Mabilabol",
+    "postal_code": "99573"
   },
   {
     "code": "9502012007",
     "district_code": "950201",
-    "name": "Bunamdol"
+    "name": "Bunamdol",
+    "postal_code": "99573"
   },
   {
     "code": "9502012008",
     "district_code": "950201",
-    "name": "Molbib Silibib"
+    "name": "Molbib Silibib",
+    "postal_code": "99573"
   }
 ]

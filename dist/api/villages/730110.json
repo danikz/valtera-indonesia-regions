@@ -2,31 +2,37 @@
   {
     "code": "7301102001",
     "district_code": "730110",
-    "name": "Bontobulaeng"
+    "name": "Bontobulaeng",
+    "postal_code": "92861"
   },
   {
     "code": "7301102002",
     "district_code": "730110",
-    "name": "Bontobaru"
+    "name": "Bontobaru",
+    "postal_code": "92861"
   },
   {
     "code": "7301102003",
     "district_code": "730110",
-    "name": "Bontomalling"
+    "name": "Bontomalling",
+    "postal_code": "92861"
   },
   {
     "code": "7301102004",
     "district_code": "730110",
-    "name": "Lembang Baji"
+    "name": "Lembang Baji",
+    "postal_code": "92861"
   },
   {
     "code": "7301102005",
     "district_code": "730110",
-    "name": "Bontojati"
+    "name": "Bontojati",
+    "postal_code": "92861"
   },
   {
     "code": "7301102006",
     "district_code": "730110",
-    "name": "Ujung"
+    "name": "Ujung",
+    "postal_code": "92861"
   }
 ]

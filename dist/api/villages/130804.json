@@ -2,26 +2,31 @@
   {
     "code": "1308042001",
     "district_code": "130804",
-    "name": "Limo Koto"
+    "name": "Limo Koto",
+    "postal_code": "26381"
   },
   {
     "code": "1308042002",
     "district_code": "130804",
-    "name": "Koto Kaciak"
+    "name": "Koto Kaciak",
+    "postal_code": "26381"
   },
   {
     "code": "1308042003",
     "district_code": "130804",
-    "name": "Ganggo Mudiak"
+    "name": "Ganggo Mudiak",
+    "postal_code": "26381"
   },
   {
     "code": "1308042004",
     "district_code": "130804",
-    "name": "Ganggo Hilia"
+    "name": "Ganggo Hilia",
+    "postal_code": "26381"
   },
   {
     "code": "1308042007",
     "district_code": "130804",
-    "name": "Koto Kaciak Barat"
+    "name": "Koto Kaciak Barat",
+    "postal_code": "26381"
   }
 ]

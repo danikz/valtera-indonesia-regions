@@ -2,56 +2,67 @@
   {
     "code": "1221142001",
     "district_code": "122114",
-    "name": "Hapung"
+    "name": "Hapung",
+    "postal_code": "22765"
   },
   {
     "code": "1221142002",
     "district_code": "122114",
-    "name": "Batu Gajah"
+    "name": "Batu Gajah",
+    "postal_code": "22765"
   },
   {
     "code": "1221142003",
     "district_code": "122114",
-    "name": "Hapung Torop"
+    "name": "Hapung Torop",
+    "postal_code": "22765"
   },
   {
     "code": "1221142004",
     "district_code": "122114",
-    "name": "Harang Jae"
+    "name": "Harang Jae",
+    "postal_code": "22765"
   },
   {
     "code": "1221142005",
     "district_code": "122114",
-    "name": "Harang Julu"
+    "name": "Harang Julu",
+    "postal_code": "22765"
   },
   {
     "code": "1221142006",
     "district_code": "122114",
-    "name": "Handio"
+    "name": "Handio",
+    "postal_code": "22765"
   },
   {
     "code": "1221142007",
     "district_code": "122114",
-    "name": "Gunung Tua"
+    "name": "Gunung Tua",
+    "postal_code": "22765"
   },
   {
     "code": "1221142008",
     "district_code": "122114",
-    "name": "Mandian"
+    "name": "Mandian",
+    "postal_code": "22765"
   },
   {
     "code": "1221142009",
     "district_code": "122114",
-    "name": "Parapat"
+    "name": "Parapat",
+    "postal_code": "22765"
   },
   {
     "code": "1221142010",
     "district_code": "122114",
-    "name": "Horuon"
+    "name": "Horuon",
+    "postal_code": "22765"
   },
   {
     "code": "1221142011",
     "district_code": "122114",
-    "name": "Bonan Dolok"
+    "name": "Bonan Dolok",
+    "postal_code": "22765"
   }
 ]

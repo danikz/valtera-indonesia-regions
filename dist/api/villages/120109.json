@@ -2,46 +2,55 @@
   {
     "code": "1201091001",
     "district_code": "120109",
-    "name": "Sosor Gadong"
+    "name": "Sosor Gadong",
+    "postal_code": "22568"
   },
   {
     "code": "1201092002",
     "district_code": "120109",
-    "name": "Unte Boang"
+    "name": "Unte Boang",
+    "postal_code": "22568"
   },
   {
     "code": "1201092003",
     "district_code": "120109",
-    "name": "Sibintang"
+    "name": "Sibintang",
+    "postal_code": "22568"
   },
   {
     "code": "1201092004",
     "district_code": "120109",
-    "name": "Barambang"
+    "name": "Barambang",
+    "postal_code": "22568"
   },
   {
     "code": "1201092005",
     "district_code": "120109",
-    "name": "Siantar Ca"
+    "name": "Siantar Ca",
+    "postal_code": "22568"
   },
   {
     "code": "1201092006",
     "district_code": "120109",
-    "name": "Muara Bolak"
+    "name": "Muara Bolak",
+    "postal_code": "22568"
   },
   {
     "code": "1201092007",
     "district_code": "120109",
-    "name": "Huta Tombak"
+    "name": "Huta Tombak",
+    "postal_code": "22568"
   },
   {
     "code": "1201092008",
     "district_code": "120109",
-    "name": "Siantar Dolok"
+    "name": "Siantar Dolok",
+    "postal_code": "22568"
   },
   {
     "code": "1201092009",
     "district_code": "120109",
-    "name": "Baringin"
+    "name": "Baringin",
+    "postal_code": "22568"
   }
 ]

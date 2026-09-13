@@ -2,26 +2,31 @@
   {
     "code": "1274061001",
     "district_code": "127406",
-    "name": "Pulau Simardan"
+    "name": "Pulau Simardan",
+    "postal_code": "21366"
   },
   {
     "code": "1274061002",
     "district_code": "127406",
-    "name": "Semula Jadi"
+    "name": "Semula Jadi",
+    "postal_code": "21365"
   },
   {
     "code": "1274061003",
     "district_code": "127406",
-    "name": "Selat Lancang"
+    "name": "Selat Lancang",
+    "postal_code": "21364"
   },
   {
     "code": "1274061004",
     "district_code": "127406",
-    "name": "Bunga Tanjung"
+    "name": "Bunga Tanjung",
+    "postal_code": "21367"
   },
   {
     "code": "1274061005",
     "district_code": "127406",
-    "name": "Selat Tanjung Medan"
+    "name": "Selat Tanjung Medan",
+    "postal_code": "21364"
   }
 ]

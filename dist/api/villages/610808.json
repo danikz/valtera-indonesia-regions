@@ -2,31 +2,37 @@
   {
     "code": "6108082001",
     "district_code": "610808",
-    "name": "Meranti"
+    "name": "Meranti",
+    "postal_code": "79366"
   },
   {
     "code": "6108082002",
     "district_code": "610808",
-    "name": "Kelampai Setolo"
+    "name": "Kelampai Setolo",
+    "postal_code": "79366"
   },
   {
     "code": "6108082003",
     "district_code": "610808",
-    "name": "Moro Betung"
+    "name": "Moro Betung",
+    "postal_code": "79366"
   },
   {
     "code": "6108082004",
     "district_code": "610808",
-    "name": "Selange"
+    "name": "Selange",
+    "postal_code": "79366"
   },
   {
     "code": "6108082005",
     "district_code": "610808",
-    "name": "Ampadi"
+    "name": "Ampadi",
+    "postal_code": "79366"
   },
   {
     "code": "6108082006",
     "district_code": "610808",
-    "name": "Tahu"
+    "name": "Tahu",
+    "postal_code": "79366"
   }
 ]

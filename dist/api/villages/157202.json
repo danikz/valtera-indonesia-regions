@@ -2,46 +2,55 @@
   {
     "code": "1572022001",
     "district_code": "157202",
-    "name": "Koto Renah"
+    "name": "Koto Renah",
+    "postal_code": "37111"
   },
   {
     "code": "1572022002",
     "district_code": "157202",
-    "name": "Koto Keras"
+    "name": "Koto Keras",
+    "postal_code": "37111"
   },
   {
     "code": "1572022003",
     "district_code": "157202",
-    "name": "Koto Bento"
+    "name": "Koto Bento",
+    "postal_code": "37111"
   },
   {
     "code": "1572022004",
     "district_code": "157202",
-    "name": "Koto Lolo"
+    "name": "Koto Lolo",
+    "postal_code": "37111"
   },
   {
     "code": "1572022005",
     "district_code": "157202",
-    "name": "Koto Tengah"
+    "name": "Koto Tengah",
+    "postal_code": "37111"
   },
   {
     "code": "1572022008",
     "district_code": "157202",
-    "name": "Koto Duo"
+    "name": "Koto Duo",
+    "postal_code": "37152"
   },
   {
     "code": "1572022010",
     "district_code": "157202",
-    "name": "Sungai Liuk"
+    "name": "Sungai Liuk",
+    "postal_code": "37152"
   },
   {
     "code": "1572022011",
     "district_code": "157202",
-    "name": "Seberang"
+    "name": "Seberang",
+    "postal_code": "37152"
   },
   {
     "code": "1572022015",
     "district_code": "157202",
-    "name": "Sumur Gedang"
+    "name": "Sumur Gedang",
+    "postal_code": "37152"
   }
 ]

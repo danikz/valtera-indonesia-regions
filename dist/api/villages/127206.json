@@ -2,36 +2,43 @@
   {
     "code": "1272061001",
     "district_code": "127206",
-    "name": "Sumber Jaya"
+    "name": "Sumber Jaya",
+    "postal_code": "21137"
   },
   {
     "code": "1272061003",
     "district_code": "127206",
-    "name": "Tambun Nabolon"
+    "name": "Tambun Nabolon",
+    "postal_code": "21137"
   },
   {
     "code": "1272061007",
     "district_code": "127206",
-    "name": "Naga Pita"
+    "name": "Naga Pita",
+    "postal_code": "21137"
   },
   {
     "code": "1272061008",
     "district_code": "127206",
-    "name": "Pondok Sayur"
+    "name": "Pondok Sayur",
+    "postal_code": "21137"
   },
   {
     "code": "1272061009",
     "district_code": "127206",
-    "name": "Tanjung Tongah"
+    "name": "Tanjung Tongah",
+    "postal_code": "21137"
   },
   {
     "code": "1272061010",
     "district_code": "127206",
-    "name": "Naga Pitu"
+    "name": "Naga Pitu",
+    "postal_code": "21137"
   },
   {
     "code": "1272061011",
     "district_code": "127206",
-    "name": "Tanjung Pinggir"
+    "name": "Tanjung Pinggir",
+    "postal_code": "21137"
   }
 ]

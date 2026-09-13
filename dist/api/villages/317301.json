@@ -2,31 +2,37 @@
   {
     "code": "3173011001",
     "district_code": "317301",
-    "name": "Cengkareng Barat"
+    "name": "Cengkareng Barat",
+    "postal_code": "11730"
   },
   {
     "code": "3173011002",
     "district_code": "317301",
-    "name": "Duri Kosambi"
+    "name": "Duri Kosambi",
+    "postal_code": "11750"
   },
   {
     "code": "3173011003",
     "district_code": "317301",
-    "name": "Rawa Buaya"
+    "name": "Rawa Buaya",
+    "postal_code": "11740"
   },
   {
     "code": "3173011004",
     "district_code": "317301",
-    "name": "Kedaung Kali Angke"
+    "name": "Kedaung Kali Angke",
+    "postal_code": "11710"
   },
   {
     "code": "3173011005",
     "district_code": "317301",
-    "name": "Kapuk"
+    "name": "Kapuk",
+    "postal_code": "11720"
   },
   {
     "code": "3173011006",
     "district_code": "317301",
-    "name": "Cengkareng Timur"
+    "name": "Cengkareng Timur",
+    "postal_code": "11730"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "6104202001",
     "district_code": "610420",
-    "name": "Semandang Kanan"
+    "name": "Semandang Kanan",
+    "postal_code": "78854"
   },
   {
     "code": "6104202002",
     "district_code": "610420",
-    "name": "Gema"
+    "name": "Gema",
+    "postal_code": "78854"
   },
   {
     "code": "6104202003",
     "district_code": "610420",
-    "name": "Mekar Raya"
+    "name": "Mekar Raya",
+    "postal_code": "78854"
   },
   {
     "code": "6104202004",
     "district_code": "610420",
-    "name": "Kampar Sebomban"
+    "name": "Kampar Sebomban",
+    "postal_code": "78854"
   },
   {
     "code": "6104202005",
     "district_code": "610420",
-    "name": "Batu Daya"
+    "name": "Batu Daya",
+    "postal_code": "78854"
   },
   {
     "code": "6104202006",
     "district_code": "610420",
-    "name": "Kamora"
+    "name": "Kamora",
+    "postal_code": "78854"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "7403061004",
     "district_code": "740306",
-    "name": "Napabalano"
+    "name": "Napabalano",
+    "postal_code": "93622"
   },
   {
     "code": "7403061005",
     "district_code": "740306",
-    "name": "Tampo"
+    "name": "Tampo",
+    "postal_code": "93622"
   },
   {
     "code": "7403062003",
     "district_code": "740306",
-    "name": "Napalakura"
+    "name": "Napalakura",
+    "postal_code": "93622"
   },
   {
     "code": "7403062006",
     "district_code": "740306",
-    "name": "Pentiro"
+    "name": "Pentiro",
+    "postal_code": "93622"
   },
   {
     "code": "7403062007",
     "district_code": "740306",
-    "name": "Langkumapo"
+    "name": "Langkumapo",
+    "postal_code": "93622"
   },
   {
     "code": "7403062009",
     "district_code": "740306",
-    "name": "Lambiku"
+    "name": "Lambiku",
+    "postal_code": "93622"
   }
 ]

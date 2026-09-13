@@ -2,61 +2,73 @@
   {
     "code": "7109021002",
     "district_code": "710902",
-    "name": "Paseng"
+    "name": "Paseng",
+    "postal_code": "95862"
   },
   {
     "code": "7109021003",
     "district_code": "710902",
-    "name": "Paniki"
+    "name": "Paniki",
+    "postal_code": "95862"
   },
   {
     "code": "7109021004",
     "district_code": "710902",
-    "name": "Ondong"
+    "name": "Ondong",
+    "postal_code": "95862"
   },
   {
     "code": "7109022001",
     "district_code": "710902",
-    "name": "Peling Sawang"
+    "name": "Peling Sawang",
+    "postal_code": "95862"
   },
   {
     "code": "7109022005",
     "district_code": "710902",
-    "name": "Kanawong"
+    "name": "Kanawong",
+    "postal_code": "95862"
   },
   {
     "code": "7109022006",
     "district_code": "710902",
-    "name": "Bumbiha"
+    "name": "Bumbiha",
+    "postal_code": "95862"
   },
   {
     "code": "7109022007",
     "district_code": "710902",
-    "name": "Pehe"
+    "name": "Pehe",
+    "postal_code": "95862"
   },
   {
     "code": "7109022008",
     "district_code": "710902",
-    "name": "Lehi"
+    "name": "Lehi",
+    "postal_code": "95862"
   },
   {
     "code": "7109022009",
     "district_code": "710902",
-    "name": "Peling"
+    "name": "Peling",
+    "postal_code": "95862"
   },
   {
     "code": "7109022010",
     "district_code": "710902",
-    "name": "Makalehi"
+    "name": "Makalehi",
+    "postal_code": "95862"
   },
   {
     "code": "7109022011",
     "district_code": "710902",
-    "name": "Makalehi Utara"
+    "name": "Makalehi Utara",
+    "postal_code": "95862"
   },
   {
     "code": "7109022012",
     "district_code": "710902",
-    "name": "Makalehi Timur"
+    "name": "Makalehi Timur",
+    "postal_code": "95862"
   }
 ]

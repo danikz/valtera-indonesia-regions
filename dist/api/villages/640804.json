@@ -2,21 +2,25 @@
   {
     "code": "6408041010",
     "district_code": "640804",
-    "name": "Teluk Lingga"
+    "name": "Teluk Lingga",
+    "postal_code": "75681"
   },
   {
     "code": "6408042001",
     "district_code": "640804",
-    "name": "Sangatta Utara"
+    "name": "Sangatta Utara",
+    "postal_code": "75681"
   },
   {
     "code": "6408042011",
     "district_code": "640804",
-    "name": "Singa Gembara"
+    "name": "Singa Gembara",
+    "postal_code": "75681"
   },
   {
     "code": "6408042012",
     "district_code": "640804",
-    "name": "Swarga Bara"
+    "name": "Swarga Bara",
+    "postal_code": "75681"
   }
 ]

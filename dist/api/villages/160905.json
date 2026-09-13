@@ -2,36 +2,43 @@
   {
     "code": "1609052001",
     "district_code": "160905",
-    "name": "Karang Agung"
+    "name": "Karang Agung",
+    "postal_code": "32263"
   },
   {
     "code": "1609052007",
     "district_code": "160905",
-    "name": "Lubar"
+    "name": "Lubar",
+    "postal_code": "32263"
   },
   {
     "code": "1609052008",
     "district_code": "160905",
-    "name": "Tanjung Sari"
+    "name": "Tanjung Sari",
+    "postal_code": "32263"
   },
   {
     "code": "1609052009",
     "district_code": "160905",
-    "name": "Simpangan"
+    "name": "Simpangan",
+    "postal_code": "32263"
   },
   {
     "code": "1609052010",
     "district_code": "160905",
-    "name": "Bungin Campang"
+    "name": "Bungin Campang",
+    "postal_code": "32263"
   },
   {
     "code": "1609052029",
     "district_code": "160905",
-    "name": "Simpang Agung"
+    "name": "Simpang Agung",
+    "postal_code": "32263"
   },
   {
     "code": "1609052030",
     "district_code": "160905",
-    "name": "Sinar Mulyo"
+    "name": "Sinar Mulyo",
+    "postal_code": "32263"
   }
 ]

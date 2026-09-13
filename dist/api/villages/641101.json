@@ -2,56 +2,67 @@
   {
     "code": "6411012001",
     "district_code": "641101",
-    "name": "Long Hurai"
+    "name": "Long Hurai",
+    "postal_code": "75767"
   },
   {
     "code": "6411012002",
     "district_code": "641101",
-    "name": "Long Melaham"
+    "name": "Long Melaham",
+    "postal_code": "75767"
   },
   {
     "code": "6411012003",
     "district_code": "641101",
-    "name": "Memahak Besar"
+    "name": "Memahak Besar",
+    "postal_code": "75767"
   },
   {
     "code": "6411012004",
     "district_code": "641101",
-    "name": "Memahak Ulu"
+    "name": "Memahak Ulu",
+    "postal_code": "75767"
   },
   {
     "code": "6411012005",
     "district_code": "641101",
-    "name": "Batu Majang"
+    "name": "Batu Majang",
+    "postal_code": "75767"
   },
   {
     "code": "6411012006",
     "district_code": "641101",
-    "name": "Ujoh Bilang"
+    "name": "Ujoh Bilang",
+    "postal_code": "75767"
   },
   {
     "code": "6411012007",
     "district_code": "641101",
-    "name": "Long Bagun Ilir"
+    "name": "Long Bagun Ilir",
+    "postal_code": "75767"
   },
   {
     "code": "6411012008",
     "district_code": "641101",
-    "name": "Long Bagun Ulu"
+    "name": "Long Bagun Ulu",
+    "postal_code": "75767"
   },
   {
     "code": "6411012009",
     "district_code": "641101",
-    "name": "Batoq Kelo"
+    "name": "Batoq Kelo",
+    "postal_code": "75767"
   },
   {
     "code": "6411012010",
     "district_code": "641101",
-    "name": "Long Merah"
+    "name": "Long Merah",
+    "postal_code": "75767"
   },
   {
     "code": "6411012011",
     "district_code": "641101",
-    "name": "Rukun Damai"
+    "name": "Rukun Damai",
+    "postal_code": "75767"
   }
 ]

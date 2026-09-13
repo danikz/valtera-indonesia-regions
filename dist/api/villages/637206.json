@@ -2,21 +2,25 @@
   {
     "code": "6372061001",
     "district_code": "637206",
-    "name": "Landasan Ulin Barat"
+    "name": "Landasan Ulin Barat",
+    "postal_code": "70722"
   },
   {
     "code": "6372061002",
     "district_code": "637206",
-    "name": "Landasan Ulin Tengah"
+    "name": "Landasan Ulin Tengah",
+    "postal_code": "70723"
   },
   {
     "code": "6372061003",
     "district_code": "637206",
-    "name": "Landasan Ulin Utara"
+    "name": "Landasan Ulin Utara",
+    "postal_code": "70724"
   },
   {
     "code": "6372061004",
     "district_code": "637206",
-    "name": "Landasan Ulin Selatan"
+    "name": "Landasan Ulin Selatan",
+    "postal_code": "70724"
   }
 ]

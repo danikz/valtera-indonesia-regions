@@ -2,51 +2,61 @@
   {
     "code": "3374151001",
     "district_code": "337415",
-    "name": "Gondoriyo"
+    "name": "Gondoriyo",
+    "postal_code": "50187"
   },
   {
     "code": "3374151002",
     "district_code": "337415",
-    "name": "Podorejo"
+    "name": "Podorejo",
+    "postal_code": "50187"
   },
   {
     "code": "3374151003",
     "district_code": "337415",
-    "name": "Beringin"
+    "name": "Beringin",
+    "postal_code": "50189"
   },
   {
     "code": "3374151004",
     "district_code": "337415",
-    "name": "Purwoyoso"
+    "name": "Purwoyoso",
+    "postal_code": "50184"
   },
   {
     "code": "3374151005",
     "district_code": "337415",
-    "name": "Kalipancur"
+    "name": "Kalipancur",
+    "postal_code": "50183"
   },
   {
     "code": "3374151006",
     "district_code": "337415",
-    "name": "Bambankerep"
+    "name": "Bambankerep",
+    "postal_code": "50211"
   },
   {
     "code": "3374151007",
     "district_code": "337415",
-    "name": "Ngaliyan"
+    "name": "Ngaliyan",
+    "postal_code": "50181"
   },
   {
     "code": "3374151008",
     "district_code": "337415",
-    "name": "Tambakaji"
+    "name": "Tambakaji",
+    "postal_code": "50185"
   },
   {
     "code": "3374151009",
     "district_code": "337415",
-    "name": "Wonosari"
+    "name": "Wonosari",
+    "postal_code": "50244"
   },
   {
     "code": "3374151010",
     "district_code": "337415",
-    "name": "Wates"
+    "name": "Wates",
+    "postal_code": "50188"
   }
 ]

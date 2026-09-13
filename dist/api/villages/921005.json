@@ -2,46 +2,55 @@
   {
     "code": "9210052001",
     "district_code": "921005",
-    "name": "Kambufatem"
+    "name": "Kambufatem",
+    "postal_code": ""
   },
   {
     "code": "9210052002",
     "district_code": "921005",
-    "name": "Kambufatem Utara"
+    "name": "Kambufatem Utara",
+    "postal_code": ""
   },
   {
     "code": "9210052003",
     "district_code": "921005",
-    "name": "Fatase"
+    "name": "Fatase",
+    "postal_code": ""
   },
   {
     "code": "9210052008",
     "district_code": "921005",
-    "name": "Hosyo Ata"
+    "name": "Hosyo Ata",
+    "postal_code": ""
   },
   {
     "code": "9210052009",
     "district_code": "921005",
-    "name": "Waybomatah"
+    "name": "Waybomatah",
+    "postal_code": ""
   },
   {
     "code": "9210052010",
     "district_code": "921005",
-    "name": "Siyo"
+    "name": "Siyo",
+    "postal_code": ""
   },
   {
     "code": "9210052011",
     "district_code": "921005",
-    "name": "Hasweh"
+    "name": "Hasweh",
+    "postal_code": ""
   },
   {
     "code": "9210052012",
     "district_code": "921005",
-    "name": "Fatem"
+    "name": "Fatem",
+    "postal_code": ""
   },
   {
     "code": "9210052013",
     "district_code": "921005",
-    "name": "Hosyo Banah"
+    "name": "Hosyo Banah",
+    "postal_code": ""
   }
 ]

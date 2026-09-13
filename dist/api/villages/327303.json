@@ -2,31 +2,37 @@
   {
     "code": "3273031001",
     "district_code": "327303",
-    "name": "Babakan Ciparay"
+    "name": "Babakan Ciparay",
+    "postal_code": "40223"
   },
   {
     "code": "3273031002",
     "district_code": "327303",
-    "name": "Babakan"
+    "name": "Babakan",
+    "postal_code": "40222"
   },
   {
     "code": "3273031003",
     "district_code": "327303",
-    "name": "Sukahaji"
+    "name": "Sukahaji",
+    "postal_code": "40221"
   },
   {
     "code": "3273031004",
     "district_code": "327303",
-    "name": "Margahayu Utara"
+    "name": "Margahayu Utara",
+    "postal_code": "40224"
   },
   {
     "code": "3273031005",
     "district_code": "327303",
-    "name": "Margasuka"
+    "name": "Margasuka",
+    "postal_code": "40225"
   },
   {
     "code": "3273031006",
     "district_code": "327303",
-    "name": "Cirangrang"
+    "name": "Cirangrang",
+    "postal_code": "40227"
   }
 ]

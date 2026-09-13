@@ -2,21 +2,25 @@
   {
     "code": "6172051001",
     "district_code": "617205",
-    "name": "Sedau"
+    "name": "Sedau",
+    "postal_code": "79163"
   },
   {
     "code": "6172051002",
     "district_code": "617205",
-    "name": "Sagatani"
+    "name": "Sagatani",
+    "postal_code": "79163"
   },
   {
     "code": "6172051003",
     "district_code": "617205",
-    "name": "Sijangkung"
+    "name": "Sijangkung",
+    "postal_code": "79163"
   },
   {
     "code": "6172051004",
     "district_code": "617205",
-    "name": "Pangmilang"
+    "name": "Pangmilang",
+    "postal_code": "79163"
   }
 ]

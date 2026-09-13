@@ -2,51 +2,61 @@
   {
     "code": "7174021003",
     "district_code": "717402",
-    "name": "Kotobangun"
+    "name": "Kotobangun",
+    "postal_code": "95712"
   },
   {
     "code": "7174021004",
     "district_code": "717402",
-    "name": "Tumubui"
+    "name": "Tumubui",
+    "postal_code": "95716"
   },
   {
     "code": "7174021005",
     "district_code": "717402",
-    "name": "Sinindian"
+    "name": "Sinindian",
+    "postal_code": "95718"
   },
   {
     "code": "7174021006",
     "district_code": "717402",
-    "name": "Matali"
+    "name": "Matali",
+    "postal_code": "95718"
   },
   {
     "code": "7174021007",
     "district_code": "717402",
-    "name": "Motoboi Besar"
+    "name": "Motoboi Besar",
+    "postal_code": "95719"
   },
   {
     "code": "7174021008",
     "district_code": "717402",
-    "name": "Kobo Besar"
+    "name": "Kobo Besar",
+    "postal_code": "95719"
   },
   {
     "code": "7174022001",
     "district_code": "717402",
-    "name": "Moyag"
+    "name": "Moyag",
+    "postal_code": "95719"
   },
   {
     "code": "7174022002",
     "district_code": "717402",
-    "name": "Kobo Kecil"
+    "name": "Kobo Kecil",
+    "postal_code": "95719"
   },
   {
     "code": "7174022009",
     "district_code": "717402",
-    "name": "Moyag Tampoan"
+    "name": "Moyag Tampoan",
+    "postal_code": "95719"
   },
   {
     "code": "7174022010",
     "district_code": "717402",
-    "name": "Moyag Todulan"
+    "name": "Moyag Todulan",
+    "postal_code": "95719"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "3320102001",
     "district_code": "332010",
-    "name": "Karimunjawa"
+    "name": "Karimunjawa",
+    "postal_code": "59455"
   },
   {
     "code": "3320102002",
     "district_code": "332010",
-    "name": "Kemujan"
+    "name": "Kemujan",
+    "postal_code": "59455"
   },
   {
     "code": "3320102003",
     "district_code": "332010",
-    "name": "Parang"
+    "name": "Parang",
+    "postal_code": "59455"
   },
   {
     "code": "3320102004",
     "district_code": "332010",
-    "name": "Nyamuk"
+    "name": "Nyamuk",
+    "postal_code": "59455"
   }
 ]

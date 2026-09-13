@@ -2,31 +2,37 @@
   {
     "code": "7208202001",
     "district_code": "720820",
-    "name": "Pelawa Baru"
+    "name": "Pelawa Baru",
+    "postal_code": "94462"
   },
   {
     "code": "7208202002",
     "district_code": "720820",
-    "name": "Pelawa"
+    "name": "Pelawa",
+    "postal_code": "94462"
   },
   {
     "code": "7208202003",
     "district_code": "720820",
-    "name": "Binangga"
+    "name": "Binangga",
+    "postal_code": "94462"
   },
   {
     "code": "7208202004",
     "district_code": "720820",
-    "name": "Jononunu"
+    "name": "Jononunu",
+    "postal_code": "94462"
   },
   {
     "code": "7208202005",
     "district_code": "720820",
-    "name": "Matolele"
+    "name": "Matolele",
+    "postal_code": "94462"
   },
   {
     "code": "7208202006",
     "district_code": "720820",
-    "name": "Petapa"
+    "name": "Petapa",
+    "postal_code": "94462"
   }
 ]

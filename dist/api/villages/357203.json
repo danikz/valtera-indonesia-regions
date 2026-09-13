@@ -2,36 +2,43 @@
   {
     "code": "3572031001",
     "district_code": "357203",
-    "name": "Gedog"
+    "name": "Gedog",
+    "postal_code": "66137"
   },
   {
     "code": "3572031002",
     "district_code": "357203",
-    "name": "Plosokerep"
+    "name": "Plosokerep",
+    "postal_code": "66134"
   },
   {
     "code": "3572031003",
     "district_code": "357203",
-    "name": "Klampok"
+    "name": "Klampok",
+    "postal_code": "66136"
   },
   {
     "code": "3572031004",
     "district_code": "357203",
-    "name": "Sananwetan"
+    "name": "Sananwetan",
+    "postal_code": "66137"
   },
   {
     "code": "3572031005",
     "district_code": "357203",
-    "name": "Rembang"
+    "name": "Rembang",
+    "postal_code": "66135"
   },
   {
     "code": "3572031006",
     "district_code": "357203",
-    "name": "Karang Tengah"
+    "name": "Karang Tengah",
+    "postal_code": "66137"
   },
   {
     "code": "3572031007",
     "district_code": "357203",
-    "name": "Bendogerit"
+    "name": "Bendogerit",
+    "postal_code": "66133"
   }
 ]

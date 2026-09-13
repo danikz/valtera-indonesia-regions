@@ -2,46 +2,55 @@
   {
     "code": "1805222001",
     "district_code": "180522",
-    "name": "Sumber Agung"
+    "name": "Sumber Agung",
+    "postal_code": "34594"
   },
   {
     "code": "1805222002",
     "district_code": "180522",
-    "name": "Batang Hari"
+    "name": "Batang Hari",
+    "postal_code": "34594"
   },
   {
     "code": "1805222003",
     "district_code": "180522",
-    "name": "Panggung Mulyo"
+    "name": "Panggung Mulyo",
+    "postal_code": "34594"
   },
   {
     "code": "1805222004",
     "district_code": "180522",
-    "name": "Duto Yoso Mulyo"
+    "name": "Duto Yoso Mulyo",
+    "postal_code": "34594"
   },
   {
     "code": "1805222005",
     "district_code": "180522",
-    "name": "Andalas Cermin"
+    "name": "Andalas Cermin",
+    "postal_code": "34594"
   },
   {
     "code": "1805222006",
     "district_code": "180522",
-    "name": "Rawa Ragil"
+    "name": "Rawa Ragil",
+    "postal_code": "34594"
   },
   {
     "code": "1805222007",
     "district_code": "180522",
-    "name": "Gedung Jaya"
+    "name": "Gedung Jaya",
+    "postal_code": "34594"
   },
   {
     "code": "1805222008",
     "district_code": "180522",
-    "name": "Bumi Sari"
+    "name": "Bumi Sari",
+    "postal_code": "34594"
   },
   {
     "code": "1805222009",
     "district_code": "180522",
-    "name": "Mulyo Dadi"
+    "name": "Mulyo Dadi",
+    "postal_code": "34594"
   }
 ]

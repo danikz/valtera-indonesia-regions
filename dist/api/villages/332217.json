@@ -2,56 +2,67 @@
   {
     "code": "3322172001",
     "district_code": "332217",
-    "name": "Kaliwungu"
+    "name": "Kaliwungu",
+    "postal_code": "50229"
   },
   {
     "code": "3322172002",
     "district_code": "332217",
-    "name": "Jetis"
+    "name": "Jetis",
+    "postal_code": "50229"
   },
   {
     "code": "3322172003",
     "district_code": "332217",
-    "name": "Kener"
+    "name": "Kener",
+    "postal_code": "50229"
   },
   {
     "code": "3322172004",
     "district_code": "332217",
-    "name": "Kradenan"
+    "name": "Kradenan",
+    "postal_code": "50221"
   },
   {
     "code": "3322172005",
     "district_code": "332217",
-    "name": "Mukiran"
+    "name": "Mukiran",
+    "postal_code": "50229"
   },
   {
     "code": "3322172006",
     "district_code": "332217",
-    "name": "Pager"
+    "name": "Pager",
+    "postal_code": "50229"
   },
   {
     "code": "3322172007",
     "district_code": "332217",
-    "name": "Papringan"
+    "name": "Papringan",
+    "postal_code": "50229"
   },
   {
     "code": "3322172008",
     "district_code": "332217",
-    "name": "Payungan"
+    "name": "Payungan",
+    "postal_code": "50229"
   },
   {
     "code": "3322172009",
     "district_code": "332217",
-    "name": "Rogomulyo"
+    "name": "Rogomulyo",
+    "postal_code": "50229"
   },
   {
     "code": "3322172010",
     "district_code": "332217",
-    "name": "Siwal"
+    "name": "Siwal",
+    "postal_code": "50229"
   },
   {
     "code": "3322172011",
     "district_code": "332217",
-    "name": "Udanwuh"
+    "name": "Udanwuh",
+    "postal_code": "50229"
   }
 ]

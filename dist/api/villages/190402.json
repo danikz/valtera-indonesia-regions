@@ -2,61 +2,73 @@
   {
     "code": "1904021001",
     "district_code": "190402",
-    "name": "Dul"
+    "name": "Dul",
+    "postal_code": "33684"
   },
   {
     "code": "1904022004",
     "district_code": "190402",
-    "name": "Air Mesu"
+    "name": "Air Mesu",
+    "postal_code": "33684"
   },
   {
     "code": "1904022006",
     "district_code": "190402",
-    "name": "Mangkol"
+    "name": "Mangkol",
+    "postal_code": "33684"
   },
   {
     "code": "1904022007",
     "district_code": "190402",
-    "name": "Tanjung Gunung"
+    "name": "Tanjung Gunung",
+    "postal_code": "33684"
   },
   {
     "code": "1904022010",
     "district_code": "190402",
-    "name": "Benteng"
+    "name": "Benteng",
+    "postal_code": "33684"
   },
   {
     "code": "1904022012",
     "district_code": "190402",
-    "name": "Padang Baru"
+    "name": "Padang Baru",
+    "postal_code": "33684"
   },
   {
     "code": "1904022013",
     "district_code": "190402",
-    "name": "Jeruk"
+    "name": "Jeruk",
+    "postal_code": "33684"
   },
   {
     "code": "1904022014",
     "district_code": "190402",
-    "name": "Beluluk"
+    "name": "Beluluk",
+    "postal_code": "33684"
   },
   {
     "code": "1904022016",
     "district_code": "190402",
-    "name": "Pedindang"
+    "name": "Pedindang",
+    "postal_code": "33684"
   },
   {
     "code": "1904022018",
     "district_code": "190402",
-    "name": "Batu Belubang"
+    "name": "Batu Belubang",
+    "postal_code": "33684"
   },
   {
     "code": "1904022020",
     "district_code": "190402",
-    "name": "Air Mesu Timur"
+    "name": "Air Mesu Timur",
+    "postal_code": "33684"
   },
   {
     "code": "1904022021",
     "district_code": "190402",
-    "name": "Kebintik"
+    "name": "Kebintik",
+    "postal_code": "33684"
   }
 ]

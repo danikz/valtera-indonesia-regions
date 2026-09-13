@@ -2,36 +2,43 @@
   {
     "code": "9502092001",
     "district_code": "950209",
-    "name": "Pepera"
+    "name": "Pepera",
+    "postal_code": "99573"
   },
   {
     "code": "9502092002",
     "district_code": "950209",
-    "name": "Okbon"
+    "name": "Okbon",
+    "postal_code": "99417"
   },
   {
     "code": "9502092003",
     "district_code": "950209",
-    "name": "Yun Muku"
+    "name": "Yun Muku",
+    "postal_code": "99573"
   },
   {
     "code": "9502092004",
     "district_code": "950209",
-    "name": "Denom"
+    "name": "Denom",
+    "postal_code": "99573"
   },
   {
     "code": "9502092005",
     "district_code": "950209",
-    "name": "Bon Yakwol"
+    "name": "Bon Yakwol",
+    "postal_code": "99573"
   },
   {
     "code": "9502092006",
     "district_code": "950209",
-    "name": "Ok Telabe"
+    "name": "Ok Telabe",
+    "postal_code": "99417"
   },
   {
     "code": "9502092007",
     "district_code": "950209",
-    "name": "Wok Bakon"
+    "name": "Wok Bakon",
+    "postal_code": "99417"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1214282001",
     "district_code": "121428",
-    "name": "Gobo"
+    "name": "Gobo",
+    "postal_code": "22886"
   },
   {
     "code": "1214282002",
     "district_code": "121428",
-    "name": "Silina"
+    "name": "Silina",
+    "postal_code": "22886"
   },
   {
     "code": "1214282003",
     "district_code": "121428",
-    "name": "Maufa"
+    "name": "Maufa",
+    "postal_code": "22886"
   },
   {
     "code": "1214282004",
     "district_code": "121428",
-    "name": "Gondia"
+    "name": "Gondia",
+    "postal_code": "22886"
   },
   {
     "code": "1214282005",
     "district_code": "121428",
-    "name": "Gobo Baru"
+    "name": "Gobo Baru",
+    "postal_code": "22886"
   },
   {
     "code": "1214282006",
     "district_code": "121428",
-    "name": "Silina Baru"
+    "name": "Silina Baru",
+    "postal_code": "22886"
   }
 ]

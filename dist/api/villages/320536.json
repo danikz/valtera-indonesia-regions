@@ -2,31 +2,37 @@
   {
     "code": "3205362001",
     "district_code": "320536",
-    "name": "Caringin"
+    "name": "Caringin",
+    "postal_code": "44166"
   },
   {
     "code": "3205362002",
     "district_code": "320536",
-    "name": "Indralayang"
+    "name": "Indralayang",
+    "postal_code": "44166"
   },
   {
     "code": "3205362003",
     "district_code": "320536",
-    "name": "Cimahi"
+    "name": "Cimahi",
+    "postal_code": "44166"
   },
   {
     "code": "3205362004",
     "district_code": "320536",
-    "name": "Sukarame"
+    "name": "Sukarame",
+    "postal_code": "44166"
   },
   {
     "code": "3205362005",
     "district_code": "320536",
-    "name": "Purbayani"
+    "name": "Purbayani",
+    "postal_code": "44166"
   },
   {
     "code": "3205362006",
     "district_code": "320536",
-    "name": "Samuderajaya"
+    "name": "Samuderajaya",
+    "postal_code": "44166"
   }
 ]

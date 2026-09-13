@@ -2,51 +2,61 @@
   {
     "code": "3211012001",
     "district_code": "321101",
-    "name": "Cimungkal"
+    "name": "Cimungkal",
+    "postal_code": "45373"
   },
   {
     "code": "3211012002",
     "district_code": "321101",
-    "name": "Ganjaresik"
+    "name": "Ganjaresik",
+    "postal_code": "45373"
   },
   {
     "code": "3211012003",
     "district_code": "321101",
-    "name": "Cilengkrang"
+    "name": "Cilengkrang",
+    "postal_code": "45373"
   },
   {
     "code": "3211012004",
     "district_code": "321101",
-    "name": "Cikareo Selatan"
+    "name": "Cikareo Selatan",
+    "postal_code": "45373"
   },
   {
     "code": "3211012005",
     "district_code": "321101",
-    "name": "Cikareo Utara"
+    "name": "Cikareo Utara",
+    "postal_code": "45373"
   },
   {
     "code": "3211012006",
     "district_code": "321101",
-    "name": "Wado"
+    "name": "Wado",
+    "postal_code": "45373"
   },
   {
     "code": "3211012007",
     "district_code": "321101",
-    "name": "Mulyajaya"
+    "name": "Mulyajaya",
+    "postal_code": "45373"
   },
   {
     "code": "3211012009",
     "district_code": "321101",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "45373"
   },
   {
     "code": "3211012010",
     "district_code": "321101",
-    "name": "Cisurat"
+    "name": "Cisurat",
+    "postal_code": "45373"
   },
   {
     "code": "3211012011",
     "district_code": "321101",
-    "name": "Sukapura"
+    "name": "Sukapura",
+    "postal_code": "45373"
   }
 ]

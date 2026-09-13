@@ -2,66 +2,79 @@
   {
     "code": "1211092001",
     "district_code": "121109",
-    "name": "Simanduma"
+    "name": "Simanduma",
+    "postal_code": "22283"
   },
   {
     "code": "1211092002",
     "district_code": "121109",
-    "name": "Bandar Huta Usang"
+    "name": "Bandar Huta Usang",
+    "postal_code": "22283"
   },
   {
     "code": "1211092003",
     "district_code": "121109",
-    "name": "Onan Lama"
+    "name": "Onan Lama",
+    "postal_code": "22283"
   },
   {
     "code": "1211092004",
     "district_code": "121109",
-    "name": "Lingga Raja"
+    "name": "Lingga Raja",
+    "postal_code": "22283"
   },
   {
     "code": "1211092005",
     "district_code": "121109",
-    "name": "Laksa"
+    "name": "Laksa",
+    "postal_code": "22283"
   },
   {
     "code": "1211092006",
     "district_code": "121109",
-    "name": "Tanjung Saluksuk"
+    "name": "Tanjung Saluksuk",
+    "postal_code": "22283"
   },
   {
     "code": "1211092007",
     "district_code": "121109",
-    "name": "Bukit Tinggi"
+    "name": "Bukit Tinggi",
+    "postal_code": "22283"
   },
   {
     "code": "1211092008",
     "district_code": "121109",
-    "name": "Simartugan"
+    "name": "Simartugan",
+    "postal_code": "22283"
   },
   {
     "code": "1211092009",
     "district_code": "121109",
-    "name": "Kuta Usang"
+    "name": "Kuta Usang",
+    "postal_code": "22283"
   },
   {
     "code": "1211092010",
     "district_code": "121109",
-    "name": "Lingga Raja II"
+    "name": "Lingga Raja II",
+    "postal_code": "22283"
   },
   {
     "code": "1211092011",
     "district_code": "121109",
-    "name": "Mbinanga"
+    "name": "Mbinanga",
+    "postal_code": "22283"
   },
   {
     "code": "1211092012",
     "district_code": "121109",
-    "name": "Bukit Baru"
+    "name": "Bukit Baru",
+    "postal_code": "22283"
   },
   {
     "code": "1211092013",
     "district_code": "121109",
-    "name": "Perrik Mbue"
+    "name": "Perrik Mbue",
+    "postal_code": "22283"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "7207112001",
     "district_code": "720711",
-    "name": "Tobing"
+    "name": "Tobing",
+    "postal_code": "94885"
   },
   {
     "code": "7207112002",
     "district_code": "720711",
-    "name": "Paisumusoni"
+    "name": "Paisumusoni",
+    "postal_code": "94885"
   },
   {
     "code": "7207112003",
     "district_code": "720711",
-    "name": "Tobungin"
+    "name": "Tobungin",
+    "postal_code": "94885"
   },
   {
     "code": "7207112004",
     "district_code": "720711",
-    "name": "Mansamat A"
+    "name": "Mansamat A",
+    "postal_code": "94885"
   },
   {
     "code": "7207112005",
     "district_code": "720711",
-    "name": "Mansamat B"
+    "name": "Mansamat B",
+    "postal_code": "94885"
   },
   {
     "code": "7207112006",
     "district_code": "720711",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "94714"
   },
   {
     "code": "7207112007",
     "district_code": "720711",
-    "name": "Tinangkung"
+    "name": "Tinangkung",
+    "postal_code": "94885"
   },
   {
     "code": "7207112008",
     "district_code": "720711",
-    "name": "Gansal"
+    "name": "Gansal",
+    "postal_code": "94885"
   },
   {
     "code": "7207112009",
     "district_code": "720711",
-    "name": "Bobu"
+    "name": "Bobu",
+    "postal_code": "94885"
   }
 ]

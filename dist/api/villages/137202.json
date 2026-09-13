@@ -2,31 +2,37 @@
   {
     "code": "1372021001",
     "district_code": "137202",
-    "name": "Koto Panjang"
+    "name": "Koto Panjang",
+    "postal_code": "27323"
   },
   {
     "code": "1372021002",
     "district_code": "137202",
-    "name": "Pasar Pandan Air Mati"
+    "name": "Pasar Pandan Air Mati",
+    "postal_code": "27322"
   },
   {
     "code": "1372021003",
     "district_code": "137202",
-    "name": "Tanjung Paku"
+    "name": "Tanjung Paku",
+    "postal_code": "27324"
   },
   {
     "code": "1372021004",
     "district_code": "137202",
-    "name": "Nan Balimo"
+    "name": "Nan Balimo",
+    "postal_code": "27326"
   },
   {
     "code": "1372021005",
     "district_code": "137202",
-    "name": "Kampung Jawa"
+    "name": "Kampung Jawa",
+    "postal_code": "27321"
   },
   {
     "code": "1372021006",
     "district_code": "137202",
-    "name": "Laing"
+    "name": "Laing",
+    "postal_code": "27325"
   }
 ]

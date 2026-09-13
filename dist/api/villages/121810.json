@@ -2,56 +2,67 @@
   {
     "code": "1218102001",
     "district_code": "121810",
-    "name": "Kotarih Pekan"
+    "name": "Kotarih Pekan",
+    "postal_code": "20982"
   },
   {
     "code": "1218102002",
     "district_code": "121810",
-    "name": "Kotarih Baru"
+    "name": "Kotarih Baru",
+    "postal_code": "20982"
   },
   {
     "code": "1218102003",
     "district_code": "121810",
-    "name": "Banjaran Godang"
+    "name": "Banjaran Godang",
+    "postal_code": "20982"
   },
   {
     "code": "1218102004",
     "district_code": "121810",
-    "name": "Si Ujan Ujan"
+    "name": "Si Ujan Ujan",
+    "postal_code": "20982"
   },
   {
     "code": "1218102010",
     "district_code": "121810",
-    "name": "Sei Kari"
+    "name": "Sei Kari",
+    "postal_code": "20982"
   },
   {
     "code": "1218102013",
     "district_code": "121810",
-    "name": "Bandar Bayu"
+    "name": "Bandar Bayu",
+    "postal_code": "20982"
   },
   {
     "code": "1218102014",
     "district_code": "121810",
-    "name": "Durian Kondot"
+    "name": "Durian Kondot",
+    "postal_code": "20982"
   },
   {
     "code": "1218102015",
     "district_code": "121810",
-    "name": "Perbahingan"
+    "name": "Perbahingan",
+    "postal_code": "20982"
   },
   {
     "code": "1218102022",
     "district_code": "121810",
-    "name": "Sialtong"
+    "name": "Sialtong",
+    "postal_code": "20982"
   },
   {
     "code": "1218102023",
     "district_code": "121810",
-    "name": "Huta Galuh"
+    "name": "Huta Galuh",
+    "postal_code": "20982"
   },
   {
     "code": "1218102024",
     "district_code": "121810",
-    "name": "Rubun Dunia"
+    "name": "Rubun Dunia",
+    "postal_code": "20982"
   }
 ]

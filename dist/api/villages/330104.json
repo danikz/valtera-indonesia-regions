@@ -2,86 +2,103 @@
   {
     "code": "3301042001",
     "district_code": "330104",
-    "name": "Jati"
+    "name": "Jati",
+    "postal_code": "53280"
   },
   {
     "code": "3301042002",
     "district_code": "330104",
-    "name": "Kepudang"
+    "name": "Kepudang",
+    "postal_code": "53280"
   },
   {
     "code": "3301042003",
     "district_code": "330104",
-    "name": "Jepara Kulon"
+    "name": "Jepara Kulon",
+    "postal_code": "53280"
   },
   {
     "code": "3301042004",
     "district_code": "330104",
-    "name": "Widarapayung Kulon"
+    "name": "Widarapayung Kulon",
+    "postal_code": "53280"
   },
   {
     "code": "3301042005",
     "district_code": "330104",
-    "name": "Jepara Wetan"
+    "name": "Jepara Wetan",
+    "postal_code": "53280"
   },
   {
     "code": "3301042006",
     "district_code": "330104",
-    "name": "Bangkal"
+    "name": "Bangkal",
+    "postal_code": "53280"
   },
   {
     "code": "3301042007",
     "district_code": "330104",
-    "name": "Binangun"
+    "name": "Binangun",
+    "postal_code": "53280"
   },
   {
     "code": "3301042008",
     "district_code": "330104",
-    "name": "Widarapayung Wetan"
+    "name": "Widarapayung Wetan",
+    "postal_code": "53280"
   },
   {
     "code": "3301042009",
     "district_code": "330104",
-    "name": "Alangamba"
+    "name": "Alangamba",
+    "postal_code": "53280"
   },
   {
     "code": "3301042010",
     "district_code": "330104",
-    "name": "Pasuruhan"
+    "name": "Pasuruhan",
+    "postal_code": "53280"
   },
   {
     "code": "3301042011",
     "district_code": "330104",
-    "name": "Sidaurip"
+    "name": "Sidaurip",
+    "postal_code": "53280"
   },
   {
     "code": "3301042012",
     "district_code": "330104",
-    "name": "Pagubugan"
+    "name": "Pagubugan",
+    "postal_code": "53280"
   },
   {
     "code": "3301042013",
     "district_code": "330104",
-    "name": "Pesawahan"
+    "name": "Pesawahan",
+    "postal_code": "53280"
   },
   {
     "code": "3301042014",
     "district_code": "330104",
-    "name": "Kemojing"
+    "name": "Kemojing",
+    "postal_code": "53280"
   },
   {
     "code": "3301042015",
     "district_code": "330104",
-    "name": "Karangnangka"
+    "name": "Karangnangka",
+    "postal_code": "53280"
   },
   {
     "code": "3301042016",
     "district_code": "330104",
-    "name": "Sidayu"
+    "name": "Sidayu",
+    "postal_code": "53280"
   },
   {
     "code": "3301042017",
     "district_code": "330104",
-    "name": "Pagubugan Kulon"
+    "name": "Pagubugan Kulon",
+    "postal_code": "53280"
   }
 ]

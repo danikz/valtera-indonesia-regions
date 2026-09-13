@@ -2,41 +2,49 @@
   {
     "code": "9303152001",
     "district_code": "930315",
-    "name": "Sagis"
+    "name": "Sagis",
+    "postal_code": "99878"
   },
   {
     "code": "9303152002",
     "district_code": "930315",
-    "name": "Kumaban"
+    "name": "Kumaban",
+    "postal_code": "99878"
   },
   {
     "code": "9303152003",
     "district_code": "930315",
-    "name": "Tugumau"
+    "name": "Tugumau",
+    "postal_code": "99878"
   },
   {
     "code": "9303152004",
     "district_code": "930315",
-    "name": "Basman"
+    "name": "Basman",
+    "postal_code": "99878"
   },
   {
     "code": "9303152005",
     "district_code": "930315",
-    "name": "Merokima"
+    "name": "Merokima",
+    "postal_code": "99878"
   },
   {
     "code": "9303152006",
     "district_code": "930315",
-    "name": "Mu"
+    "name": "Mu",
+    "postal_code": "99878"
   },
   {
     "code": "9303152007",
     "district_code": "930315",
-    "name": "Pier"
+    "name": "Pier",
+    "postal_code": "99878"
   },
   {
     "code": "9303152008",
     "district_code": "930315",
-    "name": "Tarwa"
+    "name": "Tarwa",
+    "postal_code": "99878"
   }
 ]

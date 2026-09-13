@@ -2,56 +2,67 @@
   {
     "code": "6106222001",
     "district_code": "610622",
-    "name": "Mensusai"
+    "name": "Mensusai",
+    "postal_code": "78775"
   },
   {
     "code": "6106222003",
     "district_code": "610622",
-    "name": "Kerengas"
+    "name": "Kerengas",
+    "postal_code": "78775"
   },
   {
     "code": "6106222004",
     "district_code": "610622",
-    "name": "Mantan"
+    "name": "Mantan",
+    "postal_code": "78775"
   },
   {
     "code": "6106222005",
     "district_code": "610622",
-    "name": "Nanga Suhaid"
+    "name": "Nanga Suhaid",
+    "postal_code": "78775"
   },
   {
     "code": "6106222006",
     "district_code": "610622",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "78775"
   },
   {
     "code": "6106222007",
     "district_code": "610622",
-    "name": "Madang Permai"
+    "name": "Madang Permai",
+    "postal_code": "78775"
   },
   {
     "code": "6106222008",
     "district_code": "610622",
-    "name": "Laut Tawang"
+    "name": "Laut Tawang",
+    "postal_code": "78775"
   },
   {
     "code": "6106222009",
     "district_code": "610622",
-    "name": "Jongkong Hulu"
+    "name": "Jongkong Hulu",
+    "postal_code": "78775"
   },
   {
     "code": "6106222010",
     "district_code": "610622",
-    "name": "Menapar"
+    "name": "Menapar",
+    "postal_code": "78775"
   },
   {
     "code": "6106222011",
     "district_code": "610622",
-    "name": "Lubuk Pengail"
+    "name": "Lubuk Pengail",
+    "postal_code": "78775"
   },
   {
     "code": "6106222012",
     "district_code": "610622",
-    "name": "Tanjung Harapan"
+    "name": "Tanjung Harapan",
+    "postal_code": "78775"
   }
 ]

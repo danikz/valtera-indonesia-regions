@@ -2,56 +2,67 @@
   {
     "code": "9507312001",
     "district_code": "950731",
-    "name": "Bonom"
+    "name": "Bonom",
+    "postal_code": "99578"
   },
   {
     "code": "9507312002",
     "district_code": "950731",
-    "name": "Kuwanom"
+    "name": "Kuwanom",
+    "postal_code": "99578"
   },
   {
     "code": "9507312003",
     "district_code": "950731",
-    "name": "Kumulume"
+    "name": "Kumulume",
+    "postal_code": "99578"
   },
   {
     "code": "9507312004",
     "district_code": "950731",
-    "name": "Uwagambur"
+    "name": "Uwagambur",
+    "postal_code": "99578"
   },
   {
     "code": "9507312005",
     "district_code": "950731",
-    "name": "Lagame"
+    "name": "Lagame",
+    "postal_code": "99578"
   },
   {
     "code": "9507312006",
     "district_code": "950731",
-    "name": "Kuwoge"
+    "name": "Kuwoge",
+    "postal_code": "99578"
   },
   {
     "code": "9507312007",
     "district_code": "950731",
-    "name": "Laurapaga"
+    "name": "Laurapaga",
+    "postal_code": "99578"
   },
   {
     "code": "9507312008",
     "district_code": "950731",
-    "name": "Bawi"
+    "name": "Bawi",
+    "postal_code": "99578"
   },
   {
     "code": "9507312009",
     "district_code": "950731",
-    "name": "Yugimbo"
+    "name": "Yugimbo",
+    "postal_code": "99578"
   },
   {
     "code": "9507312010",
     "district_code": "950731",
-    "name": "Tinggini"
+    "name": "Tinggini",
+    "postal_code": "99578"
   },
   {
     "code": "9507312011",
     "district_code": "950731",
-    "name": "Ogin"
+    "name": "Ogin",
+    "postal_code": "99578"
   }
 ]

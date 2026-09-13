@@ -2,56 +2,67 @@
   {
     "code": "1601072001",
     "district_code": "160107",
-    "name": "Negeri Sindang"
+    "name": "Negeri Sindang",
+    "postal_code": "32151"
   },
   {
     "code": "1601072002",
     "district_code": "160107",
-    "name": "Rantau Kumpai"
+    "name": "Rantau Kumpai",
+    "postal_code": "32151"
   },
   {
     "code": "1601072003",
     "district_code": "160107",
-    "name": "Lubuk Baru"
+    "name": "Lubuk Baru",
+    "postal_code": "32151"
   },
   {
     "code": "1601072004",
     "district_code": "160107",
-    "name": "Kungkilan"
+    "name": "Kungkilan",
+    "postal_code": "32151"
   },
   {
     "code": "1601072005",
     "district_code": "160107",
-    "name": "Penyandingan"
+    "name": "Penyandingan",
+    "postal_code": "32151"
   },
   {
     "code": "1601072006",
     "district_code": "160107",
-    "name": "Bandar"
+    "name": "Bandar",
+    "postal_code": "32151"
   },
   {
     "code": "1601072007",
     "district_code": "160107",
-    "name": "Lubuk Leban"
+    "name": "Lubuk Leban",
+    "postal_code": "32151"
   },
   {
     "code": "1601072008",
     "district_code": "160107",
-    "name": "Tungku Jaya"
+    "name": "Tungku Jaya",
+    "postal_code": "32151"
   },
   {
     "code": "1601072009",
     "district_code": "160107",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "32151"
   },
   {
     "code": "1601072010",
     "district_code": "160107",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "32151"
   },
   {
     "code": "1601072011",
     "district_code": "160107",
-    "name": "Penantian"
+    "name": "Penantian",
+    "postal_code": "32151"
   }
 ]

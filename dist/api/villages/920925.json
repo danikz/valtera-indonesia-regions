@@ -2,51 +2,61 @@
   {
     "code": "9209252001",
     "district_code": "920925",
-    "name": "Atai"
+    "name": "Atai",
+    "postal_code": ""
   },
   {
     "code": "9209252002",
     "district_code": "920925",
-    "name": "Akmuri"
+    "name": "Akmuri",
+    "postal_code": ""
   },
   {
     "code": "9209252003",
     "district_code": "920925",
-    "name": "Awori"
+    "name": "Awori",
+    "postal_code": ""
   },
   {
     "code": "9209252004",
     "district_code": "920925",
-    "name": "Itafiti"
+    "name": "Itafiti",
+    "postal_code": ""
   },
   {
     "code": "9209252005",
     "district_code": "920925",
-    "name": "Atunari"
+    "name": "Atunari",
+    "postal_code": ""
   },
   {
     "code": "9209252006",
     "district_code": "920925",
-    "name": "Ajami Waripi"
+    "name": "Ajami Waripi",
+    "postal_code": ""
   },
   {
     "code": "9209252007",
     "district_code": "920925",
-    "name": "Narai"
+    "name": "Narai",
+    "postal_code": ""
   },
   {
     "code": "9209252008",
     "district_code": "920925",
-    "name": "Aranari"
+    "name": "Aranari",
+    "postal_code": ""
   },
   {
     "code": "9209252009",
     "district_code": "920925",
-    "name": "Waumi"
+    "name": "Waumi",
+    "postal_code": ""
   },
   {
     "code": "9209252010",
     "district_code": "920925",
-    "name": "Aneti"
+    "name": "Aneti",
+    "postal_code": ""
   }
 ]

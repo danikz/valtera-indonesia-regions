@@ -2,36 +2,43 @@
   {
     "code": "3204442001",
     "district_code": "320444",
-    "name": "Cangkuang"
+    "name": "Cangkuang",
+    "postal_code": "40238"
   },
   {
     "code": "3204442002",
     "district_code": "320444",
-    "name": "Ciluncat"
+    "name": "Ciluncat",
+    "postal_code": "40238"
   },
   {
     "code": "3204442003",
     "district_code": "320444",
-    "name": "Nagrak"
+    "name": "Nagrak",
+    "postal_code": "40238"
   },
   {
     "code": "3204442004",
     "district_code": "320444",
-    "name": "Bandasari"
+    "name": "Bandasari",
+    "postal_code": "40238"
   },
   {
     "code": "3204442005",
     "district_code": "320444",
-    "name": "Pananjung"
+    "name": "Pananjung",
+    "postal_code": "40238"
   },
   {
     "code": "3204442006",
     "district_code": "320444",
-    "name": "Jatisari"
+    "name": "Jatisari",
+    "postal_code": "40238"
   },
   {
     "code": "3204442007",
     "district_code": "320444",
-    "name": "Tanjungsari"
+    "name": "Tanjungsari",
+    "postal_code": "40238"
   }
 ]

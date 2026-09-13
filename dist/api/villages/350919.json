@@ -2,36 +2,43 @@
   {
     "code": "3509191001",
     "district_code": "350919",
-    "name": "Mangli"
+    "name": "Mangli",
+    "postal_code": "68136"
   },
   {
     "code": "3509191002",
     "district_code": "350919",
-    "name": "Sempusari"
+    "name": "Sempusari",
+    "postal_code": "68135"
   },
   {
     "code": "3509191003",
     "district_code": "350919",
-    "name": "Kebonagung"
+    "name": "Kebonagung",
+    "postal_code": "68137"
   },
   {
     "code": "3509191004",
     "district_code": "350919",
-    "name": "Kaliwates"
+    "name": "Kaliwates",
+    "postal_code": "68133"
   },
   {
     "code": "3509191005",
     "district_code": "350919",
-    "name": "Jemberkidul"
+    "name": "Jemberkidul",
+    "postal_code": "68131"
   },
   {
     "code": "3509191006",
     "district_code": "350919",
-    "name": "Kepatihan"
+    "name": "Kepatihan",
+    "postal_code": "68137"
   },
   {
     "code": "3509191007",
     "district_code": "350919",
-    "name": "Tegalbesar"
+    "name": "Tegalbesar",
+    "postal_code": "68132"
   }
 ]

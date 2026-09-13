@@ -2,31 +2,37 @@
   {
     "code": "3602252001",
     "district_code": "360225",
-    "name": "Banjaririgasi"
+    "name": "Banjaririgasi",
+    "postal_code": "42351"
   },
   {
     "code": "3602252002",
     "district_code": "360225",
-    "name": "Ciladaeun"
+    "name": "Ciladaeun",
+    "postal_code": "42351"
   },
   {
     "code": "3602252003",
     "district_code": "360225",
-    "name": "Lebakgedong"
+    "name": "Lebakgedong",
+    "postal_code": "42351"
   },
   {
     "code": "3602252004",
     "district_code": "360225",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "42351"
   },
   {
     "code": "3602252005",
     "district_code": "360225",
-    "name": "Lebaksitu"
+    "name": "Lebaksitu",
+    "postal_code": "42351"
   },
   {
     "code": "3602252006",
     "district_code": "360225",
-    "name": "Lebaksangka"
+    "name": "Lebaksangka",
+    "postal_code": "42351"
   }
 ]

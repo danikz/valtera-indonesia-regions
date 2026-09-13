@@ -2,31 +2,37 @@
   {
     "code": "9508292001",
     "district_code": "950829",
-    "name": "Muli"
+    "name": "Muli",
+    "postal_code": "99917"
   },
   {
     "code": "9508292002",
     "district_code": "950829",
-    "name": "Tinigele"
+    "name": "Tinigele",
+    "postal_code": "99917"
   },
   {
     "code": "9508292003",
     "district_code": "950829",
-    "name": "Wuone"
+    "name": "Wuone",
+    "postal_code": "99917"
   },
   {
     "code": "9508292004",
     "district_code": "950829",
-    "name": "Luaren"
+    "name": "Luaren",
+    "postal_code": "99917"
   },
   {
     "code": "9508292005",
     "district_code": "950829",
-    "name": "Wangun"
+    "name": "Wangun",
+    "postal_code": "99917"
   },
   {
     "code": "9508292006",
     "district_code": "950829",
-    "name": "Wutpaga"
+    "name": "Wutpaga",
+    "postal_code": "99917"
   }
 ]

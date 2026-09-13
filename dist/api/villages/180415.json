@@ -2,26 +2,31 @@
   {
     "code": "1804152001",
     "district_code": "180415",
-    "name": "Gedung Surian"
+    "name": "Gedung Surian",
+    "postal_code": "34871"
   },
   {
     "code": "1804152002",
     "district_code": "180415",
-    "name": "Pura Mekar"
+    "name": "Pura Mekar",
+    "postal_code": "34871"
   },
   {
     "code": "1804152003",
     "district_code": "180415",
-    "name": "Cipta Waras"
+    "name": "Cipta Waras",
+    "postal_code": "34871"
   },
   {
     "code": "1804152004",
     "district_code": "180415",
-    "name": "Tri Mulyo"
+    "name": "Tri Mulyo",
+    "postal_code": "34871"
   },
   {
     "code": "1804152005",
     "district_code": "180415",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "34871"
   }
 ]

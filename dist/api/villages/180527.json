@@ -2,46 +2,55 @@
   {
     "code": "1805272001",
     "district_code": "180527",
-    "name": "Sidomukti"
+    "name": "Sidomukti",
+    "postal_code": "34595"
   },
   {
     "code": "1805272002",
     "district_code": "180527",
-    "name": "Mesir Dwi Jaya"
+    "name": "Mesir Dwi Jaya",
+    "postal_code": "34595"
   },
   {
     "code": "1805272003",
     "district_code": "180527",
-    "name": "Makartitama"
+    "name": "Makartitama",
+    "postal_code": "34595"
   },
   {
     "code": "1805272004",
     "district_code": "180527",
-    "name": "Suka Bhakti"
+    "name": "Suka Bhakti",
+    "postal_code": "34595"
   },
   {
     "code": "1805272005",
     "district_code": "180527",
-    "name": "Batu Ampar"
+    "name": "Batu Ampar",
+    "postal_code": "34595"
   },
   {
     "code": "1805272006",
     "district_code": "180527",
-    "name": "Setia Tama"
+    "name": "Setia Tama",
+    "postal_code": "34595"
   },
   {
     "code": "1805272007",
     "district_code": "180527",
-    "name": "Sumber Jaya"
+    "name": "Sumber Jaya",
+    "postal_code": "34595"
   },
   {
     "code": "1805272008",
     "district_code": "180527",
-    "name": "Mekar Asri"
+    "name": "Mekar Asri",
+    "postal_code": "34595"
   },
   {
     "code": "1805272009",
     "district_code": "180527",
-    "name": "Sidomekar"
+    "name": "Sidomekar",
+    "postal_code": "34595"
   }
 ]

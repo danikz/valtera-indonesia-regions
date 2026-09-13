@@ -2,16 +2,19 @@
   {
     "code": "1309052001",
     "district_code": "130905",
-    "name": "Simatalu"
+    "name": "Simatalu",
+    "postal_code": "25394"
   },
   {
     "code": "1309052002",
     "district_code": "130905",
-    "name": "Simalegi"
+    "name": "Simalegi",
+    "postal_code": "25394"
   },
   {
     "code": "1309052003",
     "district_code": "130905",
-    "name": "Sigapokna"
+    "name": "Sigapokna",
+    "postal_code": "25394"
   }
 ]

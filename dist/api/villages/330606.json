@@ -2,126 +2,151 @@
   {
     "code": "3306061007",
     "district_code": "330606",
-    "name": "Cangkrepkidul"
+    "name": "Cangkrepkidul",
+    "postal_code": "54117"
   },
   {
     "code": "3306061008",
     "district_code": "330606",
-    "name": "Cangkreplor"
+    "name": "Cangkreplor",
+    "postal_code": "54117"
   },
   {
     "code": "3306061010",
     "district_code": "330606",
-    "name": "Tambakrejo"
+    "name": "Tambakrejo",
+    "postal_code": "54118"
   },
   {
     "code": "3306061011",
     "district_code": "330606",
-    "name": "Kedungsari"
+    "name": "Kedungsari",
+    "postal_code": "54119"
   },
   {
     "code": "3306061012",
     "district_code": "330606",
-    "name": "Pangenrejo"
+    "name": "Pangenrejo",
+    "postal_code": "54115"
   },
   {
     "code": "3306061013",
     "district_code": "330606",
-    "name": "Pangenjurutengah"
+    "name": "Pangenjurutengah",
+    "postal_code": "54114"
   },
   {
     "code": "3306061014",
     "district_code": "330606",
-    "name": "Doplang"
+    "name": "Doplang",
+    "postal_code": "54114"
   },
   {
     "code": "3306061015",
     "district_code": "330606",
-    "name": "Sindurjan"
+    "name": "Sindurjan",
+    "postal_code": "54113"
   },
   {
     "code": "3306061016",
     "district_code": "330606",
-    "name": "Paduroso"
+    "name": "Paduroso",
+    "postal_code": "54112"
   },
   {
     "code": "3306061017",
     "district_code": "330606",
-    "name": "Purworejo"
+    "name": "Purworejo",
+    "postal_code": "54151"
   },
   {
     "code": "3306061018",
     "district_code": "330606",
-    "name": "Mranti"
+    "name": "Mranti",
+    "postal_code": "54112"
   },
   {
     "code": "3306061019",
     "district_code": "330606",
-    "name": "Mudal"
+    "name": "Mudal",
+    "postal_code": "54119"
   },
   {
     "code": "3306061020",
     "district_code": "330606",
-    "name": "Keseneng"
+    "name": "Keseneng",
+    "postal_code": "54119"
   },
   {
     "code": "3306061021",
     "district_code": "330606",
-    "name": "Baledono"
+    "name": "Baledono",
+    "postal_code": "54118"
   },
   {
     "code": "3306062001",
     "district_code": "330606",
-    "name": "Pacekelan"
+    "name": "Pacekelan",
+    "postal_code": "54119"
   },
   {
     "code": "3306062002",
     "district_code": "330606",
-    "name": "Plipir"
+    "name": "Plipir",
+    "postal_code": "54119"
   },
   {
     "code": "3306062003",
     "district_code": "330606",
-    "name": "Brenggong"
+    "name": "Brenggong",
+    "postal_code": "54119"
   },
   {
     "code": "3306062004",
     "district_code": "330606",
-    "name": "Ganggeng"
+    "name": "Ganggeng",
+    "postal_code": "54119"
   },
   {
     "code": "3306062005",
     "district_code": "330606",
-    "name": "Semawung"
+    "name": "Semawung",
+    "postal_code": "54119"
   },
   {
     "code": "3306062006",
     "district_code": "330606",
-    "name": "Wonoroto"
+    "name": "Wonoroto",
+    "postal_code": "54119"
   },
   {
     "code": "3306062009",
     "district_code": "330606",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "54119"
   },
   {
     "code": "3306062022",
     "district_code": "330606",
-    "name": "Wonotulus"
+    "name": "Wonotulus",
+    "postal_code": "54119"
   },
   {
     "code": "3306062023",
     "district_code": "330606",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "54119"
   },
   {
     "code": "3306062024",
     "district_code": "330606",
-    "name": "Sudimoro"
+    "name": "Sudimoro",
+    "postal_code": "54119"
   },
   {
     "code": "3306062025",
     "district_code": "330606",
-    "name": "Donorati"
+    "name": "Donorati",
+    "postal_code": "54119"
   }
 ]

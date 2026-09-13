@@ -2,26 +2,31 @@
   {
     "code": "7403131003",
     "district_code": "740313",
-    "name": "Labunia"
+    "name": "Labunia",
+    "postal_code": "93681"
   },
   {
     "code": "7403132001",
     "district_code": "740313",
-    "name": "Wambona"
+    "name": "Wambona",
+    "postal_code": "93681"
   },
   {
     "code": "7403132004",
     "district_code": "740313",
-    "name": "Bhakealu"
+    "name": "Bhakealu",
+    "postal_code": "93681"
   },
   {
     "code": "7403132005",
     "district_code": "740313",
-    "name": "Pure"
+    "name": "Pure",
+    "postal_code": "93681"
   },
   {
     "code": "7403132006",
     "district_code": "740313",
-    "name": "Wakorumba"
+    "name": "Wakorumba",
+    "postal_code": "93681"
   }
 ]

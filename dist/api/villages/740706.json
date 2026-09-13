@@ -2,51 +2,61 @@
   {
     "code": "7407062001",
     "district_code": "740706",
-    "name": "Tampara"
+    "name": "Tampara",
+    "postal_code": "93790"
   },
   {
     "code": "7407062002",
     "district_code": "740706",
-    "name": "Kaswari"
+    "name": "Kaswari",
+    "postal_code": "93790"
   },
   {
     "code": "7407062003",
     "district_code": "740706",
-    "name": "Pajam"
+    "name": "Pajam",
+    "postal_code": "93790"
   },
   {
     "code": "7407062004",
     "district_code": "740706",
-    "name": "Langge"
+    "name": "Langge",
+    "postal_code": "93790"
   },
   {
     "code": "7407062005",
     "district_code": "740706",
-    "name": "Tanomeha"
+    "name": "Tanomeha",
+    "postal_code": "93790"
   },
   {
     "code": "7407062006",
     "district_code": "740706",
-    "name": "Lentea"
+    "name": "Lentea",
+    "postal_code": "93790"
   },
   {
     "code": "7407062007",
     "district_code": "740706",
-    "name": "Darawa"
+    "name": "Darawa",
+    "postal_code": "93790"
   },
   {
     "code": "7407062008",
     "district_code": "740706",
-    "name": "Sandi"
+    "name": "Sandi",
+    "postal_code": "93790"
   },
   {
     "code": "7407062009",
     "district_code": "740706",
-    "name": "Peropa"
+    "name": "Peropa",
+    "postal_code": "93790"
   },
   {
     "code": "7407062010",
     "district_code": "740706",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "93790"
   }
 ]

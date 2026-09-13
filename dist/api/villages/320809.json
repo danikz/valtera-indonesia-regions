@@ -2,81 +2,97 @@
   {
     "code": "3208091001",
     "district_code": "320809",
-    "name": "Citangtu"
+    "name": "Citangtu",
+    "postal_code": "45516"
   },
   {
     "code": "3208091002",
     "district_code": "320809",
-    "name": "Kuningan"
+    "name": "Kuningan",
+    "postal_code": "45511"
   },
   {
     "code": "3208091003",
     "district_code": "320809",
-    "name": "Winduhaji"
+    "name": "Winduhaji",
+    "postal_code": "45516"
   },
   {
     "code": "3208091004",
     "district_code": "320809",
-    "name": "Windusengkahan"
+    "name": "Windusengkahan",
+    "postal_code": "45515"
   },
   {
     "code": "3208091005",
     "district_code": "320809",
-    "name": "Cijoho"
+    "name": "Cijoho",
+    "postal_code": "45513"
   },
   {
     "code": "3208091006",
     "district_code": "320809",
-    "name": "Purwawinangun"
+    "name": "Purwawinangun",
+    "postal_code": "45512"
   },
   {
     "code": "3208091007",
     "district_code": "320809",
-    "name": "Cigintung"
+    "name": "Cigintung",
+    "postal_code": "45517"
   },
   {
     "code": "3208091008",
     "district_code": "320809",
-    "name": "Cirendang"
+    "name": "Cirendang",
+    "postal_code": "45518"
   },
   {
     "code": "3208091009",
     "district_code": "320809",
-    "name": "Ciporang"
+    "name": "Ciporang",
+    "postal_code": "45514"
   },
   {
     "code": "3208091010",
     "district_code": "320809",
-    "name": "Awirarangan"
+    "name": "Awirarangan",
+    "postal_code": "45511"
   },
   {
     "code": "3208092011",
     "district_code": "320809",
-    "name": "Cibinuang"
+    "name": "Cibinuang",
+    "postal_code": "45511"
   },
   {
     "code": "3208092012",
     "district_code": "320809",
-    "name": "Karangtawang"
+    "name": "Karangtawang",
+    "postal_code": "45515"
   },
   {
     "code": "3208092013",
     "district_code": "320809",
-    "name": "Kedungarum"
+    "name": "Kedungarum",
+    "postal_code": "45513"
   },
   {
     "code": "3208092014",
     "district_code": "320809",
-    "name": "Ancaran"
+    "name": "Ancaran",
+    "postal_code": "45514"
   },
   {
     "code": "3208092015",
     "district_code": "320809",
-    "name": "Kasturi"
+    "name": "Kasturi",
+    "postal_code": "45553"
   },
   {
     "code": "3208092016",
     "district_code": "320809",
-    "name": "Padarek"
+    "name": "Padarek",
+    "postal_code": "45553"
   }
 ]

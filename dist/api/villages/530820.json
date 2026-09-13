@@ -2,31 +2,37 @@
   {
     "code": "5308201001",
     "district_code": "530820",
-    "name": "Mautapaga"
+    "name": "Mautapaga",
+    "postal_code": "86317"
   },
   {
     "code": "5308201002",
     "district_code": "530820",
-    "name": "Rewarangga"
+    "name": "Rewarangga",
+    "postal_code": "86319"
   },
   {
     "code": "5308201006",
     "district_code": "530820",
-    "name": "Rewarangga Selatan"
+    "name": "Rewarangga Selatan",
+    "postal_code": "86361"
   },
   {
     "code": "5308202003",
     "district_code": "530820",
-    "name": "Kedebodu"
+    "name": "Kedebodu",
+    "postal_code": "86361"
   },
   {
     "code": "5308202004",
     "district_code": "530820",
-    "name": "Ndungga"
+    "name": "Ndungga",
+    "postal_code": "86361"
   },
   {
     "code": "5308202005",
     "district_code": "530820",
-    "name": "Tiwutewa"
+    "name": "Tiwutewa",
+    "postal_code": "86361"
   }
 ]

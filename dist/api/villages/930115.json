@@ -2,31 +2,37 @@
   {
     "code": "9301152001",
     "district_code": "930115",
-    "name": "Yowied"
+    "name": "Yowied",
+    "postal_code": "99639"
   },
   {
     "code": "9301152002",
     "district_code": "930115",
-    "name": "Dokib"
+    "name": "Dokib",
+    "postal_code": "99639"
   },
   {
     "code": "9301152003",
     "district_code": "930115",
-    "name": "Wamal"
+    "name": "Wamal",
+    "postal_code": "99639"
   },
   {
     "code": "9301152004",
     "district_code": "930115",
-    "name": "Dodalim"
+    "name": "Dodalim",
+    "postal_code": "99639"
   },
   {
     "code": "9301152005",
     "district_code": "930115",
-    "name": "Woboyo"
+    "name": "Woboyo",
+    "postal_code": "99639"
   },
   {
     "code": "9301152006",
     "district_code": "930115",
-    "name": "Welbuti"
+    "name": "Welbuti",
+    "postal_code": "99639"
   }
 ]

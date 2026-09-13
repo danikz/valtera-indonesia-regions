@@ -2,26 +2,31 @@
   {
     "code": "1471141001",
     "district_code": "147114",
-    "name": "Kulim"
+    "name": "Kulim",
+    "postal_code": "28286"
   },
   {
     "code": "1471141002",
     "district_code": "147114",
-    "name": "Mentangor"
+    "name": "Mentangor",
+    "postal_code": "28286"
   },
   {
     "code": "1471141003",
     "district_code": "147114",
-    "name": "Sialangrampai"
+    "name": "Sialangrampai",
+    "postal_code": "28286"
   },
   {
     "code": "1471141004",
     "district_code": "147114",
-    "name": "Pebatuan"
+    "name": "Pebatuan",
+    "postal_code": "28286"
   },
   {
     "code": "1471141005",
     "district_code": "147114",
-    "name": "Pematangkapau"
+    "name": "Pematangkapau",
+    "postal_code": "28289"
   }
 ]

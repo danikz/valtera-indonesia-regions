@@ -2,66 +2,79 @@
   {
     "code": "7208212001",
     "district_code": "720821",
-    "name": "Bolano"
+    "name": "Bolano",
+    "postal_code": "94479"
   },
   {
     "code": "7208212002",
     "district_code": "720821",
-    "name": "Bolano Tengah"
+    "name": "Bolano Tengah",
+    "postal_code": "94479"
   },
   {
     "code": "7208212003",
     "district_code": "720821",
-    "name": "Bolano Barat"
+    "name": "Bolano Barat",
+    "postal_code": "94479"
   },
   {
     "code": "7208212004",
     "district_code": "720821",
-    "name": "Bolano Utara"
+    "name": "Bolano Utara",
+    "postal_code": "94479"
   },
   {
     "code": "7208212005",
     "district_code": "720821",
-    "name": "Bajo"
+    "name": "Bajo",
+    "postal_code": "94479"
   },
   {
     "code": "7208212006",
     "district_code": "720821",
-    "name": "Sritabaang"
+    "name": "Sritabaang",
+    "postal_code": "94479"
   },
   {
     "code": "7208212007",
     "district_code": "720821",
-    "name": "Beringin Jaya"
+    "name": "Beringin Jaya",
+    "postal_code": "94479"
   },
   {
     "code": "7208212008",
     "district_code": "720821",
-    "name": "Wanamukti"
+    "name": "Wanamukti",
+    "postal_code": "94479"
   },
   {
     "code": "7208212009",
     "district_code": "720821",
-    "name": "Wanamukti Utara"
+    "name": "Wanamukti Utara",
+    "postal_code": "94479"
   },
   {
     "code": "7208212010",
     "district_code": "720821",
-    "name": "Lembah Bomban"
+    "name": "Lembah Bomban",
+    "postal_code": "94479"
   },
   {
     "code": "7208212011",
     "district_code": "720821",
-    "name": "Sidomukti"
+    "name": "Sidomukti",
+    "postal_code": "94479"
   },
   {
     "code": "7208212012",
     "district_code": "720821",
-    "name": "Wanamukti Barat"
+    "name": "Wanamukti Barat",
+    "postal_code": "94479"
   },
   {
     "code": "7208212013",
     "district_code": "720821",
-    "name": "Sama Bahari"
+    "name": "Sama Bahari",
+    "postal_code": "94479"
   }
 ]

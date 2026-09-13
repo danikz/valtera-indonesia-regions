@@ -2,66 +2,79 @@
   {
     "code": "7318201001",
     "district_code": "731820",
-    "name": "Talion"
+    "name": "Talion",
+    "postal_code": "91860"
   },
   {
     "code": "7318201013",
     "district_code": "731820",
-    "name": "Rembon"
+    "name": "Rembon",
+    "postal_code": "91860"
   },
   {
     "code": "7318202002",
     "district_code": "731820",
-    "name": "Palesan"
+    "name": "Palesan",
+    "postal_code": "91860"
   },
   {
     "code": "7318202003",
     "district_code": "731820",
-    "name": "Banga"
+    "name": "Banga",
+    "postal_code": "91860"
   },
   {
     "code": "7318202004",
     "district_code": "731820",
-    "name": "Ullin"
+    "name": "Ullin",
+    "postal_code": "91860"
   },
   {
     "code": "7318202005",
     "district_code": "731820",
-    "name": "Limbong"
+    "name": "Limbong",
+    "postal_code": "91860"
   },
   {
     "code": "7318202006",
     "district_code": "731820",
-    "name": "Sarapeang"
+    "name": "Sarapeang",
+    "postal_code": "91860"
   },
   {
     "code": "7318202007",
     "district_code": "731820",
-    "name": "Buri'"
+    "name": "Buri'",
+    "postal_code": "91860"
   },
   {
     "code": "7318202008",
     "district_code": "731820",
-    "name": "Maroson"
+    "name": "Maroson",
+    "postal_code": "91860"
   },
   {
     "code": "7318202009",
     "district_code": "731820",
-    "name": "Batusura'"
+    "name": "Batusura'",
+    "postal_code": "91860"
   },
   {
     "code": "7318202010",
     "district_code": "731820",
-    "name": "Bua ' Tarrung"
+    "name": "Bua ' Tarrung",
+    "postal_code": "91860"
   },
   {
     "code": "7318202011",
     "district_code": "731820",
-    "name": "To'pao"
+    "name": "To'pao",
+    "postal_code": "91860"
   },
   {
     "code": "7318202012",
     "district_code": "731820",
-    "name": "Kayuosing"
+    "name": "Kayuosing",
+    "postal_code": "91860"
   }
 ]

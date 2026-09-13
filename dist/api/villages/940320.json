@@ -2,31 +2,37 @@
   {
     "code": "9403202001",
     "district_code": "940320",
-    "name": "Uwebutu"
+    "name": "Uwebutu",
+    "postal_code": "98725"
   },
   {
     "code": "9403202002",
     "district_code": "940320",
-    "name": "Epouto"
+    "name": "Epouto",
+    "postal_code": "98725"
   },
   {
     "code": "9403202003",
     "district_code": "940320",
-    "name": "Tugumo"
+    "name": "Tugumo",
+    "postal_code": "98725"
   },
   {
     "code": "9403202004",
     "district_code": "940320",
-    "name": "Tugu Kagomoma"
+    "name": "Tugu Kagomoma",
+    "postal_code": "98725"
   },
   {
     "code": "9403202005",
     "district_code": "940320",
-    "name": "Deiyamo"
+    "name": "Deiyamo",
+    "postal_code": "98725"
   },
   {
     "code": "9403202006",
     "district_code": "940320",
-    "name": "Miyamo"
+    "name": "Miyamo",
+    "postal_code": "98725"
   }
 ]

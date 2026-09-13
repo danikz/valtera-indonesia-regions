@@ -2,31 +2,37 @@
   {
     "code": "5303192001",
     "district_code": "530319",
-    "name": "Fafinesu A"
+    "name": "Fafinesu A",
+    "postal_code": "85672"
   },
   {
     "code": "5303192002",
     "district_code": "530319",
-    "name": "Fafinesu B"
+    "name": "Fafinesu B",
+    "postal_code": "85672"
   },
   {
     "code": "5303192003",
     "district_code": "530319",
-    "name": "Fafinesu C"
+    "name": "Fafinesu C",
+    "postal_code": "85672"
   },
   {
     "code": "5303192004",
     "district_code": "530319",
-    "name": "Oenain"
+    "name": "Oenain",
+    "postal_code": "85672"
   },
   {
     "code": "5303192005",
     "district_code": "530319",
-    "name": "Baunuan"
+    "name": "Baunuan",
+    "postal_code": "85672"
   },
   {
     "code": "5303192006",
     "district_code": "530319",
-    "name": "Fafinesu"
+    "name": "Fafinesu",
+    "postal_code": "85672"
   }
 ]

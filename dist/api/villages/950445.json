@@ -2,56 +2,67 @@
   {
     "code": "9504452001",
     "district_code": "950445",
-    "name": "Biuk"
+    "name": "Biuk",
+    "postal_code": "99023"
   },
   {
     "code": "9504452002",
     "district_code": "950445",
-    "name": "Guburini"
+    "name": "Guburini",
+    "postal_code": "99023"
   },
   {
     "code": "9504452003",
     "district_code": "950445",
-    "name": "Yiluk/Kondenggun"
+    "name": "Yiluk/Kondenggun",
+    "postal_code": "99023"
   },
   {
     "code": "9504452004",
     "district_code": "950445",
-    "name": "Yugu Mabur"
+    "name": "Yugu Mabur",
+    "postal_code": "99023"
   },
   {
     "code": "9504452005",
     "district_code": "950445",
-    "name": "Tomagipura"
+    "name": "Tomagipura",
+    "postal_code": "99023"
   },
   {
     "code": "9504452006",
     "district_code": "950445",
-    "name": "Yiyogobak/Kibur"
+    "name": "Yiyogobak/Kibur",
+    "postal_code": "99023"
   },
   {
     "code": "9504452007",
     "district_code": "950445",
-    "name": "Galubup"
+    "name": "Galubup",
+    "postal_code": "99023"
   },
   {
     "code": "9504452008",
     "district_code": "950445",
-    "name": "Mbinime/Jinulira"
+    "name": "Mbinime/Jinulira",
+    "postal_code": "99023"
   },
   {
     "code": "9504452009",
     "district_code": "950445",
-    "name": "Wonabu"
+    "name": "Wonabu",
+    "postal_code": "99023"
   },
   {
     "code": "9504452010",
     "district_code": "950445",
-    "name": "Tomagi/Gubagi"
+    "name": "Tomagi/Gubagi",
+    "postal_code": "99023"
   },
   {
     "code": "9504452011",
     "district_code": "950445",
-    "name": "Purugi"
+    "name": "Purugi",
+    "postal_code": "99023"
   }
 ]

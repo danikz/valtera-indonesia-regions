@@ -2,31 +2,37 @@
   {
     "code": "6207062001",
     "district_code": "620706",
-    "name": "Mekar Indah"
+    "name": "Mekar Indah",
+    "postal_code": "74215"
   },
   {
     "code": "6207062002",
     "district_code": "620706",
-    "name": "Halimaung Jaya"
+    "name": "Halimaung Jaya",
+    "postal_code": "74215"
   },
   {
     "code": "6207062003",
     "district_code": "620706",
-    "name": "Bangun Harja"
+    "name": "Bangun Harja",
+    "postal_code": "74215"
   },
   {
     "code": "6207062004",
     "district_code": "620706",
-    "name": "Kartika Bhakti"
+    "name": "Kartika Bhakti",
+    "postal_code": "74215"
   },
   {
     "code": "6207062005",
     "district_code": "620706",
-    "name": "Pematang Panjang"
+    "name": "Pematang Panjang",
+    "postal_code": "74213"
   },
   {
     "code": "6207062006",
     "district_code": "620706",
-    "name": "Sungai Bakau"
+    "name": "Sungai Bakau",
+    "postal_code": "74215"
   }
 ]

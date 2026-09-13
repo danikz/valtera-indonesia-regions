@@ -2,41 +2,49 @@
   {
     "code": "5302212001",
     "district_code": "530221",
-    "name": "Kualin"
+    "name": "Kualin",
+    "postal_code": "85566"
   },
   {
     "code": "5302212002",
     "district_code": "530221",
-    "name": "Oni"
+    "name": "Oni",
+    "postal_code": "85566"
   },
   {
     "code": "5302212003",
     "district_code": "530221",
-    "name": "Nunusunu"
+    "name": "Nunusunu",
+    "postal_code": "85566"
   },
   {
     "code": "5302212004",
     "district_code": "530221",
-    "name": "Tuapakas"
+    "name": "Tuapakas",
+    "postal_code": "85566"
   },
   {
     "code": "5302212005",
     "district_code": "530221",
-    "name": "Toineke"
+    "name": "Toineke",
+    "postal_code": "85566"
   },
   {
     "code": "5302212006",
     "district_code": "530221",
-    "name": "Tuafanu"
+    "name": "Tuafanu",
+    "postal_code": "85566"
   },
   {
     "code": "5302212007",
     "district_code": "530221",
-    "name": "Kiufatu"
+    "name": "Kiufatu",
+    "postal_code": "85566"
   },
   {
     "code": "5302212008",
     "district_code": "530221",
-    "name": "Oemaman"
+    "name": "Oemaman",
+    "postal_code": "85566"
   }
 ]

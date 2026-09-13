@@ -2,31 +2,37 @@
   {
     "code": "9111042001",
     "district_code": "911104",
-    "name": "Dubu"
+    "name": "Dubu",
+    "postal_code": "99462"
   },
   {
     "code": "9111042002",
     "district_code": "911104",
-    "name": "Umuraf"
+    "name": "Umuraf",
+    "postal_code": "99462"
   },
   {
     "code": "9111042003",
     "district_code": "911104",
-    "name": "Semografi"
+    "name": "Semografi",
+    "postal_code": "99462"
   },
   {
     "code": "9111042005",
     "district_code": "911104",
-    "name": "Embi"
+    "name": "Embi",
+    "postal_code": "99462"
   },
   {
     "code": "9111042015",
     "district_code": "911104",
-    "name": "Yamraf Dua"
+    "name": "Yamraf Dua",
+    "postal_code": "99462"
   },
   {
     "code": "9111042017",
     "district_code": "911104",
-    "name": "Tatakra"
+    "name": "Tatakra",
+    "postal_code": "99462"
   }
 ]

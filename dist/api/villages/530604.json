@@ -2,41 +2,49 @@
   {
     "code": "5306042001",
     "district_code": "530604",
-    "name": "Wailolong"
+    "name": "Wailolong",
+    "postal_code": "86211"
   },
   {
     "code": "5306042002",
     "district_code": "530604",
-    "name": "Lewoloba"
+    "name": "Lewoloba",
+    "postal_code": "86211"
   },
   {
     "code": "5306042003",
     "district_code": "530604",
-    "name": "Tiwatobi"
+    "name": "Tiwatobi",
+    "postal_code": "86211"
   },
   {
     "code": "5306042004",
     "district_code": "530604",
-    "name": "Watotutu"
+    "name": "Watotutu",
+    "postal_code": "86211"
   },
   {
     "code": "5306042005",
     "district_code": "530604",
-    "name": "Riangkemie"
+    "name": "Riangkemie",
+    "postal_code": "86211"
   },
   {
     "code": "5306042006",
     "district_code": "530604",
-    "name": "Lewohala"
+    "name": "Lewohala",
+    "postal_code": "86211"
   },
   {
     "code": "5306042007",
     "district_code": "530604",
-    "name": "Halakodanuan"
+    "name": "Halakodanuan",
+    "postal_code": "86211"
   },
   {
     "code": "5306042008",
     "district_code": "530604",
-    "name": "Mudakaputu"
+    "name": "Mudakaputu",
+    "postal_code": "86211"
   }
 ]

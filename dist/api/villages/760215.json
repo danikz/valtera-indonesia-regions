@@ -2,46 +2,55 @@
   {
     "code": "7602152001",
     "district_code": "760215",
-    "name": "Bonehau"
+    "name": "Bonehau",
+    "postal_code": "91562"
   },
   {
     "code": "7602152002",
     "district_code": "760215",
-    "name": "Salutiwo"
+    "name": "Salutiwo",
+    "postal_code": "91562"
   },
   {
     "code": "7602152003",
     "district_code": "760215",
-    "name": "Buttuada"
+    "name": "Buttuada",
+    "postal_code": "91562"
   },
   {
     "code": "7602152004",
     "district_code": "760215",
-    "name": "Tamalea"
+    "name": "Tamalea",
+    "postal_code": "91562"
   },
   {
     "code": "7602152005",
     "district_code": "760215",
-    "name": "Lumika"
+    "name": "Lumika",
+    "postal_code": "91562"
   },
   {
     "code": "7602152006",
     "district_code": "760215",
-    "name": "Mappu"
+    "name": "Mappu",
+    "postal_code": "91562"
   },
   {
     "code": "7602152009",
     "district_code": "760215",
-    "name": "Banuada"
+    "name": "Banuada",
+    "postal_code": "91562"
   },
   {
     "code": "7602152010",
     "district_code": "760215",
-    "name": "Hinua"
+    "name": "Hinua",
+    "postal_code": "91562"
   },
   {
     "code": "7602152011",
     "district_code": "760215",
-    "name": "Kinatang"
+    "name": "Kinatang",
+    "postal_code": "91562"
   }
 ]

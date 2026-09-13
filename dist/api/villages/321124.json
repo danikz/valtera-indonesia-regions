@@ -2,46 +2,55 @@
   {
     "code": "3211242001",
     "district_code": "321124",
-    "name": "Tomo"
+    "name": "Tomo",
+    "postal_code": "45382"
   },
   {
     "code": "3211242002",
     "district_code": "321124",
-    "name": "Tolengas"
+    "name": "Tolengas",
+    "postal_code": "45382"
   },
   {
     "code": "3211242003",
     "district_code": "321124",
-    "name": "Darmawangi"
+    "name": "Darmawangi",
+    "postal_code": "45382"
   },
   {
     "code": "3211242004",
     "district_code": "321124",
-    "name": "Marongge"
+    "name": "Marongge",
+    "postal_code": "45382"
   },
   {
     "code": "3211242005",
     "district_code": "321124",
-    "name": "Jembarwangi"
+    "name": "Jembarwangi",
+    "postal_code": "45382"
   },
   {
     "code": "3211242006",
     "district_code": "321124",
-    "name": "Bugel"
+    "name": "Bugel",
+    "postal_code": "45382"
   },
   {
     "code": "3211242007",
     "district_code": "321124",
-    "name": "Cipeles"
+    "name": "Cipeles",
+    "postal_code": "45382"
   },
   {
     "code": "3211242008",
     "district_code": "321124",
-    "name": "Karyamukti"
+    "name": "Karyamukti",
+    "postal_code": "45382"
   },
   {
     "code": "3211242010",
     "district_code": "321124",
-    "name": "Mekarwangi"
+    "name": "Mekarwangi",
+    "postal_code": "45382"
   }
 ]

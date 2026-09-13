@@ -2,61 +2,73 @@
   {
     "code": "9508032001",
     "district_code": "950803",
-    "name": "Yigi"
+    "name": "Yigi",
+    "postal_code": "99919"
   },
   {
     "code": "9508032002",
     "district_code": "950803",
-    "name": "Ekilapo"
+    "name": "Ekilapo",
+    "postal_code": "99543"
   },
   {
     "code": "9508032003",
     "district_code": "950803",
-    "name": "Suwenem"
+    "name": "Suwenem",
+    "postal_code": "99543"
   },
   {
     "code": "9508032004",
     "district_code": "950803",
-    "name": "Karunggame"
+    "name": "Karunggame",
+    "postal_code": "99919"
   },
   {
     "code": "9508032005",
     "district_code": "950803",
-    "name": "Sirit"
+    "name": "Sirit",
+    "postal_code": "99543"
   },
   {
     "code": "9508032006",
     "district_code": "950803",
-    "name": "Disendobo"
+    "name": "Disendobo",
+    "postal_code": "99543"
   },
   {
     "code": "9508032007",
     "district_code": "950803",
-    "name": "Sumbo"
+    "name": "Sumbo",
+    "postal_code": "99543"
   },
   {
     "code": "9508032008",
     "district_code": "950803",
-    "name": "Yebadolma"
+    "name": "Yebadolma",
+    "postal_code": "99543"
   },
   {
     "code": "9508032009",
     "district_code": "950803",
-    "name": "Lumbukdumu"
+    "name": "Lumbukdumu",
+    "postal_code": "99919"
   },
   {
     "code": "9508032010",
     "district_code": "950803",
-    "name": "Wiritlak"
+    "name": "Wiritlak",
+    "postal_code": "99919"
   },
   {
     "code": "9508032011",
     "district_code": "950803",
-    "name": "Delsa"
+    "name": "Delsa",
+    "postal_code": "99919"
   },
   {
     "code": "9508032012",
     "district_code": "950803",
-    "name": "Borot"
+    "name": "Borot",
+    "postal_code": "99919"
   }
 ]

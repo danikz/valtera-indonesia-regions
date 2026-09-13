@@ -2,21 +2,25 @@
   {
     "code": "2104082001",
     "district_code": "210408",
-    "name": "Selayar"
+    "name": "Selayar",
+    "postal_code": "29877"
   },
   {
     "code": "2104082002",
     "district_code": "210408",
-    "name": "Penuba"
+    "name": "Penuba",
+    "postal_code": "29877"
   },
   {
     "code": "2104082003",
     "district_code": "210408",
-    "name": "Penuba Timur"
+    "name": "Penuba Timur",
+    "postal_code": "29877"
   },
   {
     "code": "2104082004",
     "district_code": "210408",
-    "name": "Pantai Harapan"
+    "name": "Pantai Harapan",
+    "postal_code": "29877"
   }
 ]

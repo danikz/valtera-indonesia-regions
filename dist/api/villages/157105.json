@@ -2,31 +2,37 @@
   {
     "code": "1571051001",
     "district_code": "157105",
-    "name": "Arab Melayu"
+    "name": "Arab Melayu",
+    "postal_code": "36251"
   },
   {
     "code": "1571051002",
     "district_code": "157105",
-    "name": "Mudung Laut"
+    "name": "Mudung Laut",
+    "postal_code": "36252"
   },
   {
     "code": "1571051003",
     "district_code": "157105",
-    "name": "Jelmu"
+    "name": "Jelmu",
+    "postal_code": "36253"
   },
   {
     "code": "1571051004",
     "district_code": "157105",
-    "name": "Tengah"
+    "name": "Tengah",
+    "postal_code": "36254"
   },
   {
     "code": "1571051005",
     "district_code": "157105",
-    "name": "Tahtul Yaman"
+    "name": "Tahtul Yaman",
+    "postal_code": "36255"
   },
   {
     "code": "1571051006",
     "district_code": "157105",
-    "name": "Tanjung Johor"
+    "name": "Tanjung Johor",
+    "postal_code": "36256"
   }
 ]

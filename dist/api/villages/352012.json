@@ -2,71 +2,85 @@
   {
     "code": "3520121005",
     "district_code": "352012",
-    "name": "Mangge"
+    "name": "Mangge",
+    "postal_code": "63395"
   },
   {
     "code": "3520121006",
     "district_code": "352012",
-    "name": "Tebon"
+    "name": "Tebon",
+    "postal_code": "63395"
   },
   {
     "code": "3520122001",
     "district_code": "352012",
-    "name": "Bogorejo"
+    "name": "Bogorejo",
+    "postal_code": "63395"
   },
   {
     "code": "3520122002",
     "district_code": "352012",
-    "name": "Banjarejo"
+    "name": "Banjarejo",
+    "postal_code": "63137"
   },
   {
     "code": "3520122003",
     "district_code": "352012",
-    "name": "Karangsono"
+    "name": "Karangsono",
+    "postal_code": "63395"
   },
   {
     "code": "3520122004",
     "district_code": "352012",
-    "name": "Purwodadi"
+    "name": "Purwodadi",
+    "postal_code": "63395"
   },
   {
     "code": "3520122007",
     "district_code": "352012",
-    "name": "Manjung"
+    "name": "Manjung",
+    "postal_code": "63395"
   },
   {
     "code": "3520122008",
     "district_code": "352012",
-    "name": "Ngumpul"
+    "name": "Ngumpul",
+    "postal_code": "63395"
   },
   {
     "code": "3520122009",
     "district_code": "352012",
-    "name": "Panggung"
+    "name": "Panggung",
+    "postal_code": "63395"
   },
   {
     "code": "3520122010",
     "district_code": "352012",
-    "name": "Blaran"
+    "name": "Blaran",
+    "postal_code": "63395"
   },
   {
     "code": "3520122011",
     "district_code": "352012",
-    "name": "Jonggrang"
+    "name": "Jonggrang",
+    "postal_code": "63395"
   },
   {
     "code": "3520122012",
     "district_code": "352012",
-    "name": "Rejomulyo"
+    "name": "Rejomulyo",
+    "postal_code": "63395"
   },
   {
     "code": "3520122013",
     "district_code": "352012",
-    "name": "Bangunasri"
+    "name": "Bangunasri",
+    "postal_code": "63395"
   },
   {
     "code": "3520122014",
     "district_code": "352012",
-    "name": "Klagen"
+    "name": "Klagen",
+    "postal_code": "63395"
   }
 ]

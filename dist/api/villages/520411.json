@@ -2,26 +2,31 @@
   {
     "code": "5204112002",
     "district_code": "520411",
-    "name": "Lebin"
+    "name": "Lebin",
+    "postal_code": "84375"
   },
   {
     "code": "5204112003",
     "district_code": "520411",
-    "name": "Lebangkar"
+    "name": "Lebangkar",
+    "postal_code": "84375"
   },
   {
     "code": "5204112008",
     "district_code": "520411",
-    "name": "Ropang"
+    "name": "Ropang",
+    "postal_code": "84375"
   },
   {
     "code": "5204112009",
     "district_code": "520411",
-    "name": "Lawin"
+    "name": "Lawin",
+    "postal_code": "84375"
   },
   {
     "code": "5204112010",
     "district_code": "520411",
-    "name": "Ranan"
+    "name": "Ranan",
+    "postal_code": "84375"
   }
 ]

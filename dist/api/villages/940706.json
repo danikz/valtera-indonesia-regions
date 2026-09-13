@@ -2,46 +2,55 @@
   {
     "code": "9407062001",
     "district_code": "940706",
-    "name": "Wabui"
+    "name": "Wabui",
+    "postal_code": "98792"
   },
   {
     "code": "9407062002",
     "district_code": "940706",
-    "name": "Balaimai"
+    "name": "Balaimai",
+    "postal_code": "98792"
   },
   {
     "code": "9407062003",
     "district_code": "940706",
-    "name": "Janamba"
+    "name": "Janamba",
+    "postal_code": "98792"
   },
   {
     "code": "9407062004",
     "district_code": "940706",
-    "name": "Kulapa"
+    "name": "Kulapa",
+    "postal_code": "98792"
   },
   {
     "code": "9407062005",
     "district_code": "940706",
-    "name": "Pugisiga"
+    "name": "Pugisiga",
+    "postal_code": "98792"
   },
   {
     "code": "9407062006",
     "district_code": "940706",
-    "name": "Hitadipa"
+    "name": "Hitadipa",
+    "postal_code": "98792"
   },
   {
     "code": "9407062007",
     "district_code": "940706",
-    "name": "Soanggama"
+    "name": "Soanggama",
+    "postal_code": "98792"
   },
   {
     "code": "9407062008",
     "district_code": "940706",
-    "name": "Danggomba"
+    "name": "Danggomba",
+    "postal_code": "98792"
   },
   {
     "code": "9407062009",
     "district_code": "940706",
-    "name": "Sakumba"
+    "name": "Sakumba",
+    "postal_code": "98792"
   }
 ]

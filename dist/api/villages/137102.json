@@ -2,51 +2,61 @@
   {
     "code": "1371021001",
     "district_code": "137102",
-    "name": "Sawahan"
+    "name": "Sawahan",
+    "postal_code": "25121"
   },
   {
     "code": "1371021002",
     "district_code": "137102",
-    "name": "Jati Baru"
+    "name": "Jati Baru",
+    "postal_code": "25129"
   },
   {
     "code": "1371021003",
     "district_code": "137102",
-    "name": "Jati"
+    "name": "Jati",
+    "postal_code": "25129"
   },
   {
     "code": "1371021004",
     "district_code": "137102",
-    "name": "Sawahan Timur"
+    "name": "Sawahan Timur",
+    "postal_code": "25121"
   },
   {
     "code": "1371021005",
     "district_code": "137102",
-    "name": "Simpang Haru"
+    "name": "Simpang Haru",
+    "postal_code": "25123"
   },
   {
     "code": "1371021006",
     "district_code": "137102",
-    "name": "Kubu Marapalam"
+    "name": "Kubu Marapalam",
+    "postal_code": "25125"
   },
   {
     "code": "1371021007",
     "district_code": "137102",
-    "name": "Andalas"
+    "name": "Andalas",
+    "postal_code": "25126"
   },
   {
     "code": "1371021008",
     "district_code": "137102",
-    "name": "Kubu Dalam Parak Karakah"
+    "name": "Kubu Dalam Parak Karakah",
+    "postal_code": "25126"
   },
   {
     "code": "1371021009",
     "district_code": "137102",
-    "name": "Parak Gadang Timur"
+    "name": "Parak Gadang Timur",
+    "postal_code": "25123"
   },
   {
     "code": "1371021010",
     "district_code": "137102",
-    "name": "Ganting Parak Gadang"
+    "name": "Ganting Parak Gadang",
+    "postal_code": "25122"
   }
 ]

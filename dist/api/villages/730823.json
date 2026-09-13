@@ -2,41 +2,49 @@
   {
     "code": "7308231001",
     "district_code": "730823",
-    "name": "Bajoe"
+    "name": "Bajoe",
+    "postal_code": "92716"
   },
   {
     "code": "7308231002",
     "district_code": "730823",
-    "name": "Cellu"
+    "name": "Cellu",
+    "postal_code": "92715"
   },
   {
     "code": "7308231003",
     "district_code": "730823",
-    "name": "Panyula"
+    "name": "Panyula",
+    "postal_code": "92717"
   },
   {
     "code": "7308231004",
     "district_code": "730823",
-    "name": "Waetuo"
+    "name": "Waetuo",
+    "postal_code": "92718"
   },
   {
     "code": "7308231005",
     "district_code": "730823",
-    "name": "Palette"
+    "name": "Palette",
+    "postal_code": "92719"
   },
   {
     "code": "7308231006",
     "district_code": "730823",
-    "name": "Tipojong"
+    "name": "Tipojong",
+    "postal_code": "92716"
   },
   {
     "code": "7308231007",
     "district_code": "730823",
-    "name": "Toro"
+    "name": "Toro",
+    "postal_code": "92715"
   },
   {
     "code": "7308231008",
     "district_code": "730823",
-    "name": "Lonrae"
+    "name": "Lonrae",
+    "postal_code": "92716"
   }
 ]

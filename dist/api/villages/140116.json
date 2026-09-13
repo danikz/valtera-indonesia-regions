@@ -2,26 +2,31 @@
   {
     "code": "1401162001",
     "district_code": "140116",
-    "name": "Kampung Pinang"
+    "name": "Kampung Pinang",
+    "postal_code": "28462"
   },
   {
     "code": "1401162002",
     "district_code": "140116",
-    "name": "Pantai Raja"
+    "name": "Pantai Raja",
+    "postal_code": "28462"
   },
   {
     "code": "1401162003",
     "district_code": "140116",
-    "name": "Hangtuah"
+    "name": "Hangtuah",
+    "postal_code": "28462"
   },
   {
     "code": "1401162004",
     "district_code": "140116",
-    "name": "Sialang Kubang"
+    "name": "Sialang Kubang",
+    "postal_code": "28462"
   },
   {
     "code": "1401162005",
     "district_code": "140116",
-    "name": "Lubuk Sakat"
+    "name": "Lubuk Sakat",
+    "postal_code": "28462"
   }
 ]

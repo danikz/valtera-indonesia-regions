@@ -2,71 +2,85 @@
   {
     "code": "8272051001",
     "district_code": "827205",
-    "name": "Rum"
+    "name": "Rum",
+    "postal_code": "97823"
   },
   {
     "code": "8272051002",
     "district_code": "827205",
-    "name": "Fobaharu"
+    "name": "Fobaharu",
+    "postal_code": "97823"
   },
   {
     "code": "8272051003",
     "district_code": "827205",
-    "name": "Jaya"
+    "name": "Jaya",
+    "postal_code": "97823"
   },
   {
     "code": "8272051004",
     "district_code": "827205",
-    "name": "Ome"
+    "name": "Ome",
+    "postal_code": "97823"
   },
   {
     "code": "8272051005",
     "district_code": "827205",
-    "name": "Mareku"
+    "name": "Mareku",
+    "postal_code": "97823"
   },
   {
     "code": "8272051006",
     "district_code": "827205",
-    "name": "Afa Afa"
+    "name": "Afa Afa",
+    "postal_code": "97823"
   },
   {
     "code": "8272051008",
     "district_code": "827205",
-    "name": "Bobo"
+    "name": "Bobo",
+    "postal_code": "97823"
   },
   {
     "code": "8272051009",
     "district_code": "827205",
-    "name": "Gubu Kusuma"
+    "name": "Gubu Kusuma",
+    "postal_code": "97823"
   },
   {
     "code": "8272051010",
     "district_code": "827205",
-    "name": "Sirongo Folaraha"
+    "name": "Sirongo Folaraha",
+    "postal_code": "97823"
   },
   {
     "code": "8272051011",
     "district_code": "827205",
-    "name": "Rum Balibunga"
+    "name": "Rum Balibunga",
+    "postal_code": "97823"
   },
   {
     "code": "8272052007",
     "district_code": "827205",
-    "name": "Maitara"
+    "name": "Maitara",
+    "postal_code": "97823"
   },
   {
     "code": "8272052012",
     "district_code": "827205",
-    "name": "Maitara Selatan"
+    "name": "Maitara Selatan",
+    "postal_code": "97823"
   },
   {
     "code": "8272052013",
     "district_code": "827205",
-    "name": "Maitara Utara"
+    "name": "Maitara Utara",
+    "postal_code": "97823"
   },
   {
     "code": "8272052014",
     "district_code": "827205",
-    "name": "Maitara Tengah"
+    "name": "Maitara Tengah",
+    "postal_code": "97823"
   }
 ]

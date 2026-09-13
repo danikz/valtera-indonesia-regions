@@ -2,36 +2,43 @@
   {
     "code": "9502082001",
     "district_code": "950208",
-    "name": "Aboy"
+    "name": "Aboy",
+    "postal_code": "99401"
   },
   {
     "code": "9502082002",
     "district_code": "950208",
-    "name": "Luban"
+    "name": "Luban",
+    "postal_code": "99401"
   },
   {
     "code": "9502082003",
     "district_code": "950208",
-    "name": "Jubly"
+    "name": "Jubly",
+    "postal_code": "99578"
   },
   {
     "code": "9502082004",
     "district_code": "950208",
-    "name": "Armise"
+    "name": "Armise",
+    "postal_code": "99401"
   },
   {
     "code": "9502082005",
     "district_code": "950208",
-    "name": "Woro"
+    "name": "Woro",
+    "postal_code": "99401"
   },
   {
     "code": "9502082006",
     "district_code": "950208",
-    "name": "Pipal"
+    "name": "Pipal",
+    "postal_code": "99401"
   },
   {
     "code": "9502082007",
     "district_code": "950208",
-    "name": "Lulis Wii"
+    "name": "Lulis Wii",
+    "postal_code": "99401"
   }
 ]

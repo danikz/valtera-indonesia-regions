@@ -2,41 +2,49 @@
   {
     "code": "3529212001",
     "district_code": "352921",
-    "name": "Nonggunong"
+    "name": "Nonggunong",
+    "postal_code": "69484"
   },
   {
     "code": "3529212002",
     "district_code": "352921",
-    "name": "Somber"
+    "name": "Somber",
+    "postal_code": "69484"
   },
   {
     "code": "3529212003",
     "district_code": "352921",
-    "name": "Tanah Merah"
+    "name": "Tanah Merah",
+    "postal_code": "69484"
   },
   {
     "code": "3529212004",
     "district_code": "352921",
-    "name": "Sokaramme Timur"
+    "name": "Sokaramme Timur",
+    "postal_code": "69484"
   },
   {
     "code": "3529212005",
     "district_code": "352921",
-    "name": "Sokarami Paseser"
+    "name": "Sokarami Paseser",
+    "postal_code": "69484"
   },
   {
     "code": "3529212006",
     "district_code": "352921",
-    "name": "Talaga"
+    "name": "Talaga",
+    "postal_code": "69484"
   },
   {
     "code": "3529212007",
     "district_code": "352921",
-    "name": "Rosong"
+    "name": "Rosong",
+    "postal_code": "69484"
   },
   {
     "code": "3529212008",
     "district_code": "352921",
-    "name": "Sonok"
+    "name": "Sonok",
+    "postal_code": "69484"
   }
 ]

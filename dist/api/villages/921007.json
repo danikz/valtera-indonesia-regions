@@ -2,61 +2,73 @@
   {
     "code": "9210072001",
     "district_code": "921007",
-    "name": "Fategomi"
+    "name": "Fategomi",
+    "postal_code": ""
   },
   {
     "code": "9210072002",
     "district_code": "921007",
-    "name": "Tehak Besar"
+    "name": "Tehak Besar",
+    "postal_code": ""
   },
   {
     "code": "9210072003",
     "district_code": "921007",
-    "name": "Fan"
+    "name": "Fan",
+    "postal_code": ""
   },
   {
     "code": "9210072004",
     "district_code": "921007",
-    "name": "Gohsames"
+    "name": "Gohsames",
+    "postal_code": ""
   },
   {
     "code": "9210072005",
     "district_code": "921007",
-    "name": "Asmuruf U"
+    "name": "Asmuruf U",
+    "postal_code": ""
   },
   {
     "code": "9210072006",
     "district_code": "921007",
-    "name": "Mirafaan"
+    "name": "Mirafaan",
+    "postal_code": ""
   },
   {
     "code": "9210072011",
     "district_code": "921007",
-    "name": "Asmuruf Tee"
+    "name": "Asmuruf Tee",
+    "postal_code": ""
   },
   {
     "code": "9210072012",
     "district_code": "921007",
-    "name": "Tehak Tee"
+    "name": "Tehak Tee",
+    "postal_code": ""
   },
   {
     "code": "9210072013",
     "district_code": "921007",
-    "name": "Framafir"
+    "name": "Framafir",
+    "postal_code": ""
   },
   {
     "code": "9210072014",
     "district_code": "921007",
-    "name": "Subrit"
+    "name": "Subrit",
+    "postal_code": ""
   },
   {
     "code": "9210072015",
     "district_code": "921007",
-    "name": "Inta"
+    "name": "Inta",
+    "postal_code": ""
   },
   {
     "code": "9210072016",
     "district_code": "921007",
-    "name": "Bahwat"
+    "name": "Bahwat",
+    "postal_code": ""
   }
 ]

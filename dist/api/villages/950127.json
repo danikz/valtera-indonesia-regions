@@ -2,56 +2,67 @@
   {
     "code": "9501272001",
     "district_code": "950127",
-    "name": "Tagime"
+    "name": "Tagime",
+    "postal_code": "99546"
   },
   {
     "code": "9501272002",
     "district_code": "950127",
-    "name": "Porome"
+    "name": "Porome",
+    "postal_code": "99546"
   },
   {
     "code": "9501272003",
     "district_code": "950127",
-    "name": "Onggobalo"
+    "name": "Onggobalo",
+    "postal_code": "99546"
   },
   {
     "code": "9501272004",
     "district_code": "950127",
-    "name": "Lakwame"
+    "name": "Lakwame",
+    "postal_code": "99546"
   },
   {
     "code": "9501272005",
     "district_code": "950127",
-    "name": "Yordania Tulak"
+    "name": "Yordania Tulak",
+    "postal_code": "99546"
   },
   {
     "code": "9501272006",
     "district_code": "950127",
-    "name": "Gume Kupari"
+    "name": "Gume Kupari",
+    "postal_code": "99546"
   },
   {
     "code": "9501272007",
     "district_code": "950127",
-    "name": "Wandinggunie"
+    "name": "Wandinggunie",
+    "postal_code": "99546"
   },
   {
     "code": "9501272008",
     "district_code": "950127",
-    "name": "Mulugame"
+    "name": "Mulugame",
+    "postal_code": "99546"
   },
   {
     "code": "9501272009",
     "district_code": "950127",
-    "name": "Lapeyo"
+    "name": "Lapeyo",
+    "postal_code": "99546"
   },
   {
     "code": "9501272010",
     "district_code": "950127",
-    "name": "Yanggapura"
+    "name": "Yanggapura",
+    "postal_code": "99546"
   },
   {
     "code": "9501272011",
     "district_code": "950127",
-    "name": "Yogobur"
+    "name": "Yogobur",
+    "postal_code": "99546"
   }
 ]

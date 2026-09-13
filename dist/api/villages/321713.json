@@ -2,41 +2,49 @@
   {
     "code": "3217132001",
     "district_code": "321713",
-    "name": "Cibedug"
+    "name": "Cibedug",
+    "postal_code": "40566"
   },
   {
     "code": "3217132002",
     "district_code": "321713",
-    "name": "Bojong"
+    "name": "Bojong",
+    "postal_code": "40566"
   },
   {
     "code": "3217132003",
     "district_code": "321713",
-    "name": "Bojongsalam"
+    "name": "Bojongsalam",
+    "postal_code": "40566"
   },
   {
     "code": "3217132004",
     "district_code": "321713",
-    "name": "Cibitung"
+    "name": "Cibitung",
+    "postal_code": "40566"
   },
   {
     "code": "3217132005",
     "district_code": "321713",
-    "name": "Cicadas"
+    "name": "Cicadas",
+    "postal_code": "40566"
   },
   {
     "code": "3217132006",
     "district_code": "321713",
-    "name": "Cinengah"
+    "name": "Cinengah",
+    "postal_code": "40566"
   },
   {
     "code": "3217132007",
     "district_code": "321713",
-    "name": "Sukamanah"
+    "name": "Sukamanah",
+    "postal_code": "40566"
   },
   {
     "code": "3217132008",
     "district_code": "321713",
-    "name": "Sukaresmi"
+    "name": "Sukaresmi",
+    "postal_code": "40566"
   }
 ]

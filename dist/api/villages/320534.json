@@ -2,26 +2,31 @@
   {
     "code": "3205342001",
     "district_code": "320534",
-    "name": "Pakenjeng"
+    "name": "Pakenjeng",
+    "postal_code": "44168"
   },
   {
     "code": "3205342002",
     "district_code": "320534",
-    "name": "Garumukti"
+    "name": "Garumukti",
+    "postal_code": "44168"
   },
   {
     "code": "3205342003",
     "district_code": "320534",
-    "name": "Panawa"
+    "name": "Panawa",
+    "postal_code": "44168"
   },
   {
     "code": "3205342004",
     "district_code": "320534",
-    "name": "Pananjung"
+    "name": "Pananjung",
+    "postal_code": "44168"
   },
   {
     "code": "3205342005",
     "district_code": "320534",
-    "name": "Linggarjati"
+    "name": "Linggarjati",
+    "postal_code": "44168"
   }
 ]

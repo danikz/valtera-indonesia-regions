@@ -2,31 +2,37 @@
   {
     "code": "5301232001",
     "district_code": "530123",
-    "name": "Akle"
+    "name": "Akle",
+    "postal_code": "85353"
   },
   {
     "code": "5301232002",
     "district_code": "530123",
-    "name": "Uitiuh Ana"
+    "name": "Uitiuh Ana",
+    "postal_code": "85353"
   },
   {
     "code": "5301232003",
     "district_code": "530123",
-    "name": "Onansila"
+    "name": "Onansila",
+    "postal_code": "85353"
   },
   {
     "code": "5301232004",
     "district_code": "530123",
-    "name": "Uitiuh Tuan"
+    "name": "Uitiuh Tuan",
+    "postal_code": "85353"
   },
   {
     "code": "5301232005",
     "district_code": "530123",
-    "name": "Naikean"
+    "name": "Naikean",
+    "postal_code": "85353"
   },
   {
     "code": "5301232006",
     "district_code": "530123",
-    "name": "Uiboa"
+    "name": "Uiboa",
+    "postal_code": "85353"
   }
 ]

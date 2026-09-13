@@ -2,26 +2,31 @@
   {
     "code": "7407081003",
     "district_code": "740708",
-    "name": "Sowa"
+    "name": "Sowa",
+    "postal_code": "93796"
   },
   {
     "code": "7407081004",
     "district_code": "740708",
-    "name": "Popalia"
+    "name": "Popalia",
+    "postal_code": "93796"
   },
   {
     "code": "7407082001",
     "district_code": "740708",
-    "name": "Waloindi"
+    "name": "Waloindi",
+    "postal_code": "93796"
   },
   {
     "code": "7407082002",
     "district_code": "740708",
-    "name": "Oihu"
+    "name": "Oihu",
+    "postal_code": "93796"
   },
   {
     "code": "7407082005",
     "district_code": "740708",
-    "name": "Haka"
+    "name": "Haka",
+    "postal_code": "93796"
   }
 ]

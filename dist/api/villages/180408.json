@@ -2,26 +2,31 @@
   {
     "code": "1804081005",
     "district_code": "180408",
-    "name": "Sekincau"
+    "name": "Sekincau",
+    "postal_code": "34886"
   },
   {
     "code": "1804082001",
     "district_code": "180408",
-    "name": "Pampangan"
+    "name": "Pampangan",
+    "postal_code": "34886"
   },
   {
     "code": "1804082006",
     "district_code": "180408",
-    "name": "Waspada"
+    "name": "Waspada",
+    "postal_code": "34886"
   },
   {
     "code": "1804082007",
     "district_code": "180408",
-    "name": "Tiga Jaya"
+    "name": "Tiga Jaya",
+    "postal_code": "34886"
   },
   {
     "code": "1804082008",
     "district_code": "180408",
-    "name": "Giham Sukamaju"
+    "name": "Giham Sukamaju",
+    "postal_code": "34886"
   }
 ]

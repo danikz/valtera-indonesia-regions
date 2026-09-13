@@ -2,41 +2,49 @@
   {
     "code": "6402032001",
     "district_code": "640203",
-    "name": "Bakungan"
+    "name": "Bakungan",
+    "postal_code": "75391"
   },
   {
     "code": "6402032002",
     "district_code": "640203",
-    "name": "Loa Duri Ulu"
+    "name": "Loa Duri Ulu",
+    "postal_code": "75391"
   },
   {
     "code": "6402032003",
     "district_code": "640203",
-    "name": "Loa Janan Ulu"
+    "name": "Loa Janan Ulu",
+    "postal_code": "75391"
   },
   {
     "code": "6402032004",
     "district_code": "640203",
-    "name": "Purwajaya"
+    "name": "Purwajaya",
+    "postal_code": "75391"
   },
   {
     "code": "6402032005",
     "district_code": "640203",
-    "name": "Tani Bhakti"
+    "name": "Tani Bhakti",
+    "postal_code": "75391"
   },
   {
     "code": "6402032006",
     "district_code": "640203",
-    "name": "Batuah"
+    "name": "Batuah",
+    "postal_code": "75391"
   },
   {
     "code": "6402032007",
     "district_code": "640203",
-    "name": "Loa Duri Ilir"
+    "name": "Loa Duri Ilir",
+    "postal_code": "75391"
   },
   {
     "code": "6402032008",
     "district_code": "640203",
-    "name": "Tani Harapan"
+    "name": "Tani Harapan",
+    "postal_code": "75391"
   }
 ]

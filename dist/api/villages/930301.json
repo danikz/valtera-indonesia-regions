@@ -2,121 +2,145 @@
   {
     "code": "9303011013",
     "district_code": "930301",
-    "name": "Kepi"
+    "name": "Kepi",
+    "postal_code": "99871"
   },
   {
     "code": "9303012001",
     "district_code": "930301",
-    "name": "Obaa"
+    "name": "Obaa",
+    "postal_code": "99870"
   },
   {
     "code": "9303012002",
     "district_code": "930301",
-    "name": "Dagimon"
+    "name": "Dagimon",
+    "postal_code": "99870"
   },
   {
     "code": "9303012003",
     "district_code": "930301",
-    "name": "Rep"
+    "name": "Rep",
+    "postal_code": "99870"
   },
   {
     "code": "9303012004",
     "district_code": "930301",
-    "name": "Mappi Bawah/Yamui"
+    "name": "Mappi Bawah/Yamui",
+    "postal_code": "99870"
   },
   {
     "code": "9303012005",
     "district_code": "930301",
-    "name": "Wanggate"
+    "name": "Wanggate",
+    "postal_code": "99870"
   },
   {
     "code": "9303012006",
     "district_code": "930301",
-    "name": "Piai"
+    "name": "Piai",
+    "postal_code": "99871"
   },
   {
     "code": "9303012007",
     "district_code": "930301",
-    "name": "Muin"
+    "name": "Muin",
+    "postal_code": "99871"
   },
   {
     "code": "9303012008",
     "district_code": "930301",
-    "name": "Gauda"
+    "name": "Gauda",
+    "postal_code": "99871"
   },
   {
     "code": "9303012009",
     "district_code": "930301",
-    "name": "Soba"
+    "name": "Soba",
+    "postal_code": "99870"
   },
   {
     "code": "9303012010",
     "district_code": "930301",
-    "name": "Enem"
+    "name": "Enem",
+    "postal_code": "99870"
   },
   {
     "code": "9303012011",
     "district_code": "930301",
-    "name": "Kogo"
+    "name": "Kogo",
+    "postal_code": "99870"
   },
   {
     "code": "9303012012",
     "district_code": "930301",
-    "name": "Kadam/Oyim"
+    "name": "Kadam/Oyim",
+    "postal_code": "99870"
   },
   {
     "code": "9303012014",
     "district_code": "930301",
-    "name": "Tokhom"
+    "name": "Tokhom",
+    "postal_code": "99870"
   },
   {
     "code": "9303012015",
     "district_code": "930301",
-    "name": "Emete"
+    "name": "Emete",
+    "postal_code": "99870"
   },
   {
     "code": "9303012016",
     "district_code": "930301",
-    "name": "Wairu"
+    "name": "Wairu",
+    "postal_code": "99871"
   },
   {
     "code": "9303012017",
     "district_code": "930301",
-    "name": "Rayam"
+    "name": "Rayam",
+    "postal_code": "99871"
   },
   {
     "code": "9303012018",
     "district_code": "930301",
-    "name": "Harome"
+    "name": "Harome",
+    "postal_code": "99871"
   },
   {
     "code": "9303012019",
     "district_code": "930301",
-    "name": "Metim"
+    "name": "Metim",
+    "postal_code": "99871"
   },
   {
     "code": "9303012020",
     "district_code": "930301",
-    "name": "Masin"
+    "name": "Masin",
+    "postal_code": "99871"
   },
   {
     "code": "9303012021",
     "district_code": "930301",
-    "name": "Madu"
+    "name": "Madu",
+    "postal_code": "99871"
   },
   {
     "code": "9303012022",
     "district_code": "930301",
-    "name": "Yangpop"
+    "name": "Yangpop",
+    "postal_code": "99871"
   },
   {
     "code": "9303012023",
     "district_code": "930301",
-    "name": "Paedam"
+    "name": "Paedam",
+    "postal_code": "99870"
   },
   {
     "code": "9303012024",
     "district_code": "930301",
-    "name": "Marbin"
+    "name": "Marbin",
+    "postal_code": "99870"
   }
 ]

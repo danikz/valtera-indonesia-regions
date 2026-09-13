@@ -2,21 +2,25 @@
   {
     "code": "6372051001",
     "district_code": "637205",
-    "name": "Sungai Besar"
+    "name": "Sungai Besar",
+    "postal_code": "70714"
   },
   {
     "code": "6372051002",
     "district_code": "637205",
-    "name": "Laktabat Selatan"
+    "name": "Laktabat Selatan",
+    "postal_code": "70714"
   },
   {
     "code": "6372051003",
     "district_code": "637205",
-    "name": "Kemuning"
+    "name": "Kemuning",
+    "postal_code": "70714"
   },
   {
     "code": "6372051004",
     "district_code": "637205",
-    "name": "Guntung Paikat"
+    "name": "Guntung Paikat",
+    "postal_code": "70713"
   }
 ]

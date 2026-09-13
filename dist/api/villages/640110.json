@@ -2,46 +2,55 @@
   {
     "code": "6401102001",
     "district_code": "640110",
-    "name": "Tanjung Pinang"
+    "name": "Tanjung Pinang",
+    "postal_code": "76250"
   },
   {
     "code": "6401102002",
     "district_code": "640110",
-    "name": "Rantau Atas"
+    "name": "Rantau Atas",
+    "postal_code": "76250"
   },
   {
     "code": "6401102003",
     "district_code": "640110",
-    "name": "Libur Dinding"
+    "name": "Libur Dinding",
+    "postal_code": "76250"
   },
   {
     "code": "6401102004",
     "district_code": "640110",
-    "name": "Luan"
+    "name": "Luan",
+    "postal_code": "76250"
   },
   {
     "code": "6401102005",
     "district_code": "640110",
-    "name": "Suweto"
+    "name": "Suweto",
+    "postal_code": "76250"
   },
   {
     "code": "6401102006",
     "district_code": "640110",
-    "name": "Muser"
+    "name": "Muser",
+    "postal_code": "76250"
   },
   {
     "code": "6401102007",
     "district_code": "640110",
-    "name": "Biu"
+    "name": "Biu",
+    "postal_code": "76250"
   },
   {
     "code": "6401102008",
     "district_code": "640110",
-    "name": "Rantau Bintungan"
+    "name": "Rantau Bintungan",
+    "postal_code": "76250"
   },
   {
     "code": "6401102009",
     "district_code": "640110",
-    "name": "Muara Andeh"
+    "name": "Muara Andeh",
+    "postal_code": "76250"
   }
 ]

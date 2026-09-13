@@ -2,81 +2,97 @@
   {
     "code": "9110032005",
     "district_code": "911003",
-    "name": "Mertewar"
+    "name": "Mertewar",
+    "postal_code": "99375"
   },
   {
     "code": "9110032006",
     "district_code": "911003",
-    "name": "Samorkena"
+    "name": "Samorkena",
+    "postal_code": "99375"
   },
   {
     "code": "9110032007",
     "district_code": "911003",
-    "name": "Arbais"
+    "name": "Arbais",
+    "postal_code": "99375"
   },
   {
     "code": "9110032008",
     "district_code": "911003",
-    "name": "Kapeso"
+    "name": "Kapeso",
+    "postal_code": "99375"
   },
   {
     "code": "9110032009",
     "district_code": "911003",
-    "name": "Masep"
+    "name": "Masep",
+    "postal_code": "99375"
   },
   {
     "code": "9110032012",
     "district_code": "911003",
-    "name": "Nisro"
+    "name": "Nisro",
+    "postal_code": "99375"
   },
   {
     "code": "9110032013",
     "district_code": "911003",
-    "name": "Aruswar"
+    "name": "Aruswar",
+    "postal_code": "99375"
   },
   {
     "code": "9110032014",
     "district_code": "911003",
-    "name": "Kamenawari"
+    "name": "Kamenawari",
+    "postal_code": "99375"
   },
   {
     "code": "9110032015",
     "district_code": "911003",
-    "name": "Waim"
+    "name": "Waim",
+    "postal_code": "99375"
   },
   {
     "code": "9110032016",
     "district_code": "911003",
-    "name": "Subu"
+    "name": "Subu",
+    "postal_code": "99375"
   },
   {
     "code": "9110032017",
     "district_code": "911003",
-    "name": "Karfasia"
+    "name": "Karfasia",
+    "postal_code": "99375"
   },
   {
     "code": "9110032023",
     "district_code": "911003",
-    "name": "Burgena"
+    "name": "Burgena",
+    "postal_code": "99375"
   },
   {
     "code": "9110032024",
     "district_code": "911003",
-    "name": "Webro"
+    "name": "Webro",
+    "postal_code": "99375"
   },
   {
     "code": "9110032025",
     "district_code": "911003",
-    "name": "Siantoa"
+    "name": "Siantoa",
+    "postal_code": "99375"
   },
   {
     "code": "9110032026",
     "district_code": "911003",
-    "name": "Niwerawar"
+    "name": "Niwerawar",
+    "postal_code": "99375"
   },
   {
     "code": "9110032027",
     "district_code": "911003",
-    "name": "Wari"
+    "name": "Wari",
+    "postal_code": "99375"
   }
 ]

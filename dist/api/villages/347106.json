@@ -2,11 +2,13 @@
   {
     "code": "3471061001",
     "district_code": "347106",
-    "name": "Ngampilan"
+    "name": "Ngampilan",
+    "postal_code": "55261"
   },
   {
     "code": "3471061002",
     "district_code": "347106",
-    "name": "Notoprajan"
+    "name": "Notoprajan",
+    "postal_code": "55262"
   }
 ]

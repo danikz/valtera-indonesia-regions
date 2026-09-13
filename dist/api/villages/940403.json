@@ -2,31 +2,37 @@
   {
     "code": "9404031001",
     "district_code": "940403",
-    "name": "Wania"
+    "name": "Wania",
+    "postal_code": "99962"
   },
   {
     "code": "9404032002",
     "district_code": "940403",
-    "name": "Kaugapa"
+    "name": "Kaugapa",
+    "postal_code": "99962"
   },
   {
     "code": "9404032003",
     "district_code": "940403",
-    "name": "Poumako"
+    "name": "Poumako",
+    "postal_code": "99962"
   },
   {
     "code": "9404032004",
     "district_code": "940403",
-    "name": "Tipuka"
+    "name": "Tipuka",
+    "postal_code": "99962"
   },
   {
     "code": "9404032005",
     "district_code": "940403",
-    "name": "Muare"
+    "name": "Muare",
+    "postal_code": "99962"
   },
   {
     "code": "9404032006",
     "district_code": "940403",
-    "name": "Hiripau"
+    "name": "Hiripau",
+    "postal_code": "99963"
   }
 ]

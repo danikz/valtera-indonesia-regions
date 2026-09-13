@@ -2,51 +2,61 @@
   {
     "code": "7402011001",
     "district_code": "740201",
-    "name": "Lambuya"
+    "name": "Lambuya",
+    "postal_code": "93464"
   },
   {
     "code": "7402012006",
     "district_code": "740201",
-    "name": "Awuliti"
+    "name": "Awuliti",
+    "postal_code": "93464"
   },
   {
     "code": "7402012007",
     "district_code": "740201",
-    "name": "Asaki"
+    "name": "Asaki",
+    "postal_code": "93464"
   },
   {
     "code": "7402012011",
     "district_code": "740201",
-    "name": "Amberi"
+    "name": "Amberi",
+    "postal_code": "93464"
   },
   {
     "code": "7402012012",
     "district_code": "740201",
-    "name": "Waworaha"
+    "name": "Waworaha",
+    "postal_code": "93464"
   },
   {
     "code": "7402012015",
     "district_code": "740201",
-    "name": "Tanggobu"
+    "name": "Tanggobu",
+    "postal_code": "93464"
   },
   {
     "code": "7402012027",
     "district_code": "740201",
-    "name": "Meraka"
+    "name": "Meraka",
+    "postal_code": "93464"
   },
   {
     "code": "7402012035",
     "district_code": "740201",
-    "name": "Wanua Hoa"
+    "name": "Wanua Hoa",
+    "postal_code": "93464"
   },
   {
     "code": "7402012036",
     "district_code": "740201",
-    "name": "Watarema"
+    "name": "Watarema",
+    "postal_code": "93464"
   },
   {
     "code": "7402012037",
     "district_code": "740201",
-    "name": "Tetembomua"
+    "name": "Tetembomua",
+    "postal_code": "93464"
   }
 ]

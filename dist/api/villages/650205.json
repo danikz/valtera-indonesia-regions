@@ -2,26 +2,31 @@
   {
     "code": "6502052001",
     "district_code": "650205",
-    "name": "Long Nawang"
+    "name": "Long Nawang",
+    "postal_code": "77572"
   },
   {
     "code": "6502052002",
     "district_code": "650205",
-    "name": "Nawang Baru"
+    "name": "Nawang Baru",
+    "postal_code": "77572"
   },
   {
     "code": "6502052003",
     "district_code": "650205",
-    "name": "Long Temuyat"
+    "name": "Long Temuyat",
+    "postal_code": "77572"
   },
   {
     "code": "6502052004",
     "district_code": "650205",
-    "name": "Long Betaoh"
+    "name": "Long Betaoh",
+    "postal_code": "77572"
   },
   {
     "code": "6502052005",
     "district_code": "650205",
-    "name": "Long Payau"
+    "name": "Long Payau",
+    "postal_code": "77572"
   }
 ]

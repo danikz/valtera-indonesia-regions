@@ -2,41 +2,49 @@
   {
     "code": "9302102001",
     "district_code": "930210",
-    "name": "Sadar"
+    "name": "Sadar",
+    "postal_code": "99673"
   },
   {
     "code": "9302102002",
     "district_code": "930210",
-    "name": "Bangun"
+    "name": "Bangun",
+    "postal_code": "99673"
   },
   {
     "code": "9302102003",
     "district_code": "930210",
-    "name": "Makmur"
+    "name": "Makmur",
+    "postal_code": "99673"
   },
   {
     "code": "9302102004",
     "district_code": "930210",
-    "name": "Sohokanggo"
+    "name": "Sohokanggo",
+    "postal_code": "99673"
   },
   {
     "code": "9302102005",
     "district_code": "930210",
-    "name": "Domo"
+    "name": "Domo",
+    "postal_code": "99673"
   },
   {
     "code": "9302102006",
     "district_code": "930210",
-    "name": "Hamkhu"
+    "name": "Hamkhu",
+    "postal_code": "99673"
   },
   {
     "code": "9302102007",
     "district_code": "930210",
-    "name": "Hello"
+    "name": "Hello",
+    "postal_code": "99673"
   },
   {
     "code": "9302102008",
     "district_code": "930210",
-    "name": "Navini"
+    "name": "Navini",
+    "postal_code": "99673"
   }
 ]

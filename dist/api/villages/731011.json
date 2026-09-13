@@ -2,31 +2,37 @@
   {
     "code": "7310112001",
     "district_code": "731011",
-    "name": "Benteng"
+    "name": "Benteng",
+    "postal_code": "90655"
   },
   {
     "code": "7310112002",
     "district_code": "731011",
-    "name": "Manggalung"
+    "name": "Manggalung",
+    "postal_code": "90655"
   },
   {
     "code": "7310112003",
     "district_code": "731011",
-    "name": "Tama'rupa"
+    "name": "Tama'rupa",
+    "postal_code": "90655"
   },
   {
     "code": "7310112004",
     "district_code": "731011",
-    "name": "Mandalle"
+    "name": "Mandalle",
+    "postal_code": "90655"
   },
   {
     "code": "7310112005",
     "district_code": "731011",
-    "name": "Boddie"
+    "name": "Boddie",
+    "postal_code": "90655"
   },
   {
     "code": "7310112006",
     "district_code": "731011",
-    "name": "Coppo Tompong"
+    "name": "Coppo Tompong",
+    "postal_code": "90655"
   }
 ]

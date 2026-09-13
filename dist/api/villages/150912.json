@@ -2,41 +2,49 @@
   {
     "code": "1509122001",
     "district_code": "150912",
-    "name": "Tanah Garo"
+    "name": "Tanah Garo",
+    "postal_code": "37570"
   },
   {
     "code": "1509122002",
     "district_code": "150912",
-    "name": "Pintas Tuo"
+    "name": "Pintas Tuo",
+    "postal_code": "37570"
   },
   {
     "code": "1509122003",
     "district_code": "150912",
-    "name": "Embacang Gedang"
+    "name": "Embacang Gedang",
+    "postal_code": "37570"
   },
   {
     "code": "1509122004",
     "district_code": "150912",
-    "name": "Bangun Seranten"
+    "name": "Bangun Seranten",
+    "postal_code": "37570"
   },
   {
     "code": "1509122005",
     "district_code": "150912",
-    "name": "Tambun Arang"
+    "name": "Tambun Arang",
+    "postal_code": "37570"
   },
   {
     "code": "1509122006",
     "district_code": "150912",
-    "name": "Sungai Jernih"
+    "name": "Sungai Jernih",
+    "postal_code": "37570"
   },
   {
     "code": "1509122007",
     "district_code": "150912",
-    "name": "Bangko Pintas"
+    "name": "Bangko Pintas",
+    "postal_code": "37570"
   },
   {
     "code": "1509122008",
     "district_code": "150912",
-    "name": "Olak Kemang"
+    "name": "Olak Kemang",
+    "postal_code": "37570"
   }
 ]

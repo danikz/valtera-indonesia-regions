@@ -2,26 +2,31 @@
   {
     "code": "7472061007",
     "district_code": "747206",
-    "name": "Wajo"
+    "name": "Wajo",
+    "postal_code": "93726"
   },
   {
     "code": "7472061008",
     "district_code": "747206",
-    "name": "Lamangga"
+    "name": "Lamangga",
+    "postal_code": "93725"
   },
   {
     "code": "7472061009",
     "district_code": "747206",
-    "name": "Melai"
+    "name": "Melai",
+    "postal_code": "93727"
   },
   {
     "code": "7472061010",
     "district_code": "747206",
-    "name": "Baadia"
+    "name": "Baadia",
+    "postal_code": "93727"
   },
   {
     "code": "7472061011",
     "district_code": "747206",
-    "name": "Tanganapada"
+    "name": "Tanganapada",
+    "postal_code": "93721"
   }
 ]

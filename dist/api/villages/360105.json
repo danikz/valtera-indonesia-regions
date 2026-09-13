@@ -2,46 +2,55 @@
   {
     "code": "3601052001",
     "district_code": "360105",
-    "name": "Karangbolong"
+    "name": "Karangbolong",
+    "postal_code": "42282"
   },
   {
     "code": "3601052002",
     "district_code": "360105",
-    "name": "Katumbiri"
+    "name": "Katumbiri",
+    "postal_code": "42282"
   },
   {
     "code": "3601052003",
     "district_code": "360105",
-    "name": "Waringinjaya"
+    "name": "Waringinjaya",
+    "postal_code": "42282"
   },
   {
     "code": "3601052004",
     "district_code": "360105",
-    "name": "Karyabuana"
+    "name": "Karyabuana",
+    "postal_code": "42282"
   },
   {
     "code": "3601052005",
     "district_code": "360105",
-    "name": "Tarumanagara"
+    "name": "Tarumanagara",
+    "postal_code": "42282"
   },
   {
     "code": "3601052006",
     "district_code": "360105",
-    "name": "Ciseureuheun"
+    "name": "Ciseureuheun",
+    "postal_code": "42282"
   },
   {
     "code": "3601052007",
     "district_code": "360105",
-    "name": "Banyuasih"
+    "name": "Banyuasih",
+    "postal_code": "42282"
   },
   {
     "code": "3601052009",
     "district_code": "360105",
-    "name": "Cigeulis"
+    "name": "Cigeulis",
+    "postal_code": "42282"
   },
   {
     "code": "3601052010",
     "district_code": "360105",
-    "name": "Sinarjaya"
+    "name": "Sinarjaya",
+    "postal_code": "42282"
   }
 ]

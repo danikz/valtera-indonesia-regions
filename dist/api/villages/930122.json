@@ -2,26 +2,31 @@
   {
     "code": "9301222001",
     "district_code": "930122",
-    "name": "Kawe"
+    "name": "Kawe",
+    "postal_code": "99643"
   },
   {
     "code": "9301222002",
     "district_code": "930122",
-    "name": "Wetau"
+    "name": "Wetau",
+    "postal_code": "99643"
   },
   {
     "code": "9301222003",
     "district_code": "930122",
-    "name": "Pembri"
+    "name": "Pembri",
+    "postal_code": "99643"
   },
   {
     "code": "9301222004",
     "district_code": "930122",
-    "name": "Sibenda"
+    "name": "Sibenda",
+    "postal_code": "99643"
   },
   {
     "code": "9301222005",
     "district_code": "930122",
-    "name": "Wantarma"
+    "name": "Wantarma",
+    "postal_code": "99643"
   }
 ]

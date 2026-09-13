@@ -2,36 +2,43 @@
   {
     "code": "1903042001",
     "district_code": "190304",
-    "name": "Jelutung II"
+    "name": "Jelutung II",
+    "postal_code": "33777"
   },
   {
     "code": "1903042002",
     "district_code": "190304",
-    "name": "Gudang"
+    "name": "Gudang",
+    "postal_code": "33777"
   },
   {
     "code": "1903042003",
     "district_code": "190304",
-    "name": "Bangka Kota"
+    "name": "Bangka Kota",
+    "postal_code": "33777"
   },
   {
     "code": "1903042004",
     "district_code": "190304",
-    "name": "Rajik"
+    "name": "Rajik",
+    "postal_code": "33777"
   },
   {
     "code": "1903042005",
     "district_code": "190304",
-    "name": "Sebagin"
+    "name": "Sebagin",
+    "postal_code": "33777"
   },
   {
     "code": "1903042006",
     "district_code": "190304",
-    "name": "Simpang Rimba"
+    "name": "Simpang Rimba",
+    "postal_code": "33777"
   },
   {
     "code": "1903042007",
     "district_code": "190304",
-    "name": "Permis"
+    "name": "Permis",
+    "postal_code": "33777"
   }
 ]

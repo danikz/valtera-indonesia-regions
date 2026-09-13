@@ -2,46 +2,55 @@
   {
     "code": "3202032001",
     "district_code": "320203",
-    "name": "Cikakak"
+    "name": "Cikakak",
+    "postal_code": "43365"
   },
   {
     "code": "3202032002",
     "district_code": "320203",
-    "name": "Cimaja"
+    "name": "Cimaja",
+    "postal_code": "43365"
   },
   {
     "code": "3202032003",
     "district_code": "320203",
-    "name": "Ridogalih"
+    "name": "Ridogalih",
+    "postal_code": "43365"
   },
   {
     "code": "3202032004",
     "district_code": "320203",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "43365"
   },
   {
     "code": "3202032005",
     "district_code": "320203",
-    "name": "Cileungsing"
+    "name": "Cileungsing",
+    "postal_code": "43365"
   },
   {
     "code": "3202032006",
     "district_code": "320203",
-    "name": "Margalaksana"
+    "name": "Margalaksana",
+    "postal_code": "43365"
   },
   {
     "code": "3202032007",
     "district_code": "320203",
-    "name": "Sirnarasa"
+    "name": "Sirnarasa",
+    "postal_code": "43365"
   },
   {
     "code": "3202032008",
     "district_code": "320203",
-    "name": "Gandasoli"
+    "name": "Gandasoli",
+    "postal_code": "43365"
   },
   {
     "code": "3202032009",
     "district_code": "320203",
-    "name": "Cirendang"
+    "name": "Cirendang",
+    "postal_code": "43365"
   }
 ]

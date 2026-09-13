@@ -2,31 +2,37 @@
   {
     "code": "3672071001",
     "district_code": "367207",
-    "name": "Ramanuju"
+    "name": "Ramanuju",
+    "postal_code": "42431"
   },
   {
     "code": "3672071002",
     "district_code": "367207",
-    "name": "Kotabumi"
+    "name": "Kotabumi",
+    "postal_code": "42434"
   },
   {
     "code": "3672071003",
     "district_code": "367207",
-    "name": "Kebon Dalem"
+    "name": "Kebon Dalem",
+    "postal_code": "42433"
   },
   {
     "code": "3672071004",
     "district_code": "367207",
-    "name": "Purwakarta"
+    "name": "Purwakarta",
+    "postal_code": "42437"
   },
   {
     "code": "3672071005",
     "district_code": "367207",
-    "name": "Tegal Bunder"
+    "name": "Tegal Bunder",
+    "postal_code": "42437"
   },
   {
     "code": "3672071006",
     "district_code": "367207",
-    "name": "Pabean"
+    "name": "Pabean",
+    "postal_code": "42437"
   }
 ]

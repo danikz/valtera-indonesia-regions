@@ -2,26 +2,31 @@
   {
     "code": "6571021001",
     "district_code": "657102",
-    "name": "Kampung I Skip"
+    "name": "Kampung I Skip",
+    "postal_code": "77113"
   },
   {
     "code": "6571021002",
     "district_code": "657102",
-    "name": "Pamusian"
+    "name": "Pamusian",
+    "postal_code": "77113"
   },
   {
     "code": "6571021003",
     "district_code": "657102",
-    "name": "Sebengkok"
+    "name": "Sebengkok",
+    "postal_code": "77114"
   },
   {
     "code": "6571021004",
     "district_code": "657102",
-    "name": "Selumit"
+    "name": "Selumit",
+    "postal_code": "77113"
   },
   {
     "code": "6571021005",
     "district_code": "657102",
-    "name": "Selumit Pantai"
+    "name": "Selumit Pantai",
+    "postal_code": "77113"
   }
 ]

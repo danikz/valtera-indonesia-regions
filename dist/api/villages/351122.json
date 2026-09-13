@@ -2,41 +2,49 @@
   {
     "code": "3511222001",
     "district_code": "351122",
-    "name": "Lumutan"
+    "name": "Lumutan",
+    "postal_code": "68284"
   },
   {
     "code": "3511222002",
     "district_code": "351122",
-    "name": "Botolinggo"
+    "name": "Botolinggo",
+    "postal_code": "68284"
   },
   {
     "code": "3511222003",
     "district_code": "351122",
-    "name": "Lanas"
+    "name": "Lanas",
+    "postal_code": "68284"
   },
   {
     "code": "3511222004",
     "district_code": "351122",
-    "name": "Penang"
+    "name": "Penang",
+    "postal_code": "68285"
   },
   {
     "code": "3511222005",
     "district_code": "351122",
-    "name": "Gayam"
+    "name": "Gayam",
+    "postal_code": "68285"
   },
   {
     "code": "3511222006",
     "district_code": "351122",
-    "name": "Klekehan"
+    "name": "Klekehan",
+    "postal_code": "68285"
   },
   {
     "code": "3511222007",
     "district_code": "351122",
-    "name": "Sumber Canting"
+    "name": "Sumber Canting",
+    "postal_code": "68284"
   },
   {
     "code": "3511222008",
     "district_code": "351122",
-    "name": "Gayam Lor"
+    "name": "Gayam Lor",
+    "postal_code": "68285"
   }
 ]

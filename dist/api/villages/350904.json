@@ -2,41 +2,49 @@
   {
     "code": "3509042001",
     "district_code": "350904",
-    "name": "Kepanjen"
+    "name": "Kepanjen",
+    "postal_code": "68165"
   },
   {
     "code": "3509042002",
     "district_code": "350904",
-    "name": "Mayangan"
+    "name": "Mayangan",
+    "postal_code": "68165"
   },
   {
     "code": "3509042003",
     "district_code": "350904",
-    "name": "Gumukmas"
+    "name": "Gumukmas",
+    "postal_code": "68165"
   },
   {
     "code": "3509042004",
     "district_code": "350904",
-    "name": "Menampu"
+    "name": "Menampu",
+    "postal_code": "68165"
   },
   {
     "code": "3509042005",
     "district_code": "350904",
-    "name": "Tembokrejo"
+    "name": "Tembokrejo",
+    "postal_code": "68165"
   },
   {
     "code": "3509042006",
     "district_code": "350904",
-    "name": "Purwoasri"
+    "name": "Purwoasri",
+    "postal_code": "68165"
   },
   {
     "code": "3509042007",
     "district_code": "350904",
-    "name": "Bagorejo"
+    "name": "Bagorejo",
+    "postal_code": "68165"
   },
   {
     "code": "3509042008",
     "district_code": "350904",
-    "name": "Karangrejo"
+    "name": "Karangrejo",
+    "postal_code": "68165"
   }
 ]

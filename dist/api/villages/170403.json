@@ -2,56 +2,67 @@
   {
     "code": "1704031010",
     "district_code": "170403",
-    "name": "Simpang Tiga"
+    "name": "Simpang Tiga",
+    "postal_code": "38956"
   },
   {
     "code": "1704032001",
     "district_code": "170403",
-    "name": "Tanjung Betung"
+    "name": "Tanjung Betung",
+    "postal_code": "38956"
   },
   {
     "code": "1704032003",
     "district_code": "170403",
-    "name": "Padang Manis"
+    "name": "Padang Manis",
+    "postal_code": "38956"
   },
   {
     "code": "1704032006",
     "district_code": "170403",
-    "name": "Guru Agung"
+    "name": "Guru Agung",
+    "postal_code": "38956"
   },
   {
     "code": "1704032009",
     "district_code": "170403",
-    "name": "Gunung Agung"
+    "name": "Gunung Agung",
+    "postal_code": "38956"
   },
   {
     "code": "1704032021",
     "district_code": "170403",
-    "name": "Bandu Agung"
+    "name": "Bandu Agung",
+    "postal_code": "38956"
   },
   {
     "code": "1704032027",
     "district_code": "170403",
-    "name": "Tanjung Betung II"
+    "name": "Tanjung Betung II",
+    "postal_code": "38956"
   },
   {
     "code": "1704032028",
     "district_code": "170403",
-    "name": "Coko Enau"
+    "name": "Coko Enau",
+    "postal_code": "38956"
   },
   {
     "code": "1704032029",
     "district_code": "170403",
-    "name": "Pancur Negara"
+    "name": "Pancur Negara",
+    "postal_code": "38956"
   },
   {
     "code": "1704032030",
     "district_code": "170403",
-    "name": "Perugaian"
+    "name": "Perugaian",
+    "postal_code": "38956"
   },
   {
     "code": "1704032031",
     "district_code": "170403",
-    "name": "Guru Agung II"
+    "name": "Guru Agung II",
+    "postal_code": "38956"
   }
 ]

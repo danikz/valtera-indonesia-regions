@@ -2,51 +2,61 @@
   {
     "code": "9503032001",
     "district_code": "950303",
-    "name": "Ninia"
+    "name": "Ninia",
+    "postal_code": "99740"
   },
   {
     "code": "9503032002",
     "district_code": "950303",
-    "name": "Liligan"
+    "name": "Liligan",
+    "postal_code": "99043"
   },
   {
     "code": "9503032003",
     "district_code": "950303",
-    "name": "Niniahan"
+    "name": "Niniahan",
+    "postal_code": "99043"
   },
   {
     "code": "9503032004",
     "district_code": "950303",
-    "name": "Waerek"
+    "name": "Waerek",
+    "postal_code": "99043"
   },
   {
     "code": "9503032005",
     "district_code": "950303",
-    "name": "Wahaik"
+    "name": "Wahaik",
+    "postal_code": "99043"
   },
   {
     "code": "9503032006",
     "district_code": "950303",
-    "name": "Sohwal"
+    "name": "Sohwal",
+    "postal_code": "99043"
   },
   {
     "code": "9503032007",
     "district_code": "950303",
-    "name": "Babet"
+    "name": "Babet",
+    "postal_code": "99043"
   },
   {
     "code": "9503032008",
     "district_code": "950303",
-    "name": "Kahul"
+    "name": "Kahul",
+    "postal_code": "99043"
   },
   {
     "code": "9503032009",
     "district_code": "950303",
-    "name": "Hwealoma"
+    "name": "Hwealoma",
+    "postal_code": "99043"
   },
   {
     "code": "9503032010",
     "district_code": "950303",
-    "name": "Liligan II"
+    "name": "Liligan II",
+    "postal_code": "99740"
   }
 ]

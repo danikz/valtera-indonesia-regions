@@ -2,31 +2,37 @@
   {
     "code": "5206102001",
     "district_code": "520610",
-    "name": "Nipa"
+    "name": "Nipa",
+    "postal_code": "84153"
   },
   {
     "code": "5206102002",
     "district_code": "520610",
-    "name": "Tolowata"
+    "name": "Tolowata",
+    "postal_code": "84153"
   },
   {
     "code": "5206102003",
     "district_code": "520610",
-    "name": "Rite"
+    "name": "Rite",
+    "postal_code": "84153"
   },
   {
     "code": "5206102004",
     "district_code": "520610",
-    "name": "Mawu"
+    "name": "Mawu",
+    "postal_code": "84153"
   },
   {
     "code": "5206102005",
     "district_code": "520610",
-    "name": "Talapiti"
+    "name": "Talapiti",
+    "postal_code": "84153"
   },
   {
     "code": "5206102006",
     "district_code": "520610",
-    "name": "Kole"
+    "name": "Kole",
+    "postal_code": "84153"
   }
 ]

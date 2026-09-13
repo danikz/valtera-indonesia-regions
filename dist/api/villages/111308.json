@@ -2,46 +2,55 @@
   {
     "code": "1113082001",
     "district_code": "111308",
-    "name": "Pangur"
+    "name": "Pangur",
+    "postal_code": "24652"
   },
   {
     "code": "1113082002",
     "district_code": "111308",
-    "name": "Badak"
+    "name": "Badak",
+    "postal_code": "24652"
   },
   {
     "code": "1113082003",
     "district_code": "111308",
-    "name": "Kendawi"
+    "name": "Kendawi",
+    "postal_code": "24652"
   },
   {
     "code": "1113082004",
     "district_code": "111308",
-    "name": "Sangir"
+    "name": "Sangir",
+    "postal_code": "24652"
   },
   {
     "code": "1113082005",
     "district_code": "111308",
-    "name": "Panglima Linting"
+    "name": "Panglima Linting",
+    "postal_code": "24652"
   },
   {
     "code": "1113082006",
     "district_code": "111308",
-    "name": "Blangtemung"
+    "name": "Blangtemung",
+    "postal_code": "24652"
   },
   {
     "code": "1113082007",
     "district_code": "111308",
-    "name": "Rerebe"
+    "name": "Rerebe",
+    "postal_code": "24652"
   },
   {
     "code": "1113082008",
     "district_code": "111308",
-    "name": "Uning Gelung"
+    "name": "Uning Gelung",
+    "postal_code": "24652"
   },
   {
     "code": "1113082009",
     "district_code": "111308",
-    "name": "Uning Sepakat"
+    "name": "Uning Sepakat",
+    "postal_code": "24652"
   }
 ]

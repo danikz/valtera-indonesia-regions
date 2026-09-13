@@ -2,51 +2,61 @@
   {
     "code": "9115072002",
     "district_code": "911507",
-    "name": "Fafado"
+    "name": "Fafado",
+    "postal_code": "98674"
   },
   {
     "code": "9115072003",
     "district_code": "911507",
-    "name": "Wobari"
+    "name": "Wobari",
+    "postal_code": "98674"
   },
   {
     "code": "9115072013",
     "district_code": "911507",
-    "name": "Aimasi"
+    "name": "Aimasi",
+    "postal_code": "98674"
   },
   {
     "code": "9115072014",
     "district_code": "911507",
-    "name": "Mui"
+    "name": "Mui",
+    "postal_code": "98674"
   },
   {
     "code": "9115072015",
     "district_code": "911507",
-    "name": "Waghare"
+    "name": "Waghare",
+    "postal_code": "98674"
   },
   {
     "code": "9115072016",
     "district_code": "911507",
-    "name": "Ghaiwando"
+    "name": "Ghaiwando",
+    "postal_code": "98674"
   },
   {
     "code": "9115072017",
     "district_code": "911507",
-    "name": "Womorisi"
+    "name": "Womorisi",
+    "postal_code": "98674"
   },
   {
     "code": "9115072018",
     "district_code": "911507",
-    "name": "Orambin"
+    "name": "Orambin",
+    "postal_code": "98674"
   },
   {
     "code": "9115072019",
     "district_code": "911507",
-    "name": "Unareu"
+    "name": "Unareu",
+    "postal_code": "98674"
   },
   {
     "code": "9115072020",
     "district_code": "911507",
-    "name": "Ghaiwaru"
+    "name": "Ghaiwaru",
+    "postal_code": "98674"
   }
 ]

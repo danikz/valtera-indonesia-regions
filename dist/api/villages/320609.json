@@ -2,31 +2,37 @@
   {
     "code": "3206092001",
     "district_code": "320609",
-    "name": "Mertajaya"
+    "name": "Mertajaya",
+    "postal_code": "46475"
   },
   {
     "code": "3206092002",
     "district_code": "320609",
-    "name": "Cikadongdong"
+    "name": "Cikadongdong",
+    "postal_code": "46475"
   },
   {
     "code": "3206092003",
     "district_code": "320609",
-    "name": "Bojongasih"
+    "name": "Bojongasih",
+    "postal_code": "46475"
   },
   {
     "code": "3206092004",
     "district_code": "320609",
-    "name": "Sindangsari"
+    "name": "Sindangsari",
+    "postal_code": "46475"
   },
   {
     "code": "3206092005",
     "district_code": "320609",
-    "name": "Girijaya"
+    "name": "Girijaya",
+    "postal_code": "46475"
   },
   {
     "code": "3206092006",
     "district_code": "320609",
-    "name": "Toblongan"
+    "name": "Toblongan",
+    "postal_code": "46475"
   }
 ]

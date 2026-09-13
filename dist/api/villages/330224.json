@@ -2,36 +2,43 @@
   {
     "code": "3302241001",
     "district_code": "330224",
-    "name": "Karangklesem"
+    "name": "Karangklesem",
+    "postal_code": "53144"
   },
   {
     "code": "3302241002",
     "district_code": "330224",
-    "name": "Teluk"
+    "name": "Teluk",
+    "postal_code": "53145"
   },
   {
     "code": "3302241003",
     "district_code": "330224",
-    "name": "Berkoh"
+    "name": "Berkoh",
+    "postal_code": "53146"
   },
   {
     "code": "3302241004",
     "district_code": "330224",
-    "name": "Purwokerto Kidul"
+    "name": "Purwokerto Kidul",
+    "postal_code": "53147"
   },
   {
     "code": "3302241005",
     "district_code": "330224",
-    "name": "Purwokerto Kulon"
+    "name": "Purwokerto Kulon",
+    "postal_code": "53141"
   },
   {
     "code": "3302241006",
     "district_code": "330224",
-    "name": "Karangpucung"
+    "name": "Karangpucung",
+    "postal_code": "53142"
   },
   {
     "code": "3302241007",
     "district_code": "330224",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "53144"
   }
 ]

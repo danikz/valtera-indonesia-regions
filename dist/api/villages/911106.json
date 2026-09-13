@@ -2,46 +2,55 @@
   {
     "code": "9111062005",
     "district_code": "911106",
-    "name": "Yetti"
+    "name": "Yetti",
+    "postal_code": "99472"
   },
   {
     "code": "9111062006",
     "district_code": "911106",
-    "name": "Kriku"
+    "name": "Kriku",
+    "postal_code": "99472"
   },
   {
     "code": "9111062007",
     "district_code": "911106",
-    "name": "Skofro"
+    "name": "Skofro",
+    "postal_code": "99472"
   },
   {
     "code": "9111062008",
     "district_code": "911106",
-    "name": "Kibay"
+    "name": "Kibay",
+    "postal_code": "99472"
   },
   {
     "code": "9111062009",
     "district_code": "911106",
-    "name": "Sangke"
+    "name": "Sangke",
+    "postal_code": "99472"
   },
   {
     "code": "9111062011",
     "district_code": "911106",
-    "name": "Suskun"
+    "name": "Suskun",
+    "postal_code": "99472"
   },
   {
     "code": "9111062013",
     "district_code": "911106",
-    "name": "Amyu"
+    "name": "Amyu",
+    "postal_code": "99472"
   },
   {
     "code": "9111062014",
     "district_code": "911106",
-    "name": "Kikere"
+    "name": "Kikere",
+    "postal_code": "99472"
   },
   {
     "code": "9111062015",
     "district_code": "911106",
-    "name": "Petewi"
+    "name": "Petewi",
+    "postal_code": "99472"
   }
 ]

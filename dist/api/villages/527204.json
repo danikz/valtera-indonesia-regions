@@ -2,56 +2,67 @@
   {
     "code": "5272041001",
     "district_code": "527204",
-    "name": "Penaraga"
+    "name": "Penaraga",
+    "postal_code": "84115"
   },
   {
     "code": "5272041002",
     "district_code": "527204",
-    "name": "Rontu"
+    "name": "Rontu",
+    "postal_code": "84119"
   },
   {
     "code": "5272041003",
     "district_code": "527204",
-    "name": "PenanaE"
+    "name": "PenanaE",
+    "postal_code": "84119"
   },
   {
     "code": "5272041004",
     "district_code": "527204",
-    "name": "Kendo"
+    "name": "Kendo",
+    "postal_code": "84119"
   },
   {
     "code": "5272041005",
     "district_code": "527204",
-    "name": "Ntobo"
+    "name": "Ntobo",
+    "postal_code": "84119"
   },
   {
     "code": "5272041006",
     "district_code": "527204",
-    "name": "Nitu"
+    "name": "Nitu",
+    "postal_code": "84119"
   },
   {
     "code": "5272041007",
     "district_code": "527204",
-    "name": "Rabangodu Selatan"
+    "name": "Rabangodu Selatan",
+    "postal_code": "84113"
   },
   {
     "code": "5272041008",
     "district_code": "527204",
-    "name": "Rabadompu Timur"
+    "name": "Rabadompu Timur",
+    "postal_code": "84113"
   },
   {
     "code": "5272041009",
     "district_code": "527204",
-    "name": "Rite"
+    "name": "Rite",
+    "postal_code": "84119"
   },
   {
     "code": "5272041010",
     "district_code": "527204",
-    "name": "Rabadompu Barat"
+    "name": "Rabadompu Barat",
+    "postal_code": "84113"
   },
   {
     "code": "5272041011",
     "district_code": "527204",
-    "name": "Rabangodu Utara"
+    "name": "Rabangodu Utara",
+    "postal_code": "84113"
   }
 ]

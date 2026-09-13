@@ -2,31 +2,37 @@
   {
     "code": "7601021001",
     "district_code": "760102",
-    "name": "Pasangkayu"
+    "name": "Pasangkayu",
+    "postal_code": "91571"
   },
   {
     "code": "7601021002",
     "district_code": "760102",
-    "name": "Martajaya"
+    "name": "Martajaya",
+    "postal_code": "91571"
   },
   {
     "code": "7601022010",
     "district_code": "760102",
-    "name": "Pakava"
+    "name": "Pakava",
+    "postal_code": "91571"
   },
   {
     "code": "7601022014",
     "district_code": "760102",
-    "name": "Karya Bersama"
+    "name": "Karya Bersama",
+    "postal_code": "91571"
   },
   {
     "code": "7601022015",
     "district_code": "760102",
-    "name": "Ako"
+    "name": "Ako",
+    "postal_code": "91571"
   },
   {
     "code": "7601022016",
     "district_code": "760102",
-    "name": "Gunung Sari"
+    "name": "Gunung Sari",
+    "postal_code": "91571"
   }
 ]

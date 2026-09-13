@@ -2,46 +2,55 @@
   {
     "code": "7409041002",
     "district_code": "740904",
-    "name": "Molawe"
+    "name": "Molawe",
+    "postal_code": "93359"
   },
   {
     "code": "7409042001",
     "district_code": "740904",
-    "name": "Bandaeha"
+    "name": "Bandaeha",
+    "postal_code": "93359"
   },
   {
     "code": "7409042003",
     "district_code": "740904",
-    "name": "Awila"
+    "name": "Awila",
+    "postal_code": "93359"
   },
   {
     "code": "7409042004",
     "district_code": "740904",
-    "name": "Mowundo"
+    "name": "Mowundo",
+    "postal_code": "93359"
   },
   {
     "code": "7409042005",
     "district_code": "740904",
-    "name": "Mandiodo"
+    "name": "Mandiodo",
+    "postal_code": "93359"
   },
   {
     "code": "7409042006",
     "district_code": "740904",
-    "name": "Tapunggaya"
+    "name": "Tapunggaya",
+    "postal_code": "93359"
   },
   {
     "code": "7409042007",
     "district_code": "740904",
-    "name": "Mataiwoi"
+    "name": "Mataiwoi",
+    "postal_code": "93359"
   },
   {
     "code": "7409042008",
     "district_code": "740904",
-    "name": "Awila Puncak"
+    "name": "Awila Puncak",
+    "postal_code": "93359"
   },
   {
     "code": "7409042009",
     "district_code": "740904",
-    "name": "Tapuemea"
+    "name": "Tapuemea",
+    "postal_code": "93359"
   }
 ]

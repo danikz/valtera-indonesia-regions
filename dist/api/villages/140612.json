@@ -2,31 +2,37 @@
   {
     "code": "1406122001",
     "district_code": "140612",
-    "name": "Kabun"
+    "name": "Kabun",
+    "postal_code": "28554"
   },
   {
     "code": "1406122002",
     "district_code": "140612",
-    "name": "Aliantan"
+    "name": "Aliantan",
+    "postal_code": "28554"
   },
   {
     "code": "1406122003",
     "district_code": "140612",
-    "name": "Koto Ranah"
+    "name": "Koto Ranah",
+    "postal_code": "28554"
   },
   {
     "code": "1406122004",
     "district_code": "140612",
-    "name": "Boncah Kesuma"
+    "name": "Boncah Kesuma",
+    "postal_code": "28554"
   },
   {
     "code": "1406122005",
     "district_code": "140612",
-    "name": "Batu Langkah Besar"
+    "name": "Batu Langkah Besar",
+    "postal_code": "28554"
   },
   {
     "code": "1406122006",
     "district_code": "140612",
-    "name": "Giti"
+    "name": "Giti",
+    "postal_code": "28554"
   }
 ]

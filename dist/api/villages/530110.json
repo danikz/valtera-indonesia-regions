@@ -2,51 +2,61 @@
   {
     "code": "5301101001",
     "district_code": "530110",
-    "name": "Camplong I"
+    "name": "Camplong I",
+    "postal_code": "85371"
   },
   {
     "code": "5301102007",
     "district_code": "530110",
-    "name": "Camplong II"
+    "name": "Camplong II",
+    "postal_code": "85371"
   },
   {
     "code": "5301102008",
     "district_code": "530110",
-    "name": "Naunnu"
+    "name": "Naunnu",
+    "postal_code": "85371"
   },
   {
     "code": "5301102009",
     "district_code": "530110",
-    "name": "Oebola"
+    "name": "Oebola",
+    "postal_code": "85371"
   },
   {
     "code": "5301102010",
     "district_code": "530110",
-    "name": "Sillu"
+    "name": "Sillu",
+    "postal_code": "85371"
   },
   {
     "code": "5301102011",
     "district_code": "530110",
-    "name": "Ekateta"
+    "name": "Ekateta",
+    "postal_code": "85371"
   },
   {
     "code": "5301102012",
     "district_code": "530110",
-    "name": "Kuimasi"
+    "name": "Kuimasi",
+    "postal_code": "85371"
   },
   {
     "code": "5301102013",
     "district_code": "530110",
-    "name": "Tolnaku"
+    "name": "Tolnaku",
+    "postal_code": "85371"
   },
   {
     "code": "5301102014",
     "district_code": "530110",
-    "name": "Oebola Dalam"
+    "name": "Oebola Dalam",
+    "postal_code": "85371"
   },
   {
     "code": "5301102015",
     "district_code": "530110",
-    "name": "Kiuoni"
+    "name": "Kiuoni",
+    "postal_code": "85371"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "5301272001",
     "district_code": "530127",
-    "name": "Poto"
+    "name": "Poto",
+    "postal_code": "85223"
   },
   {
     "code": "5301272002",
     "district_code": "530127",
-    "name": "Nuataus"
+    "name": "Nuataus",
+    "postal_code": "85223"
   },
   {
     "code": "5301272003",
     "district_code": "530127",
-    "name": "Kalali"
+    "name": "Kalali",
+    "postal_code": "85223"
   },
   {
     "code": "5301272004",
     "district_code": "530127",
-    "name": "Tuakau"
+    "name": "Tuakau",
+    "postal_code": "85223"
   },
   {
     "code": "5301272005",
     "district_code": "530127",
-    "name": "Naitae"
+    "name": "Naitae",
+    "postal_code": "85223"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "7318111003",
     "district_code": "731811",
-    "name": "Tapparan"
+    "name": "Tapparan",
+    "postal_code": "91863"
   },
   {
     "code": "7318111012",
     "district_code": "731811",
-    "name": "Rantetayo"
+    "name": "Rantetayo",
+    "postal_code": "91863"
   },
   {
     "code": "7318111013",
     "district_code": "731811",
-    "name": "Padangiring"
+    "name": "Padangiring",
+    "postal_code": "91863"
   },
   {
     "code": "7318112007",
     "district_code": "731811",
-    "name": "Madandan"
+    "name": "Madandan",
+    "postal_code": "91863"
   },
   {
     "code": "7318112011",
     "district_code": "731811",
-    "name": "Tapparan Utara"
+    "name": "Tapparan Utara",
+    "postal_code": "91863"
   },
   {
     "code": "7318112014",
     "district_code": "731811",
-    "name": "Tonglo"
+    "name": "Tonglo",
+    "postal_code": "91863"
   }
 ]

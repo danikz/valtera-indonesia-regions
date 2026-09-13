@@ -2,21 +2,25 @@
   {
     "code": "1309102001",
     "district_code": "130910",
-    "name": "Sinaka"
+    "name": "Sinaka",
+    "postal_code": "25391"
   },
   {
     "code": "1309102002",
     "district_code": "130910",
-    "name": "Bulasat"
+    "name": "Bulasat",
+    "postal_code": "25391"
   },
   {
     "code": "1309102003",
     "district_code": "130910",
-    "name": "Malakopa"
+    "name": "Malakopa",
+    "postal_code": "25391"
   },
   {
     "code": "1309102004",
     "district_code": "130910",
-    "name": "Makalo"
+    "name": "Makalo",
+    "postal_code": "25391"
   }
 ]

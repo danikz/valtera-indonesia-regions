@@ -2,56 +2,67 @@
   {
     "code": "9171031002",
     "district_code": "917103",
-    "name": "Asano"
+    "name": "Asano",
+    "postal_code": "99322"
   },
   {
     "code": "9171031008",
     "district_code": "917103",
-    "name": "Awiyo"
+    "name": "Awiyo",
+    "postal_code": "99323"
   },
   {
     "code": "9171031010",
     "district_code": "917103",
-    "name": "Yobe"
+    "name": "Yobe",
+    "postal_code": "99329"
   },
   {
     "code": "9171031011",
     "district_code": "917103",
-    "name": "Abepantai"
+    "name": "Abepantai",
+    "postal_code": "99321"
   },
   {
     "code": "9171031012",
     "district_code": "917103",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "99325"
   },
   {
     "code": "9171031014",
     "district_code": "917103",
-    "name": "Vim"
+    "name": "Vim",
+    "postal_code": "99225"
   },
   {
     "code": "9171031015",
     "district_code": "917103",
-    "name": "Wahno"
+    "name": "Wahno",
+    "postal_code": "99226"
   },
   {
     "code": "9171031016",
     "district_code": "917103",
-    "name": "Way Mhorock"
+    "name": "Way Mhorock",
+    "postal_code": "99229"
   },
   {
     "code": "9171032001",
     "district_code": "917103",
-    "name": "Nafri"
+    "name": "Nafri",
+    "postal_code": "99327"
   },
   {
     "code": "9171032004",
     "district_code": "917103",
-    "name": "Enggros"
+    "name": "Enggros",
+    "postal_code": "99324"
   },
   {
     "code": "9171032007",
     "district_code": "917103",
-    "name": "Koya Koso"
+    "name": "Koya Koso",
+    "postal_code": "99326"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "5308181001",
     "district_code": "530818",
-    "name": "Kota Raja"
+    "name": "Kota Raja",
+    "postal_code": "86310"
   },
   {
     "code": "5308181002",
     "district_code": "530818",
-    "name": "Kota Ratu"
+    "name": "Kota Ratu",
+    "postal_code": "86310"
   },
   {
     "code": "5308181003",
     "district_code": "530818",
-    "name": "Roworena"
+    "name": "Roworena",
+    "postal_code": "86310"
   },
   {
     "code": "5308181007",
     "district_code": "530818",
-    "name": "Roworena Barat"
+    "name": "Roworena Barat",
+    "postal_code": "86310"
   },
   {
     "code": "5308182004",
     "district_code": "530818",
-    "name": "Gheoghoma"
+    "name": "Gheoghoma",
+    "postal_code": "86310"
   },
   {
     "code": "5308182005",
     "district_code": "530818",
-    "name": "Borokanda"
+    "name": "Borokanda",
+    "postal_code": "86310"
   },
   {
     "code": "5308182006",
     "district_code": "530818",
-    "name": "Watusipi"
+    "name": "Watusipi",
+    "postal_code": "86310"
   },
   {
     "code": "5308182008",
     "district_code": "530818",
-    "name": "Mbomba"
+    "name": "Mbomba",
+    "postal_code": "86310"
   },
   {
     "code": "5308182009",
     "district_code": "530818",
-    "name": "Embundoa"
+    "name": "Embundoa",
+    "postal_code": "86310"
   },
   {
     "code": "5308182010",
     "district_code": "530818",
-    "name": "Raterua"
+    "name": "Raterua",
+    "postal_code": "86310"
   }
 ]

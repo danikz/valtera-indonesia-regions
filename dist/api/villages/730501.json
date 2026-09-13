@@ -2,21 +2,25 @@
   {
     "code": "7305011001",
     "district_code": "730501",
-    "name": "Takalar"
+    "name": "Takalar",
+    "postal_code": "92232"
   },
   {
     "code": "7305012003",
     "district_code": "730501",
-    "name": "Patani"
+    "name": "Patani",
+    "postal_code": "92232"
   },
   {
     "code": "7305012009",
     "district_code": "730501",
-    "name": "Soreang"
+    "name": "Soreang",
+    "postal_code": "92232"
   },
   {
     "code": "7305012010",
     "district_code": "730501",
-    "name": "Pa'batangang"
+    "name": "Pa'batangang",
+    "postal_code": "92232"
   }
 ]

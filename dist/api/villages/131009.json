@@ -2,21 +2,25 @@
   {
     "code": "1310092001",
     "district_code": "131009",
-    "name": "Padang Laweh"
+    "name": "Padang Laweh",
+    "postal_code": "27682"
   },
   {
     "code": "1310092002",
     "district_code": "131009",
-    "name": "Batu Rijal"
+    "name": "Batu Rijal",
+    "postal_code": "27682"
   },
   {
     "code": "1310092003",
     "district_code": "131009",
-    "name": "Muaro Sopan"
+    "name": "Muaro Sopan",
+    "postal_code": "27682"
   },
   {
     "code": "1310092004",
     "district_code": "131009",
-    "name": "Sopan Jaya"
+    "name": "Sopan Jaya",
+    "postal_code": "27682"
   }
 ]

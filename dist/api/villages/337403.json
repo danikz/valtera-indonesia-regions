@@ -2,51 +2,61 @@
   {
     "code": "3374031001",
     "district_code": "337403",
-    "name": "Kemijen"
+    "name": "Kemijen",
+    "postal_code": "50228"
   },
   {
     "code": "3374031002",
     "district_code": "337403",
-    "name": "Rejomulyo"
+    "name": "Rejomulyo",
+    "postal_code": "50227"
   },
   {
     "code": "3374031003",
     "district_code": "337403",
-    "name": "Mlatibaru"
+    "name": "Mlatibaru",
+    "postal_code": "50122"
   },
   {
     "code": "3374031004",
     "district_code": "337403",
-    "name": "Kebonagung"
+    "name": "Kebonagung",
+    "postal_code": "50123"
   },
   {
     "code": "3374031005",
     "district_code": "337403",
-    "name": "Mlatiharjo"
+    "name": "Mlatiharjo",
+    "postal_code": "50126"
   },
   {
     "code": "3374031006",
     "district_code": "337403",
-    "name": "Bugangan"
+    "name": "Bugangan",
+    "postal_code": "50126"
   },
   {
     "code": "3374031007",
     "district_code": "337403",
-    "name": "Sarirejo"
+    "name": "Sarirejo",
+    "postal_code": "50124"
   },
   {
     "code": "3374031008",
     "district_code": "337403",
-    "name": "Rejosari"
+    "name": "Rejosari",
+    "postal_code": "50125"
   },
   {
     "code": "3374031009",
     "district_code": "337403",
-    "name": "Karangturi"
+    "name": "Karangturi",
+    "postal_code": "50124"
   },
   {
     "code": "3374031010",
     "district_code": "337403",
-    "name": "Karangtempel"
+    "name": "Karangtempel",
+    "postal_code": "50232"
   }
 ]

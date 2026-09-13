@@ -2,26 +2,31 @@
   {
     "code": "9303132001",
     "district_code": "930313",
-    "name": "Yeloba"
+    "name": "Yeloba",
+    "postal_code": "99851"
   },
   {
     "code": "9303132002",
     "district_code": "930313",
-    "name": "Konebi"
+    "name": "Konebi",
+    "postal_code": "99851"
   },
   {
     "code": "9303132003",
     "district_code": "930313",
-    "name": "Sibi"
+    "name": "Sibi",
+    "postal_code": "99851"
   },
   {
     "code": "9303132004",
     "district_code": "930313",
-    "name": "Tagaimon Sino"
+    "name": "Tagaimon Sino",
+    "postal_code": "99851"
   },
   {
     "code": "9303132005",
     "district_code": "930313",
-    "name": "Tagaimon Karome"
+    "name": "Tagaimon Karome",
+    "postal_code": "99851"
   }
 ]

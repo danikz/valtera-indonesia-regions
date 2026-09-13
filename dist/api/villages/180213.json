@@ -2,36 +2,43 @@
   {
     "code": "1802132001",
     "district_code": "180213",
-    "name": "Gunung Batin Udik"
+    "name": "Gunung Batin Udik",
+    "postal_code": "34167"
   },
   {
     "code": "1802132002",
     "district_code": "180213",
-    "name": "Gunung Batin Ilir"
+    "name": "Gunung Batin Ilir",
+    "postal_code": "34167"
   },
   {
     "code": "1802132003",
     "district_code": "180213",
-    "name": "Gunung Batin Baru"
+    "name": "Gunung Batin Baru",
+    "postal_code": "34167"
   },
   {
     "code": "1802132004",
     "district_code": "180213",
-    "name": "Gunung Agung"
+    "name": "Gunung Agung",
+    "postal_code": "34167"
   },
   {
     "code": "1802132005",
     "district_code": "180213",
-    "name": "Bandar Agung"
+    "name": "Bandar Agung",
+    "postal_code": "34167"
   },
   {
     "code": "1802132006",
     "district_code": "180213",
-    "name": "Bandar Sakti"
+    "name": "Bandar Sakti",
+    "postal_code": "34167"
   },
   {
     "code": "1802132007",
     "district_code": "180213",
-    "name": "Tanjung Anom"
+    "name": "Tanjung Anom",
+    "postal_code": "34167"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1271071001",
     "district_code": "127107",
-    "name": "Tanjung Selamat"
+    "name": "Tanjung Selamat",
+    "postal_code": "20134"
   },
   {
     "code": "1271071002",
     "district_code": "127107",
-    "name": "Simpang Selayang"
+    "name": "Simpang Selayang",
+    "postal_code": "20135"
   },
   {
     "code": "1271071003",
     "district_code": "127107",
-    "name": "Namo Gajah"
+    "name": "Namo Gajah",
+    "postal_code": "20136"
   },
   {
     "code": "1271071004",
     "district_code": "127107",
-    "name": "Kemenangan Tani"
+    "name": "Kemenangan Tani",
+    "postal_code": "20136"
   },
   {
     "code": "1271071005",
     "district_code": "127107",
-    "name": "Laucih"
+    "name": "Laucih",
+    "postal_code": "20136"
   },
   {
     "code": "1271071006",
     "district_code": "127107",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "20137"
   },
   {
     "code": "1271071007",
     "district_code": "127107",
-    "name": "Ladang Bambu"
+    "name": "Ladang Bambu",
+    "postal_code": "20138"
   },
   {
     "code": "1271071008",
     "district_code": "127107",
-    "name": "Simalingkar B"
+    "name": "Simalingkar B",
+    "postal_code": "20135"
   },
   {
     "code": "1271071009",
     "district_code": "127107",
-    "name": "Mangga"
+    "name": "Mangga",
+    "postal_code": "20141"
   }
 ]

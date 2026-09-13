@@ -2,36 +2,43 @@
   {
     "code": "7415042001",
     "district_code": "741504",
-    "name": "Batuatas Liwu"
+    "name": "Batuatas Liwu",
+    "postal_code": "93745"
   },
   {
     "code": "7415042002",
     "district_code": "741504",
-    "name": "Batuatas Barat"
+    "name": "Batuatas Barat",
+    "postal_code": "93745"
   },
   {
     "code": "7415042003",
     "district_code": "741504",
-    "name": "Wacuala"
+    "name": "Wacuala",
+    "postal_code": "93745"
   },
   {
     "code": "7415042004",
     "district_code": "741504",
-    "name": "Batu Atas Timur"
+    "name": "Batu Atas Timur",
+    "postal_code": "93745"
   },
   {
     "code": "7415042005",
     "district_code": "741504",
-    "name": "Tolando Jaya"
+    "name": "Tolando Jaya",
+    "postal_code": "93745"
   },
   {
     "code": "7415042006",
     "district_code": "741504",
-    "name": "Taduasa"
+    "name": "Taduasa",
+    "postal_code": "93745"
   },
   {
     "code": "7415042007",
     "district_code": "741504",
-    "name": "Wambongi"
+    "name": "Wambongi",
+    "postal_code": "93745"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "3172011001",
     "district_code": "317201",
-    "name": "Penjaringan"
+    "name": "Penjaringan",
+    "postal_code": "14440"
   },
   {
     "code": "3172011002",
     "district_code": "317201",
-    "name": "Kamal Muara"
+    "name": "Kamal Muara",
+    "postal_code": "14470"
   },
   {
     "code": "3172011003",
     "district_code": "317201",
-    "name": "Kapuk Muara"
+    "name": "Kapuk Muara",
+    "postal_code": "14460"
   },
   {
     "code": "3172011004",
     "district_code": "317201",
-    "name": "Pejagalan"
+    "name": "Pejagalan",
+    "postal_code": "14450"
   },
   {
     "code": "3172011005",
     "district_code": "317201",
-    "name": "Pluit"
+    "name": "Pluit",
+    "postal_code": "14450"
   }
 ]

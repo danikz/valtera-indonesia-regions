@@ -2,46 +2,55 @@
   {
     "code": "1604182001",
     "district_code": "160418",
-    "name": "Sungai Laru"
+    "name": "Sungai Laru",
+    "postal_code": "31459"
   },
   {
     "code": "1604182002",
     "district_code": "160418",
-    "name": "Muara Lingsing"
+    "name": "Muara Lingsing",
+    "postal_code": "31459"
   },
   {
     "code": "1604182003",
     "district_code": "160418",
-    "name": "Tanjung Baru"
+    "name": "Tanjung Baru",
+    "postal_code": "31459"
   },
   {
     "code": "1604182004",
     "district_code": "160418",
-    "name": "Kepala Siring"
+    "name": "Kepala Siring",
+    "postal_code": "31459"
   },
   {
     "code": "1604182005",
     "district_code": "160418",
-    "name": "Maspura"
+    "name": "Maspura",
+    "postal_code": "31459"
   },
   {
     "code": "1604182006",
     "district_code": "160418",
-    "name": "Suka Raja"
+    "name": "Suka Raja",
+    "postal_code": "31459"
   },
   {
     "code": "1604182007",
     "district_code": "160418",
-    "name": "Tanjung Aur"
+    "name": "Tanjung Aur",
+    "postal_code": "31459"
   },
   {
     "code": "1604182008",
     "district_code": "160418",
-    "name": "Purbamas"
+    "name": "Purbamas",
+    "postal_code": "31459"
   },
   {
     "code": "1604182009",
     "district_code": "160418",
-    "name": "Banyu Mas"
+    "name": "Banyu Mas",
+    "postal_code": "31459"
   }
 ]

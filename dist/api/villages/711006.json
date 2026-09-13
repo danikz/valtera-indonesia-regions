@@ -2,56 +2,67 @@
   {
     "code": "7110062001",
     "district_code": "711006",
-    "name": "Motongkad Utara"
+    "name": "Motongkad Utara",
+    "postal_code": "95785"
   },
   {
     "code": "7110062002",
     "district_code": "711006",
-    "name": "Motongkad"
+    "name": "Motongkad",
+    "postal_code": "95785"
   },
   {
     "code": "7110062003",
     "district_code": "711006",
-    "name": "Motongkad Selatan"
+    "name": "Motongkad Selatan",
+    "postal_code": "95785"
   },
   {
     "code": "7110062004",
     "district_code": "711006",
-    "name": "Atoga"
+    "name": "Atoga",
+    "postal_code": "95785"
   },
   {
     "code": "7110062005",
     "district_code": "711006",
-    "name": "Atoga Timur"
+    "name": "Atoga Timur",
+    "postal_code": "95785"
   },
   {
     "code": "7110062006",
     "district_code": "711006",
-    "name": "Motongkad Tengah"
+    "name": "Motongkad Tengah",
+    "postal_code": "95785"
   },
   {
     "code": "7110062007",
     "district_code": "711006",
-    "name": "Molobog"
+    "name": "Molobog",
+    "postal_code": "95785"
   },
   {
     "code": "7110062008",
     "district_code": "711006",
-    "name": "Molobog Barat"
+    "name": "Molobog Barat",
+    "postal_code": "95785"
   },
   {
     "code": "7110062009",
     "district_code": "711006",
-    "name": "Jiko"
+    "name": "Jiko",
+    "postal_code": "95785"
   },
   {
     "code": "7110062010",
     "district_code": "711006",
-    "name": "Jiko Utara"
+    "name": "Jiko Utara",
+    "postal_code": "95785"
   },
   {
     "code": "7110062011",
     "district_code": "711006",
-    "name": "Molobog Timur"
+    "name": "Molobog Timur",
+    "postal_code": "95785"
   }
 ]

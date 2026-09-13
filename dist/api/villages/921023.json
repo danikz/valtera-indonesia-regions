@@ -2,51 +2,61 @@
   {
     "code": "9210232001",
     "district_code": "921023",
-    "name": "Jitmau"
+    "name": "Jitmau",
+    "postal_code": ""
   },
   {
     "code": "9210232002",
     "district_code": "921023",
-    "name": "Ikuf"
+    "name": "Ikuf",
+    "postal_code": ""
   },
   {
     "code": "9210232003",
     "district_code": "921023",
-    "name": "Isir"
+    "name": "Isir",
+    "postal_code": ""
   },
   {
     "code": "9210232004",
     "district_code": "921023",
-    "name": "Jitmau Timur"
+    "name": "Jitmau Timur",
+    "postal_code": ""
   },
   {
     "code": "9210232005",
     "district_code": "921023",
-    "name": "Ikuf Utara"
+    "name": "Ikuf Utara",
+    "postal_code": ""
   },
   {
     "code": "9210232006",
     "district_code": "921023",
-    "name": "Sarimo"
+    "name": "Sarimo",
+    "postal_code": ""
   },
   {
     "code": "9210232007",
     "district_code": "921023",
-    "name": "Kambusabo"
+    "name": "Kambusabo",
+    "postal_code": ""
   },
   {
     "code": "9210232008",
     "district_code": "921023",
-    "name": "Srirtabam"
+    "name": "Srirtabam",
+    "postal_code": ""
   },
   {
     "code": "9210232009",
     "district_code": "921023",
-    "name": "Faithowes"
+    "name": "Faithowes",
+    "postal_code": ""
   },
   {
     "code": "9210232010",
     "district_code": "921023",
-    "name": "Yumame"
+    "name": "Yumame",
+    "postal_code": ""
   }
 ]

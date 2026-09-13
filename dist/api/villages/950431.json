@@ -2,51 +2,61 @@
   {
     "code": "9504312001",
     "district_code": "950431",
-    "name": "Silo"
+    "name": "Silo",
+    "postal_code": "99017"
   },
   {
     "code": "9504312002",
     "district_code": "950431",
-    "name": "Logi"
+    "name": "Logi",
+    "postal_code": "99017"
   },
   {
     "code": "9504312003",
     "district_code": "950431",
-    "name": "Tagi"
+    "name": "Tagi",
+    "postal_code": "99017"
   },
   {
     "code": "9504312004",
     "district_code": "950431",
-    "name": "Bini"
+    "name": "Bini",
+    "postal_code": "99017"
   },
   {
     "code": "9504312005",
     "district_code": "950431",
-    "name": "Dunda"
+    "name": "Dunda",
+    "postal_code": "99017"
   },
   {
     "code": "9504312006",
     "district_code": "950431",
-    "name": "Getiem"
+    "name": "Getiem",
+    "postal_code": "99017"
   },
   {
     "code": "9504312007",
     "district_code": "950431",
-    "name": "Rumbepaga"
+    "name": "Rumbepaga",
+    "postal_code": "99017"
   },
   {
     "code": "9504312008",
     "district_code": "950431",
-    "name": "Yimabnime"
+    "name": "Yimabnime",
+    "postal_code": "99017"
   },
   {
     "code": "9504312009",
     "district_code": "950431",
-    "name": "Wanuk"
+    "name": "Wanuk",
+    "postal_code": "99017"
   },
   {
     "code": "9504312010",
     "district_code": "950431",
-    "name": "Lamaluk"
+    "name": "Lamaluk",
+    "postal_code": "99017"
   }
 ]

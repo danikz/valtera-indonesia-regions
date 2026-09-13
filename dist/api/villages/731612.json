@@ -2,26 +2,31 @@
   {
     "code": "7316122001",
     "district_code": "731612",
-    "name": "Baroko"
+    "name": "Baroko",
+    "postal_code": "91755"
   },
   {
     "code": "7316122002",
     "district_code": "731612",
-    "name": "Benteng Alla"
+    "name": "Benteng Alla",
+    "postal_code": "91755"
   },
   {
     "code": "7316122003",
     "district_code": "731612",
-    "name": "Benteng Alla Utara"
+    "name": "Benteng Alla Utara",
+    "postal_code": "91755"
   },
   {
     "code": "7316122004",
     "district_code": "731612",
-    "name": "Tongko"
+    "name": "Tongko",
+    "postal_code": "91755"
   },
   {
     "code": "7316122005",
     "district_code": "731612",
-    "name": "Patongloan"
+    "name": "Patongloan",
+    "postal_code": "91755"
   }
 ]

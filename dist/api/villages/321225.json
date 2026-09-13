@@ -2,36 +2,43 @@
   {
     "code": "3212252001",
     "district_code": "321225",
-    "name": "Bantarwaru"
+    "name": "Bantarwaru",
+    "postal_code": "45264"
   },
   {
     "code": "3212252002",
     "district_code": "321225",
-    "name": "Sanca"
+    "name": "Sanca",
+    "postal_code": "45264"
   },
   {
     "code": "3212252003",
     "district_code": "321225",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "45264"
   },
   {
     "code": "3212252004",
     "district_code": "321225",
-    "name": "Gantar"
+    "name": "Gantar",
+    "postal_code": "45264"
   },
   {
     "code": "3212252005",
     "district_code": "321225",
-    "name": "Situraja"
+    "name": "Situraja",
+    "postal_code": "45264"
   },
   {
     "code": "3212252006",
     "district_code": "321225",
-    "name": "Balereja"
+    "name": "Balereja",
+    "postal_code": "45264"
   },
   {
     "code": "3212252007",
     "district_code": "321225",
-    "name": "Mekarwaru"
+    "name": "Mekarwaru",
+    "postal_code": "45264"
   }
 ]

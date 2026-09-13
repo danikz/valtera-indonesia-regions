@@ -2,46 +2,55 @@
   {
     "code": "1408052001",
     "district_code": "140805",
-    "name": "Muara Kelantan"
+    "name": "Muara Kelantan",
+    "postal_code": "28674"
   },
   {
     "code": "1408052002",
     "district_code": "140805",
-    "name": "Teluk Lancang"
+    "name": "Teluk Lancang",
+    "postal_code": "28674"
   },
   {
     "code": "1408052003",
     "district_code": "140805",
-    "name": "Sungai Selodang"
+    "name": "Sungai Selodang",
+    "postal_code": "28674"
   },
   {
     "code": "1408052004",
     "district_code": "140805",
-    "name": "Olak"
+    "name": "Olak",
+    "postal_code": "28674"
   },
   {
     "code": "1408052005",
     "district_code": "140805",
-    "name": "Lubuk Jering"
+    "name": "Lubuk Jering",
+    "postal_code": "28674"
   },
   {
     "code": "1408052006",
     "district_code": "140805",
-    "name": "Muara Bungkal"
+    "name": "Muara Bungkal",
+    "postal_code": "28674"
   },
   {
     "code": "1408052007",
     "district_code": "140805",
-    "name": "Lubuk Umbut"
+    "name": "Lubuk Umbut",
+    "postal_code": "28674"
   },
   {
     "code": "1408052008",
     "district_code": "140805",
-    "name": "Bencah Umbai"
+    "name": "Bencah Umbai",
+    "postal_code": "28674"
   },
   {
     "code": "1408052009",
     "district_code": "140805",
-    "name": "Tasik Betung"
+    "name": "Tasik Betung",
+    "postal_code": "28674"
   }
 ]

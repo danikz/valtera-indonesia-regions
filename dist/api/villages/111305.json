@@ -2,46 +2,55 @@
   {
     "code": "1113052001",
     "district_code": "111305",
-    "name": "Pining"
+    "name": "Pining",
+    "postal_code": "24659"
   },
   {
     "code": "1113052002",
     "district_code": "111305",
-    "name": "Pertik"
+    "name": "Pertik",
+    "postal_code": "24659"
   },
   {
     "code": "1113052003",
     "district_code": "111305",
-    "name": "Ekan"
+    "name": "Ekan",
+    "postal_code": "24659"
   },
   {
     "code": "1113052004",
     "district_code": "111305",
-    "name": "Uring"
+    "name": "Uring",
+    "postal_code": "24659"
   },
   {
     "code": "1113052005",
     "district_code": "111305",
-    "name": "Gajah"
+    "name": "Gajah",
+    "postal_code": "24659"
   },
   {
     "code": "1113052006",
     "district_code": "111305",
-    "name": "Pintu Rime"
+    "name": "Pintu Rime",
+    "postal_code": "24659"
   },
   {
     "code": "1113052007",
     "district_code": "111305",
-    "name": "Pepelah"
+    "name": "Pepelah",
+    "postal_code": "24659"
   },
   {
     "code": "1113052008",
     "district_code": "111305",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "24659"
   },
   {
     "code": "1113052009",
     "district_code": "111305",
-    "name": "Lesten"
+    "name": "Lesten",
+    "postal_code": "24659"
   }
 ]

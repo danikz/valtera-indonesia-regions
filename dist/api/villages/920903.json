@@ -2,31 +2,37 @@
   {
     "code": "9209032001",
     "district_code": "920903",
-    "name": "Baun"
+    "name": "Baun",
+    "postal_code": ""
   },
   {
     "code": "9209032002",
     "district_code": "920903",
-    "name": "Sumbekas"
+    "name": "Sumbekas",
+    "postal_code": ""
   },
   {
     "code": "9209032003",
     "district_code": "920903",
-    "name": "Metnayam"
+    "name": "Metnayam",
+    "postal_code": ""
   },
   {
     "code": "9209032007",
     "district_code": "920903",
-    "name": "Metbelum"
+    "name": "Metbelum",
+    "postal_code": ""
   },
   {
     "code": "9209032011",
     "district_code": "920903",
-    "name": "Wormon"
+    "name": "Wormon",
+    "postal_code": ""
   },
   {
     "code": "9209032012",
     "district_code": "920903",
-    "name": "Salem"
+    "name": "Salem",
+    "postal_code": ""
   }
 ]

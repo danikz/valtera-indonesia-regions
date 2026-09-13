@@ -2,51 +2,61 @@
   {
     "code": "1607022001",
     "district_code": "160702",
-    "name": "Sungsang I"
+    "name": "Sungsang I",
+    "postal_code": "30971"
   },
   {
     "code": "1607022002",
     "district_code": "160702",
-    "name": "Sungsang II"
+    "name": "Sungsang II",
+    "postal_code": "30971"
   },
   {
     "code": "1607022003",
     "district_code": "160702",
-    "name": "Sungsang III"
+    "name": "Sungsang III",
+    "postal_code": "30971"
   },
   {
     "code": "1607022004",
     "district_code": "160702",
-    "name": "Sungsang IV"
+    "name": "Sungsang IV",
+    "postal_code": "30971"
   },
   {
     "code": "1607022010",
     "district_code": "160702",
-    "name": "Telukpayo"
+    "name": "Telukpayo",
+    "postal_code": "30971"
   },
   {
     "code": "1607022013",
     "district_code": "160702",
-    "name": "Tanah Pilih"
+    "name": "Tanah Pilih",
+    "postal_code": "30971"
   },
   {
     "code": "1607022015",
     "district_code": "160702",
-    "name": "Perajen Jaya"
+    "name": "Perajen Jaya",
+    "postal_code": "30971"
   },
   {
     "code": "1607022016",
     "district_code": "160702",
-    "name": "Rimau Sungsang"
+    "name": "Rimau Sungsang",
+    "postal_code": "30971"
   },
   {
     "code": "1607022018",
     "district_code": "160702",
-    "name": "Marga Sungsang"
+    "name": "Marga Sungsang",
+    "postal_code": "30971"
   },
   {
     "code": "1607022019",
     "district_code": "160702",
-    "name": "Muara Sungsang"
+    "name": "Muara Sungsang",
+    "postal_code": "30971"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "6504042001",
     "district_code": "650404",
-    "name": "Buong Baru"
+    "name": "Buong Baru",
+    "postal_code": "77152"
   },
   {
     "code": "6504042002",
     "district_code": "650404",
-    "name": "Bebakung"
+    "name": "Bebakung",
+    "postal_code": "77152"
   },
   {
     "code": "6504042003",
     "district_code": "650404",
-    "name": "Kujau"
+    "name": "Kujau",
+    "postal_code": "77152"
   },
   {
     "code": "6504042004",
     "district_code": "650404",
-    "name": "Mendupo"
+    "name": "Mendupo",
+    "postal_code": "77152"
   },
   {
     "code": "6504042005",
     "district_code": "650404",
-    "name": "Maning"
+    "name": "Maning",
+    "postal_code": "77152"
   },
   {
     "code": "6504042006",
     "district_code": "650404",
-    "name": "Periuk"
+    "name": "Periuk",
+    "postal_code": "77152"
   }
 ]

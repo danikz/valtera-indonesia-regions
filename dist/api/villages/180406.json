@@ -2,51 +2,61 @@
   {
     "code": "1804062001",
     "district_code": "180406",
-    "name": "Kenali"
+    "name": "Kenali",
+    "postal_code": "34873"
   },
   {
     "code": "1804062002",
     "district_code": "180406",
-    "name": "Kejadian"
+    "name": "Kejadian",
+    "postal_code": "34873"
   },
   {
     "code": "1804062003",
     "district_code": "180406",
-    "name": "Bumi Agung"
+    "name": "Bumi Agung",
+    "postal_code": "34873"
   },
   {
     "code": "1804062004",
     "district_code": "180406",
-    "name": "Turgak"
+    "name": "Turgak",
+    "postal_code": "34873"
   },
   {
     "code": "1804062005",
     "district_code": "180406",
-    "name": "Bedudu"
+    "name": "Bedudu",
+    "postal_code": "34873"
   },
   {
     "code": "1804062006",
     "district_code": "180406",
-    "name": "Sukarame"
+    "name": "Sukarame",
+    "postal_code": "34873"
   },
   {
     "code": "1804062007",
     "district_code": "180406",
-    "name": "Hujung"
+    "name": "Hujung",
+    "postal_code": "34873"
   },
   {
     "code": "1804062013",
     "district_code": "180406",
-    "name": "Serungkuk"
+    "name": "Serungkuk",
+    "postal_code": "34873"
   },
   {
     "code": "1804062019",
     "district_code": "180406",
-    "name": "Suka Makmur"
+    "name": "Suka Makmur",
+    "postal_code": "34873"
   },
   {
     "code": "1804062020",
     "district_code": "180406",
-    "name": "Fajar Agung"
+    "name": "Fajar Agung",
+    "postal_code": "34873"
   }
 ]

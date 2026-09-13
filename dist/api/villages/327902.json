@@ -2,41 +2,49 @@
   {
     "code": "3279021001",
     "district_code": "327902",
-    "name": "Hegarsari"
+    "name": "Hegarsari",
+    "postal_code": "46322"
   },
   {
     "code": "3279021002",
     "district_code": "327902",
-    "name": "Pataruman"
+    "name": "Pataruman",
+    "postal_code": "46323"
   },
   {
     "code": "3279022003",
     "district_code": "327902",
-    "name": "Mulyasari"
+    "name": "Mulyasari",
+    "postal_code": "46335"
   },
   {
     "code": "3279022004",
     "district_code": "327902",
-    "name": "Batulawang"
+    "name": "Batulawang",
+    "postal_code": "46326"
   },
   {
     "code": "3279022005",
     "district_code": "327902",
-    "name": "Karyamukti"
+    "name": "Karyamukti",
+    "postal_code": "46327"
   },
   {
     "code": "3279022006",
     "district_code": "327902",
-    "name": "Binangun"
+    "name": "Binangun",
+    "postal_code": "46316"
   },
   {
     "code": "3279022007",
     "district_code": "327902",
-    "name": "Sukamukti"
+    "name": "Sukamukti",
+    "postal_code": "46323"
   },
   {
     "code": "3279022008",
     "district_code": "327902",
-    "name": "Sinartanjung"
+    "name": "Sinartanjung",
+    "postal_code": "46323"
   }
 ]

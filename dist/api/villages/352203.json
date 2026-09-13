@@ -2,26 +2,31 @@
   {
     "code": "3522032001",
     "district_code": "352203",
-    "name": "Nglamping"
+    "name": "Nglamping",
+    "postal_code": "62167"
   },
   {
     "code": "3522032002",
     "district_code": "352203",
-    "name": "Karangmangu"
+    "name": "Karangmangu",
+    "postal_code": "62167"
   },
   {
     "code": "3522032003",
     "district_code": "352203",
-    "name": "Ngambon"
+    "name": "Ngambon",
+    "postal_code": "62167"
   },
   {
     "code": "3522032004",
     "district_code": "352203",
-    "name": "Sengon"
+    "name": "Sengon",
+    "postal_code": "62167"
   },
   {
     "code": "3522032005",
     "district_code": "352203",
-    "name": "Bondol"
+    "name": "Bondol",
+    "postal_code": "62167"
   }
 ]

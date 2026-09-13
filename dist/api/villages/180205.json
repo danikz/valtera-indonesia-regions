@@ -2,71 +2,85 @@
   {
     "code": "1802051003",
     "district_code": "180205",
-    "name": "Adi Puro"
+    "name": "Adi Puro",
+    "postal_code": "34172"
   },
   {
     "code": "1802051004",
     "district_code": "180205",
-    "name": "Trimurjo"
+    "name": "Trimurjo",
+    "postal_code": "34172"
   },
   {
     "code": "1802051007",
     "district_code": "180205",
-    "name": "Simbar Waringin"
+    "name": "Simbar Waringin",
+    "postal_code": "34171"
   },
   {
     "code": "1802052001",
     "district_code": "180205",
-    "name": "Depok Rejo"
+    "name": "Depok Rejo",
+    "postal_code": "34172"
   },
   {
     "code": "1802052002",
     "district_code": "180205",
-    "name": "Liman Benawi"
+    "name": "Liman Benawi",
+    "postal_code": "34172"
   },
   {
     "code": "1802052005",
     "district_code": "180205",
-    "name": "Noto Harjo"
+    "name": "Noto Harjo",
+    "postal_code": "34172"
   },
   {
     "code": "1802052006",
     "district_code": "180205",
-    "name": "Purwo Dadi"
+    "name": "Purwo Dadi",
+    "postal_code": "34172"
   },
   {
     "code": "1802052008",
     "district_code": "180205",
-    "name": "Tempuran"
+    "name": "Tempuran",
+    "postal_code": "34172"
   },
   {
     "code": "1802052009",
     "district_code": "180205",
-    "name": "Purwo Adi"
+    "name": "Purwo Adi",
+    "postal_code": "34172"
   },
   {
     "code": "1802052010",
     "district_code": "180205",
-    "name": "Pujo Dadi"
+    "name": "Pujo Dadi",
+    "postal_code": "34172"
   },
   {
     "code": "1802052011",
     "district_code": "180205",
-    "name": "Pujo Kerto"
+    "name": "Pujo Kerto",
+    "postal_code": "34172"
   },
   {
     "code": "1802052012",
     "district_code": "180205",
-    "name": "Untoro"
+    "name": "Untoro",
+    "postal_code": "34172"
   },
   {
     "code": "1802052013",
     "district_code": "180205",
-    "name": "Pujo Asri"
+    "name": "Pujo Asri",
+    "postal_code": "34172"
   },
   {
     "code": "1802052014",
     "district_code": "180205",
-    "name": "Pujo Basuki"
+    "name": "Pujo Basuki",
+    "postal_code": "34172"
   }
 ]

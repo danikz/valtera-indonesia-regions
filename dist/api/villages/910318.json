@@ -2,21 +2,25 @@
   {
     "code": "9103182001",
     "district_code": "910318",
-    "name": "Omon"
+    "name": "Omon",
+    "postal_code": "99357"
   },
   {
     "code": "9103182002",
     "district_code": "910318",
-    "name": "Iwon"
+    "name": "Iwon",
+    "postal_code": ""
   },
   {
     "code": "9103182003",
     "district_code": "910318",
-    "name": "Klaisu"
+    "name": "Klaisu",
+    "postal_code": "99357"
   },
   {
     "code": "9103182004",
     "district_code": "910318",
-    "name": "Bangai"
+    "name": "Bangai",
+    "postal_code": "99357"
   }
 ]

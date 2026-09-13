@@ -2,46 +2,55 @@
   {
     "code": "9402032001",
     "district_code": "940203",
-    "name": "Fawi"
+    "name": "Fawi",
+    "postal_code": "98942"
   },
   {
     "code": "9402032002",
     "district_code": "940203",
-    "name": "Bakusi"
+    "name": "Bakusi",
+    "postal_code": "98976"
   },
   {
     "code": "9402032003",
     "district_code": "940203",
-    "name": "Turumo"
+    "name": "Turumo",
+    "postal_code": "98976"
   },
   {
     "code": "9402032004",
     "district_code": "940203",
-    "name": "Kaho"
+    "name": "Kaho",
+    "postal_code": "98976"
   },
   {
     "code": "9402032005",
     "district_code": "940203",
-    "name": "Biricare"
+    "name": "Biricare",
+    "postal_code": "98976"
   },
   {
     "code": "9402032006",
     "district_code": "940203",
-    "name": "Dorey"
+    "name": "Dorey",
+    "postal_code": "98976"
   },
   {
     "code": "9402032007",
     "district_code": "940203",
-    "name": "Fii"
+    "name": "Fii",
+    "postal_code": "98942"
   },
   {
     "code": "9402032008",
     "district_code": "940203",
-    "name": "Evo"
+    "name": "Evo",
+    "postal_code": "98942"
   },
   {
     "code": "9402032009",
     "district_code": "940203",
-    "name": "Yerei"
+    "name": "Yerei",
+    "postal_code": "98976"
   }
 ]

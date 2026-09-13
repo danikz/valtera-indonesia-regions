@@ -2,51 +2,61 @@
   {
     "code": "6211051005",
     "district_code": "621105",
-    "name": "Kahayan Hilir"
+    "name": "Kahayan Hilir",
+    "postal_code": "74841"
   },
   {
     "code": "6211051015",
     "district_code": "621105",
-    "name": "Kalawa"
+    "name": "Kalawa",
+    "postal_code": "74812"
   },
   {
     "code": "6211051016",
     "district_code": "621105",
-    "name": "Bereng"
+    "name": "Bereng",
+    "postal_code": "74831"
   },
   {
     "code": "6211052001",
     "district_code": "621105",
-    "name": "Buntoi"
+    "name": "Buntoi",
+    "postal_code": "74861"
   },
   {
     "code": "6211052002",
     "district_code": "621105",
-    "name": "Mintin"
+    "name": "Mintin",
+    "postal_code": "74816"
   },
   {
     "code": "6211052003",
     "district_code": "621105",
-    "name": "Mantaren I"
+    "name": "Mantaren I",
+    "postal_code": "74861"
   },
   {
     "code": "6211052004",
     "district_code": "621105",
-    "name": "Anjir Pulang Pisau"
+    "name": "Anjir Pulang Pisau",
+    "postal_code": "74813"
   },
   {
     "code": "6211052006",
     "district_code": "621105",
-    "name": "Gohong"
+    "name": "Gohong",
+    "postal_code": "74812"
   },
   {
     "code": "6211052014",
     "district_code": "621105",
-    "name": "Mantaren II"
+    "name": "Mantaren II",
+    "postal_code": "74861"
   },
   {
     "code": "6211052017",
     "district_code": "621105",
-    "name": "Hanjak Maju"
+    "name": "Hanjak Maju",
+    "postal_code": "74821"
   }
 ]

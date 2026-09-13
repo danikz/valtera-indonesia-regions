@@ -2,21 +2,25 @@
   {
     "code": "2171121001",
     "district_code": "217112",
-    "name": "Tanjung Uncang"
+    "name": "Tanjung Uncang",
+    "postal_code": "29424"
   },
   {
     "code": "2171121002",
     "district_code": "217112",
-    "name": "Buliang"
+    "name": "Buliang",
+    "postal_code": "29438"
   },
   {
     "code": "2171121003",
     "district_code": "217112",
-    "name": "Kibing"
+    "name": "Kibing",
+    "postal_code": "29422"
   },
   {
     "code": "2171121004",
     "district_code": "217112",
-    "name": "Bukit Tempayan"
+    "name": "Bukit Tempayan",
+    "postal_code": "29438"
   }
 ]

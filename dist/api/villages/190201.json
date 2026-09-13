@@ -2,81 +2,97 @@
   {
     "code": "1902011001",
     "district_code": "190201",
-    "name": "Kota"
+    "name": "Kota",
+    "postal_code": "33411"
   },
   {
     "code": "1902011002",
     "district_code": "190201",
-    "name": "Parit"
+    "name": "Parit",
+    "postal_code": "33411"
   },
   {
     "code": "1902011005",
     "district_code": "190201",
-    "name": "Lesung Batang"
+    "name": "Lesung Batang",
+    "postal_code": "33411"
   },
   {
     "code": "1902011006",
     "district_code": "190201",
-    "name": "Pangkallalang"
+    "name": "Pangkallalang",
+    "postal_code": "33412"
   },
   {
     "code": "1902011009",
     "district_code": "190201",
-    "name": "Tanjungpendam"
+    "name": "Tanjungpendam",
+    "postal_code": "33411"
   },
   {
     "code": "1902011011",
     "district_code": "190201",
-    "name": "Paal Satu"
+    "name": "Paal Satu",
+    "postal_code": "33414"
   },
   {
     "code": "1902011016",
     "district_code": "190201",
-    "name": "Kampong Damai"
+    "name": "Kampong Damai",
+    "postal_code": "33411"
   },
   {
     "code": "1902012003",
     "district_code": "190201",
-    "name": "Buluh Tumbang"
+    "name": "Buluh Tumbang",
+    "postal_code": "33411"
   },
   {
     "code": "1902012004",
     "district_code": "190201",
-    "name": "Perawas"
+    "name": "Perawas",
+    "postal_code": "33413"
   },
   {
     "code": "1902012007",
     "district_code": "190201",
-    "name": "Dukong"
+    "name": "Dukong",
+    "postal_code": "33411"
   },
   {
     "code": "1902012008",
     "district_code": "190201",
-    "name": "Juru Seberang"
+    "name": "Juru Seberang",
+    "postal_code": "33417"
   },
   {
     "code": "1902012010",
     "district_code": "190201",
-    "name": "Air Saga"
+    "name": "Air Saga",
+    "postal_code": "33415"
   },
   {
     "code": "1902012012",
     "district_code": "190201",
-    "name": "Air Merbau"
+    "name": "Air Merbau",
+    "postal_code": "33411"
   },
   {
     "code": "1902012013",
     "district_code": "190201",
-    "name": "Aik Pelempang Jaya"
+    "name": "Aik Pelempang Jaya",
+    "postal_code": "33414"
   },
   {
     "code": "1902012014",
     "district_code": "190201",
-    "name": "Aik Ketekok"
+    "name": "Aik Ketekok",
+    "postal_code": "33411"
   },
   {
     "code": "1902012015",
     "district_code": "190201",
-    "name": "Aik Rayak"
+    "name": "Aik Rayak",
+    "postal_code": "33413"
   }
 ]

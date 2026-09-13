@@ -2,36 +2,43 @@
   {
     "code": "5311022003",
     "district_code": "531102",
-    "name": "Rambangaru"
+    "name": "Rambangaru",
+    "postal_code": "87153"
   },
   {
     "code": "5311022006",
     "district_code": "531102",
-    "name": "Praibakul"
+    "name": "Praibakul",
+    "postal_code": "87153"
   },
   {
     "code": "5311022007",
     "district_code": "531102",
-    "name": "Wunga"
+    "name": "Wunga",
+    "postal_code": "87153"
   },
   {
     "code": "5311022008",
     "district_code": "531102",
-    "name": "Kadahang"
+    "name": "Kadahang",
+    "postal_code": "87153"
   },
   {
     "code": "5311022009",
     "district_code": "531102",
-    "name": "Napu"
+    "name": "Napu",
+    "postal_code": "87153"
   },
   {
     "code": "5311022010",
     "district_code": "531102",
-    "name": "Mbatapuhu"
+    "name": "Mbatapuhu",
+    "postal_code": "87153"
   },
   {
     "code": "5311022012",
     "district_code": "531102",
-    "name": "Kalamba"
+    "name": "Kalamba",
+    "postal_code": "87153"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1211112001",
     "district_code": "121111",
-    "name": "Sumbul"
+    "name": "Sumbul",
+    "postal_code": "22281"
   },
   {
     "code": "1211112002",
     "district_code": "121111",
-    "name": "Kentara"
+    "name": "Kentara",
+    "postal_code": "22281"
   },
   {
     "code": "1211112003",
     "district_code": "121111",
-    "name": "Lae Parira"
+    "name": "Lae Parira",
+    "postal_code": "22281"
   },
   {
     "code": "1211112004",
     "district_code": "121111",
-    "name": "Buluduri"
+    "name": "Buluduri",
+    "postal_code": "22281"
   },
   {
     "code": "1211112005",
     "district_code": "121111",
-    "name": "Sempung Polling"
+    "name": "Sempung Polling",
+    "postal_code": "22281"
   },
   {
     "code": "1211112006",
     "district_code": "121111",
-    "name": "Lumban Sihite"
+    "name": "Lumban Sihite",
+    "postal_code": "22281"
   },
   {
     "code": "1211112007",
     "district_code": "121111",
-    "name": "Lumban Toruan"
+    "name": "Lumban Toruan",
+    "postal_code": "22281"
   },
   {
     "code": "1211112008",
     "district_code": "121111",
-    "name": "Pandiangan"
+    "name": "Pandiangan",
+    "postal_code": "22281"
   },
   {
     "code": "1211112009",
     "district_code": "121111",
-    "name": "Kaban Julu"
+    "name": "Kaban Julu",
+    "postal_code": "22281"
   }
 ]

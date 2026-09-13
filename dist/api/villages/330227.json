@@ -2,36 +2,43 @@
   {
     "code": "3302271001",
     "district_code": "330227",
-    "name": "Purwanegara"
+    "name": "Purwanegara",
+    "postal_code": "53127"
   },
   {
     "code": "3302271002",
     "district_code": "330227",
-    "name": "Bancarkembar"
+    "name": "Bancarkembar",
+    "postal_code": "53121"
   },
   {
     "code": "3302271003",
     "district_code": "330227",
-    "name": "Sumampir"
+    "name": "Sumampir",
+    "postal_code": "53125"
   },
   {
     "code": "3302271004",
     "district_code": "330227",
-    "name": "Pabuaran"
+    "name": "Pabuaran",
+    "postal_code": "53124"
   },
   {
     "code": "3302271005",
     "district_code": "330227",
-    "name": "Grendeng"
+    "name": "Grendeng",
+    "postal_code": "53122"
   },
   {
     "code": "3302271006",
     "district_code": "330227",
-    "name": "Karangwangkal"
+    "name": "Karangwangkal",
+    "postal_code": "53123"
   },
   {
     "code": "3302271007",
     "district_code": "330227",
-    "name": "Bobosan"
+    "name": "Bobosan",
+    "postal_code": "53127"
   }
 ]

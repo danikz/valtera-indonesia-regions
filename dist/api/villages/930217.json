@@ -2,26 +2,31 @@
   {
     "code": "9302172001",
     "district_code": "930217",
-    "name": "Ninati"
+    "name": "Ninati",
+    "postal_code": "99683"
   },
   {
     "code": "9302172002",
     "district_code": "930217",
-    "name": "Upyetetko"
+    "name": "Upyetetko",
+    "postal_code": ""
   },
   {
     "code": "9302172003",
     "district_code": "930217",
-    "name": "Kawaktembut"
+    "name": "Kawaktembut",
+    "postal_code": "99683"
   },
   {
     "code": "9302172004",
     "district_code": "930217",
-    "name": "Tembutka"
+    "name": "Tembutka",
+    "postal_code": "99683"
   },
   {
     "code": "9302172005",
     "district_code": "930217",
-    "name": "Timka"
+    "name": "Timka",
+    "postal_code": "99683"
   }
 ]

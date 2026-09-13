@@ -2,36 +2,43 @@
   {
     "code": "2101101007",
     "district_code": "210110",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "29154"
   },
   {
     "code": "2101102001",
     "district_code": "210110",
-    "name": "Berakit"
+    "name": "Berakit",
+    "postal_code": "29154"
   },
   {
     "code": "2101102002",
     "district_code": "210110",
-    "name": "Ekang Anculai"
+    "name": "Ekang Anculai",
+    "postal_code": "29154"
   },
   {
     "code": "2101102003",
     "district_code": "210110",
-    "name": "Pengudang"
+    "name": "Pengudang",
+    "postal_code": "29154"
   },
   {
     "code": "2101102004",
     "district_code": "210110",
-    "name": "Sebong Lagoi"
+    "name": "Sebong Lagoi",
+    "postal_code": "29154"
   },
   {
     "code": "2101102005",
     "district_code": "210110",
-    "name": "Sebong Pereh"
+    "name": "Sebong Pereh",
+    "postal_code": "29154"
   },
   {
     "code": "2101102006",
     "district_code": "210110",
-    "name": "Sri Bintan"
+    "name": "Sri Bintan",
+    "postal_code": "29154"
   }
 ]

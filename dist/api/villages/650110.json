@@ -2,16 +2,19 @@
   {
     "code": "6501102001",
     "district_code": "650110",
-    "name": "Bunyu Barat"
+    "name": "Bunyu Barat",
+    "postal_code": "77281"
   },
   {
     "code": "6501102002",
     "district_code": "650110",
-    "name": "Bunyu Selatan"
+    "name": "Bunyu Selatan",
+    "postal_code": "77281"
   },
   {
     "code": "6501102003",
     "district_code": "650110",
-    "name": "Bunyu Timur"
+    "name": "Bunyu Timur",
+    "postal_code": "77281"
   }
 ]

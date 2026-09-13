@@ -2,26 +2,31 @@
   {
     "code": "3512142001",
     "district_code": "351214",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "68374"
   },
   {
     "code": "3512142002",
     "district_code": "351214",
-    "name": "Sumberanyar"
+    "name": "Sumberanyar",
+    "postal_code": "68374"
   },
   {
     "code": "3512142003",
     "district_code": "351214",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "68374"
   },
   {
     "code": "3512142004",
     "district_code": "351214",
-    "name": "Banyuputih"
+    "name": "Banyuputih",
+    "postal_code": "68374"
   },
   {
     "code": "3512142005",
     "district_code": "351214",
-    "name": "Sumberwaru"
+    "name": "Sumberwaru",
+    "postal_code": "68374"
   }
 ]

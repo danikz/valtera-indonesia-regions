@@ -2,36 +2,43 @@
   {
     "code": "6302162001",
     "district_code": "630216",
-    "name": "Semisir"
+    "name": "Semisir",
+    "postal_code": "72156"
   },
   {
     "code": "6302162002",
     "district_code": "630216",
-    "name": "Sungai Pasir"
+    "name": "Sungai Pasir",
+    "postal_code": "72156"
   },
   {
     "code": "6302162003",
     "district_code": "630216",
-    "name": "Mekarpura"
+    "name": "Mekarpura",
+    "postal_code": "72156"
   },
   {
     "code": "6302162004",
     "district_code": "630216",
-    "name": "Selaru"
+    "name": "Selaru",
+    "postal_code": "72156"
   },
   {
     "code": "6302162005",
     "district_code": "630216",
-    "name": "Sungup Kanan"
+    "name": "Sungup Kanan",
+    "postal_code": "72156"
   },
   {
     "code": "6302162006",
     "district_code": "630216",
-    "name": "Pantai Baru"
+    "name": "Pantai Baru",
+    "postal_code": "72156"
   },
   {
     "code": "6302162007",
     "district_code": "630216",
-    "name": "Salino"
+    "name": "Salino",
+    "postal_code": "72156"
   }
 ]

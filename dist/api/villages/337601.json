@@ -2,36 +2,43 @@
   {
     "code": "3376011001",
     "district_code": "337601",
-    "name": "Pesurungan Kidul"
+    "name": "Pesurungan Kidul",
+    "postal_code": "52117"
   },
   {
     "code": "3376011002",
     "district_code": "337601",
-    "name": "Debong Lor"
+    "name": "Debong Lor",
+    "postal_code": "52115"
   },
   {
     "code": "3376011003",
     "district_code": "337601",
-    "name": "Kemandungan"
+    "name": "Kemandungan",
+    "postal_code": "52114"
   },
   {
     "code": "3376011004",
     "district_code": "337601",
-    "name": "Pekauman"
+    "name": "Pekauman",
+    "postal_code": "52125"
   },
   {
     "code": "3376011005",
     "district_code": "337601",
-    "name": "Kraton"
+    "name": "Kraton",
+    "postal_code": "52112"
   },
   {
     "code": "3376011006",
     "district_code": "337601",
-    "name": "Tegalsari"
+    "name": "Tegalsari",
+    "postal_code": "52111"
   },
   {
     "code": "3376011007",
     "district_code": "337601",
-    "name": "Muarareja"
+    "name": "Muarareja",
+    "postal_code": "52117"
   }
 ]

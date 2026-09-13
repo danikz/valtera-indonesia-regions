@@ -2,21 +2,25 @@
   {
     "code": "9302152001",
     "district_code": "930215",
-    "name": "Subur"
+    "name": "Subur",
+    "postal_code": "99653"
   },
   {
     "code": "9302152002",
     "district_code": "930215",
-    "name": "Kaisa"
+    "name": "Kaisa",
+    "postal_code": "99653"
   },
   {
     "code": "9302152003",
     "district_code": "930215",
-    "name": "Waghai"
+    "name": "Waghai",
+    "postal_code": "99653"
   },
   {
     "code": "9302152004",
     "district_code": "930215",
-    "name": "Aiwat"
+    "name": "Aiwat",
+    "postal_code": "99653"
   }
 ]

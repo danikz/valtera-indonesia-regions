@@ -2,26 +2,31 @@
   {
     "code": "9205162001",
     "district_code": "920516",
-    "name": "Lilinta"
+    "name": "Lilinta",
+    "postal_code": ""
   },
   {
     "code": "9205162002",
     "district_code": "920516",
-    "name": "Gamta"
+    "name": "Gamta",
+    "postal_code": ""
   },
   {
     "code": "9205162003",
     "district_code": "920516",
-    "name": "Biga"
+    "name": "Biga",
+    "postal_code": ""
   },
   {
     "code": "9205162004",
     "district_code": "920516",
-    "name": "Kapatcol"
+    "name": "Kapatcol",
+    "postal_code": ""
   },
   {
     "code": "9205162005",
     "district_code": "920516",
-    "name": "Magey"
+    "name": "Magey",
+    "postal_code": ""
   }
 ]

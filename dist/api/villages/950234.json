@@ -2,36 +2,43 @@
   {
     "code": "9502342001",
     "district_code": "950234",
-    "name": "Nongme"
+    "name": "Nongme",
+    "postal_code": "99445"
   },
   {
     "code": "9502342002",
     "district_code": "950234",
-    "name": "Rubol"
+    "name": "Rubol",
+    "postal_code": "99445"
   },
   {
     "code": "9502342003",
     "district_code": "950234",
-    "name": "Yokom"
+    "name": "Yokom",
+    "postal_code": "99445"
   },
   {
     "code": "9502342004",
     "district_code": "950234",
-    "name": "Yarigon"
+    "name": "Yarigon",
+    "postal_code": "99445"
   },
   {
     "code": "9502342005",
     "district_code": "950234",
-    "name": "Omtamur"
+    "name": "Omtamur",
+    "postal_code": "99445"
   },
   {
     "code": "9502342006",
     "district_code": "950234",
-    "name": "Cangpally"
+    "name": "Cangpally",
+    "postal_code": "99445"
   },
   {
     "code": "9502342007",
     "district_code": "950234",
-    "name": "Kwarban"
+    "name": "Kwarban",
+    "postal_code": "99445"
   }
 ]

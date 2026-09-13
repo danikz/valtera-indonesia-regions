@@ -2,56 +2,67 @@
   {
     "code": "3204162001",
     "district_code": "320416",
-    "name": "Arjasari"
+    "name": "Arjasari",
+    "postal_code": "40379"
   },
   {
     "code": "3204162002",
     "district_code": "320416",
-    "name": "Lebakwangi"
+    "name": "Lebakwangi",
+    "postal_code": "40379"
   },
   {
     "code": "3204162003",
     "district_code": "320416",
-    "name": "Batukarut"
+    "name": "Batukarut",
+    "postal_code": "40379"
   },
   {
     "code": "3204162004",
     "district_code": "320416",
-    "name": "Ancolmekar"
+    "name": "Ancolmekar",
+    "postal_code": "40379"
   },
   {
     "code": "3204162005",
     "district_code": "320416",
-    "name": "Baros"
+    "name": "Baros",
+    "postal_code": "40379"
   },
   {
     "code": "3204162006",
     "district_code": "320416",
-    "name": "Mangunjaya"
+    "name": "Mangunjaya",
+    "postal_code": "40379"
   },
   {
     "code": "3204162007",
     "district_code": "320416",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "40379"
   },
   {
     "code": "3204162008",
     "district_code": "320416",
-    "name": "Pinggirsari"
+    "name": "Pinggirsari",
+    "postal_code": "40379"
   },
   {
     "code": "3204162009",
     "district_code": "320416",
-    "name": "Patrolsari"
+    "name": "Patrolsari",
+    "postal_code": "40379"
   },
   {
     "code": "3204162010",
     "district_code": "320416",
-    "name": "Rancakole"
+    "name": "Rancakole",
+    "postal_code": "40379"
   },
   {
     "code": "3204162011",
     "district_code": "320416",
-    "name": "Wargaluyu"
+    "name": "Wargaluyu",
+    "postal_code": "40379"
   }
 ]

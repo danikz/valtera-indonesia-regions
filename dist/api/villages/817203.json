@@ -2,26 +2,31 @@
   {
     "code": "8172032001",
     "district_code": "817203",
-    "name": "Tam Ngurhir"
+    "name": "Tam Ngurhir",
+    "postal_code": "97613"
   },
   {
     "code": "8172032002",
     "district_code": "817203",
-    "name": "Tayando Langgiar"
+    "name": "Tayando Langgiar",
+    "postal_code": "97613"
   },
   {
     "code": "8172032003",
     "district_code": "817203",
-    "name": "Tayando Yamtel"
+    "name": "Tayando Yamtel",
+    "postal_code": "97613"
   },
   {
     "code": "8172032004",
     "district_code": "817203",
-    "name": "Tayando Ohoiel"
+    "name": "Tayando Ohoiel",
+    "postal_code": "97613"
   },
   {
     "code": "8172032005",
     "district_code": "817203",
-    "name": "Tayando Yamru"
+    "name": "Tayando Yamru",
+    "postal_code": "97613"
   }
 ]

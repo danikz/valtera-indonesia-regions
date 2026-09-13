@@ -2,31 +2,37 @@
   {
     "code": "6471041001",
     "district_code": "647104",
-    "name": "Gunungsari Ulu"
+    "name": "Gunungsari Ulu",
+    "postal_code": "76122"
   },
   {
     "code": "6471041002",
     "district_code": "647104",
-    "name": "Gunungsari Ilir"
+    "name": "Gunungsari Ilir",
+    "postal_code": "76121"
   },
   {
     "code": "6471041003",
     "district_code": "647104",
-    "name": "Karang Rejo"
+    "name": "Karang Rejo",
+    "postal_code": "76124"
   },
   {
     "code": "6471041004",
     "district_code": "647104",
-    "name": "Karang Jati"
+    "name": "Karang Jati",
+    "postal_code": "76123"
   },
   {
     "code": "6471041005",
     "district_code": "647104",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "76122"
   },
   {
     "code": "6471041006",
     "district_code": "647104",
-    "name": "Sumber Rejo"
+    "name": "Sumber Rejo",
+    "postal_code": "76124"
   }
 ]

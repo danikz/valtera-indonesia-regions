@@ -2,81 +2,97 @@
   {
     "code": "1703071026",
     "district_code": "170307",
-    "name": "Purwodadi"
+    "name": "Purwodadi",
+    "postal_code": "38612"
   },
   {
     "code": "1703071027",
     "district_code": "170307",
-    "name": "Gunung Alam"
+    "name": "Gunung Alam",
+    "postal_code": "38611"
   },
   {
     "code": "1703072001",
     "district_code": "170307",
-    "name": "Tanjung Raman"
+    "name": "Tanjung Raman",
+    "postal_code": "38617"
   },
   {
     "code": "1703072002",
     "district_code": "170307",
-    "name": "Lubuk Sahung"
+    "name": "Lubuk Sahung",
+    "postal_code": "38618"
   },
   {
     "code": "1703072003",
     "district_code": "170307",
-    "name": "Kuro Tidur"
+    "name": "Kuro Tidur",
+    "postal_code": "38611"
   },
   {
     "code": "1703072004",
     "district_code": "170307",
-    "name": "Karang Suci"
+    "name": "Karang Suci",
+    "postal_code": "38619"
   },
   {
     "code": "1703072005",
     "district_code": "170307",
-    "name": "Rama Agung"
+    "name": "Rama Agung",
+    "postal_code": "38614"
   },
   {
     "code": "1703072008",
     "district_code": "170307",
-    "name": "Talang Denau"
+    "name": "Talang Denau",
+    "postal_code": "38611"
   },
   {
     "code": "1703072009",
     "district_code": "170307",
-    "name": "Gunung Selan"
+    "name": "Gunung Selan",
+    "postal_code": "38611"
   },
   {
     "code": "1703072010",
     "district_code": "170307",
-    "name": "Datar Ruyung"
+    "name": "Datar Ruyung",
+    "postal_code": "38617"
   },
   {
     "code": "1703072011",
     "district_code": "170307",
-    "name": "Senali"
+    "name": "Senali",
+    "postal_code": "38611"
   },
   {
     "code": "1703072012",
     "district_code": "170307",
-    "name": "Gunung Agung"
+    "name": "Gunung Agung",
+    "postal_code": "38611"
   },
   {
     "code": "1703072014",
     "district_code": "170307",
-    "name": "Sido Urip"
+    "name": "Sido Urip",
+    "postal_code": "38611"
   },
   {
     "code": "1703072015",
     "district_code": "170307",
-    "name": "Karang Anyar I"
+    "name": "Karang Anyar I",
+    "postal_code": "38611"
   },
   {
     "code": "1703072016",
     "district_code": "170307",
-    "name": "Taba Tembilang"
+    "name": "Taba Tembilang",
+    "postal_code": "38611"
   },
   {
     "code": "1703072022",
     "district_code": "170307",
-    "name": "Karang Anyar II"
+    "name": "Karang Anyar II",
+    "postal_code": "38611"
   }
 ]

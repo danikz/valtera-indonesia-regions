@@ -2,51 +2,61 @@
   {
     "code": "1672011001",
     "district_code": "167201",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "31551"
   },
   {
     "code": "1672011002",
     "district_code": "167201",
-    "name": "Bangun Rejo"
+    "name": "Bangun Rejo",
+    "postal_code": "31517"
   },
   {
     "code": "1672011005",
     "district_code": "167201",
-    "name": "Pagar Alam"
+    "name": "Pagar Alam",
+    "postal_code": "31512"
   },
   {
     "code": "1672011007",
     "district_code": "167201",
-    "name": "Alun Dua"
+    "name": "Alun Dua",
+    "postal_code": "31513"
   },
   {
     "code": "1672011014",
     "district_code": "167201",
-    "name": "Selibar"
+    "name": "Selibar",
+    "postal_code": "31515"
   },
   {
     "code": "1672011016",
     "district_code": "167201",
-    "name": "Beringin Jaya"
+    "name": "Beringin Jaya",
+    "postal_code": "31511"
   },
   {
     "code": "1672011018",
     "district_code": "167201",
-    "name": "Dempio Makmur"
+    "name": "Dempio Makmur",
+    "postal_code": "31519"
   },
   {
     "code": "1672011019",
     "district_code": "167201",
-    "name": "Kusipan Babas"
+    "name": "Kusipan Babas",
+    "postal_code": "31514"
   },
   {
     "code": "1672011020",
     "district_code": "167201",
-    "name": "Bangun Jaya"
+    "name": "Bangun Jaya",
+    "postal_code": "31512"
   },
   {
     "code": "1672011021",
     "district_code": "167201",
-    "name": "Curup Jare"
+    "name": "Curup Jare",
+    "postal_code": "31516"
   }
 ]

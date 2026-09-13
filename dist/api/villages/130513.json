@@ -2,16 +2,19 @@
   {
     "code": "1305132001",
     "district_code": "130513",
-    "name": "Malai V Suku"
+    "name": "Malai V Suku",
+    "postal_code": "25563"
   },
   {
     "code": "1305132002",
     "district_code": "130513",
-    "name": "Gasan Gadang"
+    "name": "Gasan Gadang",
+    "postal_code": "25563"
   },
   {
     "code": "1305132003",
     "district_code": "130513",
-    "name": "Malai V Suku Timur"
+    "name": "Malai V Suku Timur",
+    "postal_code": "25563"
   }
 ]

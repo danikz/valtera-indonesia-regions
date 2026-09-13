@@ -2,41 +2,49 @@
   {
     "code": "5311161001",
     "district_code": "531116",
-    "name": "Wangga"
+    "name": "Wangga",
+    "postal_code": "87116"
   },
   {
     "code": "5311161002",
     "district_code": "531116",
-    "name": "Prailiu"
+    "name": "Prailiu",
+    "postal_code": "87113"
   },
   {
     "code": "5311161003",
     "district_code": "531116",
-    "name": "Kambaniru"
+    "name": "Kambaniru",
+    "postal_code": "87114"
   },
   {
     "code": "5311161004",
     "district_code": "531116",
-    "name": "Mauliru"
+    "name": "Mauliru",
+    "postal_code": "87116"
   },
   {
     "code": "5311161005",
     "district_code": "531116",
-    "name": "Mau Hau"
+    "name": "Mau Hau",
+    "postal_code": "87116"
   },
   {
     "code": "5311161006",
     "district_code": "531116",
-    "name": "Malumbi"
+    "name": "Malumbi",
+    "postal_code": "87116"
   },
   {
     "code": "5311161007",
     "district_code": "531116",
-    "name": "Lambanapu"
+    "name": "Lambanapu",
+    "postal_code": "87115"
   },
   {
     "code": "5311162008",
     "district_code": "531116",
-    "name": "Kiritana"
+    "name": "Kiritana",
+    "postal_code": "87114"
   }
 ]

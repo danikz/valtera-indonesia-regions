@@ -2,46 +2,55 @@
   {
     "code": "7206122001",
     "district_code": "720612",
-    "name": "Sampeantaba"
+    "name": "Sampeantaba",
+    "postal_code": "94978"
   },
   {
     "code": "7206122002",
     "district_code": "720612",
-    "name": "Emea"
+    "name": "Emea",
+    "postal_code": "94978"
   },
   {
     "code": "7206122006",
     "district_code": "720612",
-    "name": "Moahino"
+    "name": "Moahino",
+    "postal_code": "94978"
   },
   {
     "code": "7206122007",
     "district_code": "720612",
-    "name": "Solonsa"
+    "name": "Solonsa",
+    "postal_code": "94978"
   },
   {
     "code": "7206122008",
     "district_code": "720612",
-    "name": "Lantula Jaya"
+    "name": "Lantula Jaya",
+    "postal_code": "94978"
   },
   {
     "code": "7206122009",
     "district_code": "720612",
-    "name": "Puntari Makmur"
+    "name": "Puntari Makmur",
+    "postal_code": "94978"
   },
   {
     "code": "7206122010",
     "district_code": "720612",
-    "name": "Bumi Harapan"
+    "name": "Bumi Harapan",
+    "postal_code": "94978"
   },
   {
     "code": "7206122011",
     "district_code": "720612",
-    "name": "Solonsa Jaya"
+    "name": "Solonsa Jaya",
+    "postal_code": "94978"
   },
   {
     "code": "7206122012",
     "district_code": "720612",
-    "name": "Ungkaya"
+    "name": "Ungkaya",
+    "postal_code": "94978"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "7211011005",
     "district_code": "721101",
-    "name": "Lompio"
+    "name": "Lompio",
+    "postal_code": "94891"
   },
   {
     "code": "7211011006",
     "district_code": "721101",
-    "name": "Tano Bununungan"
+    "name": "Tano Bununungan",
+    "postal_code": "94891"
   },
   {
     "code": "7211011007",
     "district_code": "721101",
-    "name": "Dodung"
+    "name": "Dodung",
+    "postal_code": "94891"
   },
   {
     "code": "7211012001",
     "district_code": "721101",
-    "name": "Lambako"
+    "name": "Lambako",
+    "postal_code": "94891"
   },
   {
     "code": "7211012002",
     "district_code": "721101",
-    "name": "Kokini"
+    "name": "Kokini",
+    "postal_code": "94891"
   },
   {
     "code": "7211012003",
     "district_code": "721101",
-    "name": "Lampa"
+    "name": "Lampa",
+    "postal_code": "94891"
   },
   {
     "code": "7211012004",
     "district_code": "721101",
-    "name": "Tinakin Laut"
+    "name": "Tinakin Laut",
+    "postal_code": "94891"
   },
   {
     "code": "7211012008",
     "district_code": "721101",
-    "name": "Potil Pololoba"
+    "name": "Potil Pololoba",
+    "postal_code": "94891"
   },
   {
     "code": "7211012009",
     "district_code": "721101",
-    "name": "Dangkalan"
+    "name": "Dangkalan",
+    "postal_code": "94891"
   },
   {
     "code": "7211012010",
     "district_code": "721101",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "94891"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3171041001",
     "district_code": "317104",
-    "name": "Senen"
+    "name": "Senen",
+    "postal_code": "10410"
   },
   {
     "code": "3171041002",
     "district_code": "317104",
-    "name": "Kenari"
+    "name": "Kenari",
+    "postal_code": "10430"
   },
   {
     "code": "3171041003",
     "district_code": "317104",
-    "name": "Paseban"
+    "name": "Paseban",
+    "postal_code": "10440"
   },
   {
     "code": "3171041004",
     "district_code": "317104",
-    "name": "Kramat"
+    "name": "Kramat",
+    "postal_code": "10450"
   },
   {
     "code": "3171041005",
     "district_code": "317104",
-    "name": "Kwitang"
+    "name": "Kwitang",
+    "postal_code": "10420"
   },
   {
     "code": "3171041006",
     "district_code": "317104",
-    "name": "Bungur"
+    "name": "Bungur",
+    "postal_code": "10460"
   }
 ]

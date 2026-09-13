@@ -2,61 +2,73 @@
   {
     "code": "9504082001",
     "district_code": "950408",
-    "name": "Umagi"
+    "name": "Umagi",
+    "postal_code": "99061"
   },
   {
     "code": "9504082002",
     "district_code": "950408",
-    "name": "Yali"
+    "name": "Yali",
+    "postal_code": "99418"
   },
   {
     "code": "9504082003",
     "district_code": "950408",
-    "name": "Nambu"
+    "name": "Nambu",
+    "postal_code": "99061"
   },
   {
     "code": "9504082004",
     "district_code": "950408",
-    "name": "Nolopur"
+    "name": "Nolopur",
+    "postal_code": "99061"
   },
   {
     "code": "9504082005",
     "district_code": "950408",
-    "name": "Yaleme"
+    "name": "Yaleme",
+    "postal_code": "99061"
   },
   {
     "code": "9504082006",
     "district_code": "950408",
-    "name": "Gatini"
+    "name": "Gatini",
+    "postal_code": "99418"
   },
   {
     "code": "9504082007",
     "district_code": "950408",
-    "name": "Mino"
+    "name": "Mino",
+    "postal_code": "99061"
   },
   {
     "code": "9504082008",
     "district_code": "950408",
-    "name": "Gurin"
+    "name": "Gurin",
+    "postal_code": "99418"
   },
   {
     "code": "9504082009",
     "district_code": "950408",
-    "name": "Piriluk"
+    "name": "Piriluk",
+    "postal_code": "99418"
   },
   {
     "code": "9504082010",
     "district_code": "950408",
-    "name": "Pagongga"
+    "name": "Pagongga",
+    "postal_code": "99061"
   },
   {
     "code": "9504082011",
     "district_code": "950408",
-    "name": "Warna"
+    "name": "Warna",
+    "postal_code": "99418"
   },
   {
     "code": "9504082012",
     "district_code": "950408",
-    "name": "Popaga"
+    "name": "Popaga",
+    "postal_code": "99061"
   }
 ]

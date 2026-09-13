@@ -2,31 +2,37 @@
   {
     "code": "3371031001",
     "district_code": "337103",
-    "name": "Kemirirejo"
+    "name": "Kemirirejo",
+    "postal_code": "56122"
   },
   {
     "code": "3371031002",
     "district_code": "337103",
-    "name": "Cacaban"
+    "name": "Cacaban",
+    "postal_code": "56121"
   },
   {
     "code": "3371031003",
     "district_code": "337103",
-    "name": "Rejowinangun Utara"
+    "name": "Rejowinangun Utara",
+    "postal_code": "56127"
   },
   {
     "code": "3371031004",
     "district_code": "337103",
-    "name": "Magelang"
+    "name": "Magelang",
+    "postal_code": "56117"
   },
   {
     "code": "3371031005",
     "district_code": "337103",
-    "name": "Panjang"
+    "name": "Panjang",
+    "postal_code": "56111"
   },
   {
     "code": "3371031006",
     "district_code": "337103",
-    "name": "Gelangan"
+    "name": "Gelangan",
+    "postal_code": "56112"
   }
 ]

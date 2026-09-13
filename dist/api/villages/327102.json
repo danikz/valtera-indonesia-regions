@@ -2,31 +2,37 @@
   {
     "code": "3271021001",
     "district_code": "327102",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "16142"
   },
   {
     "code": "3271021002",
     "district_code": "327102",
-    "name": "Baranangsiang"
+    "name": "Baranangsiang",
+    "postal_code": "16143"
   },
   {
     "code": "3271021003",
     "district_code": "327102",
-    "name": "Katulampa"
+    "name": "Katulampa",
+    "postal_code": "16144"
   },
   {
     "code": "3271021004",
     "district_code": "327102",
-    "name": "Sindangsari"
+    "name": "Sindangsari",
+    "postal_code": "16146"
   },
   {
     "code": "3271021005",
     "district_code": "327102",
-    "name": "Sindangrasa"
+    "name": "Sindangrasa",
+    "postal_code": "16145"
   },
   {
     "code": "3271021006",
     "district_code": "327102",
-    "name": "Tajur"
+    "name": "Tajur",
+    "postal_code": "16141"
   }
 ]

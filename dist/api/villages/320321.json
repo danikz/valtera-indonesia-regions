@@ -2,56 +2,67 @@
   {
     "code": "3203212001",
     "district_code": "320321",
-    "name": "Saganten"
+    "name": "Saganten",
+    "postal_code": "43272"
   },
   {
     "code": "3203212002",
     "district_code": "320321",
-    "name": "Muaracikadu"
+    "name": "Muaracikadu",
+    "postal_code": "43272"
   },
   {
     "code": "3203212003",
     "district_code": "320321",
-    "name": "Jatisari"
+    "name": "Jatisari",
+    "postal_code": "43272"
   },
   {
     "code": "3203212004",
     "district_code": "320321",
-    "name": "Sirnagalih"
+    "name": "Sirnagalih",
+    "postal_code": "43272"
   },
   {
     "code": "3203212005",
     "district_code": "320321",
-    "name": "Jayagiri"
+    "name": "Jayagiri",
+    "postal_code": "43272"
   },
   {
     "code": "3203212006",
     "district_code": "320321",
-    "name": "Kertasari"
+    "name": "Kertasari",
+    "postal_code": "43272"
   },
   {
     "code": "3203212007",
     "district_code": "320321",
-    "name": "Girimukti"
+    "name": "Girimukti",
+    "postal_code": "43272"
   },
   {
     "code": "3203212008",
     "district_code": "320321",
-    "name": "Talagasari"
+    "name": "Talagasari",
+    "postal_code": "43272"
   },
   {
     "code": "3203212009",
     "district_code": "320321",
-    "name": "Hegarsari"
+    "name": "Hegarsari",
+    "postal_code": "43272"
   },
   {
     "code": "3203212010",
     "district_code": "320321",
-    "name": "Mekarlaksana"
+    "name": "Mekarlaksana",
+    "postal_code": "43272"
   },
   {
     "code": "3203212011",
     "district_code": "320321",
-    "name": "Kertamukti"
+    "name": "Kertamukti",
+    "postal_code": "43272"
   }
 ]

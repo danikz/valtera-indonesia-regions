@@ -2,16 +2,19 @@
   {
     "code": "2104102001",
     "district_code": "210410",
-    "name": "Busung Panjang"
+    "name": "Busung Panjang",
+    "postal_code": "29876"
   },
   {
     "code": "2104102002",
     "district_code": "210410",
-    "name": "Posek"
+    "name": "Posek",
+    "postal_code": "29876"
   },
   {
     "code": "2104102003",
     "district_code": "210410",
-    "name": "Suak Buaya"
+    "name": "Suak Buaya",
+    "postal_code": "29876"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "1610112001",
     "district_code": "161011",
-    "name": "Kotadaro I"
+    "name": "Kotadaro I",
+    "postal_code": "30661"
   },
   {
     "code": "1610112002",
     "district_code": "161011",
-    "name": "Ketapang I"
+    "name": "Ketapang I",
+    "postal_code": "30661"
   },
   {
     "code": "1610112003",
     "district_code": "161011",
-    "name": "Rantau Panjang Ilir"
+    "name": "Rantau Panjang Ilir",
+    "postal_code": "30661"
   },
   {
     "code": "1610112004",
     "district_code": "161011",
-    "name": "Jagaraja"
+    "name": "Jagaraja",
+    "postal_code": "30661"
   },
   {
     "code": "1610112005",
     "district_code": "161011",
-    "name": "Jagalano"
+    "name": "Jagalano",
+    "postal_code": "30661"
   },
   {
     "code": "1610112006",
     "district_code": "161011",
-    "name": "Sejangko I"
+    "name": "Sejangko I",
+    "postal_code": "30661"
   },
   {
     "code": "1610112007",
     "district_code": "161011",
-    "name": "Kota Daro II"
+    "name": "Kota Daro II",
+    "postal_code": "30661"
   },
   {
     "code": "1610112008",
     "district_code": "161011",
-    "name": "Sungai Rotan"
+    "name": "Sungai Rotan",
+    "postal_code": "30661"
   },
   {
     "code": "1610112009",
     "district_code": "161011",
-    "name": "Rantau Panjang Ulu"
+    "name": "Rantau Panjang Ulu",
+    "postal_code": "30661"
   },
   {
     "code": "1610112010",
     "district_code": "161011",
-    "name": "Ketapang II"
+    "name": "Ketapang II",
+    "postal_code": "30661"
   },
   {
     "code": "1610112011",
     "district_code": "161011",
-    "name": "Sejangko II"
+    "name": "Sejangko II",
+    "postal_code": "30661"
   },
   {
     "code": "1610112012",
     "district_code": "161011",
-    "name": "Arisan Deras"
+    "name": "Arisan Deras",
+    "postal_code": "30661"
   }
 ]

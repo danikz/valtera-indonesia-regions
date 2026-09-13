@@ -2,31 +2,37 @@
   {
     "code": "7310091001",
     "district_code": "731009",
-    "name": "Bonto Matene"
+    "name": "Bonto Matene",
+    "postal_code": "90656"
   },
   {
     "code": "7310091002",
     "district_code": "731009",
-    "name": "Segeri"
+    "name": "Segeri",
+    "postal_code": "90656"
   },
   {
     "code": "7310091003",
     "district_code": "731009",
-    "name": "Bone"
+    "name": "Bone",
+    "postal_code": "90656"
   },
   {
     "code": "7310091004",
     "district_code": "731009",
-    "name": "Bawa Salo"
+    "name": "Bawa Salo",
+    "postal_code": "90656"
   },
   {
     "code": "7310092005",
     "district_code": "731009",
-    "name": "Baring"
+    "name": "Baring",
+    "postal_code": "90656"
   },
   {
     "code": "7310092006",
     "district_code": "731009",
-    "name": "Parenreng"
+    "name": "Parenreng",
+    "postal_code": "90656"
   }
 ]

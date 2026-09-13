@@ -2,56 +2,67 @@
   {
     "code": "3603201011",
     "district_code": "360320",
-    "name": "Babakan"
+    "name": "Babakan",
+    "postal_code": "15820"
   },
   {
     "code": "3603202002",
     "district_code": "360320",
-    "name": "Caringin"
+    "name": "Caringin",
+    "postal_code": "15820"
   },
   {
     "code": "3603202003",
     "district_code": "360320",
-    "name": "Serdang Wetan"
+    "name": "Serdang Wetan",
+    "postal_code": "15820"
   },
   {
     "code": "3603202004",
     "district_code": "360320",
-    "name": "Babat"
+    "name": "Babat",
+    "postal_code": "15820"
   },
   {
     "code": "3603202005",
     "district_code": "360320",
-    "name": "Ciangir"
+    "name": "Ciangir",
+    "postal_code": "15820"
   },
   {
     "code": "3603202006",
     "district_code": "360320",
-    "name": "Legok"
+    "name": "Legok",
+    "postal_code": "15820"
   },
   {
     "code": "3603202007",
     "district_code": "360320",
-    "name": "Palasari"
+    "name": "Palasari",
+    "postal_code": "15820"
   },
   {
     "code": "3603202008",
     "district_code": "360320",
-    "name": "Bojongkamal"
+    "name": "Bojongkamal",
+    "postal_code": "15820"
   },
   {
     "code": "3603202009",
     "district_code": "360320",
-    "name": "Rancagong"
+    "name": "Rancagong",
+    "postal_code": "15820"
   },
   {
     "code": "3603202010",
     "district_code": "360320",
-    "name": "Kemuning"
+    "name": "Kemuning",
+    "postal_code": "15820"
   },
   {
     "code": "3603202012",
     "district_code": "360320",
-    "name": "Cirarab"
+    "name": "Cirarab",
+    "postal_code": "15820"
   }
 ]

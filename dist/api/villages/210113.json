@@ -2,21 +2,25 @@
   {
     "code": "2101132001",
     "district_code": "210113",
-    "name": "Mantang Baru"
+    "name": "Mantang Baru",
+    "postal_code": "29156"
   },
   {
     "code": "2101132002",
     "district_code": "210113",
-    "name": "Mantang Besar"
+    "name": "Mantang Besar",
+    "postal_code": "29156"
   },
   {
     "code": "2101132003",
     "district_code": "210113",
-    "name": "Mantang Lama"
+    "name": "Mantang Lama",
+    "postal_code": "29156"
   },
   {
     "code": "2101132004",
     "district_code": "210113",
-    "name": "Dendun"
+    "name": "Dendun",
+    "postal_code": "29156"
   }
 ]

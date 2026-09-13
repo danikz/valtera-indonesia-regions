@@ -2,36 +2,43 @@
   {
     "code": "3509112001",
     "district_code": "350911",
-    "name": "Lojejer"
+    "name": "Lojejer",
+    "postal_code": "68162"
   },
   {
     "code": "3509112002",
     "district_code": "350911",
-    "name": "Ampel"
+    "name": "Ampel",
+    "postal_code": "68162"
   },
   {
     "code": "3509112003",
     "district_code": "350911",
-    "name": "Tamansari"
+    "name": "Tamansari",
+    "postal_code": "68162"
   },
   {
     "code": "3509112004",
     "district_code": "350911",
-    "name": "Dukuhdempok"
+    "name": "Dukuhdempok",
+    "postal_code": "68162"
   },
   {
     "code": "3509112005",
     "district_code": "350911",
-    "name": "Glundengan"
+    "name": "Glundengan",
+    "postal_code": "68162"
   },
   {
     "code": "3509112006",
     "district_code": "350911",
-    "name": "Tanjungrejo"
+    "name": "Tanjungrejo",
+    "postal_code": "68162"
   },
   {
     "code": "3509112007",
     "district_code": "350911",
-    "name": "Kesilir"
+    "name": "Kesilir",
+    "postal_code": "68162"
   }
 ]

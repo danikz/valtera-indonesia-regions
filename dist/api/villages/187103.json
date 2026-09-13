@@ -2,36 +2,43 @@
   {
     "code": "1871031001",
     "district_code": "187103",
-    "name": "Gedong Air"
+    "name": "Gedong Air",
+    "postal_code": "35151"
   },
   {
     "code": "1871031002",
     "district_code": "187103",
-    "name": "Sukajawa"
+    "name": "Sukajawa",
+    "postal_code": "35151"
   },
   {
     "code": "1871031004",
     "district_code": "187103",
-    "name": "Susunan Baru"
+    "name": "Susunan Baru",
+    "postal_code": "35155"
   },
   {
     "code": "1871031006",
     "district_code": "187103",
-    "name": "Sukadana Ham"
+    "name": "Sukadana Ham",
+    "postal_code": "35156"
   },
   {
     "code": "1871031008",
     "district_code": "187103",
-    "name": "Kelapa Tiga Permai"
+    "name": "Kelapa Tiga Permai",
+    "postal_code": "35159"
   },
   {
     "code": "1871031010",
     "district_code": "187103",
-    "name": "Sukajawa Baru"
+    "name": "Sukajawa Baru",
+    "postal_code": "35151"
   },
   {
     "code": "1871031011",
     "district_code": "187103",
-    "name": "Segalamider"
+    "name": "Segalamider",
+    "postal_code": "35152"
   }
 ]

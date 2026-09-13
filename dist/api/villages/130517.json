@@ -2,26 +2,31 @@
   {
     "code": "1305172001",
     "district_code": "130517",
-    "name": "Pakandangan"
+    "name": "Pakandangan",
+    "postal_code": "25583"
   },
   {
     "code": "1305172002",
     "district_code": "130517",
-    "name": "Koto Tinggi"
+    "name": "Koto Tinggi",
+    "postal_code": "25583"
   },
   {
     "code": "1305172003",
     "district_code": "130517",
-    "name": "Toboh Ketek"
+    "name": "Toboh Ketek",
+    "postal_code": "25583"
   },
   {
     "code": "1305172004",
     "district_code": "130517",
-    "name": "Parit Malintang"
+    "name": "Parit Malintang",
+    "postal_code": "25583"
   },
   {
     "code": "1305172005",
     "district_code": "130517",
-    "name": "Gadur"
+    "name": "Gadur",
+    "postal_code": "25583"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "2104041006",
     "district_code": "210404",
-    "name": "Raya"
+    "name": "Raya",
+    "postal_code": "29875"
   },
   {
     "code": "2104042001",
     "district_code": "210404",
-    "name": "Bakong"
+    "name": "Bakong",
+    "postal_code": "29875"
   },
   {
     "code": "2104042002",
     "district_code": "210404",
-    "name": "Kuala Raya"
+    "name": "Kuala Raya",
+    "postal_code": "29875"
   },
   {
     "code": "2104042003",
     "district_code": "210404",
-    "name": "Marok Tua"
+    "name": "Marok Tua",
+    "postal_code": "29875"
   },
   {
     "code": "2104042005",
     "district_code": "210404",
-    "name": "Sungai Buluh"
+    "name": "Sungai Buluh",
+    "postal_code": "29875"
   },
   {
     "code": "2104042007",
     "district_code": "210404",
-    "name": "Sungai Raya"
+    "name": "Sungai Raya",
+    "postal_code": "29875"
   },
   {
     "code": "2104042008",
     "district_code": "210404",
-    "name": "Sungai Harapan"
+    "name": "Sungai Harapan",
+    "postal_code": "29875"
   },
   {
     "code": "2104042009",
     "district_code": "210404",
-    "name": "Jagoh"
+    "name": "Jagoh",
+    "postal_code": "29875"
   },
   {
     "code": "2104042012",
     "district_code": "210404",
-    "name": "Tinjul"
+    "name": "Tinjul",
+    "postal_code": "29875"
   },
   {
     "code": "2104042013",
     "district_code": "210404",
-    "name": "Langkap"
+    "name": "Langkap",
+    "postal_code": "29875"
   },
   {
     "code": "2104042014",
     "district_code": "210404",
-    "name": "Tanjung Irat"
+    "name": "Tanjung Irat",
+    "postal_code": "29875"
   },
   {
     "code": "2104042015",
     "district_code": "210404",
-    "name": "Bukit Belah"
+    "name": "Bukit Belah",
+    "postal_code": "29875"
   }
 ]

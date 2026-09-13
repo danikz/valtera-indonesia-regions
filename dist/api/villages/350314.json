@@ -2,36 +2,43 @@
   {
     "code": "3503142001",
     "district_code": "350314",
-    "name": "Puru"
+    "name": "Puru",
+    "postal_code": "66360"
   },
   {
     "code": "3503142002",
     "district_code": "350314",
-    "name": "Wonokerto"
+    "name": "Wonokerto",
+    "postal_code": "66360"
   },
   {
     "code": "3503142003",
     "district_code": "350314",
-    "name": "Nglebo"
+    "name": "Nglebo",
+    "postal_code": "66360"
   },
   {
     "code": "3503142004",
     "district_code": "350314",
-    "name": "Ngrandu"
+    "name": "Ngrandu",
+    "postal_code": "66360"
   },
   {
     "code": "3503142005",
     "district_code": "350314",
-    "name": "Gamping"
+    "name": "Gamping",
+    "postal_code": "66360"
   },
   {
     "code": "3503142006",
     "district_code": "350314",
-    "name": "Suruh"
+    "name": "Suruh",
+    "postal_code": "66360"
   },
   {
     "code": "3503142007",
     "district_code": "350314",
-    "name": "Mlinjon"
+    "name": "Mlinjon",
+    "postal_code": "66360"
   }
 ]

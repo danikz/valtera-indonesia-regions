@@ -2,26 +2,31 @@
   {
     "code": "9111112001",
     "district_code": "911111",
-    "name": "Kaisenar"
+    "name": "Kaisenar",
+    "postal_code": "99465"
   },
   {
     "code": "9111112002",
     "district_code": "911111",
-    "name": "Kiambra"
+    "name": "Kiambra",
+    "postal_code": "99465"
   },
   {
     "code": "9111112003",
     "district_code": "911111",
-    "name": "Liket"
+    "name": "Liket",
+    "postal_code": "99465"
   },
   {
     "code": "9111112004",
     "district_code": "911111",
-    "name": "Onam"
+    "name": "Onam",
+    "postal_code": "99465"
   },
   {
     "code": "9111112005",
     "district_code": "911111",
-    "name": "Tefanma Satu"
+    "name": "Tefanma Satu",
+    "postal_code": "99465"
   }
 ]

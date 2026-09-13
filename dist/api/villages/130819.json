@@ -2,31 +2,37 @@
   {
     "code": "1308192001",
     "district_code": "130819",
-    "name": "Lansek Kadok"
+    "name": "Lansek Kadok",
+    "postal_code": "26356"
   },
   {
     "code": "1308192002",
     "district_code": "130819",
-    "name": "Lubuak Layang"
+    "name": "Lubuak Layang",
+    "postal_code": "26356"
   },
   {
     "code": "1308192003",
     "district_code": "130819",
-    "name": "Tanjung Betung"
+    "name": "Tanjung Betung",
+    "postal_code": "26356"
   },
   {
     "code": "1308192004",
     "district_code": "130819",
-    "name": "Lansek Kadok Barat"
+    "name": "Lansek Kadok Barat",
+    "postal_code": "26356"
   },
   {
     "code": "1308192005",
     "district_code": "130819",
-    "name": "Tanjung Betung Utara"
+    "name": "Tanjung Betung Utara",
+    "postal_code": "26356"
   },
   {
     "code": "1308192006",
     "district_code": "130819",
-    "name": "Tanjung Betung Timur"
+    "name": "Tanjung Betung Timur",
+    "postal_code": "26356"
   }
 ]

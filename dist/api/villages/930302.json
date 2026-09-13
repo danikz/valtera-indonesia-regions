@@ -2,76 +2,91 @@
   {
     "code": "9303022001",
     "district_code": "930302",
-    "name": "Mur"
+    "name": "Mur",
+    "postal_code": "99873"
   },
   {
     "code": "9303022002",
     "district_code": "930302",
-    "name": "Agham"
+    "name": "Agham",
+    "postal_code": "99872"
   },
   {
     "code": "9303022003",
     "district_code": "930302",
-    "name": "Waghien/Koba"
+    "name": "Waghien/Koba",
+    "postal_code": "99873"
   },
   {
     "code": "9303022004",
     "district_code": "930302",
-    "name": "Khatan"
+    "name": "Khatan",
+    "postal_code": "99873"
   },
   {
     "code": "9303022005",
     "district_code": "930302",
-    "name": "Monana"
+    "name": "Monana",
+    "postal_code": "99873"
   },
   {
     "code": "9303022006",
     "district_code": "930302",
-    "name": "Wagin"
+    "name": "Wagin",
+    "postal_code": "99872"
   },
   {
     "code": "9303022007",
     "district_code": "930302",
-    "name": "Waman"
+    "name": "Waman",
+    "postal_code": "99872"
   },
   {
     "code": "9303022008",
     "district_code": "930302",
-    "name": "Ima"
+    "name": "Ima",
+    "postal_code": "99873"
   },
   {
     "code": "9303022009",
     "district_code": "930302",
-    "name": "Kogoyaman"
+    "name": "Kogoyaman",
+    "postal_code": "99873"
   },
   {
     "code": "9303022010",
     "district_code": "930302",
-    "name": "Magabag"
+    "name": "Magabag",
+    "postal_code": "99872"
   },
   {
     "code": "9303022011",
     "district_code": "930302",
-    "name": "Tereyemu"
+    "name": "Tereyemu",
+    "postal_code": "99872"
   },
   {
     "code": "9303022012",
     "district_code": "930302",
-    "name": "Yatan"
+    "name": "Yatan",
+    "postal_code": "99872"
   },
   {
     "code": "9303022013",
     "district_code": "930302",
-    "name": "Linggua"
+    "name": "Linggua",
+    "postal_code": "99873"
   },
   {
     "code": "9303022014",
     "district_code": "930302",
-    "name": "Waruwe"
+    "name": "Waruwe",
+    "postal_code": "99873"
   },
   {
     "code": "9303022015",
     "district_code": "930302",
-    "name": "Ghanu"
+    "name": "Ghanu",
+    "postal_code": "99873"
   }
 ]

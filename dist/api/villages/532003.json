@@ -2,51 +2,61 @@
   {
     "code": "5320031001",
     "district_code": "532003",
-    "name": "Bolou"
+    "name": "Bolou",
+    "postal_code": "85394"
   },
   {
     "code": "5320031002",
     "district_code": "532003",
-    "name": "Limaggu"
+    "name": "Limaggu",
+    "postal_code": "85394"
   },
   {
     "code": "5320032003",
     "district_code": "532003",
-    "name": "Lobodei"
+    "name": "Lobodei",
+    "postal_code": "85394"
   },
   {
     "code": "5320032004",
     "district_code": "532003",
-    "name": "Bodae"
+    "name": "Bodae",
+    "postal_code": "85394"
   },
   {
     "code": "5320032005",
     "district_code": "532003",
-    "name": "Keduru"
+    "name": "Keduru",
+    "postal_code": "85394"
   },
   {
     "code": "5320032006",
     "district_code": "532003",
-    "name": "Kuji Ratu"
+    "name": "Kuji Ratu",
+    "postal_code": "85394"
   },
   {
     "code": "5320032007",
     "district_code": "532003",
-    "name": "Loborai"
+    "name": "Loborai",
+    "postal_code": "85394"
   },
   {
     "code": "5320032008",
     "district_code": "532003",
-    "name": "Huwaga"
+    "name": "Huwaga",
+    "postal_code": "85394"
   },
   {
     "code": "5320032009",
     "district_code": "532003",
-    "name": "Eiada"
+    "name": "Eiada",
+    "postal_code": "85394"
   },
   {
     "code": "5320032010",
     "district_code": "532003",
-    "name": "Keliha"
+    "name": "Keliha",
+    "postal_code": "85394"
   }
 ]

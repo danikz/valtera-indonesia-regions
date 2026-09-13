@@ -2,31 +2,37 @@
   {
     "code": "3510232001",
     "district_code": "351023",
-    "name": "Tegalsari"
+    "name": "Tegalsari",
+    "postal_code": "68485"
   },
   {
     "code": "3510232002",
     "district_code": "351023",
-    "name": "Karangdoro"
+    "name": "Karangdoro",
+    "postal_code": "68485"
   },
   {
     "code": "3510232003",
     "district_code": "351023",
-    "name": "Tamansari"
+    "name": "Tamansari",
+    "postal_code": "68485"
   },
   {
     "code": "3510232004",
     "district_code": "351023",
-    "name": "Dasri"
+    "name": "Dasri",
+    "postal_code": "68485"
   },
   {
     "code": "3510232005",
     "district_code": "351023",
-    "name": "Karangmulyo"
+    "name": "Karangmulyo",
+    "postal_code": "68485"
   },
   {
     "code": "3510232006",
     "district_code": "351023",
-    "name": "Tegalrejo"
+    "name": "Tegalrejo",
+    "postal_code": "68485"
   }
 ]

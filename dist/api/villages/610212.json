@@ -2,61 +2,73 @@
   {
     "code": "6102122001",
     "district_code": "610212",
-    "name": "Sungai Duri I"
+    "name": "Sungai Duri I",
+    "postal_code": "78371"
   },
   {
     "code": "6102122002",
     "district_code": "610212",
-    "name": "Sungai Duri II"
+    "name": "Sungai Duri II",
+    "postal_code": "78371"
   },
   {
     "code": "6102122003",
     "district_code": "610212",
-    "name": "Bukit Batu"
+    "name": "Bukit Batu",
+    "postal_code": "78371"
   },
   {
     "code": "6102122004",
     "district_code": "610212",
-    "name": "Sungai Bundung Laut"
+    "name": "Sungai Bundung Laut",
+    "postal_code": "78371"
   },
   {
     "code": "6102122005",
     "district_code": "610212",
-    "name": "Sungai Kunyit Laut"
+    "name": "Sungai Kunyit Laut",
+    "postal_code": "78371"
   },
   {
     "code": "6102122006",
     "district_code": "610212",
-    "name": "Sungai Kunyit Dalam"
+    "name": "Sungai Kunyit Dalam",
+    "postal_code": "78371"
   },
   {
     "code": "6102122007",
     "district_code": "610212",
-    "name": "Sungai Kunyit Hulu"
+    "name": "Sungai Kunyit Hulu",
+    "postal_code": "78371"
   },
   {
     "code": "6102122008",
     "district_code": "610212",
-    "name": "Sungai Limau"
+    "name": "Sungai Limau",
+    "postal_code": "78371"
   },
   {
     "code": "6102122009",
     "district_code": "610212",
-    "name": "Sungai Dungun"
+    "name": "Sungai Dungun",
+    "postal_code": "78371"
   },
   {
     "code": "6102122010",
     "district_code": "610212",
-    "name": "Mendalok"
+    "name": "Mendalok",
+    "postal_code": "78371"
   },
   {
     "code": "6102122011",
     "district_code": "610212",
-    "name": "Semparong Parit Raden"
+    "name": "Semparong Parit Raden",
+    "postal_code": "78371"
   },
   {
     "code": "6102122012",
     "district_code": "610212",
-    "name": "Semudun"
+    "name": "Semudun",
+    "postal_code": "78371"
   }
 ]

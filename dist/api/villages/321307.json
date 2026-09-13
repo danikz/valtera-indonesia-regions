@@ -2,51 +2,61 @@
   {
     "code": "3213072004",
     "district_code": "321307",
-    "name": "Gunungsembung"
+    "name": "Gunungsembung",
+    "postal_code": "41251"
   },
   {
     "code": "3213072005",
     "district_code": "321307",
-    "name": "Gembor"
+    "name": "Gembor",
+    "postal_code": "41251"
   },
   {
     "code": "3213072006",
     "district_code": "321307",
-    "name": "Kamarung"
+    "name": "Kamarung",
+    "postal_code": "41251"
   },
   {
     "code": "3213072010",
     "district_code": "321307",
-    "name": "Gambarsari"
+    "name": "Gambarsari",
+    "postal_code": "41251"
   },
   {
     "code": "3213072011",
     "district_code": "321307",
-    "name": "Pagedan"
+    "name": "Pagedan",
+    "postal_code": "41251"
   },
   {
     "code": "3213072012",
     "district_code": "321307",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "41251"
   },
   {
     "code": "3213072013",
     "district_code": "321307",
-    "name": "Neglasari"
+    "name": "Neglasari",
+    "postal_code": "41251"
   },
   {
     "code": "3213072014",
     "district_code": "321307",
-    "name": "Sumbersari"
+    "name": "Sumbersari",
+    "postal_code": "41251"
   },
   {
     "code": "3213072015",
     "district_code": "321307",
-    "name": "Gunungsari"
+    "name": "Gunungsari",
+    "postal_code": "41251"
   },
   {
     "code": "3213072019",
     "district_code": "321307",
-    "name": "Jabong"
+    "name": "Jabong",
+    "postal_code": "41251"
   }
 ]

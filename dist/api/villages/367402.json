@@ -2,36 +2,43 @@
   {
     "code": "3674021001",
     "district_code": "367402",
-    "name": "Pakulonan"
+    "name": "Pakulonan",
+    "postal_code": "15325"
   },
   {
     "code": "3674021002",
     "district_code": "367402",
-    "name": "Pakualam"
+    "name": "Pakualam",
+    "postal_code": "15320"
   },
   {
     "code": "3674021003",
     "district_code": "367402",
-    "name": "Pakujaya"
+    "name": "Pakujaya",
+    "postal_code": "15324"
   },
   {
     "code": "3674021004",
     "district_code": "367402",
-    "name": "Pondok Jagung"
+    "name": "Pondok Jagung",
+    "postal_code": "15326"
   },
   {
     "code": "3674021005",
     "district_code": "367402",
-    "name": "Pondok Jagung Timur"
+    "name": "Pondok Jagung Timur",
+    "postal_code": "15326"
   },
   {
     "code": "3674021006",
     "district_code": "367402",
-    "name": "Jelupang"
+    "name": "Jelupang",
+    "postal_code": "15323"
   },
   {
     "code": "3674021007",
     "district_code": "367402",
-    "name": "Lengkong Karya"
+    "name": "Lengkong Karya",
+    "postal_code": "15320"
   }
 ]

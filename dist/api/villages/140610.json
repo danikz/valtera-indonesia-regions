@@ -2,36 +2,43 @@
   {
     "code": "1406102001",
     "district_code": "140610",
-    "name": "Pasir Agung"
+    "name": "Pasir Agung",
+    "postal_code": "28557"
   },
   {
     "code": "1406102002",
     "district_code": "140610",
-    "name": "Pasir Intan"
+    "name": "Pasir Intan",
+    "postal_code": "28557"
   },
   {
     "code": "1406102003",
     "district_code": "140610",
-    "name": "Rambah Jaya"
+    "name": "Rambah Jaya",
+    "postal_code": "28557"
   },
   {
     "code": "1406102004",
     "district_code": "140610",
-    "name": "Bangun Purba"
+    "name": "Bangun Purba",
+    "postal_code": "28557"
   },
   {
     "code": "1406102005",
     "district_code": "140610",
-    "name": "Bangun Purba Timur Jaya"
+    "name": "Bangun Purba Timur Jaya",
+    "postal_code": "28557"
   },
   {
     "code": "1406102006",
     "district_code": "140610",
-    "name": "Bangun Purba Barat"
+    "name": "Bangun Purba Barat",
+    "postal_code": "28557"
   },
   {
     "code": "1406102007",
     "district_code": "140610",
-    "name": "Tangun"
+    "name": "Tangun",
+    "postal_code": "28557"
   }
 ]

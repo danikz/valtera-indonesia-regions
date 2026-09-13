@@ -2,61 +2,73 @@
   {
     "code": "1112082001",
     "district_code": "111208",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "23769"
   },
   {
     "code": "1112082002",
     "district_code": "111208",
-    "name": "Alue Rambot"
+    "name": "Alue Rambot",
+    "postal_code": "23769"
   },
   {
     "code": "1112082003",
     "district_code": "111208",
-    "name": "Kuta Jeumpa"
+    "name": "Kuta Jeumpa",
+    "postal_code": "23769"
   },
   {
     "code": "1112082004",
     "district_code": "111208",
-    "name": "Alue Sungai Pinang"
+    "name": "Alue Sungai Pinang",
+    "postal_code": "23769"
   },
   {
     "code": "1112082005",
     "district_code": "111208",
-    "name": "Cot Mane"
+    "name": "Cot Mane",
+    "postal_code": "23769"
   },
   {
     "code": "1112082006",
     "district_code": "111208",
-    "name": "Ladang Neubok"
+    "name": "Ladang Neubok",
+    "postal_code": "23769"
   },
   {
     "code": "1112082007",
     "district_code": "111208",
-    "name": "Asoe Nanggroe"
+    "name": "Asoe Nanggroe",
+    "postal_code": "23769"
   },
   {
     "code": "1112082008",
     "district_code": "111208",
-    "name": "Padang Geulumpang"
+    "name": "Padang Geulumpang",
+    "postal_code": "23769"
   },
   {
     "code": "1112082009",
     "district_code": "111208",
-    "name": "Ikue Lhung"
+    "name": "Ikue Lhung",
+    "postal_code": "23769"
   },
   {
     "code": "1112082010",
     "district_code": "111208",
-    "name": "Kuta Makmur"
+    "name": "Kuta Makmur",
+    "postal_code": "23769"
   },
   {
     "code": "1112082011",
     "district_code": "111208",
-    "name": "Jeumpa Barat"
+    "name": "Jeumpa Barat",
+    "postal_code": "23769"
   },
   {
     "code": "1112082012",
     "district_code": "111208",
-    "name": "Alue Seulaseh"
+    "name": "Alue Seulaseh",
+    "postal_code": "23769"
   }
 ]

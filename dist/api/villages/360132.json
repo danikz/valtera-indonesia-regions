@@ -2,46 +2,55 @@
   {
     "code": "3601322001",
     "district_code": "360132",
-    "name": "Koranji"
+    "name": "Koranji",
+    "postal_code": "42254"
   },
   {
     "code": "3601322002",
     "district_code": "360132",
-    "name": "Banjarwangi"
+    "name": "Banjarwangi",
+    "postal_code": "42254"
   },
   {
     "code": "3601322003",
     "district_code": "360132",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "42254"
   },
   {
     "code": "3601322004",
     "district_code": "360132",
-    "name": "Karyawangi"
+    "name": "Karyawangi",
+    "postal_code": "42254"
   },
   {
     "code": "3601322005",
     "district_code": "360132",
-    "name": "Sukaraja"
+    "name": "Sukaraja",
+    "postal_code": "42254"
   },
   {
     "code": "3601322006",
     "district_code": "360132",
-    "name": "Kaduhejo"
+    "name": "Kaduhejo",
+    "postal_code": "42254"
   },
   {
     "code": "3601322007",
     "district_code": "360132",
-    "name": "Banjarnegara"
+    "name": "Banjarnegara",
+    "postal_code": "42254"
   },
   {
     "code": "3601322008",
     "district_code": "360132",
-    "name": "Sanghiangdengdek"
+    "name": "Sanghiangdengdek",
+    "postal_code": "42254"
   },
   {
     "code": "3601322009",
     "district_code": "360132",
-    "name": "Cilentung"
+    "name": "Cilentung",
+    "postal_code": "42254"
   }
 ]

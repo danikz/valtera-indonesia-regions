@@ -2,46 +2,55 @@
   {
     "code": "6206012001",
     "district_code": "620601",
-    "name": "Galinggang"
+    "name": "Galinggang",
+    "postal_code": "74462"
   },
   {
     "code": "6206012002",
     "district_code": "620601",
-    "name": "Tampelas"
+    "name": "Tampelas",
+    "postal_code": "74462"
   },
   {
     "code": "6206012003",
     "district_code": "620601",
-    "name": "Telaga"
+    "name": "Telaga",
+    "postal_code": "74462"
   },
   {
     "code": "6206012004",
     "district_code": "620601",
-    "name": "Parupuk"
+    "name": "Parupuk",
+    "postal_code": "74462"
   },
   {
     "code": "6206012005",
     "district_code": "620601",
-    "name": "Karuing"
+    "name": "Karuing",
+    "postal_code": "74462"
   },
   {
     "code": "6206012006",
     "district_code": "620601",
-    "name": "Jahanjang"
+    "name": "Jahanjang",
+    "postal_code": "74462"
   },
   {
     "code": "6206012007",
     "district_code": "620601",
-    "name": "Tumbang Runen"
+    "name": "Tumbang Runen",
+    "postal_code": "74462"
   },
   {
     "code": "6206012008",
     "district_code": "620601",
-    "name": "Baun Bango"
+    "name": "Baun Bango",
+    "postal_code": "74462"
   },
   {
     "code": "6206012009",
     "district_code": "620601",
-    "name": "Asem Kumbang"
+    "name": "Asem Kumbang",
+    "postal_code": "74462"
   }
 ]

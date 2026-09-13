@@ -2,51 +2,61 @@
   {
     "code": "5271011004",
     "district_code": "527101",
-    "name": "Ampenan Selatan"
+    "name": "Ampenan Selatan",
+    "postal_code": "83114"
   },
   {
     "code": "5271011005",
     "district_code": "527101",
-    "name": "Ampenan Tengah"
+    "name": "Ampenan Tengah",
+    "postal_code": "83112"
   },
   {
     "code": "5271011006",
     "district_code": "527101",
-    "name": "Pejeruk"
+    "name": "Pejeruk",
+    "postal_code": "83113"
   },
   {
     "code": "5271011007",
     "district_code": "527101",
-    "name": "Ampenan Utara"
+    "name": "Ampenan Utara",
+    "postal_code": "83511"
   },
   {
     "code": "5271011008",
     "district_code": "527101",
-    "name": "Taman Sari"
+    "name": "Taman Sari",
+    "postal_code": "83118"
   },
   {
     "code": "5271011009",
     "district_code": "527101",
-    "name": "Banjar"
+    "name": "Banjar",
+    "postal_code": "83118"
   },
   {
     "code": "5271011010",
     "district_code": "527101",
-    "name": "Kebun Sari"
+    "name": "Kebun Sari",
+    "postal_code": "83118"
   },
   {
     "code": "5271011011",
     "district_code": "527101",
-    "name": "Pajarakan Karya"
+    "name": "Pajarakan Karya",
+    "postal_code": "83118"
   },
   {
     "code": "5271011012",
     "district_code": "527101",
-    "name": "Dayan Peken"
+    "name": "Dayan Peken",
+    "postal_code": "83118"
   },
   {
     "code": "5271011013",
     "district_code": "527101",
-    "name": "Bintaro"
+    "name": "Bintaro",
+    "postal_code": "83118"
   }
 ]

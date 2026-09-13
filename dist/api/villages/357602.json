@@ -2,31 +2,37 @@
   {
     "code": "3576021001",
     "district_code": "357602",
-    "name": "Gununggedangan"
+    "name": "Gununggedangan",
+    "postal_code": "61315"
   },
   {
     "code": "3576021003",
     "district_code": "357602",
-    "name": "Magersari"
+    "name": "Magersari",
+    "postal_code": "61318"
   },
   {
     "code": "3576021004",
     "district_code": "357602",
-    "name": "Gedongan"
+    "name": "Gedongan",
+    "postal_code": "61319"
   },
   {
     "code": "3576021008",
     "district_code": "357602",
-    "name": "Balongsari"
+    "name": "Balongsari",
+    "postal_code": "61314"
   },
   {
     "code": "3576021009",
     "district_code": "357602",
-    "name": "Kedundung"
+    "name": "Kedundung",
+    "postal_code": "61316"
   },
   {
     "code": "3576021010",
     "district_code": "357602",
-    "name": "Wates"
+    "name": "Wates",
+    "postal_code": "61317"
   }
 ]

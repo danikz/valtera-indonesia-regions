@@ -2,36 +2,43 @@
   {
     "code": "1502112001",
     "district_code": "150211",
-    "name": "Sungai Ulak"
+    "name": "Sungai Ulak",
+    "postal_code": "37317"
   },
   {
     "code": "1502112002",
     "district_code": "150211",
-    "name": "Aur Berduri"
+    "name": "Aur Berduri",
+    "postal_code": "37317"
   },
   {
     "code": "1502112003",
     "district_code": "150211",
-    "name": "Telun"
+    "name": "Telun",
+    "postal_code": "37317"
   },
   {
     "code": "1502112004",
     "district_code": "150211",
-    "name": "Nalo Gedang"
+    "name": "Nalo Gedang",
+    "postal_code": "37317"
   },
   {
     "code": "1502112005",
     "district_code": "150211",
-    "name": "Baru Nalo"
+    "name": "Baru Nalo",
+    "postal_code": "37317"
   },
   {
     "code": "1502112006",
     "district_code": "150211",
-    "name": "Mentawak"
+    "name": "Mentawak",
+    "postal_code": "37317"
   },
   {
     "code": "1502112007",
     "district_code": "150211",
-    "name": "Danau"
+    "name": "Danau",
+    "postal_code": "37317"
   }
 ]

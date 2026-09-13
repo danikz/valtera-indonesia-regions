@@ -2,71 +2,85 @@
   {
     "code": "9304072001",
     "district_code": "930407",
-    "name": "Binam"
+    "name": "Binam",
+    "postal_code": "99792"
   },
   {
     "code": "9304072002",
     "district_code": "930407",
-    "name": "Wagabus"
+    "name": "Wagabus",
+    "postal_code": "99792"
   },
   {
     "code": "9304072003",
     "district_code": "930407",
-    "name": "Burbis"
+    "name": "Burbis",
+    "postal_code": "99792"
   },
   {
     "code": "9304072004",
     "district_code": "930407",
-    "name": "Bubis"
+    "name": "Bubis",
+    "postal_code": "99792"
   },
   {
     "code": "9304072005",
     "district_code": "930407",
-    "name": "Karbis"
+    "name": "Karbis",
+    "postal_code": "99792"
   },
   {
     "code": "9304072006",
     "district_code": "930407",
-    "name": "Jinak"
+    "name": "Jinak",
+    "postal_code": "99792"
   },
   {
     "code": "9304072007",
     "district_code": "930407",
-    "name": "Wowi"
+    "name": "Wowi",
+    "postal_code": "99792"
   },
   {
     "code": "9304072008",
     "district_code": "930407",
-    "name": "Soray"
+    "name": "Soray",
+    "postal_code": "99792"
   },
   {
     "code": "9304072009",
     "district_code": "930407",
-    "name": "Waganu Dua"
+    "name": "Waganu Dua",
+    "postal_code": "99792"
   },
   {
     "code": "9304072010",
     "district_code": "930407",
-    "name": "Waijens"
+    "name": "Waijens",
+    "postal_code": ""
   },
   {
     "code": "9304072011",
     "district_code": "930407",
-    "name": "Bumu"
+    "name": "Bumu",
+    "postal_code": ""
   },
   {
     "code": "9304072012",
     "district_code": "930407",
-    "name": "Kapayap Satu"
+    "name": "Kapayap Satu",
+    "postal_code": ""
   },
   {
     "code": "9304072013",
     "district_code": "930407",
-    "name": "Kapayap Dua"
+    "name": "Kapayap Dua",
+    "postal_code": ""
   },
   {
     "code": "9304072014",
     "district_code": "930407",
-    "name": "Emnam"
+    "name": "Emnam",
+    "postal_code": "99792"
   }
 ]

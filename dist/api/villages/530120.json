@@ -2,51 +2,61 @@
   {
     "code": "5301202001",
     "district_code": "530120",
-    "name": "Seki"
+    "name": "Seki",
+    "postal_code": "85363"
   },
   {
     "code": "5301202002",
     "district_code": "530120",
-    "name": "Oemofa"
+    "name": "Oemofa",
+    "postal_code": "85363"
   },
   {
     "code": "5301202003",
     "district_code": "530120",
-    "name": "Nunmafo"
+    "name": "Nunmafo",
+    "postal_code": "85363"
   },
   {
     "code": "5301202004",
     "district_code": "530120",
-    "name": "Muke"
+    "name": "Muke",
+    "postal_code": "85363"
   },
   {
     "code": "5301202005",
     "district_code": "530120",
-    "name": "Pathau"
+    "name": "Pathau",
+    "postal_code": "85363"
   },
   {
     "code": "5301202006",
     "district_code": "530120",
-    "name": "Oeniko"
+    "name": "Oeniko",
+    "postal_code": "85363"
   },
   {
     "code": "5301202007",
     "district_code": "530120",
-    "name": "Oenuntono"
+    "name": "Oenuntono",
+    "postal_code": "85363"
   },
   {
     "code": "5301202008",
     "district_code": "530120",
-    "name": "Oemolo"
+    "name": "Oemolo",
+    "postal_code": "85363"
   },
   {
     "code": "5301202009",
     "district_code": "530120",
-    "name": "Enolanan"
+    "name": "Enolanan",
+    "postal_code": "85363"
   },
   {
     "code": "5301202010",
     "district_code": "530120",
-    "name": "Oenaunu"
+    "name": "Oenaunu",
+    "postal_code": "85363"
   }
 ]

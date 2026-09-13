@@ -2,36 +2,43 @@
   {
     "code": "1571091001",
     "district_code": "157109",
-    "name": "Kenali Besar"
+    "name": "Kenali Besar",
+    "postal_code": "36129"
   },
   {
     "code": "1571091002",
     "district_code": "157109",
-    "name": "Rawa Sari"
+    "name": "Rawa Sari",
+    "postal_code": "36125"
   },
   {
     "code": "1571091003",
     "district_code": "157109",
-    "name": "Mayang Mangurai"
+    "name": "Mayang Mangurai",
+    "postal_code": "36129"
   },
   {
     "code": "1571091004",
     "district_code": "157109",
-    "name": "Bagan Pete"
+    "name": "Bagan Pete",
+    "postal_code": "36129"
   },
   {
     "code": "1571091005",
     "district_code": "157109",
-    "name": "Beliung"
+    "name": "Beliung",
+    "postal_code": "36129"
   },
   {
     "code": "1571091006",
     "district_code": "157109",
-    "name": "Simpang Rimbo"
+    "name": "Simpang Rimbo",
+    "postal_code": "36129"
   },
   {
     "code": "1571091007",
     "district_code": "157109",
-    "name": "Pinang Merah"
+    "name": "Pinang Merah",
+    "postal_code": "36129"
   }
 ]

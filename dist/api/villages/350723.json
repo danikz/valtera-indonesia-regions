@@ -2,46 +2,55 @@
   {
     "code": "3507232001",
     "district_code": "350723",
-    "name": "Tegalgondo"
+    "name": "Tegalgondo",
+    "postal_code": "65152"
   },
   {
     "code": "3507232002",
     "district_code": "350723",
-    "name": "Kepuharjo"
+    "name": "Kepuharjo",
+    "postal_code": "65152"
   },
   {
     "code": "3507232003",
     "district_code": "350723",
-    "name": "Ngenep"
+    "name": "Ngenep",
+    "postal_code": "65152"
   },
   {
     "code": "3507232004",
     "district_code": "350723",
-    "name": "Ngijo"
+    "name": "Ngijo",
+    "postal_code": "65152"
   },
   {
     "code": "3507232005",
     "district_code": "350723",
-    "name": "Ampeldento"
+    "name": "Ampeldento",
+    "postal_code": "65152"
   },
   {
     "code": "3507232006",
     "district_code": "350723",
-    "name": "Girimoyo"
+    "name": "Girimoyo",
+    "postal_code": "65152"
   },
   {
     "code": "3507232007",
     "district_code": "350723",
-    "name": "Bocek"
+    "name": "Bocek",
+    "postal_code": "65152"
   },
   {
     "code": "3507232008",
     "district_code": "350723",
-    "name": "Donowarih"
+    "name": "Donowarih",
+    "postal_code": "65152"
   },
   {
     "code": "3507232009",
     "district_code": "350723",
-    "name": "Tawangargo"
+    "name": "Tawangargo",
+    "postal_code": "65152"
   }
 ]

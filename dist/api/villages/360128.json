@@ -2,51 +2,61 @@
   {
     "code": "3601282001",
     "district_code": "360128",
-    "name": "Banjarmasin"
+    "name": "Banjarmasin",
+    "postal_code": "42264"
   },
   {
     "code": "3601282002",
     "district_code": "360128",
-    "name": "Carita"
+    "name": "Carita",
+    "postal_code": "42264"
   },
   {
     "code": "3601282003",
     "district_code": "360128",
-    "name": "Sukarame"
+    "name": "Sukarame",
+    "postal_code": "42264"
   },
   {
     "code": "3601282004",
     "district_code": "360128",
-    "name": "Sukanegara"
+    "name": "Sukanegara",
+    "postal_code": "42264"
   },
   {
     "code": "3601282005",
     "district_code": "360128",
-    "name": "Cinoyong"
+    "name": "Cinoyong",
+    "postal_code": "42264"
   },
   {
     "code": "3601282006",
     "district_code": "360128",
-    "name": "Pejamben"
+    "name": "Pejamben",
+    "postal_code": "42264"
   },
   {
     "code": "3601282007",
     "district_code": "360128",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "42264"
   },
   {
     "code": "3601282008",
     "district_code": "360128",
-    "name": "Kawoyang"
+    "name": "Kawoyang",
+    "postal_code": "42264"
   },
   {
     "code": "3601282009",
     "district_code": "360128",
-    "name": "Tembong"
+    "name": "Tembong",
+    "postal_code": "42264"
   },
   {
     "code": "3601282010",
     "district_code": "360128",
-    "name": "Sindanglaut"
+    "name": "Sindanglaut",
+    "postal_code": "42264"
   }
 ]

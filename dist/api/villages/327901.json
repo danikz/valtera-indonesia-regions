@@ -2,36 +2,43 @@
   {
     "code": "3279011001",
     "district_code": "327901",
-    "name": "Banjar"
+    "name": "Banjar",
+    "postal_code": "46311"
   },
   {
     "code": "3279011002",
     "district_code": "327901",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "46321"
   },
   {
     "code": "3279011006",
     "district_code": "327901",
-    "name": "Situbatu"
+    "name": "Situbatu",
+    "postal_code": "46314"
   },
   {
     "code": "3279012003",
     "district_code": "327901",
-    "name": "Balokang"
+    "name": "Balokang",
+    "postal_code": "46312"
   },
   {
     "code": "3279012004",
     "district_code": "327901",
-    "name": "Cibeureum"
+    "name": "Cibeureum",
+    "postal_code": "46313"
   },
   {
     "code": "3279012005",
     "district_code": "327901",
-    "name": "Neglasari"
+    "name": "Neglasari",
+    "postal_code": "46315"
   },
   {
     "code": "3279012007",
     "district_code": "327901",
-    "name": "Jajawar"
+    "name": "Jajawar",
+    "postal_code": "46317"
   }
 ]

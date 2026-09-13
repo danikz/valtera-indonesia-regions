@@ -2,46 +2,55 @@
   {
     "code": "9407032001",
     "district_code": "940703",
-    "name": "Sabisa"
+    "name": "Sabisa",
+    "postal_code": "98785"
   },
   {
     "code": "9407032002",
     "district_code": "940703",
-    "name": "Dubandoga"
+    "name": "Dubandoga",
+    "postal_code": "98785"
   },
   {
     "code": "9407032003",
     "district_code": "940703",
-    "name": "Debasiga"
+    "name": "Debasiga",
+    "postal_code": "98785"
   },
   {
     "code": "9407032004",
     "district_code": "940703",
-    "name": "Debasiga Dua"
+    "name": "Debasiga Dua",
+    "postal_code": "98785"
   },
   {
     "code": "9407032005",
     "district_code": "940703",
-    "name": "Isandoga"
+    "name": "Isandoga",
+    "postal_code": "98785"
   },
   {
     "code": "9407032006",
     "district_code": "940703",
-    "name": "Mogalo"
+    "name": "Mogalo",
+    "postal_code": "98785"
   },
   {
     "code": "9407032007",
     "district_code": "940703",
-    "name": "Jae"
+    "name": "Jae",
+    "postal_code": "98785"
   },
   {
     "code": "9407032008",
     "district_code": "940703",
-    "name": "Mbugulo"
+    "name": "Mbugulo",
+    "postal_code": "98785"
   },
   {
     "code": "9407032009",
     "district_code": "940703",
-    "name": "Hulapuga"
+    "name": "Hulapuga",
+    "postal_code": "98785"
   }
 ]

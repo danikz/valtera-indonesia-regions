@@ -2,36 +2,43 @@
   {
     "code": "9209062001",
     "district_code": "920906",
-    "name": "Wau"
+    "name": "Wau",
+    "postal_code": ""
   },
   {
     "code": "9209062002",
     "district_code": "920906",
-    "name": "Warmandi"
+    "name": "Warmandi",
+    "postal_code": ""
   },
   {
     "code": "9209062003",
     "district_code": "920906",
-    "name": "Waibem"
+    "name": "Waibem",
+    "postal_code": ""
   },
   {
     "code": "9209062004",
     "district_code": "920906",
-    "name": "Saubeba"
+    "name": "Saubeba",
+    "postal_code": ""
   },
   {
     "code": "9209062005",
     "district_code": "920906",
-    "name": "Weyaf"
+    "name": "Weyaf",
+    "postal_code": ""
   },
   {
     "code": "9209062006",
     "district_code": "920906",
-    "name": "Weprari"
+    "name": "Weprari",
+    "postal_code": ""
   },
   {
     "code": "9209062007",
     "district_code": "920906",
-    "name": "Wowom"
+    "name": "Wowom",
+    "postal_code": ""
   }
 ]

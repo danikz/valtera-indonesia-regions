@@ -2,31 +2,37 @@
   {
     "code": "9503162001",
     "district_code": "950316",
-    "name": "Soba"
+    "name": "Soba",
+    "postal_code": "99713"
   },
   {
     "code": "9503162002",
     "district_code": "950316",
-    "name": "Hepinis"
+    "name": "Hepinis",
+    "postal_code": "99713"
   },
   {
     "code": "9503162003",
     "district_code": "950316",
-    "name": "Ugulintipmu"
+    "name": "Ugulintipmu",
+    "postal_code": "99713"
   },
   {
     "code": "9503162004",
     "district_code": "950316",
-    "name": "Nilen"
+    "name": "Nilen",
+    "postal_code": "99713"
   },
   {
     "code": "9503162005",
     "district_code": "950316",
-    "name": "Surukmu"
+    "name": "Surukmu",
+    "postal_code": "99713"
   },
   {
     "code": "9503162006",
     "district_code": "950316",
-    "name": "Tanda"
+    "name": "Tanda",
+    "postal_code": "99713"
   }
 ]

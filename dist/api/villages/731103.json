@@ -2,51 +2,61 @@
   {
     "code": "7311031001",
     "district_code": "731103",
-    "name": "Coppo"
+    "name": "Coppo",
+    "postal_code": "90711"
   },
   {
     "code": "7311031002",
     "district_code": "731103",
-    "name": "Mangempang"
+    "name": "Mangempang",
+    "postal_code": "90712"
   },
   {
     "code": "7311031003",
     "district_code": "731103",
-    "name": "Sumpang Binangae"
+    "name": "Sumpang Binangae",
+    "postal_code": "90712"
   },
   {
     "code": "7311031004",
     "district_code": "731103",
-    "name": "Sepee"
+    "name": "Sepee",
+    "postal_code": "90711"
   },
   {
     "code": "7311031005",
     "district_code": "731103",
-    "name": "Tuwung"
+    "name": "Tuwung",
+    "postal_code": "90711"
   },
   {
     "code": "7311032006",
     "district_code": "731103",
-    "name": "Palakka"
+    "name": "Palakka",
+    "postal_code": "90711"
   },
   {
     "code": "7311032007",
     "district_code": "731103",
-    "name": "Tompo"
+    "name": "Tompo",
+    "postal_code": "90711"
   },
   {
     "code": "7311032008",
     "district_code": "731103",
-    "name": "Anabanua"
+    "name": "Anabanua",
+    "postal_code": "90712"
   },
   {
     "code": "7311032009",
     "district_code": "731103",
-    "name": "Galung"
+    "name": "Galung",
+    "postal_code": "90711"
   },
   {
     "code": "7311032010",
     "district_code": "731103",
-    "name": "Siawung"
+    "name": "Siawung",
+    "postal_code": "90712"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1609162001",
     "district_code": "160916",
-    "name": "Tanjung Harapan"
+    "name": "Tanjung Harapan",
+    "postal_code": "32266"
   },
   {
     "code": "1609162002",
     "district_code": "160916",
-    "name": "Muara Sindang Ilir"
+    "name": "Muara Sindang Ilir",
+    "postal_code": "32266"
   },
   {
     "code": "1609162003",
     "district_code": "160916",
-    "name": "Muara Sindang Tengah"
+    "name": "Muara Sindang Tengah",
+    "postal_code": "32266"
   },
   {
     "code": "1609162004",
     "district_code": "160916",
-    "name": "Pematang Danau"
+    "name": "Pematang Danau",
+    "postal_code": "32266"
   },
   {
     "code": "1609162005",
     "district_code": "160916",
-    "name": "Ulu Danau"
+    "name": "Ulu Danau",
+    "postal_code": "32266"
   },
   {
     "code": "1609162006",
     "district_code": "160916",
-    "name": "Tebat Layang"
+    "name": "Tebat Layang",
+    "postal_code": "32266"
   },
   {
     "code": "1609162007",
     "district_code": "160916",
-    "name": "Watas"
+    "name": "Watas",
+    "postal_code": "32266"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "2101142001",
     "district_code": "210114",
-    "name": "Kelong"
+    "name": "Kelong",
+    "postal_code": "29151"
   },
   {
     "code": "2101142002",
     "district_code": "210114",
-    "name": "Mapur"
+    "name": "Mapur",
+    "postal_code": "29151"
   },
   {
     "code": "2101142003",
     "district_code": "210114",
-    "name": "Numbing"
+    "name": "Numbing",
+    "postal_code": "29151"
   },
   {
     "code": "2101142004",
     "district_code": "210114",
-    "name": "Air Gelubi"
+    "name": "Air Gelubi",
+    "postal_code": "29151"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "7171061001",
     "district_code": "717106",
-    "name": "Sario Utara"
+    "name": "Sario Utara",
+    "postal_code": "95114"
   },
   {
     "code": "7171061002",
     "district_code": "717106",
-    "name": "Sario Kotabaru"
+    "name": "Sario Kotabaru",
+    "postal_code": "95113"
   },
   {
     "code": "7171061003",
     "district_code": "717106",
-    "name": "Sario Tumpaan"
+    "name": "Sario Tumpaan",
+    "postal_code": "95114"
   },
   {
     "code": "7171061004",
     "district_code": "717106",
-    "name": "Sario"
+    "name": "Sario",
+    "postal_code": "95114"
   },
   {
     "code": "7171061005",
     "district_code": "717106",
-    "name": "Titiwungan Utara"
+    "name": "Titiwungan Utara",
+    "postal_code": "95113"
   },
   {
     "code": "7171061006",
     "district_code": "717106",
-    "name": "Titiwungan Selatan"
+    "name": "Titiwungan Selatan",
+    "postal_code": "95113"
   },
   {
     "code": "7171061007",
     "district_code": "717106",
-    "name": "Ranotana"
+    "name": "Ranotana",
+    "postal_code": "95116"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3674041001",
     "district_code": "367404",
-    "name": "Sawah Baru"
+    "name": "Sawah Baru",
+    "postal_code": "15413"
   },
   {
     "code": "3674041002",
     "district_code": "367404",
-    "name": "Serua"
+    "name": "Serua",
+    "postal_code": "15414"
   },
   {
     "code": "3674041003",
     "district_code": "367404",
-    "name": "Ciputat"
+    "name": "Ciputat",
+    "postal_code": "15411"
   },
   {
     "code": "3674041004",
     "district_code": "367404",
-    "name": "Sawah Lama"
+    "name": "Sawah Lama",
+    "postal_code": "15413"
   },
   {
     "code": "3674041005",
     "district_code": "367404",
-    "name": "Serua Indah"
+    "name": "Serua Indah",
+    "postal_code": "15414"
   },
   {
     "code": "3674041006",
     "district_code": "367404",
-    "name": "Jombang"
+    "name": "Jombang",
+    "postal_code": "15414"
   },
   {
     "code": "3674041007",
     "district_code": "367404",
-    "name": "Cipayung"
+    "name": "Cipayung",
+    "postal_code": "15411"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "7307092001",
     "district_code": "730709",
-    "name": "Pulau Harapan"
+    "name": "Pulau Harapan",
+    "postal_code": "92616"
   },
   {
     "code": "7307092002",
     "district_code": "730709",
-    "name": "Pulau Buhung Pitue"
+    "name": "Pulau Buhung Pitue",
+    "postal_code": "92616"
   },
   {
     "code": "7307092003",
     "district_code": "730709",
-    "name": "Pulau Padaelo"
+    "name": "Pulau Padaelo",
+    "postal_code": "92616"
   },
   {
     "code": "7307092004",
     "district_code": "730709",
-    "name": "Pulau Persatuan"
+    "name": "Pulau Persatuan",
+    "postal_code": "92616"
   }
 ]

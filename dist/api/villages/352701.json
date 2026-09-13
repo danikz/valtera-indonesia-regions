@@ -2,61 +2,73 @@
   {
     "code": "3527012001",
     "district_code": "352701",
-    "name": "Noreh"
+    "name": "Noreh",
+    "postal_code": "69273"
   },
   {
     "code": "3527012002",
     "district_code": "352701",
-    "name": "Labuhan"
+    "name": "Labuhan",
+    "postal_code": "69273"
   },
   {
     "code": "3527012003",
     "district_code": "352701",
-    "name": "Taman"
+    "name": "Taman",
+    "postal_code": "69273"
   },
   {
     "code": "3527012004",
     "district_code": "352701",
-    "name": "Sreseh"
+    "name": "Sreseh",
+    "postal_code": "69273"
   },
   {
     "code": "3527012005",
     "district_code": "352701",
-    "name": "Disanah"
+    "name": "Disanah",
+    "postal_code": "69273"
   },
   {
     "code": "3527012006",
     "district_code": "352701",
-    "name": "Marparan"
+    "name": "Marparan",
+    "postal_code": "69273"
   },
   {
     "code": "3527012007",
     "district_code": "352701",
-    "name": "Klobur"
+    "name": "Klobur",
+    "postal_code": "69273"
   },
   {
     "code": "3527012008",
     "district_code": "352701",
-    "name": "Labang"
+    "name": "Labang",
+    "postal_code": "69273"
   },
   {
     "code": "3527012009",
     "district_code": "352701",
-    "name": "Bundah"
+    "name": "Bundah",
+    "postal_code": "69273"
   },
   {
     "code": "3527012010",
     "district_code": "352701",
-    "name": "Bangsah"
+    "name": "Bangsah",
+    "postal_code": "69273"
   },
   {
     "code": "3527012011",
     "district_code": "352701",
-    "name": "Plasah"
+    "name": "Plasah",
+    "postal_code": "69273"
   },
   {
     "code": "3527012012",
     "district_code": "352701",
-    "name": "Junok"
+    "name": "Junok",
+    "postal_code": "69273"
   }
 ]

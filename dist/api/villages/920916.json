@@ -2,36 +2,43 @@
   {
     "code": "9209162001",
     "district_code": "920916",
-    "name": "Mawor"
+    "name": "Mawor",
+    "postal_code": ""
   },
   {
     "code": "9209162002",
     "district_code": "920916",
-    "name": "Ruf"
+    "name": "Ruf",
+    "postal_code": ""
   },
   {
     "code": "9209162003",
     "district_code": "920916",
-    "name": "Ayamane"
+    "name": "Ayamane",
+    "postal_code": ""
   },
   {
     "code": "9209162004",
     "district_code": "920916",
-    "name": "Whismer"
+    "name": "Whismer",
+    "postal_code": ""
   },
   {
     "code": "9209162005",
     "district_code": "920916",
-    "name": "Sahae"
+    "name": "Sahae",
+    "postal_code": ""
   },
   {
     "code": "9209162006",
     "district_code": "920916",
-    "name": "Hewi"
+    "name": "Hewi",
+    "postal_code": ""
   },
   {
     "code": "9209162007",
     "district_code": "920916",
-    "name": "Sisu"
+    "name": "Sisu",
+    "postal_code": ""
   }
 ]

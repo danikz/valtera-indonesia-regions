@@ -2,31 +2,37 @@
   {
     "code": "8204202001",
     "district_code": "820420",
-    "name": "Pelita"
+    "name": "Pelita",
+    "postal_code": "97791"
   },
   {
     "code": "8204202002",
     "district_code": "820420",
-    "name": "Indong"
+    "name": "Indong",
+    "postal_code": "97791"
   },
   {
     "code": "8204202003",
     "district_code": "820420",
-    "name": "Waya"
+    "name": "Waya",
+    "postal_code": "97791"
   },
   {
     "code": "8204202004",
     "district_code": "820420",
-    "name": "Leleongusu"
+    "name": "Leleongusu",
+    "postal_code": "97791"
   },
   {
     "code": "8204202005",
     "district_code": "820420",
-    "name": "Akedabo"
+    "name": "Akedabo",
+    "postal_code": "97791"
   },
   {
     "code": "8204202006",
     "district_code": "820420",
-    "name": "Bobo"
+    "name": "Bobo",
+    "postal_code": "97792"
   }
 ]

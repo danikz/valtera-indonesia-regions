@@ -2,26 +2,31 @@
   {
     "code": "8103092001",
     "district_code": "810309",
-    "name": "Arma"
+    "name": "Arma",
+    "postal_code": "97463"
   },
   {
     "code": "8103092002",
     "district_code": "810309",
-    "name": "Watmuri"
+    "name": "Watmuri",
+    "postal_code": "97463"
   },
   {
     "code": "8103092003",
     "district_code": "810309",
-    "name": "Manglusi"
+    "name": "Manglusi",
+    "postal_code": "97463"
   },
   {
     "code": "8103092004",
     "district_code": "810309",
-    "name": "Tutukembong"
+    "name": "Tutukembong",
+    "postal_code": "97463"
   },
   {
     "code": "8103092005",
     "district_code": "810309",
-    "name": "Waturu"
+    "name": "Waturu",
+    "postal_code": "97463"
   }
 ]

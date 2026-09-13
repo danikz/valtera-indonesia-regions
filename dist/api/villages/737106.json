@@ -2,61 +2,73 @@
   {
     "code": "7371061001",
     "district_code": "737106",
-    "name": "Malimongan Baru"
+    "name": "Malimongan Baru",
+    "postal_code": "90152"
   },
   {
     "code": "7371061002",
     "district_code": "737106",
-    "name": "Wajo Baru"
+    "name": "Wajo Baru",
+    "postal_code": "90151"
   },
   {
     "code": "7371061003",
     "district_code": "737106",
-    "name": "Gaddong"
+    "name": "Gaddong",
+    "postal_code": "90157"
   },
   {
     "code": "7371061004",
     "district_code": "737106",
-    "name": "Bontoala"
+    "name": "Bontoala",
+    "postal_code": "90156"
   },
   {
     "code": "7371061005",
     "district_code": "737106",
-    "name": "Baraya"
+    "name": "Baraya",
+    "postal_code": "90153"
   },
   {
     "code": "7371061006",
     "district_code": "737106",
-    "name": "Layang"
+    "name": "Layang",
+    "postal_code": "90154"
   },
   {
     "code": "7371061007",
     "district_code": "737106",
-    "name": "Parang Layang"
+    "name": "Parang Layang",
+    "postal_code": "90155"
   },
   {
     "code": "7371061008",
     "district_code": "737106",
-    "name": "Bontoala Tua"
+    "name": "Bontoala Tua",
+    "postal_code": "90156"
   },
   {
     "code": "7371061009",
     "district_code": "737106",
-    "name": "Bontoala Parang"
+    "name": "Bontoala Parang",
+    "postal_code": "90157"
   },
   {
     "code": "7371061010",
     "district_code": "737106",
-    "name": "Tompo Balang"
+    "name": "Tompo Balang",
+    "postal_code": "90151"
   },
   {
     "code": "7371061011",
     "district_code": "737106",
-    "name": "Bunga Ejaya"
+    "name": "Bunga Ejaya",
+    "postal_code": "90154"
   },
   {
     "code": "7371061012",
     "district_code": "737106",
-    "name": "Timungan Lompoa"
+    "name": "Timungan Lompoa",
+    "postal_code": "90151"
   }
 ]

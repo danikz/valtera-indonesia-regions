@@ -2,36 +2,43 @@
   {
     "code": "7306041001",
     "district_code": "730604",
-    "name": "Malino"
+    "name": "Malino",
+    "postal_code": "92178"
   },
   {
     "code": "7306041002",
     "district_code": "730604",
-    "name": "Buluttana"
+    "name": "Buluttana",
+    "postal_code": "92178"
   },
   {
     "code": "7306041003",
     "district_code": "730604",
-    "name": "Gantarang"
+    "name": "Gantarang",
+    "postal_code": "92178"
   },
   {
     "code": "7306041010",
     "district_code": "730604",
-    "name": "Pattapang"
+    "name": "Pattapang",
+    "postal_code": "92178"
   },
   {
     "code": "7306041011",
     "district_code": "730604",
-    "name": "Bonto Lerung"
+    "name": "Bonto Lerung",
+    "postal_code": "92178"
   },
   {
     "code": "7306041012",
     "district_code": "730604",
-    "name": "Garassi"
+    "name": "Garassi",
+    "postal_code": "92178"
   },
   {
     "code": "7306042004",
     "district_code": "730604",
-    "name": "Parigi"
+    "name": "Parigi",
+    "postal_code": "92178"
   }
 ]

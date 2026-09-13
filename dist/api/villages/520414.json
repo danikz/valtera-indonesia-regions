@@ -2,51 +2,61 @@
   {
     "code": "5204142001",
     "district_code": "520414",
-    "name": "Boal"
+    "name": "Boal",
+    "postal_code": "84384"
   },
   {
     "code": "5204142002",
     "district_code": "520414",
-    "name": "Jotang"
+    "name": "Jotang",
+    "postal_code": "84384"
   },
   {
     "code": "5204142003",
     "district_code": "520414",
-    "name": "Empang Atas"
+    "name": "Empang Atas",
+    "postal_code": "84384"
   },
   {
     "code": "5204142004",
     "district_code": "520414",
-    "name": "Empang Bawa"
+    "name": "Empang Bawa",
+    "postal_code": "84384"
   },
   {
     "code": "5204142005",
     "district_code": "520414",
-    "name": "Ongko"
+    "name": "Ongko",
+    "postal_code": "84384"
   },
   {
     "code": "5204142012",
     "district_code": "520414",
-    "name": "Lamenta"
+    "name": "Lamenta",
+    "postal_code": "84384"
   },
   {
     "code": "5204142013",
     "district_code": "520414",
-    "name": "Gapit"
+    "name": "Gapit",
+    "postal_code": "84384"
   },
   {
     "code": "5204142014",
     "district_code": "520414",
-    "name": "Pamanto"
+    "name": "Pamanto",
+    "postal_code": "84384"
   },
   {
     "code": "5204142015",
     "district_code": "520414",
-    "name": "Bunga Eja"
+    "name": "Bunga Eja",
+    "postal_code": "84384"
   },
   {
     "code": "5204142016",
     "district_code": "520414",
-    "name": "Jotang Beru"
+    "name": "Jotang Beru",
+    "postal_code": "84384"
   }
 ]

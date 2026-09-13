@@ -2,51 +2,61 @@
   {
     "code": "7305041001",
     "district_code": "730504",
-    "name": "Panrannuangku"
+    "name": "Panrannuangku",
+    "postal_code": "92221"
   },
   {
     "code": "7305041002",
     "district_code": "730504",
-    "name": "Manongkoki"
+    "name": "Manongkoki",
+    "postal_code": "92221"
   },
   {
     "code": "7305041003",
     "district_code": "730504",
-    "name": "Malewang"
+    "name": "Malewang",
+    "postal_code": "92221"
   },
   {
     "code": "7305041004",
     "district_code": "730504",
-    "name": "Palleko"
+    "name": "Palleko",
+    "postal_code": "92221"
   },
   {
     "code": "7305041005",
     "district_code": "730504",
-    "name": "Mattompodale"
+    "name": "Mattompodale",
+    "postal_code": "92221"
   },
   {
     "code": "7305041006",
     "district_code": "730504",
-    "name": "Parang Luara"
+    "name": "Parang Luara",
+    "postal_code": "92221"
   },
   {
     "code": "7305042007",
     "district_code": "730504",
-    "name": "Lassang"
+    "name": "Lassang",
+    "postal_code": "92221"
   },
   {
     "code": "7305042009",
     "district_code": "730504",
-    "name": "Pa'rappunganta"
+    "name": "Pa'rappunganta",
+    "postal_code": "92221"
   },
   {
     "code": "7305042010",
     "district_code": "730504",
-    "name": "Towata"
+    "name": "Towata",
+    "postal_code": "92221"
   },
   {
     "code": "7305042016",
     "district_code": "730504",
-    "name": "Lassang Barat"
+    "name": "Lassang Barat",
+    "postal_code": "92221"
   }
 ]

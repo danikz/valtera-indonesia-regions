@@ -2,21 +2,25 @@
   {
     "code": "2102111001",
     "district_code": "210211",
-    "name": "Alai"
+    "name": "Alai",
+    "postal_code": "29669"
   },
   {
     "code": "2102112002",
     "district_code": "210211",
-    "name": "Batu Limau"
+    "name": "Batu Limau",
+    "postal_code": "29669"
   },
   {
     "code": "2102112003",
     "district_code": "210211",
-    "name": "Ngal"
+    "name": "Ngal",
+    "postal_code": "29669"
   },
   {
     "code": "2102112004",
     "district_code": "210211",
-    "name": "Sungaibuluh"
+    "name": "Sungaibuluh",
+    "postal_code": "29669"
   }
 ]

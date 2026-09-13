@@ -2,36 +2,43 @@
   {
     "code": "3201402001",
     "district_code": "320140",
-    "name": "Tapos I"
+    "name": "Tapos I",
+    "postal_code": "16371"
   },
   {
     "code": "3201402002",
     "district_code": "320140",
-    "name": "Tapos II"
+    "name": "Tapos II",
+    "postal_code": "16371"
   },
   {
     "code": "3201402003",
     "district_code": "320140",
-    "name": "Cibitung Tengah"
+    "name": "Cibitung Tengah",
+    "postal_code": "16371"
   },
   {
     "code": "3201402004",
     "district_code": "320140",
-    "name": "Situdaun"
+    "name": "Situdaun",
+    "postal_code": "16371"
   },
   {
     "code": "3201402005",
     "district_code": "320140",
-    "name": "Cinangneng"
+    "name": "Cinangneng",
+    "postal_code": "16371"
   },
   {
     "code": "3201402006",
     "district_code": "320140",
-    "name": "Gunung Malang"
+    "name": "Gunung Malang",
+    "postal_code": "16371"
   },
   {
     "code": "3201402007",
     "district_code": "320140",
-    "name": "Gunung Mulya"
+    "name": "Gunung Mulya",
+    "postal_code": "16371"
   }
 ]

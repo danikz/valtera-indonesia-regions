@@ -2,31 +2,37 @@
   {
     "code": "3574011001",
     "district_code": "357401",
-    "name": "Ketapang"
+    "name": "Ketapang",
+    "postal_code": "67222"
   },
   {
     "code": "3574011002",
     "district_code": "357401",
-    "name": "Triwung Lor"
+    "name": "Triwung Lor",
+    "postal_code": "67223"
   },
   {
     "code": "3574011003",
     "district_code": "357401",
-    "name": "Triwung Kidul"
+    "name": "Triwung Kidul",
+    "postal_code": "67224"
   },
   {
     "code": "3574011007",
     "district_code": "357401",
-    "name": "Pohsangit Kidul"
+    "name": "Pohsangit Kidul",
+    "postal_code": "67226"
   },
   {
     "code": "3574011008",
     "district_code": "357401",
-    "name": "Kademangan"
+    "name": "Kademangan",
+    "postal_code": "67225"
   },
   {
     "code": "3574011009",
     "district_code": "357401",
-    "name": "Pilang"
+    "name": "Pilang",
+    "postal_code": "67221"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3204121001",
     "district_code": "320412",
-    "name": "Pasawahan"
+    "name": "Pasawahan",
+    "postal_code": "40256"
   },
   {
     "code": "3204122002",
     "district_code": "320412",
-    "name": "Dayeuhkolot"
+    "name": "Dayeuhkolot",
+    "postal_code": "40258"
   },
   {
     "code": "3204122003",
     "district_code": "320412",
-    "name": "Cangkuang Wetan"
+    "name": "Cangkuang Wetan",
+    "postal_code": "40238"
   },
   {
     "code": "3204122004",
     "district_code": "320412",
-    "name": "Cangkuang Kulon"
+    "name": "Cangkuang Kulon",
+    "postal_code": "40239"
   },
   {
     "code": "3204122005",
     "district_code": "320412",
-    "name": "Sukapura"
+    "name": "Sukapura",
+    "postal_code": "40267"
   },
   {
     "code": "3204122006",
     "district_code": "320412",
-    "name": "Citeureup"
+    "name": "Citeureup",
+    "postal_code": "40257"
   }
 ]

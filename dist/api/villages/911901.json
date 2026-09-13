@@ -2,36 +2,43 @@
   {
     "code": "9119012003",
     "district_code": "911901",
-    "name": "Fanindi"
+    "name": "Fanindi",
+    "postal_code": "98572"
   },
   {
     "code": "9119012004",
     "district_code": "911901",
-    "name": "Odori"
+    "name": "Odori",
+    "postal_code": "98572"
   },
   {
     "code": "9119012010",
     "district_code": "911901",
-    "name": "Biniki"
+    "name": "Biniki",
+    "postal_code": "98572"
   },
   {
     "code": "9119012011",
     "district_code": "911901",
-    "name": "Didiabolo"
+    "name": "Didiabolo",
+    "postal_code": "98572"
   },
   {
     "code": "9119012015",
     "district_code": "911901",
-    "name": "Warbefondi"
+    "name": "Warbefondi",
+    "postal_code": "98572"
   },
   {
     "code": "9119012016",
     "district_code": "911901",
-    "name": "Awaki"
+    "name": "Awaki",
+    "postal_code": "98572"
   },
   {
     "code": "9119012019",
     "district_code": "911901",
-    "name": "Maryaidori"
+    "name": "Maryaidori",
+    "postal_code": "98572"
   }
 ]

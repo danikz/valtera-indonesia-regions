@@ -2,41 +2,49 @@
   {
     "code": "9402042001",
     "district_code": "940204",
-    "name": "Mewoluk"
+    "name": "Mewoluk",
+    "postal_code": "98945"
   },
   {
     "code": "9402042002",
     "district_code": "940204",
-    "name": "Gumbru"
+    "name": "Gumbru",
+    "postal_code": "98979"
   },
   {
     "code": "9402042003",
     "district_code": "940204",
-    "name": "Anggolapaga"
+    "name": "Anggolapaga",
+    "postal_code": "98979"
   },
   {
     "code": "9402042004",
     "district_code": "940204",
-    "name": "Balinggup"
+    "name": "Balinggup",
+    "postal_code": "98979"
   },
   {
     "code": "9402042005",
     "district_code": "940204",
-    "name": "Waliba"
+    "name": "Waliba",
+    "postal_code": "98945"
   },
   {
     "code": "9402042006",
     "district_code": "940204",
-    "name": "Nggininik"
+    "name": "Nggininik",
+    "postal_code": "98979"
   },
   {
     "code": "9402042007",
     "district_code": "940204",
-    "name": "Biak"
+    "name": "Biak",
+    "postal_code": "98945"
   },
   {
     "code": "9402042008",
     "district_code": "940204",
-    "name": "Wutikme"
+    "name": "Wutikme",
+    "postal_code": "98945"
   }
 ]

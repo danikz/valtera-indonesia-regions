@@ -2,21 +2,25 @@
   {
     "code": "3275061001",
     "district_code": "327506",
-    "name": "Medansatria"
+    "name": "Medansatria",
+    "postal_code": "17132"
   },
   {
     "code": "3275061002",
     "district_code": "327506",
-    "name": "Harapanmulya"
+    "name": "Harapanmulya",
+    "postal_code": "17143"
   },
   {
     "code": "3275061003",
     "district_code": "327506",
-    "name": "Pejuang"
+    "name": "Pejuang",
+    "postal_code": "17131"
   },
   {
     "code": "3275061004",
     "district_code": "327506",
-    "name": "Kalibaru"
+    "name": "Kalibaru",
+    "postal_code": "17133"
   }
 ]

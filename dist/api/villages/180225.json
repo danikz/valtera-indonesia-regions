@@ -2,31 +2,37 @@
   {
     "code": "1802252001",
     "district_code": "180225",
-    "name": "Sri Binangun"
+    "name": "Sri Binangun",
+    "postal_code": "34179"
   },
   {
     "code": "1802252002",
     "district_code": "180225",
-    "name": "Sri Bawono"
+    "name": "Sri Bawono",
+    "postal_code": "34179"
   },
   {
     "code": "1802252003",
     "district_code": "180225",
-    "name": "Sri Budaya"
+    "name": "Sri Budaya",
+    "postal_code": "34179"
   },
   {
     "code": "1802252004",
     "district_code": "180225",
-    "name": "Suko Binangun"
+    "name": "Suko Binangun",
+    "postal_code": "34179"
   },
   {
     "code": "1802252005",
     "district_code": "180225",
-    "name": "Sri Busono"
+    "name": "Sri Busono",
+    "postal_code": "34179"
   },
   {
     "code": "1802252006",
     "district_code": "180225",
-    "name": "Sangga Buana"
+    "name": "Sangga Buana",
+    "postal_code": "34179"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "9103022001",
     "district_code": "910302",
-    "name": "Nolokla"
+    "name": "Nolokla",
+    "postal_code": "99359"
   },
   {
     "code": "9103022002",
     "district_code": "910302",
-    "name": "Puai"
+    "name": "Puai",
+    "postal_code": "99359"
   },
   {
     "code": "9103022003",
     "district_code": "910302",
-    "name": "Ayapo"
+    "name": "Ayapo",
+    "postal_code": ""
   },
   {
     "code": "9103022004",
     "district_code": "910302",
-    "name": "Asei Besar"
+    "name": "Asei Besar",
+    "postal_code": "99359"
   },
   {
     "code": "9103022005",
     "district_code": "910302",
-    "name": "Asei Kecil"
+    "name": "Asei Kecil",
+    "postal_code": ""
   },
   {
     "code": "9103022006",
     "district_code": "910302",
-    "name": "Nendali"
+    "name": "Nendali",
+    "postal_code": "99359"
   },
   {
     "code": "9103022007",
     "district_code": "910302",
-    "name": "Yokiwa"
+    "name": "Yokiwa",
+    "postal_code": ""
   }
 ]

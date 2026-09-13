@@ -2,21 +2,25 @@
   {
     "code": "5304221001",
     "district_code": "530422",
-    "name": "Manuaman"
+    "name": "Manuaman",
+    "postal_code": "85718"
   },
   {
     "code": "5304221002",
     "district_code": "530422",
-    "name": "Rinbesi"
+    "name": "Rinbesi",
+    "postal_code": "85718"
   },
   {
     "code": "5304221003",
     "district_code": "530422",
-    "name": "Lidak"
+    "name": "Lidak",
+    "postal_code": "85716"
   },
   {
     "code": "5304221004",
     "district_code": "530422",
-    "name": "Fatukbot"
+    "name": "Fatukbot",
+    "postal_code": "85717"
   }
 ]

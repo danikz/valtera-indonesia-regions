@@ -2,51 +2,61 @@
   {
     "code": "3212032001",
     "district_code": "321203",
-    "name": "Kedung Dawa"
+    "name": "Kedung Dawa",
+    "postal_code": "45263"
   },
   {
     "code": "3212032002",
     "district_code": "321203",
-    "name": "Babakan Jaya"
+    "name": "Babakan Jaya",
+    "postal_code": "45263"
   },
   {
     "code": "3212032003",
     "district_code": "321203",
-    "name": "Gabus Kulon"
+    "name": "Gabus Kulon",
+    "postal_code": "45263"
   },
   {
     "code": "3212032004",
     "district_code": "321203",
-    "name": "Sekar Mulya"
+    "name": "Sekar Mulya",
+    "postal_code": "45263"
   },
   {
     "code": "3212032005",
     "district_code": "321203",
-    "name": "Kedokan Gabus"
+    "name": "Kedokan Gabus",
+    "postal_code": "45263"
   },
   {
     "code": "3212032006",
     "district_code": "321203",
-    "name": "Rancamulya"
+    "name": "Rancamulya",
+    "postal_code": "45263"
   },
   {
     "code": "3212032007",
     "district_code": "321203",
-    "name": "Rancahan"
+    "name": "Rancahan",
+    "postal_code": "45263"
   },
   {
     "code": "3212032008",
     "district_code": "321203",
-    "name": "Gabus Wetan"
+    "name": "Gabus Wetan",
+    "postal_code": "45263"
   },
   {
     "code": "3212032009",
     "district_code": "321203",
-    "name": "Drunten Wetan"
+    "name": "Drunten Wetan",
+    "postal_code": "45263"
   },
   {
     "code": "3212032010",
     "district_code": "321203",
-    "name": "Drunten Kulon"
+    "name": "Drunten Kulon",
+    "postal_code": "45263"
   }
 ]

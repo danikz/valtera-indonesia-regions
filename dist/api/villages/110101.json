@@ -2,36 +2,43 @@
   {
     "code": "1101012001",
     "district_code": "110101",
-    "name": "Keude Bakongan"
+    "name": "Keude Bakongan",
+    "postal_code": "23773"
   },
   {
     "code": "1101012002",
     "district_code": "110101",
-    "name": "Ujong Mangki"
+    "name": "Ujong Mangki",
+    "postal_code": "23773"
   },
   {
     "code": "1101012003",
     "district_code": "110101",
-    "name": "Ujong Padang"
+    "name": "Ujong Padang",
+    "postal_code": "23773"
   },
   {
     "code": "1101012004",
     "district_code": "110101",
-    "name": "Gampong Drien"
+    "name": "Gampong Drien",
+    "postal_code": "23773"
   },
   {
     "code": "1101012015",
     "district_code": "110101",
-    "name": "Darul Ikhsan"
+    "name": "Darul Ikhsan",
+    "postal_code": "23773"
   },
   {
     "code": "1101012016",
     "district_code": "110101",
-    "name": "Padang Beurahan"
+    "name": "Padang Beurahan",
+    "postal_code": "23773"
   },
   {
     "code": "1101012017",
     "district_code": "110101",
-    "name": "Gampong Baro"
+    "name": "Gampong Baro",
+    "postal_code": "23773"
   }
 ]

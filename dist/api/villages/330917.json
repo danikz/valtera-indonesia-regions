@@ -2,66 +2,79 @@
   {
     "code": "3309172001",
     "district_code": "330917",
-    "name": "Watugede"
+    "name": "Watugede",
+    "postal_code": "57383"
   },
   {
     "code": "3309172002",
     "district_code": "330917",
-    "name": "Kedungrejo"
+    "name": "Kedungrejo",
+    "postal_code": "57383"
   },
   {
     "code": "3309172003",
     "district_code": "330917",
-    "name": "Sarimulyo"
+    "name": "Sarimulyo",
+    "postal_code": "57383"
   },
   {
     "code": "3309172004",
     "district_code": "330917",
-    "name": "Klewor"
+    "name": "Klewor",
+    "postal_code": "57383"
   },
   {
     "code": "3309172005",
     "district_code": "330917",
-    "name": "Bawu"
+    "name": "Bawu",
+    "postal_code": "57383"
   },
   {
     "code": "3309172006",
     "district_code": "330917",
-    "name": "Kendel"
+    "name": "Kendel",
+    "postal_code": "57383"
   },
   {
     "code": "3309172007",
     "district_code": "330917",
-    "name": "Kauman"
+    "name": "Kauman",
+    "postal_code": ""
   },
   {
     "code": "3309172008",
     "district_code": "330917",
-    "name": "Lemahireng"
+    "name": "Lemahireng",
+    "postal_code": ""
   },
   {
     "code": "3309172009",
     "district_code": "330917",
-    "name": "Guwo"
+    "name": "Guwo",
+    "postal_code": ""
   },
   {
     "code": "3309172010",
     "district_code": "330917",
-    "name": "Kemusu"
+    "name": "Kemusu",
+    "postal_code": "57383"
   },
   {
     "code": "3309172011",
     "district_code": "330917",
-    "name": "Genengsari"
+    "name": "Genengsari",
+    "postal_code": "57383"
   },
   {
     "code": "3309172012",
     "district_code": "330917",
-    "name": "Kedungmulyo"
+    "name": "Kedungmulyo",
+    "postal_code": "57383"
   },
   {
     "code": "3309172013",
     "district_code": "330917",
-    "name": "Wonoharjo"
+    "name": "Wonoharjo",
+    "postal_code": "57383"
   }
 ]

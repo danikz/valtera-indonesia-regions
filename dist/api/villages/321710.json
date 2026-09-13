@@ -2,51 +2,61 @@
   {
     "code": "3217102001",
     "district_code": "321710",
-    "name": "Cipatik"
+    "name": "Cipatik",
+    "postal_code": "40562"
   },
   {
     "code": "3217102002",
     "district_code": "321710",
-    "name": "Citapen"
+    "name": "Citapen",
+    "postal_code": "40562"
   },
   {
     "code": "3217102003",
     "district_code": "321710",
-    "name": "Cihampelas"
+    "name": "Cihampelas",
+    "postal_code": "40562"
   },
   {
     "code": "3217102004",
     "district_code": "321710",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "40562"
   },
   {
     "code": "3217102005",
     "district_code": "321710",
-    "name": "Mekarmukti"
+    "name": "Mekarmukti",
+    "postal_code": "40562"
   },
   {
     "code": "3217102006",
     "district_code": "321710",
-    "name": "Pataruman"
+    "name": "Pataruman",
+    "postal_code": "40562"
   },
   {
     "code": "3217102007",
     "district_code": "321710",
-    "name": "Situwangi"
+    "name": "Situwangi",
+    "postal_code": "40562"
   },
   {
     "code": "3217102008",
     "district_code": "321710",
-    "name": "Singajaya"
+    "name": "Singajaya",
+    "postal_code": "40562"
   },
   {
     "code": "3217102009",
     "district_code": "321710",
-    "name": "Tanjungwangi"
+    "name": "Tanjungwangi",
+    "postal_code": "40562"
   },
   {
     "code": "3217102010",
     "district_code": "321710",
-    "name": "Tanjungjaya"
+    "name": "Tanjungjaya",
+    "postal_code": "40562"
   }
 ]

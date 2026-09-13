@@ -2,61 +2,73 @@
   {
     "code": "1371011001",
     "district_code": "137101",
-    "name": "Belakang Pondok"
+    "name": "Belakang Pondok",
+    "postal_code": "25211"
   },
   {
     "code": "1371011002",
     "district_code": "137101",
-    "name": "Alang Laweh"
+    "name": "Alang Laweh",
+    "postal_code": "25211"
   },
   {
     "code": "1371011003",
     "district_code": "137101",
-    "name": "Ranah Parak Rumbio"
+    "name": "Ranah Parak Rumbio",
+    "postal_code": "25212"
   },
   {
     "code": "1371011004",
     "district_code": "137101",
-    "name": "Pasa Gadang"
+    "name": "Pasa Gadang",
+    "postal_code": "25213"
   },
   {
     "code": "1371011005",
     "district_code": "137101",
-    "name": "Batang Arau"
+    "name": "Batang Arau",
+    "postal_code": "25215"
   },
   {
     "code": "1371011006",
     "district_code": "137101",
-    "name": "Seberang Palinggam"
+    "name": "Seberang Palinggam",
+    "postal_code": "25215"
   },
   {
     "code": "1371011007",
     "district_code": "137101",
-    "name": "Seberang Padang"
+    "name": "Seberang Padang",
+    "postal_code": "25214"
   },
   {
     "code": "1371011008",
     "district_code": "137101",
-    "name": "Mata Air"
+    "name": "Mata Air",
+    "postal_code": "25216"
   },
   {
     "code": "1371011009",
     "district_code": "137101",
-    "name": "Rawang"
+    "name": "Rawang",
+    "postal_code": "25216"
   },
   {
     "code": "1371011010",
     "district_code": "137101",
-    "name": "Teluk Bayur"
+    "name": "Teluk Bayur",
+    "postal_code": "25217"
   },
   {
     "code": "1371011011",
     "district_code": "137101",
-    "name": "Air Manis"
+    "name": "Air Manis",
+    "postal_code": "25217"
   },
   {
     "code": "1371011012",
     "district_code": "137101",
-    "name": "Bukit Gado-gado"
+    "name": "Bukit Gado-gado",
+    "postal_code": "25215"
   }
 ]

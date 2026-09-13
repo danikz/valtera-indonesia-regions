@@ -2,26 +2,31 @@
   {
     "code": "8101171001",
     "district_code": "810117",
-    "name": "Namaelo"
+    "name": "Namaelo",
+    "postal_code": "97511"
   },
   {
     "code": "8101171002",
     "district_code": "810117",
-    "name": "Namasina"
+    "name": "Namasina",
+    "postal_code": "97512"
   },
   {
     "code": "8101171003",
     "district_code": "810117",
-    "name": "Ampera"
+    "name": "Ampera",
+    "postal_code": "97513"
   },
   {
     "code": "8101171004",
     "district_code": "810117",
-    "name": "Lesane"
+    "name": "Lesane",
+    "postal_code": "97514"
   },
   {
     "code": "8101171005",
     "district_code": "810117",
-    "name": "Letwaru"
+    "name": "Letwaru",
+    "postal_code": "97515"
   }
 ]

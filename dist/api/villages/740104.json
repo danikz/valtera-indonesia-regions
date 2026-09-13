@@ -2,36 +2,43 @@
   {
     "code": "7401041001",
     "district_code": "740104",
-    "name": "Lamokato"
+    "name": "Lamokato",
+    "postal_code": "93511"
   },
   {
     "code": "7401041002",
     "district_code": "740104",
-    "name": "Watuliandu"
+    "name": "Watuliandu",
+    "postal_code": "93515"
   },
   {
     "code": "7401041003",
     "district_code": "740104",
-    "name": "Balandete"
+    "name": "Balandete",
+    "postal_code": "93517"
   },
   {
     "code": "7401041004",
     "district_code": "740104",
-    "name": "Lalombaa"
+    "name": "Lalombaa",
+    "postal_code": "93518"
   },
   {
     "code": "7401041005",
     "district_code": "740104",
-    "name": "Sabilambo"
+    "name": "Sabilambo",
+    "postal_code": "93519"
   },
   {
     "code": "7401041006",
     "district_code": "740104",
-    "name": "Laloeha"
+    "name": "Laloeha",
+    "postal_code": "93511"
   },
   {
     "code": "7401041007",
     "district_code": "740104",
-    "name": "Tahoa"
+    "name": "Tahoa",
+    "postal_code": "93511"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "5272021004",
     "district_code": "527202",
-    "name": "Kumbe"
+    "name": "Kumbe",
+    "postal_code": "84114"
   },
   {
     "code": "5272021008",
     "district_code": "527202",
-    "name": "Lampe"
+    "name": "Lampe",
+    "postal_code": "84119"
   },
   {
     "code": "5272021009",
     "district_code": "527202",
-    "name": "Dodu"
+    "name": "Dodu",
+    "postal_code": "84119"
   },
   {
     "code": "5272021011",
     "district_code": "527202",
-    "name": "Nungga"
+    "name": "Nungga",
+    "postal_code": "84119"
   },
   {
     "code": "5272021018",
     "district_code": "527202",
-    "name": "Kodo"
+    "name": "Kodo",
+    "postal_code": "84119"
   },
   {
     "code": "5272021019",
     "district_code": "527202",
-    "name": "Oi Fo'o"
+    "name": "Oi Fo'o",
+    "postal_code": "84119"
   },
   {
     "code": "5272021020",
     "district_code": "527202",
-    "name": "Lelamase"
+    "name": "Lelamase",
+    "postal_code": "84119"
   },
   {
     "code": "5272021021",
     "district_code": "527202",
-    "name": "Oimbo"
+    "name": "Oimbo",
+    "postal_code": "84114"
   }
 ]

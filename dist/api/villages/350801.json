@@ -2,36 +2,43 @@
   {
     "code": "3508012001",
     "district_code": "350801",
-    "name": "Tegalrejo"
+    "name": "Tegalrejo",
+    "postal_code": "67375"
   },
   {
     "code": "3508012002",
     "district_code": "350801",
-    "name": "Bulurejo"
+    "name": "Bulurejo",
+    "postal_code": "67375"
   },
   {
     "code": "3508012003",
     "district_code": "350801",
-    "name": "Purorejo"
+    "name": "Purorejo",
+    "postal_code": "67375"
   },
   {
     "code": "3508012004",
     "district_code": "350801",
-    "name": "Tempurejo"
+    "name": "Tempurejo",
+    "postal_code": "67375"
   },
   {
     "code": "3508012005",
     "district_code": "350801",
-    "name": "Tempursari"
+    "name": "Tempursari",
+    "postal_code": "67375"
   },
   {
     "code": "3508012006",
     "district_code": "350801",
-    "name": "Pundungsari"
+    "name": "Pundungsari",
+    "postal_code": "67375"
   },
   {
     "code": "3508012007",
     "district_code": "350801",
-    "name": "Kaliuling"
+    "name": "Kaliuling",
+    "postal_code": "67375"
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "1214192001",
     "district_code": "121419",
-    "name": "Sambulu"
+    "name": "Sambulu",
+    "postal_code": "22867"
   },
   {
     "code": "1214192002",
     "district_code": "121419",
-    "name": "Orahili Ulunoyo"
+    "name": "Orahili Ulunoyo",
+    "postal_code": "22867"
   },
   {
     "code": "1214192003",
     "district_code": "121419",
-    "name": "Hiliwaebu"
+    "name": "Hiliwaebu",
+    "postal_code": "22867"
   },
   {
     "code": "1214192004",
     "district_code": "121419",
-    "name": "Amorosa"
+    "name": "Amorosa",
+    "postal_code": "22867"
   },
   {
     "code": "1214192005",
     "district_code": "121419",
-    "name": "Marao"
+    "name": "Marao",
+    "postal_code": "22867"
   },
   {
     "code": "1214192006",
     "district_code": "121419",
-    "name": "Borowosi"
+    "name": "Borowosi",
+    "postal_code": "22867"
   },
   {
     "code": "1214192007",
     "district_code": "121419",
-    "name": "Hilimaera"
+    "name": "Hilimaera",
+    "postal_code": "22867"
   },
   {
     "code": "1214192008",
     "district_code": "121419",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "22867"
   },
   {
     "code": "1214192009",
     "district_code": "121419",
-    "name": "Loloana'a"
+    "name": "Loloana'a",
+    "postal_code": "22867"
   },
   {
     "code": "1214192010",
     "district_code": "121419",
-    "name": "Hilifakhe"
+    "name": "Hilifakhe",
+    "postal_code": "22867"
   },
   {
     "code": "1214192011",
     "district_code": "121419",
-    "name": "Bawo Lolomatua"
+    "name": "Bawo Lolomatua",
+    "postal_code": "22867"
   },
   {
     "code": "1214192012",
     "district_code": "121419",
-    "name": "Ambukha I"
+    "name": "Ambukha I",
+    "postal_code": "22867"
   },
   {
     "code": "1214192013",
     "district_code": "121419",
-    "name": "Puncak Lolomatua"
+    "name": "Puncak Lolomatua",
+    "postal_code": "22867"
   }
 ]

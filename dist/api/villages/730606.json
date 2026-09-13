@@ -2,46 +2,55 @@
   {
     "code": "7306061001",
     "district_code": "730606",
-    "name": "Borongloe"
+    "name": "Borongloe",
+    "postal_code": "92171"
   },
   {
     "code": "7306061002",
     "district_code": "730606",
-    "name": "Bontomanai"
+    "name": "Bontomanai",
+    "postal_code": "92171"
   },
   {
     "code": "7306061012",
     "district_code": "730606",
-    "name": "Romang Lompoa"
+    "name": "Romang Lompoa",
+    "postal_code": "92171"
   },
   {
     "code": "7306062003",
     "district_code": "730606",
-    "name": "Pakatto"
+    "name": "Pakatto",
+    "postal_code": "92171"
   },
   {
     "code": "7306062004",
     "district_code": "730606",
-    "name": "Nirannuang"
+    "name": "Nirannuang",
+    "postal_code": "92171"
   },
   {
     "code": "7306062005",
     "district_code": "730606",
-    "name": "Romangloe"
+    "name": "Romangloe",
+    "postal_code": "92171"
   },
   {
     "code": "7306062006",
     "district_code": "730606",
-    "name": "Sokkolia"
+    "name": "Sokkolia",
+    "postal_code": "92171"
   },
   {
     "code": "7306062013",
     "district_code": "730606",
-    "name": "Mata Allo"
+    "name": "Mata Allo",
+    "postal_code": "92171"
   },
   {
     "code": "7306062014",
     "district_code": "730606",
-    "name": "Bili-bili"
+    "name": "Bili-bili",
+    "postal_code": "92171"
   }
 ]

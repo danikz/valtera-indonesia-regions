@@ -2,51 +2,61 @@
   {
     "code": "1215022001",
     "district_code": "121502",
-    "name": "Sukaramai"
+    "name": "Sukaramai",
+    "postal_code": "22271"
   },
   {
     "code": "1215022002",
     "district_code": "121502",
-    "name": "Kuta Saga"
+    "name": "Kuta Saga",
+    "postal_code": "22271"
   },
   {
     "code": "1215022003",
     "district_code": "121502",
-    "name": "Kuta Meriah"
+    "name": "Kuta Meriah",
+    "postal_code": "22271"
   },
   {
     "code": "1215022004",
     "district_code": "121502",
-    "name": "Kuta Dame"
+    "name": "Kuta Dame",
+    "postal_code": "22271"
   },
   {
     "code": "1215022005",
     "district_code": "121502",
-    "name": "Perpulungen"
+    "name": "Perpulungen",
+    "postal_code": "22271"
   },
   {
     "code": "1215022006",
     "district_code": "121502",
-    "name": "Pardomuan"
+    "name": "Pardomuan",
+    "postal_code": "22271"
   },
   {
     "code": "1215022014",
     "district_code": "121502",
-    "name": "Majanggut I"
+    "name": "Majanggut I",
+    "postal_code": "22271"
   },
   {
     "code": "1215022015",
     "district_code": "121502",
-    "name": "Majanggut II"
+    "name": "Majanggut II",
+    "postal_code": "22271"
   },
   {
     "code": "1215022016",
     "district_code": "121502",
-    "name": "Surung Mersada"
+    "name": "Surung Mersada",
+    "postal_code": "22271"
   },
   {
     "code": "1215022021",
     "district_code": "121502",
-    "name": "Perduhapen"
+    "name": "Perduhapen",
+    "postal_code": "22271"
   }
 ]

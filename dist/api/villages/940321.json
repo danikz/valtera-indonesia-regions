@@ -2,26 +2,31 @@
   {
     "code": "9403212001",
     "district_code": "940321",
-    "name": "Dogomo"
+    "name": "Dogomo",
+    "postal_code": "98742"
   },
   {
     "code": "9403212002",
     "district_code": "940321",
-    "name": "Bomog Budoga"
+    "name": "Bomog Budoga",
+    "postal_code": "98742"
   },
   {
     "code": "9403212003",
     "district_code": "940321",
-    "name": "Danggipa"
+    "name": "Danggipa",
+    "postal_code": "98742"
   },
   {
     "code": "9403212004",
     "district_code": "940321",
-    "name": "Odegapa"
+    "name": "Odegapa",
+    "postal_code": "98742"
   },
   {
     "code": "9403212005",
     "district_code": "940321",
-    "name": "Sogomo"
+    "name": "Sogomo",
+    "postal_code": "98742"
   }
 ]

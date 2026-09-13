@@ -2,26 +2,31 @@
   {
     "code": "9501142001",
     "district_code": "950114",
-    "name": "Walaik"
+    "name": "Walaik",
+    "postal_code": "99509"
   },
   {
     "code": "9501142002",
     "district_code": "950114",
-    "name": "Elarek"
+    "name": "Elarek",
+    "postal_code": "99509"
   },
   {
     "code": "9501142003",
     "district_code": "950114",
-    "name": "Holima"
+    "name": "Holima",
+    "postal_code": "99509"
   },
   {
     "code": "9501142004",
     "district_code": "950114",
-    "name": "Yelai"
+    "name": "Yelai",
+    "postal_code": "99509"
   },
   {
     "code": "9501142005",
     "district_code": "950114",
-    "name": "Welekama"
+    "name": "Welekama",
+    "postal_code": "99509"
   }
 ]

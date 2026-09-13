@@ -2,46 +2,55 @@
   {
     "code": "8107052001",
     "district_code": "810705",
-    "name": "Kabalsiang"
+    "name": "Kabalsiang",
+    "postal_code": "97663"
   },
   {
     "code": "8107052002",
     "district_code": "810705",
-    "name": "Benjuring"
+    "name": "Benjuring",
+    "postal_code": "97663"
   },
   {
     "code": "8107052003",
     "district_code": "810705",
-    "name": "Batuley"
+    "name": "Batuley",
+    "postal_code": "97663"
   },
   {
     "code": "8107052004",
     "district_code": "810705",
-    "name": "Kumul"
+    "name": "Kumul",
+    "postal_code": "97663"
   },
   {
     "code": "8107052005",
     "district_code": "810705",
-    "name": "Waria"
+    "name": "Waria",
+    "postal_code": "97663"
   },
   {
     "code": "8107052006",
     "district_code": "810705",
-    "name": "Sewer"
+    "name": "Sewer",
+    "postal_code": "97663"
   },
   {
     "code": "8107052007",
     "district_code": "810705",
-    "name": "Jursiang"
+    "name": "Jursiang",
+    "postal_code": "97663"
   },
   {
     "code": "8107052008",
     "district_code": "810705",
-    "name": "Kompane"
+    "name": "Kompane",
+    "postal_code": "97663"
   },
   {
     "code": "8107052009",
     "district_code": "810705",
-    "name": "Kobamar"
+    "name": "Kobamar",
+    "postal_code": "97663"
   }
 ]

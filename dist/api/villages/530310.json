@@ -2,21 +2,25 @@
   {
     "code": "5303102001",
     "district_code": "530310",
-    "name": "Naob"
+    "name": "Naob",
+    "postal_code": "85665"
   },
   {
     "code": "5303102002",
     "district_code": "530310",
-    "name": "Haekto"
+    "name": "Haekto",
+    "postal_code": "85665"
   },
   {
     "code": "5303102003",
     "district_code": "530310",
-    "name": "Manikin"
+    "name": "Manikin",
+    "postal_code": "85665"
   },
   {
     "code": "5303102004",
     "district_code": "530310",
-    "name": "Kuaken"
+    "name": "Kuaken",
+    "postal_code": "85665"
   }
 ]

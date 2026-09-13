@@ -2,101 +2,121 @@
   {
     "code": "9210022001",
     "district_code": "921002",
-    "name": "Ayawasi"
+    "name": "Ayawasi",
+    "postal_code": ""
   },
   {
     "code": "9210022002",
     "district_code": "921002",
-    "name": "Ayawasi Selatan"
+    "name": "Ayawasi Selatan",
+    "postal_code": ""
   },
   {
     "code": "9210022003",
     "district_code": "921002",
-    "name": "Ayawasi Timur"
+    "name": "Ayawasi Timur",
+    "postal_code": ""
   },
   {
     "code": "9210022004",
     "district_code": "921002",
-    "name": "Susai"
+    "name": "Susai",
+    "postal_code": ""
   },
   {
     "code": "9210022005",
     "district_code": "921002",
-    "name": "Fonatu"
+    "name": "Fonatu",
+    "postal_code": ""
   },
   {
     "code": "9210022006",
     "district_code": "921002",
-    "name": "Mosun"
+    "name": "Mosun",
+    "postal_code": ""
   },
   {
     "code": "9210022007",
     "district_code": "921002",
-    "name": "Wayane"
+    "name": "Wayane",
+    "postal_code": ""
   },
   {
     "code": "9210022008",
     "district_code": "921002",
-    "name": "Konja"
+    "name": "Konja",
+    "postal_code": ""
   },
   {
     "code": "9210022009",
     "district_code": "921002",
-    "name": "Yarat"
+    "name": "Yarat",
+    "postal_code": ""
   },
   {
     "code": "9210022010",
     "district_code": "921002",
-    "name": "Man"
+    "name": "Man",
+    "postal_code": ""
   },
   {
     "code": "9210022011",
     "district_code": "921002",
-    "name": "Howait"
+    "name": "Howait",
+    "postal_code": ""
   },
   {
     "code": "9210022012",
     "district_code": "921002",
-    "name": "Haenkanes"
+    "name": "Haenkanes",
+    "postal_code": ""
   },
   {
     "code": "9210022013",
     "district_code": "921002",
-    "name": "Konja Barat"
+    "name": "Konja Barat",
+    "postal_code": ""
   },
   {
     "code": "9210022014",
     "district_code": "921002",
-    "name": "Yarat Timur"
+    "name": "Yarat Timur",
+    "postal_code": ""
   },
   {
     "code": "9210022015",
     "district_code": "921002",
-    "name": "Raha"
+    "name": "Raha",
+    "postal_code": ""
   },
   {
     "code": "9210022016",
     "district_code": "921002",
-    "name": "Mowes"
+    "name": "Mowes",
+    "postal_code": ""
   },
   {
     "code": "9210022017",
     "district_code": "921002",
-    "name": "Irata"
+    "name": "Irata",
+    "postal_code": ""
   },
   {
     "code": "9210022018",
     "district_code": "921002",
-    "name": "Neset"
+    "name": "Neset",
+    "postal_code": ""
   },
   {
     "code": "9210022019",
     "district_code": "921002",
-    "name": "Mosun Timur"
+    "name": "Mosun Timur",
+    "postal_code": ""
   },
   {
     "code": "9210022020",
     "district_code": "921002",
-    "name": "Mosun Utara"
+    "name": "Mosun Utara",
+    "postal_code": ""
   }
 ]

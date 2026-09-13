@@ -2,46 +2,55 @@
   {
     "code": "9105122001",
     "district_code": "910512",
-    "name": "Kaonda"
+    "name": "Kaonda",
+    "postal_code": "98651"
   },
   {
     "code": "9105122002",
     "district_code": "910512",
-    "name": "Windesi"
+    "name": "Windesi",
+    "postal_code": "98651"
   },
   {
     "code": "9105122003",
     "district_code": "910512",
-    "name": "Munggui"
+    "name": "Munggui",
+    "postal_code": "98651"
   },
   {
     "code": "9105122004",
     "district_code": "910512",
-    "name": "Karawi"
+    "name": "Karawi",
+    "postal_code": "98651"
   },
   {
     "code": "9105122005",
     "district_code": "910512",
-    "name": "Asai"
+    "name": "Asai",
+    "postal_code": "98651"
   },
   {
     "code": "9105122006",
     "district_code": "910512",
-    "name": "Rosbori"
+    "name": "Rosbori",
+    "postal_code": "98651"
   },
   {
     "code": "9105122007",
     "district_code": "910512",
-    "name": "Waisani"
+    "name": "Waisani",
+    "postal_code": "98651"
   },
   {
     "code": "9105122008",
     "district_code": "910512",
-    "name": "Saruman"
+    "name": "Saruman",
+    "postal_code": "98651"
   },
   {
     "code": "9105122009",
     "district_code": "910512",
-    "name": "Aryobu"
+    "name": "Aryobu",
+    "postal_code": "98651"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "5321102001",
     "district_code": "532110",
-    "name": "Alas Utara"
+    "name": "Alas Utara",
+    "postal_code": "85767"
   },
   {
     "code": "5321102002",
     "district_code": "532110",
-    "name": "Kotabiru"
+    "name": "Kotabiru",
+    "postal_code": "85767"
   },
   {
     "code": "5321102003",
     "district_code": "532110",
-    "name": "Alas"
+    "name": "Alas",
+    "postal_code": "85767"
   },
   {
     "code": "5321102004",
     "district_code": "532110",
-    "name": "Alas Selatan"
+    "name": "Alas Selatan",
+    "postal_code": "85767"
   }
 ]

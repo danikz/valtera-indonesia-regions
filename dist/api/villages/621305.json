@@ -2,41 +2,49 @@
   {
     "code": "6213051011",
     "district_code": "621305",
-    "name": "Ampah Kota"
+    "name": "Ampah Kota",
+    "postal_code": "73652"
   },
   {
     "code": "6213052008",
     "district_code": "621305",
-    "name": "Saing"
+    "name": "Saing",
+    "postal_code": "73652"
   },
   {
     "code": "6213052009",
     "district_code": "621305",
-    "name": "Rodok"
+    "name": "Rodok",
+    "postal_code": "73652"
   },
   {
     "code": "6213052010",
     "district_code": "621305",
-    "name": "Ampah II"
+    "name": "Ampah II",
+    "postal_code": "73652"
   },
   {
     "code": "6213052012",
     "district_code": "621305",
-    "name": "Putai"
+    "name": "Putai",
+    "postal_code": "73652"
   },
   {
     "code": "6213052018",
     "district_code": "621305",
-    "name": "Netampin"
+    "name": "Netampin",
+    "postal_code": "73652"
   },
   {
     "code": "6213052024",
     "district_code": "621305",
-    "name": "Sumber Garunggung"
+    "name": "Sumber Garunggung",
+    "postal_code": "73652"
   },
   {
     "code": "6213052025",
     "district_code": "621305",
-    "name": "Muara Awang"
+    "name": "Muara Awang",
+    "postal_code": "73652"
   }
 ]

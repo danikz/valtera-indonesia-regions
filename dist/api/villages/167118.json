@@ -2,31 +2,37 @@
   {
     "code": "1671181001",
     "district_code": "167118",
-    "name": "8 Ilir"
+    "name": "8 Ilir",
+    "postal_code": "30114"
   },
   {
     "code": "1671181002",
     "district_code": "167118",
-    "name": "9 Ilir"
+    "name": "9 Ilir",
+    "postal_code": "30113"
   },
   {
     "code": "1671181003",
     "district_code": "167118",
-    "name": "10 Ilir"
+    "name": "10 Ilir",
+    "postal_code": "30111"
   },
   {
     "code": "1671181004",
     "district_code": "167118",
-    "name": "11 Ilir"
+    "name": "11 Ilir",
+    "postal_code": "30112"
   },
   {
     "code": "1671181005",
     "district_code": "167118",
-    "name": "Kuto Batu"
+    "name": "Kuto Batu",
+    "postal_code": "30111"
   },
   {
     "code": "1671181006",
     "district_code": "167118",
-    "name": "Duku"
+    "name": "Duku",
+    "postal_code": "30111"
   }
 ]

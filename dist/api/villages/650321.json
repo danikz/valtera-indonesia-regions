@@ -2,51 +2,61 @@
   {
     "code": "6503212001",
     "district_code": "650321",
-    "name": "Tau Lumbis"
+    "name": "Tau Lumbis",
+    "postal_code": "77450"
   },
   {
     "code": "6503212002",
     "district_code": "650321",
-    "name": "Lipaga"
+    "name": "Lipaga",
+    "postal_code": "77450"
   },
   {
     "code": "6503212003",
     "district_code": "650321",
-    "name": "Bululaun Hulu"
+    "name": "Bululaun Hulu",
+    "postal_code": "77450"
   },
   {
     "code": "6503212004",
     "district_code": "650321",
-    "name": "Kalisun"
+    "name": "Kalisun",
+    "postal_code": "77450"
   },
   {
     "code": "6503212005",
     "district_code": "650321",
-    "name": "Mamasin"
+    "name": "Mamasin",
+    "postal_code": "77450"
   },
   {
     "code": "6503212006",
     "district_code": "650321",
-    "name": "Sibalu"
+    "name": "Sibalu",
+    "postal_code": "77450"
   },
   {
     "code": "6503212007",
     "district_code": "650321",
-    "name": "Duyan"
+    "name": "Duyan",
+    "postal_code": "77450"
   },
   {
     "code": "6503212008",
     "district_code": "650321",
-    "name": "Tuntulibing"
+    "name": "Tuntulibing",
+    "postal_code": "77450"
   },
   {
     "code": "6503212009",
     "district_code": "650321",
-    "name": "Tetagas"
+    "name": "Tetagas",
+    "postal_code": "77450"
   },
   {
     "code": "6503212010",
     "district_code": "650321",
-    "name": "Kabungolor"
+    "name": "Kabungolor",
+    "postal_code": "77450"
   }
 ]

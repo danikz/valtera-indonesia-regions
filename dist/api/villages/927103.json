@@ -2,21 +2,25 @@
   {
     "code": "9271031002",
     "district_code": "927103",
-    "name": "Rufei"
+    "name": "Rufei",
+    "postal_code": ""
   },
   {
     "code": "9271031005",
     "district_code": "927103",
-    "name": "Klawasi"
+    "name": "Klawasi",
+    "postal_code": ""
   },
   {
     "code": "9271031006",
     "district_code": "927103",
-    "name": "Puncak Cendrawasih"
+    "name": "Puncak Cendrawasih",
+    "postal_code": ""
   },
   {
     "code": "9271031007",
     "district_code": "927103",
-    "name": "Pal Putih"
+    "name": "Pal Putih",
+    "postal_code": ""
   }
 ]

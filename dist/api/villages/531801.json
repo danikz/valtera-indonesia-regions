@@ -2,56 +2,67 @@
   {
     "code": "5318012001",
     "district_code": "531801",
-    "name": "Bondo Boghila"
+    "name": "Bondo Boghila",
+    "postal_code": "87254"
   },
   {
     "code": "5318012002",
     "district_code": "531801",
-    "name": "Lete Konda"
+    "name": "Lete Konda",
+    "postal_code": "87254"
   },
   {
     "code": "5318012003",
     "district_code": "531801",
-    "name": "Karuni"
+    "name": "Karuni",
+    "postal_code": "87254"
   },
   {
     "code": "5318012004",
     "district_code": "531801",
-    "name": "Totok"
+    "name": "Totok",
+    "postal_code": "87254"
   },
   {
     "code": "5318012009",
     "district_code": "531801",
-    "name": "Rama Dana"
+    "name": "Rama Dana",
+    "postal_code": "87254"
   },
   {
     "code": "5318012010",
     "district_code": "531801",
-    "name": "Wee Mananda"
+    "name": "Wee Mananda",
+    "postal_code": "87254"
   },
   {
     "code": "5318012013",
     "district_code": "531801",
-    "name": "Pogo Tena"
+    "name": "Pogo Tena",
+    "postal_code": "87254"
   },
   {
     "code": "5318012014",
     "district_code": "531801",
-    "name": "Payola Umbu"
+    "name": "Payola Umbu",
+    "postal_code": "87254"
   },
   {
     "code": "5318012015",
     "district_code": "531801",
-    "name": "Wee Kambala"
+    "name": "Wee Kambala",
+    "postal_code": "87254"
   },
   {
     "code": "5318012016",
     "district_code": "531801",
-    "name": "Loko Kalada"
+    "name": "Loko Kalada",
+    "postal_code": "87254"
   },
   {
     "code": "5318012017",
     "district_code": "531801",
-    "name": "Lete Konda Selatan"
+    "name": "Lete Konda Selatan",
+    "postal_code": "87254"
   }
 ]

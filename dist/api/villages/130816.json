@@ -2,21 +2,25 @@
   {
     "code": "1308162001",
     "district_code": "130816",
-    "name": "Alahan Mati"
+    "name": "Alahan Mati",
+    "postal_code": "26382"
   },
   {
     "code": "1308162002",
     "district_code": "130816",
-    "name": "Simpang"
+    "name": "Simpang",
+    "postal_code": "26382"
   },
   {
     "code": "1308162003",
     "district_code": "130816",
-    "name": "Alahan Mati Hilia"
+    "name": "Alahan Mati Hilia",
+    "postal_code": "26382"
   },
   {
     "code": "1308162004",
     "district_code": "130816",
-    "name": "Simpang Utara"
+    "name": "Simpang Utara",
+    "postal_code": "26382"
   }
 ]

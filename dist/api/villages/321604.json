@@ -2,36 +2,43 @@
   {
     "code": "3216042001",
     "district_code": "321604",
-    "name": "Sukawijaya"
+    "name": "Sukawijaya",
+    "postal_code": "17621"
   },
   {
     "code": "3216042002",
     "district_code": "321604",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "17621"
   },
   {
     "code": "3216042003",
     "district_code": "321604",
-    "name": "Sukaraja"
+    "name": "Sukaraja",
+    "postal_code": "17621"
   },
   {
     "code": "3216042004",
     "district_code": "321604",
-    "name": "Sukarapih"
+    "name": "Sukarapih",
+    "postal_code": "17621"
   },
   {
     "code": "3216042005",
     "district_code": "321604",
-    "name": "Sukarahayu"
+    "name": "Sukarahayu",
+    "postal_code": "17621"
   },
   {
     "code": "3216042006",
     "district_code": "321604",
-    "name": "Sukamantri"
+    "name": "Sukamantri",
+    "postal_code": "17621"
   },
   {
     "code": "3216042007",
     "district_code": "321604",
-    "name": "Sukabakti"
+    "name": "Sukabakti",
+    "postal_code": "17621"
   }
 ]

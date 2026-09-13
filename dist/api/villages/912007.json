@@ -2,41 +2,49 @@
   {
     "code": "9120072001",
     "district_code": "912007",
-    "name": "Kamai"
+    "name": "Kamai",
+    "postal_code": "98683"
   },
   {
     "code": "9120072002",
     "district_code": "912007",
-    "name": "Dadat"
+    "name": "Dadat",
+    "postal_code": "98683"
   },
   {
     "code": "9120072003",
     "district_code": "912007",
-    "name": "Kerema"
+    "name": "Kerema",
+    "postal_code": "98683"
   },
   {
     "code": "9120072004",
     "district_code": "912007",
-    "name": "Taya"
+    "name": "Taya",
+    "postal_code": ""
   },
   {
     "code": "9120072005",
     "district_code": "912007",
-    "name": "Teuw"
+    "name": "Teuw",
+    "postal_code": "98683"
   },
   {
     "code": "9120072006",
     "district_code": "912007",
-    "name": "Watiaro"
+    "name": "Watiaro",
+    "postal_code": "98683"
   },
   {
     "code": "9120072007",
     "district_code": "912007",
-    "name": "Gesa Baru"
+    "name": "Gesa Baru",
+    "postal_code": "98683"
   },
   {
     "code": "9120072008",
     "district_code": "912007",
-    "name": "Baitanisa"
+    "name": "Baitanisa",
+    "postal_code": "98683"
   }
 ]

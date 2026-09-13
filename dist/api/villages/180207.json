@@ -2,51 +2,61 @@
   {
     "code": "1802071002",
     "district_code": "180207",
-    "name": "Bandar Jaya Timur"
+    "name": "Bandar Jaya Timur",
+    "postal_code": "34163"
   },
   {
     "code": "1802071003",
     "district_code": "180207",
-    "name": "Bandar Jaya Barat"
+    "name": "Bandar Jaya Barat",
+    "postal_code": "34163"
   },
   {
     "code": "1802071004",
     "district_code": "180207",
-    "name": "Yukum Jaya"
+    "name": "Yukum Jaya",
+    "postal_code": "34163"
   },
   {
     "code": "1802072001",
     "district_code": "180207",
-    "name": "Adi Jaya"
+    "name": "Adi Jaya",
+    "postal_code": "34163"
   },
   {
     "code": "1802072005",
     "district_code": "180207",
-    "name": "Indra Putra Subing"
+    "name": "Indra Putra Subing",
+    "postal_code": "34163"
   },
   {
     "code": "1802072006",
     "district_code": "180207",
-    "name": "Karang Endah"
+    "name": "Karang Endah",
+    "postal_code": "34163"
   },
   {
     "code": "1802072007",
     "district_code": "180207",
-    "name": "Nambah Dadi"
+    "name": "Nambah Dadi",
+    "postal_code": "34163"
   },
   {
     "code": "1802072008",
     "district_code": "180207",
-    "name": "Ono Harjo"
+    "name": "Ono Harjo",
+    "postal_code": "34163"
   },
   {
     "code": "1802072009",
     "district_code": "180207",
-    "name": "Terbanggi Besar"
+    "name": "Terbanggi Besar",
+    "postal_code": "34163"
   },
   {
     "code": "1802072010",
     "district_code": "180207",
-    "name": "Poncowati"
+    "name": "Poncowati",
+    "postal_code": "34163"
   }
 ]

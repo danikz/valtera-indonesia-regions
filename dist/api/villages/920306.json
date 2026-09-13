@@ -2,36 +2,43 @@
   {
     "code": "9203062001",
     "district_code": "920306",
-    "name": "Malakuli"
+    "name": "Malakuli",
+    "postal_code": "98032"
   },
   {
     "code": "9203062002",
     "district_code": "920306",
-    "name": "Faur"
+    "name": "Faur",
+    "postal_code": "98032"
   },
   {
     "code": "9203062003",
     "district_code": "920306",
-    "name": "Kiaba"
+    "name": "Kiaba",
+    "postal_code": "98032"
   },
   {
     "code": "9203062004",
     "district_code": "920306",
-    "name": "Antalisa"
+    "name": "Antalisa",
+    "postal_code": "98032"
   },
   {
     "code": "9203062005",
     "district_code": "920306",
-    "name": "Tarak"
+    "name": "Tarak",
+    "postal_code": "98032"
   },
   {
     "code": "9203062006",
     "district_code": "920306",
-    "name": "Tuberwasak"
+    "name": "Tuberwasak",
+    "postal_code": "98032"
   },
   {
     "code": "9203062007",
     "district_code": "920306",
-    "name": "Mas"
+    "name": "Mas",
+    "postal_code": "98032"
   }
 ]

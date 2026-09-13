@@ -2,61 +2,73 @@
   {
     "code": "1202022001",
     "district_code": "120202",
-    "name": "Siraja Hutagalung"
+    "name": "Siraja Hutagalung",
+    "postal_code": "22417"
   },
   {
     "code": "1202022002",
     "district_code": "120202",
-    "name": "Pansur Napitu"
+    "name": "Pansur Napitu",
+    "postal_code": "22419"
   },
   {
     "code": "1202022003",
     "district_code": "120202",
-    "name": "Simanampang"
+    "name": "Simanampang",
+    "postal_code": "22417"
   },
   {
     "code": "1202022004",
     "district_code": "120202",
-    "name": "Sidagal"
+    "name": "Sidagal",
+    "postal_code": "22417"
   },
   {
     "code": "1202022005",
     "district_code": "120202",
-    "name": "Simarakir Julu"
+    "name": "Simarakir Julu",
+    "postal_code": "22417"
   },
   {
     "code": "1202022006",
     "district_code": "120202",
-    "name": "Enda Portibi"
+    "name": "Enda Portibi",
+    "postal_code": "22417"
   },
   {
     "code": "1202022007",
     "district_code": "120202",
-    "name": "Simorangkir Habinsaran"
+    "name": "Simorangkir Habinsaran",
+    "postal_code": "22417"
   },
   {
     "code": "1202022008",
     "district_code": "120202",
-    "name": "Sangkaran"
+    "name": "Sangkaran",
+    "postal_code": "22418"
   },
   {
     "code": "1202022009",
     "district_code": "120202",
-    "name": "Lumban Siagian Jae"
+    "name": "Lumban Siagian Jae",
+    "postal_code": "22417"
   },
   {
     "code": "1202022010",
     "district_code": "120202",
-    "name": "Lumban Siagian Julu"
+    "name": "Lumban Siagian Julu",
+    "postal_code": "22417"
   },
   {
     "code": "1202022011",
     "district_code": "120202",
-    "name": "Sitompul"
+    "name": "Sitompul",
+    "postal_code": "22418"
   },
   {
     "code": "1202022012",
     "district_code": "120202",
-    "name": "Lobu Hole"
+    "name": "Lobu Hole",
+    "postal_code": "22417"
   }
 ]

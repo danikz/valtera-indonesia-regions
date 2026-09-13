@@ -2,36 +2,43 @@
   {
     "code": "1223031001",
     "district_code": "122303",
-    "name": "Kampung Mesjid"
+    "name": "Kampung Mesjid",
+    "postal_code": "21474"
   },
   {
     "code": "1223032002",
     "district_code": "122303",
-    "name": "Kuala Bangka"
+    "name": "Kuala Bangka",
+    "postal_code": "21474"
   },
   {
     "code": "1223032003",
     "district_code": "122303",
-    "name": "Sei Sentang"
+    "name": "Sei Sentang",
+    "postal_code": "21474"
   },
   {
     "code": "1223032004",
     "district_code": "122303",
-    "name": "Teluk Piai"
+    "name": "Teluk Piai",
+    "postal_code": "21474"
   },
   {
     "code": "1223032005",
     "district_code": "122303",
-    "name": "Tanjung Mangedar"
+    "name": "Tanjung Mangedar",
+    "postal_code": "21474"
   },
   {
     "code": "1223032006",
     "district_code": "122303",
-    "name": "Teluk Binjai"
+    "name": "Teluk Binjai",
+    "postal_code": "21474"
   },
   {
     "code": "1223032007",
     "district_code": "122303",
-    "name": "Sei Apung"
+    "name": "Sei Apung",
+    "postal_code": "21474"
   }
 ]

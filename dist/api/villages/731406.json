@@ -2,31 +2,37 @@
   {
     "code": "7314062001",
     "district_code": "731406",
-    "name": "Rijang Panua"
+    "name": "Rijang Panua",
+    "postal_code": "91653"
   },
   {
     "code": "7314062002",
     "district_code": "731406",
-    "name": "Kulo"
+    "name": "Kulo",
+    "postal_code": "91653"
   },
   {
     "code": "7314062003",
     "district_code": "731406",
-    "name": "Maddenra"
+    "name": "Maddenra",
+    "postal_code": "91653"
   },
   {
     "code": "7314062004",
     "district_code": "731406",
-    "name": "Mario"
+    "name": "Mario",
+    "postal_code": "91653"
   },
   {
     "code": "7314062005",
     "district_code": "731406",
-    "name": "Bina Baru"
+    "name": "Bina Baru",
+    "postal_code": "91653"
   },
   {
     "code": "7314062006",
     "district_code": "731406",
-    "name": "Abbokongang"
+    "name": "Abbokongang",
+    "postal_code": "91653"
   }
 ]

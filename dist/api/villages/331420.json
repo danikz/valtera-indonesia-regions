@@ -2,36 +2,43 @@
   {
     "code": "3314202001",
     "district_code": "331420",
-    "name": "Japoh"
+    "name": "Japoh",
+    "postal_code": "57256"
   },
   {
     "code": "3314202002",
     "district_code": "331420",
-    "name": "Ngepringan"
+    "name": "Ngepringan",
+    "postal_code": "57256"
   },
   {
     "code": "3314202003",
     "district_code": "331420",
-    "name": "Mlale"
+    "name": "Mlale",
+    "postal_code": "57256"
   },
   {
     "code": "3314202004",
     "district_code": "331420",
-    "name": "Dawung"
+    "name": "Dawung",
+    "postal_code": "57256"
   },
   {
     "code": "3314202005",
     "district_code": "331420",
-    "name": "Kandangsapi"
+    "name": "Kandangsapi",
+    "postal_code": "57256"
   },
   {
     "code": "3314202006",
     "district_code": "331420",
-    "name": "Jenar"
+    "name": "Jenar",
+    "postal_code": "57256"
   },
   {
     "code": "3314202007",
     "district_code": "331420",
-    "name": "Banyurip"
+    "name": "Banyurip",
+    "postal_code": "57256"
   }
 ]

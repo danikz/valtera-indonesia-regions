@@ -2,36 +2,43 @@
   {
     "code": "5311071001",
     "district_code": "531107",
-    "name": "Kawangu"
+    "name": "Kawangu",
+    "postal_code": "87176"
   },
   {
     "code": "5311071002",
     "district_code": "531107",
-    "name": "Watumbaka"
+    "name": "Watumbaka",
+    "postal_code": "87176"
   },
   {
     "code": "5311072003",
     "district_code": "531107",
-    "name": "Kambatatana"
+    "name": "Kambatatana",
+    "postal_code": "87176"
   },
   {
     "code": "5311072007",
     "district_code": "531107",
-    "name": "Palaka Hembi"
+    "name": "Palaka Hembi",
+    "postal_code": "87176"
   },
   {
     "code": "5311072008",
     "district_code": "531107",
-    "name": "Kadumbul"
+    "name": "Kadumbul",
+    "postal_code": "87176"
   },
   {
     "code": "5311072009",
     "district_code": "531107",
-    "name": "Maubokul"
+    "name": "Maubokul",
+    "postal_code": "87176"
   },
   {
     "code": "5311072012",
     "district_code": "531107",
-    "name": "Laindeha"
+    "name": "Laindeha",
+    "postal_code": "87176"
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "1904031001",
     "district_code": "190403",
-    "name": "Sungai Selan"
+    "name": "Sungai Selan",
+    "postal_code": "33675"
   },
   {
     "code": "1904032002",
     "district_code": "190403",
-    "name": "Kerantai"
+    "name": "Kerantai",
+    "postal_code": "33675"
   },
   {
     "code": "1904032003",
     "district_code": "190403",
-    "name": "Keretak"
+    "name": "Keretak",
+    "postal_code": "33675"
   },
   {
     "code": "1904032004",
     "district_code": "190403",
-    "name": "Lampur"
+    "name": "Lampur",
+    "postal_code": "33675"
   },
   {
     "code": "1904032005",
     "district_code": "190403",
-    "name": "Sarang Mandi"
+    "name": "Sarang Mandi",
+    "postal_code": "33675"
   },
   {
     "code": "1904032006",
     "district_code": "190403",
-    "name": "Munggu"
+    "name": "Munggu",
+    "postal_code": "33675"
   },
   {
     "code": "1904032007",
     "district_code": "190403",
-    "name": "Kemingking"
+    "name": "Kemingking",
+    "postal_code": "33675"
   },
   {
     "code": "1904032008",
     "district_code": "190403",
-    "name": "Sungai Selan Atas"
+    "name": "Sungai Selan Atas",
+    "postal_code": "33675"
   },
   {
     "code": "1904032009",
     "district_code": "190403",
-    "name": "Tanjung Pura"
+    "name": "Tanjung Pura",
+    "postal_code": "33675"
   },
   {
     "code": "1904032010",
     "district_code": "190403",
-    "name": "Romadhon"
+    "name": "Romadhon",
+    "postal_code": "33675"
   },
   {
     "code": "1904032011",
     "district_code": "190403",
-    "name": "Kerakas"
+    "name": "Kerakas",
+    "postal_code": "33675"
   },
   {
     "code": "1904032012",
     "district_code": "190403",
-    "name": "Melabun"
+    "name": "Melabun",
+    "postal_code": "33675"
   },
   {
     "code": "1904032013",
     "district_code": "190403",
-    "name": "Keretak Atas"
+    "name": "Keretak Atas",
+    "postal_code": "33675"
   }
 ]

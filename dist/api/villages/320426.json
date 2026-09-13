@@ -2,41 +2,49 @@
   {
     "code": "3204262001",
     "district_code": "320426",
-    "name": "Nagreg"
+    "name": "Nagreg",
+    "postal_code": "40215"
   },
   {
     "code": "3204262002",
     "district_code": "320426",
-    "name": "Bojong"
+    "name": "Bojong",
+    "postal_code": "40215"
   },
   {
     "code": "3204262003",
     "district_code": "320426",
-    "name": "Ciaro"
+    "name": "Ciaro",
+    "postal_code": "40215"
   },
   {
     "code": "3204262004",
     "district_code": "320426",
-    "name": "Ciherang"
+    "name": "Ciherang",
+    "postal_code": "40215"
   },
   {
     "code": "3204262005",
     "district_code": "320426",
-    "name": "Citaman"
+    "name": "Citaman",
+    "postal_code": "40215"
   },
   {
     "code": "3204262006",
     "district_code": "320426",
-    "name": "Mandalawangi"
+    "name": "Mandalawangi",
+    "postal_code": "40215"
   },
   {
     "code": "3204262007",
     "district_code": "320426",
-    "name": "Nagreg Kendan"
+    "name": "Nagreg Kendan",
+    "postal_code": "40215"
   },
   {
     "code": "3204262008",
     "district_code": "320426",
-    "name": "Ganjar Sabar"
+    "name": "Ganjar Sabar",
+    "postal_code": "40215"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "9201492001",
     "district_code": "920149",
-    "name": "Malasigit"
+    "name": "Malasigit",
+    "postal_code": ""
   },
   {
     "code": "9201492002",
     "district_code": "920149",
-    "name": "Klagulu"
+    "name": "Klagulu",
+    "postal_code": ""
   },
   {
     "code": "9201492003",
     "district_code": "920149",
-    "name": "Klamugun"
+    "name": "Klamugun",
+    "postal_code": ""
   },
   {
     "code": "9201492004",
     "district_code": "920149",
-    "name": "Malajapa"
+    "name": "Malajapa",
+    "postal_code": ""
   },
   {
     "code": "9201492005",
     "district_code": "920149",
-    "name": "Klasman"
+    "name": "Klasman",
+    "postal_code": ""
   },
   {
     "code": "9201492006",
     "district_code": "920149",
-    "name": "Malamoja"
+    "name": "Malamoja",
+    "postal_code": ""
   },
   {
     "code": "9201492007",
     "district_code": "920149",
-    "name": "Magatarum"
+    "name": "Magatarum",
+    "postal_code": ""
   },
   {
     "code": "9201492008",
     "district_code": "920149",
-    "name": "Tanah Tinggi"
+    "name": "Tanah Tinggi",
+    "postal_code": ""
   },
   {
     "code": "9201492009",
     "district_code": "920149",
-    "name": "Marik May"
+    "name": "Marik May",
+    "postal_code": ""
   }
 ]

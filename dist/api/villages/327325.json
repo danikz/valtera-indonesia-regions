@@ -2,21 +2,25 @@
   {
     "code": "3273251001",
     "district_code": "327325",
-    "name": "Palasari"
+    "name": "Palasari",
+    "postal_code": "40615"
   },
   {
     "code": "3273251002",
     "district_code": "327325",
-    "name": "Cipadung"
+    "name": "Cipadung",
+    "postal_code": "40614"
   },
   {
     "code": "3273251003",
     "district_code": "327325",
-    "name": "Pasir Biru"
+    "name": "Pasir Biru",
+    "postal_code": "40615"
   },
   {
     "code": "3273251004",
     "district_code": "327325",
-    "name": "Cisurupan"
+    "name": "Cisurupan",
+    "postal_code": "40614"
   }
 ]

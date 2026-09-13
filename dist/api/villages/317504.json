@@ -2,36 +2,43 @@
   {
     "code": "3175041001",
     "district_code": "317504",
-    "name": "Kramatjati"
+    "name": "Kramatjati",
+    "postal_code": "13510"
   },
   {
     "code": "3175041002",
     "district_code": "317504",
-    "name": "Tengah"
+    "name": "Tengah",
+    "postal_code": "13540"
   },
   {
     "code": "3175041003",
     "district_code": "317504",
-    "name": "Dukuh"
+    "name": "Dukuh",
+    "postal_code": "13550"
   },
   {
     "code": "3175041004",
     "district_code": "317504",
-    "name": "Batu Ampar"
+    "name": "Batu Ampar",
+    "postal_code": "13520"
   },
   {
     "code": "3175041005",
     "district_code": "317504",
-    "name": "Balekambang"
+    "name": "Balekambang",
+    "postal_code": "13530"
   },
   {
     "code": "3175041006",
     "district_code": "317504",
-    "name": "Cililitan"
+    "name": "Cililitan",
+    "postal_code": "13640"
   },
   {
     "code": "3175041007",
     "district_code": "317504",
-    "name": "Cawang"
+    "name": "Cawang",
+    "postal_code": "13630"
   }
 ]

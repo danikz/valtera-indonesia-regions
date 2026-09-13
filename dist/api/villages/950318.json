@@ -2,51 +2,61 @@
   {
     "code": "9503182001",
     "district_code": "950318",
-    "name": "Tangma"
+    "name": "Tangma",
+    "postal_code": "99716"
   },
   {
     "code": "9503182002",
     "district_code": "950318",
-    "name": "Wamarek"
+    "name": "Wamarek",
+    "postal_code": "99716"
   },
   {
     "code": "9503182003",
     "district_code": "950318",
-    "name": "Hipela"
+    "name": "Hipela",
+    "postal_code": "99716"
   },
   {
     "code": "9503182004",
     "district_code": "950318",
-    "name": "Huewi"
+    "name": "Huewi",
+    "postal_code": "99716"
   },
   {
     "code": "9503182005",
     "district_code": "950318",
-    "name": "Punno"
+    "name": "Punno",
+    "postal_code": "99716"
   },
   {
     "code": "9503182006",
     "district_code": "950318",
-    "name": "Simeka"
+    "name": "Simeka",
+    "postal_code": "99716"
   },
   {
     "code": "9503182007",
     "district_code": "950318",
-    "name": "Yeleas"
+    "name": "Yeleas",
+    "postal_code": "99716"
   },
   {
     "code": "9503182008",
     "district_code": "950318",
-    "name": "Aleleng"
+    "name": "Aleleng",
+    "postal_code": "99716"
   },
   {
     "code": "9503182009",
     "district_code": "950318",
-    "name": "Yalimo"
+    "name": "Yalimo",
+    "postal_code": "99716"
   },
   {
     "code": "9503182010",
     "district_code": "950318",
-    "name": "Helo"
+    "name": "Helo",
+    "postal_code": "99716"
   }
 ]

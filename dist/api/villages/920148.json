@@ -2,31 +2,37 @@
   {
     "code": "9201482001",
     "district_code": "920148",
-    "name": "Saengkeduk"
+    "name": "Saengkeduk",
+    "postal_code": ""
   },
   {
     "code": "9201482002",
     "district_code": "920148",
-    "name": "Selekobo"
+    "name": "Selekobo",
+    "postal_code": ""
   },
   {
     "code": "9201482003",
     "district_code": "920148",
-    "name": "Suye"
+    "name": "Suye",
+    "postal_code": ""
   },
   {
     "code": "9201482004",
     "district_code": "920148",
-    "name": "Klamede"
+    "name": "Klamede",
+    "postal_code": ""
   },
   {
     "code": "9201482005",
     "district_code": "920148",
-    "name": "Sambatie"
+    "name": "Sambatie",
+    "postal_code": ""
   },
   {
     "code": "9201482006",
     "district_code": "920148",
-    "name": "Klagele"
+    "name": "Klagele",
+    "postal_code": ""
   }
 ]

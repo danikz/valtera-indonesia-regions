@@ -2,31 +2,37 @@
   {
     "code": "2102122001",
     "district_code": "210212",
-    "name": "Sebele"
+    "name": "Sebele",
+    "postal_code": "29660"
   },
   {
     "code": "2102122002",
     "district_code": "210212",
-    "name": "Lebuh"
+    "name": "Lebuh",
+    "postal_code": "29660"
   },
   {
     "code": "2102122003",
     "district_code": "210212",
-    "name": "Penarah"
+    "name": "Penarah",
+    "postal_code": "29660"
   },
   {
     "code": "2102122004",
     "district_code": "210212",
-    "name": "Sei Asam"
+    "name": "Sei Asam",
+    "postal_code": "29660"
   },
   {
     "code": "2102122005",
     "district_code": "210212",
-    "name": "Tebias"
+    "name": "Tebias",
+    "postal_code": "29660"
   },
   {
     "code": "2102122006",
     "district_code": "210212",
-    "name": "Degong"
+    "name": "Degong",
+    "postal_code": "29660"
   }
 ]

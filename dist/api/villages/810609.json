@@ -2,36 +2,43 @@
   {
     "code": "8106092001",
     "district_code": "810609",
-    "name": "Luhutuban"
+    "name": "Luhutuban",
+    "postal_code": "97569"
   },
   {
     "code": "8106092002",
     "district_code": "810609",
-    "name": "Masawoy"
+    "name": "Masawoy",
+    "postal_code": "97569"
   },
   {
     "code": "8106092003",
     "district_code": "810609",
-    "name": "Tuniwara"
+    "name": "Tuniwara",
+    "postal_code": "97569"
   },
   {
     "code": "8106092004",
     "district_code": "810609",
-    "name": "Kelang Asaude"
+    "name": "Kelang Asaude",
+    "postal_code": "97569"
   },
   {
     "code": "8106092005",
     "district_code": "810609",
-    "name": "Tomalehu Barat"
+    "name": "Tomalehu Barat",
+    "postal_code": "97569"
   },
   {
     "code": "8106092006",
     "district_code": "810609",
-    "name": "Tomalehu Timur"
+    "name": "Tomalehu Timur",
+    "postal_code": "97569"
   },
   {
     "code": "8106092007",
     "district_code": "810609",
-    "name": "Buano Hatuputih"
+    "name": "Buano Hatuputih",
+    "postal_code": "97569"
   }
 ]

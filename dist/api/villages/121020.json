@@ -2,36 +2,43 @@
   {
     "code": "1210202001",
     "district_code": "121020",
-    "name": "Tanjung Sarang Elang"
+    "name": "Tanjung Sarang Elang",
+    "postal_code": "21470"
   },
   {
     "code": "1210202002",
     "district_code": "121020",
-    "name": "Perkebunan Ajamu"
+    "name": "Perkebunan Ajamu",
+    "postal_code": "21470"
   },
   {
     "code": "1210202003",
     "district_code": "121020",
-    "name": "Teluk Sentosa"
+    "name": "Teluk Sentosa",
+    "postal_code": "21470"
   },
   {
     "code": "1210202004",
     "district_code": "121020",
-    "name": "Cinta Makmur"
+    "name": "Cinta Makmur",
+    "postal_code": "21470"
   },
   {
     "code": "1210202005",
     "district_code": "121020",
-    "name": "Sei Sentosa"
+    "name": "Sei Sentosa",
+    "postal_code": "21470"
   },
   {
     "code": "1210202006",
     "district_code": "121020",
-    "name": "Meranti Paham"
+    "name": "Meranti Paham",
+    "postal_code": "21470"
   },
   {
     "code": "1210202007",
     "district_code": "121020",
-    "name": "Sei Jawi-Jawi"
+    "name": "Sei Jawi-Jawi",
+    "postal_code": "21470"
   }
 ]

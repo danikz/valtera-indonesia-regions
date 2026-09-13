@@ -2,56 +2,67 @@
   {
     "code": "9503512001",
     "district_code": "950351",
-    "name": "Sumo"
+    "name": "Sumo",
+    "postal_code": "99714"
   },
   {
     "code": "9503512002",
     "district_code": "950351",
-    "name": "Uam"
+    "name": "Uam",
+    "postal_code": "99714"
   },
   {
     "code": "9503512003",
     "district_code": "950351",
-    "name": "Maku"
+    "name": "Maku",
+    "postal_code": "99714"
   },
   {
     "code": "9503512004",
     "district_code": "950351",
-    "name": "Obokain"
+    "name": "Obokain",
+    "postal_code": "99714"
   },
   {
     "code": "9503512005",
     "district_code": "950351",
-    "name": "Jibuk"
+    "name": "Jibuk",
+    "postal_code": "99714"
   },
   {
     "code": "9503512006",
     "district_code": "950351",
-    "name": "Wenapong"
+    "name": "Wenapong",
+    "postal_code": "99714"
   },
   {
     "code": "9503512007",
     "district_code": "950351",
-    "name": "Muara Balim"
+    "name": "Muara Balim",
+    "postal_code": "99714"
   },
   {
     "code": "9503512008",
     "district_code": "950351",
-    "name": "Hunisi"
+    "name": "Hunisi",
+    "postal_code": "99714"
   },
   {
     "code": "9503512009",
     "district_code": "950351",
-    "name": "Boor"
+    "name": "Boor",
+    "postal_code": "99714"
   },
   {
     "code": "9503512010",
     "district_code": "950351",
-    "name": "Wirilu"
+    "name": "Wirilu",
+    "postal_code": "99714"
   },
   {
     "code": "9503512011",
     "district_code": "950351",
-    "name": "Kwiriside"
+    "name": "Kwiriside",
+    "postal_code": "99714"
   }
 ]

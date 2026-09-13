@@ -2,41 +2,49 @@
   {
     "code": "6110102001",
     "district_code": "611010",
-    "name": "Tiong Keranji"
+    "name": "Tiong Keranji",
+    "postal_code": "79670"
   },
   {
     "code": "6110102002",
     "district_code": "611010",
-    "name": "Nanga Tikan"
+    "name": "Nanga Tikan",
+    "postal_code": "79670"
   },
   {
     "code": "6110102003",
     "district_code": "611010",
-    "name": "Beloyang"
+    "name": "Beloyang",
+    "postal_code": "79670"
   },
   {
     "code": "6110102004",
     "district_code": "611010",
-    "name": "Nanga Raya"
+    "name": "Nanga Raya",
+    "postal_code": "79670"
   },
   {
     "code": "6110102005",
     "district_code": "611010",
-    "name": "Junjung Permai"
+    "name": "Junjung Permai",
+    "postal_code": "79670"
   },
   {
     "code": "6110102006",
     "district_code": "611010",
-    "name": "Nanga Keberak"
+    "name": "Nanga Keberak",
+    "postal_code": "79670"
   },
   {
     "code": "6110102007",
     "district_code": "611010",
-    "name": "Piawas"
+    "name": "Piawas",
+    "postal_code": "79670"
   },
   {
     "code": "6110102008",
     "district_code": "611010",
-    "name": "Kayu Bunga"
+    "name": "Kayu Bunga",
+    "postal_code": "79670"
   }
 ]

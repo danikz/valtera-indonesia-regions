@@ -2,36 +2,43 @@
   {
     "code": "3376041001",
     "district_code": "337604",
-    "name": "Kaligangsa"
+    "name": "Kaligangsa",
+    "postal_code": "52147"
   },
   {
     "code": "3376041002",
     "district_code": "337604",
-    "name": "Krandon"
+    "name": "Krandon",
+    "postal_code": "52146"
   },
   {
     "code": "3376041003",
     "district_code": "337604",
-    "name": "Cabawan"
+    "name": "Cabawan",
+    "postal_code": "52147"
   },
   {
     "code": "3376041004",
     "district_code": "337604",
-    "name": "Kalinyamat Kulon"
+    "name": "Kalinyamat Kulon",
+    "postal_code": "52144"
   },
   {
     "code": "3376041005",
     "district_code": "337604",
-    "name": "Margadana"
+    "name": "Margadana",
+    "postal_code": "52143"
   },
   {
     "code": "3376041006",
     "district_code": "337604",
-    "name": "Sumurpanggang"
+    "name": "Sumurpanggang",
+    "postal_code": "52141"
   },
   {
     "code": "3376041007",
     "district_code": "337604",
-    "name": "Pesurungan Lor"
+    "name": "Pesurungan Lor",
+    "postal_code": "52147"
   }
 ]

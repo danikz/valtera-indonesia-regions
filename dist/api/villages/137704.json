@@ -2,81 +2,97 @@
   {
     "code": "1377042001",
     "district_code": "137704",
-    "name": "Talago Sarik"
+    "name": "Talago Sarik",
+    "postal_code": "25523"
   },
   {
     "code": "1377042002",
     "district_code": "137704",
-    "name": "Pakasai"
+    "name": "Pakasai",
+    "postal_code": "25524"
   },
   {
     "code": "1377042003",
     "district_code": "137704",
-    "name": "Kampung Baru Padusunan"
+    "name": "Kampung Baru Padusunan",
+    "postal_code": "25524"
   },
   {
     "code": "1377042004",
     "district_code": "137704",
-    "name": "Kampung Gadang"
+    "name": "Kampung Gadang",
+    "postal_code": "25523"
   },
   {
     "code": "1377042005",
     "district_code": "137704",
-    "name": "Koto Marapak"
+    "name": "Koto Marapak",
+    "postal_code": "25519"
   },
   {
     "code": "1377042006",
     "district_code": "137704",
-    "name": "Batang Kabung"
+    "name": "Batang Kabung",
+    "postal_code": "25519"
   },
   {
     "code": "1377042007",
     "district_code": "137704",
-    "name": "Bato"
+    "name": "Bato",
+    "postal_code": "25519"
   },
   {
     "code": "1377042008",
     "district_code": "137704",
-    "name": "Air Santok"
+    "name": "Air Santok",
+    "postal_code": "25531"
   },
   {
     "code": "1377042009",
     "district_code": "137704",
-    "name": "Cubadak Mentawai"
+    "name": "Cubadak Mentawai",
+    "postal_code": "25516"
   },
   {
     "code": "1377042010",
     "district_code": "137704",
-    "name": "Sungai Sirah"
+    "name": "Sungai Sirah",
+    "postal_code": "25516"
   },
   {
     "code": "1377042011",
     "district_code": "137704",
-    "name": "Sungai Pasak"
+    "name": "Sungai Pasak",
+    "postal_code": "25516"
   },
   {
     "code": "1377042012",
     "district_code": "137704",
-    "name": "Bungo Tanjung"
+    "name": "Bungo Tanjung",
+    "postal_code": "25535"
   },
   {
     "code": "1377042013",
     "district_code": "137704",
-    "name": "Kampung Tangah"
+    "name": "Kampung Tangah",
+    "postal_code": "25535"
   },
   {
     "code": "1377042014",
     "district_code": "137704",
-    "name": "Kampung Kandang"
+    "name": "Kampung Kandang",
+    "postal_code": "25536"
   },
   {
     "code": "1377042015",
     "district_code": "137704",
-    "name": "Kaluat"
+    "name": "Kaluat",
+    "postal_code": "25534"
   },
   {
     "code": "1377042016",
     "district_code": "137704",
-    "name": "Kajai"
+    "name": "Kajai",
+    "postal_code": "25534"
   }
 ]

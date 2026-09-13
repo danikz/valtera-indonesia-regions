@@ -2,31 +2,37 @@
   {
     "code": "7373011001",
     "district_code": "737301",
-    "name": "Tompotikka"
+    "name": "Tompotikka",
+    "postal_code": "91921"
   },
   {
     "code": "7373011002",
     "district_code": "737301",
-    "name": "Boting"
+    "name": "Boting",
+    "postal_code": "91923"
   },
   {
     "code": "7373011003",
     "district_code": "737301",
-    "name": "Amasangan"
+    "name": "Amasangan",
+    "postal_code": "91922"
   },
   {
     "code": "7373011005",
     "district_code": "737301",
-    "name": "Lagaligo"
+    "name": "Lagaligo",
+    "postal_code": "91921"
   },
   {
     "code": "7373011011",
     "district_code": "737301",
-    "name": "Dangerakko"
+    "name": "Dangerakko",
+    "postal_code": "91921"
   },
   {
     "code": "7373011012",
     "district_code": "737301",
-    "name": "Pajalesang"
+    "name": "Pajalesang",
+    "postal_code": "91921"
   }
 ]

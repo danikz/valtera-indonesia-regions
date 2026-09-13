@@ -2,46 +2,55 @@
   {
     "code": "1405061001",
     "district_code": "140506",
-    "name": "Pelalawan"
+    "name": "Pelalawan",
+    "postal_code": "28353"
   },
   {
     "code": "1405062002",
     "district_code": "140506",
-    "name": "Sungai Ara"
+    "name": "Sungai Ara",
+    "postal_code": "28353"
   },
   {
     "code": "1405062003",
     "district_code": "140506",
-    "name": "Ransang"
+    "name": "Ransang",
+    "postal_code": "28353"
   },
   {
     "code": "1405062004",
     "district_code": "140506",
-    "name": "Kuala Tolam"
+    "name": "Kuala Tolam",
+    "postal_code": "28353"
   },
   {
     "code": "1405062005",
     "district_code": "140506",
-    "name": "Sering"
+    "name": "Sering",
+    "postal_code": "28353"
   },
   {
     "code": "1405062006",
     "district_code": "140506",
-    "name": "Telayap"
+    "name": "Telayap",
+    "postal_code": "28353"
   },
   {
     "code": "1405062007",
     "district_code": "140506",
-    "name": "Batang Nilo Kecil"
+    "name": "Batang Nilo Kecil",
+    "postal_code": "28353"
   },
   {
     "code": "1405062008",
     "district_code": "140506",
-    "name": "Delik"
+    "name": "Delik",
+    "postal_code": "28353"
   },
   {
     "code": "1405062010",
     "district_code": "140506",
-    "name": "Lalang Kabung"
+    "name": "Lalang Kabung",
+    "postal_code": "28353"
   }
 ]

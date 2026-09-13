@@ -2,51 +2,61 @@
   {
     "code": "9209132001",
     "district_code": "920913",
-    "name": "Werur"
+    "name": "Werur",
+    "postal_code": ""
   },
   {
     "code": "9209132002",
     "district_code": "920913",
-    "name": "Bukit"
+    "name": "Bukit",
+    "postal_code": ""
   },
   {
     "code": "9209132003",
     "district_code": "920913",
-    "name": "Wertam"
+    "name": "Wertam",
+    "postal_code": ""
   },
   {
     "code": "9209132004",
     "district_code": "920913",
-    "name": "Werwaf"
+    "name": "Werwaf",
+    "postal_code": ""
   },
   {
     "code": "9209132005",
     "district_code": "920913",
-    "name": "Werbes"
+    "name": "Werbes",
+    "postal_code": ""
   },
   {
     "code": "9209132006",
     "district_code": "920913",
-    "name": "Nombrak"
+    "name": "Nombrak",
+    "postal_code": ""
   },
   {
     "code": "9209132007",
     "district_code": "920913",
-    "name": "Bikar"
+    "name": "Bikar",
+    "postal_code": ""
   },
   {
     "code": "9209132008",
     "district_code": "920913",
-    "name": "Syunai"
+    "name": "Syunai",
+    "postal_code": ""
   },
   {
     "code": "9209132009",
     "district_code": "920913",
-    "name": "Suyam"
+    "name": "Suyam",
+    "postal_code": ""
   },
   {
     "code": "9209132010",
     "district_code": "920913",
-    "name": "Wertim"
+    "name": "Wertim",
+    "postal_code": ""
   }
 ]

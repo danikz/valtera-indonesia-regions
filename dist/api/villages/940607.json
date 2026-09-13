@@ -2,61 +2,73 @@
   {
     "code": "9406072001",
     "district_code": "940607",
-    "name": "Puweta I"
+    "name": "Puweta I",
+    "postal_code": "98883"
   },
   {
     "code": "9406072002",
     "district_code": "940607",
-    "name": "Pouwouda"
+    "name": "Pouwouda",
+    "postal_code": "98883"
   },
   {
     "code": "9406072003",
     "district_code": "940607",
-    "name": "Puweta II"
+    "name": "Puweta II",
+    "postal_code": "98883"
   },
   {
     "code": "9406072004",
     "district_code": "940607",
-    "name": "Botumoma"
+    "name": "Botumoma",
+    "postal_code": "98883"
   },
   {
     "code": "9406072005",
     "district_code": "940607",
-    "name": "Obaibega"
+    "name": "Obaibega",
+    "postal_code": "98883"
   },
   {
     "code": "9406072006",
     "district_code": "940607",
-    "name": "Digikebo"
+    "name": "Digikebo",
+    "postal_code": "98883"
   },
   {
     "code": "9406072007",
     "district_code": "940607",
-    "name": "Bogiyoteugi"
+    "name": "Bogiyoteugi",
+    "postal_code": "98883"
   },
   {
     "code": "9406072008",
     "district_code": "940607",
-    "name": "Matadi"
+    "name": "Matadi",
+    "postal_code": "98883"
   },
   {
     "code": "9406072009",
     "district_code": "940607",
-    "name": "Tuwaida"
+    "name": "Tuwaida",
+    "postal_code": "98883"
   },
   {
     "code": "9406072010",
     "district_code": "940607",
-    "name": "Yepo"
+    "name": "Yepo",
+    "postal_code": "98883"
   },
   {
     "code": "9406072011",
     "district_code": "940607",
-    "name": "Ugikagouda"
+    "name": "Ugikagouda",
+    "postal_code": "98883"
   },
   {
     "code": "9406072012",
     "district_code": "940607",
-    "name": "Ugikebo"
+    "name": "Ugikebo",
+    "postal_code": "98883"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1215032001",
     "district_code": "121503",
-    "name": "Salak I"
+    "name": "Salak I",
+    "postal_code": "22272"
   },
   {
     "code": "1215032002",
     "district_code": "121503",
-    "name": "Salak II"
+    "name": "Salak II",
+    "postal_code": "22272"
   },
   {
     "code": "1215032003",
     "district_code": "121503",
-    "name": "Boangmanalu"
+    "name": "Boangmanalu",
+    "postal_code": "22272"
   },
   {
     "code": "1215032009",
     "district_code": "121503",
-    "name": "Sibongkaras"
+    "name": "Sibongkaras",
+    "postal_code": "22272"
   },
   {
     "code": "1215032013",
     "district_code": "121503",
-    "name": "Kuta Tinggi"
+    "name": "Kuta Tinggi",
+    "postal_code": "22272"
   },
   {
     "code": "1215032014",
     "district_code": "121503",
-    "name": "Penanggalan Binanga Boang"
+    "name": "Penanggalan Binanga Boang",
+    "postal_code": "22272"
   }
 ]

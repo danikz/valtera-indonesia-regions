@@ -2,56 +2,67 @@
   {
     "code": "1807202001",
     "district_code": "180720",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "34376"
   },
   {
     "code": "1807202002",
     "district_code": "180720",
-    "name": "Ngesti Karya"
+    "name": "Ngesti Karya",
+    "postal_code": "34376"
   },
   {
     "code": "1807202003",
     "district_code": "180720",
-    "name": "Tri Tunggal"
+    "name": "Tri Tunggal",
+    "postal_code": "34376"
   },
   {
     "code": "1807202004",
     "district_code": "180720",
-    "name": "Sidorahayu"
+    "name": "Sidorahayu",
+    "postal_code": "34376"
   },
   {
     "code": "1807202005",
     "district_code": "180720",
-    "name": "Jembrana"
+    "name": "Jembrana",
+    "postal_code": "34376"
   },
   {
     "code": "1807202006",
     "district_code": "180720",
-    "name": "Tanjung Wangi"
+    "name": "Tanjung Wangi",
+    "postal_code": "34376"
   },
   {
     "code": "1807202007",
     "district_code": "180720",
-    "name": "Marga Batin"
+    "name": "Marga Batin",
+    "postal_code": "34376"
   },
   {
     "code": "1807202008",
     "district_code": "180720",
-    "name": "Mekar Karya"
+    "name": "Mekar Karya",
+    "postal_code": "34376"
   },
   {
     "code": "1807202009",
     "district_code": "180720",
-    "name": "Sumber Jaya"
+    "name": "Sumber Jaya",
+    "postal_code": "34376"
   },
   {
     "code": "1807202010",
     "district_code": "180720",
-    "name": "Karang Anom"
+    "name": "Karang Anom",
+    "postal_code": "34376"
   },
   {
     "code": "1807202011",
     "district_code": "180720",
-    "name": "Karya Basuki"
+    "name": "Karya Basuki",
+    "postal_code": "34376"
   }
 ]

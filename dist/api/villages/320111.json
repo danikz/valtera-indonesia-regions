@@ -2,51 +2,61 @@
   {
     "code": "3201112001",
     "district_code": "320111",
-    "name": "Cidokom"
+    "name": "Cidokom",
+    "postal_code": "16340"
   },
   {
     "code": "3201112002",
     "district_code": "320111",
-    "name": "Padurenan"
+    "name": "Padurenan",
+    "postal_code": "16340"
   },
   {
     "code": "3201112003",
     "district_code": "320111",
-    "name": "Pengasinan"
+    "name": "Pengasinan",
+    "postal_code": "16340"
   },
   {
     "code": "3201112004",
     "district_code": "320111",
-    "name": "Curug"
+    "name": "Curug",
+    "postal_code": "16340"
   },
   {
     "code": "3201112005",
     "district_code": "320111",
-    "name": "Gunungsindur"
+    "name": "Gunungsindur",
+    "postal_code": "16340"
   },
   {
     "code": "3201112006",
     "district_code": "320111",
-    "name": "Jampang"
+    "name": "Jampang",
+    "postal_code": "16340"
   },
   {
     "code": "3201112007",
     "district_code": "320111",
-    "name": "Cibadung"
+    "name": "Cibadung",
+    "postal_code": "16340"
   },
   {
     "code": "3201112008",
     "district_code": "320111",
-    "name": "Cibinong"
+    "name": "Cibinong",
+    "postal_code": "16340"
   },
   {
     "code": "3201112009",
     "district_code": "320111",
-    "name": "Rawakalong"
+    "name": "Rawakalong",
+    "postal_code": "16340"
   },
   {
     "code": "3201112010",
     "district_code": "320111",
-    "name": "Pabuaran"
+    "name": "Pabuaran",
+    "postal_code": "16340"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "5301111007",
     "district_code": "530111",
-    "name": "Takari"
+    "name": "Takari",
+    "postal_code": "85369"
   },
   {
     "code": "5301112001",
     "district_code": "530111",
-    "name": "Noelmina"
+    "name": "Noelmina",
+    "postal_code": "85369"
   },
   {
     "code": "5301112002",
     "district_code": "530111",
-    "name": "Benu"
+    "name": "Benu",
+    "postal_code": "85369"
   },
   {
     "code": "5301112003",
     "district_code": "530111",
-    "name": "Hueknutu"
+    "name": "Hueknutu",
+    "postal_code": "85369"
   },
   {
     "code": "5301112004",
     "district_code": "530111",
-    "name": "Oelnaineno"
+    "name": "Oelnaineno",
+    "postal_code": "85369"
   },
   {
     "code": "5301112005",
     "district_code": "530111",
-    "name": "Tanini"
+    "name": "Tanini",
+    "postal_code": "85369"
   },
   {
     "code": "5301112006",
     "district_code": "530111",
-    "name": "Kauniki"
+    "name": "Kauniki",
+    "postal_code": "85369"
   },
   {
     "code": "5301112008",
     "district_code": "530111",
-    "name": "Tuapanaf"
+    "name": "Tuapanaf",
+    "postal_code": "85369"
   },
   {
     "code": "5301112009",
     "district_code": "530111",
-    "name": "Fatukona"
+    "name": "Fatukona",
+    "postal_code": "85369"
   },
   {
     "code": "5301112010",
     "district_code": "530111",
-    "name": "Oesusu"
+    "name": "Oesusu",
+    "postal_code": "85369"
   }
 ]

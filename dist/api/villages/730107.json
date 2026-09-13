@@ -2,41 +2,49 @@
   {
     "code": "7301072001",
     "district_code": "730107",
-    "name": "Bonerate"
+    "name": "Bonerate",
+    "postal_code": "92862"
   },
   {
     "code": "7301072002",
     "district_code": "730107",
-    "name": "Majapahit"
+    "name": "Majapahit",
+    "postal_code": "92862"
   },
   {
     "code": "7301072003",
     "district_code": "730107",
-    "name": "Batu Bingkung"
+    "name": "Batu Bingkung",
+    "postal_code": "92862"
   },
   {
     "code": "7301072004",
     "district_code": "730107",
-    "name": "Bonea"
+    "name": "Bonea",
+    "postal_code": "92862"
   },
   {
     "code": "7301072005",
     "district_code": "730107",
-    "name": "Lambego"
+    "name": "Lambego",
+    "postal_code": "92862"
   },
   {
     "code": "7301072006",
     "district_code": "730107",
-    "name": "Komba Komba"
+    "name": "Komba Komba",
+    "postal_code": "92862"
   },
   {
     "code": "7301072007",
     "district_code": "730107",
-    "name": "Sambali"
+    "name": "Sambali",
+    "postal_code": "92862"
   },
   {
     "code": "7301072008",
     "district_code": "730107",
-    "name": "Lamantu"
+    "name": "Lamantu",
+    "postal_code": "92862"
   }
 ]

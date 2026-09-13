@@ -2,36 +2,43 @@
   {
     "code": "2105011001",
     "district_code": "210501",
-    "name": "Terempa"
+    "name": "Terempa",
+    "postal_code": "29791"
   },
   {
     "code": "2105012002",
     "district_code": "210501",
-    "name": "Terempa Barat"
+    "name": "Terempa Barat",
+    "postal_code": "29791"
   },
   {
     "code": "2105012003",
     "district_code": "210501",
-    "name": "Tarempa Selatan"
+    "name": "Tarempa Selatan",
+    "postal_code": "29791"
   },
   {
     "code": "2105012004",
     "district_code": "210501",
-    "name": "Tarempa Timur"
+    "name": "Tarempa Timur",
+    "postal_code": "29791"
   },
   {
     "code": "2105012005",
     "district_code": "210501",
-    "name": "Pesisir Timur"
+    "name": "Pesisir Timur",
+    "postal_code": "29791"
   },
   {
     "code": "2105012006",
     "district_code": "210501",
-    "name": "Sri Tanjung"
+    "name": "Sri Tanjung",
+    "postal_code": "29791"
   },
   {
     "code": "2105012007",
     "district_code": "210501",
-    "name": "Tarempa Barat Daya"
+    "name": "Tarempa Barat Daya",
+    "postal_code": "29791"
   }
 ]

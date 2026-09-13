@@ -2,31 +2,37 @@
   {
     "code": "1871021003",
     "district_code": "187102",
-    "name": "Sukarame"
+    "name": "Sukarame",
+    "postal_code": "35131"
   },
   {
     "code": "1871021004",
     "district_code": "187102",
-    "name": "Way Dadi"
+    "name": "Way Dadi",
+    "postal_code": "35131"
   },
   {
     "code": "1871021006",
     "district_code": "187102",
-    "name": "Sukarame Baru"
+    "name": "Sukarame Baru",
+    "postal_code": "35131"
   },
   {
     "code": "1871021007",
     "district_code": "187102",
-    "name": "Way Dadi Baru"
+    "name": "Way Dadi Baru",
+    "postal_code": "35131"
   },
   {
     "code": "1871021008",
     "district_code": "187102",
-    "name": "Korpri jaya"
+    "name": "Korpri jaya",
+    "postal_code": "35131"
   },
   {
     "code": "1871021009",
     "district_code": "187102",
-    "name": "Korpri Raya"
+    "name": "Korpri Raya",
+    "postal_code": "35131"
   }
 ]

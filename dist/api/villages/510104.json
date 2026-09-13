@@ -2,51 +2,61 @@
   {
     "code": "5101041001",
     "district_code": "510104",
-    "name": "Gilimanuk"
+    "name": "Gilimanuk",
+    "postal_code": "82252"
   },
   {
     "code": "5101042002",
     "district_code": "510104",
-    "name": "Melaya"
+    "name": "Melaya",
+    "postal_code": "82252"
   },
   {
     "code": "5101042003",
     "district_code": "510104",
-    "name": "Belimbingsari"
+    "name": "Belimbingsari",
+    "postal_code": "82252"
   },
   {
     "code": "5101042004",
     "district_code": "510104",
-    "name": "Ekasari"
+    "name": "Ekasari",
+    "postal_code": "82252"
   },
   {
     "code": "5101042005",
     "district_code": "510104",
-    "name": "Nusasari"
+    "name": "Nusasari",
+    "postal_code": "82252"
   },
   {
     "code": "5101042006",
     "district_code": "510104",
-    "name": "Warnasari"
+    "name": "Warnasari",
+    "postal_code": "82252"
   },
   {
     "code": "5101042007",
     "district_code": "510104",
-    "name": "Candikusuma"
+    "name": "Candikusuma",
+    "postal_code": "82252"
   },
   {
     "code": "5101042008",
     "district_code": "510104",
-    "name": "Tuwed"
+    "name": "Tuwed",
+    "postal_code": "82252"
   },
   {
     "code": "5101042009",
     "district_code": "510104",
-    "name": "Tukadaya"
+    "name": "Tukadaya",
+    "postal_code": "82252"
   },
   {
     "code": "5101042010",
     "district_code": "510104",
-    "name": "Manistutu"
+    "name": "Manistutu",
+    "postal_code": "82252"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3211122001",
     "district_code": "321112",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "45366"
   },
   {
     "code": "3211122002",
     "district_code": "321112",
-    "name": "Genteng"
+    "name": "Genteng",
+    "postal_code": "45366"
   },
   {
     "code": "3211122003",
     "district_code": "321112",
-    "name": "Banyuresmi"
+    "name": "Banyuresmi",
+    "postal_code": "45366"
   },
   {
     "code": "3211122004",
     "district_code": "321112",
-    "name": "Nanggerang"
+    "name": "Nanggerang",
+    "postal_code": "45366"
   },
   {
     "code": "3211122005",
     "district_code": "321112",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "45366"
   },
   {
     "code": "3211122006",
     "district_code": "321112",
-    "name": "Sindangsari"
+    "name": "Sindangsari",
+    "postal_code": "45366"
   },
   {
     "code": "3211122007",
     "district_code": "321112",
-    "name": "Sukarapih"
+    "name": "Sukarapih",
+    "postal_code": "45366"
   }
 ]

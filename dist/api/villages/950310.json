@@ -2,56 +2,67 @@
   {
     "code": "9503102001",
     "district_code": "950310",
-    "name": "Apdagma"
+    "name": "Apdagma",
+    "postal_code": "99719"
   },
   {
     "code": "9503102002",
     "district_code": "950310",
-    "name": "Sabin"
+    "name": "Sabin",
+    "postal_code": "99719"
   },
   {
     "code": "9503102003",
     "district_code": "950310",
-    "name": "Mugi"
+    "name": "Mugi",
+    "postal_code": "99719"
   },
   {
     "code": "9503102004",
     "district_code": "950310",
-    "name": "Harap"
+    "name": "Harap",
+    "postal_code": "99719"
   },
   {
     "code": "9503102005",
     "district_code": "950310",
-    "name": "Suok"
+    "name": "Suok",
+    "postal_code": "99719"
   },
   {
     "code": "9503102006",
     "district_code": "950310",
-    "name": "Mul"
+    "name": "Mul",
+    "postal_code": "99719"
   },
   {
     "code": "9503102007",
     "district_code": "950310",
-    "name": "Kolodoma"
+    "name": "Kolodoma",
+    "postal_code": "99719"
   },
   {
     "code": "9503102008",
     "district_code": "950310",
-    "name": "Sangatur"
+    "name": "Sangatur",
+    "postal_code": "99719"
   },
   {
     "code": "9503102009",
     "district_code": "950310",
-    "name": "Sowaling"
+    "name": "Sowaling",
+    "postal_code": "99719"
   },
   {
     "code": "9503102010",
     "district_code": "950310",
-    "name": "Yerekama"
+    "name": "Yerekama",
+    "postal_code": "99719"
   },
   {
     "code": "9503102011",
     "district_code": "950310",
-    "name": "Walkuma"
+    "name": "Walkuma",
+    "postal_code": "99719"
   }
 ]

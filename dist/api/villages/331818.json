@@ -2,66 +2,79 @@
   {
     "code": "3318182001",
     "district_code": "331818",
-    "name": "Medani"
+    "name": "Medani",
+    "postal_code": "59157"
   },
   {
     "code": "3318182002",
     "district_code": "331818",
-    "name": "Sentul"
+    "name": "Sentul",
+    "postal_code": "59157"
   },
   {
     "code": "3318182003",
     "district_code": "331818",
-    "name": "Plaosan"
+    "name": "Plaosan",
+    "postal_code": "59157"
   },
   {
     "code": "3318182004",
     "district_code": "331818",
-    "name": "Payak"
+    "name": "Payak",
+    "postal_code": "59157"
   },
   {
     "code": "3318182005",
     "district_code": "331818",
-    "name": "Sirahan"
+    "name": "Sirahan",
+    "postal_code": "59157"
   },
   {
     "code": "3318182006",
     "district_code": "331818",
-    "name": "Mojo"
+    "name": "Mojo",
+    "postal_code": "59157"
   },
   {
     "code": "3318182007",
     "district_code": "331818",
-    "name": "Karangsari"
+    "name": "Karangsari",
+    "postal_code": "59157"
   },
   {
     "code": "3318182008",
     "district_code": "331818",
-    "name": "Bleber"
+    "name": "Bleber",
+    "postal_code": "59157"
   },
   {
     "code": "3318182009",
     "district_code": "331818",
-    "name": "Ngawen"
+    "name": "Ngawen",
+    "postal_code": "59157"
   },
   {
     "code": "3318182010",
     "district_code": "331818",
-    "name": "Ngablak"
+    "name": "Ngablak",
+    "postal_code": "59157"
   },
   {
     "code": "3318182011",
     "district_code": "331818",
-    "name": "Gesengan"
+    "name": "Gesengan",
+    "postal_code": "59157"
   },
   {
     "code": "3318182012",
     "district_code": "331818",
-    "name": "Gerit"
+    "name": "Gerit",
+    "postal_code": "59157"
   },
   {
     "code": "3318182013",
     "district_code": "331818",
-    "name": "Sumur"
+    "name": "Sumur",
+    "postal_code": "59157"
   }
 ]

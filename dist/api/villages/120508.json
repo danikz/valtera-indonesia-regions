@@ -2,71 +2,85 @@
   {
     "code": "1205081001",
     "district_code": "120508",
-    "name": "Bingai"
+    "name": "Bingai",
+    "postal_code": "20851"
   },
   {
     "code": "1205082002",
     "district_code": "120508",
-    "name": "Gohor Lama"
+    "name": "Gohor Lama",
+    "postal_code": "20851"
   },
   {
     "code": "1205082003",
     "district_code": "120508",
-    "name": "Stabat Lama"
+    "name": "Stabat Lama",
+    "postal_code": "20851"
   },
   {
     "code": "1205082004",
     "district_code": "120508",
-    "name": "Besilam Bukit Lembasa"
+    "name": "Besilam Bukit Lembasa",
+    "postal_code": "20851"
   },
   {
     "code": "1205082005",
     "district_code": "120508",
-    "name": "Kebun Balok"
+    "name": "Kebun Balok",
+    "postal_code": "20851"
   },
   {
     "code": "1205082006",
     "district_code": "120508",
-    "name": "Bukit Melintang"
+    "name": "Bukit Melintang",
+    "postal_code": "20851"
   },
   {
     "code": "1205082007",
     "district_code": "120508",
-    "name": "Gergas"
+    "name": "Gergas",
+    "postal_code": "20851"
   },
   {
     "code": "1205082008",
     "district_code": "120508",
-    "name": "Stabat Lama Barat"
+    "name": "Stabat Lama Barat",
+    "postal_code": "20851"
   },
   {
     "code": "1205082009",
     "district_code": "120508",
-    "name": "Sumber Mulyo"
+    "name": "Sumber Mulyo",
+    "postal_code": "20851"
   },
   {
     "code": "1205082010",
     "district_code": "120508",
-    "name": "Pertumbukan"
+    "name": "Pertumbukan",
+    "postal_code": "20851"
   },
   {
     "code": "1205082011",
     "district_code": "120508",
-    "name": "Paya Tusam"
+    "name": "Paya Tusam",
+    "postal_code": "20851"
   },
   {
     "code": "1205082012",
     "district_code": "120508",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "20851"
   },
   {
     "code": "1205082013",
     "district_code": "120508",
-    "name": "Jentera Stabat"
+    "name": "Jentera Stabat",
+    "postal_code": "20851"
   },
   {
     "code": "1205082014",
     "district_code": "120508",
-    "name": "Stungkit"
+    "name": "Stungkit",
+    "postal_code": "20851"
   }
 ]

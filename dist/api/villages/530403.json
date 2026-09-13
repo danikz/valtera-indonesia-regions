@@ -2,31 +2,37 @@
   {
     "code": "5304032001",
     "district_code": "530403",
-    "name": "Asumanu"
+    "name": "Asumanu",
+    "postal_code": "85773"
   },
   {
     "code": "5304032002",
     "district_code": "530403",
-    "name": "Tohe"
+    "name": "Tohe",
+    "postal_code": "85773"
   },
   {
     "code": "5304032003",
     "district_code": "530403",
-    "name": "Maumutin"
+    "name": "Maumutin",
+    "postal_code": "85773"
   },
   {
     "code": "5304032004",
     "district_code": "530403",
-    "name": "Raifatus"
+    "name": "Raifatus",
+    "postal_code": "85773"
   },
   {
     "code": "5304032005",
     "district_code": "530403",
-    "name": "Aitoun"
+    "name": "Aitoun",
+    "postal_code": "85773"
   },
   {
     "code": "5304032006",
     "district_code": "530403",
-    "name": "Tohe Leten"
+    "name": "Tohe Leten",
+    "postal_code": "85773"
   }
 ]

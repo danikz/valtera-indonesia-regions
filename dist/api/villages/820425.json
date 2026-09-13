@@ -2,36 +2,43 @@
   {
     "code": "8204252001",
     "district_code": "820425",
-    "name": "Gonone"
+    "name": "Gonone",
+    "postal_code": "97786"
   },
   {
     "code": "8204252002",
     "district_code": "820425",
-    "name": "Kakupang"
+    "name": "Kakupang",
+    "postal_code": "97786"
   },
   {
     "code": "8204252003",
     "district_code": "820425",
-    "name": "Kurunga"
+    "name": "Kurunga",
+    "postal_code": "97786"
   },
   {
     "code": "8204252004",
     "district_code": "820425",
-    "name": "Liboba Hijrah"
+    "name": "Liboba Hijrah",
+    "postal_code": "97786"
   },
   {
     "code": "8204252005",
     "district_code": "820425",
-    "name": "Pulau Gala"
+    "name": "Pulau Gala",
+    "postal_code": "97786"
   },
   {
     "code": "8204252006",
     "district_code": "820425",
-    "name": "Tawabi"
+    "name": "Tawabi",
+    "postal_code": "97786"
   },
   {
     "code": "8204252007",
     "district_code": "820425",
-    "name": "Yomen"
+    "name": "Yomen",
+    "postal_code": "97786"
   }
 ]

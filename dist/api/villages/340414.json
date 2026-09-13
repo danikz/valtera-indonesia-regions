@@ -2,41 +2,49 @@
   {
     "code": "3404142001",
     "district_code": "340414",
-    "name": "Banyurejo"
+    "name": "Banyurejo",
+    "postal_code": "55552"
   },
   {
     "code": "3404142002",
     "district_code": "340414",
-    "name": "Tambakrejo"
+    "name": "Tambakrejo",
+    "postal_code": "55552"
   },
   {
     "code": "3404142003",
     "district_code": "340414",
-    "name": "Sumberrejo"
+    "name": "Sumberrejo",
+    "postal_code": "55552"
   },
   {
     "code": "3404142004",
     "district_code": "340414",
-    "name": "Pondokrejo"
+    "name": "Pondokrejo",
+    "postal_code": "55552"
   },
   {
     "code": "3404142005",
     "district_code": "340414",
-    "name": "Mororejo"
+    "name": "Mororejo",
+    "postal_code": "55552"
   },
   {
     "code": "3404142006",
     "district_code": "340414",
-    "name": "Margorejo"
+    "name": "Margorejo",
+    "postal_code": "55552"
   },
   {
     "code": "3404142007",
     "district_code": "340414",
-    "name": "Lumbungrejo"
+    "name": "Lumbungrejo",
+    "postal_code": "55552"
   },
   {
     "code": "3404142008",
     "district_code": "340414",
-    "name": "Merdikorejo"
+    "name": "Merdikorejo",
+    "postal_code": "55552"
   }
 ]

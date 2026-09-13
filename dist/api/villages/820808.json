@@ -2,36 +2,43 @@
   {
     "code": "8208082001",
     "district_code": "820808",
-    "name": "Tabona"
+    "name": "Tabona",
+    "postal_code": "97794"
   },
   {
     "code": "8208082002",
     "district_code": "820808",
-    "name": "Kabunu"
+    "name": "Kabunu",
+    "postal_code": "97794"
   },
   {
     "code": "8208082003",
     "district_code": "820808",
-    "name": "Peleng"
+    "name": "Peleng",
+    "postal_code": "97794"
   },
   {
     "code": "8208082004",
     "district_code": "820808",
-    "name": "Fayaunana"
+    "name": "Fayaunana",
+    "postal_code": "97794"
   },
   {
     "code": "8208082005",
     "district_code": "820808",
-    "name": "Habunuha"
+    "name": "Habunuha",
+    "postal_code": "97794"
   },
   {
     "code": "8208082006",
     "district_code": "820808",
-    "name": "Kataga"
+    "name": "Kataga",
+    "postal_code": "97794"
   },
   {
     "code": "8208082007",
     "district_code": "820808",
-    "name": "Wolio"
+    "name": "Wolio",
+    "postal_code": "97794"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "5205042001",
     "district_code": "520504",
-    "name": "Malaju"
+    "name": "Malaju",
+    "postal_code": "84252"
   },
   {
     "code": "5205042002",
     "district_code": "520504",
-    "name": "Lasi"
+    "name": "Lasi",
+    "postal_code": "84252"
   },
   {
     "code": "5205042003",
     "district_code": "520504",
-    "name": "Mbuju"
+    "name": "Mbuju",
+    "postal_code": "84252"
   },
   {
     "code": "5205042004",
     "district_code": "520504",
-    "name": "Kiwu"
+    "name": "Kiwu",
+    "postal_code": "84252"
   },
   {
     "code": "5205042005",
     "district_code": "520504",
-    "name": "Taropo"
+    "name": "Taropo",
+    "postal_code": "84252"
   },
   {
     "code": "5205042006",
     "district_code": "520504",
-    "name": "Karama"
+    "name": "Karama",
+    "postal_code": "84252"
   }
 ]

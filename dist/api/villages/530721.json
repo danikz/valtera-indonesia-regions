@@ -2,21 +2,25 @@
   {
     "code": "5307212001",
     "district_code": "530721",
-    "name": "Hale"
+    "name": "Hale",
+    "postal_code": "86172"
   },
   {
     "code": "5307212002",
     "district_code": "530721",
-    "name": "Hebing"
+    "name": "Hebing",
+    "postal_code": "86172"
   },
   {
     "code": "5307212003",
     "district_code": "530721",
-    "name": "Natakoli"
+    "name": "Natakoli",
+    "postal_code": "86172"
   },
   {
     "code": "5307212004",
     "district_code": "530721",
-    "name": "Egon Gahar"
+    "name": "Egon Gahar",
+    "postal_code": "86172"
   }
 ]

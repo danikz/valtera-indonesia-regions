@@ -2,31 +2,37 @@
   {
     "code": "1272081001",
     "district_code": "127208",
-    "name": "Simarimbun"
+    "name": "Simarimbun",
+    "postal_code": "21129"
   },
   {
     "code": "1272081002",
     "district_code": "127208",
-    "name": "Tong Marimbun"
+    "name": "Tong Marimbun",
+    "postal_code": "21129"
   },
   {
     "code": "1272081003",
     "district_code": "127208",
-    "name": "Naga Huta"
+    "name": "Naga Huta",
+    "postal_code": "21129"
   },
   {
     "code": "1272081004",
     "district_code": "127208",
-    "name": "Naga Huta Timur"
+    "name": "Naga Huta Timur",
+    "postal_code": "21129"
   },
   {
     "code": "1272081005",
     "district_code": "127208",
-    "name": "Pematang Marihat"
+    "name": "Pematang Marihat",
+    "postal_code": "21127"
   },
   {
     "code": "1272081006",
     "district_code": "127208",
-    "name": "Marihat Jaya"
+    "name": "Marihat Jaya",
+    "postal_code": "21128"
   }
 ]

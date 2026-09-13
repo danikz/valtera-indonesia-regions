@@ -2,26 +2,31 @@
   {
     "code": "9402092001",
     "district_code": "940209",
-    "name": "Pagaleme"
+    "name": "Pagaleme",
+    "postal_code": "98916"
   },
   {
     "code": "9402092002",
     "district_code": "940209",
-    "name": "Muliambut"
+    "name": "Muliambut",
+    "postal_code": "98916"
   },
   {
     "code": "9402092003",
     "district_code": "940209",
-    "name": "Lunggineri"
+    "name": "Lunggineri",
+    "postal_code": "98916"
   },
   {
     "code": "9402092004",
     "district_code": "940209",
-    "name": "Igimbut"
+    "name": "Igimbut",
+    "postal_code": "98916"
   },
   {
     "code": "9402092005",
     "district_code": "940209",
-    "name": "Kulok enggame"
+    "name": "Kulok enggame",
+    "postal_code": "98916"
   }
 ]

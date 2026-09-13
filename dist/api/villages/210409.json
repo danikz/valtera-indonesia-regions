@@ -2,21 +2,25 @@
   {
     "code": "2104091004",
     "district_code": "210409",
-    "name": "Berlian"
+    "name": "Berlian",
+    "postal_code": "29878"
   },
   {
     "code": "2104092001",
     "district_code": "210409",
-    "name": "Marok Kecil"
+    "name": "Marok Kecil",
+    "postal_code": "29878"
   },
   {
     "code": "2104092002",
     "district_code": "210409",
-    "name": "Berhala"
+    "name": "Berhala",
+    "postal_code": "29878"
   },
   {
     "code": "2104092003",
     "district_code": "210409",
-    "name": "Resang"
+    "name": "Resang",
+    "postal_code": "29878"
   }
 ]

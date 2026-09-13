@@ -2,36 +2,43 @@
   {
     "code": "5207042001",
     "district_code": "520704",
-    "name": "Sekongkang Atas"
+    "name": "Sekongkang Atas",
+    "postal_code": "84457"
   },
   {
     "code": "5207042002",
     "district_code": "520704",
-    "name": "Sekongkang Bawah"
+    "name": "Sekongkang Bawah",
+    "postal_code": "84457"
   },
   {
     "code": "5207042003",
     "district_code": "520704",
-    "name": "Tongo"
+    "name": "Tongo",
+    "postal_code": "84457"
   },
   {
     "code": "5207042004",
     "district_code": "520704",
-    "name": "Ai Kangkung"
+    "name": "Ai Kangkung",
+    "postal_code": "84457"
   },
   {
     "code": "5207042005",
     "district_code": "520704",
-    "name": "Tatar"
+    "name": "Tatar",
+    "postal_code": "84457"
   },
   {
     "code": "5207042006",
     "district_code": "520704",
-    "name": "Talonang Baru"
+    "name": "Talonang Baru",
+    "postal_code": "84457"
   },
   {
     "code": "5207042007",
     "district_code": "520704",
-    "name": "Kemuning"
+    "name": "Kemuning",
+    "postal_code": "84457"
   }
 ]

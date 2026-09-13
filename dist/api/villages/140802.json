@@ -2,76 +2,91 @@
   {
     "code": "1408021001",
     "district_code": "140802",
-    "name": "Sungai Apit"
+    "name": "Sungai Apit",
+    "postal_code": "28662"
   },
   {
     "code": "1408022002",
     "district_code": "140802",
-    "name": "Teluk Lanus"
+    "name": "Teluk Lanus",
+    "postal_code": "28662"
   },
   {
     "code": "1408022003",
     "district_code": "140802",
-    "name": "Tanjung Kuras"
+    "name": "Tanjung Kuras",
+    "postal_code": "28662"
   },
   {
     "code": "1408022004",
     "district_code": "140802",
-    "name": "Parit I/II"
+    "name": "Parit I/II",
+    "postal_code": "28662"
   },
   {
     "code": "1408022005",
     "district_code": "140802",
-    "name": "Teluk Mesjid"
+    "name": "Teluk Mesjid",
+    "postal_code": "28662"
   },
   {
     "code": "1408022008",
     "district_code": "140802",
-    "name": "Sungai Kayu Ara"
+    "name": "Sungai Kayu Ara",
+    "postal_code": "28662"
   },
   {
     "code": "1408022009",
     "district_code": "140802",
-    "name": "Lalang"
+    "name": "Lalang",
+    "postal_code": "28662"
   },
   {
     "code": "1408022010",
     "district_code": "140802",
-    "name": "Mengkapan"
+    "name": "Mengkapan",
+    "postal_code": "28662"
   },
   {
     "code": "1408022011",
     "district_code": "140802",
-    "name": "Sungai Rawa"
+    "name": "Sungai Rawa",
+    "postal_code": "28662"
   },
   {
     "code": "1408022012",
     "district_code": "140802",
-    "name": "Penyengat"
+    "name": "Penyengat",
+    "postal_code": "28662"
   },
   {
     "code": "1408022014",
     "district_code": "140802",
-    "name": "Teluk Batil"
+    "name": "Teluk Batil",
+    "postal_code": "28662"
   },
   {
     "code": "1408022016",
     "district_code": "140802",
-    "name": "Bungsur"
+    "name": "Bungsur",
+    "postal_code": "28662"
   },
   {
     "code": "1408022017",
     "district_code": "140802",
-    "name": "Harapan"
+    "name": "Harapan",
+    "postal_code": "28662"
   },
   {
     "code": "1408022019",
     "district_code": "140802",
-    "name": "Kayu Ara Permai"
+    "name": "Kayu Ara Permai",
+    "postal_code": "28662"
   },
   {
     "code": "1408022020",
     "district_code": "140802",
-    "name": "Rawa Mekar Jaya"
+    "name": "Rawa Mekar Jaya",
+    "postal_code": "28662"
   }
 ]

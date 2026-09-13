@@ -2,81 +2,97 @@
   {
     "code": "3271041001",
     "district_code": "327104",
-    "name": "Menteng"
+    "name": "Menteng",
+    "postal_code": "16111"
   },
   {
     "code": "3271041002",
     "district_code": "327104",
-    "name": "Sindang Barang"
+    "name": "Sindang Barang",
+    "postal_code": "16117"
   },
   {
     "code": "3271041003",
     "district_code": "327104",
-    "name": "Bubulak"
+    "name": "Bubulak",
+    "postal_code": "16115"
   },
   {
     "code": "3271041004",
     "district_code": "327104",
-    "name": "Margajaya"
+    "name": "Margajaya",
+    "postal_code": "16116"
   },
   {
     "code": "3271041005",
     "district_code": "327104",
-    "name": "Balumbang Jaya"
+    "name": "Balumbang Jaya",
+    "postal_code": "16116"
   },
   {
     "code": "3271041006",
     "district_code": "327104",
-    "name": "Situ Gede"
+    "name": "Situ Gede",
+    "postal_code": "16115"
   },
   {
     "code": "3271041007",
     "district_code": "327104",
-    "name": "Semplak"
+    "name": "Semplak",
+    "postal_code": "16114"
   },
   {
     "code": "3271041008",
     "district_code": "327104",
-    "name": "Cilendek Barat"
+    "name": "Cilendek Barat",
+    "postal_code": "16112"
   },
   {
     "code": "3271041009",
     "district_code": "327104",
-    "name": "Cilendek Timur"
+    "name": "Cilendek Timur",
+    "postal_code": "16112"
   },
   {
     "code": "3271041010",
     "district_code": "327104",
-    "name": "Curug Mekar"
+    "name": "Curug Mekar",
+    "postal_code": "16113"
   },
   {
     "code": "3271041011",
     "district_code": "327104",
-    "name": "Curug"
+    "name": "Curug",
+    "postal_code": "16113"
   },
   {
     "code": "3271041012",
     "district_code": "327104",
-    "name": "Pasir Jaya"
+    "name": "Pasir Jaya",
+    "postal_code": "16119"
   },
   {
     "code": "3271041013",
     "district_code": "327104",
-    "name": "Pasir Kuda"
+    "name": "Pasir Kuda",
+    "postal_code": "16119"
   },
   {
     "code": "3271041014",
     "district_code": "327104",
-    "name": "Pasir Mulya"
+    "name": "Pasir Mulya",
+    "postal_code": "16118"
   },
   {
     "code": "3271041015",
     "district_code": "327104",
-    "name": "Gunung Batu"
+    "name": "Gunung Batu",
+    "postal_code": "16118"
   },
   {
     "code": "3271041016",
     "district_code": "327104",
-    "name": "Loji"
+    "name": "Loji",
+    "postal_code": "16117"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "7317182001",
     "district_code": "731718",
-    "name": "Pompengan"
+    "name": "Pompengan",
+    "postal_code": "91951"
   },
   {
     "code": "7317182002",
     "district_code": "731718",
-    "name": "Bulolondong"
+    "name": "Bulolondong",
+    "postal_code": "91951"
   },
   {
     "code": "7317182003",
     "district_code": "731718",
-    "name": "Pompengan pantai"
+    "name": "Pompengan pantai",
+    "postal_code": "91951"
   },
   {
     "code": "7317182004",
     "district_code": "731718",
-    "name": "Seriti"
+    "name": "Seriti",
+    "postal_code": "91952"
   },
   {
     "code": "7317182005",
     "district_code": "731718",
-    "name": "Salupao"
+    "name": "Salupao",
+    "postal_code": "91952"
   },
   {
     "code": "7317182006",
     "district_code": "731718",
-    "name": "To'lemo"
+    "name": "To'lemo",
+    "postal_code": "91952"
   },
   {
     "code": "7317182007",
     "district_code": "731718",
-    "name": "Pelalan"
+    "name": "Pelalan",
+    "postal_code": "91952"
   },
   {
     "code": "7317182008",
     "district_code": "731718",
-    "name": "Pompengan Tengah"
+    "name": "Pompengan Tengah",
+    "postal_code": "91952"
   },
   {
     "code": "7317182009",
     "district_code": "731718",
-    "name": "Pompengan Utara"
+    "name": "Pompengan Utara",
+    "postal_code": "91952"
   }
 ]

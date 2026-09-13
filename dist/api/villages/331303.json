@@ -2,61 +2,73 @@
   {
     "code": "3313032001",
     "district_code": "331303",
-    "name": "Paseban"
+    "name": "Paseban",
+    "postal_code": "57783"
   },
   {
     "code": "3313032002",
     "district_code": "331303",
-    "name": "Lemahbang"
+    "name": "Lemahbang",
+    "postal_code": "57783"
   },
   {
     "code": "3313032003",
     "district_code": "331303",
-    "name": "Jatirejo"
+    "name": "Jatirejo",
+    "postal_code": "57783"
   },
   {
     "code": "3313032004",
     "district_code": "331303",
-    "name": "Kwangsan"
+    "name": "Kwangsan",
+    "postal_code": "57783"
   },
   {
     "code": "3313032005",
     "district_code": "331303",
-    "name": "Karangbangun"
+    "name": "Karangbangun",
+    "postal_code": "57783"
   },
   {
     "code": "3313032006",
     "district_code": "331303",
-    "name": "Ploso"
+    "name": "Ploso",
+    "postal_code": "57783"
   },
   {
     "code": "3313032007",
     "district_code": "331303",
-    "name": "Giriwondo"
+    "name": "Giriwondo",
+    "postal_code": "57783"
   },
   {
     "code": "3313032008",
     "district_code": "331303",
-    "name": "Kadipiro"
+    "name": "Kadipiro",
+    "postal_code": "57716"
   },
   {
     "code": "3313032009",
     "district_code": "331303",
-    "name": "Jumantoro"
+    "name": "Jumantoro",
+    "postal_code": "57783"
   },
   {
     "code": "3313032010",
     "district_code": "331303",
-    "name": "Kedawung"
+    "name": "Kedawung",
+    "postal_code": "57783"
   },
   {
     "code": "3313032011",
     "district_code": "331303",
-    "name": "Jumapolo"
+    "name": "Jumapolo",
+    "postal_code": "57783"
   },
   {
     "code": "3313032012",
     "district_code": "331303",
-    "name": "Bakalan"
+    "name": "Bakalan",
+    "postal_code": "57783"
   }
 ]

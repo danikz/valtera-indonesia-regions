@@ -2,61 +2,73 @@
   {
     "code": "3313091001",
     "district_code": "331309",
-    "name": "Lalung"
+    "name": "Lalung",
+    "postal_code": "57716"
   },
   {
     "code": "3313091002",
     "district_code": "331309",
-    "name": "Bolong"
+    "name": "Bolong",
+    "postal_code": "57716"
   },
   {
     "code": "3313091003",
     "district_code": "331309",
-    "name": "Jantiharjo"
+    "name": "Jantiharjo",
+    "postal_code": "57716"
   },
   {
     "code": "3313091004",
     "district_code": "331309",
-    "name": "Tegalgede"
+    "name": "Tegalgede",
+    "postal_code": "57714"
   },
   {
     "code": "3313091005",
     "district_code": "331309",
-    "name": "Jungke"
+    "name": "Jungke",
+    "postal_code": "57713"
   },
   {
     "code": "3313091006",
     "district_code": "331309",
-    "name": "Cangakan"
+    "name": "Cangakan",
+    "postal_code": "57712"
   },
   {
     "code": "3313091007",
     "district_code": "331309",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "57711"
   },
   {
     "code": "3313091008",
     "district_code": "331309",
-    "name": "Bejen"
+    "name": "Bejen",
+    "postal_code": "57716"
   },
   {
     "code": "3313091009",
     "district_code": "331309",
-    "name": "Popongan"
+    "name": "Popongan",
+    "postal_code": "57715"
   },
   {
     "code": "3313091010",
     "district_code": "331309",
-    "name": "Gayamdompo"
+    "name": "Gayamdompo",
+    "postal_code": "57716"
   },
   {
     "code": "3313091011",
     "district_code": "331309",
-    "name": "Delingan"
+    "name": "Delingan",
+    "postal_code": "57716"
   },
   {
     "code": "3313091012",
     "district_code": "331309",
-    "name": "Gedong"
+    "name": "Gedong",
+    "postal_code": "57716"
   }
 ]

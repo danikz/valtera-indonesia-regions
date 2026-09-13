@@ -2,26 +2,31 @@
   {
     "code": "8203132001",
     "district_code": "820313",
-    "name": "Kusuri"
+    "name": "Kusuri",
+    "postal_code": "97762"
   },
   {
     "code": "8203132002",
     "district_code": "820313",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "97762"
   },
   {
     "code": "8203132003",
     "district_code": "820313",
-    "name": "Togoliua"
+    "name": "Togoliua",
+    "postal_code": "97762"
   },
   {
     "code": "8203132004",
     "district_code": "820313",
-    "name": "Birinoa"
+    "name": "Birinoa",
+    "postal_code": "97762"
   },
   {
     "code": "8203132005",
     "district_code": "820313",
-    "name": "Wangongira"
+    "name": "Wangongira",
+    "postal_code": "97762"
   }
 ]

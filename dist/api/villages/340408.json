@@ -2,21 +2,25 @@
   {
     "code": "3404082001",
     "district_code": "340408",
-    "name": "Sendangtirto"
+    "name": "Sendangtirto",
+    "postal_code": "55573"
   },
   {
     "code": "3404082002",
     "district_code": "340408",
-    "name": "Tegaltirto"
+    "name": "Tegaltirto",
+    "postal_code": "55573"
   },
   {
     "code": "3404082003",
     "district_code": "340408",
-    "name": "Kalitirto"
+    "name": "Kalitirto",
+    "postal_code": "55573"
   },
   {
     "code": "3404082004",
     "district_code": "340408",
-    "name": "Jogotirto"
+    "name": "Jogotirto",
+    "postal_code": "55573"
   }
 ]

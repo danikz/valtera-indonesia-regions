@@ -2,26 +2,31 @@
   {
     "code": "1209252001",
     "district_code": "120925",
-    "name": "Sei Lunang"
+    "name": "Sei Lunang",
+    "postal_code": "21383"
   },
   {
     "code": "1209252002",
     "district_code": "120925",
-    "name": "Sei Pasir"
+    "name": "Sei Pasir",
+    "postal_code": "21383"
   },
   {
     "code": "1209252003",
     "district_code": "120925",
-    "name": "Sei Tempurung"
+    "name": "Sei Tempurung",
+    "postal_code": "21383"
   },
   {
     "code": "1209252004",
     "district_code": "120925",
-    "name": "Sarang Helang"
+    "name": "Sarang Helang",
+    "postal_code": "21383"
   },
   {
     "code": "1209252005",
     "district_code": "120925",
-    "name": "Sei Sembilang"
+    "name": "Sei Sembilang",
+    "postal_code": "21383"
   }
 ]

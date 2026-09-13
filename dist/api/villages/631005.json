@@ -2,56 +2,67 @@
   {
     "code": "6310052001",
     "district_code": "631005",
-    "name": "Lasung"
+    "name": "Lasung",
+    "postal_code": "72270"
   },
   {
     "code": "6310052002",
     "district_code": "631005",
-    "name": "Manuntung"
+    "name": "Manuntung",
+    "postal_code": "72270"
   },
   {
     "code": "6310052003",
     "district_code": "631005",
-    "name": "Anjir Baru"
+    "name": "Anjir Baru",
+    "postal_code": "72270"
   },
   {
     "code": "6310052004",
     "district_code": "631005",
-    "name": "Binawara"
+    "name": "Binawara",
+    "postal_code": "72270"
   },
   {
     "code": "6310052005",
     "district_code": "631005",
-    "name": "Pacakan"
+    "name": "Pacakan",
+    "postal_code": "72270"
   },
   {
     "code": "6310052012",
     "district_code": "631005",
-    "name": "Sungai Rukam"
+    "name": "Sungai Rukam",
+    "postal_code": "72270"
   },
   {
     "code": "6310052015",
     "district_code": "631005",
-    "name": "Bakarangan"
+    "name": "Bakarangan",
+    "postal_code": "72270"
   },
   {
     "code": "6310052019",
     "district_code": "631005",
-    "name": "Karang Mulya"
+    "name": "Karang Mulya",
+    "postal_code": "72270"
   },
   {
     "code": "6310052020",
     "district_code": "631005",
-    "name": "Harapan Jaya"
+    "name": "Harapan Jaya",
+    "postal_code": "72270"
   },
   {
     "code": "6310052021",
     "district_code": "631005",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "72270"
   },
   {
     "code": "6310052022",
     "district_code": "631005",
-    "name": "Karang Sari"
+    "name": "Karang Sari",
+    "postal_code": "72270"
   }
 ]

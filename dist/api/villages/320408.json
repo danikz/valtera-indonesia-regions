@@ -2,31 +2,37 @@
   {
     "code": "3204082001",
     "district_code": "320408",
-    "name": "Lengkong"
+    "name": "Lengkong",
+    "postal_code": "40287"
   },
   {
     "code": "3204082002",
     "district_code": "320408",
-    "name": "Bojongsoang"
+    "name": "Bojongsoang",
+    "postal_code": "40288"
   },
   {
     "code": "3204082003",
     "district_code": "320408",
-    "name": "Buahbatu"
+    "name": "Buahbatu",
+    "postal_code": "40287"
   },
   {
     "code": "3204082004",
     "district_code": "320408",
-    "name": "Cipagalo"
+    "name": "Cipagalo",
+    "postal_code": "40287"
   },
   {
     "code": "3204082005",
     "district_code": "320408",
-    "name": "Bojongsari"
+    "name": "Bojongsari",
+    "postal_code": "40288"
   },
   {
     "code": "3204082006",
     "district_code": "320408",
-    "name": "Tegalluar"
+    "name": "Tegalluar",
+    "postal_code": "40287"
   }
 ]

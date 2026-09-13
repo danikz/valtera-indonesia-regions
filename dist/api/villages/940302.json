@@ -2,66 +2,79 @@
   {
     "code": "9403021001",
     "district_code": "940302",
-    "name": "Obano"
+    "name": "Obano",
+    "postal_code": "98723"
   },
   {
     "code": "9403022002",
     "district_code": "940302",
-    "name": "Kegouda"
+    "name": "Kegouda",
+    "postal_code": "98723"
   },
   {
     "code": "9403022003",
     "district_code": "940302",
-    "name": "Totiyo"
+    "name": "Totiyo",
+    "postal_code": "98723"
   },
   {
     "code": "9403022004",
     "district_code": "940302",
-    "name": "Beko"
+    "name": "Beko",
+    "postal_code": "98723"
   },
   {
     "code": "9403022005",
     "district_code": "940302",
-    "name": "Tipakotu"
+    "name": "Tipakotu",
+    "postal_code": "98723"
   },
   {
     "code": "9403022006",
     "district_code": "940302",
-    "name": "Epo Obano"
+    "name": "Epo Obano",
+    "postal_code": "98723"
   },
   {
     "code": "9403022007",
     "district_code": "940302",
-    "name": "Tuwauwa"
+    "name": "Tuwauwa",
+    "postal_code": "98723"
   },
   {
     "code": "9403022008",
     "district_code": "940302",
-    "name": "Wiyogei"
+    "name": "Wiyogei",
+    "postal_code": "98723"
   },
   {
     "code": "9403022009",
     "district_code": "940302",
-    "name": "Ekinauwo"
+    "name": "Ekinauwo",
+    "postal_code": "98723"
   },
   {
     "code": "9403022010",
     "district_code": "940302",
-    "name": "Kigodide"
+    "name": "Kigodide",
+    "postal_code": "98723"
   },
   {
     "code": "9403022011",
     "district_code": "940302",
-    "name": "Putakogopa"
+    "name": "Putakogopa",
+    "postal_code": "98723"
   },
   {
     "code": "9403022012",
     "district_code": "940302",
-    "name": "Waukotopa"
+    "name": "Waukotopa",
+    "postal_code": "98723"
   },
   {
     "code": "9403022013",
     "district_code": "940302",
-    "name": "Digiugii"
+    "name": "Digiugii",
+    "postal_code": "98723"
   }
 ]

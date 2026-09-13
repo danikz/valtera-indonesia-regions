@@ -2,51 +2,61 @@
   {
     "code": "1113102001",
     "district_code": "111310",
-    "name": "Perlak"
+    "name": "Perlak",
+    "postal_code": "24657"
   },
   {
     "code": "1113102002",
     "district_code": "111310",
-    "name": "Rerebe"
+    "name": "Rerebe",
+    "postal_code": "24657"
   },
   {
     "code": "1113102003",
     "district_code": "111310",
-    "name": "Pasir"
+    "name": "Pasir",
+    "postal_code": "24657"
   },
   {
     "code": "1113102004",
     "district_code": "111310",
-    "name": "Setul"
+    "name": "Setul",
+    "postal_code": "24657"
   },
   {
     "code": "1113102005",
     "district_code": "111310",
-    "name": "UPT. Paya Kumer"
+    "name": "UPT. Paya Kumer",
+    "postal_code": "24657"
   },
   {
     "code": "1113102006",
     "district_code": "111310",
-    "name": "UPT. Pantan Kela"
+    "name": "UPT. Pantan Kela",
+    "postal_code": "24657"
   },
   {
     "code": "1113102007",
     "district_code": "111310",
-    "name": "Buntul Musara"
+    "name": "Buntul Musara",
+    "postal_code": "24657"
   },
   {
     "code": "1113102008",
     "district_code": "111310",
-    "name": "Kuala Jernih"
+    "name": "Kuala Jernih",
+    "postal_code": "24657"
   },
   {
     "code": "1113102009",
     "district_code": "111310",
-    "name": "Uyem Beriring"
+    "name": "Uyem Beriring",
+    "postal_code": "24657"
   },
   {
     "code": "1113102010",
     "district_code": "111310",
-    "name": "Pulo Gelime"
+    "name": "Pulo Gelime",
+    "postal_code": "24657"
   }
 ]

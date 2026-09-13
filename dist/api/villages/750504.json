@@ -2,56 +2,67 @@
   {
     "code": "7505042001",
     "district_code": "750504",
-    "name": "Bulontiyo Timur"
+    "name": "Bulontiyo Timur",
+    "postal_code": "96514"
   },
   {
     "code": "7505042002",
     "district_code": "750504",
-    "name": "Bulontiyo Barat"
+    "name": "Bulontiyo Barat",
+    "postal_code": "96514"
   },
   {
     "code": "7505042007",
     "district_code": "750504",
-    "name": "Buloila"
+    "name": "Buloila",
+    "postal_code": "96514"
   },
   {
     "code": "7505042009",
     "district_code": "750504",
-    "name": "Kasia"
+    "name": "Kasia",
+    "postal_code": "96514"
   },
   {
     "code": "7505042010",
     "district_code": "750504",
-    "name": "Kikia"
+    "name": "Kikia",
+    "postal_code": "96514"
   },
   {
     "code": "7505042012",
     "district_code": "750504",
-    "name": "Tumba"
+    "name": "Tumba",
+    "postal_code": "96514"
   },
   {
     "code": "7505042013",
     "district_code": "750504",
-    "name": "Mebongo"
+    "name": "Mebongo",
+    "postal_code": "96514"
   },
   {
     "code": "7505042014",
     "district_code": "750504",
-    "name": "Lelato"
+    "name": "Lelato",
+    "postal_code": "96514"
   },
   {
     "code": "7505042016",
     "district_code": "750504",
-    "name": "Pulohenti"
+    "name": "Pulohenti",
+    "postal_code": "96514"
   },
   {
     "code": "7505042019",
     "district_code": "750504",
-    "name": "Puncak Mandiri"
+    "name": "Puncak Mandiri",
+    "postal_code": "96514"
   },
   {
     "code": "7505042020",
     "district_code": "750504",
-    "name": "Hutakalo"
+    "name": "Hutakalo",
+    "postal_code": "96514"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "7604061005",
     "district_code": "760406",
-    "name": "Amassangan"
+    "name": "Amassangan",
+    "postal_code": "91312"
   },
   {
     "code": "7604062001",
     "district_code": "760406",
-    "name": "Tonyaman"
+    "name": "Tonyaman",
+    "postal_code": "91312"
   },
   {
     "code": "7604062002",
     "district_code": "760406",
-    "name": "Kuajang"
+    "name": "Kuajang",
+    "postal_code": "91351"
   },
   {
     "code": "7604062003",
     "district_code": "760406",
-    "name": "Paku"
+    "name": "Paku",
+    "postal_code": "91351"
   },
   {
     "code": "7604062004",
     "district_code": "760406",
-    "name": "Mirring"
+    "name": "Mirring",
+    "postal_code": "91312"
   },
   {
     "code": "7604062006",
     "district_code": "760406",
-    "name": "Batetangnga"
+    "name": "Batetangnga",
+    "postal_code": "91312"
   },
   {
     "code": "7604062007",
     "district_code": "760406",
-    "name": "Mammi"
+    "name": "Mammi",
+    "postal_code": "91311"
   },
   {
     "code": "7604062008",
     "district_code": "760406",
-    "name": "Kaleok"
+    "name": "Kaleok",
+    "postal_code": "91312"
   },
   {
     "code": "7604062009",
     "district_code": "760406",
-    "name": "Amola"
+    "name": "Amola",
+    "postal_code": "91312"
   },
   {
     "code": "7604062010",
     "district_code": "760406",
-    "name": "Rea"
+    "name": "Rea",
+    "postal_code": "91312"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "9209082001",
     "district_code": "920908",
-    "name": "Mega"
+    "name": "Mega",
+    "postal_code": ""
   },
   {
     "code": "9209082003",
     "district_code": "920908",
-    "name": "Selewok"
+    "name": "Selewok",
+    "postal_code": ""
   },
   {
     "code": "9209082004",
     "district_code": "920908",
-    "name": "Malaworsai"
+    "name": "Malaworsai",
+    "postal_code": ""
   },
   {
     "code": "9209082007",
     "district_code": "920908",
-    "name": "Kwade"
+    "name": "Kwade",
+    "postal_code": ""
   },
   {
     "code": "9209082008",
     "district_code": "920908",
-    "name": "Bonem"
+    "name": "Bonem",
+    "postal_code": ""
   },
   {
     "code": "9209082009",
     "district_code": "920908",
-    "name": "Warafor"
+    "name": "Warafor",
+    "postal_code": ""
   },
   {
     "code": "9209082010",
     "district_code": "920908",
-    "name": "Warmasi"
+    "name": "Warmasi",
+    "postal_code": ""
   },
   {
     "code": "9209082011",
     "district_code": "920908",
-    "name": "Warmanen"
+    "name": "Warmanen",
+    "postal_code": ""
   },
   {
     "code": "9209082012",
     "district_code": "920908",
-    "name": "Namuas"
+    "name": "Namuas",
+    "postal_code": ""
   }
 ]

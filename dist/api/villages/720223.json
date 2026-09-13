@@ -2,31 +2,37 @@
   {
     "code": "7202232001",
     "district_code": "720223",
-    "name": "Tuare"
+    "name": "Tuare",
+    "postal_code": "94654"
   },
   {
     "code": "7202232002",
     "district_code": "720223",
-    "name": "Kageroa"
+    "name": "Kageroa",
+    "postal_code": "94654"
   },
   {
     "code": "7202232003",
     "district_code": "720223",
-    "name": "Tomehipi"
+    "name": "Tomehipi",
+    "postal_code": "94654"
   },
   {
     "code": "7202232004",
     "district_code": "720223",
-    "name": "Lengkeka"
+    "name": "Lengkeka",
+    "postal_code": "94654"
   },
   {
     "code": "7202232005",
     "district_code": "720223",
-    "name": "Kolori"
+    "name": "Kolori",
+    "postal_code": "94654"
   },
   {
     "code": "7202232006",
     "district_code": "720223",
-    "name": "Lelio"
+    "name": "Lelio",
+    "postal_code": "94654"
   }
 ]

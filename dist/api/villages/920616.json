@@ -2,26 +2,31 @@
   {
     "code": "9206162001",
     "district_code": "920616",
-    "name": "Aroba"
+    "name": "Aroba",
+    "postal_code": "98131"
   },
   {
     "code": "9206162002",
     "district_code": "920616",
-    "name": "Yaru"
+    "name": "Yaru",
+    "postal_code": "98131"
   },
   {
     "code": "9206162003",
     "district_code": "920616",
-    "name": "Sido Makmur"
+    "name": "Sido Makmur",
+    "postal_code": "98131"
   },
   {
     "code": "9206162004",
     "district_code": "920616",
-    "name": "Wimbro"
+    "name": "Wimbro",
+    "postal_code": "98131"
   },
   {
     "code": "9206162005",
     "district_code": "920616",
-    "name": "Sangguar"
+    "name": "Sangguar",
+    "postal_code": "98131"
   }
 ]

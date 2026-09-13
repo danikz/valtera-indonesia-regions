@@ -2,56 +2,67 @@
   {
     "code": "9504172001",
     "district_code": "950417",
-    "name": "Nabunage"
+    "name": "Nabunage",
+    "postal_code": "99045"
   },
   {
     "code": "9504172002",
     "district_code": "950417",
-    "name": "Kupara"
+    "name": "Kupara",
+    "postal_code": "99045"
   },
   {
     "code": "9504172003",
     "district_code": "950417",
-    "name": "Kutime"
+    "name": "Kutime",
+    "postal_code": "99045"
   },
   {
     "code": "9504172004",
     "district_code": "950417",
-    "name": "Kumbo"
+    "name": "Kumbo",
+    "postal_code": "99045"
   },
   {
     "code": "9504172005",
     "district_code": "950417",
-    "name": "Timbindelo"
+    "name": "Timbindelo",
+    "postal_code": "99045"
   },
   {
     "code": "9504172006",
     "district_code": "950417",
-    "name": "Jekito"
+    "name": "Jekito",
+    "postal_code": "99428"
   },
   {
     "code": "9504172007",
     "district_code": "950417",
-    "name": "Wewo"
+    "name": "Wewo",
+    "postal_code": "99428"
   },
   {
     "code": "9504172008",
     "district_code": "950417",
-    "name": "Geningga"
+    "name": "Geningga",
+    "postal_code": "99428"
   },
   {
     "code": "9504172009",
     "district_code": "950417",
-    "name": "Kimilo"
+    "name": "Kimilo",
+    "postal_code": "99428"
   },
   {
     "code": "9504172010",
     "district_code": "950417",
-    "name": "Missa"
+    "name": "Missa",
+    "postal_code": "99428"
   },
   {
     "code": "9504172011",
     "district_code": "950417",
-    "name": "Logilome"
+    "name": "Logilome",
+    "postal_code": "99045"
   }
 ]

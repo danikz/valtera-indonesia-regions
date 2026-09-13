@@ -2,21 +2,25 @@
   {
     "code": "3402022001",
     "district_code": "340202",
-    "name": "Gadingsari"
+    "name": "Gadingsari",
+    "postal_code": "55763"
   },
   {
     "code": "3402022002",
     "district_code": "340202",
-    "name": "Gadingharjo"
+    "name": "Gadingharjo",
+    "postal_code": "55763"
   },
   {
     "code": "3402022003",
     "district_code": "340202",
-    "name": "Srigading"
+    "name": "Srigading",
+    "postal_code": "55763"
   },
   {
     "code": "3402022004",
     "district_code": "340202",
-    "name": "Murtigading"
+    "name": "Murtigading",
+    "postal_code": "55763"
   }
 ]

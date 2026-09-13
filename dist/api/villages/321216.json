@@ -2,51 +2,61 @@
   {
     "code": "3212162001",
     "district_code": "321216",
-    "name": "Panyindangan Kulon"
+    "name": "Panyindangan Kulon",
+    "postal_code": "45225"
   },
   {
     "code": "3212162002",
     "district_code": "321216",
-    "name": "Rambatan Wetan"
+    "name": "Rambatan Wetan",
+    "postal_code": "45221"
   },
   {
     "code": "3212162003",
     "district_code": "321216",
-    "name": "Panyindangan Wetan"
+    "name": "Panyindangan Wetan",
+    "postal_code": "45225"
   },
   {
     "code": "3212162004",
     "district_code": "321216",
-    "name": "Kenanga"
+    "name": "Kenanga",
+    "postal_code": "45226"
   },
   {
     "code": "3212162005",
     "district_code": "321216",
-    "name": "Terusan"
+    "name": "Terusan",
+    "postal_code": "45224"
   },
   {
     "code": "3212162006",
     "district_code": "321216",
-    "name": "Dermayu"
+    "name": "Dermayu",
+    "postal_code": "45223"
   },
   {
     "code": "3212162007",
     "district_code": "321216",
-    "name": "Sindang"
+    "name": "Sindang",
+    "postal_code": "45222"
   },
   {
     "code": "3212162008",
     "district_code": "321216",
-    "name": "Penganjang"
+    "name": "Penganjang",
+    "postal_code": "45221"
   },
   {
     "code": "3212162009",
     "district_code": "321216",
-    "name": "Babadan"
+    "name": "Babadan",
+    "postal_code": "45227"
   },
   {
     "code": "3212162014",
     "district_code": "321216",
-    "name": "Wanantara"
+    "name": "Wanantara",
+    "postal_code": "45227"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "9501132001",
     "district_code": "950113",
-    "name": "Napua"
+    "name": "Napua",
+    "postal_code": "99505"
   },
   {
     "code": "9501132002",
     "district_code": "950113",
-    "name": "Holima"
+    "name": "Holima",
+    "postal_code": "99505"
   },
   {
     "code": "9501132003",
     "district_code": "950113",
-    "name": "Lani Matuan"
+    "name": "Lani Matuan",
+    "postal_code": "99505"
   },
   {
     "code": "9501132004",
     "district_code": "950113",
-    "name": "Okilik"
+    "name": "Okilik",
+    "postal_code": "99505"
   },
   {
     "code": "9501132005",
     "district_code": "950113",
-    "name": "Healekma"
+    "name": "Healekma",
+    "postal_code": "99505"
   },
   {
     "code": "9501132006",
     "district_code": "950113",
-    "name": "Yelekama"
+    "name": "Yelekama",
+    "postal_code": "99505"
   },
   {
     "code": "9501132007",
     "district_code": "950113",
-    "name": "Sapalek"
+    "name": "Sapalek",
+    "postal_code": "99505"
   },
   {
     "code": "9501132008",
     "district_code": "950113",
-    "name": "Yomaima"
+    "name": "Yomaima",
+    "postal_code": "99505"
   },
   {
     "code": "9501132009",
     "district_code": "950113",
-    "name": "Wilekama"
+    "name": "Wilekama",
+    "postal_code": "99505"
   }
 ]

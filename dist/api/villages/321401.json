@@ -2,51 +2,61 @@
   {
     "code": "3214011001",
     "district_code": "321401",
-    "name": "Nagri Kidul"
+    "name": "Nagri Kidul",
+    "postal_code": "41111"
   },
   {
     "code": "3214011002",
     "district_code": "321401",
-    "name": "Nagri Kaler"
+    "name": "Nagri Kaler",
+    "postal_code": "41115"
   },
   {
     "code": "3214011003",
     "district_code": "321401",
-    "name": "Nagri Tengah"
+    "name": "Nagri Tengah",
+    "postal_code": "41114"
   },
   {
     "code": "3214011004",
     "district_code": "321401",
-    "name": "Sindangkasih"
+    "name": "Sindangkasih",
+    "postal_code": "41112"
   },
   {
     "code": "3214011005",
     "district_code": "321401",
-    "name": "Cipaisan"
+    "name": "Cipaisan",
+    "postal_code": "41113"
   },
   {
     "code": "3214011006",
     "district_code": "321401",
-    "name": "Purwamekar"
+    "name": "Purwamekar",
+    "postal_code": "41119"
   },
   {
     "code": "3214011007",
     "district_code": "321401",
-    "name": "Ciseureuh"
+    "name": "Ciseureuh",
+    "postal_code": "41118"
   },
   {
     "code": "3214011008",
     "district_code": "321401",
-    "name": "Tegalmuncul"
+    "name": "Tegalmuncul",
+    "postal_code": "41116"
   },
   {
     "code": "3214011009",
     "district_code": "321401",
-    "name": "Munjuljaya"
+    "name": "Munjuljaya",
+    "postal_code": "41117"
   },
   {
     "code": "3214012010",
     "district_code": "321401",
-    "name": "Citalang"
+    "name": "Citalang",
+    "postal_code": "41111"
   }
 ]

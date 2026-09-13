@@ -2,66 +2,79 @@
   {
     "code": "1202061001",
     "district_code": "120206",
-    "name": "Sarulla"
+    "name": "Sarulla",
+    "postal_code": "22465"
   },
   {
     "code": "1202062002",
     "district_code": "120206",
-    "name": "Tordolok Nauli"
+    "name": "Tordolok Nauli",
+    "postal_code": "22465"
   },
   {
     "code": "1202062003",
     "district_code": "120206",
-    "name": "Sigurung-gurung"
+    "name": "Sigurung-gurung",
+    "postal_code": "22465"
   },
   {
     "code": "1202062004",
     "district_code": "120206",
-    "name": "Silangkitang"
+    "name": "Silangkitang",
+    "postal_code": "22465"
   },
   {
     "code": "1202062005",
     "district_code": "120206",
-    "name": "Sitoluompu"
+    "name": "Sitoluompu",
+    "postal_code": "22465"
   },
   {
     "code": "1202062006",
     "district_code": "120206",
-    "name": "Siopat Bahal"
+    "name": "Siopat Bahal",
+    "postal_code": "22465"
   },
   {
     "code": "1202062007",
     "district_code": "120206",
-    "name": "Pardomuan Nainggolan"
+    "name": "Pardomuan Nainggolan",
+    "postal_code": "22465"
   },
   {
     "code": "1202062008",
     "district_code": "120206",
-    "name": "Nahornop Marsada"
+    "name": "Nahornop Marsada",
+    "postal_code": "22465"
   },
   {
     "code": "1202062009",
     "district_code": "120206",
-    "name": "Parsaoran Samosir"
+    "name": "Parsaoran Samosir",
+    "postal_code": "22465"
   },
   {
     "code": "1202062010",
     "district_code": "120206",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "22465"
   },
   {
     "code": "1202062011",
     "district_code": "120206",
-    "name": "Setia"
+    "name": "Setia",
+    "postal_code": "22465"
   },
   {
     "code": "1202062012",
     "district_code": "120206",
-    "name": "Parsaoran Nainggolan"
+    "name": "Parsaoran Nainggolan",
+    "postal_code": "22465"
   },
   {
     "code": "1202062013",
     "district_code": "120206",
-    "name": "PardameanNainggolan"
+    "name": "PardameanNainggolan",
+    "postal_code": "22465"
   }
 ]

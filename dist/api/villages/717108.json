@@ -2,51 +2,61 @@
   {
     "code": "7171081001",
     "district_code": "717108",
-    "name": "Paniki Bawah"
+    "name": "Paniki Bawah",
+    "postal_code": "95256"
   },
   {
     "code": "7171081002",
     "district_code": "717108",
-    "name": "Lapangan"
+    "name": "Lapangan",
+    "postal_code": "95258"
   },
   {
     "code": "7171081003",
     "district_code": "717108",
-    "name": "Mapanget Barat"
+    "name": "Mapanget Barat",
+    "postal_code": "95258"
   },
   {
     "code": "7171081004",
     "district_code": "717108",
-    "name": "Kima Atas"
+    "name": "Kima Atas",
+    "postal_code": "95259"
   },
   {
     "code": "7171081005",
     "district_code": "717108",
-    "name": "Buha"
+    "name": "Buha",
+    "postal_code": "95252"
   },
   {
     "code": "7171081006",
     "district_code": "717108",
-    "name": "Bengkol"
+    "name": "Bengkol",
+    "postal_code": "95251"
   },
   {
     "code": "7171081008",
     "district_code": "717108",
-    "name": "Kairagi Satu"
+    "name": "Kairagi Satu",
+    "postal_code": "95253"
   },
   {
     "code": "7171081009",
     "district_code": "717108",
-    "name": "Kairagi Dua"
+    "name": "Kairagi Dua",
+    "postal_code": "95254"
   },
   {
     "code": "7171081010",
     "district_code": "717108",
-    "name": "Paniki Satu"
+    "name": "Paniki Satu",
+    "postal_code": "95259"
   },
   {
     "code": "7171081011",
     "district_code": "717108",
-    "name": "Paniki Dua"
+    "name": "Paniki Dua",
+    "postal_code": "95257"
   }
 ]

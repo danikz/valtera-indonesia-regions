@@ -2,71 +2,85 @@
   {
     "code": "1410042001",
     "district_code": "141004",
-    "name": "Alai"
+    "name": "Alai",
+    "postal_code": "28758"
   },
   {
     "code": "1410042002",
     "district_code": "141004",
-    "name": "Tenan"
+    "name": "Tenan",
+    "postal_code": "28758"
   },
   {
     "code": "1410042003",
     "district_code": "141004",
-    "name": "Insit"
+    "name": "Insit",
+    "postal_code": "28758"
   },
   {
     "code": "1410042004",
     "district_code": "141004",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "28758"
   },
   {
     "code": "1410042005",
     "district_code": "141004",
-    "name": "Tanjung Peranap"
+    "name": "Tanjung Peranap",
+    "postal_code": "28758"
   },
   {
     "code": "1410042006",
     "district_code": "141004",
-    "name": "Kundur"
+    "name": "Kundur",
+    "postal_code": "28758"
   },
   {
     "code": "1410042007",
     "district_code": "141004",
-    "name": "Mekong"
+    "name": "Mekong",
+    "postal_code": "28758"
   },
   {
     "code": "1410042008",
     "district_code": "141004",
-    "name": "Batang Malas"
+    "name": "Batang Malas",
+    "postal_code": "28758"
   },
   {
     "code": "1410042009",
     "district_code": "141004",
-    "name": "Mantiasa"
+    "name": "Mantiasa",
+    "postal_code": "28758"
   },
   {
     "code": "1410042010",
     "district_code": "141004",
-    "name": "Gogok Darussalam"
+    "name": "Gogok Darussalam",
+    "postal_code": "28758"
   },
   {
     "code": "1410042011",
     "district_code": "141004",
-    "name": "Maini Darul Aman"
+    "name": "Maini Darul Aman",
+    "postal_code": "28758"
   },
   {
     "code": "1410042012",
     "district_code": "141004",
-    "name": "Mengkikip"
+    "name": "Mengkikip",
+    "postal_code": "28758"
   },
   {
     "code": "1410042013",
     "district_code": "141004",
-    "name": "Alai Selatan"
+    "name": "Alai Selatan",
+    "postal_code": "28758"
   },
   {
     "code": "1410042014",
     "district_code": "141004",
-    "name": "Tanjung Darul Takzim"
+    "name": "Tanjung Darul Takzim",
+    "postal_code": "28758"
   }
 ]

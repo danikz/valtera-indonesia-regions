@@ -2,56 +2,67 @@
   {
     "code": "8102192001",
     "district_code": "810219",
-    "name": "Danar Ohoiseb"
+    "name": "Danar Ohoiseb",
+    "postal_code": "97626"
   },
   {
     "code": "8102192002",
     "district_code": "810219",
-    "name": "Danar Ternate"
+    "name": "Danar Ternate",
+    "postal_code": "97626"
   },
   {
     "code": "8102192003",
     "district_code": "810219",
-    "name": "Danar Lumefar"
+    "name": "Danar Lumefar",
+    "postal_code": "97626"
   },
   {
     "code": "8102192004",
     "district_code": "810219",
-    "name": "Elaar Ngursoin"
+    "name": "Elaar Ngursoin",
+    "postal_code": "97626"
   },
   {
     "code": "8102192005",
     "district_code": "810219",
-    "name": "Elaar Lamagorang"
+    "name": "Elaar Lamagorang",
+    "postal_code": "97626"
   },
   {
     "code": "8102192006",
     "district_code": "810219",
-    "name": "Elaar Let"
+    "name": "Elaar Let",
+    "postal_code": "97626"
   },
   {
     "code": "8102192007",
     "district_code": "810219",
-    "name": "Sare"
+    "name": "Sare",
+    "postal_code": "97626"
   },
   {
     "code": "8102192008",
     "district_code": "810219",
-    "name": "Maar"
+    "name": "Maar",
+    "postal_code": "97626"
   },
   {
     "code": "8102192009",
     "district_code": "810219",
-    "name": "Uf"
+    "name": "Uf",
+    "postal_code": "97626"
   },
   {
     "code": "8102192010",
     "district_code": "810219",
-    "name": "Ngurwul"
+    "name": "Ngurwul",
+    "postal_code": "97626"
   },
   {
     "code": "8102192011",
     "district_code": "810219",
-    "name": "Garara"
+    "name": "Garara",
+    "postal_code": "97626"
   }
 ]

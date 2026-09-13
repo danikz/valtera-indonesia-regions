@@ -2,46 +2,55 @@
   {
     "code": "1401202001",
     "district_code": "140120",
-    "name": "Kebun Durian"
+    "name": "Kebun Durian",
+    "postal_code": "28471"
   },
   {
     "code": "1401202002",
     "district_code": "140120",
-    "name": "Gunung Sahilan"
+    "name": "Gunung Sahilan",
+    "postal_code": "28471"
   },
   {
     "code": "1401202003",
     "district_code": "140120",
-    "name": "Gunung Sari"
+    "name": "Gunung Sari",
+    "postal_code": "28471"
   },
   {
     "code": "1401202004",
     "district_code": "140120",
-    "name": "Suka Makmur"
+    "name": "Suka Makmur",
+    "postal_code": "28471"
   },
   {
     "code": "1401202005",
     "district_code": "140120",
-    "name": "Subarak"
+    "name": "Subarak",
+    "postal_code": "28471"
   },
   {
     "code": "1401202006",
     "district_code": "140120",
-    "name": "Sungai Lipai"
+    "name": "Sungai Lipai",
+    "postal_code": "28471"
   },
   {
     "code": "1401202007",
     "district_code": "140120",
-    "name": "Sahilan Darussalam"
+    "name": "Sahilan Darussalam",
+    "postal_code": "28471"
   },
   {
     "code": "1401202008",
     "district_code": "140120",
-    "name": "Gunung Mulya"
+    "name": "Gunung Mulya",
+    "postal_code": "28471"
   },
   {
     "code": "1401202009",
     "district_code": "140120",
-    "name": "Makmur Sejahtera"
+    "name": "Makmur Sejahtera",
+    "postal_code": "28471"
   }
 ]

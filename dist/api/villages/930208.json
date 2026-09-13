@@ -2,26 +2,31 @@
   {
     "code": "9302082001",
     "district_code": "930208",
-    "name": "Langgoan"
+    "name": "Langgoan",
+    "postal_code": "99661"
   },
   {
     "code": "9302082002",
     "district_code": "930208",
-    "name": "Tetop"
+    "name": "Tetop",
+    "postal_code": "99661"
   },
   {
     "code": "9302082003",
     "district_code": "930208",
-    "name": "Wariktop"
+    "name": "Wariktop",
+    "postal_code": "99661"
   },
   {
     "code": "9302082004",
     "district_code": "930208",
-    "name": "Autriop"
+    "name": "Autriop",
+    "postal_code": "99661"
   },
   {
     "code": "9302082005",
     "district_code": "930208",
-    "name": "Ogenatan"
+    "name": "Ogenatan",
+    "postal_code": "99661"
   }
 ]

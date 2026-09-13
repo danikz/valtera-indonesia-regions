@@ -2,66 +2,79 @@
   {
     "code": "5302011001",
     "district_code": "530201",
-    "name": "SoE"
+    "name": "SoE",
+    "postal_code": "85519"
   },
   {
     "code": "5302011002",
     "district_code": "530201",
-    "name": "Cendana"
+    "name": "Cendana",
+    "postal_code": "85519"
   },
   {
     "code": "5302011003",
     "district_code": "530201",
-    "name": "Oebesa"
+    "name": "Oebesa",
+    "postal_code": "85515"
   },
   {
     "code": "5302011004",
     "district_code": "530201",
-    "name": "Taubneno"
+    "name": "Taubneno",
+    "postal_code": "85511"
   },
   {
     "code": "5302011005",
     "district_code": "530201",
-    "name": "Nonohonis"
+    "name": "Nonohonis",
+    "postal_code": "85517"
   },
   {
     "code": "5302011006",
     "district_code": "530201",
-    "name": "Karang Sirih"
+    "name": "Karang Sirih",
+    "postal_code": "85519"
   },
   {
     "code": "5302011007",
     "district_code": "530201",
-    "name": "Nunumeu"
+    "name": "Nunumeu",
+    "postal_code": "85516"
   },
   {
     "code": "5302011008",
     "district_code": "530201",
-    "name": "Kobekamusa"
+    "name": "Kobekamusa",
+    "postal_code": "85515"
   },
   {
     "code": "5302011009",
     "district_code": "530201",
-    "name": "Oe Kefan"
+    "name": "Oe Kefan",
+    "postal_code": "85519"
   },
   {
     "code": "5302011010",
     "district_code": "530201",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "85519"
   },
   {
     "code": "5302011011",
     "district_code": "530201",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "85519"
   },
   {
     "code": "5302012012",
     "district_code": "530201",
-    "name": "Kuatae"
+    "name": "Kuatae",
+    "postal_code": "85519"
   },
   {
     "code": "5302012013",
     "district_code": "530201",
-    "name": "Noemeto"
+    "name": "Noemeto",
+    "postal_code": "85519"
   }
 ]

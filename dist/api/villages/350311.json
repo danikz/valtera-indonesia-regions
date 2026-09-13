@@ -2,66 +2,79 @@
   {
     "code": "3503111002",
     "district_code": "350311",
-    "name": "Tamanan"
+    "name": "Tamanan",
+    "postal_code": "66312"
   },
   {
     "code": "3503111003",
     "district_code": "350311",
-    "name": "Ngantru"
+    "name": "Ngantru",
+    "postal_code": "66311"
   },
   {
     "code": "3503111005",
     "district_code": "350311",
-    "name": "Kelutan"
+    "name": "Kelutan",
+    "postal_code": "66313"
   },
   {
     "code": "3503111006",
     "district_code": "350311",
-    "name": "Surodakan"
+    "name": "Surodakan",
+    "postal_code": "66316"
   },
   {
     "code": "3503111007",
     "district_code": "350311",
-    "name": "Sumbergedong"
+    "name": "Sumbergedong",
+    "postal_code": "66315"
   },
   {
     "code": "3503112001",
     "district_code": "350311",
-    "name": "Ngares"
+    "name": "Ngares",
+    "postal_code": "66319"
   },
   {
     "code": "3503112004",
     "district_code": "350311",
-    "name": "Karangsoko"
+    "name": "Karangsoko",
+    "postal_code": "66319"
   },
   {
     "code": "3503112008",
     "district_code": "350311",
-    "name": "Sambirejo"
+    "name": "Sambirejo",
+    "postal_code": "66314"
   },
   {
     "code": "3503112009",
     "district_code": "350311",
-    "name": "Sumberdadi"
+    "name": "Sumberdadi",
+    "postal_code": "66319"
   },
   {
     "code": "3503112010",
     "district_code": "350311",
-    "name": "Rejowinangun"
+    "name": "Rejowinangun",
+    "postal_code": "66317"
   },
   {
     "code": "3503112011",
     "district_code": "350311",
-    "name": "Sukosari"
+    "name": "Sukosari",
+    "postal_code": "66318"
   },
   {
     "code": "3503112012",
     "district_code": "350311",
-    "name": "Parakan"
+    "name": "Parakan",
+    "postal_code": "66317"
   },
   {
     "code": "3503112013",
     "district_code": "350311",
-    "name": "Dawuhan"
+    "name": "Dawuhan",
+    "postal_code": "66318"
   }
 ]

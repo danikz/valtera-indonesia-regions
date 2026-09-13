@@ -2,41 +2,49 @@
   {
     "code": "3175101001",
     "district_code": "317510",
-    "name": "Cipayung"
+    "name": "Cipayung",
+    "postal_code": "13840"
   },
   {
     "code": "3175101002",
     "district_code": "317510",
-    "name": "Cilangkap"
+    "name": "Cilangkap",
+    "postal_code": "13870"
   },
   {
     "code": "3175101003",
     "district_code": "317510",
-    "name": "Pondok Ranggon"
+    "name": "Pondok Ranggon",
+    "postal_code": "13860"
   },
   {
     "code": "3175101004",
     "district_code": "317510",
-    "name": "Munjul"
+    "name": "Munjul",
+    "postal_code": "13850"
   },
   {
     "code": "3175101005",
     "district_code": "317510",
-    "name": "Setu"
+    "name": "Setu",
+    "postal_code": "13880"
   },
   {
     "code": "3175101006",
     "district_code": "317510",
-    "name": "Bambu Apus"
+    "name": "Bambu Apus",
+    "postal_code": "13890"
   },
   {
     "code": "3175101007",
     "district_code": "317510",
-    "name": "Lubang Buaya"
+    "name": "Lubang Buaya",
+    "postal_code": "13810"
   },
   {
     "code": "3175101008",
     "district_code": "317510",
-    "name": "Ceger"
+    "name": "Ceger",
+    "postal_code": "13820"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "6104012011",
     "district_code": "610401",
-    "name": "Sungai Putri"
+    "name": "Sungai Putri",
+    "postal_code": "78813"
   },
   {
     "code": "6104012012",
     "district_code": "610401",
-    "name": "Tanjung Baik Budi"
+    "name": "Tanjung Baik Budi",
+    "postal_code": "78813"
   },
   {
     "code": "6104012013",
     "district_code": "610401",
-    "name": "Kuala Tolak"
+    "name": "Kuala Tolak",
+    "postal_code": "78813"
   },
   {
     "code": "6104012014",
     "district_code": "610401",
-    "name": "Kuala Satong"
+    "name": "Kuala Satong",
+    "postal_code": "78813"
   },
   {
     "code": "6104012015",
     "district_code": "610401",
-    "name": "Lamon Satong"
+    "name": "Lamon Satong",
+    "postal_code": "78813"
   }
 ]

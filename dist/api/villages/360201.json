@@ -2,71 +2,85 @@
   {
     "code": "3602012002",
     "district_code": "360201",
-    "name": "Cilangkahan"
+    "name": "Cilangkahan",
+    "postal_code": "42391"
   },
   {
     "code": "3602012003",
     "district_code": "360201",
-    "name": "Pagelaran"
+    "name": "Pagelaran",
+    "postal_code": "42391"
   },
   {
     "code": "3602012004",
     "district_code": "360201",
-    "name": "Sukaraja"
+    "name": "Sukaraja",
+    "postal_code": "42391"
   },
   {
     "code": "3602012005",
     "district_code": "360201",
-    "name": "Malingping Utara"
+    "name": "Malingping Utara",
+    "postal_code": "42391"
   },
   {
     "code": "3602012006",
     "district_code": "360201",
-    "name": "Bolang"
+    "name": "Bolang",
+    "postal_code": "42391"
   },
   {
     "code": "3602012009",
     "district_code": "360201",
-    "name": "Cipeundeuy"
+    "name": "Cipeundeuy",
+    "postal_code": "42391"
   },
   {
     "code": "3602012013",
     "district_code": "360201",
-    "name": "Rahong"
+    "name": "Rahong",
+    "postal_code": "42391"
   },
   {
     "code": "3602012014",
     "district_code": "360201",
-    "name": "Kadujajar"
+    "name": "Kadujajar",
+    "postal_code": "42391"
   },
   {
     "code": "3602012016",
     "district_code": "360201",
-    "name": "Kersaratu"
+    "name": "Kersaratu",
+    "postal_code": "42391"
   },
   {
     "code": "3602012018",
     "district_code": "360201",
-    "name": "Malingping Selatan"
+    "name": "Malingping Selatan",
+    "postal_code": "42391"
   },
   {
     "code": "3602012019",
     "district_code": "360201",
-    "name": "Sumberwaras"
+    "name": "Sumberwaras",
+    "postal_code": "42391"
   },
   {
     "code": "3602012023",
     "district_code": "360201",
-    "name": "Sukamanah"
+    "name": "Sukamanah",
+    "postal_code": "42391"
   },
   {
     "code": "3602012024",
     "district_code": "360201",
-    "name": "Senanghati"
+    "name": "Senanghati",
+    "postal_code": "42391"
   },
   {
     "code": "3602012026",
     "district_code": "360201",
-    "name": "Sangiang"
+    "name": "Sangiang",
+    "postal_code": "42391"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "6208011003",
     "district_code": "620801",
-    "name": "Mendawai"
+    "name": "Mendawai",
+    "postal_code": "74172"
   },
   {
     "code": "6208011004",
     "district_code": "620801",
-    "name": "Padang"
+    "name": "Padang",
+    "postal_code": "74172"
   },
   {
     "code": "6208012001",
     "district_code": "620801",
-    "name": "Natai Sedawak"
+    "name": "Natai Sedawak",
+    "postal_code": "74172"
   },
   {
     "code": "6208012002",
     "district_code": "620801",
-    "name": "Pudu"
+    "name": "Pudu",
+    "postal_code": "74172"
   },
   {
     "code": "6208012005",
     "district_code": "620801",
-    "name": "Kartamulia"
+    "name": "Kartamulia",
+    "postal_code": "74172"
   },
   {
     "code": "6208012006",
     "district_code": "620801",
-    "name": "Sukaraja"
+    "name": "Sukaraja",
+    "postal_code": "74172"
   },
   {
     "code": "6208012007",
     "district_code": "620801",
-    "name": "Pangkalan Muntai"
+    "name": "Pangkalan Muntai",
+    "postal_code": "74172"
   },
   {
     "code": "6208012008",
     "district_code": "620801",
-    "name": "Petarikan"
+    "name": "Petarikan",
+    "postal_code": "74172"
   }
 ]

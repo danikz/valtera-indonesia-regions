@@ -2,46 +2,55 @@
   {
     "code": "6304132001",
     "district_code": "630413",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "70568"
   },
   {
     "code": "6304132002",
     "district_code": "630413",
-    "name": "Tamban Raya"
+    "name": "Tamban Raya",
+    "postal_code": "70568"
   },
   {
     "code": "6304132003",
     "district_code": "630413",
-    "name": "Tinggiran Tengah"
+    "name": "Tinggiran Tengah",
+    "postal_code": "70568"
   },
   {
     "code": "6304132004",
     "district_code": "630413",
-    "name": "Tinggiran Darat"
+    "name": "Tinggiran Darat",
+    "postal_code": "70568"
   },
   {
     "code": "6304132005",
     "district_code": "630413",
-    "name": "Jelapat II"
+    "name": "Jelapat II",
+    "postal_code": "70568"
   },
   {
     "code": "6304132006",
     "district_code": "630413",
-    "name": "Tamban Raya Baru"
+    "name": "Tamban Raya Baru",
+    "postal_code": "70568"
   },
   {
     "code": "6304132007",
     "district_code": "630413",
-    "name": "Tinggiran Baru"
+    "name": "Tinggiran Baru",
+    "postal_code": "70568"
   },
   {
     "code": "6304132008",
     "district_code": "630413",
-    "name": "Karang Mekar"
+    "name": "Karang Mekar",
+    "postal_code": "70568"
   },
   {
     "code": "6304132009",
     "district_code": "630413",
-    "name": "Indah Sari"
+    "name": "Indah Sari",
+    "postal_code": "70568"
   }
 ]

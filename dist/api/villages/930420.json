@@ -2,36 +2,43 @@
   {
     "code": "9304202001",
     "district_code": "930420",
-    "name": "Bor"
+    "name": "Bor",
+    "postal_code": "99792"
   },
   {
     "code": "9304202002",
     "district_code": "930420",
-    "name": "Daikot"
+    "name": "Daikot",
+    "postal_code": "99792"
   },
   {
     "code": "9304202003",
     "district_code": "930420",
-    "name": "Somnak"
+    "name": "Somnak",
+    "postal_code": "99792"
   },
   {
     "code": "9304202004",
     "district_code": "930420",
-    "name": "Wabak"
+    "name": "Wabak",
+    "postal_code": "99792"
   },
   {
     "code": "9304202005",
     "district_code": "930420",
-    "name": "Vakam"
+    "name": "Vakam",
+    "postal_code": "99792"
   },
   {
     "code": "9304202006",
     "district_code": "930420",
-    "name": "Vakam Dua"
+    "name": "Vakam Dua",
+    "postal_code": "99792"
   },
   {
     "code": "9304202007",
     "district_code": "930420",
-    "name": "Dekamer"
+    "name": "Dekamer",
+    "postal_code": "99792"
   }
 ]

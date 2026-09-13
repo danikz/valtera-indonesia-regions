@@ -2,31 +2,37 @@
   {
     "code": "6403102002",
     "district_code": "640310",
-    "name": "Tabalar Muara"
+    "name": "Tabalar Muara",
+    "postal_code": "77374"
   },
   {
     "code": "6403102003",
     "district_code": "640310",
-    "name": "Tubaan"
+    "name": "Tubaan",
+    "postal_code": "77374"
   },
   {
     "code": "6403102004",
     "district_code": "640310",
-    "name": "Tabalar Ulu"
+    "name": "Tabalar Ulu",
+    "postal_code": "77374"
   },
   {
     "code": "6403102005",
     "district_code": "640310",
-    "name": "Semurut"
+    "name": "Semurut",
+    "postal_code": "77374"
   },
   {
     "code": "6403102006",
     "district_code": "640310",
-    "name": "Buyung-Buyung"
+    "name": "Buyung-Buyung",
+    "postal_code": "77374"
   },
   {
     "code": "6403102007",
     "district_code": "640310",
-    "name": "Harapan Maju"
+    "name": "Harapan Maju",
+    "postal_code": "77374"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "3402152001",
     "district_code": "340215",
-    "name": "Pendowoharjo"
+    "name": "Pendowoharjo",
+    "postal_code": "55185"
   },
   {
     "code": "3402152002",
     "district_code": "340215",
-    "name": "Timbulharjo"
+    "name": "Timbulharjo",
+    "postal_code": "55186"
   },
   {
     "code": "3402152003",
     "district_code": "340215",
-    "name": "Bangunharjo"
+    "name": "Bangunharjo",
+    "postal_code": "55188"
   },
   {
     "code": "3402152004",
     "district_code": "340215",
-    "name": "Panggungharjo"
+    "name": "Panggungharjo",
+    "postal_code": "55188"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "7314081001",
     "district_code": "731408",
-    "name": "Empagae"
+    "name": "Empagae",
+    "postal_code": "91613"
   },
   {
     "code": "7314081002",
     "district_code": "731408",
-    "name": "Sidenreng"
+    "name": "Sidenreng",
+    "postal_code": "91682"
   },
   {
     "code": "7314081003",
     "district_code": "731408",
-    "name": "Kanyuara"
+    "name": "Kanyuara",
+    "postal_code": "91613"
   },
   {
     "code": "7314082004",
     "district_code": "731408",
-    "name": "Mojong"
+    "name": "Mojong",
+    "postal_code": "91614"
   },
   {
     "code": "7314082005",
     "district_code": "731408",
-    "name": "Damai"
+    "name": "Damai",
+    "postal_code": "91616"
   },
   {
     "code": "7314082006",
     "district_code": "731408",
-    "name": "Talumae"
+    "name": "Talumae",
+    "postal_code": "91613"
   },
   {
     "code": "7314082007",
     "district_code": "731408",
-    "name": "Aka-akae"
+    "name": "Aka-akae",
+    "postal_code": "91613"
   },
   {
     "code": "7314082008",
     "district_code": "731408",
-    "name": "Talawe"
+    "name": "Talawe",
+    "postal_code": "91613"
   }
 ]

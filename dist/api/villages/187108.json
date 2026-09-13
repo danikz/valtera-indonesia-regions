@@ -2,26 +2,31 @@
   {
     "code": "1871081005",
     "district_code": "187108",
-    "name": "Bakung"
+    "name": "Bakung",
+    "postal_code": "35238"
   },
   {
     "code": "1871081006",
     "district_code": "187108",
-    "name": "Kuripan"
+    "name": "Kuripan",
+    "postal_code": "35232"
   },
   {
     "code": "1871081007",
     "district_code": "187108",
-    "name": "Negeri Olok Gading"
+    "name": "Negeri Olok Gading",
+    "postal_code": "35233"
   },
   {
     "code": "1871081008",
     "district_code": "187108",
-    "name": "Sukarame II"
+    "name": "Sukarame II",
+    "postal_code": "35234"
   },
   {
     "code": "1871081009",
     "district_code": "187108",
-    "name": "Batu Putuk"
+    "name": "Batu Putuk",
+    "postal_code": "35239"
   }
 ]

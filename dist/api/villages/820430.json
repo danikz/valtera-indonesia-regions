@@ -2,36 +2,43 @@
   {
     "code": "8204302001",
     "district_code": "820430",
-    "name": "Cap"
+    "name": "Cap",
+    "postal_code": "97792"
   },
   {
     "code": "8204302002",
     "district_code": "820430",
-    "name": "Madopolo"
+    "name": "Madopolo",
+    "postal_code": "97792"
   },
   {
     "code": "8204302003",
     "district_code": "820430",
-    "name": "Galala"
+    "name": "Galala",
+    "postal_code": "97792"
   },
   {
     "code": "8204302004",
     "district_code": "820430",
-    "name": "Madopolo Barat"
+    "name": "Madopolo Barat",
+    "postal_code": "97792"
   },
   {
     "code": "8204302005",
     "district_code": "820430",
-    "name": "Waringi"
+    "name": "Waringi",
+    "postal_code": "97792"
   },
   {
     "code": "8204302006",
     "district_code": "820430",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "97792"
   },
   {
     "code": "8204302007",
     "district_code": "820430",
-    "name": "Madopolo Timur"
+    "name": "Madopolo Timur",
+    "postal_code": "97792"
   }
 ]

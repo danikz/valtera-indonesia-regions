@@ -2,41 +2,49 @@
   {
     "code": "3509182001",
     "district_code": "350918",
-    "name": "Sidodadi"
+    "name": "Sidodadi",
+    "postal_code": "68173"
   },
   {
     "code": "3509182002",
     "district_code": "350918",
-    "name": "Tempurejo"
+    "name": "Tempurejo",
+    "postal_code": "68173"
   },
   {
     "code": "3509182003",
     "district_code": "350918",
-    "name": "Andongrejo"
+    "name": "Andongrejo",
+    "postal_code": "68173"
   },
   {
     "code": "3509182004",
     "district_code": "350918",
-    "name": "Pondokrejo"
+    "name": "Pondokrejo",
+    "postal_code": "68173"
   },
   {
     "code": "3509182005",
     "district_code": "350918",
-    "name": "Wonoasri"
+    "name": "Wonoasri",
+    "postal_code": "68173"
   },
   {
     "code": "3509182006",
     "district_code": "350918",
-    "name": "Curahnongko"
+    "name": "Curahnongko",
+    "postal_code": "68173"
   },
   {
     "code": "3509182007",
     "district_code": "350918",
-    "name": "Curahtakir"
+    "name": "Curahtakir",
+    "postal_code": "68173"
   },
   {
     "code": "3509182008",
     "district_code": "350918",
-    "name": "Sanenrejo"
+    "name": "Sanenrejo",
+    "postal_code": "68173"
   }
 ]

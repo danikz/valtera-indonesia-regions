@@ -2,71 +2,85 @@
   {
     "code": "1803101001",
     "district_code": "180310",
-    "name": "Kelapa Tujuh"
+    "name": "Kelapa Tujuh",
+    "postal_code": "34513"
   },
   {
     "code": "1803101002",
     "district_code": "180310",
-    "name": "Tanjungaman"
+    "name": "Tanjungaman",
+    "postal_code": "34511"
   },
   {
     "code": "1803101003",
     "district_code": "180310",
-    "name": "Kota Alam"
+    "name": "Kota Alam",
+    "postal_code": "34519"
   },
   {
     "code": "1803101011",
     "district_code": "180310",
-    "name": "Tanjungharapan"
+    "name": "Tanjungharapan",
+    "postal_code": "34511"
   },
   {
     "code": "1803101012",
     "district_code": "180310",
-    "name": "Tanjungsenang"
+    "name": "Tanjungsenang",
+    "postal_code": "34511"
   },
   {
     "code": "1803102004",
     "district_code": "180310",
-    "name": "Mulang Maya"
+    "name": "Mulang Maya",
+    "postal_code": "34511"
   },
   {
     "code": "1803102005",
     "district_code": "180310",
-    "name": "Bandar Putih"
+    "name": "Bandar Putih",
+    "postal_code": "34511"
   },
   {
     "code": "1803102006",
     "district_code": "180310",
-    "name": "Karang Agung"
+    "name": "Karang Agung",
+    "postal_code": "34511"
   },
   {
     "code": "1803102007",
     "district_code": "180310",
-    "name": "Curup Guruh"
+    "name": "Curup Guruh",
+    "postal_code": "34511"
   },
   {
     "code": "1803102008",
     "district_code": "180310",
-    "name": "Jerangkang"
+    "name": "Jerangkang",
+    "postal_code": "34511"
   },
   {
     "code": "1803102009",
     "district_code": "180310",
-    "name": "Way Melan"
+    "name": "Way Melan",
+    "postal_code": "34511"
   },
   {
     "code": "1803102010",
     "district_code": "180310",
-    "name": "Taman Jaya"
+    "name": "Taman Jaya",
+    "postal_code": "34511"
   },
   {
     "code": "1803102013",
     "district_code": "180310",
-    "name": "Alam Jaya"
+    "name": "Alam Jaya",
+    "postal_code": "34511"
   },
   {
     "code": "1803102014",
     "district_code": "180310",
-    "name": "Sinar Mas Alam"
+    "name": "Sinar Mas Alam",
+    "postal_code": "34511"
   }
 ]

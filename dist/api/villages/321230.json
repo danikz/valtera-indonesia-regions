@@ -2,66 +2,79 @@
   {
     "code": "3212302001",
     "district_code": "321230",
-    "name": "Bodas"
+    "name": "Bodas",
+    "postal_code": "45270"
   },
   {
     "code": "3212302002",
     "district_code": "321230",
-    "name": "Gadel"
+    "name": "Gadel",
+    "postal_code": "45270"
   },
   {
     "code": "3212302003",
     "district_code": "321230",
-    "name": "Rancajawat"
+    "name": "Rancajawat",
+    "postal_code": "45270"
   },
   {
     "code": "3212302004",
     "district_code": "321230",
-    "name": "Kerticala"
+    "name": "Kerticala",
+    "postal_code": "45270"
   },
   {
     "code": "3212302005",
     "district_code": "321230",
-    "name": "Cangko"
+    "name": "Cangko",
+    "postal_code": "45270"
   },
   {
     "code": "3212302006",
     "district_code": "321230",
-    "name": "Karangkerta"
+    "name": "Karangkerta",
+    "postal_code": "45270"
   },
   {
     "code": "3212302007",
     "district_code": "321230",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "45270"
   },
   {
     "code": "3212302008",
     "district_code": "321230",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "45270"
   },
   {
     "code": "3212302009",
     "district_code": "321230",
-    "name": "Lajer"
+    "name": "Lajer",
+    "postal_code": "45270"
   },
   {
     "code": "3212302010",
     "district_code": "321230",
-    "name": "Tukdana"
+    "name": "Tukdana",
+    "postal_code": "45270"
   },
   {
     "code": "3212302011",
     "district_code": "321230",
-    "name": "Sukadana"
+    "name": "Sukadana",
+    "postal_code": "45270"
   },
   {
     "code": "3212302012",
     "district_code": "321230",
-    "name": "Pagedangan"
+    "name": "Pagedangan",
+    "postal_code": "45270"
   },
   {
     "code": "3212302013",
     "district_code": "321230",
-    "name": "Sukaperna"
+    "name": "Sukaperna",
+    "postal_code": "45270"
   }
 ]

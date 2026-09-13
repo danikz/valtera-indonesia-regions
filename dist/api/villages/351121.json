@@ -2,36 +2,43 @@
   {
     "code": "3511212001",
     "district_code": "351121",
-    "name": "Taman"
+    "name": "Taman",
+    "postal_code": "68291"
   },
   {
     "code": "3511212002",
     "district_code": "351121",
-    "name": "Gentong"
+    "name": "Gentong",
+    "postal_code": "68291"
   },
   {
     "code": "3511212003",
     "district_code": "351121",
-    "name": "Kemuningan"
+    "name": "Kemuningan",
+    "postal_code": "68291"
   },
   {
     "code": "3511212004",
     "district_code": "351121",
-    "name": "Trebungan"
+    "name": "Trebungan",
+    "postal_code": "68291"
   },
   {
     "code": "3511212005",
     "district_code": "351121",
-    "name": "Sumberkokap"
+    "name": "Sumberkokap",
+    "postal_code": "68291"
   },
   {
     "code": "3511212006",
     "district_code": "351121",
-    "name": "Paguan"
+    "name": "Paguan",
+    "postal_code": "68291"
   },
   {
     "code": "3511212007",
     "district_code": "351121",
-    "name": "Kretek"
+    "name": "Kretek",
+    "postal_code": "68291"
   }
 ]

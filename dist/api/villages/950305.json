@@ -2,46 +2,55 @@
   {
     "code": "9503052001",
     "district_code": "950305",
-    "name": "Samenage"
+    "name": "Samenage",
+    "postal_code": "99710"
   },
   {
     "code": "9503052002",
     "district_code": "950305",
-    "name": "Haleroma"
+    "name": "Haleroma",
+    "postal_code": "99710"
   },
   {
     "code": "9503052003",
     "district_code": "950305",
-    "name": "Muke"
+    "name": "Muke",
+    "postal_code": "99710"
   },
   {
     "code": "9503052004",
     "district_code": "950305",
-    "name": "Pona"
+    "name": "Pona",
+    "postal_code": "99710"
   },
   {
     "code": "9503052005",
     "district_code": "950305",
-    "name": "Ison"
+    "name": "Ison",
+    "postal_code": "99710"
   },
   {
     "code": "9503052006",
     "district_code": "950305",
-    "name": "Asotapo"
+    "name": "Asotapo",
+    "postal_code": "99710"
   },
   {
     "code": "9503052007",
     "district_code": "950305",
-    "name": "Hirin"
+    "name": "Hirin",
+    "postal_code": "99710"
   },
   {
     "code": "9503052008",
     "district_code": "950305",
-    "name": "Notnarek"
+    "name": "Notnarek",
+    "postal_code": "99710"
   },
   {
     "code": "9503052009",
     "district_code": "950305",
-    "name": "Hugilokon"
+    "name": "Hugilokon",
+    "postal_code": "99710"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "3509052001",
     "district_code": "350905",
-    "name": "Sukoreno"
+    "name": "Sukoreno",
+    "postal_code": "68166"
   },
   {
     "code": "3509052002",
     "district_code": "350905",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "68166"
   },
   {
     "code": "3509052003",
     "district_code": "350905",
-    "name": "Gunungsari"
+    "name": "Gunungsari",
+    "postal_code": "68166"
   },
   {
     "code": "3509052004",
     "district_code": "350905",
-    "name": "Gadingrejo"
+    "name": "Gadingrejo",
+    "postal_code": "68166"
   },
   {
     "code": "3509052005",
     "district_code": "350905",
-    "name": "Umbulrejo"
+    "name": "Umbulrejo",
+    "postal_code": "68166"
   },
   {
     "code": "3509052006",
     "district_code": "350905",
-    "name": "Umbulsari"
+    "name": "Umbulsari",
+    "postal_code": "68166"
   },
   {
     "code": "3509052007",
     "district_code": "350905",
-    "name": "Tanjungsari"
+    "name": "Tanjungsari",
+    "postal_code": "68166"
   },
   {
     "code": "3509052008",
     "district_code": "350905",
-    "name": "Tegalwangi"
+    "name": "Tegalwangi",
+    "postal_code": "68166"
   },
   {
     "code": "3509052009",
     "district_code": "350905",
-    "name": "Paleran"
+    "name": "Paleran",
+    "postal_code": "68166"
   },
   {
     "code": "3509052010",
     "district_code": "350905",
-    "name": "Mundurejo"
+    "name": "Mundurejo",
+    "postal_code": "68166"
   }
 ]

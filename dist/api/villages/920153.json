@@ -2,51 +2,61 @@
   {
     "code": "9201532001",
     "district_code": "920153",
-    "name": "Waliam"
+    "name": "Waliam",
+    "postal_code": ""
   },
   {
     "code": "9201532002",
     "district_code": "920153",
-    "name": "Manfanim"
+    "name": "Manfanim",
+    "postal_code": ""
   },
   {
     "code": "9201532003",
     "district_code": "920153",
-    "name": "Waibin"
+    "name": "Waibin",
+    "postal_code": ""
   },
   {
     "code": "9201532004",
     "district_code": "920153",
-    "name": "Waiman"
+    "name": "Waiman",
+    "postal_code": ""
   },
   {
     "code": "9201532005",
     "district_code": "920153",
-    "name": "Sakapul"
+    "name": "Sakapul",
+    "postal_code": ""
   },
   {
     "code": "9201532006",
     "district_code": "920153",
-    "name": "Maralol"
+    "name": "Maralol",
+    "postal_code": ""
   },
   {
     "code": "9201532007",
     "district_code": "920153",
-    "name": "Batbiro"
+    "name": "Batbiro",
+    "postal_code": ""
   },
   {
     "code": "9201532008",
     "district_code": "920153",
-    "name": "Durian Kari"
+    "name": "Durian Kari",
+    "postal_code": ""
   },
   {
     "code": "9201532009",
     "district_code": "920153",
-    "name": "Meyaup"
+    "name": "Meyaup",
+    "postal_code": ""
   },
   {
     "code": "9201532010",
     "district_code": "920153",
-    "name": "Sailen"
+    "name": "Sailen",
+    "postal_code": ""
   }
 ]

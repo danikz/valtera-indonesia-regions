@@ -2,31 +2,37 @@
   {
     "code": "7318281004",
     "district_code": "731828",
-    "name": "Kondodewata"
+    "name": "Kondodewata",
+    "postal_code": "91873"
   },
   {
     "code": "7318282001",
     "district_code": "731828",
-    "name": "Tanete"
+    "name": "Tanete",
+    "postal_code": "91873"
   },
   {
     "code": "7318282002",
     "district_code": "731828",
-    "name": "Dewata"
+    "name": "Dewata",
+    "postal_code": "91873"
   },
   {
     "code": "7318282003",
     "district_code": "731828",
-    "name": "Miallo"
+    "name": "Miallo",
+    "postal_code": "91873"
   },
   {
     "code": "7318282005",
     "district_code": "731828",
-    "name": "Sengpeparikan"
+    "name": "Sengpeparikan",
+    "postal_code": "91873"
   },
   {
     "code": "7318282006",
     "district_code": "731828",
-    "name": "Butang"
+    "name": "Butang",
+    "postal_code": "91873"
   }
 ]

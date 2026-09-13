@@ -2,56 +2,67 @@
   {
     "code": "6104181001",
     "district_code": "610418",
-    "name": "Kauman"
+    "name": "Kauman",
+    "postal_code": "78821"
   },
   {
     "code": "6104181002",
     "district_code": "610418",
-    "name": "Mulia Kerta"
+    "name": "Mulia Kerta",
+    "postal_code": "78822"
   },
   {
     "code": "6104181004",
     "district_code": "610418",
-    "name": "Tuan-Tuan"
+    "name": "Tuan-Tuan",
+    "postal_code": "78822"
   },
   {
     "code": "6104181009",
     "district_code": "610418",
-    "name": "Banjar"
+    "name": "Banjar",
+    "postal_code": "78822"
   },
   {
     "code": "6104182003",
     "district_code": "610418",
-    "name": "Padang"
+    "name": "Padang",
+    "postal_code": "78822"
   },
   {
     "code": "6104182005",
     "district_code": "610418",
-    "name": "Sungai Kinjil"
+    "name": "Sungai Kinjil",
+    "postal_code": "78822"
   },
   {
     "code": "6104182006",
     "district_code": "610418",
-    "name": "Suka Baru"
+    "name": "Suka Baru",
+    "postal_code": "78822"
   },
   {
     "code": "6104182007",
     "district_code": "610418",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "78822"
   },
   {
     "code": "6104182008",
     "district_code": "610418",
-    "name": "Negeri Baru"
+    "name": "Negeri Baru",
+    "postal_code": "78822"
   },
   {
     "code": "6104182010",
     "district_code": "610418",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "78822"
   },
   {
     "code": "6104182011",
     "district_code": "610418",
-    "name": "Kinjil Pesisir"
+    "name": "Kinjil Pesisir",
+    "postal_code": "78822"
   }
 ]

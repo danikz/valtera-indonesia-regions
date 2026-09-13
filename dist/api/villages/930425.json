@@ -2,31 +2,37 @@
   {
     "code": "9304252001",
     "district_code": "930425",
-    "name": "Beco"
+    "name": "Beco",
+    "postal_code": "99779"
   },
   {
     "code": "9304252002",
     "district_code": "930425",
-    "name": "Yuni"
+    "name": "Yuni",
+    "postal_code": "99779"
   },
   {
     "code": "9304252003",
     "district_code": "930425",
-    "name": "Buetkwar"
+    "name": "Buetkwar",
+    "postal_code": "99779"
   },
   {
     "code": "9304252004",
     "district_code": "930425",
-    "name": "Manep"
+    "name": "Manep",
+    "postal_code": "99779"
   },
   {
     "code": "9304252005",
     "district_code": "930425",
-    "name": "Simini"
+    "name": "Simini",
+    "postal_code": "99779"
   },
   {
     "code": "9304252006",
     "district_code": "930425",
-    "name": "Fakan/Ani"
+    "name": "Fakan/Ani",
+    "postal_code": "99779"
   }
 ]

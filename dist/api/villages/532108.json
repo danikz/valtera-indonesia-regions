@@ -2,46 +2,55 @@
   {
     "code": "5321082001",
     "district_code": "532108",
-    "name": "Meotroi"
+    "name": "Meotroi",
+    "postal_code": "85718"
   },
   {
     "code": "5321082002",
     "district_code": "532108",
-    "name": "Tesa"
+    "name": "Tesa",
+    "postal_code": "85718"
   },
   {
     "code": "5321082003",
     "district_code": "532108",
-    "name": "Kapitan Meo"
+    "name": "Kapitan Meo",
+    "postal_code": "85718"
   },
   {
     "code": "5321082004",
     "district_code": "532108",
-    "name": "Tniumanu"
+    "name": "Tniumanu",
+    "postal_code": "85718"
   },
   {
     "code": "5321082005",
     "district_code": "532108",
-    "name": "Uabau"
+    "name": "Uabau",
+    "postal_code": "85718"
   },
   {
     "code": "5321082006",
     "district_code": "532108",
-    "name": "Boni Bais"
+    "name": "Boni Bais",
+    "postal_code": "85718"
   },
   {
     "code": "5321082007",
     "district_code": "532108",
-    "name": "Nauke Kusa"
+    "name": "Nauke Kusa",
+    "postal_code": "85718"
   },
   {
     "code": "5321082008",
     "district_code": "532108",
-    "name": "Bisesmus"
+    "name": "Bisesmus",
+    "postal_code": "85718"
   },
   {
     "code": "5321082009",
     "district_code": "532108",
-    "name": "Oenaek"
+    "name": "Oenaek",
+    "postal_code": "85718"
   }
 ]

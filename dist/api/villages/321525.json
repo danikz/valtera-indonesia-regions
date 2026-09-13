@@ -2,46 +2,55 @@
   {
     "code": "3215252001",
     "district_code": "321525",
-    "name": "Wancimekar"
+    "name": "Wancimekar",
+    "postal_code": "41376"
   },
   {
     "code": "3215252002",
     "district_code": "321525",
-    "name": "Pangulah Selatan"
+    "name": "Pangulah Selatan",
+    "postal_code": "41376"
   },
   {
     "code": "3215252003",
     "district_code": "321525",
-    "name": "Pangulah Utara"
+    "name": "Pangulah Utara",
+    "postal_code": "41376"
   },
   {
     "code": "3215252004",
     "district_code": "321525",
-    "name": "Pangulah Baru"
+    "name": "Pangulah Baru",
+    "postal_code": "41376"
   },
   {
     "code": "3215252005",
     "district_code": "321525",
-    "name": "Pucung"
+    "name": "Pucung",
+    "postal_code": "41376"
   },
   {
     "code": "3215252006",
     "district_code": "321525",
-    "name": "Jomin Timur"
+    "name": "Jomin Timur",
+    "postal_code": "41376"
   },
   {
     "code": "3215252007",
     "district_code": "321525",
-    "name": "Jomin Barat"
+    "name": "Jomin Barat",
+    "postal_code": "41376"
   },
   {
     "code": "3215252008",
     "district_code": "321525",
-    "name": "Sarimulya"
+    "name": "Sarimulya",
+    "postal_code": "41376"
   },
   {
     "code": "3215252009",
     "district_code": "321525",
-    "name": "Cilkampek Utara"
+    "name": "Cilkampek Utara",
+    "postal_code": "41376"
   }
 ]

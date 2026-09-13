@@ -2,26 +2,31 @@
   {
     "code": "7373091001",
     "district_code": "737309",
-    "name": "Temmalebba"
+    "name": "Temmalebba",
+    "postal_code": "91914"
   },
   {
     "code": "7373091002",
     "district_code": "737309",
-    "name": "Balandai"
+    "name": "Balandai",
+    "postal_code": "91914"
   },
   {
     "code": "7373091003",
     "district_code": "737309",
-    "name": "Rampoang"
+    "name": "Rampoang",
+    "postal_code": "91914"
   },
   {
     "code": "7373091004",
     "district_code": "737309",
-    "name": "Tobulung"
+    "name": "Tobulung",
+    "postal_code": "91914"
   },
   {
     "code": "7373091005",
     "district_code": "737309",
-    "name": "Buntu Datu"
+    "name": "Buntu Datu",
+    "postal_code": "91914"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "3671061001",
     "district_code": "367106",
-    "name": "Paninggilan"
+    "name": "Paninggilan",
+    "postal_code": "15153"
   },
   {
     "code": "3671061002",
     "district_code": "367106",
-    "name": "Sudimara Barat"
+    "name": "Sudimara Barat",
+    "postal_code": "15151"
   },
   {
     "code": "3671061003",
     "district_code": "367106",
-    "name": "Sudimara Timur"
+    "name": "Sudimara Timur",
+    "postal_code": "15151"
   },
   {
     "code": "3671061004",
     "district_code": "367106",
-    "name": "Tajur"
+    "name": "Tajur",
+    "postal_code": "15152"
   },
   {
     "code": "3671061005",
     "district_code": "367106",
-    "name": "Parung Serab"
+    "name": "Parung Serab",
+    "postal_code": "15153"
   },
   {
     "code": "3671061006",
     "district_code": "367106",
-    "name": "Sudimara Jaya"
+    "name": "Sudimara Jaya",
+    "postal_code": "15151"
   },
   {
     "code": "3671061007",
     "district_code": "367106",
-    "name": "Sudimara Selatan"
+    "name": "Sudimara Selatan",
+    "postal_code": "15151"
   },
   {
     "code": "3671061008",
     "district_code": "367106",
-    "name": "Paninggilan Utara"
+    "name": "Paninggilan Utara",
+    "postal_code": "15153"
   }
 ]

@@ -2,81 +2,97 @@
   {
     "code": "1110042001",
     "district_code": "111004",
-    "name": "Pasar"
+    "name": "Pasar",
+    "postal_code": "24785"
   },
   {
     "code": "1110042002",
     "district_code": "111004",
-    "name": "Ujung"
+    "name": "Ujung",
+    "postal_code": "24785"
   },
   {
     "code": "1110042003",
     "district_code": "111004",
-    "name": "Pulo Sarok"
+    "name": "Pulo Sarok",
+    "postal_code": "24785"
   },
   {
     "code": "1110042004",
     "district_code": "111004",
-    "name": "Kilangan"
+    "name": "Kilangan",
+    "postal_code": "24785"
   },
   {
     "code": "1110042005",
     "district_code": "111004",
-    "name": "Kuta Simboling"
+    "name": "Kuta Simboling",
+    "postal_code": "24785"
   },
   {
     "code": "1110042007",
     "district_code": "111004",
-    "name": "Teluk Ambun"
+    "name": "Teluk Ambun",
+    "postal_code": "24785"
   },
   {
     "code": "1110042008",
     "district_code": "111004",
-    "name": "Rantau Gedang"
+    "name": "Rantau Gedang",
+    "postal_code": "24785"
   },
   {
     "code": "1110042009",
     "district_code": "111004",
-    "name": "Teluk Rumbia"
+    "name": "Teluk Rumbia",
+    "postal_code": "24785"
   },
   {
     "code": "1110042010",
     "district_code": "111004",
-    "name": "Pea Bumbung"
+    "name": "Pea Bumbung",
+    "postal_code": "24785"
   },
   {
     "code": "1110042011",
     "district_code": "111004",
-    "name": "Pemuka"
+    "name": "Pemuka",
+    "postal_code": "24785"
   },
   {
     "code": "1110042012",
     "district_code": "111004",
-    "name": "Takal pasir"
+    "name": "Takal pasir",
+    "postal_code": "24785"
   },
   {
     "code": "1110042014",
     "district_code": "111004",
-    "name": "Selok Aceh"
+    "name": "Selok Aceh",
+    "postal_code": "24785"
   },
   {
     "code": "1110042016",
     "district_code": "111004",
-    "name": "Suka Makmur"
+    "name": "Suka Makmur",
+    "postal_code": "24785"
   },
   {
     "code": "1110042017",
     "district_code": "111004",
-    "name": "Ujung Bawang"
+    "name": "Ujung Bawang",
+    "postal_code": "24785"
   },
   {
     "code": "1110042019",
     "district_code": "111004",
-    "name": "Siti Ambia"
+    "name": "Siti Ambia",
+    "postal_code": "24785"
   },
   {
     "code": "1110042020",
     "district_code": "111004",
-    "name": "Suka Damai"
+    "name": "Suka Damai",
+    "postal_code": "24785"
   }
 ]

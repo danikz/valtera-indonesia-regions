@@ -2,51 +2,61 @@
   {
     "code": "1301012001",
     "district_code": "130101",
-    "name": "Inderapura"
+    "name": "Inderapura",
+    "postal_code": "25671"
   },
   {
     "code": "1301012002",
     "district_code": "130101",
-    "name": "Muaro Sakai Inderapura"
+    "name": "Muaro Sakai Inderapura",
+    "postal_code": "25671"
   },
   {
     "code": "1301012003",
     "district_code": "130101",
-    "name": "Tiga Sepakat Inderapura"
+    "name": "Tiga Sepakat Inderapura",
+    "postal_code": "25671"
   },
   {
     "code": "1301012004",
     "district_code": "130101",
-    "name": "Inderapura Barat"
+    "name": "Inderapura Barat",
+    "postal_code": "25671"
   },
   {
     "code": "1301012005",
     "district_code": "130101",
-    "name": "Kudo-Kudo Inderapura"
+    "name": "Kudo-Kudo Inderapura",
+    "postal_code": "25671"
   },
   {
     "code": "1301012006",
     "district_code": "130101",
-    "name": "Inderapura Selatan"
+    "name": "Inderapura Selatan",
+    "postal_code": "25671"
   },
   {
     "code": "1301012009",
     "district_code": "130101",
-    "name": "Simpang Lama Inderapura"
+    "name": "Simpang Lama Inderapura",
+    "postal_code": "25671"
   },
   {
     "code": "1301012010",
     "district_code": "130101",
-    "name": "Tigo Sungai Inderapura"
+    "name": "Tigo Sungai Inderapura",
+    "postal_code": "25671"
   },
   {
     "code": "1301012011",
     "district_code": "130101",
-    "name": "Tluk Amplu Inderapura"
+    "name": "Tluk Amplu Inderapura",
+    "postal_code": "25671"
   },
   {
     "code": "1301012012",
     "district_code": "130101",
-    "name": "Inderapura Tengah"
+    "name": "Inderapura Tengah",
+    "postal_code": "25671"
   }
 ]

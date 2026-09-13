@@ -2,51 +2,61 @@
   {
     "code": "1509062001",
     "district_code": "150906",
-    "name": "Tanjung Pucuk Jambi"
+    "name": "Tanjung Pucuk Jambi",
+    "postal_code": "37561"
   },
   {
     "code": "1509062002",
     "district_code": "150906",
-    "name": "Kuamang"
+    "name": "Kuamang",
+    "postal_code": "37561"
   },
   {
     "code": "1509062003",
     "district_code": "150906",
-    "name": "Teluk Kayu Putih"
+    "name": "Teluk Kayu Putih",
+    "postal_code": "37561"
   },
   {
     "code": "1509062004",
     "district_code": "150906",
-    "name": "Sungai Abang"
+    "name": "Sungai Abang",
+    "postal_code": "37561"
   },
   {
     "code": "1509062005",
     "district_code": "150906",
-    "name": "Aur Cino"
+    "name": "Aur Cino",
+    "postal_code": "37561"
   },
   {
     "code": "1509062007",
     "district_code": "150906",
-    "name": "Muara Niro"
+    "name": "Muara Niro",
+    "postal_code": "37561"
   },
   {
     "code": "1509062013",
     "district_code": "150906",
-    "name": "Teluk Lancang"
+    "name": "Teluk Lancang",
+    "postal_code": "37561"
   },
   {
     "code": "1509062014",
     "district_code": "150906",
-    "name": "Dusun Baru"
+    "name": "Dusun Baru",
+    "postal_code": "37561"
   },
   {
     "code": "1509062015",
     "district_code": "150906",
-    "name": "Tabun"
+    "name": "Tabun",
+    "postal_code": "37561"
   },
   {
     "code": "1509062016",
     "district_code": "150906",
-    "name": "Muara Tabun"
+    "name": "Muara Tabun",
+    "postal_code": "37561"
   }
 ]

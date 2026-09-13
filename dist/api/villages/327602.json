@@ -2,31 +2,37 @@
   {
     "code": "3276021007",
     "district_code": "327602",
-    "name": "Harjamukti"
+    "name": "Harjamukti",
+    "postal_code": "16454"
   },
   {
     "code": "3276021008",
     "district_code": "327602",
-    "name": "Curug"
+    "name": "Curug",
+    "postal_code": "16453"
   },
   {
     "code": "3276021009",
     "district_code": "327602",
-    "name": "Tugu"
+    "name": "Tugu",
+    "postal_code": "16451"
   },
   {
     "code": "3276021010",
     "district_code": "327602",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "16452"
   },
   {
     "code": "3276021011",
     "district_code": "327602",
-    "name": "Pasir Gunung Selatan"
+    "name": "Pasir Gunung Selatan",
+    "postal_code": "16451"
   },
   {
     "code": "3276021012",
     "district_code": "327602",
-    "name": "Cisalak Pasar"
+    "name": "Cisalak Pasar",
+    "postal_code": "16452"
   }
 ]

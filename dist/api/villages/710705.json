@@ -2,56 +2,67 @@
   {
     "code": "7107052006",
     "district_code": "710705",
-    "name": "Tonsawang"
+    "name": "Tonsawang",
+    "postal_code": "95996"
   },
   {
     "code": "7107052008",
     "district_code": "710705",
-    "name": "Betelan"
+    "name": "Betelan",
+    "postal_code": "95996"
   },
   {
     "code": "7107052009",
     "district_code": "710705",
-    "name": "Tombatu Satu"
+    "name": "Tombatu Satu",
+    "postal_code": "95996"
   },
   {
     "code": "7107052012",
     "district_code": "710705",
-    "name": "Kali"
+    "name": "Kali",
+    "postal_code": "95996"
   },
   {
     "code": "7107052014",
     "district_code": "710705",
-    "name": "Pisa"
+    "name": "Pisa",
+    "postal_code": "95996"
   },
   {
     "code": "7107052015",
     "district_code": "710705",
-    "name": "Tombatu"
+    "name": "Tombatu",
+    "postal_code": "95996"
   },
   {
     "code": "7107052016",
     "district_code": "710705",
-    "name": "Betelan Satu"
+    "name": "Betelan Satu",
+    "postal_code": "95996"
   },
   {
     "code": "7107052017",
     "district_code": "710705",
-    "name": "Kali Oki"
+    "name": "Kali Oki",
+    "postal_code": "95996"
   },
   {
     "code": "7107052018",
     "district_code": "710705",
-    "name": "Tombatu Tiga Selatan"
+    "name": "Tombatu Tiga Selatan",
+    "postal_code": "95996"
   },
   {
     "code": "7107052019",
     "district_code": "710705",
-    "name": "Tombatu Tiga Timur"
+    "name": "Tombatu Tiga Timur",
+    "postal_code": "95996"
   },
   {
     "code": "7107052020",
     "district_code": "710705",
-    "name": "Tonsawang Satu"
+    "name": "Tonsawang Satu",
+    "postal_code": "95996"
   }
 ]

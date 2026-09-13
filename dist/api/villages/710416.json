@@ -2,31 +2,37 @@
   {
     "code": "7104162001",
     "district_code": "710416",
-    "name": "Tule"
+    "name": "Tule",
+    "postal_code": "95886"
   },
   {
     "code": "7104162002",
     "district_code": "710416",
-    "name": "Tule Tengah"
+    "name": "Tule Tengah",
+    "postal_code": "95886"
   },
   {
     "code": "7104162003",
     "district_code": "710416",
-    "name": "Tule Utara"
+    "name": "Tule Utara",
+    "postal_code": "95886"
   },
   {
     "code": "7104162004",
     "district_code": "710416",
-    "name": "Bowombaru"
+    "name": "Bowombaru",
+    "postal_code": "95886"
   },
   {
     "code": "7104162005",
     "district_code": "710416",
-    "name": "Bowombaru Tengah"
+    "name": "Bowombaru Tengah",
+    "postal_code": "95886"
   },
   {
     "code": "7104162006",
     "district_code": "710416",
-    "name": "Bowombaru Utara"
+    "name": "Bowombaru Utara",
+    "postal_code": "95886"
   }
 ]

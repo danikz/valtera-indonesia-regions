@@ -2,36 +2,43 @@
   {
     "code": "5104062001",
     "district_code": "510406",
-    "name": "Keliki"
+    "name": "Keliki",
+    "postal_code": "80561"
   },
   {
     "code": "5104062002",
     "district_code": "510406",
-    "name": "Tegallalang"
+    "name": "Tegallalang",
+    "postal_code": "80561"
   },
   {
     "code": "5104062003",
     "district_code": "510406",
-    "name": "Kenderan"
+    "name": "Kenderan",
+    "postal_code": "80561"
   },
   {
     "code": "5104062004",
     "district_code": "510406",
-    "name": "Kedisan"
+    "name": "Kedisan",
+    "postal_code": "80561"
   },
   {
     "code": "5104062005",
     "district_code": "510406",
-    "name": "Pupuan"
+    "name": "Pupuan",
+    "postal_code": "80561"
   },
   {
     "code": "5104062006",
     "district_code": "510406",
-    "name": "Sebatu"
+    "name": "Sebatu",
+    "postal_code": "80561"
   },
   {
     "code": "5104062007",
     "district_code": "510406",
-    "name": "Taro"
+    "name": "Taro",
+    "postal_code": "80561"
   }
 ]

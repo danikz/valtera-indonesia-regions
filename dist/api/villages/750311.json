@@ -2,46 +2,55 @@
   {
     "code": "7503112001",
     "district_code": "750311",
-    "name": "Tulabolo"
+    "name": "Tulabolo",
+    "postal_code": "96565"
   },
   {
     "code": "7503112003",
     "district_code": "750311",
-    "name": "Dumbaya Bulan"
+    "name": "Dumbaya Bulan",
+    "postal_code": "96565"
   },
   {
     "code": "7503112004",
     "district_code": "750311",
-    "name": "Tulabolo Timur"
+    "name": "Tulabolo Timur",
+    "postal_code": "96565"
   },
   {
     "code": "7503112005",
     "district_code": "750311",
-    "name": "Tilangobula"
+    "name": "Tilangobula",
+    "postal_code": "96565"
   },
   {
     "code": "7503112007",
     "district_code": "750311",
-    "name": "Poduwoma"
+    "name": "Poduwoma",
+    "postal_code": "96565"
   },
   {
     "code": "7503112008",
     "district_code": "750311",
-    "name": "Panggulo"
+    "name": "Panggulo",
+    "postal_code": "96565"
   },
   {
     "code": "7503112009",
     "district_code": "750311",
-    "name": "Tulabolo Barat"
+    "name": "Tulabolo Barat",
+    "postal_code": "96565"
   },
   {
     "code": "7503112010",
     "district_code": "750311",
-    "name": "Pangi"
+    "name": "Pangi",
+    "postal_code": "96565"
   },
   {
     "code": "7503112011",
     "district_code": "750311",
-    "name": "Tinemba"
+    "name": "Tinemba",
+    "postal_code": "96565"
   }
 ]

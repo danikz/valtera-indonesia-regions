@@ -2,61 +2,73 @@
   {
     "code": "7314111001",
     "district_code": "731411",
-    "name": "Batu"
+    "name": "Batu",
+    "postal_code": "91691"
   },
   {
     "code": "7314112002",
     "district_code": "731411",
-    "name": "Compong"
+    "name": "Compong",
+    "postal_code": "91691"
   },
   {
     "code": "7314112003",
     "district_code": "731411",
-    "name": "Belawae"
+    "name": "Belawae",
+    "postal_code": "91691"
   },
   {
     "code": "7314112004",
     "district_code": "731411",
-    "name": "Botto"
+    "name": "Botto",
+    "postal_code": "91691"
   },
   {
     "code": "7314112005",
     "district_code": "731411",
-    "name": "Bila Riase"
+    "name": "Bila Riase",
+    "postal_code": "91691"
   },
   {
     "code": "7314112006",
     "district_code": "731411",
-    "name": "Bola Bulu"
+    "name": "Bola Bulu",
+    "postal_code": "91691"
   },
   {
     "code": "7314112007",
     "district_code": "731411",
-    "name": "Tana Toro"
+    "name": "Tana Toro",
+    "postal_code": "91691"
   },
   {
     "code": "7314112008",
     "district_code": "731411",
-    "name": "Lombo"
+    "name": "Lombo",
+    "postal_code": "91691"
   },
   {
     "code": "7314112009",
     "district_code": "731411",
-    "name": "Lagading"
+    "name": "Lagading",
+    "postal_code": "91691"
   },
   {
     "code": "7314112010",
     "district_code": "731411",
-    "name": "Dengeng-Dengeng"
+    "name": "Dengeng-Dengeng",
+    "postal_code": "91691"
   },
   {
     "code": "7314112011",
     "district_code": "731411",
-    "name": "Buntu Buangin"
+    "name": "Buntu Buangin",
+    "postal_code": "91691"
   },
   {
     "code": "7314112012",
     "district_code": "731411",
-    "name": "Leppangeng"
+    "name": "Leppangeng",
+    "postal_code": "91691"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3172021001",
     "district_code": "317202",
-    "name": "Tanjung Priok"
+    "name": "Tanjung Priok",
+    "postal_code": "14310"
   },
   {
     "code": "3172021002",
     "district_code": "317202",
-    "name": "Sunter Jaya"
+    "name": "Sunter Jaya",
+    "postal_code": "14360"
   },
   {
     "code": "3172021003",
     "district_code": "317202",
-    "name": "Papanggo"
+    "name": "Papanggo",
+    "postal_code": "14340"
   },
   {
     "code": "3172021004",
     "district_code": "317202",
-    "name": "Sungai Bambu"
+    "name": "Sungai Bambu",
+    "postal_code": "14330"
   },
   {
     "code": "3172021005",
     "district_code": "317202",
-    "name": "Kebon Bawang"
+    "name": "Kebon Bawang",
+    "postal_code": "14320"
   },
   {
     "code": "3172021006",
     "district_code": "317202",
-    "name": "Sunter Agung"
+    "name": "Sunter Agung",
+    "postal_code": "14350"
   },
   {
     "code": "3172021007",
     "district_code": "317202",
-    "name": "Warakas"
+    "name": "Warakas",
+    "postal_code": "14370"
   }
 ]

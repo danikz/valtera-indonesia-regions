@@ -2,51 +2,61 @@
   {
     "code": "1171012001",
     "district_code": "117101",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "23242"
   },
   {
     "code": "1171012002",
     "district_code": "117101",
-    "name": "Neusu Jaya"
+    "name": "Neusu Jaya",
+    "postal_code": "23243"
   },
   {
     "code": "1171012003",
     "district_code": "117101",
-    "name": "Sukaramai"
+    "name": "Sukaramai",
+    "postal_code": "23243"
   },
   {
     "code": "1171012004",
     "district_code": "117101",
-    "name": "Seutui"
+    "name": "Seutui",
+    "postal_code": "23243"
   },
   {
     "code": "1171012005",
     "district_code": "117101",
-    "name": "Peuniti"
+    "name": "Peuniti",
+    "postal_code": "23241"
   },
   {
     "code": "1171012006",
     "district_code": "117101",
-    "name": "Neusu Aceh"
+    "name": "Neusu Aceh",
+    "postal_code": "23244"
   },
   {
     "code": "1171012007",
     "district_code": "117101",
-    "name": "Ateuk Pahlawan"
+    "name": "Ateuk Pahlawan",
+    "postal_code": "23241"
   },
   {
     "code": "1171012008",
     "district_code": "117101",
-    "name": "Ateuk Jawo"
+    "name": "Ateuk Jawo",
+    "postal_code": "23245"
   },
   {
     "code": "1171012009",
     "district_code": "117101",
-    "name": "Ateuk Deah Tanoh"
+    "name": "Ateuk Deah Tanoh",
+    "postal_code": "23244"
   },
   {
     "code": "1171012010",
     "district_code": "117101",
-    "name": "Ateuk Munjeng"
+    "name": "Ateuk Munjeng",
+    "postal_code": "23244"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "7315111001",
     "district_code": "731511",
-    "name": "Pacongang"
+    "name": "Pacongang",
+    "postal_code": "91215"
   },
   {
     "code": "7315111002",
     "district_code": "731511",
-    "name": "Macinnae"
+    "name": "Macinnae",
+    "postal_code": "91214"
   },
   {
     "code": "7315111003",
     "district_code": "731511",
-    "name": "Temmassarangnge"
+    "name": "Temmassarangnge",
+    "postal_code": "91213"
   },
   {
     "code": "7315111004",
     "district_code": "731511",
-    "name": "Mamminasae"
+    "name": "Mamminasae",
+    "postal_code": "91215"
   },
   {
     "code": "7315111005",
     "district_code": "731511",
-    "name": "Laleng Bata"
+    "name": "Laleng Bata",
+    "postal_code": "91215"
   },
   {
     "code": "7315111006",
     "district_code": "731511",
-    "name": "Benteng Sawito"
+    "name": "Benteng Sawito",
+    "postal_code": "91215"
   }
 ]

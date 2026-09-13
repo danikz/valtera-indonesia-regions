@@ -2,56 +2,67 @@
   {
     "code": "1214252001",
     "district_code": "121425",
-    "name": "Mondrowe"
+    "name": "Mondrowe",
+    "postal_code": "22874"
   },
   {
     "code": "1214252002",
     "district_code": "121425",
-    "name": "Hilidohona"
+    "name": "Hilidohona",
+    "postal_code": "22874"
   },
   {
     "code": "1214252003",
     "district_code": "121425",
-    "name": "Hililaora"
+    "name": "Hililaora",
+    "postal_code": "22874"
   },
   {
     "code": "1214252004",
     "district_code": "121425",
-    "name": "Uluidanoduo"
+    "name": "Uluidanoduo",
+    "postal_code": "22874"
   },
   {
     "code": "1214252005",
     "district_code": "121425",
-    "name": "Umbu Sohahau"
+    "name": "Umbu Sohahau",
+    "postal_code": "22874"
   },
   {
     "code": "1214252006",
     "district_code": "121425",
-    "name": "Hilisao'oto"
+    "name": "Hilisao'oto",
+    "postal_code": "22874"
   },
   {
     "code": "1214252007",
     "district_code": "121425",
-    "name": "Taluzusua"
+    "name": "Taluzusua",
+    "postal_code": "22874"
   },
   {
     "code": "1214252008",
     "district_code": "121425",
-    "name": "Hilizanuwo"
+    "name": "Hilizanuwo",
+    "postal_code": "22874"
   },
   {
     "code": "1214252009",
     "district_code": "121425",
-    "name": "Hoya"
+    "name": "Hoya",
+    "postal_code": "22874"
   },
   {
     "code": "1214252010",
     "district_code": "121425",
-    "name": "Na'ai"
+    "name": "Na'ai",
+    "postal_code": "22874"
   },
   {
     "code": "1214252011",
     "district_code": "121425",
-    "name": "Olanori"
+    "name": "Olanori",
+    "postal_code": "22874"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1807102001",
     "district_code": "180710",
-    "name": "Kibang"
+    "name": "Kibang",
+    "postal_code": "34331"
   },
   {
     "code": "1807102002",
     "district_code": "180710",
-    "name": "Marga Jaya"
+    "name": "Marga Jaya",
+    "postal_code": "34335"
   },
   {
     "code": "1807102003",
     "district_code": "180710",
-    "name": "Margototo"
+    "name": "Margototo",
+    "postal_code": "34335"
   },
   {
     "code": "1807102004",
     "district_code": "180710",
-    "name": "Purbosembodo"
+    "name": "Purbosembodo",
+    "postal_code": "34333"
   },
   {
     "code": "1807102005",
     "district_code": "180710",
-    "name": "Sumber Agung"
+    "name": "Sumber Agung",
+    "postal_code": "34332"
   },
   {
     "code": "1807102006",
     "district_code": "180710",
-    "name": "Margasari"
+    "name": "Margasari",
+    "postal_code": "34335"
   },
   {
     "code": "1807102007",
     "district_code": "180710",
-    "name": "Jaya Asri"
+    "name": "Jaya Asri",
+    "postal_code": "34331"
   }
 ]

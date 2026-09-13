@@ -2,21 +2,25 @@
   {
     "code": "1305072001",
     "district_code": "130507",
-    "name": "Kuranji Hulu"
+    "name": "Kuranji Hulu",
+    "postal_code": "25562"
   },
   {
     "code": "1305072002",
     "district_code": "130507",
-    "name": "Malai III Koto"
+    "name": "Malai III Koto",
+    "postal_code": "25562"
   },
   {
     "code": "1305072003",
     "district_code": "130507",
-    "name": "Batu Gadang Kuranji Hulu"
+    "name": "Batu Gadang Kuranji Hulu",
+    "postal_code": "25562"
   },
   {
     "code": "1305072004",
     "district_code": "130507",
-    "name": "Sungai Sirah Kuranji Hulu"
+    "name": "Sungai Sirah Kuranji Hulu",
+    "postal_code": "25562"
   }
 ]

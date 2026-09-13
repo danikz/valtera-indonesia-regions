@@ -2,51 +2,61 @@
   {
     "code": "1209232001",
     "district_code": "120923",
-    "name": "Tanjung Alam"
+    "name": "Tanjung Alam",
+    "postal_code": "21279"
   },
   {
     "code": "1209232002",
     "district_code": "120923",
-    "name": "Perkebunan Sei Dadap I/II"
+    "name": "Perkebunan Sei Dadap I/II",
+    "postal_code": "21279"
   },
   {
     "code": "1209232003",
     "district_code": "120923",
-    "name": "Perkebunan Sei Dadap III/IV"
+    "name": "Perkebunan Sei Dadap III/IV",
+    "postal_code": "21279"
   },
   {
     "code": "1209232004",
     "district_code": "120923",
-    "name": "Sei Kamah I"
+    "name": "Sei Kamah I",
+    "postal_code": "21279"
   },
   {
     "code": "1209232005",
     "district_code": "120923",
-    "name": "Sei Kamah II"
+    "name": "Sei Kamah II",
+    "postal_code": "21279"
   },
   {
     "code": "1209232006",
     "district_code": "120923",
-    "name": "Bahung Sibatu-batu"
+    "name": "Bahung Sibatu-batu",
+    "postal_code": "21279"
   },
   {
     "code": "1209232007",
     "district_code": "120923",
-    "name": "Sei Alim Hasak"
+    "name": "Sei Alim Hasak",
+    "postal_code": "21279"
   },
   {
     "code": "1209232008",
     "district_code": "120923",
-    "name": "Tanjung Asri"
+    "name": "Tanjung Asri",
+    "postal_code": "21279"
   },
   {
     "code": "1209232009",
     "district_code": "120923",
-    "name": "Sei Kamah Baru"
+    "name": "Sei Kamah Baru",
+    "postal_code": "21279"
   },
   {
     "code": "1209232010",
     "district_code": "120923",
-    "name": "Pasiran"
+    "name": "Pasiran",
+    "postal_code": "21279"
   }
 ]

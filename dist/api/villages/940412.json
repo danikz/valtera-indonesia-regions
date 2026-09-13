@@ -2,46 +2,55 @@
   {
     "code": "9404122001",
     "district_code": "940412",
-    "name": "Kapiraya"
+    "name": "Kapiraya",
+    "postal_code": "99976"
   },
   {
     "code": "9404122002",
     "district_code": "940412",
-    "name": "Uta"
+    "name": "Uta",
+    "postal_code": "99976"
   },
   {
     "code": "9404122003",
     "district_code": "940412",
-    "name": "Mupuruka"
+    "name": "Mupuruka",
+    "postal_code": "99976"
   },
   {
     "code": "9404122004",
     "district_code": "940412",
-    "name": "Wumuka"
+    "name": "Wumuka",
+    "postal_code": "99976"
   },
   {
     "code": "9404122005",
     "district_code": "940412",
-    "name": "Akar"
+    "name": "Akar",
+    "postal_code": "99976"
   },
   {
     "code": "9404122006",
     "district_code": "940412",
-    "name": "Mapar"
+    "name": "Mapar",
+    "postal_code": "99976"
   },
   {
     "code": "9404122007",
     "district_code": "940412",
-    "name": "Kipia"
+    "name": "Kipia",
+    "postal_code": "99976"
   },
   {
     "code": "9404122008",
     "district_code": "940412",
-    "name": "Pronggo"
+    "name": "Pronggo",
+    "postal_code": "99976"
   },
   {
     "code": "9404122009",
     "district_code": "940412",
-    "name": "Wakia"
+    "name": "Wakia",
+    "postal_code": "99976"
   }
 ]

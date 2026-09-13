@@ -2,36 +2,43 @@
   {
     "code": "7413082001",
     "district_code": "741308",
-    "name": "Tasipi"
+    "name": "Tasipi",
+    "postal_code": "93656"
   },
   {
     "code": "7413082002",
     "district_code": "741308",
-    "name": "Mandike"
+    "name": "Mandike",
+    "postal_code": "93656"
   },
   {
     "code": "7413082003",
     "district_code": "741308",
-    "name": "Bero"
+    "name": "Bero",
+    "postal_code": "93656"
   },
   {
     "code": "7413082004",
     "district_code": "741308",
-    "name": "Santigi"
+    "name": "Santigi",
+    "postal_code": "93656"
   },
   {
     "code": "7413082005",
     "district_code": "741308",
-    "name": "Tondasi"
+    "name": "Tondasi",
+    "postal_code": "93656"
   },
   {
     "code": "7413082006",
     "district_code": "741308",
-    "name": "Santiri"
+    "name": "Santiri",
+    "postal_code": "93656"
   },
   {
     "code": "7413082007",
     "district_code": "741308",
-    "name": "Tiga"
+    "name": "Tiga",
+    "postal_code": "93656"
   }
 ]

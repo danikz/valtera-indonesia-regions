@@ -2,26 +2,31 @@
   {
     "code": "3510092001",
     "district_code": "351009",
-    "name": "Kembiritan"
+    "name": "Kembiritan",
+    "postal_code": "68465"
   },
   {
     "code": "3510092002",
     "district_code": "351009",
-    "name": "Gentengwetan"
+    "name": "Gentengwetan",
+    "postal_code": "68465"
   },
   {
     "code": "3510092003",
     "district_code": "351009",
-    "name": "Gentengkulon"
+    "name": "Gentengkulon",
+    "postal_code": "68465"
   },
   {
     "code": "3510092004",
     "district_code": "351009",
-    "name": "Setail"
+    "name": "Setail",
+    "postal_code": "68465"
   },
   {
     "code": "3510092005",
     "district_code": "351009",
-    "name": "Kaligondo"
+    "name": "Kaligondo",
+    "postal_code": "68465"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "7208092001",
     "district_code": "720809",
-    "name": "Tanalanto"
+    "name": "Tanalanto",
+    "postal_code": "94470"
   },
   {
     "code": "7208092002",
     "district_code": "720809",
-    "name": "Torue"
+    "name": "Torue",
+    "postal_code": "94470"
   },
   {
     "code": "7208092003",
     "district_code": "720809",
-    "name": "Astina"
+    "name": "Astina",
+    "postal_code": "94470"
   },
   {
     "code": "7208092004",
     "district_code": "720809",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "94470"
   },
   {
     "code": "7208092005",
     "district_code": "720809",
-    "name": "Tolai"
+    "name": "Tolai",
+    "postal_code": "94470"
   },
   {
     "code": "7208092006",
     "district_code": "720809",
-    "name": "Tolai Barat"
+    "name": "Tolai Barat",
+    "postal_code": "94470"
   },
   {
     "code": "7208092007",
     "district_code": "720809",
-    "name": "Tolai Timur"
+    "name": "Tolai Timur",
+    "postal_code": "94470"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "1306012001",
     "district_code": "130601",
-    "name": "Tiku Selatan"
+    "name": "Tiku Selatan",
+    "postal_code": "26473"
   },
   {
     "code": "1306012002",
     "district_code": "130601",
-    "name": "Tiku Utara"
+    "name": "Tiku Utara",
+    "postal_code": "26473"
   },
   {
     "code": "1306012003",
     "district_code": "130601",
-    "name": "Tiku Limo Jorong"
+    "name": "Tiku Limo Jorong",
+    "postal_code": "26473"
   },
   {
     "code": "1306012004",
     "district_code": "130601",
-    "name": "Durian Kapeh Darussalam"
+    "name": "Durian Kapeh Darussalam",
+    "postal_code": "26473"
   }
 ]

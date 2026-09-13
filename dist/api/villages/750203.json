@@ -2,41 +2,49 @@
   {
     "code": "7502032001",
     "district_code": "750203",
-    "name": "Dulupi"
+    "name": "Dulupi",
+    "postal_code": "96267"
   },
   {
     "code": "7502032002",
     "district_code": "750203",
-    "name": "Tabongo"
+    "name": "Tabongo",
+    "postal_code": "96267"
   },
   {
     "code": "7502032003",
     "district_code": "750203",
-    "name": "Kotaraja"
+    "name": "Kotaraja",
+    "postal_code": "96267"
   },
   {
     "code": "7502032004",
     "district_code": "750203",
-    "name": "Polohungo"
+    "name": "Polohungo",
+    "postal_code": "96267"
   },
   {
     "code": "7502032005",
     "district_code": "750203",
-    "name": "Pangi"
+    "name": "Pangi",
+    "postal_code": "96267"
   },
   {
     "code": "7502032006",
     "district_code": "750203",
-    "name": "Tangga Jaya"
+    "name": "Tangga Jaya",
+    "postal_code": "96267"
   },
   {
     "code": "7502032007",
     "district_code": "750203",
-    "name": "Tanah Putih"
+    "name": "Tanah Putih",
+    "postal_code": "96267"
   },
   {
     "code": "7502032008",
     "district_code": "750203",
-    "name": "Tangga Barito"
+    "name": "Tangga Barito",
+    "postal_code": "96267"
   }
 ]

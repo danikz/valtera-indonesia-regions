@@ -2,36 +2,43 @@
   {
     "code": "6271051001",
     "district_code": "627105",
-    "name": "Petuk Bukit"
+    "name": "Petuk Bukit",
+    "postal_code": "73227"
   },
   {
     "code": "6271051002",
     "district_code": "627105",
-    "name": "Panjehang"
+    "name": "Panjehang",
+    "postal_code": "73228"
   },
   {
     "code": "6271051003",
     "district_code": "627105",
-    "name": "Petuk Barunai"
+    "name": "Petuk Barunai",
+    "postal_code": "73229"
   },
   {
     "code": "6271051004",
     "district_code": "627105",
-    "name": "Mungku Baru"
+    "name": "Mungku Baru",
+    "postal_code": "73229"
   },
   {
     "code": "6271051005",
     "district_code": "627105",
-    "name": "Pager"
+    "name": "Pager",
+    "postal_code": "73229"
   },
   {
     "code": "6271051006",
     "district_code": "627105",
-    "name": "Gaung Baru"
+    "name": "Gaung Baru",
+    "postal_code": "73229"
   },
   {
     "code": "6271051007",
     "district_code": "627105",
-    "name": "Bukit Sua"
+    "name": "Bukit Sua",
+    "postal_code": "73229"
   }
 ]

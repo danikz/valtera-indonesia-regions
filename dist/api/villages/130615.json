@@ -2,26 +2,31 @@
   {
     "code": "1306152001",
     "district_code": "130615",
-    "name": "Magek"
+    "name": "Magek",
+    "postal_code": "26152"
   },
   {
     "code": "1306152002",
     "district_code": "130615",
-    "name": "Kamang Hilia"
+    "name": "Kamang Hilia",
+    "postal_code": "26152"
   },
   {
     "code": "1306152003",
     "district_code": "130615",
-    "name": "Kamang Mudiak"
+    "name": "Kamang Mudiak",
+    "postal_code": "26152"
   },
   {
     "code": "1306152004",
     "district_code": "130615",
-    "name": "Kamang Tangah Anam Suku"
+    "name": "Kamang Tangah Anam Suku",
+    "postal_code": "26152"
   },
   {
     "code": "1306152005",
     "district_code": "130615",
-    "name": "Pauh Kamang Mudiak"
+    "name": "Pauh Kamang Mudiak",
+    "postal_code": "26152"
   }
 ]

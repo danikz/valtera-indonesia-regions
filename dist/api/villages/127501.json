@@ -2,46 +2,55 @@
   {
     "code": "1275011001",
     "district_code": "127501",
-    "name": "Pahlawan"
+    "name": "Pahlawan",
+    "postal_code": "20743"
   },
   {
     "code": "1275011002",
     "district_code": "127501",
-    "name": "Jati Negara"
+    "name": "Jati Negara",
+    "postal_code": "20741"
   },
   {
     "code": "1275011003",
     "district_code": "127501",
-    "name": "Nangka"
+    "name": "Nangka",
+    "postal_code": "20742"
   },
   {
     "code": "1275011004",
     "district_code": "127501",
-    "name": "Damai"
+    "name": "Damai",
+    "postal_code": "20745"
   },
   {
     "code": "1275011005",
     "district_code": "127501",
-    "name": "Kebun Lada"
+    "name": "Kebun Lada",
+    "postal_code": "20744"
   },
   {
     "code": "1275011006",
     "district_code": "127501",
-    "name": "Cengkeh Turi"
+    "name": "Cengkeh Turi",
+    "postal_code": "20747"
   },
   {
     "code": "1275011007",
     "district_code": "127501",
-    "name": "Jati Utomo"
+    "name": "Jati Utomo",
+    "postal_code": "20749"
   },
   {
     "code": "1275011008",
     "district_code": "127501",
-    "name": "Jati Makmur"
+    "name": "Jati Makmur",
+    "postal_code": "20748"
   },
   {
     "code": "1275011009",
     "district_code": "127501",
-    "name": "Jati Karya"
+    "name": "Jati Karya",
+    "postal_code": "20746"
   }
 ]

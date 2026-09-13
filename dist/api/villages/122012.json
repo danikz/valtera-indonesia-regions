@@ -2,66 +2,79 @@
   {
     "code": "1220122001",
     "district_code": "122012",
-    "name": "Huta Raja"
+    "name": "Huta Raja",
+    "postal_code": "22746"
   },
   {
     "code": "1220122002",
     "district_code": "122012",
-    "name": "Ujung Batu Julu"
+    "name": "Ujung Batu Julu",
+    "postal_code": "22746"
   },
   {
     "code": "1220122003",
     "district_code": "122012",
-    "name": "Gunung Manaon UB"
+    "name": "Gunung Manaon UB",
+    "postal_code": "22746"
   },
   {
     "code": "1220122004",
     "district_code": "122012",
-    "name": "Labuhan Jurung"
+    "name": "Labuhan Jurung",
+    "postal_code": "22746"
   },
   {
     "code": "1220122005",
     "district_code": "122012",
-    "name": "Martujuan"
+    "name": "Martujuan",
+    "postal_code": "22746"
   },
   {
     "code": "1220122006",
     "district_code": "122012",
-    "name": "Paya Bahung UB"
+    "name": "Paya Bahung UB",
+    "postal_code": "22746"
   },
   {
     "code": "1220122007",
     "district_code": "122012",
-    "name": "Tobing Tinggi UB"
+    "name": "Tobing Tinggi UB",
+    "postal_code": "22746"
   },
   {
     "code": "1220122008",
     "district_code": "122012",
-    "name": "Ujung Batu Jae"
+    "name": "Ujung Batu Jae",
+    "postal_code": "22746"
   },
   {
     "code": "1220122009",
     "district_code": "122012",
-    "name": "Marlaung"
+    "name": "Marlaung",
+    "postal_code": "22746"
   },
   {
     "code": "1220122010",
     "district_code": "122012",
-    "name": "Mananti"
+    "name": "Mananti",
+    "postal_code": "22746"
   },
   {
     "code": "1220122011",
     "district_code": "122012",
-    "name": "Jambu Tonang"
+    "name": "Jambu Tonang",
+    "postal_code": "22746"
   },
   {
     "code": "1220122012",
     "district_code": "122012",
-    "name": "Manare Tua"
+    "name": "Manare Tua",
+    "postal_code": "22746"
   },
   {
     "code": "1220122013",
     "district_code": "122012",
-    "name": "Pasir Lancat UB"
+    "name": "Pasir Lancat UB",
+    "postal_code": "22746"
   }
 ]

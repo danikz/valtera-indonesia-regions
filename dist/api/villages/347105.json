@@ -2,11 +2,13 @@
   {
     "code": "3471051001",
     "district_code": "347105",
-    "name": "Sosromenduran"
+    "name": "Sosromenduran",
+    "postal_code": "55271"
   },
   {
     "code": "3471051002",
     "district_code": "347105",
-    "name": "Pringgokusuman"
+    "name": "Pringgokusuman",
+    "postal_code": "55272"
   }
 ]

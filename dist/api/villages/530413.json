@@ -2,46 +2,55 @@
   {
     "code": "5304132001",
     "district_code": "530413",
-    "name": "Mandeu Raimanus"
+    "name": "Mandeu Raimanus",
+    "postal_code": "85760"
   },
   {
     "code": "5304132002",
     "district_code": "530413",
-    "name": "Renrua"
+    "name": "Renrua",
+    "postal_code": "85760"
   },
   {
     "code": "5304132003",
     "district_code": "530413",
-    "name": "Dua Koran"
+    "name": "Dua Koran",
+    "postal_code": "85760"
   },
   {
     "code": "5304132004",
     "district_code": "530413",
-    "name": "Mandeu"
+    "name": "Mandeu",
+    "postal_code": "85760"
   },
   {
     "code": "5304132005",
     "district_code": "530413",
-    "name": "Rafae"
+    "name": "Rafae",
+    "postal_code": "85760"
   },
   {
     "code": "5304132006",
     "district_code": "530413",
-    "name": "Faturika"
+    "name": "Faturika",
+    "postal_code": "85760"
   },
   {
     "code": "5304132007",
     "district_code": "530413",
-    "name": "Leuntolu"
+    "name": "Leuntolu",
+    "postal_code": "85760"
   },
   {
     "code": "5304132008",
     "district_code": "530413",
-    "name": "Teun"
+    "name": "Teun",
+    "postal_code": "85760"
   },
   {
     "code": "5304132009",
     "district_code": "530413",
-    "name": "Tasain"
+    "name": "Tasain",
+    "postal_code": "85760"
   }
 ]

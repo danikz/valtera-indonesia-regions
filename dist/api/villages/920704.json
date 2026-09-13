@@ -2,21 +2,25 @@
   {
     "code": "9207042002",
     "district_code": "920704",
-    "name": "Wondiboy"
+    "name": "Wondiboy",
+    "postal_code": "98347"
   },
   {
     "code": "9207042009",
     "district_code": "920704",
-    "name": "Kabouw"
+    "name": "Kabouw",
+    "postal_code": "98347"
   },
   {
     "code": "9207042010",
     "district_code": "920704",
-    "name": "Issui"
+    "name": "Issui",
+    "postal_code": "98347"
   },
   {
     "code": "9207042015",
     "district_code": "920704",
-    "name": "Kaibi"
+    "name": "Kaibi",
+    "postal_code": "98347"
   }
 ]

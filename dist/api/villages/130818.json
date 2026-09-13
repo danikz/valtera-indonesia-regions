@@ -2,16 +2,19 @@
   {
     "code": "1308182001",
     "district_code": "130818",
-    "name": "Koto Nopan"
+    "name": "Koto Nopan",
+    "postal_code": "26357"
   },
   {
     "code": "1308182002",
     "district_code": "130818",
-    "name": "Koto Rajo"
+    "name": "Koto Rajo",
+    "postal_code": "26357"
   },
   {
     "code": "1308182003",
     "district_code": "130818",
-    "name": "Languang"
+    "name": "Languang",
+    "postal_code": "26357"
   }
 ]

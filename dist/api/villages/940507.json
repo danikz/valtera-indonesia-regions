@@ -2,36 +2,43 @@
   {
     "code": "9405072001",
     "district_code": "940507",
-    "name": "Agandugume"
+    "name": "Agandugume",
+    "postal_code": "98970"
   },
   {
     "code": "9405072002",
     "district_code": "940507",
-    "name": "Gut'yenggenak"
+    "name": "Gut'yenggenak",
+    "postal_code": "98987"
   },
   {
     "code": "9405072003",
     "district_code": "940507",
-    "name": "Dugunale"
+    "name": "Dugunale",
+    "postal_code": "98987"
   },
   {
     "code": "9405072004",
     "district_code": "940507",
-    "name": "Ogobak'pelenak"
+    "name": "Ogobak'pelenak",
+    "postal_code": "98970"
   },
   {
     "code": "9405072005",
     "district_code": "940507",
-    "name": "Dolinggu"
+    "name": "Dolinggu",
+    "postal_code": "98970"
   },
   {
     "code": "9405072006",
     "district_code": "940507",
-    "name": "Ayume"
+    "name": "Ayume",
+    "postal_code": "98970"
   },
   {
     "code": "9405072007",
     "district_code": "940507",
-    "name": "Terowi"
+    "name": "Terowi",
+    "postal_code": "98970"
   }
 ]

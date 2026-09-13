@@ -2,31 +2,37 @@
   {
     "code": "1224042001",
     "district_code": "122404",
-    "name": "Tetehosi Maziaya"
+    "name": "Tetehosi Maziaya",
+    "postal_code": "22852"
   },
   {
     "code": "1224042002",
     "district_code": "122404",
-    "name": "Umbubalodano"
+    "name": "Umbubalodano",
+    "postal_code": "22852"
   },
   {
     "code": "1224042003",
     "district_code": "122404",
-    "name": "Hilimbosi"
+    "name": "Hilimbosi",
+    "postal_code": "22852"
   },
   {
     "code": "1224042004",
     "district_code": "122404",
-    "name": "Hilisalo'o"
+    "name": "Hilisalo'o",
+    "postal_code": "22852"
   },
   {
     "code": "1224042005",
     "district_code": "122404",
-    "name": "Fulolo Salo'o"
+    "name": "Fulolo Salo'o",
+    "postal_code": "22852"
   },
   {
     "code": "1224042006",
     "district_code": "122404",
-    "name": "Botombawo"
+    "name": "Botombawo",
+    "postal_code": "22852"
   }
 ]

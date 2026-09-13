@@ -2,66 +2,79 @@
   {
     "code": "3310222001",
     "district_code": "331022",
-    "name": "Manjung"
+    "name": "Manjung",
+    "postal_code": "57466"
   },
   {
     "code": "3310222002",
     "district_code": "331022",
-    "name": "Gatak"
+    "name": "Gatak",
+    "postal_code": "57466"
   },
   {
     "code": "3310222003",
     "district_code": "331022",
-    "name": "Duwet"
+    "name": "Duwet",
+    "postal_code": "57466"
   },
   {
     "code": "3310222004",
     "district_code": "331022",
-    "name": "Senden"
+    "name": "Senden",
+    "postal_code": "57466"
   },
   {
     "code": "3310222005",
     "district_code": "331022",
-    "name": "Ngawen"
+    "name": "Ngawen",
+    "postal_code": "57466"
   },
   {
     "code": "3310222006",
     "district_code": "331022",
-    "name": "Kahuman"
+    "name": "Kahuman",
+    "postal_code": "57466"
   },
   {
     "code": "3310222007",
     "district_code": "331022",
-    "name": "Pepe"
+    "name": "Pepe",
+    "postal_code": "57466"
   },
   {
     "code": "3310222008",
     "district_code": "331022",
-    "name": "Manjungan"
+    "name": "Manjungan",
+    "postal_code": "57466"
   },
   {
     "code": "3310222009",
     "district_code": "331022",
-    "name": "Kwaren"
+    "name": "Kwaren",
+    "postal_code": "57466"
   },
   {
     "code": "3310222010",
     "district_code": "331022",
-    "name": "Mayungan"
+    "name": "Mayungan",
+    "postal_code": "57466"
   },
   {
     "code": "3310222011",
     "district_code": "331022",
-    "name": "Tempursari"
+    "name": "Tempursari",
+    "postal_code": "57466"
   },
   {
     "code": "3310222012",
     "district_code": "331022",
-    "name": "Candirejo"
+    "name": "Candirejo",
+    "postal_code": "57466"
   },
   {
     "code": "3310222013",
     "district_code": "331022",
-    "name": "Drono"
+    "name": "Drono",
+    "postal_code": "57466"
   }
 ]

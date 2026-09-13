@@ -2,61 +2,73 @@
   {
     "code": "1406041001",
     "district_code": "140604",
-    "name": "Tambusai Tengah"
+    "name": "Tambusai Tengah",
+    "postal_code": "28558"
   },
   {
     "code": "1406042002",
     "district_code": "140604",
-    "name": "Tambusai Barat"
+    "name": "Tambusai Barat",
+    "postal_code": "28558"
   },
   {
     "code": "1406042003",
     "district_code": "140604",
-    "name": "Tambusai Timur"
+    "name": "Tambusai Timur",
+    "postal_code": "28558"
   },
   {
     "code": "1406042004",
     "district_code": "140604",
-    "name": "Batas"
+    "name": "Batas",
+    "postal_code": "28558"
   },
   {
     "code": "1406042005",
     "district_code": "140604",
-    "name": "Talikumain"
+    "name": "Talikumain",
+    "postal_code": "28558"
   },
   {
     "code": "1406042006",
     "district_code": "140604",
-    "name": "Rantau Panjang"
+    "name": "Rantau Panjang",
+    "postal_code": "28558"
   },
   {
     "code": "1406042007",
     "district_code": "140604",
-    "name": "Sungai Kumango"
+    "name": "Sungai Kumango",
+    "postal_code": "28558"
   },
   {
     "code": "1406042008",
     "district_code": "140604",
-    "name": "Batang Kumu"
+    "name": "Batang Kumu",
+    "postal_code": "28558"
   },
   {
     "code": "1406042009",
     "district_code": "140604",
-    "name": "Sialang Rindang"
+    "name": "Sialang Rindang",
+    "postal_code": "28558"
   },
   {
     "code": "1406042010",
     "district_code": "140604",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "28558"
   },
   {
     "code": "1406042011",
     "district_code": "140604",
-    "name": "Lubuk Soting"
+    "name": "Lubuk Soting",
+    "postal_code": "28558"
   },
   {
     "code": "1406042012",
     "district_code": "140604",
-    "name": "Tingkok"
+    "name": "Tingkok",
+    "postal_code": "28558"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "1302082001",
     "district_code": "130208",
-    "name": "Muaro Paneh"
+    "name": "Muaro Paneh",
+    "postal_code": "27381"
   },
   {
     "code": "1302082002",
     "district_code": "130208",
-    "name": "Kinari"
+    "name": "Kinari",
+    "postal_code": "27381"
   },
   {
     "code": "1302082003",
     "district_code": "130208",
-    "name": "Bukit Tandang"
+    "name": "Bukit Tandang",
+    "postal_code": "27381"
   },
   {
     "code": "1302082004",
     "district_code": "130208",
-    "name": "Parambahan"
+    "name": "Parambahan",
+    "postal_code": "27381"
   },
   {
     "code": "1302082005",
     "district_code": "130208",
-    "name": "Dilam"
+    "name": "Dilam",
+    "postal_code": "27381"
   }
 ]

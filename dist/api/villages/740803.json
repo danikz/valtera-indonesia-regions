@@ -2,56 +2,67 @@
   {
     "code": "7408031001",
     "district_code": "740803",
-    "name": "Batu Putih"
+    "name": "Batu Putih",
+    "postal_code": "93955"
   },
   {
     "code": "7408032002",
     "district_code": "740803",
-    "name": "Latowu"
+    "name": "Latowu",
+    "postal_code": "93955"
   },
   {
     "code": "7408032003",
     "district_code": "740803",
-    "name": "Mosiku"
+    "name": "Mosiku",
+    "postal_code": "93955"
   },
   {
     "code": "7408032004",
     "district_code": "740803",
-    "name": "Lelewawo"
+    "name": "Lelewawo",
+    "postal_code": "93955"
   },
   {
     "code": "7408032011",
     "district_code": "740803",
-    "name": "Batu Api"
+    "name": "Batu Api",
+    "postal_code": "93955"
   },
   {
     "code": "7408032012",
     "district_code": "740803",
-    "name": "Bukit Tinggi"
+    "name": "Bukit Tinggi",
+    "postal_code": "93955"
   },
   {
     "code": "7408032015",
     "district_code": "740803",
-    "name": "Bukit Baru"
+    "name": "Bukit Baru",
+    "postal_code": "93955"
   },
   {
     "code": "7408032016",
     "district_code": "740803",
-    "name": "Parung Lampe"
+    "name": "Parung Lampe",
+    "postal_code": "93955"
   },
   {
     "code": "7408032017",
     "district_code": "740803",
-    "name": "Puncak Harapan"
+    "name": "Puncak Harapan",
+    "postal_code": "93955"
   },
   {
     "code": "7408032020",
     "district_code": "740803",
-    "name": "Tetebawo"
+    "name": "Tetebawo",
+    "postal_code": "93955"
   },
   {
     "code": "7408032021",
     "district_code": "740803",
-    "name": "Makkuaseng"
+    "name": "Makkuaseng",
+    "postal_code": "93955"
   }
 ]

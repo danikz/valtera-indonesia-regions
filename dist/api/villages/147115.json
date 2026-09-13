@@ -2,26 +2,31 @@
   {
     "code": "1471151001",
     "district_code": "147115",
-    "name": "Tebing Tinggi Okura"
+    "name": "Tebing Tinggi Okura",
+    "postal_code": "28287"
   },
   {
     "code": "1471151002",
     "district_code": "147115",
-    "name": "Sungaiukai"
+    "name": "Sungaiukai",
+    "postal_code": "28287"
   },
   {
     "code": "1471151003",
     "district_code": "147115",
-    "name": "Sungaiambang"
+    "name": "Sungaiambang",
+    "postal_code": "28262"
   },
   {
     "code": "1471151004",
     "district_code": "147115",
-    "name": "Lembah Sari"
+    "name": "Lembah Sari",
+    "postal_code": "28262"
   },
   {
     "code": "1471151005",
     "district_code": "147115",
-    "name": "Limbungan"
+    "name": "Limbungan",
+    "postal_code": "28261"
   }
 ]

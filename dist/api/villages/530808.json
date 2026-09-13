@@ -2,86 +2,103 @@
   {
     "code": "5308081001",
     "district_code": "530808",
-    "name": "Bokasape"
+    "name": "Bokasape",
+    "postal_code": "86373"
   },
   {
     "code": "5308082002",
     "district_code": "530808",
-    "name": "Bokasape Timur"
+    "name": "Bokasape Timur",
+    "postal_code": "86373"
   },
   {
     "code": "5308082010",
     "district_code": "530808",
-    "name": "Mbuliloo"
+    "name": "Mbuliloo",
+    "postal_code": "86373"
   },
   {
     "code": "5308082011",
     "district_code": "530808",
-    "name": "Rindiwawo"
+    "name": "Rindiwawo",
+    "postal_code": "86373"
   },
   {
     "code": "5308082012",
     "district_code": "530808",
-    "name": "Jopu"
+    "name": "Jopu",
+    "postal_code": "86373"
   },
   {
     "code": "5308082013",
     "district_code": "530808",
-    "name": "Wolokoli"
+    "name": "Wolokoli",
+    "postal_code": "86373"
   },
   {
     "code": "5308082014",
     "district_code": "530808",
-    "name": "Mbuliwaralau"
+    "name": "Mbuliwaralau",
+    "postal_code": "86373"
   },
   {
     "code": "5308082015",
     "district_code": "530808",
-    "name": "Mbuliwaralau Utara"
+    "name": "Mbuliwaralau Utara",
+    "postal_code": "86373"
   },
   {
     "code": "5308082016",
     "district_code": "530808",
-    "name": "Lisedetu"
+    "name": "Lisedetu",
+    "postal_code": "86373"
   },
   {
     "code": "5308082017",
     "district_code": "530808",
-    "name": "Nualise"
+    "name": "Nualise",
+    "postal_code": "86373"
   },
   {
     "code": "5308082018",
     "district_code": "530808",
-    "name": "Wolosoko"
+    "name": "Wolosoko",
+    "postal_code": "86373"
   },
   {
     "code": "5308082019",
     "district_code": "530808",
-    "name": "Liselowobora"
+    "name": "Liselowobora",
+    "postal_code": "86373"
   },
   {
     "code": "5308082020",
     "district_code": "530808",
-    "name": "Likanaka"
+    "name": "Likanaka",
+    "postal_code": "86373"
   },
   {
     "code": "5308082021",
     "district_code": "530808",
-    "name": "Nakambara"
+    "name": "Nakambara",
+    "postal_code": "86373"
   },
   {
     "code": "5308082022",
     "district_code": "530808",
-    "name": "Niramesi"
+    "name": "Niramesi",
+    "postal_code": "86373"
   },
   {
     "code": "5308082023",
     "district_code": "530808",
-    "name": "Tana Lo'o"
+    "name": "Tana Lo'o",
+    "postal_code": "86373"
   },
   {
     "code": "5308082024",
     "district_code": "530808",
-    "name": "Lise Pu'u"
+    "name": "Lise Pu'u",
+    "postal_code": "86373"
   }
 ]

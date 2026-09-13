@@ -2,46 +2,55 @@
   {
     "code": "6209082001",
     "district_code": "620908",
-    "name": "Batu Tambun"
+    "name": "Batu Tambun",
+    "postal_code": "74664"
   },
   {
     "code": "6209082002",
     "district_code": "620908",
-    "name": "Kinipan"
+    "name": "Kinipan",
+    "postal_code": "74664"
   },
   {
     "code": "6209082003",
     "district_code": "620908",
-    "name": "Ginih"
+    "name": "Ginih",
+    "postal_code": "74664"
   },
   {
     "code": "6209082004",
     "district_code": "620908",
-    "name": "Benakitan"
+    "name": "Benakitan",
+    "postal_code": "74664"
   },
   {
     "code": "6209082005",
     "district_code": "620908",
-    "name": "Liku"
+    "name": "Liku",
+    "postal_code": "74664"
   },
   {
     "code": "6209082006",
     "district_code": "620908",
-    "name": "Mengkalang"
+    "name": "Mengkalang",
+    "postal_code": "74664"
   },
   {
     "code": "6209082007",
     "district_code": "620908",
-    "name": "Karang Mas"
+    "name": "Karang Mas",
+    "postal_code": "74664"
   },
   {
     "code": "6209082008",
     "district_code": "620908",
-    "name": "Kina"
+    "name": "Kina",
+    "postal_code": "74664"
   },
   {
     "code": "6209082009",
     "district_code": "620908",
-    "name": "Jamuat"
+    "name": "Jamuat",
+    "postal_code": "74664"
   }
 ]

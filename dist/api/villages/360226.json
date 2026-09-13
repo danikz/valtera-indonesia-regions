@@ -2,46 +2,55 @@
   {
     "code": "3602262001",
     "district_code": "360226",
-    "name": "Panyaungan"
+    "name": "Panyaungan",
+    "postal_code": "42392"
   },
   {
     "code": "3602262002",
     "district_code": "360226",
-    "name": "Cihara"
+    "name": "Cihara",
+    "postal_code": "42392"
   },
   {
     "code": "3602262003",
     "district_code": "360226",
-    "name": "Ciparahu"
+    "name": "Ciparahu",
+    "postal_code": "42392"
   },
   {
     "code": "3602262004",
     "district_code": "360226",
-    "name": "Pondokpanjang"
+    "name": "Pondokpanjang",
+    "postal_code": "42392"
   },
   {
     "code": "3602262005",
     "district_code": "360226",
-    "name": "Citeupuseun"
+    "name": "Citeupuseun",
+    "postal_code": "42392"
   },
   {
     "code": "3602262006",
     "district_code": "360226",
-    "name": "Lebakpeundeuy"
+    "name": "Lebakpeundeuy",
+    "postal_code": "42392"
   },
   {
     "code": "3602262007",
     "district_code": "360226",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "42392"
   },
   {
     "code": "3602262008",
     "district_code": "360226",
-    "name": "Karangkamulyan"
+    "name": "Karangkamulyan",
+    "postal_code": "42392"
   },
   {
     "code": "3602262009",
     "district_code": "360226",
-    "name": "Barunai"
+    "name": "Barunai",
+    "postal_code": "42392"
   }
 ]

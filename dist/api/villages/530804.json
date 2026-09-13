@@ -2,26 +2,31 @@
   {
     "code": "5308041003",
     "district_code": "530804",
-    "name": "Mbongawani"
+    "name": "Mbongawani",
+    "postal_code": "86313"
   },
   {
     "code": "5308041004",
     "district_code": "530804",
-    "name": "Rukun Lima"
+    "name": "Rukun Lima",
+    "postal_code": "86314"
   },
   {
     "code": "5308041006",
     "district_code": "530804",
-    "name": "Paupanda"
+    "name": "Paupanda",
+    "postal_code": "86315"
   },
   {
     "code": "5308041008",
     "district_code": "530804",
-    "name": "Tetandara"
+    "name": "Tetandara",
+    "postal_code": "86316"
   },
   {
     "code": "5308041014",
     "district_code": "530804",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "86316"
   }
 ]

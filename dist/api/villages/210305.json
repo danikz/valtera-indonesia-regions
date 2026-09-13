@@ -2,26 +2,31 @@
   {
     "code": "2103051008",
     "district_code": "210305",
-    "name": "Sedanau"
+    "name": "Sedanau",
+    "postal_code": "29782"
   },
   {
     "code": "2103052007",
     "district_code": "210305",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "29782"
   },
   {
     "code": "2103052012",
     "district_code": "210305",
-    "name": "Binjai"
+    "name": "Binjai",
+    "postal_code": "29782"
   },
   {
     "code": "2103052013",
     "district_code": "210305",
-    "name": "Piantengah"
+    "name": "Piantengah",
+    "postal_code": "29782"
   },
   {
     "code": "2103052015",
     "district_code": "210305",
-    "name": "Selaut"
+    "name": "Selaut",
+    "postal_code": "29782"
   }
 ]

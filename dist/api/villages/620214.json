@@ -2,31 +2,37 @@
   {
     "code": "6202142001",
     "district_code": "620214",
-    "name": "Sebabi"
+    "name": "Sebabi",
+    "postal_code": "74350"
   },
   {
     "code": "6202142002",
     "district_code": "620214",
-    "name": "Tanah Putih"
+    "name": "Tanah Putih",
+    "postal_code": "74350"
   },
   {
     "code": "6202142003",
     "district_code": "620214",
-    "name": "Sumber Makmur"
+    "name": "Sumber Makmur",
+    "postal_code": "74350"
   },
   {
     "code": "6202142004",
     "district_code": "620214",
-    "name": "Kenyala"
+    "name": "Kenyala",
+    "postal_code": "74350"
   },
   {
     "code": "6202142005",
     "district_code": "620214",
-    "name": "Penyang"
+    "name": "Penyang",
+    "postal_code": "74350"
   },
   {
     "code": "6202142006",
     "district_code": "620214",
-    "name": "Biru Maju"
+    "name": "Biru Maju",
+    "postal_code": "74350"
   }
 ]

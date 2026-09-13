@@ -2,36 +2,43 @@
   {
     "code": "1272051002",
     "district_code": "127205",
-    "name": "Sukaraja"
+    "name": "Sukaraja",
+    "postal_code": "21128"
   },
   {
     "code": "1272051005",
     "district_code": "127205",
-    "name": "Baringin Pancur Nauli"
+    "name": "Baringin Pancur Nauli",
+    "postal_code": "21129"
   },
   {
     "code": "1272051006",
     "district_code": "127205",
-    "name": "Pardamean"
+    "name": "Pardamean",
+    "postal_code": "21128"
   },
   {
     "code": "1272051007",
     "district_code": "127205",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "21127"
   },
   {
     "code": "1272051008",
     "district_code": "127205",
-    "name": "Parhorasan Nauli"
+    "name": "Parhorasan Nauli",
+    "postal_code": "21129"
   },
   {
     "code": "1272051009",
     "district_code": "127205",
-    "name": "Sukamakmur"
+    "name": "Sukamakmur",
+    "postal_code": "21128"
   },
   {
     "code": "1272051010",
     "district_code": "127205",
-    "name": "Mekar Nauli"
+    "name": "Mekar Nauli",
+    "postal_code": "21129"
   }
 ]

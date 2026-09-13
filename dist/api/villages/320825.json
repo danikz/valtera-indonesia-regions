@@ -2,36 +2,43 @@
   {
     "code": "3208252001",
     "district_code": "320825",
-    "name": "Legokherang"
+    "name": "Legokherang",
+    "postal_code": "45585"
   },
   {
     "code": "3208252002",
     "district_code": "320825",
-    "name": "Bungurberes"
+    "name": "Bungurberes",
+    "postal_code": "45585"
   },
   {
     "code": "3208252003",
     "district_code": "320825",
-    "name": "Cilebak"
+    "name": "Cilebak",
+    "postal_code": "45585"
   },
   {
     "code": "3208252004",
     "district_code": "320825",
-    "name": "Jalatrang"
+    "name": "Jalatrang",
+    "postal_code": "45585"
   },
   {
     "code": "3208252005",
     "district_code": "320825",
-    "name": "Patala"
+    "name": "Patala",
+    "postal_code": "45585"
   },
   {
     "code": "3208252006",
     "district_code": "320825",
-    "name": "Madapajaya"
+    "name": "Madapajaya",
+    "postal_code": "45585"
   },
   {
     "code": "3208252007",
     "district_code": "320825",
-    "name": "Cilimusari"
+    "name": "Cilimusari",
+    "postal_code": "45585"
   }
 ]

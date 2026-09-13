@@ -2,21 +2,25 @@
   {
     "code": "7373081001",
     "district_code": "737308",
-    "name": "Mungkajang"
+    "name": "Mungkajang",
+    "postal_code": "91921"
   },
   {
     "code": "7373081002",
     "district_code": "737308",
-    "name": "Murante"
+    "name": "Murante",
+    "postal_code": "91924"
   },
   {
     "code": "7373081003",
     "district_code": "737308",
-    "name": "Latuppa"
+    "name": "Latuppa",
+    "postal_code": "91921"
   },
   {
     "code": "7373081004",
     "district_code": "737308",
-    "name": "Kambo"
+    "name": "Kambo",
+    "postal_code": "91925"
   }
 ]

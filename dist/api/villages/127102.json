@@ -2,31 +2,37 @@
   {
     "code": "1271021001",
     "district_code": "127102",
-    "name": "Lalang"
+    "name": "Lalang",
+    "postal_code": "20127"
   },
   {
     "code": "1271021002",
     "district_code": "127102",
-    "name": "Sei Sikambing B"
+    "name": "Sei Sikambing B",
+    "postal_code": "20122"
   },
   {
     "code": "1271021003",
     "district_code": "127102",
-    "name": "Sunggal"
+    "name": "Sunggal",
+    "postal_code": "20128"
   },
   {
     "code": "1271021004",
     "district_code": "127102",
-    "name": "Babura Sunggal"
+    "name": "Babura Sunggal",
+    "postal_code": "20121"
   },
   {
     "code": "1271021005",
     "district_code": "127102",
-    "name": "Tanjung Rejo"
+    "name": "Tanjung Rejo",
+    "postal_code": "20122"
   },
   {
     "code": "1271021006",
     "district_code": "127102",
-    "name": "Simpang Tanjung"
+    "name": "Simpang Tanjung",
+    "postal_code": "20122"
   }
 ]

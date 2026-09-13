@@ -2,26 +2,31 @@
   {
     "code": "1215042001",
     "district_code": "121504",
-    "name": "Ulumerah"
+    "name": "Ulumerah",
+    "postal_code": "22276"
   },
   {
     "code": "1215042002",
     "district_code": "121504",
-    "name": "Pardomuan"
+    "name": "Pardomuan",
+    "postal_code": "22276"
   },
   {
     "code": "1215042003",
     "district_code": "121504",
-    "name": "Silima Kuta"
+    "name": "Silima Kuta",
+    "postal_code": "22276"
   },
   {
     "code": "1215042004",
     "district_code": "121504",
-    "name": "Lae Langge Namuseng"
+    "name": "Lae Langge Namuseng",
+    "postal_code": "22276"
   },
   {
     "code": "1215042005",
     "district_code": "121504",
-    "name": "Cikaok"
+    "name": "Cikaok",
+    "postal_code": "22276"
   }
 ]

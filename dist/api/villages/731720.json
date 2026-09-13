@@ -2,46 +2,55 @@
   {
     "code": "7317202001",
     "district_code": "731720",
-    "name": "Bonelemo"
+    "name": "Bonelemo",
+    "postal_code": "91996"
   },
   {
     "code": "7317202002",
     "district_code": "731720",
-    "name": "Sampeang"
+    "name": "Sampeang",
+    "postal_code": "91996"
   },
   {
     "code": "7317202003",
     "district_code": "731720",
-    "name": "Marinding"
+    "name": "Marinding",
+    "postal_code": "91996"
   },
   {
     "code": "7317202004",
     "district_code": "731720",
-    "name": "Saronda"
+    "name": "Saronda",
+    "postal_code": "91996"
   },
   {
     "code": "7317202005",
     "district_code": "731720",
-    "name": "Kadong-Kadong"
+    "name": "Kadong-Kadong",
+    "postal_code": "91996"
   },
   {
     "code": "7317202006",
     "district_code": "731720",
-    "name": "Tumbubara"
+    "name": "Tumbubara",
+    "postal_code": "91996"
   },
   {
     "code": "7317202007",
     "district_code": "731720",
-    "name": "Tettekang"
+    "name": "Tettekang",
+    "postal_code": "91996"
   },
   {
     "code": "7317202008",
     "district_code": "731720",
-    "name": "Bonelemo Utara"
+    "name": "Bonelemo Utara",
+    "postal_code": "91996"
   },
   {
     "code": "7317202009",
     "district_code": "731720",
-    "name": "Bonelemo Barat"
+    "name": "Bonelemo Barat",
+    "postal_code": "91996"
   }
 ]

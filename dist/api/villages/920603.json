@@ -2,21 +2,25 @@
   {
     "code": "9206032020",
     "district_code": "920603",
-    "name": "Irarutu III"
+    "name": "Irarutu III",
+    "postal_code": "98132"
   },
   {
     "code": "9206032021",
     "district_code": "920603",
-    "name": "Amutu"
+    "name": "Amutu",
+    "postal_code": "98132"
   },
   {
     "code": "9206032022",
     "district_code": "920603",
-    "name": "Nusei"
+    "name": "Nusei",
+    "postal_code": "98132"
   },
   {
     "code": "9206032023",
     "district_code": "920603",
-    "name": "Kasira"
+    "name": "Kasira",
+    "postal_code": "98132"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1813062001",
     "district_code": "181306",
-    "name": "Pasar Pulaupisang"
+    "name": "Pasar Pulaupisang",
+    "postal_code": "34896"
   },
   {
     "code": "1813062002",
     "district_code": "181306",
-    "name": "Labuhan"
+    "name": "Labuhan",
+    "postal_code": "34896"
   },
   {
     "code": "1813062003",
     "district_code": "181306",
-    "name": "Bandar Dalam"
+    "name": "Bandar Dalam",
+    "postal_code": "34896"
   },
   {
     "code": "1813062004",
     "district_code": "181306",
-    "name": "Pekon Lok"
+    "name": "Pekon Lok",
+    "postal_code": "34896"
   },
   {
     "code": "1813062005",
     "district_code": "181306",
-    "name": "Sukadana"
+    "name": "Sukadana",
+    "postal_code": "34896"
   },
   {
     "code": "1813062006",
     "district_code": "181306",
-    "name": "Suka Marga"
+    "name": "Suka Marga",
+    "postal_code": "34896"
   }
 ]

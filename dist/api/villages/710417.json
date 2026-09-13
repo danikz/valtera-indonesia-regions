@@ -2,31 +2,37 @@
   {
     "code": "7104172001",
     "district_code": "710417",
-    "name": "Moronge"
+    "name": "Moronge",
+    "postal_code": "95870"
   },
   {
     "code": "7104172002",
     "district_code": "710417",
-    "name": "Moronge I"
+    "name": "Moronge I",
+    "postal_code": "95870"
   },
   {
     "code": "7104172003",
     "district_code": "710417",
-    "name": "Moronge II"
+    "name": "Moronge II",
+    "postal_code": "95870"
   },
   {
     "code": "7104172004",
     "district_code": "710417",
-    "name": "Moronge Selatan"
+    "name": "Moronge Selatan",
+    "postal_code": "95870"
   },
   {
     "code": "7104172005",
     "district_code": "710417",
-    "name": "Moronge Selatan II"
+    "name": "Moronge Selatan II",
+    "postal_code": "95870"
   },
   {
     "code": "7104172006",
     "district_code": "710417",
-    "name": "Moronge Selatan I"
+    "name": "Moronge Selatan I",
+    "postal_code": "95870"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "8171031018",
     "district_code": "817103",
-    "name": "Lateri"
+    "name": "Lateri",
+    "postal_code": "97231"
   },
   {
     "code": "8171032001",
     "district_code": "817103",
-    "name": "Passo"
+    "name": "Passo",
+    "postal_code": "97232"
   },
   {
     "code": "8171032002",
     "district_code": "817103",
-    "name": "Halong"
+    "name": "Halong",
+    "postal_code": "97231"
   },
   {
     "code": "8171032003",
     "district_code": "817103",
-    "name": "Latta"
+    "name": "Latta",
+    "postal_code": "97231"
   },
   {
     "code": "8171032004",
     "district_code": "817103",
-    "name": "Negeri Lama"
+    "name": "Negeri Lama",
+    "postal_code": "97232"
   },
   {
     "code": "8171032005",
     "district_code": "817103",
-    "name": "Nania"
+    "name": "Nania",
+    "postal_code": "97232"
   },
   {
     "code": "8171032006",
     "district_code": "817103",
-    "name": "Waiheru"
+    "name": "Waiheru",
+    "postal_code": "97233"
   }
 ]

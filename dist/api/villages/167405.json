@@ -2,36 +2,43 @@
   {
     "code": "1674051001",
     "district_code": "167405",
-    "name": "Pasar Prabumulih I"
+    "name": "Pasar Prabumulih I",
+    "postal_code": "31121"
   },
   {
     "code": "1674051002",
     "district_code": "167405",
-    "name": "Pasar Prabumulih II"
+    "name": "Pasar Prabumulih II",
+    "postal_code": "31121"
   },
   {
     "code": "1674051003",
     "district_code": "167405",
-    "name": "Wonosari"
+    "name": "Wonosari",
+    "postal_code": "31126"
   },
   {
     "code": "1674051004",
     "district_code": "167405",
-    "name": "Mangga Besar"
+    "name": "Mangga Besar",
+    "postal_code": "31125"
   },
   {
     "code": "1674051005",
     "district_code": "167405",
-    "name": "Anak Petai"
+    "name": "Anak Petai",
+    "postal_code": "31121"
   },
   {
     "code": "1674051006",
     "district_code": "167405",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "31126"
   },
   {
     "code": "1674051007",
     "district_code": "167405",
-    "name": "Sidogede"
+    "name": "Sidogede",
+    "postal_code": "31125"
   }
 ]

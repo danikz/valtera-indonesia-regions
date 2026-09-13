@@ -2,36 +2,43 @@
   {
     "code": "1375011001",
     "district_code": "137501",
-    "name": "Tarok Dipo"
+    "name": "Tarok Dipo",
+    "postal_code": "26117"
   },
   {
     "code": "1375011002",
     "district_code": "137501",
-    "name": "Bukik Cangang/Kayu Rmg."
+    "name": "Bukik Cangang/Kayu Rmg.",
+    "postal_code": "26116"
   },
   {
     "code": "1375011003",
     "district_code": "137501",
-    "name": "Pakan Kurai"
+    "name": "Pakan Kurai",
+    "postal_code": "26112"
   },
   {
     "code": "1375011004",
     "district_code": "137501",
-    "name": "Aur Tajungkang/Tgh. Sawah"
+    "name": "Aur Tajungkang/Tgh. Sawah",
+    "postal_code": "26111"
   },
   {
     "code": "1375011005",
     "district_code": "137501",
-    "name": "Benteng Pasar Atas"
+    "name": "Benteng Pasar Atas",
+    "postal_code": "26113"
   },
   {
     "code": "1375011006",
     "district_code": "137501",
-    "name": "Kayu Kubu"
+    "name": "Kayu Kubu",
+    "postal_code": "26115"
   },
   {
     "code": "1375011007",
     "district_code": "137501",
-    "name": "Bukik Apik Puhun"
+    "name": "Bukik Apik Puhun",
+    "postal_code": "26114"
   }
 ]

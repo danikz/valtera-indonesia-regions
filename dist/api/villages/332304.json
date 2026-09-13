@@ -2,71 +2,85 @@
   {
     "code": "3323042001",
     "district_code": "332304",
-    "name": "Pringsurat"
+    "name": "Pringsurat",
+    "postal_code": "56272"
   },
   {
     "code": "3323042002",
     "district_code": "332304",
-    "name": "Kebumen"
+    "name": "Kebumen",
+    "postal_code": "56272"
   },
   {
     "code": "3323042003",
     "district_code": "332304",
-    "name": "Soropadan"
+    "name": "Soropadan",
+    "postal_code": "56272"
   },
   {
     "code": "3323042004",
     "district_code": "332304",
-    "name": "Kupen"
+    "name": "Kupen",
+    "postal_code": "56272"
   },
   {
     "code": "3323042005",
     "district_code": "332304",
-    "name": "Karangwuni"
+    "name": "Karangwuni",
+    "postal_code": "56272"
   },
   {
     "code": "3323042006",
     "district_code": "332304",
-    "name": "Gowak"
+    "name": "Gowak",
+    "postal_code": "56272"
   },
   {
     "code": "3323042007",
     "district_code": "332304",
-    "name": "Rejosari"
+    "name": "Rejosari",
+    "postal_code": "56272"
   },
   {
     "code": "3323042008",
     "district_code": "332304",
-    "name": "Ngipik"
+    "name": "Ngipik",
+    "postal_code": "56272"
   },
   {
     "code": "3323042009",
     "district_code": "332304",
-    "name": "Pingit"
+    "name": "Pingit",
+    "postal_code": "56272"
   },
   {
     "code": "3323042010",
     "district_code": "332304",
-    "name": "Klepu"
+    "name": "Klepu",
+    "postal_code": "56272"
   },
   {
     "code": "3323042011",
     "district_code": "332304",
-    "name": "Soborejo"
+    "name": "Soborejo",
+    "postal_code": "56272"
   },
   {
     "code": "3323042012",
     "district_code": "332304",
-    "name": "Nglorog"
+    "name": "Nglorog",
+    "postal_code": "56272"
   },
   {
     "code": "3323042013",
     "district_code": "332304",
-    "name": "Pagergunung"
+    "name": "Pagergunung",
+    "postal_code": "56272"
   },
   {
     "code": "3323042014",
     "district_code": "332304",
-    "name": "Wonokerso"
+    "name": "Wonokerso",
+    "postal_code": "56272"
   }
 ]

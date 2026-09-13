@@ -2,46 +2,55 @@
   {
     "code": "3518022001",
     "district_code": "351802",
-    "name": "Kuncir"
+    "name": "Kuncir",
+    "postal_code": "64474"
   },
   {
     "code": "3518022002",
     "district_code": "351802",
-    "name": "Kepel"
+    "name": "Kepel",
+    "postal_code": "64474"
   },
   {
     "code": "3518022003",
     "district_code": "351802",
-    "name": "Suru"
+    "name": "Suru",
+    "postal_code": "64474"
   },
   {
     "code": "3518022004",
     "district_code": "351802",
-    "name": "Ngetos"
+    "name": "Ngetos",
+    "postal_code": "64474"
   },
   {
     "code": "3518022005",
     "district_code": "351802",
-    "name": "Klodan"
+    "name": "Klodan",
+    "postal_code": "64474"
   },
   {
     "code": "3518022006",
     "district_code": "351802",
-    "name": "Mojoduwur"
+    "name": "Mojoduwur",
+    "postal_code": "64474"
   },
   {
     "code": "3518022007",
     "district_code": "351802",
-    "name": "Kweden"
+    "name": "Kweden",
+    "postal_code": "64474"
   },
   {
     "code": "3518022008",
     "district_code": "351802",
-    "name": "Blongko"
+    "name": "Blongko",
+    "postal_code": "64474"
   },
   {
     "code": "3518022009",
     "district_code": "351802",
-    "name": "Oro-oro Ombo"
+    "name": "Oro-oro Ombo",
+    "postal_code": "64474"
   }
 ]

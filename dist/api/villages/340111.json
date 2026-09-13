@@ -2,36 +2,43 @@
   {
     "code": "3401112001",
     "district_code": "340111",
-    "name": "Kebonharjo"
+    "name": "Kebonharjo",
+    "postal_code": "55673"
   },
   {
     "code": "3401112002",
     "district_code": "340111",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "55673"
   },
   {
     "code": "3401112003",
     "district_code": "340111",
-    "name": "Purwoharjo"
+    "name": "Purwoharjo",
+    "postal_code": "55673"
   },
   {
     "code": "3401112004",
     "district_code": "340111",
-    "name": "Sidoharjo"
+    "name": "Sidoharjo",
+    "postal_code": "55673"
   },
   {
     "code": "3401112005",
     "district_code": "340111",
-    "name": "Gerbosari"
+    "name": "Gerbosari",
+    "postal_code": "55673"
   },
   {
     "code": "3401112006",
     "district_code": "340111",
-    "name": "Ngargosari"
+    "name": "Ngargosari",
+    "postal_code": "55673"
   },
   {
     "code": "3401112007",
     "district_code": "340111",
-    "name": "Pagerharjo"
+    "name": "Pagerharjo",
+    "postal_code": "55673"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "8172021003",
     "district_code": "817202",
-    "name": "Ketsoblak"
+    "name": "Ketsoblak",
+    "postal_code": "97611"
   },
   {
     "code": "8172021004",
     "district_code": "817202",
-    "name": "Masrum"
+    "name": "Masrum",
+    "postal_code": "97611"
   },
   {
     "code": "8172021005",
     "district_code": "817202",
-    "name": "Lodar El"
+    "name": "Lodar El",
+    "postal_code": "97611"
   },
   {
     "code": "8172022001",
     "district_code": "817202",
-    "name": "Tual"
+    "name": "Tual",
+    "postal_code": "97611"
   },
   {
     "code": "8172022002",
     "district_code": "817202",
-    "name": "Taar"
+    "name": "Taar",
+    "postal_code": "97611"
   }
 ]

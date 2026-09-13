@@ -2,31 +2,37 @@
   {
     "code": "3576031001",
     "district_code": "357603",
-    "name": "Kranggan"
+    "name": "Kranggan",
+    "postal_code": "61321"
   },
   {
     "code": "3576031002",
     "district_code": "357603",
-    "name": "Miji"
+    "name": "Miji",
+    "postal_code": "61322"
   },
   {
     "code": "3576031003",
     "district_code": "357603",
-    "name": "Meri"
+    "name": "Meri",
+    "postal_code": "61315"
   },
   {
     "code": "3576031004",
     "district_code": "357603",
-    "name": "Jagalan"
+    "name": "Jagalan",
+    "postal_code": "61313"
   },
   {
     "code": "3576031005",
     "district_code": "357603",
-    "name": "Sentanan"
+    "name": "Sentanan",
+    "postal_code": "61312"
   },
   {
     "code": "3576031006",
     "district_code": "357603",
-    "name": "Purwotengah"
+    "name": "Purwotengah",
+    "postal_code": "61311"
   }
 ]

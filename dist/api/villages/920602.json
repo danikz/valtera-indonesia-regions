@@ -2,46 +2,55 @@
   {
     "code": "9206022001",
     "district_code": "920602",
-    "name": "Merdey"
+    "name": "Merdey",
+    "postal_code": "98163"
   },
   {
     "code": "9206022002",
     "district_code": "920602",
-    "name": "Meryeb"
+    "name": "Meryeb",
+    "postal_code": "98163"
   },
   {
     "code": "9206022004",
     "district_code": "920602",
-    "name": "Meyom"
+    "name": "Meyom",
+    "postal_code": "98163"
   },
   {
     "code": "9206022007",
     "district_code": "920602",
-    "name": "Menggerba"
+    "name": "Menggerba",
+    "postal_code": "98163"
   },
   {
     "code": "9206022008",
     "district_code": "920602",
-    "name": "Anajero"
+    "name": "Anajero",
+    "postal_code": "98163"
   },
   {
     "code": "9206022010",
     "district_code": "920602",
-    "name": "Mogromus"
+    "name": "Mogromus",
+    "postal_code": "98163"
   },
   {
     "code": "9206022011",
     "district_code": "920602",
-    "name": "Morombuy"
+    "name": "Morombuy",
+    "postal_code": "98163"
   },
   {
     "code": "9206022014",
     "district_code": "920602",
-    "name": "Mekiesefeb"
+    "name": "Mekiesefeb",
+    "postal_code": "98163"
   },
   {
     "code": "9206022020",
     "district_code": "920602",
-    "name": "Meyetga"
+    "name": "Meyetga",
+    "postal_code": "98163"
   }
 ]

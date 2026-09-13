@@ -2,26 +2,31 @@
   {
     "code": "7318131009",
     "district_code": "731813",
-    "name": "Tongko Sarapung"
+    "name": "Tongko Sarapung",
+    "postal_code": "91881"
   },
   {
     "code": "7318131010",
     "district_code": "731813",
-    "name": "Buntu Masakke"
+    "name": "Buntu Masakke",
+    "postal_code": "91881"
   },
   {
     "code": "7318132004",
     "district_code": "731813",
-    "name": "Bulian Massa'bu"
+    "name": "Bulian Massa'bu",
+    "postal_code": "91881"
   },
   {
     "code": "7318132006",
     "district_code": "731813",
-    "name": "Kaero"
+    "name": "Kaero",
+    "postal_code": "91881"
   },
   {
     "code": "7318132008",
     "district_code": "731813",
-    "name": "Turunan"
+    "name": "Turunan",
+    "postal_code": "91881"
   }
 ]

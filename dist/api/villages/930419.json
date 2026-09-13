@@ -2,36 +2,43 @@
   {
     "code": "9304192001",
     "district_code": "930419",
-    "name": "Biwar Laut"
+    "name": "Biwar Laut",
+    "postal_code": "99786"
   },
   {
     "code": "9304192002",
     "district_code": "930419",
-    "name": "Atambuts"
+    "name": "Atambuts",
+    "postal_code": "99786"
   },
   {
     "code": "9304192003",
     "district_code": "930419",
-    "name": "Omanesep"
+    "name": "Omanesep",
+    "postal_code": "99786"
   },
   {
     "code": "9304192004",
     "district_code": "930419",
-    "name": "Warkai"
+    "name": "Warkai",
+    "postal_code": "99786"
   },
   {
     "code": "9304192005",
     "district_code": "930419",
-    "name": "You"
+    "name": "You",
+    "postal_code": "99786"
   },
   {
     "code": "9304192006",
     "district_code": "930419",
-    "name": "Pirpis"
+    "name": "Pirpis",
+    "postal_code": "99786"
   },
   {
     "code": "9304192007",
     "district_code": "930419",
-    "name": "Desep"
+    "name": "Desep",
+    "postal_code": "99786"
   }
 ]

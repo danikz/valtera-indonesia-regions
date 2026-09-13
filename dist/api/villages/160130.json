@@ -2,36 +2,43 @@
   {
     "code": "1601302001",
     "district_code": "160130",
-    "name": "Batu Marta I"
+    "name": "Batu Marta I",
+    "postal_code": "32152"
   },
   {
     "code": "1601302002",
     "district_code": "160130",
-    "name": "Batu Marta II"
+    "name": "Batu Marta II",
+    "postal_code": "32152"
   },
   {
     "code": "1601302003",
     "district_code": "160130",
-    "name": "Lekis Rejo"
+    "name": "Lekis Rejo",
+    "postal_code": "32152"
   },
   {
     "code": "1601302004",
     "district_code": "160130",
-    "name": "Lubuk Banjar"
+    "name": "Lubuk Banjar",
+    "postal_code": "32152"
   },
   {
     "code": "1601302005",
     "district_code": "160130",
-    "name": "Marta Jaya"
+    "name": "Marta Jaya",
+    "postal_code": "32152"
   },
   {
     "code": "1601302006",
     "district_code": "160130",
-    "name": "Batu Raden"
+    "name": "Batu Raden",
+    "postal_code": "32152"
   },
   {
     "code": "1601302007",
     "district_code": "160130",
-    "name": "Battu Winangun"
+    "name": "Battu Winangun",
+    "postal_code": "32152"
   }
 ]

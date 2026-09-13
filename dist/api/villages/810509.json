@@ -2,31 +2,37 @@
   {
     "code": "8105092001",
     "district_code": "810509",
-    "name": "Pulau Panjang"
+    "name": "Pulau Panjang",
+    "postal_code": "97599"
   },
   {
     "code": "8105092002",
     "district_code": "810509",
-    "name": "Argam"
+    "name": "Argam",
+    "postal_code": "97599"
   },
   {
     "code": "8105092003",
     "district_code": "810509",
-    "name": "Lalasa"
+    "name": "Lalasa",
+    "postal_code": "97599"
   },
   {
     "code": "8105092004",
     "district_code": "810509",
-    "name": "Magat"
+    "name": "Magat",
+    "postal_code": "97599"
   },
   {
     "code": "8105092005",
     "district_code": "810509",
-    "name": "Ruku Ruku"
+    "name": "Ruku Ruku",
+    "postal_code": "97599"
   },
   {
     "code": "8105092006",
     "district_code": "810509",
-    "name": "Perik Basaranggi"
+    "name": "Perik Basaranggi",
+    "postal_code": "97599"
   }
 ]

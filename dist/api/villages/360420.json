@@ -2,46 +2,55 @@
   {
     "code": "3604202001",
     "district_code": "360420",
-    "name": "Tanjung Teja"
+    "name": "Tanjung Teja",
+    "postal_code": "42174"
   },
   {
     "code": "3604202002",
     "district_code": "360420",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "42174"
   },
   {
     "code": "3604202003",
     "district_code": "360420",
-    "name": "Panunggulan"
+    "name": "Panunggulan",
+    "postal_code": "42174"
   },
   {
     "code": "3604202004",
     "district_code": "360420",
-    "name": "Malanggah"
+    "name": "Malanggah",
+    "postal_code": "42174"
   },
   {
     "code": "3604202005",
     "district_code": "360420",
-    "name": "Kemuning"
+    "name": "Kemuning",
+    "postal_code": "42174"
   },
   {
     "code": "3604202006",
     "district_code": "360420",
-    "name": "Bojong Menteng"
+    "name": "Bojong Menteng",
+    "postal_code": "42174"
   },
   {
     "code": "3604202007",
     "district_code": "360420",
-    "name": "Bojong Catang"
+    "name": "Bojong Catang",
+    "postal_code": "42174"
   },
   {
     "code": "3604202008",
     "district_code": "360420",
-    "name": "Bojong Pandan"
+    "name": "Bojong Pandan",
+    "postal_code": "42174"
   },
   {
     "code": "3604202009",
     "district_code": "360420",
-    "name": "Pancaregang"
+    "name": "Pancaregang",
+    "postal_code": "42174"
   }
 ]

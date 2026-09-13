@@ -2,36 +2,43 @@
   {
     "code": "5204262001",
     "district_code": "520426",
-    "name": "Pungkit"
+    "name": "Pungkit",
+    "postal_code": "84388"
   },
   {
     "code": "5204262002",
     "district_code": "520426",
-    "name": "Berora"
+    "name": "Berora",
+    "postal_code": "84388"
   },
   {
     "code": "5204262003",
     "district_code": "520426",
-    "name": "Lopok"
+    "name": "Lopok",
+    "postal_code": "84388"
   },
   {
     "code": "5204262004",
     "district_code": "520426",
-    "name": "Langam"
+    "name": "Langam",
+    "postal_code": "84388"
   },
   {
     "code": "5204262005",
     "district_code": "520426",
-    "name": "Mamak"
+    "name": "Mamak",
+    "postal_code": "84388"
   },
   {
     "code": "5204262006",
     "district_code": "520426",
-    "name": "Lopok Beru"
+    "name": "Lopok Beru",
+    "postal_code": "84388"
   },
   {
     "code": "5204262007",
     "district_code": "520426",
-    "name": "Tatede"
+    "name": "Tatede",
+    "postal_code": "84388"
   }
 ]

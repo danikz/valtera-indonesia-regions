@@ -2,26 +2,31 @@
   {
     "code": "1208151005",
     "district_code": "120815",
-    "name": "Haranggaol"
+    "name": "Haranggaol",
+    "postal_code": "21177"
   },
   {
     "code": "1208152001",
     "district_code": "120815",
-    "name": "Nagori Purba"
+    "name": "Nagori Purba",
+    "postal_code": "21177"
   },
   {
     "code": "1208152002",
     "district_code": "120815",
-    "name": "Nagori Sihalpe"
+    "name": "Nagori Sihalpe",
+    "postal_code": "21177"
   },
   {
     "code": "1208152003",
     "district_code": "120815",
-    "name": "Nagori Purba Horison"
+    "name": "Nagori Purba Horison",
+    "postal_code": "21177"
   },
   {
     "code": "1208152004",
     "district_code": "120815",
-    "name": "Nagori Purba Pasir"
+    "name": "Nagori Purba Pasir",
+    "postal_code": "21177"
   }
 ]

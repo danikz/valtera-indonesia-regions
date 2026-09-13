@@ -2,46 +2,55 @@
   {
     "code": "9201422001",
     "district_code": "920142",
-    "name": "Klafdalim"
+    "name": "Klafdalim",
+    "postal_code": ""
   },
   {
     "code": "9201422002",
     "district_code": "920142",
-    "name": "Klaforo"
+    "name": "Klaforo",
+    "postal_code": ""
   },
   {
     "code": "9201422003",
     "district_code": "920142",
-    "name": "Klasof"
+    "name": "Klasof",
+    "postal_code": ""
   },
   {
     "code": "9201422004",
     "district_code": "920142",
-    "name": "Ninjemur"
+    "name": "Ninjemur",
+    "postal_code": ""
   },
   {
     "code": "9201422005",
     "district_code": "920142",
-    "name": "Klasarin"
+    "name": "Klasarin",
+    "postal_code": ""
   },
   {
     "code": "9201422006",
     "district_code": "920142",
-    "name": "Klawoton"
+    "name": "Klawoton",
+    "postal_code": ""
   },
   {
     "code": "9201422007",
     "district_code": "920142",
-    "name": "Wonosobo"
+    "name": "Wonosobo",
+    "postal_code": ""
   },
   {
     "code": "9201422008",
     "district_code": "920142",
-    "name": "Sakamerin"
+    "name": "Sakamerin",
+    "postal_code": ""
   },
   {
     "code": "9201422009",
     "district_code": "920142",
-    "name": "Masmili"
+    "name": "Masmili",
+    "postal_code": ""
   }
 ]

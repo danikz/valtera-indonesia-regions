@@ -2,26 +2,31 @@
   {
     "code": "1218062001",
     "district_code": "121806",
-    "name": "Bandar Tengah"
+    "name": "Bandar Tengah",
+    "postal_code": "20994"
   },
   {
     "code": "1218062002",
     "district_code": "121806",
-    "name": "Juhar"
+    "name": "Juhar",
+    "postal_code": "20994"
   },
   {
     "code": "1218062003",
     "district_code": "121806",
-    "name": "Gelam Sei Serimah"
+    "name": "Gelam Sei Serimah",
+    "postal_code": "20994"
   },
   {
     "code": "1218062004",
     "district_code": "121806",
-    "name": "Pekan Bandar Khalipah"
+    "name": "Pekan Bandar Khalipah",
+    "postal_code": "20994"
   },
   {
     "code": "1218062005",
     "district_code": "121806",
-    "name": "Kayu Besar"
+    "name": "Kayu Besar",
+    "postal_code": "20994"
   }
 ]

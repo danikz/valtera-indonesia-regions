@@ -2,31 +2,37 @@
   {
     "code": "1309042003",
     "district_code": "130904",
-    "name": "Bojakan"
+    "name": "Bojakan",
+    "postal_code": "25395"
   },
   {
     "code": "1309042004",
     "district_code": "130904",
-    "name": "Sotboyak"
+    "name": "Sotboyak",
+    "postal_code": "25395"
   },
   {
     "code": "1309042005",
     "district_code": "130904",
-    "name": "Mongan Poula"
+    "name": "Mongan Poula",
+    "postal_code": "25395"
   },
   {
     "code": "1309042006",
     "district_code": "130904",
-    "name": "Muara Sikabaluan"
+    "name": "Muara Sikabaluan",
+    "postal_code": "25395"
   },
   {
     "code": "1309042007",
     "district_code": "130904",
-    "name": "Sirilogui"
+    "name": "Sirilogui",
+    "postal_code": "25395"
   },
   {
     "code": "1309042008",
     "district_code": "130904",
-    "name": "Malancan"
+    "name": "Malancan",
+    "postal_code": "25395"
   }
 ]

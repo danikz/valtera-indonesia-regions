@@ -2,21 +2,25 @@
   {
     "code": "1671151001",
     "district_code": "167115",
-    "name": "Alang-Alang Lebar"
+    "name": "Alang-Alang Lebar",
+    "postal_code": "30154"
   },
   {
     "code": "1671151002",
     "district_code": "167115",
-    "name": "Sri Jaya"
+    "name": "Sri Jaya",
+    "postal_code": "30153"
   },
   {
     "code": "1671151003",
     "district_code": "167115",
-    "name": "Talang Kelapa"
+    "name": "Talang Kelapa",
+    "postal_code": "30151"
   },
   {
     "code": "1671151004",
     "district_code": "167115",
-    "name": "Karya Baru"
+    "name": "Karya Baru",
+    "postal_code": "30151"
   }
 ]

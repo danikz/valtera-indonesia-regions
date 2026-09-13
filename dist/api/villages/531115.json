@@ -2,31 +2,37 @@
   {
     "code": "5311152001",
     "district_code": "531115",
-    "name": "Prai Bakul"
+    "name": "Prai Bakul",
+    "postal_code": "87174"
   },
   {
     "code": "5311152002",
     "district_code": "531115",
-    "name": "Katikutana"
+    "name": "Katikutana",
+    "postal_code": "87174"
   },
   {
     "code": "5311152003",
     "district_code": "531115",
-    "name": "Karipi"
+    "name": "Karipi",
+    "postal_code": "87174"
   },
   {
     "code": "5311152004",
     "district_code": "531115",
-    "name": "Wangga Meti"
+    "name": "Wangga Meti",
+    "postal_code": "87174"
   },
   {
     "code": "5311152005",
     "district_code": "531115",
-    "name": "Katiku Wai"
+    "name": "Katiku Wai",
+    "postal_code": "87174"
   },
   {
     "code": "5311152006",
     "district_code": "531115",
-    "name": "Katiku Luku"
+    "name": "Katiku Luku",
+    "postal_code": "87174"
   }
 ]

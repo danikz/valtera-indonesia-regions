@@ -2,31 +2,37 @@
   {
     "code": "9206112001",
     "district_code": "920611",
-    "name": "Bumi Saniari"
+    "name": "Bumi Saniari",
+    "postal_code": "98143"
   },
   {
     "code": "9206112002",
     "district_code": "920611",
-    "name": "Banjar Ausoy"
+    "name": "Banjar Ausoy",
+    "postal_code": "98143"
   },
   {
     "code": "9206112003",
     "district_code": "920611",
-    "name": "Waraitama"
+    "name": "Waraitama",
+    "postal_code": "98143"
   },
   {
     "code": "9206112004",
     "district_code": "920611",
-    "name": "Atibo Manimeri"
+    "name": "Atibo Manimeri",
+    "postal_code": "98143"
   },
   {
     "code": "9206112005",
     "district_code": "920611",
-    "name": "Pasamai"
+    "name": "Pasamai",
+    "postal_code": "98143"
   },
   {
     "code": "9206112006",
     "district_code": "920611",
-    "name": "Korano Jaya"
+    "name": "Korano Jaya",
+    "postal_code": "98143"
   }
 ]

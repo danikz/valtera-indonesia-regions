@@ -2,41 +2,49 @@
   {
     "code": "7306031001",
     "district_code": "730603",
-    "name": "Malakaji"
+    "name": "Malakaji",
+    "postal_code": "92175"
   },
   {
     "code": "7306031002",
     "district_code": "730603",
-    "name": "Cikoro"
+    "name": "Cikoro",
+    "postal_code": "92175"
   },
   {
     "code": "7306032003",
     "district_code": "730603",
-    "name": "Garing"
+    "name": "Garing",
+    "postal_code": "92175"
   },
   {
     "code": "7306032004",
     "district_code": "730603",
-    "name": "Datara"
+    "name": "Datara",
+    "postal_code": "92175"
   },
   {
     "code": "7306032005",
     "district_code": "730603",
-    "name": "Rappolemba"
+    "name": "Rappolemba",
+    "postal_code": "92175"
   },
   {
     "code": "7306032006",
     "district_code": "730603",
-    "name": "Rappoala"
+    "name": "Rappoala",
+    "postal_code": "92175"
   },
   {
     "code": "7306032007",
     "district_code": "730603",
-    "name": "Tanete"
+    "name": "Tanete",
+    "postal_code": "92175"
   },
   {
     "code": "7306032008",
     "district_code": "730603",
-    "name": "Bontobuddung"
+    "name": "Bontobuddung",
+    "postal_code": "92175"
   }
 ]

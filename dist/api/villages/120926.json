@@ -2,36 +2,43 @@
   {
     "code": "1209262001",
     "district_code": "120926",
-    "name": "Tinggi Raja"
+    "name": "Tinggi Raja",
+    "postal_code": "21261"
   },
   {
     "code": "1209262002",
     "district_code": "120926",
-    "name": "Sumber Harapan"
+    "name": "Sumber Harapan",
+    "postal_code": "21261"
   },
   {
     "code": "1209262003",
     "district_code": "120926",
-    "name": "Terusan Tengah"
+    "name": "Terusan Tengah",
+    "postal_code": "21261"
   },
   {
     "code": "1209262004",
     "district_code": "120926",
-    "name": "Piasa Ulu"
+    "name": "Piasa Ulu",
+    "postal_code": "21261"
   },
   {
     "code": "1209262005",
     "district_code": "120926",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "21261"
   },
   {
     "code": "1209262006",
     "district_code": "120926",
-    "name": "Teladan"
+    "name": "Teladan",
+    "postal_code": "21261"
   },
   {
     "code": "1209262007",
     "district_code": "120926",
-    "name": "Padang Sari"
+    "name": "Padang Sari",
+    "postal_code": "21261"
   }
 ]

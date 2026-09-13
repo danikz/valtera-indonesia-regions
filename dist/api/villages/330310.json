@@ -2,36 +2,43 @@
   {
     "code": "3303102001",
     "district_code": "330310",
-    "name": "Serang"
+    "name": "Serang",
+    "postal_code": "53358"
   },
   {
     "code": "3303102002",
     "district_code": "330310",
-    "name": "Kutabawa"
+    "name": "Kutabawa",
+    "postal_code": "53358"
   },
   {
     "code": "3303102003",
     "district_code": "330310",
-    "name": "Siwarak"
+    "name": "Siwarak",
+    "postal_code": "53358"
   },
   {
     "code": "3303102004",
     "district_code": "330310",
-    "name": "Tlahab Lor"
+    "name": "Tlahab Lor",
+    "postal_code": "53358"
   },
   {
     "code": "3303102005",
     "district_code": "330310",
-    "name": "Tlahab Kidul"
+    "name": "Tlahab Kidul",
+    "postal_code": "53358"
   },
   {
     "code": "3303102006",
     "district_code": "330310",
-    "name": "Karangreja"
+    "name": "Karangreja",
+    "postal_code": "53358"
   },
   {
     "code": "3303102007",
     "district_code": "330310",
-    "name": "Gondang"
+    "name": "Gondang",
+    "postal_code": "53358"
   }
 ]

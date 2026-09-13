@@ -2,26 +2,31 @@
   {
     "code": "9508302001",
     "district_code": "950830",
-    "name": "Neggea"
+    "name": "Neggea",
+    "postal_code": "99914"
   },
   {
     "code": "9508302002",
     "district_code": "950830",
-    "name": "Wulagumi"
+    "name": "Wulagumi",
+    "postal_code": "99914"
   },
   {
     "code": "9508302003",
     "district_code": "950830",
-    "name": "Kombama"
+    "name": "Kombama",
+    "postal_code": "99914"
   },
   {
     "code": "9508302004",
     "district_code": "950830",
-    "name": "Wenggenambut"
+    "name": "Wenggenambut",
+    "postal_code": "99914"
   },
   {
     "code": "9508302005",
     "district_code": "950830",
-    "name": "Nenggeagin"
+    "name": "Nenggeagin",
+    "postal_code": "99914"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "3506252001",
     "district_code": "350625",
-    "name": "Tugurejo"
+    "name": "Tugurejo",
+    "postal_code": "64181"
   },
   {
     "code": "3506252002",
     "district_code": "350625",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "64181"
   },
   {
     "code": "3506252003",
     "district_code": "350625",
-    "name": "Paron"
+    "name": "Paron",
+    "postal_code": "64181"
   },
   {
     "code": "3506252004",
     "district_code": "350625",
-    "name": "Gogorante"
+    "name": "Gogorante",
+    "postal_code": "64181"
   },
   {
     "code": "3506252005",
     "district_code": "350625",
-    "name": "Doko"
+    "name": "Doko",
+    "postal_code": "64181"
   },
   {
     "code": "3506252006",
     "district_code": "350625",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "64181"
   },
   {
     "code": "3506252007",
     "district_code": "350625",
-    "name": "Ngasem"
+    "name": "Ngasem",
+    "postal_code": "64181"
   },
   {
     "code": "3506252008",
     "district_code": "350625",
-    "name": "Karangrejo"
+    "name": "Karangrejo",
+    "postal_code": "64181"
   },
   {
     "code": "3506252009",
     "district_code": "350625",
-    "name": "Kwadungan"
+    "name": "Kwadungan",
+    "postal_code": "64181"
   },
   {
     "code": "3506252010",
     "district_code": "350625",
-    "name": "Nambaan"
+    "name": "Nambaan",
+    "postal_code": "64181"
   },
   {
     "code": "3506252011",
     "district_code": "350625",
-    "name": "Toyoresmi"
+    "name": "Toyoresmi",
+    "postal_code": "64181"
   },
   {
     "code": "3506252012",
     "district_code": "350625",
-    "name": "Wonocatur"
+    "name": "Wonocatur",
+    "postal_code": "64181"
   }
 ]

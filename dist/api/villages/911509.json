@@ -2,36 +2,43 @@
   {
     "code": "9115092002",
     "district_code": "911509",
-    "name": "Somiangga"
+    "name": "Somiangga",
+    "postal_code": "98661"
   },
   {
     "code": "9115092004",
     "district_code": "911509",
-    "name": "Toire"
+    "name": "Toire",
+    "postal_code": "98661"
   },
   {
     "code": "9115092005",
     "district_code": "911509",
-    "name": "Harapan Jaya"
+    "name": "Harapan Jaya",
+    "postal_code": "98661"
   },
   {
     "code": "9115092006",
     "district_code": "911509",
-    "name": "Demisa"
+    "name": "Demisa",
+    "postal_code": "98661"
   },
   {
     "code": "9115092008",
     "district_code": "911509",
-    "name": "Otodemo"
+    "name": "Otodemo",
+    "postal_code": "98661"
   },
   {
     "code": "9115092011",
     "district_code": "911509",
-    "name": "Awaso"
+    "name": "Awaso",
+    "postal_code": "98661"
   },
   {
     "code": "9115092012",
     "district_code": "911509",
-    "name": "Firo"
+    "name": "Firo",
+    "postal_code": "98661"
   }
 ]

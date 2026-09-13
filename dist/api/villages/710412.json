@@ -2,26 +2,31 @@
   {
     "code": "7104122001",
     "district_code": "710412",
-    "name": "Kalongan"
+    "name": "Kalongan",
+    "postal_code": "95874"
   },
   {
     "code": "7104122002",
     "district_code": "710412",
-    "name": "Kalongan Utara"
+    "name": "Kalongan Utara",
+    "postal_code": "95874"
   },
   {
     "code": "7104122003",
     "district_code": "710412",
-    "name": "Kalongan Selatan"
+    "name": "Kalongan Selatan",
+    "postal_code": "95874"
   },
   {
     "code": "7104122004",
     "district_code": "710412",
-    "name": "Alude"
+    "name": "Alude",
+    "postal_code": "95874"
   },
   {
     "code": "7104122005",
     "district_code": "710412",
-    "name": "Musi I"
+    "name": "Musi I",
+    "postal_code": "95874"
   }
 ]

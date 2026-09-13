@@ -2,31 +2,37 @@
   {
     "code": "8271011001",
     "district_code": "827101",
-    "name": "Jambula"
+    "name": "Jambula",
+    "postal_code": "97747"
   },
   {
     "code": "8271011002",
     "district_code": "827101",
-    "name": "Foramadiahi"
+    "name": "Foramadiahi",
+    "postal_code": "97747"
   },
   {
     "code": "8271011003",
     "district_code": "827101",
-    "name": "Kastela"
+    "name": "Kastela",
+    "postal_code": "97747"
   },
   {
     "code": "8271011004",
     "district_code": "827101",
-    "name": "Rua"
+    "name": "Rua",
+    "postal_code": "97747"
   },
   {
     "code": "8271011005",
     "district_code": "827101",
-    "name": "Afe Taduma"
+    "name": "Afe Taduma",
+    "postal_code": "97747"
   },
   {
     "code": "8271011019",
     "district_code": "827101",
-    "name": "Dorpedu"
+    "name": "Dorpedu",
+    "postal_code": "97747"
   }
 ]

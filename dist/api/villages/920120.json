@@ -2,46 +2,55 @@
   {
     "code": "9201202001",
     "district_code": "920120",
-    "name": "Luwelala"
+    "name": "Luwelala",
+    "postal_code": ""
   },
   {
     "code": "9201202003",
     "district_code": "920120",
-    "name": "Klatim"
+    "name": "Klatim",
+    "postal_code": ""
   },
   {
     "code": "9201202004",
     "district_code": "920120",
-    "name": "Klaos"
+    "name": "Klaos",
+    "postal_code": ""
   },
   {
     "code": "9201202006",
     "district_code": "920120",
-    "name": "Suluh"
+    "name": "Suluh",
+    "postal_code": ""
   },
   {
     "code": "9201202009",
     "district_code": "920120",
-    "name": "Bosi"
+    "name": "Bosi",
+    "postal_code": ""
   },
   {
     "code": "9201202010",
     "district_code": "920120",
-    "name": "Kamuyar"
+    "name": "Kamuyar",
+    "postal_code": ""
   },
   {
     "code": "9201202011",
     "district_code": "920120",
-    "name": "Klaka"
+    "name": "Klaka",
+    "postal_code": ""
   },
   {
     "code": "9201202012",
     "district_code": "920120",
-    "name": "Safdesa"
+    "name": "Safdesa",
+    "postal_code": ""
   },
   {
     "code": "9201202015",
     "district_code": "920120",
-    "name": "Klagen"
+    "name": "Klagen",
+    "postal_code": ""
   }
 ]

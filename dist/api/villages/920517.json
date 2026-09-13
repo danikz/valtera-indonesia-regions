@@ -2,21 +2,25 @@
   {
     "code": "9205172001",
     "district_code": "920517",
-    "name": "Wejim Barat"
+    "name": "Wejim Barat",
+    "postal_code": ""
   },
   {
     "code": "9205172002",
     "district_code": "920517",
-    "name": "Wejim Timur"
+    "name": "Wejim Timur",
+    "postal_code": ""
   },
   {
     "code": "9205172003",
     "district_code": "920517",
-    "name": "Satukurano"
+    "name": "Satukurano",
+    "postal_code": ""
   },
   {
     "code": "9205172004",
     "district_code": "920517",
-    "name": "Pulau Tikus"
+    "name": "Pulau Tikus",
+    "postal_code": ""
   }
 ]

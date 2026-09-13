@@ -2,31 +2,37 @@
   {
     "code": "8205082001",
     "district_code": "820508",
-    "name": "Waigoiyofa"
+    "name": "Waigoiyofa",
+    "postal_code": "97795"
   },
   {
     "code": "8205082002",
     "district_code": "820508",
-    "name": "Baleha"
+    "name": "Baleha",
+    "postal_code": "97795"
   },
   {
     "code": "8205082003",
     "district_code": "820508",
-    "name": "Fatkauyon"
+    "name": "Fatkauyon",
+    "postal_code": "97795"
   },
   {
     "code": "8205082004",
     "district_code": "820508",
-    "name": "Wailia"
+    "name": "Wailia",
+    "postal_code": "97795"
   },
   {
     "code": "8205082005",
     "district_code": "820508",
-    "name": "Sama"
+    "name": "Sama",
+    "postal_code": "97795"
   },
   {
     "code": "8205082006",
     "district_code": "820508",
-    "name": "Waisepa"
+    "name": "Waisepa",
+    "postal_code": "97795"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "9103102001",
     "district_code": "910310",
-    "name": "Demta"
+    "name": "Demta",
+    "postal_code": "99354"
   },
   {
     "code": "9103102002",
     "district_code": "910310",
-    "name": "Ambora"
+    "name": "Ambora",
+    "postal_code": "99354"
   },
   {
     "code": "9103102003",
     "district_code": "910310",
-    "name": "Yougapsa"
+    "name": "Yougapsa",
+    "postal_code": "99354"
   },
   {
     "code": "9103102004",
     "district_code": "910310",
-    "name": "Muris Kecil"
+    "name": "Muris Kecil",
+    "postal_code": "99354"
   },
   {
     "code": "9103102005",
     "district_code": "910310",
-    "name": "Yakore"
+    "name": "Yakore",
+    "postal_code": "99354"
   },
   {
     "code": "9103102006",
     "district_code": "910310",
-    "name": "Kamdera"
+    "name": "Kamdera",
+    "postal_code": "99354"
   },
   {
     "code": "9103102007",
     "district_code": "910310",
-    "name": "Muaif"
+    "name": "Muaif",
+    "postal_code": "99354"
   }
 ]

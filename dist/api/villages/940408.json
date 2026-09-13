@@ -2,26 +2,31 @@
   {
     "code": "9404082001",
     "district_code": "940408",
-    "name": "Atuka"
+    "name": "Atuka",
+    "postal_code": "99972"
   },
   {
     "code": "9404082002",
     "district_code": "940408",
-    "name": "Tiwaka"
+    "name": "Tiwaka",
+    "postal_code": "99972"
   },
   {
     "code": "9404082003",
     "district_code": "940408",
-    "name": "Keakwa"
+    "name": "Keakwa",
+    "postal_code": "99972"
   },
   {
     "code": "9404082004",
     "district_code": "940408",
-    "name": "Aikawapuka"
+    "name": "Aikawapuka",
+    "postal_code": "99972"
   },
   {
     "code": "9404082005",
     "district_code": "940408",
-    "name": "Kamoro"
+    "name": "Kamoro",
+    "postal_code": "99972"
   }
 ]

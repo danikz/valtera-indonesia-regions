@@ -2,66 +2,79 @@
   {
     "code": "1703101010",
     "district_code": "170310",
-    "name": "Pasar Lais"
+    "name": "Pasar Lais",
+    "postal_code": "38654"
   },
   {
     "code": "1703102008",
     "district_code": "170310",
-    "name": "Datar Lebar"
+    "name": "Datar Lebar",
+    "postal_code": "38654"
   },
   {
     "code": "1703102009",
     "district_code": "170310",
-    "name": "Air Padang"
+    "name": "Air Padang",
+    "postal_code": "38654"
   },
   {
     "code": "1703102011",
     "district_code": "170310",
-    "name": "Durian Daun"
+    "name": "Durian Daun",
+    "postal_code": "38654"
   },
   {
     "code": "1703102012",
     "district_code": "170310",
-    "name": "Dusun Raja"
+    "name": "Dusun Raja",
+    "postal_code": "38654"
   },
   {
     "code": "1703102013",
     "district_code": "170310",
-    "name": "Lubuk Lesung"
+    "name": "Lubuk Lesung",
+    "postal_code": "38654"
   },
   {
     "code": "1703102014",
     "district_code": "170310",
-    "name": "Pal 30"
+    "name": "Pal 30",
+    "postal_code": "38654"
   },
   {
     "code": "1703102015",
     "district_code": "170310",
-    "name": "Jagobayo"
+    "name": "Jagobayo",
+    "postal_code": "38654"
   },
   {
     "code": "1703102017",
     "district_code": "170310",
-    "name": "Talang Rasau"
+    "name": "Talang Rasau",
+    "postal_code": "38654"
   },
   {
     "code": "1703102018",
     "district_code": "170310",
-    "name": "Lubuk Gedang"
+    "name": "Lubuk Gedang",
+    "postal_code": "38654"
   },
   {
     "code": "1703102019",
     "district_code": "170310",
-    "name": "Suka Langu"
+    "name": "Suka Langu",
+    "postal_code": "38654"
   },
   {
     "code": "1703102020",
     "district_code": "170310",
-    "name": "Taba Baru"
+    "name": "Taba Baru",
+    "postal_code": "38654"
   },
   {
     "code": "1703102021",
     "district_code": "170310",
-    "name": "Kalbang"
+    "name": "Kalbang",
+    "postal_code": "38654"
   }
 ]

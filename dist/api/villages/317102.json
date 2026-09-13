@@ -2,26 +2,31 @@
   {
     "code": "3171021001",
     "district_code": "317102",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "10710"
   },
   {
     "code": "3171021002",
     "district_code": "317102",
-    "name": "Karang Anyar"
+    "name": "Karang Anyar",
+    "postal_code": "10740"
   },
   {
     "code": "3171021003",
     "district_code": "317102",
-    "name": "Kartini"
+    "name": "Kartini",
+    "postal_code": "10750"
   },
   {
     "code": "3171021004",
     "district_code": "317102",
-    "name": "Gunung Sahari Utara"
+    "name": "Gunung Sahari Utara",
+    "postal_code": "10720"
   },
   {
     "code": "3171021005",
     "district_code": "317102",
-    "name": "Mangga Dua Selatan"
+    "name": "Mangga Dua Selatan",
+    "postal_code": "10730"
   }
 ]

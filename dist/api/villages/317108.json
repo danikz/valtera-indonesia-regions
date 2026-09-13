@@ -2,21 +2,25 @@
   {
     "code": "3171081001",
     "district_code": "317108",
-    "name": "Johar Baru"
+    "name": "Johar Baru",
+    "postal_code": "10560"
   },
   {
     "code": "3171081002",
     "district_code": "317108",
-    "name": "Kampung Rawa"
+    "name": "Kampung Rawa",
+    "postal_code": "10550"
   },
   {
     "code": "3171081003",
     "district_code": "317108",
-    "name": "Galur"
+    "name": "Galur",
+    "postal_code": "10530"
   },
   {
     "code": "3171081004",
     "district_code": "317108",
-    "name": "Tanah Tinggi"
+    "name": "Tanah Tinggi",
+    "postal_code": "10540"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3508112001",
     "district_code": "350811",
-    "name": "Pasrujambe"
+    "name": "Pasrujambe",
+    "postal_code": "67361"
   },
   {
     "code": "3508112002",
     "district_code": "350811",
-    "name": "Jambekumbu"
+    "name": "Jambekumbu",
+    "postal_code": "67361"
   },
   {
     "code": "3508112003",
     "district_code": "350811",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "67361"
   },
   {
     "code": "3508112004",
     "district_code": "350811",
-    "name": "Jambearum"
+    "name": "Jambearum",
+    "postal_code": "67361"
   },
   {
     "code": "3508112005",
     "district_code": "350811",
-    "name": "Kertosari"
+    "name": "Kertosari",
+    "postal_code": "67361"
   },
   {
     "code": "3508112006",
     "district_code": "350811",
-    "name": "Pagowan"
+    "name": "Pagowan",
+    "postal_code": "67361"
   },
   {
     "code": "3508112007",
     "district_code": "350811",
-    "name": "Karanganom"
+    "name": "Karanganom",
+    "postal_code": "67361"
   }
 ]

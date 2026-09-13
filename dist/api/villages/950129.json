@@ -2,46 +2,55 @@
   {
     "code": "9501292001",
     "district_code": "950129",
-    "name": "Tagineri"
+    "name": "Tagineri",
+    "postal_code": "99547"
   },
   {
     "code": "9501292002",
     "district_code": "950129",
-    "name": "Injuta"
+    "name": "Injuta",
+    "postal_code": "99547"
   },
   {
     "code": "9501292003",
     "district_code": "950129",
-    "name": "Binibaga"
+    "name": "Binibaga",
+    "postal_code": "99547"
   },
   {
     "code": "9501292004",
     "district_code": "950129",
-    "name": "Tamokilu"
+    "name": "Tamokilu",
+    "postal_code": "99547"
   },
   {
     "code": "9501292005",
     "district_code": "950129",
-    "name": "Pagaluk"
+    "name": "Pagaluk",
+    "postal_code": "99547"
   },
   {
     "code": "9501292006",
     "district_code": "950129",
-    "name": "Gelelame"
+    "name": "Gelelame",
+    "postal_code": "99547"
   },
   {
     "code": "9501292007",
     "district_code": "950129",
-    "name": "Wilaloma"
+    "name": "Wilaloma",
+    "postal_code": "99547"
   },
   {
     "code": "9501292008",
     "district_code": "950129",
-    "name": "Melemei"
+    "name": "Melemei",
+    "postal_code": "99547"
   },
   {
     "code": "9501292009",
     "district_code": "950129",
-    "name": "Wuragukme"
+    "name": "Wuragukme",
+    "postal_code": "99547"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "9503482001",
     "district_code": "950348",
-    "name": "Duram"
+    "name": "Duram",
+    "postal_code": "99753"
   },
   {
     "code": "9503482002",
     "district_code": "950348",
-    "name": "Yeminikma"
+    "name": "Yeminikma",
+    "postal_code": "99753"
   },
   {
     "code": "9503482003",
     "district_code": "950348",
-    "name": "Goak"
+    "name": "Goak",
+    "postal_code": "99753"
   },
   {
     "code": "9503482004",
     "district_code": "950348",
-    "name": "Digitme"
+    "name": "Digitme",
+    "postal_code": "99753"
   },
   {
     "code": "9503482005",
     "district_code": "950348",
-    "name": "Dengat"
+    "name": "Dengat",
+    "postal_code": "99753"
   },
   {
     "code": "9503482006",
     "district_code": "950348",
-    "name": "Niniwi"
+    "name": "Niniwi",
+    "postal_code": "99753"
   }
 ]

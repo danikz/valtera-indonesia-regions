@@ -2,41 +2,49 @@
   {
     "code": "7403191004",
     "district_code": "740319",
-    "name": "Dana"
+    "name": "Dana",
+    "postal_code": "93624"
   },
   {
     "code": "7403191007",
     "district_code": "740319",
-    "name": "Wali"
+    "name": "Wali",
+    "postal_code": "93624"
   },
   {
     "code": "7403192001",
     "district_code": "740319",
-    "name": "Lakapodo"
+    "name": "Lakapodo",
+    "postal_code": "93624"
   },
   {
     "code": "7403192002",
     "district_code": "740319",
-    "name": "Wakadia"
+    "name": "Wakadia",
+    "postal_code": "93624"
   },
   {
     "code": "7403192003",
     "district_code": "740319",
-    "name": "Matarawa"
+    "name": "Matarawa",
+    "postal_code": "93624"
   },
   {
     "code": "7403192005",
     "district_code": "740319",
-    "name": "Bhangkali Barat"
+    "name": "Bhangkali Barat",
+    "postal_code": "93624"
   },
   {
     "code": "7403192006",
     "district_code": "740319",
-    "name": "Bangkali"
+    "name": "Bangkali",
+    "postal_code": "93624"
   },
   {
     "code": "7403192008",
     "district_code": "740319",
-    "name": "Labaha"
+    "name": "Labaha",
+    "postal_code": "93624"
   }
 ]

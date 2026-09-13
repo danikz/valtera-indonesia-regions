@@ -2,36 +2,43 @@
   {
     "code": "1205051001",
     "district_code": "120505",
-    "name": "Kwala Begumit"
+    "name": "Kwala Begumit",
+    "postal_code": "20761"
   },
   {
     "code": "1205052002",
     "district_code": "120505",
-    "name": "Sambi Rejo"
+    "name": "Sambi Rejo",
+    "postal_code": "20761"
   },
   {
     "code": "1205052003",
     "district_code": "120505",
-    "name": "Sendang Rejo"
+    "name": "Sendang Rejo",
+    "postal_code": "20761"
   },
   {
     "code": "1205052004",
     "district_code": "120505",
-    "name": "Tanjung Jati"
+    "name": "Tanjung Jati",
+    "postal_code": "20761"
   },
   {
     "code": "1205052005",
     "district_code": "120505",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "20761"
   },
   {
     "code": "1205052006",
     "district_code": "120505",
-    "name": "Perdamaian"
+    "name": "Perdamaian",
+    "postal_code": "20761"
   },
   {
     "code": "1205052007",
     "district_code": "120505",
-    "name": "Suka Makmur"
+    "name": "Suka Makmur",
+    "postal_code": "20761"
   }
 ]

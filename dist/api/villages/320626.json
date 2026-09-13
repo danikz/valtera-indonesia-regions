@@ -2,31 +2,37 @@
   {
     "code": "3206262001",
     "district_code": "320626",
-    "name": "Sukarame"
+    "name": "Sukarame",
+    "postal_code": "46461"
   },
   {
     "code": "3206262002",
     "district_code": "320626",
-    "name": "Sukamenak"
+    "name": "Sukamenak",
+    "postal_code": "46461"
   },
   {
     "code": "3206262003",
     "district_code": "320626",
-    "name": "Sukakarsa"
+    "name": "Sukakarsa",
+    "postal_code": "46461"
   },
   {
     "code": "3206262004",
     "district_code": "320626",
-    "name": "Padasuka"
+    "name": "Padasuka",
+    "postal_code": "46461"
   },
   {
     "code": "3206262005",
     "district_code": "320626",
-    "name": "Sukarapih"
+    "name": "Sukarapih",
+    "postal_code": "46461"
   },
   {
     "code": "3206262006",
     "district_code": "320626",
-    "name": "Wargakerta"
+    "name": "Wargakerta",
+    "postal_code": "46461"
   }
 ]

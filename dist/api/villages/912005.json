@@ -2,36 +2,43 @@
   {
     "code": "9120052001",
     "district_code": "912005",
-    "name": "Baudi"
+    "name": "Baudi",
+    "postal_code": "98691"
   },
   {
     "code": "9120052002",
     "district_code": "912005",
-    "name": "Trimuris"
+    "name": "Trimuris",
+    "postal_code": "98691"
   },
   {
     "code": "9120052003",
     "district_code": "912005",
-    "name": "Bagusa"
+    "name": "Bagusa",
+    "postal_code": "98691"
   },
   {
     "code": "9120052004",
     "district_code": "912005",
-    "name": "Kapeso"
+    "name": "Kapeso",
+    "postal_code": "98691"
   },
   {
     "code": "9120052005",
     "district_code": "912005",
-    "name": "Suaseso"
+    "name": "Suaseso",
+    "postal_code": "98691"
   },
   {
     "code": "9120052006",
     "district_code": "912005",
-    "name": "Warembori"
+    "name": "Warembori",
+    "postal_code": "98691"
   },
   {
     "code": "9120052007",
     "district_code": "912005",
-    "name": "Yoke"
+    "name": "Yoke",
+    "postal_code": "98691"
   }
 ]

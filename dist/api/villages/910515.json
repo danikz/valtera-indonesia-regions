@@ -2,41 +2,49 @@
   {
     "code": "9105151001",
     "district_code": "910515",
-    "name": "Anatorei"
+    "name": "Anatorei",
+    "postal_code": "98631"
   },
   {
     "code": "9105152001",
     "district_code": "910515",
-    "name": "Ketu Api"
+    "name": "Ketu Api",
+    "postal_code": "98631"
   },
   {
     "code": "9105152002",
     "district_code": "910515",
-    "name": "Mariaderi"
+    "name": "Mariaderi",
+    "postal_code": "98631"
   },
   {
     "code": "9105152003",
     "district_code": "910515",
-    "name": "Yapan"
+    "name": "Yapan",
+    "postal_code": "98631"
   },
   {
     "code": "9105152004",
     "district_code": "910515",
-    "name": "Mantembu"
+    "name": "Mantembu",
+    "postal_code": "98631"
   },
   {
     "code": "9105152005",
     "district_code": "910515",
-    "name": "Famboaman"
+    "name": "Famboaman",
+    "postal_code": "98631"
   },
   {
     "code": "9105152006",
     "district_code": "910515",
-    "name": "Kandowarira"
+    "name": "Kandowarira",
+    "postal_code": "98631"
   },
   {
     "code": "9105152007",
     "district_code": "910515",
-    "name": "Warari"
+    "name": "Warari",
+    "postal_code": "98631"
   }
 ]

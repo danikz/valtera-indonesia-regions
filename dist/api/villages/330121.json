@@ -2,26 +2,31 @@
   {
     "code": "3301211001",
     "district_code": "330121",
-    "name": "Sidakaya"
+    "name": "Sidakaya",
+    "postal_code": "53212"
   },
   {
     "code": "3301211002",
     "district_code": "330121",
-    "name": "Cilacap"
+    "name": "Cilacap",
+    "postal_code": "53211"
   },
   {
     "code": "3301211003",
     "district_code": "330121",
-    "name": "Tambakreja"
+    "name": "Tambakreja",
+    "postal_code": "53213"
   },
   {
     "code": "3301211004",
     "district_code": "330121",
-    "name": "Tegalkamulyan"
+    "name": "Tegalkamulyan",
+    "postal_code": "53215"
   },
   {
     "code": "3301211005",
     "district_code": "330121",
-    "name": "Tegalreja"
+    "name": "Tegalreja",
+    "postal_code": "53215"
   }
 ]

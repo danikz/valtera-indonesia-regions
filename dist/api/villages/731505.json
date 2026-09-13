@@ -2,56 +2,67 @@
   {
     "code": "7315051001",
     "district_code": "731505",
-    "name": "Benteng"
+    "name": "Benteng",
+    "postal_code": "91252"
   },
   {
     "code": "7315051002",
     "district_code": "731505",
-    "name": "Teppo"
+    "name": "Teppo",
+    "postal_code": "91252"
   },
   {
     "code": "7315051003",
     "district_code": "731505",
-    "name": "Tonyamang"
+    "name": "Tonyamang",
+    "postal_code": "91252"
   },
   {
     "code": "7315051004",
     "district_code": "731505",
-    "name": "Maccirinna"
+    "name": "Maccirinna",
+    "postal_code": "91252"
   },
   {
     "code": "7315052005",
     "district_code": "731505",
-    "name": "Leppangang"
+    "name": "Leppangang",
+    "postal_code": "91252"
   },
   {
     "code": "7315052006",
     "district_code": "731505",
-    "name": "Malimpung"
+    "name": "Malimpung",
+    "postal_code": "91252"
   },
   {
     "code": "7315052007",
     "district_code": "731505",
-    "name": "Mattiro Ade"
+    "name": "Mattiro Ade",
+    "postal_code": "91252"
   },
   {
     "code": "7315052008",
     "district_code": "731505",
-    "name": "Sipatuo"
+    "name": "Sipatuo",
+    "postal_code": "91252"
   },
   {
     "code": "7315052009",
     "district_code": "731505",
-    "name": "Padang Loang"
+    "name": "Padang Loang",
+    "postal_code": "91252"
   },
   {
     "code": "7315052010",
     "district_code": "731505",
-    "name": "Pincara"
+    "name": "Pincara",
+    "postal_code": "91252"
   },
   {
     "code": "7315052011",
     "district_code": "731505",
-    "name": "Masolo"
+    "name": "Masolo",
+    "postal_code": "91252"
   }
 ]

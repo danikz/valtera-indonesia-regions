@@ -2,21 +2,25 @@
   {
     "code": "1303102001",
     "district_code": "130310",
-    "name": "Batu Manjulur"
+    "name": "Batu Manjulur",
+    "postal_code": "27564"
   },
   {
     "code": "1303102002",
     "district_code": "130310",
-    "name": "Pamuatan"
+    "name": "Pamuatan",
+    "postal_code": "27564"
   },
   {
     "code": "1303102003",
     "district_code": "130310",
-    "name": "Padang Sibusuk"
+    "name": "Padang Sibusuk",
+    "postal_code": "27564"
   },
   {
     "code": "1303102004",
     "district_code": "130310",
-    "name": "Desa Kampung Baru"
+    "name": "Desa Kampung Baru",
+    "postal_code": "27564"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "9302122001",
     "district_code": "930212",
-    "name": "Manggelum"
+    "name": "Manggelum",
+    "postal_code": "99692"
   },
   {
     "code": "9302122002",
     "district_code": "930212",
-    "name": "Burunggop"
+    "name": "Burunggop",
+    "postal_code": "99692"
   },
   {
     "code": "9302122003",
     "district_code": "930212",
-    "name": "Bayanggop"
+    "name": "Bayanggop",
+    "postal_code": "99692"
   },
   {
     "code": "9302122004",
     "district_code": "930212",
-    "name": "Gaguop"
+    "name": "Gaguop",
+    "postal_code": "99692"
   },
   {
     "code": "9302122005",
     "district_code": "930212",
-    "name": "Kewam"
+    "name": "Kewam",
+    "postal_code": "99692"
   },
   {
     "code": "9302122006",
     "district_code": "930212",
-    "name": "Mangga Tiga"
+    "name": "Mangga Tiga",
+    "postal_code": "99692"
   }
 ]

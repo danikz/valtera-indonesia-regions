@@ -2,31 +2,37 @@
   {
     "code": "3403062001",
     "district_code": "340306",
-    "name": "Girikarto"
+    "name": "Girikarto",
+    "postal_code": "55872"
   },
   {
     "code": "3403062002",
     "district_code": "340306",
-    "name": "Girisekar"
+    "name": "Girisekar",
+    "postal_code": "55872"
   },
   {
     "code": "3403062003",
     "district_code": "340306",
-    "name": "Girimulyo"
+    "name": "Girimulyo",
+    "postal_code": "55872"
   },
   {
     "code": "3403062004",
     "district_code": "340306",
-    "name": "Giriwungu"
+    "name": "Giriwungu",
+    "postal_code": "55872"
   },
   {
     "code": "3403062005",
     "district_code": "340306",
-    "name": "Giriharjo"
+    "name": "Giriharjo",
+    "postal_code": "55872"
   },
   {
     "code": "3403062006",
     "district_code": "340306",
-    "name": "Girisuko"
+    "name": "Girisuko",
+    "postal_code": "55872"
   }
 ]

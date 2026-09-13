@@ -2,51 +2,61 @@
   {
     "code": "6103072001",
     "district_code": "610307",
-    "name": "Balai Karangan"
+    "name": "Balai Karangan",
+    "postal_code": "78556"
   },
   {
     "code": "6103072002",
     "district_code": "610307",
-    "name": "Pengadang"
+    "name": "Pengadang",
+    "postal_code": "78556"
   },
   {
     "code": "6103072003",
     "district_code": "610307",
-    "name": "Sotok"
+    "name": "Sotok",
+    "postal_code": "78556"
   },
   {
     "code": "6103072004",
     "district_code": "610307",
-    "name": "Kenaman"
+    "name": "Kenaman",
+    "postal_code": "78556"
   },
   {
     "code": "6103072005",
     "district_code": "610307",
-    "name": "Raut Muara"
+    "name": "Raut Muara",
+    "postal_code": "78556"
   },
   {
     "code": "6103072006",
     "district_code": "610307",
-    "name": "Engkahan"
+    "name": "Engkahan",
+    "postal_code": "78556"
   },
   {
     "code": "6103072007",
     "district_code": "610307",
-    "name": "Bungkang"
+    "name": "Bungkang",
+    "postal_code": "78556"
   },
   {
     "code": "6103072008",
     "district_code": "610307",
-    "name": "Lubuk Sabuk"
+    "name": "Lubuk Sabuk",
+    "postal_code": "78556"
   },
   {
     "code": "6103072009",
     "district_code": "610307",
-    "name": "Sangai Tekam"
+    "name": "Sangai Tekam",
+    "postal_code": "78556"
   },
   {
     "code": "6103072010",
     "district_code": "610307",
-    "name": "Melenggang"
+    "name": "Melenggang",
+    "postal_code": "78556"
   }
 ]

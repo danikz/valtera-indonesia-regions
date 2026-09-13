@@ -2,26 +2,31 @@
   {
     "code": "6472011001",
     "district_code": "647201",
-    "name": "Rawa Makmur"
+    "name": "Rawa Makmur",
+    "postal_code": "75243"
   },
   {
     "code": "6472011002",
     "district_code": "647201",
-    "name": "Handil Bakti"
+    "name": "Handil Bakti",
+    "postal_code": "75242"
   },
   {
     "code": "6472011003",
     "district_code": "647201",
-    "name": "Bukuan"
+    "name": "Bukuan",
+    "postal_code": "75241"
   },
   {
     "code": "6472011004",
     "district_code": "647201",
-    "name": "Simpang Pasir"
+    "name": "Simpang Pasir",
+    "postal_code": "75243"
   },
   {
     "code": "6472011005",
     "district_code": "647201",
-    "name": "Bantuas"
+    "name": "Bantuas",
+    "postal_code": "75253"
   }
 ]

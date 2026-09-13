@@ -2,51 +2,61 @@
   {
     "code": "7202182001",
     "district_code": "720218",
-    "name": "Kilo"
+    "name": "Kilo",
+    "postal_code": "94651"
   },
   {
     "code": "7202182002",
     "district_code": "720218",
-    "name": "Kawende"
+    "name": "Kawende",
+    "postal_code": "94651"
   },
   {
     "code": "7202182003",
     "district_code": "720218",
-    "name": "Kalora"
+    "name": "Kalora",
+    "postal_code": "94651"
   },
   {
     "code": "7202182004",
     "district_code": "720218",
-    "name": "Tambarana"
+    "name": "Tambarana",
+    "postal_code": "94651"
   },
   {
     "code": "7202182005",
     "district_code": "720218",
-    "name": "Tumora"
+    "name": "Tumora",
+    "postal_code": "94651"
   },
   {
     "code": "7202182006",
     "district_code": "720218",
-    "name": "Tri Mulya"
+    "name": "Tri Mulya",
+    "postal_code": "94651"
   },
   {
     "code": "7202182007",
     "district_code": "720218",
-    "name": "Bakti Agung"
+    "name": "Bakti Agung",
+    "postal_code": "94651"
   },
   {
     "code": "7202182009",
     "district_code": "720218",
-    "name": "Tobe"
+    "name": "Tobe",
+    "postal_code": "94651"
   },
   {
     "code": "7202182010",
     "district_code": "720218",
-    "name": "Membuke"
+    "name": "Membuke",
+    "postal_code": "94651"
   },
   {
     "code": "7202182011",
     "district_code": "720218",
-    "name": "Maranda"
+    "name": "Maranda",
+    "postal_code": "94651"
   }
 ]

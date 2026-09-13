@@ -2,46 +2,55 @@
   {
     "code": "9203152001",
     "district_code": "920315",
-    "name": "Kaburbur"
+    "name": "Kaburbur",
+    "postal_code": "98015"
   },
   {
     "code": "9203152002",
     "district_code": "920315",
-    "name": "Ubadari"
+    "name": "Ubadari",
+    "postal_code": "98015"
   },
   {
     "code": "9203152004",
     "district_code": "920315",
-    "name": "Homorkokma"
+    "name": "Homorkokma",
+    "postal_code": "98015"
   },
   {
     "code": "9203152005",
     "district_code": "920315",
-    "name": "Pattukar"
+    "name": "Pattukar",
+    "postal_code": "98015"
   },
   {
     "code": "9203152006",
     "district_code": "920315",
-    "name": "Kayuni"
+    "name": "Kayuni",
+    "postal_code": "98015"
   },
   {
     "code": "9203152007",
     "district_code": "920315",
-    "name": "Kuagas"
+    "name": "Kuagas",
+    "postal_code": "98015"
   },
   {
     "code": "9203152008",
     "district_code": "920315",
-    "name": "Rangkendak"
+    "name": "Rangkendak",
+    "postal_code": "98015"
   },
   {
     "code": "9203152009",
     "district_code": "920315",
-    "name": "Mananmur"
+    "name": "Mananmur",
+    "postal_code": "98015"
   },
   {
     "code": "9203152010",
     "district_code": "920315",
-    "name": "Warpa"
+    "name": "Warpa",
+    "postal_code": "98015"
   }
 ]

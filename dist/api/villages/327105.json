@@ -2,41 +2,49 @@
   {
     "code": "3271051001",
     "district_code": "327105",
-    "name": "Bantarjati"
+    "name": "Bantarjati",
+    "postal_code": "16153"
   },
   {
     "code": "3271051002",
     "district_code": "327105",
-    "name": "Tegal Gundil"
+    "name": "Tegal Gundil",
+    "postal_code": "16152"
   },
   {
     "code": "3271051003",
     "district_code": "327105",
-    "name": "Kedung Halang"
+    "name": "Kedung Halang",
+    "postal_code": "16158"
   },
   {
     "code": "3271051004",
     "district_code": "327105",
-    "name": "Ciparigi"
+    "name": "Ciparigi",
+    "postal_code": "16157"
   },
   {
     "code": "3271051005",
     "district_code": "327105",
-    "name": "Cibuluh"
+    "name": "Cibuluh",
+    "postal_code": "16151"
   },
   {
     "code": "3271051006",
     "district_code": "327105",
-    "name": "Ciluar"
+    "name": "Ciluar",
+    "postal_code": "16156"
   },
   {
     "code": "3271051007",
     "district_code": "327105",
-    "name": "Tanah Baru"
+    "name": "Tanah Baru",
+    "postal_code": "16154"
   },
   {
     "code": "3271051008",
     "district_code": "327105",
-    "name": "Cimahpar"
+    "name": "Cimahpar",
+    "postal_code": "16155"
   }
 ]

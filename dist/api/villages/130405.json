@@ -2,21 +2,25 @@
   {
     "code": "1304052001",
     "district_code": "130405",
-    "name": "Tanjung Barulak"
+    "name": "Tanjung Barulak",
+    "postal_code": "27280"
   },
   {
     "code": "1304052002",
     "district_code": "130405",
-    "name": "Saruaso"
+    "name": "Saruaso",
+    "postal_code": "27280"
   },
   {
     "code": "1304052003",
     "district_code": "130405",
-    "name": "Koto Tangah"
+    "name": "Koto Tangah",
+    "postal_code": "27280"
   },
   {
     "code": "1304052004",
     "district_code": "130405",
-    "name": "Pagaruyung"
+    "name": "Pagaruyung",
+    "postal_code": "27280"
   }
 ]

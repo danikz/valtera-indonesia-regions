@@ -2,26 +2,31 @@
   {
     "code": "1671101001",
     "district_code": "167110",
-    "name": "Bukit Sangkal"
+    "name": "Bukit Sangkal",
+    "postal_code": "30114"
   },
   {
     "code": "1671101002",
     "district_code": "167110",
-    "name": "Kalidoni"
+    "name": "Kalidoni",
+    "postal_code": "30119"
   },
   {
     "code": "1671101003",
     "district_code": "167110",
-    "name": "Sei Selayur"
+    "name": "Sei Selayur",
+    "postal_code": "30119"
   },
   {
     "code": "1671101004",
     "district_code": "167110",
-    "name": "Sei Selincah"
+    "name": "Sei Selincah",
+    "postal_code": "30119"
   },
   {
     "code": "1671101005",
     "district_code": "167110",
-    "name": "Sei Lais"
+    "name": "Sei Lais",
+    "postal_code": "30119"
   }
 ]

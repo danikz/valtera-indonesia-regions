@@ -2,56 +2,67 @@
   {
     "code": "3401032001",
     "district_code": "340103",
-    "name": "Garongan"
+    "name": "Garongan",
+    "postal_code": "55655"
   },
   {
     "code": "3401032002",
     "district_code": "340103",
-    "name": "Pleret"
+    "name": "Pleret",
+    "postal_code": "55655"
   },
   {
     "code": "3401032003",
     "district_code": "340103",
-    "name": "Bugel"
+    "name": "Bugel",
+    "postal_code": "55655"
   },
   {
     "code": "3401032004",
     "district_code": "340103",
-    "name": "Kanoman"
+    "name": "Kanoman",
+    "postal_code": "55655"
   },
   {
     "code": "3401032005",
     "district_code": "340103",
-    "name": "Depok"
+    "name": "Depok",
+    "postal_code": "55655"
   },
   {
     "code": "3401032006",
     "district_code": "340103",
-    "name": "Bojong"
+    "name": "Bojong",
+    "postal_code": "55655"
   },
   {
     "code": "3401032007",
     "district_code": "340103",
-    "name": "Tayuban"
+    "name": "Tayuban",
+    "postal_code": "55655"
   },
   {
     "code": "3401032008",
     "district_code": "340103",
-    "name": "Gotakan"
+    "name": "Gotakan",
+    "postal_code": "55655"
   },
   {
     "code": "3401032009",
     "district_code": "340103",
-    "name": "Panjatan"
+    "name": "Panjatan",
+    "postal_code": "55655"
   },
   {
     "code": "3401032010",
     "district_code": "340103",
-    "name": "Cerme"
+    "name": "Cerme",
+    "postal_code": "55655"
   },
   {
     "code": "3401032011",
     "district_code": "340103",
-    "name": "Krembangan"
+    "name": "Krembangan",
+    "postal_code": "55655"
   }
 ]

@@ -2,71 +2,85 @@
   {
     "code": "3519111012",
     "district_code": "351911",
-    "name": "Bangunsari"
+    "name": "Bangunsari",
+    "postal_code": "63153"
   },
   {
     "code": "3519111013",
     "district_code": "351911",
-    "name": "Krajan"
+    "name": "Krajan",
+    "postal_code": "63153"
   },
   {
     "code": "3519111014",
     "district_code": "351911",
-    "name": "Pandean"
+    "name": "Pandean",
+    "postal_code": "63153"
   },
   {
     "code": "3519112001",
     "district_code": "351911",
-    "name": "Kaliabu"
+    "name": "Kaliabu",
+    "postal_code": "63153"
   },
   {
     "code": "3519112002",
     "district_code": "351911",
-    "name": "Klecorejo"
+    "name": "Klecorejo",
+    "postal_code": "63153"
   },
   {
     "code": "3519112003",
     "district_code": "351911",
-    "name": "Blabakan"
+    "name": "Blabakan",
+    "postal_code": "63153"
   },
   {
     "code": "3519112004",
     "district_code": "351911",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "63153"
   },
   {
     "code": "3519112005",
     "district_code": "351911",
-    "name": "Kebonagung"
+    "name": "Kebonagung",
+    "postal_code": "63153"
   },
   {
     "code": "3519112006",
     "district_code": "351911",
-    "name": "Darmorejo"
+    "name": "Darmorejo",
+    "postal_code": "63153"
   },
   {
     "code": "3519112007",
     "district_code": "351911",
-    "name": "Kaligunting"
+    "name": "Kaligunting",
+    "postal_code": "63153"
   },
   {
     "code": "3519112008",
     "district_code": "351911",
-    "name": "Sidodadi"
+    "name": "Sidodadi",
+    "postal_code": "63112"
   },
   {
     "code": "3519112009",
     "district_code": "351911",
-    "name": "Kuncen"
+    "name": "Kuncen",
+    "postal_code": "63153"
   },
   {
     "code": "3519112010",
     "district_code": "351911",
-    "name": "Mejayan"
+    "name": "Mejayan",
+    "postal_code": "63153"
   },
   {
     "code": "3519112011",
     "district_code": "351911",
-    "name": "Ngampel"
+    "name": "Ngampel",
+    "postal_code": "63153"
   }
 ]

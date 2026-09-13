@@ -2,56 +2,67 @@
   {
     "code": "1605202001",
     "district_code": "160520",
-    "name": "Banpres"
+    "name": "Banpres",
+    "postal_code": "31664"
   },
   {
     "code": "1605202002",
     "district_code": "160520",
-    "name": "Jaya Tunggal"
+    "name": "Jaya Tunggal",
+    "postal_code": "31664"
   },
   {
     "code": "1605202003",
     "district_code": "160520",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "31664"
   },
   {
     "code": "1605202004",
     "district_code": "160520",
-    "name": "Darma Sakti"
+    "name": "Darma Sakti",
+    "postal_code": "31664"
   },
   {
     "code": "1605202005",
     "district_code": "160520",
-    "name": "Jaya Bhakti"
+    "name": "Jaya Bhakti",
+    "postal_code": "31664"
   },
   {
     "code": "1605202006",
     "district_code": "160520",
-    "name": "Remayu"
+    "name": "Remayu",
+    "postal_code": "31664"
   },
   {
     "code": "1605202007",
     "district_code": "160520",
-    "name": "Petunang"
+    "name": "Petunang",
+    "postal_code": "31664"
   },
   {
     "code": "1605202008",
     "district_code": "160520",
-    "name": "Lubuk Rumbai"
+    "name": "Lubuk Rumbai",
+    "postal_code": "31664"
   },
   {
     "code": "1605202009",
     "district_code": "160520",
-    "name": "Air Beliti"
+    "name": "Air Beliti",
+    "postal_code": "31664"
   },
   {
     "code": "1605202010",
     "district_code": "160520",
-    "name": "Leban Jaya"
+    "name": "Leban Jaya",
+    "postal_code": "31664"
   },
   {
     "code": "1605202011",
     "district_code": "160520",
-    "name": "Bamasco"
+    "name": "Bamasco",
+    "postal_code": "31664"
   }
 ]

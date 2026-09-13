@@ -2,46 +2,55 @@
   {
     "code": "3213092001",
     "district_code": "321309",
-    "name": "Ciasem Girang"
+    "name": "Ciasem Girang",
+    "postal_code": "41256"
   },
   {
     "code": "3213092002",
     "district_code": "321309",
-    "name": "Ciasem Tengah"
+    "name": "Ciasem Tengah",
+    "postal_code": "41256"
   },
   {
     "code": "3213092003",
     "district_code": "321309",
-    "name": "Dukuh"
+    "name": "Dukuh",
+    "postal_code": "41256"
   },
   {
     "code": "3213092004",
     "district_code": "321309",
-    "name": "Ciasem Hilir"
+    "name": "Ciasem Hilir",
+    "postal_code": "41256"
   },
   {
     "code": "3213092005",
     "district_code": "321309",
-    "name": "Sukahaji"
+    "name": "Sukahaji",
+    "postal_code": "41256"
   },
   {
     "code": "3213092006",
     "district_code": "321309",
-    "name": "Sukamandijaya"
+    "name": "Sukamandijaya",
+    "postal_code": "41256"
   },
   {
     "code": "3213092007",
     "district_code": "321309",
-    "name": "Ciasem Baru"
+    "name": "Ciasem Baru",
+    "postal_code": "41256"
   },
   {
     "code": "3213092008",
     "district_code": "321309",
-    "name": "Pinangsari"
+    "name": "Pinangsari",
+    "postal_code": "41256"
   },
   {
     "code": "3213092009",
     "district_code": "321309",
-    "name": "Jatibaru"
+    "name": "Jatibaru",
+    "postal_code": "41256"
   }
 ]

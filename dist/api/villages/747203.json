@@ -2,21 +2,25 @@
   {
     "code": "7472031001",
     "district_code": "747203",
-    "name": "Kaisabu Baru"
+    "name": "Kaisabu Baru",
+    "postal_code": "93731"
   },
   {
     "code": "7472031002",
     "district_code": "747203",
-    "name": "Karya Baru"
+    "name": "Karya Baru",
+    "postal_code": "93731"
   },
   {
     "code": "7472031003",
     "district_code": "747203",
-    "name": "Gonda Baru"
+    "name": "Gonda Baru",
+    "postal_code": "93731"
   },
   {
     "code": "7472031004",
     "district_code": "747203",
-    "name": "Bugi"
+    "name": "Bugi",
+    "postal_code": "93731"
   }
 ]

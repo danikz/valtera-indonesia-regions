@@ -2,51 +2,61 @@
   {
     "code": "1407011010",
     "district_code": "140701",
-    "name": "Telukmerbau"
+    "name": "Telukmerbau",
+    "postal_code": "28991"
   },
   {
     "code": "1407012002",
     "district_code": "140701",
-    "name": "Tanjungleban"
+    "name": "Tanjungleban",
+    "postal_code": "28991"
   },
   {
     "code": "1407012003",
     "district_code": "140701",
-    "name": "Sungaikubu"
+    "name": "Sungaikubu",
+    "postal_code": "28991"
   },
   {
     "code": "1407012004",
     "district_code": "140701",
-    "name": "Rantau Panjang Kanan"
+    "name": "Rantau Panjang Kanan",
+    "postal_code": "28991"
   },
   {
     "code": "1407012012",
     "district_code": "140701",
-    "name": "Telukpiyai"
+    "name": "Telukpiyai",
+    "postal_code": "28991"
   },
   {
     "code": "1407012013",
     "district_code": "140701",
-    "name": "Sungaisegajah"
+    "name": "Sungaisegajah",
+    "postal_code": "28991"
   },
   {
     "code": "1407012015",
     "district_code": "140701",
-    "name": "Sei Segajah Makmur"
+    "name": "Sei Segajah Makmur",
+    "postal_code": "28991"
   },
   {
     "code": "1407012020",
     "district_code": "140701",
-    "name": "Telukpiyai Pesisir"
+    "name": "Telukpiyai Pesisir",
+    "postal_code": "28991"
   },
   {
     "code": "1407012021",
     "district_code": "140701",
-    "name": "Sungaikubu Hulu"
+    "name": "Sungaikubu Hulu",
+    "postal_code": "28991"
   },
   {
     "code": "1407012022",
     "district_code": "140701",
-    "name": "Sungai Segajah Jaya"
+    "name": "Sungai Segajah Jaya",
+    "postal_code": "28991"
   }
 ]

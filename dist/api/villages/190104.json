@@ -2,76 +2,91 @@
   {
     "code": "1901042001",
     "district_code": "190104",
-    "name": "Petaling"
+    "name": "Petaling",
+    "postal_code": "33173"
   },
   {
     "code": "1901042002",
     "district_code": "190104",
-    "name": "Penagan"
+    "name": "Penagan",
+    "postal_code": "33173"
   },
   {
     "code": "1901042003",
     "district_code": "190104",
-    "name": "Zed"
+    "name": "Zed",
+    "postal_code": "33173"
   },
   {
     "code": "1901042004",
     "district_code": "190104",
-    "name": "Mendo"
+    "name": "Mendo",
+    "postal_code": "33173"
   },
   {
     "code": "1901042005",
     "district_code": "190104",
-    "name": "Paya Benua"
+    "name": "Paya Benua",
+    "postal_code": "33173"
   },
   {
     "code": "1901042006",
     "district_code": "190104",
-    "name": "Cengkong Abang"
+    "name": "Cengkong Abang",
+    "postal_code": "33173"
   },
   {
     "code": "1901042007",
     "district_code": "190104",
-    "name": "Kace"
+    "name": "Kace",
+    "postal_code": "33173"
   },
   {
     "code": "1901042008",
     "district_code": "190104",
-    "name": "Kemuja"
+    "name": "Kemuja",
+    "postal_code": "33173"
   },
   {
     "code": "1901042009",
     "district_code": "190104",
-    "name": "Air Duren"
+    "name": "Air Duren",
+    "postal_code": "33173"
   },
   {
     "code": "1901042010",
     "district_code": "190104",
-    "name": "Kota Kapur"
+    "name": "Kota Kapur",
+    "postal_code": "33173"
   },
   {
     "code": "1901042011",
     "district_code": "190104",
-    "name": "Air Buluh"
+    "name": "Air Buluh",
+    "postal_code": "33173"
   },
   {
     "code": "1901042012",
     "district_code": "190104",
-    "name": "Rukam"
+    "name": "Rukam",
+    "postal_code": "33173"
   },
   {
     "code": "1901042013",
     "district_code": "190104",
-    "name": "Labuh Air Pandan"
+    "name": "Labuh Air Pandan",
+    "postal_code": "33173"
   },
   {
     "code": "1901042014",
     "district_code": "190104",
-    "name": "Kace Timur"
+    "name": "Kace Timur",
+    "postal_code": "33173"
   },
   {
     "code": "1901042015",
     "district_code": "190104",
-    "name": "Petaling Banjar"
+    "name": "Petaling Banjar",
+    "postal_code": "33173"
   }
 ]

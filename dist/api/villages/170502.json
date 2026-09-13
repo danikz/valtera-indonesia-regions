@@ -2,36 +2,43 @@
   {
     "code": "1705021009",
     "district_code": "170502",
-    "name": "Lubuk Kebur"
+    "name": "Lubuk Kebur",
+    "postal_code": "38876"
   },
   {
     "code": "1705021010",
     "district_code": "170502",
-    "name": "Pasar Tais"
+    "name": "Pasar Tais",
+    "postal_code": "38876"
   },
   {
     "code": "1705021011",
     "district_code": "170502",
-    "name": "Lubuk Lintang"
+    "name": "Lubuk Lintang",
+    "postal_code": "38876"
   },
   {
     "code": "1705021012",
     "district_code": "170502",
-    "name": "Talang Saling"
+    "name": "Talang Saling",
+    "postal_code": "38876"
   },
   {
     "code": "1705021013",
     "district_code": "170502",
-    "name": "Dusun Baru"
+    "name": "Dusun Baru",
+    "postal_code": "38876"
   },
   {
     "code": "1705021014",
     "district_code": "170502",
-    "name": "Talang Dantuk"
+    "name": "Talang Dantuk",
+    "postal_code": "38876"
   },
   {
     "code": "1705021024",
     "district_code": "170502",
-    "name": "Napal"
+    "name": "Napal",
+    "postal_code": "38876"
   }
 ]

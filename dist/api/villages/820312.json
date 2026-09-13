@@ -2,31 +2,37 @@
   {
     "code": "8203122001",
     "district_code": "820312",
-    "name": "Yaro"
+    "name": "Yaro",
+    "postal_code": "97767"
   },
   {
     "code": "8203122002",
     "district_code": "820312",
-    "name": "Mawea"
+    "name": "Mawea",
+    "postal_code": "97767"
   },
   {
     "code": "8203122003",
     "district_code": "820312",
-    "name": "Meti"
+    "name": "Meti",
+    "postal_code": "97767"
   },
   {
     "code": "8203122004",
     "district_code": "820312",
-    "name": "Katana"
+    "name": "Katana",
+    "postal_code": "97767"
   },
   {
     "code": "8203122005",
     "district_code": "820312",
-    "name": "Gonga"
+    "name": "Gonga",
+    "postal_code": "97767"
   },
   {
     "code": "8203122006",
     "district_code": "820312",
-    "name": "Todokuiha"
+    "name": "Todokuiha",
+    "postal_code": "97767"
   }
 ]

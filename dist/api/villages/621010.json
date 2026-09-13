@@ -2,46 +2,55 @@
   {
     "code": "6210101004",
     "district_code": "621010",
-    "name": "Tumbang Rahuyan"
+    "name": "Tumbang Rahuyan",
+    "postal_code": "74561"
   },
   {
     "code": "6210102001",
     "district_code": "621010",
-    "name": "Jangkit"
+    "name": "Jangkit",
+    "postal_code": "74561"
   },
   {
     "code": "6210102002",
     "district_code": "621010",
-    "name": "Tumbang Lapan"
+    "name": "Tumbang Lapan",
+    "postal_code": "74561"
   },
   {
     "code": "6210102003",
     "district_code": "621010",
-    "name": "Batu Puter"
+    "name": "Batu Puter",
+    "postal_code": "74561"
   },
   {
     "code": "6210102005",
     "district_code": "621010",
-    "name": "Sei Antai"
+    "name": "Sei Antai",
+    "postal_code": "74561"
   },
   {
     "code": "6210102006",
     "district_code": "621010",
-    "name": "Hantapang"
+    "name": "Hantapang",
+    "postal_code": "74561"
   },
   {
     "code": "6210102007",
     "district_code": "621010",
-    "name": "Sangal"
+    "name": "Sangal",
+    "postal_code": "74561"
   },
   {
     "code": "6210102008",
     "district_code": "621010",
-    "name": "Tumbang Tuwe"
+    "name": "Tumbang Tuwe",
+    "postal_code": "74561"
   },
   {
     "code": "6210102012",
     "district_code": "621010",
-    "name": "Tumbang Mujai"
+    "name": "Tumbang Mujai",
+    "postal_code": "74561"
   }
 ]

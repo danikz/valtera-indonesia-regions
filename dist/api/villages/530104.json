@@ -2,41 +2,49 @@
   {
     "code": "5301042003",
     "district_code": "530104",
-    "name": "Bokonusan"
+    "name": "Bokonusan",
+    "postal_code": "85352"
   },
   {
     "code": "5301042004",
     "district_code": "530104",
-    "name": "Otan"
+    "name": "Otan",
+    "postal_code": "85352"
   },
   {
     "code": "5301042005",
     "district_code": "530104",
-    "name": "Uitao"
+    "name": "Uitao",
+    "postal_code": "85352"
   },
   {
     "code": "5301042006",
     "district_code": "530104",
-    "name": "Uiasa"
+    "name": "Uiasa",
+    "postal_code": "85352"
   },
   {
     "code": "5301042008",
     "district_code": "530104",
-    "name": "Hansisi"
+    "name": "Hansisi",
+    "postal_code": "85352"
   },
   {
     "code": "5301042009",
     "district_code": "530104",
-    "name": "Huilelot"
+    "name": "Huilelot",
+    "postal_code": "85352"
   },
   {
     "code": "5301042011",
     "district_code": "530104",
-    "name": "Batuinan"
+    "name": "Batuinan",
+    "postal_code": "85352"
   },
   {
     "code": "5301042013",
     "district_code": "530104",
-    "name": "Letbaun"
+    "name": "Letbaun",
+    "postal_code": "85352"
   }
 ]

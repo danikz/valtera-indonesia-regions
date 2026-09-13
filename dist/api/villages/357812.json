@@ -2,21 +2,25 @@
   {
     "code": "3578121001",
     "district_code": "357812",
-    "name": "Bongkaran"
+    "name": "Bongkaran",
+    "postal_code": "60161"
   },
   {
     "code": "3578121002",
     "district_code": "357812",
-    "name": "Nyamplungan"
+    "name": "Nyamplungan",
+    "postal_code": "60162"
   },
   {
     "code": "3578121003",
     "district_code": "357812",
-    "name": "Krembangan Utara"
+    "name": "Krembangan Utara",
+    "postal_code": "60163"
   },
   {
     "code": "3578121006",
     "district_code": "357812",
-    "name": "Tanjung Perak"
+    "name": "Tanjung Perak",
+    "postal_code": "60164"
   }
 ]

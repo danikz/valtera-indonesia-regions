@@ -2,46 +2,55 @@
   {
     "code": "5302162001",
     "district_code": "530216",
-    "name": "Toianas"
+    "name": "Toianas",
+    "postal_code": "85578"
   },
   {
     "code": "5302162002",
     "district_code": "530216",
-    "name": "Skinu"
+    "name": "Skinu",
+    "postal_code": "85578"
   },
   {
     "code": "5302162003",
     "district_code": "530216",
-    "name": "Oeleu"
+    "name": "Oeleu",
+    "postal_code": "85578"
   },
   {
     "code": "5302162004",
     "district_code": "530216",
-    "name": "Sanbet"
+    "name": "Sanbet",
+    "postal_code": "85578"
   },
   {
     "code": "5302162005",
     "district_code": "530216",
-    "name": "Bokong"
+    "name": "Bokong",
+    "postal_code": "85578"
   },
   {
     "code": "5302162006",
     "district_code": "530216",
-    "name": "Tuataum"
+    "name": "Tuataum",
+    "postal_code": "85578"
   },
   {
     "code": "5302162007",
     "district_code": "530216",
-    "name": "Lobus"
+    "name": "Lobus",
+    "postal_code": "85578"
   },
   {
     "code": "5302162008",
     "district_code": "530216",
-    "name": "Noeolin"
+    "name": "Noeolin",
+    "postal_code": "85578"
   },
   {
     "code": "5302162009",
     "district_code": "530216",
-    "name": "Milli"
+    "name": "Milli",
+    "postal_code": "85578"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1471061003",
     "district_code": "147106",
-    "name": "Rumbai Bukit"
+    "name": "Rumbai Bukit",
+    "postal_code": "28264"
   },
   {
     "code": "1471061005",
     "district_code": "147106",
-    "name": "Muarafajar Timur"
+    "name": "Muarafajar Timur",
+    "postal_code": "28267"
   },
   {
     "code": "1471061006",
     "district_code": "147106",
-    "name": "Umban Sari"
+    "name": "Umban Sari",
+    "postal_code": ""
   },
   {
     "code": "1471061008",
     "district_code": "147106",
-    "name": "Sri Meranti"
+    "name": "Sri Meranti",
+    "postal_code": ""
   },
   {
     "code": "1471061009",
     "district_code": "147106",
-    "name": "Palas"
+    "name": "Palas",
+    "postal_code": ""
   },
   {
     "code": "1471061010",
     "district_code": "147106",
-    "name": "Muarafajar Barat"
+    "name": "Muarafajar Barat",
+    "postal_code": "28267"
   },
   {
     "code": "1471061011",
     "district_code": "147106",
-    "name": "Rantaupanjang"
+    "name": "Rantaupanjang",
+    "postal_code": "28264"
   },
   {
     "code": "1471061012",
     "district_code": "147106",
-    "name": "Maharani"
+    "name": "Maharani",
+    "postal_code": "28264"
   },
   {
     "code": "1471061013",
     "district_code": "147106",
-    "name": "Agrowisata"
+    "name": "Agrowisata",
+    "postal_code": "28264"
   }
 ]

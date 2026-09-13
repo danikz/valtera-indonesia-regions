@@ -2,41 +2,49 @@
   {
     "code": "7211052001",
     "district_code": "721105",
-    "name": "Lalong"
+    "name": "Lalong",
+    "postal_code": "94893"
   },
   {
     "code": "7211052002",
     "district_code": "721105",
-    "name": "Lipulalongo"
+    "name": "Lipulalongo",
+    "postal_code": "94893"
   },
   {
     "code": "7211052003",
     "district_code": "721105",
-    "name": "Paisulamo"
+    "name": "Paisulamo",
+    "postal_code": "94893"
   },
   {
     "code": "7211052004",
     "district_code": "721105",
-    "name": "Alasan"
+    "name": "Alasan",
+    "postal_code": "94893"
   },
   {
     "code": "7211052005",
     "district_code": "721105",
-    "name": "Mansalean"
+    "name": "Mansalean",
+    "postal_code": "94893"
   },
   {
     "code": "7211052006",
     "district_code": "721105",
-    "name": "Bontosi"
+    "name": "Bontosi",
+    "postal_code": "94893"
   },
   {
     "code": "7211052007",
     "district_code": "721105",
-    "name": "Lipu Talas"
+    "name": "Lipu Talas",
+    "postal_code": "94893"
   },
   {
     "code": "7211052008",
     "district_code": "721105",
-    "name": "Padingkian"
+    "name": "Padingkian",
+    "postal_code": "94893"
   }
 ]

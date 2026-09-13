@@ -2,56 +2,67 @@
   {
     "code": "3204132001",
     "district_code": "320413",
-    "name": "Kamasan"
+    "name": "Kamasan",
+    "postal_code": "40377"
   },
   {
     "code": "3204132002",
     "district_code": "320413",
-    "name": "Banjaran Wetan"
+    "name": "Banjaran Wetan",
+    "postal_code": "40377"
   },
   {
     "code": "3204132003",
     "district_code": "320413",
-    "name": "Banjaran Kulon"
+    "name": "Banjaran Kulon",
+    "postal_code": "40377"
   },
   {
     "code": "3204132005",
     "district_code": "320413",
-    "name": "Ciapus"
+    "name": "Ciapus",
+    "postal_code": "40377"
   },
   {
     "code": "3204132006",
     "district_code": "320413",
-    "name": "Sindangpanon"
+    "name": "Sindangpanon",
+    "postal_code": "40377"
   },
   {
     "code": "3204132007",
     "district_code": "320413",
-    "name": "Kiangroke"
+    "name": "Kiangroke",
+    "postal_code": "40377"
   },
   {
     "code": "3204132008",
     "district_code": "320413",
-    "name": "Tarajusari"
+    "name": "Tarajusari",
+    "postal_code": "40377"
   },
   {
     "code": "3204132012",
     "district_code": "320413",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "40377"
   },
   {
     "code": "3204132013",
     "district_code": "320413",
-    "name": "Margahurip"
+    "name": "Margahurip",
+    "postal_code": "40377"
   },
   {
     "code": "3204132016",
     "district_code": "320413",
-    "name": "Neglasari"
+    "name": "Neglasari",
+    "postal_code": "40377"
   },
   {
     "code": "3204132018",
     "district_code": "320413",
-    "name": "Pasirmulya"
+    "name": "Pasirmulya",
+    "postal_code": "40377"
   }
 ]

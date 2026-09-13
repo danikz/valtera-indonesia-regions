@@ -2,61 +2,73 @@
   {
     "code": "1804041001",
     "district_code": "180404",
-    "name": "Pasar Liwa"
+    "name": "Pasar Liwa",
+    "postal_code": "34814"
   },
   {
     "code": "1804041003",
     "district_code": "180404",
-    "name": "Way Mengaku"
+    "name": "Way Mengaku",
+    "postal_code": "34812"
   },
   {
     "code": "1804042002",
     "district_code": "180404",
-    "name": "Kubu Perahu"
+    "name": "Kubu Perahu",
+    "postal_code": "34813"
   },
   {
     "code": "1804042004",
     "district_code": "180404",
-    "name": "Padang Cahya"
+    "name": "Padang Cahya",
+    "postal_code": "34811"
   },
   {
     "code": "1804042005",
     "district_code": "180404",
-    "name": "Sebarus"
+    "name": "Sebarus",
+    "postal_code": "34815"
   },
   {
     "code": "1804042006",
     "district_code": "180404",
-    "name": "Way Empulau Ulu"
+    "name": "Way Empulau Ulu",
+    "postal_code": "34811"
   },
   {
     "code": "1804042007",
     "district_code": "180404",
-    "name": "Gunung Sugih"
+    "name": "Gunung Sugih",
+    "postal_code": "34816"
   },
   {
     "code": "1804042008",
     "district_code": "180404",
-    "name": "Wates"
+    "name": "Wates",
+    "postal_code": "34817"
   },
   {
     "code": "1804042009",
     "district_code": "180404",
-    "name": "Padang Dalom"
+    "name": "Padang Dalom",
+    "postal_code": "34818"
   },
   {
     "code": "1804042010",
     "district_code": "180404",
-    "name": "Sukarame"
+    "name": "Sukarame",
+    "postal_code": "34811"
   },
   {
     "code": "1804042011",
     "district_code": "180404",
-    "name": "Bahway"
+    "name": "Bahway",
+    "postal_code": "34811"
   },
   {
     "code": "1804042012",
     "district_code": "180404",
-    "name": "Sedampah Indah"
+    "name": "Sedampah Indah",
+    "postal_code": "34811"
   }
 ]

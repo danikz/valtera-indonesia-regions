@@ -2,36 +2,43 @@
   {
     "code": "8203162001",
     "district_code": "820316",
-    "name": "Seki"
+    "name": "Seki",
+    "postal_code": "97769"
   },
   {
     "code": "8203162002",
     "district_code": "820316",
-    "name": "Togawa"
+    "name": "Togawa",
+    "postal_code": "97769"
   },
   {
     "code": "8203162003",
     "district_code": "820316",
-    "name": "Soakonora"
+    "name": "Soakonora",
+    "postal_code": "97769"
   },
   {
     "code": "8203162004",
     "district_code": "820316",
-    "name": "Igobula"
+    "name": "Igobula",
+    "postal_code": "97769"
   },
   {
     "code": "8203162005",
     "district_code": "820316",
-    "name": "Bale"
+    "name": "Bale",
+    "postal_code": "97769"
   },
   {
     "code": "8203162006",
     "district_code": "820316",
-    "name": "Togawabesi"
+    "name": "Togawabesi",
+    "postal_code": "97769"
   },
   {
     "code": "8203162007",
     "district_code": "820316",
-    "name": "Ori"
+    "name": "Ori",
+    "postal_code": "97769"
   }
 ]

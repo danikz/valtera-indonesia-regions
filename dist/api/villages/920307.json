@@ -2,36 +2,43 @@
   {
     "code": "9203072007",
     "district_code": "920307",
-    "name": "Onimsari"
+    "name": "Onimsari",
+    "postal_code": "98026"
   },
   {
     "code": "9203072008",
     "district_code": "920307",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "98026"
   },
   {
     "code": "9203072009",
     "district_code": "920307",
-    "name": "Pinang Agung"
+    "name": "Pinang Agung",
+    "postal_code": "98026"
   },
   {
     "code": "9203072010",
     "district_code": "920307",
-    "name": "Bumi Moroh Indah"
+    "name": "Bumi Moroh Indah",
+    "postal_code": "98026"
   },
   {
     "code": "9203072012",
     "district_code": "920307",
-    "name": "Tesha"
+    "name": "Tesha",
+    "postal_code": "98026"
   },
   {
     "code": "9203072014",
     "district_code": "920307",
-    "name": "Onim Jaya"
+    "name": "Onim Jaya",
+    "postal_code": "98026"
   },
   {
     "code": "9203072015",
     "district_code": "920307",
-    "name": "Wono Rejo"
+    "name": "Wono Rejo",
+    "postal_code": "98026"
   }
 ]

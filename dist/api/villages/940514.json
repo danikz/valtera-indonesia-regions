@@ -2,36 +2,43 @@
   {
     "code": "9405142001",
     "district_code": "940514",
-    "name": "Golu"
+    "name": "Golu",
+    "postal_code": "98971"
   },
   {
     "code": "9405142002",
     "district_code": "940514",
-    "name": "Bina"
+    "name": "Bina",
+    "postal_code": "98971"
   },
   {
     "code": "9405142003",
     "district_code": "940514",
-    "name": "Lumakluk"
+    "name": "Lumakluk",
+    "postal_code": "98971"
   },
   {
     "code": "9405142004",
     "district_code": "940514",
-    "name": "Wogot"
+    "name": "Wogot",
+    "postal_code": "98971"
   },
   {
     "code": "9405142005",
     "district_code": "940514",
-    "name": "Kabogoluk"
+    "name": "Kabogoluk",
+    "postal_code": "98971"
   },
   {
     "code": "9405142006",
     "district_code": "940514",
-    "name": "Ogomegat"
+    "name": "Ogomegat",
+    "postal_code": "98971"
   },
   {
     "code": "9405142007",
     "district_code": "940514",
-    "name": "Mamaput"
+    "name": "Mamaput",
+    "postal_code": "98971"
   }
 ]

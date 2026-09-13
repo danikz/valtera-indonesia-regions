@@ -2,41 +2,49 @@
   {
     "code": "3507322001",
     "district_code": "350732",
-    "name": "Kluwut"
+    "name": "Kluwut",
+    "postal_code": "65161"
   },
   {
     "code": "3507322002",
     "district_code": "350732",
-    "name": "Plandi"
+    "name": "Plandi",
+    "postal_code": "65161"
   },
   {
     "code": "3507322003",
     "district_code": "350732",
-    "name": "Plaosan"
+    "name": "Plaosan",
+    "postal_code": "65161"
   },
   {
     "code": "3507322004",
     "district_code": "350732",
-    "name": "Kebobang"
+    "name": "Kebobang",
+    "postal_code": "65161"
   },
   {
     "code": "3507322005",
     "district_code": "350732",
-    "name": "Sumbertempur"
+    "name": "Sumbertempur",
+    "postal_code": "65161"
   },
   {
     "code": "3507322006",
     "district_code": "350732",
-    "name": "Sumberdem"
+    "name": "Sumberdem",
+    "postal_code": "65161"
   },
   {
     "code": "3507322007",
     "district_code": "350732",
-    "name": "Wonosari"
+    "name": "Wonosari",
+    "postal_code": "65161"
   },
   {
     "code": "3507322008",
     "district_code": "350732",
-    "name": "Bangelan"
+    "name": "Bangelan",
+    "postal_code": "65161"
   }
 ]

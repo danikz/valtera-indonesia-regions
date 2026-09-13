@@ -2,26 +2,31 @@
   {
     "code": "1309032002",
     "district_code": "130903",
-    "name": "Muara Siberut"
+    "name": "Muara Siberut",
+    "postal_code": "25397"
   },
   {
     "code": "1309032003",
     "district_code": "130903",
-    "name": "Maileppet"
+    "name": "Maileppet",
+    "postal_code": "25397"
   },
   {
     "code": "1309032004",
     "district_code": "130903",
-    "name": "Muntei"
+    "name": "Muntei",
+    "postal_code": "25397"
   },
   {
     "code": "1309032005",
     "district_code": "130903",
-    "name": "Matotonan"
+    "name": "Matotonan",
+    "postal_code": "25397"
   },
   {
     "code": "1309032007",
     "district_code": "130903",
-    "name": "Madobag"
+    "name": "Madobag",
+    "postal_code": "25397"
   }
 ]

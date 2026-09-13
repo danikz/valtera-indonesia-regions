@@ -2,71 +2,85 @@
   {
     "code": "7102132001",
     "district_code": "710213",
-    "name": "Pineleng I"
+    "name": "Pineleng I",
+    "postal_code": "95662"
   },
   {
     "code": "7102132002",
     "district_code": "710213",
-    "name": "Pineleng II"
+    "name": "Pineleng II",
+    "postal_code": "95662"
   },
   {
     "code": "7102132003",
     "district_code": "710213",
-    "name": "Sea I"
+    "name": "Sea I",
+    "postal_code": "95662"
   },
   {
     "code": "7102132004",
     "district_code": "710213",
-    "name": "Sea II"
+    "name": "Sea II",
+    "postal_code": "95662"
   },
   {
     "code": "7102132005",
     "district_code": "710213",
-    "name": "Winagun Atas"
+    "name": "Winagun Atas",
+    "postal_code": "95662"
   },
   {
     "code": "7102132006",
     "district_code": "710213",
-    "name": "Warembungan"
+    "name": "Warembungan",
+    "postal_code": "95662"
   },
   {
     "code": "7102132007",
     "district_code": "710213",
-    "name": "Sea"
+    "name": "Sea",
+    "postal_code": "95662"
   },
   {
     "code": "7102132014",
     "district_code": "710213",
-    "name": "Kali"
+    "name": "Kali",
+    "postal_code": "95662"
   },
   {
     "code": "7102132016",
     "district_code": "710213",
-    "name": "Kali Selatan"
+    "name": "Kali Selatan",
+    "postal_code": "95662"
   },
   {
     "code": "7102132020",
     "district_code": "710213",
-    "name": "Pineleng Dua Indah"
+    "name": "Pineleng Dua Indah",
+    "postal_code": "95662"
   },
   {
     "code": "7102132021",
     "district_code": "710213",
-    "name": "Lotta"
+    "name": "Lotta",
+    "postal_code": "95662"
   },
   {
     "code": "7102132022",
     "district_code": "710213",
-    "name": "Sea Mitra"
+    "name": "Sea Mitra",
+    "postal_code": "95662"
   },
   {
     "code": "7102132023",
     "district_code": "710213",
-    "name": "Sea Tumpengan"
+    "name": "Sea Tumpengan",
+    "postal_code": "95662"
   },
   {
     "code": "7102132024",
     "district_code": "710213",
-    "name": "Pineleng Satu Timur"
+    "name": "Pineleng Satu Timur",
+    "postal_code": "95662"
   }
 ]

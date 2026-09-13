@@ -2,26 +2,31 @@
   {
     "code": "7571041001",
     "district_code": "757104",
-    "name": "Huangobotu"
+    "name": "Huangobotu",
+    "postal_code": "96138"
   },
   {
     "code": "7571041002",
     "district_code": "757104",
-    "name": "Libuo"
+    "name": "Libuo",
+    "postal_code": "96135"
   },
   {
     "code": "7571041003",
     "district_code": "757104",
-    "name": "Tomulabutao"
+    "name": "Tomulabutao",
+    "postal_code": "96139"
   },
   {
     "code": "7571041004",
     "district_code": "757104",
-    "name": "Tuladengi"
+    "name": "Tuladengi",
+    "postal_code": "96137"
   },
   {
     "code": "7571041005",
     "district_code": "757104",
-    "name": "Tomulabutao Selatan"
+    "name": "Tomulabutao Selatan",
+    "postal_code": "96139"
   }
 ]

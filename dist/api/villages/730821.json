@@ -2,41 +2,49 @@
   {
     "code": "7308211001",
     "district_code": "730821",
-    "name": "Biru"
+    "name": "Biru",
+    "postal_code": "92714"
   },
   {
     "code": "7308211002",
     "district_code": "730821",
-    "name": "Ta"
+    "name": "Ta",
+    "postal_code": "92712"
   },
   {
     "code": "7308211003",
     "district_code": "730821",
-    "name": "Watampone"
+    "name": "Watampone",
+    "postal_code": "92713"
   },
   {
     "code": "7308211004",
     "district_code": "730821",
-    "name": "Bukaka"
+    "name": "Bukaka",
+    "postal_code": "92711"
   },
   {
     "code": "7308211005",
     "district_code": "730821",
-    "name": "Pappolo"
+    "name": "Pappolo",
+    "postal_code": "92721"
   },
   {
     "code": "7308211006",
     "district_code": "730821",
-    "name": "Manurunge"
+    "name": "Manurunge",
+    "postal_code": "92711"
   },
   {
     "code": "7308211007",
     "district_code": "730821",
-    "name": "Walanae"
+    "name": "Walanae",
+    "postal_code": "92711"
   },
   {
     "code": "7308211008",
     "district_code": "730821",
-    "name": "Masumpu"
+    "name": "Masumpu",
+    "postal_code": "92711"
   }
 ]

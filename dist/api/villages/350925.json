@@ -2,31 +2,37 @@
   {
     "code": "3509252001",
     "district_code": "350925",
-    "name": "Sucopangepok"
+    "name": "Sucopangepok",
+    "postal_code": "68192"
   },
   {
     "code": "3509252002",
     "district_code": "350925",
-    "name": "Panduman"
+    "name": "Panduman",
+    "postal_code": "68192"
   },
   {
     "code": "3509252003",
     "district_code": "350925",
-    "name": "Sukojember"
+    "name": "Sukojember",
+    "postal_code": "68192"
   },
   {
     "code": "3509252004",
     "district_code": "350925",
-    "name": "Jelbuk"
+    "name": "Jelbuk",
+    "postal_code": "68192"
   },
   {
     "code": "3509252005",
     "district_code": "350925",
-    "name": "Sukowiryo"
+    "name": "Sukowiryo",
+    "postal_code": "68192"
   },
   {
     "code": "3509252006",
     "district_code": "350925",
-    "name": "Sugerkidul"
+    "name": "Sugerkidul",
+    "postal_code": "68192"
   }
 ]

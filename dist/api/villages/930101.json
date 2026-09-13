@@ -2,81 +2,97 @@
   {
     "code": "9301011002",
     "district_code": "930101",
-    "name": "Samkai"
+    "name": "Samkai",
+    "postal_code": "99615"
   },
   {
     "code": "9301011003",
     "district_code": "930101",
-    "name": "Karang Indah"
+    "name": "Karang Indah",
+    "postal_code": "99614"
   },
   {
     "code": "9301011004",
     "district_code": "930101",
-    "name": "Mandala"
+    "name": "Mandala",
+    "postal_code": "99617"
   },
   {
     "code": "9301011005",
     "district_code": "930101",
-    "name": "Maro"
+    "name": "Maro",
+    "postal_code": "99613"
   },
   {
     "code": "9301011006",
     "district_code": "930101",
-    "name": "Kelapa Lima"
+    "name": "Kelapa Lima",
+    "postal_code": "99612"
   },
   {
     "code": "9301011007",
     "district_code": "930101",
-    "name": "Rimba Jaya"
+    "name": "Rimba Jaya",
+    "postal_code": "99610"
   },
   {
     "code": "9301011009",
     "district_code": "930101",
-    "name": "Bambu Pemali"
+    "name": "Bambu Pemali",
+    "postal_code": "99616"
   },
   {
     "code": "9301011010",
     "district_code": "930101",
-    "name": "Seringgu Jaya"
+    "name": "Seringgu Jaya",
+    "postal_code": "99619"
   },
   {
     "code": "9301011011",
     "district_code": "930101",
-    "name": "Kamundu"
+    "name": "Kamundu",
+    "postal_code": "99607"
   },
   {
     "code": "9301011012",
     "district_code": "930101",
-    "name": "Kamahedoga"
+    "name": "Kamahedoga",
+    "postal_code": "99606"
   },
   {
     "code": "9301011013",
     "district_code": "930101",
-    "name": "Muli"
+    "name": "Muli",
+    "postal_code": "99608"
   },
   {
     "code": "9301012001",
     "district_code": "930101",
-    "name": "Nasem"
+    "name": "Nasem",
+    "postal_code": "99618"
   },
   {
     "code": "9301012008",
     "district_code": "930101",
-    "name": "Wasur"
+    "name": "Wasur",
+    "postal_code": "99611"
   },
   {
     "code": "9301012014",
     "district_code": "930101",
-    "name": "Bokem"
+    "name": "Bokem",
+    "postal_code": "99604"
   },
   {
     "code": "9301012015",
     "district_code": "930101",
-    "name": "Buti"
+    "name": "Buti",
+    "postal_code": "99605"
   },
   {
     "code": "9301012016",
     "district_code": "930101",
-    "name": "Nggolar"
+    "name": "Nggolar",
+    "postal_code": "99609"
   }
 ]

@@ -2,76 +2,91 @@
   {
     "code": "1112022001",
     "district_code": "111202",
-    "name": "Adan"
+    "name": "Adan",
+    "postal_code": "23768"
   },
   {
     "code": "1112022002",
     "district_code": "111202",
-    "name": "Pante Geulumpang"
+    "name": "Pante Geulumpang",
+    "postal_code": "23768"
   },
   {
     "code": "1112022003",
     "district_code": "111202",
-    "name": "Mesjid"
+    "name": "Mesjid",
+    "postal_code": "23768"
   },
   {
     "code": "1112022004",
     "district_code": "111202",
-    "name": "Gunong Cut"
+    "name": "Gunong Cut",
+    "postal_code": "23768"
   },
   {
     "code": "1112022005",
     "district_code": "111202",
-    "name": "Padang Kawa"
+    "name": "Padang Kawa",
+    "postal_code": "23768"
   },
   {
     "code": "1112022006",
     "district_code": "111202",
-    "name": "Blang Padang"
+    "name": "Blang Padang",
+    "postal_code": "23768"
   },
   {
     "code": "1112022007",
     "district_code": "111202",
-    "name": "Padang Bak Jeumpa"
+    "name": "Padang Bak Jeumpa",
+    "postal_code": "23768"
   },
   {
     "code": "1112022008",
     "district_code": "111202",
-    "name": "Suak Labu"
+    "name": "Suak Labu",
+    "postal_code": "23768"
   },
   {
     "code": "1112022014",
     "district_code": "111202",
-    "name": "Bineh Krueng"
+    "name": "Bineh Krueng",
+    "postal_code": "23768"
   },
   {
     "code": "1112022015",
     "district_code": "111202",
-    "name": "Drien Kipah"
+    "name": "Drien Kipah",
+    "postal_code": "23768"
   },
   {
     "code": "1112022016",
     "district_code": "111202",
-    "name": "Drien Jalo"
+    "name": "Drien Jalo",
+    "postal_code": "23768"
   },
   {
     "code": "1112022017",
     "district_code": "111202",
-    "name": "Padang Bak Jok"
+    "name": "Padang Bak Jok",
+    "postal_code": "23768"
   },
   {
     "code": "1112022018",
     "district_code": "111202",
-    "name": "Suak Nibong"
+    "name": "Suak Nibong",
+    "postal_code": "23768"
   },
   {
     "code": "1112022019",
     "district_code": "111202",
-    "name": "Kuta Bak Drien"
+    "name": "Kuta Bak Drien",
+    "postal_code": "23768"
   },
   {
     "code": "1112022020",
     "district_code": "111202",
-    "name": "Ie Lhob"
+    "name": "Ie Lhob",
+    "postal_code": "23768"
   }
 ]

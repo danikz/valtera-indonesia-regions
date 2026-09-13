@@ -2,46 +2,55 @@
   {
     "code": "9201502001",
     "district_code": "920150",
-    "name": "Tarsa"
+    "name": "Tarsa",
+    "postal_code": ""
   },
   {
     "code": "9201502002",
     "district_code": "920150",
-    "name": "Klamne"
+    "name": "Klamne",
+    "postal_code": ""
   },
   {
     "code": "9201502003",
     "district_code": "920150",
-    "name": "Wisbiak"
+    "name": "Wisbiak",
+    "postal_code": ""
   },
   {
     "code": "9201502004",
     "district_code": "920150",
-    "name": "Klafyo"
+    "name": "Klafyo",
+    "postal_code": ""
   },
   {
     "code": "9201502005",
     "district_code": "920150",
-    "name": "Mlasiwor"
+    "name": "Mlasiwor",
+    "postal_code": ""
   },
   {
     "code": "9201502006",
     "district_code": "920150",
-    "name": "Klafelem"
+    "name": "Klafelem",
+    "postal_code": ""
   },
   {
     "code": "9201502007",
     "district_code": "920150",
-    "name": "Klaflum"
+    "name": "Klaflum",
+    "postal_code": ""
   },
   {
     "code": "9201502008",
     "district_code": "920150",
-    "name": "Klarin"
+    "name": "Klarin",
+    "postal_code": ""
   },
   {
     "code": "9201502009",
     "district_code": "920150",
-    "name": "Mlaron"
+    "name": "Mlaron",
+    "postal_code": ""
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "7603011001",
     "district_code": "760301",
-    "name": "Mambi"
+    "name": "Mambi",
+    "postal_code": "91370"
   },
   {
     "code": "7603011002",
     "district_code": "760301",
-    "name": "Talipukki"
+    "name": "Talipukki",
+    "postal_code": "91370"
   },
   {
     "code": "7603012004",
     "district_code": "760301",
-    "name": "Rantebulahan"
+    "name": "Rantebulahan",
+    "postal_code": "91370"
   },
   {
     "code": "7603012008",
     "district_code": "760301",
-    "name": "Sondonglayu"
+    "name": "Sondonglayu",
+    "postal_code": "91370"
   },
   {
     "code": "7603012016",
     "district_code": "760301",
-    "name": "Salubanua"
+    "name": "Salubanua",
+    "postal_code": "91370"
   },
   {
     "code": "7603012017",
     "district_code": "760301",
-    "name": "Tapalina"
+    "name": "Tapalina",
+    "postal_code": "91370"
   },
   {
     "code": "7603012019",
     "district_code": "760301",
-    "name": "Sendana"
+    "name": "Sendana",
+    "postal_code": "91370"
   },
   {
     "code": "7603012024",
     "district_code": "760301",
-    "name": "Pamosean"
+    "name": "Pamosean",
+    "postal_code": "91370"
   },
   {
     "code": "7603012025",
     "district_code": "760301",
-    "name": "Selumaka"
+    "name": "Selumaka",
+    "postal_code": "91370"
   },
   {
     "code": "7603012026",
     "district_code": "760301",
-    "name": "Bujung Manurung"
+    "name": "Bujung Manurung",
+    "postal_code": "91370"
   },
   {
     "code": "7603012027",
     "district_code": "760301",
-    "name": "Salu Alo"
+    "name": "Salu Alo",
+    "postal_code": "91370"
   },
   {
     "code": "7603012029",
     "district_code": "760301",
-    "name": "Indobanua"
+    "name": "Indobanua",
+    "postal_code": "91370"
   },
   {
     "code": "7603012030",
     "district_code": "760301",
-    "name": "Saludurian"
+    "name": "Saludurian",
+    "postal_code": "91370"
   }
 ]

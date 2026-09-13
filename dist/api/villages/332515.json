@@ -2,56 +2,67 @@
   {
     "code": "3325152001",
     "district_code": "332515",
-    "name": "Banyuputih"
+    "name": "Banyuputih",
+    "postal_code": "51271"
   },
   {
     "code": "3325152002",
     "district_code": "332515",
-    "name": "Kalibalik"
+    "name": "Kalibalik",
+    "postal_code": "51271"
   },
   {
     "code": "3325152003",
     "district_code": "332515",
-    "name": "Sembung"
+    "name": "Sembung",
+    "postal_code": "51271"
   },
   {
     "code": "3325152004",
     "district_code": "332515",
-    "name": "Kedawung"
+    "name": "Kedawung",
+    "postal_code": "51271"
   },
   {
     "code": "3325152005",
     "district_code": "332515",
-    "name": "Dlimas"
+    "name": "Dlimas",
+    "postal_code": "51271"
   },
   {
     "code": "3325152006",
     "district_code": "332515",
-    "name": "Luwung"
+    "name": "Luwung",
+    "postal_code": "51271"
   },
   {
     "code": "3325152008",
     "district_code": "332515",
-    "name": "Penundan"
+    "name": "Penundan",
+    "postal_code": "51281"
   },
   {
     "code": "3325152009",
     "district_code": "332515",
-    "name": "Banaran"
+    "name": "Banaran",
+    "postal_code": "51281"
   },
   {
     "code": "3325152010",
     "district_code": "332515",
-    "name": "Timbang"
+    "name": "Timbang",
+    "postal_code": "51281"
   },
   {
     "code": "3325152011",
     "district_code": "332515",
-    "name": "Bulu"
+    "name": "Bulu",
+    "postal_code": "51281"
   },
   {
     "code": "3325152012",
     "district_code": "332515",
-    "name": "Kalangsono"
+    "name": "Kalangsono",
+    "postal_code": "51271"
   }
 ]

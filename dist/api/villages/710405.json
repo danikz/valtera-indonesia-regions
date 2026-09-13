@@ -2,46 +2,55 @@
   {
     "code": "7104052001",
     "district_code": "710405",
-    "name": "Kakorotan"
+    "name": "Kakorotan",
+    "postal_code": "95884"
   },
   {
     "code": "7104052002",
     "district_code": "710405",
-    "name": "Marampit"
+    "name": "Marampit",
+    "postal_code": "95884"
   },
   {
     "code": "7104052003",
     "district_code": "710405",
-    "name": "Laluhe"
+    "name": "Laluhe",
+    "postal_code": "95884"
   },
   {
     "code": "7104052004",
     "district_code": "710405",
-    "name": "Dampulis"
+    "name": "Dampulis",
+    "postal_code": "95884"
   },
   {
     "code": "7104052005",
     "district_code": "710405",
-    "name": "Karatung"
+    "name": "Karatung",
+    "postal_code": "95884"
   },
   {
     "code": "7104052007",
     "district_code": "710405",
-    "name": "Karatung Tengah"
+    "name": "Karatung Tengah",
+    "postal_code": "95884"
   },
   {
     "code": "7104052008",
     "district_code": "710405",
-    "name": "Karatung Selatan"
+    "name": "Karatung Selatan",
+    "postal_code": "95884"
   },
   {
     "code": "7104052009",
     "district_code": "710405",
-    "name": "Dampulis Selatan"
+    "name": "Dampulis Selatan",
+    "postal_code": "95884"
   },
   {
     "code": "7104052010",
     "district_code": "710405",
-    "name": "Marampit Timur"
+    "name": "Marampit Timur",
+    "postal_code": "95884"
   }
 ]

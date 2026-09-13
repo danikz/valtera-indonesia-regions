@@ -2,71 +2,85 @@
   {
     "code": "6304012001",
     "district_code": "630401",
-    "name": "Kuala Lupak"
+    "name": "Kuala Lupak",
+    "postal_code": "70567"
   },
   {
     "code": "6304012002",
     "district_code": "630401",
-    "name": "Sungai Telan Besar"
+    "name": "Sungai Telan Besar",
+    "postal_code": "70567"
   },
   {
     "code": "6304012003",
     "district_code": "630401",
-    "name": "Sungai Telan Kecil"
+    "name": "Sungai Telan Kecil",
+    "postal_code": "70567"
   },
   {
     "code": "6304012004",
     "district_code": "630401",
-    "name": "Tabunganen Muara"
+    "name": "Tabunganen Muara",
+    "postal_code": "70567"
   },
   {
     "code": "6304012005",
     "district_code": "630401",
-    "name": "Tabunganen Tengah"
+    "name": "Tabunganen Tengah",
+    "postal_code": "70567"
   },
   {
     "code": "6304012006",
     "district_code": "630401",
-    "name": "Karya Baru"
+    "name": "Karya Baru",
+    "postal_code": "70567"
   },
   {
     "code": "6304012007",
     "district_code": "630401",
-    "name": "Tabunganen Perumus"
+    "name": "Tabunganen Perumus",
+    "postal_code": "70567"
   },
   {
     "code": "6304012008",
     "district_code": "630401",
-    "name": "Sungai Teras Dalam"
+    "name": "Sungai Teras Dalam",
+    "postal_code": "70567"
   },
   {
     "code": "6304012009",
     "district_code": "630401",
-    "name": "Sungai Jingah Besar"
+    "name": "Sungai Jingah Besar",
+    "postal_code": "70567"
   },
   {
     "code": "6304012010",
     "district_code": "630401",
-    "name": "Tabunganen Kecil"
+    "name": "Tabunganen Kecil",
+    "postal_code": "70567"
   },
   {
     "code": "6304012011",
     "district_code": "630401",
-    "name": "Sei Teras Luar"
+    "name": "Sei Teras Luar",
+    "postal_code": "70567"
   },
   {
     "code": "6304012012",
     "district_code": "630401",
-    "name": "Sei Telan Muara"
+    "name": "Sei Telan Muara",
+    "postal_code": "70567"
   },
   {
     "code": "6304012013",
     "district_code": "630401",
-    "name": "Beringin Kencana"
+    "name": "Beringin Kencana",
+    "postal_code": "70567"
   },
   {
     "code": "6304012014",
     "district_code": "630401",
-    "name": "Tanggul Rejo"
+    "name": "Tanggul Rejo",
+    "postal_code": "70567"
   }
 ]

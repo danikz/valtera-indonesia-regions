@@ -2,51 +2,61 @@
   {
     "code": "3319072001",
     "district_code": "331907",
-    "name": "Dersalam"
+    "name": "Dersalam",
+    "postal_code": "59321"
   },
   {
     "code": "3319072002",
     "district_code": "331907",
-    "name": "Ngembalrejo"
+    "name": "Ngembalrejo",
+    "postal_code": "59322"
   },
   {
     "code": "3319072003",
     "district_code": "331907",
-    "name": "Karangbener"
+    "name": "Karangbener",
+    "postal_code": "59323"
   },
   {
     "code": "3319072004",
     "district_code": "331907",
-    "name": "Gondangmanis"
+    "name": "Gondangmanis",
+    "postal_code": "59327"
   },
   {
     "code": "3319072005",
     "district_code": "331907",
-    "name": "Pedawang"
+    "name": "Pedawang",
+    "postal_code": "59324"
   },
   {
     "code": "3319072006",
     "district_code": "331907",
-    "name": "Bacin"
+    "name": "Bacin",
+    "postal_code": "59325"
   },
   {
     "code": "3319072007",
     "district_code": "331907",
-    "name": "Panjang"
+    "name": "Panjang",
+    "postal_code": "59326"
   },
   {
     "code": "3319072008",
     "district_code": "331907",
-    "name": "Peganjaran"
+    "name": "Peganjaran",
+    "postal_code": "59327"
   },
   {
     "code": "3319072009",
     "district_code": "331907",
-    "name": "Purworejo"
+    "name": "Purworejo",
+    "postal_code": "59327"
   },
   {
     "code": "3319072010",
     "district_code": "331907",
-    "name": "Bae"
+    "name": "Bae",
+    "postal_code": "59327"
   }
 ]

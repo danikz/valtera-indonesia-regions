@@ -2,26 +2,31 @@
   {
     "code": "1274031001",
     "district_code": "127403",
-    "name": "Keramat Kubah"
+    "name": "Keramat Kubah",
+    "postal_code": "21344"
   },
   {
     "code": "1274031002",
     "district_code": "127403",
-    "name": "Sumber Sari"
+    "name": "Sumber Sari",
+    "postal_code": "21343"
   },
   {
     "code": "1274031003",
     "district_code": "127403",
-    "name": "Muara Sentosa"
+    "name": "Muara Sentosa",
+    "postal_code": "21342"
   },
   {
     "code": "1274031004",
     "district_code": "127403",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "21341"
   },
   {
     "code": "1274031005",
     "district_code": "127403",
-    "name": "Sei Raja"
+    "name": "Sei Raja",
+    "postal_code": "21345"
   }
 ]

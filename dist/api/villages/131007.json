@@ -2,26 +2,31 @@
   {
     "code": "1310072001",
     "district_code": "131007",
-    "name": "Koto Salak"
+    "name": "Koto Salak",
+    "postal_code": "27680"
   },
   {
     "code": "1310072002",
     "district_code": "131007",
-    "name": "Ampalu"
+    "name": "Ampalu",
+    "postal_code": "27680"
   },
   {
     "code": "1310072003",
     "district_code": "131007",
-    "name": "Padukuan"
+    "name": "Padukuan",
+    "postal_code": "27680"
   },
   {
     "code": "1310072004",
     "district_code": "131007",
-    "name": "Pulau Mainan"
+    "name": "Pulau Mainan",
+    "postal_code": "27680"
   },
   {
     "code": "1310072005",
     "district_code": "131007",
-    "name": "Simalidu"
+    "name": "Simalidu",
+    "postal_code": "27680"
   }
 ]

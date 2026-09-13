@@ -2,41 +2,49 @@
   {
     "code": "7604011001",
     "district_code": "760401",
-    "name": "Tinambung"
+    "name": "Tinambung",
+    "postal_code": "91356"
   },
   {
     "code": "7604012002",
     "district_code": "760401",
-    "name": "Karama"
+    "name": "Karama",
+    "postal_code": "91356"
   },
   {
     "code": "7604012003",
     "district_code": "760401",
-    "name": "Tangnga Tangnga"
+    "name": "Tangnga Tangnga",
+    "postal_code": "91356"
   },
   {
     "code": "7604012004",
     "district_code": "760401",
-    "name": "Lekopadis"
+    "name": "Lekopadis",
+    "postal_code": "91356"
   },
   {
     "code": "7604012005",
     "district_code": "760401",
-    "name": "Galung Lombok"
+    "name": "Galung Lombok",
+    "postal_code": "91356"
   },
   {
     "code": "7604012006",
     "district_code": "760401",
-    "name": "Tandung"
+    "name": "Tandung",
+    "postal_code": "91356"
   },
   {
     "code": "7604012007",
     "district_code": "760401",
-    "name": "Batulaya"
+    "name": "Batulaya",
+    "postal_code": "91356"
   },
   {
     "code": "7604012008",
     "district_code": "760401",
-    "name": "Sepabatu"
+    "name": "Sepabatu",
+    "postal_code": "91356"
   }
 ]

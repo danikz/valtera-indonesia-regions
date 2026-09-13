@@ -2,41 +2,49 @@
   {
     "code": "7301021001",
     "district_code": "730102",
-    "name": "Putabangung"
+    "name": "Putabangung",
+    "postal_code": "92811"
   },
   {
     "code": "7301021002",
     "district_code": "730102",
-    "name": "Bontobangung"
+    "name": "Bontobangung",
+    "postal_code": "92811"
   },
   {
     "code": "7301022003",
     "district_code": "730102",
-    "name": "Bontosunggu"
+    "name": "Bontosunggu",
+    "postal_code": "92811"
   },
   {
     "code": "7301022004",
     "district_code": "730102",
-    "name": "Bontoborusu"
+    "name": "Bontoborusu",
+    "postal_code": "92811"
   },
   {
     "code": "7301022005",
     "district_code": "730102",
-    "name": "Bontolebang"
+    "name": "Bontolebang",
+    "postal_code": "92811"
   },
   {
     "code": "7301022006",
     "district_code": "730102",
-    "name": "Bontotangnga"
+    "name": "Bontotangnga",
+    "postal_code": "92811"
   },
   {
     "code": "7301022007",
     "district_code": "730102",
-    "name": "Kahu-Kahu"
+    "name": "Kahu-Kahu",
+    "postal_code": "92811"
   },
   {
     "code": "7301022008",
     "district_code": "730102",
-    "name": "Kalepadang"
+    "name": "Kalepadang",
+    "postal_code": "92811"
   }
 ]

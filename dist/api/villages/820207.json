@@ -2,36 +2,43 @@
   {
     "code": "8202072001",
     "district_code": "820207",
-    "name": "Lililef Waibulan"
+    "name": "Lililef Waibulan",
+    "postal_code": "97853"
   },
   {
     "code": "8202072002",
     "district_code": "820207",
-    "name": "Lililef Sawai"
+    "name": "Lililef Sawai",
+    "postal_code": "97853"
   },
   {
     "code": "8202072003",
     "district_code": "820207",
-    "name": "Sawai Itepo"
+    "name": "Sawai Itepo",
+    "postal_code": "97853"
   },
   {
     "code": "8202072004",
     "district_code": "820207",
-    "name": "Kobe"
+    "name": "Kobe",
+    "postal_code": "97853"
   },
   {
     "code": "8202072005",
     "district_code": "820207",
-    "name": "Woekob"
+    "name": "Woekob",
+    "postal_code": "97853"
   },
   {
     "code": "8202072006",
     "district_code": "820207",
-    "name": "Woejerana"
+    "name": "Woejerana",
+    "postal_code": "97853"
   },
   {
     "code": "8202072007",
     "district_code": "820207",
-    "name": "Kulo Jaya"
+    "name": "Kulo Jaya",
+    "postal_code": "97853"
   }
 ]

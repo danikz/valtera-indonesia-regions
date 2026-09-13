@@ -2,46 +2,55 @@
   {
     "code": "3209292001",
     "district_code": "320929",
-    "name": "Kalideres"
+    "name": "Kalideres",
+    "postal_code": "45165"
   },
   {
     "code": "3209292002",
     "district_code": "320929",
-    "name": "Prajawinangun Kulon"
+    "name": "Prajawinangun Kulon",
+    "postal_code": "45165"
   },
   {
     "code": "3209292003",
     "district_code": "320929",
-    "name": "Prajawinangun Wetan"
+    "name": "Prajawinangun Wetan",
+    "postal_code": "45165"
   },
   {
     "code": "3209292004",
     "district_code": "320929",
-    "name": "Ujungsemi"
+    "name": "Ujungsemi",
+    "postal_code": "45165"
   },
   {
     "code": "3209292005",
     "district_code": "320929",
-    "name": "Wargabinangun"
+    "name": "Wargabinangun",
+    "postal_code": "45165"
   },
   {
     "code": "3209292006",
     "district_code": "320929",
-    "name": "Kaliwedi Lor"
+    "name": "Kaliwedi Lor",
+    "postal_code": "45165"
   },
   {
     "code": "3209292007",
     "district_code": "320929",
-    "name": "Kaliwedi Kidul"
+    "name": "Kaliwedi Kidul",
+    "postal_code": "45165"
   },
   {
     "code": "3209292008",
     "district_code": "320929",
-    "name": "Guwa Kidul"
+    "name": "Guwa Kidul",
+    "postal_code": "45165"
   },
   {
     "code": "3209292009",
     "district_code": "320929",
-    "name": "Guwa Lor"
+    "name": "Guwa Lor",
+    "postal_code": "45165"
   }
 ]

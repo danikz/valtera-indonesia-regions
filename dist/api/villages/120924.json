@@ -2,31 +2,37 @@
   {
     "code": "1209242001",
     "district_code": "120924",
-    "name": "Sei Nangka"
+    "name": "Sei Nangka",
+    "postal_code": "21382"
   },
   {
     "code": "1209242002",
     "district_code": "120924",
-    "name": "Sei Jawi-Jawi"
+    "name": "Sei Jawi-Jawi",
+    "postal_code": "21382"
   },
   {
     "code": "1209242003",
     "district_code": "120924",
-    "name": "Sei Serindan"
+    "name": "Sei Serindan",
+    "postal_code": "21382"
   },
   {
     "code": "1209242004",
     "district_code": "120924",
-    "name": "Sei Tualang Pandau"
+    "name": "Sei Tualang Pandau",
+    "postal_code": "21382"
   },
   {
     "code": "1209242005",
     "district_code": "120924",
-    "name": "Sei Lendir"
+    "name": "Sei Lendir",
+    "postal_code": "21382"
   },
   {
     "code": "1209242006",
     "district_code": "120924",
-    "name": "Sei Kepayang Kiri"
+    "name": "Sei Kepayang Kiri",
+    "postal_code": "21382"
   }
 ]

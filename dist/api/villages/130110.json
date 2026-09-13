@@ -2,51 +2,61 @@
   {
     "code": "1301102001",
     "district_code": "130110",
-    "name": "Lunang"
+    "name": "Lunang",
+    "postal_code": "25674"
   },
   {
     "code": "1301102003",
     "district_code": "130110",
-    "name": "Lunang Utara"
+    "name": "Lunang Utara",
+    "postal_code": "25674"
   },
   {
     "code": "1301102004",
     "district_code": "130110",
-    "name": "Lunang Selatan"
+    "name": "Lunang Selatan",
+    "postal_code": "25674"
   },
   {
     "code": "1301102005",
     "district_code": "130110",
-    "name": "Lunang Barat"
+    "name": "Lunang Barat",
+    "postal_code": "25674"
   },
   {
     "code": "1301102015",
     "district_code": "130110",
-    "name": "Sindang Lunang"
+    "name": "Sindang Lunang",
+    "postal_code": "25674"
   },
   {
     "code": "1301102016",
     "district_code": "130110",
-    "name": "Pondok Parian Lunang"
+    "name": "Pondok Parian Lunang",
+    "postal_code": "25674"
   },
   {
     "code": "1301102017",
     "district_code": "130110",
-    "name": "Lunang Tengah"
+    "name": "Lunang Tengah",
+    "postal_code": "25674"
   },
   {
     "code": "1301102018",
     "district_code": "130110",
-    "name": "Lunang Satu"
+    "name": "Lunang Satu",
+    "postal_code": "25674"
   },
   {
     "code": "1301102019",
     "district_code": "130110",
-    "name": "Lunang Dua"
+    "name": "Lunang Dua",
+    "postal_code": "25674"
   },
   {
     "code": "1301102020",
     "district_code": "130110",
-    "name": "Lunang Tiga"
+    "name": "Lunang Tiga",
+    "postal_code": "25674"
   }
 ]

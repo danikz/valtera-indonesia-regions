@@ -2,26 +2,31 @@
   {
     "code": "1225082001",
     "district_code": "122508",
-    "name": "Bukit Tinggi"
+    "name": "Bukit Tinggi",
+    "postal_code": "22862"
   },
   {
     "code": "1225082002",
     "district_code": "122508",
-    "name": "Lawelu"
+    "name": "Lawelu",
+    "postal_code": "22862"
   },
   {
     "code": "1225082003",
     "district_code": "122508",
-    "name": "Saloo"
+    "name": "Saloo",
+    "postal_code": "22862"
   },
   {
     "code": "1225082004",
     "district_code": "122508",
-    "name": "Hilisangawola"
+    "name": "Hilisangawola",
+    "postal_code": "22862"
   },
   {
     "code": "1225082005",
     "district_code": "122508",
-    "name": "Hilibadalu"
+    "name": "Hilibadalu",
+    "postal_code": "22862"
   }
 ]

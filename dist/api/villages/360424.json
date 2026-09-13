@@ -2,51 +2,61 @@
   {
     "code": "3604242001",
     "district_code": "360424",
-    "name": "Pamarayan"
+    "name": "Pamarayan",
+    "postal_code": "42179"
   },
   {
     "code": "3604242002",
     "district_code": "360424",
-    "name": "Damping"
+    "name": "Damping",
+    "postal_code": "42179"
   },
   {
     "code": "3604242003",
     "district_code": "360424",
-    "name": "Wirana"
+    "name": "Wirana",
+    "postal_code": "42179"
   },
   {
     "code": "3604242004",
     "district_code": "360424",
-    "name": "Keboncau"
+    "name": "Keboncau",
+    "postal_code": "42179"
   },
   {
     "code": "3604242005",
     "district_code": "360424",
-    "name": "Pudar"
+    "name": "Pudar",
+    "postal_code": "42179"
   },
   {
     "code": "3604242006",
     "district_code": "360424",
-    "name": "Binong"
+    "name": "Binong",
+    "postal_code": "42179"
   },
   {
     "code": "3604242007",
     "district_code": "360424",
-    "name": "Sangiang"
+    "name": "Sangiang",
+    "postal_code": "42179"
   },
   {
     "code": "3604242008",
     "district_code": "360424",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "42179"
   },
   {
     "code": "3604242010",
     "district_code": "360424",
-    "name": "Pasirlimus"
+    "name": "Pasirlimus",
+    "postal_code": "42179"
   },
   {
     "code": "3604242018",
     "district_code": "360424",
-    "name": "Pasir Kembang"
+    "name": "Pasir Kembang",
+    "postal_code": "42179"
   }
 ]

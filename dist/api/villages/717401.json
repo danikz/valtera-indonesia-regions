@@ -2,41 +2,49 @@
   {
     "code": "7174011005",
     "district_code": "717401",
-    "name": "Biga"
+    "name": "Biga",
+    "postal_code": "95713"
   },
   {
     "code": "7174011006",
     "district_code": "717401",
-    "name": "Upai"
+    "name": "Upai",
+    "postal_code": "95714"
   },
   {
     "code": "7174011007",
     "district_code": "717401",
-    "name": "Genggulang"
+    "name": "Genggulang",
+    "postal_code": "95714"
   },
   {
     "code": "7174012001",
     "district_code": "717401",
-    "name": "Bilalang Satu"
+    "name": "Bilalang Satu",
+    "postal_code": "95714"
   },
   {
     "code": "7174012002",
     "district_code": "717401",
-    "name": "Bilalang Dua"
+    "name": "Bilalang Dua",
+    "postal_code": "95714"
   },
   {
     "code": "7174012003",
     "district_code": "717401",
-    "name": "Pontodon"
+    "name": "Pontodon",
+    "postal_code": "95714"
   },
   {
     "code": "7174012004",
     "district_code": "717401",
-    "name": "Sia"
+    "name": "Sia",
+    "postal_code": "95714"
   },
   {
     "code": "7174012008",
     "district_code": "717401",
-    "name": "Pontodon Timur"
+    "name": "Pontodon Timur",
+    "postal_code": "95714"
   }
 ]

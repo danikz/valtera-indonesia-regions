@@ -2,36 +2,43 @@
   {
     "code": "3672081001",
     "district_code": "367208",
-    "name": "Warnasari"
+    "name": "Warnasari",
+    "postal_code": "42443"
   },
   {
     "code": "3672081002",
     "district_code": "367208",
-    "name": "Dringo"
+    "name": "Dringo",
+    "postal_code": "42444"
   },
   {
     "code": "3672081003",
     "district_code": "367208",
-    "name": "Lebak Denok"
+    "name": "Lebak Denok",
+    "postal_code": "42442"
   },
   {
     "code": "3672081004",
     "district_code": "367208",
-    "name": "Taman Baru"
+    "name": "Taman Baru",
+    "postal_code": "42441"
   },
   {
     "code": "3672081005",
     "district_code": "367208",
-    "name": "Kebonsari"
+    "name": "Kebonsari",
+    "postal_code": "42442"
   },
   {
     "code": "3672081006",
     "district_code": "367208",
-    "name": "Samangraya"
+    "name": "Samangraya",
+    "postal_code": "42443"
   },
   {
     "code": "3672081007",
     "district_code": "367208",
-    "name": "Citangkil"
+    "name": "Citangkil",
+    "postal_code": "42441"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "9201062001",
     "district_code": "920106",
-    "name": "Seget"
+    "name": "Seget",
+    "postal_code": ""
   },
   {
     "code": "9201062004",
     "district_code": "920106",
-    "name": "Malaban"
+    "name": "Malaban",
+    "postal_code": ""
   },
   {
     "code": "9201062005",
     "district_code": "920106",
-    "name": "Pulau Kasim"
+    "name": "Pulau Kasim",
+    "postal_code": ""
   },
   {
     "code": "9201062010",
     "district_code": "920106",
-    "name": "Kasimle"
+    "name": "Kasimle",
+    "postal_code": ""
   },
   {
     "code": "9201062011",
     "district_code": "920106",
-    "name": "Wewenagu"
+    "name": "Wewenagu",
+    "postal_code": ""
   },
   {
     "code": "9201062012",
     "district_code": "920106",
-    "name": "Wasingsan"
+    "name": "Wasingsan",
+    "postal_code": ""
   },
   {
     "code": "9201062013",
     "district_code": "920106",
-    "name": "Klayas"
+    "name": "Klayas",
+    "postal_code": ""
   },
   {
     "code": "9201062014",
     "district_code": "920106",
-    "name": "Wayenkede"
+    "name": "Wayenkede",
+    "postal_code": ""
   },
   {
     "code": "9201062015",
     "district_code": "920106",
-    "name": "Mobi"
+    "name": "Mobi",
+    "postal_code": ""
   }
 ]

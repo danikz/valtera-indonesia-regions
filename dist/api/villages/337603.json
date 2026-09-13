@@ -2,41 +2,49 @@
   {
     "code": "3376031001",
     "district_code": "337603",
-    "name": "Kalinyamat Wetan"
+    "name": "Kalinyamat Wetan",
+    "postal_code": "52136"
   },
   {
     "code": "3376031002",
     "district_code": "337603",
-    "name": "Bandung"
+    "name": "Bandung",
+    "postal_code": "52137"
   },
   {
     "code": "3376031003",
     "district_code": "337603",
-    "name": "Debong Kidul"
+    "name": "Debong Kidul",
+    "postal_code": "52138"
   },
   {
     "code": "3376031004",
     "district_code": "337603",
-    "name": "Tunon"
+    "name": "Tunon",
+    "postal_code": "52135"
   },
   {
     "code": "3376031005",
     "district_code": "337603",
-    "name": "Keturen"
+    "name": "Keturen",
+    "postal_code": "52134"
   },
   {
     "code": "3376031006",
     "district_code": "337603",
-    "name": "Debong Kulon"
+    "name": "Debong Kulon",
+    "postal_code": "52133"
   },
   {
     "code": "3376031007",
     "district_code": "337603",
-    "name": "Debong Tengah"
+    "name": "Debong Tengah",
+    "postal_code": "52132"
   },
   {
     "code": "3376031008",
     "district_code": "337603",
-    "name": "Randugunting"
+    "name": "Randugunting",
+    "postal_code": "52131"
   }
 ]

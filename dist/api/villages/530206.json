@@ -2,51 +2,61 @@
   {
     "code": "5302062001",
     "district_code": "530206",
-    "name": "Pollo"
+    "name": "Pollo",
+    "postal_code": "85562"
   },
   {
     "code": "5302062002",
     "district_code": "530206",
-    "name": "Oekiu"
+    "name": "Oekiu",
+    "postal_code": "85562"
   },
   {
     "code": "5302062003",
     "district_code": "530206",
-    "name": "Oebelo"
+    "name": "Oebelo",
+    "postal_code": "85562"
   },
   {
     "code": "5302062004",
     "district_code": "530206",
-    "name": "Noemuke"
+    "name": "Noemuke",
+    "postal_code": "85562"
   },
   {
     "code": "5302062010",
     "district_code": "530206",
-    "name": "Kiubaat"
+    "name": "Kiubaat",
+    "postal_code": "85562"
   },
   {
     "code": "5302062011",
     "district_code": "530206",
-    "name": "Linamnutu"
+    "name": "Linamnutu",
+    "postal_code": "85562"
   },
   {
     "code": "5302062014",
     "district_code": "530206",
-    "name": "Mio"
+    "name": "Mio",
+    "postal_code": "85562"
   },
   {
     "code": "5302062015",
     "district_code": "530206",
-    "name": "Batnun"
+    "name": "Batnun",
+    "postal_code": "85562"
   },
   {
     "code": "5302062018",
     "district_code": "530206",
-    "name": "Bena"
+    "name": "Bena",
+    "postal_code": "85562"
   },
   {
     "code": "5302062019",
     "district_code": "530206",
-    "name": "Eno Neten"
+    "name": "Eno Neten",
+    "postal_code": "85562"
   }
 ]

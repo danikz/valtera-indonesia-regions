@@ -2,36 +2,43 @@
   {
     "code": "3512042001",
     "district_code": "351204",
-    "name": "Alas Bayur"
+    "name": "Alas Bayur",
+    "postal_code": "68353"
   },
   {
     "code": "3512042002",
     "district_code": "351204",
-    "name": "Sumberanyar"
+    "name": "Sumberanyar",
+    "postal_code": "68353"
   },
   {
     "code": "3512042003",
     "district_code": "351204",
-    "name": "Campoan"
+    "name": "Campoan",
+    "postal_code": "68353"
   },
   {
     "code": "3512042004",
     "district_code": "351204",
-    "name": "Trebungan"
+    "name": "Trebungan",
+    "postal_code": "68353"
   },
   {
     "code": "3512042005",
     "district_code": "351204",
-    "name": "Sumber Pinang"
+    "name": "Sumber Pinang",
+    "postal_code": "68353"
   },
   {
     "code": "3512042006",
     "district_code": "351204",
-    "name": "Selomukti"
+    "name": "Selomukti",
+    "postal_code": "68353"
   },
   {
     "code": "3512042007",
     "district_code": "351204",
-    "name": "Mlandingan Kulon"
+    "name": "Mlandingan Kulon",
+    "postal_code": "68353"
   }
 ]

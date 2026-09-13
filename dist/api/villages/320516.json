@@ -2,21 +2,25 @@
   {
     "code": "3205162001",
     "district_code": "320516",
-    "name": "Caringin"
+    "name": "Caringin",
+    "postal_code": "44184"
   },
   {
     "code": "3205162002",
     "district_code": "320516",
-    "name": "Cintamanik"
+    "name": "Cintamanik",
+    "postal_code": "44184"
   },
   {
     "code": "3205162003",
     "district_code": "320516",
-    "name": "Cinta"
+    "name": "Cinta",
+    "postal_code": "44184"
   },
   {
     "code": "3205162004",
     "district_code": "320516",
-    "name": "Sindanggalih"
+    "name": "Sindanggalih",
+    "postal_code": "44184"
   }
 ]

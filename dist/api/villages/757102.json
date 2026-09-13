@@ -2,26 +2,31 @@
   {
     "code": "7571021010",
     "district_code": "757102",
-    "name": "Biawao"
+    "name": "Biawao",
+    "postal_code": "96111"
   },
   {
     "code": "7571021012",
     "district_code": "757102",
-    "name": "Biawu"
+    "name": "Biawu",
+    "postal_code": "96111"
   },
   {
     "code": "7571021013",
     "district_code": "757102",
-    "name": "Limba B"
+    "name": "Limba B",
+    "postal_code": "96115"
   },
   {
     "code": "7571021019",
     "district_code": "757102",
-    "name": "Limba U I"
+    "name": "Limba U I",
+    "postal_code": "96115"
   },
   {
     "code": "7571021020",
     "district_code": "757102",
-    "name": "Limba U II"
+    "name": "Limba U II",
+    "postal_code": "96115"
   }
 ]

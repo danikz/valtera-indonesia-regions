@@ -2,21 +2,25 @@
   {
     "code": "1310042001",
     "district_code": "131004",
-    "name": "Sitiung"
+    "name": "Sitiung",
+    "postal_code": "27678"
   },
   {
     "code": "1310042002",
     "district_code": "131004",
-    "name": "Siguntur"
+    "name": "Siguntur",
+    "postal_code": "27678"
   },
   {
     "code": "1310042004",
     "district_code": "131004",
-    "name": "Gunung Medan"
+    "name": "Gunung Medan",
+    "postal_code": "27678"
   },
   {
     "code": "1310042005",
     "district_code": "131004",
-    "name": "Sungai Duo"
+    "name": "Sungai Duo",
+    "postal_code": "27678"
   }
 ]

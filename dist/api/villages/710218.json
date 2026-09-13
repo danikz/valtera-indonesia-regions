@@ -2,41 +2,49 @@
   {
     "code": "7102181001",
     "district_code": "710218",
-    "name": "Urongo"
+    "name": "Urongo",
+    "postal_code": "95619"
   },
   {
     "code": "7102181002",
     "district_code": "710218",
-    "name": "Tounsaru"
+    "name": "Tounsaru",
+    "postal_code": "95619"
   },
   {
     "code": "7102181003",
     "district_code": "710218",
-    "name": "Tataaran II"
+    "name": "Tataaran II",
+    "postal_code": "95618"
   },
   {
     "code": "7102181004",
     "district_code": "710218",
-    "name": "Tataaran I"
+    "name": "Tataaran I",
+    "postal_code": "95618"
   },
   {
     "code": "7102181005",
     "district_code": "710218",
-    "name": "Koya"
+    "name": "Koya",
+    "postal_code": "95618"
   },
   {
     "code": "7102181006",
     "district_code": "710218",
-    "name": "Paleloan"
+    "name": "Paleloan",
+    "postal_code": "95619"
   },
   {
     "code": "7102181007",
     "district_code": "710218",
-    "name": "Tataaran Patar"
+    "name": "Tataaran Patar",
+    "postal_code": "95619"
   },
   {
     "code": "7102181008",
     "district_code": "710218",
-    "name": "Maesa Unima"
+    "name": "Maesa Unima",
+    "postal_code": "95618"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "3213262001",
     "district_code": "321326",
-    "name": "Sindangsari"
+    "name": "Sindangsari",
+    "postal_code": "41287"
   },
   {
     "code": "3213262002",
     "district_code": "321326",
-    "name": "Pasanggrahan"
+    "name": "Pasanggrahan",
+    "postal_code": "41287"
   },
   {
     "code": "3213262003",
     "district_code": "321326",
-    "name": "Bojongloa"
+    "name": "Bojongloa",
+    "postal_code": "41287"
   },
   {
     "code": "3213262004",
     "district_code": "321326",
-    "name": "Sukamelang"
+    "name": "Sukamelang",
+    "postal_code": "41287"
   },
   {
     "code": "3213262005",
     "district_code": "321326",
-    "name": "Tenjolaya"
+    "name": "Tenjolaya",
+    "postal_code": "41287"
   },
   {
     "code": "3213262006",
     "district_code": "321326",
-    "name": "Kasomalang Wetan"
+    "name": "Kasomalang Wetan",
+    "postal_code": "41287"
   },
   {
     "code": "3213262007",
     "district_code": "321326",
-    "name": "Kasomalang Kulon"
+    "name": "Kasomalang Kulon",
+    "postal_code": "41287"
   },
   {
     "code": "3213262008",
     "district_code": "321326",
-    "name": "Cimanglid"
+    "name": "Cimanglid",
+    "postal_code": "41287"
   }
 ]

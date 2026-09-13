@@ -2,46 +2,55 @@
   {
     "code": "3215062001",
     "district_code": "321506",
-    "name": "Rengasdengklok Selatan"
+    "name": "Rengasdengklok Selatan",
+    "postal_code": "41352"
   },
   {
     "code": "3215062002",
     "district_code": "321506",
-    "name": "Rengasdengklok Utara"
+    "name": "Rengasdengklok Utara",
+    "postal_code": "41352"
   },
   {
     "code": "3215062003",
     "district_code": "321506",
-    "name": "Kertasari"
+    "name": "Kertasari",
+    "postal_code": "41352"
   },
   {
     "code": "3215062004",
     "district_code": "321506",
-    "name": "Dewisari"
+    "name": "Dewisari",
+    "postal_code": "41352"
   },
   {
     "code": "3215062005",
     "district_code": "321506",
-    "name": "Amansari"
+    "name": "Amansari",
+    "postal_code": "41352"
   },
   {
     "code": "3215062006",
     "district_code": "321506",
-    "name": "Karyasari"
+    "name": "Karyasari",
+    "postal_code": "41352"
   },
   {
     "code": "3215062007",
     "district_code": "321506",
-    "name": "Dukuhkarya"
+    "name": "Dukuhkarya",
+    "postal_code": "41352"
   },
   {
     "code": "3215062008",
     "district_code": "321506",
-    "name": "Kalangsari"
+    "name": "Kalangsari",
+    "postal_code": "41352"
   },
   {
     "code": "3215062009",
     "district_code": "321506",
-    "name": "Kalangsurya"
+    "name": "Kalangsurya",
+    "postal_code": "41352"
   }
 ]

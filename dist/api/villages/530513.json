@@ -2,21 +2,25 @@
   {
     "code": "5305132001",
     "district_code": "530513",
-    "name": "Langkuru"
+    "name": "Langkuru",
+    "postal_code": "85874"
   },
   {
     "code": "5305132002",
     "district_code": "530513",
-    "name": "Purnama"
+    "name": "Purnama",
+    "postal_code": "85874"
   },
   {
     "code": "5305132003",
     "district_code": "530513",
-    "name": "Kailesa"
+    "name": "Kailesa",
+    "postal_code": "85874"
   },
   {
     "code": "5305132004",
     "district_code": "530513",
-    "name": "Langkuru Utara"
+    "name": "Langkuru Utara",
+    "postal_code": "85874"
   }
 ]

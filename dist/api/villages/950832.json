@@ -2,21 +2,25 @@
   {
     "code": "9508322001",
     "district_code": "950832",
-    "name": "Mandala"
+    "name": "Mandala",
+    "postal_code": "99927"
   },
   {
     "code": "9508322002",
     "district_code": "950832",
-    "name": "Trim"
+    "name": "Trim",
+    "postal_code": "99927"
   },
   {
     "code": "9508322003",
     "district_code": "950832",
-    "name": "Benggem"
+    "name": "Benggem",
+    "postal_code": "99927"
   },
   {
     "code": "9508322004",
     "district_code": "950832",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "99927"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "5206132001",
     "district_code": "520613",
-    "name": "Woro"
+    "name": "Woro",
+    "postal_code": "84111"
   },
   {
     "code": "5206132002",
     "district_code": "520613",
-    "name": "Campa"
+    "name": "Campa",
+    "postal_code": "84111"
   },
   {
     "code": "5206132003",
     "district_code": "520613",
-    "name": "Mpuri"
+    "name": "Mpuri",
+    "postal_code": "84111"
   },
   {
     "code": "5206132004",
     "district_code": "520613",
-    "name": "Ndano"
+    "name": "Ndano",
+    "postal_code": "84111"
   },
   {
     "code": "5206132005",
     "district_code": "520613",
-    "name": "Monggo"
+    "name": "Monggo",
+    "postal_code": "84111"
   },
   {
     "code": "5206132006",
     "district_code": "520613",
-    "name": "Dena"
+    "name": "Dena",
+    "postal_code": "84111"
   },
   {
     "code": "5206132007",
     "district_code": "520613",
-    "name": "Rade"
+    "name": "Rade",
+    "postal_code": "84111"
   },
   {
     "code": "5206132008",
     "district_code": "520613",
-    "name": "Tonda"
+    "name": "Tonda",
+    "postal_code": "84111"
   },
   {
     "code": "5206132009",
     "district_code": "520613",
-    "name": "Bolo"
+    "name": "Bolo",
+    "postal_code": "84111"
   },
   {
     "code": "5206132010",
     "district_code": "520613",
-    "name": "Madawau"
+    "name": "Madawau",
+    "postal_code": "84111"
   },
   {
     "code": "5206132011",
     "district_code": "520613",
-    "name": "Ncandi"
+    "name": "Ncandi",
+    "postal_code": "84111"
   }
 ]

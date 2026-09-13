@@ -2,36 +2,43 @@
   {
     "code": "5306152001",
     "district_code": "530615",
-    "name": "Ile Padung"
+    "name": "Ile Padung",
+    "postal_code": "86252"
   },
   {
     "code": "5306152002",
     "district_code": "530615",
-    "name": "Bantala"
+    "name": "Bantala",
+    "postal_code": "86252"
   },
   {
     "code": "5306152003",
     "district_code": "530615",
-    "name": "Sinar Hading"
+    "name": "Sinar Hading",
+    "postal_code": "86252"
   },
   {
     "code": "5306152004",
     "district_code": "530615",
-    "name": "Paingnapang"
+    "name": "Paingnapang",
+    "postal_code": "86252"
   },
   {
     "code": "5306152005",
     "district_code": "530615",
-    "name": "Baluk Herin"
+    "name": "Baluk Herin",
+    "postal_code": "86252"
   },
   {
     "code": "5306152006",
     "district_code": "530615",
-    "name": "Riangkotek"
+    "name": "Riangkotek",
+    "postal_code": "86252"
   },
   {
     "code": "5306152007",
     "district_code": "530615",
-    "name": "Lewobelen"
+    "name": "Lewobelen",
+    "postal_code": "86252"
   }
 ]

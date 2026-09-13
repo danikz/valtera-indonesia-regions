@@ -2,21 +2,25 @@
   {
     "code": "9206222001",
     "district_code": "920622",
-    "name": "Meyerga"
+    "name": "Meyerga",
+    "postal_code": "98154"
   },
   {
     "code": "9206222002",
     "district_code": "920622",
-    "name": "Macok"
+    "name": "Macok",
+    "postal_code": "98154"
   },
   {
     "code": "9206222003",
     "district_code": "920622",
-    "name": "Istiwkem"
+    "name": "Istiwkem",
+    "postal_code": "98154"
   },
   {
     "code": "9206222004",
     "district_code": "920622",
-    "name": "Majnic"
+    "name": "Majnic",
+    "postal_code": "98154"
   }
 ]

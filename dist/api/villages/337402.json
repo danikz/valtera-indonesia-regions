@@ -2,46 +2,55 @@
   {
     "code": "3374021001",
     "district_code": "337402",
-    "name": "Bandarharjo"
+    "name": "Bandarharjo",
+    "postal_code": "50175"
   },
   {
     "code": "3374021002",
     "district_code": "337402",
-    "name": "Bulu Lor"
+    "name": "Bulu Lor",
+    "postal_code": "50179"
   },
   {
     "code": "3374021003",
     "district_code": "337402",
-    "name": "Plombokan"
+    "name": "Plombokan",
+    "postal_code": "50171"
   },
   {
     "code": "3374021004",
     "district_code": "337402",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "50172"
   },
   {
     "code": "3374021005",
     "district_code": "337402",
-    "name": "Kuningan"
+    "name": "Kuningan",
+    "postal_code": "50176"
   },
   {
     "code": "3374021006",
     "district_code": "337402",
-    "name": "Panggung Lor"
+    "name": "Panggung Lor",
+    "postal_code": "50177"
   },
   {
     "code": "3374021007",
     "district_code": "337402",
-    "name": "Panggung Kidul"
+    "name": "Panggung Kidul",
+    "postal_code": "50178"
   },
   {
     "code": "3374021008",
     "district_code": "337402",
-    "name": "Tanjung Mas"
+    "name": "Tanjung Mas",
+    "postal_code": "50174"
   },
   {
     "code": "3374021009",
     "district_code": "337402",
-    "name": "Dadapsari"
+    "name": "Dadapsari",
+    "postal_code": "50173"
   }
 ]

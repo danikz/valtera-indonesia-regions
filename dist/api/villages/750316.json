@@ -2,26 +2,31 @@
   {
     "code": "7503162001",
     "district_code": "750316",
-    "name": "Bulotalangi"
+    "name": "Bulotalangi",
+    "postal_code": "96542"
   },
   {
     "code": "7503162002",
     "district_code": "750316",
-    "name": "Toluwaya"
+    "name": "Toluwaya",
+    "postal_code": "96542"
   },
   {
     "code": "7503162003",
     "district_code": "750316",
-    "name": "Popodu"
+    "name": "Popodu",
+    "postal_code": "96542"
   },
   {
     "code": "7503162004",
     "district_code": "750316",
-    "name": "Bulotalangi Timur"
+    "name": "Bulotalangi Timur",
+    "postal_code": "96542"
   },
   {
     "code": "7503162005",
     "district_code": "750316",
-    "name": "Bulotalangi Barat"
+    "name": "Bulotalangi Barat",
+    "postal_code": "96542"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "6302061001",
     "district_code": "630206",
-    "name": "Kotabaru Hulu"
+    "name": "Kotabaru Hulu",
+    "postal_code": "72114"
   },
   {
     "code": "6302062009",
     "district_code": "630206",
-    "name": "Megasari"
+    "name": "Megasari",
+    "postal_code": "72114"
   },
   {
     "code": "6302062010",
     "district_code": "630206",
-    "name": "Sebelimbingan"
+    "name": "Sebelimbingan",
+    "postal_code": "72114"
   },
   {
     "code": "6302062011",
     "district_code": "630206",
-    "name": "Stagen"
+    "name": "Stagen",
+    "postal_code": "72114"
   },
   {
     "code": "6302062012",
     "district_code": "630206",
-    "name": "Rampa"
+    "name": "Rampa",
+    "postal_code": "72114"
   },
   {
     "code": "6302062013",
     "district_code": "630206",
-    "name": "Sungai Taib"
+    "name": "Sungai Taib",
+    "postal_code": "72114"
   },
   {
     "code": "6302062014",
     "district_code": "630206",
-    "name": "Semayap"
+    "name": "Semayap",
+    "postal_code": "72117"
   },
   {
     "code": "6302062015",
     "district_code": "630206",
-    "name": "Dirgahayu"
+    "name": "Dirgahayu",
+    "postal_code": "72116"
   },
   {
     "code": "6302062022",
     "district_code": "630206",
-    "name": "Gunung Ulin"
+    "name": "Gunung Ulin",
+    "postal_code": "72114"
   },
   {
     "code": "6302062025",
     "district_code": "630206",
-    "name": "Gunung Sari"
+    "name": "Gunung Sari",
+    "postal_code": "72114"
   }
 ]

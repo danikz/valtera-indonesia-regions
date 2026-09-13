@@ -2,26 +2,31 @@
   {
     "code": "3578051001",
     "district_code": "357805",
-    "name": "Tegalsari"
+    "name": "Tegalsari",
+    "postal_code": "60262"
   },
   {
     "code": "3578051002",
     "district_code": "357805",
-    "name": "Dr. Soetomo"
+    "name": "Dr. Soetomo",
+    "postal_code": "60264"
   },
   {
     "code": "3578051003",
     "district_code": "357805",
-    "name": "Kedungdoro"
+    "name": "Kedungdoro",
+    "postal_code": "60261"
   },
   {
     "code": "3578051004",
     "district_code": "357805",
-    "name": "Keputran"
+    "name": "Keputran",
+    "postal_code": "60265"
   },
   {
     "code": "3578051005",
     "district_code": "357805",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "60263"
   }
 ]

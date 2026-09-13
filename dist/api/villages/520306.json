@@ -2,46 +2,55 @@
   {
     "code": "5203062001",
     "district_code": "520306",
-    "name": "Setanggor"
+    "name": "Setanggor",
+    "postal_code": "83652"
   },
   {
     "code": "5203062002",
     "district_code": "520306",
-    "name": "Jantuk"
+    "name": "Jantuk",
+    "postal_code": "83652"
   },
   {
     "code": "5203062003",
     "district_code": "520306",
-    "name": "Padamara"
+    "name": "Padamara",
+    "postal_code": "83652"
   },
   {
     "code": "5203062004",
     "district_code": "520306",
-    "name": "Dasan Lekong"
+    "name": "Dasan Lekong",
+    "postal_code": "83652"
   },
   {
     "code": "5203062005",
     "district_code": "520306",
-    "name": "Sukamulia"
+    "name": "Sukamulia",
+    "postal_code": "83652"
   },
   {
     "code": "5203062006",
     "district_code": "520306",
-    "name": "Paok Pampang"
+    "name": "Paok Pampang",
+    "postal_code": "83652"
   },
   {
     "code": "5203062007",
     "district_code": "520306",
-    "name": "Sukamulia Timur"
+    "name": "Sukamulia Timur",
+    "postal_code": "83652"
   },
   {
     "code": "5203062008",
     "district_code": "520306",
-    "name": "Nyiur Tebel"
+    "name": "Nyiur Tebel",
+    "postal_code": "83652"
   },
   {
     "code": "5203062009",
     "district_code": "520306",
-    "name": "Setanggor Selatan"
+    "name": "Setanggor Selatan",
+    "postal_code": "83652"
   }
 ]

@@ -2,76 +2,91 @@
   {
     "code": "3604192001",
     "district_code": "360419",
-    "name": "Petir"
+    "name": "Petir",
+    "postal_code": "42172"
   },
   {
     "code": "3604192002",
     "district_code": "360419",
-    "name": "Cirangkong"
+    "name": "Cirangkong",
+    "postal_code": "42172"
   },
   {
     "code": "3604192003",
     "district_code": "360419",
-    "name": "Tambiluk"
+    "name": "Tambiluk",
+    "postal_code": "42172"
   },
   {
     "code": "3604192004",
     "district_code": "360419",
-    "name": "Sindangsari"
+    "name": "Sindangsari",
+    "postal_code": "42172"
   },
   {
     "code": "3604192005",
     "district_code": "360419",
-    "name": "Padasuka"
+    "name": "Padasuka",
+    "postal_code": "42172"
   },
   {
     "code": "3604192006",
     "district_code": "360419",
-    "name": "Seuat"
+    "name": "Seuat",
+    "postal_code": "42172"
   },
   {
     "code": "3604192007",
     "district_code": "360419",
-    "name": "Nagarapadang"
+    "name": "Nagarapadang",
+    "postal_code": "42172"
   },
   {
     "code": "3604192008",
     "district_code": "360419",
-    "name": "Kadugenep"
+    "name": "Kadugenep",
+    "postal_code": "42172"
   },
   {
     "code": "3604192009",
     "district_code": "360419",
-    "name": "Cirendeu"
+    "name": "Cirendeu",
+    "postal_code": "42172"
   },
   {
     "code": "3604192010",
     "district_code": "360419",
-    "name": "Sanding"
+    "name": "Sanding",
+    "postal_code": "42172"
   },
   {
     "code": "3604192011",
     "district_code": "360419",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "42172"
   },
   {
     "code": "3604192012",
     "district_code": "360419",
-    "name": "Mekar Baru"
+    "name": "Mekar Baru",
+    "postal_code": "42172"
   },
   {
     "code": "3604192013",
     "district_code": "360419",
-    "name": "Seuat Jaya"
+    "name": "Seuat Jaya",
+    "postal_code": "42172"
   },
   {
     "code": "3604192014",
     "district_code": "360419",
-    "name": "Kubang Jaya"
+    "name": "Kubang Jaya",
+    "postal_code": "42172"
   },
   {
     "code": "3604192015",
     "district_code": "360419",
-    "name": "Bojong Nangka"
+    "name": "Bojong Nangka",
+    "postal_code": "42172"
   }
 ]

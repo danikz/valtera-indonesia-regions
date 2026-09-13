@@ -2,31 +2,37 @@
   {
     "code": "1201172001",
     "district_code": "120117",
-    "name": "Hutaginjang"
+    "name": "Hutaginjang",
+    "postal_code": "22567"
   },
   {
     "code": "1201172002",
     "district_code": "120117",
-    "name": "Sihorbo"
+    "name": "Sihorbo",
+    "postal_code": "22567"
   },
   {
     "code": "1201172003",
     "district_code": "120117",
-    "name": "Parik Sinomba"
+    "name": "Parik Sinomba",
+    "postal_code": "22567"
   },
   {
     "code": "1201172004",
     "district_code": "120117",
-    "name": "Purba Tua"
+    "name": "Purba Tua",
+    "postal_code": "22567"
   },
   {
     "code": "1201172005",
     "district_code": "120117",
-    "name": "Pananggahan"
+    "name": "Pananggahan",
+    "postal_code": "22567"
   },
   {
     "code": "1201172006",
     "district_code": "120117",
-    "name": "Siharbangan"
+    "name": "Siharbangan",
+    "postal_code": "22567"
   }
 ]

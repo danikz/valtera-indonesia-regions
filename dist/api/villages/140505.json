@@ -2,41 +2,49 @@
   {
     "code": "1405051001",
     "district_code": "140505",
-    "name": "Langgam"
+    "name": "Langgam",
+    "postal_code": "28380"
   },
   {
     "code": "1405052002",
     "district_code": "140505",
-    "name": "Tambak"
+    "name": "Tambak",
+    "postal_code": "28380"
   },
   {
     "code": "1405052003",
     "district_code": "140505",
-    "name": "Penarikan"
+    "name": "Penarikan",
+    "postal_code": "28380"
   },
   {
     "code": "1405052004",
     "district_code": "140505",
-    "name": "Segati"
+    "name": "Segati",
+    "postal_code": "28380"
   },
   {
     "code": "1405052005",
     "district_code": "140505",
-    "name": "Sotol"
+    "name": "Sotol",
+    "postal_code": "28380"
   },
   {
     "code": "1405052006",
     "district_code": "140505",
-    "name": "Pangkalan Gondai"
+    "name": "Pangkalan Gondai",
+    "postal_code": "28380"
   },
   {
     "code": "1405052007",
     "district_code": "140505",
-    "name": "Langkan"
+    "name": "Langkan",
+    "postal_code": "28380"
   },
   {
     "code": "1405052008",
     "district_code": "140505",
-    "name": "Padang Luas"
+    "name": "Padang Luas",
+    "postal_code": "28380"
   }
 ]

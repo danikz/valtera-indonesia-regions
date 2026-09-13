@@ -2,71 +2,85 @@
   {
     "code": "7505012003",
     "district_code": "750501",
-    "name": "Imana"
+    "name": "Imana",
+    "postal_code": "96516"
   },
   {
     "code": "7505012004",
     "district_code": "750501",
-    "name": "Bintana"
+    "name": "Bintana",
+    "postal_code": "96516"
   },
   {
     "code": "7505012005",
     "district_code": "750501",
-    "name": "Buata"
+    "name": "Buata",
+    "postal_code": "96516"
   },
   {
     "code": "7505012006",
     "district_code": "750501",
-    "name": "Pinontoyonga"
+    "name": "Pinontoyonga",
+    "postal_code": "96516"
   },
   {
     "code": "7505012007",
     "district_code": "750501",
-    "name": "Monggupo"
+    "name": "Monggupo",
+    "postal_code": "96516"
   },
   {
     "code": "7505012008",
     "district_code": "750501",
-    "name": "Kotajin"
+    "name": "Kotajin",
+    "postal_code": "96516"
   },
   {
     "code": "7505012011",
     "district_code": "750501",
-    "name": "Ilomata"
+    "name": "Ilomata",
+    "postal_code": "96516"
   },
   {
     "code": "7505012013",
     "district_code": "750501",
-    "name": "Iloheluma"
+    "name": "Iloheluma",
+    "postal_code": "96516"
   },
   {
     "code": "7505012014",
     "district_code": "750501",
-    "name": "Wapalo"
+    "name": "Wapalo",
+    "postal_code": "96516"
   },
   {
     "code": "7505012015",
     "district_code": "750501",
-    "name": "Posono"
+    "name": "Posono",
+    "postal_code": "96516"
   },
   {
     "code": "7505012016",
     "district_code": "750501",
-    "name": "Sigaso"
+    "name": "Sigaso",
+    "postal_code": "96516"
   },
   {
     "code": "7505012017",
     "district_code": "750501",
-    "name": "Tombulilato"
+    "name": "Tombulilato",
+    "postal_code": "96516"
   },
   {
     "code": "7505012018",
     "district_code": "750501",
-    "name": "Kotajin Utara"
+    "name": "Kotajin Utara",
+    "postal_code": "96516"
   },
   {
     "code": "7505012019",
     "district_code": "750501",
-    "name": "Oluhuta"
+    "name": "Oluhuta",
+    "postal_code": "96516"
   }
 ]

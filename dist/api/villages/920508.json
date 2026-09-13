@@ -2,21 +2,25 @@
   {
     "code": "9205082001",
     "district_code": "920508",
-    "name": "Puper"
+    "name": "Puper",
+    "postal_code": ""
   },
   {
     "code": "9205082002",
     "district_code": "920508",
-    "name": "Yenbekaki"
+    "name": "Yenbekaki",
+    "postal_code": ""
   },
   {
     "code": "9205082003",
     "district_code": "920508",
-    "name": "Urbinasopen"
+    "name": "Urbinasopen",
+    "postal_code": ""
   },
   {
     "code": "9205082004",
     "district_code": "920508",
-    "name": "Yensner"
+    "name": "Yensner",
+    "postal_code": ""
   }
 ]

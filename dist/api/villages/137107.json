@@ -2,36 +2,43 @@
   {
     "code": "1371071001",
     "district_code": "137107",
-    "name": "Indarung"
+    "name": "Indarung",
+    "postal_code": "25237"
   },
   {
     "code": "1371071002",
     "district_code": "137107",
-    "name": "Padang Besi"
+    "name": "Padang Besi",
+    "postal_code": "25233"
   },
   {
     "code": "1371071003",
     "district_code": "137107",
-    "name": "Batu Gadang"
+    "name": "Batu Gadang",
+    "postal_code": "25236"
   },
   {
     "code": "1371071004",
     "district_code": "137107",
-    "name": "Bandar Buat"
+    "name": "Bandar Buat",
+    "postal_code": "25231"
   },
   {
     "code": "1371071005",
     "district_code": "137107",
-    "name": "Koto Lalang"
+    "name": "Koto Lalang",
+    "postal_code": "25232"
   },
   {
     "code": "1371071006",
     "district_code": "137107",
-    "name": "Baringin"
+    "name": "Baringin",
+    "postal_code": "25235"
   },
   {
     "code": "1371071007",
     "district_code": "137107",
-    "name": "Tarantang"
+    "name": "Tarantang",
+    "postal_code": "25234"
   }
 ]

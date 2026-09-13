@@ -2,36 +2,43 @@
   {
     "code": "1871011003",
     "district_code": "187101",
-    "name": "Kedaton"
+    "name": "Kedaton",
+    "postal_code": "35141"
   },
   {
     "code": "1871011004",
     "district_code": "187101",
-    "name": "Surabaya"
+    "name": "Surabaya",
+    "postal_code": "35148"
   },
   {
     "code": "1871011005",
     "district_code": "187101",
-    "name": "Sukamenanti"
+    "name": "Sukamenanti",
+    "postal_code": "35146"
   },
   {
     "code": "1871011006",
     "district_code": "187101",
-    "name": "Sidodadi"
+    "name": "Sidodadi",
+    "postal_code": "35147"
   },
   {
     "code": "1871011009",
     "district_code": "187101",
-    "name": "Sukamenanti Baru"
+    "name": "Sukamenanti Baru",
+    "postal_code": "35146"
   },
   {
     "code": "1871011010",
     "district_code": "187101",
-    "name": "Penengahan"
+    "name": "Penengahan",
+    "postal_code": "35112"
   },
   {
     "code": "1871011012",
     "district_code": "187101",
-    "name": "Penengahan Raya"
+    "name": "Penengahan Raya",
+    "postal_code": "35112"
   }
 ]

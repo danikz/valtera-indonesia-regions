@@ -2,21 +2,25 @@
   {
     "code": "5204212001",
     "district_code": "520421",
-    "name": "Rhee"
+    "name": "Rhee",
+    "postal_code": "84352"
   },
   {
     "code": "5204212002",
     "district_code": "520421",
-    "name": "Sampe"
+    "name": "Sampe",
+    "postal_code": "84352"
   },
   {
     "code": "5204212003",
     "district_code": "520421",
-    "name": "Luk"
+    "name": "Luk",
+    "postal_code": "84352"
   },
   {
     "code": "5204212004",
     "district_code": "520421",
-    "name": "Rhee Loka"
+    "name": "Rhee Loka",
+    "postal_code": "84352"
   }
 ]

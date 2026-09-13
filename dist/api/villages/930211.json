@@ -2,26 +2,31 @@
   {
     "code": "9302112001",
     "district_code": "930211",
-    "name": "Kuken"
+    "name": "Kuken",
+    "postal_code": "99681"
   },
   {
     "code": "9302112002",
     "district_code": "930211",
-    "name": "Kolopkam"
+    "name": "Kolopkam",
+    "postal_code": "99681"
   },
   {
     "code": "9302112003",
     "district_code": "930211",
-    "name": "Awaken"
+    "name": "Awaken",
+    "postal_code": "99681"
   },
   {
     "code": "9302112004",
     "district_code": "930211",
-    "name": "Arimbit"
+    "name": "Arimbit",
+    "postal_code": "99681"
   },
   {
     "code": "9302112005",
     "district_code": "930211",
-    "name": "Anyumka"
+    "name": "Anyumka",
+    "postal_code": "99681"
   }
 ]

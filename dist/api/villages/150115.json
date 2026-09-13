@@ -2,66 +2,79 @@
   {
     "code": "1501152001",
     "district_code": "150115",
-    "name": "Sungairumpun"
+    "name": "Sungairumpun",
+    "postal_code": "37163"
   },
   {
     "code": "1501152002",
     "district_code": "150115",
-    "name": "Sungaisikai"
+    "name": "Sungaisikai",
+    "postal_code": "37163"
   },
   {
     "code": "1501152003",
     "district_code": "150115",
-    "name": "Tangkil"
+    "name": "Tangkil",
+    "postal_code": "37163"
   },
   {
     "code": "1501152004",
     "district_code": "150115",
-    "name": "Pelompek"
+    "name": "Pelompek",
+    "postal_code": "37163"
   },
   {
     "code": "1501152005",
     "district_code": "150115",
-    "name": "Jernih Jaya"
+    "name": "Jernih Jaya",
+    "postal_code": "37163"
   },
   {
     "code": "1501152006",
     "district_code": "150115",
-    "name": "Bengkolan Duo"
+    "name": "Bengkolan Duo",
+    "postal_code": "37163"
   },
   {
     "code": "1501152007",
     "district_code": "150115",
-    "name": "Lubuk Pauh"
+    "name": "Lubuk Pauh",
+    "postal_code": "37163"
   },
   {
     "code": "1501152008",
     "district_code": "150115",
-    "name": "Telun Berasap"
+    "name": "Telun Berasap",
+    "postal_code": "37163"
   },
   {
     "code": "1501152009",
     "district_code": "150115",
-    "name": "Bumbun Duri"
+    "name": "Bumbun Duri",
+    "postal_code": "37163"
   },
   {
     "code": "1501152010",
     "district_code": "150115",
-    "name": "Pesisir Bukit"
+    "name": "Pesisir Bukit",
+    "postal_code": "37163"
   },
   {
     "code": "1501152011",
     "district_code": "150115",
-    "name": "Pauh Tinggi"
+    "name": "Pauh Tinggi",
+    "postal_code": "37163"
   },
   {
     "code": "1501152012",
     "district_code": "150115",
-    "name": "Sungaijernih"
+    "name": "Sungaijernih",
+    "postal_code": "37163"
   },
   {
     "code": "1501152013",
     "district_code": "150115",
-    "name": "Pelompek Pasar Baru"
+    "name": "Pelompek Pasar Baru",
+    "postal_code": "37163"
   }
 ]

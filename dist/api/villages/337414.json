@@ -2,71 +2,85 @@
   {
     "code": "3374141001",
     "district_code": "337414",
-    "name": "Cangkiran"
+    "name": "Cangkiran",
+    "postal_code": "50216"
   },
   {
     "code": "3374141002",
     "district_code": "337414",
-    "name": "Bubakan"
+    "name": "Bubakan",
+    "postal_code": "50216"
   },
   {
     "code": "3374141003",
     "district_code": "337414",
-    "name": "Karangmalang"
+    "name": "Karangmalang",
+    "postal_code": "50216"
   },
   {
     "code": "3374141004",
     "district_code": "337414",
-    "name": "Polaman"
+    "name": "Polaman",
+    "postal_code": "50217"
   },
   {
     "code": "3374141005",
     "district_code": "337414",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "50217"
   },
   {
     "code": "3374141006",
     "district_code": "337414",
-    "name": "Tambangan"
+    "name": "Tambangan",
+    "postal_code": "50215"
   },
   {
     "code": "3374141007",
     "district_code": "337414",
-    "name": "Wonolopo"
+    "name": "Wonolopo",
+    "postal_code": "50215"
   },
   {
     "code": "3374141008",
     "district_code": "337414",
-    "name": "Mijen"
+    "name": "Mijen",
+    "postal_code": "50519"
   },
   {
     "code": "3374141009",
     "district_code": "337414",
-    "name": "Jatibarang"
+    "name": "Jatibarang",
+    "postal_code": "50219"
   },
   {
     "code": "3374141010",
     "district_code": "337414",
-    "name": "Kedungpane"
+    "name": "Kedungpane",
+    "postal_code": "50211"
   },
   {
     "code": "3374141011",
     "district_code": "337414",
-    "name": "Ngadirgo"
+    "name": "Ngadirgo",
+    "postal_code": "50213"
   },
   {
     "code": "3374141012",
     "district_code": "337414",
-    "name": "Wonoplumbon"
+    "name": "Wonoplumbon",
+    "postal_code": "50214"
   },
   {
     "code": "3374141013",
     "district_code": "337414",
-    "name": "Jatisari"
+    "name": "Jatisari",
+    "postal_code": "50275"
   },
   {
     "code": "3374141014",
     "district_code": "337414",
-    "name": "Pesantren"
+    "name": "Pesantren",
+    "postal_code": "50212"
   }
 ]

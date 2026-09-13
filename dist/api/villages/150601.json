@@ -2,51 +2,61 @@
   {
     "code": "1506011005",
     "district_code": "150601",
-    "name": "Pelabuhan Dagang"
+    "name": "Pelabuhan Dagang",
+    "postal_code": "36552"
   },
   {
     "code": "1506012001",
     "district_code": "150601",
-    "name": "Badang"
+    "name": "Badang",
+    "postal_code": "36552"
   },
   {
     "code": "1506012002",
     "district_code": "150601",
-    "name": "Tanjungtayas"
+    "name": "Tanjungtayas",
+    "postal_code": "36552"
   },
   {
     "code": "1506012003",
     "district_code": "150601",
-    "name": "Kuala Dasal"
+    "name": "Kuala Dasal",
+    "postal_code": "36552"
   },
   {
     "code": "1506012004",
     "district_code": "150601",
-    "name": "Pematang Pauh"
+    "name": "Pematang Pauh",
+    "postal_code": "36552"
   },
   {
     "code": "1506012006",
     "district_code": "150601",
-    "name": "Taman Raja"
+    "name": "Taman Raja",
+    "postal_code": "36552"
   },
   {
     "code": "1506012017",
     "district_code": "150601",
-    "name": "Brasau"
+    "name": "Brasau",
+    "postal_code": "36552"
   },
   {
     "code": "1506012019",
     "district_code": "150601",
-    "name": "Gemuruh"
+    "name": "Gemuruh",
+    "postal_code": "36552"
   },
   {
     "code": "1506012020",
     "district_code": "150601",
-    "name": "Pematang Tembesu"
+    "name": "Pematang Tembesu",
+    "postal_code": "36552"
   },
   {
     "code": "1506012021",
     "district_code": "150601",
-    "name": "Badang Sepakat"
+    "name": "Badang Sepakat",
+    "postal_code": "36552"
   }
 ]

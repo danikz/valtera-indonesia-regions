@@ -2,26 +2,31 @@
   {
     "code": "3202432001",
     "district_code": "320243",
-    "name": "Cidolog"
+    "name": "Cidolog",
+    "postal_code": "43184"
   },
   {
     "code": "3202432002",
     "district_code": "320243",
-    "name": "Cipamingkis"
+    "name": "Cipamingkis",
+    "postal_code": "43184"
   },
   {
     "code": "3202432003",
     "district_code": "320243",
-    "name": "Cikarang"
+    "name": "Cikarang",
+    "postal_code": "43184"
   },
   {
     "code": "3202432004",
     "district_code": "320243",
-    "name": "Tegallega"
+    "name": "Tegallega",
+    "postal_code": "43184"
   },
   {
     "code": "3202432005",
     "district_code": "320243",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "43184"
   }
 ]

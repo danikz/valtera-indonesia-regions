@@ -2,36 +2,43 @@
   {
     "code": "9115122001",
     "district_code": "911512",
-    "name": "Wapoga"
+    "name": "Wapoga",
+    "postal_code": "98664"
   },
   {
     "code": "9115122002",
     "district_code": "911512",
-    "name": "Pirare"
+    "name": "Pirare",
+    "postal_code": "98664"
   },
   {
     "code": "9115122003",
     "district_code": "911512",
-    "name": "Awera"
+    "name": "Awera",
+    "postal_code": "98664"
   },
   {
     "code": "9115122004",
     "district_code": "911512",
-    "name": "Syewa Merare"
+    "name": "Syewa Merare",
+    "postal_code": "98664"
   },
   {
     "code": "9115122005",
     "district_code": "911512",
-    "name": "Kamarisano"
+    "name": "Kamarisano",
+    "postal_code": "98664"
   },
   {
     "code": "9115122006",
     "district_code": "911512",
-    "name": "Waweri"
+    "name": "Waweri",
+    "postal_code": "98664"
   },
   {
     "code": "9115122007",
     "district_code": "911512",
-    "name": "Dokis"
+    "name": "Dokis",
+    "postal_code": "98664"
   }
 ]

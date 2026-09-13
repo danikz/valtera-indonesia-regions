@@ -2,31 +2,37 @@
   {
     "code": "8202102001",
     "district_code": "820210",
-    "name": "Sakam"
+    "name": "Sakam",
+    "postal_code": "97857"
   },
   {
     "code": "8202102002",
     "district_code": "820210",
-    "name": "Nursifa"
+    "name": "Nursifa",
+    "postal_code": "97857"
   },
   {
     "code": "8202102003",
     "district_code": "820210",
-    "name": "Damuli"
+    "name": "Damuli",
+    "postal_code": "97857"
   },
   {
     "code": "8202102004",
     "district_code": "820210",
-    "name": "Peniti"
+    "name": "Peniti",
+    "postal_code": "97857"
   },
   {
     "code": "8202102005",
     "district_code": "820210",
-    "name": "Masure"
+    "name": "Masure",
+    "postal_code": "97857"
   },
   {
     "code": "8202102006",
     "district_code": "820210",
-    "name": "Palo"
+    "name": "Palo",
+    "postal_code": "97857"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "9110122001",
     "district_code": "911012",
-    "name": "Amsira"
+    "name": "Amsira",
+    "postal_code": "99376"
   },
   {
     "code": "9110122002",
     "district_code": "911012",
-    "name": "Siaratesa"
+    "name": "Siaratesa",
+    "postal_code": "99376"
   },
   {
     "code": "9110122003",
     "district_code": "911012",
-    "name": "Munukania"
+    "name": "Munukania",
+    "postal_code": "99376"
   },
   {
     "code": "9110122004",
     "district_code": "911012",
-    "name": "Kasukwe"
+    "name": "Kasukwe",
+    "postal_code": "99376"
   },
   {
     "code": "9110122005",
     "district_code": "911012",
-    "name": "Wapo"
+    "name": "Wapo",
+    "postal_code": "99376"
   },
   {
     "code": "9110122008",
     "district_code": "911012",
-    "name": "Angkasa Dua"
+    "name": "Angkasa Dua",
+    "postal_code": "99376"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "5302072007",
     "district_code": "530207",
-    "name": "Tublopo"
+    "name": "Tublopo",
+    "postal_code": "85551"
   },
   {
     "code": "5302072008",
     "district_code": "530207",
-    "name": "Nule"
+    "name": "Nule",
+    "postal_code": "85551"
   },
   {
     "code": "5302072009",
     "district_code": "530207",
-    "name": "Nusa"
+    "name": "Nusa",
+    "postal_code": "85551"
   },
   {
     "code": "5302072010",
     "district_code": "530207",
-    "name": "Mnelalete"
+    "name": "Mnelalete",
+    "postal_code": "85514"
   },
   {
     "code": "5302072011",
     "district_code": "530207",
-    "name": "Pusu"
+    "name": "Pusu",
+    "postal_code": "85551"
   },
   {
     "code": "5302072012",
     "district_code": "530207",
-    "name": "Tubuhue"
+    "name": "Tubuhue",
+    "postal_code": "85551"
   },
   {
     "code": "5302072013",
     "district_code": "530207",
-    "name": "Haumeni Baki"
+    "name": "Haumeni Baki",
+    "postal_code": "85551"
   },
   {
     "code": "5302072015",
     "district_code": "530207",
-    "name": "Nifukani"
+    "name": "Nifukani",
+    "postal_code": "85551"
   }
 ]

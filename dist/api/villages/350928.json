@@ -2,51 +2,61 @@
   {
     "code": "3509282001",
     "district_code": "350928",
-    "name": "Lembengan"
+    "name": "Lembengan",
+    "postal_code": "68196"
   },
   {
     "code": "3509282002",
     "district_code": "350928",
-    "name": "Suren"
+    "name": "Suren",
+    "postal_code": "68196"
   },
   {
     "code": "3509282003",
     "district_code": "350928",
-    "name": "Karangpaiton"
+    "name": "Karangpaiton",
+    "postal_code": "68196"
   },
   {
     "code": "3509282004",
     "district_code": "350928",
-    "name": "Sumberanget"
+    "name": "Sumberanget",
+    "postal_code": "68196"
   },
   {
     "code": "3509282005",
     "district_code": "350928",
-    "name": "Sukogidri"
+    "name": "Sukogidri",
+    "postal_code": "68196"
   },
   {
     "code": "3509282006",
     "district_code": "350928",
-    "name": "Ledokombo"
+    "name": "Ledokombo",
+    "postal_code": "68196"
   },
   {
     "code": "3509282007",
     "district_code": "350928",
-    "name": "Sumberlesung"
+    "name": "Sumberlesung",
+    "postal_code": "68196"
   },
   {
     "code": "3509282008",
     "district_code": "350928",
-    "name": "Sumbersalak"
+    "name": "Sumbersalak",
+    "postal_code": "68196"
   },
   {
     "code": "3509282009",
     "district_code": "350928",
-    "name": "Slateng"
+    "name": "Slateng",
+    "postal_code": "68196"
   },
   {
     "code": "3509282010",
     "district_code": "350928",
-    "name": "Sumberbulus"
+    "name": "Sumberbulus",
+    "postal_code": "68196"
   }
 ]

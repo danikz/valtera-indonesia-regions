@@ -2,51 +2,61 @@
   {
     "code": "5303141001",
     "district_code": "530314",
-    "name": "Oelami"
+    "name": "Oelami",
+    "postal_code": ""
   },
   {
     "code": "5303141006",
     "district_code": "530314",
-    "name": "Tublopo"
+    "name": "Tublopo",
+    "postal_code": ""
   },
   {
     "code": "5303142002",
     "district_code": "530314",
-    "name": "Kiusili"
+    "name": "Kiusili",
+    "postal_code": "85650"
   },
   {
     "code": "5303142003",
     "district_code": "530314",
-    "name": "Naiola"
+    "name": "Naiola",
+    "postal_code": "85650"
   },
   {
     "code": "5303142004",
     "district_code": "530314",
-    "name": "Maurisu"
+    "name": "Maurisu",
+    "postal_code": "85650"
   },
   {
     "code": "5303142005",
     "district_code": "530314",
-    "name": "Oetalus"
+    "name": "Oetalus",
+    "postal_code": "85650"
   },
   {
     "code": "5303142007",
     "district_code": "530314",
-    "name": "Maurisu Utara"
+    "name": "Maurisu Utara",
+    "postal_code": "85650"
   },
   {
     "code": "5303142008",
     "district_code": "530314",
-    "name": "Maurisu Selatan"
+    "name": "Maurisu Selatan",
+    "postal_code": "85650"
   },
   {
     "code": "5303142009",
     "district_code": "530314",
-    "name": "Maurisu Tengah"
+    "name": "Maurisu Tengah",
+    "postal_code": "85650"
   },
   {
     "code": "5303142010",
     "district_code": "530314",
-    "name": "Naiola Timur"
+    "name": "Naiola Timur",
+    "postal_code": "85650"
   }
 ]

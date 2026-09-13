@@ -2,56 +2,67 @@
   {
     "code": "9405022001",
     "district_code": "940502",
-    "name": "Wangbe"
+    "name": "Wangbe",
+    "postal_code": "98955"
   },
   {
     "code": "9405022002",
     "district_code": "940502",
-    "name": "Jindak"
+    "name": "Jindak",
+    "postal_code": "98983"
   },
   {
     "code": "9405022003",
     "district_code": "940502",
-    "name": "Pungki"
+    "name": "Pungki",
+    "postal_code": "98955"
   },
   {
     "code": "9405022004",
     "district_code": "940502",
-    "name": "Wonalbe"
+    "name": "Wonalbe",
+    "postal_code": "98955"
   },
   {
     "code": "9405022005",
     "district_code": "940502",
-    "name": "Ulipia"
+    "name": "Ulipia",
+    "postal_code": "98955"
   },
   {
     "code": "9405022006",
     "district_code": "940502",
-    "name": "Marilaukin"
+    "name": "Marilaukin",
+    "postal_code": "98983"
   },
   {
     "code": "9405022007",
     "district_code": "940502",
-    "name": "Ailpailin"
+    "name": "Ailpailin",
+    "postal_code": "98983"
   },
   {
     "code": "9405022008",
     "district_code": "940502",
-    "name": "Wungbet"
+    "name": "Wungbet",
+    "postal_code": "98955"
   },
   {
     "code": "9405022009",
     "district_code": "940502",
-    "name": "Nagaljagama"
+    "name": "Nagaljagama",
+    "postal_code": "98955"
   },
   {
     "code": "9405022010",
     "district_code": "940502",
-    "name": "Mongkoihol"
+    "name": "Mongkoihol",
+    "postal_code": "98955"
   },
   {
     "code": "9405022011",
     "district_code": "940502",
-    "name": "Nangi"
+    "name": "Nangi",
+    "postal_code": "98983"
   }
 ]

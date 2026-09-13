@@ -2,56 +2,67 @@
   {
     "code": "1211011005",
     "district_code": "121101",
-    "name": "Kuta Gambir"
+    "name": "Kuta Gambir",
+    "postal_code": "22214"
   },
   {
     "code": "1211011007",
     "district_code": "121101",
-    "name": "Sidiangkat"
+    "name": "Sidiangkat",
+    "postal_code": "22216"
   },
   {
     "code": "1211011009",
     "district_code": "121101",
-    "name": "Batang Beruh"
+    "name": "Batang Beruh",
+    "postal_code": "22212"
   },
   {
     "code": "1211011010",
     "district_code": "121101",
-    "name": "Sidikalang"
+    "name": "Sidikalang",
+    "postal_code": "22211"
   },
   {
     "code": "1211011015",
     "district_code": "121101",
-    "name": "Bintang Hulu"
+    "name": "Bintang Hulu",
+    "postal_code": "22217"
   },
   {
     "code": "1211012008",
     "district_code": "121101",
-    "name": "Belang Malum"
+    "name": "Belang Malum",
+    "postal_code": "22215"
   },
   {
     "code": "1211012011",
     "district_code": "121101",
-    "name": "Huta Rakyat"
+    "name": "Huta Rakyat",
+    "postal_code": "22211"
   },
   {
     "code": "1211012012",
     "district_code": "121101",
-    "name": "Kalang"
+    "name": "Kalang",
+    "postal_code": "22213"
   },
   {
     "code": "1211012013",
     "district_code": "121101",
-    "name": "Bintang"
+    "name": "Bintang",
+    "postal_code": "22219"
   },
   {
     "code": "1211012014",
     "district_code": "121101",
-    "name": "Kalang Simbara"
+    "name": "Kalang Simbara",
+    "postal_code": "22218"
   },
   {
     "code": "1211012017",
     "district_code": "121101",
-    "name": "Bintang Mersada"
+    "name": "Bintang Mersada",
+    "postal_code": "22210"
   }
 ]

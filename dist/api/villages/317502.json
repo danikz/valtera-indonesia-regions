@@ -2,36 +2,43 @@
   {
     "code": "3175021001",
     "district_code": "317502",
-    "name": "Pulo Gadung"
+    "name": "Pulo Gadung",
+    "postal_code": "13260"
   },
   {
     "code": "3175021002",
     "district_code": "317502",
-    "name": "Pisangan Timur"
+    "name": "Pisangan Timur",
+    "postal_code": "13230"
   },
   {
     "code": "3175021003",
     "district_code": "317502",
-    "name": "Cipinang"
+    "name": "Cipinang",
+    "postal_code": "13240"
   },
   {
     "code": "3175021004",
     "district_code": "317502",
-    "name": "Jatinegara Kaum"
+    "name": "Jatinegara Kaum",
+    "postal_code": "13250"
   },
   {
     "code": "3175021005",
     "district_code": "317502",
-    "name": "Rawamangun"
+    "name": "Rawamangun",
+    "postal_code": "13220"
   },
   {
     "code": "3175021006",
     "district_code": "317502",
-    "name": "Kayu Putih"
+    "name": "Kayu Putih",
+    "postal_code": "13210"
   },
   {
     "code": "3175021007",
     "district_code": "317502",
-    "name": "Jati"
+    "name": "Jati",
+    "postal_code": "13220"
   }
 ]

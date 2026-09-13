@@ -2,41 +2,49 @@
   {
     "code": "3401062001",
     "district_code": "340106",
-    "name": "Demangrejo"
+    "name": "Demangrejo",
+    "postal_code": "55664"
   },
   {
     "code": "3401062002",
     "district_code": "340106",
-    "name": "Srikayangan"
+    "name": "Srikayangan",
+    "postal_code": "55664"
   },
   {
     "code": "3401062003",
     "district_code": "340106",
-    "name": "Tuksono"
+    "name": "Tuksono",
+    "postal_code": "55664"
   },
   {
     "code": "3401062004",
     "district_code": "340106",
-    "name": "Salamrejo"
+    "name": "Salamrejo",
+    "postal_code": "55664"
   },
   {
     "code": "3401062005",
     "district_code": "340106",
-    "name": "Sukoreno"
+    "name": "Sukoreno",
+    "postal_code": "55664"
   },
   {
     "code": "3401062006",
     "district_code": "340106",
-    "name": "Kaliagung"
+    "name": "Kaliagung",
+    "postal_code": "55664"
   },
   {
     "code": "3401062007",
     "district_code": "340106",
-    "name": "Sentolo"
+    "name": "Sentolo",
+    "postal_code": "55664"
   },
   {
     "code": "3401062008",
     "district_code": "340106",
-    "name": "Banguncipto"
+    "name": "Banguncipto",
+    "postal_code": "55664"
   }
 ]

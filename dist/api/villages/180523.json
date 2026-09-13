@@ -2,46 +2,55 @@
   {
     "code": "1805232001",
     "district_code": "180523",
-    "name": "Gedung Harapan"
+    "name": "Gedung Harapan",
+    "postal_code": "34592"
   },
   {
     "code": "1805232002",
     "district_code": "180523",
-    "name": "Gedung Asri"
+    "name": "Gedung Asri",
+    "postal_code": "34592"
   },
   {
     "code": "1805232003",
     "district_code": "180523",
-    "name": "Gedung Rejo Sakti"
+    "name": "Gedung Rejo Sakti",
+    "postal_code": "34592"
   },
   {
     "code": "1805232004",
     "district_code": "180523",
-    "name": "Pasar Batang"
+    "name": "Pasar Batang",
+    "postal_code": "34592"
   },
   {
     "code": "1805232005",
     "district_code": "180523",
-    "name": "Suka Makmur"
+    "name": "Suka Makmur",
+    "postal_code": "34592"
   },
   {
     "code": "1805232006",
     "district_code": "180523",
-    "name": "Karya Makmur"
+    "name": "Karya Makmur",
+    "postal_code": "34592"
   },
   {
     "code": "1805232007",
     "district_code": "180523",
-    "name": "Wono Rejo"
+    "name": "Wono Rejo",
+    "postal_code": "34592"
   },
   {
     "code": "1805232008",
     "district_code": "180523",
-    "name": "Panca Tunggal Jaya"
+    "name": "Panca Tunggal Jaya",
+    "postal_code": "34592"
   },
   {
     "code": "1805232009",
     "district_code": "180523",
-    "name": "Sumber Sari"
+    "name": "Sumber Sari",
+    "postal_code": "34592"
   }
 ]

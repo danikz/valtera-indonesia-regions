@@ -2,26 +2,31 @@
   {
     "code": "7271031001",
     "district_code": "727103",
-    "name": "Tatura Utara"
+    "name": "Tatura Utara",
+    "postal_code": "94236"
   },
   {
     "code": "7271031002",
     "district_code": "727103",
-    "name": "Birobuli Utara"
+    "name": "Birobuli Utara",
+    "postal_code": "94231"
   },
   {
     "code": "7271031003",
     "district_code": "727103",
-    "name": "Petobo"
+    "name": "Petobo",
+    "postal_code": "94232"
   },
   {
     "code": "7271031011",
     "district_code": "727103",
-    "name": "Birobuli Selatan"
+    "name": "Birobuli Selatan",
+    "postal_code": "94231"
   },
   {
     "code": "7271031012",
     "district_code": "727103",
-    "name": "Tatura Selatan"
+    "name": "Tatura Selatan",
+    "postal_code": "94236"
   }
 ]

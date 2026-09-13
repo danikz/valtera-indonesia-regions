@@ -2,51 +2,61 @@
   {
     "code": "1212191007",
     "district_code": "121219",
-    "name": "Sigumpar Dangsina"
+    "name": "Sigumpar Dangsina",
+    "postal_code": "22380"
   },
   {
     "code": "1212192001",
     "district_code": "121219",
-    "name": "Marsangap"
+    "name": "Marsangap",
+    "postal_code": "22380"
   },
   {
     "code": "1212192002",
     "district_code": "121219",
-    "name": "Nauli"
+    "name": "Nauli",
+    "postal_code": "22380"
   },
   {
     "code": "1212192003",
     "district_code": "121219",
-    "name": "Situa-tua"
+    "name": "Situa-tua",
+    "postal_code": "22380"
   },
   {
     "code": "1212192004",
     "district_code": "121219",
-    "name": "Sigumpar"
+    "name": "Sigumpar",
+    "postal_code": "22380"
   },
   {
     "code": "1212192005",
     "district_code": "121219",
-    "name": "Maju"
+    "name": "Maju",
+    "postal_code": "22380"
   },
   {
     "code": "1212192006",
     "district_code": "121219",
-    "name": "Dolok Jior"
+    "name": "Dolok Jior",
+    "postal_code": "22380"
   },
   {
     "code": "1212192008",
     "district_code": "121219",
-    "name": "Sigumpar Julu"
+    "name": "Sigumpar Julu",
+    "postal_code": "22380"
   },
   {
     "code": "1212192009",
     "district_code": "121219",
-    "name": "Sigumpar Barat"
+    "name": "Sigumpar Barat",
+    "postal_code": "22380"
   },
   {
     "code": "1212192010",
     "district_code": "121219",
-    "name": "Banua Huta"
+    "name": "Banua Huta",
+    "postal_code": "22380"
   }
 ]

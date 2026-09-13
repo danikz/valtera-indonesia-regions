@@ -2,46 +2,55 @@
   {
     "code": "7471021009",
     "district_code": "747102",
-    "name": "Kandai"
+    "name": "Kandai",
+    "postal_code": "93127"
   },
   {
     "code": "7471021010",
     "district_code": "747102",
-    "name": "Gunung Jati"
+    "name": "Gunung Jati",
+    "postal_code": "93125"
   },
   {
     "code": "7471021011",
     "district_code": "747102",
-    "name": "Kampung Salo"
+    "name": "Kampung Salo",
+    "postal_code": "93121"
   },
   {
     "code": "7471021012",
     "district_code": "747102",
-    "name": "Mangga Dua"
+    "name": "Mangga Dua",
+    "postal_code": "93128"
   },
   {
     "code": "7471021013",
     "district_code": "747102",
-    "name": "Kendari Caddi"
+    "name": "Kendari Caddi",
+    "postal_code": "93126"
   },
   {
     "code": "7471021014",
     "district_code": "747102",
-    "name": "Kassilampe"
+    "name": "Kassilampe",
+    "postal_code": "93121"
   },
   {
     "code": "7471021015",
     "district_code": "747102",
-    "name": "Mata"
+    "name": "Mata",
+    "postal_code": "93129"
   },
   {
     "code": "7471021016",
     "district_code": "747102",
-    "name": "Purirano"
+    "name": "Purirano",
+    "postal_code": "93121"
   },
   {
     "code": "7471021017",
     "district_code": "747102",
-    "name": "Jati Mekar"
+    "name": "Jati Mekar",
+    "postal_code": "93121"
   }
 ]

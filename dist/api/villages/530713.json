@@ -2,36 +2,43 @@
   {
     "code": "5307132001",
     "district_code": "530713",
-    "name": "Natarmage"
+    "name": "Natarmage",
+    "postal_code": "86184"
   },
   {
     "code": "5307132002",
     "district_code": "530713",
-    "name": "Tanarawa"
+    "name": "Tanarawa",
+    "postal_code": "86184"
   },
   {
     "code": "5307132003",
     "district_code": "530713",
-    "name": "Pruda"
+    "name": "Pruda",
+    "postal_code": "86184"
   },
   {
     "code": "5307132004",
     "district_code": "530713",
-    "name": "Werang"
+    "name": "Werang",
+    "postal_code": "86184"
   },
   {
     "code": "5307132005",
     "district_code": "530713",
-    "name": "Tua Bao"
+    "name": "Tua Bao",
+    "postal_code": "86184"
   },
   {
     "code": "5307132006",
     "district_code": "530713",
-    "name": "Ilinmedo"
+    "name": "Ilinmedo",
+    "postal_code": "86184"
   },
   {
     "code": "5307132007",
     "district_code": "530713",
-    "name": "Watu Moning"
+    "name": "Watu Moning",
+    "postal_code": "86184"
   }
 ]

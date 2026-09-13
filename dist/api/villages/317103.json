@@ -2,41 +2,49 @@
   {
     "code": "3171031001",
     "district_code": "317103",
-    "name": "Kemayoran"
+    "name": "Kemayoran",
+    "postal_code": "10620"
   },
   {
     "code": "3171031002",
     "district_code": "317103",
-    "name": "Kebon Kosong"
+    "name": "Kebon Kosong",
+    "postal_code": "10630"
   },
   {
     "code": "3171031003",
     "district_code": "317103",
-    "name": "Harapan Mulia"
+    "name": "Harapan Mulia",
+    "postal_code": "10640"
   },
   {
     "code": "3171031004",
     "district_code": "317103",
-    "name": "Serdang"
+    "name": "Serdang",
+    "postal_code": "10650"
   },
   {
     "code": "3171031005",
     "district_code": "317103",
-    "name": "Gunung Sahari Selatan"
+    "name": "Gunung Sahari Selatan",
+    "postal_code": "10610"
   },
   {
     "code": "3171031006",
     "district_code": "317103",
-    "name": "Cempaka Baru"
+    "name": "Cempaka Baru",
+    "postal_code": "10640"
   },
   {
     "code": "3171031007",
     "district_code": "317103",
-    "name": "Sumur Batu"
+    "name": "Sumur Batu",
+    "postal_code": "10640"
   },
   {
     "code": "3171031008",
     "district_code": "317103",
-    "name": "Utan Panjang"
+    "name": "Utan Panjang",
+    "postal_code": "10650"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1871101001",
     "district_code": "187110",
-    "name": "Rajabasa"
+    "name": "Rajabasa",
+    "postal_code": "35144"
   },
   {
     "code": "1871101002",
     "district_code": "187110",
-    "name": "Gedong Meneng"
+    "name": "Gedong Meneng",
+    "postal_code": "35145"
   },
   {
     "code": "1871101005",
     "district_code": "187110",
-    "name": "Rajabasa Nunyai"
+    "name": "Rajabasa Nunyai",
+    "postal_code": "35144"
   },
   {
     "code": "1871101006",
     "district_code": "187110",
-    "name": "Rajabasa Pemuka"
+    "name": "Rajabasa Pemuka",
+    "postal_code": "35144"
   },
   {
     "code": "1871101007",
     "district_code": "187110",
-    "name": "Gedong Meneng Baru"
+    "name": "Gedong Meneng Baru",
+    "postal_code": "35145"
   },
   {
     "code": "1871101008",
     "district_code": "187110",
-    "name": "Rajabasa Raya"
+    "name": "Rajabasa Raya",
+    "postal_code": "35144"
   },
   {
     "code": "1871101009",
     "district_code": "187110",
-    "name": "Rajabasa Jaya"
+    "name": "Rajabasa Jaya",
+    "postal_code": "35144"
   }
 ]

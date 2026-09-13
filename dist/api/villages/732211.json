@@ -2,56 +2,67 @@
   {
     "code": "7322111005",
     "district_code": "732211",
-    "name": "Salassa"
+    "name": "Salassa",
+    "postal_code": "92965"
   },
   {
     "code": "7322112002",
     "district_code": "732211",
-    "name": "Salulemo"
+    "name": "Salulemo",
+    "postal_code": "92965"
   },
   {
     "code": "7322112003",
     "district_code": "732211",
-    "name": "Radda"
+    "name": "Radda",
+    "postal_code": "92965"
   },
   {
     "code": "7322112004",
     "district_code": "732211",
-    "name": "Baebunta"
+    "name": "Baebunta",
+    "postal_code": "92965"
   },
   {
     "code": "7322112007",
     "district_code": "732211",
-    "name": "Tarobok"
+    "name": "Tarobok",
+    "postal_code": "92965"
   },
   {
     "code": "7322112008",
     "district_code": "732211",
-    "name": "Mario"
+    "name": "Mario",
+    "postal_code": "92965"
   },
   {
     "code": "7322112009",
     "district_code": "732211",
-    "name": "Sassa"
+    "name": "Sassa",
+    "postal_code": "92965"
   },
   {
     "code": "7322112010",
     "district_code": "732211",
-    "name": "Kariango"
+    "name": "Kariango",
+    "postal_code": "92965"
   },
   {
     "code": "7322112011",
     "district_code": "732211",
-    "name": "Melli"
+    "name": "Melli",
+    "postal_code": "92965"
   },
   {
     "code": "7322112013",
     "district_code": "732211",
-    "name": "Palandan"
+    "name": "Palandan",
+    "postal_code": "92965"
   },
   {
     "code": "7322112015",
     "district_code": "732211",
-    "name": "Bumi Harapan"
+    "name": "Bumi Harapan",
+    "postal_code": "92965"
   }
 ]

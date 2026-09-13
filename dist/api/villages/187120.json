@@ -2,26 +2,31 @@
   {
     "code": "1871201001",
     "district_code": "187120",
-    "name": "Sukaraja"
+    "name": "Sukaraja",
+    "postal_code": "35226"
   },
   {
     "code": "1871201002",
     "district_code": "187120",
-    "name": "Bumi Waras"
+    "name": "Bumi Waras",
+    "postal_code": "35225"
   },
   {
     "code": "1871201003",
     "district_code": "187120",
-    "name": "Garuntang"
+    "name": "Garuntang",
+    "postal_code": "35227"
   },
   {
     "code": "1871201004",
     "district_code": "187120",
-    "name": "Bumi Raya"
+    "name": "Bumi Raya",
+    "postal_code": "35228"
   },
   {
     "code": "1871201005",
     "district_code": "187120",
-    "name": "Kangkung"
+    "name": "Kangkung",
+    "postal_code": "35224"
   }
 ]

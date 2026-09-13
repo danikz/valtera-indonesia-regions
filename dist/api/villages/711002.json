@@ -2,76 +2,91 @@
   {
     "code": "7110022001",
     "district_code": "711002",
-    "name": "Kotabunan"
+    "name": "Kotabunan",
+    "postal_code": "95782"
   },
   {
     "code": "7110022002",
     "district_code": "711002",
-    "name": "Buyat"
+    "name": "Buyat",
+    "postal_code": "95782"
   },
   {
     "code": "7110022003",
     "district_code": "711002",
-    "name": "Bulawan"
+    "name": "Bulawan",
+    "postal_code": "95782"
   },
   {
     "code": "7110022004",
     "district_code": "711002",
-    "name": "Paret"
+    "name": "Paret",
+    "postal_code": "95782"
   },
   {
     "code": "7110022005",
     "district_code": "711002",
-    "name": "Bukaka"
+    "name": "Bukaka",
+    "postal_code": "95782"
   },
   {
     "code": "7110022006",
     "district_code": "711002",
-    "name": "Buyat I"
+    "name": "Buyat I",
+    "postal_code": "95782"
   },
   {
     "code": "7110022007",
     "district_code": "711002",
-    "name": "Buyat II"
+    "name": "Buyat II",
+    "postal_code": "95782"
   },
   {
     "code": "7110022008",
     "district_code": "711002",
-    "name": "Buyat Selatan"
+    "name": "Buyat Selatan",
+    "postal_code": "95782"
   },
   {
     "code": "7110022009",
     "district_code": "711002",
-    "name": "Buyat Tengah"
+    "name": "Buyat Tengah",
+    "postal_code": "95782"
   },
   {
     "code": "7110022010",
     "district_code": "711002",
-    "name": "Buyat Barat"
+    "name": "Buyat Barat",
+    "postal_code": "95782"
   },
   {
     "code": "7110022011",
     "district_code": "711002",
-    "name": "Bulawan Satu"
+    "name": "Bulawan Satu",
+    "postal_code": "95782"
   },
   {
     "code": "7110022012",
     "district_code": "711002",
-    "name": "Bulawan Dua"
+    "name": "Bulawan Dua",
+    "postal_code": "95782"
   },
   {
     "code": "7110022013",
     "district_code": "711002",
-    "name": "Kotabunan Selatan"
+    "name": "Kotabunan Selatan",
+    "postal_code": "95782"
   },
   {
     "code": "7110022014",
     "district_code": "711002",
-    "name": "Kotabunan Barat"
+    "name": "Kotabunan Barat",
+    "postal_code": "95782"
   },
   {
     "code": "7110022015",
     "district_code": "711002",
-    "name": "Paret Timur"
+    "name": "Paret Timur",
+    "postal_code": "95782"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3511162001",
     "district_code": "351116",
-    "name": "Bandilan"
+    "name": "Bandilan",
+    "postal_code": "68285"
   },
   {
     "code": "3511162002",
     "district_code": "351116",
-    "name": "Sempol"
+    "name": "Sempol",
+    "postal_code": "68285"
   },
   {
     "code": "3511162003",
     "district_code": "351116",
-    "name": "Tarum"
+    "name": "Tarum",
+    "postal_code": "68285"
   },
   {
     "code": "3511162005",
     "district_code": "351116",
-    "name": "Prajekan Lor"
+    "name": "Prajekan Lor",
+    "postal_code": "68285"
   },
   {
     "code": "3511162006",
     "district_code": "351116",
-    "name": "Prajekan Kidul"
+    "name": "Prajekan Kidul",
+    "postal_code": "68285"
   },
   {
     "code": "3511162007",
     "district_code": "351116",
-    "name": "Cangkring"
+    "name": "Cangkring",
+    "postal_code": "68285"
   },
   {
     "code": "3511162008",
     "district_code": "351116",
-    "name": "Walidono"
+    "name": "Walidono",
+    "postal_code": "68285"
   }
 ]

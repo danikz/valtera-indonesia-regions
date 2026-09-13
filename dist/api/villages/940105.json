@@ -2,16 +2,19 @@
   {
     "code": "9401052001",
     "district_code": "940105",
-    "name": "Bumi Mulia"
+    "name": "Bumi Mulia",
+    "postal_code": "98854"
   },
   {
     "code": "9401052002",
     "district_code": "940105",
-    "name": "Karadiri"
+    "name": "Karadiri",
+    "postal_code": "98856"
   },
   {
     "code": "9401052003",
     "district_code": "940105",
-    "name": "Wanggar Makmur"
+    "name": "Wanggar Makmur",
+    "postal_code": "98856"
   }
 ]

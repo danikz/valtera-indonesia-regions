@@ -2,61 +2,73 @@
   {
     "code": "3522182001",
     "district_code": "352218",
-    "name": "Pelem"
+    "name": "Pelem",
+    "postal_code": "62161"
   },
   {
     "code": "3522182002",
     "district_code": "352218",
-    "name": "Ngrejeng"
+    "name": "Ngrejeng",
+    "postal_code": "62161"
   },
   {
     "code": "3522182003",
     "district_code": "352218",
-    "name": "Tlatah"
+    "name": "Tlatah",
+    "postal_code": "62161"
   },
   {
     "code": "3522182004",
     "district_code": "352218",
-    "name": "Kaliombo"
+    "name": "Kaliombo",
+    "postal_code": "62161"
   },
   {
     "code": "3522182005",
     "district_code": "352218",
-    "name": "Tinumpuk"
+    "name": "Tinumpuk",
+    "postal_code": "62161"
   },
   {
     "code": "3522182006",
     "district_code": "352218",
-    "name": "Punggur"
+    "name": "Punggur",
+    "postal_code": "62161"
   },
   {
     "code": "3522182007",
     "district_code": "352218",
-    "name": "Sedahkidul"
+    "name": "Sedahkidul",
+    "postal_code": "62161"
   },
   {
     "code": "3522182008",
     "district_code": "352218",
-    "name": "Pojok"
+    "name": "Pojok",
+    "postal_code": "62161"
   },
   {
     "code": "3522182009",
     "district_code": "352218",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "62161"
   },
   {
     "code": "3522182010",
     "district_code": "352218",
-    "name": "Gapluk"
+    "name": "Gapluk",
+    "postal_code": "62161"
   },
   {
     "code": "3522182011",
     "district_code": "352218",
-    "name": "Kuniran"
+    "name": "Kuniran",
+    "postal_code": "62161"
   },
   {
     "code": "3522182012",
     "district_code": "352218",
-    "name": "Donan"
+    "name": "Donan",
+    "postal_code": "62161"
   }
 ]

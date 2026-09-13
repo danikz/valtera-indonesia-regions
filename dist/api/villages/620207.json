@@ -2,36 +2,43 @@
   {
     "code": "6202072001",
     "district_code": "620207",
-    "name": "Pondok Damar"
+    "name": "Pondok Damar",
+    "postal_code": "74361"
   },
   {
     "code": "6202072002",
     "district_code": "620207",
-    "name": "Bagendang Hilir"
+    "name": "Bagendang Hilir",
+    "postal_code": "74361"
   },
   {
     "code": "6202072003",
     "district_code": "620207",
-    "name": "Bagendang Tengah"
+    "name": "Bagendang Tengah",
+    "postal_code": "74361"
   },
   {
     "code": "6202072004",
     "district_code": "620207",
-    "name": "Natai Baru"
+    "name": "Natai Baru",
+    "postal_code": "74361"
   },
   {
     "code": "6202072005",
     "district_code": "620207",
-    "name": "Bagendang Hulu"
+    "name": "Bagendang Hulu",
+    "postal_code": "74361"
   },
   {
     "code": "6202072006",
     "district_code": "620207",
-    "name": "Sumber Makmur"
+    "name": "Sumber Makmur",
+    "postal_code": "74361"
   },
   {
     "code": "6202072007",
     "district_code": "620207",
-    "name": "Bagendang Permai"
+    "name": "Bagendang Permai",
+    "postal_code": "74361"
   }
 ]

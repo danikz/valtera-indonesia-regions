@@ -2,41 +2,49 @@
   {
     "code": "7172021001",
     "district_code": "717202",
-    "name": "Wangurer Barat"
+    "name": "Wangurer Barat",
+    "postal_code": "95541"
   },
   {
     "code": "7172021002",
     "district_code": "717202",
-    "name": "Paceda"
+    "name": "Paceda",
+    "postal_code": "95541"
   },
   {
     "code": "7172021003",
     "district_code": "717202",
-    "name": "Madidir Ure"
+    "name": "Madidir Ure",
+    "postal_code": "95515"
   },
   {
     "code": "7172021004",
     "district_code": "717202",
-    "name": "Kadoodan"
+    "name": "Kadoodan",
+    "postal_code": "95513"
   },
   {
     "code": "7172021006",
     "district_code": "717202",
-    "name": "Madidir Weru"
+    "name": "Madidir Weru",
+    "postal_code": "95514"
   },
   {
     "code": "7172021007",
     "district_code": "717202",
-    "name": "Madidir Unet"
+    "name": "Madidir Unet",
+    "postal_code": "95516"
   },
   {
     "code": "7172021009",
     "district_code": "717202",
-    "name": "Wangurer timur"
+    "name": "Wangurer timur",
+    "postal_code": "95541"
   },
   {
     "code": "7172021011",
     "district_code": "717202",
-    "name": "Wangurer Utara"
+    "name": "Wangurer Utara",
+    "postal_code": "95541"
   }
 ]

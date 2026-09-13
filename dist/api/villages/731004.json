@@ -2,46 +2,55 @@
   {
     "code": "7310041001",
     "district_code": "731004",
-    "name": "Jagong"
+    "name": "Jagong",
+    "postal_code": "90611"
   },
   {
     "code": "7310041002",
     "district_code": "731004",
-    "name": "Mappa Saile"
+    "name": "Mappa Saile",
+    "postal_code": "90617"
   },
   {
     "code": "7310041003",
     "district_code": "731004",
-    "name": "Pabundukang"
+    "name": "Pabundukang",
+    "postal_code": "90616"
   },
   {
     "code": "7310041004",
     "district_code": "731004",
-    "name": "Anrong Appaka"
+    "name": "Anrong Appaka",
+    "postal_code": "90612"
   },
   {
     "code": "7310041005",
     "district_code": "731004",
-    "name": "Sibatua"
+    "name": "Sibatua",
+    "postal_code": "90613"
   },
   {
     "code": "7310041006",
     "district_code": "731004",
-    "name": "Padoang Doangan"
+    "name": "Padoang Doangan",
+    "postal_code": "90617"
   },
   {
     "code": "7310041007",
     "district_code": "731004",
-    "name": "Tumampua"
+    "name": "Tumampua",
+    "postal_code": "90611"
   },
   {
     "code": "7310041008",
     "district_code": "731004",
-    "name": "Tekolabbua"
+    "name": "Tekolabbua",
+    "postal_code": "90617"
   },
   {
     "code": "7310041009",
     "district_code": "731004",
-    "name": "Bonto Perak"
+    "name": "Bonto Perak",
+    "postal_code": "90617"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "3524022001",
     "district_code": "352402",
-    "name": "Talunrejo"
+    "name": "Talunrejo",
+    "postal_code": "62274"
   },
   {
     "code": "3524022002",
     "district_code": "352402",
-    "name": "Banjargondang"
+    "name": "Banjargondang",
+    "postal_code": "62274"
   },
   {
     "code": "3524022003",
     "district_code": "352402",
-    "name": "Bluluk"
+    "name": "Bluluk",
+    "postal_code": "62274"
   },
   {
     "code": "3524022004",
     "district_code": "352402",
-    "name": "Cangkring"
+    "name": "Cangkring",
+    "postal_code": "62274"
   },
   {
     "code": "3524022005",
     "district_code": "352402",
-    "name": "Bronjong"
+    "name": "Bronjong",
+    "postal_code": "62274"
   },
   {
     "code": "3524022006",
     "district_code": "352402",
-    "name": "Songowareng"
+    "name": "Songowareng",
+    "postal_code": "62274"
   },
   {
     "code": "3524022007",
     "district_code": "352402",
-    "name": "Kuwurejo"
+    "name": "Kuwurejo",
+    "postal_code": "62274"
   },
   {
     "code": "3524022008",
     "district_code": "352402",
-    "name": "Sumberbanjar"
+    "name": "Sumberbanjar",
+    "postal_code": "62274"
   },
   {
     "code": "3524022009",
     "district_code": "352402",
-    "name": "Primpen"
+    "name": "Primpen",
+    "postal_code": "62274"
   }
 ]

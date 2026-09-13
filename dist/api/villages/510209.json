@@ -2,61 +2,73 @@
   {
     "code": "5102092001",
     "district_code": "510209",
-    "name": "Perean"
+    "name": "Perean",
+    "postal_code": "82191"
   },
   {
     "code": "5102092002",
     "district_code": "510209",
-    "name": "Luwus"
+    "name": "Luwus",
+    "postal_code": "82191"
   },
   {
     "code": "5102092003",
     "district_code": "510209",
-    "name": "Apuan"
+    "name": "Apuan",
+    "postal_code": "82191"
   },
   {
     "code": "5102092004",
     "district_code": "510209",
-    "name": "Angseri"
+    "name": "Angseri",
+    "postal_code": "82191"
   },
   {
     "code": "5102092005",
     "district_code": "510209",
-    "name": "Bangli"
+    "name": "Bangli",
+    "postal_code": "82191"
   },
   {
     "code": "5102092006",
     "district_code": "510209",
-    "name": "Baturiti"
+    "name": "Baturiti",
+    "postal_code": "82191"
   },
   {
     "code": "5102092007",
     "district_code": "510209",
-    "name": "Antapan"
+    "name": "Antapan",
+    "postal_code": "82191"
   },
   {
     "code": "5102092008",
     "district_code": "510209",
-    "name": "Candikuning"
+    "name": "Candikuning",
+    "postal_code": "82191"
   },
   {
     "code": "5102092009",
     "district_code": "510209",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "82191"
   },
   {
     "code": "5102092010",
     "district_code": "510209",
-    "name": "Batunya"
+    "name": "Batunya",
+    "postal_code": "82191"
   },
   {
     "code": "5102092011",
     "district_code": "510209",
-    "name": "Perean Tengah"
+    "name": "Perean Tengah",
+    "postal_code": "82191"
   },
   {
     "code": "5102092012",
     "district_code": "510209",
-    "name": "Perean Kangin"
+    "name": "Perean Kangin",
+    "postal_code": "82191"
   }
 ]

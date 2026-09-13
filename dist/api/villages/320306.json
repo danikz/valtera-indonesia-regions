@@ -2,56 +2,67 @@
   {
     "code": "3203062001",
     "district_code": "320306",
-    "name": "Hegarmanah"
+    "name": "Hegarmanah",
+    "postal_code": "43283"
   },
   {
     "code": "3203062002",
     "district_code": "320306",
-    "name": "Bojongpicung"
+    "name": "Bojongpicung",
+    "postal_code": "43283"
   },
   {
     "code": "3203062004",
     "district_code": "320306",
-    "name": "Cibarengkok"
+    "name": "Cibarengkok",
+    "postal_code": "43283"
   },
   {
     "code": "3203062006",
     "district_code": "320306",
-    "name": "Kemang"
+    "name": "Kemang",
+    "postal_code": "43283"
   },
   {
     "code": "3203062007",
     "district_code": "320306",
-    "name": "Sukajaya"
+    "name": "Sukajaya",
+    "postal_code": "43283"
   },
   {
     "code": "3203062008",
     "district_code": "320306",
-    "name": "Jati"
+    "name": "Jati",
+    "postal_code": "43283"
   },
   {
     "code": "3203062009",
     "district_code": "320306",
-    "name": "Cikondang"
+    "name": "Cikondang",
+    "postal_code": "43283"
   },
   {
     "code": "3203062010",
     "district_code": "320306",
-    "name": "Sukarama"
+    "name": "Sukarama",
+    "postal_code": "43283"
   },
   {
     "code": "3203062012",
     "district_code": "320306",
-    "name": "Sukaratu"
+    "name": "Sukaratu",
+    "postal_code": "43283"
   },
   {
     "code": "3203062013",
     "district_code": "320306",
-    "name": "Neglasari"
+    "name": "Neglasari",
+    "postal_code": "43283"
   },
   {
     "code": "3203062014",
     "district_code": "320306",
-    "name": "Jatisari"
+    "name": "Jatisari",
+    "postal_code": "43283"
   }
 ]

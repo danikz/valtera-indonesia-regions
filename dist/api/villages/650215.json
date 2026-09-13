@@ -2,26 +2,31 @@
   {
     "code": "6502152001",
     "district_code": "650215",
-    "name": "Long Nyau"
+    "name": "Long Nyau",
+    "postal_code": "77556"
   },
   {
     "code": "6502152002",
     "district_code": "650215",
-    "name": "Long Titi"
+    "name": "Long Titi",
+    "postal_code": "77556"
   },
   {
     "code": "6502152003",
     "district_code": "650215",
-    "name": "Long Ranau"
+    "name": "Long Ranau",
+    "postal_code": "77556"
   },
   {
     "code": "6502152004",
     "district_code": "650215",
-    "name": "Rian Tubu"
+    "name": "Rian Tubu",
+    "postal_code": "77556"
   },
   {
     "code": "6502152005",
     "district_code": "650215",
-    "name": "Long Pada"
+    "name": "Long Pada",
+    "postal_code": "77556"
   }
 ]

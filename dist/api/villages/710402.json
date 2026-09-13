@@ -2,31 +2,37 @@
   {
     "code": "7104021005",
     "district_code": "710402",
-    "name": "B e o"
+    "name": "B e o",
+    "postal_code": "95876"
   },
   {
     "code": "7104021017",
     "district_code": "710402",
-    "name": "Beo Timur"
+    "name": "Beo Timur",
+    "postal_code": "95876"
   },
   {
     "code": "7104021018",
     "district_code": "710402",
-    "name": "Beo Barat"
+    "name": "Beo Barat",
+    "postal_code": "95876"
   },
   {
     "code": "7104022011",
     "district_code": "710402",
-    "name": "Bantik"
+    "name": "Bantik",
+    "postal_code": "95876"
   },
   {
     "code": "7104022019",
     "district_code": "710402",
-    "name": "Bengel"
+    "name": "Bengel",
+    "postal_code": "95876"
   },
   {
     "code": "7104022020",
     "district_code": "710402",
-    "name": "Bantik Lama"
+    "name": "Bantik Lama",
+    "postal_code": "95876"
   }
 ]

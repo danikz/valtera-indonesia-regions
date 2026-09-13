@@ -2,36 +2,43 @@
   {
     "code": "1275021001",
     "district_code": "127502",
-    "name": "Berngam"
+    "name": "Berngam",
+    "postal_code": "20715"
   },
   {
     "code": "1275021002",
     "district_code": "127502",
-    "name": "Satria"
+    "name": "Satria",
+    "postal_code": "20714"
   },
   {
     "code": "1275021003",
     "district_code": "127502",
-    "name": "Setia"
+    "name": "Setia",
+    "postal_code": "20713"
   },
   {
     "code": "1275021004",
     "district_code": "127502",
-    "name": "Kartini"
+    "name": "Kartini",
+    "postal_code": "20713"
   },
   {
     "code": "1275021005",
     "district_code": "127502",
-    "name": "Tangsi"
+    "name": "Tangsi",
+    "postal_code": "20714"
   },
   {
     "code": "1275021006",
     "district_code": "127502",
-    "name": "Binjai"
+    "name": "Binjai",
+    "postal_code": "20712"
   },
   {
     "code": "1275021007",
     "district_code": "127502",
-    "name": "Pekan Binjai"
+    "name": "Pekan Binjai",
+    "postal_code": "20711"
   }
 ]

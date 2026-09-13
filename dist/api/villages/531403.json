@@ -2,91 +2,109 @@
   {
     "code": "5314031001",
     "district_code": "531403",
-    "name": "Namodale"
+    "name": "Namodale",
+    "postal_code": "85918"
   },
   {
     "code": "5314031009",
     "district_code": "531403",
-    "name": "Mokdale"
+    "name": "Mokdale",
+    "postal_code": "85914"
   },
   {
     "code": "5314031011",
     "district_code": "531403",
-    "name": "Metina"
+    "name": "Metina",
+    "postal_code": "85918"
   },
   {
     "code": "5314032002",
     "district_code": "531403",
-    "name": "Kuli"
+    "name": "Kuli",
+    "postal_code": "85918"
   },
   {
     "code": "5314032003",
     "district_code": "531403",
-    "name": "Bebalain"
+    "name": "Bebalain",
+    "postal_code": "85918"
   },
   {
     "code": "5314032004",
     "district_code": "531403",
-    "name": "Kolobolon"
+    "name": "Kolobolon",
+    "postal_code": "85918"
   },
   {
     "code": "5314032005",
     "district_code": "531403",
-    "name": "Helebeik"
+    "name": "Helebeik",
+    "postal_code": "85918"
   },
   {
     "code": "5314032006",
     "district_code": "531403",
-    "name": "Sanggaoen"
+    "name": "Sanggaoen",
+    "postal_code": "85916"
   },
   {
     "code": "5314032007",
     "district_code": "531403",
-    "name": "Holoama"
+    "name": "Holoama",
+    "postal_code": "85918"
   },
   {
     "code": "5314032008",
     "district_code": "531403",
-    "name": "Tuanatuk"
+    "name": "Tuanatuk",
+    "postal_code": "85913"
   },
   {
     "code": "5314032010",
     "district_code": "531403",
-    "name": "Oelunggu"
+    "name": "Oelunggu",
+    "postal_code": "85917"
   },
   {
     "code": "5314032012",
     "district_code": "531403",
-    "name": "Oematamboli"
+    "name": "Oematamboli",
+    "postal_code": "85918"
   },
   {
     "code": "5314032013",
     "district_code": "531403",
-    "name": "Suelain"
+    "name": "Suelain",
+    "postal_code": "85918"
   },
   {
     "code": "5314032014",
     "district_code": "531403",
-    "name": "Baadale"
+    "name": "Baadale",
+    "postal_code": "85912"
   },
   {
     "code": "5314032015",
     "district_code": "531403",
-    "name": "Lekunik"
+    "name": "Lekunik",
+    "postal_code": "85916"
   },
   {
     "code": "5314032016",
     "district_code": "531403",
-    "name": "Loleoen"
+    "name": "Loleoen",
+    "postal_code": "85918"
   },
   {
     "code": "5314032017",
     "district_code": "531403",
-    "name": "Kuli Aisele"
+    "name": "Kuli Aisele",
+    "postal_code": "85918"
   },
   {
     "code": "5314032018",
     "district_code": "531403",
-    "name": "Oeleka"
+    "name": "Oeleka",
+    "postal_code": "85917"
   }
 ]

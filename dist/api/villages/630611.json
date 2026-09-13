@@ -2,36 +2,43 @@
   {
     "code": "6306112001",
     "district_code": "630611",
-    "name": "Siang Gantung"
+    "name": "Siang Gantung",
+    "postal_code": "71252"
   },
   {
     "code": "6306112002",
     "district_code": "630611",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "71252"
   },
   {
     "code": "6306112003",
     "district_code": "630611",
-    "name": "Tanjung Selor"
+    "name": "Tanjung Selor",
+    "postal_code": "71252"
   },
   {
     "code": "6306112004",
     "district_code": "630611",
-    "name": "Badaun"
+    "name": "Badaun",
+    "postal_code": "71252"
   },
   {
     "code": "6306112005",
     "district_code": "630611",
-    "name": "Bajayau"
+    "name": "Bajayau",
+    "postal_code": "71252"
   },
   {
     "code": "6306112006",
     "district_code": "630611",
-    "name": "Bajayau Tengah"
+    "name": "Bajayau Tengah",
+    "postal_code": "71252"
   },
   {
     "code": "6306112007",
     "district_code": "630611",
-    "name": "Bajayau Lama"
+    "name": "Bajayau Lama",
+    "postal_code": "71252"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "5307051006",
     "district_code": "530705",
-    "name": "Madawat"
+    "name": "Madawat",
+    "postal_code": "86112"
   },
   {
     "code": "5307051007",
     "district_code": "530705",
-    "name": "Nangalimang"
+    "name": "Nangalimang",
+    "postal_code": "86118"
   },
   {
     "code": "5307051008",
     "district_code": "530705",
-    "name": "Kabor"
+    "name": "Kabor",
+    "postal_code": "86112"
   },
   {
     "code": "5307051009",
     "district_code": "530705",
-    "name": "Kota Uneng"
+    "name": "Kota Uneng",
+    "postal_code": "86113"
   },
   {
     "code": "5307052014",
     "district_code": "530705",
-    "name": "Pemana"
+    "name": "Pemana",
+    "postal_code": "86116"
   },
   {
     "code": "5307052015",
     "district_code": "530705",
-    "name": "Samparong"
+    "name": "Samparong",
+    "postal_code": "86116"
   },
   {
     "code": "5307052016",
     "district_code": "530705",
-    "name": "Gunung Sari"
+    "name": "Gunung Sari",
+    "postal_code": "86116"
   }
 ]

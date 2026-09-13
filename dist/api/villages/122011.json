@@ -2,71 +2,85 @@
   {
     "code": "1220112001",
     "district_code": "122011",
-    "name": "Siancimun"
+    "name": "Siancimun",
+    "postal_code": "22752"
   },
   {
     "code": "1220112002",
     "district_code": "122011",
-    "name": "Bolatan"
+    "name": "Bolatan",
+    "postal_code": "22752"
   },
   {
     "code": "1220112003",
     "district_code": "122011",
-    "name": "Pasir Bara"
+    "name": "Pasir Bara",
+    "postal_code": "22752"
   },
   {
     "code": "1220112004",
     "district_code": "122011",
-    "name": "Gunung Intan"
+    "name": "Gunung Intan",
+    "postal_code": "22752"
   },
   {
     "code": "1220112005",
     "district_code": "122011",
-    "name": "Mompang I"
+    "name": "Mompang I",
+    "postal_code": "22752"
   },
   {
     "code": "1220112006",
     "district_code": "122011",
-    "name": "Gunung Manaon III"
+    "name": "Gunung Manaon III",
+    "postal_code": "22752"
   },
   {
     "code": "1220112007",
     "district_code": "122011",
-    "name": "Sihopuk Baru"
+    "name": "Sihopuk Baru",
+    "postal_code": "22752"
   },
   {
     "code": "1220112008",
     "district_code": "122011",
-    "name": "Sihopuk Lama"
+    "name": "Sihopuk Lama",
+    "postal_code": "22752"
   },
   {
     "code": "1220112009",
     "district_code": "122011",
-    "name": "Rondaman"
+    "name": "Rondaman",
+    "postal_code": "22752"
   },
   {
     "code": "1220112010",
     "district_code": "122011",
-    "name": "Hutabaru Nangka"
+    "name": "Hutabaru Nangka",
+    "postal_code": "22752"
   },
   {
     "code": "1220112011",
     "district_code": "122011",
-    "name": "Situmbaga"
+    "name": "Situmbaga",
+    "postal_code": "22752"
   },
   {
     "code": "1220112012",
     "district_code": "122011",
-    "name": "Batang Pane I"
+    "name": "Batang Pane I",
+    "postal_code": "22752"
   },
   {
     "code": "1220112013",
     "district_code": "122011",
-    "name": "Batang Pane II"
+    "name": "Batang Pane II",
+    "postal_code": "22752"
   },
   {
     "code": "1220112014",
     "district_code": "122011",
-    "name": "Batang Pane III"
+    "name": "Batang Pane III",
+    "postal_code": "22752"
   }
 ]

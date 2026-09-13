@@ -2,101 +2,121 @@
   {
     "code": "1612011003",
     "district_code": "161201",
-    "name": "Talang Ubi Timur"
+    "name": "Talang Ubi Timur",
+    "postal_code": "31213"
   },
   {
     "code": "1612011010",
     "district_code": "161201",
-    "name": "Talang Ubi Barat"
+    "name": "Talang Ubi Barat",
+    "postal_code": "31211"
   },
   {
     "code": "1612011011",
     "district_code": "161201",
-    "name": "Talang Ubi Utara"
+    "name": "Talang Ubi Utara",
+    "postal_code": "31214"
   },
   {
     "code": "1612011012",
     "district_code": "161201",
-    "name": "Talang Ubi Selatan"
+    "name": "Talang Ubi Selatan",
+    "postal_code": "31212"
   },
   {
     "code": "1612011017",
     "district_code": "161201",
-    "name": "Pasar Bhayangkara"
+    "name": "Pasar Bhayangkara",
+    "postal_code": "31214"
   },
   {
     "code": "1612011018",
     "district_code": "161201",
-    "name": "Handayani Mulya"
+    "name": "Handayani Mulya",
+    "postal_code": "31214"
   },
   {
     "code": "1612012001",
     "district_code": "161201",
-    "name": "Talang Bulang"
+    "name": "Talang Bulang",
+    "postal_code": "31214"
   },
   {
     "code": "1612012002",
     "district_code": "161201",
-    "name": "Benuang"
+    "name": "Benuang",
+    "postal_code": "31214"
   },
   {
     "code": "1612012004",
     "district_code": "161201",
-    "name": "Talang Akar"
+    "name": "Talang Akar",
+    "postal_code": "31214"
   },
   {
     "code": "1612012005",
     "district_code": "161201",
-    "name": "Sungai Ibul"
+    "name": "Sungai Ibul",
+    "postal_code": "31214"
   },
   {
     "code": "1612012006",
     "district_code": "161201",
-    "name": "Karta Dewa"
+    "name": "Karta Dewa",
+    "postal_code": "31214"
   },
   {
     "code": "1612012007",
     "district_code": "161201",
-    "name": "Panta Dewa"
+    "name": "Panta Dewa",
+    "postal_code": "31214"
   },
   {
     "code": "1612012008",
     "district_code": "161201",
-    "name": "Sungai Baung"
+    "name": "Sungai Baung",
+    "postal_code": "31214"
   },
   {
     "code": "1612012009",
     "district_code": "161201",
-    "name": "Semangus"
+    "name": "Semangus",
+    "postal_code": "31214"
   },
   {
     "code": "1612012013",
     "district_code": "161201",
-    "name": "Sinar Dewa"
+    "name": "Sinar Dewa",
+    "postal_code": "31214"
   },
   {
     "code": "1612012014",
     "district_code": "161201",
-    "name": "Benakat Minyak"
+    "name": "Benakat Minyak",
+    "postal_code": "31214"
   },
   {
     "code": "1612012015",
     "district_code": "161201",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "31214"
   },
   {
     "code": "1612012016",
     "district_code": "161201",
-    "name": "Suka Damai"
+    "name": "Suka Damai",
+    "postal_code": "31214"
   },
   {
     "code": "1612012019",
     "district_code": "161201",
-    "name": "Beruge Darat"
+    "name": "Beruge Darat",
+    "postal_code": "31214"
   },
   {
     "code": "1612012020",
     "district_code": "161201",
-    "name": "Simpang Tais"
+    "name": "Simpang Tais",
+    "postal_code": "31214"
   }
 ]

@@ -2,81 +2,97 @@
   {
     "code": "1608011007",
     "district_code": "160801",
-    "name": "Dusun Martapura"
+    "name": "Dusun Martapura",
+    "postal_code": "32313"
   },
   {
     "code": "1608011008",
     "district_code": "160801",
-    "name": "Pasar Martapura"
+    "name": "Pasar Martapura",
+    "postal_code": "32312"
   },
   {
     "code": "1608011014",
     "district_code": "160801",
-    "name": "Paku Sengkunyit"
+    "name": "Paku Sengkunyit",
+    "postal_code": "32314"
   },
   {
     "code": "1608011016",
     "district_code": "160801",
-    "name": "Bukit Sari"
+    "name": "Bukit Sari",
+    "postal_code": "32315"
   },
   {
     "code": "1608011017",
     "district_code": "160801",
-    "name": "Sunagituha Jaya"
+    "name": "Sunagituha Jaya",
+    "postal_code": "32315"
   },
   {
     "code": "1608011018",
     "district_code": "160801",
-    "name": "Terukis Rahayu"
+    "name": "Terukis Rahayu",
+    "postal_code": "32315"
   },
   {
     "code": "1608011019",
     "district_code": "160801",
-    "name": "Veteran Jaya"
+    "name": "Veteran Jaya",
+    "postal_code": "32315"
   },
   {
     "code": "1608012006",
     "district_code": "160801",
-    "name": "Tanjung Kemala"
+    "name": "Tanjung Kemala",
+    "postal_code": "32315"
   },
   {
     "code": "1608012009",
     "district_code": "160801",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "32311"
   },
   {
     "code": "1608012010",
     "district_code": "160801",
-    "name": "Keromongan"
+    "name": "Keromongan",
+    "postal_code": "32316"
   },
   {
     "code": "1608012011",
     "district_code": "160801",
-    "name": "Perjaya"
+    "name": "Perjaya",
+    "postal_code": "32318"
   },
   {
     "code": "1608012015",
     "district_code": "160801",
-    "name": "Sukomulyo"
+    "name": "Sukomulyo",
+    "postal_code": "32319"
   },
   {
     "code": "1608012020",
     "district_code": "160801",
-    "name": "Kotabaru Barat"
+    "name": "Kotabaru Barat",
+    "postal_code": "32315"
   },
   {
     "code": "1608012021",
     "district_code": "160801",
-    "name": "Kotabaru Selatan"
+    "name": "Kotabaru Selatan",
+    "postal_code": "32315"
   },
   {
     "code": "1608012022",
     "district_code": "160801",
-    "name": "Perjaya Barat"
+    "name": "Perjaya Barat",
+    "postal_code": "32317"
   },
   {
     "code": "1608012023",
     "district_code": "160801",
-    "name": "Tanjung Kemala Barat"
+    "name": "Tanjung Kemala Barat",
+    "postal_code": "32315"
   }
 ]

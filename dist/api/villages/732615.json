@@ -2,36 +2,43 @@
   {
     "code": "7326151003",
     "district_code": "732615",
-    "name": "Ba'tan"
+    "name": "Ba'tan",
+    "postal_code": "91852"
   },
   {
     "code": "7326151004",
     "district_code": "732615",
-    "name": "Pantanakan Lolo"
+    "name": "Pantanakan Lolo",
+    "postal_code": "91852"
   },
   {
     "code": "7326152001",
     "district_code": "732615",
-    "name": "Tallu Lodo"
+    "name": "Tallu Lodo",
+    "postal_code": "91852"
   },
   {
     "code": "7326152002",
     "district_code": "732615",
-    "name": "Rinding Batu"
+    "name": "Rinding Batu",
+    "postal_code": "91852"
   },
   {
     "code": "7326152005",
     "district_code": "732615",
-    "name": "Angin-angin"
+    "name": "Angin-angin",
+    "postal_code": "91852"
   },
   {
     "code": "7326152006",
     "district_code": "732615",
-    "name": "Sangbua'"
+    "name": "Sangbua'",
+    "postal_code": "91852"
   },
   {
     "code": "7326152007",
     "district_code": "732615",
-    "name": "Tadongkon"
+    "name": "Tadongkon",
+    "postal_code": "91852"
   }
 ]

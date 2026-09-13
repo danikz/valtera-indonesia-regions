@@ -2,51 +2,61 @@
   {
     "code": "1277041001",
     "district_code": "127704",
-    "name": "Hutaimbaru"
+    "name": "Hutaimbaru",
+    "postal_code": "22701"
   },
   {
     "code": "1277041002",
     "district_code": "127704",
-    "name": "Lubuk Raya"
+    "name": "Lubuk Raya",
+    "postal_code": "22703"
   },
   {
     "code": "1277041003",
     "district_code": "127704",
-    "name": "Sabungan Jae"
+    "name": "Sabungan Jae",
+    "postal_code": "22706"
   },
   {
     "code": "1277041004",
     "district_code": "127704",
-    "name": "Lembah Lubuk Manik"
+    "name": "Lembah Lubuk Manik",
+    "postal_code": "22702"
   },
   {
     "code": "1277041005",
     "district_code": "127704",
-    "name": "Palopat Maria"
+    "name": "Palopat Maria",
+    "postal_code": "22704"
   },
   {
     "code": "1277042006",
     "district_code": "127704",
-    "name": "Sabungan Sipabangun"
+    "name": "Sabungan Sipabangun",
+    "postal_code": "22707"
   },
   {
     "code": "1277042007",
     "district_code": "127704",
-    "name": "Singali"
+    "name": "Singali",
+    "postal_code": "22708"
   },
   {
     "code": "1277042008",
     "district_code": "127704",
-    "name": "Huta Padang"
+    "name": "Huta Padang",
+    "postal_code": "22700"
   },
   {
     "code": "1277042009",
     "district_code": "127704",
-    "name": "Partihaman Saroha"
+    "name": "Partihaman Saroha",
+    "postal_code": "22705"
   },
   {
     "code": "1277042010",
     "district_code": "127704",
-    "name": "Tinjoman Lama"
+    "name": "Tinjoman Lama",
+    "postal_code": "22709"
   }
 ]

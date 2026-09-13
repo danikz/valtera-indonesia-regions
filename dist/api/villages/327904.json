@@ -2,31 +2,37 @@
   {
     "code": "3279041004",
     "district_code": "327904",
-    "name": "Muktisari"
+    "name": "Muktisari",
+    "postal_code": "46343"
   },
   {
     "code": "3279041005",
     "district_code": "327904",
-    "name": "Bojongkantong"
+    "name": "Bojongkantong",
+    "postal_code": "46325"
   },
   {
     "code": "3279042001",
     "district_code": "327904",
-    "name": "Langensari"
+    "name": "Langensari",
+    "postal_code": "46324"
   },
   {
     "code": "3279042002",
     "district_code": "327904",
-    "name": "Rejasari"
+    "name": "Rejasari",
+    "postal_code": "46344"
   },
   {
     "code": "3279042003",
     "district_code": "327904",
-    "name": "Waringinsari"
+    "name": "Waringinsari",
+    "postal_code": "46342"
   },
   {
     "code": "3279042006",
     "district_code": "327904",
-    "name": "Kujangsari"
+    "name": "Kujangsari",
+    "postal_code": "46324"
   }
 ]

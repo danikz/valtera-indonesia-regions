@@ -2,56 +2,67 @@
   {
     "code": "1224052001",
     "district_code": "122405",
-    "name": "Berua"
+    "name": "Berua",
+    "postal_code": "22816"
   },
   {
     "code": "1224052002",
     "district_code": "122405",
-    "name": "Esiwa"
+    "name": "Esiwa",
+    "postal_code": "22816"
   },
   {
     "code": "1224052003",
     "district_code": "122405",
-    "name": "Dahana Hiligodu"
+    "name": "Dahana Hiligodu",
+    "postal_code": "22816"
   },
   {
     "code": "1224052004",
     "district_code": "122405",
-    "name": "Hilibanua"
+    "name": "Hilibanua",
+    "postal_code": "22816"
   },
   {
     "code": "1224052005",
     "district_code": "122405",
-    "name": "Sisarahili"
+    "name": "Sisarahili",
+    "postal_code": "22816"
   },
   {
     "code": "1224052006",
     "district_code": "122405",
-    "name": "Sisobahili"
+    "name": "Sisobahili",
+    "postal_code": "22817"
   },
   {
     "code": "1224052007",
     "district_code": "122405",
-    "name": "Lasara"
+    "name": "Lasara",
+    "postal_code": "22816"
   },
   {
     "code": "1224052008",
     "district_code": "122405",
-    "name": "Namohalu"
+    "name": "Namohalu",
+    "postal_code": "22816"
   },
   {
     "code": "1224052009",
     "district_code": "122405",
-    "name": "Tuhenakhe I"
+    "name": "Tuhenakhe I",
+    "postal_code": "22816"
   },
   {
     "code": "1224052010",
     "district_code": "122405",
-    "name": "Orahili"
+    "name": "Orahili",
+    "postal_code": "22816"
   },
   {
     "code": "1224052011",
     "district_code": "122405",
-    "name": "Banua Sibohou"
+    "name": "Banua Sibohou",
+    "postal_code": "22816"
   }
 ]

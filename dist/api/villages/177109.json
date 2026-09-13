@@ -2,31 +2,37 @@
   {
     "code": "1771091001",
     "district_code": "177109",
-    "name": "Panorama"
+    "name": "Panorama",
+    "postal_code": "38226"
   },
   {
     "code": "1771091002",
     "district_code": "177109",
-    "name": "Jembatan Kecil"
+    "name": "Jembatan Kecil",
+    "postal_code": "38224"
   },
   {
     "code": "1771091003",
     "district_code": "177109",
-    "name": "Dusun Besar"
+    "name": "Dusun Besar",
+    "postal_code": "38229"
   },
   {
     "code": "1771091004",
     "district_code": "177109",
-    "name": "Padang Nangka"
+    "name": "Padang Nangka",
+    "postal_code": "38221"
   },
   {
     "code": "1771091005",
     "district_code": "177109",
-    "name": "Timur Indah"
+    "name": "Timur Indah",
+    "postal_code": "38221"
   },
   {
     "code": "1771091006",
     "district_code": "177109",
-    "name": "Lingkar Timur"
+    "name": "Lingkar Timur",
+    "postal_code": "38221"
   }
 ]

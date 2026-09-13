@@ -2,36 +2,43 @@
   {
     "code": "8206012006",
     "district_code": "820601",
-    "name": "Subaim"
+    "name": "Subaim",
+    "postal_code": "97865"
   },
   {
     "code": "8206012008",
     "district_code": "820601",
-    "name": "Cemara Jaya"
+    "name": "Cemara Jaya",
+    "postal_code": "97865"
   },
   {
     "code": "8206012009",
     "district_code": "820601",
-    "name": "Bumi Restu"
+    "name": "Bumi Restu",
+    "postal_code": "97865"
   },
   {
     "code": "8206012014",
     "district_code": "820601",
-    "name": "Batu Raja"
+    "name": "Batu Raja",
+    "postal_code": "97865"
   },
   {
     "code": "8206012015",
     "district_code": "820601",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "97865"
   },
   {
     "code": "8206012016",
     "district_code": "820601",
-    "name": "Bulapapo"
+    "name": "Bulapapo",
+    "postal_code": "97865"
   },
   {
     "code": "8206012027",
     "district_code": "820601",
-    "name": "Waisuba"
+    "name": "Waisuba",
+    "postal_code": "97865"
   }
 ]

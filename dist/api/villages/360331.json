@@ -2,36 +2,43 @@
   {
     "code": "3603312001",
     "district_code": "360331",
-    "name": "Solear"
+    "name": "Solear",
+    "postal_code": "15731"
   },
   {
     "code": "3603312002",
     "district_code": "360331",
-    "name": "Cikuya"
+    "name": "Cikuya",
+    "postal_code": "15731"
   },
   {
     "code": "3603312003",
     "district_code": "360331",
-    "name": "Cikasungka"
+    "name": "Cikasungka",
+    "postal_code": "15731"
   },
   {
     "code": "3603312004",
     "district_code": "360331",
-    "name": "Cireundeu"
+    "name": "Cireundeu",
+    "postal_code": "15731"
   },
   {
     "code": "3603312005",
     "district_code": "360331",
-    "name": "Cikareo"
+    "name": "Cikareo",
+    "postal_code": "15731"
   },
   {
     "code": "3603312006",
     "district_code": "360331",
-    "name": "Pasanggrahan"
+    "name": "Pasanggrahan",
+    "postal_code": "15731"
   },
   {
     "code": "3603312007",
     "district_code": "360331",
-    "name": "Munjul"
+    "name": "Munjul",
+    "postal_code": "15731"
   }
 ]

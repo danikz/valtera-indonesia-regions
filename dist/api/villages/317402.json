@@ -2,41 +2,49 @@
   {
     "code": "3174021001",
     "district_code": "317402",
-    "name": "Setia Budi"
+    "name": "Setia Budi",
+    "postal_code": "12910"
   },
   {
     "code": "3174021002",
     "district_code": "317402",
-    "name": "Karet Semanggi"
+    "name": "Karet Semanggi",
+    "postal_code": "12930"
   },
   {
     "code": "3174021003",
     "district_code": "317402",
-    "name": "Karet Kuningan"
+    "name": "Karet Kuningan",
+    "postal_code": "12940"
   },
   {
     "code": "3174021004",
     "district_code": "317402",
-    "name": "Karet"
+    "name": "Karet",
+    "postal_code": "12920"
   },
   {
     "code": "3174021005",
     "district_code": "317402",
-    "name": "Menteng Atas"
+    "name": "Menteng Atas",
+    "postal_code": "12960"
   },
   {
     "code": "3174021006",
     "district_code": "317402",
-    "name": "Pasar Manggis"
+    "name": "Pasar Manggis",
+    "postal_code": "12970"
   },
   {
     "code": "3174021007",
     "district_code": "317402",
-    "name": "Guntur"
+    "name": "Guntur",
+    "postal_code": "12980"
   },
   {
     "code": "3174021008",
     "district_code": "317402",
-    "name": "Kuningan Timur"
+    "name": "Kuningan Timur",
+    "postal_code": "12950"
   }
 ]

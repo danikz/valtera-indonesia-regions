@@ -2,41 +2,49 @@
   {
     "code": "3216012001",
     "district_code": "321601",
-    "name": "Sagara Makmur"
+    "name": "Sagara Makmur",
+    "postal_code": "17211"
   },
   {
     "code": "3216012002",
     "district_code": "321601",
-    "name": "Segarajaya"
+    "name": "Segarajaya",
+    "postal_code": "17218"
   },
   {
     "code": "3216012003",
     "district_code": "321601",
-    "name": "Pusaka Rakyat"
+    "name": "Pusaka Rakyat",
+    "postal_code": "17214"
   },
   {
     "code": "3216012004",
     "district_code": "321601",
-    "name": "Pahlawan Setia"
+    "name": "Pahlawan Setia",
+    "postal_code": "17216"
   },
   {
     "code": "3216012005",
     "district_code": "321601",
-    "name": "Setia Mulya"
+    "name": "Setia Mulya",
+    "postal_code": "17213"
   },
   {
     "code": "3216012006",
     "district_code": "321601",
-    "name": "Samudra Jaya"
+    "name": "Samudra Jaya",
+    "postal_code": "17217"
   },
   {
     "code": "3216012007",
     "district_code": "321601",
-    "name": "Setia Asih"
+    "name": "Setia Asih",
+    "postal_code": ""
   },
   {
     "code": "3216012008",
     "district_code": "321601",
-    "name": "Pantai Makmur"
+    "name": "Pantai Makmur",
+    "postal_code": "17212"
   }
 ]

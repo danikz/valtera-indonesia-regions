@@ -2,56 +2,67 @@
   {
     "code": "9301092001",
     "district_code": "930109",
-    "name": "Selil"
+    "name": "Selil",
+    "postal_code": "99635"
   },
   {
     "code": "9301092002",
     "district_code": "930109",
-    "name": "Kindiki"
+    "name": "Kindiki",
+    "postal_code": "99635"
   },
   {
     "code": "9301092003",
     "district_code": "930109",
-    "name": "Kumaaf"
+    "name": "Kumaaf",
+    "postal_code": "99635"
   },
   {
     "code": "9301092004",
     "district_code": "930109",
-    "name": "Nggayu"
+    "name": "Nggayu",
+    "postal_code": "99635"
   },
   {
     "code": "9301092005",
     "district_code": "930109",
-    "name": "Kafyamke"
+    "name": "Kafyamke",
+    "postal_code": "99635"
   },
   {
     "code": "9301092006",
     "district_code": "930109",
-    "name": "Mandekman"
+    "name": "Mandekman",
+    "postal_code": "99635"
   },
   {
     "code": "9301092007",
     "district_code": "930109",
-    "name": "Rawa Hayu"
+    "name": "Rawa Hayu",
+    "postal_code": "99635"
   },
   {
     "code": "9301092008",
     "district_code": "930109",
-    "name": "Belbeland"
+    "name": "Belbeland",
+    "postal_code": "99635"
   },
   {
     "code": "9301092009",
     "district_code": "930109",
-    "name": "Kireli"
+    "name": "Kireli",
+    "postal_code": "99635"
   },
   {
     "code": "9301092010",
     "district_code": "930109",
-    "name": "Kandrakai"
+    "name": "Kandrakai",
+    "postal_code": "99635"
   },
   {
     "code": "9301092011",
     "district_code": "930109",
-    "name": "Baidub"
+    "name": "Baidub",
+    "postal_code": "99635"
   }
 ]

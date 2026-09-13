@@ -2,56 +2,67 @@
   {
     "code": "7305031001",
     "district_code": "730503",
-    "name": "Pa'bundukang"
+    "name": "Pa'bundukang",
+    "postal_code": "92252"
   },
   {
     "code": "7305031002",
     "district_code": "730503",
-    "name": "Pattene"
+    "name": "Pattene",
+    "postal_code": "92252"
   },
   {
     "code": "7305031003",
     "district_code": "730503",
-    "name": "Bontokadatto"
+    "name": "Bontokadatto",
+    "postal_code": "92252"
   },
   {
     "code": "7305031004",
     "district_code": "730503",
-    "name": "Canrego"
+    "name": "Canrego",
+    "postal_code": "92252"
   },
   {
     "code": "7305031005",
     "district_code": "730503",
-    "name": "Bulukunyi"
+    "name": "Bulukunyi",
+    "postal_code": "92252"
   },
   {
     "code": "7305031010",
     "district_code": "730503",
-    "name": "Rajaya"
+    "name": "Rajaya",
+    "postal_code": "92252"
   },
   {
     "code": "7305032006",
     "district_code": "730503",
-    "name": "Moncongkomba"
+    "name": "Moncongkomba",
+    "postal_code": "92252"
   },
   {
     "code": "7305032007",
     "district_code": "730503",
-    "name": "Cakura"
+    "name": "Cakura",
+    "postal_code": "92252"
   },
   {
     "code": "7305032008",
     "district_code": "730503",
-    "name": "Lantang"
+    "name": "Lantang",
+    "postal_code": "92252"
   },
   {
     "code": "7305032009",
     "district_code": "730503",
-    "name": "Su'rulangi"
+    "name": "Su'rulangi",
+    "postal_code": "92252"
   },
   {
     "code": "7305032011",
     "district_code": "730503",
-    "name": "Kale Lantang"
+    "name": "Kale Lantang",
+    "postal_code": "92252"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "3273281001",
     "district_code": "327328",
-    "name": "Cipadung Kulon"
+    "name": "Cipadung Kulon",
+    "postal_code": "40614"
   },
   {
     "code": "3273281002",
     "district_code": "327328",
-    "name": "Cipadung Kidul"
+    "name": "Cipadung Kidul",
+    "postal_code": "40614"
   },
   {
     "code": "3273281003",
     "district_code": "327328",
-    "name": "Cipadung Wetan"
+    "name": "Cipadung Wetan",
+    "postal_code": "40614"
   },
   {
     "code": "3273281004",
     "district_code": "327328",
-    "name": "Mekar Mulya"
+    "name": "Mekar Mulya",
+    "postal_code": "40614"
   }
 ]

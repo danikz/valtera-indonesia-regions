@@ -2,16 +2,19 @@
   {
     "code": "6474031001",
     "district_code": "647403",
-    "name": "Belimbing"
+    "name": "Belimbing",
+    "postal_code": "75313"
   },
   {
     "code": "6474031002",
     "district_code": "647403",
-    "name": "Gunung Telihan"
+    "name": "Gunung Telihan",
+    "postal_code": "75383"
   },
   {
     "code": "6474031003",
     "district_code": "647403",
-    "name": "Kanaan"
+    "name": "Kanaan",
+    "postal_code": "75383"
   }
 ]

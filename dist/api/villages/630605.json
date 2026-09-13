@@ -2,91 +2,109 @@
   {
     "code": "6306051001",
     "district_code": "630605",
-    "name": "Kandangan Kota"
+    "name": "Kandangan Kota",
+    "postal_code": "71211"
   },
   {
     "code": "6306051002",
     "district_code": "630605",
-    "name": "Kandangan Utara"
+    "name": "Kandangan Utara",
+    "postal_code": "71214"
   },
   {
     "code": "6306051003",
     "district_code": "630605",
-    "name": "Kandangan Barat"
+    "name": "Kandangan Barat",
+    "postal_code": "71213"
   },
   {
     "code": "6306051004",
     "district_code": "630605",
-    "name": "Jambu Hilir"
+    "name": "Jambu Hilir",
+    "postal_code": "71214"
   },
   {
     "code": "6306052005",
     "district_code": "630605",
-    "name": "Gambah Luar"
+    "name": "Gambah Luar",
+    "postal_code": "71216"
   },
   {
     "code": "6306052006",
     "district_code": "630605",
-    "name": "Gambah Luar Muka"
+    "name": "Gambah Luar Muka",
+    "postal_code": "71216"
   },
   {
     "code": "6306052007",
     "district_code": "630605",
-    "name": "Gambah Dalam"
+    "name": "Gambah Dalam",
+    "postal_code": "71215"
   },
   {
     "code": "6306052008",
     "district_code": "630605",
-    "name": "Gambah Dalam Barat"
+    "name": "Gambah Dalam Barat",
+    "postal_code": "71215"
   },
   {
     "code": "6306052009",
     "district_code": "630605",
-    "name": "Sungai Kupang"
+    "name": "Sungai Kupang",
+    "postal_code": "71217"
   },
   {
     "code": "6306052010",
     "district_code": "630605",
-    "name": "Bangkau"
+    "name": "Bangkau",
+    "postal_code": "71217"
   },
   {
     "code": "6306052011",
     "district_code": "630605",
-    "name": "Lungau"
+    "name": "Lungau",
+    "postal_code": "71213"
   },
   {
     "code": "6306052012",
     "district_code": "630605",
-    "name": "Sungai Paring"
+    "name": "Sungai Paring",
+    "postal_code": "71213"
   },
   {
     "code": "6306052013",
     "district_code": "630605",
-    "name": "Bariang"
+    "name": "Bariang",
+    "postal_code": "71213"
   },
   {
     "code": "6306052014",
     "district_code": "630605",
-    "name": "Amawang Kiri"
+    "name": "Amawang Kiri",
+    "postal_code": "71213"
   },
   {
     "code": "6306052015",
     "district_code": "630605",
-    "name": "Amawang Kiri Muka"
+    "name": "Amawang Kiri Muka",
+    "postal_code": "71213"
   },
   {
     "code": "6306052016",
     "district_code": "630605",
-    "name": "Amawang Kanan"
+    "name": "Amawang Kanan",
+    "postal_code": "71213"
   },
   {
     "code": "6306052017",
     "district_code": "630605",
-    "name": "Tibung Raya"
+    "name": "Tibung Raya",
+    "postal_code": "71214"
   },
   {
     "code": "6306052018",
     "district_code": "630605",
-    "name": "Baluti"
+    "name": "Baluti",
+    "postal_code": "71217"
   }
 ]

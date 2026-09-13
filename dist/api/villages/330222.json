@@ -2,61 +2,73 @@
   {
     "code": "3302222001",
     "district_code": "330222",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "53126"
   },
   {
     "code": "3302222002",
     "district_code": "330222",
-    "name": "Kutasari"
+    "name": "Kutasari",
+    "postal_code": "53151"
   },
   {
     "code": "3302222003",
     "district_code": "330222",
-    "name": "Pandak"
+    "name": "Pandak",
+    "postal_code": "53151"
   },
   {
     "code": "3302222004",
     "district_code": "330222",
-    "name": "Pamijen"
+    "name": "Pamijen",
+    "postal_code": "53151"
   },
   {
     "code": "3302222005",
     "district_code": "330222",
-    "name": "Rempoah"
+    "name": "Rempoah",
+    "postal_code": "53151"
   },
   {
     "code": "3302222006",
     "district_code": "330222",
-    "name": "Kebumen"
+    "name": "Kebumen",
+    "postal_code": "53151"
   },
   {
     "code": "3302222007",
     "district_code": "330222",
-    "name": "Karang Tengah"
+    "name": "Karang Tengah",
+    "postal_code": "53151"
   },
   {
     "code": "3302222008",
     "district_code": "330222",
-    "name": "Kemutug Kidul"
+    "name": "Kemutug Kidul",
+    "postal_code": "53151"
   },
   {
     "code": "3302222009",
     "district_code": "330222",
-    "name": "Karangsalam Lor"
+    "name": "Karangsalam Lor",
+    "postal_code": "53151"
   },
   {
     "code": "3302222010",
     "district_code": "330222",
-    "name": "Kemutug Lor"
+    "name": "Kemutug Lor",
+    "postal_code": "53151"
   },
   {
     "code": "3302222011",
     "district_code": "330222",
-    "name": "Karangmangu"
+    "name": "Karangmangu",
+    "postal_code": "53151"
   },
   {
     "code": "3302222012",
     "district_code": "330222",
-    "name": "Ketenger"
+    "name": "Ketenger",
+    "postal_code": "53151"
   }
 ]

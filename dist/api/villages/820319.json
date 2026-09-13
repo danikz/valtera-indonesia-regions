@@ -2,51 +2,61 @@
   {
     "code": "8203192001",
     "district_code": "820319",
-    "name": "Salube"
+    "name": "Salube",
+    "postal_code": "97763"
   },
   {
     "code": "8203192002",
     "district_code": "820319",
-    "name": "Dama"
+    "name": "Dama",
+    "postal_code": "97763"
   },
   {
     "code": "8203192003",
     "district_code": "820319",
-    "name": "Dowonggila"
+    "name": "Dowonggila",
+    "postal_code": "97763"
   },
   {
     "code": "8203192004",
     "district_code": "820319",
-    "name": "Tuakara"
+    "name": "Tuakara",
+    "postal_code": "97763"
   },
   {
     "code": "8203192005",
     "district_code": "820319",
-    "name": "Jikolamo"
+    "name": "Jikolamo",
+    "postal_code": "97763"
   },
   {
     "code": "8203192006",
     "district_code": "820319",
-    "name": "Dagasuli"
+    "name": "Dagasuli",
+    "postal_code": "97763"
   },
   {
     "code": "8203192007",
     "district_code": "820319",
-    "name": "Dedeta"
+    "name": "Dedeta",
+    "postal_code": "97763"
   },
   {
     "code": "8203192008",
     "district_code": "820319",
-    "name": "Fitako"
+    "name": "Fitako",
+    "postal_code": "97763"
   },
   {
     "code": "8203192009",
     "district_code": "820319",
-    "name": "Tobo Tobo"
+    "name": "Tobo Tobo",
+    "postal_code": "97763"
   },
   {
     "code": "8203192010",
     "district_code": "820319",
-    "name": "Cera"
+    "name": "Cera",
+    "postal_code": "97763"
   }
 ]

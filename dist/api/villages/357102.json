@@ -2,86 +2,103 @@
   {
     "code": "3571021001",
     "district_code": "357102",
-    "name": "Semampir"
+    "name": "Semampir",
+    "postal_code": "64121"
   },
   {
     "code": "3571021002",
     "district_code": "357102",
-    "name": "Balowerti"
+    "name": "Balowerti",
+    "postal_code": "64129"
   },
   {
     "code": "3571021003",
     "district_code": "357102",
-    "name": "Dandangan"
+    "name": "Dandangan",
+    "postal_code": "64122"
   },
   {
     "code": "3571021004",
     "district_code": "357102",
-    "name": "Ngadirejo"
+    "name": "Ngadirejo",
+    "postal_code": "64122"
   },
   {
     "code": "3571021005",
     "district_code": "357102",
-    "name": "Kampung Dalem"
+    "name": "Kampung Dalem",
+    "postal_code": "64126"
   },
   {
     "code": "3571021006",
     "district_code": "357102",
-    "name": "Setonopande"
+    "name": "Setonopande",
+    "postal_code": "64129"
   },
   {
     "code": "3571021007",
     "district_code": "357102",
-    "name": "Ringinanom"
+    "name": "Ringinanom",
+    "postal_code": "64129"
   },
   {
     "code": "3571021008",
     "district_code": "357102",
-    "name": "Pakelan"
+    "name": "Pakelan",
+    "postal_code": "64123"
   },
   {
     "code": "3571021009",
     "district_code": "357102",
-    "name": "Setonogedong"
+    "name": "Setonogedong",
+    "postal_code": "64129"
   },
   {
     "code": "3571021010",
     "district_code": "357102",
-    "name": "Kemasan"
+    "name": "Kemasan",
+    "postal_code": "64125"
   },
   {
     "code": "3571021011",
     "district_code": "357102",
-    "name": "Jagalan"
+    "name": "Jagalan",
+    "postal_code": "64125"
   },
   {
     "code": "3571021012",
     "district_code": "357102",
-    "name": "Banjaran"
+    "name": "Banjaran",
+    "postal_code": "64124"
   },
   {
     "code": "3571021013",
     "district_code": "357102",
-    "name": "Kaliombo"
+    "name": "Kaliombo",
+    "postal_code": "64126"
   },
   {
     "code": "3571021014",
     "district_code": "357102",
-    "name": "Ngronggo"
+    "name": "Ngronggo",
+    "postal_code": "64127"
   },
   {
     "code": "3571021015",
     "district_code": "357102",
-    "name": "Manisrenggo"
+    "name": "Manisrenggo",
+    "postal_code": "64128"
   },
   {
     "code": "3571021016",
     "district_code": "357102",
-    "name": "Pocanan"
+    "name": "Pocanan",
+    "postal_code": "64123"
   },
   {
     "code": "3571021017",
     "district_code": "357102",
-    "name": "Rejomulyo"
+    "name": "Rejomulyo",
+    "postal_code": "64129"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3207122001",
     "district_code": "320712",
-    "name": "Jatinagara"
+    "name": "Jatinagara",
+    "postal_code": "46273"
   },
   {
     "code": "3207122002",
     "district_code": "320712",
-    "name": "Sukanagara"
+    "name": "Sukanagara",
+    "postal_code": "46273"
   },
   {
     "code": "3207122003",
     "district_code": "320712",
-    "name": "Cintanagara"
+    "name": "Cintanagara",
+    "postal_code": "46273"
   },
   {
     "code": "3207122004",
     "district_code": "320712",
-    "name": "Dayeuhluhur"
+    "name": "Dayeuhluhur",
+    "postal_code": "46273"
   },
   {
     "code": "3207122005",
     "district_code": "320712",
-    "name": "Mulyasari"
+    "name": "Mulyasari",
+    "postal_code": "46273"
   },
   {
     "code": "3207122006",
     "district_code": "320712",
-    "name": "Bayasari"
+    "name": "Bayasari",
+    "postal_code": "46273"
   }
 ]

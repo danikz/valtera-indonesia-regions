@@ -2,31 +2,37 @@
   {
     "code": "1215072001",
     "district_code": "121507",
-    "name": "Kuta Babo"
+    "name": "Kuta Babo",
+    "postal_code": "22277"
   },
   {
     "code": "1215072002",
     "district_code": "121507",
-    "name": "Tinada"
+    "name": "Tinada",
+    "postal_code": "22277"
   },
   {
     "code": "1215072003",
     "district_code": "121507",
-    "name": "Silima Kuta"
+    "name": "Silima Kuta",
+    "postal_code": "22277"
   },
   {
     "code": "1215072004",
     "district_code": "121507",
-    "name": "Mahala"
+    "name": "Mahala",
+    "postal_code": "22277"
   },
   {
     "code": "1215072005",
     "district_code": "121507",
-    "name": "Prongil"
+    "name": "Prongil",
+    "postal_code": "22277"
   },
   {
     "code": "1215072006",
     "district_code": "121507",
-    "name": "Buluh Tellang"
+    "name": "Buluh Tellang",
+    "postal_code": "22277"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "6107082002",
     "district_code": "610708",
-    "name": "Gerantung"
+    "name": "Gerantung",
+    "postal_code": "79181"
   },
   {
     "code": "6107082003",
     "district_code": "610708",
-    "name": "Monterado"
+    "name": "Monterado",
+    "postal_code": "79181"
   },
   {
     "code": "6107082004",
     "district_code": "610708",
-    "name": "Goa Boma"
+    "name": "Goa Boma",
+    "postal_code": "79181"
   },
   {
     "code": "6107082006",
     "district_code": "610708",
-    "name": "Nek Ginap"
+    "name": "Nek Ginap",
+    "postal_code": "79181"
   },
   {
     "code": "6107082007",
     "district_code": "610708",
-    "name": "Beringin Baru"
+    "name": "Beringin Baru",
+    "postal_code": "79181"
   },
   {
     "code": "6107082008",
     "district_code": "610708",
-    "name": "Sendoreng"
+    "name": "Sendoreng",
+    "postal_code": "79181"
   },
   {
     "code": "6107082009",
     "district_code": "610708",
-    "name": "Rantau"
+    "name": "Rantau",
+    "postal_code": "79181"
   },
   {
     "code": "6107082010",
     "district_code": "610708",
-    "name": "Mekar Baru"
+    "name": "Mekar Baru",
+    "postal_code": "79181"
   },
   {
     "code": "6107082011",
     "district_code": "610708",
-    "name": "Jahandung"
+    "name": "Jahandung",
+    "postal_code": "79181"
   },
   {
     "code": "6107082012",
     "district_code": "610708",
-    "name": "Serindu"
+    "name": "Serindu",
+    "postal_code": "79181"
   },
   {
     "code": "6107082013",
     "district_code": "610708",
-    "name": "Siaga"
+    "name": "Siaga",
+    "postal_code": "79181"
   }
 ]

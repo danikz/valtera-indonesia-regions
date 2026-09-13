@@ -2,21 +2,25 @@
   {
     "code": "7406051009",
     "district_code": "740605",
-    "name": "Teomokole"
+    "name": "Teomokole",
+    "postal_code": "93781"
   },
   {
     "code": "7406051016",
     "district_code": "740605",
-    "name": "Rahampuu"
+    "name": "Rahampuu",
+    "postal_code": "93781"
   },
   {
     "code": "7406052010",
     "district_code": "740605",
-    "name": "Rahadopi"
+    "name": "Rahadopi",
+    "postal_code": "93781"
   },
   {
     "code": "7406052011",
     "district_code": "740605",
-    "name": "Tirongkotua"
+    "name": "Tirongkotua",
+    "postal_code": "93781"
   }
 ]

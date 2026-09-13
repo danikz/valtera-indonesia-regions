@@ -2,46 +2,55 @@
   {
     "code": "5301091002",
     "district_code": "530109",
-    "name": "Nonbes"
+    "name": "Nonbes",
+    "postal_code": "85367"
   },
   {
     "code": "5301092001",
     "district_code": "530109",
-    "name": "Oesena"
+    "name": "Oesena",
+    "postal_code": "85367"
   },
   {
     "code": "5301092003",
     "district_code": "530109",
-    "name": "Ponain"
+    "name": "Ponain",
+    "postal_code": "85367"
   },
   {
     "code": "5301092004",
     "district_code": "530109",
-    "name": "Kotabes"
+    "name": "Kotabes",
+    "postal_code": "85367"
   },
   {
     "code": "5301092005",
     "district_code": "530109",
-    "name": "Tesbatan"
+    "name": "Tesbatan",
+    "postal_code": "85367"
   },
   {
     "code": "5301092006",
     "district_code": "530109",
-    "name": "Oenoni"
+    "name": "Oenoni",
+    "postal_code": "85367"
   },
   {
     "code": "5301092007",
     "district_code": "530109",
-    "name": "Apren"
+    "name": "Apren",
+    "postal_code": "85367"
   },
   {
     "code": "5301092008",
     "district_code": "530109",
-    "name": "Oenoni II"
+    "name": "Oenoni II",
+    "postal_code": "85367"
   },
   {
     "code": "5301092009",
     "district_code": "530109",
-    "name": "Tesbatan II"
+    "name": "Tesbatan II",
+    "postal_code": "85367"
   }
 ]

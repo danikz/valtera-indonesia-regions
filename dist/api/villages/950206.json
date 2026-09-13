@@ -2,66 +2,79 @@
   {
     "code": "9502062001",
     "district_code": "950206",
-    "name": "Borme"
+    "name": "Borme",
+    "postal_code": "99452"
   },
   {
     "code": "9502062002",
     "district_code": "950206",
-    "name": "Omban"
+    "name": "Omban",
+    "postal_code": "99452"
   },
   {
     "code": "9502062003",
     "district_code": "950206",
-    "name": "Sikibur"
+    "name": "Sikibur",
+    "postal_code": "99577"
   },
   {
     "code": "9502062004",
     "district_code": "950206",
-    "name": "Onya"
+    "name": "Onya",
+    "postal_code": "99577"
   },
   {
     "code": "9502062005",
     "district_code": "950206",
-    "name": "Arina"
+    "name": "Arina",
+    "postal_code": "99452"
   },
   {
     "code": "9502062006",
     "district_code": "950206",
-    "name": "Bordamban"
+    "name": "Bordamban",
+    "postal_code": "99452"
   },
   {
     "code": "9502062007",
     "district_code": "950206",
-    "name": "Aringgon"
+    "name": "Aringgon",
+    "postal_code": "99452"
   },
   {
     "code": "9502062008",
     "district_code": "950206",
-    "name": "Bukam"
+    "name": "Bukam",
+    "postal_code": "99577"
   },
   {
     "code": "9502062009",
     "district_code": "950206",
-    "name": "Kwime"
+    "name": "Kwime",
+    "postal_code": "99577"
   },
   {
     "code": "9502062010",
     "district_code": "950206",
-    "name": "Kolgir"
+    "name": "Kolgir",
+    "postal_code": "99577"
   },
   {
     "code": "9502062011",
     "district_code": "950206",
-    "name": "Cangdamban"
+    "name": "Cangdamban",
+    "postal_code": "99577"
   },
   {
     "code": "9502062012",
     "district_code": "950206",
-    "name": "Laydamban"
+    "name": "Laydamban",
+    "postal_code": "99577"
   },
   {
     "code": "9502062013",
     "district_code": "950206",
-    "name": "Seban"
+    "name": "Seban",
+    "postal_code": "99577"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "1301142001",
     "district_code": "130114",
-    "name": "Sungai Gambir Sako Tapan"
+    "name": "Sungai Gambir Sako Tapan",
+    "postal_code": "25670"
   },
   {
     "code": "1301142002",
     "district_code": "130114",
-    "name": "Limau Purut Tapan"
+    "name": "Limau Purut Tapan",
+    "postal_code": "25670"
   },
   {
     "code": "1301142003",
     "district_code": "130114",
-    "name": "Talang Balarik Tapan"
+    "name": "Talang Balarik Tapan",
+    "postal_code": "25670"
   },
   {
     "code": "1301142004",
     "district_code": "130114",
-    "name": "Tebing Tinggi Tapan"
+    "name": "Tebing Tinggi Tapan",
+    "postal_code": "25670"
   },
   {
     "code": "1301142005",
     "district_code": "130114",
-    "name": "Binjai Tapan"
+    "name": "Binjai Tapan",
+    "postal_code": "25670"
   },
   {
     "code": "1301142006",
     "district_code": "130114",
-    "name": "Sungai Pinang Tapan"
+    "name": "Sungai Pinang Tapan",
+    "postal_code": "25670"
   },
   {
     "code": "1301142007",
     "district_code": "130114",
-    "name": "Talang Koto Pulai Tapan"
+    "name": "Talang Koto Pulai Tapan",
+    "postal_code": "25670"
   },
   {
     "code": "1301142008",
     "district_code": "130114",
-    "name": "Kampung Tengah Tapan"
+    "name": "Kampung Tengah Tapan",
+    "postal_code": "25670"
   },
   {
     "code": "1301142009",
     "district_code": "130114",
-    "name": "Kubu Tapan"
+    "name": "Kubu Tapan",
+    "postal_code": "25670"
   },
   {
     "code": "1301142010",
     "district_code": "130114",
-    "name": "Simpang Gunung Tapan"
+    "name": "Simpang Gunung Tapan",
+    "postal_code": "25670"
   }
 ]

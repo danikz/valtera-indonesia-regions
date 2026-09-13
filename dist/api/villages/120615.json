@@ -2,46 +2,55 @@
   {
     "code": "1206152001",
     "district_code": "120615",
-    "name": "Cinta Rakyat"
+    "name": "Cinta Rakyat",
+    "postal_code": "22153"
   },
   {
     "code": "1206152002",
     "district_code": "120615",
-    "name": "Semangat"
+    "name": "Semangat",
+    "postal_code": "22153"
   },
   {
     "code": "1206152003",
     "district_code": "120615",
-    "name": "Ujung Teran"
+    "name": "Ujung Teran",
+    "postal_code": "22153"
   },
   {
     "code": "1206152004",
     "district_code": "120615",
-    "name": "Gongsol"
+    "name": "Gongsol",
+    "postal_code": "22153"
   },
   {
     "code": "1206152005",
     "district_code": "120615",
-    "name": "Jaranguda"
+    "name": "Jaranguda",
+    "postal_code": "22153"
   },
   {
     "code": "1206152006",
     "district_code": "120615",
-    "name": "Semangat Gunung"
+    "name": "Semangat Gunung",
+    "postal_code": "22153"
   },
   {
     "code": "1206152007",
     "district_code": "120615",
-    "name": "Deram"
+    "name": "Deram",
+    "postal_code": "22153"
   },
   {
     "code": "1206152008",
     "district_code": "120615",
-    "name": "Merdeka"
+    "name": "Merdeka",
+    "postal_code": "22153"
   },
   {
     "code": "1206152009",
     "district_code": "120615",
-    "name": "Sadaperarih"
+    "name": "Sadaperarih",
+    "postal_code": "22153"
   }
 ]

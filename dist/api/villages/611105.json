@@ -2,31 +2,37 @@
   {
     "code": "6111052001",
     "district_code": "611105",
-    "name": "Seponti Jaya"
+    "name": "Seponti Jaya",
+    "postal_code": "78857"
   },
   {
     "code": "6111052002",
     "district_code": "611105",
-    "name": "Telaga Arum"
+    "name": "Telaga Arum",
+    "postal_code": "78857"
   },
   {
     "code": "6111052003",
     "district_code": "611105",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "78857"
   },
   {
     "code": "6111052004",
     "district_code": "611105",
-    "name": "Podorukun"
+    "name": "Podorukun",
+    "postal_code": "78857"
   },
   {
     "code": "6111052005",
     "district_code": "611105",
-    "name": "Sungai Sepeti"
+    "name": "Sungai Sepeti",
+    "postal_code": "78857"
   },
   {
     "code": "6111052006",
     "district_code": "611105",
-    "name": "Durian Sebatang"
+    "name": "Durian Sebatang",
+    "postal_code": "78857"
   }
 ]

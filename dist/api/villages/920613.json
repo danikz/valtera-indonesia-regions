@@ -2,31 +2,37 @@
   {
     "code": "9206132001",
     "district_code": "920613",
-    "name": "Horna"
+    "name": "Horna",
+    "postal_code": "98142"
   },
   {
     "code": "9206132002",
     "district_code": "920613",
-    "name": "Cumnaji"
+    "name": "Cumnaji",
+    "postal_code": "98142"
   },
   {
     "code": "9206132003",
     "district_code": "920613",
-    "name": "Menci"
+    "name": "Menci",
+    "postal_code": "98142"
   },
   {
     "code": "9206132004",
     "district_code": "920613",
-    "name": "Sir"
+    "name": "Sir",
+    "postal_code": "98142"
   },
   {
     "code": "9206132005",
     "district_code": "920613",
-    "name": "Huss"
+    "name": "Huss",
+    "postal_code": "98142"
   },
   {
     "code": "9206132006",
     "district_code": "920613",
-    "name": "Ugdohop"
+    "name": "Ugdohop",
+    "postal_code": "98142"
   }
 ]

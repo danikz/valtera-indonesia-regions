@@ -2,26 +2,31 @@
   {
     "code": "3404132001",
     "district_code": "340413",
-    "name": "Caturharjo"
+    "name": "Caturharjo",
+    "postal_code": "55515"
   },
   {
     "code": "3404132002",
     "district_code": "340413",
-    "name": "Triharjo"
+    "name": "Triharjo",
+    "postal_code": "55514"
   },
   {
     "code": "3404132003",
     "district_code": "340413",
-    "name": "Tridadi"
+    "name": "Tridadi",
+    "postal_code": "55511"
   },
   {
     "code": "3404132004",
     "district_code": "340413",
-    "name": "Pandowoharjo"
+    "name": "Pandowoharjo",
+    "postal_code": "55512"
   },
   {
     "code": "3404132005",
     "district_code": "340413",
-    "name": "Trimulyo"
+    "name": "Trimulyo",
+    "postal_code": "55513"
   }
 ]

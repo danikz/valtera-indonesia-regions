@@ -2,46 +2,55 @@
   {
     "code": "9504112001",
     "district_code": "950411",
-    "name": "Aruku"
+    "name": "Aruku",
+    "postal_code": "99422"
   },
   {
     "code": "9504112002",
     "district_code": "950411",
-    "name": "Kubugiwa"
+    "name": "Kubugiwa",
+    "postal_code": "99030"
   },
   {
     "code": "9504112003",
     "district_code": "950411",
-    "name": "Kubu"
+    "name": "Kubu",
+    "postal_code": "99030"
   },
   {
     "code": "9504112004",
     "district_code": "950411",
-    "name": "Numbugawe"
+    "name": "Numbugawe",
+    "postal_code": "99422"
   },
   {
     "code": "9504112005",
     "district_code": "950411",
-    "name": "Tiyenggupur"
+    "name": "Tiyenggupur",
+    "postal_code": "99030"
   },
   {
     "code": "9504112006",
     "district_code": "950411",
-    "name": "Murik"
+    "name": "Murik",
+    "postal_code": "99422"
   },
   {
     "code": "9504112007",
     "district_code": "950411",
-    "name": "Minagi"
+    "name": "Minagi",
+    "postal_code": "99422"
   },
   {
     "code": "9504112008",
     "district_code": "950411",
-    "name": "Kalewi"
+    "name": "Kalewi",
+    "postal_code": "99422"
   },
   {
     "code": "9504112009",
     "district_code": "950411",
-    "name": "Menggenagi"
+    "name": "Menggenagi",
+    "postal_code": "99422"
   }
 ]

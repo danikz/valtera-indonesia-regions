@@ -2,41 +2,49 @@
   {
     "code": "5305082001",
     "district_code": "530508",
-    "name": "Pido"
+    "name": "Pido",
+    "postal_code": "85873"
   },
   {
     "code": "5305082002",
     "district_code": "530508",
-    "name": "Waisika"
+    "name": "Waisika",
+    "postal_code": "85873"
   },
   {
     "code": "5305082003",
     "district_code": "530508",
-    "name": "Kamot"
+    "name": "Kamot",
+    "postal_code": "85873"
   },
   {
     "code": "5305082004",
     "district_code": "530508",
-    "name": "Taramana"
+    "name": "Taramana",
+    "postal_code": "85873"
   },
   {
     "code": "5305082005",
     "district_code": "530508",
-    "name": "Nailang"
+    "name": "Nailang",
+    "postal_code": "85873"
   },
   {
     "code": "5305082006",
     "district_code": "530508",
-    "name": "Lippang"
+    "name": "Lippang",
+    "postal_code": "85873"
   },
   {
     "code": "5305082007",
     "district_code": "530508",
-    "name": "Kenarimbala"
+    "name": "Kenarimbala",
+    "postal_code": "85873"
   },
   {
     "code": "5305082008",
     "district_code": "530508",
-    "name": "Air Mancur"
+    "name": "Air Mancur",
+    "postal_code": "85873"
   }
 ]

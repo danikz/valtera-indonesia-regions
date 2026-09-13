@@ -2,21 +2,25 @@
   {
     "code": "3272011001",
     "district_code": "327201",
-    "name": "Gunung Puyuh"
+    "name": "Gunung Puyuh",
+    "postal_code": "43123"
   },
   {
     "code": "3272011002",
     "district_code": "327201",
-    "name": "Karamat"
+    "name": "Karamat",
+    "postal_code": "43122"
   },
   {
     "code": "3272011003",
     "district_code": "327201",
-    "name": "Sriwidari"
+    "name": "Sriwidari",
+    "postal_code": "43121"
   },
   {
     "code": "3272011004",
     "district_code": "327201",
-    "name": "Karang Tengah"
+    "name": "Karang Tengah",
+    "postal_code": "43121"
   }
 ]

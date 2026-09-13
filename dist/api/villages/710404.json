@@ -2,41 +2,49 @@
   {
     "code": "7104042006",
     "district_code": "710404",
-    "name": "E s s a n g"
+    "name": "E s s a n g",
+    "postal_code": "95883"
   },
   {
     "code": "7104042007",
     "district_code": "710404",
-    "name": "Lalue"
+    "name": "Lalue",
+    "postal_code": "95883"
   },
   {
     "code": "7104042008",
     "district_code": "710404",
-    "name": "Bulude"
+    "name": "Bulude",
+    "postal_code": "95883"
   },
   {
     "code": "7104042016",
     "district_code": "710404",
-    "name": "Maririk"
+    "name": "Maririk",
+    "postal_code": "95883"
   },
   {
     "code": "7104042018",
     "district_code": "710404",
-    "name": "Essang Selatan"
+    "name": "Essang Selatan",
+    "postal_code": "95883"
   },
   {
     "code": "7104042019",
     "district_code": "710404",
-    "name": "Bulude Selatan"
+    "name": "Bulude Selatan",
+    "postal_code": "95883"
   },
   {
     "code": "7104042020",
     "district_code": "710404",
-    "name": "Lalue Tengah"
+    "name": "Lalue Tengah",
+    "postal_code": "95883"
   },
   {
     "code": "7104042021",
     "district_code": "710404",
-    "name": "Lalue Utara"
+    "name": "Lalue Utara",
+    "postal_code": "95883"
   }
 ]

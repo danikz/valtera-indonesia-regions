@@ -2,26 +2,31 @@
   {
     "code": "1571021002",
     "district_code": "157102",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "36139"
   },
   {
     "code": "1571021003",
     "district_code": "157102",
-    "name": "Tambak Sari"
+    "name": "Tambak Sari",
+    "postal_code": "36139"
   },
   {
     "code": "1571021004",
     "district_code": "157102",
-    "name": "Thehok"
+    "name": "Thehok",
+    "postal_code": "36138"
   },
   {
     "code": "1571021005",
     "district_code": "157102",
-    "name": "Wijaya Pura"
+    "name": "Wijaya Pura",
+    "postal_code": "36131"
   },
   {
     "code": "1571021006",
     "district_code": "157102",
-    "name": "Pakuan Baru"
+    "name": "Pakuan Baru",
+    "postal_code": "36132"
   }
 ]

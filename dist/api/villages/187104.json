@@ -2,41 +2,49 @@
   {
     "code": "1871041001",
     "district_code": "187104",
-    "name": "Panjang Selatan"
+    "name": "Panjang Selatan",
+    "postal_code": "35243"
   },
   {
     "code": "1871041002",
     "district_code": "187104",
-    "name": "Srengsem"
+    "name": "Srengsem",
+    "postal_code": "35242"
   },
   {
     "code": "1871041003",
     "district_code": "187104",
-    "name": "Panjang Utara"
+    "name": "Panjang Utara",
+    "postal_code": "35241"
   },
   {
     "code": "1871041004",
     "district_code": "187104",
-    "name": "Pidada"
+    "name": "Pidada",
+    "postal_code": "35241"
   },
   {
     "code": "1871041007",
     "district_code": "187104",
-    "name": "Karang Maritim"
+    "name": "Karang Maritim",
+    "postal_code": "35245"
   },
   {
     "code": "1871041008",
     "district_code": "187104",
-    "name": "Way Lunik"
+    "name": "Way Lunik",
+    "postal_code": "35244"
   },
   {
     "code": "1871041009",
     "district_code": "187104",
-    "name": "Ketapang"
+    "name": "Ketapang",
+    "postal_code": "35245"
   },
   {
     "code": "1871041010",
     "district_code": "187104",
-    "name": "Ketapang Kuala"
+    "name": "Ketapang Kuala",
+    "postal_code": "35246"
   }
 ]

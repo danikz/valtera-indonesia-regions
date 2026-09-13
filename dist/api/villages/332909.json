@@ -2,116 +2,139 @@
   {
     "code": "3329091002",
     "district_code": "332909",
-    "name": "Brebes"
+    "name": "Brebes",
+    "postal_code": "52212"
   },
   {
     "code": "3329091003",
     "district_code": "332909",
-    "name": "Gandasuli"
+    "name": "Gandasuli",
+    "postal_code": "52215"
   },
   {
     "code": "3329091011",
     "district_code": "332909",
-    "name": "Limbangan Kulon"
+    "name": "Limbangan Kulon",
+    "postal_code": "52219"
   },
   {
     "code": "3329091012",
     "district_code": "332909",
-    "name": "Limbangan Wetan"
+    "name": "Limbangan Wetan",
+    "postal_code": "52218"
   },
   {
     "code": "3329091015",
     "district_code": "332909",
-    "name": "Pasarbatang"
+    "name": "Pasarbatang",
+    "postal_code": "52211"
   },
   {
     "code": "3329092001",
     "district_code": "332909",
-    "name": "Banjaranyar"
+    "name": "Banjaranyar",
+    "postal_code": "52216"
   },
   {
     "code": "3329092004",
     "district_code": "332909",
-    "name": "Kaligangsa Kulon"
+    "name": "Kaligangsa Kulon",
+    "postal_code": "52217"
   },
   {
     "code": "3329092005",
     "district_code": "332909",
-    "name": "Kaligangsa Wetan"
+    "name": "Kaligangsa Wetan",
+    "postal_code": "52217"
   },
   {
     "code": "3329092006",
     "district_code": "332909",
-    "name": "Kalimati"
+    "name": "Kalimati",
+    "postal_code": "52219"
   },
   {
     "code": "3329092007",
     "district_code": "332909",
-    "name": "Kaliwlingi"
+    "name": "Kaliwlingi",
+    "postal_code": "52219"
   },
   {
     "code": "3329092008",
     "district_code": "332909",
-    "name": "Kedunguter"
+    "name": "Kedunguter",
+    "postal_code": "52219"
   },
   {
     "code": "3329092009",
     "district_code": "332909",
-    "name": "Krasak"
+    "name": "Krasak",
+    "postal_code": "52219"
   },
   {
     "code": "3329092010",
     "district_code": "332909",
-    "name": "Lembarawa"
+    "name": "Lembarawa",
+    "postal_code": "52219"
   },
   {
     "code": "3329092013",
     "district_code": "332909",
-    "name": "Padasugih"
+    "name": "Padasugih",
+    "postal_code": "52214"
   },
   {
     "code": "3329092014",
     "district_code": "332909",
-    "name": "Pagejugan"
+    "name": "Pagejugan",
+    "postal_code": "52219"
   },
   {
     "code": "3329092016",
     "district_code": "332909",
-    "name": "Pemaron"
+    "name": "Pemaron",
+    "postal_code": "52219"
   },
   {
     "code": "3329092017",
     "district_code": "332909",
-    "name": "Pulosari"
+    "name": "Pulosari",
+    "postal_code": "52213"
   },
   {
     "code": "3329092018",
     "district_code": "332909",
-    "name": "Randusanga Kulon"
+    "name": "Randusanga Kulon",
+    "postal_code": "52219"
   },
   {
     "code": "3329092019",
     "district_code": "332909",
-    "name": "Randusanga Wetan"
+    "name": "Randusanga Wetan",
+    "postal_code": "52219"
   },
   {
     "code": "3329092020",
     "district_code": "332909",
-    "name": "Sigambir"
+    "name": "Sigambir",
+    "postal_code": "52219"
   },
   {
     "code": "3329092021",
     "district_code": "332909",
-    "name": "Tengki"
+    "name": "Tengki",
+    "postal_code": "52219"
   },
   {
     "code": "3329092022",
     "district_code": "332909",
-    "name": "Terlangu"
+    "name": "Terlangu",
+    "postal_code": "52219"
   },
   {
     "code": "3329092023",
     "district_code": "332909",
-    "name": "Wangandalem"
+    "name": "Wangandalem",
+    "postal_code": "52214"
   }
 ]

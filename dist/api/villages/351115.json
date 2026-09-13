@@ -2,76 +2,91 @@
   {
     "code": "3511152001",
     "district_code": "351115",
-    "name": "Solor"
+    "name": "Solor",
+    "postal_code": "68286"
   },
   {
     "code": "3511152002",
     "district_code": "351115",
-    "name": "Kladi"
+    "name": "Kladi",
+    "postal_code": "68286"
   },
   {
     "code": "3511152003",
     "district_code": "351115",
-    "name": "Bercak"
+    "name": "Bercak",
+    "postal_code": "68286"
   },
   {
     "code": "3511152004",
     "district_code": "351115",
-    "name": "Suling Wetan"
+    "name": "Suling Wetan",
+    "postal_code": "68286"
   },
   {
     "code": "3511152005",
     "district_code": "351115",
-    "name": "Suling Kulon"
+    "name": "Suling Kulon",
+    "postal_code": "68286"
   },
   {
     "code": "3511152006",
     "district_code": "351115",
-    "name": "Cermee"
+    "name": "Cermee",
+    "postal_code": "68286"
   },
   {
     "code": "3511152007",
     "district_code": "351115",
-    "name": "Ramban Wetan"
+    "name": "Ramban Wetan",
+    "postal_code": "68286"
   },
   {
     "code": "3511152008",
     "district_code": "351115",
-    "name": "Grujugan"
+    "name": "Grujugan",
+    "postal_code": "68261"
   },
   {
     "code": "3511152009",
     "district_code": "351115",
-    "name": "Ramban Kulon"
+    "name": "Ramban Kulon",
+    "postal_code": "68286"
   },
   {
     "code": "3511152010",
     "district_code": "351115",
-    "name": "Bajuran"
+    "name": "Bajuran",
+    "postal_code": "68286"
   },
   {
     "code": "3511152011",
     "district_code": "351115",
-    "name": "Jirek Mas"
+    "name": "Jirek Mas",
+    "postal_code": "68286"
   },
   {
     "code": "3511152012",
     "district_code": "351115",
-    "name": "Batu Salang"
+    "name": "Batu Salang",
+    "postal_code": "68286"
   },
   {
     "code": "3511152013",
     "district_code": "351115",
-    "name": "Palalangan"
+    "name": "Palalangan",
+    "postal_code": "68286"
   },
   {
     "code": "3511152014",
     "district_code": "351115",
-    "name": "Batu Ampar"
+    "name": "Batu Ampar",
+    "postal_code": "68286"
   },
   {
     "code": "3511152015",
     "district_code": "351115",
-    "name": "Bercak Asri"
+    "name": "Bercak Asri",
+    "postal_code": "68286"
   }
 ]

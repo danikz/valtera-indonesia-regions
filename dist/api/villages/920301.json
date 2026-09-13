@@ -2,26 +2,31 @@
   {
     "code": "9203011001",
     "district_code": "920301",
-    "name": "Fak Fak Selatan"
+    "name": "Fak Fak Selatan",
+    "postal_code": "98011"
   },
   {
     "code": "9203011002",
     "district_code": "920301",
-    "name": "Fak Fak Utara"
+    "name": "Fak Fak Utara",
+    "postal_code": "98011"
   },
   {
     "code": "9203012007",
     "district_code": "920301",
-    "name": "Gewerpe"
+    "name": "Gewerpe",
+    "postal_code": "98011"
   },
   {
     "code": "9203012011",
     "district_code": "920301",
-    "name": "Lusi Peri"
+    "name": "Lusi Peri",
+    "postal_code": "98011"
   },
   {
     "code": "9203012012",
     "district_code": "920301",
-    "name": "Wrikapal"
+    "name": "Wrikapal",
+    "postal_code": "98011"
   }
 ]

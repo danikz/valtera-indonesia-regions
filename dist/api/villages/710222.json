@@ -2,51 +2,61 @@
   {
     "code": "7102222001",
     "district_code": "710222",
-    "name": "Kayuuwi"
+    "name": "Kayuuwi",
+    "postal_code": "95692"
   },
   {
     "code": "7102222002",
     "district_code": "710222",
-    "name": "Kayuuwi Satu"
+    "name": "Kayuuwi Satu",
+    "postal_code": "95692"
   },
   {
     "code": "7102222003",
     "district_code": "710222",
-    "name": "Kanonang Satu"
+    "name": "Kanonang Satu",
+    "postal_code": "95692"
   },
   {
     "code": "7102222004",
     "district_code": "710222",
-    "name": "Kanonang Dua"
+    "name": "Kanonang Dua",
+    "postal_code": "95692"
   },
   {
     "code": "7102222005",
     "district_code": "710222",
-    "name": "Kanonang Empat"
+    "name": "Kanonang Empat",
+    "postal_code": "95692"
   },
   {
     "code": "7102222006",
     "district_code": "710222",
-    "name": "Kanonang Lima"
+    "name": "Kanonang Lima",
+    "postal_code": "95692"
   },
   {
     "code": "7102222007",
     "district_code": "710222",
-    "name": "Tombasian Atas"
+    "name": "Tombasian Atas",
+    "postal_code": "95692"
   },
   {
     "code": "7102222008",
     "district_code": "710222",
-    "name": "Tombasian Atas Satu"
+    "name": "Tombasian Atas Satu",
+    "postal_code": "95692"
   },
   {
     "code": "7102222009",
     "district_code": "710222",
-    "name": "Tombasian Bawah"
+    "name": "Tombasian Bawah",
+    "postal_code": "95692"
   },
   {
     "code": "7102222010",
     "district_code": "710222",
-    "name": "Ranolambot"
+    "name": "Ranolambot",
+    "postal_code": "95692"
   }
 ]

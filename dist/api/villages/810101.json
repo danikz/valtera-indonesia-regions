@@ -2,76 +2,91 @@
   {
     "code": "8101011009",
     "district_code": "810101",
-    "name": "Hollo"
+    "name": "Hollo",
+    "postal_code": "97516"
   },
   {
     "code": "8101012001",
     "district_code": "810101",
-    "name": "Tamilouw"
+    "name": "Tamilouw",
+    "postal_code": "97516"
   },
   {
     "code": "8101012002",
     "district_code": "810101",
-    "name": "Sepa"
+    "name": "Sepa",
+    "postal_code": "97516"
   },
   {
     "code": "8101012003",
     "district_code": "810101",
-    "name": "Rutah"
+    "name": "Rutah",
+    "postal_code": "97516"
   },
   {
     "code": "8101012004",
     "district_code": "810101",
-    "name": "Soahuku"
+    "name": "Soahuku",
+    "postal_code": "97516"
   },
   {
     "code": "8101012005",
     "district_code": "810101",
-    "name": "Amahai"
+    "name": "Amahai",
+    "postal_code": "97516"
   },
   {
     "code": "8101012006",
     "district_code": "810101",
-    "name": "Haruru"
+    "name": "Haruru",
+    "postal_code": "97516"
   },
   {
     "code": "8101012007",
     "district_code": "810101",
-    "name": "Sehati"
+    "name": "Sehati",
+    "postal_code": "97516"
   },
   {
     "code": "8101012008",
     "district_code": "810101",
-    "name": "Makariki"
+    "name": "Makariki",
+    "postal_code": "97516"
   },
   {
     "code": "8101012010",
     "district_code": "810101",
-    "name": "Yafila"
+    "name": "Yafila",
+    "postal_code": "97516"
   },
   {
     "code": "8101012011",
     "district_code": "810101",
-    "name": "Banda Baru"
+    "name": "Banda Baru",
+    "postal_code": "97516"
   },
   {
     "code": "8101012020",
     "district_code": "810101",
-    "name": "Yainuelo"
+    "name": "Yainuelo",
+    "postal_code": "97516"
   },
   {
     "code": "8101012021",
     "district_code": "810101",
-    "name": "Nua Nea"
+    "name": "Nua Nea",
+    "postal_code": "97516"
   },
   {
     "code": "8101012022",
     "district_code": "810101",
-    "name": "Hatuhenu"
+    "name": "Hatuhenu",
+    "postal_code": "97516"
   },
   {
     "code": "8101012023",
     "district_code": "810101",
-    "name": "Nuweletetu"
+    "name": "Nuweletetu",
+    "postal_code": "97516"
   }
 ]

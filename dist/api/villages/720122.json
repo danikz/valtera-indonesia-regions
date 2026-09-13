@@ -2,51 +2,61 @@
   {
     "code": "7201222001",
     "district_code": "720122",
-    "name": "Pondan"
+    "name": "Pondan",
+    "postal_code": "94770"
   },
   {
     "code": "7201222002",
     "district_code": "720122",
-    "name": "Sobol"
+    "name": "Sobol",
+    "postal_code": "94770"
   },
   {
     "code": "7201222003",
     "district_code": "720122",
-    "name": "Sobol Baru"
+    "name": "Sobol Baru",
+    "postal_code": "94770"
   },
   {
     "code": "7201222004",
     "district_code": "720122",
-    "name": "Binotik"
+    "name": "Binotik",
+    "postal_code": "94770"
   },
   {
     "code": "7201222005",
     "district_code": "720122",
-    "name": "Garuga"
+    "name": "Garuga",
+    "postal_code": "94770"
   },
   {
     "code": "7201222006",
     "district_code": "720122",
-    "name": "Bollo"
+    "name": "Bollo",
+    "postal_code": "94770"
   },
   {
     "code": "7201222007",
     "district_code": "720122",
-    "name": "Sulubombong"
+    "name": "Sulubombong",
+    "postal_code": "94770"
   },
   {
     "code": "7201222008",
     "district_code": "720122",
-    "name": "Boras"
+    "name": "Boras",
+    "postal_code": "94770"
   },
   {
     "code": "7201222009",
     "district_code": "720122",
-    "name": "Lonas"
+    "name": "Lonas",
+    "postal_code": "94770"
   },
   {
     "code": "7201222010",
     "district_code": "720122",
-    "name": "Bombongan"
+    "name": "Bombongan",
+    "postal_code": "94770"
   }
 ]

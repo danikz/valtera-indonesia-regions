@@ -2,41 +2,49 @@
   {
     "code": "3512122001",
     "district_code": "351212",
-    "name": "Sopet"
+    "name": "Sopet",
+    "postal_code": "68372"
   },
   {
     "code": "3512122002",
     "district_code": "351212",
-    "name": "Curah Kalak"
+    "name": "Curah Kalak",
+    "postal_code": "68372"
   },
   {
     "code": "3512122003",
     "district_code": "351212",
-    "name": "Palangan"
+    "name": "Palangan",
+    "postal_code": "68372"
   },
   {
     "code": "3512122004",
     "district_code": "351212",
-    "name": "Jangkar"
+    "name": "Jangkar",
+    "postal_code": "68372"
   },
   {
     "code": "3512122005",
     "district_code": "351212",
-    "name": "Gadingan"
+    "name": "Gadingan",
+    "postal_code": "68372"
   },
   {
     "code": "3512122006",
     "district_code": "351212",
-    "name": "Kumbangsari"
+    "name": "Kumbangsari",
+    "postal_code": "68372"
   },
   {
     "code": "3512122007",
     "district_code": "351212",
-    "name": "Pesanggrahan"
+    "name": "Pesanggrahan",
+    "postal_code": "68372"
   },
   {
     "code": "3512122008",
     "district_code": "351212",
-    "name": "Agel"
+    "name": "Agel",
+    "postal_code": "68372"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "9212032001",
     "district_code": "921203",
-    "name": "Inyebuow"
+    "name": "Inyebuow",
+    "postal_code": "98354"
   },
   {
     "code": "9212032002",
     "district_code": "921203",
-    "name": "Imbeisba"
+    "name": "Imbeisba",
+    "postal_code": "98354"
   },
   {
     "code": "9212032003",
     "district_code": "921203",
-    "name": "Usti"
+    "name": "Usti",
+    "postal_code": "98354"
   },
   {
     "code": "9212032004",
     "district_code": "921203",
-    "name": "Memti"
+    "name": "Memti",
+    "postal_code": "98354"
   },
   {
     "code": "9212032005",
     "district_code": "921203",
-    "name": "Koney"
+    "name": "Koney",
+    "postal_code": "98354"
   },
   {
     "code": "9212032006",
     "district_code": "921203",
-    "name": "Membey"
+    "name": "Membey",
+    "postal_code": "98354"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "6372031001",
     "district_code": "637203",
-    "name": "Palam"
+    "name": "Palam",
+    "postal_code": "70731"
   },
   {
     "code": "6372031002",
     "district_code": "637203",
-    "name": "Bangkal"
+    "name": "Bangkal",
+    "postal_code": "70732"
   },
   {
     "code": "6372031003",
     "district_code": "637203",
-    "name": "Sungai Tiung"
+    "name": "Sungai Tiung",
+    "postal_code": "70734"
   },
   {
     "code": "6372031004",
     "district_code": "637203",
-    "name": "Cempaka"
+    "name": "Cempaka",
+    "postal_code": "70733"
   }
 ]

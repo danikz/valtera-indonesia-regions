@@ -2,46 +2,55 @@
   {
     "code": "1871131001",
     "district_code": "187113",
-    "name": "Sumber Rejo"
+    "name": "Sumber Rejo",
+    "postal_code": "35153"
   },
   {
     "code": "1871131003",
     "district_code": "187113",
-    "name": "Beringin Jaya"
+    "name": "Beringin Jaya",
+    "postal_code": "35158"
   },
   {
     "code": "1871131004",
     "district_code": "187113",
-    "name": "Kemiling Permai"
+    "name": "Kemiling Permai",
+    "postal_code": "35158"
   },
   {
     "code": "1871131005",
     "district_code": "187113",
-    "name": "Sumber Agung"
+    "name": "Sumber Agung",
+    "postal_code": "35158"
   },
   {
     "code": "1871131006",
     "district_code": "187113",
-    "name": "Kedaung"
+    "name": "Kedaung",
+    "postal_code": "35158"
   },
   {
     "code": "1871131007",
     "district_code": "187113",
-    "name": "Pinang Jaya"
+    "name": "Pinang Jaya",
+    "postal_code": "35158"
   },
   {
     "code": "1871131008",
     "district_code": "187113",
-    "name": "Sumberrejo Sejahtera"
+    "name": "Sumberrejo Sejahtera",
+    "postal_code": "35153"
   },
   {
     "code": "1871131009",
     "district_code": "187113",
-    "name": "Kemiling Raya"
+    "name": "Kemiling Raya",
+    "postal_code": "35158"
   },
   {
     "code": "1871131010",
     "district_code": "187113",
-    "name": "Beringin Raya"
+    "name": "Beringin Raya",
+    "postal_code": "35158"
   }
 ]

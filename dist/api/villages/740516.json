@@ -2,51 +2,61 @@
   {
     "code": "7405161002",
     "district_code": "740516",
-    "name": "Lalowaru"
+    "name": "Lalowaru",
+    "postal_code": "93890"
   },
   {
     "code": "7405162001",
     "district_code": "740516",
-    "name": "Puasana"
+    "name": "Puasana",
+    "postal_code": "93890"
   },
   {
     "code": "7405162003",
     "district_code": "740516",
-    "name": "Tanjung Tiram"
+    "name": "Tanjung Tiram",
+    "postal_code": "93890"
   },
   {
     "code": "7405162004",
     "district_code": "740516",
-    "name": "Wawatu"
+    "name": "Wawatu",
+    "postal_code": "93890"
   },
   {
     "code": "7405162005",
     "district_code": "740516",
-    "name": "Sanggula"
+    "name": "Sanggula",
+    "postal_code": "93890"
   },
   {
     "code": "7405162006",
     "district_code": "740516",
-    "name": "Lombueya"
+    "name": "Lombueya",
+    "postal_code": "93890"
   },
   {
     "code": "7405162007",
     "district_code": "740516",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "93890"
   },
   {
     "code": "7405162008",
     "district_code": "740516",
-    "name": "Lamokula"
+    "name": "Lamokula",
+    "postal_code": "93890"
   },
   {
     "code": "7405162009",
     "district_code": "740516",
-    "name": "Mata Watu-Watu"
+    "name": "Mata Watu-Watu",
+    "postal_code": "93890"
   },
   {
     "code": "7405162010",
     "district_code": "740516",
-    "name": "Mata Lamokula"
+    "name": "Mata Lamokula",
+    "postal_code": "93890"
   }
 ]

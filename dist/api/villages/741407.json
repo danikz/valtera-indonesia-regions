@@ -2,31 +2,37 @@
   {
     "code": "7414071002",
     "district_code": "741407",
-    "name": "Tolandona"
+    "name": "Tolandona",
+    "postal_code": "93760"
   },
   {
     "code": "7414072001",
     "district_code": "741407",
-    "name": "Baruta Lestari"
+    "name": "Baruta Lestari",
+    "postal_code": "93760"
   },
   {
     "code": "7414072003",
     "district_code": "741407",
-    "name": "Doda Bahari"
+    "name": "Doda Bahari",
+    "postal_code": "93760"
   },
   {
     "code": "7414072004",
     "district_code": "741407",
-    "name": "Baruta"
+    "name": "Baruta",
+    "postal_code": "93760"
   },
   {
     "code": "7414072006",
     "district_code": "741407",
-    "name": "Baruta Analalaki"
+    "name": "Baruta Analalaki",
+    "postal_code": "93760"
   },
   {
     "code": "7414072007",
     "district_code": "741407",
-    "name": "Tolandona Matanaeo"
+    "name": "Tolandona Matanaeo",
+    "postal_code": "93760"
   }
 ]

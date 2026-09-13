@@ -2,51 +2,61 @@
   {
     "code": "1371031001",
     "district_code": "137103",
-    "name": "Flamboyan Baru"
+    "name": "Flamboyan Baru",
+    "postal_code": "25114"
   },
   {
     "code": "1371031002",
     "district_code": "137103",
-    "name": "Rimbo Kaluang"
+    "name": "Rimbo Kaluang",
+    "postal_code": "25111"
   },
   {
     "code": "1371031003",
     "district_code": "137103",
-    "name": "Ujung Gurun"
+    "name": "Ujung Gurun",
+    "postal_code": "25114"
   },
   {
     "code": "1371031004",
     "district_code": "137103",
-    "name": "Purus"
+    "name": "Purus",
+    "postal_code": "25115"
   },
   {
     "code": "1371031005",
     "district_code": "137103",
-    "name": "Padang Pasir"
+    "name": "Padang Pasir",
+    "postal_code": "25112"
   },
   {
     "code": "1371031006",
     "district_code": "137103",
-    "name": "Olo"
+    "name": "Olo",
+    "postal_code": "25117"
   },
   {
     "code": "1371031007",
     "district_code": "137103",
-    "name": "Kampung Jao"
+    "name": "Kampung Jao",
+    "postal_code": "25112"
   },
   {
     "code": "1371031008",
     "district_code": "137103",
-    "name": "Belakang Tangsi"
+    "name": "Belakang Tangsi",
+    "postal_code": "25118"
   },
   {
     "code": "1371031009",
     "district_code": "137103",
-    "name": "Kampung Pondok"
+    "name": "Kampung Pondok",
+    "postal_code": "25119"
   },
   {
     "code": "1371031010",
     "district_code": "137103",
-    "name": "Berok Nipah"
+    "name": "Berok Nipah",
+    "postal_code": "25118"
   }
 ]

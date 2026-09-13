@@ -2,61 +2,73 @@
   {
     "code": "3511081011",
     "district_code": "351108",
-    "name": "Tenggarang"
+    "name": "Tenggarang",
+    "postal_code": "68281"
   },
   {
     "code": "3511082001",
     "district_code": "351108",
-    "name": "Kesemek"
+    "name": "Kesemek",
+    "postal_code": "68281"
   },
   {
     "code": "3511082002",
     "district_code": "351108",
-    "name": "Lojajar"
+    "name": "Lojajar",
+    "postal_code": "68281"
   },
   {
     "code": "3511082003",
     "district_code": "351108",
-    "name": "Pekalangan"
+    "name": "Pekalangan",
+    "postal_code": "68281"
   },
   {
     "code": "3511082004",
     "district_code": "351108",
-    "name": "Kajar"
+    "name": "Kajar",
+    "postal_code": "68281"
   },
   {
     "code": "3511082005",
     "district_code": "351108",
-    "name": "Sumber Salam"
+    "name": "Sumber Salam",
+    "postal_code": "68281"
   },
   {
     "code": "3511082006",
     "district_code": "351108",
-    "name": "Koncer Kidul"
+    "name": "Koncer Kidul",
+    "postal_code": "68281"
   },
   {
     "code": "3511082007",
     "district_code": "351108",
-    "name": "Bataan"
+    "name": "Bataan",
+    "postal_code": "68281"
   },
   {
     "code": "3511082008",
     "district_code": "351108",
-    "name": "Gebang"
+    "name": "Gebang",
+    "postal_code": "68281"
   },
   {
     "code": "3511082009",
     "district_code": "351108",
-    "name": "Dawuhan"
+    "name": "Dawuhan",
+    "postal_code": "68281"
   },
   {
     "code": "3511082010",
     "district_code": "351108",
-    "name": "Tangsil Kulon"
+    "name": "Tangsil Kulon",
+    "postal_code": "68281"
   },
   {
     "code": "3511082012",
     "district_code": "351108",
-    "name": "Koncer Darul Aman"
+    "name": "Koncer Darul Aman",
+    "postal_code": "68281"
   }
 ]

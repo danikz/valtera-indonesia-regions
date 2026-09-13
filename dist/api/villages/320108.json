@@ -2,51 +2,61 @@
   {
     "code": "3201082001",
     "district_code": "320108",
-    "name": "Karyamekar"
+    "name": "Karyamekar",
+    "postal_code": "16840"
   },
   {
     "code": "3201082002",
     "district_code": "320108",
-    "name": "Babakanraden"
+    "name": "Babakanraden",
+    "postal_code": "16840"
   },
   {
     "code": "3201082003",
     "district_code": "320108",
-    "name": "Cikutamahi"
+    "name": "Cikutamahi",
+    "postal_code": "16840"
   },
   {
     "code": "3201082004",
     "district_code": "320108",
-    "name": "Kutamekar"
+    "name": "Kutamekar",
+    "postal_code": "16840"
   },
   {
     "code": "3201082005",
     "district_code": "320108",
-    "name": "Cariu"
+    "name": "Cariu",
+    "postal_code": "16840"
   },
   {
     "code": "3201082006",
     "district_code": "320108",
-    "name": "Mekarwangi"
+    "name": "Mekarwangi",
+    "postal_code": "16840"
   },
   {
     "code": "3201082007",
     "district_code": "320108",
-    "name": "Bantarkuning"
+    "name": "Bantarkuning",
+    "postal_code": "16840"
   },
   {
     "code": "3201082008",
     "district_code": "320108",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "16840"
   },
   {
     "code": "3201082009",
     "district_code": "320108",
-    "name": "Tegalpanjang"
+    "name": "Tegalpanjang",
+    "postal_code": "16840"
   },
   {
     "code": "3201082010",
     "district_code": "320108",
-    "name": "Cibatutiga"
+    "name": "Cibatutiga",
+    "postal_code": "16840"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "9503362001",
     "district_code": "950336",
-    "name": "Weawen"
+    "name": "Weawen",
+    "postal_code": "99743"
   },
   {
     "code": "9503362002",
     "district_code": "950336",
-    "name": "Kwelena"
+    "name": "Kwelena",
+    "postal_code": "99743"
   },
   {
     "code": "9503362003",
     "district_code": "950336",
-    "name": "Singokla"
+    "name": "Singokla",
+    "postal_code": "99743"
   },
   {
     "code": "9503362004",
     "district_code": "950336",
-    "name": "Banga"
+    "name": "Banga",
+    "postal_code": "99743"
   },
   {
     "code": "9503362005",
     "district_code": "950336",
-    "name": "Soline"
+    "name": "Soline",
+    "postal_code": "99743"
   },
   {
     "code": "9503362006",
     "district_code": "950336",
-    "name": "Musan"
+    "name": "Musan",
+    "postal_code": "99743"
   },
   {
     "code": "9503362007",
     "district_code": "950336",
-    "name": "Salbi"
+    "name": "Salbi",
+    "postal_code": "99743"
   },
   {
     "code": "9503362008",
     "district_code": "950336",
-    "name": "Erim"
+    "name": "Erim",
+    "postal_code": "99743"
   }
 ]

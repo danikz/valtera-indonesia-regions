@@ -2,26 +2,31 @@
   {
     "code": "6472071001",
     "district_code": "647207",
-    "name": "Sungai Kapih"
+    "name": "Sungai Kapih",
+    "postal_code": "75114"
   },
   {
     "code": "6472071002",
     "district_code": "647207",
-    "name": "Sambutan"
+    "name": "Sambutan",
+    "postal_code": "75115"
   },
   {
     "code": "6472071003",
     "district_code": "647207",
-    "name": "Makroman"
+    "name": "Makroman",
+    "postal_code": "75115"
   },
   {
     "code": "6472071004",
     "district_code": "647207",
-    "name": "Sindang Sari"
+    "name": "Sindang Sari",
+    "postal_code": "75114"
   },
   {
     "code": "6472071005",
     "district_code": "647207",
-    "name": "Pulau Atas"
+    "name": "Pulau Atas",
+    "postal_code": "75114"
   }
 ]

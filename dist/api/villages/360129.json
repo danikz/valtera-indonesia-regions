@@ -2,51 +2,61 @@
   {
     "code": "3601292001",
     "district_code": "360129",
-    "name": "Seuseupan"
+    "name": "Seuseupan",
+    "postal_code": "42267"
   },
   {
     "code": "3601292002",
     "district_code": "360129",
-    "name": "Karyasari"
+    "name": "Karyasari",
+    "postal_code": "42267"
   },
   {
     "code": "3601292003",
     "district_code": "360129",
-    "name": "Perdana"
+    "name": "Perdana",
+    "postal_code": "42267"
   },
   {
     "code": "3601292004",
     "district_code": "360129",
-    "name": "Sukaresmi"
+    "name": "Sukaresmi",
+    "postal_code": "42267"
   },
   {
     "code": "3601292005",
     "district_code": "360129",
-    "name": "Pasirkadu"
+    "name": "Pasirkadu",
+    "postal_code": "42267"
   },
   {
     "code": "3601292006",
     "district_code": "360129",
-    "name": "Kubangkampil"
+    "name": "Kubangkampil",
+    "postal_code": "42267"
   },
   {
     "code": "3601292007",
     "district_code": "360129",
-    "name": "Sidamukti"
+    "name": "Sidamukti",
+    "postal_code": "42267"
   },
   {
     "code": "3601292008",
     "district_code": "360129",
-    "name": "Cibungur"
+    "name": "Cibungur",
+    "postal_code": "42267"
   },
   {
     "code": "3601292009",
     "district_code": "360129",
-    "name": "Weru"
+    "name": "Weru",
+    "postal_code": "42267"
   },
   {
     "code": "3601292010",
     "district_code": "360129",
-    "name": "Cikuya"
+    "name": "Cikuya",
+    "postal_code": "42267"
   }
 ]

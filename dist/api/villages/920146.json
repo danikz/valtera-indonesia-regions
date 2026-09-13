@@ -2,36 +2,43 @@
   {
     "code": "9201462001",
     "district_code": "920146",
-    "name": "Dasri"
+    "name": "Dasri",
+    "postal_code": ""
   },
   {
     "code": "9201462002",
     "district_code": "920146",
-    "name": "Masos"
+    "name": "Masos",
+    "postal_code": ""
   },
   {
     "code": "9201462003",
     "district_code": "920146",
-    "name": "Ketawas"
+    "name": "Ketawas",
+    "postal_code": ""
   },
   {
     "code": "9201462004",
     "district_code": "920146",
-    "name": "Warbo"
+    "name": "Warbo",
+    "postal_code": ""
   },
   {
     "code": "9201462005",
     "district_code": "920146",
-    "name": "Suus"
+    "name": "Suus",
+    "postal_code": ""
   },
   {
     "code": "9201462006",
     "district_code": "920146",
-    "name": "Sulya"
+    "name": "Sulya",
+    "postal_code": ""
   },
   {
     "code": "9201462007",
     "district_code": "920146",
-    "name": "Bolwi"
+    "name": "Bolwi",
+    "postal_code": ""
   }
 ]

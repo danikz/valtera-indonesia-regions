@@ -2,31 +2,37 @@
   {
     "code": "3404122001",
     "district_code": "340412",
-    "name": "Sariharjo"
+    "name": "Sariharjo",
+    "postal_code": "55581"
   },
   {
     "code": "3404122002",
     "district_code": "340412",
-    "name": "Minomartani"
+    "name": "Minomartani",
+    "postal_code": "55581"
   },
   {
     "code": "3404122003",
     "district_code": "340412",
-    "name": "Sinduharjo"
+    "name": "Sinduharjo",
+    "postal_code": "55581"
   },
   {
     "code": "3404122004",
     "district_code": "340412",
-    "name": "Sukoharjo"
+    "name": "Sukoharjo",
+    "postal_code": "55581"
   },
   {
     "code": "3404122005",
     "district_code": "340412",
-    "name": "Sardonoharjo"
+    "name": "Sardonoharjo",
+    "postal_code": "55581"
   },
   {
     "code": "3404122006",
     "district_code": "340412",
-    "name": "Donoharjo"
+    "name": "Donoharjo",
+    "postal_code": "55581"
   }
 ]

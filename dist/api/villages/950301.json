@@ -2,116 +2,139 @@
   {
     "code": "9503011001",
     "district_code": "950301",
-    "name": "Obolma"
+    "name": "Obolma",
+    "postal_code": "99705"
   },
   {
     "code": "9503012002",
     "district_code": "950301",
-    "name": "Ibiroma"
+    "name": "Ibiroma",
+    "postal_code": "99041"
   },
   {
     "code": "9503012003",
     "district_code": "950301",
-    "name": "Hihundes"
+    "name": "Hihundes",
+    "postal_code": "99705"
   },
   {
     "code": "9503012004",
     "district_code": "950301",
-    "name": "Wanem"
+    "name": "Wanem",
+    "postal_code": "99041"
   },
   {
     "code": "9503012005",
     "district_code": "950301",
-    "name": "Anjelma"
+    "name": "Anjelma",
+    "postal_code": "99041"
   },
   {
     "code": "9503012006",
     "district_code": "950301",
-    "name": "Pusuaga"
+    "name": "Pusuaga",
+    "postal_code": "99041"
   },
   {
     "code": "9503012007",
     "district_code": "950301",
-    "name": "Wulik Punua"
+    "name": "Wulik Punua",
+    "postal_code": "99041"
   },
   {
     "code": "9503012008",
     "district_code": "950301",
-    "name": "Kilise"
+    "name": "Kilise",
+    "postal_code": "99041"
   },
   {
     "code": "9503012009",
     "district_code": "950301",
-    "name": "Air Garam"
+    "name": "Air Garam",
+    "postal_code": "99041"
   },
   {
     "code": "9503012010",
     "district_code": "950301",
-    "name": "Esalien"
+    "name": "Esalien",
+    "postal_code": "99041"
   },
   {
     "code": "9503012011",
     "district_code": "950301",
-    "name": "Lukulema"
+    "name": "Lukulema",
+    "postal_code": "99041"
   },
   {
     "code": "9503012012",
     "district_code": "950301",
-    "name": "Tukuarek"
+    "name": "Tukuarek",
+    "postal_code": "99041"
   },
   {
     "code": "9503012013",
     "district_code": "950301",
-    "name": "Kima"
+    "name": "Kima",
+    "postal_code": "99705"
   },
   {
     "code": "9503012014",
     "district_code": "950301",
-    "name": "Yagarelo"
+    "name": "Yagarelo",
+    "postal_code": "99041"
   },
   {
     "code": "9503012015",
     "district_code": "950301",
-    "name": "Soroh"
+    "name": "Soroh",
+    "postal_code": "99705"
   },
   {
     "code": "9503012016",
     "district_code": "950301",
-    "name": "Eroma"
+    "name": "Eroma",
+    "postal_code": "99705"
   },
   {
     "code": "9503012017",
     "district_code": "950301",
-    "name": "Lotia"
+    "name": "Lotia",
+    "postal_code": "99041"
   },
   {
     "code": "9503012018",
     "district_code": "950301",
-    "name": "Wuluagaima"
+    "name": "Wuluagaima",
+    "postal_code": "99041"
   },
   {
     "code": "9503012019",
     "district_code": "950301",
-    "name": "Huken"
+    "name": "Huken",
+    "postal_code": "99041"
   },
   {
     "code": "9503012020",
     "district_code": "950301",
-    "name": "Huguma"
+    "name": "Huguma",
+    "postal_code": "99041"
   },
   {
     "code": "9503012021",
     "district_code": "950301",
-    "name": "Parela"
+    "name": "Parela",
+    "postal_code": "99041"
   },
   {
     "code": "9503012022",
     "district_code": "950301",
-    "name": "Wakunyama"
+    "name": "Wakunyama",
+    "postal_code": ""
   },
   {
     "code": "9503012023",
     "district_code": "950301",
-    "name": "Hesmat"
+    "name": "Hesmat",
+    "postal_code": "99041"
   }
 ]

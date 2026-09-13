@@ -2,26 +2,31 @@
   {
     "code": "1271161001",
     "district_code": "127116",
-    "name": "Madras Hulu"
+    "name": "Madras Hulu",
+    "postal_code": "20152"
   },
   {
     "code": "1271161002",
     "district_code": "127116",
-    "name": "Polonia"
+    "name": "Polonia",
+    "postal_code": "20157"
   },
   {
     "code": "1271161003",
     "district_code": "127116",
-    "name": "Sari Rejo"
+    "name": "Sari Rejo",
+    "postal_code": "20157"
   },
   {
     "code": "1271161004",
     "district_code": "127116",
-    "name": "Suka Damai"
+    "name": "Suka Damai",
+    "postal_code": "20157"
   },
   {
     "code": "1271161005",
     "district_code": "127116",
-    "name": "Anggrung"
+    "name": "Anggrung",
+    "postal_code": "20152"
   }
 ]

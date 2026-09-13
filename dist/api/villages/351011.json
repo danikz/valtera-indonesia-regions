@@ -2,31 +2,37 @@
   {
     "code": "3510112001",
     "district_code": "351011",
-    "name": "Kalibarukulon"
+    "name": "Kalibarukulon",
+    "postal_code": "68467"
   },
   {
     "code": "3510112002",
     "district_code": "351011",
-    "name": "Kalibarumanis"
+    "name": "Kalibarumanis",
+    "postal_code": "68467"
   },
   {
     "code": "3510112003",
     "district_code": "351011",
-    "name": "Kalibaruwetan"
+    "name": "Kalibaruwetan",
+    "postal_code": "68467"
   },
   {
     "code": "3510112004",
     "district_code": "351011",
-    "name": "Kajarharjo"
+    "name": "Kajarharjo",
+    "postal_code": "68467"
   },
   {
     "code": "3510112005",
     "district_code": "351011",
-    "name": "Banyuanyar"
+    "name": "Banyuanyar",
+    "postal_code": "68467"
   },
   {
     "code": "3510112006",
     "district_code": "351011",
-    "name": "Kebonrejo"
+    "name": "Kebonrejo",
+    "postal_code": "68467"
   }
 ]

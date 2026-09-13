@@ -2,31 +2,37 @@
   {
     "code": "3204052001",
     "district_code": "320405",
-    "name": "Cileunyi Kulon"
+    "name": "Cileunyi Kulon",
+    "postal_code": "40621"
   },
   {
     "code": "3204052002",
     "district_code": "320405",
-    "name": "Cileunyi Wetan"
+    "name": "Cileunyi Wetan",
+    "postal_code": "40622"
   },
   {
     "code": "3204052003",
     "district_code": "320405",
-    "name": "Cimekar"
+    "name": "Cimekar",
+    "postal_code": "40623"
   },
   {
     "code": "3204052004",
     "district_code": "320405",
-    "name": "Cinunuk"
+    "name": "Cinunuk",
+    "postal_code": "40624"
   },
   {
     "code": "3204052005",
     "district_code": "320405",
-    "name": "Cibiru Hilir"
+    "name": "Cibiru Hilir",
+    "postal_code": "40626"
   },
   {
     "code": "3204052006",
     "district_code": "320405",
-    "name": "Cibiru Wetan"
+    "name": "Cibiru Wetan",
+    "postal_code": "40625"
   }
 ]

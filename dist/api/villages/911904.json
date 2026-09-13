@@ -2,46 +2,55 @@
   {
     "code": "9119042001",
     "district_code": "911904",
-    "name": "Rayori"
+    "name": "Rayori",
+    "postal_code": "98571"
   },
   {
     "code": "9119042002",
     "district_code": "911904",
-    "name": "Mbrurwandi"
+    "name": "Mbrurwandi",
+    "postal_code": "98571"
   },
   {
     "code": "9119042003",
     "district_code": "911904",
-    "name": "Manggonswan"
+    "name": "Manggonswan",
+    "postal_code": "98571"
   },
   {
     "code": "9119042004",
     "district_code": "911904",
-    "name": "Wongkeina"
+    "name": "Wongkeina",
+    "postal_code": "98571"
   },
   {
     "code": "9119042005",
     "district_code": "911904",
-    "name": "Yamnaisu"
+    "name": "Yamnaisu",
+    "postal_code": "98571"
   },
   {
     "code": "9119042006",
     "district_code": "911904",
-    "name": "Aruri"
+    "name": "Aruri",
+    "postal_code": "98571"
   },
   {
     "code": "9119042007",
     "district_code": "911904",
-    "name": "Imbirsbari"
+    "name": "Imbirsbari",
+    "postal_code": "98571"
   },
   {
     "code": "9119042008",
     "district_code": "911904",
-    "name": "Ineki"
+    "name": "Ineki",
+    "postal_code": "98571"
   },
   {
     "code": "9119042009",
     "district_code": "911904",
-    "name": "Insumbrei"
+    "name": "Insumbrei",
+    "postal_code": "98571"
   }
 ]

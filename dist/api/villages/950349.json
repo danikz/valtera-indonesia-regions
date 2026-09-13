@@ -2,36 +2,43 @@
   {
     "code": "9503492001",
     "district_code": "950349",
-    "name": "Yogosem"
+    "name": "Yogosem",
+    "postal_code": "99720"
   },
   {
     "code": "9503492002",
     "district_code": "950349",
-    "name": "Kiroma"
+    "name": "Kiroma",
+    "postal_code": "99720"
   },
   {
     "code": "9503492003",
     "district_code": "950349",
-    "name": "Sogasio"
+    "name": "Sogasio",
+    "postal_code": "99720"
   },
   {
     "code": "9503492004",
     "district_code": "950349",
-    "name": "Saikama"
+    "name": "Saikama",
+    "postal_code": "99720"
   },
   {
     "code": "9503492005",
     "district_code": "950349",
-    "name": "Hokolekma"
+    "name": "Hokolekma",
+    "postal_code": "99720"
   },
   {
     "code": "9503492006",
     "district_code": "950349",
-    "name": "Esahapuk"
+    "name": "Esahapuk",
+    "postal_code": "99720"
   },
   {
     "code": "9503492007",
     "district_code": "950349",
-    "name": "Mesahaput"
+    "name": "Mesahaput",
+    "postal_code": "99720"
   }
 ]

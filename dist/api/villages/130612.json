@@ -2,26 +2,31 @@
   {
     "code": "1306122001",
     "district_code": "130612",
-    "name": "Padang Laweh"
+    "name": "Padang Laweh",
+    "postal_code": "26182"
   },
   {
     "code": "1306122002",
     "district_code": "130612",
-    "name": "Sungai Pua"
+    "name": "Sungai Pua",
+    "postal_code": "26182"
   },
   {
     "code": "1306122003",
     "district_code": "130612",
-    "name": "Batagak"
+    "name": "Batagak",
+    "postal_code": "26182"
   },
   {
     "code": "1306122004",
     "district_code": "130612",
-    "name": "Batu Palano"
+    "name": "Batu Palano",
+    "postal_code": "26182"
   },
   {
     "code": "1306122005",
     "district_code": "130612",
-    "name": "Sariak"
+    "name": "Sariak",
+    "postal_code": "26182"
   }
 ]

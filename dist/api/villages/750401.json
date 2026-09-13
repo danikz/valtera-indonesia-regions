@@ -2,51 +2,61 @@
   {
     "code": "7504012003",
     "district_code": "750401",
-    "name": "Torosiaje Jaya"
+    "name": "Torosiaje Jaya",
+    "postal_code": "96466"
   },
   {
     "code": "7504012004",
     "district_code": "750401",
-    "name": "Popayato"
+    "name": "Popayato",
+    "postal_code": "96466"
   },
   {
     "code": "7504012008",
     "district_code": "750401",
-    "name": "Telaga"
+    "name": "Telaga",
+    "postal_code": "96466"
   },
   {
     "code": "7504012012",
     "district_code": "750401",
-    "name": "Torosiaje"
+    "name": "Torosiaje",
+    "postal_code": "96466"
   },
   {
     "code": "7504012015",
     "district_code": "750401",
-    "name": "Bukit Tingki"
+    "name": "Bukit Tingki",
+    "postal_code": "96466"
   },
   {
     "code": "7504012016",
     "district_code": "750401",
-    "name": "Tunas Harapan"
+    "name": "Tunas Harapan",
+    "postal_code": "96466"
   },
   {
     "code": "7504012017",
     "district_code": "750401",
-    "name": "Trikora"
+    "name": "Trikora",
+    "postal_code": "96466"
   },
   {
     "code": "7504012018",
     "district_code": "750401",
-    "name": "Dambalo"
+    "name": "Dambalo",
+    "postal_code": "96466"
   },
   {
     "code": "7504012019",
     "district_code": "750401",
-    "name": "Telaga Biru"
+    "name": "Telaga Biru",
+    "postal_code": "96466"
   },
   {
     "code": "7504012020",
     "district_code": "750401",
-    "name": "Bumi Bahari"
+    "name": "Bumi Bahari",
+    "postal_code": "96466"
   }
 ]

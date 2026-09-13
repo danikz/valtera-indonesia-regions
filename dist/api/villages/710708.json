@@ -2,51 +2,61 @@
   {
     "code": "7107082001",
     "district_code": "710708",
-    "name": "Silian"
+    "name": "Silian",
+    "postal_code": "95998"
   },
   {
     "code": "7107082002",
     "district_code": "710708",
-    "name": "Silian Utara"
+    "name": "Silian Utara",
+    "postal_code": "95998"
   },
   {
     "code": "7107082003",
     "district_code": "710708",
-    "name": "Silian Satu"
+    "name": "Silian Satu",
+    "postal_code": "95998"
   },
   {
     "code": "7107082004",
     "district_code": "710708",
-    "name": "Silian Selatan"
+    "name": "Silian Selatan",
+    "postal_code": "95998"
   },
   {
     "code": "7107082005",
     "district_code": "710708",
-    "name": "Silian Dua"
+    "name": "Silian Dua",
+    "postal_code": "95998"
   },
   {
     "code": "7107082006",
     "district_code": "710708",
-    "name": "Silian Tengah"
+    "name": "Silian Tengah",
+    "postal_code": "95998"
   },
   {
     "code": "7107082007",
     "district_code": "710708",
-    "name": "Silian Tiga"
+    "name": "Silian Tiga",
+    "postal_code": "95998"
   },
   {
     "code": "7107082008",
     "district_code": "710708",
-    "name": "Silian Barat"
+    "name": "Silian Barat",
+    "postal_code": "95998"
   },
   {
     "code": "7107082009",
     "district_code": "710708",
-    "name": "Silian Kota"
+    "name": "Silian Kota",
+    "postal_code": "95998"
   },
   {
     "code": "7107082010",
     "district_code": "710708",
-    "name": "Silian Timur"
+    "name": "Silian Timur",
+    "postal_code": "95998"
   }
 ]

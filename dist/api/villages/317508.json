@@ -2,26 +2,31 @@
   {
     "code": "3175081001",
     "district_code": "317508",
-    "name": "Makasar"
+    "name": "Makasar",
+    "postal_code": "13570"
   },
   {
     "code": "3175081002",
     "district_code": "317508",
-    "name": "Pinangranti"
+    "name": "Pinangranti",
+    "postal_code": "13560"
   },
   {
     "code": "3175081003",
     "district_code": "317508",
-    "name": "Kebon Pala"
+    "name": "Kebon Pala",
+    "postal_code": "13650"
   },
   {
     "code": "3175081004",
     "district_code": "317508",
-    "name": "Halim Perdana Kusuma"
+    "name": "Halim Perdana Kusuma",
+    "postal_code": "13610"
   },
   {
     "code": "3175081005",
     "district_code": "317508",
-    "name": "Cipinang Melayu"
+    "name": "Cipinang Melayu",
+    "postal_code": "13620"
   }
 ]

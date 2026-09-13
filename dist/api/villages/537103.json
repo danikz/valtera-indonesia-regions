@@ -2,26 +2,31 @@
   {
     "code": "5371031001",
     "district_code": "537103",
-    "name": "Kelapa Lima"
+    "name": "Kelapa Lima",
+    "postal_code": "85228"
   },
   {
     "code": "5371031010",
     "district_code": "537103",
-    "name": "Oesapa"
+    "name": "Oesapa",
+    "postal_code": "85228"
   },
   {
     "code": "5371031011",
     "district_code": "537103",
-    "name": "Lasiana"
+    "name": "Lasiana",
+    "postal_code": "85228"
   },
   {
     "code": "5371031014",
     "district_code": "537103",
-    "name": "Oesapa Barat"
+    "name": "Oesapa Barat",
+    "postal_code": "85228"
   },
   {
     "code": "5371031015",
     "district_code": "537103",
-    "name": "Oesapa Selatan"
+    "name": "Oesapa Selatan",
+    "postal_code": "85228"
   }
 ]

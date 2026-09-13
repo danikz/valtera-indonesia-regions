@@ -2,56 +2,67 @@
   {
     "code": "1806252001",
     "district_code": "180625",
-    "name": "Negeri Agung"
+    "name": "Negeri Agung",
+    "postal_code": "35686"
   },
   {
     "code": "1806252002",
     "district_code": "180625",
-    "name": "Bandar Sukabumi"
+    "name": "Bandar Sukabumi",
+    "postal_code": "35686"
   },
   {
     "code": "1806252003",
     "district_code": "180625",
-    "name": "Sanggi"
+    "name": "Sanggi",
+    "postal_code": "35686"
   },
   {
     "code": "1806252004",
     "district_code": "180625",
-    "name": "Rajabasa"
+    "name": "Rajabasa",
+    "postal_code": "35686"
   },
   {
     "code": "1806252005",
     "district_code": "180625",
-    "name": "Banding"
+    "name": "Banding",
+    "postal_code": "35686"
   },
   {
     "code": "1806252006",
     "district_code": "180625",
-    "name": "Gunung Doh"
+    "name": "Gunung Doh",
+    "postal_code": "35686"
   },
   {
     "code": "1806252007",
     "district_code": "180625",
-    "name": "Simpang Bayur"
+    "name": "Simpang Bayur",
+    "postal_code": "35686"
   },
   {
     "code": "1806252008",
     "district_code": "180625",
-    "name": "Atar Lebar"
+    "name": "Atar Lebar",
+    "postal_code": "35686"
   },
   {
     "code": "1806252009",
     "district_code": "180625",
-    "name": "Sinar Bangun"
+    "name": "Sinar Bangun",
+    "postal_code": "35686"
   },
   {
     "code": "1806252010",
     "district_code": "180625",
-    "name": "Sanggi Unggak"
+    "name": "Sanggi Unggak",
+    "postal_code": "35686"
   },
   {
     "code": "1806252011",
     "district_code": "180625",
-    "name": "Tulung Sari"
+    "name": "Tulung Sari",
+    "postal_code": "35686"
   }
 ]

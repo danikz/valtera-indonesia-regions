@@ -2,21 +2,25 @@
   {
     "code": "7603141001",
     "district_code": "760314",
-    "name": "Tawalian"
+    "name": "Tawalian",
+    "postal_code": "91368"
   },
   {
     "code": "7603142002",
     "district_code": "760314",
-    "name": "Tawalian Timur"
+    "name": "Tawalian Timur",
+    "postal_code": "91368"
   },
   {
     "code": "7603142003",
     "district_code": "760314",
-    "name": "Kariango"
+    "name": "Kariango",
+    "postal_code": "91368"
   },
   {
     "code": "7603142004",
     "district_code": "760314",
-    "name": "Rantetangnga"
+    "name": "Rantetangnga",
+    "postal_code": "91368"
   }
 ]

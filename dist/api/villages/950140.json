@@ -2,41 +2,49 @@
   {
     "code": "9501401001",
     "district_code": "950140",
-    "name": "Ilokama"
+    "name": "Ilokama",
+    "postal_code": "99513"
   },
   {
     "code": "9501402002",
     "district_code": "950140",
-    "name": "Kama"
+    "name": "Kama",
+    "postal_code": "99513"
   },
   {
     "code": "9501402003",
     "district_code": "950140",
-    "name": "Yaloaput"
+    "name": "Yaloaput",
+    "postal_code": "99513"
   },
   {
     "code": "9501402004",
     "district_code": "950140",
-    "name": "Mawampi"
+    "name": "Mawampi",
+    "postal_code": "99513"
   },
   {
     "code": "9501402005",
     "district_code": "950140",
-    "name": "Parema"
+    "name": "Parema",
+    "postal_code": "99513"
   },
   {
     "code": "9501402006",
     "district_code": "950140",
-    "name": "Agamoa"
+    "name": "Agamoa",
+    "postal_code": "99513"
   },
   {
     "code": "9501402007",
     "district_code": "950140",
-    "name": "Silumarek"
+    "name": "Silumarek",
+    "postal_code": "99513"
   },
   {
     "code": "9501402008",
     "district_code": "950140",
-    "name": "Wesaganya"
+    "name": "Wesaganya",
+    "postal_code": "99513"
   }
 ]

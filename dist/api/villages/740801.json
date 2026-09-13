@@ -2,61 +2,73 @@
   {
     "code": "7408011001",
     "district_code": "740801",
-    "name": "Lasusua"
+    "name": "Lasusua",
+    "postal_code": "93911"
   },
   {
     "code": "7408012002",
     "district_code": "740801",
-    "name": "Pitulua"
+    "name": "Pitulua",
+    "postal_code": "93915"
   },
   {
     "code": "7408012003",
     "district_code": "740801",
-    "name": "Rante Limbong"
+    "name": "Rante Limbong",
+    "postal_code": "93916"
   },
   {
     "code": "7408012006",
     "district_code": "740801",
-    "name": "Totallang"
+    "name": "Totallang",
+    "postal_code": "93916"
   },
   {
     "code": "7408012007",
     "district_code": "740801",
-    "name": "Tojabi"
+    "name": "Tojabi",
+    "postal_code": "93916"
   },
   {
     "code": "7408012008",
     "district_code": "740801",
-    "name": "Ponggiha"
+    "name": "Ponggiha",
+    "postal_code": "93912"
   },
   {
     "code": "7408012009",
     "district_code": "740801",
-    "name": "Watuliwu"
+    "name": "Watuliwu",
+    "postal_code": "93916"
   },
   {
     "code": "7408012010",
     "district_code": "740801",
-    "name": "Sulaho"
+    "name": "Sulaho",
+    "postal_code": "93916"
   },
   {
     "code": "7408012015",
     "district_code": "740801",
-    "name": "Patowonua"
+    "name": "Patowonua",
+    "postal_code": "93916"
   },
   {
     "code": "7408012016",
     "district_code": "740801",
-    "name": "Babussalam"
+    "name": "Babussalam",
+    "postal_code": "93916"
   },
   {
     "code": "7408012017",
     "district_code": "740801",
-    "name": "Batu Ganda Permai"
+    "name": "Batu Ganda Permai",
+    "postal_code": "93916"
   },
   {
     "code": "7408012018",
     "district_code": "740801",
-    "name": "Puncak Monapa"
+    "name": "Puncak Monapa",
+    "postal_code": "93916"
   }
 ]

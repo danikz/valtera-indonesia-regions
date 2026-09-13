@@ -2,56 +2,67 @@
   {
     "code": "3510122001",
     "district_code": "351012",
-    "name": "Gambor"
+    "name": "Gambor",
+    "postal_code": "68464"
   },
   {
     "code": "3510122002",
     "district_code": "351012",
-    "name": "Alasmalang"
+    "name": "Alasmalang",
+    "postal_code": "68464"
   },
   {
     "code": "3510122003",
     "district_code": "351012",
-    "name": "Benelan Kidul"
+    "name": "Benelan Kidul",
+    "postal_code": "68464"
   },
   {
     "code": "3510122004",
     "district_code": "351012",
-    "name": "Lemahbang Kulon"
+    "name": "Lemahbang Kulon",
+    "postal_code": "68464"
   },
   {
     "code": "3510122005",
     "district_code": "351012",
-    "name": "Singojuruh"
+    "name": "Singojuruh",
+    "postal_code": "68464"
   },
   {
     "code": "3510122006",
     "district_code": "351012",
-    "name": "Gumirih"
+    "name": "Gumirih",
+    "postal_code": "68464"
   },
   {
     "code": "3510122007",
     "district_code": "351012",
-    "name": "Cantuk"
+    "name": "Cantuk",
+    "postal_code": "68464"
   },
   {
     "code": "3510122008",
     "district_code": "351012",
-    "name": "Padang"
+    "name": "Padang",
+    "postal_code": "68464"
   },
   {
     "code": "3510122009",
     "district_code": "351012",
-    "name": "Singolatren"
+    "name": "Singolatren",
+    "postal_code": "68464"
   },
   {
     "code": "3510122010",
     "district_code": "351012",
-    "name": "Kemiri"
+    "name": "Kemiri",
+    "postal_code": "68464"
   },
   {
     "code": "3510122011",
     "district_code": "351012",
-    "name": "Sumberbaru"
+    "name": "Sumberbaru",
+    "postal_code": "68464"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "5302172001",
     "district_code": "530217",
-    "name": "OP"
+    "name": "OP",
+    "postal_code": "85586"
   },
   {
     "code": "5302172002",
     "district_code": "530217",
-    "name": "Sahan"
+    "name": "Sahan",
+    "postal_code": "85586"
   },
   {
     "code": "5302172003",
     "district_code": "530217",
-    "name": "Nenoat"
+    "name": "Nenoat",
+    "postal_code": "85586"
   },
   {
     "code": "5302172004",
     "district_code": "530217",
-    "name": "Haineno"
+    "name": "Haineno",
+    "postal_code": "85586"
   },
   {
     "code": "5302172005",
     "district_code": "530217",
-    "name": "Nunkolo"
+    "name": "Nunkolo",
+    "postal_code": "85586"
   },
   {
     "code": "5302172006",
     "district_code": "530217",
-    "name": "Saenam"
+    "name": "Saenam",
+    "postal_code": "85586"
   },
   {
     "code": "5302172007",
     "district_code": "530217",
-    "name": "Fat"
+    "name": "Fat",
+    "postal_code": "85586"
   },
   {
     "code": "5302172008",
     "district_code": "530217",
-    "name": "Haumeni"
+    "name": "Haumeni",
+    "postal_code": "85586"
   },
   {
     "code": "5302172009",
     "district_code": "530217",
-    "name": "Putun"
+    "name": "Putun",
+    "postal_code": "85586"
   }
 ]

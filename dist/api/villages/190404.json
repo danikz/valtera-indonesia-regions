@@ -2,51 +2,61 @@
   {
     "code": "1904042001",
     "district_code": "190404",
-    "name": "Simpang Katis"
+    "name": "Simpang Katis",
+    "postal_code": "33674"
   },
   {
     "code": "1904042002",
     "district_code": "190404",
-    "name": "Celuak"
+    "name": "Celuak",
+    "postal_code": "33674"
   },
   {
     "code": "1904042003",
     "district_code": "190404",
-    "name": "Sungkap"
+    "name": "Sungkap",
+    "postal_code": "33674"
   },
   {
     "code": "1904042004",
     "district_code": "190404",
-    "name": "Beruas"
+    "name": "Beruas",
+    "postal_code": "33674"
   },
   {
     "code": "1904042005",
     "district_code": "190404",
-    "name": "Puput"
+    "name": "Puput",
+    "postal_code": "33674"
   },
   {
     "code": "1904042006",
     "district_code": "190404",
-    "name": "Teru"
+    "name": "Teru",
+    "postal_code": "33674"
   },
   {
     "code": "1904042007",
     "district_code": "190404",
-    "name": "Terak"
+    "name": "Terak",
+    "postal_code": "33674"
   },
   {
     "code": "1904042008",
     "district_code": "190404",
-    "name": "Pasir Garam"
+    "name": "Pasir Garam",
+    "postal_code": "33674"
   },
   {
     "code": "1904042009",
     "district_code": "190404",
-    "name": "Katis"
+    "name": "Katis",
+    "postal_code": "33674"
   },
   {
     "code": "1904042010",
     "district_code": "190404",
-    "name": "Pinang Sebatang"
+    "name": "Pinang Sebatang",
+    "postal_code": "33674"
   }
 ]

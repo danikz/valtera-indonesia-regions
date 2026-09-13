@@ -2,26 +2,31 @@
   {
     "code": "3202142001",
     "district_code": "320214",
-    "name": "Bojonggenteng"
+    "name": "Bojonggenteng",
+    "postal_code": "43353"
   },
   {
     "code": "3202142002",
     "district_code": "320214",
-    "name": "Cibodas"
+    "name": "Cibodas",
+    "postal_code": "43353"
   },
   {
     "code": "3202142003",
     "district_code": "320214",
-    "name": "Berekah"
+    "name": "Berekah",
+    "postal_code": "43353"
   },
   {
     "code": "3202142004",
     "district_code": "320214",
-    "name": "Cipanengah"
+    "name": "Cipanengah",
+    "postal_code": "43353"
   },
   {
     "code": "3202142005",
     "district_code": "320214",
-    "name": "Bojonggaling"
+    "name": "Bojonggaling",
+    "postal_code": "43353"
   }
 ]

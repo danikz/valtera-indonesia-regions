@@ -2,246 +2,295 @@
   {
     "code": "1107172001",
     "district_code": "110717",
-    "name": "Balue Tanoh"
+    "name": "Balue Tanoh",
+    "postal_code": "24164"
   },
   {
     "code": "1107172002",
     "district_code": "110717",
-    "name": "Balue Kulu"
+    "name": "Balue Kulu",
+    "postal_code": "24164"
   },
   {
     "code": "1107172003",
     "district_code": "110717",
-    "name": "Meunasah Empeh"
+    "name": "Meunasah Empeh",
+    "postal_code": "24164"
   },
   {
     "code": "1107172004",
     "district_code": "110717",
-    "name": "Cot Sukon"
+    "name": "Cot Sukon",
+    "postal_code": "24164"
   },
   {
     "code": "1107172005",
     "district_code": "110717",
-    "name": "Mns Dayah Tuha"
+    "name": "Mns Dayah Tuha",
+    "postal_code": "24164"
   },
   {
     "code": "1107172006",
     "district_code": "110717",
-    "name": "Kampong Cot"
+    "name": "Kampong Cot",
+    "postal_code": "24164"
   },
   {
     "code": "1107172007",
     "district_code": "110717",
-    "name": "Paloh Jeureula"
+    "name": "Paloh Jeureula",
+    "postal_code": "24164"
   },
   {
     "code": "1107172008",
     "district_code": "110717",
-    "name": "Barieh"
+    "name": "Barieh",
+    "postal_code": "24164"
   },
   {
     "code": "1107172009",
     "district_code": "110717",
-    "name": "Kandang"
+    "name": "Kandang",
+    "postal_code": "24164"
   },
   {
     "code": "1107172010",
     "district_code": "110717",
-    "name": "Riweuek"
+    "name": "Riweuek",
+    "postal_code": "24164"
   },
   {
     "code": "1107172011",
     "district_code": "110717",
-    "name": "Mancang"
+    "name": "Mancang",
+    "postal_code": "24164"
   },
   {
     "code": "1107172012",
     "district_code": "110717",
-    "name": "Kampong Pisang Bucue"
+    "name": "Kampong Pisang Bucue",
+    "postal_code": "24164"
   },
   {
     "code": "1107172013",
     "district_code": "110717",
-    "name": "Bucue"
+    "name": "Bucue",
+    "postal_code": "24164"
   },
   {
     "code": "1107172014",
     "district_code": "110717",
-    "name": "Lhok Panah"
+    "name": "Lhok Panah",
+    "postal_code": "24164"
   },
   {
     "code": "1107172015",
     "district_code": "110717",
-    "name": "Murong Cot"
+    "name": "Murong Cot",
+    "postal_code": "24164"
   },
   {
     "code": "1107172016",
     "district_code": "110717",
-    "name": "Cumbok Lie"
+    "name": "Cumbok Lie",
+    "postal_code": "24164"
   },
   {
     "code": "1107172017",
     "district_code": "110717",
-    "name": "Lam Ujong"
+    "name": "Lam Ujong",
+    "postal_code": "24164"
   },
   {
     "code": "1107172018",
     "district_code": "110717",
-    "name": "Murong Lhok"
+    "name": "Murong Lhok",
+    "postal_code": "24164"
   },
   {
     "code": "1107172019",
     "district_code": "110717",
-    "name": "Blang Cut"
+    "name": "Blang Cut",
+    "postal_code": "24164"
   },
   {
     "code": "1107172020",
     "district_code": "110717",
-    "name": "Cot Cantek"
+    "name": "Cot Cantek",
+    "postal_code": "24164"
   },
   {
     "code": "1107172021",
     "district_code": "110717",
-    "name": "Blang Kumot Baroh"
+    "name": "Blang Kumot Baroh",
+    "postal_code": "24164"
   },
   {
     "code": "1107172022",
     "district_code": "110717",
-    "name": "B. Kumot Tunong"
+    "name": "B. Kumot Tunong",
+    "postal_code": "24164"
   },
   {
     "code": "1107172023",
     "district_code": "110717",
-    "name": "Cumbok Niwa"
+    "name": "Cumbok Niwa",
+    "postal_code": "24164"
   },
   {
     "code": "1107172024",
     "district_code": "110717",
-    "name": "Leupeuem Mesjid"
+    "name": "Leupeuem Mesjid",
+    "postal_code": "24164"
   },
   {
     "code": "1107172025",
     "district_code": "110717",
-    "name": "Pulo Jeumpa"
+    "name": "Pulo Jeumpa",
+    "postal_code": "24164"
   },
   {
     "code": "1107172026",
     "district_code": "110717",
-    "name": "Beutong Pocut"
+    "name": "Beutong Pocut",
+    "postal_code": "24164"
   },
   {
     "code": "1107172027",
     "district_code": "110717",
-    "name": "Beutong Perlak"
+    "name": "Beutong Perlak",
+    "postal_code": "24164"
   },
   {
     "code": "1107172028",
     "district_code": "110717",
-    "name": "Gampong Jumpa"
+    "name": "Gampong Jumpa",
+    "postal_code": "24164"
   },
   {
     "code": "1107172029",
     "district_code": "110717",
-    "name": "Pantee Krueng"
+    "name": "Pantee Krueng",
+    "postal_code": "24164"
   },
   {
     "code": "1107172030",
     "district_code": "110717",
-    "name": "Jurong Pante"
+    "name": "Jurong Pante",
+    "postal_code": "24164"
   },
   {
     "code": "1107172032",
     "district_code": "110717",
-    "name": "Mali Lamkuta"
+    "name": "Mali Lamkuta",
+    "postal_code": "24164"
   },
   {
     "code": "1107172033",
     "district_code": "110717",
-    "name": "Mali Uke"
+    "name": "Mali Uke",
+    "postal_code": "24164"
   },
   {
     "code": "1107172034",
     "district_code": "110717",
-    "name": "Mali Mesjid"
+    "name": "Mali Mesjid",
+    "postal_code": "24164"
   },
   {
     "code": "1107172035",
     "district_code": "110717",
-    "name": "Mali Cot"
+    "name": "Mali Cot",
+    "postal_code": "24164"
   },
   {
     "code": "1107172036",
     "district_code": "110717",
-    "name": "Tangkueng"
+    "name": "Tangkueng",
+    "postal_code": "24164"
   },
   {
     "code": "1107172037",
     "district_code": "110717",
-    "name": "Lhok Mee"
+    "name": "Lhok Mee",
+    "postal_code": "24164"
   },
   {
     "code": "1107172038",
     "district_code": "110717",
-    "name": "Lameue Mns. Raya"
+    "name": "Lameue Mns. Raya",
+    "postal_code": "24164"
   },
   {
     "code": "1107172039",
     "district_code": "110717",
-    "name": "Lameue Mns. Baro"
+    "name": "Lameue Mns. Baro",
+    "postal_code": "24164"
   },
   {
     "code": "1107172040",
     "district_code": "110717",
-    "name": "Lameue Mns. Lueng"
+    "name": "Lameue Mns. Lueng",
+    "postal_code": "24164"
   },
   {
     "code": "1107172041",
     "district_code": "110717",
-    "name": "Pulo Kreumbok"
+    "name": "Pulo Kreumbok",
+    "postal_code": "24164"
   },
   {
     "code": "1107172042",
     "district_code": "110717",
-    "name": "Mns Raya Kp Pisang"
+    "name": "Mns Raya Kp Pisang",
+    "postal_code": "24164"
   },
   {
     "code": "1107172043",
     "district_code": "110717",
-    "name": "Mns Blang Sakti"
+    "name": "Mns Blang Sakti",
+    "postal_code": "24164"
   },
   {
     "code": "1107172044",
     "district_code": "110717",
-    "name": "Perlak Baroh"
+    "name": "Perlak Baroh",
+    "postal_code": "24164"
   },
   {
     "code": "1107172045",
     "district_code": "110717",
-    "name": "Lingkok"
+    "name": "Lingkok",
+    "postal_code": "24164"
   },
   {
     "code": "1107172046",
     "district_code": "110717",
-    "name": "Pasar Kota Bakti"
+    "name": "Pasar Kota Bakti",
+    "postal_code": "24164"
   },
   {
     "code": "1107172047",
     "district_code": "110717",
-    "name": "Mns Balee"
+    "name": "Mns Balee",
+    "postal_code": "24164"
   },
   {
     "code": "1107172048",
     "district_code": "110717",
-    "name": "Perlak Asan"
+    "name": "Perlak Asan",
+    "postal_code": "24164"
   },
   {
     "code": "1107172049",
     "district_code": "110717",
-    "name": "Kampong Baro"
+    "name": "Kampong Baro",
+    "postal_code": "24164"
   },
   {
     "code": "1107172050",
     "district_code": "110717",
-    "name": "Mali Guyui"
+    "name": "Mali Guyui",
+    "postal_code": "24164"
   }
 ]

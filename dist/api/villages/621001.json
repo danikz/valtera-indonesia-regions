@@ -2,36 +2,43 @@
   {
     "code": "6210011001",
     "district_code": "621001",
-    "name": "Sepang Simin"
+    "name": "Sepang Simin",
+    "postal_code": "74570"
   },
   {
     "code": "6210012002",
     "district_code": "621001",
-    "name": "Sepang Kota"
+    "name": "Sepang Kota",
+    "postal_code": "74570"
   },
   {
     "code": "6210012003",
     "district_code": "621001",
-    "name": "Tewai Baru"
+    "name": "Tewai Baru",
+    "postal_code": "74570"
   },
   {
     "code": "6210012004",
     "district_code": "621001",
-    "name": "Tanjung Karitak"
+    "name": "Tanjung Karitak",
+    "postal_code": "74570"
   },
   {
     "code": "6210012011",
     "district_code": "621001",
-    "name": "Pamatang Limau"
+    "name": "Pamatang Limau",
+    "postal_code": "74570"
   },
   {
     "code": "6210012012",
     "district_code": "621001",
-    "name": "Tampelas"
+    "name": "Tampelas",
+    "postal_code": "74570"
   },
   {
     "code": "6210012014",
     "district_code": "621001",
-    "name": "Rabauh"
+    "name": "Rabauh",
+    "postal_code": "74570"
   }
 ]

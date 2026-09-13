@@ -2,36 +2,43 @@
   {
     "code": "7414051004",
     "district_code": "741405",
-    "name": "Talaga Satu"
+    "name": "Talaga Satu",
+    "postal_code": "93766"
   },
   {
     "code": "7414052001",
     "district_code": "741405",
-    "name": "Kokoe"
+    "name": "Kokoe",
+    "postal_code": "93766"
   },
   {
     "code": "7414052002",
     "district_code": "741405",
-    "name": "Talaga Besar"
+    "name": "Talaga Besar",
+    "postal_code": "93766"
   },
   {
     "code": "7414052003",
     "district_code": "741405",
-    "name": "Talaga II"
+    "name": "Talaga II",
+    "postal_code": "93766"
   },
   {
     "code": "7414052005",
     "district_code": "741405",
-    "name": "Wulu"
+    "name": "Wulu",
+    "postal_code": "93766"
   },
   {
     "code": "7414052006",
     "district_code": "741405",
-    "name": "Liwulompona"
+    "name": "Liwulompona",
+    "postal_code": "93766"
   },
   {
     "code": "7414052007",
     "district_code": "741405",
-    "name": "Pangilia"
+    "name": "Pangilia",
+    "postal_code": "93766"
   }
 ]

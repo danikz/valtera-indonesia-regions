@@ -2,76 +2,91 @@
   {
     "code": "3372051001",
     "district_code": "337205",
-    "name": "Kadipiro"
+    "name": "Kadipiro",
+    "postal_code": "57136"
   },
   {
     "code": "3372051002",
     "district_code": "337205",
-    "name": "Nusukan"
+    "name": "Nusukan",
+    "postal_code": "57135"
   },
   {
     "code": "3372051003",
     "district_code": "337205",
-    "name": "Gilingan"
+    "name": "Gilingan",
+    "postal_code": "57134"
   },
   {
     "code": "3372051004",
     "district_code": "337205",
-    "name": "Setabelan"
+    "name": "Setabelan",
+    "postal_code": "57139"
   },
   {
     "code": "3372051005",
     "district_code": "337205",
-    "name": "Kestalan"
+    "name": "Kestalan",
+    "postal_code": "57133"
   },
   {
     "code": "3372051006",
     "district_code": "337205",
-    "name": "Keprabon"
+    "name": "Keprabon",
+    "postal_code": "57131"
   },
   {
     "code": "3372051007",
     "district_code": "337205",
-    "name": "Timuran"
+    "name": "Timuran",
+    "postal_code": "57131"
   },
   {
     "code": "3372051008",
     "district_code": "337205",
-    "name": "Ketelan"
+    "name": "Ketelan",
+    "postal_code": "57132"
   },
   {
     "code": "3372051009",
     "district_code": "337205",
-    "name": "Punggawan"
+    "name": "Punggawan",
+    "postal_code": "57132"
   },
   {
     "code": "3372051010",
     "district_code": "337205",
-    "name": "Mangkubumen"
+    "name": "Mangkubumen",
+    "postal_code": "57139"
   },
   {
     "code": "3372051011",
     "district_code": "337205",
-    "name": "Manahan"
+    "name": "Manahan",
+    "postal_code": "57139"
   },
   {
     "code": "3372051012",
     "district_code": "337205",
-    "name": "Sumber"
+    "name": "Sumber",
+    "postal_code": "57138"
   },
   {
     "code": "3372051013",
     "district_code": "337205",
-    "name": "Banyuanyar"
+    "name": "Banyuanyar",
+    "postal_code": "57137"
   },
   {
     "code": "3372051014",
     "district_code": "337205",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "57136"
   },
   {
     "code": "3372051015",
     "district_code": "337205",
-    "name": "Joglo"
+    "name": "Joglo",
+    "postal_code": "57136"
   }
 ]

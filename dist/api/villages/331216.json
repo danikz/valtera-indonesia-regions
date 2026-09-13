@@ -2,51 +2,61 @@
   {
     "code": "3312161005",
     "district_code": "331216",
-    "name": "Kismantoro"
+    "name": "Kismantoro",
+    "postal_code": "57696"
   },
   {
     "code": "3312161008",
     "district_code": "331216",
-    "name": "Gesing"
+    "name": "Gesing",
+    "postal_code": "57696"
   },
   {
     "code": "3312162001",
     "district_code": "331216",
-    "name": "Pucung"
+    "name": "Pucung",
+    "postal_code": "57696"
   },
   {
     "code": "3312162002",
     "district_code": "331216",
-    "name": "Plosorejo"
+    "name": "Plosorejo",
+    "postal_code": "57696"
   },
   {
     "code": "3312162003",
     "district_code": "331216",
-    "name": "Bugelan"
+    "name": "Bugelan",
+    "postal_code": "57696"
   },
   {
     "code": "3312162004",
     "district_code": "331216",
-    "name": "Ngroto"
+    "name": "Ngroto",
+    "postal_code": "57696"
   },
   {
     "code": "3312162006",
     "district_code": "331216",
-    "name": "Miri"
+    "name": "Miri",
+    "postal_code": "57696"
   },
   {
     "code": "3312162007",
     "district_code": "331216",
-    "name": "Lemahbang"
+    "name": "Lemahbang",
+    "postal_code": "57696"
   },
   {
     "code": "3312162009",
     "district_code": "331216",
-    "name": "Gambiranom"
+    "name": "Gambiranom",
+    "postal_code": "57696"
   },
   {
     "code": "3312162010",
     "district_code": "331216",
-    "name": "Gedawung"
+    "name": "Gedawung",
+    "postal_code": "57696"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "9207072001",
     "district_code": "920707",
-    "name": "Wosimi"
+    "name": "Wosimi",
+    "postal_code": "98342"
   },
   {
     "code": "9207072002",
     "district_code": "920707",
-    "name": "Sararti"
+    "name": "Sararti",
+    "postal_code": "98342"
   },
   {
     "code": "9207072003",
     "district_code": "920707",
-    "name": "Yabore"
+    "name": "Yabore",
+    "postal_code": "98342"
   },
   {
     "code": "9207072004",
     "district_code": "920707",
-    "name": "Oyaa"
+    "name": "Oyaa",
+    "postal_code": "98342"
   },
   {
     "code": "9207072005",
     "district_code": "920707",
-    "name": "Inyora"
+    "name": "Inyora",
+    "postal_code": "98342"
   },
   {
     "code": "9207072006",
     "district_code": "920707",
-    "name": "Undurara"
+    "name": "Undurara",
+    "postal_code": "98342"
   }
 ]

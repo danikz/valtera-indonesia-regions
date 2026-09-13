@@ -2,26 +2,31 @@
   {
     "code": "9119022003",
     "district_code": "911902",
-    "name": "Warsa"
+    "name": "Warsa",
+    "postal_code": "98582"
   },
   {
     "code": "9119022008",
     "district_code": "911902",
-    "name": "Warbor"
+    "name": "Warbor",
+    "postal_code": "98582"
   },
   {
     "code": "9119022009",
     "district_code": "911902",
-    "name": "Kobari Jaya"
+    "name": "Kobari Jaya",
+    "postal_code": "98582"
   },
   {
     "code": "9119022010",
     "district_code": "911902",
-    "name": "Fanjur"
+    "name": "Fanjur",
+    "postal_code": "98582"
   },
   {
     "code": "9119022015",
     "district_code": "911902",
-    "name": "Puweri"
+    "name": "Puweri",
+    "postal_code": "98582"
   }
 ]

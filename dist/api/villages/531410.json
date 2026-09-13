@@ -2,36 +2,43 @@
   {
     "code": "5314102001",
     "district_code": "531410",
-    "name": "Bolatena"
+    "name": "Bolatena",
+    "postal_code": "85974"
   },
   {
     "code": "5314102002",
     "district_code": "531410",
-    "name": "Lifuleo"
+    "name": "Lifuleo",
+    "postal_code": "85974"
   },
   {
     "code": "5314102003",
     "district_code": "531410",
-    "name": "Sotimori"
+    "name": "Sotimori",
+    "postal_code": "85974"
   },
   {
     "code": "5314102004",
     "district_code": "531410",
-    "name": "Daeurendale"
+    "name": "Daeurendale",
+    "postal_code": "85974"
   },
   {
     "code": "5314102005",
     "district_code": "531410",
-    "name": "Daiama"
+    "name": "Daiama",
+    "postal_code": "85974"
   },
   {
     "code": "5314102006",
     "district_code": "531410",
-    "name": "Pukuafu"
+    "name": "Pukuafu",
+    "postal_code": "85974"
   },
   {
     "code": "5314102007",
     "district_code": "531410",
-    "name": "Tena Lai"
+    "name": "Tena Lai",
+    "postal_code": "85974"
   }
 ]

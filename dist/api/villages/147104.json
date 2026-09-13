@@ -2,21 +2,25 @@
   {
     "code": "1471041001",
     "district_code": "147104",
-    "name": "Rintis"
+    "name": "Rintis",
+    "postal_code": "28141"
   },
   {
     "code": "1471041002",
     "district_code": "147104",
-    "name": "Tanjung RHU"
+    "name": "Tanjung RHU",
+    "postal_code": "28143"
   },
   {
     "code": "1471041003",
     "district_code": "147104",
-    "name": "Pesisir"
+    "name": "Pesisir",
+    "postal_code": "28144"
   },
   {
     "code": "1471041004",
     "district_code": "147104",
-    "name": "Sekip"
+    "name": "Sekip",
+    "postal_code": "28142"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "1373011001",
     "district_code": "137301",
-    "name": "Aur Mulio"
+    "name": "Aur Mulio",
+    "postal_code": "27418"
   },
   {
     "code": "1373011002",
     "district_code": "137301",
-    "name": "Kubang Sirakuk Utara"
+    "name": "Kubang Sirakuk Utara",
+    "postal_code": "27415"
   },
   {
     "code": "1373011003",
     "district_code": "137301",
-    "name": "Kubang S. Selatan"
+    "name": "Kubang S. Selatan",
+    "postal_code": "27415"
   },
   {
     "code": "1373011004",
     "district_code": "137301",
-    "name": "Pasar"
+    "name": "Pasar",
+    "postal_code": "27411"
   },
   {
     "code": "1373011005",
     "district_code": "137301",
-    "name": "Tanah Lapang"
+    "name": "Tanah Lapang",
+    "postal_code": "27411"
   },
   {
     "code": "1373011006",
     "district_code": "137301",
-    "name": "Aia Dingin"
+    "name": "Aia Dingin",
+    "postal_code": "27419"
   },
   {
     "code": "1373012007",
     "district_code": "137301",
-    "name": "Lunto Timur"
+    "name": "Lunto Timur",
+    "postal_code": "27416"
   },
   {
     "code": "1373012008",
     "district_code": "137301",
-    "name": "Lunto Barat"
+    "name": "Lunto Barat",
+    "postal_code": "27418"
   },
   {
     "code": "1373012009",
     "district_code": "137301",
-    "name": "Kubang Tangah"
+    "name": "Kubang Tangah",
+    "postal_code": "27413"
   },
   {
     "code": "1373012010",
     "district_code": "137301",
-    "name": "Kubang Utara Sikabu"
+    "name": "Kubang Utara Sikabu",
+    "postal_code": "27412"
   },
   {
     "code": "1373012011",
     "district_code": "137301",
-    "name": "Pasa Kubang"
+    "name": "Pasa Kubang",
+    "postal_code": "27415"
   }
 ]

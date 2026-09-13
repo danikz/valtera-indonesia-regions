@@ -2,36 +2,43 @@
   {
     "code": "6108132001",
     "district_code": "610813",
-    "name": "Sompak"
+    "name": "Sompak",
+    "postal_code": "79361"
   },
   {
     "code": "6108132002",
     "district_code": "610813",
-    "name": "Pauh"
+    "name": "Pauh",
+    "postal_code": "79361"
   },
   {
     "code": "6108132003",
     "district_code": "610813",
-    "name": "Lingkonong"
+    "name": "Lingkonong",
+    "postal_code": "79361"
   },
   {
     "code": "6108132004",
     "district_code": "610813",
-    "name": "Galar"
+    "name": "Galar",
+    "postal_code": "79361"
   },
   {
     "code": "6108132005",
     "district_code": "610813",
-    "name": "Amawakng"
+    "name": "Amawakng",
+    "postal_code": "79361"
   },
   {
     "code": "6108132006",
     "district_code": "610813",
-    "name": "Tapakng"
+    "name": "Tapakng",
+    "postal_code": "79361"
   },
   {
     "code": "6108132007",
     "district_code": "610813",
-    "name": "Pakumbang"
+    "name": "Pakumbang",
+    "postal_code": "79361"
   }
 ]

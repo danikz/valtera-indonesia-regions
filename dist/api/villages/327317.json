@@ -2,31 +2,37 @@
   {
     "code": "3273171001",
     "district_code": "327317",
-    "name": "Situsaeur"
+    "name": "Situsaeur",
+    "postal_code": "40234"
   },
   {
     "code": "3273171002",
     "district_code": "327317",
-    "name": "Kebon Lega"
+    "name": "Kebon Lega",
+    "postal_code": "40235"
   },
   {
     "code": "3273171003",
     "district_code": "327317",
-    "name": "Cibaduyut"
+    "name": "Cibaduyut",
+    "postal_code": "40236"
   },
   {
     "code": "3273171004",
     "district_code": "327317",
-    "name": "Mekarwangi"
+    "name": "Mekarwangi",
+    "postal_code": "40237"
   },
   {
     "code": "3273171005",
     "district_code": "327317",
-    "name": "Cibaduyut Kidul"
+    "name": "Cibaduyut Kidul",
+    "postal_code": "40239"
   },
   {
     "code": "3273171006",
     "district_code": "327317",
-    "name": "Cibaduyut Wetan"
+    "name": "Cibaduyut Wetan",
+    "postal_code": "40238"
   }
 ]

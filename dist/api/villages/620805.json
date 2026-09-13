@@ -2,36 +2,43 @@
   {
     "code": "6208052001",
     "district_code": "620805",
-    "name": "Kenawan"
+    "name": "Kenawan",
+    "postal_code": "74174"
   },
   {
     "code": "6208052002",
     "district_code": "620805",
-    "name": "Laman Baru"
+    "name": "Laman Baru",
+    "postal_code": "74174"
   },
   {
     "code": "6208052003",
     "district_code": "620805",
-    "name": "Ajang"
+    "name": "Ajang",
+    "postal_code": "74174"
   },
   {
     "code": "6208052004",
     "district_code": "620805",
-    "name": "Semantun"
+    "name": "Semantun",
+    "postal_code": "74174"
   },
   {
     "code": "6208052005",
     "district_code": "620805",
-    "name": "Nibung Terjun"
+    "name": "Nibung Terjun",
+    "postal_code": "74174"
   },
   {
     "code": "6208052006",
     "district_code": "620805",
-    "name": "Natai Kondang"
+    "name": "Natai Kondang",
+    "postal_code": "74174"
   },
   {
     "code": "6208052007",
     "district_code": "620805",
-    "name": "Sembikuan"
+    "name": "Sembikuan",
+    "postal_code": "74174"
   }
 ]

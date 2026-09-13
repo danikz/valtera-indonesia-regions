@@ -2,26 +2,31 @@
   {
     "code": "3206102001",
     "district_code": "320610",
-    "name": "Cikuya"
+    "name": "Cikuya",
+    "postal_code": "46188"
   },
   {
     "code": "3206102002",
     "district_code": "320610",
-    "name": "Cintabodas"
+    "name": "Cintabodas",
+    "postal_code": "46188"
   },
   {
     "code": "3206102003",
     "district_code": "320610",
-    "name": "Cipicung"
+    "name": "Cipicung",
+    "postal_code": "46188"
   },
   {
     "code": "3206102004",
     "district_code": "320610",
-    "name": "Bojongsari"
+    "name": "Bojongsari",
+    "postal_code": "46188"
   },
   {
     "code": "3206102005",
     "district_code": "320610",
-    "name": "Mekarlaksana"
+    "name": "Mekarlaksana",
+    "postal_code": "46188"
   }
 ]

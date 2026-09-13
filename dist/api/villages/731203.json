@@ -2,61 +2,73 @@
   {
     "code": "7312031001",
     "district_code": "731203",
-    "name": "Ujung"
+    "name": "Ujung",
+    "postal_code": "90871"
   },
   {
     "code": "7312031002",
     "district_code": "731203",
-    "name": "Cabenge"
+    "name": "Cabenge",
+    "postal_code": "90871"
   },
   {
     "code": "7312031003",
     "district_code": "731203",
-    "name": "Pajalesang"
+    "name": "Pajalesang",
+    "postal_code": "90871"
   },
   {
     "code": "7312031004",
     "district_code": "731203",
-    "name": "Macanre"
+    "name": "Macanre",
+    "postal_code": "90871"
   },
   {
     "code": "7312032005",
     "district_code": "731203",
-    "name": "Abbanuange"
+    "name": "Abbanuange",
+    "postal_code": "90871"
   },
   {
     "code": "7312032006",
     "district_code": "731203",
-    "name": "Tetewatu"
+    "name": "Tetewatu",
+    "postal_code": "90871"
   },
   {
     "code": "7312032007",
     "district_code": "731203",
-    "name": "Baringeng"
+    "name": "Baringeng",
+    "postal_code": "90871"
   },
   {
     "code": "7312032009",
     "district_code": "731203",
-    "name": "Masing"
+    "name": "Masing",
+    "postal_code": "90871"
   },
   {
     "code": "7312032010",
     "district_code": "731203",
-    "name": "Kebo"
+    "name": "Kebo",
+    "postal_code": "90871"
   },
   {
     "code": "7312032011",
     "district_code": "731203",
-    "name": "Parenring"
+    "name": "Parenring",
+    "postal_code": "90871"
   },
   {
     "code": "7312032012",
     "district_code": "731203",
-    "name": "Paroto"
+    "name": "Paroto",
+    "postal_code": "90871"
   },
   {
     "code": "7312032013",
     "district_code": "731203",
-    "name": "Palangiseng"
+    "name": "Palangiseng",
+    "postal_code": "90871"
   }
 ]

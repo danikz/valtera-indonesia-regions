@@ -2,41 +2,49 @@
   {
     "code": "9507332001",
     "district_code": "950733",
-    "name": "Odika"
+    "name": "Odika",
+    "postal_code": "99571"
   },
   {
     "code": "9507332002",
     "district_code": "950733",
-    "name": "Yubumabur"
+    "name": "Yubumabur",
+    "postal_code": "99571"
   },
   {
     "code": "9507332003",
     "district_code": "950733",
-    "name": "Ekapame"
+    "name": "Ekapame",
+    "postal_code": "99571"
   },
   {
     "code": "9507332004",
     "district_code": "950733",
-    "name": "Papani"
+    "name": "Papani",
+    "postal_code": "99571"
   },
   {
     "code": "9507332005",
     "district_code": "950733",
-    "name": "Kubagalo"
+    "name": "Kubagalo",
+    "postal_code": "99571"
   },
   {
     "code": "9507332006",
     "district_code": "950733",
-    "name": "Jilekme"
+    "name": "Jilekme",
+    "postal_code": "99571"
   },
   {
     "code": "9507332007",
     "district_code": "950733",
-    "name": "Wanome"
+    "name": "Wanome",
+    "postal_code": "99571"
   },
   {
     "code": "9507332008",
     "district_code": "950733",
-    "name": "Yiluweneri"
+    "name": "Yiluweneri",
+    "postal_code": "99571"
   }
 ]

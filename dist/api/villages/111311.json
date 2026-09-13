@@ -2,46 +2,55 @@
   {
     "code": "1113112001",
     "district_code": "111311",
-    "name": "Seneren"
+    "name": "Seneren",
+    "postal_code": "24654"
   },
   {
     "code": "1113112002",
     "district_code": "111311",
-    "name": "Remukut"
+    "name": "Remukut",
+    "postal_code": "24654"
   },
   {
     "code": "1113112003",
     "district_code": "111311",
-    "name": "Kenyaran"
+    "name": "Kenyaran",
+    "postal_code": "24654"
   },
   {
     "code": "1113112004",
     "district_code": "111311",
-    "name": "Tetingi"
+    "name": "Tetingi",
+    "postal_code": "24654"
   },
   {
     "code": "1113112005",
     "district_code": "111311",
-    "name": "Atu Kapur"
+    "name": "Atu Kapur",
+    "postal_code": "24654"
   },
   {
     "code": "1113112006",
     "district_code": "111311",
-    "name": "Suri Musara"
+    "name": "Suri Musara",
+    "postal_code": "24654"
   },
   {
     "code": "1113112007",
     "district_code": "111311",
-    "name": "UPT. Aih Selah"
+    "name": "UPT. Aih Selah",
+    "postal_code": "24654"
   },
   {
     "code": "1113112008",
     "district_code": "111311",
-    "name": "Cane Baru"
+    "name": "Cane Baru",
+    "postal_code": "24654"
   },
   {
     "code": "1113112009",
     "district_code": "111311",
-    "name": "Kuning Kurnia"
+    "name": "Kuning Kurnia",
+    "postal_code": "24654"
   }
 ]

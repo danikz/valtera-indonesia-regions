@@ -2,41 +2,49 @@
   {
     "code": "1305022001",
     "district_code": "130502",
-    "name": "Katapiang"
+    "name": "Katapiang",
+    "postal_code": "25586"
   },
   {
     "code": "1305022002",
     "district_code": "130502",
-    "name": "Kasang"
+    "name": "Kasang",
+    "postal_code": "25586"
   },
   {
     "code": "1305022003",
     "district_code": "130502",
-    "name": "Sungai Buluah"
+    "name": "Sungai Buluah",
+    "postal_code": "25586"
   },
   {
     "code": "1305022004",
     "district_code": "130502",
-    "name": "Buayan Lubuk Alung"
+    "name": "Buayan Lubuk Alung",
+    "postal_code": "25586"
   },
   {
     "code": "1305022005",
     "district_code": "130502",
-    "name": "Sungai Buluah Timur"
+    "name": "Sungai Buluah Timur",
+    "postal_code": "25586"
   },
   {
     "code": "1305022006",
     "district_code": "130502",
-    "name": "Sungai Buluah Barat"
+    "name": "Sungai Buluah Barat",
+    "postal_code": "25586"
   },
   {
     "code": "1305022007",
     "district_code": "130502",
-    "name": "Sungai Buluah Utara"
+    "name": "Sungai Buluah Utara",
+    "postal_code": "25586"
   },
   {
     "code": "1305022008",
     "district_code": "130502",
-    "name": "Sungai Buluah Selatan"
+    "name": "Sungai Buluah Selatan",
+    "postal_code": "25586"
   }
 ]

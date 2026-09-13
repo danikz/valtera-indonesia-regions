@@ -2,41 +2,49 @@
   {
     "code": "3307152001",
     "district_code": "330715",
-    "name": "Pengarengan"
+    "name": "Pengarengan",
+    "postal_code": "56373"
   },
   {
     "code": "3307152002",
     "district_code": "330715",
-    "name": "Kalikarung"
+    "name": "Kalikarung",
+    "postal_code": "56373"
   },
   {
     "code": "3307152003",
     "district_code": "330715",
-    "name": "Dempel"
+    "name": "Dempel",
+    "postal_code": "56373"
   },
   {
     "code": "3307152004",
     "district_code": "330715",
-    "name": "Karangsambung"
+    "name": "Karangsambung",
+    "postal_code": "56373"
   },
   {
     "code": "3307152005",
     "district_code": "330715",
-    "name": "Tempurejo"
+    "name": "Tempurejo",
+    "postal_code": "56373"
   },
   {
     "code": "3307152006",
     "district_code": "330715",
-    "name": "Mergolangu"
+    "name": "Mergolangu",
+    "postal_code": "56373"
   },
   {
     "code": "3307152007",
     "district_code": "330715",
-    "name": "Depok"
+    "name": "Depok",
+    "postal_code": "56373"
   },
   {
     "code": "3307152008",
     "district_code": "330715",
-    "name": "Kalialang"
+    "name": "Kalialang",
+    "postal_code": "56373"
   }
 ]

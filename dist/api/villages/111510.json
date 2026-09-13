@@ -2,21 +2,25 @@
   {
     "code": "1115102001",
     "district_code": "111510",
-    "name": "Blang Puuk"
+    "name": "Blang Puuk",
+    "postal_code": "23673"
   },
   {
     "code": "1115102002",
     "district_code": "111510",
-    "name": "Babah Suak"
+    "name": "Babah Suak",
+    "postal_code": "23673"
   },
   {
     "code": "1115102003",
     "district_code": "111510",
-    "name": "Kuta Teungoh"
+    "name": "Kuta Teungoh",
+    "postal_code": "23673"
   },
   {
     "code": "1115102004",
     "district_code": "111510",
-    "name": "Blang Meurandeh"
+    "name": "Blang Meurandeh",
+    "postal_code": "23673"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "6302012001",
     "district_code": "630201",
-    "name": "Labuan Barat"
+    "name": "Labuan Barat",
+    "postal_code": "72181"
   },
   {
     "code": "6302012002",
     "district_code": "630201",
-    "name": "Teluk Sungai"
+    "name": "Teluk Sungai",
+    "postal_code": "72181"
   },
   {
     "code": "6302012003",
     "district_code": "630201",
-    "name": "Maradapan"
+    "name": "Maradapan",
+    "postal_code": "72181"
   },
   {
     "code": "6302012004",
     "district_code": "630201",
-    "name": "Tengah"
+    "name": "Tengah",
+    "postal_code": "72181"
   },
   {
     "code": "6302012005",
     "district_code": "630201",
-    "name": "Tanjung Nyiur"
+    "name": "Tanjung Nyiur",
+    "postal_code": "72181"
   }
 ]

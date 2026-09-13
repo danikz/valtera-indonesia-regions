@@ -2,26 +2,31 @@
   {
     "code": "9302182001",
     "district_code": "930218",
-    "name": "Sesnuk"
+    "name": "Sesnuk",
+    "postal_code": "99664"
   },
   {
     "code": "9302182002",
     "district_code": "930218",
-    "name": "Anggamburan"
+    "name": "Anggamburan",
+    "postal_code": "99664"
   },
   {
     "code": "9302182003",
     "district_code": "930218",
-    "name": "Kanggup"
+    "name": "Kanggup",
+    "postal_code": "99664"
   },
   {
     "code": "9302182004",
     "district_code": "930218",
-    "name": "Yomkondo"
+    "name": "Yomkondo",
+    "postal_code": "99664"
   },
   {
     "code": "9302182005",
     "district_code": "930218",
-    "name": "Amboran"
+    "name": "Amboran",
+    "postal_code": "99664"
   }
 ]

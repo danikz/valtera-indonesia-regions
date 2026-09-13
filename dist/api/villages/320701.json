@@ -2,61 +2,73 @@
   {
     "code": "3207011001",
     "district_code": "320701",
-    "name": "Ciamis"
+    "name": "Ciamis",
+    "postal_code": "46211"
   },
   {
     "code": "3207011002",
     "district_code": "320701",
-    "name": "Kertasari"
+    "name": "Kertasari",
+    "postal_code": "46213"
   },
   {
     "code": "3207011003",
     "district_code": "320701",
-    "name": "Maleber"
+    "name": "Maleber",
+    "postal_code": "46214"
   },
   {
     "code": "3207011004",
     "district_code": "320701",
-    "name": "Cigembor"
+    "name": "Cigembor",
+    "postal_code": "46212"
   },
   {
     "code": "3207011005",
     "district_code": "320701",
-    "name": "Benteng"
+    "name": "Benteng",
+    "postal_code": "46217"
   },
   {
     "code": "3207011006",
     "district_code": "320701",
-    "name": "Linggasari"
+    "name": "Linggasari",
+    "postal_code": "46216"
   },
   {
     "code": "3207011007",
     "district_code": "320701",
-    "name": "Sindangrasa"
+    "name": "Sindangrasa",
+    "postal_code": "46215"
   },
   {
     "code": "3207012008",
     "district_code": "320701",
-    "name": "Pawindan"
+    "name": "Pawindan",
+    "postal_code": "46218"
   },
   {
     "code": "3207012009",
     "district_code": "320701",
-    "name": "Cisadap"
+    "name": "Cisadap",
+    "postal_code": "46215"
   },
   {
     "code": "3207012010",
     "district_code": "320701",
-    "name": "Imbanagara"
+    "name": "Imbanagara",
+    "postal_code": "46219"
   },
   {
     "code": "3207012011",
     "district_code": "320701",
-    "name": "Imbanagara Raya"
+    "name": "Imbanagara Raya",
+    "postal_code": "46219"
   },
   {
     "code": "3207012012",
     "district_code": "320701",
-    "name": "Panyingkiran"
+    "name": "Panyingkiran",
+    "postal_code": "46211"
   }
 ]

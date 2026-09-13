@@ -2,36 +2,43 @@
   {
     "code": "9303032001",
     "district_code": "930303",
-    "name": "Bidnew"
+    "name": "Bidnew",
+    "postal_code": "99875"
   },
   {
     "code": "9303032002",
     "district_code": "930303",
-    "name": "Senggo"
+    "name": "Senggo",
+    "postal_code": "99875"
   },
   {
     "code": "9303032003",
     "district_code": "930303",
-    "name": "Kumasma"
+    "name": "Kumasma",
+    "postal_code": "99875"
   },
   {
     "code": "9303032004",
     "district_code": "930303",
-    "name": "Womin"
+    "name": "Womin",
+    "postal_code": "99875"
   },
   {
     "code": "9303032005",
     "district_code": "930303",
-    "name": "Tamanin"
+    "name": "Tamanin",
+    "postal_code": "99875"
   },
   {
     "code": "9303032006",
     "district_code": "930303",
-    "name": "Epem"
+    "name": "Epem",
+    "postal_code": "99875"
   },
   {
     "code": "9303032007",
     "district_code": "930303",
-    "name": "Abau"
+    "name": "Abau",
+    "postal_code": "99875"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "7601082001",
     "district_code": "760108",
-    "name": "Tikke"
+    "name": "Tikke",
+    "postal_code": "91579"
   },
   {
     "code": "7601082002",
     "district_code": "760108",
-    "name": "Makmur Jaya"
+    "name": "Makmur Jaya",
+    "postal_code": "91579"
   },
   {
     "code": "7601082003",
     "district_code": "760108",
-    "name": "Lariang"
+    "name": "Lariang",
+    "postal_code": "91579"
   },
   {
     "code": "7601082004",
     "district_code": "760108",
-    "name": "Pajalele"
+    "name": "Pajalele",
+    "postal_code": "91579"
   },
   {
     "code": "7601082005",
     "district_code": "760108",
-    "name": "Jengeng Raya"
+    "name": "Jengeng Raya",
+    "postal_code": "91579"
   }
 ]

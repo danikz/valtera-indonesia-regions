@@ -2,46 +2,55 @@
   {
     "code": "8102152001",
     "district_code": "810215",
-    "name": "Rumadian"
+    "name": "Rumadian",
+    "postal_code": "97623"
   },
   {
     "code": "8102152002",
     "district_code": "810215",
-    "name": "Debut"
+    "name": "Debut",
+    "postal_code": "97623"
   },
   {
     "code": "8102152003",
     "district_code": "810215",
-    "name": "Namar"
+    "name": "Namar",
+    "postal_code": "97623"
   },
   {
     "code": "8102152004",
     "district_code": "810215",
-    "name": "Ngilngof"
+    "name": "Ngilngof",
+    "postal_code": "97623"
   },
   {
     "code": "8102152005",
     "district_code": "810215",
-    "name": "Selayar"
+    "name": "Selayar",
+    "postal_code": "97623"
   },
   {
     "code": "8102152006",
     "district_code": "810215",
-    "name": "Lairngangas"
+    "name": "Lairngangas",
+    "postal_code": "97623"
   },
   {
     "code": "8102152007",
     "district_code": "810215",
-    "name": "Ohoiluk"
+    "name": "Ohoiluk",
+    "postal_code": "97623"
   },
   {
     "code": "8102152008",
     "district_code": "810215",
-    "name": "Ohoililir"
+    "name": "Ohoililir",
+    "postal_code": "97623"
   },
   {
     "code": "8102152009",
     "district_code": "810215",
-    "name": "Ngayub"
+    "name": "Ngayub",
+    "postal_code": "97623"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "7601072001",
     "district_code": "760107",
-    "name": "Lilimori"
+    "name": "Lilimori",
+    "postal_code": "91578"
   },
   {
     "code": "7601072002",
     "district_code": "760107",
-    "name": "Karave"
+    "name": "Karave",
+    "postal_code": "91578"
   },
   {
     "code": "7601072003",
     "district_code": "760107",
-    "name": "Bukit Harapan"
+    "name": "Bukit Harapan",
+    "postal_code": "91578"
   },
   {
     "code": "7601072004",
     "district_code": "760107",
-    "name": "Kastabuana"
+    "name": "Kastabuana",
+    "postal_code": "91578"
   },
   {
     "code": "7601072005",
     "district_code": "760107",
-    "name": "Sumber Sari"
+    "name": "Sumber Sari",
+    "postal_code": "91578"
   },
   {
     "code": "7601072006",
     "district_code": "760107",
-    "name": "Lelejae"
+    "name": "Lelejae",
+    "postal_code": "91578"
   },
   {
     "code": "7601072007",
     "district_code": "760107",
-    "name": "Ompi"
+    "name": "Ompi",
+    "postal_code": "91578"
   }
 ]

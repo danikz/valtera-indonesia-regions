@@ -2,51 +2,61 @@
   {
     "code": "7413101008",
     "district_code": "741310",
-    "name": "Konawe"
+    "name": "Konawe",
+    "postal_code": "93655"
   },
   {
     "code": "7413102001",
     "district_code": "741310",
-    "name": "Lemoambo"
+    "name": "Lemoambo",
+    "postal_code": "93655"
   },
   {
     "code": "7413102002",
     "district_code": "741310",
-    "name": "Kasakamu"
+    "name": "Kasakamu",
+    "postal_code": "93655"
   },
   {
     "code": "7413102003",
     "district_code": "741310",
-    "name": "Tanjung Pinang"
+    "name": "Tanjung Pinang",
+    "postal_code": "93655"
   },
   {
     "code": "7413102004",
     "district_code": "741310",
-    "name": "Sidamangura"
+    "name": "Sidamangura",
+    "postal_code": "93655"
   },
   {
     "code": "7413102005",
     "district_code": "741310",
-    "name": "Lakawoghe"
+    "name": "Lakawoghe",
+    "postal_code": "93655"
   },
   {
     "code": "7413102006",
     "district_code": "741310",
-    "name": "Lapokainse"
+    "name": "Lapokainse",
+    "postal_code": "93655"
   },
   {
     "code": "7413102007",
     "district_code": "741310",
-    "name": "Guali"
+    "name": "Guali",
+    "postal_code": "93655"
   },
   {
     "code": "7413102009",
     "district_code": "741310",
-    "name": "Kusambi"
+    "name": "Kusambi",
+    "postal_code": "93655"
   },
   {
     "code": "7413102010",
     "district_code": "741310",
-    "name": "Bakeramba"
+    "name": "Bakeramba",
+    "postal_code": "93655"
   }
 ]

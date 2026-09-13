@@ -2,56 +2,67 @@
   {
     "code": "1373042001",
     "district_code": "137304",
-    "name": "Talawi Hilie"
+    "name": "Talawi Hilie",
+    "postal_code": "27445"
   },
   {
     "code": "1373042002",
     "district_code": "137304",
-    "name": "Talawi Mudiak"
+    "name": "Talawi Mudiak",
+    "postal_code": "27444"
   },
   {
     "code": "1373042003",
     "district_code": "137304",
-    "name": "Bukit Gadang"
+    "name": "Bukit Gadang",
+    "postal_code": "27444"
   },
   {
     "code": "1373042004",
     "district_code": "137304",
-    "name": "Batu Tanjung"
+    "name": "Batu Tanjung",
+    "postal_code": "27443"
   },
   {
     "code": "1373042005",
     "district_code": "137304",
-    "name": "Kumbayau"
+    "name": "Kumbayau",
+    "postal_code": "27443"
   },
   {
     "code": "1373042006",
     "district_code": "137304",
-    "name": "Tumpuk Tangah"
+    "name": "Tumpuk Tangah",
+    "postal_code": "27442"
   },
   {
     "code": "1373042007",
     "district_code": "137304",
-    "name": "Data Mansiang"
+    "name": "Data Mansiang",
+    "postal_code": "27441"
   },
   {
     "code": "1373042008",
     "district_code": "137304",
-    "name": "Sijantang Koto"
+    "name": "Sijantang Koto",
+    "postal_code": "27446"
   },
   {
     "code": "1373042009",
     "district_code": "137304",
-    "name": "Salak"
+    "name": "Salak",
+    "postal_code": "27447"
   },
   {
     "code": "1373042010",
     "district_code": "137304",
-    "name": "Sikalang"
+    "name": "Sikalang",
+    "postal_code": "27448"
   },
   {
     "code": "1373042011",
     "district_code": "137304",
-    "name": "Rantih"
+    "name": "Rantih",
+    "postal_code": "27449"
   }
 ]

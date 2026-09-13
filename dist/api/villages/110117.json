@@ -2,51 +2,61 @@
   {
     "code": "1101172001",
     "district_code": "110117",
-    "name": "Buket Gadeng"
+    "name": "Buket Gadeng",
+    "postal_code": "23778"
   },
   {
     "code": "1101172002",
     "district_code": "110117",
-    "name": "Rambong"
+    "name": "Rambong",
+    "postal_code": "23778"
   },
   {
     "code": "1101172003",
     "district_code": "110117",
-    "name": "Seuneubok Keuranji"
+    "name": "Seuneubok Keuranji",
+    "postal_code": "23778"
   },
   {
     "code": "1101172004",
     "district_code": "110117",
-    "name": "Seuneubok Alur Buloh"
+    "name": "Seuneubok Alur Buloh",
+    "postal_code": "23778"
   },
   {
     "code": "1101172005",
     "district_code": "110117",
-    "name": "Ujong Tanoh"
+    "name": "Ujong Tanoh",
+    "postal_code": "23778"
   },
   {
     "code": "1101172006",
     "district_code": "110117",
-    "name": "Ujong Gunong Cut"
+    "name": "Ujong Gunong Cut",
+    "postal_code": "23778"
   },
   {
     "code": "1101172007",
     "district_code": "110117",
-    "name": "Ujong Gunung Rayeuk"
+    "name": "Ujong Gunung Rayeuk",
+    "postal_code": "23778"
   },
   {
     "code": "1101172008",
     "district_code": "110117",
-    "name": "Beutong"
+    "name": "Beutong",
+    "postal_code": "23778"
   },
   {
     "code": "1101172009",
     "district_code": "110117",
-    "name": "Jambo Keupok"
+    "name": "Jambo Keupok",
+    "postal_code": "23778"
   },
   {
     "code": "1101172010",
     "district_code": "110117",
-    "name": "Alurduamas"
+    "name": "Alurduamas",
+    "postal_code": "23778"
   }
 ]

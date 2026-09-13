@@ -2,46 +2,55 @@
   {
     "code": "7314021001",
     "district_code": "731402",
-    "name": "Amparita"
+    "name": "Amparita",
+    "postal_code": "91662"
   },
   {
     "code": "7314021002",
     "district_code": "731402",
-    "name": "Massepe"
+    "name": "Massepe",
+    "postal_code": "91662"
   },
   {
     "code": "7314021003",
     "district_code": "731402",
-    "name": "Toddang Pulu"
+    "name": "Toddang Pulu",
+    "postal_code": "91662"
   },
   {
     "code": "7314021004",
     "district_code": "731402",
-    "name": "Pajalele"
+    "name": "Pajalele",
+    "postal_code": "91662"
   },
   {
     "code": "7314021005",
     "district_code": "731402",
-    "name": "Baula"
+    "name": "Baula",
+    "postal_code": "91662"
   },
   {
     "code": "7314021006",
     "district_code": "731402",
-    "name": "Arateng"
+    "name": "Arateng",
+    "postal_code": "91662"
   },
   {
     "code": "7314022007",
     "district_code": "731402",
-    "name": "Teteaji"
+    "name": "Teteaji",
+    "postal_code": "91662"
   },
   {
     "code": "7314022008",
     "district_code": "731402",
-    "name": "Polewali"
+    "name": "Polewali",
+    "postal_code": "91662"
   },
   {
     "code": "7314022009",
     "district_code": "731402",
-    "name": "Teppo"
+    "name": "Teppo",
+    "postal_code": "91662"
   }
 ]

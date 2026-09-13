@@ -2,41 +2,49 @@
   {
     "code": "3503092001",
     "district_code": "350309",
-    "name": "Masaran"
+    "name": "Masaran",
+    "postal_code": "66351"
   },
   {
     "code": "3503092002",
     "district_code": "350309",
-    "name": "Sengon"
+    "name": "Sengon",
+    "postal_code": "66351"
   },
   {
     "code": "3503092003",
     "district_code": "350309",
-    "name": "Surenlor"
+    "name": "Surenlor",
+    "postal_code": "66351"
   },
   {
     "code": "3503092004",
     "district_code": "350309",
-    "name": "Sumurup"
+    "name": "Sumurup",
+    "postal_code": "66351"
   },
   {
     "code": "3503092005",
     "district_code": "350309",
-    "name": "Srabah"
+    "name": "Srabah",
+    "postal_code": "66351"
   },
   {
     "code": "3503092006",
     "district_code": "350309",
-    "name": "Dompyong"
+    "name": "Dompyong",
+    "postal_code": "66351"
   },
   {
     "code": "3503092007",
     "district_code": "350309",
-    "name": "Depok"
+    "name": "Depok",
+    "postal_code": "66351"
   },
   {
     "code": "3503092008",
     "district_code": "350309",
-    "name": "Botoputih"
+    "name": "Botoputih",
+    "postal_code": "66351"
   }
 ]

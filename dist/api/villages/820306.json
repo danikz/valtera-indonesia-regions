@@ -2,66 +2,79 @@
   {
     "code": "8203062001",
     "district_code": "820306",
-    "name": "Kupa Kupa"
+    "name": "Kupa Kupa",
+    "postal_code": "97768"
   },
   {
     "code": "8203062002",
     "district_code": "820306",
-    "name": "Gamhoku"
+    "name": "Gamhoku",
+    "postal_code": "97768"
   },
   {
     "code": "8203062003",
     "district_code": "820306",
-    "name": "Efi Efi"
+    "name": "Efi Efi",
+    "postal_code": "97768"
   },
   {
     "code": "8203062004",
     "district_code": "820306",
-    "name": "Tomahalu"
+    "name": "Tomahalu",
+    "postal_code": "97768"
   },
   {
     "code": "8203062005",
     "district_code": "820306",
-    "name": "Paca"
+    "name": "Paca",
+    "postal_code": "97768"
   },
   {
     "code": "8203062006",
     "district_code": "820306",
-    "name": "Leleoto"
+    "name": "Leleoto",
+    "postal_code": "97768"
   },
   {
     "code": "8203062009",
     "district_code": "820306",
-    "name": "Tobe"
+    "name": "Tobe",
+    "postal_code": "97768"
   },
   {
     "code": "8203062015",
     "district_code": "820306",
-    "name": "Kakara B"
+    "name": "Kakara B",
+    "postal_code": "97768"
   },
   {
     "code": "8203062018",
     "district_code": "820306",
-    "name": "Talaga Paca"
+    "name": "Talaga Paca",
+    "postal_code": "97768"
   },
   {
     "code": "8203062020",
     "district_code": "820306",
-    "name": "Tioua"
+    "name": "Tioua",
+    "postal_code": "97768"
   },
   {
     "code": "8203062021",
     "district_code": "820306",
-    "name": "Pale"
+    "name": "Pale",
+    "postal_code": "97768"
   },
   {
     "code": "8203062022",
     "district_code": "820306",
-    "name": "Kupa-kupa Selatan"
+    "name": "Kupa-kupa Selatan",
+    "postal_code": "97768"
   },
   {
     "code": "8203062024",
     "district_code": "820306",
-    "name": "Lemah Ino"
+    "name": "Lemah Ino",
+    "postal_code": "97768"
   }
 ]

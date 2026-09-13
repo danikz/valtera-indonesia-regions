@@ -2,26 +2,31 @@
   {
     "code": "1305092001",
     "district_code": "130509",
-    "name": "III Koto Aur Malintang"
+    "name": "III Koto Aur Malintang",
+    "postal_code": "25564"
   },
   {
     "code": "1305092002",
     "district_code": "130509",
-    "name": "III Koto Aur Malintang Utara"
+    "name": "III Koto Aur Malintang Utara",
+    "postal_code": "25564"
   },
   {
     "code": "1305092003",
     "district_code": "130509",
-    "name": "III Koto Aur Malintang Timur"
+    "name": "III Koto Aur Malintang Timur",
+    "postal_code": "25564"
   },
   {
     "code": "1305092004",
     "district_code": "130509",
-    "name": "III Koto Aur Malintang Selatan"
+    "name": "III Koto Aur Malintang Selatan",
+    "postal_code": "25564"
   },
   {
     "code": "1305092005",
     "district_code": "130509",
-    "name": "Balai Baiak Malai III Koto"
+    "name": "Balai Baiak Malai III Koto",
+    "postal_code": "25564"
   }
 ]

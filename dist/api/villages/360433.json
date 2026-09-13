@@ -2,36 +2,43 @@
   {
     "code": "3604332001",
     "district_code": "360433",
-    "name": "Gunungsari"
+    "name": "Gunungsari",
+    "postal_code": "42160"
   },
   {
     "code": "3604332002",
     "district_code": "360433",
-    "name": "Ciherang"
+    "name": "Ciherang",
+    "postal_code": "42160"
   },
   {
     "code": "3604332003",
     "district_code": "360433",
-    "name": "Tamiang"
+    "name": "Tamiang",
+    "postal_code": "42160"
   },
   {
     "code": "3604332004",
     "district_code": "360433",
-    "name": "Sukalaba"
+    "name": "Sukalaba",
+    "postal_code": "42160"
   },
   {
     "code": "3604332005",
     "district_code": "360433",
-    "name": "Kadu Agung"
+    "name": "Kadu Agung",
+    "postal_code": "42160"
   },
   {
     "code": "3604332006",
     "district_code": "360433",
-    "name": "Luwuk"
+    "name": "Luwuk",
+    "postal_code": "42160"
   },
   {
     "code": "3604332007",
     "district_code": "360433",
-    "name": "Curug Sulanjana"
+    "name": "Curug Sulanjana",
+    "postal_code": "42160"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "6106032001",
     "district_code": "610603",
-    "name": "Nanga Embaloh"
+    "name": "Nanga Embaloh",
+    "postal_code": "78754"
   },
   {
     "code": "6106032002",
     "district_code": "610603",
-    "name": "Keliling Semulung"
+    "name": "Keliling Semulung",
+    "postal_code": "78754"
   },
   {
     "code": "6106032006",
     "district_code": "610603",
-    "name": "Lawik"
+    "name": "Lawik",
+    "postal_code": "78754"
   },
   {
     "code": "6106032007",
     "district_code": "610603",
-    "name": "Nanga Lauk"
+    "name": "Nanga Lauk",
+    "postal_code": "78754"
   },
   {
     "code": "6106032008",
     "district_code": "610603",
-    "name": "Nanga Palin"
+    "name": "Nanga Palin",
+    "postal_code": "78754"
   },
   {
     "code": "6106032009",
     "district_code": "610603",
-    "name": "Kirin Nangka"
+    "name": "Kirin Nangka",
+    "postal_code": "78754"
   },
   {
     "code": "6106032010",
     "district_code": "610603",
-    "name": "Pala Pintas"
+    "name": "Pala Pintas",
+    "postal_code": "78754"
   },
   {
     "code": "6106032011",
     "district_code": "610603",
-    "name": "Ujung Bayur"
+    "name": "Ujung Bayur",
+    "postal_code": "78754"
   },
   {
     "code": "6106032012",
     "district_code": "610603",
-    "name": "Belatung"
+    "name": "Belatung",
+    "postal_code": "78754"
   }
 ]

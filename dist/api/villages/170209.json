@@ -2,46 +2,55 @@
   {
     "code": "1702091012",
     "district_code": "170209",
-    "name": "Dwi Tunggal"
+    "name": "Dwi Tunggal",
+    "postal_code": "39112"
   },
   {
     "code": "1702091013",
     "district_code": "170209",
-    "name": "Air Putih Lama"
+    "name": "Air Putih Lama",
+    "postal_code": "39112"
   },
   {
     "code": "1702091023",
     "district_code": "170209",
-    "name": "Adirejo"
+    "name": "Adirejo",
+    "postal_code": "39125"
   },
   {
     "code": "1702091025",
     "district_code": "170209",
-    "name": "Air Rambai"
+    "name": "Air Rambai",
+    "postal_code": "39111"
   },
   {
     "code": "1702091026",
     "district_code": "170209",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "39113"
   },
   {
     "code": "1702091027",
     "district_code": "170209",
-    "name": "Pasar Tengah"
+    "name": "Pasar Tengah",
+    "postal_code": "39117"
   },
   {
     "code": "1702091031",
     "district_code": "170209",
-    "name": "Jalan Baru"
+    "name": "Jalan Baru",
+    "postal_code": "39117"
   },
   {
     "code": "1702091033",
     "district_code": "170209",
-    "name": "Talang Benih"
+    "name": "Talang Benih",
+    "postal_code": "39118"
   },
   {
     "code": "1702091047",
     "district_code": "170209",
-    "name": "Timbul Rejo"
+    "name": "Timbul Rejo",
+    "postal_code": "39125"
   }
 ]

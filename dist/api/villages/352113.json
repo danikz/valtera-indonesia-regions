@@ -2,36 +2,43 @@
   {
     "code": "3521132001",
     "district_code": "352113",
-    "name": "Sambirejo"
+    "name": "Sambirejo",
+    "postal_code": "63260"
   },
   {
     "code": "3521132002",
     "district_code": "352113",
-    "name": "Mantingan"
+    "name": "Mantingan",
+    "postal_code": "63260"
   },
   {
     "code": "3521132003",
     "district_code": "352113",
-    "name": "Kedungharjo"
+    "name": "Kedungharjo",
+    "postal_code": "63260"
   },
   {
     "code": "3521132004",
     "district_code": "352113",
-    "name": "Pakah"
+    "name": "Pakah",
+    "postal_code": "63260"
   },
   {
     "code": "3521132005",
     "district_code": "352113",
-    "name": "Tambakboyo"
+    "name": "Tambakboyo",
+    "postal_code": "63260"
   },
   {
     "code": "3521132006",
     "district_code": "352113",
-    "name": "Pengkol"
+    "name": "Pengkol",
+    "postal_code": "63260"
   },
   {
     "code": "3521132007",
     "district_code": "352113",
-    "name": "Jatimulyo"
+    "name": "Jatimulyo",
+    "postal_code": "63260"
   }
 ]

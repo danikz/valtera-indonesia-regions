@@ -2,31 +2,37 @@
   {
     "code": "2171101001",
     "district_code": "217110",
-    "name": "Baloi Permai"
+    "name": "Baloi Permai",
+    "postal_code": "29431"
   },
   {
     "code": "2171101002",
     "district_code": "217110",
-    "name": "Taman Baloi"
+    "name": "Taman Baloi",
+    "postal_code": "29432"
   },
   {
     "code": "2171101003",
     "district_code": "217110",
-    "name": "Teluk Tering"
+    "name": "Teluk Tering",
+    "postal_code": "29461"
   },
   {
     "code": "2171101004",
     "district_code": "217110",
-    "name": "Belian"
+    "name": "Belian",
+    "postal_code": "29464"
   },
   {
     "code": "2171101005",
     "district_code": "217110",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "29432"
   },
   {
     "code": "2171101006",
     "district_code": "217110",
-    "name": "Sungai Panas"
+    "name": "Sungai Panas",
+    "postal_code": "29433"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "9304182001",
     "district_code": "930418",
-    "name": "Comoro"
+    "name": "Comoro",
+    "postal_code": "99776"
   },
   {
     "code": "9304182002",
     "district_code": "930418",
-    "name": "Kawet"
+    "name": "Kawet",
+    "postal_code": "99776"
   },
   {
     "code": "9304182003",
     "district_code": "930418",
-    "name": "Mausi"
+    "name": "Mausi",
+    "postal_code": "99776"
   },
   {
     "code": "9304182004",
     "district_code": "930418",
-    "name": "Sato Yod"
+    "name": "Sato Yod",
+    "postal_code": "99776"
   },
   {
     "code": "9304182005",
     "district_code": "930418",
-    "name": "Tamor"
+    "name": "Tamor",
+    "postal_code": "99776"
   },
   {
     "code": "9304182006",
     "district_code": "930418",
-    "name": "Ero Airo"
+    "name": "Ero Airo",
+    "postal_code": "99776"
   }
 ]

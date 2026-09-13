@@ -2,26 +2,31 @@
   {
     "code": "6502042001",
     "district_code": "650204",
-    "name": "Data Dian"
+    "name": "Data Dian",
+    "postal_code": "77571"
   },
   {
     "code": "6502042002",
     "district_code": "650204",
-    "name": "Long Pipa"
+    "name": "Long Pipa",
+    "postal_code": "77571"
   },
   {
     "code": "6502042003",
     "district_code": "650204",
-    "name": "Long Sule"
+    "name": "Long Sule",
+    "postal_code": "77571"
   },
   {
     "code": "6502042004",
     "district_code": "650204",
-    "name": "Sungai Anai"
+    "name": "Sungai Anai",
+    "postal_code": "77571"
   },
   {
     "code": "6502042005",
     "district_code": "650204",
-    "name": "Long Metun"
+    "name": "Long Metun",
+    "postal_code": "77571"
   }
 ]

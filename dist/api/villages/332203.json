@@ -2,66 +2,79 @@
   {
     "code": "3322032001",
     "district_code": "332203",
-    "name": "Badran"
+    "name": "Badran",
+    "postal_code": "50777"
   },
   {
     "code": "3322032002",
     "district_code": "332203",
-    "name": "Timpik"
+    "name": "Timpik",
+    "postal_code": "50777"
   },
   {
     "code": "3322032003",
     "district_code": "332203",
-    "name": "Tawang"
+    "name": "Tawang",
+    "postal_code": "50777"
   },
   {
     "code": "3322032004",
     "district_code": "332203",
-    "name": "Bakalrejo"
+    "name": "Bakalrejo",
+    "postal_code": "50777"
   },
   {
     "code": "3322032005",
     "district_code": "332203",
-    "name": "Ketapang"
+    "name": "Ketapang",
+    "postal_code": "50777"
   },
   {
     "code": "3322032006",
     "district_code": "332203",
-    "name": "Susukan"
+    "name": "Susukan",
+    "postal_code": "50777"
   },
   {
     "code": "3322032007",
     "district_code": "332203",
-    "name": "Sidoharjo"
+    "name": "Sidoharjo",
+    "postal_code": "50777"
   },
   {
     "code": "3322032008",
     "district_code": "332203",
-    "name": "Gentan"
+    "name": "Gentan",
+    "postal_code": "50777"
   },
   {
     "code": "3322032009",
     "district_code": "332203",
-    "name": "Muncar"
+    "name": "Muncar",
+    "postal_code": "50777"
   },
   {
     "code": "3322032010",
     "district_code": "332203",
-    "name": "Ngasinan"
+    "name": "Ngasinan",
+    "postal_code": "50777"
   },
   {
     "code": "3322032011",
     "district_code": "332203",
-    "name": "Koripan"
+    "name": "Koripan",
+    "postal_code": "50777"
   },
   {
     "code": "3322032012",
     "district_code": "332203",
-    "name": "Kenteng"
+    "name": "Kenteng",
+    "postal_code": "50777"
   },
   {
     "code": "3322032013",
     "district_code": "332203",
-    "name": "Kemetul"
+    "name": "Kemetul",
+    "postal_code": "50777"
   }
 ]

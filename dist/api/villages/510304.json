@@ -2,36 +2,43 @@
   {
     "code": "5103042001",
     "district_code": "510304",
-    "name": "Carangsari"
+    "name": "Carangsari",
+    "postal_code": "80353"
   },
   {
     "code": "5103042002",
     "district_code": "510304",
-    "name": "Petang"
+    "name": "Petang",
+    "postal_code": "80353"
   },
   {
     "code": "5103042003",
     "district_code": "510304",
-    "name": "Belok/Sidan"
+    "name": "Belok/Sidan",
+    "postal_code": "80353"
   },
   {
     "code": "5103042004",
     "district_code": "510304",
-    "name": "Pelaga"
+    "name": "Pelaga",
+    "postal_code": "80353"
   },
   {
     "code": "5103042005",
     "district_code": "510304",
-    "name": "Getasan"
+    "name": "Getasan",
+    "postal_code": "80353"
   },
   {
     "code": "5103042006",
     "district_code": "510304",
-    "name": "Pangsan"
+    "name": "Pangsan",
+    "postal_code": "80353"
   },
   {
     "code": "5103042007",
     "district_code": "510304",
-    "name": "Sulangai"
+    "name": "Sulangai",
+    "postal_code": "80353"
   }
 ]

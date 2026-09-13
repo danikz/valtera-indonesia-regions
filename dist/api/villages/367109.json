@@ -2,31 +2,37 @@
   {
     "code": "3671091001",
     "district_code": "367109",
-    "name": "Cibodas"
+    "name": "Cibodas",
+    "postal_code": "15138"
   },
   {
     "code": "3671091002",
     "district_code": "367109",
-    "name": "Cibodasari"
+    "name": "Cibodasari",
+    "postal_code": "15138"
   },
   {
     "code": "3671091003",
     "district_code": "367109",
-    "name": "Cibodas Baru"
+    "name": "Cibodas Baru",
+    "postal_code": "15138"
   },
   {
     "code": "3671091004",
     "district_code": "367109",
-    "name": "Panunggangan Barat"
+    "name": "Panunggangan Barat",
+    "postal_code": "15139"
   },
   {
     "code": "3671091005",
     "district_code": "367109",
-    "name": "Uwung Jaya"
+    "name": "Uwung Jaya",
+    "postal_code": "15138"
   },
   {
     "code": "3671091006",
     "district_code": "367109",
-    "name": "Jatiuwung"
+    "name": "Jatiuwung",
+    "postal_code": "15134"
   }
 ]

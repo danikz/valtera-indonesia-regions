@@ -2,51 +2,61 @@
   {
     "code": "8206022001",
     "district_code": "820602",
-    "name": "Buli"
+    "name": "Buli",
+    "postal_code": "97860"
   },
   {
     "code": "8206022002",
     "district_code": "820602",
-    "name": "Buli Asal"
+    "name": "Buli Asal",
+    "postal_code": "97860"
   },
   {
     "code": "8206022003",
     "district_code": "820602",
-    "name": "Buli Karya"
+    "name": "Buli Karya",
+    "postal_code": "97860"
   },
   {
     "code": "8206022011",
     "district_code": "820602",
-    "name": "Wayafly"
+    "name": "Wayafly",
+    "postal_code": "97860"
   },
   {
     "code": "8206022012",
     "district_code": "820602",
-    "name": "Sailal"
+    "name": "Sailal",
+    "postal_code": "97860"
   },
   {
     "code": "8206022013",
     "district_code": "820602",
-    "name": "Geltoli"
+    "name": "Geltoli",
+    "postal_code": "97860"
   },
   {
     "code": "8206022014",
     "district_code": "820602",
-    "name": "Pekaulan"
+    "name": "Pekaulan",
+    "postal_code": "97860"
   },
   {
     "code": "8206022023",
     "district_code": "820602",
-    "name": "Teluk Buli"
+    "name": "Teluk Buli",
+    "postal_code": "97860"
   },
   {
     "code": "8206022024",
     "district_code": "820602",
-    "name": "Gamesan"
+    "name": "Gamesan",
+    "postal_code": "97860"
   },
   {
     "code": "8206022025",
     "district_code": "820602",
-    "name": "Baburino"
+    "name": "Baburino",
+    "postal_code": "97860"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "6102152001",
     "district_code": "610215",
-    "name": "Peniti Besar"
+    "name": "Peniti Besar",
+    "postal_code": "78351"
   },
   {
     "code": "6102152002",
     "district_code": "610215",
-    "name": "Sungai Purun Besar"
+    "name": "Sungai Purun Besar",
+    "postal_code": "78351"
   },
   {
     "code": "6102152003",
     "district_code": "610215",
-    "name": "Parit Bugis"
+    "name": "Parit Bugis",
+    "postal_code": "78351"
   },
   {
     "code": "6102152004",
     "district_code": "610215",
-    "name": "Peniti Dalam I"
+    "name": "Peniti Dalam I",
+    "postal_code": "78351"
   },
   {
     "code": "6102152005",
     "district_code": "610215",
-    "name": "Peniti Dalam II"
+    "name": "Peniti Dalam II",
+    "postal_code": "78351"
   },
   {
     "code": "6102152006",
     "district_code": "610215",
-    "name": "Sungai Burung"
+    "name": "Sungai Burung",
+    "postal_code": "78351"
   }
 ]

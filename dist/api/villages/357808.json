@@ -2,31 +2,37 @@
   {
     "code": "3578081001",
     "district_code": "357808",
-    "name": "Gubeng"
+    "name": "Gubeng",
+    "postal_code": "60281"
   },
   {
     "code": "3578081002",
     "district_code": "357808",
-    "name": "Mojo"
+    "name": "Mojo",
+    "postal_code": "60285"
   },
   {
     "code": "3578081003",
     "district_code": "357808",
-    "name": "Airlangga"
+    "name": "Airlangga",
+    "postal_code": "60286"
   },
   {
     "code": "3578081004",
     "district_code": "357808",
-    "name": "Kertajaya"
+    "name": "Kertajaya",
+    "postal_code": "60282"
   },
   {
     "code": "3578081005",
     "district_code": "357808",
-    "name": "Baratajaya"
+    "name": "Baratajaya",
+    "postal_code": "60284"
   },
   {
     "code": "3578081006",
     "district_code": "357808",
-    "name": "Pucang Sewu"
+    "name": "Pucang Sewu",
+    "postal_code": "60283"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3508022001",
     "district_code": "350802",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "67374"
   },
   {
     "code": "3508022002",
     "district_code": "350802",
-    "name": "Pronojiwo"
+    "name": "Pronojiwo",
+    "postal_code": "67374"
   },
   {
     "code": "3508022003",
     "district_code": "350802",
-    "name": "Tamanayu"
+    "name": "Tamanayu",
+    "postal_code": "67374"
   },
   {
     "code": "3508022004",
     "district_code": "350802",
-    "name": "Sumberurip"
+    "name": "Sumberurip",
+    "postal_code": "67374"
   },
   {
     "code": "3508022005",
     "district_code": "350802",
-    "name": "Oro-oro Ombo"
+    "name": "Oro-oro Ombo",
+    "postal_code": "67374"
   },
   {
     "code": "3508022006",
     "district_code": "350802",
-    "name": "Supiturang"
+    "name": "Supiturang",
+    "postal_code": "67374"
   }
 ]

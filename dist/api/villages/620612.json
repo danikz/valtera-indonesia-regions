@@ -2,36 +2,43 @@
   {
     "code": "6206122001",
     "district_code": "620612",
-    "name": "Tumbang Baraoi"
+    "name": "Tumbang Baraoi",
+    "postal_code": "74455"
   },
   {
     "code": "6206122002",
     "district_code": "620612",
-    "name": "Tumbang Jala"
+    "name": "Tumbang Jala",
+    "postal_code": "74455"
   },
   {
     "code": "6206122003",
     "district_code": "620612",
-    "name": "Batu Badak"
+    "name": "Batu Badak",
+    "postal_code": "74455"
   },
   {
     "code": "6206122004",
     "district_code": "620612",
-    "name": "Batu Tukan"
+    "name": "Batu Tukan",
+    "postal_code": "74455"
   },
   {
     "code": "6206122005",
     "district_code": "620612",
-    "name": "Tumbang Tangoi"
+    "name": "Tumbang Tangoi",
+    "postal_code": "74455"
   },
   {
     "code": "6206122006",
     "district_code": "620612",
-    "name": "Nusa Kutau"
+    "name": "Nusa Kutau",
+    "postal_code": "74455"
   },
   {
     "code": "6206122007",
     "district_code": "620612",
-    "name": "Tumbang Habangoi"
+    "name": "Tumbang Habangoi",
+    "postal_code": "74455"
   }
 ]

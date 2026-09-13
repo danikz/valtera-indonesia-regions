@@ -2,56 +2,67 @@
   {
     "code": "5102032001",
     "district_code": "510203",
-    "name": "Mundeh"
+    "name": "Mundeh",
+    "postal_code": "82162"
   },
   {
     "code": "5102032002",
     "district_code": "510203",
-    "name": "Mundeh Kangin"
+    "name": "Mundeh Kangin",
+    "postal_code": "82162"
   },
   {
     "code": "5102032003",
     "district_code": "510203",
-    "name": "Lalanglinggah"
+    "name": "Lalanglinggah",
+    "postal_code": "82162"
   },
   {
     "code": "5102032004",
     "district_code": "510203",
-    "name": "Antosari"
+    "name": "Antosari",
+    "postal_code": "82162"
   },
   {
     "code": "5102032005",
     "district_code": "510203",
-    "name": "Lumbung"
+    "name": "Lumbung",
+    "postal_code": "82162"
   },
   {
     "code": "5102032006",
     "district_code": "510203",
-    "name": "Lumbung Kauh"
+    "name": "Lumbung Kauh",
+    "postal_code": "82162"
   },
   {
     "code": "5102032007",
     "district_code": "510203",
-    "name": "Tiing Gading"
+    "name": "Tiing Gading",
+    "postal_code": "82162"
   },
   {
     "code": "5102032008",
     "district_code": "510203",
-    "name": "Mundeh Kauh"
+    "name": "Mundeh Kauh",
+    "postal_code": "82162"
   },
   {
     "code": "5102032009",
     "district_code": "510203",
-    "name": "Angkah"
+    "name": "Angkah",
+    "postal_code": "82162"
   },
   {
     "code": "5102032010",
     "district_code": "510203",
-    "name": "Selabih"
+    "name": "Selabih",
+    "postal_code": "82162"
   },
   {
     "code": "5102032011",
     "district_code": "510203",
-    "name": "Bengkel Sari"
+    "name": "Bengkel Sari",
+    "postal_code": "82162"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "3304202001",
     "district_code": "330420",
-    "name": "Pagedongan"
+    "name": "Pagedongan",
+    "postal_code": "53418"
   },
   {
     "code": "3304202002",
     "district_code": "330420",
-    "name": "Gunungjati"
+    "name": "Gunungjati",
+    "postal_code": "53418"
   },
   {
     "code": "3304202003",
     "district_code": "330420",
-    "name": "Twelagiri"
+    "name": "Twelagiri",
+    "postal_code": "53418"
   },
   {
     "code": "3304202004",
     "district_code": "330420",
-    "name": "Kebutuhduwur"
+    "name": "Kebutuhduwur",
+    "postal_code": "53418"
   },
   {
     "code": "3304202005",
     "district_code": "330420",
-    "name": "Kebutuhjurang"
+    "name": "Kebutuhjurang",
+    "postal_code": "53418"
   },
   {
     "code": "3304202006",
     "district_code": "330420",
-    "name": "Pesangkalan"
+    "name": "Pesangkalan",
+    "postal_code": "53418"
   },
   {
     "code": "3304202007",
     "district_code": "330420",
-    "name": "Duren"
+    "name": "Duren",
+    "postal_code": "53418"
   },
   {
     "code": "3304202008",
     "district_code": "330420",
-    "name": "Lebakwangi"
+    "name": "Lebakwangi",
+    "postal_code": "53418"
   },
   {
     "code": "3304202009",
     "district_code": "330420",
-    "name": "Gentansari"
+    "name": "Gentansari",
+    "postal_code": "53418"
   }
 ]

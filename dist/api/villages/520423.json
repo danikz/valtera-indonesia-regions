@@ -2,31 +2,37 @@
   {
     "code": "5204232001",
     "district_code": "520423",
-    "name": "Pungkit"
+    "name": "Pungkit",
+    "postal_code": "84380"
   },
   {
     "code": "5204232002",
     "district_code": "520423",
-    "name": "Sebewe"
+    "name": "Sebewe",
+    "postal_code": "84380"
   },
   {
     "code": "5204232003",
     "district_code": "520423",
-    "name": "Penyaring"
+    "name": "Penyaring",
+    "postal_code": "84380"
   },
   {
     "code": "5204232004",
     "district_code": "520423",
-    "name": "Kukin"
+    "name": "Kukin",
+    "postal_code": "84380"
   },
   {
     "code": "5204232005",
     "district_code": "520423",
-    "name": "Baru Tahan"
+    "name": "Baru Tahan",
+    "postal_code": "84380"
   },
   {
     "code": "5204232006",
     "district_code": "520423",
-    "name": "Songkar"
+    "name": "Songkar",
+    "postal_code": "84380"
   }
 ]

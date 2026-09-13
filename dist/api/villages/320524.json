@@ -2,46 +2,55 @@
   {
     "code": "3205242001",
     "district_code": "320524",
-    "name": "Singajaya"
+    "name": "Singajaya",
+    "postal_code": "44170"
   },
   {
     "code": "3205242002",
     "district_code": "320524",
-    "name": "Ciudian"
+    "name": "Ciudian",
+    "postal_code": "44170"
   },
   {
     "code": "3205242003",
     "district_code": "320524",
-    "name": "Mekartani"
+    "name": "Mekartani",
+    "postal_code": "44170"
   },
   {
     "code": "3205242004",
     "district_code": "320524",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "44170"
   },
   {
     "code": "3205242005",
     "district_code": "320524",
-    "name": "Sukawangi"
+    "name": "Sukawangi",
+    "postal_code": "44170"
   },
   {
     "code": "3205242006",
     "district_code": "320524",
-    "name": "Pancasura"
+    "name": "Pancasura",
+    "postal_code": "44170"
   },
   {
     "code": "3205242007",
     "district_code": "320524",
-    "name": "Karangagung"
+    "name": "Karangagung",
+    "postal_code": "44170"
   },
   {
     "code": "3205242008",
     "district_code": "320524",
-    "name": "Cigintung"
+    "name": "Cigintung",
+    "postal_code": "44170"
   },
   {
     "code": "3205242009",
     "district_code": "320524",
-    "name": "Girimukti"
+    "name": "Girimukti",
+    "postal_code": "44170"
   }
 ]

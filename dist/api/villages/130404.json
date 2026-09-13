@@ -2,26 +2,31 @@
   {
     "code": "1304042001",
     "district_code": "130404",
-    "name": "Baringin"
+    "name": "Baringin",
+    "postal_code": "27213"
   },
   {
     "code": "1304042002",
     "district_code": "130404",
-    "name": "Limo Kaum"
+    "name": "Limo Kaum",
+    "postal_code": "27211"
   },
   {
     "code": "1304042003",
     "district_code": "130404",
-    "name": "Parambahan"
+    "name": "Parambahan",
+    "postal_code": "27211"
   },
   {
     "code": "1304042004",
     "district_code": "130404",
-    "name": "Cubadak"
+    "name": "Cubadak",
+    "postal_code": "27216"
   },
   {
     "code": "1304042005",
     "district_code": "130404",
-    "name": "Labuh"
+    "name": "Labuh",
+    "postal_code": "27211"
   }
 ]

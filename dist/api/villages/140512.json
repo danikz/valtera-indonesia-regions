@@ -2,56 +2,67 @@
   {
     "code": "1405121002",
     "district_code": "140512",
-    "name": "Rawang Empat"
+    "name": "Rawang Empat",
+    "postal_code": "28384"
   },
   {
     "code": "1405122001",
     "district_code": "140512",
-    "name": "Kuala Semundam"
+    "name": "Kuala Semundam",
+    "postal_code": "28384"
   },
   {
     "code": "1405122003",
     "district_code": "140512",
-    "name": "Tambun"
+    "name": "Tambun",
+    "postal_code": "28384"
   },
   {
     "code": "1405122004",
     "district_code": "140512",
-    "name": "Terbangiang"
+    "name": "Terbangiang",
+    "postal_code": "28384"
   },
   {
     "code": "1405122005",
     "district_code": "140512",
-    "name": "Lubuk Terap"
+    "name": "Lubuk Terap",
+    "postal_code": "28384"
   },
   {
     "code": "1405122006",
     "district_code": "140512",
-    "name": "Angkasa"
+    "name": "Angkasa",
+    "postal_code": "28384"
   },
   {
     "code": "1405122007",
     "district_code": "140512",
-    "name": "Sialang Godang"
+    "name": "Sialang Godang",
+    "postal_code": "28384"
   },
   {
     "code": "1405122008",
     "district_code": "140512",
-    "name": "Lubuk Raja"
+    "name": "Lubuk Raja",
+    "postal_code": "28384"
   },
   {
     "code": "1405122009",
     "district_code": "140512",
-    "name": "Lubuk Keranji Timur"
+    "name": "Lubuk Keranji Timur",
+    "postal_code": "28384"
   },
   {
     "code": "1405122010",
     "district_code": "140512",
-    "name": "Airterjun"
+    "name": "Airterjun",
+    "postal_code": "28384"
   },
   {
     "code": "1405122011",
     "district_code": "140512",
-    "name": "Sialang Bungkuk"
+    "name": "Sialang Bungkuk",
+    "postal_code": "28384"
   }
 ]

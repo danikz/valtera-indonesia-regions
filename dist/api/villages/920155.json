@@ -2,31 +2,37 @@
   {
     "code": "9201552001",
     "district_code": "920155",
-    "name": "Sailala"
+    "name": "Sailala",
+    "postal_code": ""
   },
   {
     "code": "9201552002",
     "district_code": "920155",
-    "name": "Klawana"
+    "name": "Klawana",
+    "postal_code": ""
   },
   {
     "code": "9201552003",
     "district_code": "920155",
-    "name": "Kladuk"
+    "name": "Kladuk",
+    "postal_code": ""
   },
   {
     "code": "9201552004",
     "district_code": "920155",
-    "name": "Klawon"
+    "name": "Klawon",
+    "postal_code": ""
   },
   {
     "code": "9201552005",
     "district_code": "920155",
-    "name": "Klakak"
+    "name": "Klakak",
+    "postal_code": ""
   },
   {
     "code": "9201552006",
     "district_code": "920155",
-    "name": "Klalwok"
+    "name": "Klalwok",
+    "postal_code": ""
   }
 ]

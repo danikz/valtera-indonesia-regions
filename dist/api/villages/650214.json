@@ -2,41 +2,49 @@
   {
     "code": "6502142001",
     "district_code": "650214",
-    "name": "Long Lake"
+    "name": "Long Lake",
+    "postal_code": "77553"
   },
   {
     "code": "6502142002",
     "district_code": "650214",
-    "name": "Punan Mirau"
+    "name": "Punan Mirau",
+    "postal_code": "77553"
   },
   {
     "code": "6502142003",
     "district_code": "650214",
-    "name": "Long Rat"
+    "name": "Long Rat",
+    "postal_code": "77553"
   },
   {
     "code": "6502142004",
     "district_code": "650214",
-    "name": "Halanga"
+    "name": "Halanga",
+    "postal_code": "77553"
   },
   {
     "code": "6502142005",
     "district_code": "650214",
-    "name": "Metut"
+    "name": "Metut",
+    "postal_code": "77553"
   },
   {
     "code": "6502142006",
     "district_code": "650214",
-    "name": "Long Jalan"
+    "name": "Long Jalan",
+    "postal_code": "77553"
   },
   {
     "code": "6502142007",
     "district_code": "650214",
-    "name": "Nahakramo"
+    "name": "Nahakramo",
+    "postal_code": "77553"
   },
   {
     "code": "6502142008",
     "district_code": "650214",
-    "name": "Tanjung Nanga"
+    "name": "Tanjung Nanga",
+    "postal_code": "77553"
   }
 ]

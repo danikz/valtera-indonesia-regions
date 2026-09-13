@@ -2,46 +2,55 @@
   {
     "code": "9402172001",
     "district_code": "940217",
-    "name": "Dokome"
+    "name": "Dokome",
+    "postal_code": "98924"
   },
   {
     "code": "9402172002",
     "district_code": "940217",
-    "name": "Purbalo"
+    "name": "Purbalo",
+    "postal_code": "98924"
   },
   {
     "code": "9402172003",
     "district_code": "940217",
-    "name": "Wurage"
+    "name": "Wurage",
+    "postal_code": "98924"
   },
   {
     "code": "9402172004",
     "district_code": "940217",
-    "name": "Nowoneri"
+    "name": "Nowoneri",
+    "postal_code": "98924"
   },
   {
     "code": "9402172005",
     "district_code": "940217",
-    "name": "Nowome"
+    "name": "Nowome",
+    "postal_code": "98924"
   },
   {
     "code": "9402172006",
     "district_code": "940217",
-    "name": "Imulineri"
+    "name": "Imulineri",
+    "postal_code": "98924"
   },
   {
     "code": "9402172007",
     "district_code": "940217",
-    "name": "Molobak"
+    "name": "Molobak",
+    "postal_code": "98924"
   },
   {
     "code": "9402172008",
     "district_code": "940217",
-    "name": "Kimibut"
+    "name": "Kimibut",
+    "postal_code": "98924"
   },
   {
     "code": "9402172009",
     "district_code": "940217",
-    "name": "Nunggwagi"
+    "name": "Nunggwagi",
+    "postal_code": "98924"
   }
 ]

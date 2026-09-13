@@ -2,41 +2,49 @@
   {
     "code": "3304022001",
     "district_code": "330402",
-    "name": "Sirkandi"
+    "name": "Sirkandi",
+    "postal_code": "53474"
   },
   {
     "code": "3304022002",
     "district_code": "330402",
-    "name": "Pagak"
+    "name": "Pagak",
+    "postal_code": "53474"
   },
   {
     "code": "3304022003",
     "district_code": "330402",
-    "name": "Kecitran"
+    "name": "Kecitran",
+    "postal_code": "53474"
   },
   {
     "code": "3304022004",
     "district_code": "330402",
-    "name": "Purwareja"
+    "name": "Purwareja",
+    "postal_code": "53474"
   },
   {
     "code": "3304022005",
     "district_code": "330402",
-    "name": "Klampok"
+    "name": "Klampok",
+    "postal_code": "53474"
   },
   {
     "code": "3304022006",
     "district_code": "330402",
-    "name": "Kalilandak"
+    "name": "Kalilandak",
+    "postal_code": "53474"
   },
   {
     "code": "3304022007",
     "district_code": "330402",
-    "name": "Kalimandi"
+    "name": "Kalimandi",
+    "postal_code": "53474"
   },
   {
     "code": "3304022008",
     "district_code": "330402",
-    "name": "Kaliwinasuh"
+    "name": "Kaliwinasuh",
+    "postal_code": "53474"
   }
 ]

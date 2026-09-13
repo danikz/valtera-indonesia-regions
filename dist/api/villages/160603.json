@@ -2,51 +2,61 @@
   {
     "code": "1606032002",
     "district_code": "160603",
-    "name": "Pagar Kaya"
+    "name": "Pagar Kaya",
+    "postal_code": "30751"
   },
   {
     "code": "1606032003",
     "district_code": "160603",
-    "name": "Sukalali"
+    "name": "Sukalali",
+    "postal_code": "30751"
   },
   {
     "code": "1606032004",
     "district_code": "160603",
-    "name": "Kartayu"
+    "name": "Kartayu",
+    "postal_code": "30751"
   },
   {
     "code": "1606032006",
     "district_code": "160603",
-    "name": "Sungai Dua"
+    "name": "Sungai Dua",
+    "postal_code": "30751"
   },
   {
     "code": "1606032007",
     "district_code": "160603",
-    "name": "Sindang Marga"
+    "name": "Sindang Marga",
+    "postal_code": "30751"
   },
   {
     "code": "1606032008",
     "district_code": "160603",
-    "name": "Tebing Bulang"
+    "name": "Tebing Bulang",
+    "postal_code": "30751"
   },
   {
     "code": "1606032009",
     "district_code": "160603",
-    "name": "Gajah Mati"
+    "name": "Gajah Mati",
+    "postal_code": "30751"
   },
   {
     "code": "1606032010",
     "district_code": "160603",
-    "name": "Rantau Sialang"
+    "name": "Rantau Sialang",
+    "postal_code": "30751"
   },
   {
     "code": "1606032014",
     "district_code": "160603",
-    "name": "Kerta Jaya"
+    "name": "Kerta Jaya",
+    "postal_code": "30751"
   },
   {
     "code": "1606032015",
     "district_code": "160603",
-    "name": "Keramat Jaya"
+    "name": "Keramat Jaya",
+    "postal_code": "30751"
   }
 ]

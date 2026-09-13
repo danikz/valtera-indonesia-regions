@@ -2,51 +2,61 @@
   {
     "code": "7102242001",
     "district_code": "710224",
-    "name": "Lemoh"
+    "name": "Lemoh",
+    "postal_code": "95652"
   },
   {
     "code": "7102242002",
     "district_code": "710224",
-    "name": "Lemoh Barat"
+    "name": "Lemoh Barat",
+    "postal_code": "95652"
   },
   {
     "code": "7102242003",
     "district_code": "710224",
-    "name": "Lemoh Timur"
+    "name": "Lemoh Timur",
+    "postal_code": "95652"
   },
   {
     "code": "7102242004",
     "district_code": "710224",
-    "name": "Lemoh Uner"
+    "name": "Lemoh Uner",
+    "postal_code": "95652"
   },
   {
     "code": "7102242005",
     "district_code": "710224",
-    "name": "Lolah"
+    "name": "Lolah",
+    "postal_code": "95652"
   },
   {
     "code": "7102242006",
     "district_code": "710224",
-    "name": "Lolah Satu"
+    "name": "Lolah Satu",
+    "postal_code": "95652"
   },
   {
     "code": "7102242007",
     "district_code": "710224",
-    "name": "Lolah Dua"
+    "name": "Lolah Dua",
+    "postal_code": "95652"
   },
   {
     "code": "7102242008",
     "district_code": "710224",
-    "name": "Lolah Tiga"
+    "name": "Lolah Tiga",
+    "postal_code": "95652"
   },
   {
     "code": "7102242009",
     "district_code": "710224",
-    "name": "Ranotongkor"
+    "name": "Ranotongkor",
+    "postal_code": "95652"
   },
   {
     "code": "7102242010",
     "district_code": "710224",
-    "name": "Ranotongkor Timur"
+    "name": "Ranotongkor Timur",
+    "postal_code": "95652"
   }
 ]

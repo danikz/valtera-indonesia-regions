@@ -2,26 +2,31 @@
   {
     "code": "9103042001",
     "district_code": "910304",
-    "name": "Dosay"
+    "name": "Dosay",
+    "postal_code": "99358"
   },
   {
     "code": "9103042005",
     "district_code": "910304",
-    "name": "Maribu"
+    "name": "Maribu",
+    "postal_code": "99358"
   },
   {
     "code": "9103042006",
     "district_code": "910304",
-    "name": "Waibron"
+    "name": "Waibron",
+    "postal_code": ""
   },
   {
     "code": "9103042008",
     "district_code": "910304",
-    "name": "Sabron Sari"
+    "name": "Sabron Sari",
+    "postal_code": "99358"
   },
   {
     "code": "9103042011",
     "district_code": "910304",
-    "name": "Sabro Yaru"
+    "name": "Sabro Yaru",
+    "postal_code": "99358"
   }
 ]

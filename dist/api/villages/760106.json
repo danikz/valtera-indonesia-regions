@@ -2,21 +2,25 @@
   {
     "code": "7601062001",
     "district_code": "760106",
-    "name": "Tammarunang"
+    "name": "Tammarunang",
+    "postal_code": "91573"
   },
   {
     "code": "7601062002",
     "district_code": "760106",
-    "name": "Saptanajaya"
+    "name": "Saptanajaya",
+    "postal_code": "91573"
   },
   {
     "code": "7601062003",
     "district_code": "760106",
-    "name": "Taranggi"
+    "name": "Taranggi",
+    "postal_code": "91573"
   },
   {
     "code": "7601062004",
     "district_code": "760106",
-    "name": "Sipakainga"
+    "name": "Sipakainga",
+    "postal_code": "91573"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "5104072001",
     "district_code": "510407",
-    "name": "Melinggih"
+    "name": "Melinggih",
+    "postal_code": "80572"
   },
   {
     "code": "5104072002",
     "district_code": "510407",
-    "name": "Kelusa"
+    "name": "Kelusa",
+    "postal_code": "80572"
   },
   {
     "code": "5104072003",
     "district_code": "510407",
-    "name": "Bukian"
+    "name": "Bukian",
+    "postal_code": "80572"
   },
   {
     "code": "5104072004",
     "district_code": "510407",
-    "name": "Puhu"
+    "name": "Puhu",
+    "postal_code": "80572"
   },
   {
     "code": "5104072005",
     "district_code": "510407",
-    "name": "Buahan"
+    "name": "Buahan",
+    "postal_code": "80572"
   },
   {
     "code": "5104072006",
     "district_code": "510407",
-    "name": "Kerta"
+    "name": "Kerta",
+    "postal_code": "80572"
   },
   {
     "code": "5104072007",
     "district_code": "510407",
-    "name": "Melinggih Kelod"
+    "name": "Melinggih Kelod",
+    "postal_code": "80572"
   },
   {
     "code": "5104072008",
     "district_code": "510407",
-    "name": "Buahan Kaja"
+    "name": "Buahan Kaja",
+    "postal_code": "80572"
   },
   {
     "code": "5104072009",
     "district_code": "510407",
-    "name": "Bresela"
+    "name": "Bresela",
+    "postal_code": "80572"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "3512062001",
     "district_code": "351206",
-    "name": "Paowan"
+    "name": "Paowan",
+    "postal_code": "68351"
   },
   {
     "code": "3512062002",
     "district_code": "351206",
-    "name": "Sumberkolak"
+    "name": "Sumberkolak",
+    "postal_code": "68351"
   },
   {
     "code": "3512062003",
     "district_code": "351206",
-    "name": "Wringinanom"
+    "name": "Wringinanom",
+    "postal_code": "68351"
   },
   {
     "code": "3512062004",
     "district_code": "351206",
-    "name": "Kilensari"
+    "name": "Kilensari",
+    "postal_code": "68351"
   },
   {
     "code": "3512062005",
     "district_code": "351206",
-    "name": "Peleyan"
+    "name": "Peleyan",
+    "postal_code": "68351"
   },
   {
     "code": "3512062006",
     "district_code": "351206",
-    "name": "Alasmalang"
+    "name": "Alasmalang",
+    "postal_code": "68351"
   },
   {
     "code": "3512062007",
     "district_code": "351206",
-    "name": "Duwet"
+    "name": "Duwet",
+    "postal_code": "68351"
   },
   {
     "code": "3512062008",
     "district_code": "351206",
-    "name": "Gelung"
+    "name": "Gelung",
+    "postal_code": "68351"
   }
 ]

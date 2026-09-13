@@ -2,21 +2,25 @@
   {
     "code": "3279031001",
     "district_code": "327903",
-    "name": "Purwaharja"
+    "name": "Purwaharja",
+    "postal_code": "46331"
   },
   {
     "code": "3279031004",
     "district_code": "327903",
-    "name": "Karangpanimbal"
+    "name": "Karangpanimbal",
+    "postal_code": "46332"
   },
   {
     "code": "3279032002",
     "district_code": "327903",
-    "name": "Raharja"
+    "name": "Raharja",
+    "postal_code": "46333"
   },
   {
     "code": "3279032003",
     "district_code": "327903",
-    "name": "Mekarharja"
+    "name": "Mekarharja",
+    "postal_code": "46334"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "9210142001",
     "district_code": "921014",
-    "name": "Wormu"
+    "name": "Wormu",
+    "postal_code": ""
   },
   {
     "code": "9210142002",
     "district_code": "921014",
-    "name": "Makiri"
+    "name": "Makiri",
+    "postal_code": ""
   },
   {
     "code": "9210142003",
     "district_code": "921014",
-    "name": "Warba"
+    "name": "Warba",
+    "postal_code": ""
   },
   {
     "code": "9210142004",
     "district_code": "921014",
-    "name": "Winuni"
+    "name": "Winuni",
+    "postal_code": ""
   },
   {
     "code": "9210142005",
     "district_code": "921014",
-    "name": "Srumate"
+    "name": "Srumate",
+    "postal_code": ""
   },
   {
     "code": "9210142006",
     "district_code": "921014",
-    "name": "Womba"
+    "name": "Womba",
+    "postal_code": ""
   }
 ]

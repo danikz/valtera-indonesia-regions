@@ -2,51 +2,61 @@
   {
     "code": "7301042001",
     "district_code": "730104",
-    "name": "Parak"
+    "name": "Parak",
+    "postal_code": "92851"
   },
   {
     "code": "7301042002",
     "district_code": "730104",
-    "name": "Barugaiya"
+    "name": "Barugaiya",
+    "postal_code": "92851"
   },
   {
     "code": "7301042003",
     "district_code": "730104",
-    "name": "Jambuiya"
+    "name": "Jambuiya",
+    "postal_code": "92851"
   },
   {
     "code": "7301042004",
     "district_code": "730104",
-    "name": "Mare Mare"
+    "name": "Mare Mare",
+    "postal_code": "92851"
   },
   {
     "code": "7301042005",
     "district_code": "730104",
-    "name": "Polebunging"
+    "name": "Polebunging",
+    "postal_code": "92851"
   },
   {
     "code": "7301042006",
     "district_code": "730104",
-    "name": "Bonea Makmur"
+    "name": "Bonea Makmur",
+    "postal_code": "92851"
   },
   {
     "code": "7301042008",
     "district_code": "730104",
-    "name": "Bontomarannu"
+    "name": "Bontomarannu",
+    "postal_code": "92851"
   },
   {
     "code": "7301042010",
     "district_code": "730104",
-    "name": "Bonea Timur"
+    "name": "Bonea Timur",
+    "postal_code": "92851"
   },
   {
     "code": "7301042011",
     "district_code": "730104",
-    "name": "Bontokoraang"
+    "name": "Bontokoraang",
+    "postal_code": "92851"
   },
   {
     "code": "7301042012",
     "district_code": "730104",
-    "name": "Kaburu"
+    "name": "Kaburu",
+    "postal_code": "92851"
   }
 ]

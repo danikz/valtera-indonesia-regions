@@ -2,36 +2,43 @@
   {
     "code": "6408182001",
     "district_code": "640818",
-    "name": "Sika Makmur"
+    "name": "Sika Makmur",
+    "postal_code": "75656"
   },
   {
     "code": "6408182002",
     "district_code": "640818",
-    "name": "Segoy Makmur"
+    "name": "Segoy Makmur",
+    "postal_code": "75656"
   },
   {
     "code": "6408182003",
     "district_code": "640818",
-    "name": "Mukti Utama"
+    "name": "Mukti Utama",
+    "postal_code": "75656"
   },
   {
     "code": "6408182004",
     "district_code": "640818",
-    "name": "Sumber Sari"
+    "name": "Sumber Sari",
+    "postal_code": "75656"
   },
   {
     "code": "6408182005",
     "district_code": "640818",
-    "name": "Melan"
+    "name": "Melan",
+    "postal_code": "75656"
   },
   {
     "code": "6408182006",
     "district_code": "640818",
-    "name": "Tanah Abang"
+    "name": "Tanah Abang",
+    "postal_code": "75654"
   },
   {
     "code": "6408182007",
     "district_code": "640818",
-    "name": "Sumber Agung"
+    "name": "Sumber Agung",
+    "postal_code": "75654"
   }
 ]

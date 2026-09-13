@@ -2,46 +2,55 @@
   {
     "code": "9501192001",
     "district_code": "950119",
-    "name": "Lukaken"
+    "name": "Lukaken",
+    "postal_code": "99503"
   },
   {
     "code": "9501192002",
     "district_code": "950119",
-    "name": "Miami"
+    "name": "Miami",
+    "postal_code": "99503"
   },
   {
     "code": "9501192003",
     "district_code": "950119",
-    "name": "Waroba"
+    "name": "Waroba",
+    "postal_code": "99503"
   },
   {
     "code": "9501192004",
     "district_code": "950119",
-    "name": "Yogonima"
+    "name": "Yogonima",
+    "postal_code": "99503"
   },
   {
     "code": "9501192005",
     "district_code": "950119",
-    "name": "Tomisa"
+    "name": "Tomisa",
+    "postal_code": "99503"
   },
   {
     "code": "9501192006",
     "district_code": "950119",
-    "name": "Helepalegem"
+    "name": "Helepalegem",
+    "postal_code": "99503"
   },
   {
     "code": "9501192007",
     "district_code": "950119",
-    "name": "Siliwa"
+    "name": "Siliwa",
+    "postal_code": "99503"
   },
   {
     "code": "9501192008",
     "district_code": "950119",
-    "name": "Sumunikama"
+    "name": "Sumunikama",
+    "postal_code": "99503"
   },
   {
     "code": "9501192009",
     "district_code": "950119",
-    "name": "Kemisake"
+    "name": "Kemisake",
+    "postal_code": "99503"
   }
 ]

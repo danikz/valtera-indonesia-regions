@@ -2,21 +2,25 @@
   {
     "code": "7372011004",
     "district_code": "737201",
-    "name": "Lompoe"
+    "name": "Lompoe",
+    "postal_code": "91125"
   },
   {
     "code": "7372011005",
     "district_code": "737201",
-    "name": "WT. Bacukiki"
+    "name": "WT. Bacukiki",
+    "postal_code": "91121"
   },
   {
     "code": "7372011009",
     "district_code": "737201",
-    "name": "Lemoe"
+    "name": "Lemoe",
+    "postal_code": "91121"
   },
   {
     "code": "7372011010",
     "district_code": "737201",
-    "name": "Galung Maloang"
+    "name": "Galung Maloang",
+    "postal_code": "91121"
   }
 ]

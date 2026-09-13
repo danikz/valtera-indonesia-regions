@@ -2,36 +2,43 @@
   {
     "code": "6304172001",
     "district_code": "630417",
-    "name": "Sampurna"
+    "name": "Sampurna",
+    "postal_code": "70581"
   },
   {
     "code": "6304172002",
     "district_code": "630417",
-    "name": "Jejangkit Barat"
+    "name": "Jejangkit Barat",
+    "postal_code": "70581"
   },
   {
     "code": "6304172003",
     "district_code": "630417",
-    "name": "Bahandang"
+    "name": "Bahandang",
+    "postal_code": "70581"
   },
   {
     "code": "6304172004",
     "district_code": "630417",
-    "name": "Jejangkit Timur"
+    "name": "Jejangkit Timur",
+    "postal_code": "70581"
   },
   {
     "code": "6304172005",
     "district_code": "630417",
-    "name": "Cahaya Baru"
+    "name": "Cahaya Baru",
+    "postal_code": "70581"
   },
   {
     "code": "6304172006",
     "district_code": "630417",
-    "name": "Jejangkit Pasar"
+    "name": "Jejangkit Pasar",
+    "postal_code": "70581"
   },
   {
     "code": "6304172007",
     "district_code": "630417",
-    "name": "Jejangkit Muara"
+    "name": "Jejangkit Muara",
+    "postal_code": "70581"
   }
 ]

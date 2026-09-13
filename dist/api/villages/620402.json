@@ -2,51 +2,61 @@
   {
     "code": "6204021003",
     "district_code": "620402",
-    "name": "Mengkatip"
+    "name": "Mengkatip",
+    "postal_code": "73762"
   },
   {
     "code": "6204022001",
     "district_code": "620402",
-    "name": "Sungai Jaya"
+    "name": "Sungai Jaya",
+    "postal_code": "73762"
   },
   {
     "code": "6204022002",
     "district_code": "620402",
-    "name": "Mahajandau"
+    "name": "Mahajandau",
+    "postal_code": "73762"
   },
   {
     "code": "6204022004",
     "district_code": "620402",
-    "name": "Kalanis"
+    "name": "Kalanis",
+    "postal_code": "73762"
   },
   {
     "code": "6204022005",
     "district_code": "620402",
-    "name": "Lehai"
+    "name": "Lehai",
+    "postal_code": "73762"
   },
   {
     "code": "6204022006",
     "district_code": "620402",
-    "name": "Damparan"
+    "name": "Damparan",
+    "postal_code": "73762"
   },
   {
     "code": "6204022007",
     "district_code": "620402",
-    "name": "Teluk Timbau"
+    "name": "Teluk Timbau",
+    "postal_code": "73762"
   },
   {
     "code": "6204022008",
     "district_code": "620402",
-    "name": "Batilap"
+    "name": "Batilap",
+    "postal_code": "73762"
   },
   {
     "code": "6204022009",
     "district_code": "620402",
-    "name": "Batampang"
+    "name": "Batampang",
+    "postal_code": "73762"
   },
   {
     "code": "6204022010",
     "district_code": "620402",
-    "name": "Mangkatir"
+    "name": "Mangkatir",
+    "postal_code": "73762"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "3602072004",
     "district_code": "360207",
-    "name": "Bojongmanik"
+    "name": "Bojongmanik",
+    "postal_code": "42363"
   },
   {
     "code": "3602072007",
     "district_code": "360207",
-    "name": "Harjawana"
+    "name": "Harjawana",
+    "postal_code": "42363"
   },
   {
     "code": "3602072008",
     "district_code": "360207",
-    "name": "Kadurahayu"
+    "name": "Kadurahayu",
+    "postal_code": "42363"
   },
   {
     "code": "3602072009",
     "district_code": "360207",
-    "name": "Cimayang"
+    "name": "Cimayang",
+    "postal_code": "42363"
   },
   {
     "code": "3602072010",
     "district_code": "360207",
-    "name": "Parakanbeusi"
+    "name": "Parakanbeusi",
+    "postal_code": "42363"
   },
   {
     "code": "3602072012",
     "district_code": "360207",
-    "name": "Keboncau"
+    "name": "Keboncau",
+    "postal_code": "42363"
   },
   {
     "code": "3602072014",
     "district_code": "360207",
-    "name": "Mekarmanik"
+    "name": "Mekarmanik",
+    "postal_code": "42363"
   },
   {
     "code": "3602072016",
     "district_code": "360207",
-    "name": "Mekar Rahayu"
+    "name": "Mekar Rahayu",
+    "postal_code": "42363"
   },
   {
     "code": "3602072017",
     "district_code": "360207",
-    "name": "Pasirbitung"
+    "name": "Pasirbitung",
+    "postal_code": "42363"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "3203252001",
     "district_code": "320325",
-    "name": "Cibanggala"
+    "name": "Cibanggala",
+    "postal_code": "43269"
   },
   {
     "code": "3203252002",
     "district_code": "320325",
-    "name": "Campakawarna"
+    "name": "Campakawarna",
+    "postal_code": "43269"
   },
   {
     "code": "3203252003",
     "district_code": "320325",
-    "name": "Sukasirna"
+    "name": "Sukasirna",
+    "postal_code": "43269"
   },
   {
     "code": "3203252004",
     "district_code": "320325",
-    "name": "Campakamulya"
+    "name": "Campakamulya",
+    "postal_code": "43269"
   },
   {
     "code": "3203252005",
     "district_code": "320325",
-    "name": "Sukabungah"
+    "name": "Sukabungah",
+    "postal_code": "43269"
   }
 ]

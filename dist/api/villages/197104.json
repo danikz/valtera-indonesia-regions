@@ -2,41 +2,49 @@
   {
     "code": "1971041001",
     "district_code": "197104",
-    "name": "Pintu Air"
+    "name": "Pintu Air",
+    "postal_code": "33133"
   },
   {
     "code": "1971041002",
     "district_code": "197104",
-    "name": "Bintang"
+    "name": "Bintang",
+    "postal_code": "33138"
   },
   {
     "code": "1971041005",
     "district_code": "197104",
-    "name": "Masjid Jamik"
+    "name": "Masjid Jamik",
+    "postal_code": "33132"
   },
   {
     "code": "1971041006",
     "district_code": "197104",
-    "name": "Asam"
+    "name": "Asam",
+    "postal_code": "33135"
   },
   {
     "code": "1971041007",
     "district_code": "197104",
-    "name": "Melintang"
+    "name": "Melintang",
+    "postal_code": "33136"
   },
   {
     "code": "1971041008",
     "district_code": "197104",
-    "name": "Parit Lalang"
+    "name": "Parit Lalang",
+    "postal_code": "33137"
   },
   {
     "code": "1971041009",
     "district_code": "197104",
-    "name": "Keramat"
+    "name": "Keramat",
+    "postal_code": "33134"
   },
   {
     "code": "1971041010",
     "district_code": "197104",
-    "name": "Gajah Mada"
+    "name": "Gajah Mada",
+    "postal_code": "33139"
   }
 ]

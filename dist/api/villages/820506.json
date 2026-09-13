@@ -2,36 +2,43 @@
   {
     "code": "8205062001",
     "district_code": "820506",
-    "name": "Dofa"
+    "name": "Dofa",
+    "postal_code": "97793"
   },
   {
     "code": "8205062002",
     "district_code": "820506",
-    "name": "Lekokadai"
+    "name": "Lekokadai",
+    "postal_code": "97793"
   },
   {
     "code": "8205062003",
     "district_code": "820506",
-    "name": "Lekosula"
+    "name": "Lekosula",
+    "postal_code": "97793"
   },
   {
     "code": "8205062009",
     "district_code": "820506",
-    "name": "Pas Ipa"
+    "name": "Pas Ipa",
+    "postal_code": "97793"
   },
   {
     "code": "8205062014",
     "district_code": "820506",
-    "name": "Pelita"
+    "name": "Pelita",
+    "postal_code": "97793"
   },
   {
     "code": "8205062017",
     "district_code": "820506",
-    "name": "Johor"
+    "name": "Johor",
+    "postal_code": "97793"
   },
   {
     "code": "8205062018",
     "district_code": "820506",
-    "name": "Lelyaba"
+    "name": "Lelyaba",
+    "postal_code": "97793"
   }
 ]

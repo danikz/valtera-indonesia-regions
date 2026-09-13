@@ -2,51 +2,61 @@
   {
     "code": "7304051001",
     "district_code": "730405",
-    "name": "Tolo"
+    "name": "Tolo",
+    "postal_code": "92371"
   },
   {
     "code": "7304051002",
     "district_code": "730405",
-    "name": "Tolo Utara"
+    "name": "Tolo Utara",
+    "postal_code": "92371"
   },
   {
     "code": "7304051003",
     "district_code": "730405",
-    "name": "Tolo Selatan"
+    "name": "Tolo Selatan",
+    "postal_code": "92371"
   },
   {
     "code": "7304051004",
     "district_code": "730405",
-    "name": "Tolo Timur"
+    "name": "Tolo Timur",
+    "postal_code": "92371"
   },
   {
     "code": "7304051005",
     "district_code": "730405",
-    "name": "Tolo Barat"
+    "name": "Tolo Barat",
+    "postal_code": "92371"
   },
   {
     "code": "7304052006",
     "district_code": "730405",
-    "name": "Gantarang"
+    "name": "Gantarang",
+    "postal_code": "92371"
   },
   {
     "code": "7304052009",
     "district_code": "730405",
-    "name": "Bontolebang"
+    "name": "Bontolebang",
+    "postal_code": "92371"
   },
   {
     "code": "7304052010",
     "district_code": "730405",
-    "name": "Bontonompo"
+    "name": "Bontonompo",
+    "postal_code": "92371"
   },
   {
     "code": "7304052014",
     "district_code": "730405",
-    "name": "Samataring"
+    "name": "Samataring",
+    "postal_code": "92371"
   },
   {
     "code": "7304052021",
     "district_code": "730405",
-    "name": "Tombolo"
+    "name": "Tombolo",
+    "postal_code": "92371"
   }
 ]

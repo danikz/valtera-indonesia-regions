@@ -2,61 +2,73 @@
   {
     "code": "1271011001",
     "district_code": "127101",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "20212"
   },
   {
     "code": "1271011002",
     "district_code": "127101",
-    "name": "Pusat Pasar"
+    "name": "Pusat Pasar",
+    "postal_code": "20212"
   },
   {
     "code": "1271011003",
     "district_code": "127101",
-    "name": "Sei Rengas I"
+    "name": "Sei Rengas I",
+    "postal_code": "20214"
   },
   {
     "code": "1271011004",
     "district_code": "127101",
-    "name": "Mesjid"
+    "name": "Mesjid",
+    "postal_code": "20213"
   },
   {
     "code": "1271011005",
     "district_code": "127101",
-    "name": "Pandau Hulu I"
+    "name": "Pandau Hulu I",
+    "postal_code": "20211"
   },
   {
     "code": "1271011006",
     "district_code": "127101",
-    "name": "Kotamatsum III"
+    "name": "Kotamatsum III",
+    "postal_code": "20215"
   },
   {
     "code": "1271011007",
     "district_code": "127101",
-    "name": "Pasar Merah Barat"
+    "name": "Pasar Merah Barat",
+    "postal_code": "20217"
   },
   {
     "code": "1271011008",
     "district_code": "127101",
-    "name": "Teladan Timur"
+    "name": "Teladan Timur",
+    "postal_code": "20217"
   },
   {
     "code": "1271011009",
     "district_code": "127101",
-    "name": "Teladan Barat"
+    "name": "Teladan Barat",
+    "postal_code": "20217"
   },
   {
     "code": "1271011010",
     "district_code": "127101",
-    "name": "Sudirejo"
+    "name": "Sudirejo",
+    "postal_code": "20218"
   },
   {
     "code": "1271011011",
     "district_code": "127101",
-    "name": "Sudirejo II"
+    "name": "Sudirejo II",
+    "postal_code": "20218"
   },
   {
     "code": "1271011012",
     "district_code": "127101",
-    "name": "Sitirejo I"
+    "name": "Sitirejo I",
+    "postal_code": "20219"
   }
 ]

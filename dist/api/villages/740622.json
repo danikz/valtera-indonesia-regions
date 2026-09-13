@@ -2,26 +2,31 @@
   {
     "code": "7406222001",
     "district_code": "740622",
-    "name": "Kolombi Matausu"
+    "name": "Kolombi Matausu",
+    "postal_code": "93786"
   },
   {
     "code": "7406222002",
     "district_code": "740622",
-    "name": "Morengke"
+    "name": "Morengke",
+    "postal_code": "93786"
   },
   {
     "code": "7406222003",
     "district_code": "740622",
-    "name": "Wia-wia"
+    "name": "Wia-wia",
+    "postal_code": "93786"
   },
   {
     "code": "7406222004",
     "district_code": "740622",
-    "name": "Lamuru"
+    "name": "Lamuru",
+    "postal_code": "93786"
   },
   {
     "code": "7406222005",
     "district_code": "740622",
-    "name": "Totole"
+    "name": "Totole",
+    "postal_code": "93786"
   }
 ]

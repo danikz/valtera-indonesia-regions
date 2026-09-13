@@ -2,46 +2,55 @@
   {
     "code": "1305032001",
     "district_code": "130503",
-    "name": "Kapalo Koto"
+    "name": "Kapalo Koto",
+    "postal_code": "25571"
   },
   {
     "code": "1305032002",
     "district_code": "130503",
-    "name": "Pauh Kambar"
+    "name": "Pauh Kambar",
+    "postal_code": "25571"
   },
   {
     "code": "1305032003",
     "district_code": "130503",
-    "name": "Padang Bintungan"
+    "name": "Padang Bintungan",
+    "postal_code": "25571"
   },
   {
     "code": "1305032004",
     "district_code": "130503",
-    "name": "Kurai Taji"
+    "name": "Kurai Taji",
+    "postal_code": "25571"
   },
   {
     "code": "1305032005",
     "district_code": "130503",
-    "name": "Sunua"
+    "name": "Sunua",
+    "postal_code": "25571"
   },
   {
     "code": "1305032006",
     "district_code": "130503",
-    "name": "Padang Kandang Pulau Air Padang"
+    "name": "Padang Kandang Pulau Air Padang",
+    "postal_code": "25571"
   },
   {
     "code": "1305032007",
     "district_code": "130503",
-    "name": "Sunua Tengah"
+    "name": "Sunua Tengah",
+    "postal_code": "25571"
   },
   {
     "code": "1305032008",
     "district_code": "130503",
-    "name": "Sunua Barat"
+    "name": "Sunua Barat",
+    "postal_code": "25571"
   },
   {
     "code": "1305032009",
     "district_code": "130503",
-    "name": "Kurai Taji Timur"
+    "name": "Kurai Taji Timur",
+    "postal_code": "25571"
   }
 ]

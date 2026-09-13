@@ -2,51 +2,61 @@
   {
     "code": "1508052001",
     "district_code": "150805",
-    "name": "Teluk Pandak"
+    "name": "Teluk Pandak",
+    "postal_code": "37263"
   },
   {
     "code": "1508052003",
     "district_code": "150805",
-    "name": "Empelu"
+    "name": "Empelu",
+    "postal_code": "37263"
   },
   {
     "code": "1508052006",
     "district_code": "150805",
-    "name": "Pasar Lubuk Landai"
+    "name": "Pasar Lubuk Landai",
+    "postal_code": "37263"
   },
   {
     "code": "1508052007",
     "district_code": "150805",
-    "name": "Sungai Gambir"
+    "name": "Sungai Gambir",
+    "postal_code": "37263"
   },
   {
     "code": "1508052009",
     "district_code": "150805",
-    "name": "Candi"
+    "name": "Candi",
+    "postal_code": "37263"
   },
   {
     "code": "1508052010",
     "district_code": "150805",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "37263"
   },
   {
     "code": "1508052012",
     "district_code": "150805",
-    "name": "Tanah Bekali"
+    "name": "Tanah Bekali",
+    "postal_code": "37263"
   },
   {
     "code": "1508052015",
     "district_code": "150805",
-    "name": "Telentam"
+    "name": "Telentam",
+    "postal_code": "37263"
   },
   {
     "code": "1508052017",
     "district_code": "150805",
-    "name": "Pasar Rantau Embacang"
+    "name": "Pasar Rantau Embacang",
+    "postal_code": "37263"
   },
   {
     "code": "1508052019",
     "district_code": "150805",
-    "name": "Tenam"
+    "name": "Tenam",
+    "postal_code": "37263"
   }
 ]

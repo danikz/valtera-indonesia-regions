@@ -2,66 +2,79 @@
   {
     "code": "6101102001",
     "district_code": "610110",
-    "name": "Balai Gemuruh"
+    "name": "Balai Gemuruh",
+    "postal_code": "79417"
   },
   {
     "code": "6101102002",
     "district_code": "610110",
-    "name": "Sungai Sapa'"
+    "name": "Sungai Sapa'",
+    "postal_code": "79417"
   },
   {
     "code": "6101102003",
     "district_code": "610110",
-    "name": "Madak"
+    "name": "Madak",
+    "postal_code": "79417"
   },
   {
     "code": "6101102004",
     "district_code": "610110",
-    "name": "Sabung"
+    "name": "Sabung",
+    "postal_code": "79417"
   },
   {
     "code": "6101102005",
     "district_code": "610110",
-    "name": "Tebuah Elok"
+    "name": "Tebuah Elok",
+    "postal_code": "79417"
   },
   {
     "code": "6101102006",
     "district_code": "610110",
-    "name": "Sungai Deden"
+    "name": "Sungai Deden",
+    "postal_code": "79417"
   },
   {
     "code": "6101102007",
     "district_code": "610110",
-    "name": "Bukit Mulya"
+    "name": "Bukit Mulya",
+    "postal_code": "79417"
   },
   {
     "code": "6101102008",
     "district_code": "610110",
-    "name": "Mukti Raharja"
+    "name": "Mukti Raharja",
+    "postal_code": "79417"
   },
   {
     "code": "6101102009",
     "district_code": "610110",
-    "name": "Sempurna"
+    "name": "Sempurna",
+    "postal_code": "79417"
   },
   {
     "code": "6101102010",
     "district_code": "610110",
-    "name": "Mensade"
+    "name": "Mensade",
+    "postal_code": "79417"
   },
   {
     "code": "6101102011",
     "district_code": "610110",
-    "name": "Karaban Jaya"
+    "name": "Karaban Jaya",
+    "postal_code": "79417"
   },
   {
     "code": "6101102012",
     "district_code": "610110",
-    "name": "Arga Pura"
+    "name": "Arga Pura",
+    "postal_code": "79417"
   },
   {
     "code": "6101102013",
     "district_code": "610110",
-    "name": "Sapak Hulu Trans"
+    "name": "Sapak Hulu Trans",
+    "postal_code": "79417"
   }
 ]

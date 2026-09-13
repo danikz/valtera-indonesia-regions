@@ -2,36 +2,43 @@
   {
     "code": "1213232001",
     "district_code": "121323",
-    "name": "Tambiski"
+    "name": "Tambiski",
+    "postal_code": "22975"
   },
   {
     "code": "1213232002",
     "district_code": "121323",
-    "name": "Tarutung Panjang"
+    "name": "Tarutung Panjang",
+    "postal_code": "22975"
   },
   {
     "code": "1213232003",
     "district_code": "121323",
-    "name": "Humbang I"
+    "name": "Humbang I",
+    "postal_code": "22975"
   },
   {
     "code": "1213232004",
     "district_code": "121323",
-    "name": "Banua Rakyat"
+    "name": "Banua Rakyat",
+    "postal_code": "22975"
   },
   {
     "code": "1213232005",
     "district_code": "121323",
-    "name": "Sayur Matua"
+    "name": "Sayur Matua",
+    "postal_code": "22975"
   },
   {
     "code": "1213232006",
     "district_code": "121323",
-    "name": "Banua Simanosor"
+    "name": "Banua Simanosor",
+    "postal_code": "22975"
   },
   {
     "code": "1213232007",
     "district_code": "121323",
-    "name": "Tambiski Nauli"
+    "name": "Tambiski Nauli",
+    "postal_code": "22975"
   }
 ]

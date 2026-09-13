@@ -2,56 +2,67 @@
   {
     "code": "1904011001",
     "district_code": "190401",
-    "name": "Koba"
+    "name": "Koba",
+    "postal_code": "33681"
   },
   {
     "code": "1904011002",
     "district_code": "190401",
-    "name": "Arung Dalam"
+    "name": "Arung Dalam",
+    "postal_code": "33681"
   },
   {
     "code": "1904011017",
     "district_code": "190401",
-    "name": "Berok"
+    "name": "Berok",
+    "postal_code": "33681"
   },
   {
     "code": "1904011018",
     "district_code": "190401",
-    "name": "Padang Mulia"
+    "name": "Padang Mulia",
+    "postal_code": "33681"
   },
   {
     "code": "1904011019",
     "district_code": "190401",
-    "name": "Simpang Perlang"
+    "name": "Simpang Perlang",
+    "postal_code": "33681"
   },
   {
     "code": "1904012003",
     "district_code": "190401",
-    "name": "Nibung"
+    "name": "Nibung",
+    "postal_code": "33681"
   },
   {
     "code": "1904012005",
     "district_code": "190401",
-    "name": "Kurau (Timur)"
+    "name": "Kurau (Timur)",
+    "postal_code": "33681"
   },
   {
     "code": "1904012006",
     "district_code": "190401",
-    "name": "Guntung"
+    "name": "Guntung",
+    "postal_code": "33681"
   },
   {
     "code": "1904012007",
     "district_code": "190401",
-    "name": "Penyak"
+    "name": "Penyak",
+    "postal_code": "33681"
   },
   {
     "code": "1904012008",
     "district_code": "190401",
-    "name": "Terentang III"
+    "name": "Terentang III",
+    "postal_code": "33681"
   },
   {
     "code": "1904012010",
     "district_code": "190401",
-    "name": "Kurau Barat"
+    "name": "Kurau Barat",
+    "postal_code": "33681"
   }
 ]

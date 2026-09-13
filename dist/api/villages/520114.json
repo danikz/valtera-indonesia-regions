@@ -2,46 +2,55 @@
   {
     "code": "5201142001",
     "district_code": "520114",
-    "name": "Batulayar"
+    "name": "Batulayar",
+    "postal_code": "83355"
   },
   {
     "code": "5201142002",
     "district_code": "520114",
-    "name": "Meninting"
+    "name": "Meninting",
+    "postal_code": "83355"
   },
   {
     "code": "5201142003",
     "district_code": "520114",
-    "name": "Sandik"
+    "name": "Sandik",
+    "postal_code": "83355"
   },
   {
     "code": "5201142004",
     "district_code": "520114",
-    "name": "Lembah Sari"
+    "name": "Lembah Sari",
+    "postal_code": "83355"
   },
   {
     "code": "5201142005",
     "district_code": "520114",
-    "name": "Senteluk"
+    "name": "Senteluk",
+    "postal_code": "83355"
   },
   {
     "code": "5201142006",
     "district_code": "520114",
-    "name": "Senggigi"
+    "name": "Senggigi",
+    "postal_code": "83355"
   },
   {
     "code": "5201142007",
     "district_code": "520114",
-    "name": "Bengkaung"
+    "name": "Bengkaung",
+    "postal_code": "83355"
   },
   {
     "code": "5201142008",
     "district_code": "520114",
-    "name": "Pusuk Lestari"
+    "name": "Pusuk Lestari",
+    "postal_code": "83355"
   },
   {
     "code": "5201142009",
     "district_code": "520114",
-    "name": "Batu Layar Barat"
+    "name": "Batu Layar Barat",
+    "postal_code": "83355"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "7324012001",
     "district_code": "732401",
-    "name": "Maleku"
+    "name": "Maleku",
+    "postal_code": "92974"
   },
   {
     "code": "7324012002",
     "district_code": "732401",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "92974"
   },
   {
     "code": "7324012003",
     "district_code": "732401",
-    "name": "Margolembo"
+    "name": "Margolembo",
+    "postal_code": "92974"
   },
   {
     "code": "7324012004",
     "district_code": "732401",
-    "name": "Teromu"
+    "name": "Teromu",
+    "postal_code": "92974"
   },
   {
     "code": "7324012007",
     "district_code": "732401",
-    "name": "Manggala"
+    "name": "Manggala",
+    "postal_code": "92974"
   },
   {
     "code": "7324012009",
     "district_code": "732401",
-    "name": "Kasintuwu"
+    "name": "Kasintuwu",
+    "postal_code": "92974"
   },
   {
     "code": "7324012011",
     "district_code": "732401",
-    "name": "Balai Kembang"
+    "name": "Balai Kembang",
+    "postal_code": "92974"
   },
   {
     "code": "7324012013",
     "district_code": "732401",
-    "name": "Panca Karsa"
+    "name": "Panca Karsa",
+    "postal_code": "92974"
   },
   {
     "code": "7324012014",
     "district_code": "732401",
-    "name": "Sindu Agung"
+    "name": "Sindu Agung",
+    "postal_code": "92974"
   },
   {
     "code": "7324012015",
     "district_code": "732401",
-    "name": "Wonorejo Timur"
+    "name": "Wonorejo Timur",
+    "postal_code": "92974"
   },
   {
     "code": "7324012016",
     "district_code": "732401",
-    "name": "Koroncia"
+    "name": "Koroncia",
+    "postal_code": "92974"
   }
 ]

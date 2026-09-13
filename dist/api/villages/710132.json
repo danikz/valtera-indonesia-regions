@@ -2,41 +2,49 @@
   {
     "code": "7101322001",
     "district_code": "710132",
-    "name": "Bilalang III"
+    "name": "Bilalang III",
+    "postal_code": "95755"
   },
   {
     "code": "7101322002",
     "district_code": "710132",
-    "name": "Bilalang IV"
+    "name": "Bilalang IV",
+    "postal_code": "95755"
   },
   {
     "code": "7101322003",
     "district_code": "710132",
-    "name": "Tudu Aog"
+    "name": "Tudu Aog",
+    "postal_code": "95755"
   },
   {
     "code": "7101322004",
     "district_code": "710132",
-    "name": "Tudu Aog Baru"
+    "name": "Tudu Aog Baru",
+    "postal_code": "95755"
   },
   {
     "code": "7101322005",
     "district_code": "710132",
-    "name": "Kolinganga'an"
+    "name": "Kolinganga'an",
+    "postal_code": "95755"
   },
   {
     "code": "7101322006",
     "district_code": "710132",
-    "name": "Bilalang III Utara"
+    "name": "Bilalang III Utara",
+    "postal_code": "95755"
   },
   {
     "code": "7101322007",
     "district_code": "710132",
-    "name": "Bilalang Baru"
+    "name": "Bilalang Baru",
+    "postal_code": "95755"
   },
   {
     "code": "7101322008",
     "district_code": "710132",
-    "name": "Apado"
+    "name": "Apado",
+    "postal_code": "95755"
   }
 ]

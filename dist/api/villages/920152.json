@@ -2,36 +2,43 @@
   {
     "code": "9201522001",
     "district_code": "920152",
-    "name": "Hobard"
+    "name": "Hobard",
+    "postal_code": ""
   },
   {
     "code": "9201522002",
     "district_code": "920152",
-    "name": "Brianlo"
+    "name": "Brianlo",
+    "postal_code": ""
   },
   {
     "code": "9201522003",
     "district_code": "920152",
-    "name": "Floyi"
+    "name": "Floyi",
+    "postal_code": ""
   },
   {
     "code": "9201522004",
     "district_code": "920152",
-    "name": "Klazelth"
+    "name": "Klazelth",
+    "postal_code": ""
   },
   {
     "code": "9201522005",
     "district_code": "920152",
-    "name": "Sfadon"
+    "name": "Sfadon",
+    "postal_code": ""
   },
   {
     "code": "9201522006",
     "district_code": "920152",
-    "name": "Selol"
+    "name": "Selol",
+    "postal_code": ""
   },
   {
     "code": "9201522007",
     "district_code": "920152",
-    "name": "Dais"
+    "name": "Dais",
+    "postal_code": ""
   }
 ]

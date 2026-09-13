@@ -2,36 +2,43 @@
   {
     "code": "7603131001",
     "district_code": "760313",
-    "name": "Nosu"
+    "name": "Nosu",
+    "postal_code": "91363"
   },
   {
     "code": "7603132002",
     "district_code": "760313",
-    "name": "Minanga"
+    "name": "Minanga",
+    "postal_code": "91363"
   },
   {
     "code": "7603132003",
     "district_code": "760313",
-    "name": "Batupapan"
+    "name": "Batupapan",
+    "postal_code": "91363"
   },
   {
     "code": "7603132004",
     "district_code": "760313",
-    "name": "Masewwe"
+    "name": "Masewwe",
+    "postal_code": "91363"
   },
   {
     "code": "7603132005",
     "district_code": "760313",
-    "name": "Siwi"
+    "name": "Siwi",
+    "postal_code": "91363"
   },
   {
     "code": "7603132006",
     "district_code": "760313",
-    "name": "Minanga Timur"
+    "name": "Minanga Timur",
+    "postal_code": "91363"
   },
   {
     "code": "7603132007",
     "district_code": "760313",
-    "name": "Parinding"
+    "name": "Parinding",
+    "postal_code": "91363"
   }
 ]

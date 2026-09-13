@@ -2,66 +2,79 @@
   {
     "code": "1901011001",
     "district_code": "190101",
-    "name": "Sungailiat"
+    "name": "Sungailiat",
+    "postal_code": "33211"
   },
   {
     "code": "1901011002",
     "district_code": "190101",
-    "name": "Sri Menanti"
+    "name": "Sri Menanti",
+    "postal_code": "33214"
   },
   {
     "code": "1901011003",
     "district_code": "190101",
-    "name": "Kudai"
+    "name": "Kudai",
+    "postal_code": "33213"
   },
   {
     "code": "1901011004",
     "district_code": "190101",
-    "name": "Sinar Baru"
+    "name": "Sinar Baru",
+    "postal_code": "33212"
   },
   {
     "code": "1901011005",
     "district_code": "190101",
-    "name": "Kenanga"
+    "name": "Kenanga",
+    "postal_code": "33211"
   },
   {
     "code": "1901011006",
     "district_code": "190101",
-    "name": "Parit Padang"
+    "name": "Parit Padang",
+    "postal_code": "33215"
   },
   {
     "code": "1901011008",
     "district_code": "190101",
-    "name": "Sinar Jaya Jelutung"
+    "name": "Sinar Jaya Jelutung",
+    "postal_code": "33212"
   },
   {
     "code": "1901011009",
     "district_code": "190101",
-    "name": "Matras"
+    "name": "Matras",
+    "postal_code": "33212"
   },
   {
     "code": "1901011010",
     "district_code": "190101",
-    "name": "Jelitik"
+    "name": "Jelitik",
+    "postal_code": "33211"
   },
   {
     "code": "1901011011",
     "district_code": "190101",
-    "name": "Surya Timur"
+    "name": "Surya Timur",
+    "postal_code": "33211"
   },
   {
     "code": "1901011012",
     "district_code": "190101",
-    "name": "Lubuk Kelik"
+    "name": "Lubuk Kelik",
+    "postal_code": "33211"
   },
   {
     "code": "1901011013",
     "district_code": "190101",
-    "name": "Bukit Betung"
+    "name": "Bukit Betung",
+    "postal_code": "33211"
   },
   {
     "code": "1901012007",
     "district_code": "190101",
-    "name": "Rebo"
+    "name": "Rebo",
+    "postal_code": "33211"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3207052001",
     "district_code": "320705",
-    "name": "Cidolog"
+    "name": "Cidolog",
+    "postal_code": "46352"
   },
   {
     "code": "3207052002",
     "district_code": "320705",
-    "name": "Janggala"
+    "name": "Janggala",
+    "postal_code": "46352"
   },
   {
     "code": "3207052003",
     "district_code": "320705",
-    "name": "Hegarmanah"
+    "name": "Hegarmanah",
+    "postal_code": "46352"
   },
   {
     "code": "3207052004",
     "district_code": "320705",
-    "name": "Jelegong"
+    "name": "Jelegong",
+    "postal_code": "46352"
   },
   {
     "code": "3207052005",
     "district_code": "320705",
-    "name": "Ciparay"
+    "name": "Ciparay",
+    "postal_code": "46352"
   },
   {
     "code": "3207052006",
     "district_code": "320705",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "46352"
   }
 ]

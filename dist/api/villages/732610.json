@@ -2,36 +2,43 @@
   {
     "code": "7326101002",
     "district_code": "732610",
-    "name": "Tagari"
+    "name": "Tagari",
+    "postal_code": "91855"
   },
   {
     "code": "7326101005",
     "district_code": "732610",
-    "name": "Balusu"
+    "name": "Balusu",
+    "postal_code": "91855"
   },
   {
     "code": "7326102001",
     "district_code": "732610",
-    "name": "Palangi'"
+    "name": "Palangi'",
+    "postal_code": "91855"
   },
   {
     "code": "7326102003",
     "district_code": "732610",
-    "name": "Balusu Ao Gading"
+    "name": "Balusu Ao Gading",
+    "postal_code": "91855"
   },
   {
     "code": "7326102004",
     "district_code": "732610",
-    "name": "Karua"
+    "name": "Karua",
+    "postal_code": "91855"
   },
   {
     "code": "7326102006",
     "district_code": "732610",
-    "name": "Awa' Kawasik"
+    "name": "Awa' Kawasik",
+    "postal_code": "91855"
   },
   {
     "code": "7326102007",
     "district_code": "732610",
-    "name": "Balusu Bangunlipu"
+    "name": "Balusu Bangunlipu",
+    "postal_code": "91855"
   }
 ]

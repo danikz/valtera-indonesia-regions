@@ -2,61 +2,73 @@
   {
     "code": "3211112001",
     "district_code": "321111",
-    "name": "Gudang"
+    "name": "Gudang",
+    "postal_code": "45362"
   },
   {
     "code": "3211112002",
     "district_code": "321111",
-    "name": "Tanjungsari"
+    "name": "Tanjungsari",
+    "postal_code": "45362"
   },
   {
     "code": "3211112003",
     "district_code": "321111",
-    "name": "Jatisari"
+    "name": "Jatisari",
+    "postal_code": "45362"
   },
   {
     "code": "3211112004",
     "district_code": "321111",
-    "name": "Margaluyu"
+    "name": "Margaluyu",
+    "postal_code": "45362"
   },
   {
     "code": "3211112005",
     "district_code": "321111",
-    "name": "Kutamandiri"
+    "name": "Kutamandiri",
+    "postal_code": "45362"
   },
   {
     "code": "3211112006",
     "district_code": "321111",
-    "name": "Margajaya"
+    "name": "Margajaya",
+    "postal_code": "45362"
   },
   {
     "code": "3211112007",
     "district_code": "321111",
-    "name": "Raharja"
+    "name": "Raharja",
+    "postal_code": "45362"
   },
   {
     "code": "3211112008",
     "district_code": "321111",
-    "name": "Cijambu"
+    "name": "Cijambu",
+    "postal_code": "45362"
   },
   {
     "code": "3211112009",
     "district_code": "321111",
-    "name": "Pasigaran"
+    "name": "Pasigaran",
+    "postal_code": "45362"
   },
   {
     "code": "3211112010",
     "district_code": "321111",
-    "name": "Gunungmanik"
+    "name": "Gunungmanik",
+    "postal_code": "45362"
   },
   {
     "code": "3211112011",
     "district_code": "321111",
-    "name": "Kadakajaya"
+    "name": "Kadakajaya",
+    "postal_code": "45362"
   },
   {
     "code": "3211112012",
     "district_code": "321111",
-    "name": "Cinanjung"
+    "name": "Cinanjung",
+    "postal_code": "45362"
   }
 ]

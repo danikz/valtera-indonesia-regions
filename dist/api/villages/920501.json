@@ -2,26 +2,31 @@
   {
     "code": "9205012001",
     "district_code": "920501",
-    "name": "Waigama"
+    "name": "Waigama",
+    "postal_code": ""
   },
   {
     "code": "9205012005",
     "district_code": "920501",
-    "name": "Salafen"
+    "name": "Salafen",
+    "postal_code": ""
   },
   {
     "code": "9205012006",
     "district_code": "920501",
-    "name": "Aduwei"
+    "name": "Aduwei",
+    "postal_code": ""
   },
   {
     "code": "9205012007",
     "district_code": "920501",
-    "name": "Atkari"
+    "name": "Atkari",
+    "postal_code": ""
   },
   {
     "code": "9205012014",
     "district_code": "920501",
-    "name": "Solal"
+    "name": "Solal",
+    "postal_code": ""
   }
 ]

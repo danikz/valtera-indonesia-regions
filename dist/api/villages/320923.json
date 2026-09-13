@@ -2,46 +2,55 @@
   {
     "code": "3209232001",
     "district_code": "320923",
-    "name": "Serang"
+    "name": "Serang",
+    "postal_code": "45157"
   },
   {
     "code": "3209232002",
     "district_code": "320923",
-    "name": "Klangenan"
+    "name": "Klangenan",
+    "postal_code": "45157"
   },
   {
     "code": "3209232003",
     "district_code": "320923",
-    "name": "Danawinangun"
+    "name": "Danawinangun",
+    "postal_code": "45157"
   },
   {
     "code": "3209232007",
     "district_code": "320923",
-    "name": "Pakantingan"
+    "name": "Pakantingan",
+    "postal_code": "45157"
   },
   {
     "code": "3209232008",
     "district_code": "320923",
-    "name": "Jemaras Kidul"
+    "name": "Jemaras Kidul",
+    "postal_code": "45157"
   },
   {
     "code": "3209232009",
     "district_code": "320923",
-    "name": "Jemaras Lor"
+    "name": "Jemaras Lor",
+    "postal_code": "45157"
   },
   {
     "code": "3209232010",
     "district_code": "320923",
-    "name": "Slangit"
+    "name": "Slangit",
+    "postal_code": "45157"
   },
   {
     "code": "3209232011",
     "district_code": "320923",
-    "name": "Kreyo"
+    "name": "Kreyo",
+    "postal_code": "45157"
   },
   {
     "code": "3209232012",
     "district_code": "320923",
-    "name": "Bangodua"
+    "name": "Bangodua",
+    "postal_code": "45157"
   }
 ]

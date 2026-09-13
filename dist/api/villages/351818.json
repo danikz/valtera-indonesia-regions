@@ -2,31 +2,37 @@
   {
     "code": "3518182001",
     "district_code": "351818",
-    "name": "Sugihwaras"
+    "name": "Sugihwaras",
+    "postal_code": "64452"
   },
   {
     "code": "3518182002",
     "district_code": "351818",
-    "name": "Ngluyu"
+    "name": "Ngluyu",
+    "postal_code": "64452"
   },
   {
     "code": "3518182003",
     "district_code": "351818",
-    "name": "Tempuran"
+    "name": "Tempuran",
+    "postal_code": "64452"
   },
   {
     "code": "3518182004",
     "district_code": "351818",
-    "name": "Lengkong Lor"
+    "name": "Lengkong Lor",
+    "postal_code": "64452"
   },
   {
     "code": "3518182005",
     "district_code": "351818",
-    "name": "Gampeng"
+    "name": "Gampeng",
+    "postal_code": "64452"
   },
   {
     "code": "3518182006",
     "district_code": "351818",
-    "name": "Bajang"
+    "name": "Bajang",
+    "postal_code": "64452"
   }
 ]

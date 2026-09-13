@@ -2,66 +2,79 @@
   {
     "code": "1613041005",
     "district_code": "161304",
-    "name": "Bingin Teluk"
+    "name": "Bingin Teluk",
+    "postal_code": "31655"
   },
   {
     "code": "1613042001",
     "district_code": "161304",
-    "name": "Pauh"
+    "name": "Pauh",
+    "postal_code": "31655"
   },
   {
     "code": "1613042002",
     "district_code": "161304",
-    "name": "Batu Kucing"
+    "name": "Batu Kucing",
+    "postal_code": "31655"
   },
   {
     "code": "1613042003",
     "district_code": "161304",
-    "name": "Belani"
+    "name": "Belani",
+    "postal_code": "31655"
   },
   {
     "code": "1613042004",
     "district_code": "161304",
-    "name": "Tanjung Raja"
+    "name": "Tanjung Raja",
+    "postal_code": "31655"
   },
   {
     "code": "1613042006",
     "district_code": "161304",
-    "name": "Mandi Angin"
+    "name": "Mandi Angin",
+    "postal_code": "31655"
   },
   {
     "code": "1613042007",
     "district_code": "161304",
-    "name": "Air Bening"
+    "name": "Air Bening",
+    "postal_code": "31655"
   },
   {
     "code": "1613042008",
     "district_code": "161304",
-    "name": "Beringin Sakti"
+    "name": "Beringin Sakti",
+    "postal_code": "31655"
   },
   {
     "code": "1613042009",
     "district_code": "161304",
-    "name": "Beringin Makmur I"
+    "name": "Beringin Makmur I",
+    "postal_code": "31655"
   },
   {
     "code": "1613042010",
     "district_code": "161304",
-    "name": "Beringin Makmur II"
+    "name": "Beringin Makmur II",
+    "postal_code": "31655"
   },
   {
     "code": "1613042011",
     "district_code": "161304",
-    "name": "Pauh I"
+    "name": "Pauh I",
+    "postal_code": "31655"
   },
   {
     "code": "1613042012",
     "district_code": "161304",
-    "name": "Ketapat Bening"
+    "name": "Ketapat Bening",
+    "postal_code": "31655"
   },
   {
     "code": "1613042013",
     "district_code": "161304",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "31655"
   }
 ]

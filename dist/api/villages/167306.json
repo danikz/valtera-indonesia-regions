@@ -2,41 +2,49 @@
   {
     "code": "1673061001",
     "district_code": "167306",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "31616"
   },
   {
     "code": "1673061002",
     "district_code": "167306",
-    "name": "Ulak Lebar"
+    "name": "Ulak Lebar",
+    "postal_code": "31611"
   },
   {
     "code": "1673061003",
     "district_code": "167306",
-    "name": "Tapak Lebar"
+    "name": "Tapak Lebar",
+    "postal_code": "31611"
   },
   {
     "code": "1673061004",
     "district_code": "167306",
-    "name": "Bandung Kanan"
+    "name": "Bandung Kanan",
+    "postal_code": "31611"
   },
   {
     "code": "1673061005",
     "district_code": "167306",
-    "name": "Keputraan"
+    "name": "Keputraan",
+    "postal_code": "31611"
   },
   {
     "code": "1673061006",
     "district_code": "167306",
-    "name": "Lubuklinggau Ilir"
+    "name": "Lubuklinggau Ilir",
+    "postal_code": "31611"
   },
   {
     "code": "1673061007",
     "district_code": "167306",
-    "name": "Lubuklinggau Ulu"
+    "name": "Lubuklinggau Ulu",
+    "postal_code": "31611"
   },
   {
     "code": "1673061008",
     "district_code": "167306",
-    "name": "Pasar Permiri"
+    "name": "Pasar Permiri",
+    "postal_code": "31611"
   }
 ]

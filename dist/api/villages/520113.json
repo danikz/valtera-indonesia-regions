@@ -2,51 +2,61 @@
   {
     "code": "5201132001",
     "district_code": "520113",
-    "name": "Lembar"
+    "name": "Lembar",
+    "postal_code": "83364"
   },
   {
     "code": "5201132002",
     "district_code": "520113",
-    "name": "Jembatan Kembar"
+    "name": "Jembatan Kembar",
+    "postal_code": "83364"
   },
   {
     "code": "5201132003",
     "district_code": "520113",
-    "name": "Mareje"
+    "name": "Mareje",
+    "postal_code": "83364"
   },
   {
     "code": "5201132004",
     "district_code": "520113",
-    "name": "Sekotong Timur"
+    "name": "Sekotong Timur",
+    "postal_code": "83364"
   },
   {
     "code": "5201132005",
     "district_code": "520113",
-    "name": "Labuan Tereng"
+    "name": "Labuan Tereng",
+    "postal_code": "83364"
   },
   {
     "code": "5201132006",
     "district_code": "520113",
-    "name": "Jembatan Gantung"
+    "name": "Jembatan Gantung",
+    "postal_code": "83364"
   },
   {
     "code": "5201132007",
     "district_code": "520113",
-    "name": "Lembar Selatan"
+    "name": "Lembar Selatan",
+    "postal_code": "83364"
   },
   {
     "code": "5201132008",
     "district_code": "520113",
-    "name": "Mareje Timur"
+    "name": "Mareje Timur",
+    "postal_code": "83364"
   },
   {
     "code": "5201132009",
     "district_code": "520113",
-    "name": "Jembatan Kembar Timur"
+    "name": "Jembatan Kembar Timur",
+    "postal_code": "83364"
   },
   {
     "code": "5201132010",
     "district_code": "520113",
-    "name": "Eyat Mayang"
+    "name": "Eyat Mayang",
+    "postal_code": "83364"
   }
 ]

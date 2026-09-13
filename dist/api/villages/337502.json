@@ -2,36 +2,43 @@
   {
     "code": "3375021002",
     "district_code": "337502",
-    "name": "Noyontaansari"
+    "name": "Noyontaansari",
+    "postal_code": "51129"
   },
   {
     "code": "3375021004",
     "district_code": "337502",
-    "name": "Kauman"
+    "name": "Kauman",
+    "postal_code": "51127"
   },
   {
     "code": "3375021007",
     "district_code": "337502",
-    "name": "Poncol"
+    "name": "Poncol",
+    "postal_code": "51122"
   },
   {
     "code": "3375021008",
     "district_code": "337502",
-    "name": "Klego"
+    "name": "Klego",
+    "postal_code": "51124"
   },
   {
     "code": "3375021009",
     "district_code": "337502",
-    "name": "Gamer"
+    "name": "Gamer",
+    "postal_code": "51123"
   },
   {
     "code": "3375021010",
     "district_code": "337502",
-    "name": "Setono"
+    "name": "Setono",
+    "postal_code": "51122"
   },
   {
     "code": "3375021012",
     "district_code": "337502",
-    "name": "Kali Baros"
+    "name": "Kali Baros",
+    "postal_code": "51128"
   }
 ]

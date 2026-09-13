@@ -2,36 +2,43 @@
   {
     "code": "9405092001",
     "district_code": "940509",
-    "name": "Tayai"
+    "name": "Tayai",
+    "postal_code": "98981"
   },
   {
     "code": "9405092002",
     "district_code": "940509",
-    "name": "Kordesi"
+    "name": "Kordesi",
+    "postal_code": "98981"
   },
   {
     "code": "9405092003",
     "district_code": "940509",
-    "name": "Faisau"
+    "name": "Faisau",
+    "postal_code": "98981"
   },
   {
     "code": "9405092004",
     "district_code": "940509",
-    "name": "Fokri"
+    "name": "Fokri",
+    "postal_code": "98981"
   },
   {
     "code": "9405092005",
     "district_code": "940509",
-    "name": "Foisa"
+    "name": "Foisa",
+    "postal_code": "98981"
   },
   {
     "code": "9405092006",
     "district_code": "940509",
-    "name": "Duaita"
+    "name": "Duaita",
+    "postal_code": "98981"
   },
   {
     "code": "9405092007",
     "district_code": "940509",
-    "name": "Dervos"
+    "name": "Dervos",
+    "postal_code": "98981"
   }
 ]

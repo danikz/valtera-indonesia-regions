@@ -2,31 +2,37 @@
   {
     "code": "1224062001",
     "district_code": "122406",
-    "name": "Banua Sibohou III"
+    "name": "Banua Sibohou III",
+    "postal_code": "22814"
   },
   {
     "code": "1224062002",
     "district_code": "122406",
-    "name": "Harefanaese"
+    "name": "Harefanaese",
+    "postal_code": "22814"
   },
   {
     "code": "1224062003",
     "district_code": "122406",
-    "name": "Hilimbowo Kare"
+    "name": "Hilimbowo Kare",
+    "postal_code": "22814"
   },
   {
     "code": "1224062004",
     "district_code": "122406",
-    "name": "Laehuwa"
+    "name": "Laehuwa",
+    "postal_code": "22814"
   },
   {
     "code": "1224062005",
     "district_code": "122406",
-    "name": "Mazingo"
+    "name": "Mazingo",
+    "postal_code": "22814"
   },
   {
     "code": "1224062006",
     "district_code": "122406",
-    "name": "Hilina'a"
+    "name": "Hilina'a",
+    "postal_code": "22814"
   }
 ]

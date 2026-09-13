@@ -2,41 +2,49 @@
   {
     "code": "9206011001",
     "district_code": "920601",
-    "name": "Bintuni Timur"
+    "name": "Bintuni Timur",
+    "postal_code": "98141"
   },
   {
     "code": "9206011002",
     "district_code": "920601",
-    "name": "Bintuni Barat"
+    "name": "Bintuni Barat",
+    "postal_code": "98141"
   },
   {
     "code": "9206012004",
     "district_code": "920601",
-    "name": "Tuasai"
+    "name": "Tuasai",
+    "postal_code": "98141"
   },
   {
     "code": "9206012005",
     "district_code": "920601",
-    "name": "Argosigemerai"
+    "name": "Argosigemerai",
+    "postal_code": "98141"
   },
   {
     "code": "9206012009",
     "district_code": "920601",
-    "name": "Beimes"
+    "name": "Beimes",
+    "postal_code": "98141"
   },
   {
     "code": "9206012010",
     "district_code": "920601",
-    "name": "Iguriji"
+    "name": "Iguriji",
+    "postal_code": "98141"
   },
   {
     "code": "9206012022",
     "district_code": "920601",
-    "name": "Masina"
+    "name": "Masina",
+    "postal_code": "98141"
   },
   {
     "code": "9206012026",
     "district_code": "920601",
-    "name": "Wesiri"
+    "name": "Wesiri",
+    "postal_code": "98141"
   }
 ]

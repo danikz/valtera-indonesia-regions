@@ -2,61 +2,73 @@
   {
     "code": "7317041005",
     "district_code": "731704",
-    "name": "Bajo"
+    "name": "Bajo",
+    "postal_code": "91995"
   },
   {
     "code": "7317042004",
     "district_code": "731704",
-    "name": "Rumaju"
+    "name": "Rumaju",
+    "postal_code": "91995"
   },
   {
     "code": "7317042006",
     "district_code": "731704",
-    "name": "Sampa"
+    "name": "Sampa",
+    "postal_code": "91995"
   },
   {
     "code": "7317042007",
     "district_code": "731704",
-    "name": "Pangi"
+    "name": "Pangi",
+    "postal_code": "91995"
   },
   {
     "code": "7317042008",
     "district_code": "731704",
-    "name": "Tallang Bulawang"
+    "name": "Tallang Bulawang",
+    "postal_code": "91995"
   },
   {
     "code": "7317042010",
     "district_code": "731704",
-    "name": "Jambu"
+    "name": "Jambu",
+    "postal_code": "91995"
   },
   {
     "code": "7317042013",
     "district_code": "731704",
-    "name": "Saga"
+    "name": "Saga",
+    "postal_code": "91995"
   },
   {
     "code": "7317042014",
     "district_code": "731704",
-    "name": "Sumabu"
+    "name": "Sumabu",
+    "postal_code": "91995"
   },
   {
     "code": "7317042015",
     "district_code": "731704",
-    "name": "Balla"
+    "name": "Balla",
+    "postal_code": "91995"
   },
   {
     "code": "7317042017",
     "district_code": "731704",
-    "name": "Langkiddi"
+    "name": "Langkiddi",
+    "postal_code": "91995"
   },
   {
     "code": "7317042018",
     "district_code": "731704",
-    "name": "Samulang"
+    "name": "Samulang",
+    "postal_code": "91995"
   },
   {
     "code": "7317042019",
     "district_code": "731704",
-    "name": "Buntu Babang"
+    "name": "Buntu Babang",
+    "postal_code": "91995"
   }
 ]

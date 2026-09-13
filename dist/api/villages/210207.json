@@ -2,26 +2,31 @@
   {
     "code": "2102071012",
     "district_code": "210207",
-    "name": "Tanjungberlian Kota"
+    "name": "Tanjungberlian Kota",
+    "postal_code": "29662"
   },
   {
     "code": "2102072003",
     "district_code": "210207",
-    "name": "Sei Ungar Utara"
+    "name": "Sei Ungar Utara",
+    "postal_code": "29662"
   },
   {
     "code": "2102072004",
     "district_code": "210207",
-    "name": "Teluk Radang"
+    "name": "Teluk Radang",
+    "postal_code": "29662"
   },
   {
     "code": "2102072010",
     "district_code": "210207",
-    "name": "Perayun"
+    "name": "Perayun",
+    "postal_code": "29662"
   },
   {
     "code": "2102072013",
     "district_code": "210207",
-    "name": "Tanjungberlian Barat"
+    "name": "Tanjungberlian Barat",
+    "postal_code": "29662"
   }
 ]

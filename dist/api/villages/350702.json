@@ -2,41 +2,49 @@
   {
     "code": "3507022001",
     "district_code": "350702",
-    "name": "Sumbermanjing Kulon"
+    "name": "Sumbermanjing Kulon",
+    "postal_code": "65168"
   },
   {
     "code": "3507022002",
     "district_code": "350702",
-    "name": "Pandanrejo"
+    "name": "Pandanrejo",
+    "postal_code": "65168"
   },
   {
     "code": "3507022003",
     "district_code": "350702",
-    "name": "Sumberkerto"
+    "name": "Sumberkerto",
+    "postal_code": "65168"
   },
   {
     "code": "3507022004",
     "district_code": "350702",
-    "name": "Sempol"
+    "name": "Sempol",
+    "postal_code": "65168"
   },
   {
     "code": "3507022005",
     "district_code": "350702",
-    "name": "Pagak"
+    "name": "Pagak",
+    "postal_code": "65168"
   },
   {
     "code": "3507022006",
     "district_code": "350702",
-    "name": "Tlogorejo"
+    "name": "Tlogorejo",
+    "postal_code": "65168"
   },
   {
     "code": "3507022007",
     "district_code": "350702",
-    "name": "Gampingan"
+    "name": "Gampingan",
+    "postal_code": "65168"
   },
   {
     "code": "3507022008",
     "district_code": "350702",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "65168"
   }
 ]

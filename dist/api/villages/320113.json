@@ -2,46 +2,55 @@
   {
     "code": "3201131007",
     "district_code": "320113",
-    "name": "Pabuaran"
+    "name": "Pabuaran",
+    "postal_code": "16921"
   },
   {
     "code": "3201132001",
     "district_code": "320113",
-    "name": "Bojongbaru"
+    "name": "Bojongbaru",
+    "postal_code": "16920"
   },
   {
     "code": "3201132002",
     "district_code": "320113",
-    "name": "Cimanggis"
+    "name": "Cimanggis",
+    "postal_code": "16920"
   },
   {
     "code": "3201132003",
     "district_code": "320113",
-    "name": "Susukan"
+    "name": "Susukan",
+    "postal_code": "16920"
   },
   {
     "code": "3201132004",
     "district_code": "320113",
-    "name": "Ragajaya"
+    "name": "Ragajaya",
+    "postal_code": "16920"
   },
   {
     "code": "3201132005",
     "district_code": "320113",
-    "name": "Kedungwaringin"
+    "name": "Kedungwaringin",
+    "postal_code": "16923"
   },
   {
     "code": "3201132006",
     "district_code": "320113",
-    "name": "Waringinjaya"
+    "name": "Waringinjaya",
+    "postal_code": "16920"
   },
   {
     "code": "3201132008",
     "district_code": "320113",
-    "name": "Rawapanjang"
+    "name": "Rawapanjang",
+    "postal_code": "16920"
   },
   {
     "code": "3201132009",
     "district_code": "320113",
-    "name": "Bojonggede"
+    "name": "Bojonggede",
+    "postal_code": "16922"
   }
 ]

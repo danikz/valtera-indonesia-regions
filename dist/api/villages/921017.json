@@ -2,36 +2,43 @@
   {
     "code": "9210172001",
     "district_code": "921017",
-    "name": "Faitsimar"
+    "name": "Faitsimar",
+    "postal_code": ""
   },
   {
     "code": "9210172002",
     "district_code": "921017",
-    "name": "Asses"
+    "name": "Asses",
+    "postal_code": ""
   },
   {
     "code": "9210172003",
     "district_code": "921017",
-    "name": "Fait Nigre"
+    "name": "Fait Nigre",
+    "postal_code": ""
   },
   {
     "code": "9210172004",
     "district_code": "921017",
-    "name": "Sufu"
+    "name": "Sufu",
+    "postal_code": ""
   },
   {
     "code": "9210172005",
     "district_code": "921017",
-    "name": "Arus"
+    "name": "Arus",
+    "postal_code": ""
   },
   {
     "code": "9210172006",
     "district_code": "921017",
-    "name": "Kofait"
+    "name": "Kofait",
+    "postal_code": ""
   },
   {
     "code": "9210172007",
     "district_code": "921017",
-    "name": "Isnum"
+    "name": "Isnum",
+    "postal_code": ""
   }
 ]

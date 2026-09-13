@@ -2,21 +2,25 @@
   {
     "code": "3402162001",
     "district_code": "340216",
-    "name": "Bangunjiwo"
+    "name": "Bangunjiwo",
+    "postal_code": "55184"
   },
   {
     "code": "3402162002",
     "district_code": "340216",
-    "name": "Tirtonirmolo"
+    "name": "Tirtonirmolo",
+    "postal_code": "55181"
   },
   {
     "code": "3402162003",
     "district_code": "340216",
-    "name": "Tamantirto"
+    "name": "Tamantirto",
+    "postal_code": "55183"
   },
   {
     "code": "3402162004",
     "district_code": "340216",
-    "name": "Ngestiharjo"
+    "name": "Ngestiharjo",
+    "postal_code": "55182"
   }
 ]

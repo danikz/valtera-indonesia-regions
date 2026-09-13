@@ -2,66 +2,79 @@
   {
     "code": "9402072001",
     "district_code": "940207",
-    "name": "Gubugani"
+    "name": "Gubugani",
+    "postal_code": "98926"
   },
   {
     "code": "9402072002",
     "district_code": "940207",
-    "name": "Ambok"
+    "name": "Ambok",
+    "postal_code": "98977"
   },
   {
     "code": "9402072003",
     "district_code": "940207",
-    "name": "Awiyam"
+    "name": "Awiyam",
+    "postal_code": "98926"
   },
   {
     "code": "9402072004",
     "district_code": "940207",
-    "name": "Tubugime"
+    "name": "Tubugime",
+    "postal_code": "98926"
   },
   {
     "code": "9402072005",
     "district_code": "940207",
-    "name": "Wariru"
+    "name": "Wariru",
+    "postal_code": "98926"
   },
   {
     "code": "9402072006",
     "district_code": "940207",
-    "name": "Digi"
+    "name": "Digi",
+    "postal_code": "98926"
   },
   {
     "code": "9402072007",
     "district_code": "940207",
-    "name": "Kikup"
+    "name": "Kikup",
+    "postal_code": "98926"
   },
   {
     "code": "9402072008",
     "district_code": "940207",
-    "name": "Gunung Tayok"
+    "name": "Gunung Tayok",
+    "postal_code": "98926"
   },
   {
     "code": "9402072009",
     "district_code": "940207",
-    "name": "Nambu"
+    "name": "Nambu",
+    "postal_code": "98926"
   },
   {
     "code": "9402072010",
     "district_code": "940207",
-    "name": "Asua"
+    "name": "Asua",
+    "postal_code": "98977"
   },
   {
     "code": "9402072011",
     "district_code": "940207",
-    "name": "Degei"
+    "name": "Degei",
+    "postal_code": "98926"
   },
   {
     "code": "9402072012",
     "district_code": "940207",
-    "name": "Sigou"
+    "name": "Sigou",
+    "postal_code": "98926"
   },
   {
     "code": "9402072013",
     "district_code": "940207",
-    "name": "Nalu"
+    "name": "Nalu",
+    "postal_code": "98926"
   }
 ]

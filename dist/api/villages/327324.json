@@ -2,21 +2,25 @@
   {
     "code": "3273241001",
     "district_code": "327324",
-    "name": "Sukamiskin"
+    "name": "Sukamiskin",
+    "postal_code": "40293"
   },
   {
     "code": "3273241002",
     "district_code": "327324",
-    "name": "Cisaranten Bina Harapan"
+    "name": "Cisaranten Bina Harapan",
+    "postal_code": "40294"
   },
   {
     "code": "3273241003",
     "district_code": "327324",
-    "name": "Cisaranten Kulon"
+    "name": "Cisaranten Kulon",
+    "postal_code": "40293"
   },
   {
     "code": "3273241004",
     "district_code": "327324",
-    "name": "Sindanglaya/Cisantre n Endah"
+    "name": "Sindanglaya/Cisantre n Endah",
+    "postal_code": "40293"
   }
 ]

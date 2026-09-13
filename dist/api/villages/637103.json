@@ -2,46 +2,55 @@
   {
     "code": "6371031001",
     "district_code": "637103",
-    "name": "Belitung Utara"
+    "name": "Belitung Utara",
+    "postal_code": "70116"
   },
   {
     "code": "6371031002",
     "district_code": "637103",
-    "name": "Belitung Selatan"
+    "name": "Belitung Selatan",
+    "postal_code": "70116"
   },
   {
     "code": "6371031003",
     "district_code": "637103",
-    "name": "Pelambuan"
+    "name": "Pelambuan",
+    "postal_code": "70118"
   },
   {
     "code": "6371031004",
     "district_code": "637103",
-    "name": "Telaga Biru"
+    "name": "Telaga Biru",
+    "postal_code": "70119"
   },
   {
     "code": "6371031005",
     "district_code": "637103",
-    "name": "Telawang"
+    "name": "Telawang",
+    "postal_code": "70112"
   },
   {
     "code": "6371031006",
     "district_code": "637103",
-    "name": "Teluk Tiram"
+    "name": "Teluk Tiram",
+    "postal_code": "70113"
   },
   {
     "code": "6371031007",
     "district_code": "637103",
-    "name": "Kuin Selatan"
+    "name": "Kuin Selatan",
+    "postal_code": "70128"
   },
   {
     "code": "6371031008",
     "district_code": "637103",
-    "name": "Kuin Cerucuk"
+    "name": "Kuin Cerucuk",
+    "postal_code": "70129"
   },
   {
     "code": "6371031009",
     "district_code": "637103",
-    "name": "Basirih"
+    "name": "Basirih",
+    "postal_code": "70245"
   }
 ]

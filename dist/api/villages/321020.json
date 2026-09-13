@@ -2,51 +2,61 @@
   {
     "code": "3210201004",
     "district_code": "321020",
-    "name": "Cigasong"
+    "name": "Cigasong",
+    "postal_code": "45476"
   },
   {
     "code": "3210201005",
     "district_code": "321020",
-    "name": "Simpeureum"
+    "name": "Simpeureum",
+    "postal_code": "45476"
   },
   {
     "code": "3210201006",
     "district_code": "321020",
-    "name": "Cicenang"
+    "name": "Cicenang",
+    "postal_code": "45476"
   },
   {
     "code": "3210202001",
     "district_code": "321020",
-    "name": "Kawunghilir"
+    "name": "Kawunghilir",
+    "postal_code": "45476"
   },
   {
     "code": "3210202002",
     "district_code": "321020",
-    "name": "Tajur"
+    "name": "Tajur",
+    "postal_code": "45476"
   },
   {
     "code": "3210202003",
     "district_code": "321020",
-    "name": "Tenjolayar"
+    "name": "Tenjolayar",
+    "postal_code": "45476"
   },
   {
     "code": "3210202007",
     "district_code": "321020",
-    "name": "Baribis"
+    "name": "Baribis",
+    "postal_code": "45476"
   },
   {
     "code": "3210202008",
     "district_code": "321020",
-    "name": "Batujaya"
+    "name": "Batujaya",
+    "postal_code": "45476"
   },
   {
     "code": "3210202009",
     "district_code": "321020",
-    "name": "Kutamanggu"
+    "name": "Kutamanggu",
+    "postal_code": "45476"
   },
   {
     "code": "3210202010",
     "district_code": "321020",
-    "name": "Karayunan"
+    "name": "Karayunan",
+    "postal_code": "45476"
   }
 ]

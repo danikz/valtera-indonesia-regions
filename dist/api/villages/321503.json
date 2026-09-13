@@ -2,46 +2,55 @@
   {
     "code": "3215032001",
     "district_code": "321503",
-    "name": "Telukjambe"
+    "name": "Telukjambe",
+    "postal_code": "41360"
   },
   {
     "code": "3215032002",
     "district_code": "321503",
-    "name": "Sukaharja"
+    "name": "Sukaharja",
+    "postal_code": "41360"
   },
   {
     "code": "3215032003",
     "district_code": "321503",
-    "name": "Sirnabaya"
+    "name": "Sirnabaya",
+    "postal_code": "41360"
   },
   {
     "code": "3215032004",
     "district_code": "321503",
-    "name": "Puseurjaya"
+    "name": "Puseurjaya",
+    "postal_code": "41360"
   },
   {
     "code": "3215032005",
     "district_code": "321503",
-    "name": "Sukaluyu"
+    "name": "Sukaluyu",
+    "postal_code": "41360"
   },
   {
     "code": "3215032006",
     "district_code": "321503",
-    "name": "Wadas"
+    "name": "Wadas",
+    "postal_code": "41360"
   },
   {
     "code": "3215032011",
     "district_code": "321503",
-    "name": "Purwadana"
+    "name": "Purwadana",
+    "postal_code": "41360"
   },
   {
     "code": "3215032012",
     "district_code": "321503",
-    "name": "Sukamakmur"
+    "name": "Sukamakmur",
+    "postal_code": "41360"
   },
   {
     "code": "3215032019",
     "district_code": "321503",
-    "name": "Pinayungan"
+    "name": "Pinayungan",
+    "postal_code": "41360"
   }
 ]

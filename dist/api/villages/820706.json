@@ -2,26 +2,31 @@
   {
     "code": "8207062001",
     "district_code": "820706",
-    "name": "Posi-Posi"
+    "name": "Posi-Posi",
+    "postal_code": "97770"
   },
   {
     "code": "8207062002",
     "district_code": "820706",
-    "name": "Aru Burung"
+    "name": "Aru Burung",
+    "postal_code": "97770"
   },
   {
     "code": "8207062003",
     "district_code": "820706",
-    "name": "Lou Madoro"
+    "name": "Lou Madoro",
+    "postal_code": "97770"
   },
   {
     "code": "8207062004",
     "district_code": "820706",
-    "name": "Leo-Leo"
+    "name": "Leo-Leo",
+    "postal_code": "97770"
   },
   {
     "code": "8207062005",
     "district_code": "820706",
-    "name": "Sami Nyamau"
+    "name": "Sami Nyamau",
+    "postal_code": "97770"
   }
 ]

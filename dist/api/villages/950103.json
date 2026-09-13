@@ -2,51 +2,61 @@
   {
     "code": "9501032001",
     "district_code": "950103",
-    "name": "Kimbin"
+    "name": "Kimbin",
+    "postal_code": "99514"
   },
   {
     "code": "9501032002",
     "district_code": "950103",
-    "name": "Walak"
+    "name": "Walak",
+    "postal_code": "99514"
   },
   {
     "code": "9501032003",
     "district_code": "950103",
-    "name": "Araboda"
+    "name": "Araboda",
+    "postal_code": "99514"
   },
   {
     "code": "9501032004",
     "district_code": "950103",
-    "name": "Logotpaga"
+    "name": "Logotpaga",
+    "postal_code": "99514"
   },
   {
     "code": "9501032005",
     "district_code": "950103",
-    "name": "Wawanca"
+    "name": "Wawanca",
+    "postal_code": "99514"
   },
   {
     "code": "9501032006",
     "district_code": "950103",
-    "name": "Miligatnem"
+    "name": "Miligatnem",
+    "postal_code": "99531"
   },
   {
     "code": "9501032007",
     "district_code": "950103",
-    "name": "Loki"
+    "name": "Loki",
+    "postal_code": "99514"
   },
   {
     "code": "9501032008",
     "district_code": "950103",
-    "name": "Tikawo"
+    "name": "Tikawo",
+    "postal_code": "99531"
   },
   {
     "code": "9501032009",
     "district_code": "950103",
-    "name": "Kombagwe"
+    "name": "Kombagwe",
+    "postal_code": "99514"
   },
   {
     "code": "9501032010",
     "district_code": "950103",
-    "name": "Wanggonoma"
+    "name": "Wanggonoma",
+    "postal_code": "99514"
   }
 ]

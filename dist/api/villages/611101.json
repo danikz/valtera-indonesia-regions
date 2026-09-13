@@ -2,51 +2,61 @@
   {
     "code": "6111012001",
     "district_code": "611101",
-    "name": "Sutera"
+    "name": "Sutera",
+    "postal_code": "78852"
   },
   {
     "code": "6111012002",
     "district_code": "611101",
-    "name": "Pangkalan Buton"
+    "name": "Pangkalan Buton",
+    "postal_code": "78852"
   },
   {
     "code": "6111012003",
     "district_code": "611101",
-    "name": "Sejahtera"
+    "name": "Sejahtera",
+    "postal_code": "78852"
   },
   {
     "code": "6111012004",
     "district_code": "611101",
-    "name": "Simpang Tiga"
+    "name": "Simpang Tiga",
+    "postal_code": "78852"
   },
   {
     "code": "6111012005",
     "district_code": "611101",
-    "name": "Benawai Agung"
+    "name": "Benawai Agung",
+    "postal_code": "78852"
   },
   {
     "code": "6111012006",
     "district_code": "611101",
-    "name": "Harapan Mulia"
+    "name": "Harapan Mulia",
+    "postal_code": "78852"
   },
   {
     "code": "6111012007",
     "district_code": "611101",
-    "name": "Pampang Harapan"
+    "name": "Pampang Harapan",
+    "postal_code": "78852"
   },
   {
     "code": "6111012008",
     "district_code": "611101",
-    "name": "Sedahan Jaya"
+    "name": "Sedahan Jaya",
+    "postal_code": "78852"
   },
   {
     "code": "6111012009",
     "district_code": "611101",
-    "name": "Gunungsembilan"
+    "name": "Gunungsembilan",
+    "postal_code": "78852"
   },
   {
     "code": "6111012010",
     "district_code": "611101",
-    "name": "Riam Berasap Jaya"
+    "name": "Riam Berasap Jaya",
+    "postal_code": "78852"
   }
 ]

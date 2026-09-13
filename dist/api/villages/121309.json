@@ -2,46 +2,55 @@
   {
     "code": "1213091008",
     "district_code": "121309",
-    "name": "Pasar Maga"
+    "name": "Pasar Maga",
+    "postal_code": "22993"
   },
   {
     "code": "1213092001",
     "district_code": "121309",
-    "name": "Aek Marian MG"
+    "name": "Aek Marian MG",
+    "postal_code": "22993"
   },
   {
     "code": "1213092002",
     "district_code": "121309",
-    "name": "Bangun Purba"
+    "name": "Bangun Purba",
+    "postal_code": "22993"
   },
   {
     "code": "1213092003",
     "district_code": "121309",
-    "name": "Maga Lombang"
+    "name": "Maga Lombang",
+    "postal_code": "22993"
   },
   {
     "code": "1213092004",
     "district_code": "121309",
-    "name": "Maga Dolok"
+    "name": "Maga Dolok",
+    "postal_code": "22993"
   },
   {
     "code": "1213092005",
     "district_code": "121309",
-    "name": "Purba Baru"
+    "name": "Purba Baru",
+    "postal_code": "22993"
   },
   {
     "code": "1213092006",
     "district_code": "121309",
-    "name": "Purba Lamo"
+    "name": "Purba Lamo",
+    "postal_code": "22993"
   },
   {
     "code": "1213092007",
     "district_code": "121309",
-    "name": "Pangkat"
+    "name": "Pangkat",
+    "postal_code": "22993"
   },
   {
     "code": "1213092009",
     "district_code": "121309",
-    "name": "Siantona"
+    "name": "Siantona",
+    "postal_code": "22993"
   }
 ]

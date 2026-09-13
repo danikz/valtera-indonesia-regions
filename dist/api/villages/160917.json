@@ -2,41 +2,49 @@
   {
     "code": "1609172001",
     "district_code": "160917",
-    "name": "Tekana"
+    "name": "Tekana",
+    "postal_code": "32264"
   },
   {
     "code": "1609172002",
     "district_code": "160917",
-    "name": "Tanjung Beringin"
+    "name": "Tanjung Beringin",
+    "postal_code": "32264"
   },
   {
     "code": "1609172003",
     "district_code": "160917",
-    "name": "Bandar"
+    "name": "Bandar",
+    "postal_code": "32264"
   },
   {
     "code": "1609172004",
     "district_code": "160917",
-    "name": "Jagaraga"
+    "name": "Jagaraga",
+    "postal_code": "32264"
   },
   {
     "code": "1609172005",
     "district_code": "160917",
-    "name": "Damarpura"
+    "name": "Damarpura",
+    "postal_code": "32264"
   },
   {
     "code": "1609172006",
     "district_code": "160917",
-    "name": "Tunas Jaya"
+    "name": "Tunas Jaya",
+    "postal_code": "32264"
   },
   {
     "code": "1609172007",
     "district_code": "160917",
-    "name": "Sinar Danau"
+    "name": "Sinar Danau",
+    "postal_code": "32264"
   },
   {
     "code": "1609172008",
     "district_code": "160917",
-    "name": "Gemiung"
+    "name": "Gemiung",
+    "postal_code": "32264"
   }
 ]

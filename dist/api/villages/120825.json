@@ -2,36 +2,43 @@
   {
     "code": "1208251012",
     "district_code": "120825",
-    "name": "Seribu Dolok"
+    "name": "Seribu Dolok",
+    "postal_code": "21169"
   },
   {
     "code": "1208252003",
     "district_code": "120825",
-    "name": "Bangun Mariah"
+    "name": "Bangun Mariah",
+    "postal_code": "21169"
   },
   {
     "code": "1208252004",
     "district_code": "120825",
-    "name": "Purba Sinombah"
+    "name": "Purba Sinombah",
+    "postal_code": "21169"
   },
   {
     "code": "1208252006",
     "district_code": "120825",
-    "name": "Purba Tua"
+    "name": "Purba Tua",
+    "postal_code": "21169"
   },
   {
     "code": "1208252009",
     "district_code": "120825",
-    "name": "Purba Tua Baru"
+    "name": "Purba Tua Baru",
+    "postal_code": "21169"
   },
   {
     "code": "1208252014",
     "district_code": "120825",
-    "name": "Sinar Baru"
+    "name": "Sinar Baru",
+    "postal_code": "21169"
   },
   {
     "code": "1208252016",
     "district_code": "120825",
-    "name": "Purbatua Etek"
+    "name": "Purbatua Etek",
+    "postal_code": "21169"
   }
 ]

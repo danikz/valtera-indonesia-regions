@@ -2,46 +2,55 @@
   {
     "code": "1201071001",
     "district_code": "120107",
-    "name": "Tapian Nauli II"
+    "name": "Tapian Nauli II",
+    "postal_code": "22618"
   },
   {
     "code": "1201072002",
     "district_code": "120107",
-    "name": "Tapian Nauli I"
+    "name": "Tapian Nauli I",
+    "postal_code": "22618"
   },
   {
     "code": "1201072003",
     "district_code": "120107",
-    "name": "Tapian Nauli III"
+    "name": "Tapian Nauli III",
+    "postal_code": "22618"
   },
   {
     "code": "1201072004",
     "district_code": "120107",
-    "name": "Tapian Nauli IV"
+    "name": "Tapian Nauli IV",
+    "postal_code": "22618"
   },
   {
     "code": "1201072005",
     "district_code": "120107",
-    "name": "Aloban Bair"
+    "name": "Aloban Bair",
+    "postal_code": "22618"
   },
   {
     "code": "1201072006",
     "district_code": "120107",
-    "name": "Mela Dolok"
+    "name": "Mela Dolok",
+    "postal_code": "22618"
   },
   {
     "code": "1201072007",
     "district_code": "120107",
-    "name": "Mela I"
+    "name": "Mela I",
+    "postal_code": "22618"
   },
   {
     "code": "1201072008",
     "district_code": "120107",
-    "name": "Mela II"
+    "name": "Mela II",
+    "postal_code": "22618"
   },
   {
     "code": "1201072009",
     "district_code": "120107",
-    "name": "Bair"
+    "name": "Bair",
+    "postal_code": "22618"
   }
 ]

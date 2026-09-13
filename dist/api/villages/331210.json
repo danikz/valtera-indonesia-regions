@@ -2,36 +2,43 @@
   {
     "code": "3312101006",
     "district_code": "331210",
-    "name": "Pagutan"
+    "name": "Pagutan",
+    "postal_code": "57662"
   },
   {
     "code": "3312101007",
     "district_code": "331210",
-    "name": "Punduhsari"
+    "name": "Punduhsari",
+    "postal_code": "57662"
   },
   {
     "code": "3312102001",
     "district_code": "331210",
-    "name": "Kepuhsari"
+    "name": "Kepuhsari",
+    "postal_code": "57662"
   },
   {
     "code": "3312102002",
     "district_code": "331210",
-    "name": "Pijiharjo"
+    "name": "Pijiharjo",
+    "postal_code": "57662"
   },
   {
     "code": "3312102003",
     "district_code": "331210",
-    "name": "Bero"
+    "name": "Bero",
+    "postal_code": "57662"
   },
   {
     "code": "3312102004",
     "district_code": "331210",
-    "name": "Gunungan"
+    "name": "Gunungan",
+    "postal_code": "57662"
   },
   {
     "code": "3312102005",
     "district_code": "331210",
-    "name": "Karanglor"
+    "name": "Karanglor",
+    "postal_code": "57662"
   }
 ]

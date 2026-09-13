@@ -2,31 +2,37 @@
   {
     "code": "8204192001",
     "district_code": "820419",
-    "name": "Lele"
+    "name": "Lele",
+    "postal_code": "97791"
   },
   {
     "code": "8204192002",
     "district_code": "820419",
-    "name": "Bahu"
+    "name": "Bahu",
+    "postal_code": "97791"
   },
   {
     "code": "8204192003",
     "district_code": "820419",
-    "name": "Jiko"
+    "name": "Jiko",
+    "postal_code": "97791"
   },
   {
     "code": "8204192004",
     "district_code": "820419",
-    "name": "Galala"
+    "name": "Galala",
+    "postal_code": "97791"
   },
   {
     "code": "8204192005",
     "district_code": "820419",
-    "name": "Tabalema"
+    "name": "Tabalema",
+    "postal_code": "97791"
   },
   {
     "code": "8204192006",
     "district_code": "820419",
-    "name": "Yoyok"
+    "name": "Yoyok",
+    "postal_code": "97791"
   }
 ]

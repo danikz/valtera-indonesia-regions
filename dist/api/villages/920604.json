@@ -2,21 +2,25 @@
   {
     "code": "9206042001",
     "district_code": "920604",
-    "name": "Aranday"
+    "name": "Aranday",
+    "postal_code": "98151"
   },
   {
     "code": "9206042007",
     "district_code": "920604",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "98151"
   },
   {
     "code": "9206042008",
     "district_code": "920604",
-    "name": "Kecap"
+    "name": "Kecap",
+    "postal_code": "98151"
   },
   {
     "code": "9206042009",
     "district_code": "920604",
-    "name": "Manunggal Karya"
+    "name": "Manunggal Karya",
+    "postal_code": "98151"
   }
 ]

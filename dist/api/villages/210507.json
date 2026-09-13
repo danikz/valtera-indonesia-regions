@@ -2,31 +2,37 @@
   {
     "code": "2105072001",
     "district_code": "210507",
-    "name": "Air Asuk"
+    "name": "Air Asuk",
+    "postal_code": "29795"
   },
   {
     "code": "2105072002",
     "district_code": "210507",
-    "name": "Air Sena"
+    "name": "Air Sena",
+    "postal_code": "29795"
   },
   {
     "code": "2105072003",
     "district_code": "210507",
-    "name": "Teluk Siantan"
+    "name": "Teluk Siantan",
+    "postal_code": "29795"
   },
   {
     "code": "2105072004",
     "district_code": "210507",
-    "name": "Lidi"
+    "name": "Lidi",
+    "postal_code": "29795"
   },
   {
     "code": "2105072005",
     "district_code": "210507",
-    "name": "Liuk"
+    "name": "Liuk",
+    "postal_code": "29795"
   },
   {
     "code": "2105072006",
     "district_code": "210507",
-    "name": "Teluk Sunting"
+    "name": "Teluk Sunting",
+    "postal_code": "29795"
   }
 ]

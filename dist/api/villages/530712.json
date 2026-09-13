@@ -2,41 +2,49 @@
   {
     "code": "5307122001",
     "district_code": "530712",
-    "name": "Magepanda"
+    "name": "Magepanda",
+    "postal_code": "86152"
   },
   {
     "code": "5307122002",
     "district_code": "530712",
-    "name": "Reroroja"
+    "name": "Reroroja",
+    "postal_code": "86152"
   },
   {
     "code": "5307122003",
     "district_code": "530712",
-    "name": "Done"
+    "name": "Done",
+    "postal_code": "86152"
   },
   {
     "code": "5307122004",
     "district_code": "530712",
-    "name": "Kolisia"
+    "name": "Kolisia",
+    "postal_code": "86152"
   },
   {
     "code": "5307122005",
     "district_code": "530712",
-    "name": "Kolisia B"
+    "name": "Kolisia B",
+    "postal_code": "86152"
   },
   {
     "code": "5307122006",
     "district_code": "530712",
-    "name": "Woda Mude"
+    "name": "Woda Mude",
+    "postal_code": "86152"
   },
   {
     "code": "5307122007",
     "district_code": "530712",
-    "name": "Legu Woda"
+    "name": "Legu Woda",
+    "postal_code": "86152"
   },
   {
     "code": "5307122008",
     "district_code": "530712",
-    "name": "Waturia"
+    "name": "Waturia",
+    "postal_code": "86152"
   }
 ]

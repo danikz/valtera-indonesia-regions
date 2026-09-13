@@ -2,61 +2,73 @@
   {
     "code": "3506012001",
     "district_code": "350601",
-    "name": "Bulu"
+    "name": "Bulu",
+    "postal_code": "64161"
   },
   {
     "code": "3506012002",
     "district_code": "350601",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "64161"
   },
   {
     "code": "3506012003",
     "district_code": "350601",
-    "name": "Puhrubuh"
+    "name": "Puhrubuh",
+    "postal_code": "64161"
   },
   {
     "code": "3506012004",
     "district_code": "350601",
-    "name": "Selopanggung"
+    "name": "Selopanggung",
+    "postal_code": "64161"
   },
   {
     "code": "3506012005",
     "district_code": "350601",
-    "name": "Kanyoran"
+    "name": "Kanyoran",
+    "postal_code": "64161"
   },
   {
     "code": "3506012006",
     "district_code": "350601",
-    "name": "Puhsarang"
+    "name": "Puhsarang",
+    "postal_code": "64161"
   },
   {
     "code": "3506012007",
     "district_code": "350601",
-    "name": "Bobang"
+    "name": "Bobang",
+    "postal_code": "64161"
   },
   {
     "code": "3506012008",
     "district_code": "350601",
-    "name": "Semen"
+    "name": "Semen",
+    "postal_code": "64161"
   },
   {
     "code": "3506012009",
     "district_code": "350601",
-    "name": "Titik"
+    "name": "Titik",
+    "postal_code": "64161"
   },
   {
     "code": "3506012010",
     "district_code": "350601",
-    "name": "Kedak"
+    "name": "Kedak",
+    "postal_code": "64161"
   },
   {
     "code": "3506012011",
     "district_code": "350601",
-    "name": "Pagung"
+    "name": "Pagung",
+    "postal_code": "64161"
   },
   {
     "code": "3506012012",
     "district_code": "350601",
-    "name": "Joho"
+    "name": "Joho",
+    "postal_code": "64161"
   }
 ]

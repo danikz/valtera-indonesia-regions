@@ -2,66 +2,79 @@
   {
     "code": "5312151001",
     "district_code": "531215",
-    "name": "Wailiang"
+    "name": "Wailiang",
+    "postal_code": "87212"
   },
   {
     "code": "5312151002",
     "district_code": "531215",
-    "name": "Komerda"
+    "name": "Komerda",
+    "postal_code": "87211"
   },
   {
     "code": "5312151003",
     "district_code": "531215",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "87214"
   },
   {
     "code": "5312151004",
     "district_code": "531215",
-    "name": "Kampung Sawah"
+    "name": "Kampung Sawah",
+    "postal_code": "87213"
   },
   {
     "code": "5312151008",
     "district_code": "531215",
-    "name": "Pada Eweta"
+    "name": "Pada Eweta",
+    "postal_code": "87217"
   },
   {
     "code": "5312151009",
     "district_code": "531215",
-    "name": "Maliti"
+    "name": "Maliti",
+    "postal_code": "87217"
   },
   {
     "code": "5312152005",
     "district_code": "531215",
-    "name": "Kodaka"
+    "name": "Kodaka",
+    "postal_code": "87215"
   },
   {
     "code": "5312152006",
     "district_code": "531215",
-    "name": "Tebara"
+    "name": "Tebara",
+    "postal_code": "87216"
   },
   {
     "code": "5312152007",
     "district_code": "531215",
-    "name": "Kalembu Kuni"
+    "name": "Kalembu Kuni",
+    "postal_code": "87217"
   },
   {
     "code": "5312152010",
     "district_code": "531215",
-    "name": "Soba Rade"
+    "name": "Soba Rade",
+    "postal_code": "87217"
   },
   {
     "code": "5312152011",
     "district_code": "531215",
-    "name": "Lapale"
+    "name": "Lapale",
+    "postal_code": "87217"
   },
   {
     "code": "5312152012",
     "district_code": "531215",
-    "name": "Modu Waimaringu"
+    "name": "Modu Waimaringu",
+    "postal_code": "87212"
   },
   {
     "code": "5312152013",
     "district_code": "531215",
-    "name": "Puu Mawo"
+    "name": "Puu Mawo",
+    "postal_code": "87212"
   }
 ]

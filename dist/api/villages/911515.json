@@ -2,51 +2,61 @@
   {
     "code": "9115152001",
     "district_code": "911515",
-    "name": "Mambai"
+    "name": "Mambai",
+    "postal_code": "98675"
   },
   {
     "code": "9115152002",
     "district_code": "911515",
-    "name": "Soyoi"
+    "name": "Soyoi",
+    "postal_code": "98675"
   },
   {
     "code": "9115152003",
     "district_code": "911515",
-    "name": "Daimboa"
+    "name": "Daimboa",
+    "postal_code": "98675"
   },
   {
     "code": "9115152004",
     "district_code": "911515",
-    "name": "Napani"
+    "name": "Napani",
+    "postal_code": "98675"
   },
   {
     "code": "9115152005",
     "district_code": "911515",
-    "name": "Segha"
+    "name": "Segha",
+    "postal_code": "98675"
   },
   {
     "code": "9115152006",
     "district_code": "911515",
-    "name": "Wainarisi"
+    "name": "Wainarisi",
+    "postal_code": "98675"
   },
   {
     "code": "9115152007",
     "district_code": "911515",
-    "name": "Fafarui"
+    "name": "Fafarui",
+    "postal_code": "98675"
   },
   {
     "code": "9115152008",
     "district_code": "911515",
-    "name": "Dawoa"
+    "name": "Dawoa",
+    "postal_code": "98675"
   },
   {
     "code": "9115152009",
     "district_code": "911515",
-    "name": "Sinabo"
+    "name": "Sinabo",
+    "postal_code": "98675"
   },
   {
     "code": "9115152010",
     "district_code": "911515",
-    "name": "Woinui"
+    "name": "Woinui",
+    "postal_code": "98675"
   }
 ]

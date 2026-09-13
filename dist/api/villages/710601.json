@@ -2,51 +2,61 @@
   {
     "code": "7106012001",
     "district_code": "710601",
-    "name": "Makalisung"
+    "name": "Makalisung",
+    "postal_code": "95379"
   },
   {
     "code": "7106012002",
     "district_code": "710601",
-    "name": "Waleo"
+    "name": "Waleo",
+    "postal_code": "95379"
   },
   {
     "code": "7106012003",
     "district_code": "710601",
-    "name": "Lilang"
+    "name": "Lilang",
+    "postal_code": "95379"
   },
   {
     "code": "7106012004",
     "district_code": "710601",
-    "name": "Lansot"
+    "name": "Lansot",
+    "postal_code": "95379"
   },
   {
     "code": "7106012005",
     "district_code": "710601",
-    "name": "Kema III"
+    "name": "Kema III",
+    "postal_code": "95379"
   },
   {
     "code": "7106012006",
     "district_code": "710601",
-    "name": "Kema II"
+    "name": "Kema II",
+    "postal_code": "95379"
   },
   {
     "code": "7106012007",
     "district_code": "710601",
-    "name": "Kema I"
+    "name": "Kema I",
+    "postal_code": "95379"
   },
   {
     "code": "7106012008",
     "district_code": "710601",
-    "name": "Tontalete"
+    "name": "Tontalete",
+    "postal_code": "95379"
   },
   {
     "code": "7106012009",
     "district_code": "710601",
-    "name": "Tontaalete Rok-rok"
+    "name": "Tontaalete Rok-rok",
+    "postal_code": "95379"
   },
   {
     "code": "7106012010",
     "district_code": "710601",
-    "name": "Waleo Dua"
+    "name": "Waleo Dua",
+    "postal_code": "95379"
   }
 ]

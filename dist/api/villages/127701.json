@@ -2,81 +2,97 @@
   {
     "code": "1277011001",
     "district_code": "127701",
-    "name": "Wek I"
+    "name": "Wek I",
+    "postal_code": "22715"
   },
   {
     "code": "1277011002",
     "district_code": "127701",
-    "name": "Wek II"
+    "name": "Wek II",
+    "postal_code": "22718"
   },
   {
     "code": "1277011003",
     "district_code": "127701",
-    "name": "Wek III"
+    "name": "Wek III",
+    "postal_code": "22719"
   },
   {
     "code": "1277011004",
     "district_code": "127701",
-    "name": "Wek IV"
+    "name": "Wek IV",
+    "postal_code": "22719"
   },
   {
     "code": "1277011005",
     "district_code": "127701",
-    "name": "Tanobato"
+    "name": "Tanobato",
+    "postal_code": "22716"
   },
   {
     "code": "1277011006",
     "district_code": "127701",
-    "name": "Tobat"
+    "name": "Tobat",
+    "postal_code": "22716"
   },
   {
     "code": "1277011007",
     "district_code": "127701",
-    "name": "Batang Ayumi Jae"
+    "name": "Batang Ayumi Jae",
+    "postal_code": "22716"
   },
   {
     "code": "1277011008",
     "district_code": "127701",
-    "name": "Batang Ayumi Julu"
+    "name": "Batang Ayumi Julu",
+    "postal_code": "22711"
   },
   {
     "code": "1277011009",
     "district_code": "127701",
-    "name": "Sadabuan"
+    "name": "Sadabuan",
+    "postal_code": "22715"
   },
   {
     "code": "1277011010",
     "district_code": "127701",
-    "name": "Panyanggar"
+    "name": "Panyanggar",
+    "postal_code": "22714"
   },
   {
     "code": "1277011011",
     "district_code": "127701",
-    "name": "Bonan Dolok"
+    "name": "Bonan Dolok",
+    "postal_code": "22712"
   },
   {
     "code": "1277011012",
     "district_code": "127701",
-    "name": "Losung Batu"
+    "name": "Losung Batu",
+    "postal_code": "22713"
   },
   {
     "code": "1277011013",
     "district_code": "127701",
-    "name": "Timbangan"
+    "name": "Timbangan",
+    "postal_code": "22711"
   },
   {
     "code": "1277011014",
     "district_code": "127701",
-    "name": "Bincar"
+    "name": "Bincar",
+    "postal_code": "22711"
   },
   {
     "code": "1277011015",
     "district_code": "127701",
-    "name": "Kantin"
+    "name": "Kantin",
+    "postal_code": "22711"
   },
   {
     "code": "1277011016",
     "district_code": "127701",
-    "name": "Kayu Ombun"
+    "name": "Kayu Ombun",
+    "postal_code": "22711"
   }
 ]

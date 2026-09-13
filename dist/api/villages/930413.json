@@ -2,41 +2,49 @@
   {
     "code": "9304132001",
     "district_code": "930413",
-    "name": "Warse/Jetsy"
+    "name": "Warse/Jetsy",
+    "postal_code": "99785"
   },
   {
     "code": "9304132002",
     "district_code": "930413",
-    "name": "Powetsy/Amborep"
+    "name": "Powetsy/Amborep",
+    "postal_code": "99785"
   },
   {
     "code": "9304132003",
     "district_code": "930413",
-    "name": "Pau"
+    "name": "Pau",
+    "postal_code": "99785"
   },
   {
     "code": "9304132004",
     "district_code": "930413",
-    "name": "Sesakam"
+    "name": "Sesakam",
+    "postal_code": "99785"
   },
   {
     "code": "9304132005",
     "district_code": "930413",
-    "name": "Akamar"
+    "name": "Akamar",
+    "postal_code": "99785"
   },
   {
     "code": "9304132006",
     "district_code": "930413",
-    "name": "Birak"
+    "name": "Birak",
+    "postal_code": "99785"
   },
   {
     "code": "9304132007",
     "district_code": "930413",
-    "name": "Katew"
+    "name": "Katew",
+    "postal_code": "99785"
   },
   {
     "code": "9304132008",
     "district_code": "930413",
-    "name": "Dawer"
+    "name": "Dawer",
+    "postal_code": "99785"
   }
 ]

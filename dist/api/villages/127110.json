@@ -2,61 +2,73 @@
   {
     "code": "1271101001",
     "district_code": "127110",
-    "name": "Sukaramai I"
+    "name": "Sukaramai I",
+    "postal_code": "20216"
   },
   {
     "code": "1271101002",
     "district_code": "127110",
-    "name": "Sukaramai II"
+    "name": "Sukaramai II",
+    "postal_code": "20216"
   },
   {
     "code": "1271101003",
     "district_code": "127110",
-    "name": "Sei Rengas II"
+    "name": "Sei Rengas II",
+    "postal_code": "20214"
   },
   {
     "code": "1271101004",
     "district_code": "127110",
-    "name": "S. Rengas Permata"
+    "name": "S. Rengas Permata",
+    "postal_code": "20214"
   },
   {
     "code": "1271101005",
     "district_code": "127110",
-    "name": "Pandau Hulu II"
+    "name": "Pandau Hulu II",
+    "postal_code": "20211"
   },
   {
     "code": "1271101006",
     "district_code": "127110",
-    "name": "Kota Matsum I"
+    "name": "Kota Matsum I",
+    "postal_code": "20215"
   },
   {
     "code": "1271101007",
     "district_code": "127110",
-    "name": "Kota Matsum II"
+    "name": "Kota Matsum II",
+    "postal_code": "20215"
   },
   {
     "code": "1271101008",
     "district_code": "127110",
-    "name": "Kota Matsum IV"
+    "name": "Kota Matsum IV",
+    "postal_code": "20215"
   },
   {
     "code": "1271101009",
     "district_code": "127110",
-    "name": "Pasar Merah Timur"
+    "name": "Pasar Merah Timur",
+    "postal_code": "20217"
   },
   {
     "code": "1271101010",
     "district_code": "127110",
-    "name": "Tegal Sari I"
+    "name": "Tegal Sari I",
+    "postal_code": "20216"
   },
   {
     "code": "1271101011",
     "district_code": "127110",
-    "name": "Tegal Sari II"
+    "name": "Tegal Sari II",
+    "postal_code": "20216"
   },
   {
     "code": "1271101012",
     "district_code": "127110",
-    "name": "Tegal Sari III"
+    "name": "Tegal Sari III",
+    "postal_code": "20216"
   }
 ]

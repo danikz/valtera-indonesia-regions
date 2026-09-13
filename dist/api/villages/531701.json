@@ -2,36 +2,43 @@
   {
     "code": "5317012001",
     "district_code": "531701",
-    "name": "Makata Keri"
+    "name": "Makata Keri",
+    "postal_code": "87282"
   },
   {
     "code": "5317012003",
     "district_code": "531701",
-    "name": "Kabela Wuntu"
+    "name": "Kabela Wuntu",
+    "postal_code": "87282"
   },
   {
     "code": "5317012004",
     "district_code": "531701",
-    "name": "Mata Woga"
+    "name": "Mata Woga",
+    "postal_code": "87282"
   },
   {
     "code": "5317012019",
     "district_code": "531701",
-    "name": "Umbu Riri"
+    "name": "Umbu Riri",
+    "postal_code": "87282"
   },
   {
     "code": "5317012023",
     "district_code": "531701",
-    "name": "Anakalang"
+    "name": "Anakalang",
+    "postal_code": "87282"
   },
   {
     "code": "5317012024",
     "district_code": "531701",
-    "name": "Dewa Jara"
+    "name": "Dewa Jara",
+    "postal_code": "87282"
   },
   {
     "code": "5317012025",
     "district_code": "531701",
-    "name": "Mata Redi"
+    "name": "Mata Redi",
+    "postal_code": "87282"
   }
 ]

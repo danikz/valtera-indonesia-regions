@@ -2,26 +2,31 @@
   {
     "code": "1274041001",
     "district_code": "127404",
-    "name": "Sei Merbau"
+    "name": "Sei Merbau",
+    "postal_code": "21334"
   },
   {
     "code": "1274041002",
     "district_code": "127404",
-    "name": "Pematang Pasir"
+    "name": "Pematang Pasir",
+    "postal_code": "21333"
   },
   {
     "code": "1274041003",
     "district_code": "127404",
-    "name": "Perjuangan"
+    "name": "Perjuangan",
+    "postal_code": "21332"
   },
   {
     "code": "1274041004",
     "district_code": "127404",
-    "name": "Kapias Pulau Buaya"
+    "name": "Kapias Pulau Buaya",
+    "postal_code": "21331"
   },
   {
     "code": "1274041005",
     "district_code": "127404",
-    "name": "Beting Kuala Kapias"
+    "name": "Beting Kuala Kapias",
+    "postal_code": "21335"
   }
 ]

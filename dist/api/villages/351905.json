@@ -2,41 +2,49 @@
   {
     "code": "3519052001",
     "district_code": "351905",
-    "name": "Kare"
+    "name": "Kare",
+    "postal_code": "63182"
   },
   {
     "code": "3519052002",
     "district_code": "351905",
-    "name": "Kepel"
+    "name": "Kepel",
+    "postal_code": "63182"
   },
   {
     "code": "3519052003",
     "district_code": "351905",
-    "name": "Bodag"
+    "name": "Bodag",
+    "postal_code": "63182"
   },
   {
     "code": "3519052004",
     "district_code": "351905",
-    "name": "Bolo"
+    "name": "Bolo",
+    "postal_code": "63182"
   },
   {
     "code": "3519052005",
     "district_code": "351905",
-    "name": "Kuwiran"
+    "name": "Kuwiran",
+    "postal_code": "63182"
   },
   {
     "code": "3519052006",
     "district_code": "351905",
-    "name": "Randualas"
+    "name": "Randualas",
+    "postal_code": "63182"
   },
   {
     "code": "3519052007",
     "district_code": "351905",
-    "name": "Cermo"
+    "name": "Cermo",
+    "postal_code": "63182"
   },
   {
     "code": "3519052008",
     "district_code": "351905",
-    "name": "Morang"
+    "name": "Morang",
+    "postal_code": "63182"
   }
 ]

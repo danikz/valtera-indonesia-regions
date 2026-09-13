@@ -23,9 +23,9 @@ Tersedia langsung dari GitHub dalam bentuk **Static CDN JSON API** (hemat bandwi
 | **Provinsi** | 37 | 2 digit | `32` | Jawa Barat |
 | **Kabupaten / Kota** | 514 | 4 digit | `3201` | Kab. Bogor |
 | **Kecamatan** | 7.272 | 6 digit | `320101` | Cibinong |
-| **Kelurahan / Desa** | 83.763 | 10 digit | `3201011001` | Cirimekar |
+| **Kelurahan / Desa** | 83.763 | 10 digit | `3201011001` | Cirimekar *(Kode Pos: 16916)* |
 
-> **Catatan Data**: Dataset ini merupakan data resmi Valtera yang telah disanitasi dari anomali format quote SQL (`''`) dan spasi ganda, serta dinormalisasi ke struktur relasional berindeks.
+> **Catatan Data**: Dataset ini merupakan data resmi Valtera yang telah dinormalisasi ke struktur relasional berindeks, dilengkapi pemetaan **Kode Pos (PT Pos Indonesia)** pada tingkat kelurahan/desa.
 
 ---
 
@@ -93,7 +93,7 @@ Jika membutuhkan format CSV tabel terpisah per entitas untuk database seeder (La
 - [`dist/csv/provinces.csv`](dist/csv/provinces.csv) (`code`, `name`)
 - [`dist/csv/regencies.csv`](dist/csv/regencies.csv) (`code`, `province_code`, `name`)
 - [`dist/csv/districts.csv`](dist/csv/districts.csv) (`code`, `regency_code`, `name`)
-- [`dist/csv/villages.csv`](dist/csv/villages.csv) (`code`, `district_code`, `name`)
+- [`dist/csv/villages.csv`](dist/csv/villages.csv) (`code`, `district_code`, `name`, `postal_code`)
 
 Tersedia juga file kompresi tunggal seluruh data untuk kebutuhan offline:
 - [`dist/indonesia-regions.min.json`](dist/indonesia-regions.min.json) (~6 MB)
@@ -126,6 +126,7 @@ erDiagram
         char(10) code PK "Contoh: '3201011001'"
         char(6) district_code FK
         varchar(100) name "Contoh: 'Cirimekar'"
+        char(5) postal_code "Contoh: '16916'"
     }
 ```
 

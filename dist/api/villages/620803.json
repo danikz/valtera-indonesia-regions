@@ -2,41 +2,49 @@
   {
     "code": "6208032001",
     "district_code": "620803",
-    "name": "Jihing"
+    "name": "Jihing",
+    "postal_code": "74173"
   },
   {
     "code": "6208032002",
     "district_code": "620803",
-    "name": "Air Dua"
+    "name": "Air Dua",
+    "postal_code": "74173"
   },
   {
     "code": "6208032005",
     "district_code": "620803",
-    "name": "Lupu Peruca"
+    "name": "Lupu Peruca",
+    "postal_code": "74173"
   },
   {
     "code": "6208032006",
     "district_code": "620803",
-    "name": "Balai Riam"
+    "name": "Balai Riam",
+    "postal_code": "74173"
   },
   {
     "code": "6208032007",
     "district_code": "620803",
-    "name": "Pempaning"
+    "name": "Pempaning",
+    "postal_code": "74173"
   },
   {
     "code": "6208032011",
     "district_code": "620803",
-    "name": "Sekuningan Baru"
+    "name": "Sekuningan Baru",
+    "postal_code": "74173"
   },
   {
     "code": "6208032012",
     "district_code": "620803",
-    "name": "Bangun Jaya"
+    "name": "Bangun Jaya",
+    "postal_code": "74173"
   },
   {
     "code": "6208032013",
     "district_code": "620803",
-    "name": "Bukit Sungkai"
+    "name": "Bukit Sungkai",
+    "postal_code": "74173"
   }
 ]

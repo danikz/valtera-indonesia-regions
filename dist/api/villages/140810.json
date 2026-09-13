@@ -2,56 +2,67 @@
   {
     "code": "1408101001",
     "district_code": "140810",
-    "name": "Simpang Belutu"
+    "name": "Simpang Belutu",
+    "postal_code": "28686"
   },
   {
     "code": "1408101002",
     "district_code": "140810",
-    "name": "Telaga Sam-sam"
+    "name": "Telaga Sam-sam",
+    "postal_code": "28686"
   },
   {
     "code": "1408101003",
     "district_code": "140810",
-    "name": "Kandis Kota"
+    "name": "Kandis Kota",
+    "postal_code": "28686"
   },
   {
     "code": "1408102004",
     "district_code": "140810",
-    "name": "Belutu"
+    "name": "Belutu",
+    "postal_code": "28686"
   },
   {
     "code": "1408102005",
     "district_code": "140810",
-    "name": "Kandis"
+    "name": "Kandis",
+    "postal_code": "28686"
   },
   {
     "code": "1408102006",
     "district_code": "140810",
-    "name": "Sam-Sam"
+    "name": "Sam-Sam",
+    "postal_code": "28686"
   },
   {
     "code": "1408102007",
     "district_code": "140810",
-    "name": "Bekalar"
+    "name": "Bekalar",
+    "postal_code": "28686"
   },
   {
     "code": "1408102008",
     "district_code": "140810",
-    "name": "Jambai Makmur"
+    "name": "Jambai Makmur",
+    "postal_code": "28686"
   },
   {
     "code": "1408102009",
     "district_code": "140810",
-    "name": "Sungai Gondang"
+    "name": "Sungai Gondang",
+    "postal_code": "28686"
   },
   {
     "code": "1408102010",
     "district_code": "140810",
-    "name": "Pencing Bekuto"
+    "name": "Pencing Bekuto",
+    "postal_code": "28686"
   },
   {
     "code": "1408102011",
     "district_code": "140810",
-    "name": "Libo Jaya"
+    "name": "Libo Jaya",
+    "postal_code": "28686"
   }
 ]

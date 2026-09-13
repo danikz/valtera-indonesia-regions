@@ -2,36 +2,43 @@
   {
     "code": "1472031001",
     "district_code": "147203",
-    "name": "Bukit Nenas"
+    "name": "Bukit Nenas",
+    "postal_code": "28882"
   },
   {
     "code": "1472031002",
     "district_code": "147203",
-    "name": "Bukit Kayu Kapur"
+    "name": "Bukit Kayu Kapur",
+    "postal_code": "28882"
   },
   {
     "code": "1472031003",
     "district_code": "147203",
-    "name": "Gurun Panjang"
+    "name": "Gurun Panjang",
+    "postal_code": "28882"
   },
   {
     "code": "1472031004",
     "district_code": "147203",
-    "name": "Bagan Besar"
+    "name": "Bagan Besar",
+    "postal_code": "28882"
   },
   {
     "code": "1472031005",
     "district_code": "147203",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "28882"
   },
   {
     "code": "1472031006",
     "district_code": "147203",
-    "name": "Bagan Besar Timur"
+    "name": "Bagan Besar Timur",
+    "postal_code": "28882"
   },
   {
     "code": "1472031007",
     "district_code": "147203",
-    "name": "Bukit Kapur"
+    "name": "Bukit Kapur",
+    "postal_code": "28882"
   }
 ]

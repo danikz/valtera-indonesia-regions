@@ -2,31 +2,37 @@
   {
     "code": "6403091002",
     "district_code": "640309",
-    "name": "Teluk Bayur"
+    "name": "Teluk Bayur",
+    "postal_code": "77315"
   },
   {
     "code": "6403091003",
     "district_code": "640309",
-    "name": "Rinding"
+    "name": "Rinding",
+    "postal_code": "77313"
   },
   {
     "code": "6403092001",
     "district_code": "640309",
-    "name": "Tumbit Melayu"
+    "name": "Tumbit Melayu",
+    "postal_code": "77315"
   },
   {
     "code": "6403092004",
     "district_code": "640309",
-    "name": "Labanan Jaya"
+    "name": "Labanan Jaya",
+    "postal_code": "77352"
   },
   {
     "code": "6403092005",
     "district_code": "640309",
-    "name": "Labanan Makmur"
+    "name": "Labanan Makmur",
+    "postal_code": "77352"
   },
   {
     "code": "6403092006",
     "district_code": "640309",
-    "name": "Labanan Makarti"
+    "name": "Labanan Makarti",
+    "postal_code": "77352"
   }
 ]

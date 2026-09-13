@@ -2,51 +2,61 @@
   {
     "code": "6309061001",
     "district_code": "630906",
-    "name": "Belimbing Raya"
+    "name": "Belimbing Raya",
+    "postal_code": "71571"
   },
   {
     "code": "6309061002",
     "district_code": "630906",
-    "name": "Belimbing"
+    "name": "Belimbing",
+    "postal_code": "71571"
   },
   {
     "code": "6309061003",
     "district_code": "630906",
-    "name": "Sulingan"
+    "name": "Sulingan",
+    "postal_code": "71571"
   },
   {
     "code": "6309061006",
     "district_code": "630906",
-    "name": "Mabu'un"
+    "name": "Mabu'un",
+    "postal_code": "71571"
   },
   {
     "code": "6309061009",
     "district_code": "630906",
-    "name": "Pembataan"
+    "name": "Pembataan",
+    "postal_code": "71571"
   },
   {
     "code": "6309062004",
     "district_code": "630906",
-    "name": "Maburai"
+    "name": "Maburai",
+    "postal_code": "71571"
   },
   {
     "code": "6309062005",
     "district_code": "630906",
-    "name": "Kasiau"
+    "name": "Kasiau",
+    "postal_code": "71571"
   },
   {
     "code": "6309062007",
     "district_code": "630906",
-    "name": "Kapar"
+    "name": "Kapar",
+    "postal_code": "71571"
   },
   {
     "code": "6309062008",
     "district_code": "630906",
-    "name": "Masukau"
+    "name": "Masukau",
+    "postal_code": "71571"
   },
   {
     "code": "6309062010",
     "district_code": "630906",
-    "name": "Kasiau Raya"
+    "name": "Kasiau Raya",
+    "postal_code": "71571"
   }
 ]

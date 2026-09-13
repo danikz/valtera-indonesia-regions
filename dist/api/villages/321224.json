@@ -2,41 +2,49 @@
   {
     "code": "3212242001",
     "district_code": "321224",
-    "name": "Bogor"
+    "name": "Bogor",
+    "postal_code": "45259"
   },
   {
     "code": "3212242002",
     "district_code": "321224",
-    "name": "Sukra"
+    "name": "Sukra",
+    "postal_code": "45259"
   },
   {
     "code": "3212242003",
     "district_code": "321224",
-    "name": "Ujunggebang"
+    "name": "Ujunggebang",
+    "postal_code": "45259"
   },
   {
     "code": "3212242004",
     "district_code": "321224",
-    "name": "Tagal Taman"
+    "name": "Tagal Taman",
+    "postal_code": "45259"
   },
   {
     "code": "3212242005",
     "district_code": "321224",
-    "name": "Sukrawetan"
+    "name": "Sukrawetan",
+    "postal_code": "45259"
   },
   {
     "code": "3212242006",
     "district_code": "321224",
-    "name": "Sumuradem"
+    "name": "Sumuradem",
+    "postal_code": "45259"
   },
   {
     "code": "3212242007",
     "district_code": "321224",
-    "name": "Sumuradem Timur"
+    "name": "Sumuradem Timur",
+    "postal_code": "45259"
   },
   {
     "code": "3212242017",
     "district_code": "321224",
-    "name": "Karang Layung"
+    "name": "Karang Layung",
+    "postal_code": "45259"
   }
 ]

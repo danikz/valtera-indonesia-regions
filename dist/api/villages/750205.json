@@ -2,46 +2,55 @@
   {
     "code": "7502052001",
     "district_code": "750205",
-    "name": "Tabulo"
+    "name": "Tabulo",
+    "postal_code": "96265"
   },
   {
     "code": "7502052002",
     "district_code": "750205",
-    "name": "Kaaruyan"
+    "name": "Kaaruyan",
+    "postal_code": "96265"
   },
   {
     "code": "7502052003",
     "district_code": "750205",
-    "name": "Salilama"
+    "name": "Salilama",
+    "postal_code": "96265"
   },
   {
     "code": "7502052004",
     "district_code": "750205",
-    "name": "Bendungan"
+    "name": "Bendungan",
+    "postal_code": "96265"
   },
   {
     "code": "7502052005",
     "district_code": "750205",
-    "name": "Mananggu"
+    "name": "Mananggu",
+    "postal_code": "96265"
   },
   {
     "code": "7502052006",
     "district_code": "750205",
-    "name": "Buti"
+    "name": "Buti",
+    "postal_code": "96265"
   },
   {
     "code": "7502052007",
     "district_code": "750205",
-    "name": "Pontolo"
+    "name": "Pontolo",
+    "postal_code": "96265"
   },
   {
     "code": "7502052008",
     "district_code": "750205",
-    "name": "Kramat"
+    "name": "Kramat",
+    "postal_code": "96265"
   },
   {
     "code": "7502052009",
     "district_code": "750205",
-    "name": "Tabulo Selatan"
+    "name": "Tabulo Selatan",
+    "postal_code": "96265"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1871141001",
     "district_code": "187114",
-    "name": "Labuhan Ratu"
+    "name": "Labuhan Ratu",
+    "postal_code": "35142"
   },
   {
     "code": "1871141002",
     "district_code": "187114",
-    "name": "Labuhan Ratu Raya"
+    "name": "Labuhan Ratu Raya",
+    "postal_code": "35142"
   },
   {
     "code": "1871141003",
     "district_code": "187114",
-    "name": "Sepang Jaya"
+    "name": "Sepang Jaya",
+    "postal_code": "35148"
   },
   {
     "code": "1871141004",
     "district_code": "187114",
-    "name": "Kota Sepang"
+    "name": "Kota Sepang",
+    "postal_code": "35148"
   },
   {
     "code": "1871141006",
     "district_code": "187114",
-    "name": "Kampung Baru Raya"
+    "name": "Kampung Baru Raya",
+    "postal_code": "35149"
   },
   {
     "code": "1871141007",
     "district_code": "187114",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "35149"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "3209402001",
     "district_code": "320940",
-    "name": "Jamblang"
+    "name": "Jamblang",
+    "postal_code": "45156"
   },
   {
     "code": "3209402002",
     "district_code": "320940",
-    "name": "Sitiwinangun"
+    "name": "Sitiwinangun",
+    "postal_code": "45156"
   },
   {
     "code": "3209402003",
     "district_code": "320940",
-    "name": "Wangunharja"
+    "name": "Wangunharja",
+    "postal_code": "45156"
   },
   {
     "code": "3209402004",
     "district_code": "320940",
-    "name": "Bojong Wetan"
+    "name": "Bojong Wetan",
+    "postal_code": "45156"
   },
   {
     "code": "3209402005",
     "district_code": "320940",
-    "name": "Bojong Lor"
+    "name": "Bojong Lor",
+    "postal_code": "45156"
   },
   {
     "code": "3209402006",
     "district_code": "320940",
-    "name": "Orimalang"
+    "name": "Orimalang",
+    "postal_code": "45156"
   },
   {
     "code": "3209402007",
     "district_code": "320940",
-    "name": "Bakung Kidul"
+    "name": "Bakung Kidul",
+    "postal_code": "45156"
   },
   {
     "code": "3209402008",
     "district_code": "320940",
-    "name": "Bakung Lor"
+    "name": "Bakung Lor",
+    "postal_code": "45156"
   }
 ]

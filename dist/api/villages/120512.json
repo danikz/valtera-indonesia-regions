@@ -2,61 +2,73 @@
   {
     "code": "1205121006",
     "district_code": "120512",
-    "name": "Tanjung Selamat"
+    "name": "Tanjung Selamat",
+    "postal_code": "20850"
   },
   {
     "code": "1205122001",
     "district_code": "120512",
-    "name": "Serapuh ABC"
+    "name": "Serapuh ABC",
+    "postal_code": "20850"
   },
   {
     "code": "1205122002",
     "district_code": "120512",
-    "name": "Padang Tualang"
+    "name": "Padang Tualang",
+    "postal_code": "20850"
   },
   {
     "code": "1205122003",
     "district_code": "120512",
-    "name": "Kwala Besilam"
+    "name": "Kwala Besilam",
+    "postal_code": "20850"
   },
   {
     "code": "1205122004",
     "district_code": "120512",
-    "name": "Buluh Telang"
+    "name": "Buluh Telang",
+    "postal_code": "20850"
   },
   {
     "code": "1205122005",
     "district_code": "120512",
-    "name": "Besilam"
+    "name": "Besilam",
+    "postal_code": "20850"
   },
   {
     "code": "1205122007",
     "district_code": "120512",
-    "name": "Tebing Tanjung Selamat"
+    "name": "Tebing Tanjung Selamat",
+    "postal_code": "20850"
   },
   {
     "code": "1205122008",
     "district_code": "120512",
-    "name": "Tanjung Putus"
+    "name": "Tanjung Putus",
+    "postal_code": "20850"
   },
   {
     "code": "1205122009",
     "district_code": "120512",
-    "name": "Suka Ramai"
+    "name": "Suka Ramai",
+    "postal_code": "20850"
   },
   {
     "code": "1205122010",
     "district_code": "120512",
-    "name": "Jati Sari"
+    "name": "Jati Sari",
+    "postal_code": "20850"
   },
   {
     "code": "1205122011",
     "district_code": "120512",
-    "name": "Banjar Jaya"
+    "name": "Banjar Jaya",
+    "postal_code": "20850"
   },
   {
     "code": "1205122012",
     "district_code": "120512",
-    "name": "Bukit Sari"
+    "name": "Bukit Sari",
+    "postal_code": "20850"
   }
 ]

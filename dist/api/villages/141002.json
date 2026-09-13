@@ -2,61 +2,73 @@
   {
     "code": "1410022001",
     "district_code": "141002",
-    "name": "Segomeng"
+    "name": "Segomeng",
+    "postal_code": "28756"
   },
   {
     "code": "1410022002",
     "district_code": "141002",
-    "name": "Bantar"
+    "name": "Bantar",
+    "postal_code": "28756"
   },
   {
     "code": "1410022003",
     "district_code": "141002",
-    "name": "Anak Setatah"
+    "name": "Anak Setatah",
+    "postal_code": "28756"
   },
   {
     "code": "1410022004",
     "district_code": "141002",
-    "name": "Lemang"
+    "name": "Lemang",
+    "postal_code": "28756"
   },
   {
     "code": "1410022005",
     "district_code": "141002",
-    "name": "Bokor"
+    "name": "Bokor",
+    "postal_code": "28756"
   },
   {
     "code": "1410022006",
     "district_code": "141002",
-    "name": "Sungai Cina"
+    "name": "Sungai Cina",
+    "postal_code": "28756"
   },
   {
     "code": "1410022007",
     "district_code": "141002",
-    "name": "Melai"
+    "name": "Melai",
+    "postal_code": "28756"
   },
   {
     "code": "1410022011",
     "district_code": "141002",
-    "name": "Telaga Baru"
+    "name": "Telaga Baru",
+    "postal_code": "28756"
   },
   {
     "code": "1410022012",
     "district_code": "141002",
-    "name": "Bina Maju"
+    "name": "Bina Maju",
+    "postal_code": "28756"
   },
   {
     "code": "1410022015",
     "district_code": "141002",
-    "name": "Sialang Pasung"
+    "name": "Sialang Pasung",
+    "postal_code": "28756"
   },
   {
     "code": "1410022016",
     "district_code": "141002",
-    "name": "Permai"
+    "name": "Permai",
+    "postal_code": "28756"
   },
   {
     "code": "1410022017",
     "district_code": "141002",
-    "name": "Mekar Baru"
+    "name": "Mekar Baru",
+    "postal_code": "28756"
   }
 ]

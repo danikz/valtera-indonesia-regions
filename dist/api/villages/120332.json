@@ -2,76 +2,91 @@
   {
     "code": "1203321001",
     "district_code": "120332",
-    "name": "Bintuju"
+    "name": "Bintuju",
+    "postal_code": "22773"
   },
   {
     "code": "1203321002",
     "district_code": "120332",
-    "name": "Huta Tonga"
+    "name": "Huta Tonga",
+    "postal_code": "22773"
   },
   {
     "code": "1203322003",
     "district_code": "120332",
-    "name": "Basilam Baru"
+    "name": "Basilam Baru",
+    "postal_code": "22773"
   },
   {
     "code": "1203322004",
     "district_code": "120332",
-    "name": "Sipangko"
+    "name": "Sipangko",
+    "postal_code": "22773"
   },
   {
     "code": "1203322005",
     "district_code": "120332",
-    "name": "Huta Holbung"
+    "name": "Huta Holbung",
+    "postal_code": "22773"
   },
   {
     "code": "1203322006",
     "district_code": "120332",
-    "name": "Muara Tais I"
+    "name": "Muara Tais I",
+    "postal_code": "22773"
   },
   {
     "code": "1203322007",
     "district_code": "120332",
-    "name": "Muara Tais II"
+    "name": "Muara Tais II",
+    "postal_code": "22773"
   },
   {
     "code": "1203322008",
     "district_code": "120332",
-    "name": "Muara Tais III"
+    "name": "Muara Tais III",
+    "postal_code": "22773"
   },
   {
     "code": "1203322009",
     "district_code": "120332",
-    "name": "Janji Mauli MT"
+    "name": "Janji Mauli MT",
+    "postal_code": "22773"
   },
   {
     "code": "1203322010",
     "district_code": "120332",
-    "name": "Pargumbangan"
+    "name": "Pargumbangan",
+    "postal_code": "22773"
   },
   {
     "code": "1203322011",
     "district_code": "120332",
-    "name": "Pangaribuan"
+    "name": "Pangaribuan",
+    "postal_code": "22773"
   },
   {
     "code": "1203322012",
     "district_code": "120332",
-    "name": "Pasir Matogu"
+    "name": "Pasir Matogu",
+    "postal_code": "22773"
   },
   {
     "code": "1203322013",
     "district_code": "120332",
-    "name": "Sori Manoan"
+    "name": "Sori Manoan",
+    "postal_code": "22773"
   },
   {
     "code": "1203322014",
     "district_code": "120332",
-    "name": "Muara Purba Nauli"
+    "name": "Muara Purba Nauli",
+    "postal_code": "22773"
   },
   {
     "code": "1203322015",
     "district_code": "120332",
-    "name": "Tatengger"
+    "name": "Tatengger",
+    "postal_code": "22773"
   }
 ]

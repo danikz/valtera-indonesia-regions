@@ -2,51 +2,61 @@
   {
     "code": "6402201001",
     "district_code": "640220",
-    "name": "Bukit Merdeka"
+    "name": "Bukit Merdeka",
+    "postal_code": "75271"
   },
   {
     "code": "6402201002",
     "district_code": "640220",
-    "name": "Sungai Merdeka"
+    "name": "Sungai Merdeka",
+    "postal_code": "75271"
   },
   {
     "code": "6402201003",
     "district_code": "640220",
-    "name": "Karya Merdeka"
+    "name": "Karya Merdeka",
+    "postal_code": "75271"
   },
   {
     "code": "6402201005",
     "district_code": "640220",
-    "name": "Amborawang Darat"
+    "name": "Amborawang Darat",
+    "postal_code": "75274"
   },
   {
     "code": "6402201006",
     "district_code": "640220",
-    "name": "Argo Sari"
+    "name": "Argo Sari",
+    "postal_code": "75271"
   },
   {
     "code": "6402201007",
     "district_code": "640220",
-    "name": "Salok Api Darat"
+    "name": "Salok Api Darat",
+    "postal_code": "75271"
   },
   {
     "code": "6402201008",
     "district_code": "640220",
-    "name": "Salok Api Laut"
+    "name": "Salok Api Laut",
+    "postal_code": "75271"
   },
   {
     "code": "6402201009",
     "district_code": "640220",
-    "name": "Amborawang Laut"
+    "name": "Amborawang Laut",
+    "postal_code": "75274"
   },
   {
     "code": "6402201010",
     "district_code": "640220",
-    "name": "Margomulyo"
+    "name": "Margomulyo",
+    "postal_code": "75273"
   },
   {
     "code": "6402202004",
     "district_code": "640220",
-    "name": "Tani Bhakti"
+    "name": "Tani Bhakti",
+    "postal_code": "75271"
   }
 ]

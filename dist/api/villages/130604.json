@@ -2,31 +2,37 @@
   {
     "code": "1306042001",
     "district_code": "130604",
-    "name": "Matua Hilia"
+    "name": "Matua Hilia",
+    "postal_code": "26162"
   },
   {
     "code": "1306042002",
     "district_code": "130604",
-    "name": "Matua Mudiak"
+    "name": "Matua Mudiak",
+    "postal_code": "26162"
   },
   {
     "code": "1306042003",
     "district_code": "130604",
-    "name": "Tigo Balai"
+    "name": "Tigo Balai",
+    "postal_code": "26162"
   },
   {
     "code": "1306042004",
     "district_code": "130604",
-    "name": "Lawang"
+    "name": "Lawang",
+    "postal_code": "26162"
   },
   {
     "code": "1306042005",
     "district_code": "130604",
-    "name": "Parik Panjang"
+    "name": "Parik Panjang",
+    "postal_code": "26162"
   },
   {
     "code": "1306042006",
     "district_code": "130604",
-    "name": "Panta Pauh"
+    "name": "Panta Pauh",
+    "postal_code": "26162"
   }
 ]

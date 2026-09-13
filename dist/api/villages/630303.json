@@ -2,71 +2,85 @@
   {
     "code": "6303031001",
     "district_code": "630303",
-    "name": "Gambut"
+    "name": "Gambut",
+    "postal_code": "70652"
   },
   {
     "code": "6303031014",
     "district_code": "630303",
-    "name": "Gambut Barat"
+    "name": "Gambut Barat",
+    "postal_code": "70652"
   },
   {
     "code": "6303032002",
     "district_code": "630303",
-    "name": "Sungai Kupang"
+    "name": "Sungai Kupang",
+    "postal_code": "70652"
   },
   {
     "code": "6303032003",
     "district_code": "630303",
-    "name": "Guntung Papuyu"
+    "name": "Guntung Papuyu",
+    "postal_code": "70652"
   },
   {
     "code": "6303032004",
     "district_code": "630303",
-    "name": "Makmur"
+    "name": "Makmur",
+    "postal_code": "70652"
   },
   {
     "code": "6303032005",
     "district_code": "630303",
-    "name": "Tambak Sirang Darat"
+    "name": "Tambak Sirang Darat",
+    "postal_code": "70652"
   },
   {
     "code": "6303032006",
     "district_code": "630303",
-    "name": "Tambak Sirang Laut"
+    "name": "Tambak Sirang Laut",
+    "postal_code": "70652"
   },
   {
     "code": "6303032007",
     "district_code": "630303",
-    "name": "Malintang"
+    "name": "Malintang",
+    "postal_code": "70652"
   },
   {
     "code": "6303032008",
     "district_code": "630303",
-    "name": "Kayu Bawang"
+    "name": "Kayu Bawang",
+    "postal_code": "70652"
   },
   {
     "code": "6303032009",
     "district_code": "630303",
-    "name": "Banyu Hirang"
+    "name": "Banyu Hirang",
+    "postal_code": "70652"
   },
   {
     "code": "6303032010",
     "district_code": "630303",
-    "name": "Guntung Ujung"
+    "name": "Guntung Ujung",
+    "postal_code": "70652"
   },
   {
     "code": "6303032011",
     "district_code": "630303",
-    "name": "Tambak Sirang Baru"
+    "name": "Tambak Sirang Baru",
+    "postal_code": "70652"
   },
   {
     "code": "6303032012",
     "district_code": "630303",
-    "name": "Malintang Baru"
+    "name": "Malintang Baru",
+    "postal_code": "70652"
   },
   {
     "code": "6303032013",
     "district_code": "630303",
-    "name": "Keladan Baru"
+    "name": "Keladan Baru",
+    "postal_code": "70652"
   }
 ]

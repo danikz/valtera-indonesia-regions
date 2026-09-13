@@ -2,51 +2,61 @@
   {
     "code": "7212011001",
     "district_code": "721201",
-    "name": "Kolonodale"
+    "name": "Kolonodale",
+    "postal_code": "94971"
   },
   {
     "code": "7212011002",
     "district_code": "721201",
-    "name": "Bahontula"
+    "name": "Bahontula",
+    "postal_code": "94971"
   },
   {
     "code": "7212011003",
     "district_code": "721201",
-    "name": "Bahoue"
+    "name": "Bahoue",
+    "postal_code": "94971"
   },
   {
     "code": "7212012004",
     "district_code": "721201",
-    "name": "Ganda-Ganda"
+    "name": "Ganda-Ganda",
+    "postal_code": "94971"
   },
   {
     "code": "7212012005",
     "district_code": "721201",
-    "name": "Koya"
+    "name": "Koya",
+    "postal_code": "94971"
   },
   {
     "code": "7212012006",
     "district_code": "721201",
-    "name": "Gililana"
+    "name": "Gililana",
+    "postal_code": "94971"
   },
   {
     "code": "7212012007",
     "district_code": "721201",
-    "name": "Tanauge"
+    "name": "Tanauge",
+    "postal_code": "94971"
   },
   {
     "code": "7212012008",
     "district_code": "721201",
-    "name": "Korololaki"
+    "name": "Korololaki",
+    "postal_code": "94971"
   },
   {
     "code": "7212012009",
     "district_code": "721201",
-    "name": "Korololama"
+    "name": "Korololama",
+    "postal_code": "94971"
   },
   {
     "code": "7212012010",
     "district_code": "721201",
-    "name": "Koromatantu"
+    "name": "Koromatantu",
+    "postal_code": "94971"
   }
 ]

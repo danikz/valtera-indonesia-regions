@@ -2,26 +2,31 @@
   {
     "code": "6472041001",
     "district_code": "647204",
-    "name": "Selili"
+    "name": "Selili",
+    "postal_code": "75114"
   },
   {
     "code": "6472041002",
     "district_code": "647204",
-    "name": "Sungai Dama"
+    "name": "Sungai Dama",
+    "postal_code": "75115"
   },
   {
     "code": "6472041003",
     "district_code": "647204",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "75116"
   },
   {
     "code": "6472041013",
     "district_code": "647204",
-    "name": "Sidodamai"
+    "name": "Sidodamai",
+    "postal_code": "75116"
   },
   {
     "code": "6472041014",
     "district_code": "647204",
-    "name": "Pelita"
+    "name": "Pelita",
+    "postal_code": "75117"
   }
 ]

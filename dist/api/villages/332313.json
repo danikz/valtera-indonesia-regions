@@ -2,66 +2,79 @@
   {
     "code": "3323131001",
     "district_code": "332313",
-    "name": "Kranggan"
+    "name": "Kranggan",
+    "postal_code": "56271"
   },
   {
     "code": "3323132002",
     "district_code": "332313",
-    "name": "Badran"
+    "name": "Badran",
+    "postal_code": "56271"
   },
   {
     "code": "3323132003",
     "district_code": "332313",
-    "name": "Bengkal"
+    "name": "Bengkal",
+    "postal_code": "56271"
   },
   {
     "code": "3323132004",
     "district_code": "332313",
-    "name": "Pare"
+    "name": "Pare",
+    "postal_code": "56271"
   },
   {
     "code": "3323132005",
     "district_code": "332313",
-    "name": "Nguwet"
+    "name": "Nguwet",
+    "postal_code": "56271"
   },
   {
     "code": "3323132006",
     "district_code": "332313",
-    "name": "Ngropoh"
+    "name": "Ngropoh",
+    "postal_code": "56271"
   },
   {
     "code": "3323132007",
     "district_code": "332313",
-    "name": "Pendowo"
+    "name": "Pendowo",
+    "postal_code": "56271"
   },
   {
     "code": "3323132008",
     "district_code": "332313",
-    "name": "Sanggrahan"
+    "name": "Sanggrahan",
+    "postal_code": "56271"
   },
   {
     "code": "3323132009",
     "district_code": "332313",
-    "name": "Klepu"
+    "name": "Klepu",
+    "postal_code": "56271"
   },
   {
     "code": "3323132010",
     "district_code": "332313",
-    "name": "Kemloko"
+    "name": "Kemloko",
+    "postal_code": "56271"
   },
   {
     "code": "3323132011",
     "district_code": "332313",
-    "name": "Gentan"
+    "name": "Gentan",
+    "postal_code": "56271"
   },
   {
     "code": "3323132012",
     "district_code": "332313",
-    "name": "Kramat"
+    "name": "Kramat",
+    "postal_code": "56271"
   },
   {
     "code": "3323132013",
     "district_code": "332313",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "56271"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "6504032001",
     "district_code": "650403",
-    "name": "Tanah Merah"
+    "name": "Tanah Merah",
+    "postal_code": "77451"
   },
   {
     "code": "6504032002",
     "district_code": "650403",
-    "name": "Tengku Dacing"
+    "name": "Tengku Dacing",
+    "postal_code": "77451"
   },
   {
     "code": "6504032003",
     "district_code": "650403",
-    "name": "Sambungan"
+    "name": "Sambungan",
+    "postal_code": "77451"
   },
   {
     "code": "6504032004",
     "district_code": "650403",
-    "name": "Tanah Merah Barat"
+    "name": "Tanah Merah Barat",
+    "postal_code": "77451"
   },
   {
     "code": "6504032005",
     "district_code": "650403",
-    "name": "Sambungan Selatan"
+    "name": "Sambungan Selatan",
+    "postal_code": "77451"
   }
 ]

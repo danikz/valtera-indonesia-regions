@@ -2,36 +2,43 @@
   {
     "code": "3202182001",
     "district_code": "320218",
-    "name": "Kalapanunggal"
+    "name": "Kalapanunggal",
+    "postal_code": "43354"
   },
   {
     "code": "3202182002",
     "district_code": "320218",
-    "name": "Palasari Girang"
+    "name": "Palasari Girang",
+    "postal_code": "43354"
   },
   {
     "code": "3202182003",
     "district_code": "320218",
-    "name": "Pulosari"
+    "name": "Pulosari",
+    "postal_code": "43354"
   },
   {
     "code": "3202182004",
     "district_code": "320218",
-    "name": "Makasari"
+    "name": "Makasari",
+    "postal_code": "43354"
   },
   {
     "code": "3202182005",
     "district_code": "320218",
-    "name": "Kadununggal"
+    "name": "Kadununggal",
+    "postal_code": "43354"
   },
   {
     "code": "3202182006",
     "district_code": "320218",
-    "name": "Walang Sari"
+    "name": "Walang Sari",
+    "postal_code": "43354"
   },
   {
     "code": "3202182007",
     "district_code": "320218",
-    "name": "Gunungendut"
+    "name": "Gunungendut",
+    "postal_code": "43354"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1707022001",
     "district_code": "170702",
-    "name": "Sukau Kayo"
+    "name": "Sukau Kayo",
+    "postal_code": "39265"
   },
   {
     "code": "1707022004",
     "district_code": "170702",
-    "name": "Tik Tebing"
+    "name": "Tik Tebing",
+    "postal_code": "39265"
   },
   {
     "code": "1707022005",
     "district_code": "170702",
-    "name": "Tabeak Blau"
+    "name": "Tabeak Blau",
+    "postal_code": "39265"
   },
   {
     "code": "1707022006",
     "district_code": "170702",
-    "name": "Tabeak Blau I"
+    "name": "Tabeak Blau I",
+    "postal_code": "39265"
   },
   {
     "code": "1707022008",
     "district_code": "170702",
-    "name": "Daneu"
+    "name": "Daneu",
+    "postal_code": "39265"
   },
   {
     "code": "1707022012",
     "district_code": "170702",
-    "name": "Blau"
+    "name": "Blau",
+    "postal_code": "39265"
   }
 ]

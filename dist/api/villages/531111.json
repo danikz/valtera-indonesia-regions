@@ -2,36 +2,43 @@
   {
     "code": "5311112001",
     "district_code": "531111",
-    "name": "Wulla"
+    "name": "Wulla",
+    "postal_code": "87183"
   },
   {
     "code": "5311112002",
     "district_code": "531111",
-    "name": "Hadakamali"
+    "name": "Hadakamali",
+    "postal_code": "87183"
   },
   {
     "code": "5311112003",
     "district_code": "531111",
-    "name": "Lumbu Manggit"
+    "name": "Lumbu Manggit",
+    "postal_code": "87183"
   },
   {
     "code": "5311112004",
     "district_code": "531111",
-    "name": "Latena"
+    "name": "Latena",
+    "postal_code": "87183"
   },
   {
     "code": "5311112005",
     "district_code": "531111",
-    "name": "Lainjanji"
+    "name": "Lainjanji",
+    "postal_code": "87183"
   },
   {
     "code": "5311112006",
     "district_code": "531111",
-    "name": "Laipandak"
+    "name": "Laipandak",
+    "postal_code": "87183"
   },
   {
     "code": "5311112008",
     "district_code": "531111",
-    "name": "Paranda"
+    "name": "Paranda",
+    "postal_code": "87183"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "5303211004",
     "district_code": "530321",
-    "name": "Maubesi"
+    "name": "Maubesi",
+    "postal_code": ""
   },
   {
     "code": "5303212001",
     "district_code": "530321",
-    "name": "Lanaus"
+    "name": "Lanaus",
+    "postal_code": "85673"
   },
   {
     "code": "5303212002",
     "district_code": "530321",
-    "name": "Letmafo"
+    "name": "Letmafo",
+    "postal_code": "85673"
   },
   {
     "code": "5303212003",
     "district_code": "530321",
-    "name": "Tainsala"
+    "name": "Tainsala",
+    "postal_code": "85673"
   },
   {
     "code": "5303212005",
     "district_code": "530321",
-    "name": "Sone"
+    "name": "Sone",
+    "postal_code": "85673"
   },
   {
     "code": "5303212006",
     "district_code": "530321",
-    "name": "Letmafo Timur"
+    "name": "Letmafo Timur",
+    "postal_code": "85673"
   },
   {
     "code": "5303212007",
     "district_code": "530321",
-    "name": "Oehalo"
+    "name": "Oehalo",
+    "postal_code": "85673"
   }
 ]

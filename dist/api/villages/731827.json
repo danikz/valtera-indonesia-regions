@@ -2,26 +2,31 @@
   {
     "code": "7318271001",
     "district_code": "731827",
-    "name": "Tambunan"
+    "name": "Tambunan",
+    "postal_code": "91817"
   },
   {
     "code": "7318271002",
     "district_code": "731827",
-    "name": "Sarira"
+    "name": "Sarira",
+    "postal_code": "91817"
   },
   {
     "code": "7318271003",
     "district_code": "731827",
-    "name": "Bungin"
+    "name": "Bungin",
+    "postal_code": "91812"
   },
   {
     "code": "7318271004",
     "district_code": "731827",
-    "name": "Lion Tondok Iring"
+    "name": "Lion Tondok Iring",
+    "postal_code": "91817"
   },
   {
     "code": "7318271005",
     "district_code": "731827",
-    "name": "Lemo"
+    "name": "Lemo",
+    "postal_code": "91817"
   }
 ]

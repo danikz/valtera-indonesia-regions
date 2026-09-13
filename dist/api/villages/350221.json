@@ -2,31 +2,37 @@
   {
     "code": "3502212001",
     "district_code": "350221",
-    "name": "Bareng"
+    "name": "Bareng",
+    "postal_code": "63418"
   },
   {
     "code": "3502212002",
     "district_code": "350221",
-    "name": "Tambang"
+    "name": "Tambang",
+    "postal_code": "63418"
   },
   {
     "code": "3502212003",
     "district_code": "350221",
-    "name": "Krisik"
+    "name": "Krisik",
+    "postal_code": "63418"
   },
   {
     "code": "3502212004",
     "district_code": "350221",
-    "name": "Pudak Wetan"
+    "name": "Pudak Wetan",
+    "postal_code": "63418"
   },
   {
     "code": "3502212005",
     "district_code": "350221",
-    "name": "Banjarejo"
+    "name": "Banjarejo",
+    "postal_code": "63418"
   },
   {
     "code": "3502212006",
     "district_code": "350221",
-    "name": "Pudak Kulon"
+    "name": "Pudak Kulon",
+    "postal_code": "63418"
   }
 ]

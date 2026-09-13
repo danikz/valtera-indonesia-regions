@@ -2,21 +2,25 @@
   {
     "code": "1674061001",
     "district_code": "167406",
-    "name": "Majasari"
+    "name": "Majasari",
+    "postal_code": "31124"
   },
   {
     "code": "1674061002",
     "district_code": "167406",
-    "name": "Tanjung Raman"
+    "name": "Tanjung Raman",
+    "postal_code": "31116"
   },
   {
     "code": "1674061003",
     "district_code": "167406",
-    "name": "Sukaraja"
+    "name": "Sukaraja",
+    "postal_code": "31112"
   },
   {
     "code": "1674062004",
     "district_code": "167406",
-    "name": "Tanjung Menang"
+    "name": "Tanjung Menang",
+    "postal_code": "31134"
   }
 ]

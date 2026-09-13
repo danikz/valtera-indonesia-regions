@@ -2,41 +2,49 @@
   {
     "code": "3273121001",
     "district_code": "327312",
-    "name": "Gumuruh"
+    "name": "Gumuruh",
+    "postal_code": "40275"
   },
   {
     "code": "3273121002",
     "district_code": "327312",
-    "name": "Maleer"
+    "name": "Maleer",
+    "postal_code": "40274"
   },
   {
     "code": "3273121003",
     "district_code": "327312",
-    "name": "Cibangkong"
+    "name": "Cibangkong",
+    "postal_code": "40273"
   },
   {
     "code": "3273121004",
     "district_code": "327312",
-    "name": "Kacapiring"
+    "name": "Kacapiring",
+    "postal_code": "40271"
   },
   {
     "code": "3273121005",
     "district_code": "327312",
-    "name": "Kebonwaru"
+    "name": "Kebonwaru",
+    "postal_code": "40272"
   },
   {
     "code": "3273121006",
     "district_code": "327312",
-    "name": "Kebongedang"
+    "name": "Kebongedang",
+    "postal_code": "40274"
   },
   {
     "code": "3273121007",
     "district_code": "327312",
-    "name": "Samoja"
+    "name": "Samoja",
+    "postal_code": "40273"
   },
   {
     "code": "3273121008",
     "district_code": "327312",
-    "name": "Binong"
+    "name": "Binong",
+    "postal_code": "40275"
   }
 ]

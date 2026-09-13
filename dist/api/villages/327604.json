@@ -2,21 +2,25 @@
   {
     "code": "3276041001",
     "district_code": "327604",
-    "name": "Maruyung"
+    "name": "Maruyung",
+    "postal_code": "16515"
   },
   {
     "code": "3276041002",
     "district_code": "327604",
-    "name": "Grogol"
+    "name": "Grogol",
+    "postal_code": "16512"
   },
   {
     "code": "3276041003",
     "district_code": "327604",
-    "name": "Krukut"
+    "name": "Krukut",
+    "postal_code": "16512"
   },
   {
     "code": "3276041004",
     "district_code": "327604",
-    "name": "Limo"
+    "name": "Limo",
+    "postal_code": "16515"
   }
 ]

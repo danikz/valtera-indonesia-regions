@@ -2,51 +2,61 @@
   {
     "code": "1201041001",
     "district_code": "120104",
-    "name": "Pinangsori"
+    "name": "Pinangsori",
+    "postal_code": "22653"
   },
   {
     "code": "1201041004",
     "district_code": "120104",
-    "name": "Sitonong Bangun"
+    "name": "Sitonong Bangun",
+    "postal_code": "22653"
   },
   {
     "code": "1201041007",
     "district_code": "120104",
-    "name": "Pinangbaru"
+    "name": "Pinangbaru",
+    "postal_code": "22653"
   },
   {
     "code": "1201041009",
     "district_code": "120104",
-    "name": "Albion Prancis"
+    "name": "Albion Prancis",
+    "postal_code": "22653"
   },
   {
     "code": "1201041010",
     "district_code": "120104",
-    "name": "Sori Nauli"
+    "name": "Sori Nauli",
+    "postal_code": "22653"
   },
   {
     "code": "1201042002",
     "district_code": "120104",
-    "name": "Gunung Marijo"
+    "name": "Gunung Marijo",
+    "postal_code": "22653"
   },
   {
     "code": "1201042003",
     "district_code": "120104",
-    "name": "Sihaporas"
+    "name": "Sihaporas",
+    "postal_code": "22653"
   },
   {
     "code": "1201042005",
     "district_code": "120104",
-    "name": "Toga Basir"
+    "name": "Toga Basir",
+    "postal_code": "22653"
   },
   {
     "code": "1201042006",
     "district_code": "120104",
-    "name": "Parjalihotan Baru"
+    "name": "Parjalihotan Baru",
+    "postal_code": "22653"
   },
   {
     "code": "1201042008",
     "district_code": "120104",
-    "name": "Danau Pandan"
+    "name": "Danau Pandan",
+    "postal_code": "22653"
   }
 ]

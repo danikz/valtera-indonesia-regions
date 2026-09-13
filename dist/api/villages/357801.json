@@ -2,21 +2,25 @@
   {
     "code": "3578011001",
     "district_code": "357801",
-    "name": "Karang Pilang"
+    "name": "Karang Pilang",
+    "postal_code": "60221"
   },
   {
     "code": "3578011002",
     "district_code": "357801",
-    "name": "Kebraon"
+    "name": "Kebraon",
+    "postal_code": "60222"
   },
   {
     "code": "3578011003",
     "district_code": "357801",
-    "name": "Kedurus"
+    "name": "Kedurus",
+    "postal_code": "60223"
   },
   {
     "code": "3578011004",
     "district_code": "357801",
-    "name": "Waru Gunung"
+    "name": "Waru Gunung",
+    "postal_code": "60221"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "7316051001",
     "district_code": "731605",
-    "name": "Kambiolangi"
+    "name": "Kambiolangi",
+    "postal_code": "91754"
   },
   {
     "code": "7316051002",
     "district_code": "731605",
-    "name": "Kalosi"
+    "name": "Kalosi",
+    "postal_code": "91754"
   },
   {
     "code": "7316051003",
     "district_code": "731605",
-    "name": "Buntu Sugi"
+    "name": "Buntu Sugi",
+    "postal_code": "91754"
   },
   {
     "code": "7316052004",
     "district_code": "731605",
-    "name": "Mata Allo"
+    "name": "Mata Allo",
+    "postal_code": "91754"
   },
   {
     "code": "7316052010",
     "district_code": "731605",
-    "name": "Sumillan"
+    "name": "Sumillan",
+    "postal_code": "91754"
   },
   {
     "code": "7316052011",
     "district_code": "731605",
-    "name": "Pana"
+    "name": "Pana",
+    "postal_code": "91754"
   },
   {
     "code": "7316052017",
     "district_code": "731605",
-    "name": "Taulo"
+    "name": "Taulo",
+    "postal_code": "91754"
   },
   {
     "code": "7316052018",
     "district_code": "731605",
-    "name": "Bolang"
+    "name": "Bolang",
+    "postal_code": "91754"
   }
 ]

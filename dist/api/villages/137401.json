@@ -2,41 +2,49 @@
   {
     "code": "1374011001",
     "district_code": "137401",
-    "name": "Ganting"
+    "name": "Ganting",
+    "postal_code": "27127"
   },
   {
     "code": "1374011002",
     "district_code": "137401",
-    "name": "Sigando"
+    "name": "Sigando",
+    "postal_code": "27126"
   },
   {
     "code": "1374011003",
     "district_code": "137401",
-    "name": "Ekor Lubuk"
+    "name": "Ekor Lubuk",
+    "postal_code": "27125"
   },
   {
     "code": "1374011004",
     "district_code": "137401",
-    "name": "Ngalau"
+    "name": "Ngalau",
+    "postal_code": "27124"
   },
   {
     "code": "1374011005",
     "district_code": "137401",
-    "name": "Guguk Malintang"
+    "name": "Guguk Malintang",
+    "postal_code": "27128"
   },
   {
     "code": "1374011006",
     "district_code": "137401",
-    "name": "Koto Panjang"
+    "name": "Koto Panjang",
+    "postal_code": "27122"
   },
   {
     "code": "1374011007",
     "district_code": "137401",
-    "name": "Koto Katik"
+    "name": "Koto Katik",
+    "postal_code": "27123"
   },
   {
     "code": "1374011008",
     "district_code": "137401",
-    "name": "Tanah Pak Lambik"
+    "name": "Tanah Pak Lambik",
+    "postal_code": "27121"
   }
 ]

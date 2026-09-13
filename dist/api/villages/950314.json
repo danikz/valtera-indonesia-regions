@@ -2,41 +2,49 @@
   {
     "code": "9503142001",
     "district_code": "950314",
-    "name": "Paima"
+    "name": "Paima",
+    "postal_code": "99703"
   },
   {
     "code": "9503142002",
     "district_code": "950314",
-    "name": "Dugumhad"
+    "name": "Dugumhad",
+    "postal_code": "99703"
   },
   {
     "code": "9503142003",
     "district_code": "950314",
-    "name": "Leleak"
+    "name": "Leleak",
+    "postal_code": "99703"
   },
   {
     "code": "9503142004",
     "district_code": "950314",
-    "name": "Subsal"
+    "name": "Subsal",
+    "postal_code": "99703"
   },
   {
     "code": "9503142005",
     "district_code": "950314",
-    "name": "Sengsenagaik"
+    "name": "Sengsenagaik",
+    "postal_code": "99703"
   },
   {
     "code": "9503142006",
     "district_code": "950314",
-    "name": "Sipnidipmu"
+    "name": "Sipnidipmu",
+    "postal_code": "99703"
   },
   {
     "code": "9503142007",
     "district_code": "950314",
-    "name": "Hogio I"
+    "name": "Hogio I",
+    "postal_code": "99703"
   },
   {
     "code": "9503142008",
     "district_code": "950314",
-    "name": "Hogio II"
+    "name": "Hogio II",
+    "postal_code": "99703"
   }
 ]

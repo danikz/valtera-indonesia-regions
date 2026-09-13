@@ -2,46 +2,55 @@
   {
     "code": "1404051004",
     "district_code": "140405",
-    "name": "Sungaisalak"
+    "name": "Sungaisalak",
+    "postal_code": "29262"
   },
   {
     "code": "1404051005",
     "district_code": "140405",
-    "name": "Tempuling Jaya"
+    "name": "Tempuling Jaya",
+    "postal_code": "29262"
   },
   {
     "code": "1404051016",
     "district_code": "140405",
-    "name": "Tanjungpidada"
+    "name": "Tanjungpidada",
+    "postal_code": "29262"
   },
   {
     "code": "1404051017",
     "district_code": "140405",
-    "name": "Pangkalan Tujuh"
+    "name": "Pangkalan Tujuh",
+    "postal_code": "29262"
   },
   {
     "code": "1404052002",
     "district_code": "140405",
-    "name": "Telukkiambang"
+    "name": "Telukkiambang",
+    "postal_code": "29262"
   },
   {
     "code": "1404052003",
     "district_code": "140405",
-    "name": "Mumpa"
+    "name": "Mumpa",
+    "postal_code": "29262"
   },
   {
     "code": "1404052007",
     "district_code": "140405",
-    "name": "Telukjira"
+    "name": "Telukjira",
+    "postal_code": "29262"
   },
   {
     "code": "1404052009",
     "district_code": "140405",
-    "name": "Karya Tunas Jaya"
+    "name": "Karya Tunas Jaya",
+    "postal_code": "29262"
   },
   {
     "code": "1404052011",
     "district_code": "140405",
-    "name": "Harapan Jaya"
+    "name": "Harapan Jaya",
+    "postal_code": "29262"
   }
 ]

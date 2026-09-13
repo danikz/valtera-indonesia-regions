@@ -2,26 +2,31 @@
   {
     "code": "9404072001",
     "district_code": "940407",
-    "name": "Ayuka"
+    "name": "Ayuka",
+    "postal_code": "99971"
   },
   {
     "code": "9404072002",
     "district_code": "940407",
-    "name": "Amamapare"
+    "name": "Amamapare",
+    "postal_code": "99971"
   },
   {
     "code": "9404072003",
     "district_code": "940407",
-    "name": "Ohotya"
+    "name": "Ohotya",
+    "postal_code": "99971"
   },
   {
     "code": "9404072004",
     "district_code": "940407",
-    "name": "Omawita"
+    "name": "Omawita",
+    "postal_code": "99971"
   },
   {
     "code": "9404072005",
     "district_code": "940407",
-    "name": "Fanamo"
+    "name": "Fanamo",
+    "postal_code": "99971"
   }
 ]

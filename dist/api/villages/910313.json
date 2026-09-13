@@ -2,36 +2,43 @@
   {
     "code": "9103132001",
     "district_code": "910313",
-    "name": "Donday"
+    "name": "Donday",
+    "postal_code": ""
   },
   {
     "code": "9103132002",
     "district_code": "910313",
-    "name": "Doyo Lama"
+    "name": "Doyo Lama",
+    "postal_code": "99368"
   },
   {
     "code": "9103132003",
     "district_code": "910313",
-    "name": "Kwadeware"
+    "name": "Kwadeware",
+    "postal_code": "99368"
   },
   {
     "code": "9103132004",
     "district_code": "910313",
-    "name": "Yakonde"
+    "name": "Yakonde",
+    "postal_code": "99368"
   },
   {
     "code": "9103132005",
     "district_code": "910313",
-    "name": "Sosiri"
+    "name": "Sosiri",
+    "postal_code": "99368"
   },
   {
     "code": "9103132006",
     "district_code": "910313",
-    "name": "Doyo Baru"
+    "name": "Doyo Baru",
+    "postal_code": "99368"
   },
   {
     "code": "9103132007",
     "district_code": "910313",
-    "name": "Bambar"
+    "name": "Bambar",
+    "postal_code": ""
   }
 ]

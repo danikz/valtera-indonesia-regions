@@ -2,31 +2,37 @@
   {
     "code": "7309121001",
     "district_code": "730912",
-    "name": "Allepolea"
+    "name": "Allepolea",
+    "postal_code": "90514"
   },
   {
     "code": "7309121002",
     "district_code": "730912",
-    "name": "Maccini Baji"
+    "name": "Maccini Baji",
+    "postal_code": "90513"
   },
   {
     "code": "7309121003",
     "district_code": "730912",
-    "name": "Soreang"
+    "name": "Soreang",
+    "postal_code": "90513"
   },
   {
     "code": "7309121004",
     "district_code": "730912",
-    "name": "Mattirodeceng"
+    "name": "Mattirodeceng",
+    "postal_code": "90513"
   },
   {
     "code": "7309122005",
     "district_code": "730912",
-    "name": "Marannu"
+    "name": "Marannu",
+    "postal_code": "90513"
   },
   {
     "code": "7309122006",
     "district_code": "730912",
-    "name": "Bonto Marrannu"
+    "name": "Bonto Marrannu",
+    "postal_code": "90513"
   }
 ]

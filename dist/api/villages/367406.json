@@ -2,41 +2,49 @@
   {
     "code": "3674061001",
     "district_code": "367406",
-    "name": "Pamulang Barat"
+    "name": "Pamulang Barat",
+    "postal_code": "15417"
   },
   {
     "code": "3674061002",
     "district_code": "367406",
-    "name": "Benda Baru"
+    "name": "Benda Baru",
+    "postal_code": "15418"
   },
   {
     "code": "3674061003",
     "district_code": "367406",
-    "name": "Pondok Benda"
+    "name": "Pondok Benda",
+    "postal_code": "15416"
   },
   {
     "code": "3674061004",
     "district_code": "367406",
-    "name": "Pondok Cabe Udik"
+    "name": "Pondok Cabe Udik",
+    "postal_code": "15418"
   },
   {
     "code": "3674061005",
     "district_code": "367406",
-    "name": "Pondok Cabe Ilir"
+    "name": "Pondok Cabe Ilir",
+    "postal_code": "15418"
   },
   {
     "code": "3674061006",
     "district_code": "367406",
-    "name": "Kedaung"
+    "name": "Kedaung",
+    "postal_code": "15415"
   },
   {
     "code": "3674061007",
     "district_code": "367406",
-    "name": "Bambuapus"
+    "name": "Bambuapus",
+    "postal_code": "15415"
   },
   {
     "code": "3674061008",
     "district_code": "367406",
-    "name": "Pamulang Timur"
+    "name": "Pamulang Timur",
+    "postal_code": "15417"
   }
 ]

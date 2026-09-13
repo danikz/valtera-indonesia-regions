@@ -2,41 +2,49 @@
   {
     "code": "5207062001",
     "district_code": "520706",
-    "name": "Senayan"
+    "name": "Senayan",
+    "postal_code": "84454"
   },
   {
     "code": "5207062002",
     "district_code": "520706",
-    "name": "Mantar"
+    "name": "Mantar",
+    "postal_code": "84454"
   },
   {
     "code": "5207062003",
     "district_code": "520706",
-    "name": "Kiantar"
+    "name": "Kiantar",
+    "postal_code": "84454"
   },
   {
     "code": "5207062004",
     "district_code": "520706",
-    "name": "Poto Tano"
+    "name": "Poto Tano",
+    "postal_code": "84454"
   },
   {
     "code": "5207062005",
     "district_code": "520706",
-    "name": "UPT Tambak Sari"
+    "name": "UPT Tambak Sari",
+    "postal_code": "84454"
   },
   {
     "code": "5207062006",
     "district_code": "520706",
-    "name": "Kokarlian"
+    "name": "Kokarlian",
+    "postal_code": "84454"
   },
   {
     "code": "5207062007",
     "district_code": "520706",
-    "name": "Tebo"
+    "name": "Tebo",
+    "postal_code": "84454"
   },
   {
     "code": "5207062008",
     "district_code": "520706",
-    "name": "Tuananga"
+    "name": "Tuananga",
+    "postal_code": "84454"
   }
 ]

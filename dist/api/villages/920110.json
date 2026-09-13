@@ -2,31 +2,37 @@
   {
     "code": "9201102001",
     "district_code": "920110",
-    "name": "Sayosa"
+    "name": "Sayosa",
+    "postal_code": ""
   },
   {
     "code": "9201102004",
     "district_code": "920110",
-    "name": "Maladofok"
+    "name": "Maladofok",
+    "postal_code": ""
   },
   {
     "code": "9201102006",
     "district_code": "920110",
-    "name": "Yorbes"
+    "name": "Yorbes",
+    "postal_code": ""
   },
   {
     "code": "9201102011",
     "district_code": "920110",
-    "name": "Samusa"
+    "name": "Samusa",
+    "postal_code": ""
   },
   {
     "code": "9201102012",
     "district_code": "920110",
-    "name": "Klamintu"
+    "name": "Klamintu",
+    "postal_code": ""
   },
   {
     "code": "9201102014",
     "district_code": "920110",
-    "name": "Klain"
+    "name": "Klain",
+    "postal_code": ""
   }
 ]

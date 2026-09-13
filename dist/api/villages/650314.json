@@ -2,61 +2,73 @@
   {
     "code": "6503142001",
     "district_code": "650314",
-    "name": "Sanur"
+    "name": "Sanur",
+    "postal_code": "77485"
   },
   {
     "code": "6503142002",
     "district_code": "650314",
-    "name": "Makmur"
+    "name": "Makmur",
+    "postal_code": "77485"
   },
   {
     "code": "6503142003",
     "district_code": "650314",
-    "name": "Semunad"
+    "name": "Semunad",
+    "postal_code": "77485"
   },
   {
     "code": "6503142004",
     "district_code": "650314",
-    "name": "Sekikilan"
+    "name": "Sekikilan",
+    "postal_code": "77485"
   },
   {
     "code": "6503142005",
     "district_code": "650314",
-    "name": "Kalunsayan"
+    "name": "Kalunsayan",
+    "postal_code": "77485"
   },
   {
     "code": "6503142006",
     "district_code": "650314",
-    "name": "Tembalang"
+    "name": "Tembalang",
+    "postal_code": "77485"
   },
   {
     "code": "6503142007",
     "district_code": "650314",
-    "name": "Salang"
+    "name": "Salang",
+    "postal_code": "77485"
   },
   {
     "code": "6503142008",
     "district_code": "650314",
-    "name": "Tinampak I"
+    "name": "Tinampak I",
+    "postal_code": "77485"
   },
   {
     "code": "6503142009",
     "district_code": "650314",
-    "name": "Tinampak II"
+    "name": "Tinampak II",
+    "postal_code": "77485"
   },
   {
     "code": "6503142010",
     "district_code": "650314",
-    "name": "Naputi"
+    "name": "Naputi",
+    "postal_code": "77485"
   },
   {
     "code": "6503142011",
     "district_code": "650314",
-    "name": "Tau Baru"
+    "name": "Tau Baru",
+    "postal_code": "77485"
   },
   {
     "code": "6503142012",
     "district_code": "650314",
-    "name": "Balatikon"
+    "name": "Balatikon",
+    "postal_code": "77485"
   }
 ]

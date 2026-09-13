@@ -2,26 +2,31 @@
   {
     "code": "8172042001",
     "district_code": "817204",
-    "name": "Tubyal"
+    "name": "Tubyal",
+    "postal_code": "97615"
   },
   {
     "code": "8172042002",
     "district_code": "817204",
-    "name": "Kaimear"
+    "name": "Kaimear",
+    "postal_code": "97615"
   },
   {
     "code": "8172042004",
     "district_code": "817204",
-    "name": "Lokwirin"
+    "name": "Lokwirin",
+    "postal_code": "97615"
   },
   {
     "code": "8172042005",
     "district_code": "817204",
-    "name": "Finualen"
+    "name": "Finualen",
+    "postal_code": "97615"
   },
   {
     "code": "8172042012",
     "district_code": "817204",
-    "name": "Sermaf"
+    "name": "Sermaf",
+    "postal_code": "97615"
   }
 ]

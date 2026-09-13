@@ -2,36 +2,43 @@
   {
     "code": "3202422001",
     "district_code": "320242",
-    "name": "Curugkembar"
+    "name": "Curugkembar",
+    "postal_code": "43182"
   },
   {
     "code": "3202422002",
     "district_code": "320242",
-    "name": "Cimenteng"
+    "name": "Cimenteng",
+    "postal_code": "43182"
   },
   {
     "code": "3202422003",
     "district_code": "320242",
-    "name": "Tanjungsari"
+    "name": "Tanjungsari",
+    "postal_code": "43182"
   },
   {
     "code": "3202422004",
     "district_code": "320242",
-    "name": "Sindangraja"
+    "name": "Sindangraja",
+    "postal_code": "43182"
   },
   {
     "code": "3202422005",
     "district_code": "320242",
-    "name": "Mekartanjung"
+    "name": "Mekartanjung",
+    "postal_code": "43182"
   },
   {
     "code": "3202422006",
     "district_code": "320242",
-    "name": "Nagrakjaya"
+    "name": "Nagrakjaya",
+    "postal_code": "43182"
   },
   {
     "code": "3202422007",
     "district_code": "320242",
-    "name": "Bojong Tugu"
+    "name": "Bojong Tugu",
+    "postal_code": "43182"
   }
 ]

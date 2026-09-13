@@ -2,51 +2,61 @@
   {
     "code": "5272051001",
     "district_code": "527205",
-    "name": "Monggonao"
+    "name": "Monggonao",
+    "postal_code": "84111"
   },
   {
     "code": "5272051002",
     "district_code": "527205",
-    "name": "Sadia"
+    "name": "Sadia",
+    "postal_code": "84112"
   },
   {
     "code": "5272051003",
     "district_code": "527205",
-    "name": "Santi"
+    "name": "Santi",
+    "postal_code": "84119"
   },
   {
     "code": "5272051004",
     "district_code": "527205",
-    "name": "Sambinae"
+    "name": "Sambinae",
+    "postal_code": "84119"
   },
   {
     "code": "5272051005",
     "district_code": "527205",
-    "name": "Penatoi"
+    "name": "Penatoi",
+    "postal_code": "84115"
   },
   {
     "code": "5272051006",
     "district_code": "527205",
-    "name": "Lewirato"
+    "name": "Lewirato",
+    "postal_code": "84119"
   },
   {
     "code": "5272051007",
     "district_code": "527205",
-    "name": "Mande"
+    "name": "Mande",
+    "postal_code": "84119"
   },
   {
     "code": "5272051008",
     "district_code": "527205",
-    "name": "Panggi"
+    "name": "Panggi",
+    "postal_code": "84119"
   },
   {
     "code": "5272051009",
     "district_code": "527205",
-    "name": "Manggemaci"
+    "name": "Manggemaci",
+    "postal_code": "84119"
   },
   {
     "code": "5272051010",
     "district_code": "527205",
-    "name": "Matakando"
+    "name": "Matakando",
+    "postal_code": "84119"
   }
 ]

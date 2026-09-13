@@ -2,26 +2,31 @@
   {
     "code": "6102082001",
     "district_code": "610208",
-    "name": "Wajok Hilir"
+    "name": "Wajok Hilir",
+    "postal_code": "78352"
   },
   {
     "code": "6102082002",
     "district_code": "610208",
-    "name": "Sungai Nipah"
+    "name": "Sungai Nipah",
+    "postal_code": "78352"
   },
   {
     "code": "6102082006",
     "district_code": "610208",
-    "name": "Peniti Luar"
+    "name": "Peniti Luar",
+    "postal_code": "78352"
   },
   {
     "code": "6102082009",
     "district_code": "610208",
-    "name": "Wajok Hulu"
+    "name": "Wajok Hulu",
+    "postal_code": "78352"
   },
   {
     "code": "6102082010",
     "district_code": "610208",
-    "name": "Jungkat"
+    "name": "Jungkat",
+    "postal_code": "78352"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "3324102001",
     "district_code": "332410",
-    "name": "Margomulyo"
+    "name": "Margomulyo",
+    "postal_code": "51358"
   },
   {
     "code": "3324102002",
     "district_code": "332410",
-    "name": "Tegorejo"
+    "name": "Tegorejo",
+    "postal_code": "51358"
   },
   {
     "code": "3324102003",
     "district_code": "332410",
-    "name": "Pesawahan"
+    "name": "Pesawahan",
+    "postal_code": "51358"
   },
   {
     "code": "3324102004",
     "district_code": "332410",
-    "name": "Pekuncen"
+    "name": "Pekuncen",
+    "postal_code": "51358"
   },
   {
     "code": "3324102005",
     "district_code": "332410",
-    "name": "Puguh"
+    "name": "Puguh",
+    "postal_code": "51358"
   },
   {
     "code": "3324102006",
     "district_code": "332410",
-    "name": "Dawungsari"
+    "name": "Dawungsari",
+    "postal_code": "51358"
   },
   {
     "code": "3324102007",
     "district_code": "332410",
-    "name": "Pucangrejo"
+    "name": "Pucangrejo",
+    "postal_code": "51358"
   },
   {
     "code": "3324102008",
     "district_code": "332410",
-    "name": "Gubugsari"
+    "name": "Gubugsari",
+    "postal_code": "51358"
   },
   {
     "code": "3324102009",
     "district_code": "332410",
-    "name": "Pegandon"
+    "name": "Pegandon",
+    "postal_code": "51358"
   },
   {
     "code": "3324102010",
     "district_code": "332410",
-    "name": "Penanggulan"
+    "name": "Penanggulan",
+    "postal_code": "51358"
   },
   {
     "code": "3324102011",
     "district_code": "332410",
-    "name": "Wonosari"
+    "name": "Wonosari",
+    "postal_code": "51358"
   },
   {
     "code": "3324102012",
     "district_code": "332410",
-    "name": "Karangmulyo"
+    "name": "Karangmulyo",
+    "postal_code": "51358"
   }
 ]

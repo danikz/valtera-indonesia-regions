@@ -2,31 +2,37 @@
   {
     "code": "1502102001",
     "district_code": "150210",
-    "name": "Pulau Rengas"
+    "name": "Pulau Rengas",
+    "postal_code": "37315"
   },
   {
     "code": "1502102002",
     "district_code": "150210",
-    "name": "Biuku Tanjung"
+    "name": "Biuku Tanjung",
+    "postal_code": "37315"
   },
   {
     "code": "1502102003",
     "district_code": "150210",
-    "name": "Bedeng Rejo"
+    "name": "Bedeng Rejo",
+    "postal_code": "37315"
   },
   {
     "code": "1502102004",
     "district_code": "150210",
-    "name": "Sungai Putih"
+    "name": "Sungai Putih",
+    "postal_code": "37315"
   },
   {
     "code": "1502102005",
     "district_code": "150210",
-    "name": "Bukit Beringin"
+    "name": "Bukit Beringin",
+    "postal_code": "37315"
   },
   {
     "code": "1502102006",
     "district_code": "150210",
-    "name": "Pulau Rengas Ulu"
+    "name": "Pulau Rengas Ulu",
+    "postal_code": "37315"
   }
 ]

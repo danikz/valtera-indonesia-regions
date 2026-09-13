@@ -2,36 +2,43 @@
   {
     "code": "7171111001",
     "district_code": "717111",
-    "name": "Ranomuut"
+    "name": "Ranomuut",
+    "postal_code": "95128"
   },
   {
     "code": "7171111002",
     "district_code": "717111",
-    "name": "Kairagi Weru"
+    "name": "Kairagi Weru",
+    "postal_code": "95129"
   },
   {
     "code": "7171111003",
     "district_code": "717111",
-    "name": "Paal Dua"
+    "name": "Paal Dua",
+    "postal_code": "95129"
   },
   {
     "code": "7171111004",
     "district_code": "717111",
-    "name": "Perkamil"
+    "name": "Perkamil",
+    "postal_code": "95129"
   },
   {
     "code": "7171111005",
     "district_code": "717111",
-    "name": "Malendeng"
+    "name": "Malendeng",
+    "postal_code": "95129"
   },
   {
     "code": "7171111006",
     "district_code": "717111",
-    "name": "Dendengan Dalam"
+    "name": "Dendengan Dalam",
+    "postal_code": "95127"
   },
   {
     "code": "7171111007",
     "district_code": "717111",
-    "name": "Dendengan Luar"
+    "name": "Dendengan Luar",
+    "postal_code": "95127"
   }
 ]

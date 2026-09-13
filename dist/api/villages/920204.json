@@ -2,81 +2,97 @@
   {
     "code": "9202042001",
     "district_code": "920204",
-    "name": "Prafi Mulya"
+    "name": "Prafi Mulya",
+    "postal_code": "98316"
   },
   {
     "code": "9202042002",
     "district_code": "920204",
-    "name": "Umbuy"
+    "name": "Umbuy",
+    "postal_code": "98316"
   },
   {
     "code": "9202042003",
     "district_code": "920204",
-    "name": "Desay"
+    "name": "Desay",
+    "postal_code": "98316"
   },
   {
     "code": "9202042004",
     "district_code": "920204",
-    "name": "Aimasi"
+    "name": "Aimasi",
+    "postal_code": ""
   },
   {
     "code": "9202042005",
     "district_code": "920204",
-    "name": "Udapi Hilir"
+    "name": "Udapi Hilir",
+    "postal_code": ""
   },
   {
     "code": "9202042006",
     "district_code": "920204",
-    "name": "Waseki Pop"
+    "name": "Waseki Pop",
+    "postal_code": ""
   },
   {
     "code": "9202042007",
     "district_code": "920204",
-    "name": "Wasegi Indah"
+    "name": "Wasegi Indah",
+    "postal_code": ""
   },
   {
     "code": "9202042008",
     "district_code": "920204",
-    "name": "Ingkwoisi"
+    "name": "Ingkwoisi",
+    "postal_code": "98316"
   },
   {
     "code": "9202042009",
     "district_code": "920204",
-    "name": "Bogor"
+    "name": "Bogor",
+    "postal_code": ""
   },
   {
     "code": "9202042010",
     "district_code": "920204",
-    "name": "Somi"
+    "name": "Somi",
+    "postal_code": "98316"
   },
   {
     "code": "9202042011",
     "district_code": "920204",
-    "name": "Bedip Matoa"
+    "name": "Bedip Matoa",
+    "postal_code": ""
   },
   {
     "code": "9202042012",
     "district_code": "920204",
-    "name": "Kali Amin"
+    "name": "Kali Amin",
+    "postal_code": ""
   },
   {
     "code": "9202042013",
     "district_code": "920204",
-    "name": "Lismaungu"
+    "name": "Lismaungu",
+    "postal_code": ""
   },
   {
     "code": "9202042014",
     "district_code": "920204",
-    "name": "Uhyehebrig"
+    "name": "Uhyehebrig",
+    "postal_code": ""
   },
   {
     "code": "9202042015",
     "district_code": "920204",
-    "name": "Kerenu"
+    "name": "Kerenu",
+    "postal_code": ""
   },
   {
     "code": "9202042016",
     "district_code": "920204",
-    "name": "Mebji"
+    "name": "Mebji",
+    "postal_code": "98316"
   }
 ]

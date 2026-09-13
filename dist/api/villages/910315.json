@@ -2,46 +2,55 @@
   {
     "code": "9103152001",
     "district_code": "910315",
-    "name": "Tabbeyan"
+    "name": "Tabbeyan",
+    "postal_code": "99365"
   },
   {
     "code": "9103152002",
     "district_code": "910315",
-    "name": "Kwarja"
+    "name": "Kwarja",
+    "postal_code": "99365"
   },
   {
     "code": "9103152003",
     "district_code": "910315",
-    "name": "Ongan Jaya"
+    "name": "Ongan Jaya",
+    "postal_code": "99365"
   },
   {
     "code": "9103152004",
     "district_code": "910315",
-    "name": "Bumi Sahaja"
+    "name": "Bumi Sahaja",
+    "postal_code": "99365"
   },
   {
     "code": "9103152005",
     "district_code": "910315",
-    "name": "Nawa Mulya"
+    "name": "Nawa Mulya",
+    "postal_code": "99365"
   },
   {
     "code": "9103152006",
     "district_code": "910315",
-    "name": "Nawa Mukti"
+    "name": "Nawa Mukti",
+    "postal_code": "99365"
   },
   {
     "code": "9103152007",
     "district_code": "910315",
-    "name": "Taqwa Bangun"
+    "name": "Taqwa Bangun",
+    "postal_code": "99365"
   },
   {
     "code": "9103152008",
     "district_code": "910315",
-    "name": "Purnama Jati"
+    "name": "Purnama Jati",
+    "postal_code": "99365"
   },
   {
     "code": "9103152009",
     "district_code": "910315",
-    "name": "Bundru"
+    "name": "Bundru",
+    "postal_code": ""
   }
 ]

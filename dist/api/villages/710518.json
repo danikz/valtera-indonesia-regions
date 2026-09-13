@@ -2,51 +2,61 @@
   {
     "code": "7105181002",
     "district_code": "710518",
-    "name": "Pondang"
+    "name": "Pondang",
+    "postal_code": "95954"
   },
   {
     "code": "7105181003",
     "district_code": "710518",
-    "name": "Ranomea"
+    "name": "Ranomea",
+    "postal_code": "95954"
   },
   {
     "code": "7105182001",
     "district_code": "710518",
-    "name": "Lopana"
+    "name": "Lopana",
+    "postal_code": "95954"
   },
   {
     "code": "7105182004",
     "district_code": "710518",
-    "name": "Pinaling"
+    "name": "Pinaling",
+    "postal_code": "95954"
   },
   {
     "code": "7105182005",
     "district_code": "710518",
-    "name": "Kota Menara"
+    "name": "Kota Menara",
+    "postal_code": "95954"
   },
   {
     "code": "7105182006",
     "district_code": "710518",
-    "name": "Maliku"
+    "name": "Maliku",
+    "postal_code": "95954"
   },
   {
     "code": "7105182007",
     "district_code": "710518",
-    "name": "Ritey"
+    "name": "Ritey",
+    "postal_code": "95954"
   },
   {
     "code": "7105182008",
     "district_code": "710518",
-    "name": "Malenos Baru"
+    "name": "Malenos Baru",
+    "postal_code": "95954"
   },
   {
     "code": "7105182009",
     "district_code": "710518",
-    "name": "Maliku Satu"
+    "name": "Maliku Satu",
+    "postal_code": "95954"
   },
   {
     "code": "7105182010",
     "district_code": "710518",
-    "name": "Lopana Satu"
+    "name": "Lopana Satu",
+    "postal_code": "95954"
   }
 ]

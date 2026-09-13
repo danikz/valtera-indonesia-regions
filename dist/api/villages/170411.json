@@ -2,36 +2,43 @@
   {
     "code": "1704112001",
     "district_code": "170411",
-    "name": "Muara Sahung"
+    "name": "Muara Sahung",
+    "postal_code": "38966"
   },
   {
     "code": "1704112002",
     "district_code": "170411",
-    "name": "Tri Tunggal Bakti"
+    "name": "Tri Tunggal Bakti",
+    "postal_code": "38966"
   },
   {
     "code": "1704112003",
     "district_code": "170411",
-    "name": "Ulak Lebar"
+    "name": "Ulak Lebar",
+    "postal_code": "38966"
   },
   {
     "code": "1704112004",
     "district_code": "170411",
-    "name": "Sumber Makmur"
+    "name": "Sumber Makmur",
+    "postal_code": "38966"
   },
   {
     "code": "1704112005",
     "district_code": "170411",
-    "name": "Ulak Bandung"
+    "name": "Ulak Bandung",
+    "postal_code": "38966"
   },
   {
     "code": "1704112006",
     "district_code": "170411",
-    "name": "Cinta Makmur"
+    "name": "Cinta Makmur",
+    "postal_code": "38966"
   },
   {
     "code": "1704112007",
     "district_code": "170411",
-    "name": "Bukit Makmur"
+    "name": "Bukit Makmur",
+    "postal_code": "38966"
   }
 ]

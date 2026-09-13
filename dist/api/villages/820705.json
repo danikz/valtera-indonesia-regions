@@ -2,76 +2,91 @@
   {
     "code": "8207052001",
     "district_code": "820705",
-    "name": "Buho-Buho"
+    "name": "Buho-Buho",
+    "postal_code": "97772"
   },
   {
     "code": "8207052002",
     "district_code": "820705",
-    "name": "Wewemo"
+    "name": "Wewemo",
+    "postal_code": "97772"
   },
   {
     "code": "8207052003",
     "district_code": "820705",
-    "name": "Mira"
+    "name": "Mira",
+    "postal_code": "97772"
   },
   {
     "code": "8207052004",
     "district_code": "820705",
-    "name": "Lifao"
+    "name": "Lifao",
+    "postal_code": "97772"
   },
   {
     "code": "8207052005",
     "district_code": "820705",
-    "name": "Rahmat"
+    "name": "Rahmat",
+    "postal_code": "97772"
   },
   {
     "code": "8207052006",
     "district_code": "820705",
-    "name": "Sambiki Tua"
+    "name": "Sambiki Tua",
+    "postal_code": "97771"
   },
   {
     "code": "8207052007",
     "district_code": "820705",
-    "name": "Sangowo"
+    "name": "Sangowo",
+    "postal_code": "97771"
   },
   {
     "code": "8207052008",
     "district_code": "820705",
-    "name": "Sambiki Baru"
+    "name": "Sambiki Baru",
+    "postal_code": "97771"
   },
   {
     "code": "8207052009",
     "district_code": "820705",
-    "name": "Sangowo Barat"
+    "name": "Sangowo Barat",
+    "postal_code": "97771"
   },
   {
     "code": "8207052010",
     "district_code": "820705",
-    "name": "Sangowo Timur"
+    "name": "Sangowo Timur",
+    "postal_code": "97771"
   },
   {
     "code": "8207052011",
     "district_code": "820705",
-    "name": "Seseli Jaya"
+    "name": "Seseli Jaya",
+    "postal_code": "97773"
   },
   {
     "code": "8207052012",
     "district_code": "820705",
-    "name": "Hino"
+    "name": "Hino",
+    "postal_code": "97774"
   },
   {
     "code": "8207052013",
     "district_code": "820705",
-    "name": "Gosoma Maluku"
+    "name": "Gosoma Maluku",
+    "postal_code": "97775"
   },
   {
     "code": "8207052014",
     "district_code": "820705",
-    "name": "Gamlamo"
+    "name": "Gamlamo",
+    "postal_code": "97776"
   },
   {
     "code": "8207052015",
     "district_code": "820705",
-    "name": "Doku Mira"
+    "name": "Doku Mira",
+    "postal_code": "97777"
   }
 ]

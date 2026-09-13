@@ -2,26 +2,31 @@
   {
     "code": "3273071001",
     "district_code": "327307",
-    "name": "Pasteur"
+    "name": "Pasteur",
+    "postal_code": "40161"
   },
   {
     "code": "3273071002",
     "district_code": "327307",
-    "name": "Cipedes"
+    "name": "Cipedes",
+    "postal_code": "40162"
   },
   {
     "code": "3273071003",
     "district_code": "327307",
-    "name": "Sukawarna"
+    "name": "Sukawarna",
+    "postal_code": "40164"
   },
   {
     "code": "3273071004",
     "district_code": "327307",
-    "name": "Sukagalih"
+    "name": "Sukagalih",
+    "postal_code": "40163"
   },
   {
     "code": "3273071005",
     "district_code": "327307",
-    "name": "Sukabungah"
+    "name": "Sukabungah",
+    "postal_code": "40162"
   }
 ]

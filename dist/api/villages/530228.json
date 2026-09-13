@@ -2,36 +2,43 @@
   {
     "code": "5302282001",
     "district_code": "530228",
-    "name": "Sillu"
+    "name": "Sillu",
+    "postal_code": "85582"
   },
   {
     "code": "5302282002",
     "district_code": "530228",
-    "name": "Nunukhniti"
+    "name": "Nunukhniti",
+    "postal_code": "85582"
   },
   {
     "code": "5302282003",
     "district_code": "530228",
-    "name": "Kaeneno"
+    "name": "Kaeneno",
+    "postal_code": "85582"
   },
   {
     "code": "5302282004",
     "district_code": "530228",
-    "name": "Oeleon"
+    "name": "Oeleon",
+    "postal_code": "85582"
   },
   {
     "code": "5302282005",
     "district_code": "530228",
-    "name": "Tunis"
+    "name": "Tunis",
+    "postal_code": "85582"
   },
   {
     "code": "5302282006",
     "district_code": "530228",
-    "name": "Bileon"
+    "name": "Bileon",
+    "postal_code": "85582"
   },
   {
     "code": "5302282007",
     "district_code": "530228",
-    "name": "Besle'u"
+    "name": "Besle'u",
+    "postal_code": "85582"
   }
 ]

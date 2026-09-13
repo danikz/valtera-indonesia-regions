@@ -2,46 +2,55 @@
   {
     "code": "7314041001",
     "district_code": "731404",
-    "name": "Baranti"
+    "name": "Baranti",
+    "postal_code": "91652"
   },
   {
     "code": "7314041002",
     "district_code": "731404",
-    "name": "Duampanua"
+    "name": "Duampanua",
+    "postal_code": "91652"
   },
   {
     "code": "7314041003",
     "district_code": "731404",
-    "name": "Benteng"
+    "name": "Benteng",
+    "postal_code": "91652"
   },
   {
     "code": "7314041004",
     "district_code": "731404",
-    "name": "Manisa"
+    "name": "Manisa",
+    "postal_code": "91652"
   },
   {
     "code": "7314041005",
     "district_code": "731404",
-    "name": "Panreng"
+    "name": "Panreng",
+    "postal_code": "91652"
   },
   {
     "code": "7314042006",
     "district_code": "731404",
-    "name": "Passeno"
+    "name": "Passeno",
+    "postal_code": "91652"
   },
   {
     "code": "7314042007",
     "district_code": "731404",
-    "name": "Sipodeceng"
+    "name": "Sipodeceng",
+    "postal_code": "91652"
   },
   {
     "code": "7314042008",
     "district_code": "731404",
-    "name": "Tonrongnge"
+    "name": "Tonrongnge",
+    "postal_code": "91652"
   },
   {
     "code": "7314042009",
     "district_code": "731404",
-    "name": "Tonrong Rijang"
+    "name": "Tonrong Rijang",
+    "postal_code": "91653"
   }
 ]

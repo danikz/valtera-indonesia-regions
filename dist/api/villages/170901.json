@@ -2,66 +2,79 @@
   {
     "code": "1709012001",
     "district_code": "170901",
-    "name": "Taba Terunjam"
+    "name": "Taba Terunjam",
+    "postal_code": "38382"
   },
   {
     "code": "1709012002",
     "district_code": "170901",
-    "name": "Talang Empat"
+    "name": "Talang Empat",
+    "postal_code": "38382"
   },
   {
     "code": "1709012003",
     "district_code": "170901",
-    "name": "Padang Tambak"
+    "name": "Padang Tambak",
+    "postal_code": "38382"
   },
   {
     "code": "1709012004",
     "district_code": "170901",
-    "name": "Durian Demang"
+    "name": "Durian Demang",
+    "postal_code": "38382"
   },
   {
     "code": "1709012005",
     "district_code": "170901",
-    "name": "Pelajau"
+    "name": "Pelajau",
+    "postal_code": "38382"
   },
   {
     "code": "1709012007",
     "district_code": "170901",
-    "name": "Dusun Baru II"
+    "name": "Dusun Baru II",
+    "postal_code": "38382"
   },
   {
     "code": "1709012008",
     "district_code": "170901",
-    "name": "Penanding"
+    "name": "Penanding",
+    "postal_code": "38382"
   },
   {
     "code": "1709012009",
     "district_code": "170901",
-    "name": "Karang Tinggi"
+    "name": "Karang Tinggi",
+    "postal_code": "38382"
   },
   {
     "code": "1709012010",
     "district_code": "170901",
-    "name": "Renah Lebar"
+    "name": "Renah Lebar",
+    "postal_code": "38382"
   },
   {
     "code": "1709012011",
     "district_code": "170901",
-    "name": "Kancing"
+    "name": "Kancing",
+    "postal_code": "38382"
   },
   {
     "code": "1709012012",
     "district_code": "170901",
-    "name": "Ujung Karang"
+    "name": "Ujung Karang",
+    "postal_code": "38382"
   },
   {
     "code": "1709012013",
     "district_code": "170901",
-    "name": "Taba Mutung"
+    "name": "Taba Mutung",
+    "postal_code": "38382"
   },
   {
     "code": "1709012015",
     "district_code": "170901",
-    "name": "Renah Semanek"
+    "name": "Renah Semanek",
+    "postal_code": "38382"
   }
 ]

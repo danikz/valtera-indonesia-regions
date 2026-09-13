@@ -2,31 +2,37 @@
   {
     "code": "8108062001",
     "district_code": "810806",
-    "name": "Ilwaki"
+    "name": "Ilwaki",
+    "postal_code": "97446"
   },
   {
     "code": "8108062002",
     "district_code": "810806",
-    "name": "Ilputih"
+    "name": "Ilputih",
+    "postal_code": "97446"
   },
   {
     "code": "8108062003",
     "district_code": "810806",
-    "name": "Mahuan"
+    "name": "Mahuan",
+    "postal_code": "97446"
   },
   {
     "code": "8108062004",
     "district_code": "810806",
-    "name": "Masapun"
+    "name": "Masapun",
+    "postal_code": "97446"
   },
   {
     "code": "8108062021",
     "district_code": "810806",
-    "name": "Amau"
+    "name": "Amau",
+    "postal_code": "97446"
   },
   {
     "code": "8108062023",
     "district_code": "810806",
-    "name": "Hiay"
+    "name": "Hiay",
+    "postal_code": "97446"
   }
 ]

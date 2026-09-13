@@ -2,31 +2,37 @@
   {
     "code": "1271171001",
     "district_code": "127117",
-    "name": "Petisah Hulu"
+    "name": "Petisah Hulu",
+    "postal_code": "20153"
   },
   {
     "code": "1271171002",
     "district_code": "127117",
-    "name": "Babura"
+    "name": "Babura",
+    "postal_code": "20154"
   },
   {
     "code": "1271171003",
     "district_code": "127117",
-    "name": "Merdeka"
+    "name": "Merdeka",
+    "postal_code": "20154"
   },
   {
     "code": "1271171004",
     "district_code": "127117",
-    "name": "Darat"
+    "name": "Darat",
+    "postal_code": "20153"
   },
   {
     "code": "1271171005",
     "district_code": "127117",
-    "name": "Padang Bulan"
+    "name": "Padang Bulan",
+    "postal_code": "20155"
   },
   {
     "code": "1271171006",
     "district_code": "127117",
-    "name": "Titi Rante"
+    "name": "Titi Rante",
+    "postal_code": "20156"
   }
 ]

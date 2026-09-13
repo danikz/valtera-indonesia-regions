@@ -2,16 +2,19 @@
   {
     "code": "1309062001",
     "district_code": "130906",
-    "name": "Katurei"
+    "name": "Katurei",
+    "postal_code": "25393"
   },
   {
     "code": "1309062002",
     "district_code": "130906",
-    "name": "Sagulubbeg"
+    "name": "Sagulubbeg",
+    "postal_code": "25393"
   },
   {
     "code": "1309062003",
     "district_code": "130906",
-    "name": "Pasakiat Taileleu"
+    "name": "Pasakiat Taileleu",
+    "postal_code": "25393"
   }
 ]

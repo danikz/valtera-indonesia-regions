@@ -2,41 +2,49 @@
   {
     "code": "1609182001",
     "district_code": "160918",
-    "name": "Peninggiran"
+    "name": "Peninggiran",
+    "postal_code": "32262"
   },
   {
     "code": "1609182002",
     "district_code": "160918",
-    "name": "Kuripan"
+    "name": "Kuripan",
+    "postal_code": "32262"
   },
   {
     "code": "1609182003",
     "district_code": "160918",
-    "name": "Surabaya"
+    "name": "Surabaya",
+    "postal_code": "32262"
   },
   {
     "code": "1609182004",
     "district_code": "160918",
-    "name": "Sukarena"
+    "name": "Sukarena",
+    "postal_code": "32262"
   },
   {
     "code": "1609182005",
     "district_code": "160918",
-    "name": "Karang Pendeta"
+    "name": "Karang Pendeta",
+    "postal_code": "32262"
   },
   {
     "code": "1609182006",
     "district_code": "160918",
-    "name": "Kota Agung"
+    "name": "Kota Agung",
+    "postal_code": "32262"
   },
   {
     "code": "1609182007",
     "district_code": "160918",
-    "name": "Sukabumi"
+    "name": "Sukabumi",
+    "postal_code": "32262"
   },
   {
     "code": "1609182008",
     "district_code": "160918",
-    "name": "Kuripan II"
+    "name": "Kuripan II",
+    "postal_code": "32262"
   }
 ]

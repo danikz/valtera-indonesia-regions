@@ -2,26 +2,31 @@
   {
     "code": "1571101001",
     "district_code": "157110",
-    "name": "Sungai Putri"
+    "name": "Sungai Putri",
+    "postal_code": "36122"
   },
   {
     "code": "1571101002",
     "district_code": "157110",
-    "name": "Murni"
+    "name": "Murni",
+    "postal_code": "36121"
   },
   {
     "code": "1571101003",
     "district_code": "157110",
-    "name": "Legok"
+    "name": "Legok",
+    "postal_code": "36121"
   },
   {
     "code": "1571101004",
     "district_code": "157110",
-    "name": "Selamat"
+    "name": "Selamat",
+    "postal_code": "36129"
   },
   {
     "code": "1571101005",
     "district_code": "157110",
-    "name": "Solok Sipin"
+    "name": "Solok Sipin",
+    "postal_code": "36121"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "3579011001",
     "district_code": "357901",
-    "name": "Temas"
+    "name": "Temas",
+    "postal_code": "65315"
   },
   {
     "code": "3579011002",
     "district_code": "357901",
-    "name": "Ngaglik"
+    "name": "Ngaglik",
+    "postal_code": "65311"
   },
   {
     "code": "3579011003",
     "district_code": "357901",
-    "name": "Songgokerto"
+    "name": "Songgokerto",
+    "postal_code": "65312"
   },
   {
     "code": "3579011004",
     "district_code": "357901",
-    "name": "Sisir"
+    "name": "Sisir",
+    "postal_code": "65314"
   },
   {
     "code": "3579012005",
     "district_code": "357901",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "65318"
   },
   {
     "code": "3579012006",
     "district_code": "357901",
-    "name": "Oro-oro Ombo"
+    "name": "Oro-oro Ombo",
+    "postal_code": "65316"
   },
   {
     "code": "3579012007",
     "district_code": "357901",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "65317"
   },
   {
     "code": "3579012008",
     "district_code": "357901",
-    "name": "Pesanggrahan"
+    "name": "Pesanggrahan",
+    "postal_code": "65313"
   }
 ]

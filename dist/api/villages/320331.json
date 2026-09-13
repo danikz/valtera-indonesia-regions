@@ -2,41 +2,49 @@
   {
     "code": "3203312001",
     "district_code": "320331",
-    "name": "Haurwangi"
+    "name": "Haurwangi",
+    "postal_code": "43280"
   },
   {
     "code": "3203312002",
     "district_code": "320331",
-    "name": "Cihea"
+    "name": "Cihea",
+    "postal_code": "43280"
   },
   {
     "code": "3203312003",
     "district_code": "320331",
-    "name": "Ramasari"
+    "name": "Ramasari",
+    "postal_code": "43280"
   },
   {
     "code": "3203312004",
     "district_code": "320331",
-    "name": "Mekarwangi/Sukatani"
+    "name": "Mekarwangi/Sukatani",
+    "postal_code": "43280"
   },
   {
     "code": "3203312005",
     "district_code": "320331",
-    "name": "Mekarwangi"
+    "name": "Mekarwangi",
+    "postal_code": "43280"
   },
   {
     "code": "3203312006",
     "district_code": "320331",
-    "name": "Kertasari"
+    "name": "Kertasari",
+    "postal_code": "43280"
   },
   {
     "code": "3203312007",
     "district_code": "320331",
-    "name": "Cipeuyeum"
+    "name": "Cipeuyeum",
+    "postal_code": "43280"
   },
   {
     "code": "3203312008",
     "district_code": "320331",
-    "name": "Kertamukti"
+    "name": "Kertamukti",
+    "postal_code": "43280"
   }
 ]

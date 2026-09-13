@@ -2,46 +2,55 @@
   {
     "code": "1376031001",
     "district_code": "137603",
-    "name": "Balai Jaring"
+    "name": "Balai Jaring",
+    "postal_code": "26235"
   },
   {
     "code": "1376031002",
     "district_code": "137603",
-    "name": "Padang Alai Bodi"
+    "name": "Padang Alai Bodi",
+    "postal_code": "26236"
   },
   {
     "code": "1376031003",
     "district_code": "137603",
-    "name": "Padang Tangah Payobadar"
+    "name": "Padang Tangah Payobadar",
+    "postal_code": "26231"
   },
   {
     "code": "1376031005",
     "district_code": "137603",
-    "name": "Sicincin"
+    "name": "Sicincin",
+    "postal_code": "26233"
   },
   {
     "code": "1376031007",
     "district_code": "137603",
-    "name": "Padang Tiakar"
+    "name": "Padang Tiakar",
+    "postal_code": "26232"
   },
   {
     "code": "1376031009",
     "district_code": "137603",
-    "name": "Payobasung"
+    "name": "Payobasung",
+    "postal_code": "26237"
   },
   {
     "code": "1376031010",
     "district_code": "137603",
-    "name": "Koto Panjang"
+    "name": "Koto Panjang",
+    "postal_code": "26237"
   },
   {
     "code": "1376031011",
     "district_code": "137603",
-    "name": "Koto Baru"
+    "name": "Koto Baru",
+    "postal_code": "26237"
   },
   {
     "code": "1376031015",
     "district_code": "137603",
-    "name": "Tiakar"
+    "name": "Tiakar",
+    "postal_code": "26231"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "1171022001",
     "district_code": "117102",
-    "name": "Mulia"
+    "name": "Mulia",
+    "postal_code": "23123"
   },
   {
     "code": "1171022002",
     "district_code": "117102",
-    "name": "Peunayong"
+    "name": "Peunayong",
+    "postal_code": "23122"
   },
   {
     "code": "1171022003",
     "district_code": "117102",
-    "name": "Laksana"
+    "name": "Laksana",
+    "postal_code": "23122"
   },
   {
     "code": "1171022004",
     "district_code": "117102",
-    "name": "Keuramat"
+    "name": "Keuramat",
+    "postal_code": "23126"
   },
   {
     "code": "1171022005",
     "district_code": "117102",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "23125"
   },
   {
     "code": "1171022006",
     "district_code": "117102",
-    "name": "Beurawe"
+    "name": "Beurawe",
+    "postal_code": "23124"
   },
   {
     "code": "1171022007",
     "district_code": "117102",
-    "name": "Kuta Alam"
+    "name": "Kuta Alam",
+    "postal_code": "23121"
   },
   {
     "code": "1171022008",
     "district_code": "117102",
-    "name": "Bandar Baru"
+    "name": "Bandar Baru",
+    "postal_code": "23126"
   },
   {
     "code": "1171022009",
     "district_code": "117102",
-    "name": "Lamdingin"
+    "name": "Lamdingin",
+    "postal_code": "23127"
   },
   {
     "code": "1171022010",
     "district_code": "117102",
-    "name": "Lampulo"
+    "name": "Lampulo",
+    "postal_code": "23127"
   },
   {
     "code": "1171022011",
     "district_code": "117102",
-    "name": "Lambaro Skep"
+    "name": "Lambaro Skep",
+    "postal_code": "23127"
   }
 ]

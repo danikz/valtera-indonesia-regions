@@ -2,41 +2,49 @@
   {
     "code": "9204062001",
     "district_code": "920406",
-    "name": "Sawiat"
+    "name": "Sawiat",
+    "postal_code": ""
   },
   {
     "code": "9204062008",
     "district_code": "920406",
-    "name": "Sasnek"
+    "name": "Sasnek",
+    "postal_code": ""
   },
   {
     "code": "9204062009",
     "district_code": "920406",
-    "name": "Elles"
+    "name": "Elles",
+    "postal_code": ""
   },
   {
     "code": "9204062011",
     "district_code": "920406",
-    "name": "Sodrofoyo"
+    "name": "Sodrofoyo",
+    "postal_code": ""
   },
   {
     "code": "9204062012",
     "district_code": "920406",
-    "name": "Sfakyo"
+    "name": "Sfakyo",
+    "postal_code": ""
   },
   {
     "code": "9204062013",
     "district_code": "920406",
-    "name": "Wensough"
+    "name": "Wensough",
+    "postal_code": ""
   },
   {
     "code": "9204062014",
     "district_code": "920406",
-    "name": "Ween"
+    "name": "Ween",
+    "postal_code": ""
   },
   {
     "code": "9204062015",
     "district_code": "920406",
-    "name": "Wendi"
+    "name": "Wendi",
+    "postal_code": ""
   }
 ]

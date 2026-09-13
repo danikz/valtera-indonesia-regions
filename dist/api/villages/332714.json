@@ -2,31 +2,37 @@
   {
     "code": "3327142001",
     "district_code": "332714",
-    "name": "Pakembaran"
+    "name": "Pakembaran",
+    "postal_code": "52358"
   },
   {
     "code": "3327142002",
     "district_code": "332714",
-    "name": "Warungpring"
+    "name": "Warungpring",
+    "postal_code": "52358"
   },
   {
     "code": "3327142003",
     "district_code": "332714",
-    "name": "Karangdawa"
+    "name": "Karangdawa",
+    "postal_code": "52358"
   },
   {
     "code": "3327142004",
     "district_code": "332714",
-    "name": "Datar"
+    "name": "Datar",
+    "postal_code": "52358"
   },
   {
     "code": "3327142005",
     "district_code": "332714",
-    "name": "Cibuyur"
+    "name": "Cibuyur",
+    "postal_code": "52358"
   },
   {
     "code": "3327142006",
     "district_code": "332714",
-    "name": "Mereng"
+    "name": "Mereng",
+    "postal_code": "52358"
   }
 ]

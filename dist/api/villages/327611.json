@@ -2,36 +2,43 @@
   {
     "code": "3276111001",
     "district_code": "327611",
-    "name": "Bojongsari"
+    "name": "Bojongsari",
+    "postal_code": "16516"
   },
   {
     "code": "3276111002",
     "district_code": "327611",
-    "name": "Bojongsari Baru"
+    "name": "Bojongsari Baru",
+    "postal_code": "16516"
   },
   {
     "code": "3276111003",
     "district_code": "327611",
-    "name": "Serua"
+    "name": "Serua",
+    "postal_code": "16517"
   },
   {
     "code": "3276111004",
     "district_code": "327611",
-    "name": "Pondok Petir"
+    "name": "Pondok Petir",
+    "postal_code": "16517"
   },
   {
     "code": "3276111005",
     "district_code": "327611",
-    "name": "Curug"
+    "name": "Curug",
+    "postal_code": "16517"
   },
   {
     "code": "3276111006",
     "district_code": "327611",
-    "name": "Duren Mekar"
+    "name": "Duren Mekar",
+    "postal_code": "16518"
   },
   {
     "code": "3276111007",
     "district_code": "327611",
-    "name": "Duren Seribu"
+    "name": "Duren Seribu",
+    "postal_code": "16518"
   }
 ]

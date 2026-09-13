@@ -2,46 +2,55 @@
   {
     "code": "3603062001",
     "district_code": "360306",
-    "name": "Pasir Ampo"
+    "name": "Pasir Ampo",
+    "postal_code": "15621"
   },
   {
     "code": "3603062003",
     "district_code": "360306",
-    "name": "Rancailat"
+    "name": "Rancailat",
+    "postal_code": "15621"
   },
   {
     "code": "3603062007",
     "district_code": "360306",
-    "name": "Kemuning"
+    "name": "Kemuning",
+    "postal_code": "15621"
   },
   {
     "code": "3603062009",
     "district_code": "360306",
-    "name": "Renged"
+    "name": "Renged",
+    "postal_code": "15621"
   },
   {
     "code": "3603062011",
     "district_code": "360306",
-    "name": "Talok"
+    "name": "Talok",
+    "postal_code": "15621"
   },
   {
     "code": "3603062013",
     "district_code": "360306",
-    "name": "Koper"
+    "name": "Koper",
+    "postal_code": "15621"
   },
   {
     "code": "3603062014",
     "district_code": "360306",
-    "name": "Jengkol"
+    "name": "Jengkol",
+    "postal_code": "15621"
   },
   {
     "code": "3603062015",
     "district_code": "360306",
-    "name": "Patrasana"
+    "name": "Patrasana",
+    "postal_code": "15621"
   },
   {
     "code": "3603062018",
     "district_code": "360306",
-    "name": "Kresek"
+    "name": "Kresek",
+    "postal_code": "15621"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3578041001",
     "district_code": "357804",
-    "name": "Wonokromo"
+    "name": "Wonokromo",
+    "postal_code": "60243"
   },
   {
     "code": "3578041002",
     "district_code": "357804",
-    "name": "Jagir"
+    "name": "Jagir",
+    "postal_code": "60244"
   },
   {
     "code": "3578041003",
     "district_code": "357804",
-    "name": "Ngagel"
+    "name": "Ngagel",
+    "postal_code": "60246"
   },
   {
     "code": "3578041004",
     "district_code": "357804",
-    "name": "Ngagel Rejo"
+    "name": "Ngagel Rejo",
+    "postal_code": "60245"
   },
   {
     "code": "3578041005",
     "district_code": "357804",
-    "name": "Darmo"
+    "name": "Darmo",
+    "postal_code": "60241"
   },
   {
     "code": "3578041006",
     "district_code": "357804",
-    "name": "Sawunggaling"
+    "name": "Sawunggaling",
+    "postal_code": "60242"
   }
 ]

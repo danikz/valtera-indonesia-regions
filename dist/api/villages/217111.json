@@ -2,31 +2,37 @@
   {
     "code": "2171111001",
     "district_code": "217111",
-    "name": "Tembesi"
+    "name": "Tembesi",
+    "postal_code": "29439"
   },
   {
     "code": "2171111002",
     "district_code": "217111",
-    "name": "Sungai Binti"
+    "name": "Sungai Binti",
+    "postal_code": "29439"
   },
   {
     "code": "2171111003",
     "district_code": "217111",
-    "name": "Sungai Lekop"
+    "name": "Sungai Lekop",
+    "postal_code": "29439"
   },
   {
     "code": "2171111004",
     "district_code": "217111",
-    "name": "Sagulung Kota"
+    "name": "Sagulung Kota",
+    "postal_code": "29439"
   },
   {
     "code": "2171111005",
     "district_code": "217111",
-    "name": "Sungai Langkai"
+    "name": "Sungai Langkai",
+    "postal_code": "29439"
   },
   {
     "code": "2171111006",
     "district_code": "217111",
-    "name": "Sungai Pelunggut"
+    "name": "Sungai Pelunggut",
+    "postal_code": "29439"
   }
 ]

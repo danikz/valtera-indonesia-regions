@@ -2,66 +2,79 @@
   {
     "code": "1308052001",
     "district_code": "130805",
-    "name": "Tanjuang Baringin"
+    "name": "Tanjuang Baringin",
+    "postal_code": "26318"
   },
   {
     "code": "1308052002",
     "district_code": "130805",
-    "name": "Jambak"
+    "name": "Jambak",
+    "postal_code": "26318"
   },
   {
     "code": "1308052003",
     "district_code": "130805",
-    "name": "Durian Tinggi"
+    "name": "Durian Tinggi",
+    "postal_code": "26318"
   },
   {
     "code": "1308052004",
     "district_code": "130805",
-    "name": "Pauah"
+    "name": "Pauah",
+    "postal_code": "26318"
   },
   {
     "code": "1308052005",
     "district_code": "130805",
-    "name": "Aia Manggih"
+    "name": "Aia Manggih",
+    "postal_code": "26318"
   },
   {
     "code": "1308052006",
     "district_code": "130805",
-    "name": "Sundata"
+    "name": "Sundata",
+    "postal_code": "26318"
   },
   {
     "code": "1308052007",
     "district_code": "130805",
-    "name": "Tanjuang Baringin Utara"
+    "name": "Tanjuang Baringin Utara",
+    "postal_code": "26318"
   },
   {
     "code": "1308052008",
     "district_code": "130805",
-    "name": "Tanjuang Baringin Selatan"
+    "name": "Tanjuang Baringin Selatan",
+    "postal_code": "26318"
   },
   {
     "code": "1308052009",
     "district_code": "130805",
-    "name": "Aia Manggih Utara"
+    "name": "Aia Manggih Utara",
+    "postal_code": "26318"
   },
   {
     "code": "1308052010",
     "district_code": "130805",
-    "name": "Aia Manggih Selatan"
+    "name": "Aia Manggih Selatan",
+    "postal_code": "26318"
   },
   {
     "code": "1308052011",
     "district_code": "130805",
-    "name": "Aia Manggih Barat"
+    "name": "Aia Manggih Barat",
+    "postal_code": "26318"
   },
   {
     "code": "1308052012",
     "district_code": "130805",
-    "name": "Sundata Utara"
+    "name": "Sundata Utara",
+    "postal_code": "26318"
   },
   {
     "code": "1308052013",
     "district_code": "130805",
-    "name": "Sundata Selatan"
+    "name": "Sundata Selatan",
+    "postal_code": "26318"
   }
 ]

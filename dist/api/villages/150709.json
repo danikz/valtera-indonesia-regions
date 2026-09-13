@@ -2,36 +2,43 @@
   {
     "code": "1507091001",
     "district_code": "150709",
-    "name": "Simpang Tuan"
+    "name": "Simpang Tuan",
+    "postal_code": "36766"
   },
   {
     "code": "1507092002",
     "district_code": "150709",
-    "name": "Pematang Rahim"
+    "name": "Pematang Rahim",
+    "postal_code": "36766"
   },
   {
     "code": "1507092003",
     "district_code": "150709",
-    "name": "Sungai Toman"
+    "name": "Sungai Toman",
+    "postal_code": "36766"
   },
   {
     "code": "1507092004",
     "district_code": "150709",
-    "name": "Bukit Tempurung"
+    "name": "Bukit Tempurung",
+    "postal_code": "36766"
   },
   {
     "code": "1507092005",
     "district_code": "150709",
-    "name": "Sinar Wajo"
+    "name": "Sinar Wajo",
+    "postal_code": "36766"
   },
   {
     "code": "1507092006",
     "district_code": "150709",
-    "name": "Sungai Beras"
+    "name": "Sungai Beras",
+    "postal_code": "36766"
   },
   {
     "code": "1507092007",
     "district_code": "150709",
-    "name": "Mencolok"
+    "name": "Mencolok",
+    "postal_code": "36766"
   }
 ]

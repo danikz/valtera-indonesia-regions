@@ -2,46 +2,55 @@
   {
     "code": "7301082001",
     "district_code": "730108",
-    "name": "Kayuadi"
+    "name": "Kayuadi",
+    "postal_code": "92860"
   },
   {
     "code": "7301082002",
     "district_code": "730108",
-    "name": "Batang"
+    "name": "Batang",
+    "postal_code": "92860"
   },
   {
     "code": "7301082003",
     "district_code": "730108",
-    "name": "Nyiur Indah"
+    "name": "Nyiur Indah",
+    "postal_code": "92860"
   },
   {
     "code": "7301082004",
     "district_code": "730108",
-    "name": "Tambuna"
+    "name": "Tambuna",
+    "postal_code": "92860"
   },
   {
     "code": "7301082005",
     "district_code": "730108",
-    "name": "Jinato"
+    "name": "Jinato",
+    "postal_code": "92860"
   },
   {
     "code": "7301082006",
     "district_code": "730108",
-    "name": "Rajuni"
+    "name": "Rajuni",
+    "postal_code": "92860"
   },
   {
     "code": "7301082007",
     "district_code": "730108",
-    "name": "Latondu"
+    "name": "Latondu",
+    "postal_code": "92860"
   },
   {
     "code": "7301082008",
     "district_code": "730108",
-    "name": "Tarupa"
+    "name": "Tarupa",
+    "postal_code": "92860"
   },
   {
     "code": "7301082009",
     "district_code": "730108",
-    "name": "Khusus Pasitallu"
+    "name": "Khusus Pasitallu",
+    "postal_code": "92860"
   }
 ]

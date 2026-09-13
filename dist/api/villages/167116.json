@@ -2,21 +2,25 @@
   {
     "code": "1671161001",
     "district_code": "167116",
-    "name": "Sri Mulya"
+    "name": "Sri Mulya",
+    "postal_code": "30162"
   },
   {
     "code": "1671161002",
     "district_code": "167116",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "30161"
   },
   {
     "code": "1671161003",
     "district_code": "167116",
-    "name": "Lebung Gajah"
+    "name": "Lebung Gajah",
+    "postal_code": "30161"
   },
   {
     "code": "1671161005",
     "district_code": "167116",
-    "name": "Karya Mulia"
+    "name": "Karya Mulia",
+    "postal_code": "30161"
   }
 ]

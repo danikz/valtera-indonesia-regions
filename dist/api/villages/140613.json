@@ -2,36 +2,43 @@
   {
     "code": "1406132001",
     "district_code": "140613",
-    "name": "Teluk Sono"
+    "name": "Teluk Sono",
+    "postal_code": "28559"
   },
   {
     "code": "1406132002",
     "district_code": "140613",
-    "name": "Sontang"
+    "name": "Sontang",
+    "postal_code": "28559"
   },
   {
     "code": "1406132003",
     "district_code": "140613",
-    "name": "Bonai"
+    "name": "Bonai",
+    "postal_code": "28559"
   },
   {
     "code": "1406132004",
     "district_code": "140613",
-    "name": "Rawa Makmur"
+    "name": "Rawa Makmur",
+    "postal_code": "28559"
   },
   {
     "code": "1406132005",
     "district_code": "140613",
-    "name": "Pauh"
+    "name": "Pauh",
+    "postal_code": "28559"
   },
   {
     "code": "1406132006",
     "district_code": "140613",
-    "name": "Kasang Padang"
+    "name": "Kasang Padang",
+    "postal_code": "28559"
   },
   {
     "code": "1406132007",
     "district_code": "140613",
-    "name": "Kasang Mungal"
+    "name": "Kasang Mungal",
+    "postal_code": "28559"
   }
 ]

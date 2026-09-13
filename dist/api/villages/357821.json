@@ -2,21 +2,25 @@
   {
     "code": "3578211001",
     "district_code": "357821",
-    "name": "Dukuh Pakis"
+    "name": "Dukuh Pakis",
+    "postal_code": "60225"
   },
   {
     "code": "3578211002",
     "district_code": "357821",
-    "name": "Dukuh Kupang"
+    "name": "Dukuh Kupang",
+    "postal_code": "60225"
   },
   {
     "code": "3578211003",
     "district_code": "357821",
-    "name": "Gunung Sari"
+    "name": "Gunung Sari",
+    "postal_code": "60224"
   },
   {
     "code": "3578211004",
     "district_code": "357821",
-    "name": "Pradah Kalikendal"
+    "name": "Pradah Kalikendal",
+    "postal_code": "60226"
   }
 ]

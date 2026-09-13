@@ -2,26 +2,31 @@
   {
     "code": "9106212001",
     "district_code": "910621",
-    "name": "Wopes"
+    "name": "Wopes",
+    "postal_code": "98554"
   },
   {
     "code": "9106212002",
     "district_code": "910621",
-    "name": "Wandos"
+    "name": "Wandos",
+    "postal_code": "98554"
   },
   {
     "code": "9106212003",
     "district_code": "910621",
-    "name": "Doubo"
+    "name": "Doubo",
+    "postal_code": "98554"
   },
   {
     "code": "9106212004",
     "district_code": "910621",
-    "name": "Syurdori"
+    "name": "Syurdori",
+    "postal_code": "98554"
   },
   {
     "code": "9106212005",
     "district_code": "910621",
-    "name": "Sansundi"
+    "name": "Sansundi",
+    "postal_code": "98554"
   }
 ]

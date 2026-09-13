@@ -2,56 +2,67 @@
   {
     "code": "1402061001",
     "district_code": "140206",
-    "name": "Pangkalan Kasai"
+    "name": "Pangkalan Kasai",
+    "postal_code": "29371"
   },
   {
     "code": "1402062002",
     "district_code": "140206",
-    "name": "Kelesa"
+    "name": "Kelesa",
+    "postal_code": "29371"
   },
   {
     "code": "1402062003",
     "district_code": "140206",
-    "name": "Beligan"
+    "name": "Beligan",
+    "postal_code": "29371"
   },
   {
     "code": "1402062004",
     "district_code": "140206",
-    "name": "Seresam"
+    "name": "Seresam",
+    "postal_code": "29371"
   },
   {
     "code": "1402062005",
     "district_code": "140206",
-    "name": "Paya Rumbai"
+    "name": "Paya Rumbai",
+    "postal_code": "29371"
   },
   {
     "code": "1402062006",
     "district_code": "140206",
-    "name": "Bukit Meranti"
+    "name": "Bukit Meranti",
+    "postal_code": "29371"
   },
   {
     "code": "1402062007",
     "district_code": "140206",
-    "name": "Buluh Rampai"
+    "name": "Buluh Rampai",
+    "postal_code": "29371"
   },
   {
     "code": "1402062008",
     "district_code": "140206",
-    "name": "Titian Resak"
+    "name": "Titian Resak",
+    "postal_code": "29371"
   },
   {
     "code": "1402062009",
     "district_code": "140206",
-    "name": "Petala Bumi"
+    "name": "Petala Bumi",
+    "postal_code": "29371"
   },
   {
     "code": "1402062010",
     "district_code": "140206",
-    "name": "Sibabat"
+    "name": "Sibabat",
+    "postal_code": "29371"
   },
   {
     "code": "1402062011",
     "district_code": "140206",
-    "name": "Bandar Padang"
+    "name": "Bandar Padang",
+    "postal_code": "29371"
   }
 ]

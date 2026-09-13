@@ -2,46 +2,55 @@
   {
     "code": "5307202001",
     "district_code": "530720",
-    "name": "Waihawa"
+    "name": "Waihawa",
+    "postal_code": "86170"
   },
   {
     "code": "5307202002",
     "district_code": "530720",
-    "name": "Nenbura"
+    "name": "Nenbura",
+    "postal_code": "86170"
   },
   {
     "code": "5307202003",
     "district_code": "530720",
-    "name": "Wogalirit"
+    "name": "Wogalirit",
+    "postal_code": "86170"
   },
   {
     "code": "5307202004",
     "district_code": "530720",
-    "name": "Watumerak"
+    "name": "Watumerak",
+    "postal_code": "86170"
   },
   {
     "code": "5307202005",
     "district_code": "530720",
-    "name": "Wolonterang"
+    "name": "Wolonterang",
+    "postal_code": "86170"
   },
   {
     "code": "5307202006",
     "district_code": "530720",
-    "name": "Kloangpopot"
+    "name": "Kloangpopot",
+    "postal_code": "86170"
   },
   {
     "code": "5307202007",
     "district_code": "530720",
-    "name": "Wolomotong"
+    "name": "Wolomotong",
+    "postal_code": "86170"
   },
   {
     "code": "5307202008",
     "district_code": "530720",
-    "name": "Mahe Tanah"
+    "name": "Mahe Tanah",
+    "postal_code": "86170"
   },
   {
     "code": "5307202009",
     "district_code": "530720",
-    "name": "Pelibaler"
+    "name": "Pelibaler",
+    "postal_code": "86170"
   }
 ]

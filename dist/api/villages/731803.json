@@ -2,31 +2,37 @@
   {
     "code": "7318031007",
     "district_code": "731803",
-    "name": "Ratte Buttu"
+    "name": "Ratte Buttu",
+    "postal_code": "91872"
   },
   {
     "code": "7318032001",
     "district_code": "731803",
-    "name": "Bau"
+    "name": "Bau",
+    "postal_code": "91872"
   },
   {
     "code": "7318032002",
     "district_code": "731803",
-    "name": "Buakayu"
+    "name": "Buakayu",
+    "postal_code": "91872"
   },
   {
     "code": "7318032004",
     "district_code": "731803",
-    "name": "Mappa'"
+    "name": "Mappa'",
+    "postal_code": "91872"
   },
   {
     "code": "7318032006",
     "district_code": "731803",
-    "name": "Poton"
+    "name": "Poton",
+    "postal_code": "91872"
   },
   {
     "code": "7318032008",
     "district_code": "731803",
-    "name": "Bau Selatan"
+    "name": "Bau Selatan",
+    "postal_code": "91872"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "6110112001",
     "district_code": "611011",
-    "name": "Ulak Muid"
+    "name": "Ulak Muid",
+    "postal_code": "79676"
   },
   {
     "code": "6110112002",
     "district_code": "611011",
-    "name": "Harapan Jaya"
+    "name": "Harapan Jaya",
+    "postal_code": "79676"
   },
   {
     "code": "6110112003",
     "district_code": "611011",
-    "name": "Durian Jaya"
+    "name": "Durian Jaya",
+    "postal_code": "79676"
   },
   {
     "code": "6110112004",
     "district_code": "611011",
-    "name": "Togan Baru"
+    "name": "Togan Baru",
+    "postal_code": "79676"
   },
   {
     "code": "6110112005",
     "district_code": "611011",
-    "name": "Pelita Jaya"
+    "name": "Pelita Jaya",
+    "postal_code": "79676"
   },
   {
     "code": "6110112006",
     "district_code": "611011",
-    "name": "Bukit Raya"
+    "name": "Bukit Raya",
+    "postal_code": "79676"
   },
   {
     "code": "6110112007",
     "district_code": "611011",
-    "name": "Lintah Taum"
+    "name": "Lintah Taum",
+    "postal_code": "79676"
   },
   {
     "code": "6110112008",
     "district_code": "611011",
-    "name": "Laja"
+    "name": "Laja",
+    "postal_code": "79676"
   },
   {
     "code": "6110112009",
     "district_code": "611011",
-    "name": "Keluas Hulu"
+    "name": "Keluas Hulu",
+    "postal_code": "79676"
   },
   {
     "code": "6110112010",
     "district_code": "611011",
-    "name": "Ganjang"
+    "name": "Ganjang",
+    "postal_code": "79676"
   }
 ]

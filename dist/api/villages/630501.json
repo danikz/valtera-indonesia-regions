@@ -2,56 +2,67 @@
   {
     "code": "6305011001",
     "district_code": "630501",
-    "name": "Binuang"
+    "name": "Binuang",
+    "postal_code": "71183"
   },
   {
     "code": "6305011017",
     "district_code": "630501",
-    "name": "Karang Putih"
+    "name": "Karang Putih",
+    "postal_code": "71183"
   },
   {
     "code": "6305011018",
     "district_code": "630501",
-    "name": "Raya Belanti"
+    "name": "Raya Belanti",
+    "postal_code": "71183"
   },
   {
     "code": "6305012003",
     "district_code": "630501",
-    "name": "Tungkap"
+    "name": "Tungkap",
+    "postal_code": "71183"
   },
   {
     "code": "6305012006",
     "district_code": "630501",
-    "name": "A. Yani Pura"
+    "name": "A. Yani Pura",
+    "postal_code": "71183"
   },
   {
     "code": "6305012007",
     "district_code": "630501",
-    "name": "Pulaupinang"
+    "name": "Pulaupinang",
+    "postal_code": "71183"
   },
   {
     "code": "6305012008",
     "district_code": "630501",
-    "name": "Pualam Sari"
+    "name": "Pualam Sari",
+    "postal_code": "71183"
   },
   {
     "code": "6305012009",
     "district_code": "630501",
-    "name": "Gunungbatu"
+    "name": "Gunungbatu",
+    "postal_code": "71183"
   },
   {
     "code": "6305012012",
     "district_code": "630501",
-    "name": "Pulaupinang Utara"
+    "name": "Pulaupinang Utara",
+    "postal_code": "71183"
   },
   {
     "code": "6305012016",
     "district_code": "630501",
-    "name": "Padang Sari"
+    "name": "Padang Sari",
+    "postal_code": "71183"
   },
   {
     "code": "6305012019",
     "district_code": "630501",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "71183"
   }
 ]

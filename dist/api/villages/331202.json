@@ -2,36 +2,43 @@
   {
     "code": "3312021004",
     "district_code": "331202",
-    "name": "Bayemharjo"
+    "name": "Bayemharjo",
+    "postal_code": "57678"
   },
   {
     "code": "3312021006",
     "district_code": "331202",
-    "name": "Giritontro"
+    "name": "Giritontro",
+    "postal_code": "57678"
   },
   {
     "code": "3312022001",
     "district_code": "331202",
-    "name": "Ngargoharjo"
+    "name": "Ngargoharjo",
+    "postal_code": "57678"
   },
   {
     "code": "3312022002",
     "district_code": "331202",
-    "name": "Tlogosari"
+    "name": "Tlogosari",
+    "postal_code": "57678"
   },
   {
     "code": "3312022003",
     "district_code": "331202",
-    "name": "Tlogoharjo"
+    "name": "Tlogoharjo",
+    "postal_code": "57678"
   },
   {
     "code": "3312022005",
     "district_code": "331202",
-    "name": "Jatirejo"
+    "name": "Jatirejo",
+    "postal_code": "57678"
   },
   {
     "code": "3312022007",
     "district_code": "331202",
-    "name": "Pucanganom"
+    "name": "Pucanganom",
+    "postal_code": "57678"
   }
 ]

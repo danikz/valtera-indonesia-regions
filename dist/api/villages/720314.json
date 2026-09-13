@@ -2,46 +2,55 @@
   {
     "code": "7203142001",
     "district_code": "720314",
-    "name": "Balukang"
+    "name": "Balukang",
+    "postal_code": "94357"
   },
   {
     "code": "7203142002",
     "district_code": "720314",
-    "name": "Siwalempu"
+    "name": "Siwalempu",
+    "postal_code": "94357"
   },
   {
     "code": "7203142003",
     "district_code": "720314",
-    "name": "Siboang"
+    "name": "Siboang",
+    "postal_code": "94357"
   },
   {
     "code": "7203142004",
     "district_code": "720314",
-    "name": "Tonggolobibi"
+    "name": "Tonggolobibi",
+    "postal_code": "94357"
   },
   {
     "code": "7203142005",
     "district_code": "720314",
-    "name": "Bou"
+    "name": "Bou",
+    "postal_code": "94357"
   },
   {
     "code": "7203142011",
     "district_code": "720314",
-    "name": "Samalili"
+    "name": "Samalili",
+    "postal_code": "94357"
   },
   {
     "code": "7203142012",
     "district_code": "720314",
-    "name": "Bukit Harapan"
+    "name": "Bukit Harapan",
+    "postal_code": "94357"
   },
   {
     "code": "7203142013",
     "district_code": "720314",
-    "name": "Pangalasiang"
+    "name": "Pangalasiang",
+    "postal_code": "94357"
   },
   {
     "code": "7203142014",
     "district_code": "720314",
-    "name": "Balukang II"
+    "name": "Balukang II",
+    "postal_code": "94357"
   }
 ]

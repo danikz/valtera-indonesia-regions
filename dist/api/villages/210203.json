@@ -2,46 +2,55 @@
   {
     "code": "2102031001",
     "district_code": "210203",
-    "name": "Tanjungbalai"
+    "name": "Tanjungbalai",
+    "postal_code": "29661"
   },
   {
     "code": "2102031002",
     "district_code": "210203",
-    "name": "Telukair"
+    "name": "Telukair",
+    "postal_code": "29661"
   },
   {
     "code": "2102031003",
     "district_code": "210203",
-    "name": "Sungailakam Timur"
+    "name": "Sungailakam Timur",
+    "postal_code": "29661"
   },
   {
     "code": "2102031006",
     "district_code": "210203",
-    "name": "Lubuk Semut"
+    "name": "Lubuk Semut",
+    "postal_code": "29661"
   },
   {
     "code": "2102031007",
     "district_code": "210203",
-    "name": "Tanjungbalai Kota"
+    "name": "Tanjungbalai Kota",
+    "postal_code": "29661"
   },
   {
     "code": "2102031008",
     "district_code": "210203",
-    "name": "Sungailakam Barat"
+    "name": "Sungailakam Barat",
+    "postal_code": "29661"
   },
   {
     "code": "2102032004",
     "district_code": "210203",
-    "name": "Parit"
+    "name": "Parit",
+    "postal_code": ""
   },
   {
     "code": "2102032005",
     "district_code": "210203",
-    "name": "Tulang"
+    "name": "Tulang",
+    "postal_code": ""
   },
   {
     "code": "2102032009",
     "district_code": "210203",
-    "name": "Selatmendaun"
+    "name": "Selatmendaun",
+    "postal_code": ""
   }
 ]

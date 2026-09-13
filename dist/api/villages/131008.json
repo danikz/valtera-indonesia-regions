@@ -2,21 +2,25 @@
   {
     "code": "1310082001",
     "district_code": "131008",
-    "name": "Tiumang"
+    "name": "Tiumang",
+    "postal_code": "27687"
   },
   {
     "code": "1310082002",
     "district_code": "131008",
-    "name": "Sungai Langkok"
+    "name": "Sungai Langkok",
+    "postal_code": "27687"
   },
   {
     "code": "1310082003",
     "district_code": "131008",
-    "name": "Koto Beringin"
+    "name": "Koto Beringin",
+    "postal_code": "27687"
   },
   {
     "code": "1310082004",
     "district_code": "131008",
-    "name": "Sipangkur"
+    "name": "Sipangkur",
+    "postal_code": "27687"
   }
 ]

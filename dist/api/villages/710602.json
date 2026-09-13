@@ -2,61 +2,73 @@
   {
     "code": "7106022001",
     "district_code": "710602",
-    "name": "Kauditan II"
+    "name": "Kauditan II",
+    "postal_code": "95372"
   },
   {
     "code": "7106022002",
     "district_code": "710602",
-    "name": "Kauditan I"
+    "name": "Kauditan I",
+    "postal_code": "95372"
   },
   {
     "code": "7106022003",
     "district_code": "710602",
-    "name": "Kawiley"
+    "name": "Kawiley",
+    "postal_code": "95372"
   },
   {
     "code": "7106022004",
     "district_code": "710602",
-    "name": "Treman"
+    "name": "Treman",
+    "postal_code": "95372"
   },
   {
     "code": "7106022005",
     "district_code": "710602",
-    "name": "Kaima"
+    "name": "Kaima",
+    "postal_code": "95372"
   },
   {
     "code": "7106022006",
     "district_code": "710602",
-    "name": "Karegesan"
+    "name": "Karegesan",
+    "postal_code": "95372"
   },
   {
     "code": "7106022007",
     "district_code": "710602",
-    "name": "Kaasar"
+    "name": "Kaasar",
+    "postal_code": "95372"
   },
   {
     "code": "7106022008",
     "district_code": "710602",
-    "name": "Lembean"
+    "name": "Lembean",
+    "postal_code": "95372"
   },
   {
     "code": "7106022009",
     "district_code": "710602",
-    "name": "Paslaten"
+    "name": "Paslaten",
+    "postal_code": "95372"
   },
   {
     "code": "7106022010",
     "district_code": "710602",
-    "name": "Tumaluntung"
+    "name": "Tumaluntung",
+    "postal_code": "95372"
   },
   {
     "code": "7106022011",
     "district_code": "710602",
-    "name": "Watudambo"
+    "name": "Watudambo",
+    "postal_code": "95372"
   },
   {
     "code": "7106022012",
     "district_code": "710602",
-    "name": "Watudambo Dua"
+    "name": "Watudambo Dua",
+    "postal_code": "95372"
   }
 ]

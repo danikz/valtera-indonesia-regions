@@ -2,26 +2,31 @@
   {
     "code": "9203132001",
     "district_code": "920313",
-    "name": "Andamata"
+    "name": "Andamata",
+    "postal_code": "98014"
   },
   {
     "code": "9203132002",
     "district_code": "920313",
-    "name": "Taver"
+    "name": "Taver",
+    "postal_code": "98014"
   },
   {
     "code": "9203132003",
     "district_code": "920313",
-    "name": "Arguni"
+    "name": "Arguni",
+    "postal_code": "98014"
   },
   {
     "code": "9203132004",
     "district_code": "920313",
-    "name": "Fior"
+    "name": "Fior",
+    "postal_code": "98014"
   },
   {
     "code": "9203132005",
     "district_code": "920313",
-    "name": "Furir"
+    "name": "Furir",
+    "postal_code": "98014"
   }
 ]

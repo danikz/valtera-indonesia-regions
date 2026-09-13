@@ -2,76 +2,91 @@
   {
     "code": "9203041001",
     "district_code": "920304",
-    "name": "Kokas Kota"
+    "name": "Kokas Kota",
+    "postal_code": "98016"
   },
   {
     "code": "9203042003",
     "district_code": "920304",
-    "name": "Mandoni"
+    "name": "Mandoni",
+    "postal_code": "98016"
   },
   {
     "code": "9203042008",
     "district_code": "920304",
-    "name": "Sekar"
+    "name": "Sekar",
+    "postal_code": "98016"
   },
   {
     "code": "9203042009",
     "district_code": "920304",
-    "name": "Ugar"
+    "name": "Ugar",
+    "postal_code": "98016"
   },
   {
     "code": "9203042010",
     "district_code": "920304",
-    "name": "Sisir"
+    "name": "Sisir",
+    "postal_code": "98016"
   },
   {
     "code": "9203042011",
     "district_code": "920304",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "98016"
   },
   {
     "code": "9203042012",
     "district_code": "920304",
-    "name": "Patimburak"
+    "name": "Patimburak",
+    "postal_code": "98016"
   },
   {
     "code": "9203042013",
     "district_code": "920304",
-    "name": "Batufiafas"
+    "name": "Batufiafas",
+    "postal_code": "98016"
   },
   {
     "code": "9203042014",
     "district_code": "920304",
-    "name": "Kinam"
+    "name": "Kinam",
+    "postal_code": "98016"
   },
   {
     "code": "9203042021",
     "district_code": "920304",
-    "name": "Mambunibuni"
+    "name": "Mambunibuni",
+    "postal_code": "98016"
   },
   {
     "code": "9203042024",
     "district_code": "920304",
-    "name": "Kriawaswas"
+    "name": "Kriawaswas",
+    "postal_code": "98016"
   },
   {
     "code": "9203042028",
     "district_code": "920304",
-    "name": "Sosar"
+    "name": "Sosar",
+    "postal_code": "98016"
   },
   {
     "code": "9203042029",
     "district_code": "920304",
-    "name": "Pang Wadar"
+    "name": "Pang Wadar",
+    "postal_code": "98016"
   },
   {
     "code": "9203042030",
     "district_code": "920304",
-    "name": "Masina"
+    "name": "Masina",
+    "postal_code": "98016"
   },
   {
     "code": "9203042031",
     "district_code": "920304",
-    "name": "Kimina Kra"
+    "name": "Kimina Kra",
+    "postal_code": "98016"
   }
 ]

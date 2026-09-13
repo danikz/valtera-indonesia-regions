@@ -2,21 +2,25 @@
   {
     "code": "9271091001",
     "district_code": "927109",
-    "name": "Klagete"
+    "name": "Klagete",
+    "postal_code": ""
   },
   {
     "code": "9271091004",
     "district_code": "927109",
-    "name": "Malaingkedi"
+    "name": "Malaingkedi",
+    "postal_code": ""
   },
   {
     "code": "9271091005",
     "district_code": "927109",
-    "name": "Malamso"
+    "name": "Malamso",
+    "postal_code": ""
   },
   {
     "code": "9271091006",
     "district_code": "927109",
-    "name": "Klabulu"
+    "name": "Klabulu",
+    "postal_code": ""
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1671141001",
     "district_code": "167114",
-    "name": "Plaju Ulu"
+    "name": "Plaju Ulu",
+    "postal_code": "30266"
   },
   {
     "code": "1671141002",
     "district_code": "167114",
-    "name": "Plaju Darat"
+    "name": "Plaju Darat",
+    "postal_code": "30267"
   },
   {
     "code": "1671141003",
     "district_code": "167114",
-    "name": "Plaju Ilir"
+    "name": "Plaju Ilir",
+    "postal_code": "30268"
   },
   {
     "code": "1671141004",
     "district_code": "167114",
-    "name": "Bagus Kuning"
+    "name": "Bagus Kuning",
+    "postal_code": "30268"
   },
   {
     "code": "1671141005",
     "district_code": "167114",
-    "name": "Komperta"
+    "name": "Komperta",
+    "postal_code": "30268"
   },
   {
     "code": "1671141006",
     "district_code": "167114",
-    "name": "Talang Putri"
+    "name": "Talang Putri",
+    "postal_code": "30268"
   },
   {
     "code": "1671141007",
     "district_code": "167114",
-    "name": "Talang Bubuk"
+    "name": "Talang Bubuk",
+    "postal_code": "30268"
   }
 ]

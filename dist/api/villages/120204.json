@@ -2,71 +2,85 @@
   {
     "code": "1202041001",
     "district_code": "120204",
-    "name": "Situmeang Habinsaran"
+    "name": "Situmeang Habinsaran",
+    "postal_code": "22452"
   },
   {
     "code": "1202042002",
     "district_code": "120204",
-    "name": "Hutauruk"
+    "name": "Hutauruk",
+    "postal_code": "22452"
   },
   {
     "code": "1202042003",
     "district_code": "120204",
-    "name": "Simanungkalit"
+    "name": "Simanungkalit",
+    "postal_code": "22452"
   },
   {
     "code": "1202042004",
     "district_code": "120204",
-    "name": "Situmeang Hasundutan"
+    "name": "Situmeang Hasundutan",
+    "postal_code": "22452"
   },
   {
     "code": "1202042005",
     "district_code": "120204",
-    "name": "Sipahutar"
+    "name": "Sipahutar",
+    "postal_code": "22452"
   },
   {
     "code": "1202042007",
     "district_code": "120204",
-    "name": "Tapian Nauli"
+    "name": "Tapian Nauli",
+    "postal_code": "22452"
   },
   {
     "code": "1202042008",
     "district_code": "120204",
-    "name": "Huta Raja"
+    "name": "Huta Raja",
+    "postal_code": "22452"
   },
   {
     "code": "1202042009",
     "district_code": "120204",
-    "name": "Lobu Singkam"
+    "name": "Lobu Singkam",
+    "postal_code": "22452"
   },
   {
     "code": "1202042010",
     "district_code": "120204",
-    "name": "Rura Julu Dolok"
+    "name": "Rura Julu Dolok",
+    "postal_code": "22452"
   },
   {
     "code": "1202042011",
     "district_code": "120204",
-    "name": "Rura Julu Toruan"
+    "name": "Rura Julu Toruan",
+    "postal_code": "22452"
   },
   {
     "code": "1202042012",
     "district_code": "120204",
-    "name": "Hutaraja Hasundutan"
+    "name": "Hutaraja Hasundutan",
+    "postal_code": "22452"
   },
   {
     "code": "1202042013",
     "district_code": "120204",
-    "name": "Pagarbatu"
+    "name": "Pagarbatu",
+    "postal_code": "22452"
   },
   {
     "code": "1202042014",
     "district_code": "120204",
-    "name": "Hutaraja Simanungkalit"
+    "name": "Hutaraja Simanungkalit",
+    "postal_code": "22452"
   },
   {
     "code": "1202042015",
     "district_code": "120204",
-    "name": "Hutauruk Hasundutan"
+    "name": "Hutauruk Hasundutan",
+    "postal_code": "22452"
   }
 ]

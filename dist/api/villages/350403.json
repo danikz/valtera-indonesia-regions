@@ -2,96 +2,115 @@
   {
     "code": "3504032001",
     "district_code": "350403",
-    "name": "Plosokandang"
+    "name": "Plosokandang",
+    "postal_code": "66221"
   },
   {
     "code": "3504032002",
     "district_code": "350403",
-    "name": "Tunggulsari"
+    "name": "Tunggulsari",
+    "postal_code": "66222"
   },
   {
     "code": "3504032003",
     "district_code": "350403",
-    "name": "Ringinpitu"
+    "name": "Ringinpitu",
+    "postal_code": "66223"
   },
   {
     "code": "3504032004",
     "district_code": "350403",
-    "name": "Loderesan"
+    "name": "Loderesan",
+    "postal_code": "66229"
   },
   {
     "code": "3504032005",
     "district_code": "350403",
-    "name": "Bulusari"
+    "name": "Bulusari",
+    "postal_code": "66229"
   },
   {
     "code": "3504032006",
     "district_code": "350403",
-    "name": "Bangoan"
+    "name": "Bangoan",
+    "postal_code": "66229"
   },
   {
     "code": "3504032007",
     "district_code": "350403",
-    "name": "Boro"
+    "name": "Boro",
+    "postal_code": "66229"
   },
   {
     "code": "3504032008",
     "district_code": "350403",
-    "name": "Tapan"
+    "name": "Tapan",
+    "postal_code": "66229"
   },
   {
     "code": "3504032009",
     "district_code": "350403",
-    "name": "Rejoagung"
+    "name": "Rejoagung",
+    "postal_code": "66225"
   },
   {
     "code": "3504032010",
     "district_code": "350403",
-    "name": "Kedungwaru"
+    "name": "Kedungwaru",
+    "postal_code": "66224"
   },
   {
     "code": "3504032011",
     "district_code": "350403",
-    "name": "Plandaan"
+    "name": "Plandaan",
+    "postal_code": "66229"
   },
   {
     "code": "3504032012",
     "district_code": "350403",
-    "name": "Ketanon"
+    "name": "Ketanon",
+    "postal_code": "66226"
   },
   {
     "code": "3504032013",
     "district_code": "350403",
-    "name": "Tawangsari"
+    "name": "Tawangsari",
+    "postal_code": "66227"
   },
   {
     "code": "3504032014",
     "district_code": "350403",
-    "name": "Mangunsari"
+    "name": "Mangunsari",
+    "postal_code": "66228"
   },
   {
     "code": "3504032015",
     "district_code": "350403",
-    "name": "Winong"
+    "name": "Winong",
+    "postal_code": "66229"
   },
   {
     "code": "3504032016",
     "district_code": "350403",
-    "name": "Majan"
+    "name": "Majan",
+    "postal_code": "66229"
   },
   {
     "code": "3504032017",
     "district_code": "350403",
-    "name": "Simo"
+    "name": "Simo",
+    "postal_code": "66229"
   },
   {
     "code": "3504032018",
     "district_code": "350403",
-    "name": "Gendingan"
+    "name": "Gendingan",
+    "postal_code": "66229"
   },
   {
     "code": "3504032019",
     "district_code": "350403",
-    "name": "Ngujang"
+    "name": "Ngujang",
+    "postal_code": "66229"
   }
 ]

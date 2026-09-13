@@ -2,71 +2,85 @@
   {
     "code": "8203072001",
     "district_code": "820307",
-    "name": "Kao"
+    "name": "Kao",
+    "postal_code": "97764"
   },
   {
     "code": "8203072002",
     "district_code": "820307",
-    "name": "Jati"
+    "name": "Jati",
+    "postal_code": "97764"
   },
   {
     "code": "8203072003",
     "district_code": "820307",
-    "name": "Kusu"
+    "name": "Kusu",
+    "postal_code": "97764"
   },
   {
     "code": "8203072009",
     "district_code": "820307",
-    "name": "Waringin Lelewi"
+    "name": "Waringin Lelewi",
+    "postal_code": "97764"
   },
   {
     "code": "8203072010",
     "district_code": "820307",
-    "name": "Soa Sangaji Dim-Dim"
+    "name": "Soa Sangaji Dim-Dim",
+    "postal_code": "97764"
   },
   {
     "code": "8203072011",
     "district_code": "820307",
-    "name": "Sasur"
+    "name": "Sasur",
+    "postal_code": "97764"
   },
   {
     "code": "8203072012",
     "district_code": "820307",
-    "name": "Popon"
+    "name": "Popon",
+    "postal_code": "97764"
   },
   {
     "code": "8203072036",
     "district_code": "820307",
-    "name": "Biang"
+    "name": "Biang",
+    "postal_code": "97764"
   },
   {
     "code": "8203072037",
     "district_code": "820307",
-    "name": "Patang"
+    "name": "Patang",
+    "postal_code": "97764"
   },
   {
     "code": "8203072038",
     "district_code": "820307",
-    "name": "Kukumutuk"
+    "name": "Kukumutuk",
+    "postal_code": "97764"
   },
   {
     "code": "8203072039",
     "district_code": "820307",
-    "name": "Waringin Lamo"
+    "name": "Waringin Lamo",
+    "postal_code": "97764"
   },
   {
     "code": "8203072050",
     "district_code": "820307",
-    "name": "Goruang"
+    "name": "Goruang",
+    "postal_code": "97764"
   },
   {
     "code": "8203072051",
     "district_code": "820307",
-    "name": "Kusu Lofra"
+    "name": "Kusu Lofra",
+    "postal_code": "97764"
   },
   {
     "code": "8203072052",
     "district_code": "820307",
-    "name": "Sumber Agung"
+    "name": "Sumber Agung",
+    "postal_code": "97764"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "1902042001",
     "district_code": "190204",
-    "name": "Sijuk"
+    "name": "Sijuk",
+    "postal_code": "33414"
   },
   {
     "code": "1902042002",
     "district_code": "190204",
-    "name": "Batu Itam"
+    "name": "Batu Itam",
+    "postal_code": "33414"
   },
   {
     "code": "1902042003",
     "district_code": "190204",
-    "name": "Terong"
+    "name": "Terong",
+    "postal_code": "33414"
   },
   {
     "code": "1902042004",
     "district_code": "190204",
-    "name": "Air Seruk"
+    "name": "Air Seruk",
+    "postal_code": "33414"
   },
   {
     "code": "1902042005",
     "district_code": "190204",
-    "name": "Tanjung Binga"
+    "name": "Tanjung Binga",
+    "postal_code": "33414"
   },
   {
     "code": "1902042006",
     "district_code": "190204",
-    "name": "Air Selumar"
+    "name": "Air Selumar",
+    "postal_code": "33414"
   },
   {
     "code": "1902042007",
     "district_code": "190204",
-    "name": "Sungai Padang"
+    "name": "Sungai Padang",
+    "postal_code": "33414"
   },
   {
     "code": "1902042008",
     "district_code": "190204",
-    "name": "Keciput"
+    "name": "Keciput",
+    "postal_code": "33414"
   },
   {
     "code": "1902042009",
     "district_code": "190204",
-    "name": "Pelepak Pute"
+    "name": "Pelepak Pute",
+    "postal_code": "33414"
   },
   {
     "code": "1902042010",
     "district_code": "190204",
-    "name": "Tanjong Tinggi"
+    "name": "Tanjong Tinggi",
+    "postal_code": "33414"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "6409021003",
     "district_code": "640902",
-    "name": "Waru"
+    "name": "Waru",
+    "postal_code": "76284"
   },
   {
     "code": "6409022001",
     "district_code": "640902",
-    "name": "Api-api"
+    "name": "Api-api",
+    "postal_code": "76284"
   },
   {
     "code": "6409022002",
     "district_code": "640902",
-    "name": "Sesulu"
+    "name": "Sesulu",
+    "postal_code": "76284"
   },
   {
     "code": "6409022004",
     "district_code": "640902",
-    "name": "Bangun Mulya"
+    "name": "Bangun Mulya",
+    "postal_code": "76284"
   }
 ]

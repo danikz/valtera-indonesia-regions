@@ -2,36 +2,43 @@
   {
     "code": "8109032001",
     "district_code": "810903",
-    "name": "Lumoy"
+    "name": "Lumoy",
+    "postal_code": "97546"
   },
   {
     "code": "8109032002",
     "district_code": "810903",
-    "name": "Masawoy"
+    "name": "Masawoy",
+    "postal_code": "97546"
   },
   {
     "code": "8109032003",
     "district_code": "810903",
-    "name": "Ulima"
+    "name": "Ulima",
+    "postal_code": "97546"
   },
   {
     "code": "8109032004",
     "district_code": "810903",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "97546"
   },
   {
     "code": "8109032005",
     "district_code": "810903",
-    "name": "Siwar"
+    "name": "Siwar",
+    "postal_code": "97546"
   },
   {
     "code": "8109032006",
     "district_code": "810903",
-    "name": "Selasi"
+    "name": "Selasi",
+    "postal_code": "97546"
   },
   {
     "code": "8109032007",
     "district_code": "810903",
-    "name": "Elara"
+    "name": "Elara",
+    "postal_code": "97546"
   }
 ]

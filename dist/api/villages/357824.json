@@ -2,21 +2,25 @@
   {
     "code": "3578241001",
     "district_code": "357824",
-    "name": "Kutisari"
+    "name": "Kutisari",
+    "postal_code": "60291"
   },
   {
     "code": "3578241002",
     "district_code": "357824",
-    "name": "Kendangsari"
+    "name": "Kendangsari",
+    "postal_code": "60292"
   },
   {
     "code": "3578241003",
     "district_code": "357824",
-    "name": "Tengilis Mejoyo"
+    "name": "Tengilis Mejoyo",
+    "postal_code": "60292"
   },
   {
     "code": "3578241004",
     "district_code": "357824",
-    "name": "Panjang Jiwo"
+    "name": "Panjang Jiwo",
+    "postal_code": "60299"
   }
 ]

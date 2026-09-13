@@ -2,46 +2,55 @@
   {
     "code": "9210242001",
     "district_code": "921024",
-    "name": "Seni"
+    "name": "Seni",
+    "postal_code": ""
   },
   {
     "code": "9210242002",
     "district_code": "921024",
-    "name": "Renis"
+    "name": "Renis",
+    "postal_code": ""
   },
   {
     "code": "9210242003",
     "district_code": "921024",
-    "name": "Sire"
+    "name": "Sire",
+    "postal_code": ""
   },
   {
     "code": "9210242004",
     "district_code": "921024",
-    "name": "Fase"
+    "name": "Fase",
+    "postal_code": ""
   },
   {
     "code": "9210242005",
     "district_code": "921024",
-    "name": "Sabes"
+    "name": "Sabes",
+    "postal_code": ""
   },
   {
     "code": "9210242006",
     "district_code": "921024",
-    "name": "Kuraso"
+    "name": "Kuraso",
+    "postal_code": ""
   },
   {
     "code": "9210242007",
     "district_code": "921024",
-    "name": "Sidi"
+    "name": "Sidi",
+    "postal_code": ""
   },
   {
     "code": "9210242008",
     "district_code": "921024",
-    "name": "Osom"
+    "name": "Osom",
+    "postal_code": ""
   },
   {
     "code": "9210242009",
     "district_code": "921024",
-    "name": "Sire Timur"
+    "name": "Sire Timur",
+    "postal_code": ""
   }
 ]

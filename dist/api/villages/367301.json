@@ -2,61 +2,73 @@
   {
     "code": "3673011001",
     "district_code": "367301",
-    "name": "Serang"
+    "name": "Serang",
+    "postal_code": "42116"
   },
   {
     "code": "3673011002",
     "district_code": "367301",
-    "name": "Cipare"
+    "name": "Cipare",
+    "postal_code": "42117"
   },
   {
     "code": "3673011003",
     "district_code": "367301",
-    "name": "Sumur Pecung"
+    "name": "Sumur Pecung",
+    "postal_code": "42118"
   },
   {
     "code": "3673011004",
     "district_code": "367301",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "42112"
   },
   {
     "code": "3673011005",
     "district_code": "367301",
-    "name": "Lopang"
+    "name": "Lopang",
+    "postal_code": "42113"
   },
   {
     "code": "3673011006",
     "district_code": "367301",
-    "name": "Cimuncang"
+    "name": "Cimuncang",
+    "postal_code": "42111"
   },
   {
     "code": "3673011007",
     "district_code": "367301",
-    "name": "Unyur"
+    "name": "Unyur",
+    "postal_code": "42111"
   },
   {
     "code": "3673011008",
     "district_code": "367301",
-    "name": "Sukawana"
+    "name": "Sukawana",
+    "postal_code": "42116"
   },
   {
     "code": "3673011009",
     "district_code": "367301",
-    "name": "Lontarbaru"
+    "name": "Lontarbaru",
+    "postal_code": "42115"
   },
   {
     "code": "3673011010",
     "district_code": "367301",
-    "name": "Kaligandu"
+    "name": "Kaligandu",
+    "postal_code": "42116"
   },
   {
     "code": "3673011011",
     "district_code": "367301",
-    "name": "Terondol"
+    "name": "Terondol",
+    "postal_code": "42119"
   },
   {
     "code": "3673011012",
     "district_code": "367301",
-    "name": "Kagungan"
+    "name": "Kagungan",
+    "postal_code": "42114"
   }
 ]

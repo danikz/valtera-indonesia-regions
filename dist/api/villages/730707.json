@@ -2,41 +2,49 @@
   {
     "code": "7307071001",
     "district_code": "730707",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "92662"
   },
   {
     "code": "7307072002",
     "district_code": "730707",
-    "name": "Batu Belerang"
+    "name": "Batu Belerang",
+    "postal_code": "92662"
   },
   {
     "code": "7307072003",
     "district_code": "730707",
-    "name": "Biji Nangka"
+    "name": "Biji Nangka",
+    "postal_code": "92662"
   },
   {
     "code": "7307072004",
     "district_code": "730707",
-    "name": "Barambang"
+    "name": "Barambang",
+    "postal_code": "92662"
   },
   {
     "code": "7307072005",
     "district_code": "730707",
-    "name": "Bonto Sinala"
+    "name": "Bonto Sinala",
+    "postal_code": "92662"
   },
   {
     "code": "7307072006",
     "district_code": "730707",
-    "name": "Kassi Buleng"
+    "name": "Kassi Buleng",
+    "postal_code": "92662"
   },
   {
     "code": "7307072007",
     "district_code": "730707",
-    "name": "Bonto Katute"
+    "name": "Bonto Katute",
+    "postal_code": "92662"
   },
   {
     "code": "7307072008",
     "district_code": "730707",
-    "name": "Bonto Tengnga"
+    "name": "Bonto Tengnga",
+    "postal_code": "92662"
   }
 ]

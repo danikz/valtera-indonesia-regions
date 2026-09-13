@@ -2,31 +2,37 @@
   {
     "code": "1271061001",
     "district_code": "127106",
-    "name": "Titipapan"
+    "name": "Titipapan",
+    "postal_code": "20244"
   },
   {
     "code": "1271061002",
     "district_code": "127106",
-    "name": "Tanjung Mulia Hilir"
+    "name": "Tanjung Mulia Hilir",
+    "postal_code": "20241"
   },
   {
     "code": "1271061003",
     "district_code": "127106",
-    "name": "Tanjung Mulya"
+    "name": "Tanjung Mulya",
+    "postal_code": "20241"
   },
   {
     "code": "1271061004",
     "district_code": "127106",
-    "name": "Kota Bangun"
+    "name": "Kota Bangun",
+    "postal_code": "20243"
   },
   {
     "code": "1271061005",
     "district_code": "127106",
-    "name": "Mabar"
+    "name": "Mabar",
+    "postal_code": "20242"
   },
   {
     "code": "1271061006",
     "district_code": "127106",
-    "name": "Mabar Hilir"
+    "name": "Mabar Hilir",
+    "postal_code": "20242"
   }
 ]

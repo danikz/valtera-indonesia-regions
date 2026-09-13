@@ -2,31 +2,37 @@
   {
     "code": "3202472001",
     "district_code": "320247",
-    "name": "Ciambar"
+    "name": "Ciambar",
+    "postal_code": "43356"
   },
   {
     "code": "3202472002",
     "district_code": "320247",
-    "name": "Ginanjar"
+    "name": "Ginanjar",
+    "postal_code": "43356"
   },
   {
     "code": "3202472003",
     "district_code": "320247",
-    "name": "Wangunjaya"
+    "name": "Wangunjaya",
+    "postal_code": "43356"
   },
   {
     "code": "3202472004",
     "district_code": "320247",
-    "name": "Munjul"
+    "name": "Munjul",
+    "postal_code": "43356"
   },
   {
     "code": "3202472005",
     "district_code": "320247",
-    "name": "Ambarjaya"
+    "name": "Ambarjaya",
+    "postal_code": "43356"
   },
   {
     "code": "3202472006",
     "district_code": "320247",
-    "name": "Cibunarjaya"
+    "name": "Cibunarjaya",
+    "postal_code": "43356"
   }
 ]

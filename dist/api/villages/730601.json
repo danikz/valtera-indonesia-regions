@@ -2,71 +2,85 @@
   {
     "code": "7306011001",
     "district_code": "730601",
-    "name": "Bontonompo"
+    "name": "Bontonompo",
+    "postal_code": "92153"
   },
   {
     "code": "7306011002",
     "district_code": "730601",
-    "name": "Tamallayang"
+    "name": "Tamallayang",
+    "postal_code": "92153"
   },
   {
     "code": "7306011003",
     "district_code": "730601",
-    "name": "Kalaserena"
+    "name": "Kalaserena",
+    "postal_code": "92153"
   },
   {
     "code": "7306012004",
     "district_code": "730601",
-    "name": "Bontolangkasa Utara"
+    "name": "Bontolangkasa Utara",
+    "postal_code": "92153"
   },
   {
     "code": "7306012005",
     "district_code": "730601",
-    "name": "Bontolangkasa Selatan"
+    "name": "Bontolangkasa Selatan",
+    "postal_code": "92153"
   },
   {
     "code": "7306012006",
     "district_code": "730601",
-    "name": "Barembeng"
+    "name": "Barembeng",
+    "postal_code": "92153"
   },
   {
     "code": "7306012015",
     "district_code": "730601",
-    "name": "Manjapai"
+    "name": "Manjapai",
+    "postal_code": "92153"
   },
   {
     "code": "7306012016",
     "district_code": "730601",
-    "name": "Bontobiraeng"
+    "name": "Bontobiraeng",
+    "postal_code": "92153"
   },
   {
     "code": "7306012017",
     "district_code": "730601",
-    "name": "Romanglasa"
+    "name": "Romanglasa",
+    "postal_code": "92153"
   },
   {
     "code": "7306012018",
     "district_code": "730601",
-    "name": "Katangka"
+    "name": "Katangka",
+    "postal_code": "92153"
   },
   {
     "code": "7306012019",
     "district_code": "730601",
-    "name": "Bulogading"
+    "name": "Bulogading",
+    "postal_code": "92153"
   },
   {
     "code": "7306012020",
     "district_code": "730601",
-    "name": "Bategulung"
+    "name": "Bategulung",
+    "postal_code": "92153"
   },
   {
     "code": "7306012021",
     "district_code": "730601",
-    "name": "Kalabarembeng"
+    "name": "Kalabarembeng",
+    "postal_code": "92153"
   },
   {
     "code": "7306012022",
     "district_code": "730601",
-    "name": "Bontobiraeng Selatan"
+    "name": "Bontobiraeng Selatan",
+    "postal_code": "92153"
   }
 ]

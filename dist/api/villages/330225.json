@@ -2,36 +2,43 @@
   {
     "code": "3302251001",
     "district_code": "330225",
-    "name": "Karanglewas Lor"
+    "name": "Karanglewas Lor",
+    "postal_code": "53136"
   },
   {
     "code": "3302251002",
     "district_code": "330225",
-    "name": "Pasir Kidul"
+    "name": "Pasir Kidul",
+    "postal_code": "53135"
   },
   {
     "code": "3302251003",
     "district_code": "330225",
-    "name": "Rejasari"
+    "name": "Rejasari",
+    "postal_code": "53134"
   },
   {
     "code": "3302251004",
     "district_code": "330225",
-    "name": "Pasirmuncang"
+    "name": "Pasirmuncang",
+    "postal_code": "53137"
   },
   {
     "code": "3302251005",
     "district_code": "330225",
-    "name": "Bantarsoka"
+    "name": "Bantarsoka",
+    "postal_code": "53133"
   },
   {
     "code": "3302251006",
     "district_code": "330225",
-    "name": "Kober"
+    "name": "Kober",
+    "postal_code": "53132"
   },
   {
     "code": "3302251007",
     "district_code": "330225",
-    "name": "Kedungwuluh"
+    "name": "Kedungwuluh",
+    "postal_code": "53131"
   }
 ]

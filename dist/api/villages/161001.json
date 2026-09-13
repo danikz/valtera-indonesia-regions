@@ -2,71 +2,85 @@
   {
     "code": "1610011011",
     "district_code": "161001",
-    "name": "Muara Kuang"
+    "name": "Muara Kuang",
+    "postal_code": "30865"
   },
   {
     "code": "1610012005",
     "district_code": "161001",
-    "name": "Munggu"
+    "name": "Munggu",
+    "postal_code": "30865"
   },
   {
     "code": "1610012006",
     "district_code": "161001",
-    "name": "Seri Menanti"
+    "name": "Seri Menanti",
+    "postal_code": "30865"
   },
   {
     "code": "1610012007",
     "district_code": "161001",
-    "name": "Rantau Sialang"
+    "name": "Rantau Sialang",
+    "postal_code": "30865"
   },
   {
     "code": "1610012008",
     "district_code": "161001",
-    "name": "Kuang Anyar"
+    "name": "Kuang Anyar",
+    "postal_code": "30865"
   },
   {
     "code": "1610012009",
     "district_code": "161001",
-    "name": "Kasah"
+    "name": "Kasah",
+    "postal_code": "30865"
   },
   {
     "code": "1610012012",
     "district_code": "161001",
-    "name": "Tanabang Ulu"
+    "name": "Tanabang Ulu",
+    "postal_code": "30865"
   },
   {
     "code": "1610012013",
     "district_code": "161001",
-    "name": "Seri Kembang"
+    "name": "Seri Kembang",
+    "postal_code": "30865"
   },
   {
     "code": "1610012014",
     "district_code": "161001",
-    "name": "Nagasari"
+    "name": "Nagasari",
+    "postal_code": "30865"
   },
   {
     "code": "1610012015",
     "district_code": "161001",
-    "name": "Suka Cinta"
+    "name": "Suka Cinta",
+    "postal_code": "30865"
   },
   {
     "code": "1610012016",
     "district_code": "161001",
-    "name": "Kelampadu"
+    "name": "Kelampadu",
+    "postal_code": "30865"
   },
   {
     "code": "1610012029",
     "district_code": "161001",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "30865"
   },
   {
     "code": "1610012030",
     "district_code": "161001",
-    "name": "Ramakasih"
+    "name": "Ramakasih",
+    "postal_code": "30865"
   },
   {
     "code": "1610012031",
     "district_code": "161001",
-    "name": "Tanabang Ilir"
+    "name": "Tanabang Ilir",
+    "postal_code": "30865"
   }
 ]

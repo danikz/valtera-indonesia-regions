@@ -2,61 +2,73 @@
   {
     "code": "7402101001",
     "district_code": "740210",
-    "name": "Abuki"
+    "name": "Abuki",
+    "postal_code": "93452"
   },
   {
     "code": "7402102007",
     "district_code": "740210",
-    "name": "Sambeani"
+    "name": "Sambeani",
+    "postal_code": "93452"
   },
   {
     "code": "7402102008",
     "district_code": "740210",
-    "name": "Asolu"
+    "name": "Asolu",
+    "postal_code": "93452"
   },
   {
     "code": "7402102009",
     "district_code": "740210",
-    "name": "Punggaluku"
+    "name": "Punggaluku",
+    "postal_code": "93452"
   },
   {
     "code": "7402102012",
     "district_code": "740210",
-    "name": "Walay"
+    "name": "Walay",
+    "postal_code": "93452"
   },
   {
     "code": "7402102015",
     "district_code": "740210",
-    "name": "Epeeya"
+    "name": "Epeeya",
+    "postal_code": "93452"
   },
   {
     "code": "7402102024",
     "district_code": "740210",
-    "name": "Kumapo"
+    "name": "Kumapo",
+    "postal_code": "93452"
   },
   {
     "code": "7402102035",
     "district_code": "740210",
-    "name": "Unaasi Jaya"
+    "name": "Unaasi Jaya",
+    "postal_code": "93452"
   },
   {
     "code": "7402102038",
     "district_code": "740210",
-    "name": "Kasuwura Indah"
+    "name": "Kasuwura Indah",
+    "postal_code": "93452"
   },
   {
     "code": "7402102039",
     "district_code": "740210",
-    "name": "Arubia"
+    "name": "Arubia",
+    "postal_code": "93452"
   },
   {
     "code": "7402102040",
     "district_code": "740210",
-    "name": "Padangguni Utama"
+    "name": "Padangguni Utama",
+    "postal_code": "93452"
   },
   {
     "code": "7402102042",
     "district_code": "740210",
-    "name": "Anggoro"
+    "name": "Anggoro",
+    "postal_code": "93452"
   }
 ]

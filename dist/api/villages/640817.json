@@ -2,36 +2,43 @@
   {
     "code": "6408172001",
     "district_code": "640817",
-    "name": "Batu Timbau"
+    "name": "Batu Timbau",
+    "postal_code": "75654"
   },
   {
     "code": "6408172002",
     "district_code": "640817",
-    "name": "Beno Harapan"
+    "name": "Beno Harapan",
+    "postal_code": "75654"
   },
   {
     "code": "6408172003",
     "district_code": "640817",
-    "name": "Mugi Rahayu"
+    "name": "Mugi Rahayu",
+    "postal_code": "75654"
   },
   {
     "code": "6408172004",
     "district_code": "640817",
-    "name": "Mawai Indah"
+    "name": "Mawai Indah",
+    "postal_code": "75654"
   },
   {
     "code": "6408172005",
     "district_code": "640817",
-    "name": "Himba Lestari"
+    "name": "Himba Lestari",
+    "postal_code": "75654"
   },
   {
     "code": "6408172006",
     "district_code": "640817",
-    "name": "Telaga"
+    "name": "Telaga",
+    "postal_code": "75654"
   },
   {
     "code": "6408172007",
     "district_code": "640817",
-    "name": "Batu Timbau Ulu"
+    "name": "Batu Timbau Ulu",
+    "postal_code": "75654"
   }
 ]

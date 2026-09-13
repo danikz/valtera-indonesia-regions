@@ -2,21 +2,25 @@
   {
     "code": "7471031001",
     "district_code": "747103",
-    "name": "Baruga"
+    "name": "Baruga",
+    "postal_code": "93116"
   },
   {
     "code": "7471031002",
     "district_code": "747103",
-    "name": "Lepo Lepo"
+    "name": "Lepo Lepo",
+    "postal_code": "93116"
   },
   {
     "code": "7471031007",
     "district_code": "747103",
-    "name": "Watubangga"
+    "name": "Watubangga",
+    "postal_code": "93116"
   },
   {
     "code": "7471031008",
     "district_code": "747103",
-    "name": "Wundudopi"
+    "name": "Wundudopi",
+    "postal_code": "93116"
   }
 ]

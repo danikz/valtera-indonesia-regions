@@ -2,21 +2,25 @@
   {
     "code": "5204292001",
     "district_code": "520429",
-    "name": "Lantung"
+    "name": "Lantung",
+    "postal_code": "84372"
   },
   {
     "code": "5204292002",
     "district_code": "520429",
-    "name": "Sepukur"
+    "name": "Sepukur",
+    "postal_code": "84372"
   },
   {
     "code": "5204292003",
     "district_code": "520429",
-    "name": "Ai Mual"
+    "name": "Ai Mual",
+    "postal_code": "84372"
   },
   {
     "code": "5204292004",
     "district_code": "520429",
-    "name": "Padesa"
+    "name": "Padesa",
+    "postal_code": "84372"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "9501332001",
     "district_code": "950133",
-    "name": "Bugi"
+    "name": "Bugi",
+    "postal_code": "99543"
   },
   {
     "code": "9501332002",
     "district_code": "950133",
-    "name": "Manda"
+    "name": "Manda",
+    "postal_code": "99543"
   },
   {
     "code": "9501332003",
     "district_code": "950133",
-    "name": "Dewene"
+    "name": "Dewene",
+    "postal_code": "99543"
   },
   {
     "code": "9501332004",
     "district_code": "950133",
-    "name": "Totni"
+    "name": "Totni",
+    "postal_code": "99543"
   },
   {
     "code": "9501332005",
     "district_code": "950133",
-    "name": "Tagulik"
+    "name": "Tagulik",
+    "postal_code": "99543"
   },
   {
     "code": "9501332006",
     "district_code": "950133",
-    "name": "Walak Selatan"
+    "name": "Walak Selatan",
+    "postal_code": "99543"
   },
   {
     "code": "9501332007",
     "district_code": "950133",
-    "name": "Kodlangga"
+    "name": "Kodlangga",
+    "postal_code": "99543"
   },
   {
     "code": "9501332008",
     "district_code": "950133",
-    "name": "Air Garam"
+    "name": "Air Garam",
+    "postal_code": "99543"
   }
 ]

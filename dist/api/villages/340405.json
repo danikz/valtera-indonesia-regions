@@ -2,26 +2,31 @@
   {
     "code": "3404052001",
     "district_code": "340405",
-    "name": "Margoluwih"
+    "name": "Margoluwih",
+    "postal_code": "55561"
   },
   {
     "code": "3404052002",
     "district_code": "340405",
-    "name": "Margodadi"
+    "name": "Margodadi",
+    "postal_code": "55561"
   },
   {
     "code": "3404052003",
     "district_code": "340405",
-    "name": "Margokaton"
+    "name": "Margokaton",
+    "postal_code": "55561"
   },
   {
     "code": "3404052004",
     "district_code": "340405",
-    "name": "Margomulyo"
+    "name": "Margomulyo",
+    "postal_code": "55561"
   },
   {
     "code": "3404052005",
     "district_code": "340405",
-    "name": "Margoagung"
+    "name": "Margoagung",
+    "postal_code": "55561"
   }
 ]

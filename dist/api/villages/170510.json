@@ -2,51 +2,61 @@
   {
     "code": "1705101003",
     "district_code": "170510",
-    "name": "Puguk"
+    "name": "Puguk",
+    "postal_code": "38884"
   },
   {
     "code": "1705102001",
     "district_code": "170510",
-    "name": "Talang Rami"
+    "name": "Talang Rami",
+    "postal_code": "38884"
   },
   {
     "code": "1705102002",
     "district_code": "170510",
-    "name": "Talang Beringin"
+    "name": "Talang Beringin",
+    "postal_code": "38884"
   },
   {
     "code": "1705102004",
     "district_code": "170510",
-    "name": "Pandan"
+    "name": "Pandan",
+    "postal_code": "38884"
   },
   {
     "code": "1705102005",
     "district_code": "170510",
-    "name": "Selingsingan"
+    "name": "Selingsingan",
+    "postal_code": "38884"
   },
   {
     "code": "1705102006",
     "district_code": "170510",
-    "name": "Simpang"
+    "name": "Simpang",
+    "postal_code": "38884"
   },
   {
     "code": "1705102007",
     "district_code": "170510",
-    "name": "Sekalak"
+    "name": "Sekalak",
+    "postal_code": "38884"
   },
   {
     "code": "1705102008",
     "district_code": "170510",
-    "name": "Lubuk Resam"
+    "name": "Lubuk Resam",
+    "postal_code": "38884"
   },
   {
     "code": "1705102009",
     "district_code": "170510",
-    "name": "Sinar Pagi"
+    "name": "Sinar Pagi",
+    "postal_code": "38884"
   },
   {
     "code": "1705102010",
     "district_code": "170510",
-    "name": "Talang Empat"
+    "name": "Talang Empat",
+    "postal_code": "38884"
   }
 ]

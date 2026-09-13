@@ -2,36 +2,43 @@
   {
     "code": "8272081001",
     "district_code": "827208",
-    "name": "Mafututu"
+    "name": "Mafututu",
+    "postal_code": "97822"
   },
   {
     "code": "8272081002",
     "district_code": "827208",
-    "name": "Tosa"
+    "name": "Tosa",
+    "postal_code": "97822"
   },
   {
     "code": "8272081003",
     "district_code": "827208",
-    "name": "Dowora"
+    "name": "Dowora",
+    "postal_code": "97822"
   },
   {
     "code": "8272081004",
     "district_code": "827208",
-    "name": "Kalaodi"
+    "name": "Kalaodi",
+    "postal_code": "97822"
   },
   {
     "code": "8272081005",
     "district_code": "827208",
-    "name": "Cobodoe"
+    "name": "Cobodoe",
+    "postal_code": "97822"
   },
   {
     "code": "8272081006",
     "district_code": "827208",
-    "name": "Doyado"
+    "name": "Doyado",
+    "postal_code": "97822"
   },
   {
     "code": "8272081007",
     "district_code": "827208",
-    "name": "Jiko Cobo"
+    "name": "Jiko Cobo",
+    "postal_code": "97822"
   }
 ]

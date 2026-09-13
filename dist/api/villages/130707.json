@@ -2,36 +2,43 @@
   {
     "code": "1307072001",
     "district_code": "130707",
-    "name": "Muaro Paiti"
+    "name": "Muaro Paiti",
+    "postal_code": "26273"
   },
   {
     "code": "1307072002",
     "district_code": "130707",
-    "name": "Koto Bangun"
+    "name": "Koto Bangun",
+    "postal_code": "26273"
   },
   {
     "code": "1307072003",
     "district_code": "130707",
-    "name": "Lubuak Alai"
+    "name": "Lubuak Alai",
+    "postal_code": "26273"
   },
   {
     "code": "1307072004",
     "district_code": "130707",
-    "name": "Koto Lamo"
+    "name": "Koto Lamo",
+    "postal_code": "26273"
   },
   {
     "code": "1307072005",
     "district_code": "130707",
-    "name": "Durian Tinggi"
+    "name": "Durian Tinggi",
+    "postal_code": "26273"
   },
   {
     "code": "1307072006",
     "district_code": "130707",
-    "name": "Sialang"
+    "name": "Sialang",
+    "postal_code": "26273"
   },
   {
     "code": "1307072007",
     "district_code": "130707",
-    "name": "Galugua"
+    "name": "Galugua",
+    "postal_code": "26273"
   }
 ]

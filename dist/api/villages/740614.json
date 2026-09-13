@@ -2,26 +2,31 @@
   {
     "code": "7406141001",
     "district_code": "740614",
-    "name": "Sikeli"
+    "name": "Sikeli",
+    "postal_code": "93780"
   },
   {
     "code": "7406142002",
     "district_code": "740614",
-    "name": "Baliara"
+    "name": "Baliara",
+    "postal_code": "93780"
   },
   {
     "code": "7406142003",
     "district_code": "740614",
-    "name": "Rahantari"
+    "name": "Rahantari",
+    "postal_code": "93780"
   },
   {
     "code": "7406142004",
     "district_code": "740614",
-    "name": "Baliara Kepulauan"
+    "name": "Baliara Kepulauan",
+    "postal_code": "93780"
   },
   {
     "code": "7406142005",
     "district_code": "740614",
-    "name": "Baliara Selatan"
+    "name": "Baliara Selatan",
+    "postal_code": "93780"
   }
 ]

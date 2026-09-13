@@ -2,46 +2,55 @@
   {
     "code": "3201102001",
     "district_code": "320110",
-    "name": "Parung"
+    "name": "Parung",
+    "postal_code": "16330"
   },
   {
     "code": "3201102002",
     "district_code": "320110",
-    "name": "Iwul"
+    "name": "Iwul",
+    "postal_code": "16330"
   },
   {
     "code": "3201102003",
     "district_code": "320110",
-    "name": "Bojongsempu"
+    "name": "Bojongsempu",
+    "postal_code": "16330"
   },
   {
     "code": "3201102004",
     "district_code": "320110",
-    "name": "Waru"
+    "name": "Waru",
+    "postal_code": "16330"
   },
   {
     "code": "3201102005",
     "district_code": "320110",
-    "name": "Cogreg"
+    "name": "Cogreg",
+    "postal_code": "16330"
   },
   {
     "code": "3201102006",
     "district_code": "320110",
-    "name": "Pamegarsari"
+    "name": "Pamegarsari",
+    "postal_code": "16330"
   },
   {
     "code": "3201102007",
     "district_code": "320110",
-    "name": "Warujaya"
+    "name": "Warujaya",
+    "postal_code": "16330"
   },
   {
     "code": "3201102008",
     "district_code": "320110",
-    "name": "Bojongindah"
+    "name": "Bojongindah",
+    "postal_code": "16330"
   },
   {
     "code": "3201102009",
     "district_code": "320110",
-    "name": "Jabonmekar"
+    "name": "Jabonmekar",
+    "postal_code": "16330"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "1505092001",
     "district_code": "150509",
-    "name": "Talang Bukit"
+    "name": "Talang Bukit",
+    "postal_code": "36367"
   },
   {
     "code": "1505092002",
     "district_code": "150509",
-    "name": "Talang Datar"
+    "name": "Talang Datar",
+    "postal_code": "36367"
   },
   {
     "code": "1505092003",
     "district_code": "150509",
-    "name": "Sumber Mulya"
+    "name": "Sumber Mulya",
+    "postal_code": "36367"
   },
   {
     "code": "1505092004",
     "district_code": "150509",
-    "name": "Mulya Jaya"
+    "name": "Mulya Jaya",
+    "postal_code": "36367"
   },
   {
     "code": "1505092005",
     "district_code": "150509",
-    "name": "Matra Manunggal"
+    "name": "Matra Manunggal",
+    "postal_code": "36367"
   },
   {
     "code": "1505092006",
     "district_code": "150509",
-    "name": "Bukit Mulya"
+    "name": "Bukit Mulya",
+    "postal_code": "36367"
   },
   {
     "code": "1505092007",
     "district_code": "150509",
-    "name": "Sumber Jaya"
+    "name": "Sumber Jaya",
+    "postal_code": "36367"
   },
   {
     "code": "1505092008",
     "district_code": "150509",
-    "name": "Pinang Tinggi"
+    "name": "Pinang Tinggi",
+    "postal_code": "36367"
   },
   {
     "code": "1505092009",
     "district_code": "150509",
-    "name": "Markanding"
+    "name": "Markanding",
+    "postal_code": "36367"
   },
   {
     "code": "1505092010",
     "district_code": "150509",
-    "name": "Sungai Dayo"
+    "name": "Sungai Dayo",
+    "postal_code": "36367"
   },
   {
     "code": "1505092011",
     "district_code": "150509",
-    "name": "Bahar Mulya"
+    "name": "Bahar Mulya",
+    "postal_code": "36367"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "3215152001",
     "district_code": "321515",
-    "name": "Mekarmaya"
+    "name": "Mekarmaya",
+    "postal_code": "41386"
   },
   {
     "code": "3215152002",
     "district_code": "321515",
-    "name": "Cilamaya"
+    "name": "Cilamaya",
+    "postal_code": "41386"
   },
   {
     "code": "3215152003",
     "district_code": "321515",
-    "name": "Muara"
+    "name": "Muara",
+    "postal_code": "41386"
   },
   {
     "code": "3215152004",
     "district_code": "321515",
-    "name": "Muarabaru"
+    "name": "Muarabaru",
+    "postal_code": "41386"
   },
   {
     "code": "3215152005",
     "district_code": "321515",
-    "name": "Sukatani"
+    "name": "Sukatani",
+    "postal_code": "41386"
   },
   {
     "code": "3215152006",
     "district_code": "321515",
-    "name": "Tegalwaru"
+    "name": "Tegalwaru",
+    "postal_code": "41386"
   },
   {
     "code": "3215152007",
     "district_code": "321515",
-    "name": "Tegalsari"
+    "name": "Tegalsari",
+    "postal_code": "41386"
   },
   {
     "code": "3215152008",
     "district_code": "321515",
-    "name": "Cikalong"
+    "name": "Cikalong",
+    "postal_code": "41386"
   },
   {
     "code": "3215152009",
     "district_code": "321515",
-    "name": "Cikarang"
+    "name": "Cikarang",
+    "postal_code": "41386"
   },
   {
     "code": "3215152010",
     "district_code": "321515",
-    "name": "Rawagempol Wetan"
+    "name": "Rawagempol Wetan",
+    "postal_code": "41386"
   },
   {
     "code": "3215152011",
     "district_code": "321515",
-    "name": "Rawagempol Kulon"
+    "name": "Rawagempol Kulon",
+    "postal_code": "41386"
   },
   {
     "code": "3215152012",
     "district_code": "321515",
-    "name": "Sukakerta"
+    "name": "Sukakerta",
+    "postal_code": "41386"
   }
 ]

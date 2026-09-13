@@ -2,36 +2,43 @@
   {
     "code": "1571081001",
     "district_code": "157108",
-    "name": "Talang Jauh"
+    "name": "Talang Jauh",
+    "postal_code": "36133"
   },
   {
     "code": "1571081002",
     "district_code": "157108",
-    "name": "Cempaka Putih"
+    "name": "Cempaka Putih",
+    "postal_code": "36134"
   },
   {
     "code": "1571081003",
     "district_code": "157108",
-    "name": "Kebun Handil"
+    "name": "Kebun Handil",
+    "postal_code": "36137"
   },
   {
     "code": "1571081004",
     "district_code": "157108",
-    "name": "Lebak Bandung"
+    "name": "Lebak Bandung",
+    "postal_code": "36135"
   },
   {
     "code": "1571081005",
     "district_code": "157108",
-    "name": "Payo Lebar"
+    "name": "Payo Lebar",
+    "postal_code": "36135"
   },
   {
     "code": "1571081006",
     "district_code": "157108",
-    "name": "Jelutung"
+    "name": "Jelutung",
+    "postal_code": "36136"
   },
   {
     "code": "1571081007",
     "district_code": "157108",
-    "name": "Handil Jaya"
+    "name": "Handil Jaya",
+    "postal_code": "36137"
   }
 ]

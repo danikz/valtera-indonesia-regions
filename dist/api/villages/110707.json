@@ -2,246 +2,295 @@
   {
     "code": "1107072001",
     "district_code": "110707",
-    "name": "Tampieng Tunong"
+    "name": "Tampieng Tunong",
+    "postal_code": "24171"
   },
   {
     "code": "1107072002",
     "district_code": "110707",
-    "name": "Tampieng Baroh"
+    "name": "Tampieng Baroh",
+    "postal_code": "24171"
   },
   {
     "code": "1107072003",
     "district_code": "110707",
-    "name": "Dayah Caleue"
+    "name": "Dayah Caleue",
+    "postal_code": "24171"
   },
   {
     "code": "1107072004",
     "district_code": "110707",
-    "name": "Jurong"
+    "name": "Jurong",
+    "postal_code": "24171"
   },
   {
     "code": "1107072005",
     "district_code": "110707",
-    "name": "Keutapang"
+    "name": "Keutapang",
+    "postal_code": "24171"
   },
   {
     "code": "1107072006",
     "district_code": "110707",
-    "name": "Dayah Keurako"
+    "name": "Dayah Keurako",
+    "postal_code": "24171"
   },
   {
     "code": "1107072007",
     "district_code": "110707",
-    "name": "Mesjid Lam Ujong"
+    "name": "Mesjid Lam Ujong",
+    "postal_code": "24171"
   },
   {
     "code": "1107072008",
     "district_code": "110707",
-    "name": "Baro Jruek"
+    "name": "Baro Jruek",
+    "postal_code": "24171"
   },
   {
     "code": "1107072009",
     "district_code": "110707",
-    "name": "Yub Mee"
+    "name": "Yub Mee",
+    "postal_code": "24171"
   },
   {
     "code": "1107072010",
     "district_code": "110707",
-    "name": "Raya"
+    "name": "Raya",
+    "postal_code": "24171"
   },
   {
     "code": "1107072011",
     "district_code": "110707",
-    "name": "Pulo Gampong U"
+    "name": "Pulo Gampong U",
+    "postal_code": "24171"
   },
   {
     "code": "1107072012",
     "district_code": "110707",
-    "name": "Pante Lhok Kaju"
+    "name": "Pante Lhok Kaju",
+    "postal_code": "24171"
   },
   {
     "code": "1107072014",
     "district_code": "110707",
-    "name": "Sukon Tungkop"
+    "name": "Sukon Tungkop",
+    "postal_code": "24171"
   },
   {
     "code": "1107072015",
     "district_code": "110707",
-    "name": "Rawa Tungkop"
+    "name": "Rawa Tungkop",
+    "postal_code": "24171"
   },
   {
     "code": "1107072016",
     "district_code": "110707",
-    "name": "Mesjid Tungkop"
+    "name": "Mesjid Tungkop",
+    "postal_code": "24171"
   },
   {
     "code": "1107072017",
     "district_code": "110707",
-    "name": "Dayah Muara"
+    "name": "Dayah Muara",
+    "postal_code": "24171"
   },
   {
     "code": "1107072018",
     "district_code": "110707",
-    "name": "Pante Garot"
+    "name": "Pante Garot",
+    "postal_code": "24171"
   },
   {
     "code": "1107072019",
     "district_code": "110707",
-    "name": "Garot Cut"
+    "name": "Garot Cut",
+    "postal_code": "24171"
   },
   {
     "code": "1107072020",
     "district_code": "110707",
-    "name": "Keubang"
+    "name": "Keubang",
+    "postal_code": "24171"
   },
   {
     "code": "1107072021",
     "district_code": "110707",
-    "name": "Blang Garot"
+    "name": "Blang Garot",
+    "postal_code": "24171"
   },
   {
     "code": "1107072022",
     "district_code": "110707",
-    "name": "Meulayu"
+    "name": "Meulayu",
+    "postal_code": "24171"
   },
   {
     "code": "1107072023",
     "district_code": "110707",
-    "name": "Tungkop Cut"
+    "name": "Tungkop Cut",
+    "postal_code": "24171"
   },
   {
     "code": "1107072024",
     "district_code": "110707",
-    "name": "Guci"
+    "name": "Guci",
+    "postal_code": "24171"
   },
   {
     "code": "1107072025",
     "district_code": "110707",
-    "name": "Teungoh Blang"
+    "name": "Teungoh Blang",
+    "postal_code": "24171"
   },
   {
     "code": "1107072026",
     "district_code": "110707",
-    "name": "Mesjid Dijiem"
+    "name": "Mesjid Dijiem",
+    "postal_code": "24171"
   },
   {
     "code": "1107072027",
     "district_code": "110707",
-    "name": "Sukon Ulee Gampong"
+    "name": "Sukon Ulee Gampong",
+    "postal_code": "24171"
   },
   {
     "code": "1107072028",
     "district_code": "110707",
-    "name": "Lam Kabu"
+    "name": "Lam Kabu",
+    "postal_code": "24171"
   },
   {
     "code": "1107072029",
     "district_code": "110707",
-    "name": "Ulee Birah"
+    "name": "Ulee Birah",
+    "postal_code": "24171"
   },
   {
     "code": "1107072030",
     "district_code": "110707",
-    "name": "Mesjid Baro"
+    "name": "Mesjid Baro",
+    "postal_code": "24171"
   },
   {
     "code": "1107072031",
     "district_code": "110707",
-    "name": "Lam Reuneng"
+    "name": "Lam Reuneng",
+    "postal_code": "24171"
   },
   {
     "code": "1107072032",
     "district_code": "110707",
-    "name": "Cot Seuke"
+    "name": "Cot Seuke",
+    "postal_code": "24171"
   },
   {
     "code": "1107072033",
     "district_code": "110707",
-    "name": "Drien"
+    "name": "Drien",
+    "postal_code": "24171"
   },
   {
     "code": "1107072034",
     "district_code": "110707",
-    "name": "Rumia"
+    "name": "Rumia",
+    "postal_code": "24171"
   },
   {
     "code": "1107072035",
     "district_code": "110707",
-    "name": "Wakheuh"
+    "name": "Wakheuh",
+    "postal_code": "24171"
   },
   {
     "code": "1107072036",
     "district_code": "110707",
-    "name": "Baro Bluek"
+    "name": "Baro Bluek",
+    "postal_code": "24171"
   },
   {
     "code": "1107072037",
     "district_code": "110707",
-    "name": "Mesjid Ulee Gampong"
+    "name": "Mesjid Ulee Gampong",
+    "postal_code": "24171"
   },
   {
     "code": "1107072038",
     "district_code": "110707",
-    "name": "Dayah Bie"
+    "name": "Dayah Bie",
+    "postal_code": "24171"
   },
   {
     "code": "1107072039",
     "district_code": "110707",
-    "name": "Bale Baro Bluek"
+    "name": "Bale Baro Bluek",
+    "postal_code": "24171"
   },
   {
     "code": "1107072040",
     "district_code": "110707",
-    "name": "Putoe Gapui"
+    "name": "Putoe Gapui",
+    "postal_code": "24171"
   },
   {
     "code": "1107072041",
     "district_code": "110707",
-    "name": "Blang Rapai"
+    "name": "Blang Rapai",
+    "postal_code": "24171"
   },
   {
     "code": "1107072042",
     "district_code": "110707",
-    "name": "Neulop II"
+    "name": "Neulop II",
+    "postal_code": "24171"
   },
   {
     "code": "1107072043",
     "district_code": "110707",
-    "name": "Baro Gapui"
+    "name": "Baro Gapui",
+    "postal_code": "24171"
   },
   {
     "code": "1107072044",
     "district_code": "110707",
-    "name": "Bale Baroh Gapui"
+    "name": "Bale Baroh Gapui",
+    "postal_code": "24171"
   },
   {
     "code": "1107072045",
     "district_code": "110707",
-    "name": "Glee Gapui"
+    "name": "Glee Gapui",
+    "postal_code": "24171"
   },
   {
     "code": "1107072046",
     "district_code": "110707",
-    "name": "Teungoh Suwiek"
+    "name": "Teungoh Suwiek",
+    "postal_code": "24171"
   },
   {
     "code": "1107072047",
     "district_code": "110707",
-    "name": "Mesjid Suwiek"
+    "name": "Mesjid Suwiek",
+    "postal_code": "24171"
   },
   {
     "code": "1107072048",
     "district_code": "110707",
-    "name": "Tuha Suwiek"
+    "name": "Tuha Suwiek",
+    "postal_code": "24171"
   },
   {
     "code": "1107072049",
     "district_code": "110707",
-    "name": "Beureudep"
+    "name": "Beureudep",
+    "postal_code": "24171"
   },
   {
     "code": "1107072050",
     "district_code": "110707",
-    "name": "Blang Lhok Kaju"
+    "name": "Blang Lhok Kaju",
+    "postal_code": "24171"
   }
 ]

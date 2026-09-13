@@ -2,31 +2,37 @@
   {
     "code": "6106132001",
     "district_code": "610613",
-    "name": "Keling Panggau"
+    "name": "Keling Panggau",
+    "postal_code": "78768"
   },
   {
     "code": "6106132002",
     "district_code": "610613",
-    "name": "Nanga Kantuk"
+    "name": "Nanga Kantuk",
+    "postal_code": "78768"
   },
   {
     "code": "6106132003",
     "district_code": "610613",
-    "name": "Tintin Peninjau"
+    "name": "Tintin Peninjau",
+    "postal_code": "78768"
   },
   {
     "code": "6106132004",
     "district_code": "610613",
-    "name": "Bajau Andai"
+    "name": "Bajau Andai",
+    "postal_code": "78768"
   },
   {
     "code": "6106132005",
     "district_code": "610613",
-    "name": "Kumang Jaya"
+    "name": "Kumang Jaya",
+    "postal_code": "78768"
   },
   {
     "code": "6106132006",
     "district_code": "610613",
-    "name": "Laja Sandang"
+    "name": "Laja Sandang",
+    "postal_code": "78768"
   }
 ]

@@ -2,96 +2,115 @@
   {
     "code": "9504052001",
     "district_code": "950405",
-    "name": "Goyage"
+    "name": "Goyage",
+    "postal_code": "99025"
   },
   {
     "code": "9504052002",
     "district_code": "950405",
-    "name": "Yemarima"
+    "name": "Yemarima",
+    "postal_code": "99415"
   },
   {
     "code": "9504052003",
     "district_code": "950405",
-    "name": "Tigikun"
+    "name": "Tigikun",
+    "postal_code": "99025"
   },
   {
     "code": "9504052004",
     "district_code": "950405",
-    "name": "Dugi"
+    "name": "Dugi",
+    "postal_code": "99025"
   },
   {
     "code": "9504052005",
     "district_code": "950405",
-    "name": "Doge"
+    "name": "Doge",
+    "postal_code": "99415"
   },
   {
     "code": "9504052006",
     "district_code": "950405",
-    "name": "Benari"
+    "name": "Benari",
+    "postal_code": "99415"
   },
   {
     "code": "9504052007",
     "district_code": "950405",
-    "name": "Wijamurik"
+    "name": "Wijamurik",
+    "postal_code": "99025"
   },
   {
     "code": "9504052008",
     "district_code": "950405",
-    "name": "Woji"
+    "name": "Woji",
+    "postal_code": "99025"
   },
   {
     "code": "9504052009",
     "district_code": "950405",
-    "name": "Mampulaga"
+    "name": "Mampulaga",
+    "postal_code": "99415"
   },
   {
     "code": "9504052010",
     "district_code": "950405",
-    "name": "Tidur Mabuk"
+    "name": "Tidur Mabuk",
+    "postal_code": "99415"
   },
   {
     "code": "9504052011",
     "district_code": "950405",
-    "name": "Bini"
+    "name": "Bini",
+    "postal_code": "99415"
   },
   {
     "code": "9504052012",
     "district_code": "950405",
-    "name": "Didelonik"
+    "name": "Didelonik",
+    "postal_code": "99415"
   },
   {
     "code": "9504052013",
     "district_code": "950405",
-    "name": "Kumbu"
+    "name": "Kumbu",
+    "postal_code": "99415"
   },
   {
     "code": "9504052014",
     "district_code": "950405",
-    "name": "Peko"
+    "name": "Peko",
+    "postal_code": "99415"
   },
   {
     "code": "9504052015",
     "district_code": "950405",
-    "name": "Tiri"
+    "name": "Tiri",
+    "postal_code": "99415"
   },
   {
     "code": "9504052016",
     "district_code": "950405",
-    "name": "Tigir"
+    "name": "Tigir",
+    "postal_code": "99415"
   },
   {
     "code": "9504052017",
     "district_code": "950405",
-    "name": "Bopa"
+    "name": "Bopa",
+    "postal_code": "99415"
   },
   {
     "code": "9504052018",
     "district_code": "950405",
-    "name": "Angkasa"
+    "name": "Angkasa",
+    "postal_code": "99025"
   },
   {
     "code": "9504052019",
     "district_code": "950405",
-    "name": "Gilok"
+    "name": "Gilok",
+    "postal_code": "99025"
   }
 ]

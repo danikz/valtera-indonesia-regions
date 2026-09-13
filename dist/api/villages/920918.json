@@ -2,26 +2,31 @@
   {
     "code": "9209182001",
     "district_code": "920918",
-    "name": "Syumbab"
+    "name": "Syumbab",
+    "postal_code": ""
   },
   {
     "code": "9209182002",
     "district_code": "920918",
-    "name": "Krisnos"
+    "name": "Krisnos",
+    "postal_code": ""
   },
   {
     "code": "9209182003",
     "district_code": "920918",
-    "name": "Syukwes"
+    "name": "Syukwes",
+    "postal_code": ""
   },
   {
     "code": "9209182004",
     "district_code": "920918",
-    "name": "Donan"
+    "name": "Donan",
+    "postal_code": ""
   },
   {
     "code": "9209182005",
     "district_code": "920918",
-    "name": "Dombron"
+    "name": "Dombron",
+    "postal_code": ""
   }
 ]

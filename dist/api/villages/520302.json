@@ -2,61 +2,73 @@
   {
     "code": "5203022001",
     "district_code": "520302",
-    "name": "Suwangi"
+    "name": "Suwangi",
+    "postal_code": "83671"
   },
   {
     "code": "5203022002",
     "district_code": "520302",
-    "name": "Sakra"
+    "name": "Sakra",
+    "postal_code": "83671"
   },
   {
     "code": "5203022003",
     "district_code": "520302",
-    "name": "Kabar"
+    "name": "Kabar",
+    "postal_code": "83671"
   },
   {
     "code": "5203022004",
     "district_code": "520302",
-    "name": "Rumbuk"
+    "name": "Rumbuk",
+    "postal_code": "83671"
   },
   {
     "code": "5203022005",
     "district_code": "520302",
-    "name": "Keselet"
+    "name": "Keselet",
+    "postal_code": "83671"
   },
   {
     "code": "5203022006",
     "district_code": "520302",
-    "name": "Sakra Selatan"
+    "name": "Sakra Selatan",
+    "postal_code": "83671"
   },
   {
     "code": "5203022007",
     "district_code": "520302",
-    "name": "Rumbuk Timur"
+    "name": "Rumbuk Timur",
+    "postal_code": "83671"
   },
   {
     "code": "5203022008",
     "district_code": "520302",
-    "name": "Suwangi Timur"
+    "name": "Suwangi Timur",
+    "postal_code": "83671"
   },
   {
     "code": "5203022009",
     "district_code": "520302",
-    "name": "Moyot"
+    "name": "Moyot",
+    "postal_code": "83671"
   },
   {
     "code": "5203022010",
     "district_code": "520302",
-    "name": "Songak"
+    "name": "Songak",
+    "postal_code": "83671"
   },
   {
     "code": "5203022011",
     "district_code": "520302",
-    "name": "Peresak"
+    "name": "Peresak",
+    "postal_code": "83671"
   },
   {
     "code": "5203022012",
     "district_code": "520302",
-    "name": "Kuang Baru"
+    "name": "Kuang Baru",
+    "postal_code": "83671"
   }
 ]

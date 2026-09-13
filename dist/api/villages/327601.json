@@ -2,31 +2,37 @@
   {
     "code": "3276011006",
     "district_code": "327601",
-    "name": "Depok"
+    "name": "Depok",
+    "postal_code": "16431"
   },
   {
     "code": "3276011007",
     "district_code": "327601",
-    "name": "Depok Jaya"
+    "name": "Depok Jaya",
+    "postal_code": "16432"
   },
   {
     "code": "3276011008",
     "district_code": "327601",
-    "name": "Pancoran Mas"
+    "name": "Pancoran Mas",
+    "postal_code": "16436"
   },
   {
     "code": "3276011009",
     "district_code": "327601",
-    "name": "Mampang"
+    "name": "Mampang",
+    "postal_code": "16433"
   },
   {
     "code": "3276011010",
     "district_code": "327601",
-    "name": "Rangkapan Jaya Baru"
+    "name": "Rangkapan Jaya Baru",
+    "postal_code": "16434"
   },
   {
     "code": "3276011011",
     "district_code": "327601",
-    "name": "Rangkapan Jaya"
+    "name": "Rangkapan Jaya",
+    "postal_code": "16435"
   }
 ]

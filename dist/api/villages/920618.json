@@ -2,36 +2,43 @@
   {
     "code": "9206182001",
     "district_code": "920618",
-    "name": "Jahabra"
+    "name": "Jahabra",
+    "postal_code": "98161"
   },
   {
     "code": "9206182002",
     "district_code": "920618",
-    "name": "Ibori"
+    "name": "Ibori",
+    "postal_code": "98161"
   },
   {
     "code": "9206182003",
     "district_code": "920618",
-    "name": "Menyembru"
+    "name": "Menyembru",
+    "postal_code": "98161"
   },
   {
     "code": "9206182004",
     "district_code": "920618",
-    "name": "Meyorga"
+    "name": "Meyorga",
+    "postal_code": "98161"
   },
   {
     "code": "9206182005",
     "district_code": "920618",
-    "name": "Laudoho"
+    "name": "Laudoho",
+    "postal_code": "98161"
   },
   {
     "code": "9206182006",
     "district_code": "920618",
-    "name": "Eniba"
+    "name": "Eniba",
+    "postal_code": "98161"
   },
   {
     "code": "9206182007",
     "district_code": "920618",
-    "name": "Mowitka"
+    "name": "Mowitka",
+    "postal_code": "98161"
   }
 ]

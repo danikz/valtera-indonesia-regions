@@ -2,41 +2,49 @@
   {
     "code": "7413022001",
     "district_code": "741302",
-    "name": "Wuna"
+    "name": "Wuna",
+    "postal_code": "93650"
   },
   {
     "code": "7413022002",
     "district_code": "741302",
-    "name": "Lafinde"
+    "name": "Lafinde",
+    "postal_code": "93650"
   },
   {
     "code": "7413022003",
     "district_code": "741302",
-    "name": "Waulai"
+    "name": "Waulai",
+    "postal_code": "93650"
   },
   {
     "code": "7413022004",
     "district_code": "741302",
-    "name": "Walelei"
+    "name": "Walelei",
+    "postal_code": "93650"
   },
   {
     "code": "7413022005",
     "district_code": "741302",
-    "name": "Sawerigadi"
+    "name": "Sawerigadi",
+    "postal_code": "93650"
   },
   {
     "code": "7413022006",
     "district_code": "741302",
-    "name": "Bungkolo"
+    "name": "Bungkolo",
+    "postal_code": "93650"
   },
   {
     "code": "7413022007",
     "district_code": "741302",
-    "name": "Barangka"
+    "name": "Barangka",
+    "postal_code": "93650"
   },
   {
     "code": "7413022008",
     "district_code": "741302",
-    "name": "Lapolea"
+    "name": "Lapolea",
+    "postal_code": "93650"
   }
 ]

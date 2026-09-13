@@ -2,51 +2,61 @@
   {
     "code": "1203311001",
     "district_code": "120331",
-    "name": "Sangkunur"
+    "name": "Sangkunur",
+    "postal_code": "22734"
   },
   {
     "code": "1203311002",
     "district_code": "120331",
-    "name": "Rianiate"
+    "name": "Rianiate",
+    "postal_code": "22734"
   },
   {
     "code": "1203312003",
     "district_code": "120331",
-    "name": "Simatohir"
+    "name": "Simatohir",
+    "postal_code": "22734"
   },
   {
     "code": "1203312004",
     "district_code": "120331",
-    "name": "Perkebunan"
+    "name": "Perkebunan",
+    "postal_code": "22734"
   },
   {
     "code": "1203312005",
     "district_code": "120331",
-    "name": "Bandar Tarutung"
+    "name": "Bandar Tarutung",
+    "postal_code": "22734"
   },
   {
     "code": "1203312006",
     "district_code": "120331",
-    "name": "Aek Pardomuan"
+    "name": "Aek Pardomuan",
+    "postal_code": "22734"
   },
   {
     "code": "1203312007",
     "district_code": "120331",
-    "name": "Tindoan Laut"
+    "name": "Tindoan Laut",
+    "postal_code": "22734"
   },
   {
     "code": "1203312008",
     "district_code": "120331",
-    "name": "Simataniari"
+    "name": "Simataniari",
+    "postal_code": "22734"
   },
   {
     "code": "1203312009",
     "district_code": "120331",
-    "name": "Batu Godang"
+    "name": "Batu Godang",
+    "postal_code": "22734"
   },
   {
     "code": "1203312010",
     "district_code": "120331",
-    "name": "Malombu"
+    "name": "Malombu",
+    "postal_code": "22734"
   }
 ]

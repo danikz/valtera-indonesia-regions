@@ -2,41 +2,49 @@
   {
     "code": "1401182001",
     "district_code": "140118",
-    "name": "Muara Jalai"
+    "name": "Muara Jalai",
+    "postal_code": "28469"
   },
   {
     "code": "1401182002",
     "district_code": "140118",
-    "name": "Sawah"
+    "name": "Sawah",
+    "postal_code": "28469"
   },
   {
     "code": "1401182003",
     "district_code": "140118",
-    "name": "Kampung Panjang"
+    "name": "Kampung Panjang",
+    "postal_code": "28469"
   },
   {
     "code": "1401182004",
     "district_code": "140118",
-    "name": "Kayu Aro"
+    "name": "Kayu Aro",
+    "postal_code": "28469"
   },
   {
     "code": "1401182005",
     "district_code": "140118",
-    "name": "Sei Tonang"
+    "name": "Sei Tonang",
+    "postal_code": "28469"
   },
   {
     "code": "1401182006",
     "district_code": "140118",
-    "name": "Sei Jalau"
+    "name": "Sei Jalau",
+    "postal_code": "28469"
   },
   {
     "code": "1401182007",
     "district_code": "140118",
-    "name": "Sendayan"
+    "name": "Sendayan",
+    "postal_code": "28469"
   },
   {
     "code": "1401182008",
     "district_code": "140118",
-    "name": "Naga Beralih"
+    "name": "Naga Beralih",
+    "postal_code": "28469"
   }
 ]

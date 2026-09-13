@@ -2,31 +2,37 @@
   {
     "code": "1509092001",
     "district_code": "150909",
-    "name": "Muara Kilis"
+    "name": "Muara Kilis",
+    "postal_code": "37574"
   },
   {
     "code": "1509092002",
     "district_code": "150909",
-    "name": "Penapalan"
+    "name": "Penapalan",
+    "postal_code": "37574"
   },
   {
     "code": "1509092003",
     "district_code": "150909",
-    "name": "Mengupeh"
+    "name": "Mengupeh",
+    "postal_code": "37574"
   },
   {
     "code": "1509092004",
     "district_code": "150909",
-    "name": "Rantau Api"
+    "name": "Rantau Api",
+    "postal_code": "37574"
   },
   {
     "code": "1509092005",
     "district_code": "150909",
-    "name": "Lubuk Mandarsah"
+    "name": "Lubuk Mandarsah",
+    "postal_code": "37574"
   },
   {
     "code": "1509092006",
     "district_code": "150909",
-    "name": "Lubuk Mandarsah Ulu"
+    "name": "Lubuk Mandarsah Ulu",
+    "postal_code": "37574"
   }
 ]

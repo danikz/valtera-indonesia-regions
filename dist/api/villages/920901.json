@@ -2,51 +2,61 @@
   {
     "code": "9209012001",
     "district_code": "920901",
-    "name": "Fef"
+    "name": "Fef",
+    "postal_code": ""
   },
   {
     "code": "9209012003",
     "district_code": "920901",
-    "name": "Wayo"
+    "name": "Wayo",
+    "postal_code": ""
   },
   {
     "code": "9209012004",
     "district_code": "920901",
-    "name": "Syubun"
+    "name": "Syubun",
+    "postal_code": ""
   },
   {
     "code": "9209012006",
     "district_code": "920901",
-    "name": "Sikor"
+    "name": "Sikor",
+    "postal_code": ""
   },
   {
     "code": "9209012010",
     "district_code": "920901",
-    "name": "Ibe"
+    "name": "Ibe",
+    "postal_code": ""
   },
   {
     "code": "9209012011",
     "district_code": "920901",
-    "name": "Syunam"
+    "name": "Syunam",
+    "postal_code": ""
   },
   {
     "code": "9209012012",
     "district_code": "920901",
-    "name": "Banfot"
+    "name": "Banfot",
+    "postal_code": ""
   },
   {
     "code": "9209012013",
     "district_code": "920901",
-    "name": "Iwin"
+    "name": "Iwin",
+    "postal_code": ""
   },
   {
     "code": "9209012014",
     "district_code": "920901",
-    "name": "Esyum"
+    "name": "Esyum",
+    "postal_code": ""
   },
   {
     "code": "9209012015",
     "district_code": "920901",
-    "name": "Imor"
+    "name": "Imor",
+    "postal_code": ""
   }
 ]

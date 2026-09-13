@@ -2,66 +2,79 @@
   {
     "code": "1501022001",
     "district_code": "150102",
-    "name": "Sanggaran Agung"
+    "name": "Sanggaran Agung",
+    "postal_code": "37172"
   },
   {
     "code": "1501022002",
     "district_code": "150102",
-    "name": "Kota Baru Sanggaran Agung"
+    "name": "Kota Baru Sanggaran Agung",
+    "postal_code": "37172"
   },
   {
     "code": "1501022003",
     "district_code": "150102",
-    "name": "Pendung Talang Genting"
+    "name": "Pendung Talang Genting",
+    "postal_code": "37172"
   },
   {
     "code": "1501022004",
     "district_code": "150102",
-    "name": "Seleman"
+    "name": "Seleman",
+    "postal_code": "37172"
   },
   {
     "code": "1501022005",
     "district_code": "150102",
-    "name": "Tebing Tinggi"
+    "name": "Tebing Tinggi",
+    "postal_code": "37172"
   },
   {
     "code": "1501022006",
     "district_code": "150102",
-    "name": "Cupak"
+    "name": "Cupak",
+    "postal_code": "37172"
   },
   {
     "code": "1501022007",
     "district_code": "150102",
-    "name": "Tanjungtanah"
+    "name": "Tanjungtanah",
+    "postal_code": "37172"
   },
   {
     "code": "1501022008",
     "district_code": "150102",
-    "name": "Koto Tengah"
+    "name": "Koto Tengah",
+    "postal_code": "37172"
   },
   {
     "code": "1501022013",
     "district_code": "150102",
-    "name": "Simpang Empat"
+    "name": "Simpang Empat",
+    "postal_code": "37172"
   },
   {
     "code": "1501022014",
     "district_code": "150102",
-    "name": "Talang Kemulun"
+    "name": "Talang Kemulun",
+    "postal_code": "37172"
   },
   {
     "code": "1501022015",
     "district_code": "150102",
-    "name": "Dusun Baru Tanjung Tanah"
+    "name": "Dusun Baru Tanjung Tanah",
+    "postal_code": "37172"
   },
   {
     "code": "1501022016",
     "district_code": "150102",
-    "name": "Pasar Sore Seleman"
+    "name": "Pasar Sore Seleman",
+    "postal_code": "37172"
   },
   {
     "code": "1501022018",
     "district_code": "150102",
-    "name": "Tanjungharapan"
+    "name": "Tanjungharapan",
+    "postal_code": "37172"
   }
 ]

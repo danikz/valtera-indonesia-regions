@@ -2,56 +2,67 @@
   {
     "code": "1216042001",
     "district_code": "121604",
-    "name": "Sihonongan"
+    "name": "Sihonongan",
+    "postal_code": "22477"
   },
   {
     "code": "1216042002",
     "district_code": "121604",
-    "name": "Paranginan Selatan"
+    "name": "Paranginan Selatan",
+    "postal_code": "22477"
   },
   {
     "code": "1216042003",
     "district_code": "121604",
-    "name": "Paranginan Utara"
+    "name": "Paranginan Utara",
+    "postal_code": "22477"
   },
   {
     "code": "1216042004",
     "district_code": "121604",
-    "name": "Lumban Sialaman"
+    "name": "Lumban Sialaman",
+    "postal_code": "22477"
   },
   {
     "code": "1216042005",
     "district_code": "121604",
-    "name": "Pearung"
+    "name": "Pearung",
+    "postal_code": "22477"
   },
   {
     "code": "1216042006",
     "district_code": "121604",
-    "name": "Lobutolong"
+    "name": "Lobutolong",
+    "postal_code": "22477"
   },
   {
     "code": "1216042007",
     "district_code": "121604",
-    "name": "Lumban Barat"
+    "name": "Lumban Barat",
+    "postal_code": "22477"
   },
   {
     "code": "1216042008",
     "district_code": "121604",
-    "name": "Siboru Torop"
+    "name": "Siboru Torop",
+    "postal_code": "22477"
   },
   {
     "code": "1216042009",
     "district_code": "121604",
-    "name": "Pearung Silali"
+    "name": "Pearung Silali",
+    "postal_code": "22477"
   },
   {
     "code": "1216042010",
     "district_code": "121604",
-    "name": "Lumban Sianturi"
+    "name": "Lumban Sianturi",
+    "postal_code": "22477"
   },
   {
     "code": "1216042011",
     "district_code": "121604",
-    "name": "Lobutolong Habinsaran"
+    "name": "Lobutolong Habinsaran",
+    "postal_code": "22477"
   }
 ]

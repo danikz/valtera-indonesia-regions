@@ -2,26 +2,31 @@
   {
     "code": "1406152001",
     "district_code": "140615",
-    "name": "Kepenuhan Hulu"
+    "name": "Kepenuhan Hulu",
+    "postal_code": "28564"
   },
   {
     "code": "1406152002",
     "district_code": "140615",
-    "name": "Pekan Tebih"
+    "name": "Pekan Tebih",
+    "postal_code": "28564"
   },
   {
     "code": "1406152003",
     "district_code": "140615",
-    "name": "Kepayang"
+    "name": "Kepayang",
+    "postal_code": "28564"
   },
   {
     "code": "1406152004",
     "district_code": "140615",
-    "name": "Muara Jaya"
+    "name": "Muara Jaya",
+    "postal_code": "28564"
   },
   {
     "code": "1406152005",
     "district_code": "140615",
-    "name": "Kepenuhan Jaya"
+    "name": "Kepenuhan Jaya",
+    "postal_code": "28564"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "2103092001",
     "district_code": "210309",
-    "name": "Subi"
+    "name": "Subi",
+    "postal_code": "29779"
   },
   {
     "code": "2103092002",
     "district_code": "210309",
-    "name": "Subi Besar"
+    "name": "Subi Besar",
+    "postal_code": "29779"
   },
   {
     "code": "2103092003",
     "district_code": "210309",
-    "name": "Meliah"
+    "name": "Meliah",
+    "postal_code": "29779"
   },
   {
     "code": "2103092004",
     "district_code": "210309",
-    "name": "Pulau Panjang"
+    "name": "Pulau Panjang",
+    "postal_code": ""
   },
   {
     "code": "2103092005",
     "district_code": "210309",
-    "name": "Terayak"
+    "name": "Terayak",
+    "postal_code": "29779"
   },
   {
     "code": "2103092006",
     "district_code": "210309",
-    "name": "Pulau Kerdau"
+    "name": "Pulau Kerdau",
+    "postal_code": ""
   },
   {
     "code": "2103092007",
     "district_code": "210309",
-    "name": "Subi Besar Timur"
+    "name": "Subi Besar Timur",
+    "postal_code": "29779"
   },
   {
     "code": "2103092008",
     "district_code": "210309",
-    "name": "Meliah Selatan"
+    "name": "Meliah Selatan",
+    "postal_code": "29779"
   }
 ]

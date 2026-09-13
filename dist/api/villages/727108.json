@@ -2,41 +2,49 @@
   {
     "code": "7271081001",
     "district_code": "727108",
-    "name": "Layana Indah"
+    "name": "Layana Indah",
+    "postal_code": "94111"
   },
   {
     "code": "7271081002",
     "district_code": "727108",
-    "name": "Tondo"
+    "name": "Tondo",
+    "postal_code": "94119"
   },
   {
     "code": "7271081003",
     "district_code": "727108",
-    "name": "Talise"
+    "name": "Talise",
+    "postal_code": "94118"
   },
   {
     "code": "7271081004",
     "district_code": "727108",
-    "name": "Tanamodindi"
+    "name": "Tanamodindi",
+    "postal_code": "94234"
   },
   {
     "code": "7271081005",
     "district_code": "727108",
-    "name": "Lasoani"
+    "name": "Lasoani",
+    "postal_code": "94116"
   },
   {
     "code": "7271081006",
     "district_code": "727108",
-    "name": "Poboya"
+    "name": "Poboya",
+    "postal_code": "94115"
   },
   {
     "code": "7271081007",
     "district_code": "727108",
-    "name": "Kawatuna"
+    "name": "Kawatuna",
+    "postal_code": "94233"
   },
   {
     "code": "7271081008",
     "district_code": "727108",
-    "name": "Talise Valangguni"
+    "name": "Talise Valangguni",
+    "postal_code": "94118"
   }
 ]

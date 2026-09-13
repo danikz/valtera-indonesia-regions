@@ -2,36 +2,43 @@
   {
     "code": "5303232001",
     "district_code": "530323",
-    "name": "Tunbes"
+    "name": "Tunbes",
+    "postal_code": "85681"
   },
   {
     "code": "5303232002",
     "district_code": "530323",
-    "name": "Luniup"
+    "name": "Luniup",
+    "postal_code": "85681"
   },
   {
     "code": "5303232003",
     "district_code": "530323",
-    "name": "Matabesi"
+    "name": "Matabesi",
+    "postal_code": "85681"
   },
   {
     "code": "5303232004",
     "district_code": "530323",
-    "name": "Oepuah"
+    "name": "Oepuah",
+    "postal_code": "85681"
   },
   {
     "code": "5303232005",
     "district_code": "530323",
-    "name": "Kaubele"
+    "name": "Kaubele",
+    "postal_code": "85681"
   },
   {
     "code": "5303232006",
     "district_code": "530323",
-    "name": "Oepuah Utara"
+    "name": "Oepuah Utara",
+    "postal_code": "85681"
   },
   {
     "code": "5303232007",
     "district_code": "530323",
-    "name": "Oepuah Selatan"
+    "name": "Oepuah Selatan",
+    "postal_code": "85681"
   }
 ]

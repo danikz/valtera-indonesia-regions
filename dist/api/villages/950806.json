@@ -2,91 +2,109 @@
   {
     "code": "9508062001",
     "district_code": "950806",
-    "name": "Mugi"
+    "name": "Mugi",
+    "postal_code": "99913"
   },
   {
     "code": "9508062002",
     "district_code": "950806",
-    "name": "Dondoklema"
+    "name": "Dondoklema",
+    "postal_code": "99546"
   },
   {
     "code": "9508062003",
     "district_code": "950806",
-    "name": "Dobopem"
+    "name": "Dobopem",
+    "postal_code": "99546"
   },
   {
     "code": "9508062004",
     "district_code": "950806",
-    "name": "Paru"
+    "name": "Paru",
+    "postal_code": "99546"
   },
   {
     "code": "9508062005",
     "district_code": "950806",
-    "name": "Wundui"
+    "name": "Wundui",
+    "postal_code": "99913"
   },
   {
     "code": "9508062006",
     "district_code": "950806",
-    "name": "Kemamburu"
+    "name": "Kemamburu",
+    "postal_code": "99913"
   },
   {
     "code": "9508062007",
     "district_code": "950806",
-    "name": "Womsit"
+    "name": "Womsit",
+    "postal_code": "99913"
   },
   {
     "code": "9508062008",
     "district_code": "950806",
-    "name": "Delit"
+    "name": "Delit",
+    "postal_code": "99913"
   },
   {
     "code": "9508062009",
     "district_code": "950806",
-    "name": "Keret Anggoma"
+    "name": "Keret Anggoma",
+    "postal_code": "99913"
   },
   {
     "code": "9508062010",
     "district_code": "950806",
-    "name": "Manet"
+    "name": "Manet",
+    "postal_code": "99913"
   },
   {
     "code": "9508062011",
     "district_code": "950806",
-    "name": "Miri"
+    "name": "Miri",
+    "postal_code": "99913"
   },
   {
     "code": "9508062012",
     "district_code": "950806",
-    "name": "Yelsengge"
+    "name": "Yelsengge",
+    "postal_code": "99913"
   },
   {
     "code": "9508062013",
     "district_code": "950806",
-    "name": "Sarit"
+    "name": "Sarit",
+    "postal_code": "99913"
   },
   {
     "code": "9508062014",
     "district_code": "950806",
-    "name": "Unue"
+    "name": "Unue",
+    "postal_code": "99913"
   },
   {
     "code": "9508062015",
     "district_code": "950806",
-    "name": "Mirikil"
+    "name": "Mirikil",
+    "postal_code": "99913"
   },
   {
     "code": "9508062016",
     "district_code": "950806",
-    "name": "Sambua"
+    "name": "Sambua",
+    "postal_code": "99546"
   },
   {
     "code": "9508062017",
     "district_code": "950806",
-    "name": "Gisarok"
+    "name": "Gisarok",
+    "postal_code": "99546"
   },
   {
     "code": "9508062018",
     "district_code": "950806",
-    "name": "Isiklak"
+    "name": "Isiklak",
+    "postal_code": "99546"
   }
 ]

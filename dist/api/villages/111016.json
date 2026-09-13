@@ -2,21 +2,25 @@
   {
     "code": "1110162001",
     "district_code": "111016",
-    "name": "Haloban"
+    "name": "Haloban",
+    "postal_code": "24790"
   },
   {
     "code": "1110162002",
     "district_code": "111016",
-    "name": "Asantola"
+    "name": "Asantola",
+    "postal_code": "24790"
   },
   {
     "code": "1110162003",
     "district_code": "111016",
-    "name": "Ujung Sialit"
+    "name": "Ujung Sialit",
+    "postal_code": "24790"
   },
   {
     "code": "1110162004",
     "district_code": "111016",
-    "name": "Suka Makmur"
+    "name": "Suka Makmur",
+    "postal_code": "24790"
   }
 ]

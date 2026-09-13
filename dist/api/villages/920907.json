@@ -2,21 +2,25 @@
   {
     "code": "9209072001",
     "district_code": "920907",
-    "name": "Syujak"
+    "name": "Syujak",
+    "postal_code": ""
   },
   {
     "code": "9209072002",
     "district_code": "920907",
-    "name": "Banso"
+    "name": "Banso",
+    "postal_code": ""
   },
   {
     "code": "9209072004",
     "district_code": "920907",
-    "name": "Iof"
+    "name": "Iof",
+    "postal_code": ""
   },
   {
     "code": "9209072005",
     "district_code": "920907",
-    "name": "Frafane"
+    "name": "Frafane",
+    "postal_code": ""
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "5203122001",
     "district_code": "520312",
-    "name": "Rempung"
+    "name": "Rempung",
+    "postal_code": "83660"
   },
   {
     "code": "5203122002",
     "district_code": "520312",
-    "name": "Pringgasela"
+    "name": "Pringgasela",
+    "postal_code": "83660"
   },
   {
     "code": "5203122003",
     "district_code": "520312",
-    "name": "Jurit"
+    "name": "Jurit",
+    "postal_code": "83660"
   },
   {
     "code": "5203122004",
     "district_code": "520312",
-    "name": "Pengadangan"
+    "name": "Pengadangan",
+    "postal_code": "83660"
   },
   {
     "code": "5203122005",
     "district_code": "520312",
-    "name": "Aik Dewa"
+    "name": "Aik Dewa",
+    "postal_code": "83660"
   },
   {
     "code": "5203122006",
     "district_code": "520312",
-    "name": "Jurit Baru"
+    "name": "Jurit Baru",
+    "postal_code": "83660"
   },
   {
     "code": "5203122007",
     "district_code": "520312",
-    "name": "Pringgasela Selatan"
+    "name": "Pringgasela Selatan",
+    "postal_code": "83660"
   },
   {
     "code": "5203122008",
     "district_code": "520312",
-    "name": "Pengadangan Barat"
+    "name": "Pengadangan Barat",
+    "postal_code": "83660"
   },
   {
     "code": "5203122009",
     "district_code": "520312",
-    "name": "Timbanuh"
+    "name": "Timbanuh",
+    "postal_code": "83660"
   },
   {
     "code": "5203122010",
     "district_code": "520312",
-    "name": "Pringgasela Timur"
+    "name": "Pringgasela Timur",
+    "postal_code": "83660"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "9504041001",
     "district_code": "950404",
-    "name": "Kembu"
+    "name": "Kembu",
+    "postal_code": "99056"
   },
   {
     "code": "9504042002",
     "district_code": "950404",
-    "name": "Mamit"
+    "name": "Mamit",
+    "postal_code": "99414"
   },
   {
     "code": "9504042003",
     "district_code": "950404",
-    "name": "Yowo"
+    "name": "Yowo",
+    "postal_code": "99414"
   },
   {
     "code": "9504042004",
     "district_code": "950404",
-    "name": "Nugari"
+    "name": "Nugari",
+    "postal_code": "99414"
   },
   {
     "code": "9504042005",
     "district_code": "950404",
-    "name": "Kobon"
+    "name": "Kobon",
+    "postal_code": "99414"
   },
   {
     "code": "9504042006",
     "district_code": "950404",
-    "name": "Kabori"
+    "name": "Kabori",
+    "postal_code": "99414"
   },
   {
     "code": "9504042007",
     "district_code": "950404",
-    "name": "Genani"
+    "name": "Genani",
+    "postal_code": "99414"
   },
   {
     "code": "9504042008",
     "district_code": "950404",
-    "name": "Wulinaga"
+    "name": "Wulinaga",
+    "postal_code": "99414"
   },
   {
     "code": "9504042009",
     "district_code": "950404",
-    "name": "Aworera"
+    "name": "Aworera",
+    "postal_code": "99414"
   },
   {
     "code": "9504042010",
     "district_code": "950404",
-    "name": "Agimdek"
+    "name": "Agimdek",
+    "postal_code": "99056"
   },
   {
     "code": "9504042011",
     "district_code": "950404",
-    "name": "Tioga"
+    "name": "Tioga",
+    "postal_code": "99414"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "5320061001",
     "district_code": "532006",
-    "name": "Ledeke"
+    "name": "Ledeke",
+    "postal_code": "85393"
   },
   {
     "code": "5320061002",
     "district_code": "532006",
-    "name": "Ledeunu"
+    "name": "Ledeunu",
+    "postal_code": "85393"
   },
   {
     "code": "5320062003",
     "district_code": "532006",
-    "name": "Bolua"
+    "name": "Bolua",
+    "postal_code": "85393"
   },
   {
     "code": "5320062004",
     "district_code": "532006",
-    "name": "Kolorae"
+    "name": "Kolorae",
+    "postal_code": "85393"
   },
   {
     "code": "5320062005",
     "district_code": "532006",
-    "name": "Ballu"
+    "name": "Ballu",
+    "postal_code": "85393"
   }
 ]

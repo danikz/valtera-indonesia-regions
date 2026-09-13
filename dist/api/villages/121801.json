@@ -2,61 +2,73 @@
   {
     "code": "1218012001",
     "district_code": "121801",
-    "name": "Pantai Cermin Kanan"
+    "name": "Pantai Cermin Kanan",
+    "postal_code": "20987"
   },
   {
     "code": "1218012002",
     "district_code": "121801",
-    "name": "Pantai Cermin Kiri"
+    "name": "Pantai Cermin Kiri",
+    "postal_code": "20987"
   },
   {
     "code": "1218012003",
     "district_code": "121801",
-    "name": "Kota Pari"
+    "name": "Kota Pari",
+    "postal_code": "20987"
   },
   {
     "code": "1218012004",
     "district_code": "121801",
-    "name": "Celawan"
+    "name": "Celawan",
+    "postal_code": "20987"
   },
   {
     "code": "1218012005",
     "district_code": "121801",
-    "name": "Ujung Rambung"
+    "name": "Ujung Rambung",
+    "postal_code": "20987"
   },
   {
     "code": "1218012006",
     "district_code": "121801",
-    "name": "Kuala Lama"
+    "name": "Kuala Lama",
+    "postal_code": "20987"
   },
   {
     "code": "1218012007",
     "district_code": "121801",
-    "name": "Besar II Terjun"
+    "name": "Besar II Terjun",
+    "postal_code": "20987"
   },
   {
     "code": "1218012008",
     "district_code": "121801",
-    "name": "Sementara"
+    "name": "Sementara",
+    "postal_code": "20987"
   },
   {
     "code": "1218012009",
     "district_code": "121801",
-    "name": "Ara Payung"
+    "name": "Ara Payung",
+    "postal_code": "20987"
   },
   {
     "code": "1218012010",
     "district_code": "121801",
-    "name": "Pematang Kasih"
+    "name": "Pematang Kasih",
+    "postal_code": "20987"
   },
   {
     "code": "1218012011",
     "district_code": "121801",
-    "name": "Lubuk Saban"
+    "name": "Lubuk Saban",
+    "postal_code": "20987"
   },
   {
     "code": "1218012012",
     "district_code": "121801",
-    "name": "Naga Kisar"
+    "name": "Naga Kisar",
+    "postal_code": "20987"
   }
 ]

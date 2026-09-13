@@ -2,21 +2,25 @@
   {
     "code": "1304142001",
     "district_code": "130414",
-    "name": "Batu Taba"
+    "name": "Batu Taba",
+    "postal_code": "27266"
   },
   {
     "code": "1304142002",
     "district_code": "130414",
-    "name": "Sumpur"
+    "name": "Sumpur",
+    "postal_code": "27266"
   },
   {
     "code": "1304142003",
     "district_code": "130414",
-    "name": "Padang Laweh Malalo"
+    "name": "Padang Laweh Malalo",
+    "postal_code": "27266"
   },
   {
     "code": "1304142004",
     "district_code": "130414",
-    "name": "Guguak Malalo"
+    "name": "Guguak Malalo",
+    "postal_code": "27266"
   }
 ]

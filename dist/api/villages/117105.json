@@ -2,46 +2,55 @@
   {
     "code": "1171052001",
     "district_code": "117105",
-    "name": "Leung Bata"
+    "name": "Leung Bata",
+    "postal_code": "23247"
   },
   {
     "code": "1171052002",
     "district_code": "117105",
-    "name": "Cot Mesjid"
+    "name": "Cot Mesjid",
+    "postal_code": "23246"
   },
   {
     "code": "1171052003",
     "district_code": "117105",
-    "name": "Panteriek"
+    "name": "Panteriek",
+    "postal_code": "23247"
   },
   {
     "code": "1171052004",
     "district_code": "117105",
-    "name": "Blang Cut"
+    "name": "Blang Cut",
+    "postal_code": "23248"
   },
   {
     "code": "1171052005",
     "district_code": "117105",
-    "name": "Lamseupeung"
+    "name": "Lamseupeung",
+    "postal_code": "23247"
   },
   {
     "code": "1171052006",
     "district_code": "117105",
-    "name": "Batoh"
+    "name": "Batoh",
+    "postal_code": "23245"
   },
   {
     "code": "1171052007",
     "district_code": "117105",
-    "name": "Sukadamai"
+    "name": "Sukadamai",
+    "postal_code": "23249"
   },
   {
     "code": "1171052008",
     "district_code": "117105",
-    "name": "Lamdom"
+    "name": "Lamdom",
+    "postal_code": "23244"
   },
   {
     "code": "1171052009",
     "district_code": "117105",
-    "name": "Lampaloh"
+    "name": "Lampaloh",
+    "postal_code": "23248"
   }
 ]

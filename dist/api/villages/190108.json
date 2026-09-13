@@ -2,36 +2,43 @@
   {
     "code": "1901082001",
     "district_code": "190108",
-    "name": "Puding Besar"
+    "name": "Puding Besar",
+    "postal_code": "33179"
   },
   {
     "code": "1901082002",
     "district_code": "190108",
-    "name": "Labu"
+    "name": "Labu",
+    "postal_code": "33179"
   },
   {
     "code": "1901082003",
     "district_code": "190108",
-    "name": "Nibung"
+    "name": "Nibung",
+    "postal_code": "33179"
   },
   {
     "code": "1901082004",
     "district_code": "190108",
-    "name": "Tanah Bawah"
+    "name": "Tanah Bawah",
+    "postal_code": "33179"
   },
   {
     "code": "1901082005",
     "district_code": "190108",
-    "name": "Saing"
+    "name": "Saing",
+    "postal_code": "33179"
   },
   {
     "code": "1901082006",
     "district_code": "190108",
-    "name": "Kota Waringin"
+    "name": "Kota Waringin",
+    "postal_code": "33179"
   },
   {
     "code": "1901082007",
     "district_code": "190108",
-    "name": "Kayu Besi"
+    "name": "Kayu Besi",
+    "postal_code": "33179"
   }
 ]

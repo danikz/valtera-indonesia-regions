@@ -2,31 +2,37 @@
   {
     "code": "1906042001",
     "district_code": "190604",
-    "name": "Mentawak"
+    "name": "Mentawak",
+    "postal_code": "33572"
   },
   {
     "code": "1906042002",
     "district_code": "190604",
-    "name": "Senyubuk"
+    "name": "Senyubuk",
+    "postal_code": "33572"
   },
   {
     "code": "1906042003",
     "district_code": "190604",
-    "name": "Cendil"
+    "name": "Cendil",
+    "postal_code": "33572"
   },
   {
     "code": "1906042005",
     "district_code": "190604",
-    "name": "Buding"
+    "name": "Buding",
+    "postal_code": "33572"
   },
   {
     "code": "1906042006",
     "district_code": "190604",
-    "name": "Mayang"
+    "name": "Mayang",
+    "postal_code": "33572"
   },
   {
     "code": "1906042007",
     "district_code": "190604",
-    "name": "Pembaharuan"
+    "name": "Pembaharuan",
+    "postal_code": "33572"
   }
 ]

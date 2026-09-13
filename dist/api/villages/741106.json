@@ -2,26 +2,31 @@
   {
     "code": "7411061001",
     "district_code": "741106",
-    "name": "Lalolae"
+    "name": "Lalolae",
+    "postal_code": "93572"
   },
   {
     "code": "7411062002",
     "district_code": "741106",
-    "name": "Keisio"
+    "name": "Keisio",
+    "postal_code": "93572"
   },
   {
     "code": "7411062003",
     "district_code": "741106",
-    "name": "Talodo"
+    "name": "Talodo",
+    "postal_code": "93572"
   },
   {
     "code": "7411062004",
     "district_code": "741106",
-    "name": "Lalosingi"
+    "name": "Lalosingi",
+    "postal_code": "93572"
   },
   {
     "code": "7411062005",
     "district_code": "741106",
-    "name": "Wesalo"
+    "name": "Wesalo",
+    "postal_code": "93572"
   }
 ]

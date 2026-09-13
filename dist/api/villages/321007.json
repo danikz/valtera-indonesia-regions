@@ -2,71 +2,85 @@
   {
     "code": "3210071001",
     "district_code": "321007",
-    "name": "Munjul"
+    "name": "Munjul",
+    "postal_code": "45417"
   },
   {
     "code": "3210071002",
     "district_code": "321007",
-    "name": "Babakan Jawa"
+    "name": "Babakan Jawa",
+    "postal_code": "45419"
   },
   {
     "code": "3210071003",
     "district_code": "321007",
-    "name": "Cicurug"
+    "name": "Cicurug",
+    "postal_code": "45412"
   },
   {
     "code": "3210071004",
     "district_code": "321007",
-    "name": "Sindangkasih"
+    "name": "Sindangkasih",
+    "postal_code": "45411"
   },
   {
     "code": "3210071007",
     "district_code": "321007",
-    "name": "Majalengka Wetan"
+    "name": "Majalengka Wetan",
+    "postal_code": "45411"
   },
   {
     "code": "3210071008",
     "district_code": "321007",
-    "name": "Majalengka Kulon"
+    "name": "Majalengka Kulon",
+    "postal_code": "45418"
   },
   {
     "code": "3210071009",
     "district_code": "321007",
-    "name": "Tarikolot"
+    "name": "Tarikolot",
+    "postal_code": "45416"
   },
   {
     "code": "3210071010",
     "district_code": "321007",
-    "name": "Cikasarung"
+    "name": "Cikasarung",
+    "postal_code": "45415"
   },
   {
     "code": "3210071011",
     "district_code": "321007",
-    "name": "Tonjong"
+    "name": "Tonjong",
+    "postal_code": "45414"
   },
   {
     "code": "3210071013",
     "district_code": "321007",
-    "name": "Cijati"
+    "name": "Cijati",
+    "postal_code": "45417"
   },
   {
     "code": "3210072005",
     "district_code": "321007",
-    "name": "Kulur"
+    "name": "Kulur",
+    "postal_code": "45411"
   },
   {
     "code": "3210072006",
     "district_code": "321007",
-    "name": "Kawunggirang"
+    "name": "Kawunggirang",
+    "postal_code": "45411"
   },
   {
     "code": "3210072012",
     "district_code": "321007",
-    "name": "Sidamukti"
+    "name": "Sidamukti",
+    "postal_code": "45411"
   },
   {
     "code": "3210072014",
     "district_code": "321007",
-    "name": "Cibodas"
+    "name": "Cibodas",
+    "postal_code": "45411"
   }
 ]

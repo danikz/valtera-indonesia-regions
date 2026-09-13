@@ -2,41 +2,49 @@
   {
     "code": "9111082001",
     "district_code": "911108",
-    "name": "Dukwia"
+    "name": "Dukwia",
+    "postal_code": "99473"
   },
   {
     "code": "9111082002",
     "district_code": "911108",
-    "name": "Sanggaria"
+    "name": "Sanggaria",
+    "postal_code": "99473"
   },
   {
     "code": "9111082003",
     "district_code": "911108",
-    "name": "Yatu Raharja"
+    "name": "Yatu Raharja",
+    "postal_code": "99473"
   },
   {
     "code": "9111082004",
     "district_code": "911108",
-    "name": "Warbo"
+    "name": "Warbo",
+    "postal_code": "99473"
   },
   {
     "code": "9111082005",
     "district_code": "911108",
-    "name": "Yammua"
+    "name": "Yammua",
+    "postal_code": "99473"
   },
   {
     "code": "9111082006",
     "district_code": "911108",
-    "name": "Ifia-fia"
+    "name": "Ifia-fia",
+    "postal_code": "99473"
   },
   {
     "code": "9111082007",
     "district_code": "911108",
-    "name": "Baburia"
+    "name": "Baburia",
+    "postal_code": "99473"
   },
   {
     "code": "9111082008",
     "district_code": "911108",
-    "name": "Yowong"
+    "name": "Yowong",
+    "postal_code": "99473"
   }
 ]

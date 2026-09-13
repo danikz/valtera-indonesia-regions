@@ -2,56 +2,67 @@
   {
     "code": "1502051002",
     "district_code": "150205",
-    "name": "Dusun Baru"
+    "name": "Dusun Baru",
+    "postal_code": "37350"
   },
   {
     "code": "1502051003",
     "district_code": "150205",
-    "name": "Pasar R. Panjang"
+    "name": "Pasar R. Panjang",
+    "postal_code": "37350"
   },
   {
     "code": "1502051005",
     "district_code": "150205",
-    "name": "Kampung Baruh"
+    "name": "Kampung Baruh",
+    "postal_code": "37350"
   },
   {
     "code": "1502051020",
     "district_code": "150205",
-    "name": "Mampun"
+    "name": "Mampun",
+    "postal_code": "37350"
   },
   {
     "code": "1502051036",
     "district_code": "150205",
-    "name": "Ps.Baru Rantau"
+    "name": "Ps.Baru Rantau",
+    "postal_code": "37350"
   },
   {
     "code": "1502052007",
     "district_code": "150205",
-    "name": "Kandang"
+    "name": "Kandang",
+    "postal_code": "37350"
   },
   {
     "code": "1502052008",
     "district_code": "150205",
-    "name": "Koto Rayo"
+    "name": "Koto Rayo",
+    "postal_code": "37350"
   },
   {
     "code": "1502052011",
     "district_code": "150205",
-    "name": "Tanjung Ilir"
+    "name": "Tanjung Ilir",
+    "postal_code": "37350"
   },
   {
     "code": "1502052014",
     "district_code": "150205",
-    "name": "Beluran Panjang"
+    "name": "Beluran Panjang",
+    "postal_code": "37350"
   },
   {
     "code": "1502052015",
     "district_code": "150205",
-    "name": "Seling"
+    "name": "Seling",
+    "postal_code": "37350"
   },
   {
     "code": "1502052035",
     "district_code": "150205",
-    "name": "Lubuk Napal"
+    "name": "Lubuk Napal",
+    "postal_code": "37350"
   }
 ]

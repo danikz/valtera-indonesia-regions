@@ -2,41 +2,49 @@
   {
     "code": "1404201001",
     "district_code": "140420",
-    "name": "Benteng"
+    "name": "Benteng",
+    "postal_code": "29270"
   },
   {
     "code": "1404202002",
     "district_code": "140420",
-    "name": "Benteng Utara"
+    "name": "Benteng Utara",
+    "postal_code": "29270"
   },
   {
     "code": "1404202003",
     "district_code": "140420",
-    "name": "Pasenggerahan"
+    "name": "Pasenggerahan",
+    "postal_code": "29270"
   },
   {
     "code": "1404202004",
     "district_code": "140420",
-    "name": "Kuala Sungai Batang"
+    "name": "Kuala Sungai Batang",
+    "postal_code": "29270"
   },
   {
     "code": "1404202005",
     "district_code": "140420",
-    "name": "Kuala Patah Parang"
+    "name": "Kuala Patah Parang",
+    "postal_code": "29270"
   },
   {
     "code": "1404202006",
     "district_code": "140420",
-    "name": "Benteng Barat"
+    "name": "Benteng Barat",
+    "postal_code": "29270"
   },
   {
     "code": "1404202007",
     "district_code": "140420",
-    "name": "Pandan Sari"
+    "name": "Pandan Sari",
+    "postal_code": "29270"
   },
   {
     "code": "1404202008",
     "district_code": "140420",
-    "name": "Mugo Mulyo"
+    "name": "Mugo Mulyo",
+    "postal_code": "29270"
   }
 ]

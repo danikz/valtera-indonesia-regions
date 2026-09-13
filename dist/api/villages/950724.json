@@ -2,36 +2,43 @@
   {
     "code": "9507242001",
     "district_code": "950724",
-    "name": "Wamitu"
+    "name": "Wamitu",
+    "postal_code": "99586"
   },
   {
     "code": "9507242002",
     "district_code": "950724",
-    "name": "Balimneri"
+    "name": "Balimneri",
+    "postal_code": "99586"
   },
   {
     "code": "9507242003",
     "district_code": "950724",
-    "name": "Timotani"
+    "name": "Timotani",
+    "postal_code": "99586"
   },
   {
     "code": "9507242004",
     "district_code": "950724",
-    "name": "Kungganeri"
+    "name": "Kungganeri",
+    "postal_code": "99586"
   },
   {
     "code": "9507242005",
     "district_code": "950724",
-    "name": "Gwilonik"
+    "name": "Gwilonik",
+    "postal_code": "99586"
   },
   {
     "code": "9507242006",
     "district_code": "950724",
-    "name": "Ilim"
+    "name": "Ilim",
+    "postal_code": "99586"
   },
   {
     "code": "9507242007",
     "district_code": "950724",
-    "name": "Dinuwi"
+    "name": "Dinuwi",
+    "postal_code": "99586"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "6107022001",
     "district_code": "610702",
-    "name": "Samalantan"
+    "name": "Samalantan",
+    "postal_code": "79280"
   },
   {
     "code": "6107022002",
     "district_code": "610702",
-    "name": "Saba'u"
+    "name": "Saba'u",
+    "postal_code": "79280"
   },
   {
     "code": "6107022003",
     "district_code": "610702",
-    "name": "Tumiang"
+    "name": "Tumiang",
+    "postal_code": "79280"
   },
   {
     "code": "6107022004",
     "district_code": "610702",
-    "name": "Babane"
+    "name": "Babane",
+    "postal_code": "79280"
   },
   {
     "code": "6107022005",
     "district_code": "610702",
-    "name": "Pasti Jaya"
+    "name": "Pasti Jaya",
+    "postal_code": "79280"
   },
   {
     "code": "6107022006",
     "district_code": "610702",
-    "name": "Bukit Serayan"
+    "name": "Bukit Serayan",
+    "postal_code": "79280"
   },
   {
     "code": "6107022007",
     "district_code": "610702",
-    "name": "Marunsu"
+    "name": "Marunsu",
+    "postal_code": "79280"
   }
 ]

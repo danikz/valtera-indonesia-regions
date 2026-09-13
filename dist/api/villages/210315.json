@@ -2,36 +2,43 @@
   {
     "code": "2103152001",
     "district_code": "210315",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "29776"
   },
   {
     "code": "2103152002",
     "district_code": "210315",
-    "name": "Ceruk"
+    "name": "Ceruk",
+    "postal_code": "29776"
   },
   {
     "code": "2103152003",
     "district_code": "210315",
-    "name": "Kelanga"
+    "name": "Kelanga",
+    "postal_code": "29776"
   },
   {
     "code": "2103152004",
     "district_code": "210315",
-    "name": "Pengadah"
+    "name": "Pengadah",
+    "postal_code": "29776"
   },
   {
     "code": "2103152005",
     "district_code": "210315",
-    "name": "Sebadai Ulu"
+    "name": "Sebadai Ulu",
+    "postal_code": "29776"
   },
   {
     "code": "2103152006",
     "district_code": "210315",
-    "name": "Limau Manis"
+    "name": "Limau Manis",
+    "postal_code": "29776"
   },
   {
     "code": "2103152007",
     "district_code": "210315",
-    "name": "Seleman"
+    "name": "Seleman",
+    "postal_code": "29776"
   }
 ]

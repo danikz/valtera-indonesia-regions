@@ -2,31 +2,37 @@
   {
     "code": "6471021001",
     "district_code": "647102",
-    "name": "Baru Ilir"
+    "name": "Baru Ilir",
+    "postal_code": "76131"
   },
   {
     "code": "6471021002",
     "district_code": "647102",
-    "name": "Baru Tengah"
+    "name": "Baru Tengah",
+    "postal_code": "76132"
   },
   {
     "code": "6471021003",
     "district_code": "647102",
-    "name": "Baru Ulu"
+    "name": "Baru Ulu",
+    "postal_code": "76133"
   },
   {
     "code": "6471021004",
     "district_code": "647102",
-    "name": "Kariangau"
+    "name": "Kariangau",
+    "postal_code": "76134"
   },
   {
     "code": "6471021005",
     "district_code": "647102",
-    "name": "Margo Mulyo"
+    "name": "Margo Mulyo",
+    "postal_code": "76131"
   },
   {
     "code": "6471021006",
     "district_code": "647102",
-    "name": "Marga Sari"
+    "name": "Marga Sari",
+    "postal_code": "76131"
   }
 ]

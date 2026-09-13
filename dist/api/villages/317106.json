@@ -2,26 +2,31 @@
   {
     "code": "3171061001",
     "district_code": "317106",
-    "name": "Menteng"
+    "name": "Menteng",
+    "postal_code": "10310"
   },
   {
     "code": "3171061002",
     "district_code": "317106",
-    "name": "Pegangsaan"
+    "name": "Pegangsaan",
+    "postal_code": "10320"
   },
   {
     "code": "3171061003",
     "district_code": "317106",
-    "name": "Cikini"
+    "name": "Cikini",
+    "postal_code": "10330"
   },
   {
     "code": "3171061004",
     "district_code": "317106",
-    "name": "Gondangdia"
+    "name": "Gondangdia",
+    "postal_code": "10350"
   },
   {
     "code": "3171061005",
     "district_code": "317106",
-    "name": "Kebon Sirih"
+    "name": "Kebon Sirih",
+    "postal_code": "10340"
   }
 ]

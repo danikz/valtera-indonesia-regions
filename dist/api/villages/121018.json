@@ -2,51 +2,61 @@
   {
     "code": "1210181001",
     "district_code": "121018",
-    "name": "Labuhan Bilik"
+    "name": "Labuhan Bilik",
+    "postal_code": "21472"
   },
   {
     "code": "1210182002",
     "district_code": "121018",
-    "name": "Sei Pelancang"
+    "name": "Sei Pelancang",
+    "postal_code": "21472"
   },
   {
     "code": "1210182003",
     "district_code": "121018",
-    "name": "Sei Siarti"
+    "name": "Sei Siarti",
+    "postal_code": "21472"
   },
   {
     "code": "1210182004",
     "district_code": "121018",
-    "name": "Sei Nahodaris"
+    "name": "Sei Nahodaris",
+    "postal_code": "21472"
   },
   {
     "code": "1210182005",
     "district_code": "121018",
-    "name": "Sei Merdeka"
+    "name": "Sei Merdeka",
+    "postal_code": "21472"
   },
   {
     "code": "1210182006",
     "district_code": "121018",
-    "name": "Sei Rakyat"
+    "name": "Sei Rakyat",
+    "postal_code": "21472"
   },
   {
     "code": "1210182007",
     "district_code": "121018",
-    "name": "Selat Beting"
+    "name": "Selat Beting",
+    "postal_code": "21472"
   },
   {
     "code": "1210182008",
     "district_code": "121018",
-    "name": "Bagan Bilah"
+    "name": "Bagan Bilah",
+    "postal_code": "21472"
   },
   {
     "code": "1210182009",
     "district_code": "121018",
-    "name": "Telaga Suka"
+    "name": "Telaga Suka",
+    "postal_code": "21472"
   },
   {
     "code": "1210182010",
     "district_code": "121018",
-    "name": "Pasar Tiga"
+    "name": "Pasar Tiga",
+    "postal_code": "21472"
   }
 ]

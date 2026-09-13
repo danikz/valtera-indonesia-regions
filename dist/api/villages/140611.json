@@ -2,46 +2,55 @@
   {
     "code": "1406112001",
     "district_code": "140611",
-    "name": "Tandun"
+    "name": "Tandun",
+    "postal_code": "28552"
   },
   {
     "code": "1406112002",
     "district_code": "140611",
-    "name": "Kumain"
+    "name": "Kumain",
+    "postal_code": "28552"
   },
   {
     "code": "1406112003",
     "district_code": "140611",
-    "name": "Bono Tapung"
+    "name": "Bono Tapung",
+    "postal_code": "28552"
   },
   {
     "code": "1406112004",
     "district_code": "140611",
-    "name": "Dayo"
+    "name": "Dayo",
+    "postal_code": "28552"
   },
   {
     "code": "1406112005",
     "district_code": "140611",
-    "name": "Tapung Jaya"
+    "name": "Tapung Jaya",
+    "postal_code": "28552"
   },
   {
     "code": "1406112006",
     "district_code": "140611",
-    "name": "Puo Raya"
+    "name": "Puo Raya",
+    "postal_code": "28552"
   },
   {
     "code": "1406112007",
     "district_code": "140611",
-    "name": "Sei Kuning"
+    "name": "Sei Kuning",
+    "postal_code": "28552"
   },
   {
     "code": "1406112008",
     "district_code": "140611",
-    "name": "Koto Tandun"
+    "name": "Koto Tandun",
+    "postal_code": "28552"
   },
   {
     "code": "1406112009",
     "district_code": "140611",
-    "name": "Tandun Barat"
+    "name": "Tandun Barat",
+    "postal_code": "28552"
   }
 ]

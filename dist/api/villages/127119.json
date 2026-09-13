@@ -2,36 +2,43 @@
   {
     "code": "1271191001",
     "district_code": "127119",
-    "name": "Petisah Tengah"
+    "name": "Petisah Tengah",
+    "postal_code": "20112"
   },
   {
     "code": "1271191002",
     "district_code": "127119",
-    "name": "Sekip"
+    "name": "Sekip",
+    "postal_code": "20113"
   },
   {
     "code": "1271191003",
     "district_code": "127119",
-    "name": "Sei Sikambing D"
+    "name": "Sei Sikambing D",
+    "postal_code": "20119"
   },
   {
     "code": "1271191004",
     "district_code": "127119",
-    "name": "Sei Putih Barat"
+    "name": "Sei Putih Barat",
+    "postal_code": "20118"
   },
   {
     "code": "1271191005",
     "district_code": "127119",
-    "name": "Sei Putih Tengah"
+    "name": "Sei Putih Tengah",
+    "postal_code": "20118"
   },
   {
     "code": "1271191006",
     "district_code": "127119",
-    "name": "Sei Putih Timur I"
+    "name": "Sei Putih Timur I",
+    "postal_code": "20118"
   },
   {
     "code": "1271191007",
     "district_code": "127119",
-    "name": "Sei Putih Timur II"
+    "name": "Sei Putih Timur II",
+    "postal_code": "20118"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "6101142001",
     "district_code": "610114",
-    "name": "Jirak"
+    "name": "Jirak",
+    "postal_code": "79462"
   },
   {
     "code": "6101142002",
     "district_code": "610114",
-    "name": "Tengguli"
+    "name": "Tengguli",
+    "postal_code": "79462"
   },
   {
     "code": "6101142003",
     "district_code": "610114",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "79462"
   },
   {
     "code": "6101142004",
     "district_code": "610114",
-    "name": "Beringin"
+    "name": "Beringin",
+    "postal_code": "79462"
   }
 ]

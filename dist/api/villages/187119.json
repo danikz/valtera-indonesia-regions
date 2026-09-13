@@ -2,31 +2,37 @@
   {
     "code": "1871191001",
     "district_code": "187119",
-    "name": "Kota Karang"
+    "name": "Kota Karang",
+    "postal_code": "35231"
   },
   {
     "code": "1871191002",
     "district_code": "187119",
-    "name": "Kota Karang Raya"
+    "name": "Kota Karang Raya",
+    "postal_code": "35231"
   },
   {
     "code": "1871191003",
     "district_code": "187119",
-    "name": "Parwata"
+    "name": "Parwata",
+    "postal_code": "35237"
   },
   {
     "code": "1871191004",
     "district_code": "187119",
-    "name": "Keteguhan"
+    "name": "Keteguhan",
+    "postal_code": "35235"
   },
   {
     "code": "1871191005",
     "district_code": "187119",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "35236"
   },
   {
     "code": "1871191006",
     "district_code": "187119",
-    "name": "Way Tataan"
+    "name": "Way Tataan",
+    "postal_code": "35236"
   }
 ]

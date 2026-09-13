@@ -2,76 +2,91 @@
   {
     "code": "6103112001",
     "district_code": "610311",
-    "name": "Pulau Tayan Utara"
+    "name": "Pulau Tayan Utara",
+    "postal_code": "78564"
   },
   {
     "code": "6103112002",
     "district_code": "610311",
-    "name": "Kawat"
+    "name": "Kawat",
+    "postal_code": "78564"
   },
   {
     "code": "6103112003",
     "district_code": "610311",
-    "name": "Pedalaman"
+    "name": "Pedalaman",
+    "postal_code": "78564"
   },
   {
     "code": "6103112004",
     "district_code": "610311",
-    "name": "Balai Ingin"
+    "name": "Balai Ingin",
+    "postal_code": "78564"
   },
   {
     "code": "6103112005",
     "district_code": "610311",
-    "name": "Lalang"
+    "name": "Lalang",
+    "postal_code": "78564"
   },
   {
     "code": "6103112006",
     "district_code": "610311",
-    "name": "Cempedak"
+    "name": "Cempedak",
+    "postal_code": "78564"
   },
   {
     "code": "6103112007",
     "district_code": "610311",
-    "name": "Melugai"
+    "name": "Melugai",
+    "postal_code": "78564"
   },
   {
     "code": "6103112008",
     "district_code": "610311",
-    "name": "Emberas"
+    "name": "Emberas",
+    "postal_code": "78564"
   },
   {
     "code": "6103112009",
     "district_code": "610311",
-    "name": "Beginjan"
+    "name": "Beginjan",
+    "postal_code": "78564"
   },
   {
     "code": "6103112010",
     "district_code": "610311",
-    "name": "Sejotang"
+    "name": "Sejotang",
+    "postal_code": "78564"
   },
   {
     "code": "6103112011",
     "district_code": "610311",
-    "name": "Sebemban"
+    "name": "Sebemban",
+    "postal_code": "78564"
   },
   {
     "code": "6103112012",
     "district_code": "610311",
-    "name": "Subah"
+    "name": "Subah",
+    "postal_code": "78564"
   },
   {
     "code": "6103112013",
     "district_code": "610311",
-    "name": "Sungai Jaman"
+    "name": "Sungai Jaman",
+    "postal_code": "78564"
   },
   {
     "code": "6103112014",
     "district_code": "610311",
-    "name": "Tanjung Bunut"
+    "name": "Tanjung Bunut",
+    "postal_code": "78564"
   },
   {
     "code": "6103112015",
     "district_code": "610311",
-    "name": "Tebang Benua"
+    "name": "Tebang Benua",
+    "postal_code": "78564"
   }
 ]

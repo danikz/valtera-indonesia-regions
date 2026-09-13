@@ -2,46 +2,55 @@
   {
     "code": "6302072004",
     "district_code": "630207",
-    "name": "Tanjung Pangga"
+    "name": "Tanjung Pangga",
+    "postal_code": "72160"
   },
   {
     "code": "6302072005",
     "district_code": "630207",
-    "name": "Pembelacanan"
+    "name": "Pembelacanan",
+    "postal_code": "72160"
   },
   {
     "code": "6302072006",
     "district_code": "630207",
-    "name": "Sungai Nipah"
+    "name": "Sungai Nipah",
+    "postal_code": "72160"
   },
   {
     "code": "6302072007",
     "district_code": "630207",
-    "name": "Pantai"
+    "name": "Pantai",
+    "postal_code": "72160"
   },
   {
     "code": "6302072009",
     "district_code": "630207",
-    "name": "Sangking Baru"
+    "name": "Sangking Baru",
+    "postal_code": "72160"
   },
   {
     "code": "6302072014",
     "district_code": "630207",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "72160"
   },
   {
     "code": "6302072015",
     "district_code": "630207",
-    "name": "Sungai Kupang Jaya"
+    "name": "Sungai Kupang Jaya",
+    "postal_code": "72160"
   },
   {
     "code": "6302072016",
     "district_code": "630207",
-    "name": "Pantai Baru"
+    "name": "Pantai Baru",
+    "postal_code": "72160"
   },
   {
     "code": "6302072017",
     "district_code": "630207",
-    "name": "Bumi Asih"
+    "name": "Bumi Asih",
+    "postal_code": "72160"
   }
 ]

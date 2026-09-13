@@ -2,31 +2,37 @@
   {
     "code": "6202051001",
     "district_code": "620205",
-    "name": "Baamang Hilir"
+    "name": "Baamang Hilir",
+    "postal_code": "74311"
   },
   {
     "code": "6202051002",
     "district_code": "620205",
-    "name": "Baamang Tengah"
+    "name": "Baamang Tengah",
+    "postal_code": "74312"
   },
   {
     "code": "6202051003",
     "district_code": "620205",
-    "name": "Baamang Hulu"
+    "name": "Baamang Hulu",
+    "postal_code": "74313"
   },
   {
     "code": "6202051007",
     "district_code": "620205",
-    "name": "Tanah Mas"
+    "name": "Tanah Mas",
+    "postal_code": "74312"
   },
   {
     "code": "6202051008",
     "district_code": "620205",
-    "name": "Baamang Barat"
+    "name": "Baamang Barat",
+    "postal_code": "74312"
   },
   {
     "code": "6202052006",
     "district_code": "620205",
-    "name": "Tinduk"
+    "name": "Tinduk",
+    "postal_code": "74316"
   }
 ]

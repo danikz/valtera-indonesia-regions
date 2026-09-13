@@ -2,86 +2,103 @@
   {
     "code": "1114022001",
     "district_code": "111402",
-    "name": "Bahagia"
+    "name": "Bahagia",
+    "postal_code": "23654"
   },
   {
     "code": "1114022002",
     "district_code": "111402",
-    "name": "Sentosa"
+    "name": "Sentosa",
+    "postal_code": "23654"
   },
   {
     "code": "1114022003",
     "district_code": "111402",
-    "name": "Dayah Baro"
+    "name": "Dayah Baro",
+    "postal_code": "23654"
   },
   {
     "code": "1114022004",
     "district_code": "111402",
-    "name": "Gampong Blang"
+    "name": "Gampong Blang",
+    "postal_code": "23654"
   },
   {
     "code": "1114022005",
     "district_code": "111402",
-    "name": "Keutapang"
+    "name": "Keutapang",
+    "postal_code": "23654"
   },
   {
     "code": "1114022006",
     "district_code": "111402",
-    "name": "Panton Makmur"
+    "name": "Panton Makmur",
+    "postal_code": "23654"
   },
   {
     "code": "1114022007",
     "district_code": "111402",
-    "name": "Keude Krueng Sabee"
+    "name": "Keude Krueng Sabee",
+    "postal_code": "23654"
   },
   {
     "code": "1114022008",
     "district_code": "111402",
-    "name": "Kabong"
+    "name": "Kabong",
+    "postal_code": "23654"
   },
   {
     "code": "1114022009",
     "district_code": "111402",
-    "name": "Padang Datar"
+    "name": "Padang Datar",
+    "postal_code": "23654"
   },
   {
     "code": "1114022010",
     "district_code": "111402",
-    "name": "Datar Luas"
+    "name": "Datar Luas",
+    "postal_code": "23654"
   },
   {
     "code": "1114022011",
     "district_code": "111402",
-    "name": "Ranto Panyang"
+    "name": "Ranto Panyang",
+    "postal_code": "23654"
   },
   {
     "code": "1114022012",
     "district_code": "111402",
-    "name": "Buntha"
+    "name": "Buntha",
+    "postal_code": "23654"
   },
   {
     "code": "1114022013",
     "district_code": "111402",
-    "name": "Panggong"
+    "name": "Panggong",
+    "postal_code": "23654"
   },
   {
     "code": "1114022014",
     "district_code": "111402",
-    "name": "Curek"
+    "name": "Curek",
+    "postal_code": "23654"
   },
   {
     "code": "1114022015",
     "district_code": "111402",
-    "name": "Alue Tho"
+    "name": "Alue Tho",
+    "postal_code": "23654"
   },
   {
     "code": "1114022016",
     "district_code": "111402",
-    "name": "Mon Mata"
+    "name": "Mon Mata",
+    "postal_code": "23654"
   },
   {
     "code": "1114022017",
     "district_code": "111402",
-    "name": "Paya Seumantok"
+    "name": "Paya Seumantok",
+    "postal_code": "23654"
   }
 ]

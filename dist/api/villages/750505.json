@@ -2,51 +2,61 @@
   {
     "code": "7505052001",
     "district_code": "750505",
-    "name": "Tolinggula Tengah"
+    "name": "Tolinggula Tengah",
+    "postal_code": "96524"
   },
   {
     "code": "7505052002",
     "district_code": "750505",
-    "name": "Tolinggula Pantai"
+    "name": "Tolinggula Pantai",
+    "postal_code": "96524"
   },
   {
     "code": "7505052003",
     "district_code": "750505",
-    "name": "Tolinggula Ulu"
+    "name": "Tolinggula Ulu",
+    "postal_code": "96524"
   },
   {
     "code": "7505052006",
     "district_code": "750505",
-    "name": "Limbato"
+    "name": "Limbato",
+    "postal_code": "96524"
   },
   {
     "code": "7505052007",
     "district_code": "750505",
-    "name": "Papulangi"
+    "name": "Papulangi",
+    "postal_code": "96524"
   },
   {
     "code": "7505052008",
     "district_code": "750505",
-    "name": "Molangga"
+    "name": "Molangga",
+    "postal_code": "96524"
   },
   {
     "code": "7505052011",
     "district_code": "750505",
-    "name": "Cempaka Putih"
+    "name": "Cempaka Putih",
+    "postal_code": "96524"
   },
   {
     "code": "7505052014",
     "district_code": "750505",
-    "name": "Tolite Jaya"
+    "name": "Tolite Jaya",
+    "postal_code": "96524"
   },
   {
     "code": "7505052017",
     "district_code": "750505",
-    "name": "Ilomangga"
+    "name": "Ilomangga",
+    "postal_code": "96524"
   },
   {
     "code": "7505052018",
     "district_code": "750505",
-    "name": "Ilotunggulo"
+    "name": "Ilotunggulo",
+    "postal_code": "96524"
   }
 ]

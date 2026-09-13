@@ -2,26 +2,31 @@
   {
     "code": "9403092001",
     "district_code": "940309",
-    "name": "Wotai"
+    "name": "Wotai",
+    "postal_code": "98726"
   },
   {
     "code": "9403092002",
     "district_code": "940309",
-    "name": "Keniapa"
+    "name": "Keniapa",
+    "postal_code": "98726"
   },
   {
     "code": "9403092003",
     "district_code": "940309",
-    "name": "Memiyaibutu"
+    "name": "Memiyaibutu",
+    "postal_code": "98726"
   },
   {
     "code": "9403092004",
     "district_code": "940309",
-    "name": "Dimiya"
+    "name": "Dimiya",
+    "postal_code": "98726"
   },
   {
     "code": "9403092005",
     "district_code": "940309",
-    "name": "Udaugi"
+    "name": "Udaugi",
+    "postal_code": "98726"
   }
 ]

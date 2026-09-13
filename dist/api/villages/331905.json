@@ -2,56 +2,67 @@
   {
     "code": "3319052001",
     "district_code": "331905",
-    "name": "Gulang"
+    "name": "Gulang",
+    "postal_code": "59381"
   },
   {
     "code": "3319052002",
     "district_code": "331905",
-    "name": "Jepang"
+    "name": "Jepang",
+    "postal_code": "59381"
   },
   {
     "code": "3319052003",
     "district_code": "331905",
-    "name": "Payaman"
+    "name": "Payaman",
+    "postal_code": "59381"
   },
   {
     "code": "3319052004",
     "district_code": "331905",
-    "name": "Kirig"
+    "name": "Kirig",
+    "postal_code": "59381"
   },
   {
     "code": "3319052005",
     "district_code": "331905",
-    "name": "Temulus"
+    "name": "Temulus",
+    "postal_code": "59381"
   },
   {
     "code": "3319052006",
     "district_code": "331905",
-    "name": "Kesambi"
+    "name": "Kesambi",
+    "postal_code": "59381"
   },
   {
     "code": "3319052007",
     "district_code": "331905",
-    "name": "Jojo"
+    "name": "Jojo",
+    "postal_code": "59381"
   },
   {
     "code": "3319052008",
     "district_code": "331905",
-    "name": "Hadiwarno"
+    "name": "Hadiwarno",
+    "postal_code": "59381"
   },
   {
     "code": "3319052009",
     "district_code": "331905",
-    "name": "Mejobo"
+    "name": "Mejobo",
+    "postal_code": "59381"
   },
   {
     "code": "3319052010",
     "district_code": "331905",
-    "name": "Golantepus"
+    "name": "Golantepus",
+    "postal_code": "59381"
   },
   {
     "code": "3319052011",
     "district_code": "331905",
-    "name": "Tenggeles"
+    "name": "Tenggeles",
+    "postal_code": "59381"
   }
 ]

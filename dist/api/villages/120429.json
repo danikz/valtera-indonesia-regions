@@ -2,56 +2,67 @@
   {
     "code": "1204292001",
     "district_code": "120429",
-    "name": "Sisobawino I"
+    "name": "Sisobawino I",
+    "postal_code": "22871"
   },
   {
     "code": "1204292002",
     "district_code": "120429",
-    "name": "I'odano"
+    "name": "I'odano",
+    "postal_code": "22871"
   },
   {
     "code": "1204292003",
     "district_code": "120429",
-    "name": "Huno"
+    "name": "Huno",
+    "postal_code": "22871"
   },
   {
     "code": "1204292004",
     "district_code": "120429",
-    "name": "Sisaratandrawa"
+    "name": "Sisaratandrawa",
+    "postal_code": "22871"
   },
   {
     "code": "1204292005",
     "district_code": "120429",
-    "name": "Somolo Molo"
+    "name": "Somolo Molo",
+    "postal_code": "22871"
   },
   {
     "code": "1204292006",
     "district_code": "120429",
-    "name": "Lewuoguru I"
+    "name": "Lewuoguru I",
+    "postal_code": "22871"
   },
   {
     "code": "1204292007",
     "district_code": "120429",
-    "name": "Sifaoro Asi"
+    "name": "Sifaoro Asi",
+    "postal_code": "22871"
   },
   {
     "code": "1204292008",
     "district_code": "120429",
-    "name": "Lewuombanua"
+    "name": "Lewuombanua",
+    "postal_code": "22871"
   },
   {
     "code": "1204292009",
     "district_code": "120429",
-    "name": "Hiligodu Somolo-Molo"
+    "name": "Hiligodu Somolo-Molo",
+    "postal_code": "22871"
   },
   {
     "code": "1204292010",
     "district_code": "120429",
-    "name": "Hiliborodano"
+    "name": "Hiliborodano",
+    "postal_code": "22871"
   },
   {
     "code": "1204292011",
     "district_code": "120429",
-    "name": "So'ewali"
+    "name": "So'ewali",
+    "postal_code": "22871"
   }
 ]

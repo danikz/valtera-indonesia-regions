@@ -2,61 +2,73 @@
   {
     "code": "5371011001",
     "district_code": "537101",
-    "name": "Namosain"
+    "name": "Namosain",
+    "postal_code": "85232"
   },
   {
     "code": "5371011002",
     "district_code": "537101",
-    "name": "Nunbaun Sabu"
+    "name": "Nunbaun Sabu",
+    "postal_code": "85233"
   },
   {
     "code": "5371011003",
     "district_code": "537101",
-    "name": "Nunbaun Delha"
+    "name": "Nunbaun Delha",
+    "postal_code": "85233"
   },
   {
     "code": "5371011004",
     "district_code": "537101",
-    "name": "Nunhila"
+    "name": "Nunhila",
+    "postal_code": "85234"
   },
   {
     "code": "5371011005",
     "district_code": "537101",
-    "name": "Fatufeto"
+    "name": "Fatufeto",
+    "postal_code": "85234"
   },
   {
     "code": "5371011006",
     "district_code": "537101",
-    "name": "Manutapen"
+    "name": "Manutapen",
+    "postal_code": "85236"
   },
   {
     "code": "5371011007",
     "district_code": "537101",
-    "name": "Mantasi"
+    "name": "Mantasi",
+    "postal_code": "85235"
   },
   {
     "code": "5371011008",
     "district_code": "537101",
-    "name": "Alak"
+    "name": "Alak",
+    "postal_code": "85231"
   },
   {
     "code": "5371011009",
     "district_code": "537101",
-    "name": "Batu Plat"
+    "name": "Batu Plat",
+    "postal_code": "85237"
   },
   {
     "code": "5371011010",
     "district_code": "537101",
-    "name": "Manulai II"
+    "name": "Manulai II",
+    "postal_code": "85238"
   },
   {
     "code": "5371011011",
     "district_code": "537101",
-    "name": "Naioni"
+    "name": "Naioni",
+    "postal_code": "85239"
   },
   {
     "code": "5371011012",
     "district_code": "537101",
-    "name": "Penkase Oeleta"
+    "name": "Penkase Oeleta",
+    "postal_code": "85231"
   }
 ]

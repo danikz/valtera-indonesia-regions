@@ -2,26 +2,31 @@
   {
     "code": "9501262001",
     "district_code": "950126",
-    "name": "Koragi"
+    "name": "Koragi",
+    "postal_code": "99544"
   },
   {
     "code": "9501262002",
     "district_code": "950126",
-    "name": "Telegai"
+    "name": "Telegai",
+    "postal_code": "99544"
   },
   {
     "code": "9501262003",
     "district_code": "950126",
-    "name": "Kumudiluk"
+    "name": "Kumudiluk",
+    "postal_code": "99544"
   },
   {
     "code": "9501262004",
     "district_code": "950126",
-    "name": "Tagibaga"
+    "name": "Tagibaga",
+    "postal_code": "99544"
   },
   {
     "code": "9501262005",
     "district_code": "950126",
-    "name": "Tenondek"
+    "name": "Tenondek",
+    "postal_code": "99544"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1312102001",
     "district_code": "131210",
-    "name": "Koto Baru"
+    "name": "Koto Baru",
+    "postal_code": "26568"
   },
   {
     "code": "1312102002",
     "district_code": "131210",
-    "name": "Kapa"
+    "name": "Kapa",
+    "postal_code": "26568"
   },
   {
     "code": "1312102003",
     "district_code": "131210",
-    "name": "Giri Maju"
+    "name": "Giri Maju",
+    "postal_code": "26568"
   },
   {
     "code": "1312102004",
     "district_code": "131210",
-    "name": "Ophir"
+    "name": "Ophir",
+    "postal_code": "26568"
   },
   {
     "code": "1312102005",
     "district_code": "131210",
-    "name": "Mahakarya"
+    "name": "Mahakarya",
+    "postal_code": "26568"
   },
   {
     "code": "1312102006",
     "district_code": "131210",
-    "name": "Sariak"
+    "name": "Sariak",
+    "postal_code": "26568"
   },
   {
     "code": "1312102007",
     "district_code": "131210",
-    "name": "Sungai Talang"
+    "name": "Sungai Talang",
+    "postal_code": "26568"
   },
   {
     "code": "1312102008",
     "district_code": "131210",
-    "name": "Jambak Selatan"
+    "name": "Jambak Selatan",
+    "postal_code": "26568"
   },
   {
     "code": "1312102009",
     "district_code": "131210",
-    "name": "Pujorahayu"
+    "name": "Pujorahayu",
+    "postal_code": "26568"
   }
 ]

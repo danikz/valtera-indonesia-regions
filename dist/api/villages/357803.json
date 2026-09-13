@@ -2,31 +2,37 @@
   {
     "code": "3578031001",
     "district_code": "357803",
-    "name": "Kalirungkut"
+    "name": "Kalirungkut",
+    "postal_code": "60293"
   },
   {
     "code": "3578031002",
     "district_code": "357803",
-    "name": "Rungkut Kidul"
+    "name": "Rungkut Kidul",
+    "postal_code": "60293"
   },
   {
     "code": "3578031003",
     "district_code": "357803",
-    "name": "Kedung Baruk"
+    "name": "Kedung Baruk",
+    "postal_code": "60298"
   },
   {
     "code": "3578031004",
     "district_code": "357803",
-    "name": "Penjaringansari"
+    "name": "Penjaringansari",
+    "postal_code": "60297"
   },
   {
     "code": "3578031005",
     "district_code": "357803",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "60296"
   },
   {
     "code": "3578031006",
     "district_code": "357803",
-    "name": "Medokan Ayu"
+    "name": "Medokan Ayu",
+    "postal_code": "60295"
   }
 ]

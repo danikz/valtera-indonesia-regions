@@ -2,61 +2,73 @@
   {
     "code": "9211042001",
     "district_code": "921104",
-    "name": "Isim"
+    "name": "Isim",
+    "postal_code": "98326"
   },
   {
     "code": "9211042002",
     "district_code": "921104",
-    "name": "Duhugesa"
+    "name": "Duhugesa",
+    "postal_code": "98326"
   },
   {
     "code": "9211042003",
     "district_code": "921104",
-    "name": "Tubes"
+    "name": "Tubes",
+    "postal_code": "98326"
   },
   {
     "code": "9211042004",
     "district_code": "921104",
-    "name": "Umohousi"
+    "name": "Umohousi",
+    "postal_code": "98326"
   },
   {
     "code": "9211042005",
     "district_code": "921104",
-    "name": "Tohosta"
+    "name": "Tohosta",
+    "postal_code": "98326"
   },
   {
     "code": "9211042006",
     "district_code": "921104",
-    "name": "Hugomot"
+    "name": "Hugomot",
+    "postal_code": "98326"
   },
   {
     "code": "9211042007",
     "district_code": "921104",
-    "name": "Dihisu"
+    "name": "Dihisu",
+    "postal_code": "98326"
   },
   {
     "code": "9211042008",
     "district_code": "921104",
-    "name": "Inyuara"
+    "name": "Inyuara",
+    "postal_code": "98326"
   },
   {
     "code": "9211042009",
     "district_code": "921104",
-    "name": "Desra"
+    "name": "Desra",
+    "postal_code": "98326"
   },
   {
     "code": "9211042010",
     "district_code": "921104",
-    "name": "Mindermes"
+    "name": "Mindermes",
+    "postal_code": "98326"
   },
   {
     "code": "9211042011",
     "district_code": "921104",
-    "name": "Sibjo"
+    "name": "Sibjo",
+    "postal_code": "98326"
   },
   {
     "code": "9211042012",
     "district_code": "921104",
-    "name": "Dibera"
+    "name": "Dibera",
+    "postal_code": "98326"
   }
 ]

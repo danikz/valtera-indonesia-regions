@@ -2,21 +2,25 @@
   {
     "code": "1401011011",
     "district_code": "140101",
-    "name": "Bangkinang"
+    "name": "Bangkinang",
+    "postal_code": "28411"
   },
   {
     "code": "1401011013",
     "district_code": "140101",
-    "name": "Langgini Sialang"
+    "name": "Langgini Sialang",
+    "postal_code": "28412"
   },
   {
     "code": "1401012009",
     "district_code": "140101",
-    "name": "Kumantan"
+    "name": "Kumantan",
+    "postal_code": "28411"
   },
   {
     "code": "1401012010",
     "district_code": "140101",
-    "name": "Rindan Permai"
+    "name": "Rindan Permai",
+    "postal_code": "28411"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "9105142001",
     "district_code": "910514",
-    "name": "Miosnum"
+    "name": "Miosnum",
+    "postal_code": "98646"
   },
   {
     "code": "9105142002",
     "district_code": "910514",
-    "name": "Jeniari"
+    "name": "Jeniari",
+    "postal_code": "98646"
   },
   {
     "code": "9105142003",
     "district_code": "910514",
-    "name": "Umpeki"
+    "name": "Umpeki",
+    "postal_code": "98646"
   },
   {
     "code": "9105142004",
     "district_code": "910514",
-    "name": "Ausem"
+    "name": "Ausem",
+    "postal_code": "98646"
   },
   {
     "code": "9105142005",
     "district_code": "910514",
-    "name": "Yeituarau"
+    "name": "Yeituarau",
+    "postal_code": "98646"
   }
 ]

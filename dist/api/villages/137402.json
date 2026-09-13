@@ -2,41 +2,49 @@
   {
     "code": "1374021001",
     "district_code": "137402",
-    "name": "Bukit Surungan"
+    "name": "Bukit Surungan",
+    "postal_code": "27115"
   },
   {
     "code": "1374021002",
     "district_code": "137402",
-    "name": "Pasar Usang"
+    "name": "Pasar Usang",
+    "postal_code": "27116"
   },
   {
     "code": "1374021003",
     "district_code": "137402",
-    "name": "Kampung Manggis"
+    "name": "Kampung Manggis",
+    "postal_code": "27111"
   },
   {
     "code": "1374021004",
     "district_code": "137402",
-    "name": "Silaing Bawah"
+    "name": "Silaing Bawah",
+    "postal_code": "27118"
   },
   {
     "code": "1374021005",
     "district_code": "137402",
-    "name": "Silaing Atas"
+    "name": "Silaing Atas",
+    "postal_code": "27117"
   },
   {
     "code": "1374021006",
     "district_code": "137402",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "27113"
   },
   {
     "code": "1374021007",
     "district_code": "137402",
-    "name": "Tanah Hitam"
+    "name": "Tanah Hitam",
+    "postal_code": "27112"
   },
   {
     "code": "1374021008",
     "district_code": "137402",
-    "name": "Balai-balai"
+    "name": "Balai-balai",
+    "postal_code": "27114"
   }
 ]

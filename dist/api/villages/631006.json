@@ -2,76 +2,91 @@
   {
     "code": "6310061001",
     "district_code": "631006",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "72212"
   },
   {
     "code": "6310061002",
     "district_code": "631006",
-    "name": "Tungkaran Pangeran"
+    "name": "Tungkaran Pangeran",
+    "postal_code": "72213"
   },
   {
     "code": "6310062003",
     "district_code": "631006",
-    "name": "Sari Gadung"
+    "name": "Sari Gadung",
+    "postal_code": "72211"
   },
   {
     "code": "6310062004",
     "district_code": "631006",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "72211"
   },
   {
     "code": "6310062005",
     "district_code": "631006",
-    "name": "Sungaidua"
+    "name": "Sungaidua",
+    "postal_code": "72211"
   },
   {
     "code": "6310062006",
     "district_code": "631006",
-    "name": "Batu Ampar"
+    "name": "Batu Ampar",
+    "postal_code": "72213"
   },
   {
     "code": "6310062007",
     "district_code": "631006",
-    "name": "Gunungbesar"
+    "name": "Gunungbesar",
+    "postal_code": "72213"
   },
   {
     "code": "6310062008",
     "district_code": "631006",
-    "name": "Pulau Burung"
+    "name": "Pulau Burung",
+    "postal_code": "72213"
   },
   {
     "code": "6310062009",
     "district_code": "631006",
-    "name": "Baroqah"
+    "name": "Baroqah",
+    "postal_code": "72213"
   },
   {
     "code": "6310062010",
     "district_code": "631006",
-    "name": "Bersujud"
+    "name": "Bersujud",
+    "postal_code": "72213"
   },
   {
     "code": "6310062011",
     "district_code": "631006",
-    "name": "Sejahtera"
+    "name": "Sejahtera",
+    "postal_code": "72213"
   },
   {
     "code": "6310062012",
     "district_code": "631006",
-    "name": "Gunungantasari"
+    "name": "Gunungantasari",
+    "postal_code": "72213"
   },
   {
     "code": "6310062013",
     "district_code": "631006",
-    "name": "Hidayah Makmur"
+    "name": "Hidayah Makmur",
+    "postal_code": "72213"
   },
   {
     "code": "6310062014",
     "district_code": "631006",
-    "name": "Plajau Mulia"
+    "name": "Plajau Mulia",
+    "postal_code": "72213"
   },
   {
     "code": "6310062015",
     "district_code": "631006",
-    "name": "Kupang Berkah Jaya"
+    "name": "Kupang Berkah Jaya",
+    "postal_code": "72211"
   }
 ]

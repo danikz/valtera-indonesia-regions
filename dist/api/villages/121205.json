@@ -2,36 +2,43 @@
   {
     "code": "1212052001",
     "district_code": "121205",
-    "name": "Meranti Utara"
+    "name": "Meranti Utara",
+    "postal_code": "22384"
   },
   {
     "code": "1212052002",
     "district_code": "121205",
-    "name": "Meranti Timur"
+    "name": "Meranti Timur",
+    "postal_code": "22384"
   },
   {
     "code": "1212052003",
     "district_code": "121205",
-    "name": "Meranti Tengah"
+    "name": "Meranti Tengah",
+    "postal_code": "22384"
   },
   {
     "code": "1212052007",
     "district_code": "121205",
-    "name": "Pintu Pohan"
+    "name": "Pintu Pohan",
+    "postal_code": "22384"
   },
   {
     "code": "1212052008",
     "district_code": "121205",
-    "name": "Ambar Halim"
+    "name": "Ambar Halim",
+    "postal_code": "22384"
   },
   {
     "code": "1212052009",
     "district_code": "121205",
-    "name": "Pintu Pohan Dolok"
+    "name": "Pintu Pohan Dolok",
+    "postal_code": "22384"
   },
   {
     "code": "1212052010",
     "district_code": "121205",
-    "name": "Halado"
+    "name": "Halado",
+    "postal_code": "22384"
   }
 ]

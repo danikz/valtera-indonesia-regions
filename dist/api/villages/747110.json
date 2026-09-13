@@ -2,21 +2,25 @@
   {
     "code": "7471101001",
     "district_code": "747110",
-    "name": "Kambu"
+    "name": "Kambu",
+    "postal_code": "93231"
   },
   {
     "code": "7471101002",
     "district_code": "747110",
-    "name": "Mokoau"
+    "name": "Mokoau",
+    "postal_code": "93231"
   },
   {
     "code": "7471101003",
     "district_code": "747110",
-    "name": "Padaleu"
+    "name": "Padaleu",
+    "postal_code": "93231"
   },
   {
     "code": "7471101004",
     "district_code": "747110",
-    "name": "Lalolara"
+    "name": "Lalolara",
+    "postal_code": "93231"
   }
 ]

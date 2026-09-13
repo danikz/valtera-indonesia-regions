@@ -2,36 +2,43 @@
   {
     "code": "3579031001",
     "district_code": "357903",
-    "name": "Dadaprejo"
+    "name": "Dadaprejo",
+    "postal_code": "65323"
   },
   {
     "code": "3579032002",
     "district_code": "357903",
-    "name": "Beji"
+    "name": "Beji",
+    "postal_code": "65326"
   },
   {
     "code": "3579032003",
     "district_code": "357903",
-    "name": "Junrejo"
+    "name": "Junrejo",
+    "postal_code": "65321"
   },
   {
     "code": "3579032004",
     "district_code": "357903",
-    "name": "Tlekung"
+    "name": "Tlekung",
+    "postal_code": "65327"
   },
   {
     "code": "3579032005",
     "district_code": "357903",
-    "name": "Mojorejo"
+    "name": "Mojorejo",
+    "postal_code": "65322"
   },
   {
     "code": "3579032006",
     "district_code": "357903",
-    "name": "Pendem"
+    "name": "Pendem",
+    "postal_code": "65324"
   },
   {
     "code": "3579032007",
     "district_code": "357903",
-    "name": "Torongrejo"
+    "name": "Torongrejo",
+    "postal_code": "65325"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "7503021008",
     "district_code": "750302",
-    "name": "Padengo"
+    "name": "Padengo",
+    "postal_code": "96552"
   },
   {
     "code": "7503021009",
     "district_code": "750302",
-    "name": "Olohuta"
+    "name": "Olohuta",
+    "postal_code": "96552"
   },
   {
     "code": "7503021010",
     "district_code": "750302",
-    "name": "Tumbihe"
+    "name": "Tumbihe",
+    "postal_code": "96552"
   },
   {
     "code": "7503021011",
     "district_code": "750302",
-    "name": "Pauwo"
+    "name": "Pauwo",
+    "postal_code": "96552"
   },
   {
     "code": "7503021028",
     "district_code": "750302",
-    "name": "Olohuta Utara"
+    "name": "Olohuta Utara",
+    "postal_code": "96552"
   },
   {
     "code": "7503022006",
     "district_code": "750302",
-    "name": "Dutohe"
+    "name": "Dutohe",
+    "postal_code": "96552"
   },
   {
     "code": "7503022007",
     "district_code": "750302",
-    "name": "Tanggilingo"
+    "name": "Tanggilingo",
+    "postal_code": "96552"
   },
   {
     "code": "7503022012",
     "district_code": "750302",
-    "name": "Toto Selatan"
+    "name": "Toto Selatan",
+    "postal_code": "96552"
   },
   {
     "code": "7503022013",
     "district_code": "750302",
-    "name": "Poowo"
+    "name": "Poowo",
+    "postal_code": "96552"
   },
   {
     "code": "7503022024",
     "district_code": "750302",
-    "name": "Talango"
+    "name": "Talango",
+    "postal_code": "96552"
   },
   {
     "code": "7503022026",
     "district_code": "750302",
-    "name": "Poowo Barat"
+    "name": "Poowo Barat",
+    "postal_code": "96552"
   },
   {
     "code": "7503022029",
     "district_code": "750302",
-    "name": "Dutohe Barat"
+    "name": "Dutohe Barat",
+    "postal_code": "96552"
   }
 ]

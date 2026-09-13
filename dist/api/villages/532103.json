@@ -2,61 +2,73 @@
   {
     "code": "5321032001",
     "district_code": "532103",
-    "name": "Halibasar"
+    "name": "Halibasar",
+    "postal_code": "85775"
   },
   {
     "code": "5321032002",
     "district_code": "532103",
-    "name": "Weulun"
+    "name": "Weulun",
+    "postal_code": "85775"
   },
   {
     "code": "5321032003",
     "district_code": "532103",
-    "name": "Webriamata"
+    "name": "Webriamata",
+    "postal_code": "85775"
   },
   {
     "code": "5321032004",
     "district_code": "532103",
-    "name": "Badarai"
+    "name": "Badarai",
+    "postal_code": "85775"
   },
   {
     "code": "5321032005",
     "district_code": "532103",
-    "name": "Weoe"
+    "name": "Weoe",
+    "postal_code": "85775"
   },
   {
     "code": "5321032006",
     "district_code": "532103",
-    "name": "Lorotolus"
+    "name": "Lorotolus",
+    "postal_code": "85775"
   },
   {
     "code": "5321032007",
     "district_code": "532103",
-    "name": "Seserai"
+    "name": "Seserai",
+    "postal_code": "85775"
   },
   {
     "code": "5321032008",
     "district_code": "532103",
-    "name": "Alkani"
+    "name": "Alkani",
+    "postal_code": "85775"
   },
   {
     "code": "5321032009",
     "district_code": "532103",
-    "name": "Lamea"
+    "name": "Lamea",
+    "postal_code": "85775"
   },
   {
     "code": "5321032010",
     "district_code": "532103",
-    "name": "Rabasa Biris"
+    "name": "Rabasa Biris",
+    "postal_code": "85775"
   },
   {
     "code": "5321032011",
     "district_code": "532103",
-    "name": "Biris"
+    "name": "Biris",
+    "postal_code": "85775"
   },
   {
     "code": "5321032012",
     "district_code": "532103",
-    "name": "Weseben"
+    "name": "Weseben",
+    "postal_code": "85775"
   }
 ]

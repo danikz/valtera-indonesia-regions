@@ -2,61 +2,73 @@
   {
     "code": "3374101001",
     "district_code": "337410",
-    "name": "Meteseh"
+    "name": "Meteseh",
+    "postal_code": "50271"
   },
   {
     "code": "3374101002",
     "district_code": "337410",
-    "name": "Rowosari"
+    "name": "Rowosari",
+    "postal_code": "50279"
   },
   {
     "code": "3374101003",
     "district_code": "337410",
-    "name": "Mangunharjo"
+    "name": "Mangunharjo",
+    "postal_code": "50272"
   },
   {
     "code": "3374101004",
     "district_code": "337410",
-    "name": "Bulusan"
+    "name": "Bulusan",
+    "postal_code": "50277"
   },
   {
     "code": "3374101005",
     "district_code": "337410",
-    "name": "Kramas"
+    "name": "Kramas",
+    "postal_code": "50278"
   },
   {
     "code": "3374101006",
     "district_code": "337410",
-    "name": "Tembalang"
+    "name": "Tembalang",
+    "postal_code": "50275"
   },
   {
     "code": "3374101007",
     "district_code": "337410",
-    "name": "Jangli"
+    "name": "Jangli",
+    "postal_code": "50274"
   },
   {
     "code": "3374101008",
     "district_code": "337410",
-    "name": "Tandang"
+    "name": "Tandang",
+    "postal_code": "50274"
   },
   {
     "code": "3374101009",
     "district_code": "337410",
-    "name": "Kedungmundu"
+    "name": "Kedungmundu",
+    "postal_code": "50273"
   },
   {
     "code": "3374101010",
     "district_code": "337410",
-    "name": "Sendangguwo"
+    "name": "Sendangguwo",
+    "postal_code": "50273"
   },
   {
     "code": "3374101011",
     "district_code": "337410",
-    "name": "Sendangmulyo"
+    "name": "Sendangmulyo",
+    "postal_code": "50272"
   },
   {
     "code": "3374101012",
     "district_code": "337410",
-    "name": "Sambiroto"
+    "name": "Sambiroto",
+    "postal_code": "50276"
   }
 ]

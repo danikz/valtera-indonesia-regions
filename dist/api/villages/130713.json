@@ -2,36 +2,43 @@
   {
     "code": "1307132001",
     "district_code": "130713",
-    "name": "Sariak Laweh"
+    "name": "Sariak Laweh",
+    "postal_code": "26252"
   },
   {
     "code": "1307132002",
     "district_code": "130713",
-    "name": "Koto Tangah Batu Ampa"
+    "name": "Koto Tangah Batu Ampa",
+    "postal_code": "26252"
   },
   {
     "code": "1307132003",
     "district_code": "130713",
-    "name": "Batuhampar"
+    "name": "Batuhampar",
+    "postal_code": "26252"
   },
   {
     "code": "1307132004",
     "district_code": "130713",
-    "name": "Suayan"
+    "name": "Suayan",
+    "postal_code": "26252"
   },
   {
     "code": "1307132005",
     "district_code": "130713",
-    "name": "Sungai Balantiak"
+    "name": "Sungai Balantiak",
+    "postal_code": "26252"
   },
   {
     "code": "1307132006",
     "district_code": "130713",
-    "name": "Pauh Sangik"
+    "name": "Pauh Sangik",
+    "postal_code": "26252"
   },
   {
     "code": "1307132007",
     "district_code": "130713",
-    "name": "Durian Gadang"
+    "name": "Durian Gadang",
+    "postal_code": "26252"
   }
 ]

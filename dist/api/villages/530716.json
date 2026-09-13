@@ -2,36 +2,43 @@
   {
     "code": "5307162001",
     "district_code": "530716",
-    "name": "Koting A"
+    "name": "Koting A",
+    "postal_code": "86116"
   },
   {
     "code": "5307162002",
     "district_code": "530716",
-    "name": "Koting B"
+    "name": "Koting B",
+    "postal_code": "86116"
   },
   {
     "code": "5307162003",
     "district_code": "530716",
-    "name": "Koting C"
+    "name": "Koting C",
+    "postal_code": "86116"
   },
   {
     "code": "5307162004",
     "district_code": "530716",
-    "name": "Koting D"
+    "name": "Koting D",
+    "postal_code": "86116"
   },
   {
     "code": "5307162005",
     "district_code": "530716",
-    "name": "Paubekor"
+    "name": "Paubekor",
+    "postal_code": "86116"
   },
   {
     "code": "5307162006",
     "district_code": "530716",
-    "name": "Ribang"
+    "name": "Ribang",
+    "postal_code": "86116"
   },
   {
     "code": "5307162007",
     "district_code": "530716",
-    "name": "Watu Repa"
+    "name": "Watu Repa",
+    "postal_code": "86116"
   }
 ]

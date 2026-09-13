@@ -2,21 +2,25 @@
   {
     "code": "3273231001",
     "district_code": "327323",
-    "name": "Cipamokolan"
+    "name": "Cipamokolan",
+    "postal_code": "40292"
   },
   {
     "code": "3273231002",
     "district_code": "327323",
-    "name": "Derwati"
+    "name": "Derwati",
+    "postal_code": "40292"
   },
   {
     "code": "3273231003",
     "district_code": "327323",
-    "name": "Munjahlega"
+    "name": "Munjahlega",
+    "postal_code": "40295"
   },
   {
     "code": "3273231004",
     "district_code": "327323",
-    "name": "Mekarmulya"
+    "name": "Mekarmulya",
+    "postal_code": "40292"
   }
 ]

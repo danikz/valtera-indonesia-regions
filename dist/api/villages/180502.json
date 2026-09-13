@@ -2,46 +2,55 @@
   {
     "code": "1805021008",
     "district_code": "180502",
-    "name": "Menggala Selatan"
+    "name": "Menggala Selatan",
+    "postal_code": "34611"
   },
   {
     "code": "1805021009",
     "district_code": "180502",
-    "name": "Ujung Gunung Ilir"
+    "name": "Ujung Gunung Ilir",
+    "postal_code": "34611"
   },
   {
     "code": "1805021010",
     "district_code": "180502",
-    "name": "Menggala Tengah"
+    "name": "Menggala Tengah",
+    "postal_code": "34611"
   },
   {
     "code": "1805021011",
     "district_code": "180502",
-    "name": "Menggala Kota"
+    "name": "Menggala Kota",
+    "postal_code": "34611"
   },
   {
     "code": "1805022001",
     "district_code": "180502",
-    "name": "Bujung Tenuk"
+    "name": "Bujung Tenuk",
+    "postal_code": "34613"
   },
   {
     "code": "1805022002",
     "district_code": "180502",
-    "name": "Ujung Gunung Ilir"
+    "name": "Ujung Gunung Ilir",
+    "postal_code": "34614"
   },
   {
     "code": "1805022007",
     "district_code": "180502",
-    "name": "Astra Ksetra"
+    "name": "Astra Ksetra",
+    "postal_code": "34613"
   },
   {
     "code": "1805022013",
     "district_code": "180502",
-    "name": "Kagungan Rahayu"
+    "name": "Kagungan Rahayu",
+    "postal_code": "34613"
   },
   {
     "code": "1805022014",
     "district_code": "180502",
-    "name": "Tiuh Tohou"
+    "name": "Tiuh Tohou",
+    "postal_code": "34611"
   }
 ]

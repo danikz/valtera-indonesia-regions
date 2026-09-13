@@ -2,76 +2,91 @@
   {
     "code": "1174042001",
     "district_code": "117404",
-    "name": "Pondok Kemuning"
+    "name": "Pondok Kemuning",
+    "postal_code": "24416"
   },
   {
     "code": "1174042002",
     "district_code": "117404",
-    "name": "Seulalah"
+    "name": "Seulalah",
+    "postal_code": "24416"
   },
   {
     "code": "1174042003",
     "district_code": "117404",
-    "name": "Pondok Pabrik"
+    "name": "Pondok Pabrik",
+    "postal_code": "24416"
   },
   {
     "code": "1174042004",
     "district_code": "117404",
-    "name": "Sidodadi"
+    "name": "Sidodadi",
+    "postal_code": "24411"
   },
   {
     "code": "1174042005",
     "district_code": "117404",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "24411"
   },
   {
     "code": "1174042006",
     "district_code": "117404",
-    "name": "Baro"
+    "name": "Baro",
+    "postal_code": "24416"
   },
   {
     "code": "1174042007",
     "district_code": "117404",
-    "name": "Meurandeh"
+    "name": "Meurandeh",
+    "postal_code": "24416"
   },
   {
     "code": "1174042008",
     "district_code": "117404",
-    "name": "Asam Peutik"
+    "name": "Asam Peutik",
+    "postal_code": "24416"
   },
   {
     "code": "1174042009",
     "district_code": "117404",
-    "name": "Baroh Langsa Lama"
+    "name": "Baroh Langsa Lama",
+    "postal_code": "24416"
   },
   {
     "code": "1174042010",
     "district_code": "117404",
-    "name": "Seulalah Baru"
+    "name": "Seulalah Baru",
+    "postal_code": "24416"
   },
   {
     "code": "1174042011",
     "district_code": "117404",
-    "name": "Sukajadi Kebun Ireng"
+    "name": "Sukajadi Kebun Ireng",
+    "postal_code": "24411"
   },
   {
     "code": "1174042012",
     "district_code": "117404",
-    "name": "Meurandeh Tengah"
+    "name": "Meurandeh Tengah",
+    "postal_code": "24416"
   },
   {
     "code": "1174042013",
     "district_code": "117404",
-    "name": "Meurandeh Dayah"
+    "name": "Meurandeh Dayah",
+    "postal_code": "24416"
   },
   {
     "code": "1174042014",
     "district_code": "117404",
-    "name": "Meurandeh Aceh"
+    "name": "Meurandeh Aceh",
+    "postal_code": "24416"
   },
   {
     "code": "1174042015",
     "district_code": "117404",
-    "name": "Batee Puteh"
+    "name": "Batee Puteh",
+    "postal_code": "24411"
   }
 ]

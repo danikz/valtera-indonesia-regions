@@ -2,21 +2,25 @@
   {
     "code": "1872021001",
     "district_code": "187202",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "34117"
   },
   {
     "code": "1872021002",
     "district_code": "187202",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "34118"
   },
   {
     "code": "1872021003",
     "district_code": "187202",
-    "name": "Karangrejo"
+    "name": "Karangrejo",
+    "postal_code": "34119"
   },
   {
     "code": "1872021004",
     "district_code": "187202",
-    "name": "Purwoasri"
+    "name": "Purwoasri",
+    "postal_code": "34117"
   }
 ]

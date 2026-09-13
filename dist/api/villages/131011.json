@@ -2,36 +2,43 @@
   {
     "code": "1310112001",
     "district_code": "131011",
-    "name": "Koto Besar"
+    "name": "Koto Besar",
+    "postal_code": "27685"
   },
   {
     "code": "1310112002",
     "district_code": "131011",
-    "name": "Koto Tinggi"
+    "name": "Koto Tinggi",
+    "postal_code": "27685"
   },
   {
     "code": "1310112003",
     "district_code": "131011",
-    "name": "Koto Gadang"
+    "name": "Koto Gadang",
+    "postal_code": "27685"
   },
   {
     "code": "1310112004",
     "district_code": "131011",
-    "name": "Bonjol"
+    "name": "Bonjol",
+    "postal_code": "27685"
   },
   {
     "code": "1310112005",
     "district_code": "131011",
-    "name": "Abai Siat"
+    "name": "Abai Siat",
+    "postal_code": "27685"
   },
   {
     "code": "1310112006",
     "district_code": "131011",
-    "name": "Koto Laweh"
+    "name": "Koto Laweh",
+    "postal_code": "27685"
   },
   {
     "code": "1310112007",
     "district_code": "131011",
-    "name": "Koto Ranah"
+    "name": "Koto Ranah",
+    "postal_code": "27685"
   }
 ]

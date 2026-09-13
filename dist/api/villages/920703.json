@@ -2,21 +2,25 @@
   {
     "code": "9207032001",
     "district_code": "920703",
-    "name": "Aisandami"
+    "name": "Aisandami",
+    "postal_code": "98345"
   },
   {
     "code": "9207032002",
     "district_code": "920703",
-    "name": "Sobey"
+    "name": "Sobey",
+    "postal_code": "98345"
   },
   {
     "code": "9207032006",
     "district_code": "920703",
-    "name": "Yopanggar"
+    "name": "Yopanggar",
+    "postal_code": "98345"
   },
   {
     "code": "9207032011",
     "district_code": "920703",
-    "name": "Sobey Indah"
+    "name": "Sobey Indah",
+    "postal_code": "98345"
   }
 ]

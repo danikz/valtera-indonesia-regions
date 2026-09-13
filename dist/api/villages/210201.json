@@ -2,61 +2,73 @@
   {
     "code": "2102011003",
     "district_code": "210201",
-    "name": "Moro"
+    "name": "Moro",
+    "postal_code": "29663"
   },
   {
     "code": "2102011010",
     "district_code": "210201",
-    "name": "Moro Timur"
+    "name": "Moro Timur",
+    "postal_code": "29663"
   },
   {
     "code": "2102012004",
     "district_code": "210201",
-    "name": "Pauh"
+    "name": "Pauh",
+    "postal_code": "29663"
   },
   {
     "code": "2102012005",
     "district_code": "210201",
-    "name": "Sugie"
+    "name": "Sugie",
+    "postal_code": ""
   },
   {
     "code": "2102012006",
     "district_code": "210201",
-    "name": "Keban"
+    "name": "Keban",
+    "postal_code": ""
   },
   {
     "code": "2102012007",
     "district_code": "210201",
-    "name": "Selat Mie"
+    "name": "Selat Mie",
+    "postal_code": ""
   },
   {
     "code": "2102012008",
     "district_code": "210201",
-    "name": "Tanjung Pelanduk"
+    "name": "Tanjung Pelanduk",
+    "postal_code": ""
   },
   {
     "code": "2102012009",
     "district_code": "210201",
-    "name": "Jang"
+    "name": "Jang",
+    "postal_code": "29663"
   },
   {
     "code": "2102012011",
     "district_code": "210201",
-    "name": "Niur Permai"
+    "name": "Niur Permai",
+    "postal_code": ""
   },
   {
     "code": "2102012012",
     "district_code": "210201",
-    "name": "Rawajaya"
+    "name": "Rawajaya",
+    "postal_code": ""
   },
   {
     "code": "2102012013",
     "district_code": "210201",
-    "name": "Buluh Patah"
+    "name": "Buluh Patah",
+    "postal_code": ""
   },
   {
     "code": "2102012014",
     "district_code": "210201",
-    "name": "Pulaumoro"
+    "name": "Pulaumoro",
+    "postal_code": "29663"
   }
 ]

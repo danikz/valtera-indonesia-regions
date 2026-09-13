@@ -2,36 +2,43 @@
   {
     "code": "9403152001",
     "district_code": "940315",
-    "name": "Okaitadi"
+    "name": "Okaitadi",
+    "postal_code": "98722"
   },
   {
     "code": "9403152002",
     "district_code": "940315",
-    "name": "Kito"
+    "name": "Kito",
+    "postal_code": "98722"
   },
   {
     "code": "9403152003",
     "district_code": "940315",
-    "name": "Geiketago"
+    "name": "Geiketago",
+    "postal_code": "98722"
   },
   {
     "code": "9403152004",
     "district_code": "940315",
-    "name": "Kadiyai"
+    "name": "Kadiyai",
+    "postal_code": "98722"
   },
   {
     "code": "9403152005",
     "district_code": "940315",
-    "name": "Uwodege"
+    "name": "Uwodege",
+    "postal_code": "98722"
   },
   {
     "code": "9403152006",
     "district_code": "940315",
-    "name": "Digiyo Tuwataida"
+    "name": "Digiyo Tuwataida",
+    "postal_code": "98722"
   },
   {
     "code": "9403152007",
     "district_code": "940315",
-    "name": "Itoka"
+    "name": "Itoka",
+    "postal_code": "98722"
   }
 ]

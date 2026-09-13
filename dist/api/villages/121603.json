@@ -2,36 +2,43 @@
   {
     "code": "1216032001",
     "district_code": "121603",
-    "name": "Marbun Toruan"
+    "name": "Marbun Toruan",
+    "postal_code": "22457"
   },
   {
     "code": "1216032002",
     "district_code": "121603",
-    "name": "Simamora"
+    "name": "Simamora",
+    "postal_code": "22457"
   },
   {
     "code": "1216032003",
     "district_code": "121603",
-    "name": "Tipang"
+    "name": "Tipang",
+    "postal_code": "22457"
   },
   {
     "code": "1216032004",
     "district_code": "121603",
-    "name": "Sinambela"
+    "name": "Sinambela",
+    "postal_code": "22457"
   },
   {
     "code": "1216032005",
     "district_code": "121603",
-    "name": "Simangulampe"
+    "name": "Simangulampe",
+    "postal_code": "22457"
   },
   {
     "code": "1216032006",
     "district_code": "121603",
-    "name": "Siunong Unong Julu"
+    "name": "Siunong Unong Julu",
+    "postal_code": "22457"
   },
   {
     "code": "1216032007",
     "district_code": "121603",
-    "name": "Marbun Tonga Marbun Dolok"
+    "name": "Marbun Tonga Marbun Dolok",
+    "postal_code": "22457"
   }
 ]

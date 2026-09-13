@@ -2,41 +2,49 @@
   {
     "code": "1572061008",
     "district_code": "157206",
-    "name": "Pondok Tinggi"
+    "name": "Pondok Tinggi",
+    "postal_code": "37114"
   },
   {
     "code": "1572062001",
     "district_code": "157206",
-    "name": "Sungai Jernih"
+    "name": "Sungai Jernih",
+    "postal_code": "37111"
   },
   {
     "code": "1572062002",
     "district_code": "157206",
-    "name": "Aur Duri"
+    "name": "Aur Duri",
+    "postal_code": "37111"
   },
   {
     "code": "1572062003",
     "district_code": "157206",
-    "name": "Pondok Agung"
+    "name": "Pondok Agung",
+    "postal_code": "37111"
   },
   {
     "code": "1572062004",
     "district_code": "157206",
-    "name": "Permanti"
+    "name": "Permanti",
+    "postal_code": "37111"
   },
   {
     "code": "1572062005",
     "district_code": "157206",
-    "name": "Lawang Agung"
+    "name": "Lawang Agung",
+    "postal_code": "37111"
   },
   {
     "code": "1572062006",
     "district_code": "157206",
-    "name": "Karya Bakti"
+    "name": "Karya Bakti",
+    "postal_code": "37111"
   },
   {
     "code": "1572062007",
     "district_code": "157206",
-    "name": "Koto Lebu"
+    "name": "Koto Lebu",
+    "postal_code": "37111"
   }
 ]

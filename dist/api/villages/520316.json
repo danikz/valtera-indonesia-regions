@@ -2,41 +2,49 @@
   {
     "code": "5203162001",
     "district_code": "520316",
-    "name": "Selaparang"
+    "name": "Selaparang",
+    "postal_code": "83655"
   },
   {
     "code": "5203162002",
     "district_code": "520316",
-    "name": "Ketangga"
+    "name": "Ketangga",
+    "postal_code": "83655"
   },
   {
     "code": "5203162003",
     "district_code": "520316",
-    "name": "Suntalangu"
+    "name": "Suntalangu",
+    "postal_code": "83655"
   },
   {
     "code": "5203162004",
     "district_code": "520316",
-    "name": "Suela"
+    "name": "Suela",
+    "postal_code": "83655"
   },
   {
     "code": "5203162005",
     "district_code": "520316",
-    "name": "Sapit"
+    "name": "Sapit",
+    "postal_code": "83655"
   },
   {
     "code": "5203162006",
     "district_code": "520316",
-    "name": "Perigi"
+    "name": "Perigi",
+    "postal_code": "83655"
   },
   {
     "code": "5203162007",
     "district_code": "520316",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "83655"
   },
   {
     "code": "5203162008",
     "district_code": "520316",
-    "name": "Puncak Jeringo"
+    "name": "Puncak Jeringo",
+    "postal_code": "83655"
   }
 ]

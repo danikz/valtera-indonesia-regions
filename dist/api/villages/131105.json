@@ -2,36 +2,43 @@
   {
     "code": "1311052001",
     "district_code": "131105",
-    "name": "Abai"
+    "name": "Abai",
+    "postal_code": "27779"
   },
   {
     "code": "1311052002",
     "district_code": "131105",
-    "name": "Dusun Tangah"
+    "name": "Dusun Tangah",
+    "postal_code": "27779"
   },
   {
     "code": "1311052003",
     "district_code": "131105",
-    "name": "Lubuk Ulang Aling"
+    "name": "Lubuk Ulang Aling",
+    "postal_code": "27779"
   },
   {
     "code": "1311052004",
     "district_code": "131105",
-    "name": "Ranah Pantai Cermin"
+    "name": "Ranah Pantai Cermin",
+    "postal_code": "27779"
   },
   {
     "code": "1311052005",
     "district_code": "131105",
-    "name": "Sitapus"
+    "name": "Sitapus",
+    "postal_code": "27779"
   },
   {
     "code": "1311052006",
     "district_code": "131105",
-    "name": "Lubuk Ulang Aling Selatan"
+    "name": "Lubuk Ulang Aling Selatan",
+    "postal_code": "27779"
   },
   {
     "code": "1311052007",
     "district_code": "131105",
-    "name": "Lubuk Ulang Aling Tengah"
+    "name": "Lubuk Ulang Aling Tengah",
+    "postal_code": "27779"
   }
 ]

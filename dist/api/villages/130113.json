@@ -2,51 +2,61 @@
   {
     "code": "1301132001",
     "district_code": "130113",
-    "name": "Inderapura Utara"
+    "name": "Inderapura Utara",
+    "postal_code": "25673"
   },
   {
     "code": "1301132002",
     "district_code": "130113",
-    "name": "Muara Inderapura"
+    "name": "Muara Inderapura",
+    "postal_code": "25673"
   },
   {
     "code": "1301132003",
     "district_code": "130113",
-    "name": "Damar Lapan Batang Inderapura"
+    "name": "Damar Lapan Batang Inderapura",
+    "postal_code": "25673"
   },
   {
     "code": "1301132004",
     "district_code": "130113",
-    "name": "Lalang Panjang Inderapura"
+    "name": "Lalang Panjang Inderapura",
+    "postal_code": "25673"
   },
   {
     "code": "1301132005",
     "district_code": "130113",
-    "name": "Palokan Inderapura"
+    "name": "Palokan Inderapura",
+    "postal_code": "25673"
   },
   {
     "code": "1301132006",
     "district_code": "130113",
-    "name": "Lubuk Betung Inderapura"
+    "name": "Lubuk Betung Inderapura",
+    "postal_code": "25673"
   },
   {
     "code": "1301132007",
     "district_code": "130113",
-    "name": "Tluk Kualo Inderapura"
+    "name": "Tluk Kualo Inderapura",
+    "postal_code": "25673"
   },
   {
     "code": "1301132008",
     "district_code": "130113",
-    "name": "Tanah Bakali Inderapura"
+    "name": "Tanah Bakali Inderapura",
+    "postal_code": "25673"
   },
   {
     "code": "1301132009",
     "district_code": "130113",
-    "name": "Inderapura Timur"
+    "name": "Inderapura Timur",
+    "postal_code": "25673"
   },
   {
     "code": "1301132010",
     "district_code": "130113",
-    "name": "Pulau Rajo Inderapura"
+    "name": "Pulau Rajo Inderapura",
+    "postal_code": "25673"
   }
 ]

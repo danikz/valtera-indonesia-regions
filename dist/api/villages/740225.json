@@ -2,46 +2,55 @@
   {
     "code": "7402251003",
     "district_code": "740225",
-    "name": "Meluhu"
+    "name": "Meluhu",
+    "postal_code": "93472"
   },
   {
     "code": "7402252001",
     "district_code": "740225",
-    "name": "Weorahi"
+    "name": "Weorahi",
+    "postal_code": "93472"
   },
   {
     "code": "7402252002",
     "district_code": "740225",
-    "name": "Lamelai"
+    "name": "Lamelai",
+    "postal_code": "93472"
   },
   {
     "code": "7402252004",
     "district_code": "740225",
-    "name": "Abuhu"
+    "name": "Abuhu",
+    "postal_code": "93472"
   },
   {
     "code": "7402252005",
     "district_code": "740225",
-    "name": "Tudameaso"
+    "name": "Tudameaso",
+    "postal_code": "93472"
   },
   {
     "code": "7402252006",
     "district_code": "740225",
-    "name": "Larowiu"
+    "name": "Larowiu",
+    "postal_code": "93472"
   },
   {
     "code": "7402252007",
     "district_code": "740225",
-    "name": "Ahuloa"
+    "name": "Ahuloa",
+    "postal_code": "93472"
   },
   {
     "code": "7402252008",
     "district_code": "740225",
-    "name": "Sambasule"
+    "name": "Sambasule",
+    "postal_code": "93472"
   },
   {
     "code": "7402252009",
     "district_code": "740225",
-    "name": "Lalopisi"
+    "name": "Lalopisi",
+    "postal_code": "93472"
   }
 ]

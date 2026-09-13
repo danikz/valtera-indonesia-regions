@@ -2,31 +2,37 @@
   {
     "code": "3603231001",
     "district_code": "360323",
-    "name": "Cisauk"
+    "name": "Cisauk",
+    "postal_code": "15341"
   },
   {
     "code": "3603232003",
     "district_code": "360323",
-    "name": "Mekar Wangi"
+    "name": "Mekar Wangi",
+    "postal_code": "15340"
   },
   {
     "code": "3603232005",
     "district_code": "360323",
-    "name": "Suradita"
+    "name": "Suradita",
+    "postal_code": "15343"
   },
   {
     "code": "3603232006",
     "district_code": "360323",
-    "name": "Sampora"
+    "name": "Sampora",
+    "postal_code": "15345"
   },
   {
     "code": "3603232009",
     "district_code": "360323",
-    "name": "Dangdang"
+    "name": "Dangdang",
+    "postal_code": "15342"
   },
   {
     "code": "3603232011",
     "district_code": "360323",
-    "name": "Cibogo"
+    "name": "Cibogo",
+    "postal_code": "15344"
   }
 ]

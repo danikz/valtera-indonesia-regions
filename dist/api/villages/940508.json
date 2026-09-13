@@ -2,51 +2,61 @@
   {
     "code": "9405082001",
     "district_code": "940508",
-    "name": "Gome"
+    "name": "Gome",
+    "postal_code": "98984"
   },
   {
     "code": "9405082002",
     "district_code": "940508",
-    "name": "Misimaga"
+    "name": "Misimaga",
+    "postal_code": "98963"
   },
   {
     "code": "9405082003",
     "district_code": "940508",
-    "name": "Upaga"
+    "name": "Upaga",
+    "postal_code": "98984"
   },
   {
     "code": "9405082004",
     "district_code": "940508",
-    "name": "Agiyome"
+    "name": "Agiyome",
+    "postal_code": "98963"
   },
   {
     "code": "9405082005",
     "district_code": "940508",
-    "name": "Yenggernok"
+    "name": "Yenggernok",
+    "postal_code": "98984"
   },
   {
     "code": "9405082006",
     "district_code": "940508",
-    "name": "Wako"
+    "name": "Wako",
+    "postal_code": "98963"
   },
   {
     "code": "9405082007",
     "district_code": "940508",
-    "name": "Tegelobak"
+    "name": "Tegelobak",
+    "postal_code": "98963"
   },
   {
     "code": "9405082008",
     "district_code": "940508",
-    "name": "Ninggabuma"
+    "name": "Ninggabuma",
+    "postal_code": "98963"
   },
   {
     "code": "9405082009",
     "district_code": "940508",
-    "name": "Kelanungin"
+    "name": "Kelanungin",
+    "postal_code": "98963"
   },
   {
     "code": "9405082010",
     "district_code": "940508",
-    "name": "Yonggolawi"
+    "name": "Yonggolawi",
+    "postal_code": "98984"
   }
 ]

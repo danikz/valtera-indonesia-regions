@@ -2,46 +2,55 @@
   {
     "code": "3212022001",
     "district_code": "321202",
-    "name": "Tanjungkerta"
+    "name": "Tanjungkerta",
+    "postal_code": "45265"
   },
   {
     "code": "3212022002",
     "district_code": "321202",
-    "name": "Kroya"
+    "name": "Kroya",
+    "postal_code": "45265"
   },
   {
     "code": "3212022003",
     "district_code": "321202",
-    "name": "Sumbon"
+    "name": "Sumbon",
+    "postal_code": "45265"
   },
   {
     "code": "3212022004",
     "district_code": "321202",
-    "name": "Sukamelang"
+    "name": "Sukamelang",
+    "postal_code": "45265"
   },
   {
     "code": "3212022005",
     "district_code": "321202",
-    "name": "Temiyang"
+    "name": "Temiyang",
+    "postal_code": "45265"
   },
   {
     "code": "3212022006",
     "district_code": "321202",
-    "name": "Tamiyangsari"
+    "name": "Tamiyangsari",
+    "postal_code": "45265"
   },
   {
     "code": "3212022007",
     "district_code": "321202",
-    "name": "Jayamulya"
+    "name": "Jayamulya",
+    "postal_code": "45265"
   },
   {
     "code": "3212022008",
     "district_code": "321202",
-    "name": "Suka Slamet"
+    "name": "Suka Slamet",
+    "postal_code": "45265"
   },
   {
     "code": "3212022009",
     "district_code": "321202",
-    "name": "Sumberjaya"
+    "name": "Sumberjaya",
+    "postal_code": "45265"
   }
 ]

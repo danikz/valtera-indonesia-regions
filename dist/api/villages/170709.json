@@ -2,41 +2,49 @@
   {
     "code": "1707091001",
     "district_code": "170709",
-    "name": "Tanjung Agung"
+    "name": "Tanjung Agung",
+    "postal_code": "39266"
   },
   {
     "code": "1707092002",
     "district_code": "170709",
-    "name": "Sukau Datang"
+    "name": "Sukau Datang",
+    "postal_code": "39266"
   },
   {
     "code": "1707092003",
     "district_code": "170709",
-    "name": "Sukau Datang I"
+    "name": "Sukau Datang I",
+    "postal_code": "39266"
   },
   {
     "code": "1707092004",
     "district_code": "170709",
-    "name": "Gunung Alam"
+    "name": "Gunung Alam",
+    "postal_code": "39266"
   },
   {
     "code": "1707092005",
     "district_code": "170709",
-    "name": "Tabeak Blau II"
+    "name": "Tabeak Blau II",
+    "postal_code": "39266"
   },
   {
     "code": "1707092006",
     "district_code": "170709",
-    "name": "Kota Baru Santan"
+    "name": "Kota Baru Santan",
+    "postal_code": "39266"
   },
   {
     "code": "1707092007",
     "district_code": "170709",
-    "name": "Tik Teleu"
+    "name": "Tik Teleu",
+    "postal_code": "39266"
   },
   {
     "code": "1707092008",
     "district_code": "170709",
-    "name": "Pelabai"
+    "name": "Pelabai",
+    "postal_code": "39266"
   }
 ]

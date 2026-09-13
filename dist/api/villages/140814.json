@@ -2,36 +2,43 @@
   {
     "code": "1408142001",
     "district_code": "140814",
-    "name": "Sungai Berbari"
+    "name": "Sungai Berbari",
+    "postal_code": "28765"
   },
   {
     "code": "1408142002",
     "district_code": "140814",
-    "name": "Sungai Limau"
+    "name": "Sungai Limau",
+    "postal_code": "28765"
   },
   {
     "code": "1408142003",
     "district_code": "140814",
-    "name": "Dosan"
+    "name": "Dosan",
+    "postal_code": "28765"
   },
   {
     "code": "1408142004",
     "district_code": "140814",
-    "name": "Benayah"
+    "name": "Benayah",
+    "postal_code": "28765"
   },
   {
     "code": "1408142005",
     "district_code": "140814",
-    "name": "Pebadaran"
+    "name": "Pebadaran",
+    "postal_code": "28765"
   },
   {
     "code": "1408142006",
     "district_code": "140814",
-    "name": "Dusun Pusaka"
+    "name": "Dusun Pusaka",
+    "postal_code": "28765"
   },
   {
     "code": "1408142007",
     "district_code": "140814",
-    "name": "Perincit"
+    "name": "Perincit",
+    "postal_code": "28765"
   }
 ]

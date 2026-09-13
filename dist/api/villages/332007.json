@@ -2,41 +2,49 @@
   {
     "code": "3320072001",
     "district_code": "332007",
-    "name": "Mororejo"
+    "name": "Mororejo",
+    "postal_code": "59452"
   },
   {
     "code": "3320072009",
     "district_code": "332007",
-    "name": "Suwawal"
+    "name": "Suwawal",
+    "postal_code": "59452"
   },
   {
     "code": "3320072010",
     "district_code": "332007",
-    "name": "Sinanggul"
+    "name": "Sinanggul",
+    "postal_code": "59452"
   },
   {
     "code": "3320072011",
     "district_code": "332007",
-    "name": "Jambu"
+    "name": "Jambu",
+    "postal_code": "59452"
   },
   {
     "code": "3320072012",
     "district_code": "332007",
-    "name": "Srobyong"
+    "name": "Srobyong",
+    "postal_code": "59452"
   },
   {
     "code": "3320072013",
     "district_code": "332007",
-    "name": "Sekuro"
+    "name": "Sekuro",
+    "postal_code": "59452"
   },
   {
     "code": "3320072014",
     "district_code": "332007",
-    "name": "Karanggondang"
+    "name": "Karanggondang",
+    "postal_code": "59452"
   },
   {
     "code": "3320072015",
     "district_code": "332007",
-    "name": "Jambu Timur"
+    "name": "Jambu Timur",
+    "postal_code": "59452"
   }
 ]

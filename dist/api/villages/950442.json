@@ -2,51 +2,61 @@
   {
     "code": "9504422001",
     "district_code": "950442",
-    "name": "Wuluk"
+    "name": "Wuluk",
+    "postal_code": "99041"
   },
   {
     "code": "9504422002",
     "district_code": "950442",
-    "name": "Wenggun"
+    "name": "Wenggun",
+    "postal_code": "99041"
   },
   {
     "code": "9504422003",
     "district_code": "950442",
-    "name": "Posman"
+    "name": "Posman",
+    "postal_code": "99041"
   },
   {
     "code": "9504422004",
     "district_code": "950442",
-    "name": "Tiyonggi"
+    "name": "Tiyonggi",
+    "postal_code": "99041"
   },
   {
     "code": "9504422005",
     "district_code": "950442",
-    "name": "Yelly"
+    "name": "Yelly",
+    "postal_code": "99041"
   },
   {
     "code": "9504422006",
     "district_code": "950442",
-    "name": "Agin"
+    "name": "Agin",
+    "postal_code": "99041"
   },
   {
     "code": "9504422007",
     "district_code": "950442",
-    "name": "Kogagi"
+    "name": "Kogagi",
+    "postal_code": "99041"
   },
   {
     "code": "9504422008",
     "district_code": "950442",
-    "name": "Yebena"
+    "name": "Yebena",
+    "postal_code": "99041"
   },
   {
     "code": "9504422009",
     "district_code": "950442",
-    "name": "Wamigi"
+    "name": "Wamigi",
+    "postal_code": "99041"
   },
   {
     "code": "9504422010",
     "district_code": "950442",
-    "name": "Kolanggun"
+    "name": "Kolanggun",
+    "postal_code": "99041"
   }
 ]

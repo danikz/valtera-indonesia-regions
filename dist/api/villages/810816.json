@@ -2,16 +2,19 @@
   {
     "code": "8108162001",
     "district_code": "810816",
-    "name": "Hila"
+    "name": "Hila",
+    "postal_code": "97440"
   },
   {
     "code": "8108162002",
     "district_code": "810816",
-    "name": "Jerusu"
+    "name": "Jerusu",
+    "postal_code": "97440"
   },
   {
     "code": "8108162003",
     "district_code": "810816",
-    "name": "Solath"
+    "name": "Solath",
+    "postal_code": "97440"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "3215261001",
     "district_code": "321526",
-    "name": "Karawang Wetan"
+    "name": "Karawang Wetan",
+    "postal_code": "41314"
   },
   {
     "code": "3215261002",
     "district_code": "321526",
-    "name": "Adiarsa Timur"
+    "name": "Adiarsa Timur",
+    "postal_code": "41314"
   },
   {
     "code": "3215261003",
     "district_code": "321526",
-    "name": "Palumbonsari"
+    "name": "Palumbonsari",
+    "postal_code": "41314"
   },
   {
     "code": "3215261004",
     "district_code": "321526",
-    "name": "Plawad"
+    "name": "Plawad",
+    "postal_code": "41314"
   },
   {
     "code": "3215262005",
     "district_code": "321526",
-    "name": "Margasari"
+    "name": "Margasari",
+    "postal_code": "41313"
   },
   {
     "code": "3215262006",
     "district_code": "321526",
-    "name": "Warungbambu"
+    "name": "Warungbambu",
+    "postal_code": "41313"
   },
   {
     "code": "3215262007",
     "district_code": "321526",
-    "name": "Kondangjaya"
+    "name": "Kondangjaya",
+    "postal_code": "41313"
   },
   {
     "code": "3215262008",
     "district_code": "321526",
-    "name": "Tegal Sawah"
+    "name": "Tegal Sawah",
+    "postal_code": "41314"
   }
 ]

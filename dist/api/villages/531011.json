@@ -2,51 +2,61 @@
   {
     "code": "5310111017",
     "district_code": "531011",
-    "name": "Reo"
+    "name": "Reo",
+    "postal_code": "86592"
   },
   {
     "code": "5310111018",
     "district_code": "531011",
-    "name": "Mata Air"
+    "name": "Mata Air",
+    "postal_code": "86592"
   },
   {
     "code": "5310111019",
     "district_code": "531011",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "86592"
   },
   {
     "code": "5310111020",
     "district_code": "531011",
-    "name": "Wangkung"
+    "name": "Wangkung",
+    "postal_code": "86592"
   },
   {
     "code": "5310112001",
     "district_code": "531011",
-    "name": "Robek"
+    "name": "Robek",
+    "postal_code": "86592"
   },
   {
     "code": "5310112009",
     "district_code": "531011",
-    "name": "Ruis"
+    "name": "Ruis",
+    "postal_code": "86592"
   },
   {
     "code": "5310112010",
     "district_code": "531011",
-    "name": "Bajak"
+    "name": "Bajak",
+    "postal_code": "86592"
   },
   {
     "code": "5310112011",
     "district_code": "531011",
-    "name": "Watu Baur"
+    "name": "Watu Baur",
+    "postal_code": "86592"
   },
   {
     "code": "5310112012",
     "district_code": "531011",
-    "name": "Salama"
+    "name": "Salama",
+    "postal_code": "86592"
   },
   {
     "code": "5310112016",
     "district_code": "531011",
-    "name": "Watu Tango"
+    "name": "Watu Tango",
+    "postal_code": "86592"
   }
 ]

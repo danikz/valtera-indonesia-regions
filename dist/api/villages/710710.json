@@ -2,51 +2,61 @@
   {
     "code": "7107102001",
     "district_code": "710710",
-    "name": "Tombatu Dua"
+    "name": "Tombatu Dua",
+    "postal_code": "95991"
   },
   {
     "code": "7107102002",
     "district_code": "710710",
-    "name": "Tombatu Dua Utara"
+    "name": "Tombatu Dua Utara",
+    "postal_code": "95991"
   },
   {
     "code": "7107102003",
     "district_code": "710710",
-    "name": "Tombatu Dua Barat"
+    "name": "Tombatu Dua Barat",
+    "postal_code": "95991"
   },
   {
     "code": "7107102004",
     "district_code": "710710",
-    "name": "Tombatu Dua Tengah"
+    "name": "Tombatu Dua Tengah",
+    "postal_code": "95991"
   },
   {
     "code": "7107102005",
     "district_code": "710710",
-    "name": "Tombatu Tiga"
+    "name": "Tombatu Tiga",
+    "postal_code": "95991"
   },
   {
     "code": "7107102006",
     "district_code": "710710",
-    "name": "Tombatu Tiga Tengah"
+    "name": "Tombatu Tiga Tengah",
+    "postal_code": "95991"
   },
   {
     "code": "7107102007",
     "district_code": "710710",
-    "name": "Kuyanga"
+    "name": "Kuyanga",
+    "postal_code": "95991"
   },
   {
     "code": "7107102008",
     "district_code": "710710",
-    "name": "Kuyanga Satu"
+    "name": "Kuyanga Satu",
+    "postal_code": "95991"
   },
   {
     "code": "7107102009",
     "district_code": "710710",
-    "name": "Winorangian"
+    "name": "Winorangian",
+    "postal_code": "95991"
   },
   {
     "code": "7107102010",
     "district_code": "710710",
-    "name": "Winorangian Satu"
+    "name": "Winorangian Satu",
+    "postal_code": "95991"
   }
 ]

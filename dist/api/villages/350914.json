@@ -2,36 +2,43 @@
   {
     "code": "3509142001",
     "district_code": "350914",
-    "name": "Pakis"
+    "name": "Pakis",
+    "postal_code": "68153"
   },
   {
     "code": "3509142002",
     "district_code": "350914",
-    "name": "Kemuning Sari Lor"
+    "name": "Kemuning Sari Lor",
+    "postal_code": "68153"
   },
   {
     "code": "3509142003",
     "district_code": "350914",
-    "name": "Panti"
+    "name": "Panti",
+    "postal_code": "68153"
   },
   {
     "code": "3509142004",
     "district_code": "350914",
-    "name": "Glagahwero"
+    "name": "Glagahwero",
+    "postal_code": "68153"
   },
   {
     "code": "3509142005",
     "district_code": "350914",
-    "name": "Suci"
+    "name": "Suci",
+    "postal_code": "68153"
   },
   {
     "code": "3509142006",
     "district_code": "350914",
-    "name": "Kemiri"
+    "name": "Kemiri",
+    "postal_code": "68153"
   },
   {
     "code": "3509142007",
     "district_code": "350914",
-    "name": "Serut"
+    "name": "Serut",
+    "postal_code": "68153"
   }
 ]

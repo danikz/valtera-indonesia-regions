@@ -2,31 +2,37 @@
   {
     "code": "7309011001",
     "district_code": "730901",
-    "name": "Hasanuddin"
+    "name": "Hasanuddin",
+    "postal_code": "90552"
   },
   {
     "code": "7309011002",
     "district_code": "730901",
-    "name": "Bontoa"
+    "name": "Bontoa",
+    "postal_code": "90552"
   },
   {
     "code": "7309012003",
     "district_code": "730901",
-    "name": "Tenrigangkae"
+    "name": "Tenrigangkae",
+    "postal_code": "90552"
   },
   {
     "code": "7309012004",
     "district_code": "730901",
-    "name": "Pattontongang"
+    "name": "Pattontongang",
+    "postal_code": "90552"
   },
   {
     "code": "7309012005",
     "district_code": "730901",
-    "name": "Bonto Mate'ne"
+    "name": "Bonto Mate'ne",
+    "postal_code": "90552"
   },
   {
     "code": "7309012006",
     "district_code": "730901",
-    "name": "Baji Mangngai"
+    "name": "Baji Mangngai",
+    "postal_code": "90552"
   }
 ]

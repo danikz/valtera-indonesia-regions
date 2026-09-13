@@ -2,26 +2,31 @@
   {
     "code": "7271011004",
     "district_code": "727101",
-    "name": "Besusu Barat"
+    "name": "Besusu Barat",
+    "postal_code": "94111"
   },
   {
     "code": "7271011006",
     "district_code": "727101",
-    "name": "Besusu Tengah"
+    "name": "Besusu Tengah",
+    "postal_code": "94111"
   },
   {
     "code": "7271011007",
     "district_code": "727101",
-    "name": "Besusu Timur"
+    "name": "Besusu Timur",
+    "postal_code": "94111"
   },
   {
     "code": "7271011009",
     "district_code": "727101",
-    "name": "Lolu Selatan"
+    "name": "Lolu Selatan",
+    "postal_code": "94235"
   },
   {
     "code": "7271011010",
     "district_code": "727101",
-    "name": "Lolu Utara"
+    "name": "Lolu Utara",
+    "postal_code": "94235"
   }
 ]

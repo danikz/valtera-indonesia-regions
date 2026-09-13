@@ -2,66 +2,79 @@
   {
     "code": "1210081001",
     "district_code": "121008",
-    "name": "Negeri Lama"
+    "name": "Negeri Lama",
+    "postal_code": "21471"
   },
   {
     "code": "1210081002",
     "district_code": "121008",
-    "name": "Negeri Baru"
+    "name": "Negeri Baru",
+    "postal_code": "21471"
   },
   {
     "code": "1210082003",
     "district_code": "121008",
-    "name": "Perkebunan Sennah"
+    "name": "Perkebunan Sennah",
+    "postal_code": "21471"
   },
   {
     "code": "1210082004",
     "district_code": "121008",
-    "name": "Perkebunan Negeri Lama"
+    "name": "Perkebunan Negeri Lama",
+    "postal_code": "21471"
   },
   {
     "code": "1210082005",
     "district_code": "121008",
-    "name": "Perkebunan Bilah"
+    "name": "Perkebunan Bilah",
+    "postal_code": "21471"
   },
   {
     "code": "1210082006",
     "district_code": "121008",
-    "name": "Kampung Bilah"
+    "name": "Kampung Bilah",
+    "postal_code": "21471"
   },
   {
     "code": "1210082007",
     "district_code": "121008",
-    "name": "Negeri Lama Seberang"
+    "name": "Negeri Lama Seberang",
+    "postal_code": "21471"
   },
   {
     "code": "1210082008",
     "district_code": "121008",
-    "name": "Sei Tampang"
+    "name": "Sei Tampang",
+    "postal_code": "21471"
   },
   {
     "code": "1210082009",
     "district_code": "121008",
-    "name": "Selat Besar"
+    "name": "Selat Besar",
+    "postal_code": "21471"
   },
   {
     "code": "1210082010",
     "district_code": "121008",
-    "name": "Tanjung Haloban"
+    "name": "Tanjung Haloban",
+    "postal_code": "21471"
   },
   {
     "code": "1210082011",
     "district_code": "121008",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "21471"
   },
   {
     "code": "1210082012",
     "district_code": "121008",
-    "name": "Sei Tarolat"
+    "name": "Sei Tarolat",
+    "postal_code": "21471"
   },
   {
     "code": "1210082013",
     "district_code": "121008",
-    "name": "Sei Kasih"
+    "name": "Sei Kasih",
+    "postal_code": "21471"
   }
 ]

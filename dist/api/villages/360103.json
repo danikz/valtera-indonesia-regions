@@ -2,46 +2,55 @@
   {
     "code": "3601032001",
     "district_code": "360103",
-    "name": "Mendung"
+    "name": "Mendung",
+    "postal_code": "42285"
   },
   {
     "code": "3601032006",
     "district_code": "360103",
-    "name": "Sudimanik"
+    "name": "Sudimanik",
+    "postal_code": "42285"
   },
   {
     "code": "3601032007",
     "district_code": "360103",
-    "name": "Curug"
+    "name": "Curug",
+    "postal_code": "42285"
   },
   {
     "code": "3601032008",
     "district_code": "360103",
-    "name": "Cibingbin"
+    "name": "Cibingbin",
+    "postal_code": "42285"
   },
   {
     "code": "3601032009",
     "district_code": "360103",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "42285"
   },
   {
     "code": "3601032011",
     "district_code": "360103",
-    "name": "Mahendra"
+    "name": "Mahendra",
+    "postal_code": "42285"
   },
   {
     "code": "3601032012",
     "district_code": "360103",
-    "name": "Cibaliung"
+    "name": "Cibaliung",
+    "postal_code": "42285"
   },
   {
     "code": "3601032015",
     "district_code": "360103",
-    "name": "Cihanjuang"
+    "name": "Cihanjuang",
+    "postal_code": "42285"
   },
   {
     "code": "3601032016",
     "district_code": "360103",
-    "name": "Sorongan"
+    "name": "Sorongan",
+    "postal_code": "42285"
   }
 ]

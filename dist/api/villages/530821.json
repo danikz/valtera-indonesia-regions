@@ -2,71 +2,85 @@
   {
     "code": "5308212001",
     "district_code": "530821",
-    "name": "Nggumbelaka"
+    "name": "Nggumbelaka",
+    "postal_code": "86376"
   },
   {
     "code": "5308212002",
     "district_code": "530821",
-    "name": "Mukureku"
+    "name": "Mukureku",
+    "postal_code": "86376"
   },
   {
     "code": "5308212003",
     "district_code": "530821",
-    "name": "Wologai Timur"
+    "name": "Wologai Timur",
+    "postal_code": "86376"
   },
   {
     "code": "5308212004",
     "district_code": "530821",
-    "name": "Kuru"
+    "name": "Kuru",
+    "postal_code": "86375"
   },
   {
     "code": "5308212005",
     "district_code": "530821",
-    "name": "Ndenggarongge"
+    "name": "Ndenggarongge",
+    "postal_code": "86375"
   },
   {
     "code": "5308212006",
     "district_code": "530821",
-    "name": "Ndikosapu"
+    "name": "Ndikosapu",
+    "postal_code": "86378"
   },
   {
     "code": "5308212007",
     "district_code": "530821",
-    "name": "Taniwoda"
+    "name": "Taniwoda",
+    "postal_code": "86374"
   },
   {
     "code": "5308212008",
     "district_code": "530821",
-    "name": "Tanalangi"
+    "name": "Tanalangi",
+    "postal_code": "86374"
   },
   {
     "code": "5308212009",
     "district_code": "530821",
-    "name": "Detuara"
+    "name": "Detuara",
+    "postal_code": "86374"
   },
   {
     "code": "5308212010",
     "district_code": "530821",
-    "name": "Tiwusora"
+    "name": "Tiwusora",
+    "postal_code": "86374"
   },
   {
     "code": "5308212011",
     "district_code": "530821",
-    "name": "Lisekuru"
+    "name": "Lisekuru",
+    "postal_code": "86379"
   },
   {
     "code": "5308212012",
     "district_code": "530821",
-    "name": "Rutujeja"
+    "name": "Rutujeja",
+    "postal_code": "86377"
   },
   {
     "code": "5308212013",
     "district_code": "530821",
-    "name": "Mukureku Sa'ate"
+    "name": "Mukureku Sa'ate",
+    "postal_code": "86376"
   },
   {
     "code": "5308212014",
     "district_code": "530821",
-    "name": "Kurusare"
+    "name": "Kurusare",
+    "postal_code": "86375"
   }
 ]

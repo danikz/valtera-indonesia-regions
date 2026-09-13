@@ -2,36 +2,43 @@
   {
     "code": "9503442001",
     "district_code": "950344",
-    "name": "Kabianggama"
+    "name": "Kabianggama",
+    "postal_code": "99734"
   },
   {
     "code": "9503442002",
     "district_code": "950344",
-    "name": "Sohobma"
+    "name": "Sohobma",
+    "postal_code": "99734"
   },
   {
     "code": "9503442003",
     "district_code": "950344",
-    "name": "Sohal"
+    "name": "Sohal",
+    "postal_code": "99734"
   },
   {
     "code": "9503442004",
     "district_code": "950344",
-    "name": "Bahabolma"
+    "name": "Bahabolma",
+    "postal_code": "99734"
   },
   {
     "code": "9503442005",
     "district_code": "950344",
-    "name": "Subayo"
+    "name": "Subayo",
+    "postal_code": "99734"
   },
   {
     "code": "9503442006",
     "district_code": "950344",
-    "name": "Buahun"
+    "name": "Buahun",
+    "postal_code": "99734"
   },
   {
     "code": "9503442007",
     "district_code": "950344",
-    "name": "Domul"
+    "name": "Domul",
+    "postal_code": "99734"
   }
 ]

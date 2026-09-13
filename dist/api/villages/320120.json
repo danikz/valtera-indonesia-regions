@@ -2,56 +2,67 @@
   {
     "code": "3201202001",
     "district_code": "320120",
-    "name": "Jagabaya"
+    "name": "Jagabaya",
+    "postal_code": "16360"
   },
   {
     "code": "3201202002",
     "district_code": "320120",
-    "name": "Gorowong"
+    "name": "Gorowong",
+    "postal_code": "16360"
   },
   {
     "code": "3201202003",
     "district_code": "320120",
-    "name": "Dago"
+    "name": "Dago",
+    "postal_code": "16360"
   },
   {
     "code": "3201202004",
     "district_code": "320120",
-    "name": "Pingku"
+    "name": "Pingku",
+    "postal_code": "16360"
   },
   {
     "code": "3201202005",
     "district_code": "320120",
-    "name": "Cikuda"
+    "name": "Cikuda",
+    "postal_code": "16360"
   },
   {
     "code": "3201202006",
     "district_code": "320120",
-    "name": "Parungpanjang"
+    "name": "Parungpanjang",
+    "postal_code": "16360"
   },
   {
     "code": "3201202007",
     "district_code": "320120",
-    "name": "Lumpang"
+    "name": "Lumpang",
+    "postal_code": "16360"
   },
   {
     "code": "3201202008",
     "district_code": "320120",
-    "name": "Cibunar"
+    "name": "Cibunar",
+    "postal_code": "16360"
   },
   {
     "code": "3201202009",
     "district_code": "320120",
-    "name": "Jagabita"
+    "name": "Jagabita",
+    "postal_code": "16360"
   },
   {
     "code": "3201202010",
     "district_code": "320120",
-    "name": "Gintungcilejet"
+    "name": "Gintungcilejet",
+    "postal_code": "16360"
   },
   {
     "code": "3201202011",
     "district_code": "320120",
-    "name": "Kabasiran"
+    "name": "Kabasiran",
+    "postal_code": "16360"
   }
 ]

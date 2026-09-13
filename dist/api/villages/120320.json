@@ -2,61 +2,73 @@
   {
     "code": "1203201004",
     "district_code": "120320",
-    "name": "Pasar Sempurna"
+    "name": "Pasar Sempurna",
+    "postal_code": "22737"
   },
   {
     "code": "1203202002",
     "district_code": "120320",
-    "name": "Huraba"
+    "name": "Huraba",
+    "postal_code": "22737"
   },
   {
     "code": "1203202014",
     "district_code": "120320",
-    "name": "Gunung Binanga"
+    "name": "Gunung Binanga",
+    "postal_code": "22737"
   },
   {
     "code": "1203202015",
     "district_code": "120320",
-    "name": "Marancar Godang"
+    "name": "Marancar Godang",
+    "postal_code": "22737"
   },
   {
     "code": "1203202016",
     "district_code": "120320",
-    "name": "Simaninggir"
+    "name": "Simaninggir",
+    "postal_code": "22737"
   },
   {
     "code": "1203202023",
     "district_code": "120320",
-    "name": "Sugi"
+    "name": "Sugi",
+    "postal_code": "22737"
   },
   {
     "code": "1203202028",
     "district_code": "120320",
-    "name": "Haunatas"
+    "name": "Haunatas",
+    "postal_code": "22737"
   },
   {
     "code": "1203202032",
     "district_code": "120320",
-    "name": "Aek Nabara"
+    "name": "Aek Nabara",
+    "postal_code": "22737"
   },
   {
     "code": "1203202033",
     "district_code": "120320",
-    "name": "Gapuk Tua"
+    "name": "Gapuk Tua",
+    "postal_code": "22737"
   },
   {
     "code": "1203202034",
     "district_code": "120320",
-    "name": "Marancar Julu"
+    "name": "Marancar Julu",
+    "postal_code": "22737"
   },
   {
     "code": "1203202035",
     "district_code": "120320",
-    "name": "Aek Sabaon"
+    "name": "Aek Sabaon",
+    "postal_code": "22737"
   },
   {
     "code": "1203202036",
     "district_code": "120320",
-    "name": "Tanjung Dolok"
+    "name": "Tanjung Dolok",
+    "postal_code": "22737"
   }
 ]

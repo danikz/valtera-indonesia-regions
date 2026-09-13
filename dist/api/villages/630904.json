@@ -2,76 +2,91 @@
   {
     "code": "6309041001",
     "district_code": "630904",
-    "name": "Jangkung"
+    "name": "Jangkung",
+    "postal_code": "71512"
   },
   {
     "code": "6309041002",
     "district_code": "630904",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "71513"
   },
   {
     "code": "6309041003",
     "district_code": "630904",
-    "name": "Agung"
+    "name": "Agung",
+    "postal_code": "71514"
   },
   {
     "code": "6309041004",
     "district_code": "630904",
-    "name": "Hikun"
+    "name": "Hikun",
+    "postal_code": "71515"
   },
   {
     "code": "6309042005",
     "district_code": "630904",
-    "name": "Banyu Tajun"
+    "name": "Banyu Tajun",
+    "postal_code": "71515"
   },
   {
     "code": "6309042006",
     "district_code": "630904",
-    "name": "Pamarangan Kiwa"
+    "name": "Pamarangan Kiwa",
+    "postal_code": "71515"
   },
   {
     "code": "6309042007",
     "district_code": "630904",
-    "name": "Puain Kiwa"
+    "name": "Puain Kiwa",
+    "postal_code": "71515"
   },
   {
     "code": "6309042008",
     "district_code": "630904",
-    "name": "Juai"
+    "name": "Juai",
+    "postal_code": "71515"
   },
   {
     "code": "6309042009",
     "district_code": "630904",
-    "name": "Mahe Seberang"
+    "name": "Mahe Seberang",
+    "postal_code": "71515"
   },
   {
     "code": "6309042010",
     "district_code": "630904",
-    "name": "Kambitin"
+    "name": "Kambitin",
+    "postal_code": "71515"
   },
   {
     "code": "6309042011",
     "district_code": "630904",
-    "name": "Wayau"
+    "name": "Wayau",
+    "postal_code": "71515"
   },
   {
     "code": "6309042012",
     "district_code": "630904",
-    "name": "Garunggung"
+    "name": "Garunggung",
+    "postal_code": "71515"
   },
   {
     "code": "6309042013",
     "district_code": "630904",
-    "name": "Kitang"
+    "name": "Kitang",
+    "postal_code": "71515"
   },
   {
     "code": "6309042014",
     "district_code": "630904",
-    "name": "Sungai Pimping"
+    "name": "Sungai Pimping",
+    "postal_code": "71515"
   },
   {
     "code": "6309042015",
     "district_code": "630904",
-    "name": "Kambitin Raya"
+    "name": "Kambitin Raya",
+    "postal_code": "71515"
   }
 ]

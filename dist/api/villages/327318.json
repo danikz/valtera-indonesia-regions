@@ -2,21 +2,25 @@
   {
     "code": "3273181001",
     "district_code": "327318",
-    "name": "Cihaur Geulis"
+    "name": "Cihaur Geulis",
+    "postal_code": "40122"
   },
   {
     "code": "3273181002",
     "district_code": "327318",
-    "name": "Sukaluyu"
+    "name": "Sukaluyu",
+    "postal_code": "40123"
   },
   {
     "code": "3273181003",
     "district_code": "327318",
-    "name": "Neglasari"
+    "name": "Neglasari",
+    "postal_code": "40124"
   },
   {
     "code": "3273181004",
     "district_code": "327318",
-    "name": "Cigadung"
+    "name": "Cigadung",
+    "postal_code": "40191"
   }
 ]

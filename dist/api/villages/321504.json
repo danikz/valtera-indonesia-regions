@@ -2,36 +2,43 @@
   {
     "code": "3215042001",
     "district_code": "321504",
-    "name": "Kutapohaci"
+    "name": "Kutapohaci",
+    "postal_code": "41363"
   },
   {
     "code": "3215042003",
     "district_code": "321504",
-    "name": "Parungmulya"
+    "name": "Parungmulya",
+    "postal_code": "41363"
   },
   {
     "code": "3215042004",
     "district_code": "321504",
-    "name": "Kutamekar"
+    "name": "Kutamekar",
+    "postal_code": "41363"
   },
   {
     "code": "3215042005",
     "district_code": "321504",
-    "name": "Kutanegara"
+    "name": "Kutanegara",
+    "postal_code": "41363"
   },
   {
     "code": "3215042006",
     "district_code": "321504",
-    "name": "Mulyasari"
+    "name": "Mulyasari",
+    "postal_code": "41363"
   },
   {
     "code": "3215042007",
     "district_code": "321504",
-    "name": "Mulyasejati"
+    "name": "Mulyasejati",
+    "postal_code": "41363"
   },
   {
     "code": "3215042008",
     "district_code": "321504",
-    "name": "Tegallega"
+    "name": "Tegallega",
+    "postal_code": "41363"
   }
 ]

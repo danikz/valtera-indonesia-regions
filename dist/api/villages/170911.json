@@ -2,56 +2,67 @@
   {
     "code": "1709112001",
     "district_code": "170911",
-    "name": "Pagar Gunung"
+    "name": "Pagar Gunung",
+    "postal_code": "38382"
   },
   {
     "code": "1709112002",
     "district_code": "170911",
-    "name": "Karang Nanding"
+    "name": "Karang Nanding",
+    "postal_code": "38382"
   },
   {
     "code": "1709112003",
     "district_code": "170911",
-    "name": "Semidang"
+    "name": "Semidang",
+    "postal_code": "38382"
   },
   {
     "code": "1709112004",
     "district_code": "170911",
-    "name": "Gajah Mati"
+    "name": "Gajah Mati",
+    "postal_code": "38382"
   },
   {
     "code": "1709112005",
     "district_code": "170911",
-    "name": "Padang Siring"
+    "name": "Padang Siring",
+    "postal_code": "38382"
   },
   {
     "code": "1709112006",
     "district_code": "170911",
-    "name": "Lagan Bungin"
+    "name": "Lagan Bungin",
+    "postal_code": "38385"
   },
   {
     "code": "1709112007",
     "district_code": "170911",
-    "name": "Pagar Jati"
+    "name": "Pagar Jati",
+    "postal_code": "38385"
   },
   {
     "code": "1709112008",
     "district_code": "170911",
-    "name": "Taba Lagan"
+    "name": "Taba Lagan",
+    "postal_code": "38385"
   },
   {
     "code": "1709112009",
     "district_code": "170911",
-    "name": "Lagan"
+    "name": "Lagan",
+    "postal_code": "38385"
   },
   {
     "code": "1709112010",
     "district_code": "170911",
-    "name": "Bukit"
+    "name": "Bukit",
+    "postal_code": "38385"
   },
   {
     "code": "1709112011",
     "district_code": "170911",
-    "name": "Kota Niur"
+    "name": "Kota Niur",
+    "postal_code": "38388"
   }
 ]

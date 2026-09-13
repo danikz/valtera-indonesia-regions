@@ -2,51 +2,61 @@
   {
     "code": "6302212001",
     "district_code": "630221",
-    "name": "Tanjung Pelayar"
+    "name": "Tanjung Pelayar",
+    "postal_code": "72151"
   },
   {
     "code": "6302212002",
     "district_code": "630221",
-    "name": "Tanjung Sungkai"
+    "name": "Tanjung Sungkai",
+    "postal_code": "72151"
   },
   {
     "code": "6302212003",
     "district_code": "630221",
-    "name": "Tanjung Tengah"
+    "name": "Tanjung Tengah",
+    "postal_code": "72151"
   },
   {
     "code": "6302212004",
     "district_code": "630221",
-    "name": "Tanjung Kunyit"
+    "name": "Tanjung Kunyit",
+    "postal_code": "72151"
   },
   {
     "code": "6302212005",
     "district_code": "630221",
-    "name": "Teluk Tamiang"
+    "name": "Teluk Tamiang",
+    "postal_code": "72151"
   },
   {
     "code": "6302212006",
     "district_code": "630221",
-    "name": "Gosong Panjang"
+    "name": "Gosong Panjang",
+    "postal_code": "72151"
   },
   {
     "code": "6302212007",
     "district_code": "630221",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "72151"
   },
   {
     "code": "6302212008",
     "district_code": "630221",
-    "name": "Tata Mekar"
+    "name": "Tata Mekar",
+    "postal_code": "72151"
   },
   {
     "code": "6302212009",
     "district_code": "630221",
-    "name": "Bandar Raya"
+    "name": "Bandar Raya",
+    "postal_code": "72151"
   },
   {
     "code": "6302212010",
     "district_code": "630221",
-    "name": "Bangun Rejo"
+    "name": "Bangun Rejo",
+    "postal_code": "72151"
   }
 ]

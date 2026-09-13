@@ -2,66 +2,79 @@
   {
     "code": "1674021003",
     "district_code": "167402",
-    "name": "Karang Raja"
+    "name": "Karang Raja",
+    "postal_code": "31111"
   },
   {
     "code": "1674021004",
     "district_code": "167402",
-    "name": "Tugu Kecil"
+    "name": "Tugu Kecil",
+    "postal_code": "31111"
   },
   {
     "code": "1674021005",
     "district_code": "167402",
-    "name": "Prabu Jaya"
+    "name": "Prabu Jaya",
+    "postal_code": "31111"
   },
   {
     "code": "1674021006",
     "district_code": "167402",
-    "name": "Muara Dua"
+    "name": "Muara Dua",
+    "postal_code": "31113"
   },
   {
     "code": "1674021007",
     "district_code": "167402",
-    "name": "Gunung Ibul"
+    "name": "Gunung Ibul",
+    "postal_code": "31113"
   },
   {
     "code": "1674021008",
     "district_code": "167402",
-    "name": "Gunung Ibul Barat"
+    "name": "Gunung Ibul Barat",
+    "postal_code": "31117"
   },
   {
     "code": "1674021009",
     "district_code": "167402",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "31111"
   },
   {
     "code": "1674021010",
     "district_code": "167402",
-    "name": "Karang Jaya"
+    "name": "Karang Jaya",
+    "postal_code": "31115"
   },
   {
     "code": "1674021011",
     "district_code": "167402",
-    "name": "Muara Dua Barat"
+    "name": "Muara Dua Barat",
+    "postal_code": "31113"
   },
   {
     "code": "1674021012",
     "district_code": "167402",
-    "name": "Gunung Ibul Timur"
+    "name": "Gunung Ibul Timur",
+    "postal_code": "31113"
   },
   {
     "code": "1674021013",
     "district_code": "167402",
-    "name": "Gunung Ibul Selatan"
+    "name": "Gunung Ibul Selatan",
+    "postal_code": "31113"
   },
   {
     "code": "1674021014",
     "district_code": "167402",
-    "name": "Gunung Ibul Utara"
+    "name": "Gunung Ibul Utara",
+    "postal_code": "31113"
   },
   {
     "code": "1674021015",
     "district_code": "167402",
-    "name": "Arimbi Jaya"
+    "name": "Arimbi Jaya",
+    "postal_code": "31111"
   }
 ]

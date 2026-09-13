@@ -2,31 +2,37 @@
   {
     "code": "1702222001",
     "district_code": "170222",
-    "name": "IV Suko Menanti"
+    "name": "IV Suko Menanti",
+    "postal_code": "39154"
   },
   {
     "code": "1702222002",
     "district_code": "170222",
-    "name": "Air Rusa"
+    "name": "Air Rusa",
+    "postal_code": "39154"
   },
   {
     "code": "1702222003",
     "district_code": "170222",
-    "name": "Bengko"
+    "name": "Bengko",
+    "postal_code": "39154"
   },
   {
     "code": "1702222004",
     "district_code": "170222",
-    "name": "Sinar Gunung"
+    "name": "Sinar Gunung",
+    "postal_code": "39154"
   },
   {
     "code": "1702222005",
     "district_code": "170222",
-    "name": "Warung Pojok"
+    "name": "Warung Pojok",
+    "postal_code": "39154"
   },
   {
     "code": "1702222006",
     "district_code": "170222",
-    "name": "Talang Belitar"
+    "name": "Talang Belitar",
+    "postal_code": "39154"
   }
 ]

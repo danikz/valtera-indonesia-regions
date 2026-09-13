@@ -2,21 +2,25 @@
   {
     "code": "3275121001",
     "district_code": "327512",
-    "name": "Jatirahayu"
+    "name": "Jatirahayu",
+    "postal_code": "17414"
   },
   {
     "code": "3275121002",
     "district_code": "327512",
-    "name": "Jatiwarna"
+    "name": "Jatiwarna",
+    "postal_code": "17415"
   },
   {
     "code": "3275121003",
     "district_code": "327512",
-    "name": "Jatimelati"
+    "name": "Jatimelati",
+    "postal_code": "17414"
   },
   {
     "code": "3275121004",
     "district_code": "327512",
-    "name": "Jatimurni"
+    "name": "Jatimurni",
+    "postal_code": "17431"
   }
 ]

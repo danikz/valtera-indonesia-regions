@@ -2,46 +2,55 @@
   {
     "code": "1405091001",
     "district_code": "140509",
-    "name": "Teluk Meranti"
+    "name": "Teluk Meranti",
+    "postal_code": "28354"
   },
   {
     "code": "1405092002",
     "district_code": "140509",
-    "name": "Kuala Panduk"
+    "name": "Kuala Panduk",
+    "postal_code": "28354"
   },
   {
     "code": "1405092003",
     "district_code": "140509",
-    "name": "Petodaan"
+    "name": "Petodaan",
+    "postal_code": "28354"
   },
   {
     "code": "1405092004",
     "district_code": "140509",
-    "name": "Teluk Binjai"
+    "name": "Teluk Binjai",
+    "postal_code": "28354"
   },
   {
     "code": "1405092005",
     "district_code": "140509",
-    "name": "Pulau Muda"
+    "name": "Pulau Muda",
+    "postal_code": "28354"
   },
   {
     "code": "1405092006",
     "district_code": "140509",
-    "name": "Gambut Mutiara"
+    "name": "Gambut Mutiara",
+    "postal_code": "28354"
   },
   {
     "code": "1405092007",
     "district_code": "140509",
-    "name": "Labuhan Bilik"
+    "name": "Labuhan Bilik",
+    "postal_code": "28354"
   },
   {
     "code": "1405092008",
     "district_code": "140509",
-    "name": "Pangkalan Terap"
+    "name": "Pangkalan Terap",
+    "postal_code": "28354"
   },
   {
     "code": "1405092009",
     "district_code": "140509",
-    "name": "Segamai"
+    "name": "Segamai",
+    "postal_code": "28354"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "3215302001",
     "district_code": "321530",
-    "name": "Kertamukti"
+    "name": "Kertamukti",
+    "postal_code": "41350"
   },
   {
     "code": "3215302002",
     "district_code": "321530",
-    "name": "Rawasari"
+    "name": "Rawasari",
+    "postal_code": "41350"
   },
   {
     "code": "3215302003",
     "district_code": "321530",
-    "name": "Pusakajaya Selatan"
+    "name": "Pusakajaya Selatan",
+    "postal_code": "41350"
   },
   {
     "code": "3215302004",
     "district_code": "321530",
-    "name": "Cikande"
+    "name": "Cikande",
+    "postal_code": "41350"
   },
   {
     "code": "3215302005",
     "district_code": "321530",
-    "name": "Kosambibatu"
+    "name": "Kosambibatu",
+    "postal_code": "41350"
   },
   {
     "code": "3215302006",
     "district_code": "321530",
-    "name": "Pusakajaya Utara"
+    "name": "Pusakajaya Utara",
+    "postal_code": "41350"
   },
   {
     "code": "3215302007",
     "district_code": "321530",
-    "name": "Sukaratu"
+    "name": "Sukaratu",
+    "postal_code": "41350"
   },
   {
     "code": "3215302008",
     "district_code": "321530",
-    "name": "Ciptamargi"
+    "name": "Ciptamargi",
+    "postal_code": "41350"
   },
   {
     "code": "3215302009",
     "district_code": "321530",
-    "name": "Mekarpohaci"
+    "name": "Mekarpohaci",
+    "postal_code": "41350"
   },
   {
     "code": "3215302010",
     "district_code": "321530",
-    "name": "Tanjungsari"
+    "name": "Tanjungsari",
+    "postal_code": "41350"
   }
 ]

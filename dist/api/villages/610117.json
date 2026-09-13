@@ -2,41 +2,49 @@
   {
     "code": "6101172001",
     "district_code": "610117",
-    "name": "Tangaran"
+    "name": "Tangaran",
+    "postal_code": "79465"
   },
   {
     "code": "6101172002",
     "district_code": "610117",
-    "name": "Simpang Empat"
+    "name": "Simpang Empat",
+    "postal_code": "79465"
   },
   {
     "code": "6101172003",
     "district_code": "610117",
-    "name": "Merabuan"
+    "name": "Merabuan",
+    "postal_code": "79465"
   },
   {
     "code": "6101172004",
     "district_code": "610117",
-    "name": "Semata"
+    "name": "Semata",
+    "postal_code": "79465"
   },
   {
     "code": "6101172005",
     "district_code": "610117",
-    "name": "Merpati"
+    "name": "Merpati",
+    "postal_code": "79465"
   },
   {
     "code": "6101172006",
     "district_code": "610117",
-    "name": "Pancur"
+    "name": "Pancur",
+    "postal_code": "79465"
   },
   {
     "code": "6101172007",
     "district_code": "610117",
-    "name": "Arung Parak"
+    "name": "Arung Parak",
+    "postal_code": "79465"
   },
   {
     "code": "6101172008",
     "district_code": "610117",
-    "name": "Arung Medang"
+    "name": "Arung Medang",
+    "postal_code": "79465"
   }
 ]

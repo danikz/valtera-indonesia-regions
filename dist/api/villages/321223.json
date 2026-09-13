@@ -2,66 +2,79 @@
   {
     "code": "3212232001",
     "district_code": "321223",
-    "name": "Anjatan"
+    "name": "Anjatan",
+    "postal_code": "45256"
   },
   {
     "code": "3212232002",
     "district_code": "321223",
-    "name": "Mangunjaya"
+    "name": "Mangunjaya",
+    "postal_code": "45256"
   },
   {
     "code": "3212232003",
     "district_code": "321223",
-    "name": "Bugis"
+    "name": "Bugis",
+    "postal_code": "45256"
   },
   {
     "code": "3212232004",
     "district_code": "321223",
-    "name": "Bugis Tua"
+    "name": "Bugis Tua",
+    "postal_code": "45256"
   },
   {
     "code": "3212232005",
     "district_code": "321223",
-    "name": "Salamdarma"
+    "name": "Salamdarma",
+    "postal_code": "45256"
   },
   {
     "code": "3212232006",
     "district_code": "321223",
-    "name": "Kedungwungu"
+    "name": "Kedungwungu",
+    "postal_code": "45256"
   },
   {
     "code": "3212232007",
     "district_code": "321223",
-    "name": "Wanguk"
+    "name": "Wanguk",
+    "postal_code": "45256"
   },
   {
     "code": "3212232008",
     "district_code": "321223",
-    "name": "Lempuyang"
+    "name": "Lempuyang",
+    "postal_code": "45256"
   },
   {
     "code": "3212232009",
     "district_code": "321223",
-    "name": "Kopyah"
+    "name": "Kopyah",
+    "postal_code": "45256"
   },
   {
     "code": "3212232010",
     "district_code": "321223",
-    "name": "Anjatan Baru"
+    "name": "Anjatan Baru",
+    "postal_code": "45256"
   },
   {
     "code": "3212232011",
     "district_code": "321223",
-    "name": "Cilandak"
+    "name": "Cilandak",
+    "postal_code": "45256"
   },
   {
     "code": "3212232012",
     "district_code": "321223",
-    "name": "Cilandak Lor"
+    "name": "Cilandak Lor",
+    "postal_code": "45256"
   },
   {
     "code": "3212232013",
     "district_code": "321223",
-    "name": "Anjatan Utara"
+    "name": "Anjatan Utara",
+    "postal_code": "45256"
   }
 ]

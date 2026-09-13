@@ -2,46 +2,55 @@
   {
     "code": "5307032001",
     "district_code": "530703",
-    "name": "Lela"
+    "name": "Lela",
+    "postal_code": "86161"
   },
   {
     "code": "5307032002",
     "district_code": "530703",
-    "name": "Watutedang"
+    "name": "Watutedang",
+    "postal_code": "86161"
   },
   {
     "code": "5307032003",
     "district_code": "530703",
-    "name": "Korowuwu"
+    "name": "Korowuwu",
+    "postal_code": "86161"
   },
   {
     "code": "5307032004",
     "district_code": "530703",
-    "name": "Kolidetung"
+    "name": "Kolidetung",
+    "postal_code": "86161"
   },
   {
     "code": "5307032005",
     "district_code": "530703",
-    "name": "Sikka"
+    "name": "Sikka",
+    "postal_code": "86161"
   },
   {
     "code": "5307032006",
     "district_code": "530703",
-    "name": "Iligai"
+    "name": "Iligai",
+    "postal_code": "86161"
   },
   {
     "code": "5307032007",
     "district_code": "530703",
-    "name": "Hepang"
+    "name": "Hepang",
+    "postal_code": "86161"
   },
   {
     "code": "5307032008",
     "district_code": "530703",
-    "name": "Baopaat"
+    "name": "Baopaat",
+    "postal_code": "86161"
   },
   {
     "code": "5307032009",
     "district_code": "530703",
-    "name": "Du"
+    "name": "Du",
+    "postal_code": "86161"
   }
 ]

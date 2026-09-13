@@ -2,36 +2,43 @@
   {
     "code": "1209322001",
     "district_code": "120932",
-    "name": "Aek Bange"
+    "name": "Aek Bange",
+    "postal_code": "21277"
   },
   {
     "code": "1209322002",
     "district_code": "120932",
-    "name": "Aek Korsik"
+    "name": "Aek Korsik",
+    "postal_code": "21277"
   },
   {
     "code": "1209322003",
     "district_code": "120932",
-    "name": "Aek Ledong"
+    "name": "Aek Ledong",
+    "postal_code": "21277"
   },
   {
     "code": "1209322004",
     "district_code": "120932",
-    "name": "Ledong Barat"
+    "name": "Ledong Barat",
+    "postal_code": "21277"
   },
   {
     "code": "1209322005",
     "district_code": "120932",
-    "name": "Aek Nabuntu"
+    "name": "Aek Nabuntu",
+    "postal_code": "21277"
   },
   {
     "code": "1209322006",
     "district_code": "120932",
-    "name": "Ledong Timur"
+    "name": "Ledong Timur",
+    "postal_code": "21277"
   },
   {
     "code": "1209322007",
     "district_code": "120932",
-    "name": "Padang Sipirok"
+    "name": "Padang Sipirok",
+    "postal_code": "21277"
   }
 ]

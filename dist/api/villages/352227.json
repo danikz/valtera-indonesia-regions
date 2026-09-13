@@ -2,31 +2,37 @@
   {
     "code": "3522272001",
     "district_code": "352227",
-    "name": "Bobol"
+    "name": "Bobol",
+    "postal_code": "62169"
   },
   {
     "code": "3522272002",
     "district_code": "352227",
-    "name": "Miyono"
+    "name": "Miyono",
+    "postal_code": "62169"
   },
   {
     "code": "3522272003",
     "district_code": "352227",
-    "name": "Sekar"
+    "name": "Sekar",
+    "postal_code": "62169"
   },
   {
     "code": "3522272004",
     "district_code": "352227",
-    "name": "Klino"
+    "name": "Klino",
+    "postal_code": "62169"
   },
   {
     "code": "3522272005",
     "district_code": "352227",
-    "name": "Deling"
+    "name": "Deling",
+    "postal_code": "62169"
   },
   {
     "code": "3522272006",
     "district_code": "352227",
-    "name": "Bareng"
+    "name": "Bareng",
+    "postal_code": "62169"
   }
 ]

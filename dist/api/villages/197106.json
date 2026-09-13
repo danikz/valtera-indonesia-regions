@@ -2,31 +2,37 @@
   {
     "code": "1971061001",
     "district_code": "197106",
-    "name": "Selindung"
+    "name": "Selindung",
+    "postal_code": "33117"
   },
   {
     "code": "1971061002",
     "district_code": "197106",
-    "name": "Selindung Baru"
+    "name": "Selindung Baru",
+    "postal_code": "33117"
   },
   {
     "code": "1971061003",
     "district_code": "197106",
-    "name": "Gabek Satu"
+    "name": "Gabek Satu",
+    "postal_code": "33118"
   },
   {
     "code": "1971061004",
     "district_code": "197106",
-    "name": "Gabek Dua"
+    "name": "Gabek Dua",
+    "postal_code": "33116"
   },
   {
     "code": "1971061005",
     "district_code": "197106",
-    "name": "Air Salemba"
+    "name": "Air Salemba",
+    "postal_code": "33111"
   },
   {
     "code": "1971061006",
     "district_code": "197106",
-    "name": "Jerambah Gantung"
+    "name": "Jerambah Gantung",
+    "postal_code": "33119"
   }
 ]

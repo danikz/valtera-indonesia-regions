@@ -2,71 +2,85 @@
   {
     "code": "9103071021",
     "district_code": "910307",
-    "name": "Tabri"
+    "name": "Tabri",
+    "postal_code": "99361"
   },
   {
     "code": "9103072001",
     "district_code": "910307",
-    "name": "Gemebs"
+    "name": "Gemebs",
+    "postal_code": "99361"
   },
   {
     "code": "9103072002",
     "district_code": "910307",
-    "name": "Singgri"
+    "name": "Singgri",
+    "postal_code": "99361"
   },
   {
     "code": "9103072003",
     "district_code": "910307",
-    "name": "Meyu"
+    "name": "Meyu",
+    "postal_code": "99361"
   },
   {
     "code": "9103072004",
     "district_code": "910307",
-    "name": "Benyom"
+    "name": "Benyom",
+    "postal_code": "99361"
   },
   {
     "code": "9103072005",
     "district_code": "910307",
-    "name": "Oyengsi"
+    "name": "Oyengsi",
+    "postal_code": "99361"
   },
   {
     "code": "9103072006",
     "district_code": "910307",
-    "name": "Singgriway"
+    "name": "Singgriway",
+    "postal_code": "99361"
   },
   {
     "code": "9103072009",
     "district_code": "910307",
-    "name": "Imsar"
+    "name": "Imsar",
+    "postal_code": "99361"
   },
   {
     "code": "9103072010",
     "district_code": "910307",
-    "name": "Kuipons"
+    "name": "Kuipons",
+    "postal_code": "99361"
   },
   {
     "code": "9103072014",
     "district_code": "910307",
-    "name": "Yenggu Baru"
+    "name": "Yenggu Baru",
+    "postal_code": "99361"
   },
   {
     "code": "9103072015",
     "district_code": "910307",
-    "name": "Yenggu Lama"
+    "name": "Yenggu Lama",
+    "postal_code": "99361"
   },
   {
     "code": "9103072017",
     "district_code": "910307",
-    "name": "Kuwase"
+    "name": "Kuwase",
+    "postal_code": "99361"
   },
   {
     "code": "9103072018",
     "district_code": "910307",
-    "name": "Kaitemung"
+    "name": "Kaitemung",
+    "postal_code": ""
   },
   {
     "code": "9103072019",
     "district_code": "910307",
-    "name": "Pobaim"
+    "name": "Pobaim",
+    "postal_code": "99361"
   }
 ]

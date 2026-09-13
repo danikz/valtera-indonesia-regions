@@ -2,36 +2,43 @@
   {
     "code": "3202022001",
     "district_code": "320202",
-    "name": "Cidadap"
+    "name": "Cidadap",
+    "postal_code": "43361"
   },
   {
     "code": "3202022002",
     "district_code": "320202",
-    "name": "Loji"
+    "name": "Loji",
+    "postal_code": "43361"
   },
   {
     "code": "3202022003",
     "district_code": "320202",
-    "name": "Kertajaya"
+    "name": "Kertajaya",
+    "postal_code": "43361"
   },
   {
     "code": "3202022004",
     "district_code": "320202",
-    "name": "Cihaur"
+    "name": "Cihaur",
+    "postal_code": "43361"
   },
   {
     "code": "3202022005",
     "district_code": "320202",
-    "name": "Cibuntu"
+    "name": "Cibuntu",
+    "postal_code": "43361"
   },
   {
     "code": "3202022006",
     "district_code": "320202",
-    "name": "Mekarasih"
+    "name": "Mekarasih",
+    "postal_code": "43361"
   },
   {
     "code": "3202022007",
     "district_code": "320202",
-    "name": "Sangrawayang"
+    "name": "Sangrawayang",
+    "postal_code": "43361"
   }
 ]

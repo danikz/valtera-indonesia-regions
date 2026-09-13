@@ -2,26 +2,31 @@
   {
     "code": "3202072001",
     "district_code": "320207",
-    "name": "Lengkong"
+    "name": "Lengkong",
+    "postal_code": "43174"
   },
   {
     "code": "3202072002",
     "district_code": "320207",
-    "name": "Cilangkap"
+    "name": "Cilangkap",
+    "postal_code": "43174"
   },
   {
     "code": "3202072003",
     "district_code": "320207",
-    "name": "Tegallega"
+    "name": "Tegallega",
+    "postal_code": "43174"
   },
   {
     "code": "3202072004",
     "district_code": "320207",
-    "name": "Neglasari"
+    "name": "Neglasari",
+    "postal_code": "43174"
   },
   {
     "code": "3202072005",
     "district_code": "320207",
-    "name": "Langkapjaya"
+    "name": "Langkapjaya",
+    "postal_code": "43174"
   }
 ]

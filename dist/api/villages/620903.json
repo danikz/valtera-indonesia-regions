@@ -2,71 +2,85 @@
   {
     "code": "6209031005",
     "district_code": "620903",
-    "name": "Nanga Bulik"
+    "name": "Nanga Bulik",
+    "postal_code": "74611"
   },
   {
     "code": "6209032001",
     "district_code": "620903",
-    "name": "Sungai Mentawa"
+    "name": "Sungai Mentawa",
+    "postal_code": "74162"
   },
   {
     "code": "6209032002",
     "district_code": "620903",
-    "name": "Guci"
+    "name": "Guci",
+    "postal_code": "74162"
   },
   {
     "code": "6209032003",
     "district_code": "620903",
-    "name": "Batu Kotam"
+    "name": "Batu Kotam",
+    "postal_code": "74162"
   },
   {
     "code": "6209032004",
     "district_code": "620903",
-    "name": "Kujan"
+    "name": "Kujan",
+    "postal_code": "74612"
   },
   {
     "code": "6209032006",
     "district_code": "620903",
-    "name": "Bunut"
+    "name": "Bunut",
+    "postal_code": "74162"
   },
   {
     "code": "6209032007",
     "district_code": "620903",
-    "name": "Beruta"
+    "name": "Beruta",
+    "postal_code": "74162"
   },
   {
     "code": "6209032008",
     "district_code": "620903",
-    "name": "Tamiang"
+    "name": "Tamiang",
+    "postal_code": "74162"
   },
   {
     "code": "6209032031",
     "district_code": "620903",
-    "name": "Bumi Agung"
+    "name": "Bumi Agung",
+    "postal_code": "74162"
   },
   {
     "code": "6209032032",
     "district_code": "620903",
-    "name": "Sumber Mulya"
+    "name": "Sumber Mulya",
+    "postal_code": "74162"
   },
   {
     "code": "6209032036",
     "district_code": "620903",
-    "name": "Bukit Indah"
+    "name": "Bukit Indah",
+    "postal_code": "74162"
   },
   {
     "code": "6209032037",
     "district_code": "620903",
-    "name": "Arga Mulya"
+    "name": "Arga Mulya",
+    "postal_code": "74162"
   },
   {
     "code": "6209032043",
     "district_code": "620903",
-    "name": "Perigi Raya"
+    "name": "Perigi Raya",
+    "postal_code": "74162"
   },
   {
     "code": "6209032044",
     "district_code": "620903",
-    "name": "Nanga Pamalontian"
+    "name": "Nanga Pamalontian",
+    "postal_code": "74162"
   }
 ]

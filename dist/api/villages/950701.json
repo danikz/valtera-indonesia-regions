@@ -2,56 +2,67 @@
   {
     "code": "9507011001",
     "district_code": "950701",
-    "name": "Bokon"
+    "name": "Bokon",
+    "postal_code": "99593"
   },
   {
     "code": "9507012002",
     "district_code": "950701",
-    "name": "Oyi"
+    "name": "Oyi",
+    "postal_code": "99531"
   },
   {
     "code": "9507012003",
     "district_code": "950701",
-    "name": "Gurika"
+    "name": "Gurika",
+    "postal_code": "99593"
   },
   {
     "code": "9507012004",
     "district_code": "950701",
-    "name": "Olume"
+    "name": "Olume",
+    "postal_code": "99531"
   },
   {
     "code": "9507012005",
     "district_code": "950701",
-    "name": "Dura"
+    "name": "Dura",
+    "postal_code": "99531"
   },
   {
     "code": "9507012006",
     "district_code": "950701",
-    "name": "Langgalo"
+    "name": "Langgalo",
+    "postal_code": "99531"
   },
   {
     "code": "9507012007",
     "district_code": "950701",
-    "name": "Kuapur"
+    "name": "Kuapur",
+    "postal_code": "99531"
   },
   {
     "code": "9507012008",
     "district_code": "950701",
-    "name": "Wadinalome"
+    "name": "Wadinalome",
+    "postal_code": "99531"
   },
   {
     "code": "9507012009",
     "district_code": "950701",
-    "name": "Yilondum"
+    "name": "Yilondum",
+    "postal_code": "99531"
   },
   {
     "code": "9507012010",
     "district_code": "950701",
-    "name": "Palunggame"
+    "name": "Palunggame",
+    "postal_code": "99593"
   },
   {
     "code": "9507012011",
     "district_code": "950701",
-    "name": "Ginime"
+    "name": "Ginime",
+    "postal_code": "99593"
   }
 ]

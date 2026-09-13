@@ -2,56 +2,67 @@
   {
     "code": "7101131006",
     "district_code": "710113",
-    "name": "Inobonto"
+    "name": "Inobonto",
+    "postal_code": "95752"
   },
   {
     "code": "7101132001",
     "district_code": "710113",
-    "name": "Komangaan"
+    "name": "Komangaan",
+    "postal_code": "95752"
   },
   {
     "code": "7101132002",
     "district_code": "710113",
-    "name": "Solimandungan II"
+    "name": "Solimandungan II",
+    "postal_code": "95752"
   },
   {
     "code": "7101132003",
     "district_code": "710113",
-    "name": "Solimandungan I"
+    "name": "Solimandungan I",
+    "postal_code": "95752"
   },
   {
     "code": "7101132004",
     "district_code": "710113",
-    "name": "Bangomulunow"
+    "name": "Bangomulunow",
+    "postal_code": "95752"
   },
   {
     "code": "7101132005",
     "district_code": "710113",
-    "name": "Langagon"
+    "name": "Langagon",
+    "postal_code": "95752"
   },
   {
     "code": "7101132007",
     "district_code": "710113",
-    "name": "Inobonto II"
+    "name": "Inobonto II",
+    "postal_code": "95752"
   },
   {
     "code": "7101132014",
     "district_code": "710113",
-    "name": "Inobonto"
+    "name": "Inobonto",
+    "postal_code": "95752"
   },
   {
     "code": "7101132015",
     "district_code": "710113",
-    "name": "Langagon Satu"
+    "name": "Langagon Satu",
+    "postal_code": "95752"
   },
   {
     "code": "7101132016",
     "district_code": "710113",
-    "name": "Langagon Dua"
+    "name": "Langagon Dua",
+    "postal_code": "95752"
   },
   {
     "code": "7101132017",
     "district_code": "710113",
-    "name": "Solimandungan Baru"
+    "name": "Solimandungan Baru",
+    "postal_code": "95752"
   }
 ]

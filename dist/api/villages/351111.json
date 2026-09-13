@@ -2,56 +2,67 @@
   {
     "code": "3511111004",
     "district_code": "351111",
-    "name": "Nangkaan"
+    "name": "Nangkaan",
+    "postal_code": "68215"
   },
   {
     "code": "3511111005",
     "district_code": "351111",
-    "name": "Tamansari"
+    "name": "Tamansari",
+    "postal_code": "68216"
   },
   {
     "code": "3511111006",
     "district_code": "351111",
-    "name": "Kademangan"
+    "name": "Kademangan",
+    "postal_code": "68217"
   },
   {
     "code": "3511111007",
     "district_code": "351111",
-    "name": "Dabasah"
+    "name": "Dabasah",
+    "postal_code": "68211"
   },
   {
     "code": "3511111008",
     "district_code": "351111",
-    "name": "Badean"
+    "name": "Badean",
+    "postal_code": "68214"
   },
   {
     "code": "3511111009",
     "district_code": "351111",
-    "name": "Kotakulon"
+    "name": "Kotakulon",
+    "postal_code": "68213"
   },
   {
     "code": "3511111010",
     "district_code": "351111",
-    "name": "Blindungan"
+    "name": "Blindungan",
+    "postal_code": "68212"
   },
   {
     "code": "3511112001",
     "district_code": "351111",
-    "name": "Pancoran"
+    "name": "Pancoran",
+    "postal_code": "68219"
   },
   {
     "code": "3511112002",
     "district_code": "351111",
-    "name": "Sukowiryo"
+    "name": "Sukowiryo",
+    "postal_code": "68219"
   },
   {
     "code": "3511112003",
     "district_code": "351111",
-    "name": "Kembang"
+    "name": "Kembang",
+    "postal_code": "68219"
   },
   {
     "code": "3511112011",
     "district_code": "351111",
-    "name": "Pejaten"
+    "name": "Pejaten",
+    "postal_code": "68218"
   }
 ]

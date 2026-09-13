@@ -2,41 +2,49 @@
   {
     "code": "3401021008",
     "district_code": "340102",
-    "name": "Wates"
+    "name": "Wates",
+    "postal_code": "55651"
   },
   {
     "code": "3401022001",
     "district_code": "340102",
-    "name": "Karangwuni"
+    "name": "Karangwuni",
+    "postal_code": "55651"
   },
   {
     "code": "3401022002",
     "district_code": "340102",
-    "name": "Sogan"
+    "name": "Sogan",
+    "postal_code": "55651"
   },
   {
     "code": "3401022003",
     "district_code": "340102",
-    "name": "Kulwaru"
+    "name": "Kulwaru",
+    "postal_code": "55651"
   },
   {
     "code": "3401022004",
     "district_code": "340102",
-    "name": "Ngestiharjo"
+    "name": "Ngestiharjo",
+    "postal_code": "55651"
   },
   {
     "code": "3401022005",
     "district_code": "340102",
-    "name": "Bendungan"
+    "name": "Bendungan",
+    "postal_code": "55651"
   },
   {
     "code": "3401022006",
     "district_code": "340102",
-    "name": "Triharjo"
+    "name": "Triharjo",
+    "postal_code": "55651"
   },
   {
     "code": "3401022007",
     "district_code": "340102",
-    "name": "Giripeni"
+    "name": "Giripeni",
+    "postal_code": "55651"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "6501022001",
     "district_code": "650102",
-    "name": "Long Beluah"
+    "name": "Long Beluah",
+    "postal_code": "77217"
   },
   {
     "code": "6501022002",
     "district_code": "650102",
-    "name": "Long Sam"
+    "name": "Long Sam",
+    "postal_code": "77217"
   },
   {
     "code": "6501022003",
     "district_code": "650102",
-    "name": "Mara I"
+    "name": "Mara I",
+    "postal_code": "77217"
   },
   {
     "code": "6501022004",
     "district_code": "650102",
-    "name": "Mara Hilir"
+    "name": "Mara Hilir",
+    "postal_code": "77217"
   },
   {
     "code": "6501022005",
     "district_code": "650102",
-    "name": "Long Pari"
+    "name": "Long Pari",
+    "postal_code": "77217"
   }
 ]

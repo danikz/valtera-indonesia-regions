@@ -2,76 +2,91 @@
   {
     "code": "7318051003",
     "district_code": "731805",
-    "name": "Bombongan"
+    "name": "Bombongan",
+    "postal_code": "91811"
   },
   {
     "code": "7318051005",
     "district_code": "731805",
-    "name": "Batupapan"
+    "name": "Batupapan",
+    "postal_code": "91813"
   },
   {
     "code": "7318051006",
     "district_code": "731805",
-    "name": "Tarongko"
+    "name": "Tarongko",
+    "postal_code": "91811"
   },
   {
     "code": "7318051007",
     "district_code": "731805",
-    "name": "Lamunan"
+    "name": "Lamunan",
+    "postal_code": "91811"
   },
   {
     "code": "7318051009",
     "district_code": "731805",
-    "name": "Manggau"
+    "name": "Manggau",
+    "postal_code": "91814"
   },
   {
     "code": "7318051014",
     "district_code": "731805",
-    "name": "Tondon Mamullu"
+    "name": "Tondon Mamullu",
+    "postal_code": "91817"
   },
   {
     "code": "7318051015",
     "district_code": "731805",
-    "name": "Pantan"
+    "name": "Pantan",
+    "postal_code": "91811"
   },
   {
     "code": "7318051016",
     "district_code": "731805",
-    "name": "Buntu Burake"
+    "name": "Buntu Burake",
+    "postal_code": "91817"
   },
   {
     "code": "7318051017",
     "district_code": "731805",
-    "name": "Kamali Pentalluan"
+    "name": "Kamali Pentalluan",
+    "postal_code": "91817"
   },
   {
     "code": "7318051018",
     "district_code": "731805",
-    "name": "Rante"
+    "name": "Rante",
+    "postal_code": "91817"
   },
   {
     "code": "7318051019",
     "district_code": "731805",
-    "name": "Lapandan"
+    "name": "Lapandan",
+    "postal_code": "91817"
   },
   {
     "code": "7318051020",
     "district_code": "731805",
-    "name": "Tampo Makale"
+    "name": "Tampo Makale",
+    "postal_code": "91817"
   },
   {
     "code": "7318051021",
     "district_code": "731805",
-    "name": "Ariang"
+    "name": "Ariang",
+    "postal_code": "91811"
   },
   {
     "code": "7318051022",
     "district_code": "731805",
-    "name": "Botang"
+    "name": "Botang",
+    "postal_code": "91817"
   },
   {
     "code": "7318052023",
     "district_code": "731805",
-    "name": "Lea"
+    "name": "Lea",
+    "postal_code": "91817"
   }
 ]

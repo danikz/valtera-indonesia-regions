@@ -2,51 +2,61 @@
   {
     "code": "9503192001",
     "district_code": "950319",
-    "name": "Ukha"
+    "name": "Ukha",
+    "postal_code": "99717"
   },
   {
     "code": "9503192002",
     "district_code": "950319",
-    "name": "Kuleken"
+    "name": "Kuleken",
+    "postal_code": "99717"
   },
   {
     "code": "9503192003",
     "district_code": "950319",
-    "name": "Amisangi"
+    "name": "Amisangi",
+    "postal_code": "99717"
   },
   {
     "code": "9503192004",
     "district_code": "950319",
-    "name": "Wenapuk"
+    "name": "Wenapuk",
+    "postal_code": "99717"
   },
   {
     "code": "9503192005",
     "district_code": "950319",
-    "name": "Eki"
+    "name": "Eki",
+    "postal_code": "99717"
   },
   {
     "code": "9503192006",
     "district_code": "950319",
-    "name": "Yelepunu"
+    "name": "Yelepunu",
+    "postal_code": "99717"
   },
   {
     "code": "9503192007",
     "district_code": "950319",
-    "name": "Siolorema"
+    "name": "Siolorema",
+    "postal_code": "99717"
   },
   {
     "code": "9503192008",
     "district_code": "950319",
-    "name": "Musanarek"
+    "name": "Musanarek",
+    "postal_code": "99717"
   },
   {
     "code": "9503192009",
     "district_code": "950319",
-    "name": "Walialema"
+    "name": "Walialema",
+    "postal_code": "99717"
   },
   {
     "code": "9503192010",
     "district_code": "950319",
-    "name": "Lua"
+    "name": "Lua",
+    "postal_code": "99717"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "3509302001",
     "district_code": "350930",
-    "name": "Sempolan"
+    "name": "Sempolan",
+    "postal_code": "68184"
   },
   {
     "code": "3509302002",
     "district_code": "350930",
-    "name": "Harjomulyo"
+    "name": "Harjomulyo",
+    "postal_code": "68184"
   },
   {
     "code": "3509302003",
     "district_code": "350930",
-    "name": "Karangharjo"
+    "name": "Karangharjo",
+    "postal_code": "68184"
   },
   {
     "code": "3509302004",
     "district_code": "350930",
-    "name": "Silo"
+    "name": "Silo",
+    "postal_code": "68184"
   },
   {
     "code": "3509302005",
     "district_code": "350930",
-    "name": "Pace"
+    "name": "Pace",
+    "postal_code": "68184"
   },
   {
     "code": "3509302006",
     "district_code": "350930",
-    "name": "Mulyorejo"
+    "name": "Mulyorejo",
+    "postal_code": "68184"
   },
   {
     "code": "3509302007",
     "district_code": "350930",
-    "name": "Sumberjati"
+    "name": "Sumberjati",
+    "postal_code": "68184"
   },
   {
     "code": "3509302008",
     "district_code": "350930",
-    "name": "Garahan"
+    "name": "Garahan",
+    "postal_code": "68184"
   },
   {
     "code": "3509302009",
     "district_code": "350930",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "68184"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "3202302001",
     "district_code": "320230",
-    "name": "Kadudampit"
+    "name": "Kadudampit",
+    "postal_code": "43153"
   },
   {
     "code": "3202302002",
     "district_code": "320230",
-    "name": "Citamiang"
+    "name": "Citamiang",
+    "postal_code": "43153"
   },
   {
     "code": "3202302003",
     "district_code": "320230",
-    "name": "Muaradua"
+    "name": "Muaradua",
+    "postal_code": "43153"
   },
   {
     "code": "3202302004",
     "district_code": "320230",
-    "name": "Gedepangrango"
+    "name": "Gedepangrango",
+    "postal_code": "43153"
   },
   {
     "code": "3202302005",
     "district_code": "320230",
-    "name": "Sukamanis"
+    "name": "Sukamanis",
+    "postal_code": "43153"
   },
   {
     "code": "3202302006",
     "district_code": "320230",
-    "name": "Undrusbinangun"
+    "name": "Undrusbinangun",
+    "postal_code": "43153"
   },
   {
     "code": "3202302007",
     "district_code": "320230",
-    "name": "Cipetir"
+    "name": "Cipetir",
+    "postal_code": "43153"
   },
   {
     "code": "3202302008",
     "district_code": "320230",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "43153"
   },
   {
     "code": "3202302009",
     "district_code": "320230",
-    "name": "Cikahuripan"
+    "name": "Cikahuripan",
+    "postal_code": "43153"
   }
 ]

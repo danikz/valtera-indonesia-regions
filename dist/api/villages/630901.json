@@ -2,76 +2,91 @@
   {
     "code": "6309012001",
     "district_code": "630901",
-    "name": "Hapalah"
+    "name": "Hapalah",
+    "postal_code": "71553"
   },
   {
     "code": "6309012002",
     "district_code": "630901",
-    "name": "Bangkiling"
+    "name": "Bangkiling",
+    "postal_code": "71553"
   },
   {
     "code": "6309012003",
     "district_code": "630901",
-    "name": "Sungai Durian"
+    "name": "Sungai Durian",
+    "postal_code": "72167"
   },
   {
     "code": "6309012004",
     "district_code": "630901",
-    "name": "Pematang"
+    "name": "Pematang",
+    "postal_code": "71553"
   },
   {
     "code": "6309012005",
     "district_code": "630901",
-    "name": "Hariang"
+    "name": "Hariang",
+    "postal_code": "71553"
   },
   {
     "code": "6309012006",
     "district_code": "630901",
-    "name": "Banua Lawas"
+    "name": "Banua Lawas",
+    "postal_code": "71553"
   },
   {
     "code": "6309012007",
     "district_code": "630901",
-    "name": "Habau"
+    "name": "Habau",
+    "postal_code": "71553"
   },
   {
     "code": "6309012008",
     "district_code": "630901",
-    "name": "Banua Rantau"
+    "name": "Banua Rantau",
+    "postal_code": "71553"
   },
   {
     "code": "6309012009",
     "district_code": "630901",
-    "name": "Purai"
+    "name": "Purai",
+    "postal_code": "71553"
   },
   {
     "code": "6309012010",
     "district_code": "630901",
-    "name": "Batang Banyu"
+    "name": "Batang Banyu",
+    "postal_code": "71553"
   },
   {
     "code": "6309012011",
     "district_code": "630901",
-    "name": "Habau Hulu"
+    "name": "Habau Hulu",
+    "postal_code": "71553"
   },
   {
     "code": "6309012012",
     "district_code": "630901",
-    "name": "Bungin"
+    "name": "Bungin",
+    "postal_code": "71553"
   },
   {
     "code": "6309012013",
     "district_code": "630901",
-    "name": "Bangkiling Raya"
+    "name": "Bangkiling Raya",
+    "postal_code": "71553"
   },
   {
     "code": "6309012014",
     "district_code": "630901",
-    "name": "Talan"
+    "name": "Talan",
+    "postal_code": "71553"
   },
   {
     "code": "6309012015",
     "district_code": "630901",
-    "name": "Sungai Anyar"
+    "name": "Sungai Anyar",
+    "postal_code": "71553"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1604262001",
     "district_code": "160426",
-    "name": "Padang"
+    "name": "Padang",
+    "postal_code": "31472"
   },
   {
     "code": "1604262002",
     "district_code": "160426",
-    "name": "Tanjung Menang"
+    "name": "Tanjung Menang",
+    "postal_code": "31472"
   },
   {
     "code": "1604262003",
     "district_code": "160426",
-    "name": "Lubuk Pedaro"
+    "name": "Lubuk Pedaro",
+    "postal_code": "31472"
   },
   {
     "code": "1604262004",
     "district_code": "160426",
-    "name": "Suka Merindu"
+    "name": "Suka Merindu",
+    "postal_code": "31472"
   },
   {
     "code": "1604262005",
     "district_code": "160426",
-    "name": "Tanjung Beringin"
+    "name": "Tanjung Beringin",
+    "postal_code": "31472"
   },
   {
     "code": "1604262006",
     "district_code": "160426",
-    "name": "Talang Akar"
+    "name": "Talang Akar",
+    "postal_code": "31472"
   },
   {
     "code": "1604262007",
     "district_code": "160426",
-    "name": "Lubuk Betung"
+    "name": "Lubuk Betung",
+    "postal_code": "31472"
   },
   {
     "code": "1604262008",
     "district_code": "160426",
-    "name": "Perangai"
+    "name": "Perangai",
+    "postal_code": "31472"
   },
   {
     "code": "1604262009",
     "district_code": "160426",
-    "name": "Geramat"
+    "name": "Geramat",
+    "postal_code": "31472"
   }
 ]

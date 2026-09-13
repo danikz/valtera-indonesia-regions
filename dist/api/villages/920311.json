@@ -2,31 +2,37 @@
   {
     "code": "9203112001",
     "district_code": "920311",
-    "name": "Werpigan"
+    "name": "Werpigan",
+    "postal_code": "98025"
   },
   {
     "code": "9203112002",
     "district_code": "920311",
-    "name": "Werabuan"
+    "name": "Werabuan",
+    "postal_code": "98025"
   },
   {
     "code": "9203112003",
     "district_code": "920311",
-    "name": "Wartutin"
+    "name": "Wartutin",
+    "postal_code": "98025"
   },
   {
     "code": "9203112004",
     "district_code": "920311",
-    "name": "Siboru"
+    "name": "Siboru",
+    "postal_code": "98025"
   },
   {
     "code": "9203112005",
     "district_code": "920311",
-    "name": "Sipatnanam"
+    "name": "Sipatnanam",
+    "postal_code": "98025"
   },
   {
     "code": "9203112006",
     "district_code": "920311",
-    "name": "Kamandur Tetar"
+    "name": "Kamandur Tetar",
+    "postal_code": "98025"
   }
 ]

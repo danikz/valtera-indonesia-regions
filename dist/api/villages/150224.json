@@ -2,31 +2,37 @@
   {
     "code": "1502242001",
     "district_code": "150224",
-    "name": "Sekancing"
+    "name": "Sekancing",
+    "postal_code": "37371"
   },
   {
     "code": "1502242002",
     "district_code": "150224",
-    "name": "Sekancing Ilir"
+    "name": "Sekancing Ilir",
+    "postal_code": "37371"
   },
   {
     "code": "1502242003",
     "district_code": "150224",
-    "name": "Beringin Sanggul"
+    "name": "Beringin Sanggul",
+    "postal_code": "37371"
   },
   {
     "code": "1502242004",
     "district_code": "150224",
-    "name": "Baru Bukit Punjung"
+    "name": "Baru Bukit Punjung",
+    "postal_code": "37371"
   },
   {
     "code": "1502242005",
     "district_code": "150224",
-    "name": "Rantau Limau Kapas"
+    "name": "Rantau Limau Kapas",
+    "postal_code": "37353"
   },
   {
     "code": "1502242006",
     "district_code": "150224",
-    "name": "Baru Sungai Sakai"
+    "name": "Baru Sungai Sakai",
+    "postal_code": "37371"
   }
 ]

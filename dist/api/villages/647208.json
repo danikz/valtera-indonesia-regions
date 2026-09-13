@@ -2,26 +2,31 @@
   {
     "code": "6472081001",
     "district_code": "647208",
-    "name": "Temindung Permai"
+    "name": "Temindung Permai",
+    "postal_code": "75119"
   },
   {
     "code": "6472081002",
     "district_code": "647208",
-    "name": "Sungai Pinang Dalam"
+    "name": "Sungai Pinang Dalam",
+    "postal_code": "75117"
   },
   {
     "code": "6472081003",
     "district_code": "647208",
-    "name": "Gunung Lingai"
+    "name": "Gunung Lingai",
+    "postal_code": "75119"
   },
   {
     "code": "6472081004",
     "district_code": "647208",
-    "name": "Mugirejo"
+    "name": "Mugirejo",
+    "postal_code": "75119"
   },
   {
     "code": "6472081005",
     "district_code": "647208",
-    "name": "Bandara"
+    "name": "Bandara",
+    "postal_code": "75119"
   }
 ]

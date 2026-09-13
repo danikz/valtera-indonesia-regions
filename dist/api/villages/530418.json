@@ -2,41 +2,49 @@
   {
     "code": "5304182001",
     "district_code": "530418",
-    "name": "Ekin"
+    "name": "Ekin",
+    "postal_code": "85770"
   },
   {
     "code": "5304182002",
     "district_code": "530418",
-    "name": "Loonuna"
+    "name": "Loonuna",
+    "postal_code": "85770"
   },
   {
     "code": "5304182003",
     "district_code": "530418",
-    "name": "Nualain"
+    "name": "Nualain",
+    "postal_code": "85770"
   },
   {
     "code": "5304182004",
     "district_code": "530418",
-    "name": "Lakmaras"
+    "name": "Lakmaras",
+    "postal_code": "85770"
   },
   {
     "code": "5304182005",
     "district_code": "530418",
-    "name": "Henes"
+    "name": "Henes",
+    "postal_code": "85770"
   },
   {
     "code": "5304182006",
     "district_code": "530418",
-    "name": "Debululik"
+    "name": "Debululik",
+    "postal_code": "85770"
   },
   {
     "code": "5304182007",
     "district_code": "530418",
-    "name": "Sisi Fatuberal"
+    "name": "Sisi Fatuberal",
+    "postal_code": "85770"
   },
   {
     "code": "5304182008",
     "district_code": "530418",
-    "name": "Lutha Rato"
+    "name": "Lutha Rato",
+    "postal_code": "85770"
   }
 ]

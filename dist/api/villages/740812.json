@@ -2,41 +2,49 @@
   {
     "code": "7408122001",
     "district_code": "740812",
-    "name": "Porehu"
+    "name": "Porehu",
+    "postal_code": "93950"
   },
   {
     "code": "7408122002",
     "district_code": "740812",
-    "name": "Tobela"
+    "name": "Tobela",
+    "postal_code": "93950"
   },
   {
     "code": "7408122003",
     "district_code": "740812",
-    "name": "Tanggaruru"
+    "name": "Tanggaruru",
+    "postal_code": "93950"
   },
   {
     "code": "7408122004",
     "district_code": "740812",
-    "name": "Ponggi"
+    "name": "Ponggi",
+    "postal_code": "93950"
   },
   {
     "code": "7408122005",
     "district_code": "740812",
-    "name": "Larui"
+    "name": "Larui",
+    "postal_code": "93950"
   },
   {
     "code": "7408122007",
     "district_code": "740812",
-    "name": "Bangsala"
+    "name": "Bangsala",
+    "postal_code": "93950"
   },
   {
     "code": "7408122008",
     "district_code": "740812",
-    "name": "Sarambu"
+    "name": "Sarambu",
+    "postal_code": "93950"
   },
   {
     "code": "7408122009",
     "district_code": "740812",
-    "name": "Tinuna"
+    "name": "Tinuna",
+    "postal_code": "93950"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1707082001",
     "district_code": "170708",
-    "name": "Ujung Tanjung I"
+    "name": "Ujung Tanjung I",
+    "postal_code": "39267"
   },
   {
     "code": "1707082002",
     "district_code": "170708",
-    "name": "Muning Agung"
+    "name": "Muning Agung",
+    "postal_code": "39267"
   },
   {
     "code": "1707082003",
     "district_code": "170708",
-    "name": "Ujung Tanjung II"
+    "name": "Ujung Tanjung II",
+    "postal_code": "39267"
   },
   {
     "code": "1707082004",
     "district_code": "170708",
-    "name": "Ujung Tanjung III"
+    "name": "Ujung Tanjung III",
+    "postal_code": "39267"
   },
   {
     "code": "1707082005",
     "district_code": "170708",
-    "name": "Magelang Baru"
+    "name": "Magelang Baru",
+    "postal_code": "39267"
   },
   {
     "code": "1707082006",
     "district_code": "170708",
-    "name": "Lemeu Pit"
+    "name": "Lemeu Pit",
+    "postal_code": "39267"
   },
   {
     "code": "1707082007",
     "district_code": "170708",
-    "name": "Tabeak Kauk"
+    "name": "Tabeak Kauk",
+    "postal_code": "39267"
   },
   {
     "code": "1707082008",
     "district_code": "170708",
-    "name": "Tabeak Dipoa"
+    "name": "Tabeak Dipoa",
+    "postal_code": "39267"
   },
   {
     "code": "1707082009",
     "district_code": "170708",
-    "name": "Suka Bumi"
+    "name": "Suka Bumi",
+    "postal_code": "39267"
   }
 ]

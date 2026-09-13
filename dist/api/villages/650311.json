@@ -2,16 +2,19 @@
   {
     "code": "6503112001",
     "district_code": "650311",
-    "name": "Sungai Pancang"
+    "name": "Sungai Pancang",
+    "postal_code": "77489"
   },
   {
     "code": "6503112002",
     "district_code": "650311",
-    "name": "Lapri"
+    "name": "Lapri",
+    "postal_code": "77489"
   },
   {
     "code": "6503112003",
     "district_code": "650311",
-    "name": "Seberang"
+    "name": "Seberang",
+    "postal_code": "77489"
   }
 ]

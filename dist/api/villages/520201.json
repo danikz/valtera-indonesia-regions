@@ -2,76 +2,91 @@
   {
     "code": "5202011001",
     "district_code": "520201",
-    "name": "Praya"
+    "name": "Praya",
+    "postal_code": "83511"
   },
   {
     "code": "5202011002",
     "district_code": "520201",
-    "name": "Leneng"
+    "name": "Leneng",
+    "postal_code": "83515"
   },
   {
     "code": "5202011003",
     "district_code": "520201",
-    "name": "Gerunung"
+    "name": "Gerunung",
+    "postal_code": "83514"
   },
   {
     "code": "5202011004",
     "district_code": "520201",
-    "name": "Semayan"
+    "name": "Semayan",
+    "postal_code": "83512"
   },
   {
     "code": "5202011005",
     "district_code": "520201",
-    "name": "Perapen"
+    "name": "Perapen",
+    "postal_code": "83519"
   },
   {
     "code": "5202011006",
     "district_code": "520201",
-    "name": "Tiwugalih"
+    "name": "Tiwugalih",
+    "postal_code": "83518"
   },
   {
     "code": "5202011007",
     "district_code": "520201",
-    "name": "Gonjak"
+    "name": "Gonjak",
+    "postal_code": "83522"
   },
   {
     "code": "5202011008",
     "district_code": "520201",
-    "name": "Panji Sari"
+    "name": "Panji Sari",
+    "postal_code": "83516"
   },
   {
     "code": "5202011009",
     "district_code": "520201",
-    "name": "Renteng"
+    "name": "Renteng",
+    "postal_code": "83521"
   },
   {
     "code": "5202012010",
     "district_code": "520201",
-    "name": "Mertak Tombok"
+    "name": "Mertak Tombok",
+    "postal_code": "83511"
   },
   {
     "code": "5202012011",
     "district_code": "520201",
-    "name": "Aik Mual"
+    "name": "Aik Mual",
+    "postal_code": "83511"
   },
   {
     "code": "5202012012",
     "district_code": "520201",
-    "name": "Montong Terep"
+    "name": "Montong Terep",
+    "postal_code": "83511"
   },
   {
     "code": "5202012013",
     "district_code": "520201",
-    "name": "Jago"
+    "name": "Jago",
+    "postal_code": "83511"
   },
   {
     "code": "5202012014",
     "district_code": "520201",
-    "name": "Bunut Baok"
+    "name": "Bunut Baok",
+    "postal_code": "83511"
   },
   {
     "code": "5202012015",
     "district_code": "520201",
-    "name": "Mekar Damai"
+    "name": "Mekar Damai",
+    "postal_code": "83511"
   }
 ]

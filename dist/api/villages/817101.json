@@ -2,66 +2,79 @@
   {
     "code": "8171011006",
     "district_code": "817101",
-    "name": "Nusaniwe"
+    "name": "Nusaniwe",
+    "postal_code": "97117"
   },
   {
     "code": "8171011007",
     "district_code": "817101",
-    "name": "Wainitu"
+    "name": "Wainitu",
+    "postal_code": "97115"
   },
   {
     "code": "8171011008",
     "district_code": "817101",
-    "name": "Benteng"
+    "name": "Benteng",
+    "postal_code": "97117"
   },
   {
     "code": "8171011009",
     "district_code": "817101",
-    "name": "Kudamati"
+    "name": "Kudamati",
+    "postal_code": "97116"
   },
   {
     "code": "8171011010",
     "district_code": "817101",
-    "name": "Mangga Dua"
+    "name": "Mangga Dua",
+    "postal_code": "97114"
   },
   {
     "code": "8171011011",
     "district_code": "817101",
-    "name": "Urimessing"
+    "name": "Urimessing",
+    "postal_code": "97113"
   },
   {
     "code": "8171011012",
     "district_code": "817101",
-    "name": "Waihaong"
+    "name": "Waihaong",
+    "postal_code": "97112"
   },
   {
     "code": "8171011013",
     "district_code": "817101",
-    "name": "Silale"
+    "name": "Silale",
+    "postal_code": "97111"
   },
   {
     "code": "8171012001",
     "district_code": "817101",
-    "name": "Latuhalat"
+    "name": "Latuhalat",
+    "postal_code": "97118"
   },
   {
     "code": "8171012002",
     "district_code": "817101",
-    "name": "Seilale"
+    "name": "Seilale",
+    "postal_code": "97118"
   },
   {
     "code": "8171012003",
     "district_code": "817101",
-    "name": "Nusaniwe"
+    "name": "Nusaniwe",
+    "postal_code": "97117"
   },
   {
     "code": "8171012004",
     "district_code": "817101",
-    "name": "Amahusu"
+    "name": "Amahusu",
+    "postal_code": "97117"
   },
   {
     "code": "8171012005",
     "district_code": "817101",
-    "name": "Urimessing"
+    "name": "Urimessing",
+    "postal_code": "97113"
   }
 ]

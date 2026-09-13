@@ -2,81 +2,97 @@
   {
     "code": "9204092001",
     "district_code": "920409",
-    "name": "Tarof"
+    "name": "Tarof",
+    "postal_code": ""
   },
   {
     "code": "9204092002",
     "district_code": "920409",
-    "name": "Negeri Besar"
+    "name": "Negeri Besar",
+    "postal_code": ""
   },
   {
     "code": "9204092003",
     "district_code": "920409",
-    "name": "Siwatori"
+    "name": "Siwatori",
+    "postal_code": ""
   },
   {
     "code": "9204092004",
     "district_code": "920409",
-    "name": "Kasuweri"
+    "name": "Kasuweri",
+    "postal_code": ""
   },
   {
     "code": "9204092005",
     "district_code": "920409",
-    "name": "Migori"
+    "name": "Migori",
+    "postal_code": ""
   },
   {
     "code": "9204092006",
     "district_code": "920409",
-    "name": "Tambani"
+    "name": "Tambani",
+    "postal_code": ""
   },
   {
     "code": "9204092010",
     "district_code": "920409",
-    "name": "Daubak"
+    "name": "Daubak",
+    "postal_code": ""
   },
   {
     "code": "9204092011",
     "district_code": "920409",
-    "name": "Totona"
+    "name": "Totona",
+    "postal_code": ""
   },
   {
     "code": "9204092012",
     "district_code": "920409",
-    "name": "Nayakore"
+    "name": "Nayakore",
+    "postal_code": ""
   },
   {
     "code": "9204092014",
     "district_code": "920409",
-    "name": "Arbasina"
+    "name": "Arbasina",
+    "postal_code": ""
   },
   {
     "code": "9204092015",
     "district_code": "920409",
-    "name": "Birawaku"
+    "name": "Birawaku",
+    "postal_code": ""
   },
   {
     "code": "9204092016",
     "district_code": "920409",
-    "name": "Korewatara"
+    "name": "Korewatara",
+    "postal_code": ""
   },
   {
     "code": "9204092017",
     "district_code": "920409",
-    "name": "Tapas"
+    "name": "Tapas",
+    "postal_code": ""
   },
   {
     "code": "9204092018",
     "district_code": "920409",
-    "name": "Topdan"
+    "name": "Topdan",
+    "postal_code": ""
   },
   {
     "code": "9204092020",
     "district_code": "920409",
-    "name": "Migrito"
+    "name": "Migrito",
+    "postal_code": ""
   },
   {
     "code": "9204092021",
     "district_code": "920409",
-    "name": "Daimar"
+    "name": "Daimar",
+    "postal_code": ""
   }
 ]

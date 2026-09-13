@@ -2,26 +2,31 @@
   {
     "code": "3403082001",
     "district_code": "340308",
-    "name": "Ngeposari"
+    "name": "Ngeposari",
+    "postal_code": "55893"
   },
   {
     "code": "3403082002",
     "district_code": "340308",
-    "name": "Semanu"
+    "name": "Semanu",
+    "postal_code": "55893"
   },
   {
     "code": "3403082003",
     "district_code": "340308",
-    "name": "Pacarejo"
+    "name": "Pacarejo",
+    "postal_code": "55893"
   },
   {
     "code": "3403082004",
     "district_code": "340308",
-    "name": "Candirejo"
+    "name": "Candirejo",
+    "postal_code": "55893"
   },
   {
     "code": "3403082005",
     "district_code": "340308",
-    "name": "Dadapayu"
+    "name": "Dadapayu",
+    "postal_code": "55893"
   }
 ]

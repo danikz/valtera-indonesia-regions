@@ -2,56 +2,67 @@
   {
     "code": "1208202001",
     "district_code": "120820",
-    "name": "Tigaras"
+    "name": "Tigaras",
+    "postal_code": "21163"
   },
   {
     "code": "1208202002",
     "district_code": "120820",
-    "name": "Parik Sabungan"
+    "name": "Parik Sabungan",
+    "postal_code": "21163"
   },
   {
     "code": "1208202003",
     "district_code": "120820",
-    "name": "Sibuntuon"
+    "name": "Sibuntuon",
+    "postal_code": "21163"
   },
   {
     "code": "1208202004",
     "district_code": "120820",
-    "name": "Dolok Saribu"
+    "name": "Dolok Saribu",
+    "postal_code": "21163"
   },
   {
     "code": "1208202007",
     "district_code": "120820",
-    "name": "Butu Bayu Pane Raja"
+    "name": "Butu Bayu Pane Raja",
+    "postal_code": "21163"
   },
   {
     "code": "1208202009",
     "district_code": "120820",
-    "name": "Silabah Jaya"
+    "name": "Silabah Jaya",
+    "postal_code": "21163"
   },
   {
     "code": "1208202010",
     "district_code": "120820",
-    "name": "Togu Domu Nauli"
+    "name": "Togu Domu Nauli",
+    "postal_code": "21163"
   },
   {
     "code": "1208202011",
     "district_code": "120820",
-    "name": "Sirube-rube Gunung Purba"
+    "name": "Sirube-rube Gunung Purba",
+    "postal_code": "21163"
   },
   {
     "code": "1208202014",
     "district_code": "120820",
-    "name": "Tanjung Saribu"
+    "name": "Tanjung Saribu",
+    "postal_code": "21163"
   },
   {
     "code": "1208202015",
     "district_code": "120820",
-    "name": "Sihemum Baru"
+    "name": "Sihemum Baru",
+    "postal_code": "21163"
   },
   {
     "code": "1208202016",
     "district_code": "120820",
-    "name": "Nagori Bayu"
+    "name": "Nagori Bayu",
+    "postal_code": "21163"
   }
 ]

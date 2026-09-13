@@ -2,21 +2,25 @@
   {
     "code": "3578201001",
     "district_code": "357820",
-    "name": "Wiyung"
+    "name": "Wiyung",
+    "postal_code": "60228"
   },
   {
     "code": "3578201002",
     "district_code": "357820",
-    "name": "Jajar Tunggal"
+    "name": "Jajar Tunggal",
+    "postal_code": "60229"
   },
   {
     "code": "3578201003",
     "district_code": "357820",
-    "name": "Babatan"
+    "name": "Babatan",
+    "postal_code": "60227"
   },
   {
     "code": "3578201004",
     "district_code": "357820",
-    "name": "Balas Klumprik"
+    "name": "Balas Klumprik",
+    "postal_code": "60222"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "2101041005",
     "district_code": "210104",
-    "name": "Kawal"
+    "name": "Kawal",
+    "postal_code": "29155"
   },
   {
     "code": "2101042001",
     "district_code": "210104",
-    "name": "Gunung Kijang"
+    "name": "Gunung Kijang",
+    "postal_code": "29155"
   },
   {
     "code": "2101042002",
     "district_code": "210104",
-    "name": "Malang Rapat"
+    "name": "Malang Rapat",
+    "postal_code": "29155"
   },
   {
     "code": "2101042003",
     "district_code": "210104",
-    "name": "Teluk Bakau"
+    "name": "Teluk Bakau",
+    "postal_code": "29155"
   }
 ]

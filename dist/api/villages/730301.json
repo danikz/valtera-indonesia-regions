@@ -2,56 +2,67 @@
   {
     "code": "7303011001",
     "district_code": "730301",
-    "name": "Bonto Manai"
+    "name": "Bonto Manai",
+    "postal_code": "92451"
   },
   {
     "code": "7303011002",
     "district_code": "730301",
-    "name": "Bonto Lebang"
+    "name": "Bonto Lebang",
+    "postal_code": "92451"
   },
   {
     "code": "7303011003",
     "district_code": "730301",
-    "name": "Bonto Sunggu"
+    "name": "Bonto Sunggu",
+    "postal_code": "92451"
   },
   {
     "code": "7303011004",
     "district_code": "730301",
-    "name": "Bonto Atu"
+    "name": "Bonto Atu",
+    "postal_code": "92451"
   },
   {
     "code": "7303011005",
     "district_code": "730301",
-    "name": "Bonto Rita"
+    "name": "Bonto Rita",
+    "postal_code": "92451"
   },
   {
     "code": "7303011006",
     "district_code": "730301",
-    "name": "Bonto Langkasa"
+    "name": "Bonto Langkasa",
+    "postal_code": "92451"
   },
   {
     "code": "7303011007",
     "district_code": "730301",
-    "name": "Bonto Jaya"
+    "name": "Bonto Jaya",
+    "postal_code": "92451"
   },
   {
     "code": "7303012008",
     "district_code": "730301",
-    "name": "Bonto Jai"
+    "name": "Bonto Jai",
+    "postal_code": "92451"
   },
   {
     "code": "7303012009",
     "district_code": "730301",
-    "name": "Bonto Cinde"
+    "name": "Bonto Cinde",
+    "postal_code": "92451"
   },
   {
     "code": "7303012010",
     "district_code": "730301",
-    "name": "Bonto Loe"
+    "name": "Bonto Loe",
+    "postal_code": "92451"
   },
   {
     "code": "7303012012",
     "district_code": "730301",
-    "name": "Bonto Salluang"
+    "name": "Bonto Salluang",
+    "postal_code": "92451"
   }
 ]

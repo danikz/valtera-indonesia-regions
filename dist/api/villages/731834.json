@@ -2,31 +2,37 @@
   {
     "code": "7318341001",
     "district_code": "731834",
-    "name": "Leatung"
+    "name": "Leatung",
+    "postal_code": "91883"
   },
   {
     "code": "7318341006",
     "district_code": "731834",
-    "name": "Bebo'"
+    "name": "Bebo'",
+    "postal_code": "91883"
   },
   {
     "code": "7318342002",
     "district_code": "731834",
-    "name": "Rantela'bi Kambisa"
+    "name": "Rantela'bi Kambisa",
+    "postal_code": "91883"
   },
   {
     "code": "7318342003",
     "district_code": "731834",
-    "name": "Leatung Matallo"
+    "name": "Leatung Matallo",
+    "postal_code": "91883"
   },
   {
     "code": "7318342004",
     "district_code": "731834",
-    "name": "Saluallo"
+    "name": "Saluallo",
+    "postal_code": "91883"
   },
   {
     "code": "7318342005",
     "district_code": "731834",
-    "name": "Tumbang Datu"
+    "name": "Tumbang Datu",
+    "postal_code": "91883"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "2104051007",
     "district_code": "210405",
-    "name": "Pancur"
+    "name": "Pancur",
+    "postal_code": "29874"
   },
   {
     "code": "2104052001",
     "district_code": "210405",
-    "name": "Bukit Harapan"
+    "name": "Bukit Harapan",
+    "postal_code": "29874"
   },
   {
     "code": "2104052002",
     "district_code": "210405",
-    "name": "Duara"
+    "name": "Duara",
+    "postal_code": "29874"
   },
   {
     "code": "2104052003",
     "district_code": "210405",
-    "name": "Limbung"
+    "name": "Limbung",
+    "postal_code": "29874"
   },
   {
     "code": "2104052004",
     "district_code": "210405",
-    "name": "Resun"
+    "name": "Resun",
+    "postal_code": "29874"
   },
   {
     "code": "2104052005",
     "district_code": "210405",
-    "name": "Sekanah"
+    "name": "Sekanah",
+    "postal_code": "29874"
   },
   {
     "code": "2104052008",
     "district_code": "210405",
-    "name": "Linau"
+    "name": "Linau",
+    "postal_code": "29874"
   },
   {
     "code": "2104052009",
     "district_code": "210405",
-    "name": "Sungaibesar"
+    "name": "Sungaibesar",
+    "postal_code": "29874"
   },
   {
     "code": "2104052010",
     "district_code": "210405",
-    "name": "Rantau Panjang"
+    "name": "Rantau Panjang",
+    "postal_code": "29874"
   },
   {
     "code": "2104052012",
     "district_code": "210405",
-    "name": "Resun Pesisir"
+    "name": "Resun Pesisir",
+    "postal_code": "29874"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3273021001",
     "district_code": "327302",
-    "name": "Cipaganti"
+    "name": "Cipaganti",
+    "postal_code": "40131"
   },
   {
     "code": "3273021002",
     "district_code": "327302",
-    "name": "Lebakgede"
+    "name": "Lebakgede",
+    "postal_code": "40132"
   },
   {
     "code": "3273021003",
     "district_code": "327302",
-    "name": "Sadangserang"
+    "name": "Sadangserang",
+    "postal_code": "40133"
   },
   {
     "code": "3273021004",
     "district_code": "327302",
-    "name": "Dago"
+    "name": "Dago",
+    "postal_code": "40135"
   },
   {
     "code": "3273021005",
     "district_code": "327302",
-    "name": "Sekeloa"
+    "name": "Sekeloa",
+    "postal_code": "40134"
   },
   {
     "code": "3273021006",
     "district_code": "327302",
-    "name": "Lebak Siliwangi"
+    "name": "Lebak Siliwangi",
+    "postal_code": "40132"
   }
 ]

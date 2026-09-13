@@ -2,46 +2,55 @@
   {
     "code": "1376021002",
     "district_code": "137602",
-    "name": "Napar"
+    "name": "Napar",
+    "postal_code": "26218"
   },
   {
     "code": "1376021032",
     "district_code": "137602",
-    "name": "Ompang Tanah Sirah"
+    "name": "Ompang Tanah Sirah",
+    "postal_code": "26216"
   },
   {
     "code": "1376021033",
     "district_code": "137602",
-    "name": "Taratak Padang Kampuang"
+    "name": "Taratak Padang Kampuang",
+    "postal_code": "26217"
   },
   {
     "code": "1376021034",
     "district_code": "137602",
-    "name": "Tigo Koto Dibaruah"
+    "name": "Tigo Koto Dibaruah",
+    "postal_code": "26215"
   },
   {
     "code": "1376021035",
     "district_code": "137602",
-    "name": "Tigo Koto Diate"
+    "name": "Tigo Koto Diate",
+    "postal_code": "26218"
   },
   {
     "code": "1376021036",
     "district_code": "137602",
-    "name": "Ikua Koto Dibalai"
+    "name": "Ikua Koto Dibalai",
+    "postal_code": "26212"
   },
   {
     "code": "1376021037",
     "district_code": "137602",
-    "name": "Balai Tongah Koto"
+    "name": "Balai Tongah Koto",
+    "postal_code": "26214"
   },
   {
     "code": "1376021038",
     "district_code": "137602",
-    "name": "Kapalo Koto Dibalai"
+    "name": "Kapalo Koto Dibalai",
+    "postal_code": "26211"
   },
   {
     "code": "1376021039",
     "district_code": "137602",
-    "name": "Kotokociak Kubu Tapakrajo"
+    "name": "Kotokociak Kubu Tapakrajo",
+    "postal_code": "26213"
   }
 ]

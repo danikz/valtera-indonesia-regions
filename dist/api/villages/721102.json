@@ -2,31 +2,37 @@
   {
     "code": "7211022001",
     "district_code": "721102",
-    "name": "Kendek"
+    "name": "Kendek",
+    "postal_code": "94896"
   },
   {
     "code": "7211022002",
     "district_code": "721102",
-    "name": "Lokotoy"
+    "name": "Lokotoy",
+    "postal_code": "94896"
   },
   {
     "code": "7211022003",
     "district_code": "721102",
-    "name": "Popisi"
+    "name": "Popisi",
+    "postal_code": "94896"
   },
   {
     "code": "7211022004",
     "district_code": "721102",
-    "name": "Paisumosoni"
+    "name": "Paisumosoni",
+    "postal_code": "94896"
   },
   {
     "code": "7211022005",
     "district_code": "721102",
-    "name": "Tolisetubono"
+    "name": "Tolisetubono",
+    "postal_code": "94896"
   },
   {
     "code": "7211022006",
     "district_code": "721102",
-    "name": "Bone Baru"
+    "name": "Bone Baru",
+    "postal_code": "94896"
   }
 ]

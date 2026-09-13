@@ -2,26 +2,31 @@
   {
     "code": "3578021001",
     "district_code": "357802",
-    "name": "Sidosermo"
+    "name": "Sidosermo",
+    "postal_code": "60239"
   },
   {
     "code": "3578021002",
     "district_code": "357802",
-    "name": "Bendul Merisi"
+    "name": "Bendul Merisi",
+    "postal_code": "60239"
   },
   {
     "code": "3578021003",
     "district_code": "357802",
-    "name": "Margorejo"
+    "name": "Margorejo",
+    "postal_code": "60238"
   },
   {
     "code": "3578021004",
     "district_code": "357802",
-    "name": "Jemur Wonosari"
+    "name": "Jemur Wonosari",
+    "postal_code": "60237"
   },
   {
     "code": "3578021005",
     "district_code": "357802",
-    "name": "Siwalankerto"
+    "name": "Siwalankerto",
+    "postal_code": "60236"
   }
 ]

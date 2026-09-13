@@ -2,41 +2,49 @@
   {
     "code": "1813011005",
     "district_code": "181301",
-    "name": "Pasar Krui"
+    "name": "Pasar Krui",
+    "postal_code": "34894"
   },
   {
     "code": "1813011008",
     "district_code": "181301",
-    "name": "Pasar Kota Krui"
+    "name": "Pasar Kota Krui",
+    "postal_code": "34894"
   },
   {
     "code": "1813012001",
     "district_code": "181301",
-    "name": "Way Redak"
+    "name": "Way Redak",
+    "postal_code": "34894"
   },
   {
     "code": "1813012002",
     "district_code": "181301",
-    "name": "Serai"
+    "name": "Serai",
+    "postal_code": "34894"
   },
   {
     "code": "1813012003",
     "district_code": "181301",
-    "name": "Kampung Jawa"
+    "name": "Kampung Jawa",
+    "postal_code": "34894"
   },
   {
     "code": "1813012004",
     "district_code": "181301",
-    "name": "Rawas"
+    "name": "Rawas",
+    "postal_code": "34894"
   },
   {
     "code": "1813012006",
     "district_code": "181301",
-    "name": "Suka Negara"
+    "name": "Suka Negara",
+    "postal_code": "34894"
   },
   {
     "code": "1813012007",
     "district_code": "181301",
-    "name": "Pahmungan"
+    "name": "Pahmungan",
+    "postal_code": "34894"
   }
 ]

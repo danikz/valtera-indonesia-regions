@@ -2,66 +2,79 @@
   {
     "code": "9301112001",
     "district_code": "930111",
-    "name": "Harapan Makmur"
+    "name": "Harapan Makmur",
+    "postal_code": "99646"
   },
   {
     "code": "9301112002",
     "district_code": "930111",
-    "name": "Kurik"
+    "name": "Kurik",
+    "postal_code": "99646"
   },
   {
     "code": "9301112003",
     "district_code": "930111",
-    "name": "Telaga Sari"
+    "name": "Telaga Sari",
+    "postal_code": "99646"
   },
   {
     "code": "9301112004",
     "district_code": "930111",
-    "name": "Sumber Rejeki"
+    "name": "Sumber Rejeki",
+    "postal_code": "99646"
   },
   {
     "code": "9301112005",
     "district_code": "930111",
-    "name": "Jaya Makmur"
+    "name": "Jaya Makmur",
+    "postal_code": "99646"
   },
   {
     "code": "9301112006",
     "district_code": "930111",
-    "name": "Sumber Mulya"
+    "name": "Sumber Mulya",
+    "postal_code": "99646"
   },
   {
     "code": "9301112007",
     "district_code": "930111",
-    "name": "Kaliki"
+    "name": "Kaliki",
+    "postal_code": "99646"
   },
   {
     "code": "9301112008",
     "district_code": "930111",
-    "name": "Ivimahad"
+    "name": "Ivimahad",
+    "postal_code": "99646"
   },
   {
     "code": "9301112009",
     "district_code": "930111",
-    "name": "Salor Indah"
+    "name": "Salor Indah",
+    "postal_code": "99646"
   },
   {
     "code": "9301112010",
     "district_code": "930111",
-    "name": "Candra Jaya"
+    "name": "Candra Jaya",
+    "postal_code": "99646"
   },
   {
     "code": "9301112011",
     "district_code": "930111",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "99646"
   },
   {
     "code": "9301112012",
     "district_code": "930111",
-    "name": "Anumbob"
+    "name": "Anumbob",
+    "postal_code": "99646"
   },
   {
     "code": "9301112013",
     "district_code": "930111",
-    "name": "Wapeko"
+    "name": "Wapeko",
+    "postal_code": "99646"
   }
 ]

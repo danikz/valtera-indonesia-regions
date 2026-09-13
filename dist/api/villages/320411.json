@@ -2,36 +2,43 @@
   {
     "code": "3204112001",
     "district_code": "320411",
-    "name": "Sangkanhurip"
+    "name": "Sangkanhurip",
+    "postal_code": "40921"
   },
   {
     "code": "3204112002",
     "district_code": "320411",
-    "name": "Katapang"
+    "name": "Katapang",
+    "postal_code": "40921"
   },
   {
     "code": "3204112004",
     "district_code": "320411",
-    "name": "Gandasari"
+    "name": "Gandasari",
+    "postal_code": "40921"
   },
   {
     "code": "3204112006",
     "district_code": "320411",
-    "name": "Sukamukti"
+    "name": "Sukamukti",
+    "postal_code": "40921"
   },
   {
     "code": "3204112007",
     "district_code": "320411",
-    "name": "Cilampeni"
+    "name": "Cilampeni",
+    "postal_code": "40921"
   },
   {
     "code": "3204112008",
     "district_code": "320411",
-    "name": "Pangauban"
+    "name": "Pangauban",
+    "postal_code": "40921"
   },
   {
     "code": "3204112009",
     "district_code": "320411",
-    "name": "Banyusari"
+    "name": "Banyusari",
+    "postal_code": "40921"
   }
 ]

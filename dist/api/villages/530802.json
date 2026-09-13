@@ -2,46 +2,55 @@
   {
     "code": "5308022001",
     "district_code": "530802",
-    "name": "Aejeti"
+    "name": "Aejeti",
+    "postal_code": "86362"
   },
   {
     "code": "5308022002",
     "district_code": "530802",
-    "name": "Puutara"
+    "name": "Puutara",
+    "postal_code": "86362"
   },
   {
     "code": "5308022003",
     "district_code": "530802",
-    "name": "Paderape"
+    "name": "Paderape",
+    "postal_code": "86362"
   },
   {
     "code": "5308022004",
     "district_code": "530802",
-    "name": "Ndoriwoi"
+    "name": "Ndoriwoi",
+    "postal_code": "86362"
   },
   {
     "code": "5308022005",
     "district_code": "530802",
-    "name": "Rorurangga"
+    "name": "Rorurangga",
+    "postal_code": "86362"
   },
   {
     "code": "5308022006",
     "district_code": "530802",
-    "name": "Rendoraterua"
+    "name": "Rendoraterua",
+    "postal_code": "86362"
   },
   {
     "code": "5308022007",
     "district_code": "530802",
-    "name": "Redorory"
+    "name": "Redorory",
+    "postal_code": "86362"
   },
   {
     "code": "5308022008",
     "district_code": "530802",
-    "name": "Kazo Kapo"
+    "name": "Kazo Kapo",
+    "postal_code": "86362"
   },
   {
     "code": "5308022009",
     "district_code": "530802",
-    "name": "Renga Menge"
+    "name": "Renga Menge",
+    "postal_code": "86362"
   }
 ]

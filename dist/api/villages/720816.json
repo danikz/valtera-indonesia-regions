@@ -2,31 +2,37 @@
   {
     "code": "7208162001",
     "district_code": "720816",
-    "name": "Parigimpu'u"
+    "name": "Parigimpu'u",
+    "postal_code": "94460"
   },
   {
     "code": "7208162002",
     "district_code": "720816",
-    "name": "Baliara"
+    "name": "Baliara",
+    "postal_code": "94460"
   },
   {
     "code": "7208162003",
     "district_code": "720816",
-    "name": "Kayuboko"
+    "name": "Kayuboko",
+    "postal_code": "94460"
   },
   {
     "code": "7208162004",
     "district_code": "720816",
-    "name": "Jono Kalora"
+    "name": "Jono Kalora",
+    "postal_code": "94460"
   },
   {
     "code": "7208162005",
     "district_code": "720816",
-    "name": "Air Panas"
+    "name": "Air Panas",
+    "postal_code": "94460"
   },
   {
     "code": "7208162006",
     "district_code": "720816",
-    "name": "Lobu Mandiri"
+    "name": "Lobu Mandiri",
+    "postal_code": "94460"
   }
 ]

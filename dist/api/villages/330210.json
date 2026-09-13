@@ -2,61 +2,73 @@
   {
     "code": "3302102001",
     "district_code": "330210",
-    "name": "Srowot"
+    "name": "Srowot",
+    "postal_code": "53191"
   },
   {
     "code": "3302102002",
     "district_code": "330210",
-    "name": "Suro"
+    "name": "Suro",
+    "postal_code": "53191"
   },
   {
     "code": "3302102003",
     "district_code": "330210",
-    "name": "Kaliori"
+    "name": "Kaliori",
+    "postal_code": "53191"
   },
   {
     "code": "3302102004",
     "district_code": "330210",
-    "name": "Wlahar Wetan"
+    "name": "Wlahar Wetan",
+    "postal_code": "53191"
   },
   {
     "code": "3302102005",
     "district_code": "330210",
-    "name": "Pekaja"
+    "name": "Pekaja",
+    "postal_code": "53191"
   },
   {
     "code": "3302102006",
     "district_code": "330210",
-    "name": "Karangdadap"
+    "name": "Karangdadap",
+    "postal_code": "53191"
   },
   {
     "code": "3302102007",
     "district_code": "330210",
-    "name": "Kalibagor"
+    "name": "Kalibagor",
+    "postal_code": "53191"
   },
   {
     "code": "3302102008",
     "district_code": "330210",
-    "name": "Pajerukan"
+    "name": "Pajerukan",
+    "postal_code": "53191"
   },
   {
     "code": "3302102009",
     "district_code": "330210",
-    "name": "Petir"
+    "name": "Petir",
+    "postal_code": "53191"
   },
   {
     "code": "3302102010",
     "district_code": "330210",
-    "name": "Kalicupak Kidul"
+    "name": "Kalicupak Kidul",
+    "postal_code": "53191"
   },
   {
     "code": "3302102011",
     "district_code": "330210",
-    "name": "Kalicupak Lor"
+    "name": "Kalicupak Lor",
+    "postal_code": "53191"
   },
   {
     "code": "3302102012",
     "district_code": "330210",
-    "name": "Kalisogra Wetan"
+    "name": "Kalisogra Wetan",
+    "postal_code": "53191"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "9403111006",
     "district_code": "940311",
-    "name": "Badawo"
+    "name": "Badawo",
+    "postal_code": "98717"
   },
   {
     "code": "9403112001",
     "district_code": "940311",
-    "name": "Uwamani"
+    "name": "Uwamani",
+    "postal_code": "98717"
   },
   {
     "code": "9403112002",
     "district_code": "940311",
-    "name": "Muyadebe"
+    "name": "Muyadebe",
+    "postal_code": "98717"
   },
   {
     "code": "9403112003",
     "district_code": "940311",
-    "name": "Woubutu"
+    "name": "Woubutu",
+    "postal_code": "98717"
   },
   {
     "code": "9403112004",
     "district_code": "940311",
-    "name": "Kugitadi"
+    "name": "Kugitadi",
+    "postal_code": "98717"
   },
   {
     "code": "9403112005",
     "district_code": "940311",
-    "name": "Kobauyagapa"
+    "name": "Kobauyagapa",
+    "postal_code": "98717"
   },
   {
     "code": "9403112007",
     "district_code": "940311",
-    "name": "Geko"
+    "name": "Geko",
+    "postal_code": "98717"
   },
   {
     "code": "9403112008",
     "district_code": "940311",
-    "name": "Kinou"
+    "name": "Kinou",
+    "postal_code": "98717"
   },
   {
     "code": "9403112009",
     "district_code": "940311",
-    "name": "Toko"
+    "name": "Toko",
+    "postal_code": "98717"
   },
   {
     "code": "9403112010",
     "district_code": "940311",
-    "name": "Yagiyo Butu"
+    "name": "Yagiyo Butu",
+    "postal_code": "98717"
   },
   {
     "code": "9403112011",
     "district_code": "940311",
-    "name": "Obaidagi"
+    "name": "Obaidagi",
+    "postal_code": "98717"
   }
 ]

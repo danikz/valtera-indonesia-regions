@@ -2,46 +2,55 @@
   {
     "code": "9204212001",
     "district_code": "920421",
-    "name": "Udagaga"
+    "name": "Udagaga",
+    "postal_code": ""
   },
   {
     "code": "9204212002",
     "district_code": "920421",
-    "name": "Kayubiro"
+    "name": "Kayubiro",
+    "postal_code": ""
   },
   {
     "code": "9204212003",
     "district_code": "920421",
-    "name": "Adona"
+    "name": "Adona",
+    "postal_code": ""
   },
   {
     "code": "9204212004",
     "district_code": "920421",
-    "name": "Benawa II"
+    "name": "Benawa II",
+    "postal_code": ""
   },
   {
     "code": "9204212005",
     "district_code": "920421",
-    "name": "Atori"
+    "name": "Atori",
+    "postal_code": ""
   },
   {
     "code": "9204212006",
     "district_code": "920421",
-    "name": "Kamundan Satu"
+    "name": "Kamundan Satu",
+    "postal_code": ""
   },
   {
     "code": "9204212007",
     "district_code": "920421",
-    "name": "Karirif"
+    "name": "Karirif",
+    "postal_code": ""
   },
   {
     "code": "9204212008",
     "district_code": "920421",
-    "name": "Bubuko"
+    "name": "Bubuko",
+    "postal_code": ""
   },
   {
     "code": "9204212009",
     "district_code": "920421",
-    "name": "Kamundan Dua"
+    "name": "Kamundan Dua",
+    "postal_code": ""
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "3273271001",
     "district_code": "327327",
-    "name": "Cimenerang"
+    "name": "Cimenerang",
+    "postal_code": "40294"
   },
   {
     "code": "3273271002",
     "district_code": "327327",
-    "name": "Cisantren Kidul"
+    "name": "Cisantren Kidul",
+    "postal_code": "40294"
   },
   {
     "code": "3273271003",
     "district_code": "327327",
-    "name": "Rancabolang"
+    "name": "Rancabolang",
+    "postal_code": "40294"
   },
   {
     "code": "3273271004",
     "district_code": "327327",
-    "name": "Rancanumpang"
+    "name": "Rancanumpang",
+    "postal_code": "40294"
   }
 ]

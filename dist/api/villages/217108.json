@@ -2,41 +2,49 @@
   {
     "code": "2171081001",
     "district_code": "217108",
-    "name": "Sijantung"
+    "name": "Sijantung",
+    "postal_code": "29485"
   },
   {
     "code": "2171081002",
     "district_code": "217108",
-    "name": "Karas"
+    "name": "Karas",
+    "postal_code": "29486"
   },
   {
     "code": "2171081003",
     "district_code": "217108",
-    "name": "Galang Baru"
+    "name": "Galang Baru",
+    "postal_code": "29484"
   },
   {
     "code": "2171081004",
     "district_code": "217108",
-    "name": "Sembulang"
+    "name": "Sembulang",
+    "postal_code": "29481"
   },
   {
     "code": "2171081005",
     "district_code": "217108",
-    "name": "Rempang Cate"
+    "name": "Rempang Cate",
+    "postal_code": "29482"
   },
   {
     "code": "2171081006",
     "district_code": "217108",
-    "name": "Subang Mas"
+    "name": "Subang Mas",
+    "postal_code": "29483"
   },
   {
     "code": "2171081007",
     "district_code": "217108",
-    "name": "Pulau Abang"
+    "name": "Pulau Abang",
+    "postal_code": "29487"
   },
   {
     "code": "2171081008",
     "district_code": "217108",
-    "name": "Air Raja"
+    "name": "Air Raja",
+    "postal_code": "29483"
   }
 ]

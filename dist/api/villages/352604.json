@@ -2,51 +2,61 @@
   {
     "code": "3526042001",
     "district_code": "352604",
-    "name": "Kamal"
+    "name": "Kamal",
+    "postal_code": "69162"
   },
   {
     "code": "3526042002",
     "district_code": "352604",
-    "name": "Banyuajuh"
+    "name": "Banyuajuh",
+    "postal_code": "69162"
   },
   {
     "code": "3526042003",
     "district_code": "352604",
-    "name": "Gili Barat"
+    "name": "Gili Barat",
+    "postal_code": "69162"
   },
   {
     "code": "3526042004",
     "district_code": "352604",
-    "name": "Gili Timur"
+    "name": "Gili Timur",
+    "postal_code": "69162"
   },
   {
     "code": "3526042005",
     "district_code": "352604",
-    "name": "Gili Anyar"
+    "name": "Gili Anyar",
+    "postal_code": "69162"
   },
   {
     "code": "3526042006",
     "district_code": "352604",
-    "name": "Telang"
+    "name": "Telang",
+    "postal_code": "69162"
   },
   {
     "code": "3526042007",
     "district_code": "352604",
-    "name": "Pendabah"
+    "name": "Pendabah",
+    "postal_code": "69162"
   },
   {
     "code": "3526042008",
     "district_code": "352604",
-    "name": "Tajungan"
+    "name": "Tajungan",
+    "postal_code": "69162"
   },
   {
     "code": "3526042009",
     "district_code": "352604",
-    "name": "Kebun"
+    "name": "Kebun",
+    "postal_code": "69162"
   },
   {
     "code": "3526042010",
     "district_code": "352604",
-    "name": "Tangjungjati"
+    "name": "Tangjungjati",
+    "postal_code": "69162"
   }
 ]

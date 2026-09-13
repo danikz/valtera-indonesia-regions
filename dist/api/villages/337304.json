@@ -2,21 +2,25 @@
   {
     "code": "3373041001",
     "district_code": "337304",
-    "name": "Kecandran"
+    "name": "Kecandran",
+    "postal_code": "50723"
   },
   {
     "code": "3373041002",
     "district_code": "337304",
-    "name": "Dukuh"
+    "name": "Dukuh",
+    "postal_code": "50722"
   },
   {
     "code": "3373041003",
     "district_code": "337304",
-    "name": "Mangunsari"
+    "name": "Mangunsari",
+    "postal_code": "50721"
   },
   {
     "code": "3373041004",
     "district_code": "337304",
-    "name": "Kalicacing"
+    "name": "Kalicacing",
+    "postal_code": "50724"
   }
 ]

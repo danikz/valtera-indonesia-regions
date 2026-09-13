@@ -2,41 +2,49 @@
   {
     "code": "7104092001",
     "district_code": "710409",
-    "name": "Peret"
+    "name": "Peret",
+    "postal_code": "95872"
   },
   {
     "code": "7104092002",
     "district_code": "710409",
-    "name": "Ighik"
+    "name": "Ighik",
+    "postal_code": "95872"
   },
   {
     "code": "7104092003",
     "district_code": "710409",
-    "name": "Birang"
+    "name": "Birang",
+    "postal_code": "95872"
   },
   {
     "code": "7104092004",
     "district_code": "710409",
-    "name": "Akas"
+    "name": "Akas",
+    "postal_code": "95872"
   },
   {
     "code": "7104092005",
     "district_code": "710409",
-    "name": "Damau"
+    "name": "Damau",
+    "postal_code": "95872"
   },
   {
     "code": "7104092006",
     "district_code": "710409",
-    "name": "Damau Bowone"
+    "name": "Damau Bowone",
+    "postal_code": "95872"
   },
   {
     "code": "7104092007",
     "district_code": "710409",
-    "name": "Taduwale"
+    "name": "Taduwale",
+    "postal_code": "95872"
   },
   {
     "code": "7104092008",
     "district_code": "710409",
-    "name": "Akas Balane"
+    "name": "Akas Balane",
+    "postal_code": "95872"
   }
 ]

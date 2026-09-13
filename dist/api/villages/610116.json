@@ -2,46 +2,55 @@
   {
     "code": "6101162001",
     "district_code": "610116",
-    "name": "Jawai Laut"
+    "name": "Jawai Laut",
+    "postal_code": "79154"
   },
   {
     "code": "6101162002",
     "district_code": "610116",
-    "name": "Jelu Air"
+    "name": "Jelu Air",
+    "postal_code": "79154"
   },
   {
     "code": "6101162003",
     "district_code": "610116",
-    "name": "Matang Terap"
+    "name": "Matang Terap",
+    "postal_code": "79154"
   },
   {
     "code": "6101162004",
     "district_code": "610116",
-    "name": "Suah Api"
+    "name": "Suah Api",
+    "postal_code": "79154"
   },
   {
     "code": "6101162005",
     "district_code": "610116",
-    "name": "Sari Laba A"
+    "name": "Sari Laba A",
+    "postal_code": "79154"
   },
   {
     "code": "6101162006",
     "district_code": "610116",
-    "name": "Sari Laba B"
+    "name": "Sari Laba B",
+    "postal_code": "79154"
   },
   {
     "code": "6101162007",
     "district_code": "610116",
-    "name": "Semperiuk A"
+    "name": "Semperiuk A",
+    "postal_code": "79154"
   },
   {
     "code": "6101162008",
     "district_code": "610116",
-    "name": "Semperiuk B"
+    "name": "Semperiuk B",
+    "postal_code": "79154"
   },
   {
     "code": "6101162009",
     "district_code": "610116",
-    "name": "Sabaran"
+    "name": "Sabaran",
+    "postal_code": "79154"
   }
 ]

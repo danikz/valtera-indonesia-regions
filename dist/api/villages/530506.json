@@ -2,56 +2,67 @@
   {
     "code": "5305061001",
     "district_code": "530506",
-    "name": "Kabir"
+    "name": "Kabir",
+    "postal_code": "85881"
   },
   {
     "code": "5305062005",
     "district_code": "530506",
-    "name": "Pandai"
+    "name": "Pandai",
+    "postal_code": "85881"
   },
   {
     "code": "5305062009",
     "district_code": "530506",
-    "name": "Bandar"
+    "name": "Bandar",
+    "postal_code": "85881"
   },
   {
     "code": "5305062010",
     "district_code": "530506",
-    "name": "Baolang"
+    "name": "Baolang",
+    "postal_code": "85881"
   },
   {
     "code": "5305062011",
     "district_code": "530506",
-    "name": "Munaseli"
+    "name": "Munaseli",
+    "postal_code": "85881"
   },
   {
     "code": "5305062012",
     "district_code": "530506",
-    "name": "Helangdohi"
+    "name": "Helangdohi",
+    "postal_code": "85881"
   },
   {
     "code": "5305062013",
     "district_code": "530506",
-    "name": "Wailawar"
+    "name": "Wailawar",
+    "postal_code": "85881"
   },
   {
     "code": "5305062014",
     "district_code": "530506",
-    "name": "Bana"
+    "name": "Bana",
+    "postal_code": "85881"
   },
   {
     "code": "5305062016",
     "district_code": "530506",
-    "name": "Bouweli"
+    "name": "Bouweli",
+    "postal_code": "85881"
   },
   {
     "code": "5305062017",
     "district_code": "530506",
-    "name": "Bukit Mas"
+    "name": "Bukit Mas",
+    "postal_code": "85881"
   },
   {
     "code": "5305062019",
     "district_code": "530506",
-    "name": "Madar"
+    "name": "Madar",
+    "postal_code": "85881"
   }
 ]

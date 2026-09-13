@@ -2,46 +2,55 @@
   {
     "code": "1302092001",
     "district_code": "130209",
-    "name": "Taruang-Taruang"
+    "name": "Taruang-Taruang",
+    "postal_code": "27388"
   },
   {
     "code": "1302092002",
     "district_code": "130209",
-    "name": "Siaro-Aro"
+    "name": "Siaro-Aro",
+    "postal_code": "27388"
   },
   {
     "code": "1302092003",
     "district_code": "130209",
-    "name": "Pianggu"
+    "name": "Pianggu",
+    "postal_code": "27388"
   },
   {
     "code": "1302092004",
     "district_code": "130209",
-    "name": "Sungai Durian"
+    "name": "Sungai Durian",
+    "postal_code": "27388"
   },
   {
     "code": "1302092005",
     "district_code": "130209",
-    "name": "Bukik Bais"
+    "name": "Bukik Bais",
+    "postal_code": "27388"
   },
   {
     "code": "1302092006",
     "district_code": "130209",
-    "name": "Sungai Jambur"
+    "name": "Sungai Jambur",
+    "postal_code": "27388"
   },
   {
     "code": "1302092007",
     "district_code": "130209",
-    "name": "Guguak Sarai"
+    "name": "Guguak Sarai",
+    "postal_code": "27388"
   },
   {
     "code": "1302092008",
     "district_code": "130209",
-    "name": "Koto Laweh"
+    "name": "Koto Laweh",
+    "postal_code": "27388"
   },
   {
     "code": "1302092009",
     "district_code": "130209",
-    "name": "Indudur"
+    "name": "Indudur",
+    "postal_code": "27388"
   }
 ]

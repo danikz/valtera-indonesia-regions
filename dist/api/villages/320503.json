@@ -2,46 +2,55 @@
   {
     "code": "3205032001",
     "district_code": "320503",
-    "name": "Wanaraja"
+    "name": "Wanaraja",
+    "postal_code": "44180"
   },
   {
     "code": "3205032002",
     "district_code": "320503",
-    "name": "Wanamekar"
+    "name": "Wanamekar",
+    "postal_code": "44180"
   },
   {
     "code": "3205032003",
     "district_code": "320503",
-    "name": "Cinunuk"
+    "name": "Cinunuk",
+    "postal_code": "44180"
   },
   {
     "code": "3205032007",
     "district_code": "320503",
-    "name": "Sukamenak"
+    "name": "Sukamenak",
+    "postal_code": "44180"
   },
   {
     "code": "3205032008",
     "district_code": "320503",
-    "name": "Sindangratu"
+    "name": "Sindangratu",
+    "postal_code": "44180"
   },
   {
     "code": "3205032011",
     "district_code": "320503",
-    "name": "Wanajaya"
+    "name": "Wanajaya",
+    "postal_code": "44180"
   },
   {
     "code": "3205032015",
     "district_code": "320503",
-    "name": "Sindangmekar"
+    "name": "Sindangmekar",
+    "postal_code": "44180"
   },
   {
     "code": "3205032019",
     "district_code": "320503",
-    "name": "Wanasari"
+    "name": "Wanasari",
+    "postal_code": "44180"
   },
   {
     "code": "3205032024",
     "district_code": "320503",
-    "name": "Sindangprabu"
+    "name": "Sindangprabu",
+    "postal_code": "44180"
   }
 ]

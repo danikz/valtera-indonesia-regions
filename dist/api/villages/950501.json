@@ -2,76 +2,91 @@
   {
     "code": "9505012001",
     "district_code": "950501",
-    "name": "Kobakma"
+    "name": "Kobakma",
+    "postal_code": "99074"
   },
   {
     "code": "9505012002",
     "district_code": "950501",
-    "name": "Ninugagas"
+    "name": "Ninugagas",
+    "postal_code": "99074"
   },
   {
     "code": "9505012003",
     "district_code": "950501",
-    "name": "Seralema"
+    "name": "Seralema",
+    "postal_code": "99074"
   },
   {
     "code": "9505012004",
     "district_code": "950501",
-    "name": "Gimbis"
+    "name": "Gimbis",
+    "postal_code": "99074"
   },
   {
     "code": "9505012005",
     "district_code": "950501",
-    "name": "Boroges"
+    "name": "Boroges",
+    "postal_code": "99074"
   },
   {
     "code": "9505012006",
     "district_code": "950501",
-    "name": "Aunduang"
+    "name": "Aunduang",
+    "postal_code": "99074"
   },
   {
     "code": "9505012007",
     "district_code": "950501",
-    "name": "Luarima"
+    "name": "Luarima",
+    "postal_code": "99074"
   },
   {
     "code": "9505012008",
     "district_code": "950501",
-    "name": "Guawage"
+    "name": "Guawage",
+    "postal_code": "99074"
   },
   {
     "code": "9505012009",
     "district_code": "950501",
-    "name": "Moga"
+    "name": "Moga",
+    "postal_code": "99074"
   },
   {
     "code": "9505012010",
     "district_code": "950501",
-    "name": "Keniwa"
+    "name": "Keniwa",
+    "postal_code": "99074"
   },
   {
     "code": "9505012011",
     "district_code": "950501",
-    "name": "Sembegulik"
+    "name": "Sembegulik",
+    "postal_code": "99074"
   },
   {
     "code": "9505012012",
     "district_code": "950501",
-    "name": "Dogle"
+    "name": "Dogle",
+    "postal_code": "99074"
   },
   {
     "code": "9505012013",
     "district_code": "950501",
-    "name": "Wiyugobak"
+    "name": "Wiyugobak",
+    "postal_code": "99074"
   },
   {
     "code": "9505012014",
     "district_code": "950501",
-    "name": "Baliklabuk"
+    "name": "Baliklabuk",
+    "postal_code": "99074"
   },
   {
     "code": "9505012015",
     "district_code": "950501",
-    "name": "Yagalim"
+    "name": "Yagalim",
+    "postal_code": "99074"
   }
 ]

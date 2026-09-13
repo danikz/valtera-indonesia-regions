@@ -2,36 +2,43 @@
   {
     "code": "6303162001",
     "district_code": "630316",
-    "name": "Madurejo"
+    "name": "Madurejo",
+    "postal_code": "70677"
   },
   {
     "code": "6303162002",
     "district_code": "630316",
-    "name": "Baliangin"
+    "name": "Baliangin",
+    "postal_code": "70677"
   },
   {
     "code": "6303162003",
     "district_code": "630316",
-    "name": "Gunung Batu"
+    "name": "Gunung Batu",
+    "postal_code": "70677"
   },
   {
     "code": "6303162004",
     "district_code": "630316",
-    "name": "Batang Banyu"
+    "name": "Batang Banyu",
+    "postal_code": "70677"
   },
   {
     "code": "6303162005",
     "district_code": "630316",
-    "name": "Sungai Lurus"
+    "name": "Sungai Lurus",
+    "postal_code": "70677"
   },
   {
     "code": "6303162006",
     "district_code": "630316",
-    "name": "Batu Tanam"
+    "name": "Batu Tanam",
+    "postal_code": "70677"
   },
   {
     "code": "6303162007",
     "district_code": "630316",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "70677"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "3208042001",
     "district_code": "320804",
-    "name": "Sumberjaya"
+    "name": "Sumberjaya",
+    "postal_code": "45583"
   },
   {
     "code": "3208042002",
     "district_code": "320804",
-    "name": "Cilayung"
+    "name": "Cilayung",
+    "postal_code": "45583"
   },
   {
     "code": "3208042003",
     "district_code": "320804",
-    "name": "Ciwaru"
+    "name": "Ciwaru",
+    "postal_code": "45583"
   },
   {
     "code": "3208042004",
     "district_code": "320804",
-    "name": "Garajati"
+    "name": "Garajati",
+    "postal_code": "45583"
   },
   {
     "code": "3208042005",
     "district_code": "320804",
-    "name": "Baok"
+    "name": "Baok",
+    "postal_code": "45583"
   },
   {
     "code": "3208042006",
     "district_code": "320804",
-    "name": "Andamui"
+    "name": "Andamui",
+    "postal_code": "45583"
   },
   {
     "code": "3208042007",
     "district_code": "320804",
-    "name": "Sagaranten"
+    "name": "Sagaranten",
+    "postal_code": "45583"
   },
   {
     "code": "3208042008",
     "district_code": "320804",
-    "name": "Citundun"
+    "name": "Citundun",
+    "postal_code": "45583"
   },
   {
     "code": "3208042009",
     "district_code": "320804",
-    "name": "Lebakherang"
+    "name": "Lebakherang",
+    "postal_code": "45583"
   },
   {
     "code": "3208042010",
     "district_code": "320804",
-    "name": "Karangbaru"
+    "name": "Karangbaru",
+    "postal_code": "45583"
   },
   {
     "code": "3208042011",
     "district_code": "320804",
-    "name": "Linggajaya"
+    "name": "Linggajaya",
+    "postal_code": "45583"
   },
   {
     "code": "3208042012",
     "district_code": "320804",
-    "name": "Citikur"
+    "name": "Citikur",
+    "postal_code": "45583"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "9201082001",
     "district_code": "920108",
-    "name": "Klawana"
+    "name": "Klawana",
+    "postal_code": ""
   },
   {
     "code": "9201082002",
     "district_code": "920108",
-    "name": "Klamano"
+    "name": "Klamano",
+    "postal_code": ""
   },
   {
     "code": "9201082003",
     "district_code": "920108",
-    "name": "Wariayau"
+    "name": "Wariayau",
+    "postal_code": ""
   },
   {
     "code": "9201082008",
     "district_code": "920108",
-    "name": "Klamono"
+    "name": "Klamono",
+    "postal_code": ""
   },
   {
     "code": "9201082009",
     "district_code": "920108",
-    "name": "Wonosari"
+    "name": "Wonosari",
+    "postal_code": ""
   },
   {
     "code": "9201082010",
     "district_code": "920108",
-    "name": "Gisim Darat"
+    "name": "Gisim Darat",
+    "postal_code": ""
   },
   {
     "code": "9201082013",
     "district_code": "920108",
-    "name": "Mlais"
+    "name": "Mlais",
+    "postal_code": ""
   },
   {
     "code": "9201082020",
     "district_code": "920108",
-    "name": "Mlasmily"
+    "name": "Mlasmily",
+    "postal_code": ""
   },
   {
     "code": "9201082021",
     "district_code": "920108",
-    "name": "Klasafet"
+    "name": "Klasafet",
+    "postal_code": ""
   },
   {
     "code": "9201082022",
     "district_code": "920108",
-    "name": "Posa"
+    "name": "Posa",
+    "postal_code": ""
   }
 ]

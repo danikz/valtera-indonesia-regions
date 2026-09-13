@@ -2,21 +2,25 @@
   {
     "code": "9501392001",
     "district_code": "950139",
-    "name": "Wame"
+    "name": "Wame",
+    "postal_code": "99536"
   },
   {
     "code": "9501392002",
     "district_code": "950139",
-    "name": "Dumapaga"
+    "name": "Dumapaga",
+    "postal_code": "99536"
   },
   {
     "code": "9501392003",
     "district_code": "950139",
-    "name": "Yanenggame"
+    "name": "Yanenggame",
+    "postal_code": "99536"
   },
   {
     "code": "9501392004",
     "district_code": "950139",
-    "name": "Dogoname"
+    "name": "Dogoname",
+    "postal_code": "99536"
   }
 ]

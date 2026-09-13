@@ -2,41 +2,49 @@
   {
     "code": "1375031001",
     "district_code": "137503",
-    "name": "Aur Kuning"
+    "name": "Aur Kuning",
+    "postal_code": "26131"
   },
   {
     "code": "1375031002",
     "district_code": "137503",
-    "name": "Birugo"
+    "name": "Birugo",
+    "postal_code": "26138"
   },
   {
     "code": "1375031003",
     "district_code": "137503",
-    "name": "Belakang Balok"
+    "name": "Belakang Balok",
+    "postal_code": "26136"
   },
   {
     "code": "1375031004",
     "district_code": "137503",
-    "name": "Sapiran"
+    "name": "Sapiran",
+    "postal_code": "26137"
   },
   {
     "code": "1375031005",
     "district_code": "137503",
-    "name": "Kubu Tanjung"
+    "name": "Kubu Tanjung",
+    "postal_code": "26133"
   },
   {
     "code": "1375031006",
     "district_code": "137503",
-    "name": "Pakan Labuh"
+    "name": "Pakan Labuh",
+    "postal_code": "26134"
   },
   {
     "code": "1375031007",
     "district_code": "137503",
-    "name": "Parit Rantang"
+    "name": "Parit Rantang",
+    "postal_code": "26132"
   },
   {
     "code": "1375031008",
     "district_code": "137503",
-    "name": "Ladang Cakiah"
+    "name": "Ladang Cakiah",
+    "postal_code": "26135"
   }
 ]

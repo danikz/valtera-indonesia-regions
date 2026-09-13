@@ -2,31 +2,37 @@
   {
     "code": "3276061001",
     "district_code": "327606",
-    "name": "Beji"
+    "name": "Beji",
+    "postal_code": "16421"
   },
   {
     "code": "3276061002",
     "district_code": "327606",
-    "name": "Kukusan"
+    "name": "Kukusan",
+    "postal_code": "16425"
   },
   {
     "code": "3276061003",
     "district_code": "327606",
-    "name": "Tanah Baru"
+    "name": "Tanah Baru",
+    "postal_code": "16426"
   },
   {
     "code": "3276061004",
     "district_code": "327606",
-    "name": "Kemiri Muka"
+    "name": "Kemiri Muka",
+    "postal_code": "16423"
   },
   {
     "code": "3276061005",
     "district_code": "327606",
-    "name": "Pondok Cina"
+    "name": "Pondok Cina",
+    "postal_code": "16424"
   },
   {
     "code": "3276061006",
     "district_code": "327606",
-    "name": "Beji Timur"
+    "name": "Beji Timur",
+    "postal_code": "16422"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "9508132001",
     "district_code": "950813",
-    "name": "Yenggelo"
+    "name": "Yenggelo",
+    "postal_code": "99918"
   },
   {
     "code": "9508132002",
     "district_code": "950813",
-    "name": "Maima"
+    "name": "Maima",
+    "postal_code": "99918"
   },
   {
     "code": "9508132003",
     "district_code": "950813",
-    "name": "Nolo"
+    "name": "Nolo",
+    "postal_code": "99918"
   },
   {
     "code": "9508132004",
     "district_code": "950813",
-    "name": "Wuarem"
+    "name": "Wuarem",
+    "postal_code": "99918"
   }
 ]

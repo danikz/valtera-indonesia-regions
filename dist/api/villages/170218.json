@@ -2,56 +2,67 @@
   {
     "code": "1702181001",
     "district_code": "170218",
-    "name": "Air Putih Baru"
+    "name": "Air Putih Baru",
+    "postal_code": "39112"
   },
   {
     "code": "1702181002",
     "district_code": "170218",
-    "name": "Tempel Rejo"
+    "name": "Tempel Rejo",
+    "postal_code": "39124"
   },
   {
     "code": "1702182003",
     "district_code": "170218",
-    "name": "Rimbo Recap"
+    "name": "Rimbo Recap",
+    "postal_code": "39125"
   },
   {
     "code": "1702182004",
     "district_code": "170218",
-    "name": "Watas Marga"
+    "name": "Watas Marga",
+    "postal_code": "39125"
   },
   {
     "code": "1702182005",
     "district_code": "170218",
-    "name": "Teladan"
+    "name": "Teladan",
+    "postal_code": "39125"
   },
   {
     "code": "1702182006",
     "district_code": "170218",
-    "name": "Suka Marga"
+    "name": "Suka Marga",
+    "postal_code": "39125"
   },
   {
     "code": "1702182007",
     "district_code": "170218",
-    "name": "Lubuk Ubar"
+    "name": "Lubuk Ubar",
+    "postal_code": "39125"
   },
   {
     "code": "1702182008",
     "district_code": "170218",
-    "name": "Pungguk Lalang"
+    "name": "Pungguk Lalang",
+    "postal_code": "39125"
   },
   {
     "code": "1702182009",
     "district_code": "170218",
-    "name": "Turan Baru"
+    "name": "Turan Baru",
+    "postal_code": "39125"
   },
   {
     "code": "1702182010",
     "district_code": "170218",
-    "name": "Tanjung Dalam"
+    "name": "Tanjung Dalam",
+    "postal_code": "39125"
   },
   {
     "code": "1702182011",
     "district_code": "170218",
-    "name": "Air Lanang"
+    "name": "Air Lanang",
+    "postal_code": "39125"
   }
 ]

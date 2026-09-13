@@ -2,26 +2,31 @@
   {
     "code": "2104031001",
     "district_code": "210403",
-    "name": "Senayang"
+    "name": "Senayang",
+    "postal_code": "29873"
   },
   {
     "code": "2104032002",
     "district_code": "210403",
-    "name": "Mamut"
+    "name": "Mamut",
+    "postal_code": "29873"
   },
   {
     "code": "2104032012",
     "district_code": "210403",
-    "name": "Laboh"
+    "name": "Laboh",
+    "postal_code": "29873"
   },
   {
     "code": "2104032013",
     "district_code": "210403",
-    "name": "Penaah"
+    "name": "Penaah",
+    "postal_code": "29873"
   },
   {
     "code": "2104032015",
     "district_code": "210403",
-    "name": "Baran"
+    "name": "Baran",
+    "postal_code": "29873"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3403132001",
     "district_code": "340313",
-    "name": "Tancep"
+    "name": "Tancep",
+    "postal_code": "55853"
   },
   {
     "code": "3403132002",
     "district_code": "340313",
-    "name": "Sambirejo"
+    "name": "Sambirejo",
+    "postal_code": "55853"
   },
   {
     "code": "3403132003",
     "district_code": "340313",
-    "name": "Jurangjero"
+    "name": "Jurangjero",
+    "postal_code": "55853"
   },
   {
     "code": "3403132004",
     "district_code": "340313",
-    "name": "Kampung"
+    "name": "Kampung",
+    "postal_code": "55853"
   },
   {
     "code": "3403132005",
     "district_code": "340313",
-    "name": "Beji"
+    "name": "Beji",
+    "postal_code": "55853"
   },
   {
     "code": "3403132006",
     "district_code": "340313",
-    "name": "Watusigar"
+    "name": "Watusigar",
+    "postal_code": "55853"
   }
 ]

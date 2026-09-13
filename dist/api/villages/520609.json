@@ -2,31 +2,37 @@
   {
     "code": "5206092001",
     "district_code": "520609",
-    "name": "Piong"
+    "name": "Piong",
+    "postal_code": "84191"
   },
   {
     "code": "5206092002",
     "district_code": "520609",
-    "name": "Boro"
+    "name": "Boro",
+    "postal_code": "84191"
   },
   {
     "code": "5206092003",
     "district_code": "520609",
-    "name": "Kore"
+    "name": "Kore",
+    "postal_code": "84191"
   },
   {
     "code": "5206092004",
     "district_code": "520609",
-    "name": "Taloko"
+    "name": "Taloko",
+    "postal_code": "84191"
   },
   {
     "code": "5206092005",
     "district_code": "520609",
-    "name": "Oi Saro"
+    "name": "Oi Saro",
+    "postal_code": "84191"
   },
   {
     "code": "5206092006",
     "district_code": "520609",
-    "name": "Sandue"
+    "name": "Sandue",
+    "postal_code": "84191"
   }
 ]

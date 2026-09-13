@@ -2,61 +2,73 @@
   {
     "code": "3507251005",
     "district_code": "350725",
-    "name": "Kalirejo"
+    "name": "Kalirejo",
+    "postal_code": "65216"
   },
   {
     "code": "3507251010",
     "district_code": "350725",
-    "name": "Lawang"
+    "name": "Lawang",
+    "postal_code": "65211"
   },
   {
     "code": "3507252001",
     "district_code": "350725",
-    "name": "Sidoluhur"
+    "name": "Sidoluhur",
+    "postal_code": "65216"
   },
   {
     "code": "3507252002",
     "district_code": "350725",
-    "name": "Srigading"
+    "name": "Srigading",
+    "postal_code": "65216"
   },
   {
     "code": "3507252003",
     "district_code": "350725",
-    "name": "Sidodadi"
+    "name": "Sidodadi",
+    "postal_code": "65216"
   },
   {
     "code": "3507252004",
     "district_code": "350725",
-    "name": "Bedali"
+    "name": "Bedali",
+    "postal_code": "65215"
   },
   {
     "code": "3507252006",
     "district_code": "350725",
-    "name": "Mulyoarjo"
+    "name": "Mulyoarjo",
+    "postal_code": "65216"
   },
   {
     "code": "3507252007",
     "district_code": "350725",
-    "name": "Sumberngepoh"
+    "name": "Sumberngepoh",
+    "postal_code": "65216"
   },
   {
     "code": "3507252008",
     "district_code": "350725",
-    "name": "Sumberporong"
+    "name": "Sumberporong",
+    "postal_code": "65216"
   },
   {
     "code": "3507252009",
     "district_code": "350725",
-    "name": "Turirejo"
+    "name": "Turirejo",
+    "postal_code": "65213"
   },
   {
     "code": "3507252011",
     "district_code": "350725",
-    "name": "Ketindan"
+    "name": "Ketindan",
+    "postal_code": "65214"
   },
   {
     "code": "3507252012",
     "district_code": "350725",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "65216"
   }
 ]

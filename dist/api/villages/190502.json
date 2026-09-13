@@ -2,66 +2,79 @@
   {
     "code": "1905022001",
     "district_code": "190502",
-    "name": "Pelangas"
+    "name": "Pelangas",
+    "postal_code": "33366"
   },
   {
     "code": "1905022002",
     "district_code": "190502",
-    "name": "Kundi"
+    "name": "Kundi",
+    "postal_code": "33366"
   },
   {
     "code": "1905022003",
     "district_code": "190502",
-    "name": "Mayang"
+    "name": "Mayang",
+    "postal_code": "33366"
   },
   {
     "code": "1905022004",
     "district_code": "190502",
-    "name": "Peradong"
+    "name": "Peradong",
+    "postal_code": "33366"
   },
   {
     "code": "1905022005",
     "district_code": "190502",
-    "name": "Air Nyatoh"
+    "name": "Air Nyatoh",
+    "postal_code": "33366"
   },
   {
     "code": "1905022006",
     "district_code": "190502",
-    "name": "Berang"
+    "name": "Berang",
+    "postal_code": "33366"
   },
   {
     "code": "1905022007",
     "district_code": "190502",
-    "name": "Rambat"
+    "name": "Rambat",
+    "postal_code": "33366"
   },
   {
     "code": "1905022008",
     "district_code": "190502",
-    "name": "Simpang Gong"
+    "name": "Simpang Gong",
+    "postal_code": "33366"
   },
   {
     "code": "1905022009",
     "district_code": "190502",
-    "name": "Simpang Tiga"
+    "name": "Simpang Tiga",
+    "postal_code": "33366"
   },
   {
     "code": "1905022010",
     "district_code": "190502",
-    "name": "Ibul"
+    "name": "Ibul",
+    "postal_code": "33366"
   },
   {
     "code": "1905022011",
     "district_code": "190502",
-    "name": "Pangek"
+    "name": "Pangek",
+    "postal_code": "33366"
   },
   {
     "code": "1905022012",
     "district_code": "190502",
-    "name": "Bukit Terak"
+    "name": "Bukit Terak",
+    "postal_code": "33366"
   },
   {
     "code": "1905022013",
     "district_code": "190502",
-    "name": "Air Menduyung"
+    "name": "Air Menduyung",
+    "postal_code": "33366"
   }
 ]

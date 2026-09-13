@@ -2,46 +2,55 @@
   {
     "code": "3510062001",
     "district_code": "351006",
-    "name": "Plampangrejo"
+    "name": "Plampangrejo",
+    "postal_code": "68482"
   },
   {
     "code": "3510062002",
     "district_code": "351006",
-    "name": "Tampo"
+    "name": "Tampo",
+    "postal_code": "68482"
   },
   {
     "code": "3510062003",
     "district_code": "351006",
-    "name": "Sembulung"
+    "name": "Sembulung",
+    "postal_code": "68482"
   },
   {
     "code": "3510062004",
     "district_code": "351006",
-    "name": "Cluring"
+    "name": "Cluring",
+    "postal_code": "68482"
   },
   {
     "code": "3510062005",
     "district_code": "351006",
-    "name": "Benculuk"
+    "name": "Benculuk",
+    "postal_code": "68482"
   },
   {
     "code": "3510062006",
     "district_code": "351006",
-    "name": "Sraten"
+    "name": "Sraten",
+    "postal_code": "68482"
   },
   {
     "code": "3510062007",
     "district_code": "351006",
-    "name": "Tamanagung"
+    "name": "Tamanagung",
+    "postal_code": "68482"
   },
   {
     "code": "3510062008",
     "district_code": "351006",
-    "name": "Sarimulyo"
+    "name": "Sarimulyo",
+    "postal_code": "68482"
   },
   {
     "code": "3510062009",
     "district_code": "351006",
-    "name": "Kaliploso"
+    "name": "Kaliploso",
+    "postal_code": "68482"
   }
 ]

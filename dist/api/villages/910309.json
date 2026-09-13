@@ -2,31 +2,37 @@
   {
     "code": "9103092001",
     "district_code": "910309",
-    "name": "Beneik"
+    "name": "Beneik",
+    "postal_code": "99356"
   },
   {
     "code": "9103092002",
     "district_code": "910309",
-    "name": "Ganusa"
+    "name": "Ganusa",
+    "postal_code": "99356"
   },
   {
     "code": "9103092003",
     "district_code": "910309",
-    "name": "Guryard"
+    "name": "Guryard",
+    "postal_code": "99356"
   },
   {
     "code": "9103092004",
     "district_code": "910309",
-    "name": "Santosa"
+    "name": "Santosa",
+    "postal_code": "99356"
   },
   {
     "code": "9103092005",
     "district_code": "910309",
-    "name": "Sawa Suma"
+    "name": "Sawa Suma",
+    "postal_code": "99356"
   },
   {
     "code": "9103092006",
     "district_code": "910309",
-    "name": "Nandaizi"
+    "name": "Nandaizi",
+    "postal_code": "99356"
   }
 ]

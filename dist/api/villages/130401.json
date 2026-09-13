@@ -2,46 +2,55 @@
   {
     "code": "1304012001",
     "district_code": "130401",
-    "name": "Tambangan"
+    "name": "Tambangan",
+    "postal_code": "27151"
   },
   {
     "code": "1304012002",
     "district_code": "130401",
-    "name": "Jaho"
+    "name": "Jaho",
+    "postal_code": "27151"
   },
   {
     "code": "1304012003",
     "district_code": "130401",
-    "name": "Singgalang"
+    "name": "Singgalang",
+    "postal_code": "27151"
   },
   {
     "code": "1304012004",
     "district_code": "130401",
-    "name": "Paninjauan"
+    "name": "Paninjauan",
+    "postal_code": "27151"
   },
   {
     "code": "1304012005",
     "district_code": "130401",
-    "name": "Panyalaian"
+    "name": "Panyalaian",
+    "postal_code": "27151"
   },
   {
     "code": "1304012006",
     "district_code": "130401",
-    "name": "Koto Laweh"
+    "name": "Koto Laweh",
+    "postal_code": "27151"
   },
   {
     "code": "1304012007",
     "district_code": "130401",
-    "name": "Aie Angek"
+    "name": "Aie Angek",
+    "postal_code": "27151"
   },
   {
     "code": "1304012008",
     "district_code": "130401",
-    "name": "Pandai Sikek"
+    "name": "Pandai Sikek",
+    "postal_code": "27151"
   },
   {
     "code": "1304012009",
     "district_code": "130401",
-    "name": "Koto Baru"
+    "name": "Koto Baru",
+    "postal_code": "27151"
   }
 ]

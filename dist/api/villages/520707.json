@@ -2,31 +2,37 @@
   {
     "code": "5207072001",
     "district_code": "520707",
-    "name": "Mura"
+    "name": "Mura",
+    "postal_code": "84455"
   },
   {
     "code": "5207072002",
     "district_code": "520707",
-    "name": "Kalimantong"
+    "name": "Kalimantong",
+    "postal_code": "84455"
   },
   {
     "code": "5207072003",
     "district_code": "520707",
-    "name": "Lampok"
+    "name": "Lampok",
+    "postal_code": "84455"
   },
   {
     "code": "5207072004",
     "district_code": "520707",
-    "name": "Manemeng"
+    "name": "Manemeng",
+    "postal_code": "84455"
   },
   {
     "code": "5207072005",
     "district_code": "520707",
-    "name": "Mujahiddin"
+    "name": "Mujahiddin",
+    "postal_code": "84455"
   },
   {
     "code": "5207072006",
     "district_code": "520707",
-    "name": "Mataiyang"
+    "name": "Mataiyang",
+    "postal_code": "84455"
   }
 ]

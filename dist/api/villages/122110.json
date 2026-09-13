@@ -2,56 +2,67 @@
   {
     "code": "1221102001",
     "district_code": "122110",
-    "name": "Batang Bulu Lama"
+    "name": "Batang Bulu Lama",
+    "postal_code": "22764"
   },
   {
     "code": "1221102002",
     "district_code": "122110",
-    "name": "Pagur Satio"
+    "name": "Pagur Satio",
+    "postal_code": "22764"
   },
   {
     "code": "1221102003",
     "district_code": "122110",
-    "name": "Batang Bulu Baru"
+    "name": "Batang Bulu Baru",
+    "postal_code": "22764"
   },
   {
     "code": "1221102004",
     "district_code": "122110",
-    "name": "Gunung Intan"
+    "name": "Gunung Intan",
+    "postal_code": "22764"
   },
   {
     "code": "1221102005",
     "district_code": "122110",
-    "name": "Tanjung Purba Tua"
+    "name": "Tanjung Purba Tua",
+    "postal_code": "22764"
   },
   {
     "code": "1221102006",
     "district_code": "122110",
-    "name": "Banua Tonga"
+    "name": "Banua Tonga",
+    "postal_code": "22764"
   },
   {
     "code": "1221102007",
     "district_code": "122110",
-    "name": "Gunung Barani"
+    "name": "Gunung Barani",
+    "postal_code": "22764"
   },
   {
     "code": "1221102008",
     "district_code": "122110",
-    "name": "Tanjung Baringin Simarulak"
+    "name": "Tanjung Baringin Simarulak",
+    "postal_code": "22764"
   },
   {
     "code": "1221102009",
     "district_code": "122110",
-    "name": "Sayur Mahincat"
+    "name": "Sayur Mahincat",
+    "postal_code": "22764"
   },
   {
     "code": "1221102010",
     "district_code": "122110",
-    "name": "Sidomulio"
+    "name": "Sidomulio",
+    "postal_code": "22764"
   },
   {
     "code": "1221102011",
     "district_code": "122110",
-    "name": "Panarian"
+    "name": "Panarian",
+    "postal_code": "22764"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "7306182001",
     "district_code": "730618",
-    "name": "Borimatangkasa"
+    "name": "Borimatangkasa",
+    "postal_code": "92151"
   },
   {
     "code": "7306182002",
     "district_code": "730618",
-    "name": "Mandalle"
+    "name": "Mandalle",
+    "postal_code": "92151"
   },
   {
     "code": "7306182003",
     "district_code": "730618",
-    "name": "Manjalling"
+    "name": "Manjalling",
+    "postal_code": "92151"
   },
   {
     "code": "7306182004",
     "district_code": "730618",
-    "name": "Gentungang"
+    "name": "Gentungang",
+    "postal_code": "92151"
   },
   {
     "code": "7306182005",
     "district_code": "730618",
-    "name": "Tanabangka"
+    "name": "Tanabangka",
+    "postal_code": "92151"
   },
   {
     "code": "7306182006",
     "district_code": "730618",
-    "name": "Kalemandalle"
+    "name": "Kalemandalle",
+    "postal_code": "92151"
   },
   {
     "code": "7306182007",
     "district_code": "730618",
-    "name": "Bontomanai"
+    "name": "Bontomanai",
+    "postal_code": "92151"
   }
 ]

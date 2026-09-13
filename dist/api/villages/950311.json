@@ -2,66 +2,79 @@
   {
     "code": "9503112001",
     "district_code": "950311",
-    "name": "Amuma"
+    "name": "Amuma",
+    "postal_code": "99701"
   },
   {
     "code": "9503112002",
     "district_code": "950311",
-    "name": "Sarmuge"
+    "name": "Sarmuge",
+    "postal_code": "99701"
   },
   {
     "code": "9503112003",
     "district_code": "950311",
-    "name": "Tolikapura"
+    "name": "Tolikapura",
+    "postal_code": "99701"
   },
   {
     "code": "9503112004",
     "district_code": "950311",
-    "name": "Wisikma"
+    "name": "Wisikma",
+    "postal_code": "99701"
   },
   {
     "code": "9503112005",
     "district_code": "950311",
-    "name": "Silorin"
+    "name": "Silorin",
+    "postal_code": "99701"
   },
   {
     "code": "9503112006",
     "district_code": "950311",
-    "name": "Waeklek"
+    "name": "Waeklek",
+    "postal_code": "99701"
   },
   {
     "code": "9503112007",
     "district_code": "950311",
-    "name": "Balum Erang"
+    "name": "Balum Erang",
+    "postal_code": "99701"
   },
   {
     "code": "9503112008",
     "district_code": "950311",
-    "name": "Golowen"
+    "name": "Golowen",
+    "postal_code": "99701"
   },
   {
     "code": "9503112009",
     "district_code": "950311",
-    "name": "Orugai"
+    "name": "Orugai",
+    "postal_code": "99701"
   },
   {
     "code": "9503112010",
     "district_code": "950311",
-    "name": "Plau"
+    "name": "Plau",
+    "postal_code": "99701"
   },
   {
     "code": "9503112011",
     "district_code": "950311",
-    "name": "Sagasal"
+    "name": "Sagasal",
+    "postal_code": "99701"
   },
   {
     "code": "9503112012",
     "district_code": "950311",
-    "name": "Kinika"
+    "name": "Kinika",
+    "postal_code": "99701"
   },
   {
     "code": "9503112013",
     "district_code": "950311",
-    "name": "Harapan"
+    "name": "Harapan",
+    "postal_code": "99701"
   }
 ]

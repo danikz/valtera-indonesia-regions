@@ -2,46 +2,55 @@
   {
     "code": "9201122001",
     "district_code": "920112",
-    "name": "Segun"
+    "name": "Segun",
+    "postal_code": ""
   },
   {
     "code": "9201122002",
     "district_code": "920112",
-    "name": "Gisim"
+    "name": "Gisim",
+    "postal_code": ""
   },
   {
     "code": "9201122003",
     "district_code": "920112",
-    "name": "Waimon"
+    "name": "Waimon",
+    "postal_code": ""
   },
   {
     "code": "9201122004",
     "district_code": "920112",
-    "name": "Klasegun"
+    "name": "Klasegun",
+    "postal_code": ""
   },
   {
     "code": "9201122005",
     "district_code": "920112",
-    "name": "Waimlabat"
+    "name": "Waimlabat",
+    "postal_code": ""
   },
   {
     "code": "9201122006",
     "district_code": "920112",
-    "name": "Majemau"
+    "name": "Majemau",
+    "postal_code": ""
   },
   {
     "code": "9201122008",
     "district_code": "920112",
-    "name": "Klasin"
+    "name": "Klasin",
+    "postal_code": ""
   },
   {
     "code": "9201122009",
     "district_code": "920112",
-    "name": "Klajaring"
+    "name": "Klajaring",
+    "postal_code": ""
   },
   {
     "code": "9201122010",
     "district_code": "920112",
-    "name": "Malamas"
+    "name": "Malamas",
+    "postal_code": ""
   }
 ]

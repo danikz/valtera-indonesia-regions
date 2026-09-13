@@ -2,51 +2,61 @@
   {
     "code": "9209092007",
     "district_code": "920909",
-    "name": "Injai"
+    "name": "Injai",
+    "postal_code": ""
   },
   {
     "code": "9209092015",
     "district_code": "920909",
-    "name": "Apoki"
+    "name": "Apoki",
+    "postal_code": ""
   },
   {
     "code": "9209092016",
     "district_code": "920909",
-    "name": "Matatun"
+    "name": "Matatun",
+    "postal_code": ""
   },
   {
     "code": "9209092017",
     "district_code": "920909",
-    "name": "Jafai"
+    "name": "Jafai",
+    "postal_code": ""
   },
   {
     "code": "9209092018",
     "district_code": "920909",
-    "name": "Jambuani"
+    "name": "Jambuani",
+    "postal_code": ""
   },
   {
     "code": "9209092019",
     "district_code": "920909",
-    "name": "Manaria"
+    "name": "Manaria",
+    "postal_code": ""
   },
   {
     "code": "9209092022",
     "district_code": "920909",
-    "name": "Anarum"
+    "name": "Anarum",
+    "postal_code": ""
   },
   {
     "code": "9209092027",
     "district_code": "920909",
-    "name": "Wasanggon"
+    "name": "Wasanggon",
+    "postal_code": ""
   },
   {
     "code": "9209092028",
     "district_code": "920909",
-    "name": "Wabanek"
+    "name": "Wabanek",
+    "postal_code": ""
   },
   {
     "code": "9209092029",
     "district_code": "920909",
-    "name": "Pubuan"
+    "name": "Pubuan",
+    "postal_code": ""
   }
 ]

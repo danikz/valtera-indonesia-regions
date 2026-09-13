@@ -2,46 +2,55 @@
   {
     "code": "9205112001",
     "district_code": "920511",
-    "name": "Yenbekwan"
+    "name": "Yenbekwan",
+    "postal_code": ""
   },
   {
     "code": "9205112002",
     "district_code": "920511",
-    "name": "Kapisawar"
+    "name": "Kapisawar",
+    "postal_code": ""
   },
   {
     "code": "9205112003",
     "district_code": "920511",
-    "name": "Sawinggrai"
+    "name": "Sawinggrai",
+    "postal_code": ""
   },
   {
     "code": "9205112004",
     "district_code": "920511",
-    "name": "Yenwaupnor"
+    "name": "Yenwaupnor",
+    "postal_code": ""
   },
   {
     "code": "9205112005",
     "district_code": "920511",
-    "name": "Arborek"
+    "name": "Arborek",
+    "postal_code": ""
   },
   {
     "code": "9205112006",
     "district_code": "920511",
-    "name": "Yenbuba"
+    "name": "Yenbuba",
+    "postal_code": ""
   },
   {
     "code": "9205112007",
     "district_code": "920511",
-    "name": "Kabuy"
+    "name": "Kabuy",
+    "postal_code": ""
   },
   {
     "code": "9205112008",
     "district_code": "920511",
-    "name": "Kurkapa"
+    "name": "Kurkapa",
+    "postal_code": ""
   },
   {
     "code": "9205112009",
     "district_code": "920511",
-    "name": "Sawandarek"
+    "name": "Sawandarek",
+    "postal_code": ""
   }
 ]

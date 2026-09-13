@@ -2,66 +2,79 @@
   {
     "code": "7204012001",
     "district_code": "720401",
-    "name": "Kombo"
+    "name": "Kombo",
+    "postal_code": "94554"
   },
   {
     "code": "7204012002",
     "district_code": "720401",
-    "name": "Tampiala"
+    "name": "Tampiala",
+    "postal_code": "94554"
   },
   {
     "code": "7204012003",
     "district_code": "720401",
-    "name": "Soni"
+    "name": "Soni",
+    "postal_code": "94554"
   },
   {
     "code": "7204012004",
     "district_code": "720401",
-    "name": "Bangkir"
+    "name": "Bangkir",
+    "postal_code": "94554"
   },
   {
     "code": "7204012005",
     "district_code": "720401",
-    "name": "Dongko"
+    "name": "Dongko",
+    "postal_code": "94554"
   },
   {
     "code": "7204012006",
     "district_code": "720401",
-    "name": "Mimbala"
+    "name": "Mimbala",
+    "postal_code": "94554"
   },
   {
     "code": "7204012007",
     "district_code": "720401",
-    "name": "Lempe"
+    "name": "Lempe",
+    "postal_code": "94554"
   },
   {
     "code": "7204012008",
     "district_code": "720401",
-    "name": "Paddumpu"
+    "name": "Paddumpu",
+    "postal_code": "94554"
   },
   {
     "code": "7204012009",
     "district_code": "720401",
-    "name": "Abbajareng"
+    "name": "Abbajareng",
+    "postal_code": "94554"
   },
   {
     "code": "7204012010",
     "district_code": "720401",
-    "name": "Puse"
+    "name": "Puse",
+    "postal_code": "94554"
   },
   {
     "code": "7204012011",
     "district_code": "720401",
-    "name": "Pallakawe"
+    "name": "Pallakawe",
+    "postal_code": "94554"
   },
   {
     "code": "7204012012",
     "district_code": "720401",
-    "name": "Simuntu"
+    "name": "Simuntu",
+    "postal_code": "94554"
   },
   {
     "code": "7204012013",
     "district_code": "720401",
-    "name": "Lemba Harapan"
+    "name": "Lemba Harapan",
+    "postal_code": "94554"
   }
 ]

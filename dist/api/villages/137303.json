@@ -2,26 +2,31 @@
   {
     "code": "1373032001",
     "district_code": "137303",
-    "name": "Silungkang Duo"
+    "name": "Silungkang Duo",
+    "postal_code": "27432"
   },
   {
     "code": "1373032002",
     "district_code": "137303",
-    "name": "Silungkang Oso"
+    "name": "Silungkang Oso",
+    "postal_code": "27433"
   },
   {
     "code": "1373032003",
     "district_code": "137303",
-    "name": "Silungkang Tigo"
+    "name": "Silungkang Tigo",
+    "postal_code": "27431"
   },
   {
     "code": "1373032004",
     "district_code": "137303",
-    "name": "Muaro Kalaban"
+    "name": "Muaro Kalaban",
+    "postal_code": "27435"
   },
   {
     "code": "1373032005",
     "district_code": "137303",
-    "name": "Taratak Boncah"
+    "name": "Taratak Boncah",
+    "postal_code": "27434"
   }
 ]

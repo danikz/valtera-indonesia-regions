@@ -2,51 +2,61 @@
   {
     "code": "3529202001",
     "district_code": "352920",
-    "name": "Pancor"
+    "name": "Pancor",
+    "postal_code": "69483"
   },
   {
     "code": "3529202002",
     "district_code": "352920",
-    "name": "Prambanan"
+    "name": "Prambanan",
+    "postal_code": "69483"
   },
   {
     "code": "3529202003",
     "district_code": "352920",
-    "name": "Gendang Timur"
+    "name": "Gendang Timur",
+    "postal_code": "69483"
   },
   {
     "code": "3529202004",
     "district_code": "352920",
-    "name": "Karang Tengah"
+    "name": "Karang Tengah",
+    "postal_code": "69483"
   },
   {
     "code": "3529202005",
     "district_code": "352920",
-    "name": "Jambuir"
+    "name": "Jambuir",
+    "postal_code": "69483"
   },
   {
     "code": "3529202006",
     "district_code": "352920",
-    "name": "Gayam"
+    "name": "Gayam",
+    "postal_code": "69483"
   },
   {
     "code": "3529202007",
     "district_code": "352920",
-    "name": "Kalowang"
+    "name": "Kalowang",
+    "postal_code": "69483"
   },
   {
     "code": "3529202008",
     "district_code": "352920",
-    "name": "Nyamplong"
+    "name": "Nyamplong",
+    "postal_code": "69483"
   },
   {
     "code": "3529202009",
     "district_code": "352920",
-    "name": "Gendang Barat"
+    "name": "Gendang Barat",
+    "postal_code": "69483"
   },
   {
     "code": "3529202010",
     "district_code": "352920",
-    "name": "Tarebung"
+    "name": "Tarebung",
+    "postal_code": "69483"
   }
 ]

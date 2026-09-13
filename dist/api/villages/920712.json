@@ -2,26 +2,31 @@
   {
     "code": "9207122001",
     "district_code": "920712",
-    "name": "Werabur"
+    "name": "Werabur",
+    "postal_code": "98331"
   },
   {
     "code": "9207122002",
     "district_code": "920712",
-    "name": "Mamisi"
+    "name": "Mamisi",
+    "postal_code": "98331"
   },
   {
     "code": "9207122003",
     "district_code": "920712",
-    "name": "Werianggi"
+    "name": "Werianggi",
+    "postal_code": "98331"
   },
   {
     "code": "9207122004",
     "district_code": "920712",
-    "name": "Kurei"
+    "name": "Kurei",
+    "postal_code": "98331"
   },
   {
     "code": "9207122005",
     "district_code": "920712",
-    "name": "Tamoge"
+    "name": "Tamoge",
+    "postal_code": "98331"
   }
 ]

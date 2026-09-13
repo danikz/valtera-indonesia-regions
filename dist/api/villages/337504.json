@@ -2,31 +2,37 @@
   {
     "code": "3375041002",
     "district_code": "337504",
-    "name": "Banyurip"
+    "name": "Banyurip",
+    "postal_code": "51139"
   },
   {
     "code": "3375041003",
     "district_code": "337504",
-    "name": "Buaran Kradenan"
+    "name": "Buaran Kradenan",
+    "postal_code": "51132"
   },
   {
     "code": "3375041004",
     "district_code": "337504",
-    "name": "Jenggot"
+    "name": "Jenggot",
+    "postal_code": "51133"
   },
   {
     "code": "3375041006",
     "district_code": "337504",
-    "name": "Kuripan Kertoharjo"
+    "name": "Kuripan Kertoharjo",
+    "postal_code": "51134"
   },
   {
     "code": "3375041008",
     "district_code": "337504",
-    "name": "Kuripan Yosorejo"
+    "name": "Kuripan Yosorejo",
+    "postal_code": "51135"
   },
   {
     "code": "3375041010",
     "district_code": "337504",
-    "name": "Sokoduwet"
+    "name": "Sokoduwet",
+    "postal_code": "51138"
   }
 ]

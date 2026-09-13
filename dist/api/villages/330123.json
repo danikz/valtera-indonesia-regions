@@ -2,26 +2,31 @@
   {
     "code": "3301231001",
     "district_code": "330123",
-    "name": "Mertasinga"
+    "name": "Mertasinga",
+    "postal_code": "53232"
   },
   {
     "code": "3301231002",
     "district_code": "330123",
-    "name": "Gumilir"
+    "name": "Gumilir",
+    "postal_code": "53231"
   },
   {
     "code": "3301231003",
     "district_code": "330123",
-    "name": "Karangtalun"
+    "name": "Karangtalun",
+    "postal_code": "53234"
   },
   {
     "code": "3301231004",
     "district_code": "330123",
-    "name": "Tritih Kulon"
+    "name": "Tritih Kulon",
+    "postal_code": "53233"
   },
   {
     "code": "3301231005",
     "district_code": "330123",
-    "name": "Kebonmanis"
+    "name": "Kebonmanis",
+    "postal_code": "53235"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "5105042001",
     "district_code": "510504",
-    "name": "Paksebali"
+    "name": "Paksebali",
+    "postal_code": "80761"
   },
   {
     "code": "5105042002",
     "district_code": "510504",
-    "name": "Sampalan Tengah"
+    "name": "Sampalan Tengah",
+    "postal_code": "80761"
   },
   {
     "code": "5105042003",
     "district_code": "510504",
-    "name": "Sampalan Kelod"
+    "name": "Sampalan Kelod",
+    "postal_code": "80761"
   },
   {
     "code": "5105042004",
     "district_code": "510504",
-    "name": "Sulang"
+    "name": "Sulang",
+    "postal_code": "80761"
   },
   {
     "code": "5105042005",
     "district_code": "510504",
-    "name": "Gunaksa"
+    "name": "Gunaksa",
+    "postal_code": "80761"
   },
   {
     "code": "5105042006",
     "district_code": "510504",
-    "name": "Kusamba"
+    "name": "Kusamba",
+    "postal_code": "80761"
   },
   {
     "code": "5105042007",
     "district_code": "510504",
-    "name": "Kampung Kusamba"
+    "name": "Kampung Kusamba",
+    "postal_code": "80761"
   },
   {
     "code": "5105042008",
     "district_code": "510504",
-    "name": "Pesinggahan"
+    "name": "Pesinggahan",
+    "postal_code": "80761"
   },
   {
     "code": "5105042009",
     "district_code": "510504",
-    "name": "Dawan Kelod"
+    "name": "Dawan Kelod",
+    "postal_code": "80761"
   },
   {
     "code": "5105042010",
     "district_code": "510504",
-    "name": "Pikat"
+    "name": "Pikat",
+    "postal_code": "80761"
   },
   {
     "code": "5105042011",
     "district_code": "510504",
-    "name": "Dawan Kaler"
+    "name": "Dawan Kaler",
+    "postal_code": "80761"
   },
   {
     "code": "5105042012",
     "district_code": "510504",
-    "name": "Besan"
+    "name": "Besan",
+    "postal_code": "80761"
   }
 ]

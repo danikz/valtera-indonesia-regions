@@ -2,56 +2,67 @@
   {
     "code": "1610102001",
     "district_code": "161010",
-    "name": "Suka Merindu"
+    "name": "Suka Merindu",
+    "postal_code": "30653"
   },
   {
     "code": "1610102002",
     "district_code": "161010",
-    "name": "Sarang Elang"
+    "name": "Sarang Elang",
+    "postal_code": "30653"
   },
   {
     "code": "1610102003",
     "district_code": "161010",
-    "name": "Kamal"
+    "name": "Kamal",
+    "postal_code": "30653"
   },
   {
     "code": "1610102004",
     "district_code": "161010",
-    "name": "Pulau Negara"
+    "name": "Pulau Negara",
+    "postal_code": "30653"
   },
   {
     "code": "1610102005",
     "district_code": "161010",
-    "name": "Talang Pangeran Ulu"
+    "name": "Talang Pangeran Ulu",
+    "postal_code": "30653"
   },
   {
     "code": "1610102006",
     "district_code": "161010",
-    "name": "Ulak Kembahang I"
+    "name": "Ulak Kembahang I",
+    "postal_code": "30653"
   },
   {
     "code": "1610102007",
     "district_code": "161010",
-    "name": "Ulak Petangisan"
+    "name": "Ulak Petangisan",
+    "postal_code": "30653"
   },
   {
     "code": "1610102008",
     "district_code": "161010",
-    "name": "Seri Bandung"
+    "name": "Seri Bandung",
+    "postal_code": "30653"
   },
   {
     "code": "1610102009",
     "district_code": "161010",
-    "name": "Ulak Kembahang II"
+    "name": "Ulak Kembahang II",
+    "postal_code": "30653"
   },
   {
     "code": "1610102010",
     "district_code": "161010",
-    "name": "Talang Pangeran Ilir"
+    "name": "Talang Pangeran Ilir",
+    "postal_code": "30653"
   },
   {
     "code": "1610102011",
     "district_code": "161010",
-    "name": "Arisan Jaya"
+    "name": "Arisan Jaya",
+    "postal_code": "30653"
   }
 ]

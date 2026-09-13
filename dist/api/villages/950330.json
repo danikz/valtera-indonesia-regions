@@ -2,41 +2,49 @@
   {
     "code": "9503302001",
     "district_code": "950330",
-    "name": "Puldama"
+    "name": "Puldama",
+    "postal_code": "99761"
   },
   {
     "code": "9503302002",
     "district_code": "950330",
-    "name": "Kasen"
+    "name": "Kasen",
+    "postal_code": "99761"
   },
   {
     "code": "9503302003",
     "district_code": "950330",
-    "name": "Bako"
+    "name": "Bako",
+    "postal_code": "99761"
   },
   {
     "code": "9503302004",
     "district_code": "950330",
-    "name": "Balsek"
+    "name": "Balsek",
+    "postal_code": "99761"
   },
   {
     "code": "9503302005",
     "district_code": "950330",
-    "name": "Manbolak"
+    "name": "Manbolak",
+    "postal_code": "99761"
   },
   {
     "code": "9503302006",
     "district_code": "950330",
-    "name": "Famek"
+    "name": "Famek",
+    "postal_code": "99761"
   },
   {
     "code": "9503302007",
     "district_code": "950330",
-    "name": "Semlu"
+    "name": "Semlu",
+    "postal_code": "99761"
   },
   {
     "code": "9503302008",
     "district_code": "950330",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "99761"
   }
 ]

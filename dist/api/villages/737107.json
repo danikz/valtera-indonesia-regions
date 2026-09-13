@@ -2,76 +2,91 @@
   {
     "code": "7371071001",
     "district_code": "737107",
-    "name": "Pannampu"
+    "name": "Pannampu",
+    "postal_code": "90213"
   },
   {
     "code": "7371071002",
     "district_code": "737107",
-    "name": "Kalukuang"
+    "name": "Kalukuang",
+    "postal_code": "90214"
   },
   {
     "code": "7371071003",
     "district_code": "737107",
-    "name": "Kaluku Bodoa"
+    "name": "Kaluku Bodoa",
+    "postal_code": "90215"
   },
   {
     "code": "7371071004",
     "district_code": "737107",
-    "name": "Rappojawa"
+    "name": "Rappojawa",
+    "postal_code": "90215"
   },
   {
     "code": "7371071005",
     "district_code": "737107",
-    "name": "Rappokalling"
+    "name": "Rappokalling",
+    "postal_code": "90216"
   },
   {
     "code": "7371071006",
     "district_code": "737107",
-    "name": "Lakkang"
+    "name": "Lakkang",
+    "postal_code": "90211"
   },
   {
     "code": "7371071007",
     "district_code": "737107",
-    "name": "Tallo"
+    "name": "Tallo",
+    "postal_code": "90212"
   },
   {
     "code": "7371071008",
     "district_code": "737107",
-    "name": "La'latang"
+    "name": "La'latang",
+    "postal_code": "90211"
   },
   {
     "code": "7371071009",
     "district_code": "737107",
-    "name": "Wala-Walaya"
+    "name": "Wala-Walaya",
+    "postal_code": "90217"
   },
   {
     "code": "7371071010",
     "district_code": "737107",
-    "name": "Tammua"
+    "name": "Tammua",
+    "postal_code": "90216"
   },
   {
     "code": "7371071011",
     "district_code": "737107",
-    "name": "Buloa"
+    "name": "Buloa",
+    "postal_code": "90212"
   },
   {
     "code": "7371071012",
     "district_code": "737107",
-    "name": "Suangga"
+    "name": "Suangga",
+    "postal_code": "90211"
   },
   {
     "code": "7371071013",
     "district_code": "737107",
-    "name": "Ujung Pandang Baru"
+    "name": "Ujung Pandang Baru",
+    "postal_code": "90217"
   },
   {
     "code": "7371071014",
     "district_code": "737107",
-    "name": "Lembo"
+    "name": "Lembo",
+    "postal_code": "90213"
   },
   {
     "code": "7371071015",
     "district_code": "737107",
-    "name": "Bunga Eja Beru"
+    "name": "Bunga Eja Beru",
+    "postal_code": "90211"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "9502262001",
     "district_code": "950226",
-    "name": "Karye"
+    "name": "Karye",
+    "postal_code": "99441"
   },
   {
     "code": "9502262002",
     "district_code": "950226",
-    "name": "Batani"
+    "name": "Batani",
+    "postal_code": "99441"
   },
   {
     "code": "9502262003",
     "district_code": "950226",
-    "name": "Segame"
+    "name": "Segame",
+    "postal_code": "99441"
   },
   {
     "code": "9502262004",
     "district_code": "950226",
-    "name": "Palur Satu"
+    "name": "Palur Satu",
+    "postal_code": "99441"
   },
   {
     "code": "9502262005",
     "district_code": "950226",
-    "name": "Palur Dua"
+    "name": "Palur Dua",
+    "postal_code": "99441"
   },
   {
     "code": "9502262006",
     "district_code": "950226",
-    "name": "Sople"
+    "name": "Sople",
+    "postal_code": "99441"
   },
   {
     "code": "9502262007",
     "district_code": "950226",
-    "name": "Bakata"
+    "name": "Bakata",
+    "postal_code": "99441"
   }
 ]

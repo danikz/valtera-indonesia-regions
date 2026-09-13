@@ -2,46 +2,55 @@
   {
     "code": "9403122001",
     "district_code": "940312",
-    "name": "Dei"
+    "name": "Dei",
+    "postal_code": "98716"
   },
   {
     "code": "9403122002",
     "district_code": "940312",
-    "name": "Obaiyoweta"
+    "name": "Obaiyoweta",
+    "postal_code": "98716"
   },
   {
     "code": "9403122003",
     "district_code": "940312",
-    "name": "Bubugiwo"
+    "name": "Bubugiwo",
+    "postal_code": "98716"
   },
   {
     "code": "9403122004",
     "district_code": "940312",
-    "name": "Yimouto"
+    "name": "Yimouto",
+    "postal_code": "98716"
   },
   {
     "code": "9403122005",
     "district_code": "940312",
-    "name": "Tamugauwo"
+    "name": "Tamugauwo",
+    "postal_code": "98716"
   },
   {
     "code": "9403122006",
     "district_code": "940312",
-    "name": "Dagouto"
+    "name": "Dagouto",
+    "postal_code": "98716"
   },
   {
     "code": "9403122007",
     "district_code": "940312",
-    "name": "Kopabutu"
+    "name": "Kopabutu",
+    "postal_code": "98716"
   },
   {
     "code": "9403122008",
     "district_code": "940312",
-    "name": "Boutai"
+    "name": "Boutai",
+    "postal_code": "98716"
   },
   {
     "code": "9403122009",
     "district_code": "940312",
-    "name": "Bukaduata"
+    "name": "Bukaduata",
+    "postal_code": "98716"
   }
 ]

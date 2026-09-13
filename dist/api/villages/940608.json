@@ -2,36 +2,43 @@
   {
     "code": "9406082001",
     "district_code": "940608",
-    "name": "Ugapuga"
+    "name": "Ugapuga",
+    "postal_code": "98884"
   },
   {
     "code": "9406082002",
     "district_code": "940608",
-    "name": "Deiyapa"
+    "name": "Deiyapa",
+    "postal_code": "98884"
   },
   {
     "code": "9406082003",
     "district_code": "940608",
-    "name": "Boduda"
+    "name": "Boduda",
+    "postal_code": "98884"
   },
   {
     "code": "9406082004",
     "district_code": "940608",
-    "name": "Yotapuga"
+    "name": "Yotapuga",
+    "postal_code": "98884"
   },
   {
     "code": "9406082005",
     "district_code": "940608",
-    "name": "Bokaibutu"
+    "name": "Bokaibutu",
+    "postal_code": "98884"
   },
   {
     "code": "9406082006",
     "district_code": "940608",
-    "name": "Bunauwo"
+    "name": "Bunauwo",
+    "postal_code": "98884"
   },
   {
     "code": "9406082007",
     "district_code": "940608",
-    "name": "Nuwa"
+    "name": "Nuwa",
+    "postal_code": "98884"
   }
 ]

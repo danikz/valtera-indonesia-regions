@@ -2,41 +2,49 @@
   {
     "code": "1802172001",
     "district_code": "180217",
-    "name": "Tanjung Ratu Ilir"
+    "name": "Tanjung Ratu Ilir",
+    "postal_code": "35213"
   },
   {
     "code": "1802172002",
     "district_code": "180217",
-    "name": "Candi Rejo"
+    "name": "Candi Rejo",
+    "postal_code": "35213"
   },
   {
     "code": "1802172003",
     "district_code": "180217",
-    "name": "Banjar Ratu"
+    "name": "Banjar Ratu",
+    "postal_code": "35213"
   },
   {
     "code": "1802172004",
     "district_code": "180217",
-    "name": "Banjar Kertahayu"
+    "name": "Banjar Kertahayu",
+    "postal_code": "35213"
   },
   {
     "code": "1802172005",
     "district_code": "180217",
-    "name": "Lempuyang Bandar"
+    "name": "Lempuyang Bandar",
+    "postal_code": "35213"
   },
   {
     "code": "1802172006",
     "district_code": "180217",
-    "name": "Purnama Tunggal"
+    "name": "Purnama Tunggal",
+    "postal_code": "35213"
   },
   {
     "code": "1802172007",
     "district_code": "180217",
-    "name": "Banjar Rejo"
+    "name": "Banjar Rejo",
+    "postal_code": "35213"
   },
   {
     "code": "1802172008",
     "district_code": "180217",
-    "name": "Putra Lempuyang"
+    "name": "Putra Lempuyang",
+    "postal_code": "35213"
   }
 ]

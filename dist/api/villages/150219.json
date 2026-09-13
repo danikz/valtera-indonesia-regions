@@ -2,21 +2,25 @@
   {
     "code": "1502192001",
     "district_code": "150219",
-    "name": "Meranti"
+    "name": "Meranti",
+    "postal_code": "37351"
   },
   {
     "code": "1502192002",
     "district_code": "150219",
-    "name": "Bukit Bungkul"
+    "name": "Bukit Bungkul",
+    "postal_code": "37351"
   },
   {
     "code": "1502192003",
     "district_code": "150219",
-    "name": "Rasau"
+    "name": "Rasau",
+    "postal_code": "37351"
   },
   {
     "code": "1502192004",
     "district_code": "150219",
-    "name": "Lantak Seribu"
+    "name": "Lantak Seribu",
+    "postal_code": "37351"
   }
 ]

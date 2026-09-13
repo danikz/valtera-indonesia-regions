@@ -2,56 +2,67 @@
   {
     "code": "1905032001",
     "district_code": "190503",
-    "name": "Jebus"
+    "name": "Jebus",
+    "postal_code": "33362"
   },
   {
     "code": "1905032002",
     "district_code": "190503",
-    "name": "Sungai Buluh"
+    "name": "Sungai Buluh",
+    "postal_code": "33362"
   },
   {
     "code": "1905032003",
     "district_code": "190503",
-    "name": "Tumbak Petar"
+    "name": "Tumbak Petar",
+    "postal_code": "33362"
   },
   {
     "code": "1905032004",
     "district_code": "190503",
-    "name": "Limbung"
+    "name": "Limbung",
+    "postal_code": "33362"
   },
   {
     "code": "1905032005",
     "district_code": "190503",
-    "name": "Rukam"
+    "name": "Rukam",
+    "postal_code": "33362"
   },
   {
     "code": "1905032008",
     "district_code": "190503",
-    "name": "Ranggi Asam"
+    "name": "Ranggi Asam",
+    "postal_code": "33362"
   },
   {
     "code": "1905032009",
     "district_code": "190503",
-    "name": "Ketap"
+    "name": "Ketap",
+    "postal_code": "33362"
   },
   {
     "code": "1905032018",
     "district_code": "190503",
-    "name": "Mislak"
+    "name": "Mislak",
+    "postal_code": "33362"
   },
   {
     "code": "1905032019",
     "district_code": "190503",
-    "name": "Pebuar"
+    "name": "Pebuar",
+    "postal_code": "33362"
   },
   {
     "code": "1905032020",
     "district_code": "190503",
-    "name": "Sinar Manik"
+    "name": "Sinar Manik",
+    "postal_code": "33362"
   },
   {
     "code": "1905032021",
     "district_code": "190503",
-    "name": "Air Kuang"
+    "name": "Air Kuang",
+    "postal_code": "33362"
   }
 ]

@@ -2,16 +2,19 @@
   {
     "code": "3471081001",
     "district_code": "347108",
-    "name": "Gedongkiwo"
+    "name": "Gedongkiwo",
+    "postal_code": "55142"
   },
   {
     "code": "3471081002",
     "district_code": "347108",
-    "name": "Suryodiningratan"
+    "name": "Suryodiningratan",
+    "postal_code": "55141"
   },
   {
     "code": "3471081003",
     "district_code": "347108",
-    "name": "Mantrijeron"
+    "name": "Mantrijeron",
+    "postal_code": "55143"
   }
 ]

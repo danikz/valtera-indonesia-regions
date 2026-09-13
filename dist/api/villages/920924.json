@@ -2,51 +2,61 @@
   {
     "code": "9209242001",
     "district_code": "920924",
-    "name": "Nekori"
+    "name": "Nekori",
+    "postal_code": ""
   },
   {
     "code": "9209242002",
     "district_code": "920924",
-    "name": "Ajami"
+    "name": "Ajami",
+    "postal_code": ""
   },
   {
     "code": "9209242003",
     "district_code": "920924",
-    "name": "Aniti"
+    "name": "Aniti",
+    "postal_code": ""
   },
   {
     "code": "9209242004",
     "district_code": "920924",
-    "name": "Akari"
+    "name": "Akari",
+    "postal_code": ""
   },
   {
     "code": "9209242005",
     "district_code": "920924",
-    "name": "Amnan"
+    "name": "Amnan",
+    "postal_code": ""
   },
   {
     "code": "9209242006",
     "district_code": "920924",
-    "name": "Atiki"
+    "name": "Atiki",
+    "postal_code": ""
   },
   {
     "code": "9209242007",
     "district_code": "920924",
-    "name": "Arwani"
+    "name": "Arwani",
+    "postal_code": ""
   },
   {
     "code": "9209242008",
     "district_code": "920924",
-    "name": "Aritowi"
+    "name": "Aritowi",
+    "postal_code": ""
   },
   {
     "code": "9209242009",
     "district_code": "920924",
-    "name": "Umpay"
+    "name": "Umpay",
+    "postal_code": ""
   },
   {
     "code": "9209242010",
     "district_code": "920924",
-    "name": "Meiwar"
+    "name": "Meiwar",
+    "postal_code": ""
   }
 ]

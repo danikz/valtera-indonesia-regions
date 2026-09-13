@@ -2,26 +2,31 @@
   {
     "code": "3578161001",
     "district_code": "357816",
-    "name": "Ampel"
+    "name": "Ampel",
+    "postal_code": "60151"
   },
   {
     "code": "3578161002",
     "district_code": "357816",
-    "name": "Pegirian"
+    "name": "Pegirian",
+    "postal_code": "60153"
   },
   {
     "code": "3578161003",
     "district_code": "357816",
-    "name": "Wonokusumo"
+    "name": "Wonokusumo",
+    "postal_code": "60154"
   },
   {
     "code": "3578161004",
     "district_code": "357816",
-    "name": "Ujung"
+    "name": "Ujung",
+    "postal_code": "60155"
   },
   {
     "code": "3578161005",
     "district_code": "357816",
-    "name": "Sidotopo"
+    "name": "Sidotopo",
+    "postal_code": "60152"
   }
 ]

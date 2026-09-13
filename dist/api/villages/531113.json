@@ -2,36 +2,43 @@
   {
     "code": "5311132001",
     "district_code": "531113",
-    "name": "Nggongi"
+    "name": "Nggongi",
+    "postal_code": "87172"
   },
   {
     "code": "5311132002",
     "district_code": "531113",
-    "name": "Praimadita"
+    "name": "Praimadita",
+    "postal_code": "87172"
   },
   {
     "code": "5311132003",
     "district_code": "531113",
-    "name": "Praisalura"
+    "name": "Praisalura",
+    "postal_code": "87172"
   },
   {
     "code": "5311132004",
     "district_code": "531113",
-    "name": "Tandula Jangga"
+    "name": "Tandula Jangga",
+    "postal_code": "87172"
   },
   {
     "code": "5311132005",
     "district_code": "531113",
-    "name": "Nangga"
+    "name": "Nangga",
+    "postal_code": "87172"
   },
   {
     "code": "5311132006",
     "district_code": "531113",
-    "name": "Janggamangu"
+    "name": "Janggamangu",
+    "postal_code": "87172"
   },
   {
     "code": "5311132011",
     "district_code": "531113",
-    "name": "Ananjaki"
+    "name": "Ananjaki",
+    "postal_code": "87172"
   }
 ]

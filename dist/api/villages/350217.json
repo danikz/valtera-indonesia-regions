@@ -2,96 +2,115 @@
   {
     "code": "3502171001",
     "district_code": "350217",
-    "name": "Paju"
+    "name": "Paju",
+    "postal_code": "63415"
   },
   {
     "code": "3502171002",
     "district_code": "350217",
-    "name": "Brotonegaran"
+    "name": "Brotonegaran",
+    "postal_code": "63419"
   },
   {
     "code": "3502171003",
     "district_code": "350217",
-    "name": "Pakunden"
+    "name": "Pakunden",
+    "postal_code": "63416"
   },
   {
     "code": "3502171004",
     "district_code": "350217",
-    "name": "Kepatihan"
+    "name": "Kepatihan",
+    "postal_code": "63416"
   },
   {
     "code": "3502171005",
     "district_code": "350217",
-    "name": "Surodikraman"
+    "name": "Surodikraman",
+    "postal_code": "63419"
   },
   {
     "code": "3502171006",
     "district_code": "350217",
-    "name": "Purbosuman"
+    "name": "Purbosuman",
+    "postal_code": "63417"
   },
   {
     "code": "3502171007",
     "district_code": "350217",
-    "name": "Tonatan"
+    "name": "Tonatan",
+    "postal_code": "63418"
   },
   {
     "code": "3502171008",
     "district_code": "350217",
-    "name": "Bangunsari"
+    "name": "Bangunsari",
+    "postal_code": "63419"
   },
   {
     "code": "3502171009",
     "district_code": "350217",
-    "name": "Tamanarum"
+    "name": "Tamanarum",
+    "postal_code": "63419"
   },
   {
     "code": "3502171010",
     "district_code": "350217",
-    "name": "Kauman"
+    "name": "Kauman",
+    "postal_code": "63414"
   },
   {
     "code": "3502171011",
     "district_code": "350217",
-    "name": "Tambakbayan"
+    "name": "Tambakbayan",
+    "postal_code": "63419"
   },
   {
     "code": "3502171012",
     "district_code": "350217",
-    "name": "Pinggirsari"
+    "name": "Pinggirsari",
+    "postal_code": "63419"
   },
   {
     "code": "3502171013",
     "district_code": "350217",
-    "name": "Mangkujayan"
+    "name": "Mangkujayan",
+    "postal_code": "63413"
   },
   {
     "code": "3502171014",
     "district_code": "350217",
-    "name": "Banyudono"
+    "name": "Banyudono",
+    "postal_code": "63411"
   },
   {
     "code": "3502171015",
     "district_code": "350217",
-    "name": "Nologaten"
+    "name": "Nologaten",
+    "postal_code": "63411"
   },
   {
     "code": "3502171016",
     "district_code": "350217",
-    "name": "Cokromenggalan"
+    "name": "Cokromenggalan",
+    "postal_code": "63411"
   },
   {
     "code": "3502171017",
     "district_code": "350217",
-    "name": "Keniten"
+    "name": "Keniten",
+    "postal_code": "63412"
   },
   {
     "code": "3502171018",
     "district_code": "350217",
-    "name": "Jingglong"
+    "name": "Jingglong",
+    "postal_code": "63411"
   },
   {
     "code": "3502171019",
     "district_code": "350217",
-    "name": "Beduri"
+    "name": "Beduri",
+    "postal_code": "63412"
   }
 ]

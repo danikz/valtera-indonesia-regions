@@ -2,31 +2,37 @@
   {
     "code": "6474021001",
     "district_code": "647402",
-    "name": "Tanjung Laut"
+    "name": "Tanjung Laut",
+    "postal_code": "75321"
   },
   {
     "code": "6474021002",
     "district_code": "647402",
-    "name": "Berbas Tengah"
+    "name": "Berbas Tengah",
+    "postal_code": "75325"
   },
   {
     "code": "6474021003",
     "district_code": "647402",
-    "name": "Berbas Pantai"
+    "name": "Berbas Pantai",
+    "postal_code": "75325"
   },
   {
     "code": "6474021004",
     "district_code": "647402",
-    "name": "Satimpo"
+    "name": "Satimpo",
+    "postal_code": "75324"
   },
   {
     "code": "6474021005",
     "district_code": "647402",
-    "name": "Bontang Lestari"
+    "name": "Bontang Lestari",
+    "postal_code": "75325"
   },
   {
     "code": "6474021006",
     "district_code": "647402",
-    "name": "Tanjung Laut Indah"
+    "name": "Tanjung Laut Indah",
+    "postal_code": "75325"
   }
 ]

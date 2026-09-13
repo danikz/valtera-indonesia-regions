@@ -2,46 +2,55 @@
   {
     "code": "1116072001",
     "district_code": "111607",
-    "name": "Alur Tani Satu"
+    "name": "Alur Tani Satu",
+    "postal_code": "24479"
   },
   {
     "code": "1116072002",
     "district_code": "111607",
-    "name": "Alur Tani Dua"
+    "name": "Alur Tani Dua",
+    "postal_code": "24479"
   },
   {
     "code": "1116072003",
     "district_code": "111607",
-    "name": "Bandar Khalifah"
+    "name": "Bandar Khalifah",
+    "postal_code": "24479"
   },
   {
     "code": "1116072004",
     "district_code": "111607",
-    "name": "Kaloy"
+    "name": "Kaloy",
+    "postal_code": "24479"
   },
   {
     "code": "1116072005",
     "district_code": "111607",
-    "name": "Perkebunan Pulau Tiga"
+    "name": "Perkebunan Pulau Tiga",
+    "postal_code": "24479"
   },
   {
     "code": "1116072006",
     "district_code": "111607",
-    "name": "Harum Sari"
+    "name": "Harum Sari",
+    "postal_code": "24479"
   },
   {
     "code": "1116072007",
     "district_code": "111607",
-    "name": "Bandar Setia"
+    "name": "Bandar Setia",
+    "postal_code": "24479"
   },
   {
     "code": "1116072008",
     "district_code": "111607",
-    "name": "Rongoh"
+    "name": "Rongoh",
+    "postal_code": "24479"
   },
   {
     "code": "1116072010",
     "district_code": "111607",
-    "name": "Wono Sari"
+    "name": "Wono Sari",
+    "postal_code": "24479"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "1508121001",
     "district_code": "150812",
-    "name": "Sungai Pinang"
+    "name": "Sungai Pinang",
+    "postal_code": "37212"
   },
   {
     "code": "1508121002",
     "district_code": "150812",
-    "name": "Sungai Kerjan"
+    "name": "Sungai Kerjan",
+    "postal_code": "37212"
   },
   {
     "code": "1508122003",
     "district_code": "150812",
-    "name": "Talang Pantai"
+    "name": "Talang Pantai",
+    "postal_code": "37212"
   },
   {
     "code": "1508122004",
     "district_code": "150812",
-    "name": "Sungai Arang"
+    "name": "Sungai Arang",
+    "postal_code": "37212"
   },
   {
     "code": "1508122005",
     "district_code": "150812",
-    "name": "Pulau Pekan"
+    "name": "Pulau Pekan",
+    "postal_code": "37212"
   }
 ]

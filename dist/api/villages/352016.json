@@ -2,61 +2,73 @@
   {
     "code": "3520162001",
     "district_code": "352016",
-    "name": "Selotinatah"
+    "name": "Selotinatah",
+    "postal_code": "63351"
   },
   {
     "code": "3520162002",
     "district_code": "352016",
-    "name": "Pendem"
+    "name": "Pendem",
+    "postal_code": "63351"
   },
   {
     "code": "3520162003",
     "district_code": "352016",
-    "name": "Bangsri"
+    "name": "Bangsri",
+    "postal_code": "63351"
   },
   {
     "code": "3520162004",
     "district_code": "352016",
-    "name": "Selopanggung"
+    "name": "Selopanggung",
+    "postal_code": "63351"
   },
   {
     "code": "3520162005",
     "district_code": "352016",
-    "name": "Sumberdukun"
+    "name": "Sumberdukun",
+    "postal_code": "63351"
   },
   {
     "code": "3520162006",
     "district_code": "352016",
-    "name": "Baleasri"
+    "name": "Baleasri",
+    "postal_code": "63351"
   },
   {
     "code": "3520162007",
     "district_code": "352016",
-    "name": "Balegondo"
+    "name": "Balegondo",
+    "postal_code": "63351"
   },
   {
     "code": "3520162008",
     "district_code": "352016",
-    "name": "Ngariboyo"
+    "name": "Ngariboyo",
+    "postal_code": "63351"
   },
   {
     "code": "3520162009",
     "district_code": "352016",
-    "name": "Mojopurno"
+    "name": "Mojopurno",
+    "postal_code": "63361"
   },
   {
     "code": "3520162010",
     "district_code": "352016",
-    "name": "Banyudono"
+    "name": "Banyudono",
+    "postal_code": "63351"
   },
   {
     "code": "3520162011",
     "district_code": "352016",
-    "name": "Banjarpanjang"
+    "name": "Banjarpanjang",
+    "postal_code": "63351"
   },
   {
     "code": "3520162012",
     "district_code": "352016",
-    "name": "Banjarejo"
+    "name": "Banjarejo",
+    "postal_code": "63351"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3211232001",
     "district_code": "321123",
-    "name": "Cisarua"
+    "name": "Cisarua",
+    "postal_code": "45355"
   },
   {
     "code": "3211232002",
     "district_code": "321123",
-    "name": "Ciuyah"
+    "name": "Ciuyah",
+    "postal_code": "45355"
   },
   {
     "code": "3211232003",
     "district_code": "321123",
-    "name": "Cimara"
+    "name": "Cimara",
+    "postal_code": "45355"
   },
   {
     "code": "3211232004",
     "district_code": "321123",
-    "name": "Bantarmara"
+    "name": "Bantarmara",
+    "postal_code": "45355"
   },
   {
     "code": "3211232005",
     "district_code": "321123",
-    "name": "Cipandanwangi"
+    "name": "Cipandanwangi",
+    "postal_code": "45355"
   },
   {
     "code": "3211232006",
     "district_code": "321123",
-    "name": "Cisalak"
+    "name": "Cisalak",
+    "postal_code": "45355"
   },
   {
     "code": "3211232007",
     "district_code": "321123",
-    "name": "Kebonkalapa"
+    "name": "Kebonkalapa",
+    "postal_code": "45355"
   }
 ]

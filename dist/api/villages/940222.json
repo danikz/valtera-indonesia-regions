@@ -2,56 +2,67 @@
   {
     "code": "9402222001",
     "district_code": "940222",
-    "name": "Nioga"
+    "name": "Nioga",
+    "postal_code": "98932"
   },
   {
     "code": "9402222002",
     "district_code": "940222",
-    "name": "Yonggi"
+    "name": "Yonggi",
+    "postal_code": "98932"
   },
   {
     "code": "9402222003",
     "district_code": "940222",
-    "name": "Wonggi"
+    "name": "Wonggi",
+    "postal_code": "98932"
   },
   {
     "code": "9402222004",
     "district_code": "940222",
-    "name": "Wambagalo"
+    "name": "Wambagalo",
+    "postal_code": "98932"
   },
   {
     "code": "9402222005",
     "district_code": "940222",
-    "name": "Jigonikme"
+    "name": "Jigonikme",
+    "postal_code": "98932"
   },
   {
     "code": "9402222006",
     "district_code": "940222",
-    "name": "Muruwi"
+    "name": "Muruwi",
+    "postal_code": "98932"
   },
   {
     "code": "9402222007",
     "district_code": "940222",
-    "name": "Wutime"
+    "name": "Wutime",
+    "postal_code": "98932"
   },
   {
     "code": "9402222008",
     "district_code": "940222",
-    "name": "Gibaga"
+    "name": "Gibaga",
+    "postal_code": "98932"
   },
   {
     "code": "9402222009",
     "district_code": "940222",
-    "name": "Papak"
+    "name": "Papak",
+    "postal_code": "98932"
   },
   {
     "code": "9402222010",
     "district_code": "940222",
-    "name": "Wanduri"
+    "name": "Wanduri",
+    "postal_code": "98932"
   },
   {
     "code": "9402222011",
     "district_code": "940222",
-    "name": "Walom"
+    "name": "Walom",
+    "postal_code": "98932"
   }
 ]

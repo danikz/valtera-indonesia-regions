@@ -2,36 +2,43 @@
   {
     "code": "1902052001",
     "district_code": "190205",
-    "name": "Badau"
+    "name": "Badau",
+    "postal_code": "33451"
   },
   {
     "code": "1902052002",
     "district_code": "190205",
-    "name": "Air Batu Buding"
+    "name": "Air Batu Buding",
+    "postal_code": "33451"
   },
   {
     "code": "1902052003",
     "district_code": "190205",
-    "name": "Sungai Samak"
+    "name": "Sungai Samak",
+    "postal_code": "33451"
   },
   {
     "code": "1902052004",
     "district_code": "190205",
-    "name": "Kacang Butor"
+    "name": "Kacang Butor",
+    "postal_code": "33451"
   },
   {
     "code": "1902052005",
     "district_code": "190205",
-    "name": "Cerucuk"
+    "name": "Cerucuk",
+    "postal_code": "33451"
   },
   {
     "code": "1902052006",
     "district_code": "190205",
-    "name": "Pegantungan"
+    "name": "Pegantungan",
+    "postal_code": "33451"
   },
   {
     "code": "1902052007",
     "district_code": "190205",
-    "name": "Ibul"
+    "name": "Ibul",
+    "postal_code": "33451"
   }
 ]

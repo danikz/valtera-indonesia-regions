@@ -2,51 +2,61 @@
   {
     "code": "1218122010",
     "district_code": "121812",
-    "name": "Tanjung Harap"
+    "name": "Tanjung Harap",
+    "postal_code": "20990"
   },
   {
     "code": "1218122011",
     "district_code": "121812",
-    "name": "Kuala Bali"
+    "name": "Kuala Bali",
+    "postal_code": "20990"
   },
   {
     "code": "1218122014",
     "district_code": "121812",
-    "name": "Karang Tengah"
+    "name": "Karang Tengah",
+    "postal_code": "20990"
   },
   {
     "code": "1218122015",
     "district_code": "121812",
-    "name": "Kelapa Bajohom"
+    "name": "Kelapa Bajohom",
+    "postal_code": "20990"
   },
   {
     "code": "1218122018",
     "district_code": "121812",
-    "name": "Manggis"
+    "name": "Manggis",
+    "postal_code": "20990"
   },
   {
     "code": "1218122020",
     "district_code": "121812",
-    "name": "Pulau Gambar"
+    "name": "Pulau Gambar",
+    "postal_code": "20990"
   },
   {
     "code": "1218122021",
     "district_code": "121812",
-    "name": "Pulau Tagor"
+    "name": "Pulau Tagor",
+    "postal_code": "20990"
   },
   {
     "code": "1218122032",
     "district_code": "121812",
-    "name": "Serba Jadi"
+    "name": "Serba Jadi",
+    "postal_code": "20990"
   },
   {
     "code": "1218122033",
     "district_code": "121812",
-    "name": "Tambak Cekur"
+    "name": "Tambak Cekur",
+    "postal_code": "20990"
   },
   {
     "code": "1218122038",
     "district_code": "121812",
-    "name": "Bah Sidua-dua"
+    "name": "Bah Sidua-dua",
+    "postal_code": "20990"
   }
 ]

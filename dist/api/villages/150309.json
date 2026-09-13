@@ -2,66 +2,79 @@
   {
     "code": "1503091001",
     "district_code": "150309",
-    "name": "Sungaibenteng"
+    "name": "Sungaibenteng",
+    "postal_code": "37483"
   },
   {
     "code": "1503092002",
     "district_code": "150309",
-    "name": "Bukittigo"
+    "name": "Bukittigo",
+    "postal_code": "37483"
   },
   {
     "code": "1503092003",
     "district_code": "150309",
-    "name": "Sungaigedang"
+    "name": "Sungaigedang",
+    "postal_code": "37483"
   },
   {
     "code": "1503092004",
     "district_code": "150309",
-    "name": "Payo Lebar"
+    "name": "Payo Lebar",
+    "postal_code": "37483"
   },
   {
     "code": "1503092005",
     "district_code": "150309",
-    "name": "Bukitmurau"
+    "name": "Bukitmurau",
+    "postal_code": "37483"
   },
   {
     "code": "1503092006",
     "district_code": "150309",
-    "name": "Perdamaian"
+    "name": "Perdamaian",
+    "postal_code": "37483"
   },
   {
     "code": "1503092007",
     "district_code": "150309",
-    "name": "Pasar Singkut"
+    "name": "Pasar Singkut",
+    "postal_code": "37483"
   },
   {
     "code": "1503092008",
     "district_code": "150309",
-    "name": "Siliwangi"
+    "name": "Siliwangi",
+    "postal_code": "37483"
   },
   {
     "code": "1503092009",
     "district_code": "150309",
-    "name": "Simpang Nibung"
+    "name": "Simpang Nibung",
+    "postal_code": "37483"
   },
   {
     "code": "1503092010",
     "district_code": "150309",
-    "name": "Bukit Talang Mas"
+    "name": "Bukit Talang Mas",
+    "postal_code": "37483"
   },
   {
     "code": "1503092011",
     "district_code": "150309",
-    "name": "Bukit Bumi Raya"
+    "name": "Bukit Bumi Raya",
+    "postal_code": "37483"
   },
   {
     "code": "1503092012",
     "district_code": "150309",
-    "name": "Argo Sari"
+    "name": "Argo Sari",
+    "postal_code": "37483"
   },
   {
     "code": "1503092013",
     "district_code": "150309",
-    "name": "Sendang Sari"
+    "name": "Sendang Sari",
+    "postal_code": "37483"
   }
 ]

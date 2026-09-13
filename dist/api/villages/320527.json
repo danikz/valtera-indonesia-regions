@@ -2,41 +2,49 @@
   {
     "code": "3205272001",
     "district_code": "320527",
-    "name": "Pameungpeuk"
+    "name": "Pameungpeuk",
+    "postal_code": "44175"
   },
   {
     "code": "3205272002",
     "district_code": "320527",
-    "name": "Mancagahar"
+    "name": "Mancagahar",
+    "postal_code": "44175"
   },
   {
     "code": "3205272003",
     "district_code": "320527",
-    "name": "Paas"
+    "name": "Paas",
+    "postal_code": "44175"
   },
   {
     "code": "3205272004",
     "district_code": "320527",
-    "name": "Mandalakasih"
+    "name": "Mandalakasih",
+    "postal_code": "44175"
   },
   {
     "code": "3205272005",
     "district_code": "320527",
-    "name": "Jatimulya"
+    "name": "Jatimulya",
+    "postal_code": "44175"
   },
   {
     "code": "3205272006",
     "district_code": "320527",
-    "name": "Bojong"
+    "name": "Bojong",
+    "postal_code": "44175"
   },
   {
     "code": "3205272007",
     "district_code": "320527",
-    "name": "Sirnabakti"
+    "name": "Sirnabakti",
+    "postal_code": "44175"
   },
   {
     "code": "3205272008",
     "district_code": "320527",
-    "name": "Bojong Kidul"
+    "name": "Bojong Kidul",
+    "postal_code": "44175"
   }
 ]

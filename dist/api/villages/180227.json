@@ -2,31 +2,37 @@
   {
     "code": "1802272001",
     "district_code": "180227",
-    "name": "Gedung Sari"
+    "name": "Gedung Sari",
+    "postal_code": "35513"
   },
   {
     "code": "1802272002",
     "district_code": "180227",
-    "name": "Srimulyo"
+    "name": "Srimulyo",
+    "postal_code": "35513"
   },
   {
     "code": "1802272003",
     "district_code": "180227",
-    "name": "Gedung Ratu"
+    "name": "Gedung Ratu",
+    "postal_code": "35513"
   },
   {
     "code": "1802272004",
     "district_code": "180227",
-    "name": "Bandar Putih Tua"
+    "name": "Bandar Putih Tua",
+    "postal_code": "35513"
   },
   {
     "code": "1802272005",
     "district_code": "180227",
-    "name": "Karang Jawa"
+    "name": "Karang Jawa",
+    "postal_code": "35513"
   },
   {
     "code": "1802272006",
     "district_code": "180227",
-    "name": "Sukajaya"
+    "name": "Sukajaya",
+    "postal_code": "35513"
   }
 ]

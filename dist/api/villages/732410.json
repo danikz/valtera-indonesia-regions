@@ -2,36 +2,43 @@
   {
     "code": "7324102001",
     "district_code": "732410",
-    "name": "Kalaena Kiri"
+    "name": "Kalaena Kiri",
+    "postal_code": "92973"
   },
   {
     "code": "7324102002",
     "district_code": "732410",
-    "name": "Sumber Agung"
+    "name": "Sumber Agung",
+    "postal_code": "92973"
   },
   {
     "code": "7324102003",
     "district_code": "732410",
-    "name": "Pertasi Kencana"
+    "name": "Pertasi Kencana",
+    "postal_code": "92973"
   },
   {
     "code": "7324102004",
     "district_code": "732410",
-    "name": "Non Blok"
+    "name": "Non Blok",
+    "postal_code": "92973"
   },
   {
     "code": "7324102005",
     "district_code": "732410",
-    "name": "Argomulyo"
+    "name": "Argomulyo",
+    "postal_code": "92973"
   },
   {
     "code": "7324102006",
     "district_code": "732410",
-    "name": "Sumber Makmur"
+    "name": "Sumber Makmur",
+    "postal_code": "92973"
   },
   {
     "code": "7324102007",
     "district_code": "732410",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "92973"
   }
 ]

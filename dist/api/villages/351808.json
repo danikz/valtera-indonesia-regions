@@ -2,71 +2,85 @@
   {
     "code": "3518081011",
     "district_code": "351808",
-    "name": "Banaran"
+    "name": "Banaran",
+    "postal_code": "64311"
   },
   {
     "code": "3518082001",
     "district_code": "351808",
-    "name": "Drenges"
+    "name": "Drenges",
+    "postal_code": "64315"
   },
   {
     "code": "3518082002",
     "district_code": "351808",
-    "name": "Yuwono"
+    "name": "Yuwono",
+    "postal_code": "64315"
   },
   {
     "code": "3518082003",
     "district_code": "351808",
-    "name": "Bangsri"
+    "name": "Bangsri",
+    "postal_code": "64315"
   },
   {
     "code": "3518082004",
     "district_code": "351808",
-    "name": "Kalianyar"
+    "name": "Kalianyar",
+    "postal_code": "64315"
   },
   {
     "code": "3518082005",
     "district_code": "351808",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "64315"
   },
   {
     "code": "3518082006",
     "district_code": "351808",
-    "name": "Nglawak"
+    "name": "Nglawak",
+    "postal_code": "64315"
   },
   {
     "code": "3518082007",
     "district_code": "351808",
-    "name": "Kepuh"
+    "name": "Kepuh",
+    "postal_code": "64315"
   },
   {
     "code": "3518082008",
     "district_code": "351808",
-    "name": "Tembarak"
+    "name": "Tembarak",
+    "postal_code": "64315"
   },
   {
     "code": "3518082009",
     "district_code": "351808",
-    "name": "Pelem"
+    "name": "Pelem",
+    "postal_code": "64314"
   },
   {
     "code": "3518082010",
     "district_code": "351808",
-    "name": "Kutorejo"
+    "name": "Kutorejo",
+    "postal_code": "64313"
   },
   {
     "code": "3518082012",
     "district_code": "351808",
-    "name": "Lambangkuning"
+    "name": "Lambangkuning",
+    "postal_code": "64315"
   },
   {
     "code": "3518082013",
     "district_code": "351808",
-    "name": "Pandantoyo"
+    "name": "Pandantoyo",
+    "postal_code": "64315"
   },
   {
     "code": "3518082014",
     "district_code": "351808",
-    "name": "Kudu"
+    "name": "Kudu",
+    "postal_code": "64312"
   }
 ]

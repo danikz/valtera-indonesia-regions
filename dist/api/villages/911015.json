@@ -2,26 +2,31 @@
   {
     "code": "9110152001",
     "district_code": "911015",
-    "name": "Gwinjaya"
+    "name": "Gwinjaya",
+    "postal_code": "99382"
   },
   {
     "code": "9110152002",
     "district_code": "911015",
-    "name": "Tamar Sari"
+    "name": "Tamar Sari",
+    "postal_code": "99382"
   },
   {
     "code": "9110152003",
     "district_code": "911015",
-    "name": "Mawes Mukti"
+    "name": "Mawes Mukti",
+    "postal_code": "99382"
   },
   {
     "code": "9110152004",
     "district_code": "911015",
-    "name": "Mawesday"
+    "name": "Mawesday",
+    "postal_code": "99382"
   },
   {
     "code": "9110152005",
     "district_code": "911015",
-    "name": "Kapitiau"
+    "name": "Kapitiau",
+    "postal_code": "99382"
   }
 ]

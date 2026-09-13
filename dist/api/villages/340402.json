@@ -2,36 +2,43 @@
   {
     "code": "3404022001",
     "district_code": "340402",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "55264"
   },
   {
     "code": "3404022002",
     "district_code": "340402",
-    "name": "Sidoluhur"
+    "name": "Sidoluhur",
+    "postal_code": "55264"
   },
   {
     "code": "3404022003",
     "district_code": "340402",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "55264"
   },
   {
     "code": "3404022004",
     "district_code": "340402",
-    "name": "Sidoagung"
+    "name": "Sidoagung",
+    "postal_code": "55264"
   },
   {
     "code": "3404022005",
     "district_code": "340402",
-    "name": "Sidokarto"
+    "name": "Sidokarto",
+    "postal_code": "55264"
   },
   {
     "code": "3404022006",
     "district_code": "340402",
-    "name": "Sidoarum"
+    "name": "Sidoarum",
+    "postal_code": "55264"
   },
   {
     "code": "3404022007",
     "district_code": "340402",
-    "name": "Sidomoyo"
+    "name": "Sidomoyo",
+    "postal_code": "55264"
   }
 ]

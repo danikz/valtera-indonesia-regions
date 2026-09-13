@@ -2,31 +2,37 @@
   {
     "code": "3401052001",
     "district_code": "340105",
-    "name": "Wahyuharjo"
+    "name": "Wahyuharjo",
+    "postal_code": "55663"
   },
   {
     "code": "3401052002",
     "district_code": "340105",
-    "name": "Bumirejo"
+    "name": "Bumirejo",
+    "postal_code": "55663"
   },
   {
     "code": "3401052003",
     "district_code": "340105",
-    "name": "Jatirejo"
+    "name": "Jatirejo",
+    "postal_code": "55663"
   },
   {
     "code": "3401052004",
     "district_code": "340105",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "55663"
   },
   {
     "code": "3401052005",
     "district_code": "340105",
-    "name": "Gulurejo"
+    "name": "Gulurejo",
+    "postal_code": "55663"
   },
   {
     "code": "3401052006",
     "district_code": "340105",
-    "name": "Ngentakrejo"
+    "name": "Ngentakrejo",
+    "postal_code": "55663"
   }
 ]

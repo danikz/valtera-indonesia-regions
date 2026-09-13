@@ -2,21 +2,25 @@
   {
     "code": "7601102001",
     "district_code": "760110",
-    "name": "Bambaira"
+    "name": "Bambaira",
+    "postal_code": "91574"
   },
   {
     "code": "7601102002",
     "district_code": "760110",
-    "name": "Kasoloang"
+    "name": "Kasoloang",
+    "postal_code": "91574"
   },
   {
     "code": "7601102003",
     "district_code": "760110",
-    "name": "Tampaure"
+    "name": "Tampaure",
+    "postal_code": "91574"
   },
   {
     "code": "7601102004",
     "district_code": "760110",
-    "name": "Kaluku Nangka"
+    "name": "Kaluku Nangka",
+    "postal_code": "91574"
   }
 ]

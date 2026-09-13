@@ -2,31 +2,37 @@
   {
     "code": "3207162001",
     "district_code": "320716",
-    "name": "Tambaksari"
+    "name": "Tambaksari",
+    "postal_code": "46388"
   },
   {
     "code": "3207162002",
     "district_code": "320716",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "46388"
   },
   {
     "code": "3207162003",
     "district_code": "320716",
-    "name": "Kaso"
+    "name": "Kaso",
+    "postal_code": "46388"
   },
   {
     "code": "3207162004",
     "district_code": "320716",
-    "name": "Kadupandak"
+    "name": "Kadupandak",
+    "postal_code": "46388"
   },
   {
     "code": "3207162005",
     "district_code": "320716",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "46388"
   },
   {
     "code": "3207162006",
     "district_code": "320716",
-    "name": "Karangpaningal"
+    "name": "Karangpaningal",
+    "postal_code": "46388"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "7103162001",
     "district_code": "710316",
-    "name": "Kendahe I"
+    "name": "Kendahe I",
+    "postal_code": "95852"
   },
   {
     "code": "7103162002",
     "district_code": "710316",
-    "name": "Kendahe II"
+    "name": "Kendahe II",
+    "postal_code": "95852"
   },
   {
     "code": "7103162003",
     "district_code": "710316",
-    "name": "Talawid"
+    "name": "Talawid",
+    "postal_code": "95852"
   },
   {
     "code": "7103162004",
     "district_code": "710316",
-    "name": "Tariang Lama"
+    "name": "Tariang Lama",
+    "postal_code": "95852"
   },
   {
     "code": "7103162005",
     "district_code": "710316",
-    "name": "Pempalaraeng"
+    "name": "Pempalaraeng",
+    "postal_code": "95852"
   },
   {
     "code": "7103162006",
     "district_code": "710316",
-    "name": "Mohong Sawang"
+    "name": "Mohong Sawang",
+    "postal_code": "95852"
   },
   {
     "code": "7103162007",
     "district_code": "710316",
-    "name": "Lipang"
+    "name": "Lipang",
+    "postal_code": "95852"
   },
   {
     "code": "7103162008",
     "district_code": "710316",
-    "name": "Kawaluso"
+    "name": "Kawaluso",
+    "postal_code": "95852"
   }
 ]

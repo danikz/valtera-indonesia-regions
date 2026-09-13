@@ -2,31 +2,37 @@
   {
     "code": "3204102001",
     "district_code": "320410",
-    "name": "Margaasih"
+    "name": "Margaasih",
+    "postal_code": "40215"
   },
   {
     "code": "3204102002",
     "district_code": "320410",
-    "name": "Lagadar"
+    "name": "Lagadar",
+    "postal_code": "40216"
   },
   {
     "code": "3204102003",
     "district_code": "320410",
-    "name": "Nanjung"
+    "name": "Nanjung",
+    "postal_code": "40217"
   },
   {
     "code": "3204102004",
     "district_code": "320410",
-    "name": "Mekarrahayu"
+    "name": "Mekarrahayu",
+    "postal_code": "40218"
   },
   {
     "code": "3204102005",
     "district_code": "320410",
-    "name": "Rahayu"
+    "name": "Rahayu",
+    "postal_code": "40218"
   },
   {
     "code": "3204102006",
     "district_code": "320410",
-    "name": "Cigondewah Hilir"
+    "name": "Cigondewah Hilir",
+    "postal_code": "40214"
   }
 ]

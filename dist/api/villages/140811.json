@@ -2,36 +2,43 @@
   {
     "code": "1408112001",
     "district_code": "140811",
-    "name": "Lubuk Dalam"
+    "name": "Lubuk Dalam",
+    "postal_code": "28655"
   },
   {
     "code": "1408112002",
     "district_code": "140811",
-    "name": "Rawang Kao"
+    "name": "Rawang Kao",
+    "postal_code": "28655"
   },
   {
     "code": "1408112003",
     "district_code": "140811",
-    "name": "Sri Gading"
+    "name": "Sri Gading",
+    "postal_code": "28655"
   },
   {
     "code": "1408112004",
     "district_code": "140811",
-    "name": "Sialang Baru"
+    "name": "Sialang Baru",
+    "postal_code": "28655"
   },
   {
     "code": "1408112005",
     "district_code": "140811",
-    "name": "Sialang Palas"
+    "name": "Sialang Palas",
+    "postal_code": "28655"
   },
   {
     "code": "1408112006",
     "district_code": "140811",
-    "name": "Empang Baru"
+    "name": "Empang Baru",
+    "postal_code": "28655"
   },
   {
     "code": "1408112007",
     "district_code": "140811",
-    "name": "Rawang Kao Barat"
+    "name": "Rawang Kao Barat",
+    "postal_code": "28655"
   }
 ]

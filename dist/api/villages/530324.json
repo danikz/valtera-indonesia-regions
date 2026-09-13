@@ -2,26 +2,31 @@
   {
     "code": "5303242001",
     "district_code": "530324",
-    "name": "Naku"
+    "name": "Naku",
+    "postal_code": "85682"
   },
   {
     "code": "5303242002",
     "district_code": "530324",
-    "name": "Birunatun"
+    "name": "Birunatun",
+    "postal_code": "85682"
   },
   {
     "code": "5303242003",
     "district_code": "530324",
-    "name": "Makun"
+    "name": "Makun",
+    "postal_code": "85682"
   },
   {
     "code": "5303242004",
     "district_code": "530324",
-    "name": "Manumean"
+    "name": "Manumean",
+    "postal_code": "85682"
   },
   {
     "code": "5303242005",
     "district_code": "530324",
-    "name": "Kuluan"
+    "name": "Kuluan",
+    "postal_code": "85682"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "7326192001",
     "district_code": "732619",
-    "name": "Suloara'"
+    "name": "Suloara'",
+    "postal_code": "91845"
   },
   {
     "code": "7326192002",
     "district_code": "732619",
-    "name": "Sesean Matallo"
+    "name": "Sesean Matallo",
+    "postal_code": "91845"
   },
   {
     "code": "7326192003",
     "district_code": "732619",
-    "name": "Landorundun"
+    "name": "Landorundun",
+    "postal_code": "91845"
   },
   {
     "code": "7326192004",
     "district_code": "732619",
-    "name": "Tonga Riu"
+    "name": "Tonga Riu",
+    "postal_code": "91845"
   },
   {
     "code": "7326192005",
     "district_code": "732619",
-    "name": "Lempo"
+    "name": "Lempo",
+    "postal_code": "91845"
   }
 ]

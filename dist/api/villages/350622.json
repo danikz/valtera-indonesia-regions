@@ -2,46 +2,55 @@
   {
     "code": "3506222001",
     "district_code": "350622",
-    "name": "Banyakan"
+    "name": "Banyakan",
+    "postal_code": "64157"
   },
   {
     "code": "3506222002",
     "district_code": "350622",
-    "name": "Jatirejo"
+    "name": "Jatirejo",
+    "postal_code": "64157"
   },
   {
     "code": "3506222003",
     "district_code": "350622",
-    "name": "Manyaran"
+    "name": "Manyaran",
+    "postal_code": "64157"
   },
   {
     "code": "3506222004",
     "district_code": "350622",
-    "name": "Tiron"
+    "name": "Tiron",
+    "postal_code": "64157"
   },
   {
     "code": "3506222005",
     "district_code": "350622",
-    "name": "Parang"
+    "name": "Parang",
+    "postal_code": "64157"
   },
   {
     "code": "3506222006",
     "district_code": "350622",
-    "name": "Sendang"
+    "name": "Sendang",
+    "postal_code": "64157"
   },
   {
     "code": "3506222007",
     "district_code": "350622",
-    "name": "Maron"
+    "name": "Maron",
+    "postal_code": "64157"
   },
   {
     "code": "3506222008",
     "district_code": "350622",
-    "name": "Ngablak"
+    "name": "Ngablak",
+    "postal_code": "64157"
   },
   {
     "code": "3506222009",
     "district_code": "350622",
-    "name": "Jabon"
+    "name": "Jabon",
+    "postal_code": "64157"
   }
 ]

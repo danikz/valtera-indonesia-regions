@@ -2,31 +2,37 @@
   {
     "code": "9205022003",
     "district_code": "920502",
-    "name": "Kabare"
+    "name": "Kabare",
+    "postal_code": ""
   },
   {
     "code": "9205022010",
     "district_code": "920502",
-    "name": "Andey"
+    "name": "Andey",
+    "postal_code": ""
   },
   {
     "code": "9205022011",
     "district_code": "920502",
-    "name": "Asukweri"
+    "name": "Asukweri",
+    "postal_code": ""
   },
   {
     "code": "9205022013",
     "district_code": "920502",
-    "name": "Bonsayor"
+    "name": "Bonsayor",
+    "postal_code": ""
   },
   {
     "code": "9205022014",
     "district_code": "920502",
-    "name": "Darumbab"
+    "name": "Darumbab",
+    "postal_code": ""
   },
   {
     "code": "9205022015",
     "district_code": "920502",
-    "name": "Kalisade"
+    "name": "Kalisade",
+    "postal_code": ""
   }
 ]

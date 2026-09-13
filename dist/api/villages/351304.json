@@ -2,51 +2,61 @@
   {
     "code": "3513042001",
     "district_code": "351304",
-    "name": "Gunungtugel"
+    "name": "Gunungtugel",
+    "postal_code": "67261"
   },
   {
     "code": "3513042002",
     "district_code": "351304",
-    "name": "Kedungrejo"
+    "name": "Kedungrejo",
+    "postal_code": "67261"
   },
   {
     "code": "3513042003",
     "district_code": "351304",
-    "name": "Patokan"
+    "name": "Patokan",
+    "postal_code": "67261"
   },
   {
     "code": "3513042004",
     "district_code": "351304",
-    "name": "Bantaran"
+    "name": "Bantaran",
+    "postal_code": "67261"
   },
   {
     "code": "3513042005",
     "district_code": "351304",
-    "name": "Legundi"
+    "name": "Legundi",
+    "postal_code": "67261"
   },
   {
     "code": "3513042006",
     "district_code": "351304",
-    "name": "Tempuran"
+    "name": "Tempuran",
+    "postal_code": "67261"
   },
   {
     "code": "3513042007",
     "district_code": "351304",
-    "name": "Kropak"
+    "name": "Kropak",
+    "postal_code": "67261"
   },
   {
     "code": "3513042008",
     "district_code": "351304",
-    "name": "Besuk"
+    "name": "Besuk",
+    "postal_code": "67283"
   },
   {
     "code": "3513042009",
     "district_code": "351304",
-    "name": "Kramatagung"
+    "name": "Kramatagung",
+    "postal_code": "67261"
   },
   {
     "code": "3513042010",
     "district_code": "351304",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "67261"
   }
 ]

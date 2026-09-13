@@ -2,51 +2,61 @@
   {
     "code": "9207011001",
     "district_code": "920701",
-    "name": "Wasior I"
+    "name": "Wasior I",
+    "postal_code": "98346"
   },
   {
     "code": "9207012002",
     "district_code": "920701",
-    "name": "Rado"
+    "name": "Rado",
+    "postal_code": "98346"
   },
   {
     "code": "9207012003",
     "district_code": "920701",
-    "name": "Dotir"
+    "name": "Dotir",
+    "postal_code": "98346"
   },
   {
     "code": "9207012004",
     "district_code": "920701",
-    "name": "Maniwak"
+    "name": "Maniwak",
+    "postal_code": "98346"
   },
   {
     "code": "9207012005",
     "district_code": "920701",
-    "name": "Wasior II"
+    "name": "Wasior II",
+    "postal_code": "98346"
   },
   {
     "code": "9207012006",
     "district_code": "920701",
-    "name": "Maimari"
+    "name": "Maimari",
+    "postal_code": "98346"
   },
   {
     "code": "9207012007",
     "district_code": "920701",
-    "name": "Moru"
+    "name": "Moru",
+    "postal_code": "98346"
   },
   {
     "code": "9207012009",
     "district_code": "920701",
-    "name": "Manopi"
+    "name": "Manopi",
+    "postal_code": "98346"
   },
   {
     "code": "9207012010",
     "district_code": "920701",
-    "name": "Ramiki"
+    "name": "Ramiki",
+    "postal_code": "98346"
   },
   {
     "code": "9207012011",
     "district_code": "920701",
-    "name": "Iriati"
+    "name": "Iriati",
+    "postal_code": "98346"
   }
 ]

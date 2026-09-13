@@ -2,21 +2,25 @@
   {
     "code": "3301242001",
     "district_code": "330124",
-    "name": "Ujunggagak"
+    "name": "Ujunggagak",
+    "postal_code": "53253"
   },
   {
     "code": "3301242002",
     "district_code": "330124",
-    "name": "Ujungalang"
+    "name": "Ujungalang",
+    "postal_code": "53253"
   },
   {
     "code": "3301242003",
     "district_code": "330124",
-    "name": "Panikel"
+    "name": "Panikel",
+    "postal_code": "53253"
   },
   {
     "code": "3301242004",
     "district_code": "330124",
-    "name": "Klaces"
+    "name": "Klaces",
+    "postal_code": "53253"
   }
 ]

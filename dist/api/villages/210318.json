@@ -2,21 +2,25 @@
   {
     "code": "2103182001",
     "district_code": "210318",
-    "name": "Cemaga"
+    "name": "Cemaga",
+    "postal_code": "29783"
   },
   {
     "code": "2103182002",
     "district_code": "210318",
-    "name": "Cemaga Selatan"
+    "name": "Cemaga Selatan",
+    "postal_code": "29783"
   },
   {
     "code": "2103182003",
     "district_code": "210318",
-    "name": "Cemaga Utara"
+    "name": "Cemaga Utara",
+    "postal_code": "29783"
   },
   {
     "code": "2103182004",
     "district_code": "210318",
-    "name": "Cemaga Tengah"
+    "name": "Cemaga Tengah",
+    "postal_code": "29783"
   }
 ]

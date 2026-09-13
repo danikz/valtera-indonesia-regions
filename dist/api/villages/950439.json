@@ -2,51 +2,61 @@
   {
     "code": "9504392001",
     "district_code": "950439",
-    "name": "Wania"
+    "name": "Wania",
+    "postal_code": "99014"
   },
   {
     "code": "9504392002",
     "district_code": "950439",
-    "name": "Milipaa"
+    "name": "Milipaa",
+    "postal_code": "99014"
   },
   {
     "code": "9504392003",
     "district_code": "950439",
-    "name": "Tarawi"
+    "name": "Tarawi",
+    "postal_code": "99014"
   },
   {
     "code": "9504392004",
     "district_code": "950439",
-    "name": "Niagale"
+    "name": "Niagale",
+    "postal_code": "99014"
   },
   {
     "code": "9504392005",
     "district_code": "950439",
-    "name": "Bumbu"
+    "name": "Bumbu",
+    "postal_code": "99014"
   },
   {
     "code": "9504392006",
     "district_code": "950439",
-    "name": "Ambena"
+    "name": "Ambena",
+    "postal_code": "99014"
   },
   {
     "code": "9504392007",
     "district_code": "950439",
-    "name": "Gunombo"
+    "name": "Gunombo",
+    "postal_code": "99014"
   },
   {
     "code": "9504392008",
     "district_code": "950439",
-    "name": "Mawi"
+    "name": "Mawi",
+    "postal_code": "99014"
   },
   {
     "code": "9504392009",
     "district_code": "950439",
-    "name": "Ripa"
+    "name": "Ripa",
+    "postal_code": "99014"
   },
   {
     "code": "9504392010",
     "district_code": "950439",
-    "name": "Delegari"
+    "name": "Delegari",
+    "postal_code": "99014"
   }
 ]

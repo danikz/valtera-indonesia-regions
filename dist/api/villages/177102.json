@@ -2,26 +2,31 @@
   {
     "code": "1771021001",
     "district_code": "177102",
-    "name": "Padang Harapan"
+    "name": "Padang Harapan",
+    "postal_code": "38225"
   },
   {
     "code": "1771021002",
     "district_code": "177102",
-    "name": "Jalan Gedang"
+    "name": "Jalan Gedang",
+    "postal_code": "38225"
   },
   {
     "code": "1771021021",
     "district_code": "177102",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "38229"
   },
   {
     "code": "1771021024",
     "district_code": "177102",
-    "name": "Lingkar Barat"
+    "name": "Lingkar Barat",
+    "postal_code": "38221"
   },
   {
     "code": "1771021027",
     "district_code": "177102",
-    "name": "Cempaka Permai"
+    "name": "Cempaka Permai",
+    "postal_code": "38221"
   }
 ]

@@ -2,16 +2,19 @@
   {
     "code": "3172051001",
     "district_code": "317205",
-    "name": "Pademangan Timur"
+    "name": "Pademangan Timur",
+    "postal_code": "14410"
   },
   {
     "code": "3172051002",
     "district_code": "317205",
-    "name": "Pademangan Barat"
+    "name": "Pademangan Barat",
+    "postal_code": "14420"
   },
   {
     "code": "3172051003",
     "district_code": "317205",
-    "name": "Ancol"
+    "name": "Ancol",
+    "postal_code": "14430"
   }
 ]

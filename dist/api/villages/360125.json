@@ -2,21 +2,25 @@
   {
     "code": "3601251001",
     "district_code": "360125",
-    "name": "Kadumerak"
+    "name": "Kadumerak",
+    "postal_code": "42213"
   },
   {
     "code": "3601251002",
     "district_code": "360125",
-    "name": "Cigadung"
+    "name": "Cigadung",
+    "postal_code": "42213"
   },
   {
     "code": "3601251003",
     "district_code": "360125",
-    "name": "Pagadungan"
+    "name": "Pagadungan",
+    "postal_code": "42213"
   },
   {
     "code": "3601251014",
     "district_code": "360125",
-    "name": "Juhut"
+    "name": "Juhut",
+    "postal_code": "42213"
   }
 ]

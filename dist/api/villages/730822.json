@@ -2,41 +2,49 @@
   {
     "code": "7308221001",
     "district_code": "730822",
-    "name": "Macege"
+    "name": "Macege",
+    "postal_code": "92732"
   },
   {
     "code": "7308221002",
     "district_code": "730822",
-    "name": "Matirro Walie"
+    "name": "Matirro Walie",
+    "postal_code": "92731"
   },
   {
     "code": "7308221003",
     "district_code": "730822",
-    "name": "Macanang"
+    "name": "Macanang",
+    "postal_code": "92733"
   },
   {
     "code": "7308221004",
     "district_code": "730822",
-    "name": "Majang"
+    "name": "Majang",
+    "postal_code": "92734"
   },
   {
     "code": "7308221005",
     "district_code": "730822",
-    "name": "Bulu Tempe"
+    "name": "Bulu Tempe",
+    "postal_code": "92735"
   },
   {
     "code": "7308221006",
     "district_code": "730822",
-    "name": "Jeppee"
+    "name": "Jeppee",
+    "postal_code": "92732"
   },
   {
     "code": "7308221007",
     "district_code": "730822",
-    "name": "Polewali"
+    "name": "Polewali",
+    "postal_code": "92731"
   },
   {
     "code": "7308221008",
     "district_code": "730822",
-    "name": "Watang Palakka"
+    "name": "Watang Palakka",
+    "postal_code": "92731"
   }
 ]

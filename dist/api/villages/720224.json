@@ -2,26 +2,31 @@
   {
     "code": "7202242001",
     "district_code": "720224",
-    "name": "Winowanga"
+    "name": "Winowanga",
+    "postal_code": "94657"
   },
   {
     "code": "7202242002",
     "district_code": "720224",
-    "name": "Maholo"
+    "name": "Maholo",
+    "postal_code": "94657"
   },
   {
     "code": "7202242003",
     "district_code": "720224",
-    "name": "Tamadue"
+    "name": "Tamadue",
+    "postal_code": "94657"
   },
   {
     "code": "7202242004",
     "district_code": "720224",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "94657"
   },
   {
     "code": "7202242005",
     "district_code": "720224",
-    "name": "Kalemago"
+    "name": "Kalemago",
+    "postal_code": "94657"
   }
 ]

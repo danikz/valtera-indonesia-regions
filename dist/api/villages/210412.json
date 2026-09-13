@@ -2,16 +2,19 @@
   {
     "code": "2104122001",
     "district_code": "210412",
-    "name": "Temiang"
+    "name": "Temiang",
+    "postal_code": "29873"
   },
   {
     "code": "2104122002",
     "district_code": "210412",
-    "name": "Tajur Biru"
+    "name": "Tajur Biru",
+    "postal_code": "29873"
   },
   {
     "code": "2104122003",
     "district_code": "210412",
-    "name": "Pulau Batang"
+    "name": "Pulau Batang",
+    "postal_code": "29873"
   }
 ]

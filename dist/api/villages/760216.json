@@ -2,11 +2,13 @@
   {
     "code": "7602162001",
     "district_code": "760216",
-    "name": "Bala Balakang"
+    "name": "Bala Balakang",
+    "postal_code": "91512"
   },
   {
     "code": "7602162002",
     "district_code": "760216",
-    "name": "Bala-Balakang Timur"
+    "name": "Bala-Balakang Timur",
+    "postal_code": "91512"
   }
 ]

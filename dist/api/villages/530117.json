@@ -2,41 +2,49 @@
   {
     "code": "5301171001",
     "district_code": "530117",
-    "name": "Teunbaun"
+    "name": "Teunbaun",
+    "postal_code": "85376"
   },
   {
     "code": "5301172002",
     "district_code": "530117",
-    "name": "Soba"
+    "name": "Soba",
+    "postal_code": "85376"
   },
   {
     "code": "5301172003",
     "district_code": "530117",
-    "name": "Toobaun"
+    "name": "Toobaun",
+    "postal_code": "85376"
   },
   {
     "code": "5301172004",
     "district_code": "530117",
-    "name": "Niukbaun"
+    "name": "Niukbaun",
+    "postal_code": "85376"
   },
   {
     "code": "5301172005",
     "district_code": "530117",
-    "name": "Tunbaun"
+    "name": "Tunbaun",
+    "postal_code": "85376"
   },
   {
     "code": "5301172006",
     "district_code": "530117",
-    "name": "Nekbaun"
+    "name": "Nekbaun",
+    "postal_code": "85376"
   },
   {
     "code": "5301172007",
     "district_code": "530117",
-    "name": "Merbaun"
+    "name": "Merbaun",
+    "postal_code": "85376"
   },
   {
     "code": "5301172008",
     "district_code": "530117",
-    "name": "Erbaun"
+    "name": "Erbaun",
+    "postal_code": "85376"
   }
 ]

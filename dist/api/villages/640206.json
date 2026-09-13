@@ -2,71 +2,85 @@
   {
     "code": "6402061001",
     "district_code": "640206",
-    "name": "Jahab"
+    "name": "Jahab",
+    "postal_code": "75511"
   },
   {
     "code": "6402061002",
     "district_code": "640206",
-    "name": "Loa Ipuh"
+    "name": "Loa Ipuh",
+    "postal_code": "75513"
   },
   {
     "code": "6402061003",
     "district_code": "640206",
-    "name": "Bukit Biru"
+    "name": "Bukit Biru",
+    "postal_code": "75511"
   },
   {
     "code": "6402061004",
     "district_code": "640206",
-    "name": "Timbau"
+    "name": "Timbau",
+    "postal_code": "75511"
   },
   {
     "code": "6402061005",
     "district_code": "640206",
-    "name": "Melayu"
+    "name": "Melayu",
+    "postal_code": "75512"
   },
   {
     "code": "6402061006",
     "district_code": "640206",
-    "name": "Panji"
+    "name": "Panji",
+    "postal_code": "75514"
   },
   {
     "code": "6402061007",
     "district_code": "640206",
-    "name": "Sukarame"
+    "name": "Sukarame",
+    "postal_code": "75515"
   },
   {
     "code": "6402061008",
     "district_code": "640206",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "75511"
   },
   {
     "code": "6402061009",
     "district_code": "640206",
-    "name": "Loa Tebu"
+    "name": "Loa Tebu",
+    "postal_code": "75511"
   },
   {
     "code": "6402061010",
     "district_code": "640206",
-    "name": "Mangkurawang"
+    "name": "Mangkurawang",
+    "postal_code": "75517"
   },
   {
     "code": "6402061011",
     "district_code": "640206",
-    "name": "Maluhu"
+    "name": "Maluhu",
+    "postal_code": "75511"
   },
   {
     "code": "6402061013",
     "district_code": "640206",
-    "name": "Loa Ipuh Darat"
+    "name": "Loa Ipuh Darat",
+    "postal_code": "75511"
   },
   {
     "code": "6402062012",
     "district_code": "640206",
-    "name": "Rampak Lambur"
+    "name": "Rampak Lambur",
+    "postal_code": "75511"
   },
   {
     "code": "6402062014",
     "district_code": "640206",
-    "name": "Bendang Raya"
+    "name": "Bendang Raya",
+    "postal_code": "75511"
   }
 ]

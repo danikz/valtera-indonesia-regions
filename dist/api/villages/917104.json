@@ -2,41 +2,49 @@
   {
     "code": "9171041004",
     "district_code": "917104",
-    "name": "Koya Barat"
+    "name": "Koya Barat",
+    "postal_code": "99312"
   },
   {
     "code": "9171041005",
     "district_code": "917104",
-    "name": "Koya Timur"
+    "name": "Koya Timur",
+    "postal_code": "99314"
   },
   {
     "code": "9171042001",
     "district_code": "917104",
-    "name": "Skouw Mabo"
+    "name": "Skouw Mabo",
+    "postal_code": "99316"
   },
   {
     "code": "9171042002",
     "district_code": "917104",
-    "name": "Skouw Yambe"
+    "name": "Skouw Yambe",
+    "postal_code": "99315"
   },
   {
     "code": "9171042003",
     "district_code": "917104",
-    "name": "Skouw Sae"
+    "name": "Skouw Sae",
+    "postal_code": "99317"
   },
   {
     "code": "9171042006",
     "district_code": "917104",
-    "name": "Holtekamp"
+    "name": "Holtekamp",
+    "postal_code": "99311"
   },
   {
     "code": "9171042007",
     "district_code": "917104",
-    "name": "Koya Tengah"
+    "name": "Koya Tengah",
+    "postal_code": "99313"
   },
   {
     "code": "9171042008",
     "district_code": "917104",
-    "name": "Mosso"
+    "name": "Mosso",
+    "postal_code": "99318"
   }
 ]

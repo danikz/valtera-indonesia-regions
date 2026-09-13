@@ -2,51 +2,61 @@
   {
     "code": "6205051013",
     "district_code": "620505",
-    "name": "Lanjas"
+    "name": "Lanjas",
+    "postal_code": "73812"
   },
   {
     "code": "6205051014",
     "district_code": "620505",
-    "name": "Melayu"
+    "name": "Melayu",
+    "postal_code": "73811"
   },
   {
     "code": "6205052010",
     "district_code": "620505",
-    "name": "Lemo I"
+    "name": "Lemo I",
+    "postal_code": "73814"
   },
   {
     "code": "6205052011",
     "district_code": "620505",
-    "name": "Lemo II"
+    "name": "Lemo II",
+    "postal_code": "73814"
   },
   {
     "code": "6205052012",
     "district_code": "620505",
-    "name": "Pendreh"
+    "name": "Pendreh",
+    "postal_code": "73814"
   },
   {
     "code": "6205052017",
     "district_code": "620505",
-    "name": "Rimba Sari"
+    "name": "Rimba Sari",
+    "postal_code": "73814"
   },
   {
     "code": "6205052018",
     "district_code": "620505",
-    "name": "Sei Rahayu I"
+    "name": "Sei Rahayu I",
+    "postal_code": "73814"
   },
   {
     "code": "6205052022",
     "district_code": "620505",
-    "name": "Sei Rahayu II"
+    "name": "Sei Rahayu II",
+    "postal_code": "73814"
   },
   {
     "code": "6205052024",
     "district_code": "620505",
-    "name": "Beringin Raya"
+    "name": "Beringin Raya",
+    "postal_code": "73814"
   },
   {
     "code": "6205052025",
     "district_code": "620505",
-    "name": "Datai Nirui"
+    "name": "Datai Nirui",
+    "postal_code": "73814"
   }
 ]

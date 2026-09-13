@@ -2,51 +2,61 @@
   {
     "code": "1118072001",
     "district_code": "111807",
-    "name": "Keude Panteraja"
+    "name": "Keude Panteraja",
+    "postal_code": "24185"
   },
   {
     "code": "1118072002",
     "district_code": "111807",
-    "name": "Tu"
+    "name": "Tu",
+    "postal_code": "24185"
   },
   {
     "code": "1118072003",
     "district_code": "111807",
-    "name": "Hagu"
+    "name": "Hagu",
+    "postal_code": "24185"
   },
   {
     "code": "1118072004",
     "district_code": "111807",
-    "name": "Muka Blang"
+    "name": "Muka Blang",
+    "postal_code": "24185"
   },
   {
     "code": "1118072005",
     "district_code": "111807",
-    "name": "Lhok Puuk"
+    "name": "Lhok Puuk",
+    "postal_code": "24185"
   },
   {
     "code": "1118072006",
     "district_code": "111807",
-    "name": "Mesjid"
+    "name": "Mesjid",
+    "postal_code": "24185"
   },
   {
     "code": "1118072007",
     "district_code": "111807",
-    "name": "Teungoh"
+    "name": "Teungoh",
+    "postal_code": "24185"
   },
   {
     "code": "1118072008",
     "district_code": "111807",
-    "name": "Tunong"
+    "name": "Tunong",
+    "postal_code": "24185"
   },
   {
     "code": "1118072009",
     "district_code": "111807",
-    "name": "Peurade"
+    "name": "Peurade",
+    "postal_code": "24185"
   },
   {
     "code": "1118072010",
     "district_code": "111807",
-    "name": "Reudeup"
+    "name": "Reudeup",
+    "postal_code": "24185"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "9210102001",
     "district_code": "921010",
-    "name": "Kambuaya"
+    "name": "Kambuaya",
+    "postal_code": ""
   },
   {
     "code": "9210102002",
     "district_code": "921010",
-    "name": "Huberita"
+    "name": "Huberita",
+    "postal_code": ""
   },
   {
     "code": "9210102003",
     "district_code": "921010",
-    "name": "Faitmajin"
+    "name": "Faitmajin",
+    "postal_code": ""
   },
   {
     "code": "9210102006",
     "district_code": "921010",
-    "name": "Ismayo"
+    "name": "Ismayo",
+    "postal_code": ""
   },
   {
     "code": "9210102007",
     "district_code": "921010",
-    "name": "Sefayit"
+    "name": "Sefayit",
+    "postal_code": ""
   },
   {
     "code": "9210102008",
     "district_code": "921010",
-    "name": "Insas"
+    "name": "Insas",
+    "postal_code": ""
   },
   {
     "code": "9210102009",
     "district_code": "921010",
-    "name": "Faitsiur"
+    "name": "Faitsiur",
+    "postal_code": ""
   },
   {
     "code": "9210102010",
     "district_code": "921010",
-    "name": "Keyum"
+    "name": "Keyum",
+    "postal_code": ""
   }
 ]

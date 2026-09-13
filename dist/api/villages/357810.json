@@ -2,41 +2,49 @@
   {
     "code": "3578101001",
     "district_code": "357810",
-    "name": "Tambaksari"
+    "name": "Tambaksari",
+    "postal_code": "60136"
   },
   {
     "code": "3578101002",
     "district_code": "357810",
-    "name": "Ploso"
+    "name": "Ploso",
+    "postal_code": "60133"
   },
   {
     "code": "3578101003",
     "district_code": "357810",
-    "name": "Gading"
+    "name": "Gading",
+    "postal_code": "60134"
   },
   {
     "code": "3578101004",
     "district_code": "357810",
-    "name": "Pacarkembang"
+    "name": "Pacarkembang",
+    "postal_code": "60132"
   },
   {
     "code": "3578101005",
     "district_code": "357810",
-    "name": "Rangkah"
+    "name": "Rangkah",
+    "postal_code": "60135"
   },
   {
     "code": "3578101006",
     "district_code": "357810",
-    "name": "Pacarkeling"
+    "name": "Pacarkeling",
+    "postal_code": "60131"
   },
   {
     "code": "3578101007",
     "district_code": "357810",
-    "name": "Kapas Madya Baru"
+    "name": "Kapas Madya Baru",
+    "postal_code": "60137"
   },
   {
     "code": "3578101008",
     "district_code": "357810",
-    "name": "Dukuh Setro"
+    "name": "Dukuh Setro",
+    "postal_code": "60138"
   }
 ]

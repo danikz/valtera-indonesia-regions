@@ -2,56 +2,67 @@
   {
     "code": "3207032001",
     "district_code": "320703",
-    "name": "Handapherang"
+    "name": "Handapherang",
+    "postal_code": "46271"
   },
   {
     "code": "3207032002",
     "district_code": "320703",
-    "name": "Ciharalang"
+    "name": "Ciharalang",
+    "postal_code": "46271"
   },
   {
     "code": "3207032003",
     "district_code": "320703",
-    "name": "Bojongmengger"
+    "name": "Bojongmengger",
+    "postal_code": "46271"
   },
   {
     "code": "3207032004",
     "district_code": "320703",
-    "name": "Karangkamulyan"
+    "name": "Karangkamulyan",
+    "postal_code": "46271"
   },
   {
     "code": "3207032005",
     "district_code": "320703",
-    "name": "Kertabumi"
+    "name": "Kertabumi",
+    "postal_code": "46271"
   },
   {
     "code": "3207032006",
     "district_code": "320703",
-    "name": "Cijeungjing"
+    "name": "Cijeungjing",
+    "postal_code": "46271"
   },
   {
     "code": "3207032007",
     "district_code": "320703",
-    "name": "Pamalayan"
+    "name": "Pamalayan",
+    "postal_code": "46271"
   },
   {
     "code": "3207032008",
     "district_code": "320703",
-    "name": "Dewasari"
+    "name": "Dewasari",
+    "postal_code": "46271"
   },
   {
     "code": "3207032009",
     "district_code": "320703",
-    "name": "Utama"
+    "name": "Utama",
+    "postal_code": "46271"
   },
   {
     "code": "3207032010",
     "district_code": "320703",
-    "name": "Kertaharja"
+    "name": "Kertaharja",
+    "postal_code": "46271"
   },
   {
     "code": "3207032011",
     "district_code": "320703",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "46271"
   }
 ]

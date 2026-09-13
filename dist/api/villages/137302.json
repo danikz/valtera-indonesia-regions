@@ -2,51 +2,61 @@
   {
     "code": "1373021001",
     "district_code": "137302",
-    "name": "Saringan"
+    "name": "Saringan",
+    "postal_code": "27421"
   },
   {
     "code": "1373021002",
     "district_code": "137302",
-    "name": "Lubang Panjang"
+    "name": "Lubang Panjang",
+    "postal_code": "27424"
   },
   {
     "code": "1373021003",
     "district_code": "137302",
-    "name": "Durian I"
+    "name": "Durian I",
+    "postal_code": "27425"
   },
   {
     "code": "1373021004",
     "district_code": "137302",
-    "name": "Durian II"
+    "name": "Durian II",
+    "postal_code": "27425"
   },
   {
     "code": "1373022005",
     "district_code": "137302",
-    "name": "Santua"
+    "name": "Santua",
+    "postal_code": "27424"
   },
   {
     "code": "1373022006",
     "district_code": "137302",
-    "name": "Kolok Mudiak"
+    "name": "Kolok Mudiak",
+    "postal_code": "27425"
   },
   {
     "code": "1373022007",
     "district_code": "137302",
-    "name": "Kolok Nan Tuo"
+    "name": "Kolok Nan Tuo",
+    "postal_code": "27427"
   },
   {
     "code": "1373022008",
     "district_code": "137302",
-    "name": "Talago Gunung"
+    "name": "Talago Gunung",
+    "postal_code": "27423"
   },
   {
     "code": "1373022009",
     "district_code": "137302",
-    "name": "Lumindai"
+    "name": "Lumindai",
+    "postal_code": "27421"
   },
   {
     "code": "1373022010",
     "district_code": "137302",
-    "name": "Balai Batu Sadara"
+    "name": "Balai Batu Sadara",
+    "postal_code": "27422"
   }
 ]

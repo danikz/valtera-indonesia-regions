@@ -2,26 +2,31 @@
   {
     "code": "6402151001",
     "district_code": "640215",
-    "name": "Jawa"
+    "name": "Jawa",
+    "postal_code": "75251"
   },
   {
     "code": "6402151002",
     "district_code": "640215",
-    "name": "Pendingin"
+    "name": "Pendingin",
+    "postal_code": "75256"
   },
   {
     "code": "6402151003",
     "district_code": "640215",
-    "name": "Sanga-Sanga Dalam"
+    "name": "Sanga-Sanga Dalam",
+    "postal_code": "75254"
   },
   {
     "code": "6402151004",
     "district_code": "640215",
-    "name": "Sari Jaya"
+    "name": "Sari Jaya",
+    "postal_code": "75251"
   },
   {
     "code": "6402151005",
     "district_code": "640215",
-    "name": "Sanga-Sanga Muara"
+    "name": "Sanga-Sanga Muara",
+    "postal_code": "75251"
   }
 ]

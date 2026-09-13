@@ -2,41 +2,49 @@
   {
     "code": "9508282001",
     "district_code": "950828",
-    "name": "Moba"
+    "name": "Moba",
+    "postal_code": "99926"
   },
   {
     "code": "9508282002",
     "district_code": "950828",
-    "name": "Gunea"
+    "name": "Gunea",
+    "postal_code": "99926"
   },
   {
     "code": "9508282003",
     "district_code": "950828",
-    "name": "Kwegono"
+    "name": "Kwegono",
+    "postal_code": "99926"
   },
   {
     "code": "9508282004",
     "district_code": "950828",
-    "name": "Langpang"
+    "name": "Langpang",
+    "postal_code": "99926"
   },
   {
     "code": "9508282005",
     "district_code": "950828",
-    "name": "Yeretma"
+    "name": "Yeretma",
+    "postal_code": "99926"
   },
   {
     "code": "9508282006",
     "district_code": "950828",
-    "name": "Anggulpa"
+    "name": "Anggulpa",
+    "postal_code": "99926"
   },
   {
     "code": "9508282007",
     "district_code": "950828",
-    "name": "Moba Dua"
+    "name": "Moba Dua",
+    "postal_code": "99926"
   },
   {
     "code": "9508282008",
     "district_code": "950828",
-    "name": "Pijama"
+    "name": "Pijama",
+    "postal_code": "99926"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "3302042001",
     "district_code": "330204",
-    "name": "Losari"
+    "name": "Losari",
+    "postal_code": "53173"
   },
   {
     "code": "3302042002",
     "district_code": "330204",
-    "name": "Menganti"
+    "name": "Menganti",
+    "postal_code": "53173"
   },
   {
     "code": "3302042003",
     "district_code": "330204",
-    "name": "Banjarparakan"
+    "name": "Banjarparakan",
+    "postal_code": "53173"
   },
   {
     "code": "3302042004",
     "district_code": "330204",
-    "name": "Rawalo"
+    "name": "Rawalo",
+    "postal_code": "53173"
   },
   {
     "code": "3302042005",
     "district_code": "330204",
-    "name": "Tambaknegara"
+    "name": "Tambaknegara",
+    "postal_code": "53173"
   },
   {
     "code": "3302042006",
     "district_code": "330204",
-    "name": "Sidamulih"
+    "name": "Sidamulih",
+    "postal_code": "53173"
   },
   {
     "code": "3302042007",
     "district_code": "330204",
-    "name": "Pesawahan"
+    "name": "Pesawahan",
+    "postal_code": "53173"
   },
   {
     "code": "3302042008",
     "district_code": "330204",
-    "name": "Tipar"
+    "name": "Tipar",
+    "postal_code": "53173"
   },
   {
     "code": "3302042009",
     "district_code": "330204",
-    "name": "Sanggreman"
+    "name": "Sanggreman",
+    "postal_code": "53173"
   }
 ]

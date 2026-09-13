@@ -2,31 +2,37 @@
   {
     "code": "5308091001",
     "district_code": "530809",
-    "name": "Wolojita"
+    "name": "Wolojita",
+    "postal_code": "86382"
   },
   {
     "code": "5308092002",
     "district_code": "530809",
-    "name": "Tenda"
+    "name": "Tenda",
+    "postal_code": "86382"
   },
   {
     "code": "5308092003",
     "district_code": "530809",
-    "name": "Wiwipemo"
+    "name": "Wiwipemo",
+    "postal_code": "86382"
   },
   {
     "code": "5308092004",
     "district_code": "530809",
-    "name": "Pora"
+    "name": "Pora",
+    "postal_code": "86382"
   },
   {
     "code": "5308092005",
     "district_code": "530809",
-    "name": "Nuamulu"
+    "name": "Nuamulu",
+    "postal_code": "86382"
   },
   {
     "code": "5308092006",
     "district_code": "530809",
-    "name": "Nggela"
+    "name": "Nggela",
+    "postal_code": "86382"
   }
 ]

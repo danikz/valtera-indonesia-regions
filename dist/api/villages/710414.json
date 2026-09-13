@@ -2,41 +2,49 @@
   {
     "code": "7104141001",
     "district_code": "710414",
-    "name": "Makatara"
+    "name": "Makatara",
+    "postal_code": "95881"
   },
   {
     "code": "7104141002",
     "district_code": "710414",
-    "name": "Makatara Timur"
+    "name": "Makatara Timur",
+    "postal_code": "95881"
   },
   {
     "code": "7104142003",
     "district_code": "710414",
-    "name": "Awit"
+    "name": "Awit",
+    "postal_code": "95881"
   },
   {
     "code": "7104142004",
     "district_code": "710414",
-    "name": "Awit Selatan"
+    "name": "Awit Selatan",
+    "postal_code": "95881"
   },
   {
     "code": "7104142005",
     "district_code": "710414",
-    "name": "Rae"
+    "name": "Rae",
+    "postal_code": "95881"
   },
   {
     "code": "7104142006",
     "district_code": "710414",
-    "name": "Rae Selatan"
+    "name": "Rae Selatan",
+    "postal_code": "95881"
   },
   {
     "code": "7104142007",
     "district_code": "710414",
-    "name": "Lobbo"
+    "name": "Lobbo",
+    "postal_code": "95881"
   },
   {
     "code": "7104142008",
     "district_code": "710414",
-    "name": "Lobbo I"
+    "name": "Lobbo I",
+    "postal_code": "95881"
   }
 ]

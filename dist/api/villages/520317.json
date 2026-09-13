@@ -2,61 +2,73 @@
   {
     "code": "5203171004",
     "district_code": "520317",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "83614"
   },
   {
     "code": "5203171005",
     "district_code": "520317",
-    "name": "Suryawangi"
+    "name": "Suryawangi",
+    "postal_code": "83616"
   },
   {
     "code": "5203171007",
     "district_code": "520317",
-    "name": "Ijobalit"
+    "name": "Ijobalit",
+    "postal_code": "83615"
   },
   {
     "code": "5203171012",
     "district_code": "520317",
-    "name": "Geres"
+    "name": "Geres",
+    "postal_code": "83615"
   },
   {
     "code": "5203172001",
     "district_code": "520317",
-    "name": "Labuhan Haji"
+    "name": "Labuhan Haji",
+    "postal_code": "83616"
   },
   {
     "code": "5203172002",
     "district_code": "520317",
-    "name": "Peneda Gandor"
+    "name": "Peneda Gandor",
+    "postal_code": "83617"
   },
   {
     "code": "5203172003",
     "district_code": "520317",
-    "name": "Teros"
+    "name": "Teros",
+    "postal_code": "83614"
   },
   {
     "code": "5203172006",
     "district_code": "520317",
-    "name": "Korleko"
+    "name": "Korleko",
+    "postal_code": "83615"
   },
   {
     "code": "5203172008",
     "district_code": "520317",
-    "name": "Kertasari"
+    "name": "Kertasari",
+    "postal_code": "83617"
   },
   {
     "code": "5203172009",
     "district_code": "520317",
-    "name": "Tirtanadi"
+    "name": "Tirtanadi",
+    "postal_code": "83615"
   },
   {
     "code": "5203172010",
     "district_code": "520317",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "83614"
   },
   {
     "code": "5203172011",
     "district_code": "520317",
-    "name": "Korleko Selatan"
+    "name": "Korleko Selatan",
+    "postal_code": "83615"
   }
 ]

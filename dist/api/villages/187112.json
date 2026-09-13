@@ -2,36 +2,43 @@
   {
     "code": "1871121002",
     "district_code": "187112",
-    "name": "Sukabumi"
+    "name": "Sukabumi",
+    "postal_code": "35134"
   },
   {
     "code": "1871121004",
     "district_code": "187112",
-    "name": "Sukabumi Indah"
+    "name": "Sukabumi Indah",
+    "postal_code": "35132"
   },
   {
     "code": "1871121007",
     "district_code": "187112",
-    "name": "Campang Raya"
+    "name": "Campang Raya",
+    "postal_code": "35122"
   },
   {
     "code": "1871121008",
     "district_code": "187112",
-    "name": "Nusantara Permai"
+    "name": "Nusantara Permai",
+    "postal_code": "35122"
   },
   {
     "code": "1871121009",
     "district_code": "187112",
-    "name": "Campang Jaya"
+    "name": "Campang Jaya",
+    "postal_code": "35122"
   },
   {
     "code": "1871121010",
     "district_code": "187112",
-    "name": "Way Gubak"
+    "name": "Way Gubak",
+    "postal_code": "35244"
   },
   {
     "code": "1871121011",
     "district_code": "187112",
-    "name": "Way Laga"
+    "name": "Way Laga",
+    "postal_code": "35245"
   }
 ]

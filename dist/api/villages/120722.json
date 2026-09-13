@@ -2,31 +2,37 @@
   {
     "code": "1207221004",
     "district_code": "120722",
-    "name": "Deli Tua"
+    "name": "Deli Tua",
+    "postal_code": "20355"
   },
   {
     "code": "1207221005",
     "district_code": "120722",
-    "name": "Deli Tua Timur"
+    "name": "Deli Tua Timur",
+    "postal_code": "20355"
   },
   {
     "code": "1207221006",
     "district_code": "120722",
-    "name": "Deli Tua Barat"
+    "name": "Deli Tua Barat",
+    "postal_code": "20355"
   },
   {
     "code": "1207222001",
     "district_code": "120722",
-    "name": "Kedai Durian"
+    "name": "Kedai Durian",
+    "postal_code": "20355"
   },
   {
     "code": "1207222002",
     "district_code": "120722",
-    "name": "Suka Makmur"
+    "name": "Suka Makmur",
+    "postal_code": "20355"
   },
   {
     "code": "1207222003",
     "district_code": "120722",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "20355"
   }
 ]

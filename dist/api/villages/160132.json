@@ -2,41 +2,49 @@
   {
     "code": "1601322001",
     "district_code": "160132",
-    "name": "Bunglai"
+    "name": "Bunglai",
+    "postal_code": "32193"
   },
   {
     "code": "1601322002",
     "district_code": "160132",
-    "name": "Kedaton"
+    "name": "Kedaton",
+    "postal_code": "32193"
   },
   {
     "code": "1601322003",
     "district_code": "160132",
-    "name": "Kampai"
+    "name": "Kampai",
+    "postal_code": "32193"
   },
   {
     "code": "1601322004",
     "district_code": "160132",
-    "name": "Rantau Panjang"
+    "name": "Rantau Panjang",
+    "postal_code": "32193"
   },
   {
     "code": "1601322005",
     "district_code": "160132",
-    "name": "Kedaton Timur"
+    "name": "Kedaton Timur",
+    "postal_code": "32193"
   },
   {
     "code": "1601322006",
     "district_code": "160132",
-    "name": "Suka Pindah"
+    "name": "Suka Pindah",
+    "postal_code": "32193"
   },
   {
     "code": "1601322007",
     "district_code": "160132",
-    "name": "Sinar Kedaton"
+    "name": "Sinar Kedaton",
+    "postal_code": "32193"
   },
   {
     "code": "1601322008",
     "district_code": "160132",
-    "name": "Lubuk Kemiling"
+    "name": "Lubuk Kemiling",
+    "postal_code": "32193"
   }
 ]

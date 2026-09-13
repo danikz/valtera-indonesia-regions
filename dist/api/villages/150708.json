@@ -2,31 +2,37 @@
   {
     "code": "1507081001",
     "district_code": "150708",
-    "name": "Kampung Laut"
+    "name": "Kampung Laut",
+    "postal_code": "36760"
   },
   {
     "code": "1507081002",
     "district_code": "150708",
-    "name": "Tanjungsolok"
+    "name": "Tanjungsolok",
+    "postal_code": "36760"
   },
   {
     "code": "1507082003",
     "district_code": "150708",
-    "name": "Teluk Majelis"
+    "name": "Teluk Majelis",
+    "postal_code": "36760"
   },
   {
     "code": "1507082004",
     "district_code": "150708",
-    "name": "Kuala Lagan"
+    "name": "Kuala Lagan",
+    "postal_code": "36760"
   },
   {
     "code": "1507082005",
     "district_code": "150708",
-    "name": "Majelis Hidayah"
+    "name": "Majelis Hidayah",
+    "postal_code": "36760"
   },
   {
     "code": "1507082006",
     "district_code": "150708",
-    "name": "Manunggal Makmur"
+    "name": "Manunggal Makmur",
+    "postal_code": "36760"
   }
 ]

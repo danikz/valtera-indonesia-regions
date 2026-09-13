@@ -2,26 +2,31 @@
   {
     "code": "3404012001",
     "district_code": "340401",
-    "name": "Balecatur"
+    "name": "Balecatur",
+    "postal_code": "55295"
   },
   {
     "code": "3404012002",
     "district_code": "340401",
-    "name": "Ambarketawang"
+    "name": "Ambarketawang",
+    "postal_code": "55294"
   },
   {
     "code": "3404012003",
     "district_code": "340401",
-    "name": "Banyuraden"
+    "name": "Banyuraden",
+    "postal_code": "55293"
   },
   {
     "code": "3404012004",
     "district_code": "340401",
-    "name": "Nogotirto"
+    "name": "Nogotirto",
+    "postal_code": "55592"
   },
   {
     "code": "3404012005",
     "district_code": "340401",
-    "name": "Trihanggo"
+    "name": "Trihanggo",
+    "postal_code": "55291"
   }
 ]

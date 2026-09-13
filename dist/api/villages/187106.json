@@ -2,36 +2,43 @@
   {
     "code": "1871061001",
     "district_code": "187106",
-    "name": "Durian Payung"
+    "name": "Durian Payung",
+    "postal_code": "35116"
   },
   {
     "code": "1871061002",
     "district_code": "187106",
-    "name": "Gotong Royong"
+    "name": "Gotong Royong",
+    "postal_code": "35119"
   },
   {
     "code": "1871061005",
     "district_code": "187106",
-    "name": "Palapa"
+    "name": "Palapa",
+    "postal_code": "35116"
   },
   {
     "code": "1871061006",
     "district_code": "187106",
-    "name": "Kaliawi"
+    "name": "Kaliawi",
+    "postal_code": "35115"
   },
   {
     "code": "1871061007",
     "district_code": "187106",
-    "name": "Kelapa Tiga"
+    "name": "Kelapa Tiga",
+    "postal_code": "35111"
   },
   {
     "code": "1871061010",
     "district_code": "187106",
-    "name": "Pasir Gintung"
+    "name": "Pasir Gintung",
+    "postal_code": "35113"
   },
   {
     "code": "1871061012",
     "district_code": "187106",
-    "name": "Kaliawi Persada"
+    "name": "Kaliawi Persada",
+    "postal_code": "35115"
   }
 ]

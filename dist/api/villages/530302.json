@@ -2,66 +2,79 @@
   {
     "code": "5303021026",
     "district_code": "530302",
-    "name": "Eban"
+    "name": "Eban",
+    "postal_code": ""
   },
   {
     "code": "5303021027",
     "district_code": "530302",
-    "name": "Sallu"
+    "name": "Sallu",
+    "postal_code": ""
   },
   {
     "code": "5303022001",
     "district_code": "530302",
-    "name": "Noepesu"
+    "name": "Noepesu",
+    "postal_code": "85661"
   },
   {
     "code": "5303022002",
     "district_code": "530302",
-    "name": "Fatuneno"
+    "name": "Fatuneno",
+    "postal_code": "85661"
   },
   {
     "code": "5303022003",
     "district_code": "530302",
-    "name": "Suanae"
+    "name": "Suanae",
+    "postal_code": "85661"
   },
   {
     "code": "5303022004",
     "district_code": "530302",
-    "name": "Lemon"
+    "name": "Lemon",
+    "postal_code": "85661"
   },
   {
     "code": "5303022005",
     "district_code": "530302",
-    "name": "Fatunisuan"
+    "name": "Fatunisuan",
+    "postal_code": "85661"
   },
   {
     "code": "5303022006",
     "district_code": "530302",
-    "name": "Haulasi"
+    "name": "Haulasi",
+    "postal_code": "85661"
   },
   {
     "code": "5303022018",
     "district_code": "530302",
-    "name": "Neotoko"
+    "name": "Neotoko",
+    "postal_code": "85661"
   },
   {
     "code": "5303022019",
     "district_code": "530302",
-    "name": "Fatutasu"
+    "name": "Fatutasu",
+    "postal_code": "85661"
   },
   {
     "code": "5303022020",
     "district_code": "530302",
-    "name": "Manusasi"
+    "name": "Manusasi",
+    "postal_code": "85661"
   },
   {
     "code": "5303022025",
     "district_code": "530302",
-    "name": "Saenam"
+    "name": "Saenam",
+    "postal_code": "85661"
   },
   {
     "code": "5303022028",
     "district_code": "530302",
-    "name": "Sa'tab"
+    "name": "Sa'tab",
+    "postal_code": "85661"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1604282001",
     "district_code": "160428",
-    "name": "Muara Payang"
+    "name": "Muara Payang",
+    "postal_code": "31590"
   },
   {
     "code": "1604282002",
     "district_code": "160428",
-    "name": "Muara Gelumpai"
+    "name": "Muara Gelumpai",
+    "postal_code": "31590"
   },
   {
     "code": "1604282003",
     "district_code": "160428",
-    "name": "Talang Tinggi"
+    "name": "Talang Tinggi",
+    "postal_code": "31590"
   },
   {
     "code": "1604282004",
     "district_code": "160428",
-    "name": "Lawang Agung Lama"
+    "name": "Lawang Agung Lama",
+    "postal_code": "31590"
   },
   {
     "code": "1604282005",
     "district_code": "160428",
-    "name": "Lawang Agung Baru"
+    "name": "Lawang Agung Baru",
+    "postal_code": "31590"
   },
   {
     "code": "1604282006",
     "district_code": "160428",
-    "name": "Muara Jauh"
+    "name": "Muara Jauh",
+    "postal_code": "31590"
   },
   {
     "code": "1604282007",
     "district_code": "160428",
-    "name": "Bandu Agung"
+    "name": "Bandu Agung",
+    "postal_code": "31590"
   }
 ]

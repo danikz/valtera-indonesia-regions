@@ -2,16 +2,19 @@
   {
     "code": "1302172001",
     "district_code": "130217",
-    "name": "Talang Babungo"
+    "name": "Talang Babungo",
+    "postal_code": "27372"
   },
   {
     "code": "1302172002",
     "district_code": "130217",
-    "name": "Sariak Alahan Tigo"
+    "name": "Sariak Alahan Tigo",
+    "postal_code": "27372"
   },
   {
     "code": "1302172003",
     "district_code": "130217",
-    "name": "Sungai Abu"
+    "name": "Sungai Abu",
+    "postal_code": "27372"
   }
 ]

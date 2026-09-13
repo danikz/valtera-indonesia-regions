@@ -2,31 +2,37 @@
   {
     "code": "7322092001",
     "district_code": "732209",
-    "name": "Rampi"
+    "name": "Rampi",
+    "postal_code": "92964"
   },
   {
     "code": "7322092002",
     "district_code": "732209",
-    "name": "Onondowa"
+    "name": "Onondowa",
+    "postal_code": "92964"
   },
   {
     "code": "7322092003",
     "district_code": "732209",
-    "name": "Leboni"
+    "name": "Leboni",
+    "postal_code": "92964"
   },
   {
     "code": "7322092004",
     "district_code": "732209",
-    "name": "Dodolo"
+    "name": "Dodolo",
+    "postal_code": "92964"
   },
   {
     "code": "7322092005",
     "district_code": "732209",
-    "name": "Sulaku"
+    "name": "Sulaku",
+    "postal_code": "92964"
   },
   {
     "code": "7322092006",
     "district_code": "732209",
-    "name": "Tedeboe"
+    "name": "Tedeboe",
+    "postal_code": "92964"
   }
 ]

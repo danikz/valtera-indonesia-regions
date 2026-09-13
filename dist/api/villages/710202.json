@@ -2,56 +2,67 @@
   {
     "code": "7102021001",
     "district_code": "710202",
-    "name": "Luaan"
+    "name": "Luaan",
+    "postal_code": "95614"
   },
   {
     "code": "7102021005",
     "district_code": "710202",
-    "name": "Ranowangko"
+    "name": "Ranowangko",
+    "postal_code": "95613"
   },
   {
     "code": "7102021006",
     "district_code": "710202",
-    "name": "Wengkol"
+    "name": "Wengkol",
+    "postal_code": "95613"
   },
   {
     "code": "7102021007",
     "district_code": "710202",
-    "name": "Kendis"
+    "name": "Kendis",
+    "postal_code": "95613"
   },
   {
     "code": "7102021008",
     "district_code": "710202",
-    "name": "Katinggolan"
+    "name": "Katinggolan",
+    "postal_code": "95612"
   },
   {
     "code": "7102021009",
     "district_code": "710202",
-    "name": "Liningaan"
+    "name": "Liningaan",
+    "postal_code": "95612"
   },
   {
     "code": "7102021010",
     "district_code": "710202",
-    "name": "Taler"
+    "name": "Taler",
+    "postal_code": "95611"
   },
   {
     "code": "7102021011",
     "district_code": "710202",
-    "name": "Kiniar"
+    "name": "Kiniar",
+    "postal_code": "95611"
   },
   {
     "code": "7102021012",
     "district_code": "710202",
-    "name": "Touluor"
+    "name": "Touluor",
+    "postal_code": "95611"
   },
   {
     "code": "7102021013",
     "district_code": "710202",
-    "name": "Papakelan"
+    "name": "Papakelan",
+    "postal_code": "95612"
   },
   {
     "code": "7102021014",
     "district_code": "710202",
-    "name": "Makalounsow"
+    "name": "Makalounsow",
+    "postal_code": "95612"
   }
 ]

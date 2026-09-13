@@ -2,26 +2,31 @@
   {
     "code": "1307022001",
     "district_code": "130702",
-    "name": "Guguak VIII Koto"
+    "name": "Guguak VIII Koto",
+    "postal_code": "26253"
   },
   {
     "code": "1307022002",
     "district_code": "130702",
-    "name": "VII Koto Talago"
+    "name": "VII Koto Talago",
+    "postal_code": "26253"
   },
   {
     "code": "1307022003",
     "district_code": "130702",
-    "name": "Sungai Talang"
+    "name": "Sungai Talang",
+    "postal_code": "26253"
   },
   {
     "code": "1307022004",
     "district_code": "130702",
-    "name": "Kubang"
+    "name": "Kubang",
+    "postal_code": "26253"
   },
   {
     "code": "1307022005",
     "district_code": "130702",
-    "name": "Simpang Sugiran"
+    "name": "Simpang Sugiran",
+    "postal_code": "26253"
   }
 ]

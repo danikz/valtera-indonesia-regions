@@ -2,66 +2,79 @@
   {
     "code": "9105011004",
     "district_code": "910501",
-    "name": "Tarau"
+    "name": "Tarau",
+    "postal_code": "98613"
   },
   {
     "code": "9105011005",
     "district_code": "910501",
-    "name": "Serui Kota"
+    "name": "Serui Kota",
+    "postal_code": "98616"
   },
   {
     "code": "9105011006",
     "district_code": "910501",
-    "name": "Serui Jaya"
+    "name": "Serui Jaya",
+    "postal_code": "98612"
   },
   {
     "code": "9105012014",
     "district_code": "910501",
-    "name": "Serui Laut"
+    "name": "Serui Laut",
+    "postal_code": "98627"
   },
   {
     "code": "9105012015",
     "district_code": "910501",
-    "name": "Banawa"
+    "name": "Banawa",
+    "postal_code": "98621"
   },
   {
     "code": "9105012017",
     "district_code": "910501",
-    "name": "Turu"
+    "name": "Turu",
+    "postal_code": "98617"
   },
   {
     "code": "9105012019",
     "district_code": "910501",
-    "name": "Pasir Hitam"
+    "name": "Pasir Hitam",
+    "postal_code": "98625"
   },
   {
     "code": "9105012020",
     "district_code": "910501",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "98626"
   },
   {
     "code": "9105012023",
     "district_code": "910501",
-    "name": "Manaini"
+    "name": "Manaini",
+    "postal_code": "98615"
   },
   {
     "code": "9105012024",
     "district_code": "910501",
-    "name": "Imandoa"
+    "name": "Imandoa",
+    "postal_code": "98614"
   },
   {
     "code": "9105012026",
     "district_code": "910501",
-    "name": "Barawaikap"
+    "name": "Barawaikap",
+    "postal_code": "98622"
   },
   {
     "code": "9105012027",
     "district_code": "910501",
-    "name": "Bawai"
+    "name": "Bawai",
+    "postal_code": "98623"
   },
   {
     "code": "9105012028",
     "district_code": "910501",
-    "name": "Nundawipi"
+    "name": "Nundawipi",
+    "postal_code": "98624"
   }
 ]

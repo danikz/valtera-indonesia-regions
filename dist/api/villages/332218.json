@@ -2,56 +2,67 @@
   {
     "code": "3322181006",
     "district_code": "332218",
-    "name": "Candirejo"
+    "name": "Candirejo",
+    "postal_code": "50513"
   },
   {
     "code": "3322181007",
     "district_code": "332218",
-    "name": "Genuk"
+    "name": "Genuk",
+    "postal_code": "50512"
   },
   {
     "code": "3322181008",
     "district_code": "332218",
-    "name": "Ungaran"
+    "name": "Ungaran",
+    "postal_code": "50511"
   },
   {
     "code": "3322181009",
     "district_code": "332218",
-    "name": "Bandarjo"
+    "name": "Bandarjo",
+    "postal_code": "50517"
   },
   {
     "code": "3322181010",
     "district_code": "332218",
-    "name": "Langensari"
+    "name": "Langensari",
+    "postal_code": "50518"
   },
   {
     "code": "3322182001",
     "district_code": "332218",
-    "name": "Branjang"
+    "name": "Branjang",
+    "postal_code": "50519"
   },
   {
     "code": "3322182002",
     "district_code": "332218",
-    "name": "Kalisidi"
+    "name": "Kalisidi",
+    "postal_code": "50519"
   },
   {
     "code": "3322182003",
     "district_code": "332218",
-    "name": "Keji"
+    "name": "Keji",
+    "postal_code": "50519"
   },
   {
     "code": "3322182004",
     "district_code": "332218",
-    "name": "Lerep"
+    "name": "Lerep",
+    "postal_code": "50519"
   },
   {
     "code": "3322182005",
     "district_code": "332218",
-    "name": "Nyatnyono"
+    "name": "Nyatnyono",
+    "postal_code": "50551"
   },
   {
     "code": "3322182011",
     "district_code": "332218",
-    "name": "Gogik"
+    "name": "Gogik",
+    "postal_code": "50551"
   }
 ]

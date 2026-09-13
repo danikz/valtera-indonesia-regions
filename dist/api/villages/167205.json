@@ -2,26 +2,31 @@
   {
     "code": "1672051001",
     "district_code": "167205",
-    "name": "Karang Dalo"
+    "name": "Karang Dalo",
+    "postal_code": "31520"
   },
   {
     "code": "1672051003",
     "district_code": "167205",
-    "name": "Pelang Kenidai"
+    "name": "Pelang Kenidai",
+    "postal_code": "31520"
   },
   {
     "code": "1672051008",
     "district_code": "167205",
-    "name": "Jokoh"
+    "name": "Jokoh",
+    "postal_code": "31520"
   },
   {
     "code": "1672051011",
     "district_code": "167205",
-    "name": "Padang Temu"
+    "name": "Padang Temu",
+    "postal_code": "31520"
   },
   {
     "code": "1672051012",
     "district_code": "167205",
-    "name": "Candi Jaya"
+    "name": "Candi Jaya",
+    "postal_code": "31520"
   }
 ]

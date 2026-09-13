@@ -2,21 +2,25 @@
   {
     "code": "9205202001",
     "district_code": "920520",
-    "name": "Yensawai Timur"
+    "name": "Yensawai Timur",
+    "postal_code": ""
   },
   {
     "code": "9205202002",
     "district_code": "920520",
-    "name": "Yensawai Barat"
+    "name": "Yensawai Barat",
+    "postal_code": ""
   },
   {
     "code": "9205202003",
     "district_code": "920520",
-    "name": "Arefi Timur"
+    "name": "Arefi Timur",
+    "postal_code": ""
   },
   {
     "code": "9205202004",
     "district_code": "920520",
-    "name": "Arefi Selatan"
+    "name": "Arefi Selatan",
+    "postal_code": ""
   }
 ]

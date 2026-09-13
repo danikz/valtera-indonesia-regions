@@ -2,71 +2,85 @@
   {
     "code": "3308081014",
     "district_code": "330808",
-    "name": "Muntilan"
+    "name": "Muntilan",
+    "postal_code": "56411"
   },
   {
     "code": "3308082001",
     "district_code": "330808",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "56415"
   },
   {
     "code": "3308082002",
     "district_code": "330808",
-    "name": "Sokorini"
+    "name": "Sokorini",
+    "postal_code": "56415"
   },
   {
     "code": "3308082003",
     "district_code": "330808",
-    "name": "Sriwedari"
+    "name": "Sriwedari",
+    "postal_code": "56415"
   },
   {
     "code": "3308082004",
     "district_code": "330808",
-    "name": "Congkrang"
+    "name": "Congkrang",
+    "postal_code": "56415"
   },
   {
     "code": "3308082005",
     "district_code": "330808",
-    "name": "Adikarto"
+    "name": "Adikarto",
+    "postal_code": "56415"
   },
   {
     "code": "3308082006",
     "district_code": "330808",
-    "name": "Menayu"
+    "name": "Menayu",
+    "postal_code": "56415"
   },
   {
     "code": "3308082007",
     "district_code": "330808",
-    "name": "Keji"
+    "name": "Keji",
+    "postal_code": "56415"
   },
   {
     "code": "3308082008",
     "district_code": "330808",
-    "name": "Ngawen"
+    "name": "Ngawen",
+    "postal_code": "56415"
   },
   {
     "code": "3308082009",
     "district_code": "330808",
-    "name": "Gunungpring"
+    "name": "Gunungpring",
+    "postal_code": "56415"
   },
   {
     "code": "3308082010",
     "district_code": "330808",
-    "name": "Pucungrejo"
+    "name": "Pucungrejo",
+    "postal_code": "56414"
   },
   {
     "code": "3308082011",
     "district_code": "330808",
-    "name": "Tamanagung"
+    "name": "Tamanagung",
+    "postal_code": "56413"
   },
   {
     "code": "3308082012",
     "district_code": "330808",
-    "name": "Gondosuli"
+    "name": "Gondosuli",
+    "postal_code": "56415"
   },
   {
     "code": "3308082013",
     "district_code": "330808",
-    "name": "Sedayu"
+    "name": "Sedayu",
+    "postal_code": "56412"
   }
 ]

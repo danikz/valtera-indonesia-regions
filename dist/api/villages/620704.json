@@ -2,36 +2,43 @@
   {
     "code": "6207042001",
     "district_code": "620704",
-    "name": "Tanjung Hanau"
+    "name": "Tanjung Hanau",
+    "postal_code": "74270"
   },
   {
     "code": "6207042002",
     "district_code": "620704",
-    "name": "Parang Batang"
+    "name": "Parang Batang",
+    "postal_code": "74270"
   },
   {
     "code": "6207042003",
     "district_code": "620704",
-    "name": "Bahaur"
+    "name": "Bahaur",
+    "postal_code": "74270"
   },
   {
     "code": "6207042004",
     "district_code": "620704",
-    "name": "Pembuang Hulu I"
+    "name": "Pembuang Hulu I",
+    "postal_code": "74270"
   },
   {
     "code": "6207042005",
     "district_code": "620704",
-    "name": "Pembuang Hulu II"
+    "name": "Pembuang Hulu II",
+    "postal_code": "74270"
   },
   {
     "code": "6207042006",
     "district_code": "620704",
-    "name": "Derangga"
+    "name": "Derangga",
+    "postal_code": "74270"
   },
   {
     "code": "6207042011",
     "district_code": "620704",
-    "name": "Paring Raya"
+    "name": "Paring Raya",
+    "postal_code": "74270"
   }
 ]

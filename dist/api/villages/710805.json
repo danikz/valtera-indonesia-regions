@@ -2,76 +2,91 @@
   {
     "code": "7108052001",
     "district_code": "710805",
-    "name": "Solo"
+    "name": "Solo",
+    "postal_code": "95765"
   },
   {
     "code": "7108052002",
     "district_code": "710805",
-    "name": "Boroko"
+    "name": "Boroko",
+    "postal_code": "95765"
   },
   {
     "code": "7108052003",
     "district_code": "710805",
-    "name": "Bigo"
+    "name": "Bigo",
+    "postal_code": "95765"
   },
   {
     "code": "7108052004",
     "district_code": "710805",
-    "name": "Kuala"
+    "name": "Kuala",
+    "postal_code": "95765"
   },
   {
     "code": "7108052005",
     "district_code": "710805",
-    "name": "Pontak"
+    "name": "Pontak",
+    "postal_code": "95765"
   },
   {
     "code": "7108052006",
     "district_code": "710805",
-    "name": "Inomunga"
+    "name": "Inomunga",
+    "postal_code": "95765"
   },
   {
     "code": "7108052007",
     "district_code": "710805",
-    "name": "Komus II"
+    "name": "Komus II",
+    "postal_code": "95765"
   },
   {
     "code": "7108052008",
     "district_code": "710805",
-    "name": "Boroko Timur"
+    "name": "Boroko Timur",
+    "postal_code": "95765"
   },
   {
     "code": "7108052009",
     "district_code": "710805",
-    "name": "Kuala Utara"
+    "name": "Kuala Utara",
+    "postal_code": "95765"
   },
   {
     "code": "7108052010",
     "district_code": "710805",
-    "name": "Gihang"
+    "name": "Gihang",
+    "postal_code": "95765"
   },
   {
     "code": "7108052011",
     "district_code": "710805",
-    "name": "Boroko Utara"
+    "name": "Boroko Utara",
+    "postal_code": "95765"
   },
   {
     "code": "7108052012",
     "district_code": "710805",
-    "name": "Bigo Selatan"
+    "name": "Bigo Selatan",
+    "postal_code": "95765"
   },
   {
     "code": "7108052013",
     "district_code": "710805",
-    "name": "Soligir"
+    "name": "Soligir",
+    "postal_code": "95765"
   },
   {
     "code": "7108052014",
     "district_code": "710805",
-    "name": "Inomunga Utara"
+    "name": "Inomunga Utara",
+    "postal_code": "95765"
   },
   {
     "code": "7108052015",
     "district_code": "710805",
-    "name": "Komus Dua Timur"
+    "name": "Komus Dua Timur",
+    "postal_code": "95765"
   }
 ]

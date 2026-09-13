@@ -2,46 +2,55 @@
   {
     "code": "9507252001",
     "district_code": "950725",
-    "name": "Bruyugu"
+    "name": "Bruyugu",
+    "postal_code": "99585"
   },
   {
     "code": "9507252002",
     "district_code": "950725",
-    "name": "Wame"
+    "name": "Wame",
+    "postal_code": "99585"
   },
   {
     "code": "9507252003",
     "district_code": "950725",
-    "name": "Ogodome"
+    "name": "Ogodome",
+    "postal_code": "99585"
   },
   {
     "code": "9507252004",
     "district_code": "950725",
-    "name": "Ekaba"
+    "name": "Ekaba",
+    "postal_code": "99585"
   },
   {
     "code": "9507252005",
     "district_code": "950725",
-    "name": "Longgapur"
+    "name": "Longgapur",
+    "postal_code": "99585"
   },
   {
     "code": "9507252006",
     "district_code": "950725",
-    "name": "Tikuluk"
+    "name": "Tikuluk",
+    "postal_code": "99585"
   },
   {
     "code": "9507252007",
     "district_code": "950725",
-    "name": "Birik"
+    "name": "Birik",
+    "postal_code": "99585"
   },
   {
     "code": "9507252008",
     "district_code": "950725",
-    "name": "Yalogu"
+    "name": "Yalogu",
+    "postal_code": "99585"
   },
   {
     "code": "9507252009",
     "district_code": "950725",
-    "name": "Wumbugi"
+    "name": "Wumbugi",
+    "postal_code": "99585"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "5311172001",
     "district_code": "531117",
-    "name": "Lukuwingir"
+    "name": "Lukuwingir",
+    "postal_code": "87116"
   },
   {
     "code": "5311172002",
     "district_code": "531117",
-    "name": "Waimbidi"
+    "name": "Waimbidi",
+    "postal_code": "87171"
   },
   {
     "code": "5311172003",
     "district_code": "531117",
-    "name": "Laimeta"
+    "name": "Laimeta",
+    "postal_code": "87171"
   },
   {
     "code": "5311172004",
     "district_code": "531117",
-    "name": "Mahubokul"
+    "name": "Mahubokul",
+    "postal_code": "87171"
   },
   {
     "code": "5311172005",
     "district_code": "531117",
-    "name": "Marada Mundi"
+    "name": "Marada Mundi",
+    "postal_code": "87171"
   },
   {
     "code": "5311172006",
     "district_code": "531117",
-    "name": "Maidang"
+    "name": "Maidang",
+    "postal_code": "87171"
   }
 ]

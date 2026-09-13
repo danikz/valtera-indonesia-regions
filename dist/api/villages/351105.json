@@ -2,56 +2,67 @@
   {
     "code": "3511052001",
     "district_code": "351105",
-    "name": "Alas Sumur"
+    "name": "Alas Sumur",
+    "postal_code": "68271"
   },
   {
     "code": "3511052002",
     "district_code": "351105",
-    "name": "Kejayan"
+    "name": "Kejayan",
+    "postal_code": "68271"
   },
   {
     "code": "3511052003",
     "district_code": "351105",
-    "name": "Mangli"
+    "name": "Mangli",
+    "postal_code": "68271"
   },
   {
     "code": "3511052004",
     "district_code": "351105",
-    "name": "Maskuning Kulon"
+    "name": "Maskuning Kulon",
+    "postal_code": "68271"
   },
   {
     "code": "3511052005",
     "district_code": "351105",
-    "name": "Maskuning Wetan"
+    "name": "Maskuning Wetan",
+    "postal_code": "68271"
   },
   {
     "code": "3511052006",
     "district_code": "351105",
-    "name": "Mengok"
+    "name": "Mengok",
+    "postal_code": "68271"
   },
   {
     "code": "3511052007",
     "district_code": "351105",
-    "name": "Padasan"
+    "name": "Padasan",
+    "postal_code": "68271"
   },
   {
     "code": "3511052009",
     "district_code": "351105",
-    "name": "Randu Cangkring"
+    "name": "Randu Cangkring",
+    "postal_code": "68271"
   },
   {
     "code": "3511052010",
     "district_code": "351105",
-    "name": "Suko Kerto"
+    "name": "Suko Kerto",
+    "postal_code": "68271"
   },
   {
     "code": "3511052011",
     "district_code": "351105",
-    "name": "Sukowono"
+    "name": "Sukowono",
+    "postal_code": "68271"
   },
   {
     "code": "3511052012",
     "district_code": "351105",
-    "name": "Sukodono"
+    "name": "Sukodono",
+    "postal_code": "68271"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "6302221009",
     "district_code": "630222",
-    "name": "Baharu Selatan"
+    "name": "Baharu Selatan",
+    "postal_code": "72115"
   },
   {
     "code": "6302221010",
     "district_code": "630222",
-    "name": "Kotabaru Tengah"
+    "name": "Kotabaru Tengah",
+    "postal_code": "72113"
   },
   {
     "code": "6302221011",
     "district_code": "630222",
-    "name": "Kotabaru Hilir"
+    "name": "Kotabaru Hilir",
+    "postal_code": "72111"
   },
   {
     "code": "6302222001",
     "district_code": "630222",
-    "name": "Sebatung"
+    "name": "Sebatung",
+    "postal_code": "72113"
   },
   {
     "code": "6302222002",
     "district_code": "630222",
-    "name": "Hilir Muara"
+    "name": "Hilir Muara",
+    "postal_code": "72111"
   },
   {
     "code": "6302222003",
     "district_code": "630222",
-    "name": "Batuah"
+    "name": "Batuah",
+    "postal_code": "72112"
   },
   {
     "code": "6302222004",
     "district_code": "630222",
-    "name": "Baharu Utara"
+    "name": "Baharu Utara",
+    "postal_code": "72112"
   },
   {
     "code": "6302222005",
     "district_code": "630222",
-    "name": "Tirawan"
+    "name": "Tirawan",
+    "postal_code": "72112"
   },
   {
     "code": "6302222006",
     "district_code": "630222",
-    "name": "Gedambaan"
+    "name": "Gedambaan",
+    "postal_code": "72114"
   },
   {
     "code": "6302222007",
     "district_code": "630222",
-    "name": "Sarang Tiung"
+    "name": "Sarang Tiung",
+    "postal_code": "72114"
   },
   {
     "code": "6302222008",
     "district_code": "630222",
-    "name": "Sigam"
+    "name": "Sigam",
+    "postal_code": "72112"
   }
 ]

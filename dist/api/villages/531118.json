@@ -2,31 +2,37 @@
   {
     "code": "5311182001",
     "district_code": "531118",
-    "name": "Watumbelar"
+    "name": "Watumbelar",
+    "postal_code": "87151"
   },
   {
     "code": "5311182002",
     "district_code": "531118",
-    "name": "Bidipraing"
+    "name": "Bidipraing",
+    "postal_code": "87151"
   },
   {
     "code": "5311182003",
     "district_code": "531118",
-    "name": "Umamanu"
+    "name": "Umamanu",
+    "postal_code": "87151"
   },
   {
     "code": "5311182004",
     "district_code": "531118",
-    "name": "Mondulambi"
+    "name": "Mondulambi",
+    "postal_code": "87151"
   },
   {
     "code": "5311182005",
     "district_code": "531118",
-    "name": "Kangeli"
+    "name": "Kangeli",
+    "postal_code": "87151"
   },
   {
     "code": "5311182006",
     "district_code": "531118",
-    "name": "Laihau"
+    "name": "Laihau",
+    "postal_code": "87151"
   }
 ]

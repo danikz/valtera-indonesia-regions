@@ -2,21 +2,25 @@
   {
     "code": "3273211001",
     "district_code": "327321",
-    "name": "Batununggal"
+    "name": "Batununggal",
+    "postal_code": "40266"
   },
   {
     "code": "3273211002",
     "district_code": "327321",
-    "name": "Wates"
+    "name": "Wates",
+    "postal_code": "40256"
   },
   {
     "code": "3273211003",
     "district_code": "327321",
-    "name": "Mengger"
+    "name": "Mengger",
+    "postal_code": "40267"
   },
   {
     "code": "3273211004",
     "district_code": "327321",
-    "name": "Kujangsari"
+    "name": "Kujangsari",
+    "postal_code": "40287"
   }
 ]

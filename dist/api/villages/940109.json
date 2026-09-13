@@ -2,26 +2,31 @@
   {
     "code": "9401092001",
     "district_code": "940109",
-    "name": "Samabusa"
+    "name": "Samabusa",
+    "postal_code": "98834"
   },
   {
     "code": "9401092002",
     "district_code": "940109",
-    "name": "Waharia"
+    "name": "Waharia",
+    "postal_code": "98835"
   },
   {
     "code": "9401092003",
     "district_code": "940109",
-    "name": "Kimi"
+    "name": "Kimi",
+    "postal_code": "98832"
   },
   {
     "code": "9401092004",
     "district_code": "940109",
-    "name": "Lani"
+    "name": "Lani",
+    "postal_code": "98833"
   },
   {
     "code": "9401092005",
     "district_code": "940109",
-    "name": "Air Mandidi"
+    "name": "Air Mandidi",
+    "postal_code": "98831"
   }
 ]

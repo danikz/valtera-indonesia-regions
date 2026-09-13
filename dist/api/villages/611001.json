@@ -2,86 +2,103 @@
   {
     "code": "6110012001",
     "district_code": "611001",
-    "name": "Pemuar"
+    "name": "Pemuar",
+    "postal_code": "79671"
   },
   {
     "code": "6110012002",
     "district_code": "611001",
-    "name": "Nusa Kenyikap"
+    "name": "Nusa Kenyikap",
+    "postal_code": "79671"
   },
   {
     "code": "6110012003",
     "district_code": "611001",
-    "name": "Batu Ampar"
+    "name": "Batu Ampar",
+    "postal_code": "79671"
   },
   {
     "code": "6110012007",
     "district_code": "611001",
-    "name": "Balai Lagas"
+    "name": "Balai Lagas",
+    "postal_code": "79671"
   },
   {
     "code": "6110012008",
     "district_code": "611001",
-    "name": "Upit"
+    "name": "Upit",
+    "postal_code": "79671"
   },
   {
     "code": "6110012009",
     "district_code": "611001",
-    "name": "Langan"
+    "name": "Langan",
+    "postal_code": "79671"
   },
   {
     "code": "6110012010",
     "district_code": "611001",
-    "name": "Batu Buil"
+    "name": "Batu Buil",
+    "postal_code": "79671"
   },
   {
     "code": "6110012011",
     "district_code": "611001",
-    "name": "Guhung"
+    "name": "Guhung",
+    "postal_code": "79671"
   },
   {
     "code": "6110012013",
     "district_code": "611001",
-    "name": "Batu Nanta"
+    "name": "Batu Nanta",
+    "postal_code": "79671"
   },
   {
     "code": "6110012014",
     "district_code": "611001",
-    "name": "Belonsat"
+    "name": "Belonsat",
+    "postal_code": "79671"
   },
   {
     "code": "6110012016",
     "district_code": "611001",
-    "name": "Laman Bukit"
+    "name": "Laman Bukit",
+    "postal_code": "79671"
   },
   {
     "code": "6110012017",
     "district_code": "611001",
-    "name": "Tekaban"
+    "name": "Tekaban",
+    "postal_code": "79671"
   },
   {
     "code": "6110012019",
     "district_code": "611001",
-    "name": "Labang"
+    "name": "Labang",
+    "postal_code": "79671"
   },
   {
     "code": "6110012020",
     "district_code": "611001",
-    "name": "Nanga Pau"
+    "name": "Nanga Pau",
+    "postal_code": "79671"
   },
   {
     "code": "6110012021",
     "district_code": "611001",
-    "name": "Nanga Entebah"
+    "name": "Nanga Entebah",
+    "postal_code": "79671"
   },
   {
     "code": "6110012023",
     "district_code": "611001",
-    "name": "Nanga Menunuk"
+    "name": "Nanga Menunuk",
+    "postal_code": "79671"
   },
   {
     "code": "6110012024",
     "district_code": "611001",
-    "name": "Sepan Tonak"
+    "name": "Sepan Tonak",
+    "postal_code": "79671"
   }
 ]

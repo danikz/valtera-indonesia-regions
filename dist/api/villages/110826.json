@@ -2,46 +2,55 @@
   {
     "code": "1108262001",
     "district_code": "110826",
-    "name": "Paya Dua"
+    "name": "Paya Dua",
+    "postal_code": "24376"
   },
   {
     "code": "1108262002",
     "district_code": "110826",
-    "name": "Cot Jabet"
+    "name": "Cot Jabet",
+    "postal_code": "24376"
   },
   {
     "code": "1108262003",
     "district_code": "110826",
-    "name": "Ulee Nyeue"
+    "name": "Ulee Nyeue",
+    "postal_code": "24376"
   },
   {
     "code": "1108262004",
     "district_code": "110826",
-    "name": "Paya Uleue"
+    "name": "Paya Uleue",
+    "postal_code": "24376"
   },
   {
     "code": "1108262005",
     "district_code": "110826",
-    "name": "Jamuan"
+    "name": "Jamuan",
+    "postal_code": "24376"
   },
   {
     "code": "1108262006",
     "district_code": "110826",
-    "name": "Alue Keurinyai"
+    "name": "Alue Keurinyai",
+    "postal_code": "24376"
   },
   {
     "code": "1108262007",
     "district_code": "110826",
-    "name": "Sangkelan"
+    "name": "Sangkelan",
+    "postal_code": "24376"
   },
   {
     "code": "1108262008",
     "district_code": "110826",
-    "name": "Blang Pala"
+    "name": "Blang Pala",
+    "postal_code": "24376"
   },
   {
     "code": "1108262009",
     "district_code": "110826",
-    "name": "Paya Beunyet"
+    "name": "Paya Beunyet",
+    "postal_code": "24376"
   }
 ]

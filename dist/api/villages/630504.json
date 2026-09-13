@@ -2,81 +2,97 @@
   {
     "code": "6305041001",
     "district_code": "630504",
-    "name": "Rangda Malingkung"
+    "name": "Rangda Malingkung",
+    "postal_code": "71114"
   },
   {
     "code": "6305041002",
     "district_code": "630504",
-    "name": "Kupang"
+    "name": "Kupang",
+    "postal_code": "71113"
   },
   {
     "code": "6305041003",
     "district_code": "630504",
-    "name": "Rantau Kanan"
+    "name": "Rantau Kanan",
+    "postal_code": "71112"
   },
   {
     "code": "6305041004",
     "district_code": "630504",
-    "name": "Rantau Kiwa"
+    "name": "Rantau Kiwa",
+    "postal_code": "71111"
   },
   {
     "code": "6305042005",
     "district_code": "630504",
-    "name": "Keramat"
+    "name": "Keramat",
+    "postal_code": "71114"
   },
   {
     "code": "6305042006",
     "district_code": "630504",
-    "name": "Antasari"
+    "name": "Antasari",
+    "postal_code": "71114"
   },
   {
     "code": "6305042007",
     "district_code": "630504",
-    "name": "Jingah Babaris"
+    "name": "Jingah Babaris",
+    "postal_code": "71114"
   },
   {
     "code": "6305042008",
     "district_code": "630504",
-    "name": "Banua Hanyar"
+    "name": "Banua Hanyar",
+    "postal_code": "71114"
   },
   {
     "code": "6305042009",
     "district_code": "630504",
-    "name": "Banua Halat Kiri"
+    "name": "Banua Halat Kiri",
+    "postal_code": "71114"
   },
   {
     "code": "6305042010",
     "district_code": "630504",
-    "name": "Banua Halat Kanan"
+    "name": "Banua Halat Kanan",
+    "postal_code": "71114"
   },
   {
     "code": "6305042011",
     "district_code": "630504",
-    "name": "Perintis Raya"
+    "name": "Perintis Raya",
+    "postal_code": "71114"
   },
   {
     "code": "6305042012",
     "district_code": "630504",
-    "name": "Kakaran"
+    "name": "Kakaran",
+    "postal_code": "71114"
   },
   {
     "code": "6305042013",
     "district_code": "630504",
-    "name": "Antasan Hilir"
+    "name": "Antasan Hilir",
+    "postal_code": "71114"
   },
   {
     "code": "6305042014",
     "district_code": "630504",
-    "name": "Lumbu Raya"
+    "name": "Lumbu Raya",
+    "postal_code": "71114"
   },
   {
     "code": "6305042015",
     "district_code": "630504",
-    "name": "Banua Halar Hulu"
+    "name": "Banua Halar Hulu",
+    "postal_code": "71114"
   },
   {
     "code": "6305042016",
     "district_code": "630504",
-    "name": "Badaun"
+    "name": "Badaun",
+    "postal_code": "71114"
   }
 ]

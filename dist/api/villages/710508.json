@@ -2,66 +2,79 @@
   {
     "code": "7105082001",
     "district_code": "710508",
-    "name": "Blongko"
+    "name": "Blongko",
+    "postal_code": "95959"
   },
   {
     "code": "7105082002",
     "district_code": "710508",
-    "name": "Boyongpante"
+    "name": "Boyongpante",
+    "postal_code": "95959"
   },
   {
     "code": "7105082003",
     "district_code": "710508",
-    "name": "Tiniawangko"
+    "name": "Tiniawangko",
+    "postal_code": "95959"
   },
   {
     "code": "7105082004",
     "district_code": "710508",
-    "name": "Ongkaw I"
+    "name": "Ongkaw I",
+    "postal_code": "95959"
   },
   {
     "code": "7105082005",
     "district_code": "710508",
-    "name": "Ongkaw II"
+    "name": "Ongkaw II",
+    "postal_code": "95959"
   },
   {
     "code": "7105082006",
     "district_code": "710508",
-    "name": "Aergale"
+    "name": "Aergale",
+    "postal_code": "95959"
   },
   {
     "code": "7105082007",
     "district_code": "710508",
-    "name": "Poigar I"
+    "name": "Poigar I",
+    "postal_code": "95959"
   },
   {
     "code": "7105082008",
     "district_code": "710508",
-    "name": "Poigar II"
+    "name": "Poigar II",
+    "postal_code": "95959"
   },
   {
     "code": "7105082009",
     "district_code": "710508",
-    "name": "Durian"
+    "name": "Durian",
+    "postal_code": "95959"
   },
   {
     "code": "7105082010",
     "district_code": "710508",
-    "name": "Tanamon"
+    "name": "Tanamon",
+    "postal_code": "95959"
   },
   {
     "code": "7105082011",
     "district_code": "710508",
-    "name": "Ongkaw Tiga"
+    "name": "Ongkaw Tiga",
+    "postal_code": "95959"
   },
   {
     "code": "7105082012",
     "district_code": "710508",
-    "name": "Boyongpante Dua"
+    "name": "Boyongpante Dua",
+    "postal_code": "95959"
   },
   {
     "code": "7105082013",
     "district_code": "710508",
-    "name": "Tanamon Utara"
+    "name": "Tanamon Utara",
+    "postal_code": "95959"
   }
 ]

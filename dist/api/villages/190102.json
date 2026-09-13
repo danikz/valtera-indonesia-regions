@@ -2,61 +2,73 @@
   {
     "code": "1901021001",
     "district_code": "190102",
-    "name": "Kuto Panji"
+    "name": "Kuto Panji",
+    "postal_code": "33253"
   },
   {
     "code": "1901021002",
     "district_code": "190102",
-    "name": "Air Jukung"
+    "name": "Air Jukung",
+    "postal_code": "33253"
   },
   {
     "code": "1901021003",
     "district_code": "190102",
-    "name": "Bukit Ketok"
+    "name": "Bukit Ketok",
+    "postal_code": "33253"
   },
   {
     "code": "1901021009",
     "district_code": "190102",
-    "name": "Remodong Indah"
+    "name": "Remodong Indah",
+    "postal_code": "33253"
   },
   {
     "code": "1901021010",
     "district_code": "190102",
-    "name": "Air Asam"
+    "name": "Air Asam",
+    "postal_code": "33253"
   },
   {
     "code": "1901021011",
     "district_code": "190102",
-    "name": "Mantung"
+    "name": "Mantung",
+    "postal_code": "33253"
   },
   {
     "code": "1901021012",
     "district_code": "190102",
-    "name": "Belinyu"
+    "name": "Belinyu",
+    "postal_code": "33253"
   },
   {
     "code": "1901022004",
     "district_code": "190102",
-    "name": "Gunung Muda"
+    "name": "Gunung Muda",
+    "postal_code": "33253"
   },
   {
     "code": "1901022005",
     "district_code": "190102",
-    "name": "Gunung Pelawan"
+    "name": "Gunung Pelawan",
+    "postal_code": "33253"
   },
   {
     "code": "1901022006",
     "district_code": "190102",
-    "name": "Riding Panjang"
+    "name": "Riding Panjang",
+    "postal_code": "33253"
   },
   {
     "code": "1901022007",
     "district_code": "190102",
-    "name": "Lumut"
+    "name": "Lumut",
+    "postal_code": "33253"
   },
   {
     "code": "1901022008",
     "district_code": "190102",
-    "name": "Bintet"
+    "name": "Bintet",
+    "postal_code": "33253"
   }
 ]

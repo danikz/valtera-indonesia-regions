@@ -2,61 +2,73 @@
   {
     "code": "1209132001",
     "district_code": "120913",
-    "name": "Sei Alim Ulu"
+    "name": "Sei Alim Ulu",
+    "postal_code": "21272"
   },
   {
     "code": "1209132003",
     "district_code": "120913",
-    "name": "Pinanggiripan"
+    "name": "Pinanggiripan",
+    "postal_code": "21272"
   },
   {
     "code": "1209132006",
     "district_code": "120913",
-    "name": "Perkebunan Pulahan"
+    "name": "Perkebunan Pulahan",
+    "postal_code": "21272"
   },
   {
     "code": "1209132007",
     "district_code": "120913",
-    "name": "Hessa Perlompongan"
+    "name": "Hessa Perlompongan",
+    "postal_code": "21272"
   },
   {
     "code": "1209132008",
     "district_code": "120913",
-    "name": "Perkebunan Air Batu I/II"
+    "name": "Perkebunan Air Batu I/II",
+    "postal_code": "21272"
   },
   {
     "code": "1209132009",
     "district_code": "120913",
-    "name": "Perkebunan Air Batu III/IX"
+    "name": "Perkebunan Air Batu III/IX",
+    "postal_code": "21272"
   },
   {
     "code": "1209132010",
     "district_code": "120913",
-    "name": "Danau Sijabut"
+    "name": "Danau Sijabut",
+    "postal_code": "21272"
   },
   {
     "code": "1209132012",
     "district_code": "120913",
-    "name": "Air Teluk Hessa"
+    "name": "Air Teluk Hessa",
+    "postal_code": "21272"
   },
   {
     "code": "1209132013",
     "district_code": "120913",
-    "name": "Air Genting"
+    "name": "Air Genting",
+    "postal_code": "21272"
   },
   {
     "code": "1209132014",
     "district_code": "120913",
-    "name": "Hessa Air Genting"
+    "name": "Hessa Air Genting",
+    "postal_code": "21272"
   },
   {
     "code": "1209132018",
     "district_code": "120913",
-    "name": "Sijabut Teratai"
+    "name": "Sijabut Teratai",
+    "postal_code": "21272"
   },
   {
     "code": "1209132019",
     "district_code": "120913",
-    "name": "Pulau Pule"
+    "name": "Pulau Pule",
+    "postal_code": "21272"
   }
 ]

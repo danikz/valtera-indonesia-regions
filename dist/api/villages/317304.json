@@ -2,56 +2,67 @@
   {
     "code": "3173041001",
     "district_code": "317304",
-    "name": "Tambora"
+    "name": "Tambora",
+    "postal_code": "11220"
   },
   {
     "code": "3173041002",
     "district_code": "317304",
-    "name": "Kali Anyar"
+    "name": "Kali Anyar",
+    "postal_code": "11310"
   },
   {
     "code": "3173041003",
     "district_code": "317304",
-    "name": "Duri Utara"
+    "name": "Duri Utara",
+    "postal_code": "11270"
   },
   {
     "code": "3173041004",
     "district_code": "317304",
-    "name": "Tanah Sereal"
+    "name": "Tanah Sereal",
+    "postal_code": "11210"
   },
   {
     "code": "3173041005",
     "district_code": "317304",
-    "name": "Krendang"
+    "name": "Krendang",
+    "postal_code": "11260"
   },
   {
     "code": "3173041006",
     "district_code": "317304",
-    "name": "Jembatan Besi"
+    "name": "Jembatan Besi",
+    "postal_code": "11320"
   },
   {
     "code": "3173041007",
     "district_code": "317304",
-    "name": "Angke"
+    "name": "Angke",
+    "postal_code": "11330"
   },
   {
     "code": "3173041008",
     "district_code": "317304",
-    "name": "Jembatan Lima"
+    "name": "Jembatan Lima",
+    "postal_code": "11250"
   },
   {
     "code": "3173041009",
     "district_code": "317304",
-    "name": "Pekojan"
+    "name": "Pekojan",
+    "postal_code": "11240"
   },
   {
     "code": "3173041010",
     "district_code": "317304",
-    "name": "Roa Malaka"
+    "name": "Roa Malaka",
+    "postal_code": "11230"
   },
   {
     "code": "3173041011",
     "district_code": "317304",
-    "name": "Duri Selatan"
+    "name": "Duri Selatan",
+    "postal_code": "11270"
   }
 ]

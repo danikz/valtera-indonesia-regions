@@ -2,56 +2,67 @@
   {
     "code": "1603252001",
     "district_code": "160325",
-    "name": "Karang Agung"
+    "name": "Karang Agung",
+    "postal_code": "31174"
   },
   {
     "code": "1603252002",
     "district_code": "160325",
-    "name": "Karang Sari"
+    "name": "Karang Sari",
+    "postal_code": "31174"
   },
   {
     "code": "1603252003",
     "district_code": "160325",
-    "name": "Karang Mulya"
+    "name": "Karang Mulya",
+    "postal_code": "31174"
   },
   {
     "code": "1603252004",
     "district_code": "160325",
-    "name": "Sumber Mulya"
+    "name": "Sumber Mulya",
+    "postal_code": "31174"
   },
   {
     "code": "1603252005",
     "district_code": "160325",
-    "name": "Sumber Asri"
+    "name": "Sumber Asri",
+    "postal_code": "31174"
   },
   {
     "code": "1603252006",
     "district_code": "160325",
-    "name": "Pagar Dewa"
+    "name": "Pagar Dewa",
+    "postal_code": "31174"
   },
   {
     "code": "1603252007",
     "district_code": "160325",
-    "name": "Prabumenang"
+    "name": "Prabumenang",
+    "postal_code": "31174"
   },
   {
     "code": "1603252008",
     "district_code": "160325",
-    "name": "Lecah"
+    "name": "Lecah",
+    "postal_code": "31174"
   },
   {
     "code": "1603252009",
     "district_code": "160325",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "31174"
   },
   {
     "code": "1603252010",
     "district_code": "160325",
-    "name": "Lubai Persada"
+    "name": "Lubai Persada",
+    "postal_code": "31174"
   },
   {
     "code": "1603252011",
     "district_code": "160325",
-    "name": "Lubai Makmur"
+    "name": "Lubai Makmur",
+    "postal_code": "31174"
   }
 ]

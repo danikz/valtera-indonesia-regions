@@ -2,66 +2,79 @@
   {
     "code": "8105122001",
     "district_code": "810512",
-    "name": "Hote"
+    "name": "Hote",
+    "postal_code": "97522"
   },
   {
     "code": "8105122002",
     "district_code": "810512",
-    "name": "Banggoi"
+    "name": "Banggoi",
+    "postal_code": "97522"
   },
   {
     "code": "8105122003",
     "district_code": "810512",
-    "name": "Waematakabo"
+    "name": "Waematakabo",
+    "postal_code": "97522"
   },
   {
     "code": "8105122004",
     "district_code": "810512",
-    "name": "Waiketam Baru"
+    "name": "Waiketam Baru",
+    "postal_code": "97522"
   },
   {
     "code": "8105122005",
     "district_code": "810512",
-    "name": "Waisamet"
+    "name": "Waisamet",
+    "postal_code": "97522"
   },
   {
     "code": "8105122006",
     "district_code": "810512",
-    "name": "Aki Jaya"
+    "name": "Aki Jaya",
+    "postal_code": "97522"
   },
   {
     "code": "8105122007",
     "district_code": "810512",
-    "name": "Jakarta Baru"
+    "name": "Jakarta Baru",
+    "postal_code": "97522"
   },
   {
     "code": "8105122008",
     "district_code": "810512",
-    "name": "Silohan"
+    "name": "Silohan",
+    "postal_code": "97522"
   },
   {
     "code": "8105122009",
     "district_code": "810512",
-    "name": "Sumber Agung"
+    "name": "Sumber Agung",
+    "postal_code": "97522"
   },
   {
     "code": "8105122010",
     "district_code": "810512",
-    "name": "Rukun Jaya"
+    "name": "Rukun Jaya",
+    "postal_code": "97522"
   },
   {
     "code": "8105122011",
     "district_code": "810512",
-    "name": "Jembatan Basah"
+    "name": "Jembatan Basah",
+    "postal_code": "97522"
   },
   {
     "code": "8105122012",
     "district_code": "810512",
-    "name": "Dreamland Hills"
+    "name": "Dreamland Hills",
+    "postal_code": "97522"
   },
   {
     "code": "8105122013",
     "district_code": "810512",
-    "name": "Banggoi Pancorang"
+    "name": "Banggoi Pancorang",
+    "postal_code": "97522"
   }
 ]

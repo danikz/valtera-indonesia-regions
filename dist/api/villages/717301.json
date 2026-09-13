@@ -2,61 +2,73 @@
   {
     "code": "7173011001",
     "district_code": "717301",
-    "name": "Pinaras"
+    "name": "Pinaras",
+    "postal_code": "95434"
   },
   {
     "code": "7173011002",
     "district_code": "717301",
-    "name": "Lahendong"
+    "name": "Lahendong",
+    "postal_code": "95435"
   },
   {
     "code": "7173011003",
     "district_code": "717301",
-    "name": "Tondangow"
+    "name": "Tondangow",
+    "postal_code": "95436"
   },
   {
     "code": "7173011004",
     "district_code": "717301",
-    "name": "Pangolombian"
+    "name": "Pangolombian",
+    "postal_code": "95437"
   },
   {
     "code": "7173011005",
     "district_code": "717301",
-    "name": "Tumatangtang"
+    "name": "Tumatangtang",
+    "postal_code": "95432"
   },
   {
     "code": "7173011006",
     "district_code": "717301",
-    "name": "Kampung Jawa"
+    "name": "Kampung Jawa",
+    "postal_code": "95433"
   },
   {
     "code": "7173011007",
     "district_code": "717301",
-    "name": "Lansot"
+    "name": "Lansot",
+    "postal_code": "95431"
   },
   {
     "code": "7173011008",
     "district_code": "717301",
-    "name": "Walian"
+    "name": "Walian",
+    "postal_code": "95439"
   },
   {
     "code": "7173011009",
     "district_code": "717301",
-    "name": "Uluindano"
+    "name": "Uluindano",
+    "postal_code": "95438"
   },
   {
     "code": "7173011010",
     "district_code": "717301",
-    "name": "Walian Satu"
+    "name": "Walian Satu",
+    "postal_code": "95439"
   },
   {
     "code": "7173011011",
     "district_code": "717301",
-    "name": "Walian Dua"
+    "name": "Walian Dua",
+    "postal_code": "95439"
   },
   {
     "code": "7173011012",
     "district_code": "717301",
-    "name": "Tumatangtang Satu"
+    "name": "Tumatangtang Satu",
+    "postal_code": "95439"
   }
 ]

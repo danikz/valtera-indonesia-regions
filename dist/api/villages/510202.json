@@ -2,51 +2,61 @@
   {
     "code": "5102022001",
     "district_code": "510202",
-    "name": "Gunung Salak"
+    "name": "Gunung Salak",
+    "postal_code": "82160"
   },
   {
     "code": "5102022002",
     "district_code": "510202",
-    "name": "Gadungan"
+    "name": "Gadungan",
+    "postal_code": "82160"
   },
   {
     "code": "5102022003",
     "district_code": "510202",
-    "name": "Bantas"
+    "name": "Bantas",
+    "postal_code": "82160"
   },
   {
     "code": "5102022004",
     "district_code": "510202",
-    "name": "Mambang"
+    "name": "Mambang",
+    "postal_code": "82160"
   },
   {
     "code": "5102022005",
     "district_code": "510202",
-    "name": "Megati"
+    "name": "Megati",
+    "postal_code": "82160"
   },
   {
     "code": "5102022006",
     "district_code": "510202",
-    "name": "Tangguntiti"
+    "name": "Tangguntiti",
+    "postal_code": "82160"
   },
   {
     "code": "5102022007",
     "district_code": "510202",
-    "name": "Beraban"
+    "name": "Beraban",
+    "postal_code": "82160"
   },
   {
     "code": "5102022008",
     "district_code": "510202",
-    "name": "Tegal Mengkeb"
+    "name": "Tegal Mengkeb",
+    "postal_code": "82160"
   },
   {
     "code": "5102022009",
     "district_code": "510202",
-    "name": "Dalang"
+    "name": "Dalang",
+    "postal_code": "82160"
   },
   {
     "code": "5102022010",
     "district_code": "510202",
-    "name": "Gadungsari"
+    "name": "Gadungsari",
+    "postal_code": "82160"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "1506111001",
     "district_code": "150611",
-    "name": "Bram Itam Kiri"
+    "name": "Bram Itam Kiri",
+    "postal_code": "36514"
   },
   {
     "code": "1506112002",
     "district_code": "150611",
-    "name": "Bram Itam Kanan"
+    "name": "Bram Itam Kanan",
+    "postal_code": "36514"
   },
   {
     "code": "1506112003",
     "district_code": "150611",
-    "name": "Tanjungsenjulang"
+    "name": "Tanjungsenjulang",
+    "postal_code": "36514"
   },
   {
     "code": "1506112004",
     "district_code": "150611",
-    "name": "Pembengis"
+    "name": "Pembengis",
+    "postal_code": "36514"
   },
   {
     "code": "1506112005",
     "district_code": "150611",
-    "name": "Bram Itam Raya"
+    "name": "Bram Itam Raya",
+    "postal_code": "36514"
   },
   {
     "code": "1506112006",
     "district_code": "150611",
-    "name": "Pantaigading"
+    "name": "Pantaigading",
+    "postal_code": "36514"
   },
   {
     "code": "1506112007",
     "district_code": "150611",
-    "name": "Jati Emas"
+    "name": "Jati Emas",
+    "postal_code": "36514"
   },
   {
     "code": "1506112008",
     "district_code": "150611",
-    "name": "Kemuning"
+    "name": "Kemuning",
+    "postal_code": "36514"
   },
   {
     "code": "1506112009",
     "district_code": "150611",
-    "name": "Mekar Tanjung"
+    "name": "Mekar Tanjung",
+    "postal_code": "36514"
   },
   {
     "code": "1506112010",
     "district_code": "150611",
-    "name": "Semau"
+    "name": "Semau",
+    "postal_code": "36514"
   }
 ]

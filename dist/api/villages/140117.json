@@ -2,46 +2,55 @@
   {
     "code": "1401172001",
     "district_code": "140117",
-    "name": "Pulau Birandang"
+    "name": "Pulau Birandang",
+    "postal_code": "28460"
   },
   {
     "code": "1401172002",
     "district_code": "140117",
-    "name": "Pulau Rambai"
+    "name": "Pulau Rambai",
+    "postal_code": "28460"
   },
   {
     "code": "1401172003",
     "district_code": "140117",
-    "name": "Kampar"
+    "name": "Kampar",
+    "postal_code": "28460"
   },
   {
     "code": "1401172004",
     "district_code": "140117",
-    "name": "Koto Perambahan"
+    "name": "Koto Perambahan",
+    "postal_code": "28460"
   },
   {
     "code": "1401172005",
     "district_code": "140117",
-    "name": "Sei Putih"
+    "name": "Sei Putih",
+    "postal_code": "28460"
   },
   {
     "code": "1401172006",
     "district_code": "140117",
-    "name": "Deli Makmur"
+    "name": "Deli Makmur",
+    "postal_code": "28460"
   },
   {
     "code": "1401172007",
     "district_code": "140117",
-    "name": "Sungaitarap"
+    "name": "Sungaitarap",
+    "postal_code": "28460"
   },
   {
     "code": "1401172008",
     "district_code": "140117",
-    "name": "Tanjungbungo"
+    "name": "Tanjungbungo",
+    "postal_code": "28460"
   },
   {
     "code": "1401172009",
     "district_code": "140117",
-    "name": "Sawahbaru"
+    "name": "Sawahbaru",
+    "postal_code": "28460"
   }
 ]

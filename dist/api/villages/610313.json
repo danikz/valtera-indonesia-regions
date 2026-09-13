@@ -2,36 +2,43 @@
   {
     "code": "6103132001",
     "district_code": "610313",
-    "name": "Teraju"
+    "name": "Teraju",
+    "postal_code": "78572"
   },
   {
     "code": "6103132002",
     "district_code": "610313",
-    "name": "Belungai Dalam"
+    "name": "Belungai Dalam",
+    "postal_code": "78572"
   },
   {
     "code": "6103132003",
     "district_code": "610313",
-    "name": "Sansat"
+    "name": "Sansat",
+    "postal_code": "78572"
   },
   {
     "code": "6103132004",
     "district_code": "610313",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "78572"
   },
   {
     "code": "6103132005",
     "district_code": "610313",
-    "name": "Bagan Asam"
+    "name": "Bagan Asam",
+    "postal_code": "78572"
   },
   {
     "code": "6103132006",
     "district_code": "610313",
-    "name": "Lumut"
+    "name": "Lumut",
+    "postal_code": "78572"
   },
   {
     "code": "6103132007",
     "district_code": "610313",
-    "name": "Balai Belungai"
+    "name": "Balai Belungai",
+    "postal_code": "78572"
   }
 ]

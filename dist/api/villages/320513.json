@@ -2,31 +2,37 @@
   {
     "code": "3205132001",
     "district_code": "320513",
-    "name": "Kersamanah"
+    "name": "Kersamanah",
+    "postal_code": "44189"
   },
   {
     "code": "3205132002",
     "district_code": "320513",
-    "name": "Nanjungjaya"
+    "name": "Nanjungjaya",
+    "postal_code": "44189"
   },
   {
     "code": "3205132003",
     "district_code": "320513",
-    "name": "Sukamerang"
+    "name": "Sukamerang",
+    "postal_code": "44189"
   },
   {
     "code": "3205132004",
     "district_code": "320513",
-    "name": "Girijaya"
+    "name": "Girijaya",
+    "postal_code": "44189"
   },
   {
     "code": "3205132005",
     "district_code": "320513",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "44189"
   },
   {
     "code": "3205132006",
     "district_code": "320513",
-    "name": "Mekarraya"
+    "name": "Mekarraya",
+    "postal_code": "44189"
   }
 ]

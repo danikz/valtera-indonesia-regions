@@ -2,61 +2,73 @@
   {
     "code": "7401071001",
     "district_code": "740107",
-    "name": "Dawi-Dawi"
+    "name": "Dawi-Dawi",
+    "postal_code": "93562"
   },
   {
     "code": "7401071002",
     "district_code": "740107",
-    "name": "Pomalaa"
+    "name": "Pomalaa",
+    "postal_code": "93562"
   },
   {
     "code": "7401071009",
     "district_code": "740107",
-    "name": "Tonggoni"
+    "name": "Tonggoni",
+    "postal_code": "93562"
   },
   {
     "code": "7401071011",
     "district_code": "740107",
-    "name": "Kumoro"
+    "name": "Kumoro",
+    "postal_code": "93562"
   },
   {
     "code": "7401072003",
     "district_code": "740107",
-    "name": "Huko-Huko"
+    "name": "Huko-Huko",
+    "postal_code": "93562"
   },
   {
     "code": "7401072004",
     "district_code": "740107",
-    "name": "Pelambua"
+    "name": "Pelambua",
+    "postal_code": "93562"
   },
   {
     "code": "7401072005",
     "district_code": "740107",
-    "name": "Tambea"
+    "name": "Tambea",
+    "postal_code": "93562"
   },
   {
     "code": "7401072006",
     "district_code": "740107",
-    "name": "Sopura"
+    "name": "Sopura",
+    "postal_code": "93562"
   },
   {
     "code": "7401072007",
     "district_code": "740107",
-    "name": "Pesouha"
+    "name": "Pesouha",
+    "postal_code": "93562"
   },
   {
     "code": "7401072008",
     "district_code": "740107",
-    "name": "Totobo"
+    "name": "Totobo",
+    "postal_code": "93562"
   },
   {
     "code": "7401072010",
     "district_code": "740107",
-    "name": "Oko-Oko"
+    "name": "Oko-Oko",
+    "postal_code": "93562"
   },
   {
     "code": "7401072012",
     "district_code": "740107",
-    "name": "Hakatutobu"
+    "name": "Hakatutobu",
+    "postal_code": "93562"
   }
 ]

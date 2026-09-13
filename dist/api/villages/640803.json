@@ -2,36 +2,43 @@
   {
     "code": "6408032001",
     "district_code": "640803",
-    "name": "Senambah"
+    "name": "Senambah",
+    "postal_code": "75656"
   },
   {
     "code": "6408032002",
     "district_code": "640803",
-    "name": "Ngayau"
+    "name": "Ngayau",
+    "postal_code": "75656"
   },
   {
     "code": "6408032003",
     "district_code": "640803",
-    "name": "Muara Bengkal Ilir"
+    "name": "Muara Bengkal Ilir",
+    "postal_code": "75656"
   },
   {
     "code": "6408032004",
     "district_code": "640803",
-    "name": "Muara Bengkal Ulu"
+    "name": "Muara Bengkal Ulu",
+    "postal_code": "75656"
   },
   {
     "code": "6408032005",
     "district_code": "640803",
-    "name": "Benua Baru"
+    "name": "Benua Baru",
+    "postal_code": "75656"
   },
   {
     "code": "6408032013",
     "district_code": "640803",
-    "name": "Mulupan"
+    "name": "Mulupan",
+    "postal_code": "75656"
   },
   {
     "code": "6408032014",
     "district_code": "640803",
-    "name": "Batu Balai"
+    "name": "Batu Balai",
+    "postal_code": "75656"
   }
 ]

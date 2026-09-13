@@ -2,46 +2,55 @@
   {
     "code": "3674011001",
     "district_code": "367401",
-    "name": "Ciater"
+    "name": "Ciater",
+    "postal_code": "15310"
   },
   {
     "code": "3674011002",
     "district_code": "367401",
-    "name": "Rawabuntu"
+    "name": "Rawabuntu",
+    "postal_code": "15318"
   },
   {
     "code": "3674011003",
     "district_code": "367401",
-    "name": "Rawa Mekarjaya"
+    "name": "Rawa Mekarjaya",
+    "postal_code": "15310"
   },
   {
     "code": "3674011004",
     "district_code": "367401",
-    "name": "Lengkong Gudang"
+    "name": "Lengkong Gudang",
+    "postal_code": "15321"
   },
   {
     "code": "3674011005",
     "district_code": "367401",
-    "name": "Lengkong Wetan"
+    "name": "Lengkong Wetan",
+    "postal_code": "15322"
   },
   {
     "code": "3674011006",
     "district_code": "367401",
-    "name": "Buaran"
+    "name": "Buaran",
+    "postal_code": "15310"
   },
   {
     "code": "3674011007",
     "district_code": "367401",
-    "name": "Lengkong Gudang Timur"
+    "name": "Lengkong Gudang Timur",
+    "postal_code": "15321"
   },
   {
     "code": "3674011008",
     "district_code": "367401",
-    "name": "Cilenggang"
+    "name": "Cilenggang",
+    "postal_code": "15310"
   },
   {
     "code": "3674011009",
     "district_code": "367401",
-    "name": "Serpong"
+    "name": "Serpong",
+    "postal_code": "15311"
   }
 ]

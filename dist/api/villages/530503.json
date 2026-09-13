@@ -2,66 +2,79 @@
   {
     "code": "5305031001",
     "district_code": "530503",
-    "name": "Moru"
+    "name": "Moru",
+    "postal_code": "85861"
   },
   {
     "code": "5305032002",
     "district_code": "530503",
-    "name": "Probur"
+    "name": "Probur",
+    "postal_code": "85861"
   },
   {
     "code": "5305032007",
     "district_code": "530503",
-    "name": "Morba"
+    "name": "Morba",
+    "postal_code": "85861"
   },
   {
     "code": "5305032008",
     "district_code": "530503",
-    "name": "Pintumas"
+    "name": "Pintumas",
+    "postal_code": "85861"
   },
   {
     "code": "5305032009",
     "district_code": "530503",
-    "name": "Wolwal"
+    "name": "Wolwal",
+    "postal_code": "85861"
   },
   {
     "code": "5305032010",
     "district_code": "530503",
-    "name": "Halerman"
+    "name": "Halerman",
+    "postal_code": "85861"
   },
   {
     "code": "5305032013",
     "district_code": "530503",
-    "name": "Kafelulang"
+    "name": "Kafelulang",
+    "postal_code": "85861"
   },
   {
     "code": "5305032014",
     "district_code": "530503",
-    "name": "Moramam"
+    "name": "Moramam",
+    "postal_code": "85861"
   },
   {
     "code": "5305032015",
     "district_code": "530503",
-    "name": "Pailelang"
+    "name": "Pailelang",
+    "postal_code": "85861"
   },
   {
     "code": "5305032016",
     "district_code": "530503",
-    "name": "Wolwal Barat"
+    "name": "Wolwal Barat",
+    "postal_code": "85861"
   },
   {
     "code": "5305032017",
     "district_code": "530503",
-    "name": "Wolwal Tengah"
+    "name": "Wolwal Tengah",
+    "postal_code": "85861"
   },
   {
     "code": "5305032018",
     "district_code": "530503",
-    "name": "Wolwal Selatan"
+    "name": "Wolwal Selatan",
+    "postal_code": "85861"
   },
   {
     "code": "5305032019",
     "district_code": "530503",
-    "name": "Probur Utara"
+    "name": "Probur Utara",
+    "postal_code": "85861"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3374161001",
     "district_code": "337416",
-    "name": "Jerakah"
+    "name": "Jerakah",
+    "postal_code": "50151"
   },
   {
     "code": "3374161002",
     "district_code": "337416",
-    "name": "Tugurejo"
+    "name": "Tugurejo",
+    "postal_code": "50185"
   },
   {
     "code": "3374161003",
     "district_code": "337416",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "50152"
   },
   {
     "code": "3374161004",
     "district_code": "337416",
-    "name": "Randugarut"
+    "name": "Randugarut",
+    "postal_code": "50181"
   },
   {
     "code": "3374161005",
     "district_code": "337416",
-    "name": "Mangkang Wetan"
+    "name": "Mangkang Wetan",
+    "postal_code": "50156"
   },
   {
     "code": "3374161006",
     "district_code": "337416",
-    "name": "Mangkang Kulon"
+    "name": "Mangkang Kulon",
+    "postal_code": "50155"
   },
   {
     "code": "3374161007",
     "district_code": "337416",
-    "name": "Mangunharjo"
+    "name": "Mangunharjo",
+    "postal_code": "50154"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "1271141001",
     "district_code": "127114",
-    "name": "Indra Kasih"
+    "name": "Indra Kasih",
+    "postal_code": "20221"
   },
   {
     "code": "1271141002",
     "district_code": "127114",
-    "name": "Sidorejo Hilir"
+    "name": "Sidorejo Hilir",
+    "postal_code": "20222"
   },
   {
     "code": "1271141003",
     "district_code": "127114",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "20222"
   },
   {
     "code": "1271141004",
     "district_code": "127114",
-    "name": "Bantan"
+    "name": "Bantan",
+    "postal_code": "20224"
   },
   {
     "code": "1271141005",
     "district_code": "127114",
-    "name": "Tembung"
+    "name": "Tembung",
+    "postal_code": "20225"
   },
   {
     "code": "1271141006",
     "district_code": "127114",
-    "name": "Bandar Selamat"
+    "name": "Bandar Selamat",
+    "postal_code": "20223"
   },
   {
     "code": "1271141007",
     "district_code": "127114",
-    "name": "Bantan Timur"
+    "name": "Bantan Timur",
+    "postal_code": "20224"
   }
 ]

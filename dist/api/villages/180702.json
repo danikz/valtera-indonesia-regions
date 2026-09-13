@@ -2,56 +2,67 @@
   {
     "code": "1807022001",
     "district_code": "180702",
-    "name": "Labuhan Maringgai"
+    "name": "Labuhan Maringgai",
+    "postal_code": "34198"
   },
   {
     "code": "1807022002",
     "district_code": "180702",
-    "name": "Muara Gading Mas"
+    "name": "Muara Gading Mas",
+    "postal_code": "34198"
   },
   {
     "code": "1807022003",
     "district_code": "180702",
-    "name": "Sriminosari"
+    "name": "Sriminosari",
+    "postal_code": "34198"
   },
   {
     "code": "1807022004",
     "district_code": "180702",
-    "name": "Bandar Negeri"
+    "name": "Bandar Negeri",
+    "postal_code": "34198"
   },
   {
     "code": "1807022005",
     "district_code": "180702",
-    "name": "Karya Makmur"
+    "name": "Karya Makmur",
+    "postal_code": "34198"
   },
   {
     "code": "1807022006",
     "district_code": "180702",
-    "name": "Karya Tani"
+    "name": "Karya Tani",
+    "postal_code": "34198"
   },
   {
     "code": "1807022007",
     "district_code": "180702",
-    "name": "Margasari"
+    "name": "Margasari",
+    "postal_code": "34198"
   },
   {
     "code": "1807022008",
     "district_code": "180702",
-    "name": "Sukorahayu"
+    "name": "Sukorahayu",
+    "postal_code": "34198"
   },
   {
     "code": "1807022009",
     "district_code": "180702",
-    "name": "Srigading"
+    "name": "Srigading",
+    "postal_code": "34198"
   },
   {
     "code": "1807022010",
     "district_code": "180702",
-    "name": "Karang Anyar"
+    "name": "Karang Anyar",
+    "postal_code": "34198"
   },
   {
     "code": "1807022011",
     "district_code": "180702",
-    "name": "Maringgai"
+    "name": "Maringgai",
+    "postal_code": "34198"
   }
 ]

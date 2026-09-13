@@ -2,31 +2,37 @@
   {
     "code": "5302302001",
     "district_code": "530230",
-    "name": "Oelbubuk"
+    "name": "Oelbubuk",
+    "postal_code": "85543"
   },
   {
     "code": "5302302002",
     "district_code": "530230",
-    "name": "Nekemunifeto"
+    "name": "Nekemunifeto",
+    "postal_code": "85543"
   },
   {
     "code": "5302302003",
     "district_code": "530230",
-    "name": "Binaus"
+    "name": "Binaus",
+    "postal_code": "85543"
   },
   {
     "code": "5302302004",
     "district_code": "530230",
-    "name": "Oel'Ekam"
+    "name": "Oel'Ekam",
+    "postal_code": "85543"
   },
   {
     "code": "5302302005",
     "district_code": "530230",
-    "name": "Kualeu"
+    "name": "Kualeu",
+    "postal_code": "85543"
   },
   {
     "code": "5302302006",
     "district_code": "530230",
-    "name": "Pika"
+    "name": "Pika",
+    "postal_code": "85543"
   }
 ]

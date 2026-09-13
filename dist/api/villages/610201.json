@@ -2,41 +2,49 @@
   {
     "code": "6102011006",
     "district_code": "610201",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "78913"
   },
   {
     "code": "6102011007",
     "district_code": "610201",
-    "name": "Tengah"
+    "name": "Tengah",
+    "postal_code": "78911"
   },
   {
     "code": "6102011009",
     "district_code": "610201",
-    "name": "Terusan"
+    "name": "Terusan",
+    "postal_code": "78912"
   },
   {
     "code": "6102012001",
     "district_code": "610201",
-    "name": "Sengkubang"
+    "name": "Sengkubang",
+    "postal_code": "78919"
   },
   {
     "code": "6102012002",
     "district_code": "610201",
-    "name": "Penibung"
+    "name": "Penibung",
+    "postal_code": "78919"
   },
   {
     "code": "6102012003",
     "district_code": "610201",
-    "name": "Pasir"
+    "name": "Pasir",
+    "postal_code": "78919"
   },
   {
     "code": "6102012013",
     "district_code": "610201",
-    "name": "Kuala Secapah"
+    "name": "Kuala Secapah",
+    "postal_code": "78914"
   },
   {
     "code": "6102012015",
     "district_code": "610201",
-    "name": "Malikian"
+    "name": "Malikian",
+    "postal_code": "78919"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "7302051001",
     "district_code": "730205",
-    "name": "Tanuntung"
+    "name": "Tanuntung",
+    "postal_code": "92573"
   },
   {
     "code": "7302051002",
     "district_code": "730205",
-    "name": "Bonto Kamase"
+    "name": "Bonto Kamase",
+    "postal_code": "92573"
   },
   {
     "code": "7302052003",
     "district_code": "730205",
-    "name": "Karassing"
+    "name": "Karassing",
+    "postal_code": "92573"
   },
   {
     "code": "7302052004",
     "district_code": "730205",
-    "name": "Singa"
+    "name": "Singa",
+    "postal_code": "92573"
   },
   {
     "code": "7302052005",
     "district_code": "730205",
-    "name": "Gunturu"
+    "name": "Gunturu",
+    "postal_code": "92573"
   },
   {
     "code": "7302052006",
     "district_code": "730205",
-    "name": "Borong"
+    "name": "Borong",
+    "postal_code": "92573"
   },
   {
     "code": "7302052007",
     "district_code": "730205",
-    "name": "Tugondeng"
+    "name": "Tugondeng",
+    "postal_code": "92573"
   },
   {
     "code": "7302052008",
     "district_code": "730205",
-    "name": "Pataro"
+    "name": "Pataro",
+    "postal_code": "92573"
   }
 ]

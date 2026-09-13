@@ -2,76 +2,91 @@
   {
     "code": "7107022001",
     "district_code": "710702",
-    "name": "Tatengesan"
+    "name": "Tatengesan",
+    "postal_code": "95997"
   },
   {
     "code": "7107022002",
     "district_code": "710702",
-    "name": "Wiau"
+    "name": "Wiau",
+    "postal_code": "95997"
   },
   {
     "code": "7107022003",
     "district_code": "710702",
-    "name": "Bentenan"
+    "name": "Bentenan",
+    "postal_code": "95997"
   },
   {
     "code": "7107022004",
     "district_code": "710702",
-    "name": "Tumbak"
+    "name": "Tumbak",
+    "postal_code": "95997"
   },
   {
     "code": "7107022005",
     "district_code": "710702",
-    "name": "Makalu"
+    "name": "Makalu",
+    "postal_code": "95997"
   },
   {
     "code": "7107022006",
     "district_code": "710702",
-    "name": "Minanga"
+    "name": "Minanga",
+    "postal_code": "95997"
   },
   {
     "code": "7107022007",
     "district_code": "710702",
-    "name": "Minanga Satu"
+    "name": "Minanga Satu",
+    "postal_code": "95997"
   },
   {
     "code": "7107022008",
     "district_code": "710702",
-    "name": "Bentenan Indah"
+    "name": "Bentenan Indah",
+    "postal_code": "95997"
   },
   {
     "code": "7107022009",
     "district_code": "710702",
-    "name": "Minanga Timur"
+    "name": "Minanga Timur",
+    "postal_code": "95997"
   },
   {
     "code": "7107022010",
     "district_code": "710702",
-    "name": "Minanga Dua"
+    "name": "Minanga Dua",
+    "postal_code": "95997"
   },
   {
     "code": "7107022011",
     "district_code": "710702",
-    "name": "Minanga Tiga"
+    "name": "Minanga Tiga",
+    "postal_code": "95997"
   },
   {
     "code": "7107022012",
     "district_code": "710702",
-    "name": "Makalu Selatan"
+    "name": "Makalu Selatan",
+    "postal_code": "95997"
   },
   {
     "code": "7107022013",
     "district_code": "710702",
-    "name": "Tatengesan Satu"
+    "name": "Tatengesan Satu",
+    "postal_code": "95997"
   },
   {
     "code": "7107022014",
     "district_code": "710702",
-    "name": "Bentenan Satu"
+    "name": "Bentenan Satu",
+    "postal_code": "95997"
   },
   {
     "code": "7107022015",
     "district_code": "710702",
-    "name": "Tumbak Madani"
+    "name": "Tumbak Madani",
+    "postal_code": "95997"
   }
 ]

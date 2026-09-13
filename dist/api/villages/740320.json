@@ -2,31 +2,37 @@
   {
     "code": "7403202001",
     "district_code": "740320",
-    "name": "Liabalano"
+    "name": "Liabalano",
+    "postal_code": "93625"
   },
   {
     "code": "7403202002",
     "district_code": "740320",
-    "name": "Lapodidi"
+    "name": "Lapodidi",
+    "postal_code": "93625"
   },
   {
     "code": "7403202003",
     "district_code": "740320",
-    "name": "Bungi"
+    "name": "Bungi",
+    "postal_code": "93625"
   },
   {
     "code": "7403202004",
     "district_code": "740320",
-    "name": "Kontunaga"
+    "name": "Kontunaga",
+    "postal_code": "93625"
   },
   {
     "code": "7403202005",
     "district_code": "740320",
-    "name": "Maabhodo"
+    "name": "Maabhodo",
+    "postal_code": "93625"
   },
   {
     "code": "7403202006",
     "district_code": "740320",
-    "name": "Masalili"
+    "name": "Masalili",
+    "postal_code": "93625"
   }
 ]

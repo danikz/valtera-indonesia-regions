@@ -2,36 +2,43 @@
   {
     "code": "5304172001",
     "district_code": "530417",
-    "name": "Lasiolat"
+    "name": "Lasiolat",
+    "postal_code": "85771"
   },
   {
     "code": "5304172002",
     "district_code": "530417",
-    "name": "Maneikun"
+    "name": "Maneikun",
+    "postal_code": "85771"
   },
   {
     "code": "5304172003",
     "district_code": "530417",
-    "name": "Lakan Mau"
+    "name": "Lakan Mau",
+    "postal_code": "85771"
   },
   {
     "code": "5304172004",
     "district_code": "530417",
-    "name": "Dualasi Rai Ulun"
+    "name": "Dualasi Rai Ulun",
+    "postal_code": "85771"
   },
   {
     "code": "5304172005",
     "district_code": "530417",
-    "name": "Dualasi"
+    "name": "Dualasi",
+    "postal_code": "85771"
   },
   {
     "code": "5304172006",
     "district_code": "530417",
-    "name": "Fatulotu"
+    "name": "Fatulotu",
+    "postal_code": "85771"
   },
   {
     "code": "5304172007",
     "district_code": "530417",
-    "name": "Baudaok"
+    "name": "Baudaok",
+    "postal_code": "85771"
   }
 ]

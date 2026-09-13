@@ -2,51 +2,61 @@
   {
     "code": "3213162001",
     "district_code": "321316",
-    "name": "Rancabango"
+    "name": "Rancabango",
+    "postal_code": "41263"
   },
   {
     "code": "3213162002",
     "district_code": "321316",
-    "name": "Tanjungrasa"
+    "name": "Tanjungrasa",
+    "postal_code": "41263"
   },
   {
     "code": "3213162003",
     "district_code": "321316",
-    "name": "Ciberes"
+    "name": "Ciberes",
+    "postal_code": "41263"
   },
   {
     "code": "3213162004",
     "district_code": "321316",
-    "name": "Jatiragas Hilir"
+    "name": "Jatiragas Hilir",
+    "postal_code": "41263"
   },
   {
     "code": "3213162005",
     "district_code": "321316",
-    "name": "Tambakjati"
+    "name": "Tambakjati",
+    "postal_code": "41263"
   },
   {
     "code": "3213162006",
     "district_code": "321316",
-    "name": "Rancajaya"
+    "name": "Rancajaya",
+    "postal_code": "41263"
   },
   {
     "code": "3213162007",
     "district_code": "321316",
-    "name": "Gempolsari"
+    "name": "Gempolsari",
+    "postal_code": "41263"
   },
   {
     "code": "3213162008",
     "district_code": "321316",
-    "name": "Tanjungrasa Kidul"
+    "name": "Tanjungrasa Kidul",
+    "postal_code": "41263"
   },
   {
     "code": "3213162009",
     "district_code": "321316",
-    "name": "Rancaasih"
+    "name": "Rancaasih",
+    "postal_code": "41263"
   },
   {
     "code": "3213162010",
     "district_code": "321316",
-    "name": "Rancamulya"
+    "name": "Rancamulya",
+    "postal_code": "41263"
   }
 ]

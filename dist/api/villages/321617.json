@@ -2,31 +2,37 @@
   {
     "code": "3216172001",
     "district_code": "321617",
-    "name": "Pantai Mekar"
+    "name": "Pantai Mekar",
+    "postal_code": "17730"
   },
   {
     "code": "3216172002",
     "district_code": "321617",
-    "name": "Pantai Bahagia"
+    "name": "Pantai Bahagia",
+    "postal_code": "17730"
   },
   {
     "code": "3216172003",
     "district_code": "321617",
-    "name": "Pantai Bakti"
+    "name": "Pantai Bakti",
+    "postal_code": "17730"
   },
   {
     "code": "3216172004",
     "district_code": "321617",
-    "name": "Pantai Harapanjaya"
+    "name": "Pantai Harapanjaya",
+    "postal_code": "17730"
   },
   {
     "code": "3216172005",
     "district_code": "321617",
-    "name": "Pantai Sederhana"
+    "name": "Pantai Sederhana",
+    "postal_code": "17730"
   },
   {
     "code": "3216172006",
     "district_code": "321617",
-    "name": "Jayasakti"
+    "name": "Jayasakti",
+    "postal_code": "17730"
   }
 ]

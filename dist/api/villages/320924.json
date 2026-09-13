@@ -2,56 +2,67 @@
   {
     "code": "3209242001",
     "district_code": "320924",
-    "name": "Sende"
+    "name": "Sende",
+    "postal_code": "45162"
   },
   {
     "code": "3209242002",
     "district_code": "320924",
-    "name": "Jungjang Wetan"
+    "name": "Jungjang Wetan",
+    "postal_code": "45162"
   },
   {
     "code": "3209242003",
     "district_code": "320924",
-    "name": "Jungjang"
+    "name": "Jungjang",
+    "postal_code": "45162"
   },
   {
     "code": "3209242004",
     "district_code": "320924",
-    "name": "Arjawinangun"
+    "name": "Arjawinangun",
+    "postal_code": "45162"
   },
   {
     "code": "3209242005",
     "district_code": "320924",
-    "name": "Tegalgubug"
+    "name": "Tegalgubug",
+    "postal_code": "45162"
   },
   {
     "code": "3209242006",
     "district_code": "320924",
-    "name": "Tegal Gubug Lor"
+    "name": "Tegal Gubug Lor",
+    "postal_code": "45162"
   },
   {
     "code": "3209242007",
     "district_code": "320924",
-    "name": "Rawagatel"
+    "name": "Rawagatel",
+    "postal_code": "45162"
   },
   {
     "code": "3209242008",
     "district_code": "320924",
-    "name": "Karangsambung"
+    "name": "Karangsambung",
+    "postal_code": "45162"
   },
   {
     "code": "3209242009",
     "district_code": "320924",
-    "name": "Bulak"
+    "name": "Bulak",
+    "postal_code": "45162"
   },
   {
     "code": "3209242010",
     "district_code": "320924",
-    "name": "Geyongan"
+    "name": "Geyongan",
+    "postal_code": "45162"
   },
   {
     "code": "3209242011",
     "district_code": "320924",
-    "name": "Kebonturi"
+    "name": "Kebonturi",
+    "postal_code": "45162"
   }
 ]

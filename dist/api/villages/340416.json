@@ -2,26 +2,31 @@
   {
     "code": "3404162001",
     "district_code": "340416",
-    "name": "Purwobinangun"
+    "name": "Purwobinangun",
+    "postal_code": "55582"
   },
   {
     "code": "3404162002",
     "district_code": "340416",
-    "name": "Candibinangun"
+    "name": "Candibinangun",
+    "postal_code": "55582"
   },
   {
     "code": "3404162003",
     "district_code": "340416",
-    "name": "Harjobinangun"
+    "name": "Harjobinangun",
+    "postal_code": "55582"
   },
   {
     "code": "3404162004",
     "district_code": "340416",
-    "name": "Pakembinangun"
+    "name": "Pakembinangun",
+    "postal_code": "55582"
   },
   {
     "code": "3404162005",
     "district_code": "340416",
-    "name": "Hargobinangun"
+    "name": "Hargobinangun",
+    "postal_code": "55582"
   }
 ]

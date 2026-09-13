@@ -2,56 +2,67 @@
   {
     "code": "8103072001",
     "district_code": "810307",
-    "name": "Abat"
+    "name": "Abat",
+    "postal_code": "97465"
   },
   {
     "code": "8103072002",
     "district_code": "810307",
-    "name": "Labobar"
+    "name": "Labobar",
+    "postal_code": "97465"
   },
   {
     "code": "8103072008",
     "district_code": "810307",
-    "name": "Watmasa"
+    "name": "Watmasa",
+    "postal_code": "97465"
   },
   {
     "code": "8103072009",
     "district_code": "810307",
-    "name": "Awear Rumngeur"
+    "name": "Awear Rumngeur",
+    "postal_code": "97465"
   },
   {
     "code": "8103072010",
     "district_code": "810307",
-    "name": "Karatat"
+    "name": "Karatat",
+    "postal_code": "97465"
   },
   {
     "code": "8103072011",
     "district_code": "810307",
-    "name": "Wunlah"
+    "name": "Wunlah",
+    "postal_code": "97465"
   },
   {
     "code": "8103072012",
     "district_code": "810307",
-    "name": "Kiloon"
+    "name": "Kiloon",
+    "postal_code": "97465"
   },
   {
     "code": "8103072013",
     "district_code": "810307",
-    "name": "Lingada"
+    "name": "Lingada",
+    "postal_code": "97465"
   },
   {
     "code": "8103072014",
     "district_code": "810307",
-    "name": "Teineman"
+    "name": "Teineman",
+    "postal_code": "97465"
   },
   {
     "code": "8103072015",
     "district_code": "810307",
-    "name": "Wabar"
+    "name": "Wabar",
+    "postal_code": "97465"
   },
   {
     "code": "8103072016",
     "district_code": "810307",
-    "name": "Romnus"
+    "name": "Romnus",
+    "postal_code": "97465"
   }
 ]

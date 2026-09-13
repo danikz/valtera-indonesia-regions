@@ -2,51 +2,61 @@
   {
     "code": "1410051001",
     "district_code": "141005",
-    "name": "Teluk Belitung"
+    "name": "Teluk Belitung",
+    "postal_code": "28752"
   },
   {
     "code": "1410052002",
     "district_code": "141005",
-    "name": "Meranti Bunting"
+    "name": "Meranti Bunting",
+    "postal_code": "28752"
   },
   {
     "code": "1410052003",
     "district_code": "141005",
-    "name": "Lukit"
+    "name": "Lukit",
+    "postal_code": "28752"
   },
   {
     "code": "1410052004",
     "district_code": "141005",
-    "name": "Bagan Melibur"
+    "name": "Bagan Melibur",
+    "postal_code": "28752"
   },
   {
     "code": "1410052018",
     "district_code": "141005",
-    "name": "Pelantai"
+    "name": "Pelantai",
+    "postal_code": "28752"
   },
   {
     "code": "1410052019",
     "district_code": "141005",
-    "name": "Tanjung Kulim"
+    "name": "Tanjung Kulim",
+    "postal_code": "28752"
   },
   {
     "code": "1410052021",
     "district_code": "141005",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "28752"
   },
   {
     "code": "1410052023",
     "district_code": "141005",
-    "name": "Mayang Sari"
+    "name": "Mayang Sari",
+    "postal_code": "28752"
   },
   {
     "code": "1410052026",
     "district_code": "141005",
-    "name": "Sungai Anak Kamal"
+    "name": "Sungai Anak Kamal",
+    "postal_code": "28752"
   },
   {
     "code": "1410052027",
     "district_code": "141005",
-    "name": "Sungai Tengah"
+    "name": "Sungai Tengah",
+    "postal_code": "28752"
   }
 ]

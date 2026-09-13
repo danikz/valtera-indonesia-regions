@@ -2,46 +2,55 @@
   {
     "code": "3511232001",
     "district_code": "351123",
-    "name": "Jambesari"
+    "name": "Jambesari",
+    "postal_code": "68263"
   },
   {
     "code": "3511232002",
     "district_code": "351123",
-    "name": "Jambeanom"
+    "name": "Jambeanom",
+    "postal_code": "68263"
   },
   {
     "code": "3511232003",
     "district_code": "351123",
-    "name": "Pucanganom"
+    "name": "Pucanganom",
+    "postal_code": "68263"
   },
   {
     "code": "3511232004",
     "district_code": "351123",
-    "name": "Sumberjeruk"
+    "name": "Sumberjeruk",
+    "postal_code": "68263"
   },
   {
     "code": "3511232005",
     "district_code": "351123",
-    "name": "Tegalpasir"
+    "name": "Tegalpasir",
+    "postal_code": "68263"
   },
   {
     "code": "3511232006",
     "district_code": "351123",
-    "name": "Pengarang"
+    "name": "Pengarang",
+    "postal_code": "68271"
   },
   {
     "code": "3511232007",
     "district_code": "351123",
-    "name": "Grujugan Lor"
+    "name": "Grujugan Lor",
+    "postal_code": "68261"
   },
   {
     "code": "3511232008",
     "district_code": "351123",
-    "name": "Pejagan"
+    "name": "Pejagan",
+    "postal_code": "68261"
   },
   {
     "code": "3511232009",
     "district_code": "351123",
-    "name": "Sumber Anyar"
+    "name": "Sumber Anyar",
+    "postal_code": "68263"
   }
 ]

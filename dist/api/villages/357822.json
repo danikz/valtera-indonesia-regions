@@ -2,21 +2,25 @@
   {
     "code": "3578221001",
     "district_code": "357822",
-    "name": "Gayungan"
+    "name": "Gayungan",
+    "postal_code": "60235"
   },
   {
     "code": "3578221002",
     "district_code": "357822",
-    "name": "Menanggal"
+    "name": "Menanggal",
+    "postal_code": "60234"
   },
   {
     "code": "3578221003",
     "district_code": "357822",
-    "name": "Dukuh Menanggal"
+    "name": "Dukuh Menanggal",
+    "postal_code": "60234"
   },
   {
     "code": "3578221004",
     "district_code": "357822",
-    "name": "Ketintang"
+    "name": "Ketintang",
+    "postal_code": "60231"
   }
 ]

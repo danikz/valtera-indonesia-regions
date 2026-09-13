@@ -2,21 +2,25 @@
   {
     "code": "9209152001",
     "district_code": "920915",
-    "name": "Ases"
+    "name": "Ases",
+    "postal_code": ""
   },
   {
     "code": "9209152002",
     "district_code": "920915",
-    "name": "Asuon"
+    "name": "Asuon",
+    "postal_code": ""
   },
   {
     "code": "9209152003",
     "district_code": "920915",
-    "name": "Safoetiek"
+    "name": "Safoetiek",
+    "postal_code": ""
   },
   {
     "code": "9209152004",
     "district_code": "920915",
-    "name": "Frasayoah"
+    "name": "Frasayoah",
+    "postal_code": ""
   }
 ]

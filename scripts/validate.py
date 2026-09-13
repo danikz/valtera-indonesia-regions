@@ -71,6 +71,9 @@ def validate():
             errors.append(f"[Villages] Missing parent district '{d_code}' for village '{v['code']}'")
         if not v["code"].startswith(d_code):
             errors.append(f"[Villages] Code '{v['code']}' does not start with parent prefix '{d_code}'")
+        postal = v.get("postal_code", "").strip()
+        if postal and not re.match(r"^\d{5}$", postal):
+            errors.append(f"[Villages] Invalid postal code format '{postal}' for village '{v['code']}'")
 
     if errors:
         print(f"\n[FAIL] Found {len(errors)} integrity errors:")

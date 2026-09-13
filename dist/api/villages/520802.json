@@ -2,41 +2,49 @@
   {
     "code": "5208022001",
     "district_code": "520802",
-    "name": "Gondang"
+    "name": "Gondang",
+    "postal_code": "83353"
   },
   {
     "code": "5208022002",
     "district_code": "520802",
-    "name": "Bentek"
+    "name": "Bentek",
+    "postal_code": "83353"
   },
   {
     "code": "5208022003",
     "district_code": "520802",
-    "name": "Genggelang"
+    "name": "Genggelang",
+    "postal_code": "83353"
   },
   {
     "code": "5208022004",
     "district_code": "520802",
-    "name": "Rempek"
+    "name": "Rempek",
+    "postal_code": "83353"
   },
   {
     "code": "5208022005",
     "district_code": "520802",
-    "name": "Sambik Bangkol"
+    "name": "Sambik Bangkol",
+    "postal_code": "83353"
   },
   {
     "code": "5208022006",
     "district_code": "520802",
-    "name": "Selelos"
+    "name": "Selelos",
+    "postal_code": "83353"
   },
   {
     "code": "5208022007",
     "district_code": "520802",
-    "name": "Rempek Darussalam"
+    "name": "Rempek Darussalam",
+    "postal_code": "83353"
   },
   {
     "code": "5208022008",
     "district_code": "520802",
-    "name": "Segara Katon"
+    "name": "Segara Katon",
+    "postal_code": "83353"
   }
 ]

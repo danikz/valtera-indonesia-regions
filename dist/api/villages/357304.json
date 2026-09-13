@@ -2,56 +2,67 @@
   {
     "code": "3573041001",
     "district_code": "357304",
-    "name": "Ciptomulyo"
+    "name": "Ciptomulyo",
+    "postal_code": "65148"
   },
   {
     "code": "3573041002",
     "district_code": "357304",
-    "name": "Gadang"
+    "name": "Gadang",
+    "postal_code": "65149"
   },
   {
     "code": "3573041003",
     "district_code": "357304",
-    "name": "Kebonsari"
+    "name": "Kebonsari",
+    "postal_code": "65149"
   },
   {
     "code": "3573041004",
     "district_code": "357304",
-    "name": "Bandungrejosari"
+    "name": "Bandungrejosari",
+    "postal_code": "65148"
   },
   {
     "code": "3573041005",
     "district_code": "357304",
-    "name": "Sukun"
+    "name": "Sukun",
+    "postal_code": "65147"
   },
   {
     "code": "3573041006",
     "district_code": "357304",
-    "name": "Tanjungrejo"
+    "name": "Tanjungrejo",
+    "postal_code": "65147"
   },
   {
     "code": "3573041007",
     "district_code": "357304",
-    "name": "Pisangcandi"
+    "name": "Pisangcandi",
+    "postal_code": "65146"
   },
   {
     "code": "3573041008",
     "district_code": "357304",
-    "name": "Bandulan"
+    "name": "Bandulan",
+    "postal_code": "65146"
   },
   {
     "code": "3573041009",
     "district_code": "357304",
-    "name": "Karangbesuki"
+    "name": "Karangbesuki",
+    "postal_code": "65149"
   },
   {
     "code": "3573041010",
     "district_code": "357304",
-    "name": "Mulyorejo"
+    "name": "Mulyorejo",
+    "postal_code": "65147"
   },
   {
     "code": "3573041011",
     "district_code": "357304",
-    "name": "Bakalankrajan"
+    "name": "Bakalankrajan",
+    "postal_code": "65148"
   }
 ]

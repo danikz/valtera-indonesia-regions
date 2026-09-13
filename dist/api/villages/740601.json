@@ -2,51 +2,61 @@
   {
     "code": "7406011007",
     "district_code": "740601",
-    "name": "Boeara"
+    "name": "Boeara",
+    "postal_code": "93772"
   },
   {
     "code": "7406011008",
     "district_code": "740601",
-    "name": "Kastarib"
+    "name": "Kastarib",
+    "postal_code": "93772"
   },
   {
     "code": "7406011010",
     "district_code": "740601",
-    "name": "Boepinang"
+    "name": "Boepinang",
+    "postal_code": "93772"
   },
   {
     "code": "7406011015",
     "district_code": "740601",
-    "name": "Boepinang Barat"
+    "name": "Boepinang Barat",
+    "postal_code": "93772"
   },
   {
     "code": "7406011016",
     "district_code": "740601",
-    "name": "Barangka"
+    "name": "Barangka",
+    "postal_code": "93772"
   },
   {
     "code": "7406011017",
     "district_code": "740601",
-    "name": "Kasabolo"
+    "name": "Kasabolo",
+    "postal_code": "93772"
   },
   {
     "code": "7406012009",
     "district_code": "740601",
-    "name": "Pokohrumba"
+    "name": "Pokohrumba",
+    "postal_code": "93772"
   },
   {
     "code": "7406012011",
     "district_code": "740601",
-    "name": "Pallimae"
+    "name": "Pallimae",
+    "postal_code": "93772"
   },
   {
     "code": "7406012018",
     "district_code": "740601",
-    "name": "Salosa"
+    "name": "Salosa",
+    "postal_code": "93772"
   },
   {
     "code": "7406012019",
     "district_code": "740601",
-    "name": "Matiro Walie"
+    "name": "Matiro Walie",
+    "postal_code": "93772"
   }
 ]

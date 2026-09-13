@@ -2,151 +2,181 @@
   {
     "code": "1604101031",
     "district_code": "160410",
-    "name": "Lahat Tengah"
+    "name": "Lahat Tengah",
+    "postal_code": "31419"
   },
   {
     "code": "1604101032",
     "district_code": "160410",
-    "name": "Gunung Gajah"
+    "name": "Gunung Gajah",
+    "postal_code": "31418"
   },
   {
     "code": "1604101033",
     "district_code": "160410",
-    "name": "Pagar Agung"
+    "name": "Pagar Agung",
+    "postal_code": "31417"
   },
   {
     "code": "1604101037",
     "district_code": "160410",
-    "name": "Talang Jawa"
+    "name": "Talang Jawa",
+    "postal_code": "31416"
   },
   {
     "code": "1604101038",
     "district_code": "160410",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "31411"
   },
   {
     "code": "1604101040",
     "district_code": "160410",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "31415"
   },
   {
     "code": "1604101041",
     "district_code": "160410",
-    "name": "Pasar Lama"
+    "name": "Pasar Lama",
+    "postal_code": "31413"
   },
   {
     "code": "1604101042",
     "district_code": "160410",
-    "name": "Pasar Bawah"
+    "name": "Pasar Bawah",
+    "postal_code": "31412"
   },
   {
     "code": "1604101043",
     "district_code": "160410",
-    "name": "RD. PJKA"
+    "name": "RD. PJKA",
+    "postal_code": "31419"
   },
   {
     "code": "1604101046",
     "district_code": "160410",
-    "name": "Bandar Agung"
+    "name": "Bandar Agung",
+    "postal_code": "31414"
   },
   {
     "code": "1604101051",
     "district_code": "160410",
-    "name": "Kota Negara"
+    "name": "Kota Negara",
+    "postal_code": "31414"
   },
   {
     "code": "1604101052",
     "district_code": "160410",
-    "name": "Kota Jaya"
+    "name": "Kota Jaya",
+    "postal_code": "31412"
   },
   {
     "code": "1604101054",
     "district_code": "160410",
-    "name": "RD. PJKA Bandar Agung"
+    "name": "RD. PJKA Bandar Agung",
+    "postal_code": "31419"
   },
   {
     "code": "1604101058",
     "district_code": "160410",
-    "name": "Sari Bunga Mas"
+    "name": "Sari Bunga Mas",
+    "postal_code": "31419"
   },
   {
     "code": "1604101059",
     "district_code": "160410",
-    "name": "Bandar Jaya"
+    "name": "Bandar Jaya",
+    "postal_code": "31419"
   },
   {
     "code": "1604101060",
     "district_code": "160410",
-    "name": "Talang Jawa Selatan"
+    "name": "Talang Jawa Selatan",
+    "postal_code": "31416"
   },
   {
     "code": "1604101061",
     "district_code": "160410",
-    "name": "Talang Jawa Utara"
+    "name": "Talang Jawa Utara",
+    "postal_code": "31416"
   },
   {
     "code": "1604102012",
     "district_code": "160410",
-    "name": "Padang Lengkuas"
+    "name": "Padang Lengkuas",
+    "postal_code": "31419"
   },
   {
     "code": "1604102027",
     "district_code": "160410",
-    "name": "Selawi"
+    "name": "Selawi",
+    "postal_code": "31419"
   },
   {
     "code": "1604102030",
     "district_code": "160410",
-    "name": "Sukanegara"
+    "name": "Sukanegara",
+    "postal_code": "31419"
   },
   {
     "code": "1604102034",
     "district_code": "160410",
-    "name": "Kota Raya"
+    "name": "Kota Raya",
+    "postal_code": "31419"
   },
   {
     "code": "1604102035",
     "district_code": "160410",
-    "name": "Keban"
+    "name": "Keban",
+    "postal_code": "31419"
   },
   {
     "code": "1604102036",
     "district_code": "160410",
-    "name": "Pagar Sari"
+    "name": "Pagar Sari",
+    "postal_code": "31419"
   },
   {
     "code": "1604102039",
     "district_code": "160410",
-    "name": "Pagar Negara"
+    "name": "Pagar Negara",
+    "postal_code": "31419"
   },
   {
     "code": "1604102049",
     "district_code": "160410",
-    "name": "Senabing"
+    "name": "Senabing",
+    "postal_code": "31419"
   },
   {
     "code": "1604102050",
     "district_code": "160410",
-    "name": "Manggul"
+    "name": "Manggul",
+    "postal_code": "31419"
   },
   {
     "code": "1604102053",
     "district_code": "160410",
-    "name": "Ulak Lebar"
+    "name": "Ulak Lebar",
+    "postal_code": "31419"
   },
   {
     "code": "1604102055",
     "district_code": "160410",
-    "name": "Giri Mulya"
+    "name": "Giri Mulya",
+    "postal_code": "31419"
   },
   {
     "code": "1604102056",
     "district_code": "160410",
-    "name": "Makarti Tama"
+    "name": "Makarti Tama",
+    "postal_code": "31419"
   },
   {
     "code": "1604102057",
     "district_code": "160410",
-    "name": "Ulak Mas"
+    "name": "Ulak Mas",
+    "postal_code": "31419"
   }
 ]

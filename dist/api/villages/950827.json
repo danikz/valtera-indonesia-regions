@@ -2,26 +2,31 @@
   {
     "code": "9508272001",
     "district_code": "950827",
-    "name": "Nganai"
+    "name": "Nganai",
+    "postal_code": "99928"
   },
   {
     "code": "9508272002",
     "district_code": "950827",
-    "name": "Pija"
+    "name": "Pija",
+    "postal_code": "99928"
   },
   {
     "code": "9508272003",
     "district_code": "950827",
-    "name": "Sitgama"
+    "name": "Sitgama",
+    "postal_code": "99928"
   },
   {
     "code": "9508272004",
     "district_code": "950827",
-    "name": "Siat"
+    "name": "Siat",
+    "postal_code": "99928"
   },
   {
     "code": "9508272005",
     "district_code": "950827",
-    "name": "Murupbaye"
+    "name": "Murupbaye",
+    "postal_code": "99928"
   }
 ]

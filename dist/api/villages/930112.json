@@ -2,26 +2,31 @@
   {
     "code": "9301122001",
     "district_code": "930112",
-    "name": "Kuler"
+    "name": "Kuler",
+    "postal_code": "99621"
   },
   {
     "code": "9301122002",
     "district_code": "930112",
-    "name": "Onggaya"
+    "name": "Onggaya",
+    "postal_code": "99621"
   },
   {
     "code": "9301122003",
     "district_code": "930112",
-    "name": "Tomer"
+    "name": "Tomer",
+    "postal_code": "99621"
   },
   {
     "code": "9301122004",
     "district_code": "930112",
-    "name": "Tomerau"
+    "name": "Tomerau",
+    "postal_code": "99621"
   },
   {
     "code": "9301122005",
     "district_code": "930112",
-    "name": "Kondo"
+    "name": "Kondo",
+    "postal_code": "99621"
   }
 ]

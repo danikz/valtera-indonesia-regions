@@ -2,31 +2,37 @@
   {
     "code": "9508072001",
     "district_code": "950807",
-    "name": "Mbuwa"
+    "name": "Mbuwa",
+    "postal_code": "99910"
   },
   {
     "code": "9508072002",
     "district_code": "950807",
-    "name": "Otalama"
+    "name": "Otalama",
+    "postal_code": "99547"
   },
   {
     "code": "9508072003",
     "district_code": "950807",
-    "name": "Arugia"
+    "name": "Arugia",
+    "postal_code": "99547"
   },
   {
     "code": "9508072004",
     "district_code": "950807",
-    "name": "Opmu"
+    "name": "Opmu",
+    "postal_code": "99547"
   },
   {
     "code": "9508072005",
     "district_code": "950807",
-    "name": "Digilimu"
+    "name": "Digilimu",
+    "postal_code": "99910"
   },
   {
     "code": "9508072006",
     "district_code": "950807",
-    "name": "Kogomaru"
+    "name": "Kogomaru",
+    "postal_code": "99910"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "3271061001",
     "district_code": "327106",
-    "name": "Tanah Sareal"
+    "name": "Tanah Sareal",
+    "postal_code": "16161"
   },
   {
     "code": "3271061002",
     "district_code": "327106",
-    "name": "Kebon Pedes"
+    "name": "Kebon Pedes",
+    "postal_code": "16162"
   },
   {
     "code": "3271061003",
     "district_code": "327106",
-    "name": "Kedung Badak"
+    "name": "Kedung Badak",
+    "postal_code": "16164"
   },
   {
     "code": "3271061004",
     "district_code": "327106",
-    "name": "Sukaresmi"
+    "name": "Sukaresmi",
+    "postal_code": "16165"
   },
   {
     "code": "3271061005",
     "district_code": "327106",
-    "name": "Kedung Waringin"
+    "name": "Kedung Waringin",
+    "postal_code": "16164"
   },
   {
     "code": "3271061006",
     "district_code": "327106",
-    "name": "Kedung Jaya"
+    "name": "Kedung Jaya",
+    "postal_code": "16164"
   },
   {
     "code": "3271061007",
     "district_code": "327106",
-    "name": "Sukadamai"
+    "name": "Sukadamai",
+    "postal_code": "16165"
   },
   {
     "code": "3271061008",
     "district_code": "327106",
-    "name": "Mekar Wangi"
+    "name": "Mekar Wangi",
+    "postal_code": "16168"
   },
   {
     "code": "3271061009",
     "district_code": "327106",
-    "name": "Kencana"
+    "name": "Kencana",
+    "postal_code": "16167"
   },
   {
     "code": "3271061010",
     "district_code": "327106",
-    "name": "Kayu Manis"
+    "name": "Kayu Manis",
+    "postal_code": "16169"
   },
   {
     "code": "3271061011",
     "district_code": "327106",
-    "name": "Cibadak"
+    "name": "Cibadak",
+    "postal_code": "16166"
   }
 ]

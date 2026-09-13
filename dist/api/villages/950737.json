@@ -2,51 +2,61 @@
   {
     "code": "9507372001",
     "district_code": "950737",
-    "name": "Muara"
+    "name": "Muara",
+    "postal_code": "99569"
   },
   {
     "code": "9507372002",
     "district_code": "950737",
-    "name": "Lualo"
+    "name": "Lualo",
+    "postal_code": "99569"
   },
   {
     "code": "9507372003",
     "district_code": "950737",
-    "name": "Abua"
+    "name": "Abua",
+    "postal_code": "99569"
   },
   {
     "code": "9507372004",
     "district_code": "950737",
-    "name": "Gikur"
+    "name": "Gikur",
+    "postal_code": "99569"
   },
   {
     "code": "9507372005",
     "district_code": "950737",
-    "name": "Gipura"
+    "name": "Gipura",
+    "postal_code": "99569"
   },
   {
     "code": "9507372006",
     "district_code": "950737",
-    "name": "Gulu"
+    "name": "Gulu",
+    "postal_code": "99569"
   },
   {
     "code": "9507372007",
     "district_code": "950737",
-    "name": "Bogangi"
+    "name": "Bogangi",
+    "postal_code": "99569"
   },
   {
     "code": "9507372008",
     "district_code": "950737",
-    "name": "Golome"
+    "name": "Golome",
+    "postal_code": "99569"
   },
   {
     "code": "9507372009",
     "district_code": "950737",
-    "name": "Wiyapur"
+    "name": "Wiyapur",
+    "postal_code": "99569"
   },
   {
     "code": "9507372010",
     "district_code": "950737",
-    "name": "Kuruguneri"
+    "name": "Kuruguneri",
+    "postal_code": "99569"
   }
 ]

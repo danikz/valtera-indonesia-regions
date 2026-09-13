@@ -2,46 +2,55 @@
   {
     "code": "1673051001",
     "district_code": "167305",
-    "name": "Jawa Kanan"
+    "name": "Jawa Kanan",
+    "postal_code": "31621"
   },
   {
     "code": "1673051002",
     "district_code": "167305",
-    "name": "Jawa Kanan SS"
+    "name": "Jawa Kanan SS",
+    "postal_code": "31621"
   },
   {
     "code": "1673051003",
     "district_code": "167305",
-    "name": "Wira Karya"
+    "name": "Wira Karya",
+    "postal_code": "31623"
   },
   {
     "code": "1673051004",
     "district_code": "167305",
-    "name": "Dempo"
+    "name": "Dempo",
+    "postal_code": "31623"
   },
   {
     "code": "1673051005",
     "district_code": "167305",
-    "name": "Jawa Kiri"
+    "name": "Jawa Kiri",
+    "postal_code": "31622"
   },
   {
     "code": "1673051006",
     "district_code": "167305",
-    "name": "Karya Bakti"
+    "name": "Karya Bakti",
+    "postal_code": "31623"
   },
   {
     "code": "1673051007",
     "district_code": "167305",
-    "name": "Mesat Jaya"
+    "name": "Mesat Jaya",
+    "postal_code": "31624"
   },
   {
     "code": "1673051008",
     "district_code": "167305",
-    "name": "Mesat Seni"
+    "name": "Mesat Seni",
+    "postal_code": "31623"
   },
   {
     "code": "1673051009",
     "district_code": "167305",
-    "name": "Cereme Taba"
+    "name": "Cereme Taba",
+    "postal_code": "31623"
   }
 ]

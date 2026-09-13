@@ -2,31 +2,37 @@
   {
     "code": "3202442001",
     "district_code": "320244",
-    "name": "Padasenang"
+    "name": "Padasenang",
+    "postal_code": "43183"
   },
   {
     "code": "3202442002",
     "district_code": "320244",
-    "name": "Cidadap"
+    "name": "Cidadap",
+    "postal_code": "43183"
   },
   {
     "code": "3202442003",
     "district_code": "320244",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "43183"
   },
   {
     "code": "3202442004",
     "district_code": "320244",
-    "name": "Hegarmulya"
+    "name": "Hegarmulya",
+    "postal_code": "43183"
   },
   {
     "code": "3202442005",
     "district_code": "320244",
-    "name": "Tenjolaut"
+    "name": "Tenjolaut",
+    "postal_code": "43183"
   },
   {
     "code": "3202442006",
     "district_code": "320244",
-    "name": "Mekartani"
+    "name": "Mekartani",
+    "postal_code": "43183"
   }
 ]

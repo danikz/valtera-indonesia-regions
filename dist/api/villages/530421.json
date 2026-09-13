@@ -2,21 +2,25 @@
   {
     "code": "5304211001",
     "district_code": "530421",
-    "name": "Bardao"
+    "name": "Bardao",
+    "postal_code": "85715"
   },
   {
     "code": "5304211002",
     "district_code": "530421",
-    "name": "Tulamalae"
+    "name": "Tulamalae",
+    "postal_code": "85714"
   },
   {
     "code": "5304211003",
     "district_code": "530421",
-    "name": "Umanen"
+    "name": "Umanen",
+    "postal_code": "85713"
   },
   {
     "code": "5304211004",
     "district_code": "530421",
-    "name": "Beirafu"
+    "name": "Beirafu",
+    "postal_code": "85718"
   }
 ]

@@ -2,81 +2,97 @@
   {
     "code": "5305011001",
     "district_code": "530501",
-    "name": "Kalabahi Barat"
+    "name": "Kalabahi Barat",
+    "postal_code": "85814"
   },
   {
     "code": "5305011002",
     "district_code": "530501",
-    "name": "Kalabahi Kota"
+    "name": "Kalabahi Kota",
+    "postal_code": "85813"
   },
   {
     "code": "5305011003",
     "district_code": "530501",
-    "name": "Kalabahi Tengah"
+    "name": "Kalabahi Tengah",
+    "postal_code": "85812"
   },
   {
     "code": "5305011004",
     "district_code": "530501",
-    "name": "Kalabahi Timur"
+    "name": "Kalabahi Timur",
+    "postal_code": "85811"
   },
   {
     "code": "5305011005",
     "district_code": "530501",
-    "name": "Binongko"
+    "name": "Binongko",
+    "postal_code": "85815"
   },
   {
     "code": "5305011006",
     "district_code": "530501",
-    "name": "Nusa Kenari"
+    "name": "Nusa Kenari",
+    "postal_code": "85819"
   },
   {
     "code": "5305011008",
     "district_code": "530501",
-    "name": "Welai Barat"
+    "name": "Welai Barat",
+    "postal_code": "85816"
   },
   {
     "code": "5305011009",
     "district_code": "530501",
-    "name": "Welai Timur"
+    "name": "Welai Timur",
+    "postal_code": "85817"
   },
   {
     "code": "5305011010",
     "district_code": "530501",
-    "name": "Mutiara"
+    "name": "Mutiara",
+    "postal_code": "85819"
   },
   {
     "code": "5305011011",
     "district_code": "530501",
-    "name": "Wetabua"
+    "name": "Wetabua",
+    "postal_code": "85819"
   },
   {
     "code": "5305012012",
     "district_code": "530501",
-    "name": "Lendola"
+    "name": "Lendola",
+    "postal_code": "85819"
   },
   {
     "code": "5305012013",
     "district_code": "530501",
-    "name": "Fanating"
+    "name": "Fanating",
+    "postal_code": "85819"
   },
   {
     "code": "5305012014",
     "district_code": "530501",
-    "name": "Motongbang"
+    "name": "Motongbang",
+    "postal_code": "85819"
   },
   {
     "code": "5305012015",
     "district_code": "530501",
-    "name": "Air Kenari"
+    "name": "Air Kenari",
+    "postal_code": "85819"
   },
   {
     "code": "5305012018",
     "district_code": "530501",
-    "name": "Teluk Kenari"
+    "name": "Teluk Kenari",
+    "postal_code": "85819"
   },
   {
     "code": "5305012019",
     "district_code": "530501",
-    "name": "Adang Buom"
+    "name": "Adang Buom",
+    "postal_code": "85819"
   }
 ]

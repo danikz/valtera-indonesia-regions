@@ -2,41 +2,49 @@
   {
     "code": "9201402001",
     "district_code": "920140",
-    "name": "Klayili"
+    "name": "Klayili",
+    "postal_code": ""
   },
   {
     "code": "9201402002",
     "district_code": "920140",
-    "name": "Klawuluh"
+    "name": "Klawuluh",
+    "postal_code": ""
   },
   {
     "code": "9201402003",
     "district_code": "920140",
-    "name": "Malakobutu"
+    "name": "Malakobutu",
+    "postal_code": ""
   },
   {
     "code": "9201402004",
     "district_code": "920140",
-    "name": "Kwakeik"
+    "name": "Kwakeik",
+    "postal_code": ""
   },
   {
     "code": "9201402005",
     "district_code": "920140",
-    "name": "Klasowoh"
+    "name": "Klasowoh",
+    "postal_code": ""
   },
   {
     "code": "9201402006",
     "district_code": "920140",
-    "name": "Malalilis"
+    "name": "Malalilis",
+    "postal_code": ""
   },
   {
     "code": "9201402007",
     "district_code": "920140",
-    "name": "Mlawer"
+    "name": "Mlawer",
+    "postal_code": ""
   },
   {
     "code": "9201402008",
     "district_code": "920140",
-    "name": "Klatomok"
+    "name": "Klatomok",
+    "postal_code": ""
   }
 ]

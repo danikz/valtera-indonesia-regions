@@ -2,76 +2,91 @@
   {
     "code": "5102062001",
     "district_code": "510206",
-    "name": "Bengkel"
+    "name": "Bengkel",
+    "postal_code": "82121"
   },
   {
     "code": "5102062002",
     "district_code": "510206",
-    "name": "Pangkung Tibah"
+    "name": "Pangkung Tibah",
+    "postal_code": "82121"
   },
   {
     "code": "5102062003",
     "district_code": "510206",
-    "name": "Belalang"
+    "name": "Belalang",
+    "postal_code": "82121"
   },
   {
     "code": "5102062004",
     "district_code": "510206",
-    "name": "Beraban"
+    "name": "Beraban",
+    "postal_code": "82121"
   },
   {
     "code": "5102062005",
     "district_code": "510206",
-    "name": "Buwit"
+    "name": "Buwit",
+    "postal_code": "82121"
   },
   {
     "code": "5102062006",
     "district_code": "510206",
-    "name": "Cepaka"
+    "name": "Cepaka",
+    "postal_code": "82121"
   },
   {
     "code": "5102062007",
     "district_code": "510206",
-    "name": "Kaba-kaba"
+    "name": "Kaba-kaba",
+    "postal_code": "82121"
   },
   {
     "code": "5102062008",
     "district_code": "510206",
-    "name": "Nyambu"
+    "name": "Nyambu",
+    "postal_code": "82121"
   },
   {
     "code": "5102062009",
     "district_code": "510206",
-    "name": "Pandak Bandung"
+    "name": "Pandak Bandung",
+    "postal_code": "82121"
   },
   {
     "code": "5102062010",
     "district_code": "510206",
-    "name": "Pandak Gede"
+    "name": "Pandak Gede",
+    "postal_code": "82121"
   },
   {
     "code": "5102062011",
     "district_code": "510206",
-    "name": "Nyitdah"
+    "name": "Nyitdah",
+    "postal_code": "82121"
   },
   {
     "code": "5102062012",
     "district_code": "510206",
-    "name": "Pejaten"
+    "name": "Pejaten",
+    "postal_code": "82121"
   },
   {
     "code": "5102062013",
     "district_code": "510206",
-    "name": "Kediri"
+    "name": "Kediri",
+    "postal_code": "82121"
   },
   {
     "code": "5102062014",
     "district_code": "510206",
-    "name": "Abian Tuwung"
+    "name": "Abian Tuwung",
+    "postal_code": "82121"
   },
   {
     "code": "5102062015",
     "district_code": "510206",
-    "name": "Banjar Anyar"
+    "name": "Banjar Anyar",
+    "postal_code": "82123"
   }
 ]

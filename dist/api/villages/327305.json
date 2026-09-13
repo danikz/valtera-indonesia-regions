@@ -2,31 +2,37 @@
   {
     "code": "3273051001",
     "district_code": "327305",
-    "name": "Maleber"
+    "name": "Maleber",
+    "postal_code": "40184"
   },
   {
     "code": "3273051002",
     "district_code": "327305",
-    "name": "Dungus Cariang"
+    "name": "Dungus Cariang",
+    "postal_code": "40183"
   },
   {
     "code": "3273051003",
     "district_code": "327305",
-    "name": "Ciroyom"
+    "name": "Ciroyom",
+    "postal_code": "40182"
   },
   {
     "code": "3273051004",
     "district_code": "327305",
-    "name": "Kebon Jeruk"
+    "name": "Kebon Jeruk",
+    "postal_code": "40181"
   },
   {
     "code": "3273051005",
     "district_code": "327305",
-    "name": "Garuda"
+    "name": "Garuda",
+    "postal_code": "40184"
   },
   {
     "code": "3273051006",
     "district_code": "327305",
-    "name": "Campaka"
+    "name": "Campaka",
+    "postal_code": "40184"
   }
 ]

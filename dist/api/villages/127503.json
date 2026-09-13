@@ -2,31 +2,37 @@
   {
     "code": "1275031001",
     "district_code": "127503",
-    "name": "Bandar Senembah"
+    "name": "Bandar Senembah",
+    "postal_code": "20719"
   },
   {
     "code": "1275031002",
     "district_code": "127503",
-    "name": "Limau Mungkur"
+    "name": "Limau Mungkur",
+    "postal_code": "20717"
   },
   {
     "code": "1275031003",
     "district_code": "127503",
-    "name": "Limau Sundai"
+    "name": "Limau Sundai",
+    "postal_code": "20716"
   },
   {
     "code": "1275031004",
     "district_code": "127503",
-    "name": "Paya Roba"
+    "name": "Paya Roba",
+    "postal_code": "20718"
   },
   {
     "code": "1275031005",
     "district_code": "127503",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "20719"
   },
   {
     "code": "1275031006",
     "district_code": "127503",
-    "name": "Sukaramai"
+    "name": "Sukaramai",
+    "postal_code": "20717"
   }
 ]

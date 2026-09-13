@@ -2,21 +2,25 @@
   {
     "code": "7471071001",
     "district_code": "747107",
-    "name": "Wua Wua"
+    "name": "Wua Wua",
+    "postal_code": "93117"
   },
   {
     "code": "7471071002",
     "district_code": "747107",
-    "name": "Bonggoeya"
+    "name": "Bonggoeya",
+    "postal_code": "93118"
   },
   {
     "code": "7471071003",
     "district_code": "747107",
-    "name": "Mataiwoi"
+    "name": "Mataiwoi",
+    "postal_code": "93118"
   },
   {
     "code": "7471071004",
     "district_code": "747107",
-    "name": "Anawai"
+    "name": "Anawai",
+    "postal_code": "93118"
   }
 ]

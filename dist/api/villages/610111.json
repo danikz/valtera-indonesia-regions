@@ -2,51 +2,61 @@
   {
     "code": "6101112001",
     "district_code": "610111",
-    "name": "Sagu"
+    "name": "Sagu",
+    "postal_code": "79453"
   },
   {
     "code": "6101112002",
     "district_code": "610111",
-    "name": "Sungai Palah"
+    "name": "Sungai Palah",
+    "postal_code": "79453"
   },
   {
     "code": "6101112003",
     "district_code": "610111",
-    "name": "Galing"
+    "name": "Galing",
+    "postal_code": "79453"
   },
   {
     "code": "6101112004",
     "district_code": "610111",
-    "name": "Tempapan Kuala"
+    "name": "Tempapan Kuala",
+    "postal_code": "79453"
   },
   {
     "code": "6101112005",
     "district_code": "610111",
-    "name": "Tempapan Hulu"
+    "name": "Tempapan Hulu",
+    "postal_code": "79453"
   },
   {
     "code": "6101112006",
     "district_code": "610111",
-    "name": "Ratu Sepudak"
+    "name": "Ratu Sepudak",
+    "postal_code": "79453"
   },
   {
     "code": "6101112007",
     "district_code": "610111",
-    "name": "Tri Kembang"
+    "name": "Tri Kembang",
+    "postal_code": "79453"
   },
   {
     "code": "6101112008",
     "district_code": "610111",
-    "name": "Tri Gadu"
+    "name": "Tri Gadu",
+    "postal_code": "79453"
   },
   {
     "code": "6101112009",
     "district_code": "610111",
-    "name": "Teluk Pandan"
+    "name": "Teluk Pandan",
+    "postal_code": "79453"
   },
   {
     "code": "6101112010",
     "district_code": "610111",
-    "name": "Sijang"
+    "name": "Sijang",
+    "postal_code": "79453"
   }
 ]

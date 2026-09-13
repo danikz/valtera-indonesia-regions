@@ -2,41 +2,49 @@
   {
     "code": "1803092001",
     "district_code": "180309",
-    "name": "Madukoro"
+    "name": "Madukoro",
+    "postal_code": "34511"
   },
   {
     "code": "1803092002",
     "district_code": "180309",
-    "name": "Kali Cinta"
+    "name": "Kali Cinta",
+    "postal_code": "34511"
   },
   {
     "code": "1803092003",
     "district_code": "180309",
-    "name": "Wono Marto"
+    "name": "Wono Marto",
+    "postal_code": "34511"
   },
   {
     "code": "1803092004",
     "district_code": "180309",
-    "name": "Talang Jali"
+    "name": "Talang Jali",
+    "postal_code": "34511"
   },
   {
     "code": "1803092005",
     "district_code": "180309",
-    "name": "Margo Rejo"
+    "name": "Margo Rejo",
+    "postal_code": "34511"
   },
   {
     "code": "1803092006",
     "district_code": "180309",
-    "name": "Banjar Wangi"
+    "name": "Banjar Wangi",
+    "postal_code": "34511"
   },
   {
     "code": "1803092007",
     "district_code": "180309",
-    "name": "Sawo Jajar"
+    "name": "Sawo Jajar",
+    "postal_code": "34511"
   },
   {
     "code": "1803092008",
     "district_code": "180309",
-    "name": "Madokoro Baru"
+    "name": "Madokoro Baru",
+    "postal_code": "34511"
   }
 ]

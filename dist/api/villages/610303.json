@@ -2,26 +2,31 @@
   {
     "code": "6103032001",
     "district_code": "610303",
-    "name": "Noyan"
+    "name": "Noyan",
+    "postal_code": "78554"
   },
   {
     "code": "6103032002",
     "district_code": "610303",
-    "name": "Empoto"
+    "name": "Empoto",
+    "postal_code": "78554"
   },
   {
     "code": "6103032003",
     "district_code": "610303",
-    "name": "Semongan"
+    "name": "Semongan",
+    "postal_code": "78554"
   },
   {
     "code": "6103032004",
     "district_code": "610303",
-    "name": "Sungai Dangin"
+    "name": "Sungai Dangin",
+    "postal_code": "78554"
   },
   {
     "code": "6103032005",
     "district_code": "610303",
-    "name": "Idas"
+    "name": "Idas",
+    "postal_code": "78554"
   }
 ]

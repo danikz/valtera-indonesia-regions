@@ -2,21 +2,25 @@
   {
     "code": "7109092001",
     "district_code": "710909",
-    "name": "Salili"
+    "name": "Salili",
+    "postal_code": "95860"
   },
   {
     "code": "7109092002",
     "district_code": "710909",
-    "name": "Beong"
+    "name": "Beong",
+    "postal_code": "95860"
   },
   {
     "code": "7109092003",
     "district_code": "710909",
-    "name": "Lai"
+    "name": "Lai",
+    "postal_code": "95860"
   },
   {
     "code": "7109092004",
     "district_code": "710909",
-    "name": "Dompase"
+    "name": "Dompase",
+    "postal_code": "95860"
   }
 ]

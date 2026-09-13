@@ -2,66 +2,79 @@
   {
     "code": "7313031001",
     "district_code": "731303",
-    "name": "Peneki"
+    "name": "Peneki",
+    "postal_code": "90981"
   },
   {
     "code": "7313031002",
     "district_code": "731303",
-    "name": "Bocco"
+    "name": "Bocco",
+    "postal_code": "90981"
   },
   {
     "code": "7313032003",
     "district_code": "731303",
-    "name": "Parigi"
+    "name": "Parigi",
+    "postal_code": "90981"
   },
   {
     "code": "7313032004",
     "district_code": "731303",
-    "name": "Manyili"
+    "name": "Manyili",
+    "postal_code": "90981"
   },
   {
     "code": "7313032005",
     "district_code": "731303",
-    "name": "Soro"
+    "name": "Soro",
+    "postal_code": "90981"
   },
   {
     "code": "7313032006",
     "district_code": "731303",
-    "name": "Ceppaga"
+    "name": "Ceppaga",
+    "postal_code": "90981"
   },
   {
     "code": "7313032007",
     "district_code": "731303",
-    "name": "Leweng"
+    "name": "Leweng",
+    "postal_code": "90981"
   },
   {
     "code": "7313032008",
     "district_code": "731303",
-    "name": "Ajuraja"
+    "name": "Ajuraja",
+    "postal_code": "90981"
   },
   {
     "code": "7313032009",
     "district_code": "731303",
-    "name": "Botto"
+    "name": "Botto",
+    "postal_code": "90981"
   },
   {
     "code": "7313032010",
     "district_code": "731303",
-    "name": "Lagoari"
+    "name": "Lagoari",
+    "postal_code": "90981"
   },
   {
     "code": "7313032011",
     "district_code": "731303",
-    "name": "Aluppang"
+    "name": "Aluppang",
+    "postal_code": "90981"
   },
   {
     "code": "7313032012",
     "district_code": "731303",
-    "name": "Lamarua"
+    "name": "Lamarua",
+    "postal_code": "90981"
   },
   {
     "code": "7313032013",
     "district_code": "731303",
-    "name": "Pantai Timur"
+    "name": "Pantai Timur",
+    "postal_code": "90981"
   }
 ]

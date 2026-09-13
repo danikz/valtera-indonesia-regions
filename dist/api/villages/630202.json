@@ -2,56 +2,67 @@
   {
     "code": "6302022005",
     "district_code": "630202",
-    "name": "Lontar Selatan"
+    "name": "Lontar Selatan",
+    "postal_code": "72153"
   },
   {
     "code": "6302022006",
     "district_code": "630202",
-    "name": "Lontar Timur"
+    "name": "Lontar Timur",
+    "postal_code": "72153"
   },
   {
     "code": "6302022007",
     "district_code": "630202",
-    "name": "Sebanti"
+    "name": "Sebanti",
+    "postal_code": "72153"
   },
   {
     "code": "6302022008",
     "district_code": "630202",
-    "name": "Sepagar"
+    "name": "Sepagar",
+    "postal_code": "72153"
   },
   {
     "code": "6302022009",
     "district_code": "630202",
-    "name": "Semaras"
+    "name": "Semaras",
+    "postal_code": "72153"
   },
   {
     "code": "6302022012",
     "district_code": "630202",
-    "name": "Terangkeh"
+    "name": "Terangkeh",
+    "postal_code": "72153"
   },
   {
     "code": "6302022015",
     "district_code": "630202",
-    "name": "Gemuruh"
+    "name": "Gemuruh",
+    "postal_code": "72153"
   },
   {
     "code": "6302022017",
     "district_code": "630202",
-    "name": "Tapian Balai"
+    "name": "Tapian Balai",
+    "postal_code": "72153"
   },
   {
     "code": "6302022018",
     "district_code": "630202",
-    "name": "Lontar Utara"
+    "name": "Lontar Utara",
+    "postal_code": "72153"
   },
   {
     "code": "6302022021",
     "district_code": "630202",
-    "name": "Sumber Sari"
+    "name": "Sumber Sari",
+    "postal_code": "72153"
   },
   {
     "code": "6302022022",
     "district_code": "630202",
-    "name": "Subur Makmur"
+    "name": "Subur Makmur",
+    "postal_code": "72153"
   }
 ]

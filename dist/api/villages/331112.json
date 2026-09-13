@@ -2,61 +2,73 @@
   {
     "code": "3311121002",
     "district_code": "331112",
-    "name": "Kartasura"
+    "name": "Kartasura",
+    "postal_code": "57169"
   },
   {
     "code": "3311121004",
     "district_code": "331112",
-    "name": "Ngadirejo"
+    "name": "Ngadirejo",
+    "postal_code": "57163"
   },
   {
     "code": "3311122001",
     "district_code": "331112",
-    "name": "Pucangan"
+    "name": "Pucangan",
+    "postal_code": "57168"
   },
   {
     "code": "3311122003",
     "district_code": "331112",
-    "name": "Ngemplak"
+    "name": "Ngemplak",
+    "postal_code": "57169"
   },
   {
     "code": "3311122005",
     "district_code": "331112",
-    "name": "Gumpang"
+    "name": "Gumpang",
+    "postal_code": "57169"
   },
   {
     "code": "3311122006",
     "district_code": "331112",
-    "name": "Makamhaji"
+    "name": "Makamhaji",
+    "postal_code": "57161"
   },
   {
     "code": "3311122007",
     "district_code": "331112",
-    "name": "Pabelan"
+    "name": "Pabelan",
+    "postal_code": "57169"
   },
   {
     "code": "3311122008",
     "district_code": "331112",
-    "name": "Gonilan"
+    "name": "Gonilan",
+    "postal_code": "57169"
   },
   {
     "code": "3311122009",
     "district_code": "331112",
-    "name": "Singopuran"
+    "name": "Singopuran",
+    "postal_code": "57164"
   },
   {
     "code": "3311122010",
     "district_code": "331112",
-    "name": "Ngabeyan"
+    "name": "Ngabeyan",
+    "postal_code": "57165"
   },
   {
     "code": "3311122011",
     "district_code": "331112",
-    "name": "Wirogunan"
+    "name": "Wirogunan",
+    "postal_code": "57166"
   },
   {
     "code": "3311122012",
     "district_code": "331112",
-    "name": "Kertonatan"
+    "name": "Kertonatan",
+    "postal_code": "57166"
   }
 ]

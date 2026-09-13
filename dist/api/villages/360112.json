@@ -2,46 +2,55 @@
   {
     "code": "3601122001",
     "district_code": "360112",
-    "name": "Rancateureup"
+    "name": "Rancateureup",
+    "postal_code": "42260"
   },
   {
     "code": "3601122002",
     "district_code": "360112",
-    "name": "Labuan"
+    "name": "Labuan",
+    "postal_code": "42260"
   },
   {
     "code": "3601122003",
     "district_code": "360112",
-    "name": "Banyubiru"
+    "name": "Banyubiru",
+    "postal_code": "42260"
   },
   {
     "code": "3601122004",
     "district_code": "360112",
-    "name": "Caringin"
+    "name": "Caringin",
+    "postal_code": "42260"
   },
   {
     "code": "3601122010",
     "district_code": "360112",
-    "name": "Teluk"
+    "name": "Teluk",
+    "postal_code": "42260"
   },
   {
     "code": "3601122012",
     "district_code": "360112",
-    "name": "Cigondang"
+    "name": "Cigondang",
+    "postal_code": "42260"
   },
   {
     "code": "3601122013",
     "district_code": "360112",
-    "name": "Kalanganyar"
+    "name": "Kalanganyar",
+    "postal_code": "42260"
   },
   {
     "code": "3601122014",
     "district_code": "360112",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "42260"
   },
   {
     "code": "3601122015",
     "district_code": "360112",
-    "name": "Banyumekar"
+    "name": "Banyumekar",
+    "postal_code": "42260"
   }
 ]

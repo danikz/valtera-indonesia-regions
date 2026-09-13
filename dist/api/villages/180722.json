@@ -2,36 +2,43 @@
   {
     "code": "1807222001",
     "district_code": "180722",
-    "name": "Braja Harjosari"
+    "name": "Braja Harjosari",
+    "postal_code": "34196"
   },
   {
     "code": "1807222002",
     "district_code": "180722",
-    "name": "Braja Gemilang"
+    "name": "Braja Gemilang",
+    "postal_code": "34196"
   },
   {
     "code": "1807222003",
     "district_code": "180722",
-    "name": "Braja Indah"
+    "name": "Braja Indah",
+    "postal_code": "34196"
   },
   {
     "code": "1807222004",
     "district_code": "180722",
-    "name": "Braja Yekti"
+    "name": "Braja Yekti",
+    "postal_code": "34196"
   },
   {
     "code": "1807222005",
     "district_code": "180722",
-    "name": "Braja Kencana"
+    "name": "Braja Kencana",
+    "postal_code": "34196"
   },
   {
     "code": "1807222006",
     "district_code": "180722",
-    "name": "Braja Luhur"
+    "name": "Braja Luhur",
+    "postal_code": "34196"
   },
   {
     "code": "1807222007",
     "district_code": "180722",
-    "name": "Braja Mulya"
+    "name": "Braja Mulya",
+    "postal_code": "34196"
   }
 ]

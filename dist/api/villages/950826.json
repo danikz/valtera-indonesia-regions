@@ -2,21 +2,25 @@
   {
     "code": "9508262001",
     "district_code": "950826",
-    "name": "Wusi"
+    "name": "Wusi",
+    "postal_code": "99930"
   },
   {
     "code": "9508262002",
     "district_code": "950826",
-    "name": "Ginigit"
+    "name": "Ginigit",
+    "postal_code": "99930"
   },
   {
     "code": "9508262003",
     "district_code": "950826",
-    "name": "Pijemae"
+    "name": "Pijemae",
+    "postal_code": "99930"
   },
   {
     "code": "9508262004",
     "district_code": "950826",
-    "name": "Gimigip"
+    "name": "Gimigip",
+    "postal_code": "99930"
   }
 ]

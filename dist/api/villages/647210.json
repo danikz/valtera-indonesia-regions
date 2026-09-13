@@ -2,26 +2,31 @@
   {
     "code": "6472101001",
     "district_code": "647210",
-    "name": "Simpang Tiga"
+    "name": "Simpang Tiga",
+    "postal_code": "75131"
   },
   {
     "code": "6472101002",
     "district_code": "647210",
-    "name": "Tani Aman"
+    "name": "Tani Aman",
+    "postal_code": "75131"
   },
   {
     "code": "6472101003",
     "district_code": "647210",
-    "name": "Sengkotek"
+    "name": "Sengkotek",
+    "postal_code": "75131"
   },
   {
     "code": "6472101004",
     "district_code": "647210",
-    "name": "Harapan Baru"
+    "name": "Harapan Baru",
+    "postal_code": "75131"
   },
   {
     "code": "6472101005",
     "district_code": "647210",
-    "name": "Rapak Dalam"
+    "name": "Rapak Dalam",
+    "postal_code": "75131"
   }
 ]

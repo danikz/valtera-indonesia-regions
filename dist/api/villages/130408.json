@@ -2,51 +2,61 @@
   {
     "code": "1304082001",
     "district_code": "130408",
-    "name": "Simpuruik"
+    "name": "Simpuruik",
+    "postal_code": "27261"
   },
   {
     "code": "1304082002",
     "district_code": "130408",
-    "name": "Sungai Tarab"
+    "name": "Sungai Tarab",
+    "postal_code": "27261"
   },
   {
     "code": "1304082003",
     "district_code": "130408",
-    "name": "Gurun"
+    "name": "Gurun",
+    "postal_code": "27261"
   },
   {
     "code": "1304082004",
     "district_code": "130408",
-    "name": "Talang Tangah"
+    "name": "Talang Tangah",
+    "postal_code": "27261"
   },
   {
     "code": "1304082005",
     "district_code": "130408",
-    "name": "Padang Laweh"
+    "name": "Padang Laweh",
+    "postal_code": "27261"
   },
   {
     "code": "1304082006",
     "district_code": "130408",
-    "name": "Pasie Laweh"
+    "name": "Pasie Laweh",
+    "postal_code": "27261"
   },
   {
     "code": "1304082007",
     "district_code": "130408",
-    "name": "Koto Tuo"
+    "name": "Koto Tuo",
+    "postal_code": "27261"
   },
   {
     "code": "1304082008",
     "district_code": "130408",
-    "name": "Rao Rao"
+    "name": "Rao Rao",
+    "postal_code": "27261"
   },
   {
     "code": "1304082009",
     "district_code": "130408",
-    "name": "Kumango"
+    "name": "Kumango",
+    "postal_code": "27261"
   },
   {
     "code": "1304082010",
     "district_code": "130408",
-    "name": "Koto Baru"
+    "name": "Koto Baru",
+    "postal_code": "27261"
   }
 ]

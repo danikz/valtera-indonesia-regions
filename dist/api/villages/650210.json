@@ -2,26 +2,31 @@
   {
     "code": "6502102001",
     "district_code": "650210",
-    "name": "Long Ampung"
+    "name": "Long Ampung",
+    "postal_code": "77573"
   },
   {
     "code": "6502102002",
     "district_code": "650210",
-    "name": "Long Uro"
+    "name": "Long Uro",
+    "postal_code": "77573"
   },
   {
     "code": "6502102003",
     "district_code": "650210",
-    "name": "Lidung Payau"
+    "name": "Lidung Payau",
+    "postal_code": "77573"
   },
   {
     "code": "6502102004",
     "district_code": "650210",
-    "name": "Sungai Barang"
+    "name": "Sungai Barang",
+    "postal_code": "77573"
   },
   {
     "code": "6502102005",
     "district_code": "650210",
-    "name": "Metulang"
+    "name": "Metulang",
+    "postal_code": "77573"
   }
 ]

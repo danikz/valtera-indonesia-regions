@@ -2,46 +2,55 @@
   {
     "code": "1609152001",
     "district_code": "160915",
-    "name": "Pulau Kemuning"
+    "name": "Pulau Kemuning",
+    "postal_code": "32267"
   },
   {
     "code": "1609152002",
     "district_code": "160915",
-    "name": "Guntung Jaya"
+    "name": "Guntung Jaya",
+    "postal_code": "32267"
   },
   {
     "code": "1609152003",
     "district_code": "160915",
-    "name": "Tanah Pilih"
+    "name": "Tanah Pilih",
+    "postal_code": "32267"
   },
   {
     "code": "1609152004",
     "district_code": "160915",
-    "name": "Ujan Mas"
+    "name": "Ujan Mas",
+    "postal_code": "32267"
   },
   {
     "code": "1609152005",
     "district_code": "160915",
-    "name": "Pecah Pinggan"
+    "name": "Pecah Pinggan",
+    "postal_code": "32267"
   },
   {
     "code": "1609152006",
     "district_code": "160915",
-    "name": "Cukoh Nau"
+    "name": "Cukoh Nau",
+    "postal_code": "32267"
   },
   {
     "code": "1609152007",
     "district_code": "160915",
-    "name": "Simpang Luas"
+    "name": "Simpang Luas",
+    "postal_code": "32267"
   },
   {
     "code": "1609152008",
     "district_code": "160915",
-    "name": "Sedau Jaya"
+    "name": "Sedau Jaya",
+    "postal_code": "32267"
   },
   {
     "code": "1609152009",
     "district_code": "160915",
-    "name": "Sebaja"
+    "name": "Sebaja",
+    "postal_code": "32267"
   }
 ]

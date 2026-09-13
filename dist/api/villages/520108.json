@@ -2,61 +2,73 @@
   {
     "code": "5201082001",
     "district_code": "520108",
-    "name": "Bengkel"
+    "name": "Bengkel",
+    "postal_code": "83361"
   },
   {
     "code": "5201082002",
     "district_code": "520108",
-    "name": "Merembu"
+    "name": "Merembu",
+    "postal_code": "83361"
   },
   {
     "code": "5201082003",
     "district_code": "520108",
-    "name": "Bagik Polak"
+    "name": "Bagik Polak",
+    "postal_code": "83361"
   },
   {
     "code": "5201082004",
     "district_code": "520108",
-    "name": "Telagawaru"
+    "name": "Telagawaru",
+    "postal_code": "83361"
   },
   {
     "code": "5201082005",
     "district_code": "520108",
-    "name": "Perampuan"
+    "name": "Perampuan",
+    "postal_code": "83361"
   },
   {
     "code": "5201082006",
     "district_code": "520108",
-    "name": "Bajur"
+    "name": "Bajur",
+    "postal_code": "83361"
   },
   {
     "code": "5201082007",
     "district_code": "520108",
-    "name": "Terong Tawah"
+    "name": "Terong Tawah",
+    "postal_code": "83361"
   },
   {
     "code": "5201082008",
     "district_code": "520108",
-    "name": "Kuranji"
+    "name": "Kuranji",
+    "postal_code": "83361"
   },
   {
     "code": "5201082009",
     "district_code": "520108",
-    "name": "Karang Bongkot"
+    "name": "Karang Bongkot",
+    "postal_code": "83361"
   },
   {
     "code": "5201082010",
     "district_code": "520108",
-    "name": "Labuapi"
+    "name": "Labuapi",
+    "postal_code": "83361"
   },
   {
     "code": "5201082011",
     "district_code": "520108",
-    "name": "Bagik Polak Barat"
+    "name": "Bagik Polak Barat",
+    "postal_code": "83361"
   },
   {
     "code": "5201082012",
     "district_code": "520108",
-    "name": "Kuranji Dalang"
+    "name": "Kuranji Dalang",
+    "postal_code": "83361"
   }
 ]

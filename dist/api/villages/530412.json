@@ -2,21 +2,25 @@
   {
     "code": "5304121001",
     "district_code": "530412",
-    "name": "Kota Atambua"
+    "name": "Kota Atambua",
+    "postal_code": "85711"
   },
   {
     "code": "5304121002",
     "district_code": "530412",
-    "name": "Tenukiik"
+    "name": "Tenukiik",
+    "postal_code": "85711"
   },
   {
     "code": "5304121003",
     "district_code": "530412",
-    "name": "Manumutin"
+    "name": "Manumutin",
+    "postal_code": "85712"
   },
   {
     "code": "5304121010",
     "district_code": "530412",
-    "name": "Fatubenao"
+    "name": "Fatubenao",
+    "postal_code": "85718"
   }
 ]

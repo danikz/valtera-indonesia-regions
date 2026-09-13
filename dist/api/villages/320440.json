@@ -2,26 +2,31 @@
   {
     "code": "3204402001",
     "district_code": "320440",
-    "name": "Patengan"
+    "name": "Patengan",
+    "postal_code": "40974"
   },
   {
     "code": "3204402002",
     "district_code": "320440",
-    "name": "Sukaresmi"
+    "name": "Sukaresmi",
+    "postal_code": "40974"
   },
   {
     "code": "3204402003",
     "district_code": "320440",
-    "name": "Indragiri"
+    "name": "Indragiri",
+    "postal_code": "40974"
   },
   {
     "code": "3204402004",
     "district_code": "320440",
-    "name": "Cipelah"
+    "name": "Cipelah",
+    "postal_code": "40974"
   },
   {
     "code": "3204402005",
     "district_code": "320440",
-    "name": "Alamendah"
+    "name": "Alamendah",
+    "postal_code": "40974"
   }
 ]

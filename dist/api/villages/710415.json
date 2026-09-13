@@ -2,26 +2,31 @@
   {
     "code": "7104152001",
     "district_code": "710415",
-    "name": "Pulutan"
+    "name": "Pulutan",
+    "postal_code": "95878"
   },
   {
     "code": "7104152002",
     "district_code": "710415",
-    "name": "Pulutan Utara"
+    "name": "Pulutan Utara",
+    "postal_code": "95878"
   },
   {
     "code": "7104152003",
     "district_code": "710415",
-    "name": "Pulutan Selatan"
+    "name": "Pulutan Selatan",
+    "postal_code": "95878"
   },
   {
     "code": "7104152004",
     "district_code": "710415",
-    "name": "Daran"
+    "name": "Daran",
+    "postal_code": "95878"
   },
   {
     "code": "7104152005",
     "district_code": "710415",
-    "name": "Daran Utara"
+    "name": "Daran Utara",
+    "postal_code": "95878"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1905052001",
     "district_code": "190505",
-    "name": "Tempilang"
+    "name": "Tempilang",
+    "postal_code": "33365"
   },
   {
     "code": "1905052002",
     "district_code": "190505",
-    "name": "Tanjung Niur"
+    "name": "Tanjung Niur",
+    "postal_code": "33365"
   },
   {
     "code": "1905052003",
     "district_code": "190505",
-    "name": "Sangku"
+    "name": "Sangku",
+    "postal_code": "33365"
   },
   {
     "code": "1905052004",
     "district_code": "190505",
-    "name": "Buyan Kelumbi"
+    "name": "Buyan Kelumbi",
+    "postal_code": "33365"
   },
   {
     "code": "1905052005",
     "district_code": "190505",
-    "name": "Penyampak"
+    "name": "Penyampak",
+    "postal_code": "33365"
   },
   {
     "code": "1905052006",
     "district_code": "190505",
-    "name": "Benteng Kota"
+    "name": "Benteng Kota",
+    "postal_code": "33365"
   },
   {
     "code": "1905052007",
     "district_code": "190505",
-    "name": "Air Lintang"
+    "name": "Air Lintang",
+    "postal_code": "33365"
   },
   {
     "code": "1905052008",
     "district_code": "190505",
-    "name": "Sinar Surya"
+    "name": "Sinar Surya",
+    "postal_code": "33365"
   },
   {
     "code": "1905052009",
     "district_code": "190505",
-    "name": "Simpang Yul"
+    "name": "Simpang Yul",
+    "postal_code": "33365"
   }
 ]

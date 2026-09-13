@@ -2,61 +2,73 @@
   {
     "code": "3508101003",
     "district_code": "350810",
-    "name": "Citrodiwangsan"
+    "name": "Citrodiwangsan",
+    "postal_code": "67312"
   },
   {
     "code": "3508101004",
     "district_code": "350810",
-    "name": "Ditotrunan"
+    "name": "Ditotrunan",
+    "postal_code": "67313"
   },
   {
     "code": "3508101005",
     "district_code": "350810",
-    "name": "Jogotrunan"
+    "name": "Jogotrunan",
+    "postal_code": "67314"
   },
   {
     "code": "3508101009",
     "district_code": "350810",
-    "name": "Jogoyudan"
+    "name": "Jogoyudan",
+    "postal_code": "67315"
   },
   {
     "code": "3508101010",
     "district_code": "350810",
-    "name": "Rogotrunan"
+    "name": "Rogotrunan",
+    "postal_code": "67316"
   },
   {
     "code": "3508101011",
     "district_code": "350810",
-    "name": "Tompokersan"
+    "name": "Tompokersan",
+    "postal_code": "67311"
   },
   {
     "code": "3508101012",
     "district_code": "350810",
-    "name": "Kepuharjo"
+    "name": "Kepuharjo",
+    "postal_code": "67316"
   },
   {
     "code": "3508102001",
     "district_code": "350810",
-    "name": "Banjarwaru"
+    "name": "Banjarwaru",
+    "postal_code": "67316"
   },
   {
     "code": "3508102002",
     "district_code": "350810",
-    "name": "Labruk Lor"
+    "name": "Labruk Lor",
+    "postal_code": "67316"
   },
   {
     "code": "3508102006",
     "district_code": "350810",
-    "name": "Denok"
+    "name": "Denok",
+    "postal_code": "67316"
   },
   {
     "code": "3508102007",
     "district_code": "350810",
-    "name": "Blukon"
+    "name": "Blukon",
+    "postal_code": "67316"
   },
   {
     "code": "3508102008",
     "district_code": "350810",
-    "name": "Boreng"
+    "name": "Boreng",
+    "postal_code": "67316"
   }
 ]

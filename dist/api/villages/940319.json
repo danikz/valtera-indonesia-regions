@@ -2,31 +2,37 @@
   {
     "code": "9403192001",
     "district_code": "940319",
-    "name": "Nomouwodide"
+    "name": "Nomouwodide",
+    "postal_code": "98735"
   },
   {
     "code": "9403192002",
     "district_code": "940319",
-    "name": "Pikokebo"
+    "name": "Pikokebo",
+    "postal_code": "98735"
   },
   {
     "code": "9403192003",
     "district_code": "940319",
-    "name": "Baya Biru"
+    "name": "Baya Biru",
+    "postal_code": "98735"
   },
   {
     "code": "9403192004",
     "district_code": "940319",
-    "name": "Jigitopa Timur"
+    "name": "Jigitopa Timur",
+    "postal_code": "98735"
   },
   {
     "code": "9403192005",
     "district_code": "940319",
-    "name": "Maatadi"
+    "name": "Maatadi",
+    "postal_code": "98735"
   },
   {
     "code": "9403192006",
     "district_code": "940319",
-    "name": "Pupekebo"
+    "name": "Pupekebo",
+    "postal_code": "98735"
   }
 ]

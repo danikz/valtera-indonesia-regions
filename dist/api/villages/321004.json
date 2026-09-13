@@ -2,86 +2,103 @@
   {
     "code": "3210042001",
     "district_code": "321004",
-    "name": "Lampuyang"
+    "name": "Lampuyang",
+    "postal_code": "45463"
   },
   {
     "code": "3210042002",
     "district_code": "321004",
-    "name": "Cibeureum"
+    "name": "Cibeureum",
+    "postal_code": "45463"
   },
   {
     "code": "3210042003",
     "district_code": "321004",
-    "name": "Cikeusal"
+    "name": "Cikeusal",
+    "postal_code": "45463"
   },
   {
     "code": "3210042004",
     "district_code": "321004",
-    "name": "Jatipamor"
+    "name": "Jatipamor",
+    "postal_code": "45463"
   },
   {
     "code": "3210042005",
     "district_code": "321004",
-    "name": "Argasari"
+    "name": "Argasari",
+    "postal_code": "45463"
   },
   {
     "code": "3210042006",
     "district_code": "321004",
-    "name": "Cicanir"
+    "name": "Cicanir",
+    "postal_code": "45463"
   },
   {
     "code": "3210042007",
     "district_code": "321004",
-    "name": "Campaga"
+    "name": "Campaga",
+    "postal_code": "45463"
   },
   {
     "code": "3210042008",
     "district_code": "321004",
-    "name": "Sukaperna"
+    "name": "Sukaperna",
+    "postal_code": "45463"
   },
   {
     "code": "3210042009",
     "district_code": "321004",
-    "name": "Talaga Kulon"
+    "name": "Talaga Kulon",
+    "postal_code": "45463"
   },
   {
     "code": "3210042010",
     "district_code": "321004",
-    "name": "Talaga Wetan"
+    "name": "Talaga Wetan",
+    "postal_code": "45463"
   },
   {
     "code": "3210042011",
     "district_code": "321004",
-    "name": "Ganeas"
+    "name": "Ganeas",
+    "postal_code": "45463"
   },
   {
     "code": "3210042012",
     "district_code": "321004",
-    "name": "Salado"
+    "name": "Salado",
+    "postal_code": "45463"
   },
   {
     "code": "3210042013",
     "district_code": "321004",
-    "name": "Gunungmanik"
+    "name": "Gunungmanik",
+    "postal_code": "45463"
   },
   {
     "code": "3210042014",
     "district_code": "321004",
-    "name": "Kertahayu"
+    "name": "Kertahayu",
+    "postal_code": "45463"
   },
   {
     "code": "3210042015",
     "district_code": "321004",
-    "name": "Mekarraharja"
+    "name": "Mekarraharja",
+    "postal_code": "45463"
   },
   {
     "code": "3210042016",
     "district_code": "321004",
-    "name": "Margamukti"
+    "name": "Margamukti",
+    "postal_code": "45463"
   },
   {
     "code": "3210042017",
     "district_code": "321004",
-    "name": "Mekarhurip"
+    "name": "Mekarhurip",
+    "postal_code": "45463"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3218102001",
     "district_code": "321810",
-    "name": "Sidamulih"
+    "name": "Sidamulih",
+    "postal_code": "46365"
   },
   {
     "code": "3218102002",
     "district_code": "321810",
-    "name": "Cikalong"
+    "name": "Cikalong",
+    "postal_code": "46365"
   },
   {
     "code": "3218102003",
     "district_code": "321810",
-    "name": "Sukaresik"
+    "name": "Sukaresik",
+    "postal_code": "46365"
   },
   {
     "code": "3218102004",
     "district_code": "321810",
-    "name": "Cikembulan"
+    "name": "Cikembulan",
+    "postal_code": "46365"
   },
   {
     "code": "3218102005",
     "district_code": "321810",
-    "name": "Pajaten"
+    "name": "Pajaten",
+    "postal_code": "46365"
   },
   {
     "code": "3218102006",
     "district_code": "321810",
-    "name": "Kersaratu"
+    "name": "Kersaratu",
+    "postal_code": "46365"
   },
   {
     "code": "3218102007",
     "district_code": "321810",
-    "name": "Kalijati"
+    "name": "Kalijati",
+    "postal_code": "46365"
   }
 ]

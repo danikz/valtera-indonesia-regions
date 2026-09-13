@@ -2,41 +2,49 @@
   {
     "code": "9507022001",
     "district_code": "950702",
-    "name": "Umbanume"
+    "name": "Umbanume",
+    "postal_code": "99537"
   },
   {
     "code": "9507022002",
     "district_code": "950702",
-    "name": "Wenam"
+    "name": "Wenam",
+    "postal_code": "99581"
   },
   {
     "code": "9507022003",
     "district_code": "950702",
-    "name": "Yalipak"
+    "name": "Yalipak",
+    "postal_code": "99537"
   },
   {
     "code": "9507022004",
     "district_code": "950702",
-    "name": "Ekanom"
+    "name": "Ekanom",
+    "postal_code": "99537"
   },
   {
     "code": "9507022005",
     "district_code": "950702",
-    "name": "Yugumbinik"
+    "name": "Yugumbinik",
+    "postal_code": "99537"
   },
   {
     "code": "9507022006",
     "district_code": "950702",
-    "name": "Amberingime"
+    "name": "Amberingime",
+    "postal_code": "99537"
   },
   {
     "code": "9507022007",
     "district_code": "950702",
-    "name": "Aniwo"
+    "name": "Aniwo",
+    "postal_code": "99537"
   },
   {
     "code": "9507022008",
     "district_code": "950702",
-    "name": "Bugumbak"
+    "name": "Bugumbak",
+    "postal_code": "99581"
   }
 ]

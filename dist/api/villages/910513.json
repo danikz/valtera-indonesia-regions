@@ -2,41 +2,49 @@
   {
     "code": "9105132001",
     "district_code": "910513",
-    "name": "Kaipuri"
+    "name": "Kaipuri",
+    "postal_code": "98643"
   },
   {
     "code": "9105132002",
     "district_code": "910513",
-    "name": "Doreianmini"
+    "name": "Doreianmini",
+    "postal_code": "98643"
   },
   {
     "code": "9105132003",
     "district_code": "910513",
-    "name": "Andersaria"
+    "name": "Andersaria",
+    "postal_code": "98643"
   },
   {
     "code": "9105132004",
     "district_code": "910513",
-    "name": "Kurudu"
+    "name": "Kurudu",
+    "postal_code": "98643"
   },
   {
     "code": "9105132005",
     "district_code": "910513",
-    "name": "Kirimbri"
+    "name": "Kirimbri",
+    "postal_code": "98643"
   },
   {
     "code": "9105132006",
     "district_code": "910513",
-    "name": "Manusundu"
+    "name": "Manusundu",
+    "postal_code": "98643"
   },
   {
     "code": "9105132007",
     "district_code": "910513",
-    "name": "Mnukwar"
+    "name": "Mnukwar",
+    "postal_code": "98643"
   },
   {
     "code": "9105132008",
     "district_code": "910513",
-    "name": "Mansesi"
+    "name": "Mansesi",
+    "postal_code": "98643"
   }
 ]

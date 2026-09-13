@@ -2,36 +2,43 @@
   {
     "code": "3173051001",
     "district_code": "317305",
-    "name": "Kebon Jeruk"
+    "name": "Kebon Jeruk",
+    "postal_code": "11530"
   },
   {
     "code": "3173051002",
     "district_code": "317305",
-    "name": "Sukabumi Utara"
+    "name": "Sukabumi Utara",
+    "postal_code": "11540"
   },
   {
     "code": "3173051003",
     "district_code": "317305",
-    "name": "Sukabumi Selatan"
+    "name": "Sukabumi Selatan",
+    "postal_code": "11560"
   },
   {
     "code": "3173051004",
     "district_code": "317305",
-    "name": "Kelapa Dua"
+    "name": "Kelapa Dua",
+    "postal_code": "11550"
   },
   {
     "code": "3173051005",
     "district_code": "317305",
-    "name": "Duri Kepa"
+    "name": "Duri Kepa",
+    "postal_code": "11510"
   },
   {
     "code": "3173051006",
     "district_code": "317305",
-    "name": "Kedoya Utara"
+    "name": "Kedoya Utara",
+    "postal_code": "11520"
   },
   {
     "code": "3173051007",
     "district_code": "317305",
-    "name": "Kedoya Selatan"
+    "name": "Kedoya Selatan",
+    "postal_code": "11520"
   }
 ]

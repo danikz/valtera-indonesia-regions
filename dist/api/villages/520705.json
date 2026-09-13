@@ -2,46 +2,55 @@
   {
     "code": "5207052001",
     "district_code": "520705",
-    "name": "Desa Beru"
+    "name": "Desa Beru",
+    "postal_code": "84458"
   },
   {
     "code": "5207052002",
     "district_code": "520705",
-    "name": "Tepas"
+    "name": "Tepas",
+    "postal_code": "84458"
   },
   {
     "code": "5207052003",
     "district_code": "520705",
-    "name": "Bangkat Monteh"
+    "name": "Bangkat Monteh",
+    "postal_code": "84458"
   },
   {
     "code": "5207052004",
     "district_code": "520705",
-    "name": "Sapugara Bree"
+    "name": "Sapugara Bree",
+    "postal_code": "84458"
   },
   {
     "code": "5207052005",
     "district_code": "520705",
-    "name": "Tepas Sepakat"
+    "name": "Tepas Sepakat",
+    "postal_code": "84455"
   },
   {
     "code": "5207052006",
     "district_code": "520705",
-    "name": "Lamuntet"
+    "name": "Lamuntet",
+    "postal_code": "84455"
   },
   {
     "code": "5207052007",
     "district_code": "520705",
-    "name": "Rarak Ronges"
+    "name": "Rarak Ronges",
+    "postal_code": "84455"
   },
   {
     "code": "5207052008",
     "district_code": "520705",
-    "name": "Moteng"
+    "name": "Moteng",
+    "postal_code": "84455"
   },
   {
     "code": "5207052009",
     "district_code": "520705",
-    "name": "Seminar Salit"
+    "name": "Seminar Salit",
+    "postal_code": "84455"
   }
 ]

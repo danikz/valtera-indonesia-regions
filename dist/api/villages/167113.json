@@ -2,31 +2,37 @@
   {
     "code": "1671131001",
     "district_code": "167113",
-    "name": "Kemas Rindo"
+    "name": "Kemas Rindo",
+    "postal_code": "30258"
   },
   {
     "code": "1671131002",
     "district_code": "167113",
-    "name": "Kemang Agung"
+    "name": "Kemang Agung",
+    "postal_code": "30258"
   },
   {
     "code": "1671131003",
     "district_code": "167113",
-    "name": "Keramasan"
+    "name": "Keramasan",
+    "postal_code": "30259"
   },
   {
     "code": "1671131004",
     "district_code": "167113",
-    "name": "Kertapati"
+    "name": "Kertapati",
+    "postal_code": "30258"
   },
   {
     "code": "1671131005",
     "district_code": "167113",
-    "name": "Karya Jaya"
+    "name": "Karya Jaya",
+    "postal_code": "30259"
   },
   {
     "code": "1671131006",
     "district_code": "167113",
-    "name": "Ogan Baru"
+    "name": "Ogan Baru",
+    "postal_code": "30258"
   }
 ]

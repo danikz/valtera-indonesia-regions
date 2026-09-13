@@ -2,41 +2,49 @@
   {
     "code": "6472031001",
     "district_code": "647203",
-    "name": "Teluk Lerong Ilir"
+    "name": "Teluk Lerong Ilir",
+    "postal_code": "75128"
   },
   {
     "code": "6472031002",
     "district_code": "647203",
-    "name": "Jawa"
+    "name": "Jawa",
+    "postal_code": "75122"
   },
   {
     "code": "6472031004",
     "district_code": "647203",
-    "name": "Air Putih"
+    "name": "Air Putih",
+    "postal_code": "75124"
   },
   {
     "code": "6472031005",
     "district_code": "647203",
-    "name": "Sidodadi"
+    "name": "Sidodadi",
+    "postal_code": "75123"
   },
   {
     "code": "6472031006",
     "district_code": "647203",
-    "name": "Air Hitam"
+    "name": "Air Hitam",
+    "postal_code": "75124"
   },
   {
     "code": "6472031007",
     "district_code": "647203",
-    "name": "Dadi Mulya"
+    "name": "Dadi Mulya",
+    "postal_code": "75123"
   },
   {
     "code": "6472031008",
     "district_code": "647203",
-    "name": "Gunung Kelua"
+    "name": "Gunung Kelua",
+    "postal_code": "75123"
   },
   {
     "code": "6472031009",
     "district_code": "647203",
-    "name": "Bukit Pinang"
+    "name": "Bukit Pinang",
+    "postal_code": "75124"
   }
 ]

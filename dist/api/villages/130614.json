@@ -2,16 +2,19 @@
   {
     "code": "1306142001",
     "district_code": "130614",
-    "name": "Canduang Koto Laweh"
+    "name": "Canduang Koto Laweh",
+    "postal_code": "26191"
   },
   {
     "code": "1306142002",
     "district_code": "130614",
-    "name": "Lasi"
+    "name": "Lasi",
+    "postal_code": "26191"
   },
   {
     "code": "1306142003",
     "district_code": "130614",
-    "name": "Bukik Batabuah"
+    "name": "Bukik Batabuah",
+    "postal_code": "26191"
   }
 ]

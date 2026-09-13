@@ -2,31 +2,37 @@
   {
     "code": "1222052001",
     "district_code": "122205",
-    "name": "Mandalasena"
+    "name": "Mandalasena",
+    "postal_code": "21461"
   },
   {
     "code": "1222052002",
     "district_code": "122205",
-    "name": "Binangadua"
+    "name": "Binangadua",
+    "postal_code": "21461"
   },
   {
     "code": "1222052003",
     "district_code": "122205",
-    "name": "Aek Goti"
+    "name": "Aek Goti",
+    "postal_code": "21461"
   },
   {
     "code": "1222052004",
     "district_code": "122205",
-    "name": "Ulu Mahuam"
+    "name": "Ulu Mahuam",
+    "postal_code": "21461"
   },
   {
     "code": "1222052005",
     "district_code": "122205",
-    "name": "Rintis"
+    "name": "Rintis",
+    "postal_code": "21461"
   },
   {
     "code": "1222052006",
     "district_code": "122205",
-    "name": "Sukadame"
+    "name": "Sukadame",
+    "postal_code": "21461"
   }
 ]

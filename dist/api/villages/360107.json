@@ -2,46 +2,55 @@
   {
     "code": "3601072001",
     "district_code": "360107",
-    "name": "Angsana"
+    "name": "Angsana",
+    "postal_code": "42277"
   },
   {
     "code": "3601072002",
     "district_code": "360107",
-    "name": "Padaherang"
+    "name": "Padaherang",
+    "postal_code": "42277"
   },
   {
     "code": "3601072003",
     "district_code": "360107",
-    "name": "Padamulya"
+    "name": "Padamulya",
+    "postal_code": "42277"
   },
   {
     "code": "3601072004",
     "district_code": "360107",
-    "name": "Karangsari"
+    "name": "Karangsari",
+    "postal_code": "42277"
   },
   {
     "code": "3601072005",
     "district_code": "360107",
-    "name": "Cikayas"
+    "name": "Cikayas",
+    "postal_code": "42277"
   },
   {
     "code": "3601072006",
     "district_code": "360107",
-    "name": "Sumurlaban"
+    "name": "Sumurlaban",
+    "postal_code": "42277"
   },
   {
     "code": "3601072007",
     "district_code": "360107",
-    "name": "Kadubadak"
+    "name": "Kadubadak",
+    "postal_code": "42277"
   },
   {
     "code": "3601072009",
     "district_code": "360107",
-    "name": "Cipinang"
+    "name": "Cipinang",
+    "postal_code": "42277"
   },
   {
     "code": "3601072010",
     "district_code": "360107",
-    "name": "Kramatmanik"
+    "name": "Kramatmanik",
+    "postal_code": "42277"
   }
 ]

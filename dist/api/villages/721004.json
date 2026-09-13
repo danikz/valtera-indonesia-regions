@@ -2,26 +2,31 @@
   {
     "code": "7210042001",
     "district_code": "721004",
-    "name": "Puroo"
+    "name": "Puroo",
+    "postal_code": "94369"
   },
   {
     "code": "7210042002",
     "district_code": "721004",
-    "name": "Langko"
+    "name": "Langko",
+    "postal_code": "94369"
   },
   {
     "code": "7210042003",
     "district_code": "721004",
-    "name": "Tomado"
+    "name": "Tomado",
+    "postal_code": "94369"
   },
   {
     "code": "7210042004",
     "district_code": "721004",
-    "name": "Anca"
+    "name": "Anca",
+    "postal_code": "94369"
   },
   {
     "code": "7210042005",
     "district_code": "721004",
-    "name": "Olu"
+    "name": "Olu",
+    "postal_code": "94369"
   }
 ]

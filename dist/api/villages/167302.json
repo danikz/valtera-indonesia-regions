@@ -2,56 +2,67 @@
   {
     "code": "1673021001",
     "district_code": "167302",
-    "name": "Kayu Ara"
+    "name": "Kayu Ara",
+    "postal_code": "31615"
   },
   {
     "code": "1673021002",
     "district_code": "167302",
-    "name": "Lubuk Tanjung"
+    "name": "Lubuk Tanjung",
+    "postal_code": "31614"
   },
   {
     "code": "1673021003",
     "district_code": "167302",
-    "name": "Tanjung Indah"
+    "name": "Tanjung Indah",
+    "postal_code": "31611"
   },
   {
     "code": "1673021004",
     "district_code": "167302",
-    "name": "Bandung Ujung"
+    "name": "Bandung Ujung",
+    "postal_code": "31611"
   },
   {
     "code": "1673021008",
     "district_code": "167302",
-    "name": "Bandung Kiri"
+    "name": "Bandung Kiri",
+    "postal_code": "31611"
   },
   {
     "code": "1673021009",
     "district_code": "167302",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "31613"
   },
   {
     "code": "1673021010",
     "district_code": "167302",
-    "name": "Muara Enim"
+    "name": "Muara Enim",
+    "postal_code": "31611"
   },
   {
     "code": "1673021015",
     "district_code": "167302",
-    "name": "Watas Lubuk Durian"
+    "name": "Watas Lubuk Durian",
+    "postal_code": "31611"
   },
   {
     "code": "1673021016",
     "district_code": "167302",
-    "name": "Lubuk Aman"
+    "name": "Lubuk Aman",
+    "postal_code": "31614"
   },
   {
     "code": "1673021018",
     "district_code": "167302",
-    "name": "Tanjung Aman"
+    "name": "Tanjung Aman",
+    "postal_code": "31611"
   },
   {
     "code": "1673021019",
     "district_code": "167302",
-    "name": "Pelita Jaya"
+    "name": "Pelita Jaya",
+    "postal_code": "31611"
   }
 ]

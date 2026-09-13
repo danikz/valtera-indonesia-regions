@@ -2,56 +2,67 @@
   {
     "code": "3210262001",
     "district_code": "321026",
-    "name": "Sukadana"
+    "name": "Sukadana",
+    "postal_code": "45460"
   },
   {
     "code": "3210262002",
     "district_code": "321026",
-    "name": "Werasari"
+    "name": "Werasari",
+    "postal_code": "45460"
   },
   {
     "code": "3210262003",
     "district_code": "321026",
-    "name": "Malausma"
+    "name": "Malausma",
+    "postal_code": "45460"
   },
   {
     "code": "3210262004",
     "district_code": "321026",
-    "name": "Lebakwangi"
+    "name": "Lebakwangi",
+    "postal_code": "45460"
   },
   {
     "code": "3210262005",
     "district_code": "321026",
-    "name": "Cimuncang"
+    "name": "Cimuncang",
+    "postal_code": "45460"
   },
   {
     "code": "3210262006",
     "district_code": "321026",
-    "name": "Ciranca"
+    "name": "Ciranca",
+    "postal_code": "45460"
   },
   {
     "code": "3210262007",
     "district_code": "321026",
-    "name": "Banyusari"
+    "name": "Banyusari",
+    "postal_code": "45460"
   },
   {
     "code": "3210262008",
     "district_code": "321026",
-    "name": "Buninagara"
+    "name": "Buninagara",
+    "postal_code": "45460"
   },
   {
     "code": "3210262009",
     "district_code": "321026",
-    "name": "Jagamulya"
+    "name": "Jagamulya",
+    "postal_code": "45460"
   },
   {
     "code": "3210262010",
     "district_code": "321026",
-    "name": "Girimukti"
+    "name": "Girimukti",
+    "postal_code": "45460"
   },
   {
     "code": "3210262011",
     "district_code": "321026",
-    "name": "Kramat Jaya"
+    "name": "Kramat Jaya",
+    "postal_code": "45460"
   }
 ]

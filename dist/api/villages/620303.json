@@ -2,36 +2,43 @@
   {
     "code": "6203032001",
     "district_code": "620303",
-    "name": "Anjir Serapat Timur"
+    "name": "Anjir Serapat Timur",
+    "postal_code": "73581"
   },
   {
     "code": "6203032002",
     "district_code": "620303",
-    "name": "Anjir Serapat Tengah"
+    "name": "Anjir Serapat Tengah",
+    "postal_code": "73581"
   },
   {
     "code": "6203032003",
     "district_code": "620303",
-    "name": "Anjir Serapat Barat"
+    "name": "Anjir Serapat Barat",
+    "postal_code": "73581"
   },
   {
     "code": "6203032004",
     "district_code": "620303",
-    "name": "Anjir Mambulau Timur"
+    "name": "Anjir Mambulau Timur",
+    "postal_code": "73581"
   },
   {
     "code": "6203032005",
     "district_code": "620303",
-    "name": "Anjir Mambulau Tengah"
+    "name": "Anjir Mambulau Tengah",
+    "postal_code": "73581"
   },
   {
     "code": "6203032006",
     "district_code": "620303",
-    "name": "Anjir Mambulau Barat"
+    "name": "Anjir Mambulau Barat",
+    "postal_code": "73581"
   },
   {
     "code": "6203032007",
     "district_code": "620303",
-    "name": "Anjir Serapat Baru"
+    "name": "Anjir Serapat Baru",
+    "postal_code": "73581"
   }
 ]

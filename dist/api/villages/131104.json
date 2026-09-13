@@ -2,26 +2,31 @@
   {
     "code": "1311042001",
     "district_code": "131104",
-    "name": "Lubuk Malako"
+    "name": "Lubuk Malako",
+    "postal_code": "27773"
   },
   {
     "code": "1311042002",
     "district_code": "131104",
-    "name": "Bidar Alam"
+    "name": "Bidar Alam",
+    "postal_code": "27773"
   },
   {
     "code": "1311042004",
     "district_code": "131104",
-    "name": "Padang Air Dingin"
+    "name": "Padang Air Dingin",
+    "postal_code": "27773"
   },
   {
     "code": "1311042005",
     "district_code": "131104",
-    "name": "Padang Limau Sundai"
+    "name": "Padang Limau Sundai",
+    "postal_code": "27773"
   },
   {
     "code": "1311042006",
     "district_code": "131104",
-    "name": "Padang Gantiang"
+    "name": "Padang Gantiang",
+    "postal_code": "27773"
   }
 ]

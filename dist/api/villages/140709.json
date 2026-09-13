@@ -2,31 +2,37 @@
   {
     "code": "1407091005",
     "district_code": "140709",
-    "name": "Melayu Besar Kota"
+    "name": "Melayu Besar Kota",
+    "postal_code": "28986"
   },
   {
     "code": "1407092001",
     "district_code": "140709",
-    "name": "Melayu Besar"
+    "name": "Melayu Besar",
+    "postal_code": "28986"
   },
   {
     "code": "1407092002",
     "district_code": "140709",
-    "name": "Melayu Tengah"
+    "name": "Melayu Tengah",
+    "postal_code": "28986"
   },
   {
     "code": "1407092003",
     "district_code": "140709",
-    "name": "Batu Hampar"
+    "name": "Batu Hampar",
+    "postal_code": "28986"
   },
   {
     "code": "1407092004",
     "district_code": "140709",
-    "name": "Mesah"
+    "name": "Mesah",
+    "postal_code": "28986"
   },
   {
     "code": "1407092006",
     "district_code": "140709",
-    "name": "Labuhan Papan"
+    "name": "Labuhan Papan",
+    "postal_code": "28986"
   }
 ]

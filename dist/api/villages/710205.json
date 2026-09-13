@@ -2,56 +2,67 @@
   {
     "code": "7102052001",
     "district_code": "710205",
-    "name": "Kapataran"
+    "name": "Kapataran",
+    "postal_code": "95685"
   },
   {
     "code": "7102052002",
     "district_code": "710205",
-    "name": "Seretan"
+    "name": "Seretan",
+    "postal_code": "95685"
   },
   {
     "code": "7102052003",
     "district_code": "710205",
-    "name": "Atep Oki"
+    "name": "Atep Oki",
+    "postal_code": "95685"
   },
   {
     "code": "7102052004",
     "district_code": "710205",
-    "name": "Karor"
+    "name": "Karor",
+    "postal_code": "95685"
   },
   {
     "code": "7102052005",
     "district_code": "710205",
-    "name": "Kaleosan"
+    "name": "Kaleosan",
+    "postal_code": "95685"
   },
   {
     "code": "7102052006",
     "district_code": "710205",
-    "name": "Watulaney"
+    "name": "Watulaney",
+    "postal_code": "95685"
   },
   {
     "code": "7102052007",
     "district_code": "710205",
-    "name": "Kayuroya"
+    "name": "Kayuroya",
+    "postal_code": "95685"
   },
   {
     "code": "7102052008",
     "district_code": "710205",
-    "name": "Seretan Timur"
+    "name": "Seretan Timur",
+    "postal_code": "95685"
   },
   {
     "code": "7102052009",
     "district_code": "710205",
-    "name": "Parentek"
+    "name": "Parentek",
+    "postal_code": "95685"
   },
   {
     "code": "7102052010",
     "district_code": "710205",
-    "name": "Kapataran Satu"
+    "name": "Kapataran Satu",
+    "postal_code": "95685"
   },
   {
     "code": "7102052011",
     "district_code": "710205",
-    "name": "Watulaney Amian"
+    "name": "Watulaney Amian",
+    "postal_code": "95685"
   }
 ]

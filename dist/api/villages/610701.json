@@ -2,26 +2,31 @@
   {
     "code": "6107012001",
     "district_code": "610701",
-    "name": "Sungai Duri"
+    "name": "Sungai Duri",
+    "postal_code": "79272"
   },
   {
     "code": "6107012004",
     "district_code": "610701",
-    "name": "Sungai Jaga A"
+    "name": "Sungai Jaga A",
+    "postal_code": "79272"
   },
   {
     "code": "6107012005",
     "district_code": "610701",
-    "name": "Sungai Jaga B"
+    "name": "Sungai Jaga B",
+    "postal_code": "79272"
   },
   {
     "code": "6107012006",
     "district_code": "610701",
-    "name": "Sungai Pangkalan I"
+    "name": "Sungai Pangkalan I",
+    "postal_code": "79272"
   },
   {
     "code": "6107012007",
     "district_code": "610701",
-    "name": "Sungai Pangkalan II"
+    "name": "Sungai Pangkalan II",
+    "postal_code": "79272"
   }
 ]

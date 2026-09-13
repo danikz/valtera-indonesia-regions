@@ -2,26 +2,31 @@
   {
     "code": "3174061001",
     "district_code": "317406",
-    "name": "Cilandak Barat"
+    "name": "Cilandak Barat",
+    "postal_code": "12430"
   },
   {
     "code": "3174061002",
     "district_code": "317406",
-    "name": "Lebak Bulus"
+    "name": "Lebak Bulus",
+    "postal_code": "12440"
   },
   {
     "code": "3174061003",
     "district_code": "317406",
-    "name": "Pondok Labu"
+    "name": "Pondok Labu",
+    "postal_code": "12450"
   },
   {
     "code": "3174061004",
     "district_code": "317406",
-    "name": "Gandaria Selatan"
+    "name": "Gandaria Selatan",
+    "postal_code": "12420"
   },
   {
     "code": "3174061005",
     "district_code": "317406",
-    "name": "Cipete Selatan"
+    "name": "Cipete Selatan",
+    "postal_code": "12410"
   }
 ]

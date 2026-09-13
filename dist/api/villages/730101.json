@@ -2,16 +2,19 @@
   {
     "code": "7301011001",
     "district_code": "730101",
-    "name": "Benteng Utara"
+    "name": "Benteng Utara",
+    "postal_code": "92812"
   },
   {
     "code": "7301011002",
     "district_code": "730101",
-    "name": "Benteng"
+    "name": "Benteng",
+    "postal_code": "92812"
   },
   {
     "code": "7301011003",
     "district_code": "730101",
-    "name": "Benteng Selatan"
+    "name": "Benteng Selatan",
+    "postal_code": "92812"
   }
 ]

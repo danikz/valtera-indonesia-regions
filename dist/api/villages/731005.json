@@ -2,26 +2,31 @@
   {
     "code": "7310051001",
     "district_code": "731005",
-    "name": "Balleanging"
+    "name": "Balleanging",
+    "postal_code": "90661"
   },
   {
     "code": "7310051002",
     "district_code": "731005",
-    "name": "Balocci Baru"
+    "name": "Balocci Baru",
+    "postal_code": "90661"
   },
   {
     "code": "7310051003",
     "district_code": "731005",
-    "name": "Tonasa"
+    "name": "Tonasa",
+    "postal_code": "90661"
   },
   {
     "code": "7310051004",
     "district_code": "731005",
-    "name": "Majannang"
+    "name": "Majannang",
+    "postal_code": "90661"
   },
   {
     "code": "7310052005",
     "district_code": "731005",
-    "name": "Tompobulu"
+    "name": "Tompobulu",
+    "postal_code": "90661"
   }
 ]

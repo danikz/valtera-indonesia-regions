@@ -2,51 +2,61 @@
   {
     "code": "1508042001",
     "district_code": "150804",
-    "name": "Tanjung Belit"
+    "name": "Tanjung Belit",
+    "postal_code": "37256"
   },
   {
     "code": "1508042002",
     "district_code": "150804",
-    "name": "Rantau Ikil"
+    "name": "Rantau Ikil",
+    "postal_code": "37256"
   },
   {
     "code": "1508042003",
     "district_code": "150804",
-    "name": "Pulau Jelmu"
+    "name": "Pulau Jelmu",
+    "postal_code": "37256"
   },
   {
     "code": "1508042004",
     "district_code": "150804",
-    "name": "Sirih Sekapur"
+    "name": "Sirih Sekapur",
+    "postal_code": "37256"
   },
   {
     "code": "1508042005",
     "district_code": "150804",
-    "name": "Ujung Tanjung"
+    "name": "Ujung Tanjung",
+    "postal_code": "37256"
   },
   {
     "code": "1508042007",
     "district_code": "150804",
-    "name": "Jumbak"
+    "name": "Jumbak",
+    "postal_code": "37256"
   },
   {
     "code": "1508042009",
     "district_code": "150804",
-    "name": "Rantau Panjang"
+    "name": "Rantau Panjang",
+    "postal_code": "37256"
   },
   {
     "code": "1508042013",
     "district_code": "150804",
-    "name": "Talang Pamesun"
+    "name": "Talang Pamesun",
+    "postal_code": "37256"
   },
   {
     "code": "1508042014",
     "district_code": "150804",
-    "name": "Baru Balai Panjang"
+    "name": "Baru Balai Panjang",
+    "postal_code": "37256"
   },
   {
     "code": "1508042015",
     "district_code": "150804",
-    "name": "Sirih Sekapur Perkembangan"
+    "name": "Sirih Sekapur Perkembangan",
+    "postal_code": "37256"
   }
 ]

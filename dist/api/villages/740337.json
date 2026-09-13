@@ -2,26 +2,31 @@
   {
     "code": "7403372001",
     "district_code": "740337",
-    "name": "Wangkolabu"
+    "name": "Wangkolabu",
+    "postal_code": "93623"
   },
   {
     "code": "7403372002",
     "district_code": "740337",
-    "name": "Lakarama"
+    "name": "Lakarama",
+    "postal_code": "93623"
   },
   {
     "code": "7403372003",
     "district_code": "740337",
-    "name": "Moasi"
+    "name": "Moasi",
+    "postal_code": "93623"
   },
   {
     "code": "7403372004",
     "district_code": "740337",
-    "name": "Renda"
+    "name": "Renda",
+    "postal_code": "93623"
   },
   {
     "code": "7403372005",
     "district_code": "740337",
-    "name": "Bhontu-Bhontu"
+    "name": "Bhontu-Bhontu",
+    "postal_code": "93623"
   }
 ]

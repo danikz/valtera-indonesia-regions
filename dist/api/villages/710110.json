@@ -2,81 +2,97 @@
   {
     "code": "7101101003",
     "district_code": "710110",
-    "name": "Imandi"
+    "name": "Imandi",
+    "postal_code": "95736"
   },
   {
     "code": "7101102001",
     "district_code": "710110",
-    "name": "Tonom"
+    "name": "Tonom",
+    "postal_code": "95736"
   },
   {
     "code": "7101102002",
     "district_code": "710110",
-    "name": "Mogoyunggung"
+    "name": "Mogoyunggung",
+    "postal_code": "95736"
   },
   {
     "code": "7101102004",
     "district_code": "710110",
-    "name": "Modomang"
+    "name": "Modomang",
+    "postal_code": "95736"
   },
   {
     "code": "7101102005",
     "district_code": "710110",
-    "name": "Kembang Mertha"
+    "name": "Kembang Mertha",
+    "postal_code": "95736"
   },
   {
     "code": "7101102006",
     "district_code": "710110",
-    "name": "Dumoga"
+    "name": "Dumoga",
+    "postal_code": "95736"
   },
   {
     "code": "7101102013",
     "district_code": "710110",
-    "name": "Pinonobatuan"
+    "name": "Pinonobatuan",
+    "postal_code": "95736"
   },
   {
     "code": "7101102017",
     "district_code": "710110",
-    "name": "Dumoga II"
+    "name": "Dumoga II",
+    "postal_code": "95736"
   },
   {
     "code": "7101102018",
     "district_code": "710110",
-    "name": "Pinonobatuan Barat"
+    "name": "Pinonobatuan Barat",
+    "postal_code": "95736"
   },
   {
     "code": "7101102019",
     "district_code": "710110",
-    "name": "Amertha Sari"
+    "name": "Amertha Sari",
+    "postal_code": "95736"
   },
   {
     "code": "7101102020",
     "district_code": "710110",
-    "name": "Kembang Sari"
+    "name": "Kembang Sari",
+    "postal_code": "95736"
   },
   {
     "code": "7101102021",
     "district_code": "710110",
-    "name": "Amertha Buana"
+    "name": "Amertha Buana",
+    "postal_code": "95736"
   },
   {
     "code": "7101102023",
     "district_code": "710110",
-    "name": "Mogoyunggung Satu"
+    "name": "Mogoyunggung Satu",
+    "postal_code": "95736"
   },
   {
     "code": "7101102024",
     "district_code": "710110",
-    "name": "Mogoyunggung Dua"
+    "name": "Mogoyunggung Dua",
+    "postal_code": "95736"
   },
   {
     "code": "7101102025",
     "district_code": "710110",
-    "name": "Dumoga Tiga"
+    "name": "Dumoga Tiga",
+    "postal_code": "95736"
   },
   {
     "code": "7101102026",
     "district_code": "710110",
-    "name": "Dumoga Empat"
+    "name": "Dumoga Empat",
+    "postal_code": "95736"
   }
 ]

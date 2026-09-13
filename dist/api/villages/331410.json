@@ -2,41 +2,49 @@
   {
     "code": "3314101001",
     "district_code": "331410",
-    "name": "Sine"
+    "name": "Sine",
+    "postal_code": "57213"
   },
   {
     "code": "3314101002",
     "district_code": "331410",
-    "name": "Sragen Kulon"
+    "name": "Sragen Kulon",
+    "postal_code": "57212"
   },
   {
     "code": "3314101003",
     "district_code": "331410",
-    "name": "Sragen Tengah"
+    "name": "Sragen Tengah",
+    "postal_code": "57211"
   },
   {
     "code": "3314101004",
     "district_code": "331410",
-    "name": "Sragen Wetan"
+    "name": "Sragen Wetan",
+    "postal_code": "57214"
   },
   {
     "code": "3314101005",
     "district_code": "331410",
-    "name": "Nglorog"
+    "name": "Nglorog",
+    "postal_code": "57215"
   },
   {
     "code": "3314101006",
     "district_code": "331410",
-    "name": "Karang Tengah"
+    "name": "Karang Tengah",
+    "postal_code": "57216"
   },
   {
     "code": "3314102007",
     "district_code": "331410",
-    "name": "Tangkil"
+    "name": "Tangkil",
+    "postal_code": "57211"
   },
   {
     "code": "3314102008",
     "district_code": "331410",
-    "name": "Kedungupit"
+    "name": "Kedungupit",
+    "postal_code": "57211"
   }
 ]

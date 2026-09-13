@@ -2,21 +2,25 @@
   {
     "code": "9205252001",
     "district_code": "920525",
-    "name": "Yenanas"
+    "name": "Yenanas",
+    "postal_code": ""
   },
   {
     "code": "9205252002",
     "district_code": "920525",
-    "name": "Amdui"
+    "name": "Amdui",
+    "postal_code": ""
   },
   {
     "code": "9205252003",
     "district_code": "920525",
-    "name": "Wailebet"
+    "name": "Wailebet",
+    "postal_code": ""
   },
   {
     "code": "9205252004",
     "district_code": "920525",
-    "name": "Waiman"
+    "name": "Waiman",
+    "postal_code": ""
   }
 ]

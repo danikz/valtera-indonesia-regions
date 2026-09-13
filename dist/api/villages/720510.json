@@ -2,36 +2,43 @@
   {
     "code": "7205102001",
     "district_code": "720510",
-    "name": "Mokupo"
+    "name": "Mokupo",
+    "postal_code": "94572"
   },
   {
     "code": "7205102002",
     "district_code": "720510",
-    "name": "Mendaan"
+    "name": "Mendaan",
+    "postal_code": "94572"
   },
   {
     "code": "7205102003",
     "district_code": "720510",
-    "name": "Baruga"
+    "name": "Baruga",
+    "postal_code": "94572"
   },
   {
     "code": "7205102004",
     "district_code": "720510",
-    "name": "Monano"
+    "name": "Monano",
+    "postal_code": "94572"
   },
   {
     "code": "7205102005",
     "district_code": "720510",
-    "name": "Busak I"
+    "name": "Busak I",
+    "postal_code": "94572"
   },
   {
     "code": "7205102006",
     "district_code": "720510",
-    "name": "Busak II"
+    "name": "Busak II",
+    "postal_code": "94572"
   },
   {
     "code": "7205102007",
     "district_code": "720510",
-    "name": "Lamakan"
+    "name": "Lamakan",
+    "postal_code": "94572"
   }
 ]

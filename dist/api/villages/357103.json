@@ -2,76 +2,91 @@
   {
     "code": "3571031001",
     "district_code": "357103",
-    "name": "Bangsal"
+    "name": "Bangsal",
+    "postal_code": "64131"
   },
   {
     "code": "3571031002",
     "district_code": "357103",
-    "name": "Pakunden"
+    "name": "Pakunden",
+    "postal_code": "64132"
   },
   {
     "code": "3571031003",
     "district_code": "357103",
-    "name": "Tosaren"
+    "name": "Tosaren",
+    "postal_code": "64133"
   },
   {
     "code": "3571031004",
     "district_code": "357103",
-    "name": "Jamsaren"
+    "name": "Jamsaren",
+    "postal_code": "64132"
   },
   {
     "code": "3571031005",
     "district_code": "357103",
-    "name": "Singonegaran"
+    "name": "Singonegaran",
+    "postal_code": "64132"
   },
   {
     "code": "3571031006",
     "district_code": "357103",
-    "name": "Blabak"
+    "name": "Blabak",
+    "postal_code": "64135"
   },
   {
     "code": "3571031007",
     "district_code": "357103",
-    "name": "Betet"
+    "name": "Betet",
+    "postal_code": "64134"
   },
   {
     "code": "3571031008",
     "district_code": "357103",
-    "name": "Tinalan"
+    "name": "Tinalan",
+    "postal_code": "64132"
   },
   {
     "code": "3571031009",
     "district_code": "357103",
-    "name": "Bawang"
+    "name": "Bawang",
+    "postal_code": "64136"
   },
   {
     "code": "3571031010",
     "district_code": "357103",
-    "name": "Ngletih"
+    "name": "Ngletih",
+    "postal_code": "64137"
   },
   {
     "code": "3571031011",
     "district_code": "357103",
-    "name": "Tampurejo"
+    "name": "Tampurejo",
+    "postal_code": "64138"
   },
   {
     "code": "3571031012",
     "district_code": "357103",
-    "name": "Ketami"
+    "name": "Ketami",
+    "postal_code": "64139"
   },
   {
     "code": "3571031013",
     "district_code": "357103",
-    "name": "Pesantren"
+    "name": "Pesantren",
+    "postal_code": "64131"
   },
   {
     "code": "3571031014",
     "district_code": "357103",
-    "name": "Banaran"
+    "name": "Banaran",
+    "postal_code": "64133"
   },
   {
     "code": "3571031015",
     "district_code": "357103",
-    "name": "Burengan"
+    "name": "Burengan",
+    "postal_code": "64131"
   }
 ]

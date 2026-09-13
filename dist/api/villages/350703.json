@@ -2,51 +2,61 @@
   {
     "code": "3507032001",
     "district_code": "350703",
-    "name": "Wonokerto"
+    "name": "Wonokerto",
+    "postal_code": "65179"
   },
   {
     "code": "3507032002",
     "district_code": "350703",
-    "name": "Rejosari"
+    "name": "Rejosari",
+    "postal_code": "65179"
   },
   {
     "code": "3507032003",
     "district_code": "350703",
-    "name": "Bantur"
+    "name": "Bantur",
+    "postal_code": "65179"
   },
   {
     "code": "3507032004",
     "district_code": "350703",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "65179"
   },
   {
     "code": "3507032005",
     "district_code": "350703",
-    "name": "Srigonco"
+    "name": "Srigonco",
+    "postal_code": "65179"
   },
   {
     "code": "3507032006",
     "district_code": "350703",
-    "name": "Sumberbening"
+    "name": "Sumberbening",
+    "postal_code": "65179"
   },
   {
     "code": "3507032007",
     "district_code": "350703",
-    "name": "Bandungrejo"
+    "name": "Bandungrejo",
+    "postal_code": "65179"
   },
   {
     "code": "3507032008",
     "district_code": "350703",
-    "name": "Pringgondani"
+    "name": "Pringgondani",
+    "postal_code": "65179"
   },
   {
     "code": "3507032009",
     "district_code": "350703",
-    "name": "Rejoyoso"
+    "name": "Rejoyoso",
+    "postal_code": "65179"
   },
   {
     "code": "3507032010",
     "district_code": "350703",
-    "name": "Karangsari"
+    "name": "Karangsari",
+    "postal_code": "65179"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "1906062001",
     "district_code": "190606",
-    "name": "Simpang Tiga"
+    "name": "Simpang Tiga",
+    "postal_code": "33563"
   },
   {
     "code": "1906062002",
     "district_code": "190606",
-    "name": "Renggiang"
+    "name": "Renggiang",
+    "postal_code": "33563"
   },
   {
     "code": "1906062003",
     "district_code": "190606",
-    "name": "Aik Madu"
+    "name": "Aik Madu",
+    "postal_code": "33563"
   },
   {
     "code": "1906062004",
     "district_code": "190606",
-    "name": "Lintang"
+    "name": "Lintang",
+    "postal_code": "33563"
   }
 ]

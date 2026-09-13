@@ -2,16 +2,19 @@
   {
     "code": "7371151001",
     "district_code": "737115",
-    "name": "Barrang Caddi"
+    "name": "Barrang Caddi",
+    "postal_code": "90167"
   },
   {
     "code": "7371151002",
     "district_code": "737115",
-    "name": "Barrang Lompo"
+    "name": "Barrang Lompo",
+    "postal_code": "90166"
   },
   {
     "code": "7371151003",
     "district_code": "737115",
-    "name": "Kodingareng"
+    "name": "Kodingareng",
+    "postal_code": "90168"
   }
 ]

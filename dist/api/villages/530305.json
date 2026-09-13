@@ -2,46 +2,55 @@
   {
     "code": "5303051001",
     "district_code": "530305",
-    "name": "Kefamenanu Utara"
+    "name": "Kefamenanu Utara",
+    "postal_code": "85611"
   },
   {
     "code": "5303051002",
     "district_code": "530305",
-    "name": "Aplasi"
+    "name": "Aplasi",
+    "postal_code": "85614"
   },
   {
     "code": "5303051003",
     "district_code": "530305",
-    "name": "Kefamenanu Tengah"
+    "name": "Kefamenanu Tengah",
+    "postal_code": "85612"
   },
   {
     "code": "5303051004",
     "district_code": "530305",
-    "name": "Bansone"
+    "name": "Bansone",
+    "postal_code": "85615"
   },
   {
     "code": "5303051005",
     "district_code": "530305",
-    "name": "Benpasi"
+    "name": "Benpasi",
+    "postal_code": "85613"
   },
   {
     "code": "5303051006",
     "district_code": "530305",
-    "name": "Kefamenanu Selatan"
+    "name": "Kefamenanu Selatan",
+    "postal_code": "85613"
   },
   {
     "code": "5303051007",
     "district_code": "530305",
-    "name": "Tubuhue"
+    "name": "Tubuhue",
+    "postal_code": "85617"
   },
   {
     "code": "5303051008",
     "district_code": "530305",
-    "name": "Maubeli"
+    "name": "Maubeli",
+    "postal_code": "85617"
   },
   {
     "code": "5303051009",
     "district_code": "530305",
-    "name": "Sasi"
+    "name": "Sasi",
+    "postal_code": "85616"
   }
 ]

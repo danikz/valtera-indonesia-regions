@@ -2,36 +2,43 @@
   {
     "code": "5302262001",
     "district_code": "530226",
-    "name": "Naip"
+    "name": "Naip",
+    "postal_code": "85567"
   },
   {
     "code": "5302262002",
     "district_code": "530226",
-    "name": "Fatutnana"
+    "name": "Fatutnana",
+    "postal_code": "85567"
   },
   {
     "code": "5302262003",
     "district_code": "530226",
-    "name": "Oepliki"
+    "name": "Oepliki",
+    "postal_code": "85567"
   },
   {
     "code": "5302262004",
     "district_code": "530226",
-    "name": "Oe'ekam"
+    "name": "Oe'ekam",
+    "postal_code": "85567"
   },
   {
     "code": "5302262005",
     "district_code": "530226",
-    "name": "Teas"
+    "name": "Teas",
+    "postal_code": "85567"
   },
   {
     "code": "5302262006",
     "district_code": "530226",
-    "name": "Oebaki"
+    "name": "Oebaki",
+    "postal_code": "85567"
   },
   {
     "code": "5302262007",
     "district_code": "530226",
-    "name": "Eno Nabuasa"
+    "name": "Eno Nabuasa",
+    "postal_code": "85567"
   }
 ]

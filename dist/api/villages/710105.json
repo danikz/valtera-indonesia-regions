@@ -2,61 +2,73 @@
   {
     "code": "7101052001",
     "district_code": "710105",
-    "name": "Ayong"
+    "name": "Ayong",
+    "postal_code": "95742"
   },
   {
     "code": "7101052002",
     "district_code": "710105",
-    "name": "Babo"
+    "name": "Babo",
+    "postal_code": "95742"
   },
   {
     "code": "7101052003",
     "district_code": "710105",
-    "name": "Bolangat"
+    "name": "Bolangat",
+    "postal_code": "95742"
   },
   {
     "code": "7101052004",
     "district_code": "710105",
-    "name": "Maelang"
+    "name": "Maelang",
+    "postal_code": "95742"
   },
   {
     "code": "7101052005",
     "district_code": "710105",
-    "name": "Domisil Moonow"
+    "name": "Domisil Moonow",
+    "postal_code": "95742"
   },
   {
     "code": "7101052006",
     "district_code": "710105",
-    "name": "Pangi"
+    "name": "Pangi",
+    "postal_code": "95742"
   },
   {
     "code": "7101052012",
     "district_code": "710105",
-    "name": "Lolanan"
+    "name": "Lolanan",
+    "postal_code": "95742"
   },
   {
     "code": "7101052015",
     "district_code": "710105",
-    "name": "Cempaka"
+    "name": "Cempaka",
+    "postal_code": "95742"
   },
   {
     "code": "7101052017",
     "district_code": "710105",
-    "name": "Batu Merah"
+    "name": "Batu Merah",
+    "postal_code": "95742"
   },
   {
     "code": "7101052018",
     "district_code": "710105",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "95742"
   },
   {
     "code": "7101052019",
     "district_code": "710105",
-    "name": "Pangi Timur"
+    "name": "Pangi Timur",
+    "postal_code": "95742"
   },
   {
     "code": "7101052020",
     "district_code": "710105",
-    "name": "Bolangat Timur"
+    "name": "Bolangat Timur",
+    "postal_code": "95742"
   }
 ]

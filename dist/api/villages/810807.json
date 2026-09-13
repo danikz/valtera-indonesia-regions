@@ -2,31 +2,37 @@
   {
     "code": "8108072001",
     "district_code": "810807",
-    "name": "Wonreli"
+    "name": "Wonreli",
+    "postal_code": "97445"
   },
   {
     "code": "8108072002",
     "district_code": "810807",
-    "name": "Lekloor"
+    "name": "Lekloor",
+    "postal_code": "97445"
   },
   {
     "code": "8108072003",
     "district_code": "810807",
-    "name": "Kota Lama"
+    "name": "Kota Lama",
+    "postal_code": "97445"
   },
   {
     "code": "8108072004",
     "district_code": "810807",
-    "name": "Abusur"
+    "name": "Abusur",
+    "postal_code": "97445"
   },
   {
     "code": "8108072005",
     "district_code": "810807",
-    "name": "Oirata Timur"
+    "name": "Oirata Timur",
+    "postal_code": "97445"
   },
   {
     "code": "8108072006",
     "district_code": "810807",
-    "name": "Oirata Barat"
+    "name": "Oirata Barat",
+    "postal_code": "97445"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "9205092001",
     "district_code": "920509",
-    "name": "Lopintol"
+    "name": "Lopintol",
+    "postal_code": ""
   },
   {
     "code": "9205092007",
     "district_code": "920509",
-    "name": "Warsamdin"
+    "name": "Warsamdin",
+    "postal_code": ""
   },
   {
     "code": "9205092009",
     "district_code": "920509",
-    "name": "Mumes"
+    "name": "Mumes",
+    "postal_code": ""
   },
   {
     "code": "9205092010",
     "district_code": "920509",
-    "name": "Kalitoko"
+    "name": "Kalitoko",
+    "postal_code": ""
   }
 ]

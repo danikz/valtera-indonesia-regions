@@ -2,41 +2,49 @@
   {
     "code": "1201111001",
     "district_code": "120111",
-    "name": "Bajamas"
+    "name": "Bajamas",
+    "postal_code": "22566"
   },
   {
     "code": "1201112002",
     "district_code": "120111",
-    "name": "Sampang Maruhur"
+    "name": "Sampang Maruhur",
+    "postal_code": "22566"
   },
   {
     "code": "1201112003",
     "district_code": "120111",
-    "name": "Siordang"
+    "name": "Siordang",
+    "postal_code": "22566"
   },
   {
     "code": "1201112004",
     "district_code": "120111",
-    "name": "Pardomuan"
+    "name": "Pardomuan",
+    "postal_code": "22566"
   },
   {
     "code": "1201112005",
     "district_code": "120111",
-    "name": "Simpang III Lae Bingke"
+    "name": "Simpang III Lae Bingke",
+    "postal_code": "22566"
   },
   {
     "code": "1201112006",
     "district_code": "120111",
-    "name": "Sigodung"
+    "name": "Sigodung",
+    "postal_code": "22566"
   },
   {
     "code": "1201112007",
     "district_code": "120111",
-    "name": "Masnauli"
+    "name": "Masnauli",
+    "postal_code": "22566"
   },
   {
     "code": "1201112008",
     "district_code": "120111",
-    "name": "Muara Ode"
+    "name": "Muara Ode",
+    "postal_code": "22566"
   }
 ]

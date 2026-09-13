@@ -2,31 +2,37 @@
   {
     "code": "1571111001",
     "district_code": "157111",
-    "name": "Talang Bakung"
+    "name": "Talang Bakung",
+    "postal_code": "36139"
   },
   {
     "code": "1571111002",
     "district_code": "157111",
-    "name": "Payo Selincah"
+    "name": "Payo Selincah",
+    "postal_code": "36148"
   },
   {
     "code": "1571111003",
     "district_code": "157111",
-    "name": "Eka Jaya"
+    "name": "Eka Jaya",
+    "postal_code": "36139"
   },
   {
     "code": "1571111004",
     "district_code": "157111",
-    "name": "Lingkar Selatan"
+    "name": "Lingkar Selatan",
+    "postal_code": "36139"
   },
   {
     "code": "1571111005",
     "district_code": "157111",
-    "name": "Paal Merah"
+    "name": "Paal Merah",
+    "postal_code": "36139"
   },
   {
     "code": "1571111006",
     "district_code": "157111",
-    "name": "Bakung Jaya"
+    "name": "Bakung Jaya",
+    "postal_code": "36139"
   }
 ]

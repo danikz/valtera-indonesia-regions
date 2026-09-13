@@ -2,31 +2,37 @@
   {
     "code": "7309092001",
     "district_code": "730909",
-    "name": "Jenetaesa"
+    "name": "Jenetaesa",
+    "postal_code": "90560"
   },
   {
     "code": "7309092002",
     "district_code": "730909",
-    "name": "Bonto Tallasa"
+    "name": "Bonto Tallasa",
+    "postal_code": "90560"
   },
   {
     "code": "7309092003",
     "district_code": "730909",
-    "name": "Sambueja"
+    "name": "Sambueja",
+    "postal_code": "90560"
   },
   {
     "code": "7309092004",
     "district_code": "730909",
-    "name": "Tanete"
+    "name": "Tanete",
+    "postal_code": "90560"
   },
   {
     "code": "7309092005",
     "district_code": "730909",
-    "name": "Samangki"
+    "name": "Samangki",
+    "postal_code": "90560"
   },
   {
     "code": "7309092006",
     "district_code": "730909",
-    "name": "Simbang"
+    "name": "Simbang",
+    "postal_code": "90560"
   }
 ]

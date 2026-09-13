@@ -2,31 +2,37 @@
   {
     "code": "3175011001",
     "district_code": "317501",
-    "name": "Pisangan Baru"
+    "name": "Pisangan Baru",
+    "postal_code": "13110"
   },
   {
     "code": "3175011002",
     "district_code": "317501",
-    "name": "Utan Kayu Utara"
+    "name": "Utan Kayu Utara",
+    "postal_code": "13120"
   },
   {
     "code": "3175011003",
     "district_code": "317501",
-    "name": "Kayu Manis"
+    "name": "Kayu Manis",
+    "postal_code": "13130"
   },
   {
     "code": "3175011004",
     "district_code": "317501",
-    "name": "Palmeriam"
+    "name": "Palmeriam",
+    "postal_code": "13140"
   },
   {
     "code": "3175011005",
     "district_code": "317501",
-    "name": "Kebon Manggis"
+    "name": "Kebon Manggis",
+    "postal_code": "13150"
   },
   {
     "code": "3175011006",
     "district_code": "317501",
-    "name": "Utan Kayu Selatan"
+    "name": "Utan Kayu Selatan",
+    "postal_code": "13120"
   }
 ]

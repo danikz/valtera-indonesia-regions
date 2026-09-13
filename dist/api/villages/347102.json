@@ -2,16 +2,19 @@
   {
     "code": "3471021001",
     "district_code": "347102",
-    "name": "Bumijo"
+    "name": "Bumijo",
+    "postal_code": "55231"
   },
   {
     "code": "3471021002",
     "district_code": "347102",
-    "name": "Cokrodiningratan"
+    "name": "Cokrodiningratan",
+    "postal_code": "55233"
   },
   {
     "code": "3471021003",
     "district_code": "347102",
-    "name": "Gowongan"
+    "name": "Gowongan",
+    "postal_code": "55232"
   }
 ]

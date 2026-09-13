@@ -2,41 +2,49 @@
   {
     "code": "5304042001",
     "district_code": "530404",
-    "name": "Tukuneno"
+    "name": "Tukuneno",
+    "postal_code": "85753"
   },
   {
     "code": "5304042002",
     "district_code": "530404",
-    "name": "Naekasa"
+    "name": "Naekasa",
+    "postal_code": "85753"
   },
   {
     "code": "5304042003",
     "district_code": "530404",
-    "name": "Lookeu"
+    "name": "Lookeu",
+    "postal_code": "85753"
   },
   {
     "code": "5304042004",
     "district_code": "530404",
-    "name": "Derokfaturene"
+    "name": "Derokfaturene",
+    "postal_code": "85753"
   },
   {
     "code": "5304042005",
     "district_code": "530404",
-    "name": "Bakustulama"
+    "name": "Bakustulama",
+    "postal_code": "85753"
   },
   {
     "code": "5304042006",
     "district_code": "530404",
-    "name": "Rinbesihat"
+    "name": "Rinbesihat",
+    "postal_code": "85753"
   },
   {
     "code": "5304042007",
     "district_code": "530404",
-    "name": "Naitimu"
+    "name": "Naitimu",
+    "postal_code": "85753"
   },
   {
     "code": "5304042009",
     "district_code": "530404",
-    "name": "Lawalutolus"
+    "name": "Lawalutolus",
+    "postal_code": "85753"
   }
 ]

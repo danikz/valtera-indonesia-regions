@@ -2,51 +2,61 @@
   {
     "code": "9210202001",
     "district_code": "921020",
-    "name": "Fiane"
+    "name": "Fiane",
+    "postal_code": ""
   },
   {
     "code": "9210202002",
     "district_code": "921020",
-    "name": "Kartapura"
+    "name": "Kartapura",
+    "postal_code": ""
   },
   {
     "code": "9210202003",
     "district_code": "921020",
-    "name": "Men"
+    "name": "Men",
+    "postal_code": ""
   },
   {
     "code": "9210202004",
     "district_code": "921020",
-    "name": "Semu"
+    "name": "Semu",
+    "postal_code": ""
   },
   {
     "code": "9210202005",
     "district_code": "921020",
-    "name": "Isme"
+    "name": "Isme",
+    "postal_code": ""
   },
   {
     "code": "9210202006",
     "district_code": "921020",
-    "name": "Rindu"
+    "name": "Rindu",
+    "postal_code": ""
   },
   {
     "code": "9210202007",
     "district_code": "921020",
-    "name": "Tut"
+    "name": "Tut",
+    "postal_code": ""
   },
   {
     "code": "9210202008",
     "district_code": "921020",
-    "name": "Yohwer"
+    "name": "Yohwer",
+    "postal_code": ""
   },
   {
     "code": "9210202009",
     "district_code": "921020",
-    "name": "Hufioh"
+    "name": "Hufioh",
+    "postal_code": ""
   },
   {
     "code": "9210202010",
     "district_code": "921020",
-    "name": "Bawy"
+    "name": "Bawy",
+    "postal_code": ""
   }
 ]

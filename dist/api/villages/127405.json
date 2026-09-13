@@ -2,26 +2,31 @@
   {
     "code": "1274051003",
     "district_code": "127405",
-    "name": "Gading"
+    "name": "Gading",
+    "postal_code": "21362"
   },
   {
     "code": "1274051004",
     "district_code": "127405",
-    "name": "Sirantau"
+    "name": "Sirantau",
+    "postal_code": "21368"
   },
   {
     "code": "1274051005",
     "district_code": "127405",
-    "name": "Sijambi"
+    "name": "Sijambi",
+    "postal_code": "21361"
   },
   {
     "code": "1274051006",
     "district_code": "127405",
-    "name": "Pahang"
+    "name": "Pahang",
+    "postal_code": "21369"
   },
   {
     "code": "1274051010",
     "district_code": "127405",
-    "name": "Pantai Johor"
+    "name": "Pantai Johor",
+    "postal_code": "21368"
   }
 ]

@@ -2,81 +2,97 @@
   {
     "code": "1171032001",
     "district_code": "117103",
-    "name": "Punge Jurong"
+    "name": "Punge Jurong",
+    "postal_code": "23231"
   },
   {
     "code": "1171032002",
     "district_code": "117103",
-    "name": "Ulee Lheue"
+    "name": "Ulee Lheue",
+    "postal_code": "23234"
   },
   {
     "code": "1171032003",
     "district_code": "117103",
-    "name": "Lambung"
+    "name": "Lambung",
+    "postal_code": "23233"
   },
   {
     "code": "1171032004",
     "district_code": "117103",
-    "name": "Deah Glumpang"
+    "name": "Deah Glumpang",
+    "postal_code": "23232"
   },
   {
     "code": "1171032005",
     "district_code": "117103",
-    "name": "Deah Baro"
+    "name": "Deah Baro",
+    "postal_code": "23232"
   },
   {
     "code": "1171032006",
     "district_code": "117103",
-    "name": "Alue Deah Teungoh"
+    "name": "Alue Deah Teungoh",
+    "postal_code": "23232"
   },
   {
     "code": "1171032007",
     "district_code": "117103",
-    "name": "Lampaseh Aceh"
+    "name": "Lampaseh Aceh",
+    "postal_code": "23231"
   },
   {
     "code": "1171032008",
     "district_code": "117103",
-    "name": "Blang Oi"
+    "name": "Blang Oi",
+    "postal_code": "23233"
   },
   {
     "code": "1171032009",
     "district_code": "117103",
-    "name": "Asoe Nanggroe"
+    "name": "Asoe Nanggroe",
+    "postal_code": "23234"
   },
   {
     "code": "1171032010",
     "district_code": "117103",
-    "name": "Gampong Blang"
+    "name": "Gampong Blang",
+    "postal_code": "23234"
   },
   {
     "code": "1171032011",
     "district_code": "117103",
-    "name": "Gampong Pie"
+    "name": "Gampong Pie",
+    "postal_code": "23233"
   },
   {
     "code": "1171032012",
     "district_code": "117103",
-    "name": "Lamjabat"
+    "name": "Lamjabat",
+    "postal_code": "23234"
   },
   {
     "code": "1171032013",
     "district_code": "117103",
-    "name": "Cot Lamkuweuh"
+    "name": "Cot Lamkuweuh",
+    "postal_code": "23233"
   },
   {
     "code": "1171032014",
     "district_code": "117103",
-    "name": "Surien"
+    "name": "Surien",
+    "postal_code": "23234"
   },
   {
     "code": "1171032015",
     "district_code": "117103",
-    "name": "Gampong Baro"
+    "name": "Gampong Baro",
+    "postal_code": "23234"
   },
   {
     "code": "1171032016",
     "district_code": "117103",
-    "name": "Punge Ujong"
+    "name": "Punge Ujong",
+    "postal_code": "23233"
   }
 ]

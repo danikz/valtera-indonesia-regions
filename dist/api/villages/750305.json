@@ -2,46 +2,55 @@
   {
     "code": "7503052001",
     "district_code": "750305",
-    "name": "Boidu"
+    "name": "Boidu",
+    "postal_code": "96544"
   },
   {
     "code": "7503052002",
     "district_code": "750305",
-    "name": "Bandungan"
+    "name": "Bandungan",
+    "postal_code": "96544"
   },
   {
     "code": "7503052003",
     "district_code": "750305",
-    "name": "Tupa"
+    "name": "Tupa",
+    "postal_code": "96544"
   },
   {
     "code": "7503052004",
     "district_code": "750305",
-    "name": "Longalo"
+    "name": "Longalo",
+    "postal_code": "96544"
   },
   {
     "code": "7503052009",
     "district_code": "750305",
-    "name": "Tuloa"
+    "name": "Tuloa",
+    "postal_code": "96544"
   },
   {
     "code": "7503052010",
     "district_code": "750305",
-    "name": "Kopi"
+    "name": "Kopi",
+    "postal_code": "96544"
   },
   {
     "code": "7503052011",
     "district_code": "750305",
-    "name": "Lomaya"
+    "name": "Lomaya",
+    "postal_code": "96544"
   },
   {
     "code": "7503052012",
     "district_code": "750305",
-    "name": "Suka Damai"
+    "name": "Suka Damai",
+    "postal_code": "96544"
   },
   {
     "code": "7503052015",
     "district_code": "750305",
-    "name": "Bunuo"
+    "name": "Bunuo",
+    "postal_code": "96544"
   }
 ]

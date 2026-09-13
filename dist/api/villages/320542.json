@@ -2,36 +2,43 @@
   {
     "code": "3205422001",
     "district_code": "320542",
-    "name": "Sadang"
+    "name": "Sadang",
+    "postal_code": "44115"
   },
   {
     "code": "3205422002",
     "district_code": "320542",
-    "name": "Sukaratu"
+    "name": "Sukaratu",
+    "postal_code": "44115"
   },
   {
     "code": "3205422003",
     "district_code": "320542",
-    "name": "Tenjonagara"
+    "name": "Tenjonagara",
+    "postal_code": "44115"
   },
   {
     "code": "3205422004",
     "district_code": "320542",
-    "name": "Tegalpanjang"
+    "name": "Tegalpanjang",
+    "postal_code": "44115"
   },
   {
     "code": "3205422005",
     "district_code": "320542",
-    "name": "Cigadog"
+    "name": "Cigadog",
+    "postal_code": "44115"
   },
   {
     "code": "3205422006",
     "district_code": "320542",
-    "name": "Linggamukti"
+    "name": "Linggamukti",
+    "postal_code": "44115"
   },
   {
     "code": "3205422007",
     "district_code": "320542",
-    "name": "Sukalaksana"
+    "name": "Sukalaksana",
+    "postal_code": "44115"
   }
 ]

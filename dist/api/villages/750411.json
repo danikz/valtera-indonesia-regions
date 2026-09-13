@@ -2,36 +2,43 @@
   {
     "code": "7504112001",
     "district_code": "750411",
-    "name": "Wanggarasi Timur"
+    "name": "Wanggarasi Timur",
+    "postal_code": "96465"
   },
   {
     "code": "7504112002",
     "district_code": "750411",
-    "name": "Bukit Harapan"
+    "name": "Bukit Harapan",
+    "postal_code": "96465"
   },
   {
     "code": "7504112003",
     "district_code": "750411",
-    "name": "Bohusami"
+    "name": "Bohusami",
+    "postal_code": "96465"
   },
   {
     "code": "7504112004",
     "district_code": "750411",
-    "name": "Lembah Permai"
+    "name": "Lembah Permai",
+    "postal_code": "96465"
   },
   {
     "code": "7504112005",
     "district_code": "750411",
-    "name": "Limbula"
+    "name": "Limbula",
+    "postal_code": "96469"
   },
   {
     "code": "7504112006",
     "district_code": "750411",
-    "name": "Yipilo"
+    "name": "Yipilo",
+    "postal_code": "96469"
   },
   {
     "code": "7504112007",
     "district_code": "750411",
-    "name": "Tuweya"
+    "name": "Tuweya",
+    "postal_code": "96469"
   }
 ]

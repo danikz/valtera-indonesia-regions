@@ -2,41 +2,49 @@
   {
     "code": "9503242001",
     "district_code": "950324",
-    "name": "Siwikma"
+    "name": "Siwikma",
+    "postal_code": "99760"
   },
   {
     "code": "9503242002",
     "district_code": "950324",
-    "name": "Pontenpilik"
+    "name": "Pontenpilik",
+    "postal_code": "99760"
   },
   {
     "code": "9503242003",
     "district_code": "950324",
-    "name": "Piliam"
+    "name": "Piliam",
+    "postal_code": "99760"
   },
   {
     "code": "9503242004",
     "district_code": "950324",
-    "name": "Hiklahin"
+    "name": "Hiklahin",
+    "postal_code": "99760"
   },
   {
     "code": "9503242005",
     "district_code": "950324",
-    "name": "Helapilik"
+    "name": "Helapilik",
+    "postal_code": "99760"
   },
   {
     "code": "9503242006",
     "district_code": "950324",
-    "name": "Lirutek"
+    "name": "Lirutek",
+    "postal_code": "99760"
   },
   {
     "code": "9503242007",
     "district_code": "950324",
-    "name": "Huhulpunu"
+    "name": "Huhulpunu",
+    "postal_code": "99760"
   },
   {
     "code": "9503242008",
     "district_code": "950324",
-    "name": "Pronggoli"
+    "name": "Pronggoli",
+    "postal_code": "99760"
   }
 ]

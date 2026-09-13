@@ -2,41 +2,49 @@
   {
     "code": "8172012001",
     "district_code": "817201",
-    "name": "Fiditan"
+    "name": "Fiditan",
+    "postal_code": "97612"
   },
   {
     "code": "8172012002",
     "district_code": "817201",
-    "name": "Ngadi"
+    "name": "Ngadi",
+    "postal_code": "97612"
   },
   {
     "code": "8172012003",
     "district_code": "817201",
-    "name": "Dullah"
+    "name": "Dullah",
+    "postal_code": "97612"
   },
   {
     "code": "8172012004",
     "district_code": "817201",
-    "name": "Labetawi"
+    "name": "Labetawi",
+    "postal_code": "97612"
   },
   {
     "code": "8172012005",
     "district_code": "817201",
-    "name": "Tamedan"
+    "name": "Tamedan",
+    "postal_code": "97612"
   },
   {
     "code": "8172012006",
     "district_code": "817201",
-    "name": "Ohoitahit"
+    "name": "Ohoitahit",
+    "postal_code": "97612"
   },
   {
     "code": "8172012007",
     "district_code": "817201",
-    "name": "Ohoitel"
+    "name": "Ohoitel",
+    "postal_code": "97612"
   },
   {
     "code": "8172012008",
     "district_code": "817201",
-    "name": "Dullah Laut"
+    "name": "Dullah Laut",
+    "postal_code": "97612"
   }
 ]

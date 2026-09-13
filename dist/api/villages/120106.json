@@ -2,71 +2,85 @@
   {
     "code": "1201061006",
     "district_code": "120106",
-    "name": "P.O. Hurlang"
+    "name": "P.O. Hurlang",
+    "postal_code": "22562"
   },
   {
     "code": "1201061007",
     "district_code": "120106",
-    "name": "Kolang Nauli"
+    "name": "Kolang Nauli",
+    "postal_code": "22562"
   },
   {
     "code": "1201062001",
     "district_code": "120106",
-    "name": "Unte Mungkur IV"
+    "name": "Unte Mungkur IV",
+    "postal_code": "22562"
   },
   {
     "code": "1201062002",
     "district_code": "120106",
-    "name": "Unte Mungkur III"
+    "name": "Unte Mungkur III",
+    "postal_code": "22562"
   },
   {
     "code": "1201062003",
     "district_code": "120106",
-    "name": "Unte Mungkur II"
+    "name": "Unte Mungkur II",
+    "postal_code": "22562"
   },
   {
     "code": "1201062004",
     "district_code": "120106",
-    "name": "Unte Mungkur I"
+    "name": "Unte Mungkur I",
+    "postal_code": "22562"
   },
   {
     "code": "1201062005",
     "district_code": "120106",
-    "name": "Satahi Nauli"
+    "name": "Satahi Nauli",
+    "postal_code": "22562"
   },
   {
     "code": "1201062008",
     "district_code": "120106",
-    "name": "Hurlang Muara Nauli"
+    "name": "Hurlang Muara Nauli",
+    "postal_code": "22562"
   },
   {
     "code": "1201062009",
     "district_code": "120106",
-    "name": "Sipakpahi Aek Lobu"
+    "name": "Sipakpahi Aek Lobu",
+    "postal_code": "22562"
   },
   {
     "code": "1201062010",
     "district_code": "120106",
-    "name": "Hodopa Nauli"
+    "name": "Hodopa Nauli",
+    "postal_code": "22562"
   },
   {
     "code": "1201062011",
     "district_code": "120106",
-    "name": "Makarti Nauli"
+    "name": "Makarti Nauli",
+    "postal_code": "22562"
   },
   {
     "code": "1201062012",
     "district_code": "120106",
-    "name": "Rawa Makmur"
+    "name": "Rawa Makmur",
+    "postal_code": "22562"
   },
   {
     "code": "1201062013",
     "district_code": "120106",
-    "name": "Simarpinggang"
+    "name": "Simarpinggang",
+    "postal_code": "22562"
   },
   {
     "code": "1201062014",
     "district_code": "120106",
-    "name": "Pargaringan"
+    "name": "Pargaringan",
+    "postal_code": "22562"
   }
 ]

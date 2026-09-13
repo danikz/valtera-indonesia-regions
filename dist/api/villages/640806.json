@@ -2,31 +2,37 @@
   {
     "code": "6408062001",
     "district_code": "640806",
-    "name": "Long Bentuq"
+    "name": "Long Bentuq",
+    "postal_code": "75556"
   },
   {
     "code": "6408062002",
     "district_code": "640806",
-    "name": "Long Pejeng"
+    "name": "Long Pejeng",
+    "postal_code": "75556"
   },
   {
     "code": "6408062003",
     "district_code": "640806",
-    "name": "Long Lees"
+    "name": "Long Lees",
+    "postal_code": "75556"
   },
   {
     "code": "6408062004",
     "district_code": "640806",
-    "name": "Mekar Baru"
+    "name": "Mekar Baru",
+    "postal_code": "75556"
   },
   {
     "code": "6408062005",
     "district_code": "640806",
-    "name": "Rantau Sentosa"
+    "name": "Rantau Sentosa",
+    "postal_code": "75556"
   },
   {
     "code": "6408062006",
     "district_code": "640806",
-    "name": "Long Nyelong"
+    "name": "Long Nyelong",
+    "postal_code": "75556"
   }
 ]

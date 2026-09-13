@@ -2,41 +2,49 @@
   {
     "code": "3403162001",
     "district_code": "340316",
-    "name": "Balong"
+    "name": "Balong",
+    "postal_code": "55883"
   },
   {
     "code": "3403162002",
     "district_code": "340316",
-    "name": "Jepitu"
+    "name": "Jepitu",
+    "postal_code": "55883"
   },
   {
     "code": "3403162003",
     "district_code": "340316",
-    "name": "Karangawen"
+    "name": "Karangawen",
+    "postal_code": "55883"
   },
   {
     "code": "3403162004",
     "district_code": "340316",
-    "name": "Nglindur"
+    "name": "Nglindur",
+    "postal_code": "55883"
   },
   {
     "code": "3403162005",
     "district_code": "340316",
-    "name": "Jerukwudel"
+    "name": "Jerukwudel",
+    "postal_code": "55883"
   },
   {
     "code": "3403162006",
     "district_code": "340316",
-    "name": "Tileng"
+    "name": "Tileng",
+    "postal_code": "55883"
   },
   {
     "code": "3403162007",
     "district_code": "340316",
-    "name": "Pucung"
+    "name": "Pucung",
+    "postal_code": "55883"
   },
   {
     "code": "3403162008",
     "district_code": "340316",
-    "name": "Songbanyu"
+    "name": "Songbanyu",
+    "postal_code": "55883"
   }
 ]

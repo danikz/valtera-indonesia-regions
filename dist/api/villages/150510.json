@@ -2,51 +2,61 @@
   {
     "code": "1505102001",
     "district_code": "150510",
-    "name": "Bukit Subur"
+    "name": "Bukit Subur",
+    "postal_code": "36366"
   },
   {
     "code": "1505102002",
     "district_code": "150510",
-    "name": "Tri Jaya"
+    "name": "Tri Jaya",
+    "postal_code": "36366"
   },
   {
     "code": "1505102003",
     "district_code": "150510",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "36366"
   },
   {
     "code": "1505102004",
     "district_code": "150510",
-    "name": "Ujung Tanjung"
+    "name": "Ujung Tanjung",
+    "postal_code": "36366"
   },
   {
     "code": "1505102005",
     "district_code": "150510",
-    "name": "Tanjung Baru"
+    "name": "Tanjung Baru",
+    "postal_code": "36366"
   },
   {
     "code": "1505102006",
     "district_code": "150510",
-    "name": "Tanjung Mulia"
+    "name": "Tanjung Mulia",
+    "postal_code": "36366"
   },
   {
     "code": "1505102007",
     "district_code": "150510",
-    "name": "Adipura Kencana"
+    "name": "Adipura Kencana",
+    "postal_code": "36366"
   },
   {
     "code": "1505102008",
     "district_code": "150510",
-    "name": "Bukit Jaya"
+    "name": "Bukit Jaya",
+    "postal_code": "36366"
   },
   {
     "code": "1505102009",
     "district_code": "150510",
-    "name": "Tanjung Sari"
+    "name": "Tanjung Sari",
+    "postal_code": "36366"
   },
   {
     "code": "1505102010",
     "district_code": "150510",
-    "name": "Tanjung Lebar"
+    "name": "Tanjung Lebar",
+    "postal_code": "36366"
   }
 ]

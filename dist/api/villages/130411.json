@@ -2,11 +2,13 @@
   {
     "code": "1304112001",
     "district_code": "130411",
-    "name": "Atar"
+    "name": "Atar",
+    "postal_code": "27282"
   },
   {
     "code": "1304112002",
     "district_code": "130411",
-    "name": "Padang Ganting"
+    "name": "Padang Ganting",
+    "postal_code": "27282"
   }
 ]

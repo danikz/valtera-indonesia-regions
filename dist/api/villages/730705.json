@@ -2,31 +2,37 @@
   {
     "code": "7307051001",
     "district_code": "730705",
-    "name": "Biringere"
+    "name": "Biringere",
+    "postal_code": "92611"
   },
   {
     "code": "7307051002",
     "district_code": "730705",
-    "name": "Lamatti Rilau"
+    "name": "Lamatti Rilau",
+    "postal_code": "92613"
   },
   {
     "code": "7307051003",
     "district_code": "730705",
-    "name": "Balangnipa"
+    "name": "Balangnipa",
+    "postal_code": "92612"
   },
   {
     "code": "7307051004",
     "district_code": "730705",
-    "name": "Lappa"
+    "name": "Lappa",
+    "postal_code": "92614"
   },
   {
     "code": "7307051005",
     "district_code": "730705",
-    "name": "Bongki"
+    "name": "Bongki",
+    "postal_code": "92615"
   },
   {
     "code": "7307051006",
     "district_code": "730705",
-    "name": "Alehanuae"
+    "name": "Alehanuae",
+    "postal_code": "92616"
   }
 ]

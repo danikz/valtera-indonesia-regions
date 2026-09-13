@@ -2,26 +2,31 @@
   {
     "code": "9205052001",
     "district_code": "920505",
-    "name": "Dorehkar"
+    "name": "Dorehkar",
+    "postal_code": ""
   },
   {
     "code": "9205052003",
     "district_code": "920505",
-    "name": "Yenkawir"
+    "name": "Yenkawir",
+    "postal_code": ""
   },
   {
     "code": "9205052006",
     "district_code": "920505",
-    "name": "Boiseran"
+    "name": "Boiseran",
+    "postal_code": ""
   },
   {
     "code": "9205052007",
     "district_code": "920505",
-    "name": "Runi"
+    "name": "Runi",
+    "postal_code": ""
   },
   {
     "code": "9205052008",
     "district_code": "920505",
-    "name": "Yenkanfan"
+    "name": "Yenkanfan",
+    "postal_code": ""
   }
 ]

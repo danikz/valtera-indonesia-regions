@@ -2,61 +2,73 @@
   {
     "code": "1407152001",
     "district_code": "140715",
-    "name": "Rantau Panjang Kiri"
+    "name": "Rantau Panjang Kiri",
+    "postal_code": "28990"
   },
   {
     "code": "1407152002",
     "district_code": "140715",
-    "name": "Teluknilap"
+    "name": "Teluknilap",
+    "postal_code": "28990"
   },
   {
     "code": "1407152003",
     "district_code": "140715",
-    "name": "Sungaimajo"
+    "name": "Sungaimajo",
+    "postal_code": "28990"
   },
   {
     "code": "1407152004",
     "district_code": "140715",
-    "name": "Sungaipinang"
+    "name": "Sungaipinang",
+    "postal_code": "28990"
   },
   {
     "code": "1407152005",
     "district_code": "140715",
-    "name": "Sungaipanji-panji"
+    "name": "Sungaipanji-panji",
+    "postal_code": "28990"
   },
   {
     "code": "1407152006",
     "district_code": "140715",
-    "name": "Jojol"
+    "name": "Jojol",
+    "postal_code": "28990"
   },
   {
     "code": "1407152007",
     "district_code": "140715",
-    "name": "Pulauhalang Muka"
+    "name": "Pulauhalang Muka",
+    "postal_code": "28990"
   },
   {
     "code": "1407152008",
     "district_code": "140715",
-    "name": "Pulauhalang Belakang"
+    "name": "Pulauhalang Belakang",
+    "postal_code": "28990"
   },
   {
     "code": "1407152009",
     "district_code": "140715",
-    "name": "Rantau Panjang Kiri Hilir"
+    "name": "Rantau Panjang Kiri Hilir",
+    "postal_code": "28990"
   },
   {
     "code": "1407152010",
     "district_code": "140715",
-    "name": "Teluknilap Jaya"
+    "name": "Teluknilap Jaya",
+    "postal_code": "28990"
   },
   {
     "code": "1407152011",
     "district_code": "140715",
-    "name": "Sungaimajo Pusako"
+    "name": "Sungaimajo Pusako",
+    "postal_code": "28990"
   },
   {
     "code": "1407152012",
     "district_code": "140715",
-    "name": "Pulauhalang Hulu"
+    "name": "Pulauhalang Hulu",
+    "postal_code": "28990"
   }
 ]

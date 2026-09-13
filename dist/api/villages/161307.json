@@ -2,36 +2,43 @@
   {
     "code": "1613071007",
     "district_code": "161307",
-    "name": "Muara Kulam"
+    "name": "Muara Kulam",
+    "postal_code": "31669"
   },
   {
     "code": "1613072001",
     "district_code": "161307",
-    "name": "Jangkat"
+    "name": "Jangkat",
+    "postal_code": "31669"
   },
   {
     "code": "1613072002",
     "district_code": "161307",
-    "name": "Napal Licin"
+    "name": "Napal Licin",
+    "postal_code": "31669"
   },
   {
     "code": "1613072003",
     "district_code": "161307",
-    "name": "Sosokan"
+    "name": "Sosokan",
+    "postal_code": "31669"
   },
   {
     "code": "1613072004",
     "district_code": "161307",
-    "name": "Kuto Tanjung"
+    "name": "Kuto Tanjung",
+    "postal_code": "31669"
   },
   {
     "code": "1613072005",
     "district_code": "161307",
-    "name": "Muara Kuis"
+    "name": "Muara Kuis",
+    "postal_code": "31669"
   },
   {
     "code": "1613072006",
     "district_code": "161307",
-    "name": "Pulau Kidak"
+    "name": "Pulau Kidak",
+    "postal_code": "31669"
   }
 ]

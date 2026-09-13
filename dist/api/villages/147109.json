@@ -2,31 +2,37 @@
   {
     "code": "1471091001",
     "district_code": "147109",
-    "name": "Tangkerang Barat"
+    "name": "Tangkerang Barat",
+    "postal_code": "28282"
   },
   {
     "code": "1471091002",
     "district_code": "147109",
-    "name": "Tangkerang Tengah"
+    "name": "Tangkerang Tengah",
+    "postal_code": "28282"
   },
   {
     "code": "1471091003",
     "district_code": "147109",
-    "name": "Sidomulyo Timur"
+    "name": "Sidomulyo Timur",
+    "postal_code": "28125"
   },
   {
     "code": "1471091004",
     "district_code": "147109",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "28125"
   },
   {
     "code": "1471091005",
     "district_code": "147109",
-    "name": "Maharatu"
+    "name": "Maharatu",
+    "postal_code": "28125"
   },
   {
     "code": "1471091006",
     "district_code": "147109",
-    "name": "Perhentianmarpoyan"
+    "name": "Perhentianmarpoyan",
+    "postal_code": "28125"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "9408032001",
     "district_code": "940803",
-    "name": "Kopai I"
+    "name": "Kopai I",
+    "postal_code": "98751"
   },
   {
     "code": "9408032002",
     "district_code": "940803",
-    "name": "Kopai II"
+    "name": "Kopai II",
+    "postal_code": "98751"
   },
   {
     "code": "9408032003",
     "district_code": "940803",
-    "name": "Woge"
+    "name": "Woge",
+    "postal_code": "98751"
   },
   {
     "code": "9408032004",
     "district_code": "940803",
-    "name": "Yewadide"
+    "name": "Yewadide",
+    "postal_code": "98751"
   },
   {
     "code": "9408032005",
     "district_code": "940803",
-    "name": "Mudetadi"
+    "name": "Mudetadi",
+    "postal_code": "98751"
   },
   {
     "code": "9408032006",
     "district_code": "940803",
-    "name": "Diita"
+    "name": "Diita",
+    "postal_code": "98751"
   }
 ]

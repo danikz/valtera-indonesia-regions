@@ -2,36 +2,43 @@
   {
     "code": "1272031001",
     "district_code": "127203",
-    "name": "Melayu"
+    "name": "Melayu",
+    "postal_code": "21144"
   },
   {
     "code": "1272031002",
     "district_code": "127203",
-    "name": "Martoba"
+    "name": "Martoba",
+    "postal_code": "21143"
   },
   {
     "code": "1272031003",
     "district_code": "127203",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "21145"
   },
   {
     "code": "1272031004",
     "district_code": "127203",
-    "name": "Sukadame"
+    "name": "Sukadame",
+    "postal_code": "21146"
   },
   {
     "code": "1272031005",
     "district_code": "127203",
-    "name": "Kahean"
+    "name": "Kahean",
+    "postal_code": "21147"
   },
   {
     "code": "1272031006",
     "district_code": "127203",
-    "name": "Sigulanggulang"
+    "name": "Sigulanggulang",
+    "postal_code": "21141"
   },
   {
     "code": "1272031007",
     "district_code": "127203",
-    "name": "Bane"
+    "name": "Bane",
+    "postal_code": "21142"
   }
 ]

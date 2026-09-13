@@ -2,41 +2,49 @@
   {
     "code": "5203112001",
     "district_code": "520311",
-    "name": "Pringga Jurang"
+    "name": "Pringga Jurang",
+    "postal_code": "83663"
   },
   {
     "code": "5203112002",
     "district_code": "520311",
-    "name": "Montong Betok"
+    "name": "Montong Betok",
+    "postal_code": "83663"
   },
   {
     "code": "5203112003",
     "district_code": "520311",
-    "name": "Kilang"
+    "name": "Kilang",
+    "postal_code": "83663"
   },
   {
     "code": "5203112004",
     "district_code": "520311",
-    "name": "Perian"
+    "name": "Perian",
+    "postal_code": "83663"
   },
   {
     "code": "5203112005",
     "district_code": "520311",
-    "name": "Jenggik Utara"
+    "name": "Jenggik Utara",
+    "postal_code": "83663"
   },
   {
     "code": "5203112006",
     "district_code": "520311",
-    "name": "Pringgajurang Utara"
+    "name": "Pringgajurang Utara",
+    "postal_code": "83663"
   },
   {
     "code": "5203112007",
     "district_code": "520311",
-    "name": "Pesanggrahan"
+    "name": "Pesanggrahan",
+    "postal_code": "83663"
   },
   {
     "code": "5203112008",
     "district_code": "520311",
-    "name": "Lendang Belo"
+    "name": "Lendang Belo",
+    "postal_code": "83663"
   }
 ]

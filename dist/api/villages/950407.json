@@ -2,66 +2,79 @@
   {
     "code": "9504072001",
     "district_code": "950407",
-    "name": "Wina"
+    "name": "Wina",
+    "postal_code": "99417"
   },
   {
     "code": "9504072002",
     "district_code": "950407",
-    "name": "Gualo"
+    "name": "Gualo",
+    "postal_code": "99417"
   },
   {
     "code": "9504072003",
     "district_code": "950407",
-    "name": "Bimbogul"
+    "name": "Bimbogul",
+    "postal_code": "99063"
   },
   {
     "code": "9504072004",
     "district_code": "950407",
-    "name": "Yugumengga"
+    "name": "Yugumengga",
+    "postal_code": "99063"
   },
   {
     "code": "9504072005",
     "district_code": "950407",
-    "name": "Wariru"
+    "name": "Wariru",
+    "postal_code": "99417"
   },
   {
     "code": "9504072006",
     "district_code": "950407",
-    "name": "Yugubuk"
+    "name": "Yugubuk",
+    "postal_code": "99063"
   },
   {
     "code": "9504072007",
     "district_code": "950407",
-    "name": "Akima"
+    "name": "Akima",
+    "postal_code": "99417"
   },
   {
     "code": "9504072008",
     "district_code": "950407",
-    "name": "Malela"
+    "name": "Malela",
+    "postal_code": "99417"
   },
   {
     "code": "9504072009",
     "district_code": "950407",
-    "name": "Nakwil"
+    "name": "Nakwil",
+    "postal_code": "99417"
   },
   {
     "code": "9504072010",
     "district_code": "950407",
-    "name": "Finai"
+    "name": "Finai",
+    "postal_code": "99417"
   },
   {
     "code": "9504072011",
     "district_code": "950407",
-    "name": "Holandia"
+    "name": "Holandia",
+    "postal_code": "99417"
   },
   {
     "code": "9504072012",
     "district_code": "950407",
-    "name": "Tawi"
+    "name": "Tawi",
+    "postal_code": "99417"
   },
   {
     "code": "9504072013",
     "district_code": "950407",
-    "name": "Yogweme"
+    "name": "Yogweme",
+    "postal_code": "99417"
   }
 ]

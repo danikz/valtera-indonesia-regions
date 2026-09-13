@@ -2,31 +2,37 @@
   {
     "code": "1271111001",
     "district_code": "127111",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "20146"
   },
   {
     "code": "1271111002",
     "district_code": "127111",
-    "name": "Titi Kuning"
+    "name": "Titi Kuning",
+    "postal_code": "20146"
   },
   {
     "code": "1271111003",
     "district_code": "127111",
-    "name": "Kedai Durian"
+    "name": "Kedai Durian",
+    "postal_code": "20145"
   },
   {
     "code": "1271111004",
     "district_code": "127111",
-    "name": "Pangkalan Mansur"
+    "name": "Pangkalan Mansur",
+    "postal_code": "20143"
   },
   {
     "code": "1271111005",
     "district_code": "127111",
-    "name": "Gedung Johor"
+    "name": "Gedung Johor",
+    "postal_code": "20144"
   },
   {
     "code": "1271111006",
     "district_code": "127111",
-    "name": "Kwala Bekala"
+    "name": "Kwala Bekala",
+    "postal_code": "20142"
   }
 ]

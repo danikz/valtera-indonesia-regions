@@ -2,41 +2,49 @@
   {
     "code": "1404041001",
     "district_code": "140404",
-    "name": "Tembilahan Kota"
+    "name": "Tembilahan Kota",
+    "postal_code": "29212"
   },
   {
     "code": "1404041002",
     "district_code": "140404",
-    "name": "Tembilahan Hilir"
+    "name": "Tembilahan Hilir",
+    "postal_code": "29211"
   },
   {
     "code": "1404041003",
     "district_code": "140404",
-    "name": "Seberang Tembilahan"
+    "name": "Seberang Tembilahan",
+    "postal_code": "29212"
   },
   {
     "code": "1404041004",
     "district_code": "140404",
-    "name": "Sungaiperak"
+    "name": "Sungaiperak",
+    "postal_code": "29212"
   },
   {
     "code": "1404041005",
     "district_code": "140404",
-    "name": "Sungaiberingin"
+    "name": "Sungaiberingin",
+    "postal_code": "29214"
   },
   {
     "code": "1404041006",
     "district_code": "140404",
-    "name": "Pekan Arba"
+    "name": "Pekan Arba",
+    "postal_code": "29212"
   },
   {
     "code": "1404041007",
     "district_code": "140404",
-    "name": "Seberang Tembilahan Barat"
+    "name": "Seberang Tembilahan Barat",
+    "postal_code": "29212"
   },
   {
     "code": "1404041008",
     "district_code": "140404",
-    "name": "Seberang Tembilahan Selatan"
+    "name": "Seberang Tembilahan Selatan",
+    "postal_code": "29212"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "1302112001",
     "district_code": "130211",
-    "name": "Sumani"
+    "name": "Sumani",
+    "postal_code": "27356"
   },
   {
     "code": "1302112002",
     "district_code": "130211",
-    "name": "Tikalak"
+    "name": "Tikalak",
+    "postal_code": "27356"
   },
   {
     "code": "1302112003",
     "district_code": "130211",
-    "name": "Koto Sani"
+    "name": "Koto Sani",
+    "postal_code": "27356"
   },
   {
     "code": "1302112004",
     "district_code": "130211",
-    "name": "Singkarak"
+    "name": "Singkarak",
+    "postal_code": "27356"
   },
   {
     "code": "1302112005",
     "district_code": "130211",
-    "name": "Aripan"
+    "name": "Aripan",
+    "postal_code": "27356"
   },
   {
     "code": "1302112006",
     "district_code": "130211",
-    "name": "Kacang"
+    "name": "Kacang",
+    "postal_code": "27356"
   },
   {
     "code": "1302112007",
     "district_code": "130211",
-    "name": "Tanjung Alai"
+    "name": "Tanjung Alai",
+    "postal_code": "27356"
   },
   {
     "code": "1302112008",
     "district_code": "130211",
-    "name": "Saniangbaka"
+    "name": "Saniangbaka",
+    "postal_code": "27356"
   }
 ]

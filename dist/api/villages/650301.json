@@ -2,21 +2,25 @@
   {
     "code": "6503012001",
     "district_code": "650301",
-    "name": "Tanjungkarang"
+    "name": "Tanjungkarang",
+    "postal_code": "77483"
   },
   {
     "code": "6503012002",
     "district_code": "650301",
-    "name": "Balansiku"
+    "name": "Balansiku",
+    "postal_code": "77483"
   },
   {
     "code": "6503012003",
     "district_code": "650301",
-    "name": "Sungai Manurung"
+    "name": "Sungai Manurung",
+    "postal_code": "77483"
   },
   {
     "code": "6503012004",
     "district_code": "650301",
-    "name": "Padaidi"
+    "name": "Padaidi",
+    "postal_code": "77483"
   }
 ]

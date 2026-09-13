@@ -2,26 +2,31 @@
   {
     "code": "1572011001",
     "district_code": "157201",
-    "name": "Sungai Penuh"
+    "name": "Sungai Penuh",
+    "postal_code": "37111"
   },
   {
     "code": "1572011003",
     "district_code": "157201",
-    "name": "Pasar Sungai Penuh"
+    "name": "Pasar Sungai Penuh",
+    "postal_code": "37113"
   },
   {
     "code": "1572012004",
     "district_code": "157201",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "37111"
   },
   {
     "code": "1572012006",
     "district_code": "157201",
-    "name": "Gedang"
+    "name": "Gedang",
+    "postal_code": "37111"
   },
   {
     "code": "1572012014",
     "district_code": "157201",
-    "name": "Amar Sakti"
+    "name": "Amar Sakti",
+    "postal_code": "37111"
   }
 ]

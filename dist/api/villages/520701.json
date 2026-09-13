@@ -2,21 +2,25 @@
   {
     "code": "5207012001",
     "district_code": "520701",
-    "name": "Goa"
+    "name": "Goa",
+    "postal_code": "84456"
   },
   {
     "code": "5207012002",
     "district_code": "520701",
-    "name": "Belo"
+    "name": "Belo",
+    "postal_code": "84456"
   },
   {
     "code": "5207012003",
     "district_code": "520701",
-    "name": "Beru"
+    "name": "Beru",
+    "postal_code": "84456"
   },
   {
     "code": "5207012009",
     "district_code": "520701",
-    "name": "Dasan Anyar"
+    "name": "Dasan Anyar",
+    "postal_code": "84456"
   }
 ]

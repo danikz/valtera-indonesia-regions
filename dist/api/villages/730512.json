@@ -2,31 +2,37 @@
   {
     "code": "7305122001",
     "district_code": "730512",
-    "name": "Panyangkalang"
+    "name": "Panyangkalang",
+    "postal_code": "92261"
   },
   {
     "code": "7305122002",
     "district_code": "730512",
-    "name": "Bontoparang"
+    "name": "Bontoparang",
+    "postal_code": "92261"
   },
   {
     "code": "7305122003",
     "district_code": "730512",
-    "name": "Pattopakang"
+    "name": "Pattopakang",
+    "postal_code": "92261"
   },
   {
     "code": "7305122004",
     "district_code": "730512",
-    "name": "Cikoang"
+    "name": "Cikoang",
+    "postal_code": "92261"
   },
   {
     "code": "7305122005",
     "district_code": "730512",
-    "name": "Punaga"
+    "name": "Punaga",
+    "postal_code": "92261"
   },
   {
     "code": "7305122006",
     "district_code": "730512",
-    "name": "Laikang"
+    "name": "Laikang",
+    "postal_code": "92261"
   }
 ]

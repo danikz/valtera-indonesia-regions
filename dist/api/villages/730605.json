@@ -2,36 +2,43 @@
   {
     "code": "7306051001",
     "district_code": "730605",
-    "name": "Lanna"
+    "name": "Lanna",
+    "postal_code": "92179"
   },
   {
     "code": "7306051002",
     "district_code": "730605",
-    "name": "Bontoparang"
+    "name": "Bontoparang",
+    "postal_code": "92179"
   },
   {
     "code": "7306052006",
     "district_code": "730605",
-    "name": "Lonjoboko"
+    "name": "Lonjoboko",
+    "postal_code": "92179"
   },
   {
     "code": "7306052008",
     "district_code": "730605",
-    "name": "Borisallo"
+    "name": "Borisallo",
+    "postal_code": "92179"
   },
   {
     "code": "7306052009",
     "district_code": "730605",
-    "name": "Belapunranga"
+    "name": "Belapunranga",
+    "postal_code": "92179"
   },
   {
     "code": "7306052010",
     "district_code": "730605",
-    "name": "Bontokassi"
+    "name": "Bontokassi",
+    "postal_code": "92179"
   },
   {
     "code": "7306052011",
     "district_code": "730605",
-    "name": "Belabori"
+    "name": "Belabori",
+    "postal_code": "92179"
   }
 ]

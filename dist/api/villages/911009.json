@@ -2,51 +2,61 @@
   {
     "code": "9110092001",
     "district_code": "911009",
-    "name": "Wamariri"
+    "name": "Wamariri",
+    "postal_code": "99374"
   },
   {
     "code": "9110092002",
     "district_code": "911009",
-    "name": "Aurimi"
+    "name": "Aurimi",
+    "postal_code": "99374"
   },
   {
     "code": "9110092003",
     "district_code": "911009",
-    "name": "Tamaja"
+    "name": "Tamaja",
+    "postal_code": "99374"
   },
   {
     "code": "9110092004",
     "district_code": "911009",
-    "name": "Airoran"
+    "name": "Airoran",
+    "postal_code": "99374"
   },
   {
     "code": "9110092005",
     "district_code": "911009",
-    "name": "Murara"
+    "name": "Murara",
+    "postal_code": "99374"
   },
   {
     "code": "9110092006",
     "district_code": "911009",
-    "name": "Sasawapece"
+    "name": "Sasawapece",
+    "postal_code": "99374"
   },
   {
     "code": "9110092011",
     "district_code": "911009",
-    "name": "Maniwa"
+    "name": "Maniwa",
+    "postal_code": "99374"
   },
   {
     "code": "9110092012",
     "district_code": "911009",
-    "name": "Surimania"
+    "name": "Surimania",
+    "postal_code": "99374"
   },
   {
     "code": "9110092013",
     "district_code": "911009",
-    "name": "Kwawitania"
+    "name": "Kwawitania",
+    "postal_code": "99374"
   },
   {
     "code": "9110092014",
     "district_code": "911009",
-    "name": "Bina"
+    "name": "Bina",
+    "postal_code": "99374"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "7406041002",
     "district_code": "740604",
-    "name": "Lameroro"
+    "name": "Lameroro",
+    "postal_code": "93771"
   },
   {
     "code": "7406041003",
     "district_code": "740604",
-    "name": "Lampopala"
+    "name": "Lampopala",
+    "postal_code": "93771"
   },
   {
     "code": "7406041004",
     "district_code": "740604",
-    "name": "Doule"
+    "name": "Doule",
+    "postal_code": "93771"
   },
   {
     "code": "7406041005",
     "district_code": "740604",
-    "name": "Kasipute"
+    "name": "Kasipute",
+    "postal_code": "93771"
   },
   {
     "code": "7406042001",
     "district_code": "740604",
-    "name": "Lantawonua"
+    "name": "Lantawonua",
+    "postal_code": "93771"
   }
 ]

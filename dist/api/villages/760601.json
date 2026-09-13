@@ -2,41 +2,49 @@
   {
     "code": "7606012001",
     "district_code": "760601",
-    "name": "Mahahe"
+    "name": "Mahahe",
+    "postal_code": "91463"
   },
   {
     "code": "7606012002",
     "district_code": "760601",
-    "name": "Salobaja"
+    "name": "Salobaja",
+    "postal_code": "91463"
   },
   {
     "code": "7606012003",
     "district_code": "760601",
-    "name": "Tobadak"
+    "name": "Tobadak",
+    "postal_code": "91463"
   },
   {
     "code": "7606012004",
     "district_code": "760601",
-    "name": "Palongaan"
+    "name": "Palongaan",
+    "postal_code": "91463"
   },
   {
     "code": "7606012005",
     "district_code": "760601",
-    "name": "Batu Parigi"
+    "name": "Batu Parigi",
+    "postal_code": "91463"
   },
   {
     "code": "7606012006",
     "district_code": "760601",
-    "name": "Bambadaru"
+    "name": "Bambadaru",
+    "postal_code": "91463"
   },
   {
     "code": "7606012007",
     "district_code": "760601",
-    "name": "Sejati"
+    "name": "Sejati",
+    "postal_code": "91463"
   },
   {
     "code": "7606012008",
     "district_code": "760601",
-    "name": "Saloadak"
+    "name": "Saloadak",
+    "postal_code": "91463"
   }
 ]

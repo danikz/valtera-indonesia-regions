@@ -2,36 +2,43 @@
   {
     "code": "3208032001",
     "district_code": "320803",
-    "name": "Tangkolo"
+    "name": "Tangkolo",
+    "postal_code": "45586"
   },
   {
     "code": "3208032002",
     "district_code": "320803",
-    "name": "Pamulihan"
+    "name": "Pamulihan",
+    "postal_code": "45586"
   },
   {
     "code": "3208032003",
     "district_code": "320803",
-    "name": "Subang"
+    "name": "Subang",
+    "postal_code": "45586"
   },
   {
     "code": "3208032004",
     "district_code": "320803",
-    "name": "Gunungaci"
+    "name": "Gunungaci",
+    "postal_code": "45586"
   },
   {
     "code": "3208032005",
     "district_code": "320803",
-    "name": "Situgede"
+    "name": "Situgede",
+    "postal_code": "45586"
   },
   {
     "code": "3208032006",
     "district_code": "320803",
-    "name": "Bangunjaya"
+    "name": "Bangunjaya",
+    "postal_code": "45586"
   },
   {
     "code": "3208032007",
     "district_code": "320803",
-    "name": "Jatisari"
+    "name": "Jatisari",
+    "postal_code": "45586"
   }
 ]

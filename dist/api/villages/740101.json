@@ -2,56 +2,67 @@
   {
     "code": "7401011001",
     "district_code": "740101",
-    "name": "19 Nopember"
+    "name": "19 Nopember",
+    "postal_code": "93560"
   },
   {
     "code": "7401011002",
     "district_code": "740101",
-    "name": "Wundulako"
+    "name": "Wundulako",
+    "postal_code": "93560"
   },
   {
     "code": "7401011003",
     "district_code": "740101",
-    "name": "Lamekongga"
+    "name": "Lamekongga",
+    "postal_code": "93560"
   },
   {
     "code": "7401011004",
     "district_code": "740101",
-    "name": "Kowioha"
+    "name": "Kowioha",
+    "postal_code": "93560"
   },
   {
     "code": "7401011005",
     "district_code": "740101",
-    "name": "Silea"
+    "name": "Silea",
+    "postal_code": "93560"
   },
   {
     "code": "7401011011",
     "district_code": "740101",
-    "name": "Ngapa"
+    "name": "Ngapa",
+    "postal_code": "93560"
   },
   {
     "code": "7401012006",
     "district_code": "740101",
-    "name": "Towua"
+    "name": "Towua",
+    "postal_code": "93560"
   },
   {
     "code": "7401012007",
     "district_code": "740101",
-    "name": "Bende"
+    "name": "Bende",
+    "postal_code": "93560"
   },
   {
     "code": "7401012008",
     "district_code": "740101",
-    "name": "Unamendaa"
+    "name": "Unamendaa",
+    "postal_code": "93560"
   },
   {
     "code": "7401012009",
     "district_code": "740101",
-    "name": "Tikonu"
+    "name": "Tikonu",
+    "postal_code": "93560"
   },
   {
     "code": "7401012010",
     "district_code": "740101",
-    "name": "Sabiona"
+    "name": "Sabiona",
+    "postal_code": "93560"
   }
 ]

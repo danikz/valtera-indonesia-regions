@@ -2,36 +2,43 @@
   {
     "code": "3205372001",
     "district_code": "320537",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "44167"
   },
   {
     "code": "3205372002",
     "district_code": "320537",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "44167"
   },
   {
     "code": "3205372003",
     "district_code": "320537",
-    "name": "Mekarmukti"
+    "name": "Mekarmukti",
+    "postal_code": "44167"
   },
   {
     "code": "3205372004",
     "district_code": "320537",
-    "name": "Mekarmulya"
+    "name": "Mekarmulya",
+    "postal_code": "44167"
   },
   {
     "code": "3205372005",
     "district_code": "320537",
-    "name": "Sukalaksana"
+    "name": "Sukalaksana",
+    "postal_code": "44167"
   },
   {
     "code": "3205372006",
     "district_code": "320537",
-    "name": "Selaawi"
+    "name": "Selaawi",
+    "postal_code": "44167"
   },
   {
     "code": "3205372007",
     "district_code": "320537",
-    "name": "Mekarwangi"
+    "name": "Mekarwangi",
+    "postal_code": "44167"
   }
 ]

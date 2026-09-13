@@ -2,36 +2,43 @@
   {
     "code": "9405042001",
     "district_code": "940504",
-    "name": "Doufo"
+    "name": "Doufo",
+    "postal_code": "98982"
   },
   {
     "code": "9405042002",
     "district_code": "940504",
-    "name": "Iratoi"
+    "name": "Iratoi",
+    "postal_code": "98982"
   },
   {
     "code": "9405042003",
     "district_code": "940504",
-    "name": "Lani"
+    "name": "Lani",
+    "postal_code": "98988"
   },
   {
     "code": "9405042004",
     "district_code": "940504",
-    "name": "Wahuka"
+    "name": "Wahuka",
+    "postal_code": "98988"
   },
   {
     "code": "9405042005",
     "district_code": "940504",
-    "name": "Sibita"
+    "name": "Sibita",
+    "postal_code": "98988"
   },
   {
     "code": "9405042006",
     "district_code": "940504",
-    "name": "Rawa"
+    "name": "Rawa",
+    "postal_code": "98982"
   },
   {
     "code": "9405042007",
     "district_code": "940504",
-    "name": "Jirei"
+    "name": "Jirei",
+    "postal_code": "98982"
   }
 ]

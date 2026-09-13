@@ -2,46 +2,55 @@
   {
     "code": "6104161001",
     "district_code": "610416",
-    "name": "Kantor"
+    "name": "Kantor",
+    "postal_code": "78811"
   },
   {
     "code": "6104161002",
     "district_code": "610416",
-    "name": "Tengah"
+    "name": "Tengah",
+    "postal_code": "78812"
   },
   {
     "code": "6104161003",
     "district_code": "610416",
-    "name": "Mulia Baru"
+    "name": "Mulia Baru",
+    "postal_code": "78813"
   },
   {
     "code": "6104161004",
     "district_code": "610416",
-    "name": "Sampit"
+    "name": "Sampit",
+    "postal_code": "78813"
   },
   {
     "code": "6104161005",
     "district_code": "610416",
-    "name": "Suka Harja"
+    "name": "Suka Harja",
+    "postal_code": "78813"
   },
   {
     "code": "6104162006",
     "district_code": "610416",
-    "name": "Suka Bangun"
+    "name": "Suka Bangun",
+    "postal_code": "78813"
   },
   {
     "code": "6104162007",
     "district_code": "610416",
-    "name": "Kali Nilam"
+    "name": "Kali Nilam",
+    "postal_code": "78813"
   },
   {
     "code": "6104162008",
     "district_code": "610416",
-    "name": "Paya Kumang"
+    "name": "Paya Kumang",
+    "postal_code": "78813"
   },
   {
     "code": "6104162009",
     "district_code": "610416",
-    "name": "Suka Bangun Dalam"
+    "name": "Suka Bangun Dalam",
+    "postal_code": "78813"
   }
 ]

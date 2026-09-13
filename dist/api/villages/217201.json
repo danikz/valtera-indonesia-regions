@@ -2,21 +2,25 @@
   {
     "code": "2172011001",
     "district_code": "217201",
-    "name": "Tanjung Pinang Barat"
+    "name": "Tanjung Pinang Barat",
+    "postal_code": "29113"
   },
   {
     "code": "2172011002",
     "district_code": "217201",
-    "name": "Kemboja"
+    "name": "Kemboja",
+    "postal_code": "29112"
   },
   {
     "code": "2172011003",
     "district_code": "217201",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "29113"
   },
   {
     "code": "2172011004",
     "district_code": "217201",
-    "name": "Bukit Cermin"
+    "name": "Bukit Cermin",
+    "postal_code": "29111"
   }
 ]

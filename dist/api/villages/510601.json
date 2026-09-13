@@ -2,46 +2,55 @@
   {
     "code": "5106012001",
     "district_code": "510601",
-    "name": "Apuan"
+    "name": "Apuan",
+    "postal_code": "80661"
   },
   {
     "code": "5106012002",
     "district_code": "510601",
-    "name": "Demulih"
+    "name": "Demulih",
+    "postal_code": "80661"
   },
   {
     "code": "5106012003",
     "district_code": "510601",
-    "name": "Abuan"
+    "name": "Abuan",
+    "postal_code": "80661"
   },
   {
     "code": "5106012004",
     "district_code": "510601",
-    "name": "Susut"
+    "name": "Susut",
+    "postal_code": "80661"
   },
   {
     "code": "5106012005",
     "district_code": "510601",
-    "name": "Sulahan"
+    "name": "Sulahan",
+    "postal_code": "80661"
   },
   {
     "code": "5106012006",
     "district_code": "510601",
-    "name": "Penglumbaran"
+    "name": "Penglumbaran",
+    "postal_code": "80661"
   },
   {
     "code": "5106012007",
     "district_code": "510601",
-    "name": "Tiga"
+    "name": "Tiga",
+    "postal_code": "80661"
   },
   {
     "code": "5106012008",
     "district_code": "510601",
-    "name": "Selat"
+    "name": "Selat",
+    "postal_code": "80661"
   },
   {
     "code": "5106012009",
     "district_code": "510601",
-    "name": "Pengiangan"
+    "name": "Pengiangan",
+    "postal_code": "80661"
   }
 ]

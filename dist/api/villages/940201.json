@@ -2,56 +2,67 @@
   {
     "code": "9402011010",
     "district_code": "940201",
-    "name": "Wuyukwi"
+    "name": "Wuyukwi",
+    "postal_code": "98974"
   },
   {
     "code": "9402011011",
     "district_code": "940201",
-    "name": "Pagaleme"
+    "name": "Pagaleme",
+    "postal_code": "98974"
   },
   {
     "code": "9402012001",
     "district_code": "940201",
-    "name": "Pruleme"
+    "name": "Pruleme",
+    "postal_code": "98915"
   },
   {
     "code": "9402012002",
     "district_code": "940201",
-    "name": "Wuyukwi"
+    "name": "Wuyukwi",
+    "postal_code": "98974"
   },
   {
     "code": "9402012003",
     "district_code": "940201",
-    "name": "Wuyuneri"
+    "name": "Wuyuneri",
+    "postal_code": "98915"
   },
   {
     "code": "9402012004",
     "district_code": "940201",
-    "name": "Pepera"
+    "name": "Pepera",
+    "postal_code": "98974"
   },
   {
     "code": "9402012005",
     "district_code": "940201",
-    "name": "Muliagambut"
+    "name": "Muliagambut",
+    "postal_code": "98974"
   },
   {
     "code": "9402012006",
     "district_code": "940201",
-    "name": "Trikora"
+    "name": "Trikora",
+    "postal_code": "98974"
   },
   {
     "code": "9402012007",
     "district_code": "940201",
-    "name": "Towogi"
+    "name": "Towogi",
+    "postal_code": "98974"
   },
   {
     "code": "9402012008",
     "district_code": "940201",
-    "name": "Birak Ambut"
+    "name": "Birak Ambut",
+    "postal_code": "98974"
   },
   {
     "code": "9402012009",
     "district_code": "940201",
-    "name": "Usir"
+    "name": "Usir",
+    "postal_code": "98974"
   }
 ]

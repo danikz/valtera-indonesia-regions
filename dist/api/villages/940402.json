@@ -2,41 +2,49 @@
   {
     "code": "9404022001",
     "district_code": "940402",
-    "name": "Kiliarma"
+    "name": "Kiliarma",
+    "postal_code": "99964"
   },
   {
     "code": "9404022002",
     "district_code": "940402",
-    "name": "Amungun"
+    "name": "Amungun",
+    "postal_code": "99964"
   },
   {
     "code": "9404022003",
     "district_code": "940402",
-    "name": "Aramsolki"
+    "name": "Aramsolki",
+    "postal_code": "99964"
   },
   {
     "code": "9404022004",
     "district_code": "940402",
-    "name": "Fakafuku"
+    "name": "Fakafuku",
+    "postal_code": "99964"
   },
   {
     "code": "9404022005",
     "district_code": "940402",
-    "name": "Masasimamo"
+    "name": "Masasimamo",
+    "postal_code": "99964"
   },
   {
     "code": "9404022006",
     "district_code": "940402",
-    "name": "Emogoma"
+    "name": "Emogoma",
+    "postal_code": "99964"
   },
   {
     "code": "9404022007",
     "district_code": "940402",
-    "name": "Emkoma Halama"
+    "name": "Emkoma Halama",
+    "postal_code": "99964"
   },
   {
     "code": "9404022008",
     "district_code": "940402",
-    "name": "Hinat Untung"
+    "name": "Hinat Untung",
+    "postal_code": "99964"
   }
 ]

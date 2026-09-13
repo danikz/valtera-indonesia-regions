@@ -2,56 +2,67 @@
   {
     "code": "1803112001",
     "district_code": "180311",
-    "name": "Gunung Besar"
+    "name": "Gunung Besar",
+    "postal_code": "34584"
   },
   {
     "code": "1803112002",
     "district_code": "180311",
-    "name": "Kinciran"
+    "name": "Kinciran",
+    "postal_code": "34584"
   },
   {
     "code": "1803112003",
     "district_code": "180311",
-    "name": "Negla Sari"
+    "name": "Negla Sari",
+    "postal_code": "34584"
   },
   {
     "code": "1803112004",
     "district_code": "180311",
-    "name": "Kedaton"
+    "name": "Kedaton",
+    "postal_code": "34584"
   },
   {
     "code": "1803112005",
     "district_code": "180311",
-    "name": "Sri Bandung"
+    "name": "Sri Bandung",
+    "postal_code": "34584"
   },
   {
     "code": "1803112006",
     "district_code": "180311",
-    "name": "Subik"
+    "name": "Subik",
+    "postal_code": "34584"
   },
   {
     "code": "1803112007",
     "district_code": "180311",
-    "name": "Gunung Sadar"
+    "name": "Gunung Sadar",
+    "postal_code": "34584"
   },
   {
     "code": "1803112008",
     "district_code": "180311",
-    "name": "Gunung Gijul"
+    "name": "Gunung Gijul",
+    "postal_code": "34584"
   },
   {
     "code": "1803112016",
     "district_code": "180311",
-    "name": "Pekurun Barat"
+    "name": "Pekurun Barat",
+    "postal_code": "34584"
   },
   {
     "code": "1803112017",
     "district_code": "180311",
-    "name": "Pekurun Selatan"
+    "name": "Pekurun Selatan",
+    "postal_code": "34584"
   },
   {
     "code": "1803112018",
     "district_code": "180311",
-    "name": "Pekurun Utara"
+    "name": "Pekurun Utara",
+    "postal_code": "34584"
   }
 ]

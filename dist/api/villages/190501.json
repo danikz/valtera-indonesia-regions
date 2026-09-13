@@ -2,46 +2,55 @@
   {
     "code": "1905011001",
     "district_code": "190501",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "33311"
   },
   {
     "code": "1905011002",
     "district_code": "190501",
-    "name": "Sungai Daeng"
+    "name": "Sungai Daeng",
+    "postal_code": "33313"
   },
   {
     "code": "1905011003",
     "district_code": "190501",
-    "name": "Sungai Baru"
+    "name": "Sungai Baru",
+    "postal_code": "33312"
   },
   {
     "code": "1905011008",
     "district_code": "190501",
-    "name": "Keranggan"
+    "name": "Keranggan",
+    "postal_code": "33311"
   },
   {
     "code": "1905011009",
     "district_code": "190501",
-    "name": "Menjelang"
+    "name": "Menjelang",
+    "postal_code": "33311"
   },
   {
     "code": "1905012004",
     "district_code": "190501",
-    "name": "Air Putih"
+    "name": "Air Putih",
+    "postal_code": "33351"
   },
   {
     "code": "1905012005",
     "district_code": "190501",
-    "name": "Air Belo"
+    "name": "Air Belo",
+    "postal_code": "33351"
   },
   {
     "code": "1905012006",
     "district_code": "190501",
-    "name": "Belo Laut"
+    "name": "Belo Laut",
+    "postal_code": "33351"
   },
   {
     "code": "1905012007",
     "district_code": "190501",
-    "name": "Air Limau"
+    "name": "Air Limau",
+    "postal_code": "33351"
   }
 ]

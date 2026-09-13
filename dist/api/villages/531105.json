@@ -2,51 +2,61 @@
   {
     "code": "5311052001",
     "district_code": "531105",
-    "name": "Billa"
+    "name": "Billa",
+    "postal_code": "87160"
   },
   {
     "code": "5311052002",
     "district_code": "531105",
-    "name": "Karita"
+    "name": "Karita",
+    "postal_code": "87160"
   },
   {
     "code": "5311052003",
     "district_code": "531105",
-    "name": "Kuki Talu"
+    "name": "Kuki Talu",
+    "postal_code": "87160"
   },
   {
     "code": "5311052004",
     "district_code": "531105",
-    "name": "Tapil"
+    "name": "Tapil",
+    "postal_code": "87160"
   },
   {
     "code": "5311052005",
     "district_code": "531105",
-    "name": "Tarimbang"
+    "name": "Tarimbang",
+    "postal_code": "87160"
   },
   {
     "code": "5311052006",
     "district_code": "531105",
-    "name": "Waikanabu"
+    "name": "Waikanabu",
+    "postal_code": "87160"
   },
   {
     "code": "5311052007",
     "district_code": "531105",
-    "name": "Pindu Hurani"
+    "name": "Pindu Hurani",
+    "postal_code": "87160"
   },
   {
     "code": "5311052008",
     "district_code": "531105",
-    "name": "Praing Kareha"
+    "name": "Praing Kareha",
+    "postal_code": "87160"
   },
   {
     "code": "5311052009",
     "district_code": "531105",
-    "name": "Wudi Pandak"
+    "name": "Wudi Pandak",
+    "postal_code": "87160"
   },
   {
     "code": "5311052011",
     "district_code": "531105",
-    "name": "Bangga Watu"
+    "name": "Bangga Watu",
+    "postal_code": "87160"
   }
 ]

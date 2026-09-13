@@ -2,31 +2,37 @@
   {
     "code": "1215082001",
     "district_code": "121508",
-    "name": "Siempat Rube II"
+    "name": "Siempat Rube II",
+    "postal_code": "22274"
   },
   {
     "code": "1215082002",
     "district_code": "121508",
-    "name": "Siempat Rube I"
+    "name": "Siempat Rube I",
+    "postal_code": "22274"
   },
   {
     "code": "1215082003",
     "district_code": "121508",
-    "name": "Mungkur"
+    "name": "Mungkur",
+    "postal_code": "22274"
   },
   {
     "code": "1215082004",
     "district_code": "121508",
-    "name": "Siempat Rube IV"
+    "name": "Siempat Rube IV",
+    "postal_code": "22274"
   },
   {
     "code": "1215082005",
     "district_code": "121508",
-    "name": "Kuta Jungak"
+    "name": "Kuta Jungak",
+    "postal_code": "22274"
   },
   {
     "code": "1215082006",
     "district_code": "121508",
-    "name": "Traju"
+    "name": "Traju",
+    "postal_code": "22274"
   }
 ]

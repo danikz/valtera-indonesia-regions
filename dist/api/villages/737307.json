@@ -2,21 +2,25 @@
   {
     "code": "7373071001",
     "district_code": "737307",
-    "name": "Mawa"
+    "name": "Mawa",
+    "postal_code": "91925"
   },
   {
     "code": "7373071002",
     "district_code": "737307",
-    "name": "Purangi"
+    "name": "Purangi",
+    "postal_code": "91959"
   },
   {
     "code": "7373071003",
     "district_code": "737307",
-    "name": "Peta"
+    "name": "Peta",
+    "postal_code": "91959"
   },
   {
     "code": "7373071004",
     "district_code": "737307",
-    "name": "Sendana"
+    "name": "Sendana",
+    "postal_code": "91959"
   }
 ]

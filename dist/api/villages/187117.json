@@ -2,31 +2,37 @@
   {
     "code": "1871171001",
     "district_code": "187117",
-    "name": "Enggal"
+    "name": "Enggal",
+    "postal_code": "35118"
   },
   {
     "code": "1871171002",
     "district_code": "187117",
-    "name": "Pelita"
+    "name": "Pelita",
+    "postal_code": "35117"
   },
   {
     "code": "1871171003",
     "district_code": "187117",
-    "name": "Tanjungkarang"
+    "name": "Tanjungkarang",
+    "postal_code": "35111"
   },
   {
     "code": "1871171004",
     "district_code": "187117",
-    "name": "Gunungsari"
+    "name": "Gunungsari",
+    "postal_code": "35111"
   },
   {
     "code": "1871171005",
     "district_code": "187117",
-    "name": "Rawalaut"
+    "name": "Rawalaut",
+    "postal_code": "35127"
   },
   {
     "code": "1871171006",
     "district_code": "187117",
-    "name": "Pahoman"
+    "name": "Pahoman",
+    "postal_code": "35213"
   }
 ]

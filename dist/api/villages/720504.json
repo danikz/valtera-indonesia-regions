@@ -2,51 +2,61 @@
   {
     "code": "7205042001",
     "district_code": "720504",
-    "name": "Lonu"
+    "name": "Lonu",
+    "postal_code": "94567"
   },
   {
     "code": "7205042002",
     "district_code": "720504",
-    "name": "Tamit"
+    "name": "Tamit",
+    "postal_code": "94567"
   },
   {
     "code": "7205042003",
     "district_code": "720504",
-    "name": "Botugolu"
+    "name": "Botugolu",
+    "postal_code": "94567"
   },
   {
     "code": "7205042004",
     "district_code": "720504",
-    "name": "Bunobogu"
+    "name": "Bunobogu",
+    "postal_code": "94567"
   },
   {
     "code": "7205042005",
     "district_code": "720504",
-    "name": "Konamukan"
+    "name": "Konamukan",
+    "postal_code": "94567"
   },
   {
     "code": "7205042006",
     "district_code": "720504",
-    "name": "Ponipingan"
+    "name": "Ponipingan",
+    "postal_code": "94567"
   },
   {
     "code": "7205042007",
     "district_code": "720504",
-    "name": "Inalatan"
+    "name": "Inalatan",
+    "postal_code": "94567"
   },
   {
     "code": "7205042015",
     "district_code": "720504",
-    "name": "Domag Mekar"
+    "name": "Domag Mekar",
+    "postal_code": "94567"
   },
   {
     "code": "7205042016",
     "district_code": "720504",
-    "name": "Bunobogu Selatan"
+    "name": "Bunobogu Selatan",
+    "postal_code": "94567"
   },
   {
     "code": "7205042017",
     "district_code": "720504",
-    "name": "Pokobo"
+    "name": "Pokobo",
+    "postal_code": "94567"
   }
 ]

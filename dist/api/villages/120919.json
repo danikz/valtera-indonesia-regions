@@ -2,66 +2,79 @@
   {
     "code": "1209191001",
     "district_code": "120919",
-    "name": "Bunut"
+    "name": "Bunut",
+    "postal_code": "21211"
   },
   {
     "code": "1209191002",
     "district_code": "120919",
-    "name": "Bunut Barat"
+    "name": "Bunut Barat",
+    "postal_code": "21211"
   },
   {
     "code": "1209191003",
     "district_code": "120919",
-    "name": "Dadimulyo"
+    "name": "Dadimulyo",
+    "postal_code": "21212"
   },
   {
     "code": "1209191004",
     "district_code": "120919",
-    "name": "Kisaran Barat"
+    "name": "Kisaran Barat",
+    "postal_code": "21214"
   },
   {
     "code": "1209191005",
     "district_code": "120919",
-    "name": "Kisaran Baru"
+    "name": "Kisaran Baru",
+    "postal_code": "21216"
   },
   {
     "code": "1209191006",
     "district_code": "120919",
-    "name": "Kisaran Kota"
+    "name": "Kisaran Kota",
+    "postal_code": "21215"
   },
   {
     "code": "1209191007",
     "district_code": "120919",
-    "name": "Mekar Baru"
+    "name": "Mekar Baru",
+    "postal_code": "21216"
   },
   {
     "code": "1209191008",
     "district_code": "120919",
-    "name": "Sei Renggas"
+    "name": "Sei Renggas",
+    "postal_code": "21213"
   },
   {
     "code": "1209191009",
     "district_code": "120919",
-    "name": "Sendang Sari"
+    "name": "Sendang Sari",
+    "postal_code": "21218"
   },
   {
     "code": "1209191010",
     "district_code": "120919",
-    "name": "Sidodadi"
+    "name": "Sidodadi",
+    "postal_code": "21212"
   },
   {
     "code": "1209191011",
     "district_code": "120919",
-    "name": "Sidomukti"
+    "name": "Sidomukti",
+    "postal_code": "21217"
   },
   {
     "code": "1209191012",
     "district_code": "120919",
-    "name": "Tebing Kisaran"
+    "name": "Tebing Kisaran",
+    "postal_code": "21215"
   },
   {
     "code": "1209191013",
     "district_code": "120919",
-    "name": "Tegal Sari"
+    "name": "Tegal Sari",
+    "postal_code": "21218"
   }
 ]

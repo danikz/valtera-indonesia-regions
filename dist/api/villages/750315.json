@@ -2,51 +2,61 @@
   {
     "code": "7503152001",
     "district_code": "750315",
-    "name": "Ayula Selatan"
+    "name": "Ayula Selatan",
+    "postal_code": "96541"
   },
   {
     "code": "7503152002",
     "district_code": "750315",
-    "name": "Huntu Utara"
+    "name": "Huntu Utara",
+    "postal_code": "96541"
   },
   {
     "code": "7503152003",
     "district_code": "750315",
-    "name": "Ayula Utara"
+    "name": "Ayula Utara",
+    "postal_code": "96541"
   },
   {
     "code": "7503152004",
     "district_code": "750315",
-    "name": "Huntu Selatan"
+    "name": "Huntu Selatan",
+    "postal_code": "96541"
   },
   {
     "code": "7503152006",
     "district_code": "750315",
-    "name": "Ayula Tilango"
+    "name": "Ayula Tilango",
+    "postal_code": "96541"
   },
   {
     "code": "7503152007",
     "district_code": "750315",
-    "name": "Ayula Timur"
+    "name": "Ayula Timur",
+    "postal_code": "96541"
   },
   {
     "code": "7503152008",
     "district_code": "750315",
-    "name": "Lamahu"
+    "name": "Lamahu",
+    "postal_code": "96541"
   },
   {
     "code": "7503152009",
     "district_code": "750315",
-    "name": "Tinelo Ayula"
+    "name": "Tinelo Ayula",
+    "postal_code": "96541"
   },
   {
     "code": "7503152010",
     "district_code": "750315",
-    "name": "Sejahtera"
+    "name": "Sejahtera",
+    "postal_code": "96541"
   },
   {
     "code": "7503152011",
     "district_code": "750315",
-    "name": "Huntu Barat"
+    "name": "Huntu Barat",
+    "postal_code": "96541"
   }
 ]

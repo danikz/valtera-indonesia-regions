@@ -2,31 +2,37 @@
   {
     "code": "3512092001",
     "district_code": "351209",
-    "name": "Tanjung Glugur"
+    "name": "Tanjung Glugur",
+    "postal_code": "68363"
   },
   {
     "code": "3512092002",
     "district_code": "351209",
-    "name": "Mangaran"
+    "name": "Mangaran",
+    "postal_code": "68363"
   },
   {
     "code": "3512092003",
     "district_code": "351209",
-    "name": "Tanjung Kamal"
+    "name": "Tanjung Kamal",
+    "postal_code": "68363"
   },
   {
     "code": "3512092004",
     "district_code": "351209",
-    "name": "Semiring"
+    "name": "Semiring",
+    "postal_code": "68363"
   },
   {
     "code": "3512092005",
     "district_code": "351209",
-    "name": "Tanjung Pecinan"
+    "name": "Tanjung Pecinan",
+    "postal_code": "68363"
   },
   {
     "code": "3512092006",
     "district_code": "351209",
-    "name": "Trebungan"
+    "name": "Trebungan",
+    "postal_code": "68363"
   }
 ]

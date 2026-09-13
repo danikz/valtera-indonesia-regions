@@ -2,21 +2,25 @@
   {
     "code": "3402092001",
     "district_code": "340209",
-    "name": "Patalan"
+    "name": "Patalan",
+    "postal_code": "55781"
   },
   {
     "code": "3402092002",
     "district_code": "340209",
-    "name": "Canden"
+    "name": "Canden",
+    "postal_code": "55781"
   },
   {
     "code": "3402092003",
     "district_code": "340209",
-    "name": "Sumberagung"
+    "name": "Sumberagung",
+    "postal_code": "55781"
   },
   {
     "code": "3402092004",
     "district_code": "340209",
-    "name": "Trimulyo"
+    "name": "Trimulyo",
+    "postal_code": "55781"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "9405012001",
     "district_code": "940501",
-    "name": "Kago"
+    "name": "Kago",
+    "postal_code": "98981"
   },
   {
     "code": "9405012002",
     "district_code": "940501",
-    "name": "Kimak"
+    "name": "Kimak",
+    "postal_code": "98965"
   },
   {
     "code": "9405012003",
     "district_code": "940501",
-    "name": "Wuloni"
+    "name": "Wuloni",
+    "postal_code": "98981"
   },
   {
     "code": "9405012004",
     "district_code": "940501",
-    "name": "Nipuralome"
+    "name": "Nipuralome",
+    "postal_code": "98981"
   },
   {
     "code": "9405012005",
     "district_code": "940501",
-    "name": "Tagaloa"
+    "name": "Tagaloa",
+    "postal_code": "98981"
   },
   {
     "code": "9405012006",
     "district_code": "940501",
-    "name": "Jenggerpaga"
+    "name": "Jenggerpaga",
+    "postal_code": "98965"
   },
   {
     "code": "9405012007",
     "district_code": "940501",
-    "name": "kibogolome"
+    "name": "kibogolome",
+    "postal_code": "98981"
   },
   {
     "code": "9405012008",
     "district_code": "940501",
-    "name": "Ilambet"
+    "name": "Ilambet",
+    "postal_code": "98981"
   },
   {
     "code": "9405012009",
     "district_code": "940501",
-    "name": "Kalebut"
+    "name": "Kalebut",
+    "postal_code": "98981"
   }
 ]

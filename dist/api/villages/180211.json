@@ -2,61 +2,73 @@
   {
     "code": "1802112001",
     "district_code": "180211",
-    "name": "Fajar Mataram"
+    "name": "Fajar Mataram",
+    "postal_code": "34164"
   },
   {
     "code": "1802112002",
     "district_code": "180211",
-    "name": "Rejosari Mataram"
+    "name": "Rejosari Mataram",
+    "postal_code": "34164"
   },
   {
     "code": "1802112003",
     "district_code": "180211",
-    "name": "Qurnia Mataram"
+    "name": "Qurnia Mataram",
+    "postal_code": "34164"
   },
   {
     "code": "1802112004",
     "district_code": "180211",
-    "name": "Trimulyo Mataram"
+    "name": "Trimulyo Mataram",
+    "postal_code": "34164"
   },
   {
     "code": "1802112005",
     "district_code": "180211",
-    "name": "Utama Jaya Mataram"
+    "name": "Utama Jaya Mataram",
+    "postal_code": "34164"
   },
   {
     "code": "1802112006",
     "district_code": "180211",
-    "name": "Sumber Agung Mataram"
+    "name": "Sumber Agung Mataram",
+    "postal_code": "34164"
   },
   {
     "code": "1802112007",
     "district_code": "180211",
-    "name": "Varia Agung Mataram"
+    "name": "Varia Agung Mataram",
+    "postal_code": "34164"
   },
   {
     "code": "1802112008",
     "district_code": "180211",
-    "name": "Wirata Agung Mataram"
+    "name": "Wirata Agung Mataram",
+    "postal_code": "34164"
   },
   {
     "code": "1802112009",
     "district_code": "180211",
-    "name": "Dharma Agung Mataram"
+    "name": "Dharma Agung Mataram",
+    "postal_code": "34164"
   },
   {
     "code": "1802112010",
     "district_code": "180211",
-    "name": "Bumi Setia Mataram"
+    "name": "Bumi Setia Mataram",
+    "postal_code": "34164"
   },
   {
     "code": "1802112011",
     "district_code": "180211",
-    "name": "Subing Karya"
+    "name": "Subing Karya",
+    "postal_code": "34164"
   },
   {
     "code": "1802112012",
     "district_code": "180211",
-    "name": "Banjar Agung Mataram"
+    "name": "Banjar Agung Mataram",
+    "postal_code": "34164"
   }
 ]

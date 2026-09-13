@@ -2,36 +2,43 @@
   {
     "code": "8103022001",
     "district_code": "810302",
-    "name": "Adaut"
+    "name": "Adaut",
+    "postal_code": "97481"
   },
   {
     "code": "8103022002",
     "district_code": "810302",
-    "name": "Namtabung"
+    "name": "Namtabung",
+    "postal_code": "97481"
   },
   {
     "code": "8103022003",
     "district_code": "810302",
-    "name": "Kandar"
+    "name": "Kandar",
+    "postal_code": "97481"
   },
   {
     "code": "8103022004",
     "district_code": "810302",
-    "name": "Lingat"
+    "name": "Lingat",
+    "postal_code": "97481"
   },
   {
     "code": "8103022005",
     "district_code": "810302",
-    "name": "Fursuy"
+    "name": "Fursuy",
+    "postal_code": "97481"
   },
   {
     "code": "8103022006",
     "district_code": "810302",
-    "name": "Werain"
+    "name": "Werain",
+    "postal_code": "97481"
   },
   {
     "code": "8103022007",
     "district_code": "810302",
-    "name": "Eliasa"
+    "name": "Eliasa",
+    "postal_code": "97481"
   }
 ]

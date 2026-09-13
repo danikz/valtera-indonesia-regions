@@ -2,46 +2,55 @@
   {
     "code": "7302021001",
     "district_code": "730202",
-    "name": "Tanah Kongkong"
+    "name": "Tanah Kongkong",
+    "postal_code": "92513"
   },
   {
     "code": "7302021002",
     "district_code": "730202",
-    "name": "Bentengnge"
+    "name": "Bentengnge",
+    "postal_code": "92511"
   },
   {
     "code": "7302021003",
     "district_code": "730202",
-    "name": "Terang Terang"
+    "name": "Terang Terang",
+    "postal_code": "92511"
   },
   {
     "code": "7302021004",
     "district_code": "730202",
-    "name": "Kalumeme"
+    "name": "Kalumeme",
+    "postal_code": "92518"
   },
   {
     "code": "7302021005",
     "district_code": "730202",
-    "name": "Bintarore"
+    "name": "Bintarore",
+    "postal_code": "92514"
   },
   {
     "code": "7302021006",
     "district_code": "730202",
-    "name": "Kasimpureng"
+    "name": "Kasimpureng",
+    "postal_code": "92511"
   },
   {
     "code": "7302021007",
     "district_code": "730202",
-    "name": "Caile"
+    "name": "Caile",
+    "postal_code": "92517"
   },
   {
     "code": "7302021008",
     "district_code": "730202",
-    "name": "Loka"
+    "name": "Loka",
+    "postal_code": "92511"
   },
   {
     "code": "7302021009",
     "district_code": "730202",
-    "name": "Ela Ela"
+    "name": "Ela Ela",
+    "postal_code": "92511"
   }
 ]

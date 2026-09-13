@@ -2,46 +2,55 @@
   {
     "code": "3204272001",
     "district_code": "320427",
-    "name": "Mandalasari"
+    "name": "Mandalasari",
+    "postal_code": "40396"
   },
   {
     "code": "3204272002",
     "district_code": "320427",
-    "name": "Cikancung"
+    "name": "Cikancung",
+    "postal_code": "40396"
   },
   {
     "code": "3204272003",
     "district_code": "320427",
-    "name": "Cikasungka"
+    "name": "Cikasungka",
+    "postal_code": "40396"
   },
   {
     "code": "3204272004",
     "district_code": "320427",
-    "name": "Cihanyir"
+    "name": "Cihanyir",
+    "postal_code": "40396"
   },
   {
     "code": "3204272005",
     "district_code": "320427",
-    "name": "Ciluluk"
+    "name": "Ciluluk",
+    "postal_code": "40396"
   },
   {
     "code": "3204272006",
     "district_code": "320427",
-    "name": "Hegarmanah"
+    "name": "Hegarmanah",
+    "postal_code": "40396"
   },
   {
     "code": "3204272007",
     "district_code": "320427",
-    "name": "Mekarlaksana"
+    "name": "Mekarlaksana",
+    "postal_code": "40396"
   },
   {
     "code": "3204272008",
     "district_code": "320427",
-    "name": "Tanjunglaya"
+    "name": "Tanjunglaya",
+    "postal_code": "40396"
   },
   {
     "code": "3204272009",
     "district_code": "320427",
-    "name": "Srirahayu"
+    "name": "Srirahayu",
+    "postal_code": "40396"
   }
 ]

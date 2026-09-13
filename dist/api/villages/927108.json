@@ -2,21 +2,25 @@
   {
     "code": "9271081001",
     "district_code": "927108",
-    "name": "Klasuat"
+    "name": "Klasuat",
+    "postal_code": ""
   },
   {
     "code": "9271081002",
     "district_code": "927108",
-    "name": "Klablim"
+    "name": "Klablim",
+    "postal_code": ""
   },
   {
     "code": "9271081003",
     "district_code": "927108",
-    "name": "Klasaman"
+    "name": "Klasaman",
+    "postal_code": ""
   },
   {
     "code": "9271081004",
     "district_code": "927108",
-    "name": "Giwu"
+    "name": "Giwu",
+    "postal_code": ""
   }
 ]

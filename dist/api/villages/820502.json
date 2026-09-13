@@ -2,56 +2,67 @@
   {
     "code": "8205022001",
     "district_code": "820502",
-    "name": "Mangon"
+    "name": "Mangon",
+    "postal_code": "97795"
   },
   {
     "code": "8205022002",
     "district_code": "820502",
-    "name": "Fagudu"
+    "name": "Fagudu",
+    "postal_code": "97795"
   },
   {
     "code": "8205022003",
     "district_code": "820502",
-    "name": "Waibau"
+    "name": "Waibau",
+    "postal_code": "97795"
   },
   {
     "code": "8205022004",
     "district_code": "820502",
-    "name": "Falahu"
+    "name": "Falahu",
+    "postal_code": "97795"
   },
   {
     "code": "8205022005",
     "district_code": "820502",
-    "name": "Fatcei"
+    "name": "Fatcei",
+    "postal_code": "97795"
   },
   {
     "code": "8205022006",
     "district_code": "820502",
-    "name": "Fogi"
+    "name": "Fogi",
+    "postal_code": "97795"
   },
   {
     "code": "8205022007",
     "district_code": "820502",
-    "name": "Waihama"
+    "name": "Waihama",
+    "postal_code": "97795"
   },
   {
     "code": "8205022008",
     "district_code": "820502",
-    "name": "Wai Ipa"
+    "name": "Wai Ipa",
+    "postal_code": "97795"
   },
   {
     "code": "8205022009",
     "district_code": "820502",
-    "name": "Umaloya"
+    "name": "Umaloya",
+    "postal_code": "97795"
   },
   {
     "code": "8205022010",
     "district_code": "820502",
-    "name": "Pastina"
+    "name": "Pastina",
+    "postal_code": "97795"
   },
   {
     "code": "8205022011",
     "district_code": "820502",
-    "name": "Wailau"
+    "name": "Wailau",
+    "postal_code": "97795"
   }
 ]

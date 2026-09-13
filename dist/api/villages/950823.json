@@ -2,46 +2,55 @@
   {
     "code": "9508232001",
     "district_code": "950823",
-    "name": "Paris"
+    "name": "Paris",
+    "postal_code": "99925"
   },
   {
     "code": "9508232002",
     "district_code": "950823",
-    "name": "Simie"
+    "name": "Simie",
+    "postal_code": "99925"
   },
   {
     "code": "9508232003",
     "district_code": "950823",
-    "name": "Urugi"
+    "name": "Urugi",
+    "postal_code": "99925"
   },
   {
     "code": "9508232004",
     "district_code": "950823",
-    "name": "Pirim-Pirim"
+    "name": "Pirim-Pirim",
+    "postal_code": "99925"
   },
   {
     "code": "9508232005",
     "district_code": "950823",
-    "name": "Tombisik"
+    "name": "Tombisik",
+    "postal_code": "99925"
   },
   {
     "code": "9508232006",
     "district_code": "950823",
-    "name": "Yepma"
+    "name": "Yepma",
+    "postal_code": "99925"
   },
   {
     "code": "9508232007",
     "district_code": "950823",
-    "name": "Sokore"
+    "name": "Sokore",
+    "postal_code": "99925"
   },
   {
     "code": "9508232008",
     "district_code": "950823",
-    "name": "Tobonggom"
+    "name": "Tobonggom",
+    "postal_code": "99925"
   },
   {
     "code": "9508232009",
     "district_code": "950823",
-    "name": "Rapa"
+    "name": "Rapa",
+    "postal_code": "99925"
   }
 ]

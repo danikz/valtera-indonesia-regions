@@ -2,66 +2,79 @@
   {
     "code": "7103102001",
     "district_code": "710310",
-    "name": "Kaluwatu"
+    "name": "Kaluwatu",
+    "postal_code": "95854"
   },
   {
     "code": "7103102002",
     "district_code": "710310",
-    "name": "Laine"
+    "name": "Laine",
+    "postal_code": "95854"
   },
   {
     "code": "7103102003",
     "district_code": "710310",
-    "name": "Lapango"
+    "name": "Lapango",
+    "postal_code": "95854"
   },
   {
     "code": "7103102004",
     "district_code": "710310",
-    "name": "Sowaeng"
+    "name": "Sowaeng",
+    "postal_code": "95854"
   },
   {
     "code": "7103102005",
     "district_code": "710310",
-    "name": "Ngalipaeng I"
+    "name": "Ngalipaeng I",
+    "postal_code": "95854"
   },
   {
     "code": "7103102006",
     "district_code": "710310",
-    "name": "Ngalipaeng II"
+    "name": "Ngalipaeng II",
+    "postal_code": "95854"
   },
   {
     "code": "7103102007",
     "district_code": "710310",
-    "name": "Batunderang"
+    "name": "Batunderang",
+    "postal_code": "95854"
   },
   {
     "code": "7103102008",
     "district_code": "710310",
-    "name": "Bebalang"
+    "name": "Bebalang",
+    "postal_code": "95854"
   },
   {
     "code": "7103102009",
     "district_code": "710310",
-    "name": "Mawira"
+    "name": "Mawira",
+    "postal_code": "95854"
   },
   {
     "code": "7103102010",
     "district_code": "710310",
-    "name": "Pindang"
+    "name": "Pindang",
+    "postal_code": "95854"
   },
   {
     "code": "7103102011",
     "district_code": "710310",
-    "name": "Lapepahe"
+    "name": "Lapepahe",
+    "postal_code": "95854"
   },
   {
     "code": "7103102012",
     "district_code": "710310",
-    "name": "Lehimi Tariang"
+    "name": "Lehimi Tariang",
+    "postal_code": "95854"
   },
   {
     "code": "7103102013",
     "district_code": "710310",
-    "name": "Lapango I"
+    "name": "Lapango I",
+    "postal_code": "95854"
   }
 ]

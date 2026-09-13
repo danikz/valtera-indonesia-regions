@@ -2,26 +2,31 @@
   {
     "code": "3202352001",
     "district_code": "320235",
-    "name": "Cireunghas"
+    "name": "Cireunghas",
+    "postal_code": "43193"
   },
   {
     "code": "3202352002",
     "district_code": "320235",
-    "name": "Cipurut"
+    "name": "Cipurut",
+    "postal_code": "43193"
   },
   {
     "code": "3202352003",
     "district_code": "320235",
-    "name": "Bencoy"
+    "name": "Bencoy",
+    "postal_code": "43193"
   },
   {
     "code": "3202352004",
     "district_code": "320235",
-    "name": "Cikurutug"
+    "name": "Cikurutug",
+    "postal_code": "43193"
   },
   {
     "code": "3202352005",
     "district_code": "320235",
-    "name": "Tegalpanjang"
+    "name": "Tegalpanjang",
+    "postal_code": "43193"
   }
 ]

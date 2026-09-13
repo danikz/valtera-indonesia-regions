@@ -2,21 +2,25 @@
   {
     "code": "1306132001",
     "district_code": "130613",
-    "name": "Batu Kambing"
+    "name": "Batu Kambing",
+    "postal_code": "26161"
   },
   {
     "code": "1306132002",
     "district_code": "130613",
-    "name": "Sitalang"
+    "name": "Sitalang",
+    "postal_code": "26161"
   },
   {
     "code": "1306132003",
     "district_code": "130613",
-    "name": "Bawan"
+    "name": "Bawan",
+    "postal_code": "26161"
   },
   {
     "code": "1306132004",
     "district_code": "130613",
-    "name": "Sitanang"
+    "name": "Sitanang",
+    "postal_code": "26161"
   }
 ]

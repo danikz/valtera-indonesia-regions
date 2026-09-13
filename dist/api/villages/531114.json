@@ -2,46 +2,55 @@
   {
     "code": "5311142001",
     "district_code": "531114",
-    "name": "Kamanggih"
+    "name": "Kamanggih",
+    "postal_code": "87171"
   },
   {
     "code": "5311142002",
     "district_code": "531114",
-    "name": "Kambatabundung"
+    "name": "Kambatabundung",
+    "postal_code": "87171"
   },
   {
     "code": "5311142003",
     "district_code": "531114",
-    "name": "Meurumba"
+    "name": "Meurumba",
+    "postal_code": "87171"
   },
   {
     "code": "5311142004",
     "district_code": "531114",
-    "name": "Laimbonga"
+    "name": "Laimbonga",
+    "postal_code": "87171"
   },
   {
     "code": "5311142005",
     "district_code": "531114",
-    "name": "Kota Kawau"
+    "name": "Kota Kawau",
+    "postal_code": "87171"
   },
   {
     "code": "5311142006",
     "district_code": "531114",
-    "name": "Matawai Katingga"
+    "name": "Matawai Katingga",
+    "postal_code": "87171"
   },
   {
     "code": "5311142007",
     "district_code": "531114",
-    "name": "Kataka"
+    "name": "Kataka",
+    "postal_code": "87171"
   },
   {
     "code": "5311142008",
     "district_code": "531114",
-    "name": "Matawai Maringgu"
+    "name": "Matawai Maringgu",
+    "postal_code": "87171"
   },
   {
     "code": "5311142009",
     "district_code": "531114",
-    "name": "Mauramba"
+    "name": "Mauramba",
+    "postal_code": "87171"
   }
 ]

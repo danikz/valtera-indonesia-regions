@@ -2,56 +2,67 @@
   {
     "code": "6302112001",
     "district_code": "630211",
-    "name": "Sekandis"
+    "name": "Sekandis",
+    "postal_code": "72168"
   },
   {
     "code": "6302112002",
     "district_code": "630211",
-    "name": "Gunung Calang"
+    "name": "Gunung Calang",
+    "postal_code": "72168"
   },
   {
     "code": "6302112003",
     "district_code": "630211",
-    "name": "Talusi"
+    "name": "Talusi",
+    "postal_code": "72168"
   },
   {
     "code": "6302112004",
     "district_code": "630211",
-    "name": "Sakalimau"
+    "name": "Sakalimau",
+    "postal_code": "72168"
   },
   {
     "code": "6302112005",
     "district_code": "630211",
-    "name": "Tanjung Samalantakan"
+    "name": "Tanjung Samalantakan",
+    "postal_code": "72168"
   },
   {
     "code": "6302112006",
     "district_code": "630211",
-    "name": "Sakadoyan"
+    "name": "Sakadoyan",
+    "postal_code": "72168"
   },
   {
     "code": "6302112007",
     "district_code": "630211",
-    "name": "Rampa Cengal"
+    "name": "Rampa Cengal",
+    "postal_code": "72168"
   },
   {
     "code": "6302112008",
     "district_code": "630211",
-    "name": "Sesulung"
+    "name": "Sesulung",
+    "postal_code": "72168"
   },
   {
     "code": "6302112009",
     "district_code": "630211",
-    "name": "Pondok Labu"
+    "name": "Pondok Labu",
+    "postal_code": "72168"
   },
   {
     "code": "6302112010",
     "district_code": "630211",
-    "name": "Mulyodadi"
+    "name": "Mulyodadi",
+    "postal_code": "72168"
   },
   {
     "code": "6302112011",
     "district_code": "630211",
-    "name": "Sukadana"
+    "name": "Sukadana",
+    "postal_code": "72168"
   }
 ]

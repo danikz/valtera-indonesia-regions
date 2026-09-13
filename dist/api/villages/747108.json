@@ -2,26 +2,31 @@
   {
     "code": "7471081001",
     "district_code": "747108",
-    "name": "Kadia"
+    "name": "Kadia",
+    "postal_code": "93117"
   },
   {
     "code": "7471081002",
     "district_code": "747108",
-    "name": "Bende"
+    "name": "Bende",
+    "postal_code": "93118"
   },
   {
     "code": "7471081003",
     "district_code": "747108",
-    "name": "Pondambea"
+    "name": "Pondambea",
+    "postal_code": "93117"
   },
   {
     "code": "7471081004",
     "district_code": "747108",
-    "name": "Wowawanggu"
+    "name": "Wowawanggu",
+    "postal_code": "93117"
   },
   {
     "code": "7471081005",
     "district_code": "747108",
-    "name": "Anaiwoi"
+    "name": "Anaiwoi",
+    "postal_code": "93118"
   }
 ]

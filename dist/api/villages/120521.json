@@ -2,51 +2,61 @@
   {
     "code": "1205212001",
     "district_code": "120521",
-    "name": "Serapit"
+    "name": "Serapit",
+    "postal_code": "20775"
   },
   {
     "code": "1205212002",
     "district_code": "120521",
-    "name": "Gunung Tinggi"
+    "name": "Gunung Tinggi",
+    "postal_code": "20775"
   },
   {
     "code": "1205212003",
     "district_code": "120521",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "20775"
   },
   {
     "code": "1205212004",
     "district_code": "120521",
-    "name": "Suka Pulung"
+    "name": "Suka Pulung",
+    "postal_code": "20775"
   },
   {
     "code": "1205212005",
     "district_code": "120521",
-    "name": "Aman Damai"
+    "name": "Aman Damai",
+    "postal_code": "20775"
   },
   {
     "code": "1205212006",
     "district_code": "120521",
-    "name": "Tanjung Kariahan"
+    "name": "Tanjung Kariahan",
+    "postal_code": "20775"
   },
   {
     "code": "1205212007",
     "district_code": "120521",
-    "name": "Sebertung"
+    "name": "Sebertung",
+    "postal_code": "20775"
   },
   {
     "code": "1205212008",
     "district_code": "120521",
-    "name": "Pulau Semikat"
+    "name": "Pulau Semikat",
+    "postal_code": "20775"
   },
   {
     "code": "1205212009",
     "district_code": "120521",
-    "name": "Sumber Jaya"
+    "name": "Sumber Jaya",
+    "postal_code": "20775"
   },
   {
     "code": "1205212010",
     "district_code": "120521",
-    "name": "Perkebunan Amal Tani"
+    "name": "Perkebunan Amal Tani",
+    "postal_code": "20775"
   }
 ]

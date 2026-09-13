@@ -2,61 +2,73 @@
   {
     "code": "9503072001",
     "district_code": "950307",
-    "name": "Dekai"
+    "name": "Dekai",
+    "postal_code": "99702"
   },
   {
     "code": "9503072002",
     "district_code": "950307",
-    "name": "Kuaserama"
+    "name": "Kuaserama",
+    "postal_code": "99702"
   },
   {
     "code": "9503072003",
     "district_code": "950307",
-    "name": "Moruku"
+    "name": "Moruku",
+    "postal_code": "99702"
   },
   {
     "code": "9503072004",
     "district_code": "950307",
-    "name": "Massi"
+    "name": "Massi",
+    "postal_code": "99702"
   },
   {
     "code": "9503072005",
     "district_code": "950307",
-    "name": "Keikey"
+    "name": "Keikey",
+    "postal_code": "99702"
   },
   {
     "code": "9503072006",
     "district_code": "950307",
-    "name": "Kuari"
+    "name": "Kuari",
+    "postal_code": "99702"
   },
   {
     "code": "9503072007",
     "district_code": "950307",
-    "name": "Muara"
+    "name": "Muara",
+    "postal_code": "99702"
   },
   {
     "code": "9503072008",
     "district_code": "950307",
-    "name": "Kiribun"
+    "name": "Kiribun",
+    "postal_code": "99702"
   },
   {
     "code": "9503072009",
     "district_code": "950307",
-    "name": "Kokamu"
+    "name": "Kokamu",
+    "postal_code": "99702"
   },
   {
     "code": "9503072010",
     "district_code": "950307",
-    "name": "Tomon I"
+    "name": "Tomon I",
+    "postal_code": "99702"
   },
   {
     "code": "9503072011",
     "district_code": "950307",
-    "name": "Sokamu"
+    "name": "Sokamu",
+    "postal_code": "99702"
   },
   {
     "code": "9503072012",
     "district_code": "950307",
-    "name": "Tomon II"
+    "name": "Tomon II",
+    "postal_code": "99702"
   }
 ]

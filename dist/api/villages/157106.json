@@ -2,26 +2,31 @@
   {
     "code": "1571061001",
     "district_code": "157106",
-    "name": "Pasir Panjang"
+    "name": "Pasir Panjang",
+    "postal_code": "36265"
   },
   {
     "code": "1571061002",
     "district_code": "157106",
-    "name": "Tanjung Raden"
+    "name": "Tanjung Raden",
+    "postal_code": "36264"
   },
   {
     "code": "1571061003",
     "district_code": "157106",
-    "name": "Olak Kemang"
+    "name": "Olak Kemang",
+    "postal_code": "36262"
   },
   {
     "code": "1571061004",
     "district_code": "157106",
-    "name": "Tanjung Pasir"
+    "name": "Tanjung Pasir",
+    "postal_code": "36263"
   },
   {
     "code": "1571061005",
     "district_code": "157106",
-    "name": "Ulu Gedong"
+    "name": "Ulu Gedong",
+    "postal_code": "36261"
   }
 ]

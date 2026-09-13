@@ -2,31 +2,37 @@
   {
     "code": "9120082001",
     "district_code": "912008",
-    "name": "Poiwai"
+    "name": "Poiwai",
+    "postal_code": "98682"
   },
   {
     "code": "9120082002",
     "district_code": "912008",
-    "name": "Tamakuri"
+    "name": "Tamakuri",
+    "postal_code": "98682"
   },
   {
     "code": "9120082003",
     "district_code": "912008",
-    "name": "Bonoi"
+    "name": "Bonoi",
+    "postal_code": "98682"
   },
   {
     "code": "9120082004",
     "district_code": "912008",
-    "name": "Sorabi"
+    "name": "Sorabi",
+    "postal_code": "98682"
   },
   {
     "code": "9120082005",
     "district_code": "912008",
-    "name": "Rapamerei"
+    "name": "Rapamerei",
+    "postal_code": "98682"
   },
   {
     "code": "9120082006",
     "district_code": "912008",
-    "name": "Anasi"
+    "name": "Anasi",
+    "postal_code": "98682"
   }
 ]

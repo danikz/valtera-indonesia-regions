@@ -2,46 +2,55 @@
   {
     "code": "1508142001",
     "district_code": "150814",
-    "name": "Muara Buat"
+    "name": "Muara Buat",
+    "postal_code": "37260"
   },
   {
     "code": "1508142002",
     "district_code": "150814",
-    "name": "Buat"
+    "name": "Buat",
+    "postal_code": "37260"
   },
   {
     "code": "1508142003",
     "district_code": "150814",
-    "name": "Laman Panjang"
+    "name": "Laman Panjang",
+    "postal_code": "37260"
   },
   {
     "code": "1508142004",
     "district_code": "150814",
-    "name": "Karak Apung"
+    "name": "Karak Apung",
+    "postal_code": "37260"
   },
   {
     "code": "1508142005",
     "district_code": "150814",
-    "name": "Timbolasi"
+    "name": "Timbolasi",
+    "postal_code": "37260"
   },
   {
     "code": "1508142006",
     "district_code": "150814",
-    "name": "Senamat Ulu"
+    "name": "Senamat Ulu",
+    "postal_code": "37260"
   },
   {
     "code": "1508142007",
     "district_code": "150814",
-    "name": "Aur Cino"
+    "name": "Aur Cino",
+    "postal_code": "37260"
   },
   {
     "code": "1508142008",
     "district_code": "150814",
-    "name": "Lubuk Beringin"
+    "name": "Lubuk Beringin",
+    "postal_code": "37260"
   },
   {
     "code": "1508142009",
     "district_code": "150814",
-    "name": "Sungai Telang"
+    "name": "Sungai Telang",
+    "postal_code": "37260"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "1401052001",
     "district_code": "140105",
-    "name": "Kuok"
+    "name": "Kuok",
+    "postal_code": "28467"
   },
   {
     "code": "1401052005",
     "district_code": "140105",
-    "name": "Merangin"
+    "name": "Merangin",
+    "postal_code": "28467"
   },
   {
     "code": "1401052006",
     "district_code": "140105",
-    "name": "Empat Balai"
+    "name": "Empat Balai",
+    "postal_code": "28467"
   },
   {
     "code": "1401052007",
     "district_code": "140105",
-    "name": "Pulau Jambu"
+    "name": "Pulau Jambu",
+    "postal_code": "28467"
   },
   {
     "code": "1401052008",
     "district_code": "140105",
-    "name": "Silam"
+    "name": "Silam",
+    "postal_code": "28467"
   },
   {
     "code": "1401052010",
     "district_code": "140105",
-    "name": "Bukit Melintang"
+    "name": "Bukit Melintang",
+    "postal_code": "28467"
   },
   {
     "code": "1401052011",
     "district_code": "140105",
-    "name": "Pulau Terap"
+    "name": "Pulau Terap",
+    "postal_code": "28467"
   },
   {
     "code": "1401052012",
     "district_code": "140105",
-    "name": "Lereng"
+    "name": "Lereng",
+    "postal_code": "28467"
   },
   {
     "code": "1401052013",
     "district_code": "140105",
-    "name": "Batulangka Kecil"
+    "name": "Batulangka Kecil",
+    "postal_code": "28467"
   }
 ]

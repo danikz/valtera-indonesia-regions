@@ -2,51 +2,61 @@
   {
     "code": "3212142001",
     "district_code": "321214",
-    "name": "Tegal Sembadra"
+    "name": "Tegal Sembadra",
+    "postal_code": "45285"
   },
   {
     "code": "3212142002",
     "district_code": "321214",
-    "name": "Sukareja"
+    "name": "Sukareja",
+    "postal_code": "45217"
   },
   {
     "code": "3212142003",
     "district_code": "321214",
-    "name": "Sukaurip"
+    "name": "Sukaurip",
+    "postal_code": "45217"
   },
   {
     "code": "3212142004",
     "district_code": "321214",
-    "name": "Rawadalem"
+    "name": "Rawadalem",
+    "postal_code": "45217"
   },
   {
     "code": "3212142005",
     "district_code": "321214",
-    "name": "Gelarmendala"
+    "name": "Gelarmendala",
+    "postal_code": "45285"
   },
   {
     "code": "3212142006",
     "district_code": "321214",
-    "name": "Tegalurung"
+    "name": "Tegalurung",
+    "postal_code": "45217"
   },
   {
     "code": "3212142007",
     "district_code": "321214",
-    "name": "Balongan"
+    "name": "Balongan",
+    "postal_code": "45217"
   },
   {
     "code": "3212142008",
     "district_code": "321214",
-    "name": "Majakerta"
+    "name": "Majakerta",
+    "postal_code": "45285"
   },
   {
     "code": "3212142009",
     "district_code": "321214",
-    "name": "Sudimampir"
+    "name": "Sudimampir",
+    "postal_code": "45285"
   },
   {
     "code": "3212142010",
     "district_code": "321214",
-    "name": "Sudimampir Lor"
+    "name": "Sudimampir Lor",
+    "postal_code": "45285"
   }
 ]

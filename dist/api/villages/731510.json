@@ -2,36 +2,43 @@
   {
     "code": "7315101001",
     "district_code": "731510",
-    "name": "Lanrisang"
+    "name": "Lanrisang",
+    "postal_code": "91272"
   },
   {
     "code": "7315102002",
     "district_code": "731510",
-    "name": "Samaulue"
+    "name": "Samaulue",
+    "postal_code": "91272"
   },
   {
     "code": "7315102003",
     "district_code": "731510",
-    "name": "Mallongi-longi"
+    "name": "Mallongi-longi",
+    "postal_code": "91272"
   },
   {
     "code": "7315102004",
     "district_code": "731510",
-    "name": "Amassangeng"
+    "name": "Amassangeng",
+    "postal_code": "91272"
   },
   {
     "code": "7315102005",
     "district_code": "731510",
-    "name": "Barang Palie"
+    "name": "Barang Palie",
+    "postal_code": "91272"
   },
   {
     "code": "7315102006",
     "district_code": "731510",
-    "name": "Waetuoe"
+    "name": "Waetuoe",
+    "postal_code": "91272"
   },
   {
     "code": "7315102007",
     "district_code": "731510",
-    "name": "Lerang"
+    "name": "Lerang",
+    "postal_code": "91272"
   }
 ]

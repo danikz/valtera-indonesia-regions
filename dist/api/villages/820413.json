@@ -2,31 +2,37 @@
   {
     "code": "8204132001",
     "district_code": "820413",
-    "name": "Modayama"
+    "name": "Modayama",
+    "postal_code": "97781"
   },
   {
     "code": "8204132002",
     "district_code": "820413",
-    "name": "Laromabati"
+    "name": "Laromabati",
+    "postal_code": "97781"
   },
   {
     "code": "8204132003",
     "district_code": "820413",
-    "name": "Gayap"
+    "name": "Gayap",
+    "postal_code": "97781"
   },
   {
     "code": "8204132004",
     "district_code": "820413",
-    "name": "Ake Jailolo"
+    "name": "Ake Jailolo",
+    "postal_code": "97781"
   },
   {
     "code": "8204132005",
     "district_code": "820413",
-    "name": "Wayasipang"
+    "name": "Wayasipang",
+    "postal_code": "97781"
   },
   {
     "code": "8204132006",
     "district_code": "820413",
-    "name": "Ngokomalako"
+    "name": "Ngokomalako",
+    "postal_code": "97781"
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "1607011016",
     "district_code": "160701",
-    "name": "Mariana"
+    "name": "Mariana",
+    "postal_code": "30963"
   },
   {
     "code": "1607011021",
     "district_code": "160701",
-    "name": "Mariana Ilir"
+    "name": "Mariana Ilir",
+    "postal_code": "30963"
   },
   {
     "code": "1607012001",
     "district_code": "160701",
-    "name": "Sungairebo"
+    "name": "Sungairebo",
+    "postal_code": "30963"
   },
   {
     "code": "1607012002",
     "district_code": "160701",
-    "name": "Sungaigerong"
+    "name": "Sungaigerong",
+    "postal_code": "30963"
   },
   {
     "code": "1607012003",
     "district_code": "160701",
-    "name": "Merah Mata"
+    "name": "Merah Mata",
+    "postal_code": "30963"
   },
   {
     "code": "1607012004",
     "district_code": "160701",
-    "name": "Perajen"
+    "name": "Perajen",
+    "postal_code": "30963"
   },
   {
     "code": "1607012005",
     "district_code": "160701",
-    "name": "Cinta Manis Lama"
+    "name": "Cinta Manis Lama",
+    "postal_code": "30963"
   },
   {
     "code": "1607012008",
     "district_code": "160701",
-    "name": "Perambahan"
+    "name": "Perambahan",
+    "postal_code": "30963"
   },
   {
     "code": "1607012011",
     "district_code": "160701",
-    "name": "Pematang Palas"
+    "name": "Pematang Palas",
+    "postal_code": "30963"
   },
   {
     "code": "1607012012",
     "district_code": "160701",
-    "name": "Tirto Sari"
+    "name": "Tirto Sari",
+    "postal_code": "30963"
   },
   {
     "code": "1607012014",
     "district_code": "160701",
-    "name": "Pulauborang"
+    "name": "Pulauborang",
+    "postal_code": "30963"
   },
   {
     "code": "1607012025",
     "district_code": "160701",
-    "name": "Perambahan Baru"
+    "name": "Perambahan Baru",
+    "postal_code": "30963"
   },
   {
     "code": "1607012028",
     "district_code": "160701",
-    "name": "Duren Ijo"
+    "name": "Duren Ijo",
+    "postal_code": "30963"
   }
 ]

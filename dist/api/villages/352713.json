@@ -2,31 +2,37 @@
   {
     "code": "3527132001",
     "district_code": "352713",
-    "name": "Pangarengan"
+    "name": "Pangarengan",
+    "postal_code": "69271"
   },
   {
     "code": "3527132002",
     "district_code": "352713",
-    "name": "Apa an"
+    "name": "Apa an",
+    "postal_code": "69271"
   },
   {
     "code": "3527132003",
     "district_code": "352713",
-    "name": "Gulbung"
+    "name": "Gulbung",
+    "postal_code": "69271"
   },
   {
     "code": "3527132004",
     "district_code": "352713",
-    "name": "Panyirangan"
+    "name": "Panyirangan",
+    "postal_code": "69271"
   },
   {
     "code": "3527132005",
     "district_code": "352713",
-    "name": "Pacangga an"
+    "name": "Pacangga an",
+    "postal_code": "69271"
   },
   {
     "code": "3527132006",
     "district_code": "352713",
-    "name": "Ragung"
+    "name": "Ragung",
+    "postal_code": "69271"
   }
 ]

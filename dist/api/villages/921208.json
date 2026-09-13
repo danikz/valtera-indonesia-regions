@@ -2,76 +2,91 @@
   {
     "code": "9212082001",
     "district_code": "921208",
-    "name": "Testega"
+    "name": "Testega",
+    "postal_code": "98350"
   },
   {
     "code": "9212082002",
     "district_code": "921208",
-    "name": "Meidogda"
+    "name": "Meidogda",
+    "postal_code": "98350"
   },
   {
     "code": "9212082003",
     "district_code": "921208",
-    "name": "Meifekeni"
+    "name": "Meifekeni",
+    "postal_code": "98350"
   },
   {
     "code": "9212082004",
     "district_code": "921208",
-    "name": "Demuora"
+    "name": "Demuora",
+    "postal_code": "98350"
   },
   {
     "code": "9212082005",
     "district_code": "921208",
-    "name": "Jigja"
+    "name": "Jigja",
+    "postal_code": "98350"
   },
   {
     "code": "9212082006",
     "district_code": "921208",
-    "name": "Meigehenawu"
+    "name": "Meigehenawu",
+    "postal_code": "98350"
   },
   {
     "code": "9212082007",
     "district_code": "921208",
-    "name": "Morumfeyi"
+    "name": "Morumfeyi",
+    "postal_code": "98350"
   },
   {
     "code": "9212082008",
     "district_code": "921208",
-    "name": "Iba"
+    "name": "Iba",
+    "postal_code": "98350"
   },
   {
     "code": "9212082009",
     "district_code": "921208",
-    "name": "Meimersa"
+    "name": "Meimersa",
+    "postal_code": "98350"
   },
   {
     "code": "9212082010",
     "district_code": "921208",
-    "name": "Meifowoska"
+    "name": "Meifowoska",
+    "postal_code": "98350"
   },
   {
     "code": "9212082011",
     "district_code": "921208",
-    "name": "Meijugjijigja"
+    "name": "Meijugjijigja",
+    "postal_code": "98350"
   },
   {
     "code": "9212082012",
     "district_code": "921208",
-    "name": "Meifokeda"
+    "name": "Meifokeda",
+    "postal_code": "98350"
   },
   {
     "code": "9212082013",
     "district_code": "921208",
-    "name": "Dumbrey"
+    "name": "Dumbrey",
+    "postal_code": "98350"
   },
   {
     "code": "9212082014",
     "district_code": "921208",
-    "name": "Meksi"
+    "name": "Meksi",
+    "postal_code": "98350"
   },
   {
     "code": "9212082015",
     "district_code": "921208",
-    "name": "Asai Dua"
+    "name": "Asai Dua",
+    "postal_code": "98350"
   }
 ]

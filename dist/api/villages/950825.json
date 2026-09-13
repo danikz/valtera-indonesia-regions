@@ -2,26 +2,31 @@
   {
     "code": "9508252001",
     "district_code": "950825",
-    "name": "Kora"
+    "name": "Kora",
+    "postal_code": "99923"
   },
   {
     "code": "9508252002",
     "district_code": "950825",
-    "name": "Nanggoal"
+    "name": "Nanggoal",
+    "postal_code": "99923"
   },
   {
     "code": "9508252003",
     "district_code": "950825",
-    "name": "Wenam"
+    "name": "Wenam",
+    "postal_code": "99923"
   },
   {
     "code": "9508252004",
     "district_code": "950825",
-    "name": "Wilimi"
+    "name": "Wilimi",
+    "postal_code": "99923"
   },
   {
     "code": "9508252005",
     "district_code": "950825",
-    "name": "Brutnai"
+    "name": "Brutnai",
+    "postal_code": "99923"
   }
 ]

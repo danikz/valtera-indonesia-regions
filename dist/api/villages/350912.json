@@ -2,36 +2,43 @@
   {
     "code": "3509122001",
     "district_code": "350912",
-    "name": "Tegalsari"
+    "name": "Tegalsari",
+    "postal_code": "68172"
   },
   {
     "code": "3509122002",
     "district_code": "350912",
-    "name": "Sabrang"
+    "name": "Sabrang",
+    "postal_code": "68172"
   },
   {
     "code": "3509122003",
     "district_code": "350912",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "68172"
   },
   {
     "code": "3509122004",
     "district_code": "350912",
-    "name": "Ambulu"
+    "name": "Ambulu",
+    "postal_code": "68172"
   },
   {
     "code": "3509122005",
     "district_code": "350912",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "68132"
   },
   {
     "code": "3509122006",
     "district_code": "350912",
-    "name": "Andongsari"
+    "name": "Andongsari",
+    "postal_code": "68172"
   },
   {
     "code": "3509122007",
     "district_code": "350912",
-    "name": "Pontang"
+    "name": "Pontang",
+    "postal_code": "68172"
   }
 ]

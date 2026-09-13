@@ -2,41 +2,49 @@
   {
     "code": "7173041001",
     "district_code": "717304",
-    "name": "Woloan Satu"
+    "name": "Woloan Satu",
+    "postal_code": "95421"
   },
   {
     "code": "7173041002",
     "district_code": "717304",
-    "name": "Woloan Dua"
+    "name": "Woloan Dua",
+    "postal_code": "95422"
   },
   {
     "code": "7173041003",
     "district_code": "717304",
-    "name": "Woloan Tiga"
+    "name": "Woloan Tiga",
+    "postal_code": "95423"
   },
   {
     "code": "7173041004",
     "district_code": "717304",
-    "name": "Taratara Satu"
+    "name": "Taratara Satu",
+    "postal_code": "95425"
   },
   {
     "code": "7173041005",
     "district_code": "717304",
-    "name": "Taratara Dua"
+    "name": "Taratara Dua",
+    "postal_code": "95424"
   },
   {
     "code": "7173041006",
     "district_code": "717304",
-    "name": "Woloan Satu Utara"
+    "name": "Woloan Satu Utara",
+    "postal_code": "95423"
   },
   {
     "code": "7173041007",
     "district_code": "717304",
-    "name": "Taratara"
+    "name": "Taratara",
+    "postal_code": "95423"
   },
   {
     "code": "7173041008",
     "district_code": "717304",
-    "name": "Taratara Tiga"
+    "name": "Taratara Tiga",
+    "postal_code": "95423"
   }
 ]

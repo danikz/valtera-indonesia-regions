@@ -2,56 +2,67 @@
   {
     "code": "6306062001",
     "district_code": "630606",
-    "name": "Tebing Tinggi"
+    "name": "Tebing Tinggi",
+    "postal_code": "71261"
   },
   {
     "code": "6306062002",
     "district_code": "630606",
-    "name": "Simpur"
+    "name": "Simpur",
+    "postal_code": "71261"
   },
   {
     "code": "6306062003",
     "district_code": "630606",
-    "name": "Garunggang"
+    "name": "Garunggang",
+    "postal_code": "71261"
   },
   {
     "code": "6306062004",
     "district_code": "630606",
-    "name": "Amparaya"
+    "name": "Amparaya",
+    "postal_code": "71261"
   },
   {
     "code": "6306062005",
     "district_code": "630606",
-    "name": "Panjampang Bahagia"
+    "name": "Panjampang Bahagia",
+    "postal_code": "71261"
   },
   {
     "code": "6306062006",
     "district_code": "630606",
-    "name": "Ulin"
+    "name": "Ulin",
+    "postal_code": "71261"
   },
   {
     "code": "6306062007",
     "district_code": "630606",
-    "name": "Pantai Ulin"
+    "name": "Pantai Ulin",
+    "postal_code": "71261"
   },
   {
     "code": "6306062008",
     "district_code": "630606",
-    "name": "Wasah Hulu"
+    "name": "Wasah Hulu",
+    "postal_code": "71261"
   },
   {
     "code": "6306062009",
     "district_code": "630606",
-    "name": "Wasah Tengah"
+    "name": "Wasah Tengah",
+    "postal_code": "71261"
   },
   {
     "code": "6306062010",
     "district_code": "630606",
-    "name": "Wasah Hilir"
+    "name": "Wasah Hilir",
+    "postal_code": "71261"
   },
   {
     "code": "6306062011",
     "district_code": "630606",
-    "name": "Kapuh"
+    "name": "Kapuh",
+    "postal_code": "71261"
   }
 ]

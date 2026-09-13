@@ -2,46 +2,55 @@
   {
     "code": "9405252001",
     "district_code": "940525",
-    "name": "Erelmakawia"
+    "name": "Erelmakawia",
+    "postal_code": "98962"
   },
   {
     "code": "9405252002",
     "district_code": "940525",
-    "name": "Kalpamonora"
+    "name": "Kalpamonora",
+    "postal_code": "98962"
   },
   {
     "code": "9405252003",
     "district_code": "940525",
-    "name": "Bomogin"
+    "name": "Bomogin",
+    "postal_code": "98962"
   },
   {
     "code": "9405252004",
     "district_code": "940525",
-    "name": "Mamoldema"
+    "name": "Mamoldema",
+    "postal_code": "98962"
   },
   {
     "code": "9405252005",
     "district_code": "940525",
-    "name": "Wamagun"
+    "name": "Wamagun",
+    "postal_code": "98962"
   },
   {
     "code": "9405252006",
     "district_code": "940525",
-    "name": "Amungkonin"
+    "name": "Amungkonin",
+    "postal_code": "98962"
   },
   {
     "code": "9405252007",
     "district_code": "940525",
-    "name": "Ipmangkop"
+    "name": "Ipmangkop",
+    "postal_code": "98962"
   },
   {
     "code": "9405252008",
     "district_code": "940525",
-    "name": "Tamagun"
+    "name": "Tamagun",
+    "postal_code": "98962"
   },
   {
     "code": "9405252009",
     "district_code": "940525",
-    "name": "Ai Arama"
+    "name": "Ai Arama",
+    "postal_code": "98962"
   }
 ]

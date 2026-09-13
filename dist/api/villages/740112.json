@@ -2,51 +2,61 @@
   {
     "code": "7401121001",
     "district_code": "740112",
-    "name": "Puundoho"
+    "name": "Puundoho",
+    "postal_code": "93561"
   },
   {
     "code": "7401122002",
     "district_code": "740112",
-    "name": "Longori"
+    "name": "Longori",
+    "postal_code": "93561"
   },
   {
     "code": "7401122003",
     "district_code": "740112",
-    "name": "Puubunga"
+    "name": "Puubunga",
+    "postal_code": "93561"
   },
   {
     "code": "7401122004",
     "district_code": "740112",
-    "name": "Puulemo"
+    "name": "Puulemo",
+    "postal_code": "93561"
   },
   {
     "code": "7401122005",
     "district_code": "740112",
-    "name": "Puubenua"
+    "name": "Puubenua",
+    "postal_code": "93561"
   },
   {
     "code": "7401122006",
     "district_code": "740112",
-    "name": "Baula"
+    "name": "Baula",
+    "postal_code": "93561"
   },
   {
     "code": "7401122007",
     "district_code": "740112",
-    "name": "Pewutaa"
+    "name": "Pewutaa",
+    "postal_code": "93561"
   },
   {
     "code": "7401122008",
     "district_code": "740112",
-    "name": "Watalara"
+    "name": "Watalara",
+    "postal_code": "93561"
   },
   {
     "code": "7401122009",
     "district_code": "740112",
-    "name": "Puuroda"
+    "name": "Puuroda",
+    "postal_code": "93561"
   },
   {
     "code": "7401122010",
     "district_code": "740112",
-    "name": "Ulu Baula"
+    "name": "Ulu Baula",
+    "postal_code": "93561"
   }
 ]

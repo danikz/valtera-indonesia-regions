@@ -2,46 +2,55 @@
   {
     "code": "3203162001",
     "district_code": "320316",
-    "name": "Pasawahan"
+    "name": "Pasawahan",
+    "postal_code": "43265"
   },
   {
     "code": "3203162002",
     "district_code": "320316",
-    "name": "Sindangresmi"
+    "name": "Sindangresmi",
+    "postal_code": "43265"
   },
   {
     "code": "3203162003",
     "district_code": "320316",
-    "name": "Sindanghayu"
+    "name": "Sindanghayu",
+    "postal_code": "43265"
   },
   {
     "code": "3203162004",
     "district_code": "320316",
-    "name": "Simpang"
+    "name": "Simpang",
+    "postal_code": "43265"
   },
   {
     "code": "3203162005",
     "district_code": "320316",
-    "name": "Sukagalih"
+    "name": "Sukagalih",
+    "postal_code": "43265"
   },
   {
     "code": "3203162006",
     "district_code": "320316",
-    "name": "Bungbangsari"
+    "name": "Bungbangsari",
+    "postal_code": "43265"
   },
   {
     "code": "3203162007",
     "district_code": "320316",
-    "name": "Cisujen"
+    "name": "Cisujen",
+    "postal_code": "43265"
   },
   {
     "code": "3203162008",
     "district_code": "320316",
-    "name": "Hegarmanah"
+    "name": "Hegarmanah",
+    "postal_code": "43265"
   },
   {
     "code": "3203162009",
     "district_code": "320316",
-    "name": "Waringinsari"
+    "name": "Waringinsari",
+    "postal_code": "43265"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "7315091001",
     "district_code": "731509",
-    "name": "Pammase"
+    "name": "Pammase",
+    "postal_code": "91256"
   },
   {
     "code": "7315091002",
     "district_code": "731509",
-    "name": "Marawi"
+    "name": "Marawi",
+    "postal_code": "91256"
   },
   {
     "code": "7315091003",
     "district_code": "731509",
-    "name": "Fakkie"
+    "name": "Fakkie",
+    "postal_code": "91256"
   },
   {
     "code": "7315091004",
     "district_code": "731509",
-    "name": "Tiroang"
+    "name": "Tiroang",
+    "postal_code": "91256"
   },
   {
     "code": "7315091005",
     "district_code": "731509",
-    "name": "Mattiro Deceng"
+    "name": "Mattiro Deceng",
+    "postal_code": "91256"
   },
   {
     "code": "7315091006",
     "district_code": "731509",
-    "name": "Samaturue"
+    "name": "Samaturue",
+    "postal_code": "91256"
   }
 ]

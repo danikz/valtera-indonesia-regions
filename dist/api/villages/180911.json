@@ -2,56 +2,67 @@
   {
     "code": "1809112001",
     "district_code": "180911",
-    "name": "Bunut"
+    "name": "Bunut",
+    "postal_code": "35455"
   },
   {
     "code": "1809112002",
     "district_code": "180911",
-    "name": "Bunut Seberang"
+    "name": "Bunut Seberang",
+    "postal_code": "35455"
   },
   {
     "code": "1809112003",
     "district_code": "180911",
-    "name": "Wates Way Ratai"
+    "name": "Wates Way Ratai",
+    "postal_code": "35455"
   },
   {
     "code": "1809112004",
     "district_code": "180911",
-    "name": "Ceringin Sari"
+    "name": "Ceringin Sari",
+    "postal_code": "35455"
   },
   {
     "code": "1809112005",
     "district_code": "180911",
-    "name": "Sumber Jaya"
+    "name": "Sumber Jaya",
+    "postal_code": "35455"
   },
   {
     "code": "1809112006",
     "district_code": "180911",
-    "name": "Mulyo Sari"
+    "name": "Mulyo Sari",
+    "postal_code": "35455"
   },
   {
     "code": "1809112007",
     "district_code": "180911",
-    "name": "Poncorejo"
+    "name": "Poncorejo",
+    "postal_code": "35455"
   },
   {
     "code": "1809112008",
     "district_code": "180911",
-    "name": "Gunung Rejo"
+    "name": "Gunung Rejo",
+    "postal_code": "35455"
   },
   {
     "code": "1809112009",
     "district_code": "180911",
-    "name": "Pesawaran Indah"
+    "name": "Pesawaran Indah",
+    "postal_code": "35455"
   },
   {
     "code": "1809112010",
     "district_code": "180911",
-    "name": "Harapan Jaya"
+    "name": "Harapan Jaya",
+    "postal_code": "35455"
   },
   {
     "code": "1809112011",
     "district_code": "180911",
-    "name": "Kalirejo"
+    "name": "Kalirejo",
+    "postal_code": "35455"
   }
 ]

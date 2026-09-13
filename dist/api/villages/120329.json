@@ -2,46 +2,55 @@
   {
     "code": "1203291002",
     "district_code": "120329",
-    "name": "Hutaraja"
+    "name": "Hutaraja",
+    "postal_code": "22736"
   },
   {
     "code": "1203291008",
     "district_code": "120329",
-    "name": "Muara Manompas"
+    "name": "Muara Manompas",
+    "postal_code": "22736"
   },
   {
     "code": "1203291009",
     "district_code": "120329",
-    "name": "Muara Ampolu"
+    "name": "Muara Ampolu",
+    "postal_code": "22736"
   },
   {
     "code": "1203292001",
     "district_code": "120329",
-    "name": "Bandar Hapinis"
+    "name": "Bandar Hapinis",
+    "postal_code": "22736"
   },
   {
     "code": "1203292003",
     "district_code": "120329",
-    "name": "Pardamean"
+    "name": "Pardamean",
+    "postal_code": "22736"
   },
   {
     "code": "1203292004",
     "district_code": "120329",
-    "name": "Tarapung Raya"
+    "name": "Tarapung Raya",
+    "postal_code": "22736"
   },
   {
     "code": "1203292007",
     "district_code": "120329",
-    "name": "Muara Opu"
+    "name": "Muara Opu",
+    "postal_code": "22736"
   },
   {
     "code": "1203292010",
     "district_code": "120329",
-    "name": "Simarlelan"
+    "name": "Simarlelan",
+    "postal_code": "22736"
   },
   {
     "code": "1203292011",
     "district_code": "120329",
-    "name": "Muara Huta Raja"
+    "name": "Muara Huta Raja",
+    "postal_code": "22736"
   }
 ]

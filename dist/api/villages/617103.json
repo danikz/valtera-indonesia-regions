@@ -2,21 +2,25 @@
   {
     "code": "6171031001",
     "district_code": "617103",
-    "name": "Pallima"
+    "name": "Pallima",
+    "postal_code": "78114"
   },
   {
     "code": "6171031002",
     "district_code": "617103",
-    "name": "Sungaijawi Dalam"
+    "name": "Sungaijawi Dalam",
+    "postal_code": "78115"
   },
   {
     "code": "6171031003",
     "district_code": "617103",
-    "name": "Sungaijawi Luar"
+    "name": "Sungaijawi Luar",
+    "postal_code": "78113"
   },
   {
     "code": "6171031004",
     "district_code": "617103",
-    "name": "Sungaibeliung"
+    "name": "Sungaibeliung",
+    "postal_code": "78117"
   }
 ]

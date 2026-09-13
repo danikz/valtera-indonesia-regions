@@ -2,26 +2,31 @@
   {
     "code": "9401132001",
     "district_code": "940113",
-    "name": "Mambor"
+    "name": "Mambor",
+    "postal_code": "98864"
   },
   {
     "code": "9401132002",
     "district_code": "940113",
-    "name": "Hariti"
+    "name": "Hariti",
+    "postal_code": "98864"
   },
   {
     "code": "9401132003",
     "district_code": "940113",
-    "name": "Moor"
+    "name": "Moor",
+    "postal_code": "98864"
   },
   {
     "code": "9401132004",
     "district_code": "940113",
-    "name": "Kama"
+    "name": "Kama",
+    "postal_code": "98864"
   },
   {
     "code": "9401132005",
     "district_code": "940113",
-    "name": "Arui"
+    "name": "Arui",
+    "postal_code": "98864"
   }
 ]

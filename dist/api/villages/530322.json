@@ -2,21 +2,25 @@
   {
     "code": "5303222001",
     "district_code": "530322",
-    "name": "Teba"
+    "name": "Teba",
+    "postal_code": "85684"
   },
   {
     "code": "5303222002",
     "district_code": "530322",
-    "name": "Oerinbesi"
+    "name": "Oerinbesi",
+    "postal_code": "85684"
   },
   {
     "code": "5303222003",
     "district_code": "530322",
-    "name": "Oekopa"
+    "name": "Oekopa",
+    "postal_code": "85684"
   },
   {
     "code": "5303222004",
     "district_code": "530322",
-    "name": "T'Eba Timur"
+    "name": "T'Eba Timur",
+    "postal_code": "85684"
   }
 ]

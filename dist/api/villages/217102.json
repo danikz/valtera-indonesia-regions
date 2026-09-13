@@ -2,21 +2,25 @@
   {
     "code": "2171021001",
     "district_code": "217102",
-    "name": "Tanjung Sengkuang"
+    "name": "Tanjung Sengkuang",
+    "postal_code": "29453"
   },
   {
     "code": "2171021002",
     "district_code": "217102",
-    "name": "Sungai Jodoh"
+    "name": "Sungai Jodoh",
+    "postal_code": "29453"
   },
   {
     "code": "2171021003",
     "district_code": "217102",
-    "name": "Batu Merah"
+    "name": "Batu Merah",
+    "postal_code": "29452"
   },
   {
     "code": "2171021004",
     "district_code": "217102",
-    "name": "Kampung Seraya"
+    "name": "Kampung Seraya",
+    "postal_code": "29454"
   }
 ]

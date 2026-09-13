@@ -2,36 +2,43 @@
   {
     "code": "7326111001",
     "district_code": "732611",
-    "name": "Tallunglipu Matalo"
+    "name": "Tallunglipu Matalo",
+    "postal_code": "91832"
   },
   {
     "code": "7326111002",
     "district_code": "732611",
-    "name": "Tallunglipu"
+    "name": "Tallunglipu",
+    "postal_code": "91832"
   },
   {
     "code": "7326111003",
     "district_code": "732611",
-    "name": "Tampo Tallunglipu"
+    "name": "Tampo Tallunglipu",
+    "postal_code": "91832"
   },
   {
     "code": "7326111004",
     "district_code": "732611",
-    "name": "Tagari Tallunglipu"
+    "name": "Tagari Tallunglipu",
+    "postal_code": "91832"
   },
   {
     "code": "7326111005",
     "district_code": "732611",
-    "name": "Tantanan Tallunglipu"
+    "name": "Tantanan Tallunglipu",
+    "postal_code": "91832"
   },
   {
     "code": "7326111007",
     "district_code": "732611",
-    "name": "Rante PakuTallunglipu"
+    "name": "Rante PakuTallunglipu",
+    "postal_code": "91832"
   },
   {
     "code": "7326112006",
     "district_code": "732611",
-    "name": "Buntu Tallunglipu"
+    "name": "Buntu Tallunglipu",
+    "postal_code": "91832"
   }
 ]

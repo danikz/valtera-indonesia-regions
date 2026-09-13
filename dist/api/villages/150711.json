@@ -2,31 +2,37 @@
   {
     "code": "1507111001",
     "district_code": "150711",
-    "name": "Simpang"
+    "name": "Simpang",
+    "postal_code": "36751"
   },
   {
     "code": "1507112002",
     "district_code": "150711",
-    "name": "Rantau Rasau Desa"
+    "name": "Rantau Rasau Desa",
+    "postal_code": "36751"
   },
   {
     "code": "1507112003",
     "district_code": "150711",
-    "name": "Rantau Makmur"
+    "name": "Rantau Makmur",
+    "postal_code": "36751"
   },
   {
     "code": "1507112004",
     "district_code": "150711",
-    "name": "Sungai Rambut"
+    "name": "Sungai Rambut",
+    "postal_code": "36751"
   },
   {
     "code": "1507112005",
     "district_code": "150711",
-    "name": "Rawasari"
+    "name": "Rawasari",
+    "postal_code": "36751"
   },
   {
     "code": "1507112006",
     "district_code": "150711",
-    "name": "Telaga Limo"
+    "name": "Telaga Limo",
+    "postal_code": "36751"
   }
 ]

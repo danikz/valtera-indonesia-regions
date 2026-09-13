@@ -2,61 +2,73 @@
   {
     "code": "2104021010",
     "district_code": "210402",
-    "name": "Daik"
+    "name": "Daik",
+    "postal_code": "29872"
   },
   {
     "code": "2104021020",
     "district_code": "210402",
-    "name": "Daik Sepincan"
+    "name": "Daik Sepincan",
+    "postal_code": "29872"
   },
   {
     "code": "2104022001",
     "district_code": "210402",
-    "name": "Pekajang"
+    "name": "Pekajang",
+    "postal_code": "29872"
   },
   {
     "code": "2104022002",
     "district_code": "210402",
-    "name": "Kelombok"
+    "name": "Kelombok",
+    "postal_code": "29872"
   },
   {
     "code": "2104022003",
     "district_code": "210402",
-    "name": "Mepar"
+    "name": "Mepar",
+    "postal_code": "29872"
   },
   {
     "code": "2104022006",
     "district_code": "210402",
-    "name": "Kelumu"
+    "name": "Kelumu",
+    "postal_code": "29872"
   },
   {
     "code": "2104022007",
     "district_code": "210402",
-    "name": "Mentuda"
+    "name": "Mentuda",
+    "postal_code": "29872"
   },
   {
     "code": "2104022008",
     "district_code": "210402",
-    "name": "Merawang"
+    "name": "Merawang",
+    "postal_code": "29872"
   },
   {
     "code": "2104022009",
     "district_code": "210402",
-    "name": "Panggak Darat"
+    "name": "Panggak Darat",
+    "postal_code": "29872"
   },
   {
     "code": "2104022011",
     "district_code": "210402",
-    "name": "Panggak Laut"
+    "name": "Panggak Laut",
+    "postal_code": "29872"
   },
   {
     "code": "2104022012",
     "district_code": "210402",
-    "name": "Musai"
+    "name": "Musai",
+    "postal_code": "29872"
   },
   {
     "code": "2104022019",
     "district_code": "210402",
-    "name": "Nerekeh"
+    "name": "Nerekeh",
+    "postal_code": "29872"
   }
 ]

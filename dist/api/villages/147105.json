@@ -2,31 +2,37 @@
   {
     "code": "1471051001",
     "district_code": "147105",
-    "name": "Padang Bulan"
+    "name": "Padang Bulan",
+    "postal_code": "28156"
   },
   {
     "code": "1471051002",
     "district_code": "147105",
-    "name": "Sago"
+    "name": "Sago",
+    "postal_code": "28151"
   },
   {
     "code": "1471051003",
     "district_code": "147105",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "28154"
   },
   {
     "code": "1471051004",
     "district_code": "147105",
-    "name": "Kampung Dalam"
+    "name": "Kampung Dalam",
+    "postal_code": "28152"
   },
   {
     "code": "1471051005",
     "district_code": "147105",
-    "name": "Kampung Bandar"
+    "name": "Kampung Bandar",
+    "postal_code": "28153"
   },
   {
     "code": "1471051006",
     "district_code": "147105",
-    "name": "Padang Terubuk"
+    "name": "Padang Terubuk",
+    "postal_code": "28155"
   }
 ]

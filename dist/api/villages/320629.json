@@ -2,26 +2,31 @@
   {
     "code": "3206292001",
     "district_code": "320629",
-    "name": "Cilampunghilir"
+    "name": "Cilampunghilir",
+    "postal_code": "46466"
   },
   {
     "code": "3206292002",
     "district_code": "320629",
-    "name": "Rancapaku"
+    "name": "Rancapaku",
+    "postal_code": "46466"
   },
   {
     "code": "3206292003",
     "district_code": "320629",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "46466"
   },
   {
     "code": "3206292004",
     "district_code": "320629",
-    "name": "Cisaruni"
+    "name": "Cisaruni",
+    "postal_code": "46466"
   },
   {
     "code": "3206292005",
     "district_code": "320629",
-    "name": "Padakembang"
+    "name": "Padakembang",
+    "postal_code": "46466"
   }
 ]

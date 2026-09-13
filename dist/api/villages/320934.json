@@ -2,46 +2,55 @@
   {
     "code": "3209342001",
     "district_code": "320934",
-    "name": "Seuseupan"
+    "name": "Seuseupan",
+    "postal_code": "45184"
   },
   {
     "code": "3209342002",
     "district_code": "320934",
-    "name": "Blender"
+    "name": "Blender",
+    "postal_code": "45184"
   },
   {
     "code": "3209342003",
     "district_code": "320934",
-    "name": "Sumurkondang"
+    "name": "Sumurkondang",
+    "postal_code": "45184"
   },
   {
     "code": "3209342004",
     "district_code": "320934",
-    "name": "Kubangdeleg"
+    "name": "Kubangdeleg",
+    "postal_code": "45184"
   },
   {
     "code": "3209342005",
     "district_code": "320934",
-    "name": "Jatipiring"
+    "name": "Jatipiring",
+    "postal_code": "45184"
   },
   {
     "code": "3209342006",
     "district_code": "320934",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "45184"
   },
   {
     "code": "3209342007",
     "district_code": "320934",
-    "name": "Karangwangi"
+    "name": "Karangwangi",
+    "postal_code": "45184"
   },
   {
     "code": "3209342008",
     "district_code": "320934",
-    "name": "Karangwareng"
+    "name": "Karangwareng",
+    "postal_code": "45184"
   },
   {
     "code": "3209342009",
     "district_code": "320934",
-    "name": "Karangasem"
+    "name": "Karangasem",
+    "postal_code": "45184"
   }
 ]

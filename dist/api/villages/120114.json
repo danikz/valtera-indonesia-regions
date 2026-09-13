@@ -2,46 +2,55 @@
   {
     "code": "1201141001",
     "district_code": "120114",
-    "name": "Tukka"
+    "name": "Tukka",
+    "postal_code": "22617"
   },
   {
     "code": "1201141002",
     "district_code": "120114",
-    "name": "Bona Lumban"
+    "name": "Bona Lumban",
+    "postal_code": "22617"
   },
   {
     "code": "1201141003",
     "district_code": "120114",
-    "name": "Huta Nabolon"
+    "name": "Huta Nabolon",
+    "postal_code": "22617"
   },
   {
     "code": "1201141007",
     "district_code": "120114",
-    "name": "Sipange"
+    "name": "Sipange",
+    "postal_code": "22617"
   },
   {
     "code": "1201141009",
     "district_code": "120114",
-    "name": "Aek Tolang Induk"
+    "name": "Aek Tolang Induk",
+    "postal_code": "22617"
   },
   {
     "code": "1201142004",
     "district_code": "120114",
-    "name": "Sigiring Giring"
+    "name": "Sigiring Giring",
+    "postal_code": "22617"
   },
   {
     "code": "1201142005",
     "district_code": "120114",
-    "name": "Tapian Nauli/ Saurmanggita"
+    "name": "Tapian Nauli/ Saurmanggita",
+    "postal_code": "22617"
   },
   {
     "code": "1201142006",
     "district_code": "120114",
-    "name": "Sait Kalangan II"
+    "name": "Sait Kalangan II",
+    "postal_code": "22618"
   },
   {
     "code": "1201142008",
     "district_code": "120114",
-    "name": "Aek Bottar"
+    "name": "Aek Bottar",
+    "postal_code": "22617"
   }
 ]

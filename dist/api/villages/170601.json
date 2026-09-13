@@ -2,36 +2,43 @@
   {
     "code": "1706012005",
     "district_code": "170601",
-    "name": "Suka Pindah"
+    "name": "Suka Pindah",
+    "postal_code": "38756"
   },
   {
     "code": "1706012006",
     "district_code": "170601",
-    "name": "Lubuk Pinang"
+    "name": "Lubuk Pinang",
+    "postal_code": "38756"
   },
   {
     "code": "1706012007",
     "district_code": "170601",
-    "name": "Arah Tiga"
+    "name": "Arah Tiga",
+    "postal_code": "38756"
   },
   {
     "code": "1706012008",
     "district_code": "170601",
-    "name": "Lubuk Gedang"
+    "name": "Lubuk Gedang",
+    "postal_code": "38756"
   },
   {
     "code": "1706012009",
     "district_code": "170601",
-    "name": "Tanjung Alai"
+    "name": "Tanjung Alai",
+    "postal_code": "38756"
   },
   {
     "code": "1706012013",
     "district_code": "170601",
-    "name": "Sumber Makmur"
+    "name": "Sumber Makmur",
+    "postal_code": "38756"
   },
   {
     "code": "1706012018",
     "district_code": "170601",
-    "name": "Ranah Karya"
+    "name": "Ranah Karya",
+    "postal_code": "38756"
   }
 ]

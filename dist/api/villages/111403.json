@@ -2,66 +2,79 @@
   {
     "code": "1114032001",
     "district_code": "111403",
-    "name": "Sawang"
+    "name": "Sawang",
+    "postal_code": "23655"
   },
   {
     "code": "1114032002",
     "district_code": "111403",
-    "name": "Lhok Geulumpang"
+    "name": "Lhok Geulumpang",
+    "postal_code": "23655"
   },
   {
     "code": "1114032003",
     "district_code": "111403",
-    "name": "Padang"
+    "name": "Padang",
+    "postal_code": "23655"
   },
   {
     "code": "1114032004",
     "district_code": "111403",
-    "name": "Gunong Meunasah"
+    "name": "Gunong Meunasah",
+    "postal_code": "23655"
   },
   {
     "code": "1114032005",
     "district_code": "111403",
-    "name": "Sapek"
+    "name": "Sapek",
+    "postal_code": "23655"
   },
   {
     "code": "1114032006",
     "district_code": "111403",
-    "name": "Pante Kuyun"
+    "name": "Pante Kuyun",
+    "postal_code": "23655"
   },
   {
     "code": "1114032007",
     "district_code": "111403",
-    "name": "Glee Seubak"
+    "name": "Glee Seubak",
+    "postal_code": "23655"
   },
   {
     "code": "1114032008",
     "district_code": "111403",
-    "name": "Gampong Baroh"
+    "name": "Gampong Baroh",
+    "postal_code": "23655"
   },
   {
     "code": "1114032009",
     "district_code": "111403",
-    "name": "Lhok Timon"
+    "name": "Lhok Timon",
+    "postal_code": "23655"
   },
   {
     "code": "1114032010",
     "district_code": "111403",
-    "name": "Gampong Baro"
+    "name": "Gampong Baro",
+    "postal_code": "23655"
   },
   {
     "code": "1114032011",
     "district_code": "111403",
-    "name": "Lhok Buya"
+    "name": "Lhok Buya",
+    "postal_code": "23655"
   },
   {
     "code": "1114032012",
     "district_code": "111403",
-    "name": "Lhok Bot"
+    "name": "Lhok Bot",
+    "postal_code": "23655"
   },
   {
     "code": "1114032013",
     "district_code": "111403",
-    "name": "Paya Laot"
+    "name": "Paya Laot",
+    "postal_code": "23655"
   }
 ]

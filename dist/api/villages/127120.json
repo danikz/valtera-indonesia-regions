@@ -2,56 +2,67 @@
   {
     "code": "1271201001",
     "district_code": "127120",
-    "name": "Gang Buntu"
+    "name": "Gang Buntu",
+    "postal_code": "20231"
   },
   {
     "code": "1271201002",
     "district_code": "127120",
-    "name": "Sidodadi"
+    "name": "Sidodadi",
+    "postal_code": "20234"
   },
   {
     "code": "1271201003",
     "district_code": "127120",
-    "name": "Durian"
+    "name": "Durian",
+    "postal_code": "20235"
   },
   {
     "code": "1271201004",
     "district_code": "127120",
-    "name": "Glugur Darat I"
+    "name": "Glugur Darat I",
+    "postal_code": "20238"
   },
   {
     "code": "1271201005",
     "district_code": "127120",
-    "name": "Glugur Darat II"
+    "name": "Glugur Darat II",
+    "postal_code": "20238"
   },
   {
     "code": "1271201006",
     "district_code": "127120",
-    "name": "P Berayan Darat I"
+    "name": "P Berayan Darat I",
+    "postal_code": "20239"
   },
   {
     "code": "1271201007",
     "district_code": "127120",
-    "name": "P Berayan Darat II"
+    "name": "P Berayan Darat II",
+    "postal_code": "20239"
   },
   {
     "code": "1271201008",
     "district_code": "127120",
-    "name": "P Berayan Bengkel"
+    "name": "P Berayan Bengkel",
+    "postal_code": "20239"
   },
   {
     "code": "1271201009",
     "district_code": "127120",
-    "name": "PB Bengkel Baru"
+    "name": "PB Bengkel Baru",
+    "postal_code": "20239"
   },
   {
     "code": "1271201010",
     "district_code": "127120",
-    "name": "Perintis"
+    "name": "Perintis",
+    "postal_code": "20231"
   },
   {
     "code": "1271201011",
     "district_code": "127120",
-    "name": "Gaharu"
+    "name": "Gaharu",
+    "postal_code": "20235"
   }
 ]

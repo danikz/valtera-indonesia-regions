@@ -2,46 +2,55 @@
   {
     "code": "3507202001",
     "district_code": "350720",
-    "name": "Ngajum"
+    "name": "Ngajum",
+    "postal_code": "65164"
   },
   {
     "code": "3507202002",
     "district_code": "350720",
-    "name": "Palaan"
+    "name": "Palaan",
+    "postal_code": "65164"
   },
   {
     "code": "3507202003",
     "district_code": "350720",
-    "name": "Ngasem"
+    "name": "Ngasem",
+    "postal_code": "65164"
   },
   {
     "code": "3507202004",
     "district_code": "350720",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "65164"
   },
   {
     "code": "3507202005",
     "district_code": "350720",
-    "name": "Kranggan"
+    "name": "Kranggan",
+    "postal_code": "65164"
   },
   {
     "code": "3507202006",
     "district_code": "350720",
-    "name": "Kesamben"
+    "name": "Kesamben",
+    "postal_code": "65164"
   },
   {
     "code": "3507202007",
     "district_code": "350720",
-    "name": "Babadan"
+    "name": "Babadan",
+    "postal_code": "65164"
   },
   {
     "code": "3507202008",
     "district_code": "350720",
-    "name": "Balesari"
+    "name": "Balesari",
+    "postal_code": "65164"
   },
   {
     "code": "3507202009",
     "district_code": "350720",
-    "name": "Maguan"
+    "name": "Maguan",
+    "postal_code": "65164"
   }
 ]

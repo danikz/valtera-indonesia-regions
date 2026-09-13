@@ -2,46 +2,55 @@
   {
     "code": "5307102005",
     "district_code": "530710",
-    "name": "Seusina"
+    "name": "Seusina",
+    "postal_code": "86182"
   },
   {
     "code": "5307102007",
     "district_code": "530710",
-    "name": "Kopong"
+    "name": "Kopong",
+    "postal_code": "86182"
   },
   {
     "code": "5307102008",
     "district_code": "530710",
-    "name": "Namangkewa"
+    "name": "Namangkewa",
+    "postal_code": "86182"
   },
   {
     "code": "5307102009",
     "district_code": "530710",
-    "name": "Iantena"
+    "name": "Iantena",
+    "postal_code": "86182"
   },
   {
     "code": "5307102016",
     "district_code": "530710",
-    "name": "Umagera"
+    "name": "Umagera",
+    "postal_code": "86182"
   },
   {
     "code": "5307102020",
     "district_code": "530710",
-    "name": "Geliting"
+    "name": "Geliting",
+    "postal_code": "86182"
   },
   {
     "code": "5307102021",
     "district_code": "530710",
-    "name": "Waiara"
+    "name": "Waiara",
+    "postal_code": "86182"
   },
   {
     "code": "5307102024",
     "district_code": "530710",
-    "name": "Wairkoja"
+    "name": "Wairkoja",
+    "postal_code": "86182"
   },
   {
     "code": "5307102026",
     "district_code": "530710",
-    "name": "Watukobu"
+    "name": "Watukobu",
+    "postal_code": "86182"
   }
 ]

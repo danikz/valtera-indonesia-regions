@@ -2,66 +2,79 @@
   {
     "code": "3210192001",
     "district_code": "321019",
-    "name": "Majasuka"
+    "name": "Majasuka",
+    "postal_code": "45475"
   },
   {
     "code": "3210192002",
     "district_code": "321019",
-    "name": "Cisambeng"
+    "name": "Cisambeng",
+    "postal_code": "45475"
   },
   {
     "code": "3210192003",
     "district_code": "321019",
-    "name": "Palasah"
+    "name": "Palasah",
+    "postal_code": "45475"
   },
   {
     "code": "3210192004",
     "district_code": "321019",
-    "name": "Weragati"
+    "name": "Weragati",
+    "postal_code": "45475"
   },
   {
     "code": "3210192005",
     "district_code": "321019",
-    "name": "Trajaya"
+    "name": "Trajaya",
+    "postal_code": "45475"
   },
   {
     "code": "3210192006",
     "district_code": "321019",
-    "name": "Tarikolot"
+    "name": "Tarikolot",
+    "postal_code": "45475"
   },
   {
     "code": "3210192007",
     "district_code": "321019",
-    "name": "Buniwangi"
+    "name": "Buniwangi",
+    "postal_code": "45475"
   },
   {
     "code": "3210192008",
     "district_code": "321019",
-    "name": "Sindanghaji"
+    "name": "Sindanghaji",
+    "postal_code": "45475"
   },
   {
     "code": "3210192009",
     "district_code": "321019",
-    "name": "Waringin"
+    "name": "Waringin",
+    "postal_code": "45475"
   },
   {
     "code": "3210192010",
     "district_code": "321019",
-    "name": "Pasir"
+    "name": "Pasir",
+    "postal_code": "45475"
   },
   {
     "code": "3210192011",
     "district_code": "321019",
-    "name": "Karamat"
+    "name": "Karamat",
+    "postal_code": "45475"
   },
   {
     "code": "3210192012",
     "district_code": "321019",
-    "name": "Enggalwangi"
+    "name": "Enggalwangi",
+    "postal_code": "45475"
   },
   {
     "code": "3210192013",
     "district_code": "321019",
-    "name": "Sindangwasa"
+    "name": "Sindangwasa",
+    "postal_code": "45475"
   }
 ]

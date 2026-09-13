@@ -2,71 +2,85 @@
   {
     "code": "1406021001",
     "district_code": "140602",
-    "name": "Rokan"
+    "name": "Rokan",
+    "postal_code": "28551"
   },
   {
     "code": "1406022002",
     "district_code": "140602",
-    "name": "Cipang Kanan"
+    "name": "Cipang Kanan",
+    "postal_code": "28551"
   },
   {
     "code": "1406022003",
     "district_code": "140602",
-    "name": "Cipang Kiri Hulu"
+    "name": "Cipang Kiri Hulu",
+    "postal_code": "28551"
   },
   {
     "code": "1406022004",
     "district_code": "140602",
-    "name": "Cipang Kiri Hilir"
+    "name": "Cipang Kiri Hilir",
+    "postal_code": "28551"
   },
   {
     "code": "1406022006",
     "district_code": "140602",
-    "name": "Tanjung Medan"
+    "name": "Tanjung Medan",
+    "postal_code": "28551"
   },
   {
     "code": "1406022007",
     "district_code": "140602",
-    "name": "Lubuk Bendahara Timur"
+    "name": "Lubuk Bendahara Timur",
+    "postal_code": "28551"
   },
   {
     "code": "1406022008",
     "district_code": "140602",
-    "name": "Lubuk Bendahara"
+    "name": "Lubuk Bendahara",
+    "postal_code": "28551"
   },
   {
     "code": "1406022010",
     "district_code": "140602",
-    "name": "Sikebau Jaya"
+    "name": "Sikebau Jaya",
+    "postal_code": "28551"
   },
   {
     "code": "1406022013",
     "district_code": "140602",
-    "name": "Rokan Koto Ruang"
+    "name": "Rokan Koto Ruang",
+    "postal_code": "28551"
   },
   {
     "code": "1406022014",
     "district_code": "140602",
-    "name": "Rokan Timur"
+    "name": "Rokan Timur",
+    "postal_code": "28551"
   },
   {
     "code": "1406022016",
     "district_code": "140602",
-    "name": "Lubuk Betung"
+    "name": "Lubuk Betung",
+    "postal_code": "28551"
   },
   {
     "code": "1406022017",
     "district_code": "140602",
-    "name": "Pemandang"
+    "name": "Pemandang",
+    "postal_code": "28551"
   },
   {
     "code": "1406022018",
     "district_code": "140602",
-    "name": "Alahan"
+    "name": "Alahan",
+    "postal_code": "28551"
   },
   {
     "code": "1406022019",
     "district_code": "140602",
-    "name": "Tibawan"
+    "name": "Tibawan",
+    "postal_code": "28551"
   }
 ]

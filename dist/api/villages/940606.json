@@ -2,21 +2,25 @@
   {
     "code": "9406062001",
     "district_code": "940606",
-    "name": "Abouyaga"
+    "name": "Abouyaga",
+    "postal_code": "98872"
   },
   {
     "code": "9406062002",
     "district_code": "940606",
-    "name": "Maikotu"
+    "name": "Maikotu",
+    "postal_code": "98872"
   },
   {
     "code": "9406062003",
     "district_code": "940606",
-    "name": "Taubaikebo"
+    "name": "Taubaikebo",
+    "postal_code": "98872"
   },
   {
     "code": "9406062004",
     "district_code": "940606",
-    "name": "Yegoukotu"
+    "name": "Yegoukotu",
+    "postal_code": "98872"
   }
 ]

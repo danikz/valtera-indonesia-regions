@@ -2,51 +2,61 @@
   {
     "code": "8105012003",
     "district_code": "810501",
-    "name": "Bula"
+    "name": "Bula",
+    "postal_code": "97521"
   },
   {
     "code": "8105012004",
     "district_code": "810501",
-    "name": "Salas"
+    "name": "Salas",
+    "postal_code": "97521"
   },
   {
     "code": "8105012010",
     "district_code": "810501",
-    "name": "Englas"
+    "name": "Englas",
+    "postal_code": "97521"
   },
   {
     "code": "8105012011",
     "district_code": "810501",
-    "name": "Bula Air Fatolo"
+    "name": "Bula Air Fatolo",
+    "postal_code": "97521"
   },
   {
     "code": "8105012012",
     "district_code": "810501",
-    "name": "Sesar"
+    "name": "Sesar",
+    "postal_code": "97521"
   },
   {
     "code": "8105012022",
     "district_code": "810501",
-    "name": "Tansi Ambon"
+    "name": "Tansi Ambon",
+    "postal_code": "97521"
   },
   {
     "code": "8105012023",
     "district_code": "810501",
-    "name": "Kampung Wailola"
+    "name": "Kampung Wailola",
+    "postal_code": "97521"
   },
   {
     "code": "8105012024",
     "district_code": "810501",
-    "name": "Kampung Gorom"
+    "name": "Kampung Gorom",
+    "postal_code": "97521"
   },
   {
     "code": "8105012025",
     "district_code": "810501",
-    "name": "Limumir"
+    "name": "Limumir",
+    "postal_code": "97521"
   },
   {
     "code": "8105012026",
     "district_code": "810501",
-    "name": "Fattolo"
+    "name": "Fattolo",
+    "postal_code": "97521"
   }
 ]

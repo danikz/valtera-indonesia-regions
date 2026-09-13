@@ -2,66 +2,79 @@
   {
     "code": "1205101008",
     "district_code": "120510",
-    "name": "Kebun Lada"
+    "name": "Kebun Lada",
+    "postal_code": "20854"
   },
   {
     "code": "1205102001",
     "district_code": "120510",
-    "name": "Cempa"
+    "name": "Cempa",
+    "postal_code": "20854"
   },
   {
     "code": "1205102002",
     "district_code": "120510",
-    "name": "Batu Malenggang"
+    "name": "Batu Malenggang",
+    "postal_code": "20854"
   },
   {
     "code": "1205102003",
     "district_code": "120510",
-    "name": "Tamaran"
+    "name": "Tamaran",
+    "postal_code": "20854"
   },
   {
     "code": "1205102004",
     "district_code": "120510",
-    "name": "Tanjung Mulya"
+    "name": "Tanjung Mulya",
+    "postal_code": "20854"
   },
   {
     "code": "1205102005",
     "district_code": "120510",
-    "name": "Muka Paya"
+    "name": "Muka Paya",
+    "postal_code": "20854"
   },
   {
     "code": "1205102006",
     "district_code": "120510",
-    "name": "Hinai Kanan"
+    "name": "Hinai Kanan",
+    "postal_code": "20854"
   },
   {
     "code": "1205102007",
     "district_code": "120510",
-    "name": "Suka Damai"
+    "name": "Suka Damai",
+    "postal_code": "20854"
   },
   {
     "code": "1205102009",
     "district_code": "120510",
-    "name": "Baru Pasar VIII"
+    "name": "Baru Pasar VIII",
+    "postal_code": "20854"
   },
   {
     "code": "1205102010",
     "district_code": "120510",
-    "name": "Perkebunan Tanjung Beringin"
+    "name": "Perkebunan Tanjung Beringin",
+    "postal_code": "20854"
   },
   {
     "code": "1205102011",
     "district_code": "120510",
-    "name": "Suka Jadi"
+    "name": "Suka Jadi",
+    "postal_code": "20854"
   },
   {
     "code": "1205102012",
     "district_code": "120510",
-    "name": "Paya Rengas"
+    "name": "Paya Rengas",
+    "postal_code": "20854"
   },
   {
     "code": "1205102013",
     "district_code": "120510",
-    "name": "Suka Damai Timur"
+    "name": "Suka Damai Timur",
+    "postal_code": "20854"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "9202131001",
     "district_code": "920213",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "98311"
   },
   {
     "code": "9202132002",
     "district_code": "920213",
-    "name": "Mansinam"
+    "name": "Mansinam",
+    "postal_code": "98311"
   },
   {
     "code": "9202132003",
     "district_code": "920213",
-    "name": "Ayambori"
+    "name": "Ayambori",
+    "postal_code": "98311"
   },
   {
     "code": "9202132004",
     "district_code": "920213",
-    "name": "Bakaro"
+    "name": "Bakaro",
+    "postal_code": "98311"
   },
   {
     "code": "9202132005",
     "district_code": "920213",
-    "name": "Arowi"
+    "name": "Arowi",
+    "postal_code": "98311"
   },
   {
     "code": "9202132006",
     "district_code": "920213",
-    "name": "Aipiri"
+    "name": "Aipiri",
+    "postal_code": "98311"
   },
   {
     "code": "9202132007",
     "district_code": "920213",
-    "name": "Susweni"
+    "name": "Susweni",
+    "postal_code": "98311"
   }
 ]

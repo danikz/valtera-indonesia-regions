@@ -2,51 +2,61 @@
   {
     "code": "7172081001",
     "district_code": "717208",
-    "name": "Mawali"
+    "name": "Mawali",
+    "postal_code": "95555"
   },
   {
     "code": "7172081002",
     "district_code": "717208",
-    "name": "Pintukota"
+    "name": "Pintukota",
+    "postal_code": "95557"
   },
   {
     "code": "7172081003",
     "district_code": "717208",
-    "name": "Binuang"
+    "name": "Binuang",
+    "postal_code": "95558"
   },
   {
     "code": "7172081004",
     "district_code": "717208",
-    "name": "Motto"
+    "name": "Motto",
+    "postal_code": "95559"
   },
   {
     "code": "7172081005",
     "district_code": "717208",
-    "name": "Lirang"
+    "name": "Lirang",
+    "postal_code": "95559"
   },
   {
     "code": "7172081006",
     "district_code": "717208",
-    "name": "Posokan"
+    "name": "Posokan",
+    "postal_code": "95551"
   },
   {
     "code": "7172081007",
     "district_code": "717208",
-    "name": "Nusu"
+    "name": "Nusu",
+    "postal_code": "95551"
   },
   {
     "code": "7172081008",
     "district_code": "717208",
-    "name": "Kareko"
+    "name": "Kareko",
+    "postal_code": "95551"
   },
   {
     "code": "7172081009",
     "district_code": "717208",
-    "name": "Gunung Woka"
+    "name": "Gunung Woka",
+    "postal_code": "95551"
   },
   {
     "code": "7172081010",
     "district_code": "717208",
-    "name": "Batukota"
+    "name": "Batukota",
+    "postal_code": "95551"
   }
 ]

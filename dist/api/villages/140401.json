@@ -2,71 +2,85 @@
   {
     "code": "1404011001",
     "district_code": "140401",
-    "name": "Pulaukijang"
+    "name": "Pulaukijang",
+    "postal_code": "29273"
   },
   {
     "code": "1404011017",
     "district_code": "140401",
-    "name": "Metro"
+    "name": "Metro",
+    "postal_code": "29273"
   },
   {
     "code": "1404011018",
     "district_code": "140401",
-    "name": "Madani"
+    "name": "Madani",
+    "postal_code": "29273"
   },
   {
     "code": "1404012002",
     "district_code": "140401",
-    "name": "Sanglar"
+    "name": "Sanglar",
+    "postal_code": "29273"
   },
   {
     "code": "1404012003",
     "district_code": "140401",
-    "name": "Pulaukecil"
+    "name": "Pulaukecil",
+    "postal_code": "29273"
   },
   {
     "code": "1404012004",
     "district_code": "140401",
-    "name": "Sungaiterap"
+    "name": "Sungaiterap",
+    "postal_code": "29273"
   },
   {
     "code": "1404012009",
     "district_code": "140401",
-    "name": "Sungaiundan"
+    "name": "Sungaiundan",
+    "postal_code": "29273"
   },
   {
     "code": "1404012010",
     "district_code": "140401",
-    "name": "Seberang Sanglar"
+    "name": "Seberang Sanglar",
+    "postal_code": "29273"
   },
   {
     "code": "1404012011",
     "district_code": "140401",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "29273"
   },
   {
     "code": "1404012012",
     "district_code": "140401",
-    "name": "Seberang Pulau Kijang"
+    "name": "Seberang Pulau Kijang",
+    "postal_code": "29273"
   },
   {
     "code": "1404012013",
     "district_code": "140401",
-    "name": "Sungaiasam"
+    "name": "Sungaiasam",
+    "postal_code": "29273"
   },
   {
     "code": "1404012014",
     "district_code": "140401",
-    "name": "Pulauruku"
+    "name": "Pulauruku",
+    "postal_code": "29273"
   },
   {
     "code": "1404012019",
     "district_code": "140401",
-    "name": "Tanjunglabuh"
+    "name": "Tanjunglabuh",
+    "postal_code": "29273"
   },
   {
     "code": "1404012020",
     "district_code": "140401",
-    "name": "Sungaimahang"
+    "name": "Sungaimahang",
+    "postal_code": "29273"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "1305082001",
     "district_code": "130508",
-    "name": "Kuranji Hilir"
+    "name": "Kuranji Hilir",
+    "postal_code": "25561"
   },
   {
     "code": "1305082002",
     "district_code": "130508",
-    "name": "Pilubang"
+    "name": "Pilubang",
+    "postal_code": "25561"
   },
   {
     "code": "1305082003",
     "district_code": "130508",
-    "name": "Guguak Kuranji Hilir"
+    "name": "Guguak Kuranji Hilir",
+    "postal_code": "25561"
   },
   {
     "code": "1305082004",
     "district_code": "130508",
-    "name": "Koto Tinggi Kuranji Hilir"
+    "name": "Koto Tinggi Kuranji Hilir",
+    "postal_code": "25561"
   }
 ]

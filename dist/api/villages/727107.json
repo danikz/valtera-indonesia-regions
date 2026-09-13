@@ -2,26 +2,31 @@
   {
     "code": "7271071001",
     "district_code": "727107",
-    "name": "Pantoloan"
+    "name": "Pantoloan",
+    "postal_code": "94143"
   },
   {
     "code": "7271071002",
     "district_code": "727107",
-    "name": "Pantoloan Boya"
+    "name": "Pantoloan Boya",
+    "postal_code": "94143"
   },
   {
     "code": "7271071003",
     "district_code": "727107",
-    "name": "Baiya"
+    "name": "Baiya",
+    "postal_code": "94142"
   },
   {
     "code": "7271071004",
     "district_code": "727107",
-    "name": "Lambara"
+    "name": "Lambara",
+    "postal_code": "94141"
   },
   {
     "code": "7271071005",
     "district_code": "727107",
-    "name": "Panawu"
+    "name": "Panawu",
+    "postal_code": "94141"
   }
 ]

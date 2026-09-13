@@ -2,26 +2,31 @@
   {
     "code": "8104102001",
     "district_code": "810410",
-    "name": "Ilath"
+    "name": "Ilath",
+    "postal_code": "97574"
   },
   {
     "code": "8104102002",
     "district_code": "810410",
-    "name": "Batu Jungku"
+    "name": "Batu Jungku",
+    "postal_code": "97574"
   },
   {
     "code": "8104102003",
     "district_code": "810410",
-    "name": "Pela"
+    "name": "Pela",
+    "postal_code": "97574"
   },
   {
     "code": "8104102004",
     "district_code": "810410",
-    "name": "Waemorat"
+    "name": "Waemorat",
+    "postal_code": "97574"
   },
   {
     "code": "8104102006",
     "district_code": "810410",
-    "name": "Namlea Ilath"
+    "name": "Namlea Ilath",
+    "postal_code": "97574"
   }
 ]

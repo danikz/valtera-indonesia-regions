@@ -2,36 +2,43 @@
   {
     "code": "7326091001",
     "district_code": "732609",
-    "name": "Tikala"
+    "name": "Tikala",
+    "postal_code": "91833"
   },
   {
     "code": "7326091002",
     "district_code": "732609",
-    "name": "Buntu Barana"
+    "name": "Buntu Barana",
+    "postal_code": "91833"
   },
   {
     "code": "7326092003",
     "district_code": "732609",
-    "name": "Buntu Batu"
+    "name": "Buntu Batu",
+    "postal_code": "91833"
   },
   {
     "code": "7326092004",
     "district_code": "732609",
-    "name": "Sereale"
+    "name": "Sereale",
+    "postal_code": "91833"
   },
   {
     "code": "7326092005",
     "district_code": "732609",
-    "name": "Embatau"
+    "name": "Embatau",
+    "postal_code": "91833"
   },
   {
     "code": "7326092006",
     "district_code": "732609",
-    "name": "Benteng Ka'do To'rea"
+    "name": "Benteng Ka'do To'rea",
+    "postal_code": "91833"
   },
   {
     "code": "7326092007",
     "district_code": "732609",
-    "name": "Pangden"
+    "name": "Pangden",
+    "postal_code": "91833"
   }
 ]

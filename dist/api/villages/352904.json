@@ -2,41 +2,49 @@
   {
     "code": "3529042001",
     "district_code": "352904",
-    "name": "Talango"
+    "name": "Talango",
+    "postal_code": "69481"
   },
   {
     "code": "3529042002",
     "district_code": "352904",
-    "name": "Padike"
+    "name": "Padike",
+    "postal_code": "69481"
   },
   {
     "code": "3529042003",
     "district_code": "352904",
-    "name": "Cabbiya"
+    "name": "Cabbiya",
+    "postal_code": "69481"
   },
   {
     "code": "3529042004",
     "district_code": "352904",
-    "name": "Essang"
+    "name": "Essang",
+    "postal_code": "69481"
   },
   {
     "code": "3529042005",
     "district_code": "352904",
-    "name": "Kombang"
+    "name": "Kombang",
+    "postal_code": "69481"
   },
   {
     "code": "3529042006",
     "district_code": "352904",
-    "name": "Poteran"
+    "name": "Poteran",
+    "postal_code": "69481"
   },
   {
     "code": "3529042007",
     "district_code": "352904",
-    "name": "Palasa"
+    "name": "Palasa",
+    "postal_code": "69481"
   },
   {
     "code": "3529042008",
     "district_code": "352904",
-    "name": "Gapurana"
+    "name": "Gapurana",
+    "postal_code": "69481"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "1472051001",
     "district_code": "147205",
-    "name": "Teluk Makmur"
+    "name": "Teluk Makmur",
+    "postal_code": "28825"
   },
   {
     "code": "1472051002",
     "district_code": "147205",
-    "name": "Mundam"
+    "name": "Mundam",
+    "postal_code": "28825"
   },
   {
     "code": "1472051003",
     "district_code": "147205",
-    "name": "Guntung"
+    "name": "Guntung",
+    "postal_code": "28825"
   },
   {
     "code": "1472051004",
     "district_code": "147205",
-    "name": "Pelintung"
+    "name": "Pelintung",
+    "postal_code": "28825"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3574051001",
     "district_code": "357405",
-    "name": "Jrebeng Kulon"
+    "name": "Jrebeng Kulon",
+    "postal_code": "67229"
   },
   {
     "code": "3574051002",
     "district_code": "357405",
-    "name": "Kareng Lor"
+    "name": "Kareng Lor",
+    "postal_code": "67228"
   },
   {
     "code": "3574051003",
     "district_code": "357405",
-    "name": "Sumber Wetan"
+    "name": "Sumber Wetan",
+    "postal_code": "67227"
   },
   {
     "code": "3574051004",
     "district_code": "357405",
-    "name": "Jrebeng Lor"
+    "name": "Jrebeng Lor",
+    "postal_code": "67238"
   },
   {
     "code": "3574051005",
     "district_code": "357405",
-    "name": "Kedopok"
+    "name": "Kedopok",
+    "postal_code": "67231"
   },
   {
     "code": "3574051006",
     "district_code": "357405",
-    "name": "Jrebeng Wetan"
+    "name": "Jrebeng Wetan",
+    "postal_code": "67239"
   }
 ]

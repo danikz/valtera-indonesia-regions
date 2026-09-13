@@ -2,46 +2,55 @@
   {
     "code": "3213082001",
     "district_code": "321308",
-    "name": "Cicadas"
+    "name": "Cicadas",
+    "postal_code": "41253"
   },
   {
     "code": "3213082002",
     "district_code": "321308",
-    "name": "Kihiyang"
+    "name": "Kihiyang",
+    "postal_code": "41253"
   },
   {
     "code": "3213082003",
     "district_code": "321308",
-    "name": "Binong"
+    "name": "Binong",
+    "postal_code": "41253"
   },
   {
     "code": "3213082004",
     "district_code": "321308",
-    "name": "Kediri"
+    "name": "Kediri",
+    "postal_code": "41253"
   },
   {
     "code": "3213082010",
     "district_code": "321308",
-    "name": "Citrajaya"
+    "name": "Citrajaya",
+    "postal_code": "41253"
   },
   {
     "code": "3213082011",
     "district_code": "321308",
-    "name": "Mulyasari"
+    "name": "Mulyasari",
+    "postal_code": "41253"
   },
   {
     "code": "3213082014",
     "district_code": "321308",
-    "name": "Karangsari"
+    "name": "Karangsari",
+    "postal_code": "41253"
   },
   {
     "code": "3213082016",
     "district_code": "321308",
-    "name": "Karangwangi"
+    "name": "Karangwangi",
+    "postal_code": "41253"
   },
   {
     "code": "3213082018",
     "district_code": "321308",
-    "name": "Nanggerang"
+    "name": "Nanggerang",
+    "postal_code": "41253"
   }
 ]

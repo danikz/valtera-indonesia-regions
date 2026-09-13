@@ -2,41 +2,49 @@
   {
     "code": "3604172001",
     "district_code": "360417",
-    "name": "Carenang"
+    "name": "Carenang",
+    "postal_code": "42195"
   },
   {
     "code": "3604172002",
     "district_code": "360417",
-    "name": "Pamanuk"
+    "name": "Pamanuk",
+    "postal_code": "42195"
   },
   {
     "code": "3604172003",
     "district_code": "360417",
-    "name": "Mandaya"
+    "name": "Mandaya",
+    "postal_code": "42195"
   },
   {
     "code": "3604172004",
     "district_code": "360417",
-    "name": "Teras"
+    "name": "Teras",
+    "postal_code": "42195"
   },
   {
     "code": "3604172006",
     "district_code": "360417",
-    "name": "Ragasmasigit"
+    "name": "Ragasmasigit",
+    "postal_code": "42195"
   },
   {
     "code": "3604172007",
     "district_code": "360417",
-    "name": "Walikukun"
+    "name": "Walikukun",
+    "postal_code": "42195"
   },
   {
     "code": "3604172009",
     "district_code": "360417",
-    "name": "Panenjoan"
+    "name": "Panenjoan",
+    "postal_code": "42195"
   },
   {
     "code": "3604172010",
     "district_code": "360417",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "42195"
   }
 ]

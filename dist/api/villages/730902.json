@@ -2,41 +2,49 @@
   {
     "code": "7309021001",
     "district_code": "730902",
-    "name": "Cempaniga"
+    "name": "Cempaniga",
+    "postal_code": "90562"
   },
   {
     "code": "7309021002",
     "district_code": "730902",
-    "name": "Mario Pulana"
+    "name": "Mario Pulana",
+    "postal_code": "90562"
   },
   {
     "code": "7309022003",
     "district_code": "730902",
-    "name": "Timpuseng"
+    "name": "Timpuseng",
+    "postal_code": "90562"
   },
   {
     "code": "7309022004",
     "district_code": "730902",
-    "name": "Cenrana"
+    "name": "Cenrana",
+    "postal_code": "90562"
   },
   {
     "code": "7309022005",
     "district_code": "730902",
-    "name": "Sawaru"
+    "name": "Sawaru",
+    "postal_code": "90562"
   },
   {
     "code": "7309022006",
     "district_code": "730902",
-    "name": "Patanyamang"
+    "name": "Patanyamang",
+    "postal_code": "90562"
   },
   {
     "code": "7309022007",
     "district_code": "730902",
-    "name": "Pattiro Deceng"
+    "name": "Pattiro Deceng",
+    "postal_code": "90562"
   },
   {
     "code": "7309022008",
     "district_code": "730902",
-    "name": "Benteng"
+    "name": "Benteng",
+    "postal_code": "90562"
   }
 ]

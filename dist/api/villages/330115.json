@@ -2,81 +2,97 @@
   {
     "code": "3301152001",
     "district_code": "330115",
-    "name": "Tarisi"
+    "name": "Tarisi",
+    "postal_code": "53265"
   },
   {
     "code": "3301152002",
     "district_code": "330115",
-    "name": "Bantar"
+    "name": "Bantar",
+    "postal_code": "53265"
   },
   {
     "code": "3301152003",
     "district_code": "330115",
-    "name": "Wanareja"
+    "name": "Wanareja",
+    "postal_code": "53265"
   },
   {
     "code": "3301152004",
     "district_code": "330115",
-    "name": "Limbangan"
+    "name": "Limbangan",
+    "postal_code": "53232"
   },
   {
     "code": "3301152005",
     "district_code": "330115",
-    "name": "Malabar"
+    "name": "Malabar",
+    "postal_code": "53265"
   },
   {
     "code": "3301152006",
     "district_code": "330115",
-    "name": "Majingklak"
+    "name": "Majingklak",
+    "postal_code": "53265"
   },
   {
     "code": "3301152007",
     "district_code": "330115",
-    "name": "Madura"
+    "name": "Madura",
+    "postal_code": "53265"
   },
   {
     "code": "3301152008",
     "district_code": "330115",
-    "name": "Tambaksari"
+    "name": "Tambaksari",
+    "postal_code": "53265"
   },
   {
     "code": "3301152009",
     "district_code": "330115",
-    "name": "Palugon"
+    "name": "Palugon",
+    "postal_code": "53265"
   },
   {
     "code": "3301152010",
     "district_code": "330115",
-    "name": "Cigintung"
+    "name": "Cigintung",
+    "postal_code": "53222"
   },
   {
     "code": "3301152011",
     "district_code": "330115",
-    "name": "Jambu"
+    "name": "Jambu",
+    "postal_code": "53265"
   },
   {
     "code": "3301152012",
     "district_code": "330115",
-    "name": "Adimulya"
+    "name": "Adimulya",
+    "postal_code": "53265"
   },
   {
     "code": "3301152013",
     "district_code": "330115",
-    "name": "Sidamulya"
+    "name": "Sidamulya",
+    "postal_code": "53265"
   },
   {
     "code": "3301152014",
     "district_code": "330115",
-    "name": "Cilongkrang"
+    "name": "Cilongkrang",
+    "postal_code": "53265"
   },
   {
     "code": "3301152015",
     "district_code": "330115",
-    "name": "Purwasari"
+    "name": "Purwasari",
+    "postal_code": "53265"
   },
   {
     "code": "3301152016",
     "district_code": "330115",
-    "name": "Madusari"
+    "name": "Madusari",
+    "postal_code": "53265"
   }
 ]

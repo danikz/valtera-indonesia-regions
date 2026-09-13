@@ -2,41 +2,49 @@
   {
     "code": "3212312001",
     "district_code": "321231",
-    "name": "Limpas"
+    "name": "Limpas",
+    "postal_code": "45257"
   },
   {
     "code": "3212312002",
     "district_code": "321231",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "45257"
   },
   {
     "code": "3212312003",
     "district_code": "321231",
-    "name": "Patrol Baru"
+    "name": "Patrol Baru",
+    "postal_code": "45257"
   },
   {
     "code": "3212312004",
     "district_code": "321231",
-    "name": "Patrol Lor"
+    "name": "Patrol Lor",
+    "postal_code": "45257"
   },
   {
     "code": "3212312005",
     "district_code": "321231",
-    "name": "Patrol"
+    "name": "Patrol",
+    "postal_code": "45257"
   },
   {
     "code": "3212312006",
     "district_code": "321231",
-    "name": "Bugel"
+    "name": "Bugel",
+    "postal_code": "45257"
   },
   {
     "code": "3212312007",
     "district_code": "321231",
-    "name": "Arjasari"
+    "name": "Arjasari",
+    "postal_code": "45257"
   },
   {
     "code": "3212312008",
     "district_code": "321231",
-    "name": "Sukahaji"
+    "name": "Sukahaji",
+    "postal_code": "45257"
   }
 ]

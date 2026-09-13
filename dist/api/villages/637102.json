@@ -2,46 +2,55 @@
   {
     "code": "6371021001",
     "district_code": "637102",
-    "name": "Kuripan"
+    "name": "Kuripan",
+    "postal_code": "70236"
   },
   {
     "code": "6371021002",
     "district_code": "637102",
-    "name": "Kebun Bunga"
+    "name": "Kebun Bunga",
+    "postal_code": "70235"
   },
   {
     "code": "6371021003",
     "district_code": "637102",
-    "name": "Karang Mekar"
+    "name": "Karang Mekar",
+    "postal_code": "70234"
   },
   {
     "code": "6371021004",
     "district_code": "637102",
-    "name": "Sungai Bilu"
+    "name": "Sungai Bilu",
+    "postal_code": "70236"
   },
   {
     "code": "6371021005",
     "district_code": "637102",
-    "name": "Sungai Lulut"
+    "name": "Sungai Lulut",
+    "postal_code": "70238"
   },
   {
     "code": "6371021006",
     "district_code": "637102",
-    "name": "Banua Anyar"
+    "name": "Banua Anyar",
+    "postal_code": "70239"
   },
   {
     "code": "6371021007",
     "district_code": "637102",
-    "name": "Pengambangan"
+    "name": "Pengambangan",
+    "postal_code": "70237"
   },
   {
     "code": "6371021008",
     "district_code": "637102",
-    "name": "Pekapuran Raya"
+    "name": "Pekapuran Raya",
+    "postal_code": "70234"
   },
   {
     "code": "6371021009",
     "district_code": "637102",
-    "name": "Pemurus Luar"
+    "name": "Pemurus Luar",
+    "postal_code": "70236"
   }
 ]

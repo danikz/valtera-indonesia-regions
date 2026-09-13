@@ -2,66 +2,79 @@
   {
     "code": "6303021001",
     "district_code": "630302",
-    "name": "Kertak Hanyar I"
+    "name": "Kertak Hanyar I",
+    "postal_code": "70654"
   },
   {
     "code": "6303021008",
     "district_code": "630302",
-    "name": "Manarap Lama"
+    "name": "Manarap Lama",
+    "postal_code": "70654"
   },
   {
     "code": "6303021015",
     "district_code": "630302",
-    "name": "Mandarsari"
+    "name": "Mandarsari",
+    "postal_code": "70654"
   },
   {
     "code": "6303022005",
     "district_code": "630302",
-    "name": "Pemangkih Laut"
+    "name": "Pemangkih Laut",
+    "postal_code": "70654"
   },
   {
     "code": "6303022006",
     "district_code": "630302",
-    "name": "Simpang Empat"
+    "name": "Simpang Empat",
+    "postal_code": "70654"
   },
   {
     "code": "6303022007",
     "district_code": "630302",
-    "name": "Sungai Lakum"
+    "name": "Sungai Lakum",
+    "postal_code": "70654"
   },
   {
     "code": "6303022009",
     "district_code": "630302",
-    "name": "Manarap Baru"
+    "name": "Manarap Baru",
+    "postal_code": "70654"
   },
   {
     "code": "6303022010",
     "district_code": "630302",
-    "name": "Kertak Hanyar II"
+    "name": "Kertak Hanyar II",
+    "postal_code": "70654"
   },
   {
     "code": "6303022014",
     "district_code": "630302",
-    "name": "Pasar Kamis"
+    "name": "Pasar Kamis",
+    "postal_code": "70654"
   },
   {
     "code": "6303022016",
     "district_code": "630302",
-    "name": "Manarap Tengah"
+    "name": "Manarap Tengah",
+    "postal_code": "70654"
   },
   {
     "code": "6303022017",
     "district_code": "630302",
-    "name": "Belayung Baru"
+    "name": "Belayung Baru",
+    "postal_code": "70654"
   },
   {
     "code": "6303022021",
     "district_code": "630302",
-    "name": "Banua Hanyar"
+    "name": "Banua Hanyar",
+    "postal_code": "70654"
   },
   {
     "code": "6303022022",
     "district_code": "630302",
-    "name": "Mekar Raya"
+    "name": "Mekar Raya",
+    "postal_code": "70654"
   }
 ]

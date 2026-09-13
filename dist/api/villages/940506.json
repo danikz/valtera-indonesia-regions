@@ -2,56 +2,67 @@
   {
     "code": "9405062001",
     "district_code": "940506",
-    "name": "Yauria"
+    "name": "Yauria",
+    "postal_code": "98977"
   },
   {
     "code": "9405062002",
     "district_code": "940506",
-    "name": "Gigobak"
+    "name": "Gigobak",
+    "postal_code": "98977"
   },
   {
     "code": "9405062003",
     "district_code": "940506",
-    "name": "Kalibuk"
+    "name": "Kalibuk",
+    "postal_code": "98986"
   },
   {
     "code": "9405062004",
     "district_code": "940506",
-    "name": "Kelemame"
+    "name": "Kelemame",
+    "postal_code": "98986"
   },
   {
     "code": "9405062005",
     "district_code": "940506",
-    "name": "Gulabut"
+    "name": "Gulabut",
+    "postal_code": "98986"
   },
   {
     "code": "9405062006",
     "district_code": "940506",
-    "name": "Kolaribanak"
+    "name": "Kolaribanak",
+    "postal_code": "98986"
   },
   {
     "code": "9405062007",
     "district_code": "940506",
-    "name": "Mogulu"
+    "name": "Mogulu",
+    "postal_code": "98986"
   },
   {
     "code": "9405062008",
     "district_code": "940506",
-    "name": "Gigobak II"
+    "name": "Gigobak II",
+    "postal_code": "98986"
   },
   {
     "code": "9405062009",
     "district_code": "940506",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "98977"
   },
   {
     "code": "9405062010",
     "district_code": "940506",
-    "name": "Gingga Baru"
+    "name": "Gingga Baru",
+    "postal_code": "98977"
   },
   {
     "code": "9405062011",
     "district_code": "940506",
-    "name": "Tenonggame"
+    "name": "Tenonggame",
+    "postal_code": "98986"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "5302232001",
     "district_code": "530223",
-    "name": "Lotas"
+    "name": "Lotas",
+    "postal_code": "85577"
   },
   {
     "code": "5302232002",
     "district_code": "530223",
-    "name": "Sabnala"
+    "name": "Sabnala",
+    "postal_code": "85577"
   },
   {
     "code": "5302232003",
     "district_code": "530223",
-    "name": "Koloto"
+    "name": "Koloto",
+    "postal_code": "85577"
   },
   {
     "code": "5302232004",
     "district_code": "530223",
-    "name": "Niti"
+    "name": "Niti",
+    "postal_code": "85577"
   },
   {
     "code": "5302232005",
     "district_code": "530223",
-    "name": "Obaki"
+    "name": "Obaki",
+    "postal_code": "85577"
   },
   {
     "code": "5302232006",
     "district_code": "530223",
-    "name": "Benehe"
+    "name": "Benehe",
+    "postal_code": "85577"
   }
 ]

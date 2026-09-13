@@ -2,21 +2,25 @@
   {
     "code": "3273221001",
     "district_code": "327322",
-    "name": "Sekejati"
+    "name": "Sekejati",
+    "postal_code": "40286"
   },
   {
     "code": "3273221002",
     "district_code": "327322",
-    "name": "Margasari"
+    "name": "Margasari",
+    "postal_code": "40286"
   },
   {
     "code": "3273221003",
     "district_code": "327322",
-    "name": "Cijaura"
+    "name": "Cijaura",
+    "postal_code": "40287"
   },
   {
     "code": "3273221004",
     "district_code": "327322",
-    "name": "Jatisari"
+    "name": "Jatisari",
+    "postal_code": "40286"
   }
 ]

@@ -2,76 +2,91 @@
   {
     "code": "7501132001",
     "district_code": "750113",
-    "name": "Sukamakmur"
+    "name": "Sukamakmur",
+    "postal_code": "96222"
   },
   {
     "code": "7501132002",
     "district_code": "750113",
-    "name": "Lakeya"
+    "name": "Lakeya",
+    "postal_code": "96222"
   },
   {
     "code": "7501132003",
     "district_code": "750113",
-    "name": "Gandasari"
+    "name": "Gandasari",
+    "postal_code": "96222"
   },
   {
     "code": "7501132004",
     "district_code": "750113",
-    "name": "Molohu"
+    "name": "Molohu",
+    "postal_code": "96222"
   },
   {
     "code": "7501132007",
     "district_code": "750113",
-    "name": "Polohungo"
+    "name": "Polohungo",
+    "postal_code": "96222"
   },
   {
     "code": "7501132008",
     "district_code": "750113",
-    "name": "Bina Jaya"
+    "name": "Bina Jaya",
+    "postal_code": "96222"
   },
   {
     "code": "7501132009",
     "district_code": "750113",
-    "name": "Tamaila"
+    "name": "Tamaila",
+    "postal_code": "96222"
   },
   {
     "code": "7501132010",
     "district_code": "750113",
-    "name": "Sidoarjo"
+    "name": "Sidoarjo",
+    "postal_code": "96222"
   },
   {
     "code": "7501132013",
     "district_code": "750113",
-    "name": "Sukamakmur Utara"
+    "name": "Sukamakmur Utara",
+    "postal_code": "96222"
   },
   {
     "code": "7501132014",
     "district_code": "750113",
-    "name": "Margomulya"
+    "name": "Margomulya",
+    "postal_code": "96222"
   },
   {
     "code": "7501132015",
     "district_code": "750113",
-    "name": "Makmur Abadi"
+    "name": "Makmur Abadi",
+    "postal_code": "96222"
   },
   {
     "code": "7501132016",
     "district_code": "750113",
-    "name": "Gandaria"
+    "name": "Gandaria",
+    "postal_code": "96222"
   },
   {
     "code": "7501132017",
     "district_code": "750113",
-    "name": "Ombulo Tango"
+    "name": "Ombulo Tango",
+    "postal_code": "96222"
   },
   {
     "code": "7501132018",
     "district_code": "750113",
-    "name": "Tamalia Utara"
+    "name": "Tamalia Utara",
+    "postal_code": "96222"
   },
   {
     "code": "7501132019",
     "district_code": "750113",
-    "name": "Himalaya"
+    "name": "Himalaya",
+    "postal_code": "96222"
   }
 ]

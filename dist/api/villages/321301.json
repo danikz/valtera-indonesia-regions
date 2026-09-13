@@ -2,36 +2,43 @@
   {
     "code": "3213012003",
     "district_code": "321301",
-    "name": "Sukamandi"
+    "name": "Sukamandi",
+    "postal_code": "41282"
   },
   {
     "code": "3213012004",
     "district_code": "321301",
-    "name": "Cicadas"
+    "name": "Cicadas",
+    "postal_code": "41282"
   },
   {
     "code": "3213012005",
     "district_code": "321301",
-    "name": "Sagalaherang Kidul"
+    "name": "Sagalaherang Kidul",
+    "postal_code": "41282"
   },
   {
     "code": "3213012006",
     "district_code": "321301",
-    "name": "Dayeuh Kolot"
+    "name": "Dayeuh Kolot",
+    "postal_code": "41282"
   },
   {
     "code": "3213012009",
     "district_code": "321301",
-    "name": "Leles"
+    "name": "Leles",
+    "postal_code": "41282"
   },
   {
     "code": "3213012010",
     "district_code": "321301",
-    "name": "Curugagung"
+    "name": "Curugagung",
+    "postal_code": "41282"
   },
   {
     "code": "3213012011",
     "district_code": "321301",
-    "name": "Sagalaherang Kaler"
+    "name": "Sagalaherang Kaler",
+    "postal_code": "41282"
   }
 ]

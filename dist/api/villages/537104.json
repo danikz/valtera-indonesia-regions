@@ -2,36 +2,43 @@
   {
     "code": "5371041001",
     "district_code": "537104",
-    "name": "Oebobo"
+    "name": "Oebobo",
+    "postal_code": "85111"
   },
   {
     "code": "5371041008",
     "district_code": "537104",
-    "name": "Oetete"
+    "name": "Oetete",
+    "postal_code": "85112"
   },
   {
     "code": "5371041009",
     "district_code": "537104",
-    "name": "Oebufu"
+    "name": "Oebufu",
+    "postal_code": "85111"
   },
   {
     "code": "5371041010",
     "district_code": "537104",
-    "name": "Liliba"
+    "name": "Liliba",
+    "postal_code": "85111"
   },
   {
     "code": "5371041011",
     "district_code": "537104",
-    "name": "Fatululi"
+    "name": "Fatululi",
+    "postal_code": "85111"
   },
   {
     "code": "5371041013",
     "district_code": "537104",
-    "name": "Kayu Putih"
+    "name": "Kayu Putih",
+    "postal_code": "85111"
   },
   {
     "code": "5371041014",
     "district_code": "537104",
-    "name": "Tuak Daun Merah"
+    "name": "Tuak Daun Merah",
+    "postal_code": "85111"
   }
 ]

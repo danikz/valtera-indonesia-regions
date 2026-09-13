@@ -2,31 +2,37 @@
   {
     "code": "9205152001",
     "district_code": "920515",
-    "name": "Manyaifun"
+    "name": "Manyaifun",
+    "postal_code": ""
   },
   {
     "code": "9205152002",
     "district_code": "920515",
-    "name": "Meosmanggara"
+    "name": "Meosmanggara",
+    "postal_code": ""
   },
   {
     "code": "9205152003",
     "district_code": "920515",
-    "name": "Pam"
+    "name": "Pam",
+    "postal_code": ""
   },
   {
     "code": "9205152004",
     "district_code": "920515",
-    "name": "Saukabu"
+    "name": "Saukabu",
+    "postal_code": ""
   },
   {
     "code": "9205152005",
     "district_code": "920515",
-    "name": "Gag"
+    "name": "Gag",
+    "postal_code": ""
   },
   {
     "code": "9205152006",
     "district_code": "920515",
-    "name": "Saupapir"
+    "name": "Saupapir",
+    "postal_code": ""
   }
 ]

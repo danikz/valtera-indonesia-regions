@@ -2,41 +2,49 @@
   {
     "code": "9508202001",
     "district_code": "950820",
-    "name": "Biripem"
+    "name": "Biripem",
+    "postal_code": "99904"
   },
   {
     "code": "9508202002",
     "district_code": "950820",
-    "name": "Dakbri"
+    "name": "Dakbri",
+    "postal_code": "99904"
   },
   {
     "code": "9508202003",
     "district_code": "950820",
-    "name": "Abualak"
+    "name": "Abualak",
+    "postal_code": "99904"
   },
   {
     "code": "9508202004",
     "district_code": "950820",
-    "name": "Urugom"
+    "name": "Urugom",
+    "postal_code": "99904"
   },
   {
     "code": "9508202005",
     "district_code": "950820",
-    "name": "Area"
+    "name": "Area",
+    "postal_code": "99904"
   },
   {
     "code": "9508202006",
     "district_code": "950820",
-    "name": "Wumaga"
+    "name": "Wumaga",
+    "postal_code": "99904"
   },
   {
     "code": "9508202007",
     "district_code": "950820",
-    "name": "Gulama"
+    "name": "Gulama",
+    "postal_code": "99904"
   },
   {
     "code": "9508202008",
     "district_code": "950820",
-    "name": "Kigam"
+    "name": "Kigam",
+    "postal_code": "99904"
   }
 ]

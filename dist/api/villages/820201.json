@@ -2,36 +2,43 @@
   {
     "code": "8202012004",
     "district_code": "820201",
-    "name": "Nusliko"
+    "name": "Nusliko",
+    "postal_code": "97850"
   },
   {
     "code": "8202012005",
     "district_code": "820201",
-    "name": "Were"
+    "name": "Were",
+    "postal_code": "97850"
   },
   {
     "code": "8202012020",
     "district_code": "820201",
-    "name": "Fidy Jaya"
+    "name": "Fidy Jaya",
+    "postal_code": "97850"
   },
   {
     "code": "8202012021",
     "district_code": "820201",
-    "name": "Sidanga"
+    "name": "Sidanga",
+    "postal_code": "97850"
   },
   {
     "code": "8202012022",
     "district_code": "820201",
-    "name": "Nurweda"
+    "name": "Nurweda",
+    "postal_code": "97850"
   },
   {
     "code": "8202012023",
     "district_code": "820201",
-    "name": "Wedana"
+    "name": "Wedana",
+    "postal_code": "97850"
   },
   {
     "code": "8202012024",
     "district_code": "820201",
-    "name": "Goeng"
+    "name": "Goeng",
+    "postal_code": "97850"
   }
 ]

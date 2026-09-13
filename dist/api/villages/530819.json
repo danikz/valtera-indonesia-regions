@@ -2,21 +2,25 @@
   {
     "code": "5308191001",
     "district_code": "530819",
-    "name": "Potulando"
+    "name": "Potulando",
+    "postal_code": "86312"
   },
   {
     "code": "5308191002",
     "district_code": "530819",
-    "name": "Onekore"
+    "name": "Onekore",
+    "postal_code": "86318"
   },
   {
     "code": "5308191003",
     "district_code": "530819",
-    "name": "Kelimutu"
+    "name": "Kelimutu",
+    "postal_code": "86319"
   },
   {
     "code": "5308191004",
     "district_code": "530819",
-    "name": "Paupire"
+    "name": "Paupire",
+    "postal_code": "86318"
   }
 ]

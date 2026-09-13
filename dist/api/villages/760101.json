@@ -2,31 +2,37 @@
   {
     "code": "7601011006",
     "district_code": "760101",
-    "name": "Bambalamotu"
+    "name": "Bambalamotu",
+    "postal_code": "91575"
   },
   {
     "code": "7601012003",
     "district_code": "760101",
-    "name": "Polewali"
+    "name": "Polewali",
+    "postal_code": "91575"
   },
   {
     "code": "7601012004",
     "district_code": "760101",
-    "name": "Randomayang"
+    "name": "Randomayang",
+    "postal_code": "91575"
   },
   {
     "code": "7601012007",
     "district_code": "760101",
-    "name": "Pangiang"
+    "name": "Pangiang",
+    "postal_code": "91575"
   },
   {
     "code": "7601012008",
     "district_code": "760101",
-    "name": "Kalola"
+    "name": "Kalola",
+    "postal_code": "91575"
   },
   {
     "code": "7601012009",
     "district_code": "760101",
-    "name": "Wulai"
+    "name": "Wulai",
+    "postal_code": "91575"
   }
 ]

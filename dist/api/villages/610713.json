@@ -2,26 +2,31 @@
   {
     "code": "6107132001",
     "district_code": "610713",
-    "name": "Magmagan Karya"
+    "name": "Magmagan Karya",
+    "postal_code": "79282"
   },
   {
     "code": "6107132002",
     "district_code": "610713",
-    "name": "Tiga Berkat"
+    "name": "Tiga Berkat",
+    "postal_code": "79282"
   },
   {
     "code": "6107132003",
     "district_code": "610713",
-    "name": "Seren Selimbau"
+    "name": "Seren Selimbau",
+    "postal_code": "79282"
   },
   {
     "code": "6107132004",
     "district_code": "610713",
-    "name": "Belimbing"
+    "name": "Belimbing",
+    "postal_code": "79282"
   },
   {
     "code": "6107132005",
     "district_code": "610713",
-    "name": "Lamolda"
+    "name": "Lamolda",
+    "postal_code": "79282"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "3573051001",
     "district_code": "357305",
-    "name": "Tunggulwulung"
+    "name": "Tunggulwulung",
+    "postal_code": "65143"
   },
   {
     "code": "3573051002",
     "district_code": "357305",
-    "name": "Merjosari"
+    "name": "Merjosari",
+    "postal_code": "65144"
   },
   {
     "code": "3573051003",
     "district_code": "357305",
-    "name": "Tlogomas"
+    "name": "Tlogomas",
+    "postal_code": "65144"
   },
   {
     "code": "3573051004",
     "district_code": "357305",
-    "name": "Dinoyo"
+    "name": "Dinoyo",
+    "postal_code": "65144"
   },
   {
     "code": "3573051005",
     "district_code": "357305",
-    "name": "Sumbersari"
+    "name": "Sumbersari",
+    "postal_code": "65145"
   },
   {
     "code": "3573051006",
     "district_code": "357305",
-    "name": "Ketawanggede"
+    "name": "Ketawanggede",
+    "postal_code": "65145"
   },
   {
     "code": "3573051007",
     "district_code": "357305",
-    "name": "Jatimulyo"
+    "name": "Jatimulyo",
+    "postal_code": "65141"
   },
   {
     "code": "3573051008",
     "district_code": "357305",
-    "name": "Tunjungsekar"
+    "name": "Tunjungsekar",
+    "postal_code": "65142"
   },
   {
     "code": "3573051009",
     "district_code": "357305",
-    "name": "Mojolangu"
+    "name": "Mojolangu",
+    "postal_code": "65142"
   },
   {
     "code": "3573051010",
     "district_code": "357305",
-    "name": "Tulusrejo"
+    "name": "Tulusrejo",
+    "postal_code": "65141"
   },
   {
     "code": "3573051011",
     "district_code": "357305",
-    "name": "Lowokwaru"
+    "name": "Lowokwaru",
+    "postal_code": "65141"
   },
   {
     "code": "3573051012",
     "district_code": "357305",
-    "name": "Tasik Madu"
+    "name": "Tasik Madu",
+    "postal_code": "65143"
   }
 ]

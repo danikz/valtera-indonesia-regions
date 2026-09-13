@@ -2,36 +2,43 @@
   {
     "code": "9502192001",
     "district_code": "950219",
-    "name": "Tarup"
+    "name": "Tarup",
+    "postal_code": "99434"
   },
   {
     "code": "9502192002",
     "district_code": "950219",
-    "name": "Marang Tiking"
+    "name": "Marang Tiking",
+    "postal_code": "99434"
   },
   {
     "code": "9502192003",
     "district_code": "950219",
-    "name": "Imsin"
+    "name": "Imsin",
+    "postal_code": "99434"
   },
   {
     "code": "9502192004",
     "district_code": "950219",
-    "name": "Bitipding"
+    "name": "Bitipding",
+    "postal_code": "99434"
   },
   {
     "code": "9502192005",
     "district_code": "950219",
-    "name": "Onkor"
+    "name": "Onkor",
+    "postal_code": "99434"
   },
   {
     "code": "9502192006",
     "district_code": "950219",
-    "name": "Beten Dua"
+    "name": "Beten Dua",
+    "postal_code": "99434"
   },
   {
     "code": "9502192007",
     "district_code": "950219",
-    "name": "Omor"
+    "name": "Omor",
+    "postal_code": "99434"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "1506101001",
     "district_code": "150610",
-    "name": "Tungkal V"
+    "name": "Tungkal V",
+    "postal_code": "36514"
   },
   {
     "code": "1506102002",
     "district_code": "150610",
-    "name": "Tungkal IV Desa"
+    "name": "Tungkal IV Desa",
+    "postal_code": "36514"
   },
   {
     "code": "1506102003",
     "district_code": "150610",
-    "name": "Kuala Baru"
+    "name": "Kuala Baru",
+    "postal_code": "36514"
   },
   {
     "code": "1506102004",
     "district_code": "150610",
-    "name": "Telukpulai Raya"
+    "name": "Telukpulai Raya",
+    "postal_code": "36514"
   },
   {
     "code": "1506102005",
     "district_code": "150610",
-    "name": "Mekar Alam"
+    "name": "Mekar Alam",
+    "postal_code": "36511"
   },
   {
     "code": "1506102006",
     "district_code": "150610",
-    "name": "Harapan Jaya"
+    "name": "Harapan Jaya",
+    "postal_code": "36511"
   },
   {
     "code": "1506102007",
     "district_code": "150610",
-    "name": "Kuala Kahar"
+    "name": "Kuala Kahar",
+    "postal_code": "36511"
   },
   {
     "code": "1506102008",
     "district_code": "150610",
-    "name": "Muaraseberang"
+    "name": "Muaraseberang",
+    "postal_code": "36511"
   }
 ]

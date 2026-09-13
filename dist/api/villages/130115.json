@@ -2,51 +2,61 @@
   {
     "code": "1301152001",
     "district_code": "130115",
-    "name": "Silaut"
+    "name": "Silaut",
+    "postal_code": "25675"
   },
   {
     "code": "1301152002",
     "district_code": "130115",
-    "name": "Sungai Sirah"
+    "name": "Sungai Sirah",
+    "postal_code": "25675"
   },
   {
     "code": "1301152003",
     "district_code": "130115",
-    "name": "Sungai Sarik"
+    "name": "Sungai Sarik",
+    "postal_code": "25675"
   },
   {
     "code": "1301152004",
     "district_code": "130115",
-    "name": "Sungai Pulai"
+    "name": "Sungai Pulai",
+    "postal_code": "25675"
   },
   {
     "code": "1301152005",
     "district_code": "130115",
-    "name": "Pasir Binjai"
+    "name": "Pasir Binjai",
+    "postal_code": "25675"
   },
   {
     "code": "1301152006",
     "district_code": "130115",
-    "name": "Talang Binjai"
+    "name": "Talang Binjai",
+    "postal_code": "25675"
   },
   {
     "code": "1301152007",
     "district_code": "130115",
-    "name": "Durian Seribu"
+    "name": "Durian Seribu",
+    "postal_code": "25675"
   },
   {
     "code": "1301152008",
     "district_code": "130115",
-    "name": "Lubuk Bunta"
+    "name": "Lubuk Bunta",
+    "postal_code": "25675"
   },
   {
     "code": "1301152009",
     "district_code": "130115",
-    "name": "Air Hitam"
+    "name": "Air Hitam",
+    "postal_code": "25675"
   },
   {
     "code": "1301152010",
     "district_code": "130115",
-    "name": "Sambungo"
+    "name": "Sambungo",
+    "postal_code": "25675"
   }
 ]

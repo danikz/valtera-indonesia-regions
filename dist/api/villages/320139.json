@@ -2,41 +2,49 @@
   {
     "code": "3201392001",
     "district_code": "320139",
-    "name": "Leuwisadeng"
+    "name": "Leuwisadeng",
+    "postal_code": "16641"
   },
   {
     "code": "3201392002",
     "district_code": "320139",
-    "name": "Babakan Sadeng"
+    "name": "Babakan Sadeng",
+    "postal_code": "16641"
   },
   {
     "code": "3201392003",
     "district_code": "320139",
-    "name": "Sadeng Kolot"
+    "name": "Sadeng Kolot",
+    "postal_code": "16641"
   },
   {
     "code": "3201392004",
     "district_code": "320139",
-    "name": "Wangunjaya"
+    "name": "Wangunjaya",
+    "postal_code": "16641"
   },
   {
     "code": "3201392005",
     "district_code": "320139",
-    "name": "Kalong I"
+    "name": "Kalong I",
+    "postal_code": "16641"
   },
   {
     "code": "3201392006",
     "district_code": "320139",
-    "name": "Kalong II"
+    "name": "Kalong II",
+    "postal_code": "16641"
   },
   {
     "code": "3201392007",
     "district_code": "320139",
-    "name": "Sadeng"
+    "name": "Sadeng",
+    "postal_code": "16641"
   },
   {
     "code": "3201392008",
     "district_code": "320139",
-    "name": "Sibanteng"
+    "name": "Sibanteng",
+    "postal_code": "16641"
   }
 ]

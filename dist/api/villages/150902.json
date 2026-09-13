@@ -2,61 +2,73 @@
   {
     "code": "1509021001",
     "district_code": "150902",
-    "name": "Sungai Bengkal"
+    "name": "Sungai Bengkal",
+    "postal_code": "37572"
   },
   {
     "code": "1509022002",
     "district_code": "150902",
-    "name": "Sungai Aro"
+    "name": "Sungai Aro",
+    "postal_code": "37572"
   },
   {
     "code": "1509022003",
     "district_code": "150902",
-    "name": "Teluk Rendah Pasar"
+    "name": "Teluk Rendah Pasar",
+    "postal_code": "37572"
   },
   {
     "code": "1509022004",
     "district_code": "150902",
-    "name": "Teluk Rendah Ulu"
+    "name": "Teluk Rendah Ulu",
+    "postal_code": "37572"
   },
   {
     "code": "1509022005",
     "district_code": "150902",
-    "name": "Teluk Rendah Ilir"
+    "name": "Teluk Rendah Ilir",
+    "postal_code": "37572"
   },
   {
     "code": "1509022008",
     "district_code": "150902",
-    "name": "Tuo Ilir"
+    "name": "Tuo Ilir",
+    "postal_code": "37572"
   },
   {
     "code": "1509022011",
     "district_code": "150902",
-    "name": "Betung Bedarah Timur"
+    "name": "Betung Bedarah Timur",
+    "postal_code": "37572"
   },
   {
     "code": "1509022012",
     "district_code": "150902",
-    "name": "Betung Bedarah Barat"
+    "name": "Betung Bedarah Barat",
+    "postal_code": "37572"
   },
   {
     "code": "1509022014",
     "district_code": "150902",
-    "name": "Kunangan"
+    "name": "Kunangan",
+    "postal_code": "37572"
   },
   {
     "code": "1509022015",
     "district_code": "150902",
-    "name": "Muara ketalo"
+    "name": "Muara ketalo",
+    "postal_code": "37572"
   },
   {
     "code": "1509022017",
     "district_code": "150902",
-    "name": "Sungai Bengkal Barat"
+    "name": "Sungai Bengkal Barat",
+    "postal_code": "37572"
   },
   {
     "code": "1509022018",
     "district_code": "150902",
-    "name": "Kemantan"
+    "name": "Kemantan",
+    "postal_code": "37572"
   }
 ]

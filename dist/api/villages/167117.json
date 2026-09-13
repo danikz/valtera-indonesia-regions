@@ -2,26 +2,31 @@
   {
     "code": "1671171001",
     "district_code": "167117",
-    "name": "8 Ulu"
+    "name": "8 Ulu",
+    "postal_code": "30252"
   },
   {
     "code": "1671171002",
     "district_code": "167117",
-    "name": "9-10 Ulu"
+    "name": "9-10 Ulu",
+    "postal_code": "30251"
   },
   {
     "code": "1671171003",
     "district_code": "167117",
-    "name": "15 Ulu"
+    "name": "15 Ulu",
+    "postal_code": "30257"
   },
   {
     "code": "1671171004",
     "district_code": "167117",
-    "name": "Silaberanti"
+    "name": "Silaberanti",
+    "postal_code": "30251"
   },
   {
     "code": "1671171005",
     "district_code": "167117",
-    "name": "Tuan Kentang"
+    "name": "Tuan Kentang",
+    "postal_code": "30251"
   }
 ]

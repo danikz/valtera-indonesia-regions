@@ -2,41 +2,49 @@
   {
     "code": "3206082001",
     "district_code": "320608",
-    "name": "Simpang"
+    "name": "Simpang",
+    "postal_code": "46187"
   },
   {
     "code": "3206082002",
     "district_code": "320608",
-    "name": "Parakanhonje"
+    "name": "Parakanhonje",
+    "postal_code": "46187"
   },
   {
     "code": "3206082003",
     "district_code": "320608",
-    "name": "Pamijahan"
+    "name": "Pamijahan",
+    "postal_code": "46187"
   },
   {
     "code": "3206082004",
     "district_code": "320608",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "46188"
   },
   {
     "code": "3206082005",
     "district_code": "320608",
-    "name": "Wangunsari"
+    "name": "Wangunsari",
+    "postal_code": "46187"
   },
   {
     "code": "3206082006",
     "district_code": "320608",
-    "name": "Hegarwangi"
+    "name": "Hegarwangi",
+    "postal_code": "46187"
   },
   {
     "code": "3206082007",
     "district_code": "320608",
-    "name": "Wakap"
+    "name": "Wakap",
+    "postal_code": "46168"
   },
   {
     "code": "3206082008",
     "district_code": "320608",
-    "name": "Sirnagalih"
+    "name": "Sirnagalih",
+    "postal_code": "46187"
   }
 ]

@@ -2,71 +2,85 @@
   {
     "code": "1610082001",
     "district_code": "161008",
-    "name": "Mandi Angin"
+    "name": "Mandi Angin",
+    "postal_code": "30862"
   },
   {
     "code": "1610082002",
     "district_code": "161008",
-    "name": "Tanjung Lubuk"
+    "name": "Tanjung Lubuk",
+    "postal_code": "30862"
   },
   {
     "code": "1610082003",
     "district_code": "161008",
-    "name": "Tebing Gerinting Selatan"
+    "name": "Tebing Gerinting Selatan",
+    "postal_code": "30862"
   },
   {
     "code": "1610082004",
     "district_code": "161008",
-    "name": "Arisan Gading"
+    "name": "Arisan Gading",
+    "postal_code": "30862"
   },
   {
     "code": "1610082005",
     "district_code": "161008",
-    "name": "Tanjung Dayang Selatan"
+    "name": "Tanjung Dayang Selatan",
+    "postal_code": "30862"
   },
   {
     "code": "1610082006",
     "district_code": "161008",
-    "name": "Beti"
+    "name": "Beti",
+    "postal_code": "30862"
   },
   {
     "code": "1610082007",
     "district_code": "161008",
-    "name": "Meranjat I"
+    "name": "Meranjat I",
+    "postal_code": "30862"
   },
   {
     "code": "1610082008",
     "district_code": "161008",
-    "name": "Meranjat Ilir"
+    "name": "Meranjat Ilir",
+    "postal_code": "30862"
   },
   {
     "code": "1610082009",
     "district_code": "161008",
-    "name": "Meranjat II"
+    "name": "Meranjat II",
+    "postal_code": "30862"
   },
   {
     "code": "1610082010",
     "district_code": "161008",
-    "name": "Sukaraja Lama"
+    "name": "Sukaraja Lama",
+    "postal_code": "30862"
   },
   {
     "code": "1610082011",
     "district_code": "161008",
-    "name": "Sukaraja Baru"
+    "name": "Sukaraja Baru",
+    "postal_code": "30862"
   },
   {
     "code": "1610082012",
     "district_code": "161008",
-    "name": "Tebing Gerinting Utara"
+    "name": "Tebing Gerinting Utara",
+    "postal_code": "30862"
   },
   {
     "code": "1610082013",
     "district_code": "161008",
-    "name": "Tanjung Dayang Utara"
+    "name": "Tanjung Dayang Utara",
+    "postal_code": "30862"
   },
   {
     "code": "1610082014",
     "district_code": "161008",
-    "name": "Meranjat III"
+    "name": "Meranjat III",
+    "postal_code": "30862"
   }
 ]

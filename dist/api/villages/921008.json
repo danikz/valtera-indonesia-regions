@@ -2,41 +2,49 @@
   {
     "code": "9210081001",
     "district_code": "921008",
-    "name": "Ayamaru"
+    "name": "Ayamaru",
+    "postal_code": ""
   },
   {
     "code": "9210082010",
     "district_code": "921008",
-    "name": "Framu"
+    "name": "Framu",
+    "postal_code": ""
   },
   {
     "code": "9210082011",
     "district_code": "921008",
-    "name": "Mefkajim II"
+    "name": "Mefkajim II",
+    "postal_code": ""
   },
   {
     "code": "9210082017",
     "district_code": "921008",
-    "name": "Fraharo"
+    "name": "Fraharo",
+    "postal_code": ""
   },
   {
     "code": "9210082018",
     "district_code": "921008",
-    "name": "Smusswioh"
+    "name": "Smusswioh",
+    "postal_code": ""
   },
   {
     "code": "9210082019",
     "district_code": "921008",
-    "name": "Twer"
+    "name": "Twer",
+    "postal_code": ""
   },
   {
     "code": "9210082020",
     "district_code": "921008",
-    "name": "Afes"
+    "name": "Afes",
+    "postal_code": ""
   },
   {
     "code": "9210082021",
     "district_code": "921008",
-    "name": "Tuso"
+    "name": "Tuso",
+    "postal_code": ""
   }
 ]

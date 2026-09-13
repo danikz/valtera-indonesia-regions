@@ -2,61 +2,73 @@
   {
     "code": "1605111001",
     "district_code": "160511",
-    "name": "Selangit"
+    "name": "Selangit",
+    "postal_code": "31625"
   },
   {
     "code": "1605112002",
     "district_code": "160511",
-    "name": "Lubuk Ngin"
+    "name": "Lubuk Ngin",
+    "postal_code": "31625"
   },
   {
     "code": "1605112003",
     "district_code": "160511",
-    "name": "Napal Melintang"
+    "name": "Napal Melintang",
+    "postal_code": "31625"
   },
   {
     "code": "1605112004",
     "district_code": "160511",
-    "name": "Taba Tengah"
+    "name": "Taba Tengah",
+    "postal_code": "31625"
   },
   {
     "code": "1605112005",
     "district_code": "160511",
-    "name": "Taba Remanik"
+    "name": "Taba Remanik",
+    "postal_code": "31625"
   },
   {
     "code": "1605112006",
     "district_code": "160511",
-    "name": "Batu Gane"
+    "name": "Batu Gane",
+    "postal_code": "31625"
   },
   {
     "code": "1605112007",
     "district_code": "160511",
-    "name": "Karang Panggung"
+    "name": "Karang Panggung",
+    "postal_code": "31625"
   },
   {
     "code": "1605112008",
     "district_code": "160511",
-    "name": "Muara Nilau"
+    "name": "Muara Nilau",
+    "postal_code": "31625"
   },
   {
     "code": "1605112009",
     "district_code": "160511",
-    "name": "Perabumenang"
+    "name": "Perabumenang",
+    "postal_code": "31625"
   },
   {
     "code": "1605112010",
     "district_code": "160511",
-    "name": "Taba Rena"
+    "name": "Taba Rena",
+    "postal_code": "31625"
   },
   {
     "code": "1605112011",
     "district_code": "160511",
-    "name": "Taba Gindo"
+    "name": "Taba Gindo",
+    "postal_code": "31625"
   },
   {
     "code": "1605112012",
     "district_code": "160511",
-    "name": "Lubuk Ngin Baru"
+    "name": "Lubuk Ngin Baru",
+    "postal_code": "31625"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "7201182001",
     "district_code": "720118",
-    "name": "Tombos"
+    "name": "Tombos",
+    "postal_code": "94774"
   },
   {
     "code": "7201182002",
     "district_code": "720118",
-    "name": "Dondo"
+    "name": "Dondo",
+    "postal_code": "94774"
   },
   {
     "code": "7201182003",
     "district_code": "720118",
-    "name": "Sepe"
+    "name": "Sepe",
+    "postal_code": "94774"
   },
   {
     "code": "7201182004",
     "district_code": "720118",
-    "name": "Booy"
+    "name": "Booy",
+    "postal_code": "94774"
   },
   {
     "code": "7201182005",
     "district_code": "720118",
-    "name": "Tintingon"
+    "name": "Tintingon",
+    "postal_code": "94774"
   },
   {
     "code": "7201182006",
     "district_code": "720118",
-    "name": "Resarna"
+    "name": "Resarna",
+    "postal_code": "94774"
   },
   {
     "code": "7201182007",
     "district_code": "720118",
-    "name": "Giwang"
+    "name": "Giwang",
+    "postal_code": "94774"
   },
   {
     "code": "7201182008",
     "district_code": "720118",
-    "name": "Tongke"
+    "name": "Tongke",
+    "postal_code": "94774"
   },
   {
     "code": "7201182009",
     "district_code": "720118",
-    "name": "Gorontalo"
+    "name": "Gorontalo",
+    "postal_code": "94774"
   },
   {
     "code": "7201182010",
     "district_code": "720118",
-    "name": "Poyang"
+    "name": "Poyang",
+    "postal_code": "94774"
   },
   {
     "code": "7201182011",
     "district_code": "720118",
-    "name": "Tanggawas"
+    "name": "Tanggawas",
+    "postal_code": "94774"
   }
 ]

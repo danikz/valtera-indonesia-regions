@@ -2,56 +2,67 @@
   {
     "code": "3573021001",
     "district_code": "357302",
-    "name": "Klojen"
+    "name": "Klojen",
+    "postal_code": "65111"
   },
   {
     "code": "3573021002",
     "district_code": "357302",
-    "name": "Rampalcelaket"
+    "name": "Rampalcelaket",
+    "postal_code": "65111"
   },
   {
     "code": "3573021003",
     "district_code": "357302",
-    "name": "Samaan"
+    "name": "Samaan",
+    "postal_code": "65112"
   },
   {
     "code": "3573021004",
     "district_code": "357302",
-    "name": "Kiduldalem"
+    "name": "Kiduldalem",
+    "postal_code": "65119"
   },
   {
     "code": "3573021005",
     "district_code": "357302",
-    "name": "Sukoharjo"
+    "name": "Sukoharjo",
+    "postal_code": "65118"
   },
   {
     "code": "3573021006",
     "district_code": "357302",
-    "name": "Kasin"
+    "name": "Kasin",
+    "postal_code": "65117"
   },
   {
     "code": "3573021007",
     "district_code": "357302",
-    "name": "Kauman"
+    "name": "Kauman",
+    "postal_code": "65119"
   },
   {
     "code": "3573021008",
     "district_code": "357302",
-    "name": "Oro-oro Dowo"
+    "name": "Oro-oro Dowo",
+    "postal_code": "65119"
   },
   {
     "code": "3573021009",
     "district_code": "357302",
-    "name": "Bareng"
+    "name": "Bareng",
+    "postal_code": "65116"
   },
   {
     "code": "3573021010",
     "district_code": "357302",
-    "name": "Gading Kasri"
+    "name": "Gading Kasri",
+    "postal_code": "65115"
   },
   {
     "code": "3573021011",
     "district_code": "357302",
-    "name": "Penanggungan"
+    "name": "Penanggungan",
+    "postal_code": "65113"
   }
 ]

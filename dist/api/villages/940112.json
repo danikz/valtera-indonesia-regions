@@ -2,26 +2,31 @@
   {
     "code": "9401122001",
     "district_code": "940112",
-    "name": "Bumi Raya"
+    "name": "Bumi Raya",
+    "postal_code": "98856"
   },
   {
     "code": "9401122002",
     "district_code": "940112",
-    "name": "Waroki"
+    "name": "Waroki",
+    "postal_code": "98856"
   },
   {
     "code": "9401122003",
     "district_code": "940112",
-    "name": "Gerbang Sadu"
+    "name": "Gerbang Sadu",
+    "postal_code": "98856"
   },
   {
     "code": "9401122004",
     "district_code": "940112",
-    "name": "Kali Semen"
+    "name": "Kali Semen",
+    "postal_code": "98856"
   },
   {
     "code": "9401122005",
     "district_code": "940112",
-    "name": "Wadio"
+    "name": "Wadio",
+    "postal_code": "98856"
   }
 ]

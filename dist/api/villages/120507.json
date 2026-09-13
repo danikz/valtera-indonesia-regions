@@ -2,61 +2,73 @@
   {
     "code": "1205071004",
     "district_code": "120507",
-    "name": "Perdamaian"
+    "name": "Perdamaian",
+    "postal_code": "20815"
   },
   {
     "code": "1205071005",
     "district_code": "120507",
-    "name": "Kwala Bingai"
+    "name": "Kwala Bingai",
+    "postal_code": "20811"
   },
   {
     "code": "1205071006",
     "district_code": "120507",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "20813"
   },
   {
     "code": "1205071010",
     "district_code": "120507",
-    "name": "Stabat Baru"
+    "name": "Stabat Baru",
+    "postal_code": "20811"
   },
   {
     "code": "1205071011",
     "district_code": "120507",
-    "name": "Dendang"
+    "name": "Dendang",
+    "postal_code": "20811"
   },
   {
     "code": "1205071012",
     "district_code": "120507",
-    "name": "Paya Mabar"
+    "name": "Paya Mabar",
+    "postal_code": "20816"
   },
   {
     "code": "1205072001",
     "district_code": "120507",
-    "name": "Karang Rejo"
+    "name": "Karang Rejo",
+    "postal_code": "20811"
   },
   {
     "code": "1205072002",
     "district_code": "120507",
-    "name": "Kwala Begumit"
+    "name": "Kwala Begumit",
+    "postal_code": "20811"
   },
   {
     "code": "1205072003",
     "district_code": "120507",
-    "name": "Mangga"
+    "name": "Mangga",
+    "postal_code": "20811"
   },
   {
     "code": "1205072007",
     "district_code": "120507",
-    "name": "Banyumas"
+    "name": "Banyumas",
+    "postal_code": "20811"
   },
   {
     "code": "1205072008",
     "district_code": "120507",
-    "name": "Pantai Gemi"
+    "name": "Pantai Gemi",
+    "postal_code": "20812"
   },
   {
     "code": "1205072009",
     "district_code": "120507",
-    "name": "Ara Condong"
+    "name": "Ara Condong",
+    "postal_code": "20811"
   }
 ]

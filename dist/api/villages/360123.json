@@ -2,46 +2,55 @@
   {
     "code": "3601232001",
     "district_code": "360123",
-    "name": "Rawasari"
+    "name": "Rawasari",
+    "postal_code": "42273"
   },
   {
     "code": "3601232002",
     "district_code": "360123",
-    "name": "Pasireurih"
+    "name": "Pasireurih",
+    "postal_code": "42273"
   },
   {
     "code": "3601232003",
     "district_code": "360123",
-    "name": "Kaduronyok"
+    "name": "Kaduronyok",
+    "postal_code": "42273"
   },
   {
     "code": "3601232004",
     "district_code": "360123",
-    "name": "Cibarani"
+    "name": "Cibarani",
+    "postal_code": "42273"
   },
   {
     "code": "3601232005",
     "district_code": "360123",
-    "name": "Cisereh"
+    "name": "Cisereh",
+    "postal_code": "42273"
   },
   {
     "code": "3601232006",
     "district_code": "360123",
-    "name": "Kubangkondang"
+    "name": "Kubangkondang",
+    "postal_code": "42273"
   },
   {
     "code": "3601232007",
     "district_code": "360123",
-    "name": "Kondangjaya"
+    "name": "Kondangjaya",
+    "postal_code": "42273"
   },
   {
     "code": "3601232008",
     "district_code": "360123",
-    "name": "Ciherangjaya"
+    "name": "Ciherangjaya",
+    "postal_code": "42273"
   },
   {
     "code": "3601232009",
     "district_code": "360123",
-    "name": "Palembang"
+    "name": "Palembang",
+    "postal_code": "42273"
   }
 ]

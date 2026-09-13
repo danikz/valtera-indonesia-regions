@@ -2,46 +2,55 @@
   {
     "code": "1501072004",
     "district_code": "150107",
-    "name": "Tarutung"
+    "name": "Tarutung",
+    "postal_code": "37175"
   },
   {
     "code": "1501072006",
     "district_code": "150107",
-    "name": "Lubuk Paku"
+    "name": "Lubuk Paku",
+    "postal_code": "37175"
   },
   {
     "code": "1501072007",
     "district_code": "150107",
-    "name": "Tamiai"
+    "name": "Tamiai",
+    "postal_code": "37175"
   },
   {
     "code": "1501072008",
     "district_code": "150107",
-    "name": "Pematang Lingkung"
+    "name": "Pematang Lingkung",
+    "postal_code": "37175"
   },
   {
     "code": "1501072009",
     "district_code": "150107",
-    "name": "Pasar Tamiai"
+    "name": "Pasar Tamiai",
+    "postal_code": "37175"
   },
   {
     "code": "1501072010",
     "district_code": "150107",
-    "name": "Seberang Merangin"
+    "name": "Seberang Merangin",
+    "postal_code": "37175"
   },
   {
     "code": "1501072011",
     "district_code": "150107",
-    "name": "Baru Pulau Sangkar"
+    "name": "Baru Pulau Sangkar",
+    "postal_code": "37175"
   },
   {
     "code": "1501072013",
     "district_code": "150107",
-    "name": "Batang Merangin"
+    "name": "Batang Merangin",
+    "postal_code": "37175"
   },
   {
     "code": "1501072014",
     "district_code": "150107",
-    "name": "Muara Hemat"
+    "name": "Muara Hemat",
+    "postal_code": "37175"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "1117082001",
     "district_code": "111708",
-    "name": "Bandar Jaya"
+    "name": "Bandar Jaya",
+    "postal_code": "24583"
   },
   {
     "code": "1117082002",
     "district_code": "111708",
-    "name": "Jongok Meluem"
+    "name": "Jongok Meluem",
+    "postal_code": "24583"
   },
   {
     "code": "1117082003",
     "district_code": "111708",
-    "name": "Suku Bener"
+    "name": "Suku Bener",
+    "postal_code": "24583"
   },
   {
     "code": "1117082004",
     "district_code": "111708",
-    "name": "Bener Lukup II"
+    "name": "Bener Lukup II",
+    "postal_code": "24583"
   },
   {
     "code": "1117082005",
     "district_code": "111708",
-    "name": "Gunung Musara"
+    "name": "Gunung Musara",
+    "postal_code": "24583"
   },
   {
     "code": "1117082006",
     "district_code": "111708",
-    "name": "Bener Kelipah Selatan"
+    "name": "Bener Kelipah Selatan",
+    "postal_code": "24583"
   },
   {
     "code": "1117082007",
     "district_code": "111708",
-    "name": "Bener Bintang Musara"
+    "name": "Bener Bintang Musara",
+    "postal_code": "24583"
   },
   {
     "code": "1117082008",
     "district_code": "111708",
-    "name": "Kala Tenang"
+    "name": "Kala Tenang",
+    "postal_code": "24583"
   },
   {
     "code": "1117082009",
     "district_code": "111708",
-    "name": "Bener Kelipah Utara"
+    "name": "Bener Kelipah Utara",
+    "postal_code": "24583"
   },
   {
     "code": "1117082010",
     "district_code": "111708",
-    "name": "Lot Bener Kelipah"
+    "name": "Lot Bener Kelipah",
+    "postal_code": "24583"
   },
   {
     "code": "1117082011",
     "district_code": "111708",
-    "name": "Nosar Tawar Jaya"
+    "name": "Nosar Tawar Jaya",
+    "postal_code": "24583"
   },
   {
     "code": "1117082012",
     "district_code": "111708",
-    "name": "Nosar Baru"
+    "name": "Nosar Baru",
+    "postal_code": "24583"
   }
 ]

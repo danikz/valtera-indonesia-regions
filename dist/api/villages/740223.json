@@ -2,36 +2,43 @@
   {
     "code": "7402231001",
     "district_code": "740223",
-    "name": "Ruota"
+    "name": "Ruota",
+    "postal_code": "93453"
   },
   {
     "code": "7402232002",
     "district_code": "740223",
-    "name": "Tira Wonua"
+    "name": "Tira Wonua",
+    "postal_code": "93453"
   },
   {
     "code": "7402232003",
     "district_code": "740223",
-    "name": "Parudongka"
+    "name": "Parudongka",
+    "postal_code": "93453"
   },
   {
     "code": "7402232004",
     "district_code": "740223",
-    "name": "Walandawe"
+    "name": "Walandawe",
+    "postal_code": "93453"
   },
   {
     "code": "7402232005",
     "district_code": "740223",
-    "name": "Puuwiwirano"
+    "name": "Puuwiwirano",
+    "postal_code": "93453"
   },
   {
     "code": "7402232006",
     "district_code": "740223",
-    "name": "Tanggola"
+    "name": "Tanggola",
+    "postal_code": "93453"
   },
   {
     "code": "7402232007",
     "district_code": "740223",
-    "name": "Lalomerui"
+    "name": "Lalomerui",
+    "postal_code": "93453"
   }
 ]

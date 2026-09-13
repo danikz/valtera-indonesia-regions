@@ -2,41 +2,49 @@
   {
     "code": "7501182001",
     "district_code": "750118",
-    "name": "Tualango"
+    "name": "Tualango",
+    "postal_code": "96182"
   },
   {
     "code": "7501182002",
     "district_code": "750118",
-    "name": "Dulomo"
+    "name": "Dulomo",
+    "postal_code": "96182"
   },
   {
     "code": "7501182003",
     "district_code": "750118",
-    "name": "Tilote"
+    "name": "Tilote",
+    "postal_code": "96182"
   },
   {
     "code": "7501182004",
     "district_code": "750118",
-    "name": "Tabumela"
+    "name": "Tabumela",
+    "postal_code": "96182"
   },
   {
     "code": "7501182005",
     "district_code": "750118",
-    "name": "Ilotidea"
+    "name": "Ilotidea",
+    "postal_code": "96182"
   },
   {
     "code": "7501182006",
     "district_code": "750118",
-    "name": "Lauwonu"
+    "name": "Lauwonu",
+    "postal_code": "96182"
   },
   {
     "code": "7501182007",
     "district_code": "750118",
-    "name": "Tenggela"
+    "name": "Tenggela",
+    "postal_code": "96182"
   },
   {
     "code": "7501182008",
     "district_code": "750118",
-    "name": "Tinelo"
+    "name": "Tinelo",
+    "postal_code": "96182"
   }
 ]

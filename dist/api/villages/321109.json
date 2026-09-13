@@ -2,46 +2,55 @@
   {
     "code": "3211092001",
     "district_code": "321109",
-    "name": "Wanasari"
+    "name": "Wanasari",
+    "postal_code": "45393"
   },
   {
     "code": "3211092002",
     "district_code": "321109",
-    "name": "Wanajaya"
+    "name": "Wanajaya",
+    "postal_code": "45393"
   },
   {
     "code": "3211092003",
     "district_code": "321109",
-    "name": "Pamekarsari"
+    "name": "Pamekarsari",
+    "postal_code": "45393"
   },
   {
     "code": "3211092004",
     "district_code": "321109",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "45393"
   },
   {
     "code": "3211092005",
     "district_code": "321109",
-    "name": "Surian"
+    "name": "Surian",
+    "postal_code": "45393"
   },
   {
     "code": "3211092006",
     "district_code": "321109",
-    "name": "Suriamukti"
+    "name": "Suriamukti",
+    "postal_code": "45393"
   },
   {
     "code": "3211092007",
     "district_code": "321109",
-    "name": "Suriamedal"
+    "name": "Suriamedal",
+    "postal_code": "45393"
   },
   {
     "code": "3211092008",
     "district_code": "321109",
-    "name": "Ranggasari"
+    "name": "Ranggasari",
+    "postal_code": "45393"
   },
   {
     "code": "3211092009",
     "district_code": "321109",
-    "name": "Nanjung Wangi"
+    "name": "Nanjung Wangi",
+    "postal_code": "45393"
   }
 ]

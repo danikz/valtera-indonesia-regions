@@ -2,36 +2,43 @@
   {
     "code": "7604091001",
     "district_code": "760409",
-    "name": "Matangnga"
+    "name": "Matangnga",
+    "postal_code": "91350"
   },
   {
     "code": "7604092002",
     "district_code": "760409",
-    "name": "Lilli"
+    "name": "Lilli",
+    "postal_code": "91350"
   },
   {
     "code": "7604092003",
     "district_code": "760409",
-    "name": "Rangoan"
+    "name": "Rangoan",
+    "postal_code": "91350"
   },
   {
     "code": "7604092004",
     "district_code": "760409",
-    "name": "Tapua"
+    "name": "Tapua",
+    "postal_code": "91350"
   },
   {
     "code": "7604092005",
     "district_code": "760409",
-    "name": "Mambu Tapua"
+    "name": "Mambu Tapua",
+    "postal_code": "91350"
   },
   {
     "code": "7604092006",
     "district_code": "760409",
-    "name": "Ba'ba Tapua"
+    "name": "Ba'ba Tapua",
+    "postal_code": "91350"
   },
   {
     "code": "7604092007",
     "district_code": "760409",
-    "name": "Katimbang"
+    "name": "Katimbang",
+    "postal_code": "91350"
   }
 ]

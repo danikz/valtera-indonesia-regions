@@ -2,56 +2,67 @@
   {
     "code": "1507041006",
     "district_code": "150704",
-    "name": "Bandar Jaya"
+    "name": "Bandar Jaya",
+    "postal_code": "36772"
   },
   {
     "code": "1507042004",
     "district_code": "150704",
-    "name": "Rantau Rasau I"
+    "name": "Rantau Rasau I",
+    "postal_code": "36772"
   },
   {
     "code": "1507042005",
     "district_code": "150704",
-    "name": "Rantau Rasau II"
+    "name": "Rantau Rasau II",
+    "postal_code": "36772"
   },
   {
     "code": "1507042007",
     "district_code": "150704",
-    "name": "Harapan Makmur"
+    "name": "Harapan Makmur",
+    "postal_code": "36772"
   },
   {
     "code": "1507042008",
     "district_code": "150704",
-    "name": "Bangun Karya"
+    "name": "Bangun Karya",
+    "postal_code": "36772"
   },
   {
     "code": "1507042009",
     "district_code": "150704",
-    "name": "Rantau Jaya"
+    "name": "Rantau Jaya",
+    "postal_code": "36772"
   },
   {
     "code": "1507042011",
     "district_code": "150704",
-    "name": "Sungai Dusun"
+    "name": "Sungai Dusun",
+    "postal_code": "36772"
   },
   {
     "code": "1507042013",
     "district_code": "150704",
-    "name": "Karya Bakti"
+    "name": "Karya Bakti",
+    "postal_code": "36772"
   },
   {
     "code": "1507042014",
     "district_code": "150704",
-    "name": "Marga Mulya"
+    "name": "Marga Mulya",
+    "postal_code": "36772"
   },
   {
     "code": "1507042015",
     "district_code": "150704",
-    "name": "Pematang Mayan"
+    "name": "Pematang Mayan",
+    "postal_code": "36772"
   },
   {
     "code": "1507042016",
     "district_code": "150704",
-    "name": "Tri Mulyo"
+    "name": "Tri Mulyo",
+    "postal_code": "36772"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "9407072001",
     "district_code": "940707",
-    "name": "Ugimba"
+    "name": "Ugimba",
+    "postal_code": "98794"
   },
   {
     "code": "9407072002",
     "district_code": "940707",
-    "name": "Bunaopa"
+    "name": "Bunaopa",
+    "postal_code": "98794"
   },
   {
     "code": "9407072003",
     "district_code": "940707",
-    "name": "Pigabu"
+    "name": "Pigabu",
+    "postal_code": "98794"
   },
   {
     "code": "9407072004",
     "district_code": "940707",
-    "name": "Teteopa"
+    "name": "Teteopa",
+    "postal_code": "98794"
   },
   {
     "code": "9407072005",
     "district_code": "940707",
-    "name": "Dukendopa"
+    "name": "Dukendopa",
+    "postal_code": "98794"
   },
   {
     "code": "9407072006",
     "district_code": "940707",
-    "name": "Nggamagae"
+    "name": "Nggamagae",
+    "postal_code": "98794"
   }
 ]

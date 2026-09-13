@@ -2,41 +2,49 @@
   {
     "code": "9209112003",
     "district_code": "920911",
-    "name": "Senopi"
+    "name": "Senopi",
+    "postal_code": ""
   },
   {
     "code": "9209112004",
     "district_code": "920911",
-    "name": "Arapi"
+    "name": "Arapi",
+    "postal_code": ""
   },
   {
     "code": "9209112005",
     "district_code": "920911",
-    "name": "Srurem"
+    "name": "Srurem",
+    "postal_code": ""
   },
   {
     "code": "9209112006",
     "district_code": "920911",
-    "name": "Sumo"
+    "name": "Sumo",
+    "postal_code": ""
   },
   {
     "code": "9209112007",
     "district_code": "920911",
-    "name": "Ifat Mitu"
+    "name": "Ifat Mitu",
+    "postal_code": ""
   },
   {
     "code": "9209112008",
     "district_code": "920911",
-    "name": "Povokek Ania"
+    "name": "Povokek Ania",
+    "postal_code": ""
   },
   {
     "code": "9209112012",
     "district_code": "920911",
-    "name": "Thomas"
+    "name": "Thomas",
+    "postal_code": ""
   },
   {
     "code": "9209112015",
     "district_code": "920911",
-    "name": "Tintum Araw"
+    "name": "Tintum Araw",
+    "postal_code": ""
   }
 ]

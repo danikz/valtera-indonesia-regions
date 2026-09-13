@@ -2,61 +2,73 @@
   {
     "code": "6371051001",
     "district_code": "637105",
-    "name": "Kertak Baru Ilir"
+    "name": "Kertak Baru Ilir",
+    "postal_code": "70111"
   },
   {
     "code": "6371051002",
     "district_code": "637105",
-    "name": "Kertak Baru Ulu"
+    "name": "Kertak Baru Ulu",
+    "postal_code": "70111"
   },
   {
     "code": "6371051003",
     "district_code": "637105",
-    "name": "Mawar"
+    "name": "Mawar",
+    "postal_code": "70112"
   },
   {
     "code": "6371051004",
     "district_code": "637105",
-    "name": "Teluk Dalam"
+    "name": "Teluk Dalam",
+    "postal_code": "70117"
   },
   {
     "code": "6371051005",
     "district_code": "637105",
-    "name": "Antasan Besar"
+    "name": "Antasan Besar",
+    "postal_code": "70114"
   },
   {
     "code": "6371051006",
     "district_code": "637105",
-    "name": "Pasar Lama"
+    "name": "Pasar Lama",
+    "postal_code": "70115"
   },
   {
     "code": "6371051007",
     "district_code": "637105",
-    "name": "Seberang Mesjid"
+    "name": "Seberang Mesjid",
+    "postal_code": "70231"
   },
   {
     "code": "6371051008",
     "district_code": "637105",
-    "name": "Gadang"
+    "name": "Gadang",
+    "postal_code": "70231"
   },
   {
     "code": "6371051009",
     "district_code": "637105",
-    "name": "Melayu"
+    "name": "Melayu",
+    "postal_code": "70234"
   },
   {
     "code": "6371051010",
     "district_code": "637105",
-    "name": "Sungai Baru"
+    "name": "Sungai Baru",
+    "postal_code": "70233"
   },
   {
     "code": "6371051011",
     "district_code": "637105",
-    "name": "Pekapuran Laut"
+    "name": "Pekapuran Laut",
+    "postal_code": "70235"
   },
   {
     "code": "6371051012",
     "district_code": "637105",
-    "name": "Kelayan Luar"
+    "name": "Kelayan Luar",
+    "postal_code": "70241"
   }
 ]

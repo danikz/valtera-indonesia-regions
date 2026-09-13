@@ -2,51 +2,61 @@
   {
     "code": "3501122001",
     "district_code": "350112",
-    "name": "Pagerkidul"
+    "name": "Pagerkidul",
+    "postal_code": "63573"
   },
   {
     "code": "3501122002",
     "district_code": "350112",
-    "name": "Pagerlor"
+    "name": "Pagerlor",
+    "postal_code": "63573"
   },
   {
     "code": "3501122003",
     "district_code": "350112",
-    "name": "Sukorejo"
+    "name": "Sukorejo",
+    "postal_code": "63573"
   },
   {
     "code": "3501122004",
     "district_code": "350112",
-    "name": "Sudimoro"
+    "name": "Sudimoro",
+    "postal_code": "63573"
   },
   {
     "code": "3501122005",
     "district_code": "350112",
-    "name": "Ketanggung"
+    "name": "Ketanggung",
+    "postal_code": "63573"
   },
   {
     "code": "3501122006",
     "district_code": "350112",
-    "name": "Klepu"
+    "name": "Klepu",
+    "postal_code": "63573"
   },
   {
     "code": "3501122007",
     "district_code": "350112",
-    "name": "Sembowo"
+    "name": "Sembowo",
+    "postal_code": "63573"
   },
   {
     "code": "3501122008",
     "district_code": "350112",
-    "name": "Karangmulyo"
+    "name": "Karangmulyo",
+    "postal_code": "63573"
   },
   {
     "code": "3501122009",
     "district_code": "350112",
-    "name": "Gunungrejo"
+    "name": "Gunungrejo",
+    "postal_code": "63573"
   },
   {
     "code": "3501122010",
     "district_code": "350112",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "63573"
   }
 ]

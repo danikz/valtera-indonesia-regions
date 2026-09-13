@@ -2,26 +2,31 @@
   {
     "code": "3522052001",
     "district_code": "352205",
-    "name": "Bubulan"
+    "name": "Bubulan",
+    "postal_code": "62172"
   },
   {
     "code": "3522052002",
     "district_code": "352205",
-    "name": "Cancung"
+    "name": "Cancung",
+    "postal_code": "62172"
   },
   {
     "code": "3522052003",
     "district_code": "352205",
-    "name": "Clebung"
+    "name": "Clebung",
+    "postal_code": "62172"
   },
   {
     "code": "3522052004",
     "district_code": "352205",
-    "name": "Sumberbendo"
+    "name": "Sumberbendo",
+    "postal_code": "62172"
   },
   {
     "code": "3522052005",
     "district_code": "352205",
-    "name": "Ngorogunung"
+    "name": "Ngorogunung",
+    "postal_code": "62172"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "9508212001",
     "district_code": "950821",
-    "name": "Iniye"
+    "name": "Iniye",
+    "postal_code": "99905"
   },
   {
     "code": "9508212002",
     "district_code": "950821",
-    "name": "Baklema"
+    "name": "Baklema",
+    "postal_code": "99905"
   },
   {
     "code": "9508212003",
     "district_code": "950821",
-    "name": "Kibendumu"
+    "name": "Kibendumu",
+    "postal_code": "99905"
   },
   {
     "code": "9508212004",
     "district_code": "950821",
-    "name": "Simiye"
+    "name": "Simiye",
+    "postal_code": "99905"
   },
   {
     "code": "9508212005",
     "district_code": "950821",
-    "name": "Embuklem"
+    "name": "Embuklem",
+    "postal_code": "99905"
   },
   {
     "code": "9508212006",
     "district_code": "950821",
-    "name": "Kosobak"
+    "name": "Kosobak",
+    "postal_code": "99905"
   }
 ]

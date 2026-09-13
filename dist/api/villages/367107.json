@@ -2,81 +2,97 @@
   {
     "code": "3671071001",
     "district_code": "367107",
-    "name": "Karawaci"
+    "name": "Karawaci",
+    "postal_code": "15115"
   },
   {
     "code": "3671071002",
     "district_code": "367107",
-    "name": "Bojong Jaya"
+    "name": "Bojong Jaya",
+    "postal_code": "15115"
   },
   {
     "code": "3671071003",
     "district_code": "367107",
-    "name": "Karawaci Baru"
+    "name": "Karawaci Baru",
+    "postal_code": "15116"
   },
   {
     "code": "3671071004",
     "district_code": "367107",
-    "name": "Nusa Jaya"
+    "name": "Nusa Jaya",
+    "postal_code": "15116"
   },
   {
     "code": "3671071005",
     "district_code": "367107",
-    "name": "Cimone"
+    "name": "Cimone",
+    "postal_code": "15114"
   },
   {
     "code": "3671071006",
     "district_code": "367107",
-    "name": "Cimone Jaya"
+    "name": "Cimone Jaya",
+    "postal_code": "15116"
   },
   {
     "code": "3671071007",
     "district_code": "367107",
-    "name": "Pabuaran"
+    "name": "Pabuaran",
+    "postal_code": "15114"
   },
   {
     "code": "3671071008",
     "district_code": "367107",
-    "name": "Sumur Pacing"
+    "name": "Sumur Pacing",
+    "postal_code": "15114"
   },
   {
     "code": "3671071009",
     "district_code": "367107",
-    "name": "Bugel"
+    "name": "Bugel",
+    "postal_code": "15113"
   },
   {
     "code": "3671071010",
     "district_code": "367107",
-    "name": "Margasari"
+    "name": "Margasari",
+    "postal_code": "15113"
   },
   {
     "code": "3671071011",
     "district_code": "367107",
-    "name": "Pabuaran Tumpeng"
+    "name": "Pabuaran Tumpeng",
+    "postal_code": "15112"
   },
   {
     "code": "3671071012",
     "district_code": "367107",
-    "name": "Nambo Jaya"
+    "name": "Nambo Jaya",
+    "postal_code": "15112"
   },
   {
     "code": "3671071013",
     "district_code": "367107",
-    "name": "Gerendeng"
+    "name": "Gerendeng",
+    "postal_code": "15113"
   },
   {
     "code": "3671071014",
     "district_code": "367107",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "15113"
   },
   {
     "code": "3671071015",
     "district_code": "367107",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "15112"
   },
   {
     "code": "3671071016",
     "district_code": "367107",
-    "name": "Koang Jaya"
+    "name": "Koang Jaya",
+    "postal_code": "15112"
   }
 ]

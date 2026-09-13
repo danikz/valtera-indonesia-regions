@@ -2,36 +2,43 @@
   {
     "code": "7311041001",
     "district_code": "731104",
-    "name": "Kiru Kiru"
+    "name": "Kiru Kiru",
+    "postal_code": "90752"
   },
   {
     "code": "7311041002",
     "district_code": "731104",
-    "name": "Mangkoso"
+    "name": "Mangkoso",
+    "postal_code": "90752"
   },
   {
     "code": "7311042003",
     "district_code": "731104",
-    "name": "Lawallu"
+    "name": "Lawallu",
+    "postal_code": "90752"
   },
   {
     "code": "7311042004",
     "district_code": "731104",
-    "name": "Paccekke"
+    "name": "Paccekke",
+    "postal_code": "90752"
   },
   {
     "code": "7311042005",
     "district_code": "731104",
-    "name": "Ajakkang"
+    "name": "Ajakkang",
+    "postal_code": "90752"
   },
   {
     "code": "7311042006",
     "district_code": "731104",
-    "name": "Siddo"
+    "name": "Siddo",
+    "postal_code": "90752"
   },
   {
     "code": "7311042007",
     "district_code": "731104",
-    "name": "Batupute"
+    "name": "Batupute",
+    "postal_code": "90752"
   }
 ]

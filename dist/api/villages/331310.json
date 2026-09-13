@@ -2,51 +2,61 @@
   {
     "code": "3313102001",
     "district_code": "331310",
-    "name": "Buran"
+    "name": "Buran",
+    "postal_code": "57722"
   },
   {
     "code": "3313102002",
     "district_code": "331310",
-    "name": "Papahan"
+    "name": "Papahan",
+    "postal_code": "57722"
   },
   {
     "code": "3313102003",
     "district_code": "331310",
-    "name": "Ngijo"
+    "name": "Ngijo",
+    "postal_code": "57721"
   },
   {
     "code": "3313102004",
     "district_code": "331310",
-    "name": "Gaum"
+    "name": "Gaum",
+    "postal_code": "57722"
   },
   {
     "code": "3313102005",
     "district_code": "331310",
-    "name": "Suruh"
+    "name": "Suruh",
+    "postal_code": "57722"
   },
   {
     "code": "3313102006",
     "district_code": "331310",
-    "name": "Pandeyan"
+    "name": "Pandeyan",
+    "postal_code": "57722"
   },
   {
     "code": "3313102007",
     "district_code": "331310",
-    "name": "Karangmojo"
+    "name": "Karangmojo",
+    "postal_code": "57722"
   },
   {
     "code": "3313102008",
     "district_code": "331310",
-    "name": "Kaling"
+    "name": "Kaling",
+    "postal_code": "57722"
   },
   {
     "code": "3313102009",
     "district_code": "331310",
-    "name": "Wonolopo"
+    "name": "Wonolopo",
+    "postal_code": "57722"
   },
   {
     "code": "3313102010",
     "district_code": "331310",
-    "name": "Kalijirak"
+    "name": "Kalijirak",
+    "postal_code": "57722"
   }
 ]

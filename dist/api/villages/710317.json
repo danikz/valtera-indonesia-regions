@@ -2,41 +2,49 @@
   {
     "code": "7103171006",
     "district_code": "710317",
-    "name": "Sawang Bendar"
+    "name": "Sawang Bendar",
+    "postal_code": "95812"
   },
   {
     "code": "7103171007",
     "district_code": "710317",
-    "name": "Soataloara I"
+    "name": "Soataloara I",
+    "postal_code": "95813"
   },
   {
     "code": "7103171008",
     "district_code": "710317",
-    "name": "Apengsembeka"
+    "name": "Apengsembeka",
+    "postal_code": "95811"
   },
   {
     "code": "7103171009",
     "district_code": "710317",
-    "name": "Mahena"
+    "name": "Mahena",
+    "postal_code": "95813"
   },
   {
     "code": "7103171015",
     "district_code": "710317",
-    "name": "Bungalawang"
+    "name": "Bungalawang",
+    "postal_code": "95811"
   },
   {
     "code": "7103171016",
     "district_code": "710317",
-    "name": "Santiago"
+    "name": "Santiago",
+    "postal_code": "95811"
   },
   {
     "code": "7103171017",
     "district_code": "710317",
-    "name": "Manente"
+    "name": "Manente",
+    "postal_code": "95811"
   },
   {
     "code": "7103171018",
     "district_code": "710317",
-    "name": "Soataloara II"
+    "name": "Soataloara II",
+    "postal_code": "95813"
   }
 ]

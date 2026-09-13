@@ -2,36 +2,43 @@
   {
     "code": "8108022001",
     "district_code": "810802",
-    "name": "Wulur"
+    "name": "Wulur",
+    "postal_code": "97652"
   },
   {
     "code": "8108022002",
     "district_code": "810802",
-    "name": "Batu Merah"
+    "name": "Batu Merah",
+    "postal_code": "97128"
   },
   {
     "code": "8108022003",
     "district_code": "810802",
-    "name": "Kuaimelu"
+    "name": "Kuaimelu",
+    "postal_code": "97652"
   },
   {
     "code": "8108022004",
     "district_code": "810802",
-    "name": "Kumur"
+    "name": "Kumur",
+    "postal_code": "97652"
   },
   {
     "code": "8108022005",
     "district_code": "810802",
-    "name": "Bebar Timur"
+    "name": "Bebar Timur",
+    "postal_code": "97652"
   },
   {
     "code": "8108022006",
     "district_code": "810802",
-    "name": "Ilih"
+    "name": "Ilih",
+    "postal_code": "97652"
   },
   {
     "code": "8108022007",
     "district_code": "810802",
-    "name": "Kehli"
+    "name": "Kehli",
+    "postal_code": "97652"
   }
 ]

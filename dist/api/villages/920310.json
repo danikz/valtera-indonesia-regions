@@ -2,46 +2,55 @@
   {
     "code": "9203101001",
     "district_code": "920310",
-    "name": "Wagom"
+    "name": "Wagom",
+    "postal_code": "98013"
   },
   {
     "code": "9203101002",
     "district_code": "920310",
-    "name": "Wagom Utara"
+    "name": "Wagom Utara",
+    "postal_code": "98013"
   },
   {
     "code": "9203101003",
     "district_code": "920310",
-    "name": "Dulanpokpok"
+    "name": "Dulanpokpok",
+    "postal_code": "98013"
   },
   {
     "code": "9203102004",
     "district_code": "920310",
-    "name": "Tanama"
+    "name": "Tanama",
+    "postal_code": "98013"
   },
   {
     "code": "9203102005",
     "district_code": "920310",
-    "name": "Kapaurtutin"
+    "name": "Kapaurtutin",
+    "postal_code": "98013"
   },
   {
     "code": "9203102006",
     "district_code": "920310",
-    "name": "Sekban"
+    "name": "Sekban",
+    "postal_code": "98013"
   },
   {
     "code": "9203102007",
     "district_code": "920310",
-    "name": "Torea"
+    "name": "Torea",
+    "postal_code": "98013"
   },
   {
     "code": "9203102008",
     "district_code": "920310",
-    "name": "Sekru"
+    "name": "Sekru",
+    "postal_code": "98013"
   },
   {
     "code": "9203102009",
     "district_code": "920310",
-    "name": "Sukuru Tuare"
+    "name": "Sukuru Tuare",
+    "postal_code": "98013"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1271151001",
     "district_code": "127115",
-    "name": "A u r"
+    "name": "A u r",
+    "postal_code": "20151"
   },
   {
     "code": "1271151002",
     "district_code": "127115",
-    "name": "Hamdan"
+    "name": "Hamdan",
+    "postal_code": "20151"
   },
   {
     "code": "1271151003",
     "district_code": "127115",
-    "name": "J a t i"
+    "name": "J a t i",
+    "postal_code": "20152"
   },
   {
     "code": "1271151004",
     "district_code": "127115",
-    "name": "Sukaraja"
+    "name": "Sukaraja",
+    "postal_code": "20159"
   },
   {
     "code": "1271151005",
     "district_code": "127115",
-    "name": "Sei Mati"
+    "name": "Sei Mati",
+    "postal_code": "20159"
   },
   {
     "code": "1271151006",
     "district_code": "127115",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "20158"
   }
 ]

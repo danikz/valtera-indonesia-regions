@@ -2,36 +2,43 @@
   {
     "code": "8204212001",
     "district_code": "820421",
-    "name": "Wayaua"
+    "name": "Wayaua",
+    "postal_code": "97791"
   },
   {
     "code": "8204212002",
     "district_code": "820421",
-    "name": "Silang"
+    "name": "Silang",
+    "postal_code": "97791"
   },
   {
     "code": "8204212003",
     "district_code": "820421",
-    "name": "Liaro"
+    "name": "Liaro",
+    "postal_code": "97791"
   },
   {
     "code": "8204212004",
     "district_code": "820421",
-    "name": "Pigaraja"
+    "name": "Pigaraja",
+    "postal_code": "97791"
   },
   {
     "code": "8204212005",
     "district_code": "820421",
-    "name": "Wayakuba"
+    "name": "Wayakuba",
+    "postal_code": "97791"
   },
   {
     "code": "8204212006",
     "district_code": "820421",
-    "name": "Tabangame"
+    "name": "Tabangame",
+    "postal_code": "97791"
   },
   {
     "code": "8204212007",
     "district_code": "820421",
-    "name": "Tabajaya"
+    "name": "Tabajaya",
+    "postal_code": "97791"
   }
 ]

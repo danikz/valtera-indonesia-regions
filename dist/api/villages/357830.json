@@ -2,21 +2,25 @@
   {
     "code": "3578301001",
     "district_code": "357830",
-    "name": "Pakal"
+    "name": "Pakal",
+    "postal_code": "60196"
   },
   {
     "code": "3578301002",
     "district_code": "357830",
-    "name": "Babat Jerawat"
+    "name": "Babat Jerawat",
+    "postal_code": "60197"
   },
   {
     "code": "3578301004",
     "district_code": "357830",
-    "name": "Sumber Rejo"
+    "name": "Sumber Rejo",
+    "postal_code": "60192"
   },
   {
     "code": "3578301005",
     "district_code": "357830",
-    "name": "Benowo"
+    "name": "Benowo",
+    "postal_code": "60195"
   }
 ]

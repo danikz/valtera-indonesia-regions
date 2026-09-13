@@ -2,76 +2,91 @@
   {
     "code": "3518131001",
     "district_code": "351813",
-    "name": "Jatirejo"
+    "name": "Jatirejo",
+    "postal_code": "64416"
   },
   {
     "code": "3518131002",
     "district_code": "351813",
-    "name": "Ploso"
+    "name": "Ploso",
+    "postal_code": "64417"
   },
   {
     "code": "3518131003",
     "district_code": "351813",
-    "name": "Payaman"
+    "name": "Payaman",
+    "postal_code": "64418"
   },
   {
     "code": "3518131004",
     "district_code": "351813",
-    "name": "Kramat"
+    "name": "Kramat",
+    "postal_code": "64419"
   },
   {
     "code": "3518131005",
     "district_code": "351813",
-    "name": "Ganung Kidul"
+    "name": "Ganung Kidul",
+    "postal_code": "64419"
   },
   {
     "code": "3518131006",
     "district_code": "351813",
-    "name": "Werungotok"
+    "name": "Werungotok",
+    "postal_code": "64419"
   },
   {
     "code": "3518131007",
     "district_code": "351813",
-    "name": "Mangundikaran"
+    "name": "Mangundikaran",
+    "postal_code": "64419"
   },
   {
     "code": "3518131008",
     "district_code": "351813",
-    "name": "Kauman"
+    "name": "Kauman",
+    "postal_code": "64411"
   },
   {
     "code": "3518131009",
     "district_code": "351813",
-    "name": "Kartoharjo"
+    "name": "Kartoharjo",
+    "postal_code": "64416"
   },
   {
     "code": "3518131010",
     "district_code": "351813",
-    "name": "Cangkriman"
+    "name": "Cangkriman",
+    "postal_code": "64415"
   },
   {
     "code": "3518131011",
     "district_code": "351813",
-    "name": "Bogo"
+    "name": "Bogo",
+    "postal_code": "64415"
   },
   {
     "code": "3518131012",
     "district_code": "351813",
-    "name": "Ringinanom"
+    "name": "Ringinanom",
+    "postal_code": "64419"
   },
   {
     "code": "3518131013",
     "district_code": "351813",
-    "name": "Begadung"
+    "name": "Begadung",
+    "postal_code": "64413"
   },
   {
     "code": "3518132014",
     "district_code": "351813",
-    "name": "Kedungdowo"
+    "name": "Kedungdowo",
+    "postal_code": "64419"
   },
   {
     "code": "3518132015",
     "district_code": "351813",
-    "name": "Balongpacul"
+    "name": "Balongpacul",
+    "postal_code": "64419"
   }
 ]

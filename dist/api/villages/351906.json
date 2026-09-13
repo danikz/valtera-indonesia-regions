@@ -2,36 +2,43 @@
   {
     "code": "3519062001",
     "district_code": "351906",
-    "name": "Batok"
+    "name": "Batok",
+    "postal_code": "63156"
   },
   {
     "code": "3519062002",
     "district_code": "351906",
-    "name": "Durenan"
+    "name": "Durenan",
+    "postal_code": "63156"
   },
   {
     "code": "3519062003",
     "district_code": "351906",
-    "name": "Winong"
+    "name": "Winong",
+    "postal_code": "63156"
   },
   {
     "code": "3519062004",
     "district_code": "351906",
-    "name": "Tawangrejo"
+    "name": "Tawangrejo",
+    "postal_code": "63156"
   },
   {
     "code": "3519062005",
     "district_code": "351906",
-    "name": "Gemarang"
+    "name": "Gemarang",
+    "postal_code": "63156"
   },
   {
     "code": "3519062006",
     "district_code": "351906",
-    "name": "Sebayi"
+    "name": "Sebayi",
+    "postal_code": "63156"
   },
   {
     "code": "3519062007",
     "district_code": "351906",
-    "name": "Nampu"
+    "name": "Nampu",
+    "postal_code": "63156"
   }
 ]

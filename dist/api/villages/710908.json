@@ -2,41 +2,49 @@
   {
     "code": "7109082001",
     "district_code": "710908",
-    "name": "Kinali"
+    "name": "Kinali",
+    "postal_code": "95869"
   },
   {
     "code": "7109082002",
     "district_code": "710908",
-    "name": "Hiung"
+    "name": "Hiung",
+    "postal_code": "95869"
   },
   {
     "code": "7109082003",
     "district_code": "710908",
-    "name": "Kiawang"
+    "name": "Kiawang",
+    "postal_code": "95869"
   },
   {
     "code": "7109082004",
     "district_code": "710908",
-    "name": "Kawahang"
+    "name": "Kawahang",
+    "postal_code": "95869"
   },
   {
     "code": "7109082005",
     "district_code": "710908",
-    "name": "Batubulan"
+    "name": "Batubulan",
+    "postal_code": "95869"
   },
   {
     "code": "7109082006",
     "district_code": "710908",
-    "name": "Nameng"
+    "name": "Nameng",
+    "postal_code": "95869"
   },
   {
     "code": "7109082007",
     "district_code": "710908",
-    "name": "Mini"
+    "name": "Mini",
+    "postal_code": "95869"
   },
   {
     "code": "7109082008",
     "district_code": "710908",
-    "name": "Winangun"
+    "name": "Winangun",
+    "postal_code": "95869"
   }
 ]

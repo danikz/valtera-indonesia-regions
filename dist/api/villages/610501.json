@@ -2,146 +2,175 @@
   {
     "code": "6105011001",
     "district_code": "610501",
-    "name": "Ladang"
+    "name": "Ladang",
+    "postal_code": "78612"
   },
   {
     "code": "6105011002",
     "district_code": "610501",
-    "name": "Kapuas Kanan Hulu"
+    "name": "Kapuas Kanan Hulu",
+    "postal_code": "78614"
   },
   {
     "code": "6105011003",
     "district_code": "610501",
-    "name": "Tanjung Puri"
+    "name": "Tanjung Puri",
+    "postal_code": "78611"
   },
   {
     "code": "6105011004",
     "district_code": "610501",
-    "name": "Kapuas Kanan Hilir"
+    "name": "Kapuas Kanan Hilir",
+    "postal_code": "78613"
   },
   {
     "code": "6105011005",
     "district_code": "610501",
-    "name": "Kapuas Kiri Hilir"
+    "name": "Kapuas Kiri Hilir",
+    "postal_code": "78615"
   },
   {
     "code": "6105011006",
     "district_code": "610501",
-    "name": "Kapuas Kiri Hulu"
+    "name": "Kapuas Kiri Hulu",
+    "postal_code": "78616"
   },
   {
     "code": "6105011016",
     "district_code": "610501",
-    "name": "Akcaya"
+    "name": "Akcaya",
+    "postal_code": "78611"
   },
   {
     "code": "6105011017",
     "district_code": "610501",
-    "name": "Alai"
+    "name": "Alai",
+    "postal_code": "78611"
   },
   {
     "code": "6105011018",
     "district_code": "610501",
-    "name": "Rawa Mambok"
+    "name": "Rawa Mambok",
+    "postal_code": "78614"
   },
   {
     "code": "6105011019",
     "district_code": "610501",
-    "name": "Sengkuang"
+    "name": "Sengkuang",
+    "postal_code": "78614"
   },
   {
     "code": "6105011020",
     "district_code": "610501",
-    "name": "Mengkurai"
+    "name": "Mengkurai",
+    "postal_code": "78613"
   },
   {
     "code": "6105011021",
     "district_code": "610501",
-    "name": "Kedabang"
+    "name": "Kedabang",
+    "postal_code": "78613"
   },
   {
     "code": "6105011022",
     "district_code": "610501",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "78615"
   },
   {
     "code": "6105011023",
     "district_code": "610501",
-    "name": "Batu Lalau"
+    "name": "Batu Lalau",
+    "postal_code": "78615"
   },
   {
     "code": "6105011024",
     "district_code": "610501",
-    "name": "Menyumbung Tengah"
+    "name": "Menyumbung Tengah",
+    "postal_code": "78616"
   },
   {
     "code": "6105011025",
     "district_code": "610501",
-    "name": "Ulak Jaya"
+    "name": "Ulak Jaya",
+    "postal_code": "78616"
   },
   {
     "code": "6105012007",
     "district_code": "610501",
-    "name": "Baning Kota"
+    "name": "Baning Kota",
+    "postal_code": "78612"
   },
   {
     "code": "6105012008",
     "district_code": "610501",
-    "name": "Tertung"
+    "name": "Tertung",
+    "postal_code": "78616"
   },
   {
     "code": "6105012009",
     "district_code": "610501",
-    "name": "Mungguk Bantok"
+    "name": "Mungguk Bantok",
+    "postal_code": "78616"
   },
   {
     "code": "6105012010",
     "district_code": "610501",
-    "name": "Teluk Kelansam"
+    "name": "Teluk Kelansam",
+    "postal_code": "78616"
   },
   {
     "code": "6105012011",
     "district_code": "610501",
-    "name": "Sungai Ana"
+    "name": "Sungai Ana",
+    "postal_code": "78619"
   },
   {
     "code": "6105012012",
     "district_code": "610501",
-    "name": "Merti Guna"
+    "name": "Merti Guna",
+    "postal_code": "78618"
   },
   {
     "code": "6105012013",
     "district_code": "610501",
-    "name": "Tanjung Kelansam"
+    "name": "Tanjung Kelansam",
+    "postal_code": "78611"
   },
   {
     "code": "6105012014",
     "district_code": "610501",
-    "name": "Anggah Jaya"
+    "name": "Anggah Jaya",
+    "postal_code": "78617"
   },
   {
     "code": "6105012015",
     "district_code": "610501",
-    "name": "Lalang Baru"
+    "name": "Lalang Baru",
+    "postal_code": "78617"
   },
   {
     "code": "6105012026",
     "district_code": "610501",
-    "name": "Tebing Raya"
+    "name": "Tebing Raya",
+    "postal_code": "78616"
   },
   {
     "code": "6105012027",
     "district_code": "610501",
-    "name": "Mail Jampong"
+    "name": "Mail Jampong",
+    "postal_code": "78616"
   },
   {
     "code": "6105012028",
     "district_code": "610501",
-    "name": "Jerora Satu"
+    "name": "Jerora Satu",
+    "postal_code": "78611"
   },
   {
     "code": "6105012029",
     "district_code": "610501",
-    "name": "Kebiau Baru"
+    "name": "Kebiau Baru",
+    "postal_code": "78611"
   }
 ]

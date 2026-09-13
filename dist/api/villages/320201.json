@@ -2,51 +2,61 @@
   {
     "code": "3202011001",
     "district_code": "320201",
-    "name": "Palabuhanratu"
+    "name": "Palabuhanratu",
+    "postal_code": "43364"
   },
   {
     "code": "3202012002",
     "district_code": "320201",
-    "name": "Tonjong"
+    "name": "Tonjong",
+    "postal_code": "43364"
   },
   {
     "code": "3202012003",
     "district_code": "320201",
-    "name": "Citepus"
+    "name": "Citepus",
+    "postal_code": "43364"
   },
   {
     "code": "3202012004",
     "district_code": "320201",
-    "name": "Buniwangi"
+    "name": "Buniwangi",
+    "postal_code": "43364"
   },
   {
     "code": "3202012005",
     "district_code": "320201",
-    "name": "Cibodas"
+    "name": "Cibodas",
+    "postal_code": "43364"
   },
   {
     "code": "3202012006",
     "district_code": "320201",
-    "name": "Pasirsuren"
+    "name": "Pasirsuren",
+    "postal_code": "43364"
   },
   {
     "code": "3202012007",
     "district_code": "320201",
-    "name": "Cikadu"
+    "name": "Cikadu",
+    "postal_code": "43364"
   },
   {
     "code": "3202012008",
     "district_code": "320201",
-    "name": "Citarik"
+    "name": "Citarik",
+    "postal_code": "43364"
   },
   {
     "code": "3202012009",
     "district_code": "320201",
-    "name": "Cimanggu"
+    "name": "Cimanggu",
+    "postal_code": "43364"
   },
   {
     "code": "3202012010",
     "district_code": "320201",
-    "name": "Jayanti"
+    "name": "Jayanti",
+    "postal_code": "43364"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "1201182001",
     "district_code": "120118",
-    "name": "Pulo Pakkat"
+    "name": "Pulo Pakkat",
+    "postal_code": "22656"
   },
   {
     "code": "1201182002",
     "district_code": "120118",
-    "name": "Tebing Tinggi"
+    "name": "Tebing Tinggi",
+    "postal_code": "22656"
   },
   {
     "code": "1201182003",
     "district_code": "120118",
-    "name": "Pulo Pakkat II"
+    "name": "Pulo Pakkat II",
+    "postal_code": "22656"
   },
   {
     "code": "1201182004",
     "district_code": "120118",
-    "name": "Janji Maria"
+    "name": "Janji Maria",
+    "postal_code": "22656"
   },
   {
     "code": "1201182005",
     "district_code": "120118",
-    "name": "Sihadatuon"
+    "name": "Sihadatuon",
+    "postal_code": "22656"
   },
   {
     "code": "1201182006",
     "district_code": "120118",
-    "name": "Sihapas"
+    "name": "Sihapas",
+    "postal_code": "22656"
   }
 ]

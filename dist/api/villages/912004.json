@@ -2,36 +2,43 @@
   {
     "code": "9120042001",
     "district_code": "912004",
-    "name": "Kustra"
+    "name": "Kustra",
+    "postal_code": "98693"
   },
   {
     "code": "9120042002",
     "district_code": "912004",
-    "name": "Noyadi"
+    "name": "Noyadi",
+    "postal_code": "98693"
   },
   {
     "code": "9120042003",
     "district_code": "912004",
-    "name": "Obogoi"
+    "name": "Obogoi",
+    "postal_code": "98693"
   },
   {
     "code": "9120042004",
     "district_code": "912004",
-    "name": "Biri"
+    "name": "Biri",
+    "postal_code": "98693"
   },
   {
     "code": "9120042005",
     "district_code": "912004",
-    "name": "Wakeyadi"
+    "name": "Wakeyadi",
+    "postal_code": "98693"
   },
   {
     "code": "9120042006",
     "district_code": "912004",
-    "name": "Eri"
+    "name": "Eri",
+    "postal_code": "98693"
   },
   {
     "code": "9120042007",
     "district_code": "912004",
-    "name": "Towao"
+    "name": "Towao",
+    "postal_code": "98693"
   }
 ]

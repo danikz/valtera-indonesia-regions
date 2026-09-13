@@ -2,31 +2,37 @@
   {
     "code": "6202112001",
     "district_code": "620211",
-    "name": "Parebok"
+    "name": "Parebok",
+    "postal_code": "74364"
   },
   {
     "code": "6202112002",
     "district_code": "620211",
-    "name": "Basawang"
+    "name": "Basawang",
+    "postal_code": "74364"
   },
   {
     "code": "6202112003",
     "district_code": "620211",
-    "name": "Lampuyang"
+    "name": "Lampuyang",
+    "postal_code": "74364"
   },
   {
     "code": "6202112004",
     "district_code": "620211",
-    "name": "Ujung Pandaran"
+    "name": "Ujung Pandaran",
+    "postal_code": "74364"
   },
   {
     "code": "6202112005",
     "district_code": "620211",
-    "name": "Regei Lestari"
+    "name": "Regei Lestari",
+    "postal_code": "74364"
   },
   {
     "code": "6202112006",
     "district_code": "620211",
-    "name": "Kuin Permai"
+    "name": "Kuin Permai",
+    "postal_code": "74364"
   }
 ]

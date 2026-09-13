@@ -2,61 +2,73 @@
   {
     "code": "1201101001",
     "district_code": "120110",
-    "name": "Sorkam Kanan"
+    "name": "Sorkam Kanan",
+    "postal_code": "22561"
   },
   {
     "code": "1201101019",
     "district_code": "120110",
-    "name": "Binasi"
+    "name": "Binasi",
+    "postal_code": "22561"
   },
   {
     "code": "1201102002",
     "district_code": "120110",
-    "name": "Sipea Pea"
+    "name": "Sipea Pea",
+    "postal_code": "22561"
   },
   {
     "code": "1201102003",
     "district_code": "120110",
-    "name": "Pahieme I"
+    "name": "Pahieme I",
+    "postal_code": "22561"
   },
   {
     "code": "1201102004",
     "district_code": "120110",
-    "name": "Pasar Sorkam"
+    "name": "Pasar Sorkam",
+    "postal_code": "22561"
   },
   {
     "code": "1201102005",
     "district_code": "120110",
-    "name": "Aek Raso"
+    "name": "Aek Raso",
+    "postal_code": "22561"
   },
   {
     "code": "1201102006",
     "district_code": "120110",
-    "name": "Pasaribu Tobing Jae"
+    "name": "Pasaribu Tobing Jae",
+    "postal_code": "22561"
   },
   {
     "code": "1201102014",
     "district_code": "120110",
-    "name": "Maduma"
+    "name": "Maduma",
+    "postal_code": "22561"
   },
   {
     "code": "1201102016",
     "district_code": "120110",
-    "name": "Sidikalang"
+    "name": "Sidikalang",
+    "postal_code": "22561"
   },
   {
     "code": "1201102017",
     "district_code": "120110",
-    "name": "Pahieme II"
+    "name": "Pahieme II",
+    "postal_code": "22561"
   },
   {
     "code": "1201102018",
     "district_code": "120110",
-    "name": "Sorkam Kanan"
+    "name": "Sorkam Kanan",
+    "postal_code": "22561"
   },
   {
     "code": "1201102020",
     "district_code": "120110",
-    "name": "Madani"
+    "name": "Madani",
+    "postal_code": "22561"
   }
 ]

@@ -2,61 +2,73 @@
   {
     "code": "3518121002",
     "district_code": "351812",
-    "name": "Kapas"
+    "name": "Kapas",
+    "postal_code": "64481"
   },
   {
     "code": "3518121007",
     "district_code": "351812",
-    "name": "Sokomoro"
+    "name": "Sokomoro",
+    "postal_code": "64481"
   },
   {
     "code": "3518122001",
     "district_code": "351812",
-    "name": "Sumengko"
+    "name": "Sumengko",
+    "postal_code": "64481"
   },
   {
     "code": "3518122003",
     "district_code": "351812",
-    "name": "Blitaran"
+    "name": "Blitaran",
+    "postal_code": "64481"
   },
   {
     "code": "3518122004",
     "district_code": "351812",
-    "name": "Kedungsoko"
+    "name": "Kedungsoko",
+    "postal_code": "64481"
   },
   {
     "code": "3518122005",
     "district_code": "351812",
-    "name": "Ngludo"
+    "name": "Ngludo",
+    "postal_code": "64481"
   },
   {
     "code": "3518122006",
     "district_code": "351812",
-    "name": "Bungur"
+    "name": "Bungur",
+    "postal_code": "64481"
   },
   {
     "code": "3518122008",
     "district_code": "351812",
-    "name": "Pehserut"
+    "name": "Pehserut",
+    "postal_code": "64481"
   },
   {
     "code": "3518122009",
     "district_code": "351812",
-    "name": "Ngrami"
+    "name": "Ngrami",
+    "postal_code": "64481"
   },
   {
     "code": "3518122010",
     "district_code": "351812",
-    "name": "Bagor Wetan"
+    "name": "Bagor Wetan",
+    "postal_code": "64481"
   },
   {
     "code": "3518122011",
     "district_code": "351812",
-    "name": "Putren"
+    "name": "Putren",
+    "postal_code": "64481"
   },
   {
     "code": "3518122012",
     "district_code": "351812",
-    "name": "Ngrengket"
+    "name": "Ngrengket",
+    "postal_code": "64481"
   }
 ]

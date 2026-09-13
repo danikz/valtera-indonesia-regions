@@ -2,21 +2,25 @@
   {
     "code": "3275011001",
     "district_code": "327501",
-    "name": "Bekasijaya"
+    "name": "Bekasijaya",
+    "postal_code": "17112"
   },
   {
     "code": "3275011002",
     "district_code": "327501",
-    "name": "Margahayu"
+    "name": "Margahayu",
+    "postal_code": "17113"
   },
   {
     "code": "3275011003",
     "district_code": "327501",
-    "name": "Durenjaya"
+    "name": "Durenjaya",
+    "postal_code": "17111"
   },
   {
     "code": "3275011004",
     "district_code": "327501",
-    "name": "Arenjaya"
+    "name": "Arenjaya",
+    "postal_code": "17111"
   }
 ]

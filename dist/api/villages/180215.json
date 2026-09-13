@@ -2,41 +2,49 @@
   {
     "code": "1802152001",
     "district_code": "180215",
-    "name": "Rengas"
+    "name": "Rengas",
+    "postal_code": "34162"
   },
   {
     "code": "1802152002",
     "district_code": "180215",
-    "name": "Kesuma Dadi"
+    "name": "Kesuma Dadi",
+    "postal_code": "34162"
   },
   {
     "code": "1802152003",
     "district_code": "180215",
-    "name": "Sinar Banten"
+    "name": "Sinar Banten",
+    "postal_code": "34162"
   },
   {
     "code": "1802152004",
     "district_code": "180215",
-    "name": "Kesuma Jaya"
+    "name": "Kesuma Jaya",
+    "postal_code": "34162"
   },
   {
     "code": "1802152005",
     "district_code": "180215",
-    "name": "Binjai Ngagung"
+    "name": "Binjai Ngagung",
+    "postal_code": "34162"
   },
   {
     "code": "1802152006",
     "district_code": "180215",
-    "name": "Kedatuan"
+    "name": "Kedatuan",
+    "postal_code": "34162"
   },
   {
     "code": "1802152007",
     "district_code": "180215",
-    "name": "Goras Jaya"
+    "name": "Goras Jaya",
+    "postal_code": "34162"
   },
   {
     "code": "1802152008",
     "district_code": "180215",
-    "name": "Bangun Sari"
+    "name": "Bangun Sari",
+    "postal_code": "34162"
   }
 ]

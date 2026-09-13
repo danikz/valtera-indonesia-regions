@@ -2,61 +2,73 @@
   {
     "code": "6371011001",
     "district_code": "637101",
-    "name": "Mantuil"
+    "name": "Mantuil",
+    "postal_code": "70244"
   },
   {
     "code": "6371011002",
     "district_code": "637101",
-    "name": "Kelayan Selatan"
+    "name": "Kelayan Selatan",
+    "postal_code": "70246"
   },
   {
     "code": "6371011003",
     "district_code": "637101",
-    "name": "Pekauman"
+    "name": "Pekauman",
+    "postal_code": "70243"
   },
   {
     "code": "6371011004",
     "district_code": "637101",
-    "name": "Kelayan Barat"
+    "name": "Kelayan Barat",
+    "postal_code": "70241"
   },
   {
     "code": "6371011005",
     "district_code": "637101",
-    "name": "Kelayan Tengah"
+    "name": "Kelayan Tengah",
+    "postal_code": "70242"
   },
   {
     "code": "6371011006",
     "district_code": "637101",
-    "name": "Kelayan Dalam"
+    "name": "Kelayan Dalam",
+    "postal_code": "70242"
   },
   {
     "code": "6371011007",
     "district_code": "637101",
-    "name": "Murung Raya"
+    "name": "Murung Raya",
+    "postal_code": "70247"
   },
   {
     "code": "6371011008",
     "district_code": "637101",
-    "name": "Kelayan Timur"
+    "name": "Kelayan Timur",
+    "postal_code": "70247"
   },
   {
     "code": "6371011009",
     "district_code": "637101",
-    "name": "Tanjung Pagar"
+    "name": "Tanjung Pagar",
+    "postal_code": "70247"
   },
   {
     "code": "6371011010",
     "district_code": "637101",
-    "name": "Pemurus Dalam"
+    "name": "Pemurus Dalam",
+    "postal_code": "70248"
   },
   {
     "code": "6371011011",
     "district_code": "637101",
-    "name": "Pemurus Baru"
+    "name": "Pemurus Baru",
+    "postal_code": "70249"
   },
   {
     "code": "6371011012",
     "district_code": "637101",
-    "name": "Basirih Selatan"
+    "name": "Basirih Selatan",
+    "postal_code": "70245"
   }
 ]

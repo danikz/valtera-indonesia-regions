@@ -2,66 +2,79 @@
   {
     "code": "5105022001",
     "district_code": "510502",
-    "name": "Negari"
+    "name": "Negari",
+    "postal_code": "80752"
   },
   {
     "code": "5105022002",
     "district_code": "510502",
-    "name": "Takmung"
+    "name": "Takmung",
+    "postal_code": "80752"
   },
   {
     "code": "5105022003",
     "district_code": "510502",
-    "name": "Banjarangkan"
+    "name": "Banjarangkan",
+    "postal_code": "80752"
   },
   {
     "code": "5105022004",
     "district_code": "510502",
-    "name": "Tusan"
+    "name": "Tusan",
+    "postal_code": "80752"
   },
   {
     "code": "5105022005",
     "district_code": "510502",
-    "name": "Bakas"
+    "name": "Bakas",
+    "postal_code": "80752"
   },
   {
     "code": "5105022006",
     "district_code": "510502",
-    "name": "Getakan"
+    "name": "Getakan",
+    "postal_code": "80752"
   },
   {
     "code": "5105022007",
     "district_code": "510502",
-    "name": "Tihingan"
+    "name": "Tihingan",
+    "postal_code": "80752"
   },
   {
     "code": "5105022008",
     "district_code": "510502",
-    "name": "Aan"
+    "name": "Aan",
+    "postal_code": "80752"
   },
   {
     "code": "5105022009",
     "district_code": "510502",
-    "name": "Nyalian"
+    "name": "Nyalian",
+    "postal_code": "80752"
   },
   {
     "code": "5105022010",
     "district_code": "510502",
-    "name": "Bungbungan"
+    "name": "Bungbungan",
+    "postal_code": "80752"
   },
   {
     "code": "5105022011",
     "district_code": "510502",
-    "name": "Timuhun"
+    "name": "Timuhun",
+    "postal_code": "80752"
   },
   {
     "code": "5105022012",
     "district_code": "510502",
-    "name": "Nyanglan"
+    "name": "Nyanglan",
+    "postal_code": "80752"
   },
   {
     "code": "5105022013",
     "district_code": "510502",
-    "name": "Tohpati"
+    "name": "Tohpati",
+    "postal_code": "80752"
   }
 ]

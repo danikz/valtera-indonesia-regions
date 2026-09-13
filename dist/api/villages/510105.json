@@ -2,51 +2,61 @@
   {
     "code": "5101051001",
     "district_code": "510105",
-    "name": "Pendem"
+    "name": "Pendem",
+    "postal_code": "82211"
   },
   {
     "code": "5101051003",
     "district_code": "510105",
-    "name": "Loloan Timur"
+    "name": "Loloan Timur",
+    "postal_code": "82216"
   },
   {
     "code": "5101051005",
     "district_code": "510105",
-    "name": "Dauhwaru"
+    "name": "Dauhwaru",
+    "postal_code": "82218"
   },
   {
     "code": "5101051009",
     "district_code": "510105",
-    "name": "Sangkaragung"
+    "name": "Sangkaragung",
+    "postal_code": "82218"
   },
   {
     "code": "5101052002",
     "district_code": "510105",
-    "name": "Perancak"
+    "name": "Perancak",
+    "postal_code": "82218"
   },
   {
     "code": "5101052004",
     "district_code": "510105",
-    "name": "Batu Agung"
+    "name": "Batu Agung",
+    "postal_code": "82218"
   },
   {
     "code": "5101052006",
     "district_code": "510105",
-    "name": "Budeng"
+    "name": "Budeng",
+    "postal_code": "82218"
   },
   {
     "code": "5101052007",
     "district_code": "510105",
-    "name": "Air Kuning"
+    "name": "Air Kuning",
+    "postal_code": "82218"
   },
   {
     "code": "5101052008",
     "district_code": "510105",
-    "name": "Yehkuning"
+    "name": "Yehkuning",
+    "postal_code": "82218"
   },
   {
     "code": "5101052010",
     "district_code": "510105",
-    "name": "Dangin Tukadaya"
+    "name": "Dangin Tukadaya",
+    "postal_code": "82218"
   }
 ]

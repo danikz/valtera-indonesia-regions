@@ -2,26 +2,31 @@
   {
     "code": "7406021011",
     "district_code": "740602",
-    "name": "Bambaea"
+    "name": "Bambaea",
+    "postal_code": "93776"
   },
   {
     "code": "7406021015",
     "district_code": "740602",
-    "name": "Puu Lemo"
+    "name": "Puu Lemo",
+    "postal_code": "93776"
   },
   {
     "code": "7406022003",
     "district_code": "740602",
-    "name": "Teppoe"
+    "name": "Teppoe",
+    "postal_code": "93776"
   },
   {
     "code": "7406022004",
     "district_code": "740602",
-    "name": "Biru"
+    "name": "Biru",
+    "postal_code": "93776"
   },
   {
     "code": "7406022010",
     "district_code": "740602",
-    "name": "Mambo"
+    "name": "Mambo",
+    "postal_code": "93776"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "9503062001",
     "district_code": "950306",
-    "name": "Nalca"
+    "name": "Nalca",
+    "postal_code": "99757"
   },
   {
     "code": "9503062002",
     "district_code": "950306",
-    "name": "Cenderawasih"
+    "name": "Cenderawasih",
+    "postal_code": "99757"
   },
   {
     "code": "9503062003",
     "district_code": "950306",
-    "name": "Manggona"
+    "name": "Manggona",
+    "postal_code": "99757"
   },
   {
     "code": "9503062004",
     "district_code": "950306",
-    "name": "Bolda"
+    "name": "Bolda",
+    "postal_code": "99757"
   },
   {
     "code": "9503062005",
     "district_code": "950306",
-    "name": "Emm"
+    "name": "Emm",
+    "postal_code": "99757"
   },
   {
     "code": "9503062006",
     "district_code": "950306",
-    "name": "Imsekla"
+    "name": "Imsekla",
+    "postal_code": "99757"
   },
   {
     "code": "9503062007",
     "district_code": "950306",
-    "name": "Hein"
+    "name": "Hein",
+    "postal_code": "99757"
   },
   {
     "code": "9503062008",
     "district_code": "950306",
-    "name": "Luwemna"
+    "name": "Luwemna",
+    "postal_code": "99757"
   }
 ]

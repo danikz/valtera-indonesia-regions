@@ -2,21 +2,25 @@
   {
     "code": "3206212001",
     "district_code": "320621",
-    "name": "Sirnajaya"
+    "name": "Sirnajaya",
+    "postal_code": "46199"
   },
   {
     "code": "3206212002",
     "district_code": "320621",
-    "name": "Karang Jaya"
+    "name": "Karang Jaya",
+    "postal_code": "46199"
   },
   {
     "code": "3206212003",
     "district_code": "320621",
-    "name": "Karanglayung"
+    "name": "Karanglayung",
+    "postal_code": "46199"
   },
   {
     "code": "3206212004",
     "district_code": "320621",
-    "name": "Citalahab"
+    "name": "Citalahab",
+    "postal_code": "46199"
   }
 ]

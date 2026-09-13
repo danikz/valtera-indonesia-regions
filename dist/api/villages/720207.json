@@ -2,36 +2,43 @@
   {
     "code": "7202072001",
     "district_code": "720207",
-    "name": "Dodolo"
+    "name": "Dodolo",
+    "postal_code": "94658"
   },
   {
     "code": "7202072006",
     "district_code": "720207",
-    "name": "Kaduwaa"
+    "name": "Kaduwaa",
+    "postal_code": "94658"
   },
   {
     "code": "7202072007",
     "district_code": "720207",
-    "name": "Watumaeta"
+    "name": "Watumaeta",
+    "postal_code": "94658"
   },
   {
     "code": "7202072008",
     "district_code": "720207",
-    "name": "Sedoa"
+    "name": "Sedoa",
+    "postal_code": "94658"
   },
   {
     "code": "7202072009",
     "district_code": "720207",
-    "name": "Alitupu"
+    "name": "Alitupu",
+    "postal_code": "94658"
   },
   {
     "code": "7202072014",
     "district_code": "720207",
-    "name": "Wuasa"
+    "name": "Wuasa",
+    "postal_code": "94658"
   },
   {
     "code": "7202072016",
     "district_code": "720207",
-    "name": "Bumi Banyusari"
+    "name": "Bumi Banyusari",
+    "postal_code": "94658"
   }
 ]

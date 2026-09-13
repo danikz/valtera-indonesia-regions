@@ -2,31 +2,37 @@
   {
     "code": "3206372001",
     "district_code": "320637",
-    "name": "Kadipaten"
+    "name": "Kadipaten",
+    "postal_code": "46157"
   },
   {
     "code": "3206372002",
     "district_code": "320637",
-    "name": "Dirgahayu"
+    "name": "Dirgahayu",
+    "postal_code": "46157"
   },
   {
     "code": "3206372003",
     "district_code": "320637",
-    "name": "Cibahayu"
+    "name": "Cibahayu",
+    "postal_code": "46157"
   },
   {
     "code": "3206372004",
     "district_code": "320637",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "46157"
   },
   {
     "code": "3206372005",
     "district_code": "320637",
-    "name": "Buniasih"
+    "name": "Buniasih",
+    "postal_code": "46157"
   },
   {
     "code": "3206372006",
     "district_code": "320637",
-    "name": "Pamoyanan"
+    "name": "Pamoyanan",
+    "postal_code": "46157"
   }
 ]

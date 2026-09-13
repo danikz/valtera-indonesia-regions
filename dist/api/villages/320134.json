@@ -2,36 +2,43 @@
   {
     "code": "3201342001",
     "district_code": "320134",
-    "name": "Bantarjaya"
+    "name": "Bantarjaya",
+    "postal_code": "16311"
   },
   {
     "code": "3201342002",
     "district_code": "320134",
-    "name": "Bantarsari"
+    "name": "Bantarsari",
+    "postal_code": "16311"
   },
   {
     "code": "3201342003",
     "district_code": "320134",
-    "name": "Pasirgaok"
+    "name": "Pasirgaok",
+    "postal_code": "16311"
   },
   {
     "code": "3201342004",
     "district_code": "320134",
-    "name": "Rancabungur"
+    "name": "Rancabungur",
+    "postal_code": "16311"
   },
   {
     "code": "3201342005",
     "district_code": "320134",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "16311"
   },
   {
     "code": "3201342006",
     "district_code": "320134",
-    "name": "Candali"
+    "name": "Candali",
+    "postal_code": "16311"
   },
   {
     "code": "3201342007",
     "district_code": "320134",
-    "name": "Cimulang"
+    "name": "Cimulang",
+    "postal_code": "16311"
   }
 ]

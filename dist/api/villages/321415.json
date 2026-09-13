@@ -2,26 +2,31 @@
   {
     "code": "3214152001",
     "district_code": "321415",
-    "name": "Kutamanah"
+    "name": "Kutamanah",
+    "postal_code": "41116"
   },
   {
     "code": "3214152002",
     "district_code": "321415",
-    "name": "Kertamanah"
+    "name": "Kertamanah",
+    "postal_code": "41116"
   },
   {
     "code": "3214152003",
     "district_code": "321415",
-    "name": "Ciririp"
+    "name": "Ciririp",
+    "postal_code": "41116"
   },
   {
     "code": "3214152004",
     "district_code": "321415",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "41116"
   },
   {
     "code": "3214152005",
     "district_code": "321415",
-    "name": "Parungbanteng"
+    "name": "Parungbanteng",
+    "postal_code": "41116"
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "7304031001",
     "district_code": "730403",
-    "name": "Pabiringa"
+    "name": "Pabiringa",
+    "postal_code": "92316"
   },
   {
     "code": "7304031002",
     "district_code": "730403",
-    "name": "Balang"
+    "name": "Balang",
+    "postal_code": "92315"
   },
   {
     "code": "7304031003",
     "district_code": "730403",
-    "name": "Empoang"
+    "name": "Empoang",
+    "postal_code": "92311"
   },
   {
     "code": "7304031004",
     "district_code": "730403",
-    "name": "Balang Toa"
+    "name": "Balang Toa",
+    "postal_code": "92311"
   },
   {
     "code": "7304031005",
     "district_code": "730403",
-    "name": "Balang Beru"
+    "name": "Balang Beru",
+    "postal_code": "92316"
   },
   {
     "code": "7304031006",
     "district_code": "730403",
-    "name": "Empoang Selatan"
+    "name": "Empoang Selatan",
+    "postal_code": "92311"
   },
   {
     "code": "7304031007",
     "district_code": "730403",
-    "name": "Sidenre"
+    "name": "Sidenre",
+    "postal_code": "92311"
   },
   {
     "code": "7304031008",
     "district_code": "730403",
-    "name": "Empoang Utara"
+    "name": "Empoang Utara",
+    "postal_code": "92316"
   },
   {
     "code": "7304031009",
     "district_code": "730403",
-    "name": "Monro Monro"
+    "name": "Monro Monro",
+    "postal_code": "92316"
   },
   {
     "code": "7304031010",
     "district_code": "730403",
-    "name": "Biring Kassi"
+    "name": "Biring Kassi",
+    "postal_code": "92311"
   },
   {
     "code": "7304031011",
     "district_code": "730403",
-    "name": "Panaikang"
+    "name": "Panaikang",
+    "postal_code": "92311"
   },
   {
     "code": "7304031012",
     "district_code": "730403",
-    "name": "Bontoa"
+    "name": "Bontoa",
+    "postal_code": "92316"
   },
   {
     "code": "7304032013",
     "district_code": "730403",
-    "name": "Sapanang"
+    "name": "Sapanang",
+    "postal_code": "92314"
   }
 ]

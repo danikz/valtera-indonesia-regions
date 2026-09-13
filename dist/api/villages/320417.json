@@ -2,51 +2,61 @@
   {
     "code": "3204172001",
     "district_code": "320417",
-    "name": "Cimaung"
+    "name": "Cimaung",
+    "postal_code": "40374"
   },
   {
     "code": "3204172002",
     "district_code": "320417",
-    "name": "Jagabaya"
+    "name": "Jagabaya",
+    "postal_code": "40374"
   },
   {
     "code": "3204172003",
     "district_code": "320417",
-    "name": "Pasirhuni"
+    "name": "Pasirhuni",
+    "postal_code": "40374"
   },
   {
     "code": "3204172004",
     "district_code": "320417",
-    "name": "Campakamulya"
+    "name": "Campakamulya",
+    "postal_code": "40374"
   },
   {
     "code": "3204172005",
     "district_code": "320417",
-    "name": "Cipinang"
+    "name": "Cipinang",
+    "postal_code": "40374"
   },
   {
     "code": "3204172006",
     "district_code": "320417",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "40375"
   },
   {
     "code": "3204172007",
     "district_code": "320417",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "40374"
   },
   {
     "code": "3204172008",
     "district_code": "320417",
-    "name": "Cikalong"
+    "name": "Cikalong",
+    "postal_code": "40374"
   },
   {
     "code": "3204172009",
     "district_code": "320417",
-    "name": "Malasari"
+    "name": "Malasari",
+    "postal_code": "40374"
   },
   {
     "code": "3204172010",
     "district_code": "320417",
-    "name": "Warjabakti"
+    "name": "Warjabakti",
+    "postal_code": "40374"
   }
 ]

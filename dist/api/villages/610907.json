@@ -2,36 +2,43 @@
   {
     "code": "6109072001",
     "district_code": "610907",
-    "name": "Nanga Ansar"
+    "name": "Nanga Ansar",
+    "postal_code": "79588"
   },
   {
     "code": "6109072002",
     "district_code": "610907",
-    "name": "Padak"
+    "name": "Padak",
+    "postal_code": "79588"
   },
   {
     "code": "6109072003",
     "district_code": "610907",
-    "name": "Setuntung"
+    "name": "Setuntung",
+    "postal_code": "79588"
   },
   {
     "code": "6109072004",
     "district_code": "610907",
-    "name": "Belitang Satu"
+    "name": "Belitang Satu",
+    "postal_code": "79588"
   },
   {
     "code": "6109072005",
     "district_code": "610907",
-    "name": "Belitang Dua"
+    "name": "Belitang Dua",
+    "postal_code": "79588"
   },
   {
     "code": "6109072006",
     "district_code": "610907",
-    "name": "Menua Prama"
+    "name": "Menua Prama",
+    "postal_code": "79588"
   },
   {
     "code": "6109072007",
     "district_code": "610907",
-    "name": "Maboh Permai"
+    "name": "Maboh Permai",
+    "postal_code": "79588"
   }
 ]

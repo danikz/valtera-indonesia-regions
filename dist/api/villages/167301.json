@@ -2,41 +2,49 @@
   {
     "code": "1673011001",
     "district_code": "167301",
-    "name": "Air Kuti"
+    "name": "Air Kuti",
+    "postal_code": "31628"
   },
   {
     "code": "1673011002",
     "district_code": "167301",
-    "name": "Majapahit"
+    "name": "Majapahit",
+    "postal_code": "31628"
   },
   {
     "code": "1673011003",
     "district_code": "167301",
-    "name": "Taba Jemekeh"
+    "name": "Taba Jemekeh",
+    "postal_code": "31628"
   },
   {
     "code": "1673011004",
     "district_code": "167301",
-    "name": "Nikan Jaya"
+    "name": "Nikan Jaya",
+    "postal_code": "31628"
   },
   {
     "code": "1673011005",
     "district_code": "167301",
-    "name": "Taba Lestari"
+    "name": "Taba Lestari",
+    "postal_code": "31628"
   },
   {
     "code": "1673011007",
     "district_code": "167301",
-    "name": "Batu Urip Taba"
+    "name": "Batu Urip Taba",
+    "postal_code": "31628"
   },
   {
     "code": "1673011015",
     "district_code": "167301",
-    "name": "Taba Koji"
+    "name": "Taba Koji",
+    "postal_code": "31628"
   },
   {
     "code": "1673011016",
     "district_code": "167301",
-    "name": "Watervang"
+    "name": "Watervang",
+    "postal_code": "31628"
   }
 ]

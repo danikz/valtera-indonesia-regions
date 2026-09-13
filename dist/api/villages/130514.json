@@ -2,21 +2,25 @@
   {
     "code": "1305142001",
     "district_code": "130514",
-    "name": "Kudu Gantiang"
+    "name": "Kudu Gantiang",
+    "postal_code": "25575"
   },
   {
     "code": "1305142002",
     "district_code": "130514",
-    "name": "Limau Puruik"
+    "name": "Limau Puruik",
+    "postal_code": "25575"
   },
   {
     "code": "1305142003",
     "district_code": "130514",
-    "name": "Gunung Padang Alai"
+    "name": "Gunung Padang Alai",
+    "postal_code": "25575"
   },
   {
     "code": "1305142004",
     "district_code": "130514",
-    "name": "Kudu Gantiang Barat"
+    "name": "Kudu Gantiang Barat",
+    "postal_code": "25575"
   }
 ]

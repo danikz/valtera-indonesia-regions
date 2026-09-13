@@ -2,31 +2,37 @@
   {
     "code": "1407071005",
     "district_code": "140707",
-    "name": "Sinaboi Kota"
+    "name": "Sinaboi Kota",
+    "postal_code": "28914"
   },
   {
     "code": "1407072001",
     "district_code": "140707",
-    "name": "Sinaboi"
+    "name": "Sinaboi",
+    "postal_code": "28914"
   },
   {
     "code": "1407072002",
     "district_code": "140707",
-    "name": "Sei Bakau"
+    "name": "Sei Bakau",
+    "postal_code": "28914"
   },
   {
     "code": "1407072003",
     "district_code": "140707",
-    "name": "Raja Bejamu"
+    "name": "Raja Bejamu",
+    "postal_code": "28914"
   },
   {
     "code": "1407072004",
     "district_code": "140707",
-    "name": "Sungai Nyamuk"
+    "name": "Sungai Nyamuk",
+    "postal_code": "28914"
   },
   {
     "code": "1407072006",
     "district_code": "140707",
-    "name": "Darussalam"
+    "name": "Darussalam",
+    "postal_code": "28914"
   }
 ]

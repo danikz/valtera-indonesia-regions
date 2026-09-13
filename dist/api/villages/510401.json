@@ -2,61 +2,73 @@
   {
     "code": "5104012001",
     "district_code": "510401",
-    "name": "Batubulan"
+    "name": "Batubulan",
+    "postal_code": "80582"
   },
   {
     "code": "5104012002",
     "district_code": "510401",
-    "name": "Ketewel"
+    "name": "Ketewel",
+    "postal_code": "80582"
   },
   {
     "code": "5104012003",
     "district_code": "510401",
-    "name": "Guwang"
+    "name": "Guwang",
+    "postal_code": "80582"
   },
   {
     "code": "5104012004",
     "district_code": "510401",
-    "name": "Sukawati"
+    "name": "Sukawati",
+    "postal_code": "80582"
   },
   {
     "code": "5104012005",
     "district_code": "510401",
-    "name": "Celuk"
+    "name": "Celuk",
+    "postal_code": "80582"
   },
   {
     "code": "5104012006",
     "district_code": "510401",
-    "name": "Singapadu"
+    "name": "Singapadu",
+    "postal_code": "80582"
   },
   {
     "code": "5104012007",
     "district_code": "510401",
-    "name": "Batuan"
+    "name": "Batuan",
+    "postal_code": "80582"
   },
   {
     "code": "5104012008",
     "district_code": "510401",
-    "name": "Kemenuh"
+    "name": "Kemenuh",
+    "postal_code": "80582"
   },
   {
     "code": "5104012009",
     "district_code": "510401",
-    "name": "Batubulan Kangin"
+    "name": "Batubulan Kangin",
+    "postal_code": "80582"
   },
   {
     "code": "5104012010",
     "district_code": "510401",
-    "name": "Singapadu Tengah"
+    "name": "Singapadu Tengah",
+    "postal_code": "80582"
   },
   {
     "code": "5104012011",
     "district_code": "510401",
-    "name": "Singapadu Kaler"
+    "name": "Singapadu Kaler",
+    "postal_code": "80582"
   },
   {
     "code": "5104012012",
     "district_code": "510401",
-    "name": "Batuan Kaler"
+    "name": "Batuan Kaler",
+    "postal_code": "80582"
   }
 ]

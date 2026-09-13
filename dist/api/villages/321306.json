@@ -2,51 +2,61 @@
   {
     "code": "3213062001",
     "district_code": "321306",
-    "name": "Wanakerta"
+    "name": "Wanakerta",
+    "postal_code": "41261"
   },
   {
     "code": "3213062002",
     "district_code": "321306",
-    "name": "Pagon"
+    "name": "Pagon",
+    "postal_code": "41261"
   },
   {
     "code": "3213062003",
     "district_code": "321306",
-    "name": "Prapatan"
+    "name": "Prapatan",
+    "postal_code": "41261"
   },
   {
     "code": "3213062004",
     "district_code": "321306",
-    "name": "Purwadadi"
+    "name": "Purwadadi",
+    "postal_code": "41261"
   },
   {
     "code": "3213062005",
     "district_code": "321306",
-    "name": "Belendung"
+    "name": "Belendung",
+    "postal_code": "41261"
   },
   {
     "code": "3213062006",
     "district_code": "321306",
-    "name": "Koranji"
+    "name": "Koranji",
+    "postal_code": "41261"
   },
   {
     "code": "3213062007",
     "district_code": "321306",
-    "name": "Panyingkiran"
+    "name": "Panyingkiran",
+    "postal_code": "41261"
   },
   {
     "code": "3213062008",
     "district_code": "321306",
-    "name": "Pasirbungur"
+    "name": "Pasirbungur",
+    "postal_code": "41261"
   },
   {
     "code": "3213062009",
     "district_code": "321306",
-    "name": "Purwadadi Barat"
+    "name": "Purwadadi Barat",
+    "postal_code": "41261"
   },
   {
     "code": "3213062010",
     "district_code": "321306",
-    "name": "Rancamahi"
+    "name": "Rancamahi",
+    "postal_code": "41261"
   }
 ]

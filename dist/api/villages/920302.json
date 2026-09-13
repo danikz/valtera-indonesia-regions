@@ -2,46 +2,55 @@
   {
     "code": "9203022001",
     "district_code": "920302",
-    "name": "Werba"
+    "name": "Werba",
+    "postal_code": "98022"
   },
   {
     "code": "9203022002",
     "district_code": "920302",
-    "name": "Kiat"
+    "name": "Kiat",
+    "postal_code": "98022"
   },
   {
     "code": "9203022003",
     "district_code": "920302",
-    "name": "Purwasak"
+    "name": "Purwasak",
+    "postal_code": "98022"
   },
   {
     "code": "9203022008",
     "district_code": "920302",
-    "name": "Wurkendik"
+    "name": "Wurkendik",
+    "postal_code": "98022"
   },
   {
     "code": "9203022010",
     "district_code": "920302",
-    "name": "Kwuhkendak"
+    "name": "Kwuhkendak",
+    "postal_code": "98022"
   },
   {
     "code": "9203022011",
     "district_code": "920302",
-    "name": "Purwahab Tonggo"
+    "name": "Purwahab Tonggo",
+    "postal_code": "98022"
   },
   {
     "code": "9203022012",
     "district_code": "920302",
-    "name": "Pahger Nkindik"
+    "name": "Pahger Nkindik",
+    "postal_code": "98022"
   },
   {
     "code": "9203022013",
     "district_code": "920302",
-    "name": "Werba Utara"
+    "name": "Werba Utara",
+    "postal_code": "98022"
   },
   {
     "code": "9203022014",
     "district_code": "920302",
-    "name": "Porum"
+    "name": "Porum",
+    "postal_code": "98022"
   }
 ]

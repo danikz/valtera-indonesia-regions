@@ -2,26 +2,31 @@
   {
     "code": "2101071001",
     "district_code": "210107",
-    "name": "Tanjung Uban Kota"
+    "name": "Tanjung Uban Kota",
+    "postal_code": "29152"
   },
   {
     "code": "2101071002",
     "district_code": "210107",
-    "name": "Tanjung Uban Utara"
+    "name": "Tanjung Uban Utara",
+    "postal_code": "29152"
   },
   {
     "code": "2101071003",
     "district_code": "210107",
-    "name": "Tanjung Uban Selatan"
+    "name": "Tanjung Uban Selatan",
+    "postal_code": "29152"
   },
   {
     "code": "2101071011",
     "district_code": "210107",
-    "name": "Tanjung Uban Timur"
+    "name": "Tanjung Uban Timur",
+    "postal_code": "29152"
   },
   {
     "code": "2101072005",
     "district_code": "210107",
-    "name": "Lancang Kuning"
+    "name": "Lancang Kuning",
+    "postal_code": "29152"
   }
 ]

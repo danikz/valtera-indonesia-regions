@@ -2,36 +2,43 @@
   {
     "code": "1601202001",
     "district_code": "160120",
-    "name": "Kelumpang"
+    "name": "Kelumpang",
+    "postal_code": "32157"
   },
   {
     "code": "1601202002",
     "district_code": "160120",
-    "name": "Gunung Tiga"
+    "name": "Gunung Tiga",
+    "postal_code": "32157"
   },
   {
     "code": "1601202003",
     "district_code": "160120",
-    "name": "Mendingin"
+    "name": "Mendingin",
+    "postal_code": "32157"
   },
   {
     "code": "1601202004",
     "district_code": "160120",
-    "name": "Ulak Lebar"
+    "name": "Ulak Lebar",
+    "postal_code": "32157"
   },
   {
     "code": "1601202005",
     "district_code": "160120",
-    "name": "Pedataran"
+    "name": "Pedataran",
+    "postal_code": "32157"
   },
   {
     "code": "1601202006",
     "district_code": "160120",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "32157"
   },
   {
     "code": "1601202007",
     "district_code": "160120",
-    "name": "Belandang"
+    "name": "Belandang",
+    "postal_code": "32157"
   }
 ]

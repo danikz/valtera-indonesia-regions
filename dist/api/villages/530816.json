@@ -2,36 +2,43 @@
   {
     "code": "5308162001",
     "district_code": "530816",
-    "name": "Kurulimbu"
+    "name": "Kurulimbu",
+    "postal_code": "86363"
   },
   {
     "code": "5308162002",
     "district_code": "530816",
-    "name": "Sokoria"
+    "name": "Sokoria",
+    "postal_code": "86363"
   },
   {
     "code": "5308162003",
     "district_code": "530816",
-    "name": "Demulaka"
+    "name": "Demulaka",
+    "postal_code": "86363"
   },
   {
     "code": "5308162004",
     "district_code": "530816",
-    "name": "Roga"
+    "name": "Roga",
+    "postal_code": "86363"
   },
   {
     "code": "5308162005",
     "district_code": "530816",
-    "name": "Kurulimbu Selatan"
+    "name": "Kurulimbu Selatan",
+    "postal_code": "86363"
   },
   {
     "code": "5308162006",
     "district_code": "530816",
-    "name": "Ngguwa"
+    "name": "Ngguwa",
+    "postal_code": "86363"
   },
   {
     "code": "5308162007",
     "district_code": "530816",
-    "name": "Sokoria Selatan"
+    "name": "Sokoria Selatan",
+    "postal_code": "86363"
   }
 ]

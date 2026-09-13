@@ -2,31 +2,37 @@
   {
     "code": "5303162001",
     "district_code": "530316",
-    "name": "Inbate"
+    "name": "Inbate",
+    "postal_code": "85651"
   },
   {
     "code": "5303162002",
     "district_code": "530316",
-    "name": "Sunkaen"
+    "name": "Sunkaen",
+    "postal_code": "85651"
   },
   {
     "code": "5303162003",
     "district_code": "530316",
-    "name": "Nainaban"
+    "name": "Nainaban",
+    "postal_code": "85651"
   },
   {
     "code": "5303162004",
     "district_code": "530316",
-    "name": "Haumeni Ana"
+    "name": "Haumeni Ana",
+    "postal_code": "85651"
   },
   {
     "code": "5303162005",
     "district_code": "530316",
-    "name": "Nilulat"
+    "name": "Nilulat",
+    "postal_code": "85651"
   },
   {
     "code": "5303162006",
     "district_code": "530316",
-    "name": "Tubu"
+    "name": "Tubu",
+    "postal_code": "85651"
   }
 ]

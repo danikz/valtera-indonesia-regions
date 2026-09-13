@@ -2,16 +2,19 @@
   {
     "code": "3402142001",
     "district_code": "340214",
-    "name": "Sitimulyo"
+    "name": "Sitimulyo",
+    "postal_code": "55792"
   },
   {
     "code": "3402142002",
     "district_code": "340214",
-    "name": "Srimulyo"
+    "name": "Srimulyo",
+    "postal_code": "55792"
   },
   {
     "code": "3402142003",
     "district_code": "340214",
-    "name": "Srimartani"
+    "name": "Srimartani",
+    "postal_code": "55792"
   }
 ]

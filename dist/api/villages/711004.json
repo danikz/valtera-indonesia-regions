@@ -2,71 +2,85 @@
   {
     "code": "7110042001",
     "district_code": "711004",
-    "name": "Modayag"
+    "name": "Modayag",
+    "postal_code": "95780"
   },
   {
     "code": "7110042002",
     "district_code": "711004",
-    "name": "Liberia"
+    "name": "Liberia",
+    "postal_code": "95780"
   },
   {
     "code": "7110042003",
     "district_code": "711004",
-    "name": "Purworejo"
+    "name": "Purworejo",
+    "postal_code": "95780"
   },
   {
     "code": "7110042007",
     "district_code": "711004",
-    "name": "Buyandi"
+    "name": "Buyandi",
+    "postal_code": "95780"
   },
   {
     "code": "7110042008",
     "district_code": "711004",
-    "name": "Tobongon"
+    "name": "Tobongon",
+    "postal_code": "95780"
   },
   {
     "code": "7110042009",
     "district_code": "711004",
-    "name": "Lanut"
+    "name": "Lanut",
+    "postal_code": "95780"
   },
   {
     "code": "7110042010",
     "district_code": "711004",
-    "name": "Badaro"
+    "name": "Badaro",
+    "postal_code": "95780"
   },
   {
     "code": "7110042011",
     "district_code": "711004",
-    "name": "Modayag Barat"
+    "name": "Modayag Barat",
+    "postal_code": "95780"
   },
   {
     "code": "7110042012",
     "district_code": "711004",
-    "name": "Modayag Timur"
+    "name": "Modayag Timur",
+    "postal_code": "95780"
   },
   {
     "code": "7110042013",
     "district_code": "711004",
-    "name": "Purworejo Timur"
+    "name": "Purworejo Timur",
+    "postal_code": "95780"
   },
   {
     "code": "7110042014",
     "district_code": "711004",
-    "name": "Liberia Timur"
+    "name": "Liberia Timur",
+    "postal_code": "95780"
   },
   {
     "code": "7110042016",
     "district_code": "711004",
-    "name": "Purworejo Tengah"
+    "name": "Purworejo Tengah",
+    "postal_code": "95780"
   },
   {
     "code": "7110042021",
     "district_code": "711004",
-    "name": "Candi Rejo"
+    "name": "Candi Rejo",
+    "postal_code": "95780"
   },
   {
     "code": "7110042022",
     "district_code": "711004",
-    "name": "Sumber Rejo"
+    "name": "Sumber Rejo",
+    "postal_code": "95780"
   }
 ]

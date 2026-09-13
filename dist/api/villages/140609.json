@@ -2,56 +2,67 @@
   {
     "code": "1406092001",
     "district_code": "140609",
-    "name": "Tambusai Utara"
+    "name": "Tambusai Utara",
+    "postal_code": "28562"
   },
   {
     "code": "1406092002",
     "district_code": "140609",
-    "name": "Mahato"
+    "name": "Mahato",
+    "postal_code": "28562"
   },
   {
     "code": "1406092003",
     "district_code": "140609",
-    "name": "Bangun Jaya"
+    "name": "Bangun Jaya",
+    "postal_code": "28562"
   },
   {
     "code": "1406092004",
     "district_code": "140609",
-    "name": "Simpang Harapan"
+    "name": "Simpang Harapan",
+    "postal_code": "28562"
   },
   {
     "code": "1406092005",
     "district_code": "140609",
-    "name": "Pagar Mayang"
+    "name": "Pagar Mayang",
+    "postal_code": "28562"
   },
   {
     "code": "1406092006",
     "district_code": "140609",
-    "name": "Payung Sekaki"
+    "name": "Payung Sekaki",
+    "postal_code": "28562"
   },
   {
     "code": "1406092007",
     "district_code": "140609",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "28562"
   },
   {
     "code": "1406092008",
     "district_code": "140609",
-    "name": "Tanjung Medan"
+    "name": "Tanjung Medan",
+    "postal_code": "28562"
   },
   {
     "code": "1406092009",
     "district_code": "140609",
-    "name": "Suka Damai"
+    "name": "Suka Damai",
+    "postal_code": "28562"
   },
   {
     "code": "1406092010",
     "district_code": "140609",
-    "name": "Rantau Sakti"
+    "name": "Rantau Sakti",
+    "postal_code": "28562"
   },
   {
     "code": "1406092011",
     "district_code": "140609",
-    "name": "Mahato Sakti"
+    "name": "Mahato Sakti",
+    "postal_code": "28562"
   }
 ]

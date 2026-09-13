@@ -2,26 +2,31 @@
   {
     "code": "7306172001",
     "district_code": "730617",
-    "name": "Majannang"
+    "name": "Majannang",
+    "postal_code": "92174"
   },
   {
     "code": "7306172002",
     "district_code": "730617",
-    "name": "Jonjo"
+    "name": "Jonjo",
+    "postal_code": "92174"
   },
   {
     "code": "7306172003",
     "district_code": "730617",
-    "name": "Manimbahoi"
+    "name": "Manimbahoi",
+    "postal_code": "92174"
   },
   {
     "code": "7306172004",
     "district_code": "730617",
-    "name": "Sicini"
+    "name": "Sicini",
+    "postal_code": "92174"
   },
   {
     "code": "7306172005",
     "district_code": "730617",
-    "name": "Bilanrengi"
+    "name": "Bilanrengi",
+    "postal_code": "92174"
   }
 ]

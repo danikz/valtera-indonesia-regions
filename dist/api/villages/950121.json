@@ -2,51 +2,61 @@
   {
     "code": "9501212001",
     "district_code": "950121",
-    "name": "Usilimo"
+    "name": "Usilimo",
+    "postal_code": "99524"
   },
   {
     "code": "9501212002",
     "district_code": "950121",
-    "name": "Siba"
+    "name": "Siba",
+    "postal_code": "99524"
   },
   {
     "code": "9501212003",
     "district_code": "950121",
-    "name": "Wosiala"
+    "name": "Wosiala",
+    "postal_code": "99524"
   },
   {
     "code": "9501212004",
     "district_code": "950121",
-    "name": "Gua Wisata"
+    "name": "Gua Wisata",
+    "postal_code": "99524"
   },
   {
     "code": "9501212005",
     "district_code": "950121",
-    "name": "Undulumo"
+    "name": "Undulumo",
+    "postal_code": "99524"
   },
   {
     "code": "9501212006",
     "district_code": "950121",
-    "name": "Fikha"
+    "name": "Fikha",
+    "postal_code": "99524"
   },
   {
     "code": "9501212007",
     "district_code": "950121",
-    "name": "Meagamia"
+    "name": "Meagamia",
+    "postal_code": "99524"
   },
   {
     "code": "9501212008",
     "district_code": "950121",
-    "name": "Alona"
+    "name": "Alona",
+    "postal_code": "99524"
   },
   {
     "code": "9501212009",
     "district_code": "950121",
-    "name": "Abutpuk"
+    "name": "Abutpuk",
+    "postal_code": "99524"
   },
   {
     "code": "9501212010",
     "district_code": "950121",
-    "name": "Isaiman"
+    "name": "Isaiman",
+    "postal_code": "99524"
   }
 ]

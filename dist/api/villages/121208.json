@@ -2,51 +2,61 @@
   {
     "code": "1212081009",
     "district_code": "121208",
-    "name": "Parsaoran Ajibata"
+    "name": "Parsaoran Ajibata",
+    "postal_code": "22386"
   },
   {
     "code": "1212082001",
     "district_code": "121208",
-    "name": "Sigapiton"
+    "name": "Sigapiton",
+    "postal_code": "22386"
   },
   {
     "code": "1212082002",
     "district_code": "121208",
-    "name": "Pardomuan Ajibata"
+    "name": "Pardomuan Ajibata",
+    "postal_code": "22386"
   },
   {
     "code": "1212082003",
     "district_code": "121208",
-    "name": "Pardamean Ajibata"
+    "name": "Pardamean Ajibata",
+    "postal_code": "22386"
   },
   {
     "code": "1212082004",
     "district_code": "121208",
-    "name": "Motung"
+    "name": "Motung",
+    "postal_code": "22386"
   },
   {
     "code": "1212082005",
     "district_code": "121208",
-    "name": "Horsik"
+    "name": "Horsik",
+    "postal_code": "22386"
   },
   {
     "code": "1212082006",
     "district_code": "121208",
-    "name": "Sirungkungon"
+    "name": "Sirungkungon",
+    "postal_code": "22386"
   },
   {
     "code": "1212082007",
     "district_code": "121208",
-    "name": "Parsaoran Sibisa"
+    "name": "Parsaoran Sibisa",
+    "postal_code": "22386"
   },
   {
     "code": "1212082008",
     "district_code": "121208",
-    "name": "Pardamean Sibisa"
+    "name": "Pardamean Sibisa",
+    "postal_code": "22386"
   },
   {
     "code": "1212082010",
     "district_code": "121208",
-    "name": "Pardomuan Motung"
+    "name": "Pardomuan Motung",
+    "postal_code": "22386"
   }
 ]

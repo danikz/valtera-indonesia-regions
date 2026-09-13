@@ -2,61 +2,73 @@
   {
     "code": "3211032001",
     "district_code": "321103",
-    "name": "Darmaraja"
+    "name": "Darmaraja",
+    "postal_code": "45372"
   },
   {
     "code": "3211032002",
     "district_code": "321103",
-    "name": "Darmajaya"
+    "name": "Darmajaya",
+    "postal_code": "45372"
   },
   {
     "code": "3211032003",
     "district_code": "321103",
-    "name": "Sukamenak"
+    "name": "Sukamenak",
+    "postal_code": "45372"
   },
   {
     "code": "3211032005",
     "district_code": "321103",
-    "name": "Sukaratu"
+    "name": "Sukaratu",
+    "postal_code": "45372"
   },
   {
     "code": "3211032006",
     "district_code": "321103",
-    "name": "Cikeusi"
+    "name": "Cikeusi",
+    "postal_code": "45372"
   },
   {
     "code": "3211032007",
     "district_code": "321103",
-    "name": "Cipeuteuy"
+    "name": "Cipeuteuy",
+    "postal_code": "45372"
   },
   {
     "code": "3211032009",
     "district_code": "321103",
-    "name": "Cieunteung"
+    "name": "Cieunteung",
+    "postal_code": "45372"
   },
   {
     "code": "3211032010",
     "district_code": "321103",
-    "name": "Karangpakuan"
+    "name": "Karangpakuan",
+    "postal_code": "45372"
   },
   {
     "code": "3211032011",
     "district_code": "321103",
-    "name": "Pakualam"
+    "name": "Pakualam",
+    "postal_code": "45372"
   },
   {
     "code": "3211032013",
     "district_code": "321103",
-    "name": "Neglasari"
+    "name": "Neglasari",
+    "postal_code": "45372"
   },
   {
     "code": "3211032015",
     "district_code": "321103",
-    "name": "Tarunajaya"
+    "name": "Tarunajaya",
+    "postal_code": "45372"
   },
   {
     "code": "3211032016",
     "district_code": "321103",
-    "name": "Ranggon"
+    "name": "Ranggon",
+    "postal_code": "45372"
   }
 ]

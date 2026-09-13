@@ -2,36 +2,43 @@
   {
     "code": "3509172001",
     "district_code": "350917",
-    "name": "Sukamakmur"
+    "name": "Sukamakmur",
+    "postal_code": "68175"
   },
   {
     "code": "3509172002",
     "district_code": "350917",
-    "name": "Mangaran"
+    "name": "Mangaran",
+    "postal_code": "68175"
   },
   {
     "code": "3509172003",
     "district_code": "350917",
-    "name": "Pancakarya"
+    "name": "Pancakarya",
+    "postal_code": "68175"
   },
   {
     "code": "3509172004",
     "district_code": "350917",
-    "name": "Ajung"
+    "name": "Ajung",
+    "postal_code": "68175"
   },
   {
     "code": "3509172005",
     "district_code": "350917",
-    "name": "Klompangan"
+    "name": "Klompangan",
+    "postal_code": "68175"
   },
   {
     "code": "3509172006",
     "district_code": "350917",
-    "name": "Wirowongso"
+    "name": "Wirowongso",
+    "postal_code": "68175"
   },
   {
     "code": "3509172007",
     "district_code": "350917",
-    "name": "Rowoindah"
+    "name": "Rowoindah",
+    "postal_code": "68175"
   }
 ]

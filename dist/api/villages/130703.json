@@ -2,36 +2,43 @@
   {
     "code": "1307032001",
     "district_code": "130703",
-    "name": "Koto Baru Simalanggang"
+    "name": "Koto Baru Simalanggang",
+    "postal_code": "26251"
   },
   {
     "code": "1307032002",
     "district_code": "130703",
-    "name": "Taeh Bukik"
+    "name": "Taeh Bukik",
+    "postal_code": "26251"
   },
   {
     "code": "1307032003",
     "district_code": "130703",
-    "name": "Simalanggang"
+    "name": "Simalanggang",
+    "postal_code": "26251"
   },
   {
     "code": "1307032004",
     "district_code": "130703",
-    "name": "Sungai Beringin"
+    "name": "Sungai Beringin",
+    "postal_code": "26251"
   },
   {
     "code": "1307032005",
     "district_code": "130703",
-    "name": "Piobang"
+    "name": "Piobang",
+    "postal_code": "26251"
   },
   {
     "code": "1307032006",
     "district_code": "130703",
-    "name": "Taeh Baruah"
+    "name": "Taeh Baruah",
+    "postal_code": "26251"
   },
   {
     "code": "1307032007",
     "district_code": "130703",
-    "name": "Koto Tangah Simalanggang"
+    "name": "Koto Tangah Simalanggang",
+    "postal_code": "26251"
   }
 ]

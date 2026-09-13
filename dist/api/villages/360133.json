@@ -2,61 +2,73 @@
   {
     "code": "3601332001",
     "district_code": "360133",
-    "name": "Sukajaya"
+    "name": "Sukajaya",
+    "postal_code": "42250"
   },
   {
     "code": "3601332002",
     "district_code": "360133",
-    "name": "Awilega"
+    "name": "Awilega",
+    "postal_code": "42250"
   },
   {
     "code": "3601332003",
     "district_code": "360133",
-    "name": "Gerendong"
+    "name": "Gerendong",
+    "postal_code": "42250"
   },
   {
     "code": "3601332004",
     "district_code": "360133",
-    "name": "Koroncong"
+    "name": "Koroncong",
+    "postal_code": "42250"
   },
   {
     "code": "3601332005",
     "district_code": "360133",
-    "name": "Pakuluran"
+    "name": "Pakuluran",
+    "postal_code": "42250"
   },
   {
     "code": "3601332006",
     "district_code": "360133",
-    "name": "Setrajaya"
+    "name": "Setrajaya",
+    "postal_code": "42250"
   },
   {
     "code": "3601332007",
     "district_code": "360133",
-    "name": "Karangsetra"
+    "name": "Karangsetra",
+    "postal_code": "42250"
   },
   {
     "code": "3601332008",
     "district_code": "360133",
-    "name": "Paniis"
+    "name": "Paniis",
+    "postal_code": "42250"
   },
   {
     "code": "3601332009",
     "district_code": "360133",
-    "name": "Bangkonol"
+    "name": "Bangkonol",
+    "postal_code": "42250"
   },
   {
     "code": "3601332010",
     "district_code": "360133",
-    "name": "Pasirjaksa"
+    "name": "Pasirjaksa",
+    "postal_code": "42250"
   },
   {
     "code": "3601332011",
     "district_code": "360133",
-    "name": "Pasirkarag"
+    "name": "Pasirkarag",
+    "postal_code": "42250"
   },
   {
     "code": "3601332012",
     "district_code": "360133",
-    "name": "Tegalongok"
+    "name": "Tegalongok",
+    "postal_code": "42250"
   }
 ]

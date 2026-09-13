@@ -2,26 +2,31 @@
   {
     "code": "7208192001",
     "district_code": "720819",
-    "name": "Avolua"
+    "name": "Avolua",
+    "postal_code": "94463"
   },
   {
     "code": "7208192002",
     "district_code": "720819",
-    "name": "Toboli"
+    "name": "Toboli",
+    "postal_code": "94463"
   },
   {
     "code": "7208192003",
     "district_code": "720819",
-    "name": "Toboli Barat"
+    "name": "Toboli Barat",
+    "postal_code": "94463"
   },
   {
     "code": "7208192004",
     "district_code": "720819",
-    "name": "Pangi"
+    "name": "Pangi",
+    "postal_code": "94463"
   },
   {
     "code": "7208192005",
     "district_code": "720819",
-    "name": "Sakinah Jaya"
+    "name": "Sakinah Jaya",
+    "postal_code": "94463"
   }
 ]

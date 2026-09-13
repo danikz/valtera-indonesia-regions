@@ -2,26 +2,31 @@
   {
     "code": "9103112001",
     "district_code": "910311",
-    "name": "Lapua"
+    "name": "Lapua",
+    "postal_code": "99364"
   },
   {
     "code": "9103112002",
     "district_code": "910311",
-    "name": "Sebum"
+    "name": "Sebum",
+    "postal_code": "99364"
   },
   {
     "code": "9103112003",
     "district_code": "910311",
-    "name": "Soskotek"
+    "name": "Soskotek",
+    "postal_code": "99364"
   },
   {
     "code": "9103112004",
     "district_code": "910311",
-    "name": "Yadauw"
+    "name": "Yadauw",
+    "postal_code": "99364"
   },
   {
     "code": "9103112006",
     "district_code": "910311",
-    "name": "Umbron"
+    "name": "Umbron",
+    "postal_code": "99364"
   }
 ]

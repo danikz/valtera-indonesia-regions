@@ -2,46 +2,55 @@
   {
     "code": "6302142001",
     "district_code": "630214",
-    "name": "Hampang"
+    "name": "Hampang",
+    "postal_code": "72163"
   },
   {
     "code": "6302142002",
     "district_code": "630214",
-    "name": "Cantung Kiri Hulu"
+    "name": "Cantung Kiri Hulu",
+    "postal_code": "72163"
   },
   {
     "code": "6302142003",
     "district_code": "630214",
-    "name": "Cantung Kanan"
+    "name": "Cantung Kanan",
+    "postal_code": "72163"
   },
   {
     "code": "6302142004",
     "district_code": "630214",
-    "name": "Muara Orie"
+    "name": "Muara Orie",
+    "postal_code": "72163"
   },
   {
     "code": "6302142005",
     "district_code": "630214",
-    "name": "Lalapin"
+    "name": "Lalapin",
+    "postal_code": "72163"
   },
   {
     "code": "6302142006",
     "district_code": "630214",
-    "name": "Peramasan Dua Kali Sanga"
+    "name": "Peramasan Dua Kali Sanga",
+    "postal_code": "72163"
   },
   {
     "code": "6302142007",
     "district_code": "630214",
-    "name": "Limbur"
+    "name": "Limbur",
+    "postal_code": "72163"
   },
   {
     "code": "6302142008",
     "district_code": "630214",
-    "name": "Hulu Sampanahan"
+    "name": "Hulu Sampanahan",
+    "postal_code": "72163"
   },
   {
     "code": "6302142009",
     "district_code": "630214",
-    "name": "Limbungan"
+    "name": "Limbungan",
+    "postal_code": "72163"
   }
 ]

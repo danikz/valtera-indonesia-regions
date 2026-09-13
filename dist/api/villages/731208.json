@@ -2,21 +2,25 @@
   {
     "code": "7312082001",
     "district_code": "731208",
-    "name": "Citta"
+    "name": "Citta",
+    "postal_code": "90861"
   },
   {
     "code": "7312082002",
     "district_code": "731208",
-    "name": "Kampiri"
+    "name": "Kampiri",
+    "postal_code": "90861"
   },
   {
     "code": "7312082003",
     "district_code": "731208",
-    "name": "Labae"
+    "name": "Labae",
+    "postal_code": "90861"
   },
   {
     "code": "7312082004",
     "district_code": "731208",
-    "name": "Tinco"
+    "name": "Tinco",
+    "postal_code": "90861"
   }
 ]

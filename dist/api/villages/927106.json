@@ -2,26 +2,31 @@
   {
     "code": "9271061001",
     "district_code": "927106",
-    "name": "Klaligi"
+    "name": "Klaligi",
+    "postal_code": ""
   },
   {
     "code": "9271061002",
     "district_code": "927106",
-    "name": "Malawei"
+    "name": "Malawei",
+    "postal_code": ""
   },
   {
     "code": "9271061003",
     "district_code": "927106",
-    "name": "Malabutor"
+    "name": "Malabutor",
+    "postal_code": ""
   },
   {
     "code": "9271061004",
     "district_code": "927106",
-    "name": "Remu Selatan"
+    "name": "Remu Selatan",
+    "postal_code": ""
   },
   {
     "code": "9271061005",
     "district_code": "927106",
-    "name": "Klasabi"
+    "name": "Klasabi",
+    "postal_code": ""
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3604182001",
     "district_code": "360418",
-    "name": "Binuang"
+    "name": "Binuang",
+    "postal_code": "42196"
   },
   {
     "code": "3604182002",
     "district_code": "360418",
-    "name": "Cakung"
+    "name": "Cakung",
+    "postal_code": "42196"
   },
   {
     "code": "3604182003",
     "district_code": "360418",
-    "name": "Renged"
+    "name": "Renged",
+    "postal_code": "42196"
   },
   {
     "code": "3604182004",
     "district_code": "360418",
-    "name": "Gembor"
+    "name": "Gembor",
+    "postal_code": "42196"
   },
   {
     "code": "3604182005",
     "district_code": "360418",
-    "name": "Warakas"
+    "name": "Warakas",
+    "postal_code": "42196"
   },
   {
     "code": "3604182006",
     "district_code": "360418",
-    "name": "Sukamampir"
+    "name": "Sukamampir",
+    "postal_code": "42196"
   },
   {
     "code": "3604182007",
     "district_code": "360418",
-    "name": "Lamaran"
+    "name": "Lamaran",
+    "postal_code": "42196"
   }
 ]

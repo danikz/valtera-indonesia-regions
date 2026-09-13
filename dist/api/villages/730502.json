@@ -2,31 +2,37 @@
   {
     "code": "7305021002",
     "district_code": "730502",
-    "name": "Mangadu"
+    "name": "Mangadu",
+    "postal_code": "92261"
   },
   {
     "code": "7305022001",
     "district_code": "730502",
-    "name": "Lengkese"
+    "name": "Lengkese",
+    "postal_code": "92261"
   },
   {
     "code": "7305022003",
     "district_code": "730502",
-    "name": "Topejawa"
+    "name": "Topejawa",
+    "postal_code": "92261"
   },
   {
     "code": "7305022004",
     "district_code": "730502",
-    "name": "Lakatong"
+    "name": "Lakatong",
+    "postal_code": "92261"
   },
   {
     "code": "7305022007",
     "district_code": "730502",
-    "name": "Banggae"
+    "name": "Banggae",
+    "postal_code": "92261"
   },
   {
     "code": "7305022008",
     "district_code": "730502",
-    "name": "Bontomanai"
+    "name": "Bontomanai",
+    "postal_code": "92261"
   }
 ]

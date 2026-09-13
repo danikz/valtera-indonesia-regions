@@ -2,41 +2,49 @@
   {
     "code": "2104072001",
     "district_code": "210407",
-    "name": "Bukitlangkap"
+    "name": "Bukitlangkap",
+    "postal_code": "29872"
   },
   {
     "code": "2104072002",
     "district_code": "210407",
-    "name": "Keton"
+    "name": "Keton",
+    "postal_code": "29872"
   },
   {
     "code": "2104072003",
     "district_code": "210407",
-    "name": "Pekaka"
+    "name": "Pekaka",
+    "postal_code": "29872"
   },
   {
     "code": "2104072004",
     "district_code": "210407",
-    "name": "Kerandin"
+    "name": "Kerandin",
+    "postal_code": "29872"
   },
   {
     "code": "2104072005",
     "district_code": "210407",
-    "name": "Sungai Pinang"
+    "name": "Sungai Pinang",
+    "postal_code": "29872"
   },
   {
     "code": "2104072006",
     "district_code": "210407",
-    "name": "Kudung"
+    "name": "Kudung",
+    "postal_code": "29872"
   },
   {
     "code": "2104072007",
     "district_code": "210407",
-    "name": "Teluk"
+    "name": "Teluk",
+    "postal_code": "29874"
   },
   {
     "code": "2104072008",
     "district_code": "210407",
-    "name": "Belungkur"
+    "name": "Belungkur",
+    "postal_code": "29874"
   }
 ]

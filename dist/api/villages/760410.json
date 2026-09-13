@@ -2,56 +2,67 @@
   {
     "code": "7604101004",
     "district_code": "760410",
-    "name": "Batupanga"
+    "name": "Batupanga",
+    "postal_code": "91358"
   },
   {
     "code": "7604102001",
     "district_code": "760410",
-    "name": "Mambu"
+    "name": "Mambu",
+    "postal_code": "91358"
   },
   {
     "code": "7604102002",
     "district_code": "760410",
-    "name": "Tenggelang"
+    "name": "Tenggelang",
+    "postal_code": "91358"
   },
   {
     "code": "7604102003",
     "district_code": "760410",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "91358"
   },
   {
     "code": "7604102005",
     "district_code": "760410",
-    "name": "Pussui"
+    "name": "Pussui",
+    "postal_code": "91358"
   },
   {
     "code": "7604102006",
     "district_code": "760410",
-    "name": "Mapili Barat"
+    "name": "Mapili Barat",
+    "postal_code": "91358"
   },
   {
     "code": "7604102007",
     "district_code": "760410",
-    "name": "Sambali Wali"
+    "name": "Sambali Wali",
+    "postal_code": "91358"
   },
   {
     "code": "7604102008",
     "district_code": "760410",
-    "name": "Batupanga Daala"
+    "name": "Batupanga Daala",
+    "postal_code": "91358"
   },
   {
     "code": "7604102009",
     "district_code": "760410",
-    "name": "Luyo"
+    "name": "Luyo",
+    "postal_code": "91358"
   },
   {
     "code": "7604102010",
     "district_code": "760410",
-    "name": "Pussui Barat"
+    "name": "Pussui Barat",
+    "postal_code": "91358"
   },
   {
     "code": "7604102011",
     "district_code": "760410",
-    "name": "Puccadi"
+    "name": "Puccadi",
+    "postal_code": "91358"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "5204052001",
     "district_code": "520405",
-    "name": "Luar"
+    "name": "Luar",
+    "postal_code": "84353"
   },
   {
     "code": "5204052002",
     "district_code": "520405",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "84353"
   },
   {
     "code": "5204052003",
     "district_code": "520405",
-    "name": "Kalimango"
+    "name": "Kalimango",
+    "postal_code": "84353"
   },
   {
     "code": "5204052004",
     "district_code": "520405",
-    "name": "Marente"
+    "name": "Marente",
+    "postal_code": "84353"
   },
   {
     "code": "5204052005",
     "district_code": "520405",
-    "name": "Juran Alas"
+    "name": "Juran Alas",
+    "postal_code": "84353"
   },
   {
     "code": "5204052006",
     "district_code": "520405",
-    "name": "Dalam"
+    "name": "Dalam",
+    "postal_code": "84353"
   },
   {
     "code": "5204052007",
     "district_code": "520405",
-    "name": "Pulau Bungin"
+    "name": "Pulau Bungin",
+    "postal_code": "84353"
   },
   {
     "code": "5204052012",
     "district_code": "520405",
-    "name": "Labuhan Alas"
+    "name": "Labuhan Alas",
+    "postal_code": "84353"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "9507222001",
     "district_code": "950722",
-    "name": "Anitila"
+    "name": "Anitila",
+    "postal_code": "99573"
   },
   {
     "code": "9507222002",
     "district_code": "950722",
-    "name": "Nanim"
+    "name": "Nanim",
+    "postal_code": "99573"
   },
   {
     "code": "9507222003",
     "district_code": "950722",
-    "name": "Lubutini"
+    "name": "Lubutini",
+    "postal_code": "99573"
   },
   {
     "code": "9507222004",
     "district_code": "950722",
-    "name": "Tikome"
+    "name": "Tikome",
+    "postal_code": "99573"
   },
   {
     "code": "9507222005",
     "district_code": "950722",
-    "name": "Tikoyowa"
+    "name": "Tikoyowa",
+    "postal_code": "99534"
   },
   {
     "code": "9507222006",
     "district_code": "950722",
-    "name": "Bogogunik"
+    "name": "Bogogunik",
+    "postal_code": "99573"
   },
   {
     "code": "9507222007",
     "district_code": "950722",
-    "name": "Wanggunom"
+    "name": "Wanggunom",
+    "postal_code": "99573"
   },
   {
     "code": "9507222008",
     "district_code": "950722",
-    "name": "Nindonak"
+    "name": "Nindonak",
+    "postal_code": "99573"
   },
   {
     "code": "9507222009",
     "district_code": "950722",
-    "name": "Luagame"
+    "name": "Luagame",
+    "postal_code": "99573"
   }
 ]

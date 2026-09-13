@@ -2,51 +2,61 @@
   {
     "code": "7172041003",
     "district_code": "717204",
-    "name": "Pateten Satu"
+    "name": "Pateten Satu",
+    "postal_code": "95524"
   },
   {
     "code": "7172041004",
     "district_code": "717204",
-    "name": "Winenet Satu"
+    "name": "Winenet Satu",
+    "postal_code": "95525"
   },
   {
     "code": "7172041005",
     "district_code": "717204",
-    "name": "Aertembaga Satu"
+    "name": "Aertembaga Satu",
+    "postal_code": "95526"
   },
   {
     "code": "7172041006",
     "district_code": "717204",
-    "name": "Tandurusa"
+    "name": "Tandurusa",
+    "postal_code": "95527"
   },
   {
     "code": "7172041007",
     "district_code": "717204",
-    "name": "Makawidey"
+    "name": "Makawidey",
+    "postal_code": "95528"
   },
   {
     "code": "7172041008",
     "district_code": "717204",
-    "name": "Pinangunian"
+    "name": "Pinangunian",
+    "postal_code": "95529"
   },
   {
     "code": "7172041011",
     "district_code": "717204",
-    "name": "Pateten Dua"
+    "name": "Pateten Dua",
+    "postal_code": "95524"
   },
   {
     "code": "7172041012",
     "district_code": "717204",
-    "name": "Winenet Dua"
+    "name": "Winenet Dua",
+    "postal_code": "95525"
   },
   {
     "code": "7172041013",
     "district_code": "717204",
-    "name": "Kasawari"
+    "name": "Kasawari",
+    "postal_code": "95521"
   },
   {
     "code": "7172041014",
     "district_code": "717204",
-    "name": "Aertembaga Dua"
+    "name": "Aertembaga Dua",
+    "postal_code": "95526"
   }
 ]

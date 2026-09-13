@@ -2,131 +2,157 @@
   {
     "code": "6303051001",
     "district_code": "630305",
-    "name": "Keraton"
+    "name": "Keraton",
+    "postal_code": "70611"
   },
   {
     "code": "6303051002",
     "district_code": "630305",
-    "name": "Jawa"
+    "name": "Jawa",
+    "postal_code": "70614"
   },
   {
     "code": "6303051003",
     "district_code": "630305",
-    "name": "Pasayangan"
+    "name": "Pasayangan",
+    "postal_code": "70619"
   },
   {
     "code": "6303051004",
     "district_code": "630305",
-    "name": "Murung Keraton"
+    "name": "Murung Keraton",
+    "postal_code": "70616"
   },
   {
     "code": "6303051005",
     "district_code": "630305",
-    "name": "Sungai Paring"
+    "name": "Sungai Paring",
+    "postal_code": "71213"
   },
   {
     "code": "6303051055",
     "district_code": "630305",
-    "name": "Tanjung Rema Darat"
+    "name": "Tanjung Rema Darat",
+    "postal_code": "70613"
   },
   {
     "code": "6303051059",
     "district_code": "630305",
-    "name": "Sekumpul"
+    "name": "Sekumpul",
+    "postal_code": "70619"
   },
   {
     "code": "6303052009",
     "district_code": "630305",
-    "name": "Sungai Sipai"
+    "name": "Sungai Sipai",
+    "postal_code": "70612"
   },
   {
     "code": "6303052010",
     "district_code": "630305",
-    "name": "Pasayangan Selatan"
+    "name": "Pasayangan Selatan",
+    "postal_code": "70619"
   },
   {
     "code": "6303052011",
     "district_code": "630305",
-    "name": "Tanjung Rema"
+    "name": "Tanjung Rema",
+    "postal_code": "70613"
   },
   {
     "code": "6303052012",
     "district_code": "630305",
-    "name": "Bincau"
+    "name": "Bincau",
+    "postal_code": "70619"
   },
   {
     "code": "6303052013",
     "district_code": "630305",
-    "name": "Murung Kenanga"
+    "name": "Murung Kenanga",
+    "postal_code": "70617"
   },
   {
     "code": "6303052015",
     "district_code": "630305",
-    "name": "Tunggul Irang"
+    "name": "Tunggul Irang",
+    "postal_code": "70615"
   },
   {
     "code": "6303052016",
     "district_code": "630305",
-    "name": "Tambak Baru"
+    "name": "Tambak Baru",
+    "postal_code": "70619"
   },
   {
     "code": "6303052034",
     "district_code": "630305",
-    "name": "Cindai Alus"
+    "name": "Cindai Alus",
+    "postal_code": "70612"
   },
   {
     "code": "6303052036",
     "district_code": "630305",
-    "name": "Tungkaran"
+    "name": "Tungkaran",
+    "postal_code": "70619"
   },
   {
     "code": "6303052037",
     "district_code": "630305",
-    "name": "Tambak Baru Ulu"
+    "name": "Tambak Baru Ulu",
+    "postal_code": "70619"
   },
   {
     "code": "6303052040",
     "district_code": "630305",
-    "name": "Bincau Muara"
+    "name": "Bincau Muara",
+    "postal_code": "70619"
   },
   {
     "code": "6303052042",
     "district_code": "630305",
-    "name": "Tunggul Irang Ilir"
+    "name": "Tunggul Irang Ilir",
+    "postal_code": "70615"
   },
   {
     "code": "6303052043",
     "district_code": "630305",
-    "name": "Tunggul Irang Ulu"
+    "name": "Tunggul Irang Ulu",
+    "postal_code": "70615"
   },
   {
     "code": "6303052051",
     "district_code": "630305",
-    "name": "Labuan Tabu"
+    "name": "Labuan Tabu",
+    "postal_code": "70619"
   },
   {
     "code": "6303052052",
     "district_code": "630305",
-    "name": "Indra Sari"
+    "name": "Indra Sari",
+    "postal_code": "70619"
   },
   {
     "code": "6303052054",
     "district_code": "630305",
-    "name": "Jawa Laut"
+    "name": "Jawa Laut",
+    "postal_code": "70615"
   },
   {
     "code": "6303052056",
     "district_code": "630305",
-    "name": "Pasayangan Utara"
+    "name": "Pasayangan Utara",
+    "postal_code": "70619"
   },
   {
     "code": "6303052057",
     "district_code": "630305",
-    "name": "Pasayangan Barat"
+    "name": "Pasayangan Barat",
+    "postal_code": "70619"
   },
   {
     "code": "6303052058",
     "district_code": "630305",
-    "name": "Tambak Baru Ilir"
+    "name": "Tambak Baru Ilir",
+    "postal_code": "70619"
   }
 ]

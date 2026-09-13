@@ -2,36 +2,43 @@
   {
     "code": "5311011001",
     "district_code": "531101",
-    "name": "Kambajawa"
+    "name": "Kambajawa",
+    "postal_code": "87116"
   },
   {
     "code": "5311011002",
     "district_code": "531101",
-    "name": "Hambala"
+    "name": "Hambala",
+    "postal_code": "87112"
   },
   {
     "code": "5311011003",
     "district_code": "531101",
-    "name": "Matawai"
+    "name": "Matawai",
+    "postal_code": "87116"
   },
   {
     "code": "5311011004",
     "district_code": "531101",
-    "name": "Kamalaputi"
+    "name": "Kamalaputi",
+    "postal_code": "87111"
   },
   {
     "code": "5311012012",
     "district_code": "531101",
-    "name": "Lukukamaru"
+    "name": "Lukukamaru",
+    "postal_code": "87116"
   },
   {
     "code": "5311012013",
     "district_code": "531101",
-    "name": "Mbatakapidu"
+    "name": "Mbatakapidu",
+    "postal_code": "87116"
   },
   {
     "code": "5311012014",
     "district_code": "531101",
-    "name": "Pambotandjara"
+    "name": "Pambotandjara",
+    "postal_code": "87116"
   }
 ]

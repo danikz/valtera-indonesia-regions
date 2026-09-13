@@ -2,36 +2,43 @@
   {
     "code": "9209212001",
     "district_code": "920921",
-    "name": "Jokbujoker"
+    "name": "Jokbujoker",
+    "postal_code": ""
   },
   {
     "code": "9209212002",
     "district_code": "920921",
-    "name": "Kranfotsu"
+    "name": "Kranfotsu",
+    "postal_code": ""
   },
   {
     "code": "9209212003",
     "district_code": "920921",
-    "name": "Syuau"
+    "name": "Syuau",
+    "postal_code": ""
   },
   {
     "code": "9209212004",
     "district_code": "920921",
-    "name": "Kwesefo"
+    "name": "Kwesefo",
+    "postal_code": ""
   },
   {
     "code": "9209212005",
     "district_code": "920921",
-    "name": "Batdey"
+    "name": "Batdey",
+    "postal_code": ""
   },
   {
     "code": "9209212006",
     "district_code": "920921",
-    "name": "Syumbi"
+    "name": "Syumbi",
+    "postal_code": ""
   },
   {
     "code": "9209212007",
     "district_code": "920921",
-    "name": "Bao"
+    "name": "Bao",
+    "postal_code": ""
   }
 ]

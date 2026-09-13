@@ -2,41 +2,49 @@
   {
     "code": "9204112001",
     "district_code": "920411",
-    "name": "Haha"
+    "name": "Haha",
+    "postal_code": ""
   },
   {
     "code": "9204112003",
     "district_code": "920411",
-    "name": "Klaogin"
+    "name": "Klaogin",
+    "postal_code": ""
   },
   {
     "code": "9204112004",
     "district_code": "920411",
-    "name": "Tofot"
+    "name": "Tofot",
+    "postal_code": ""
   },
   {
     "code": "9204112005",
     "district_code": "920411",
-    "name": "Sbir"
+    "name": "Sbir",
+    "postal_code": ""
   },
   {
     "code": "9204112006",
     "district_code": "920411",
-    "name": "Srer"
+    "name": "Srer",
+    "postal_code": ""
   },
   {
     "code": "9204112007",
     "district_code": "920411",
-    "name": "Woloin"
+    "name": "Woloin",
+    "postal_code": ""
   },
   {
     "code": "9204112008",
     "district_code": "920411",
-    "name": "Kamaro"
+    "name": "Kamaro",
+    "postal_code": ""
   },
   {
     "code": "9204112009",
     "district_code": "920411",
-    "name": "Kakas"
+    "name": "Kakas",
+    "postal_code": ""
   }
 ]

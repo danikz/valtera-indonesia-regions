@@ -2,46 +2,55 @@
   {
     "code": "3601082001",
     "district_code": "360108",
-    "name": "Pasanggrahan"
+    "name": "Pasanggrahan",
+    "postal_code": "42275"
   },
   {
     "code": "3601082002",
     "district_code": "360108",
-    "name": "Sukasaba"
+    "name": "Sukasaba",
+    "postal_code": "42275"
   },
   {
     "code": "3601082005",
     "district_code": "360108",
-    "name": "Gunungbatu"
+    "name": "Gunungbatu",
+    "postal_code": "42275"
   },
   {
     "code": "3601082006",
     "district_code": "360108",
-    "name": "Panacaran"
+    "name": "Panacaran",
+    "postal_code": "42275"
   },
   {
     "code": "3601082007",
     "district_code": "360108",
-    "name": "Curuglanglang"
+    "name": "Curuglanglang",
+    "postal_code": "42275"
   },
   {
     "code": "3601082008",
     "district_code": "360108",
-    "name": "Munjul"
+    "name": "Munjul",
+    "postal_code": "42275"
   },
   {
     "code": "3601082009",
     "district_code": "360108",
-    "name": "Cibitung"
+    "name": "Cibitung",
+    "postal_code": "42275"
   },
   {
     "code": "3601082011",
     "district_code": "360108",
-    "name": "Kotadukuh"
+    "name": "Kotadukuh",
+    "postal_code": "42275"
   },
   {
     "code": "3601082018",
     "district_code": "360108",
-    "name": "Lebak"
+    "name": "Lebak",
+    "postal_code": "42275"
   }
 ]

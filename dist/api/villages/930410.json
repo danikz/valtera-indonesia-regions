@@ -2,31 +2,37 @@
   {
     "code": "9304102002",
     "district_code": "930410",
-    "name": "Amor"
+    "name": "Amor",
+    "postal_code": "99780"
   },
   {
     "code": "9304102003",
     "district_code": "930410",
-    "name": "Yipawer"
+    "name": "Yipawer",
+    "postal_code": "99780"
   },
   {
     "code": "9304102004",
     "district_code": "930410",
-    "name": "Berip"
+    "name": "Berip",
+    "postal_code": "99780"
   },
   {
     "code": "9304102005",
     "district_code": "930410",
-    "name": "Ayir"
+    "name": "Ayir",
+    "postal_code": "99780"
   },
   {
     "code": "9304102006",
     "district_code": "930410",
-    "name": "Werer"
+    "name": "Werer",
+    "postal_code": "99780"
   },
   {
     "code": "9304102009",
     "district_code": "930410",
-    "name": "Paar"
+    "name": "Paar",
+    "postal_code": "99780"
   }
 ]

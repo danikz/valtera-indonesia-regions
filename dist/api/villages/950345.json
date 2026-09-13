@@ -2,51 +2,61 @@
   {
     "code": "9503452001",
     "district_code": "950345",
-    "name": "Debula"
+    "name": "Debula",
+    "postal_code": "99736"
   },
   {
     "code": "9503452002",
     "district_code": "950345",
-    "name": "Kwelemdua"
+    "name": "Kwelemdua",
+    "postal_code": "99736"
   },
   {
     "code": "9503452003",
     "district_code": "950345",
-    "name": "Kubuk dua"
+    "name": "Kubuk dua",
+    "postal_code": "99736"
   },
   {
     "code": "9503452004",
     "district_code": "950345",
-    "name": "Senayom"
+    "name": "Senayom",
+    "postal_code": "99736"
   },
   {
     "code": "9503452005",
     "district_code": "950345",
-    "name": "Sesepne"
+    "name": "Sesepne",
+    "postal_code": "99736"
   },
   {
     "code": "9503452006",
     "district_code": "950345",
-    "name": "Baluk"
+    "name": "Baluk",
+    "postal_code": "99736"
   },
   {
     "code": "9503452007",
     "district_code": "950345",
-    "name": "Kemligin"
+    "name": "Kemligin",
+    "postal_code": "99736"
   },
   {
     "code": "9503452008",
     "district_code": "950345",
-    "name": "Obis"
+    "name": "Obis",
+    "postal_code": "99736"
   },
   {
     "code": "9503452009",
     "district_code": "950345",
-    "name": "Yalidamon"
+    "name": "Yalidamon",
+    "postal_code": "99736"
   },
   {
     "code": "9503452010",
     "district_code": "950345",
-    "name": "Kabulan"
+    "name": "Kabulan",
+    "postal_code": "99736"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "9106052006",
     "district_code": "910605",
-    "name": "Yenburwo"
+    "name": "Yenburwo",
+    "postal_code": "98562"
   },
   {
     "code": "9106052011",
     "district_code": "910605",
-    "name": "Kornasoren"
+    "name": "Kornasoren",
+    "postal_code": "98562"
   },
   {
     "code": "9106052014",
     "district_code": "910605",
-    "name": "Rarsibo"
+    "name": "Rarsibo",
+    "postal_code": "98562"
   },
   {
     "code": "9106052015",
     "district_code": "910605",
-    "name": "Asaryendi"
+    "name": "Asaryendi",
+    "postal_code": "98562"
   },
   {
     "code": "9106052016",
     "district_code": "910605",
-    "name": "Yenmanu"
+    "name": "Yenmanu",
+    "postal_code": "98562"
   },
   {
     "code": "9106052017",
     "district_code": "910605",
-    "name": "Pyefuri"
+    "name": "Pyefuri",
+    "postal_code": "98562"
   },
   {
     "code": "9106052018",
     "district_code": "910605",
-    "name": "Indaibori"
+    "name": "Indaibori",
+    "postal_code": "98562"
   },
   {
     "code": "9106052019",
     "district_code": "910605",
-    "name": "Barkori"
+    "name": "Barkori",
+    "postal_code": "98562"
   },
   {
     "code": "9106052020",
     "district_code": "910605",
-    "name": "Asaibori"
+    "name": "Asaibori",
+    "postal_code": "98562"
   }
 ]

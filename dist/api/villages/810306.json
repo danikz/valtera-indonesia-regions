@@ -2,31 +2,37 @@
   {
     "code": "8103062001",
     "district_code": "810306",
-    "name": "Romean"
+    "name": "Romean",
+    "postal_code": "97466"
   },
   {
     "code": "8103062002",
     "district_code": "810306",
-    "name": "Rumngeur"
+    "name": "Rumngeur",
+    "postal_code": "97466"
   },
   {
     "code": "8103062003",
     "district_code": "810306",
-    "name": "Awear"
+    "name": "Awear",
+    "postal_code": "97466"
   },
   {
     "code": "8103062004",
     "district_code": "810306",
-    "name": "Sofyanin"
+    "name": "Sofyanin",
+    "postal_code": "97466"
   },
   {
     "code": "8103062005",
     "district_code": "810306",
-    "name": "Walerang"
+    "name": "Walerang",
+    "postal_code": "97466"
   },
   {
     "code": "8103062006",
     "district_code": "810306",
-    "name": "Adodo Fordata"
+    "name": "Adodo Fordata",
+    "postal_code": "97466"
   }
 ]

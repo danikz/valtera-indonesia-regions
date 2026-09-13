@@ -2,51 +2,61 @@
   {
     "code": "1306032001",
     "district_code": "130603",
-    "name": "Tanjung Sani"
+    "name": "Tanjung Sani",
+    "postal_code": "26471"
   },
   {
     "code": "1306032002",
     "district_code": "130603",
-    "name": "Sungai Batang"
+    "name": "Sungai Batang",
+    "postal_code": "26471"
   },
   {
     "code": "1306032003",
     "district_code": "130603",
-    "name": "Maninjau"
+    "name": "Maninjau",
+    "postal_code": "26471"
   },
   {
     "code": "1306032004",
     "district_code": "130603",
-    "name": "Bayua"
+    "name": "Bayua",
+    "postal_code": "26471"
   },
   {
     "code": "1306032006",
     "district_code": "130603",
-    "name": "Koto Kaciak"
+    "name": "Koto Kaciak",
+    "postal_code": "26471"
   },
   {
     "code": "1306032007",
     "district_code": "130603",
-    "name": "Duo Koto"
+    "name": "Duo Koto",
+    "postal_code": "26471"
   },
   {
     "code": "1306032008",
     "district_code": "130603",
-    "name": "Koto Gadang"
+    "name": "Koto Gadang",
+    "postal_code": "26471"
   },
   {
     "code": "1306032009",
     "district_code": "130603",
-    "name": "Koto Malintang"
+    "name": "Koto Malintang",
+    "postal_code": "26471"
   },
   {
     "code": "1306032010",
     "district_code": "130603",
-    "name": "Paninjauan"
+    "name": "Paninjauan",
+    "postal_code": "26471"
   },
   {
     "code": "1306032011",
     "district_code": "130603",
-    "name": "Dalko"
+    "name": "Dalko",
+    "postal_code": "26471"
   }
 ]

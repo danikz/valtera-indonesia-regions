@@ -2,46 +2,55 @@
   {
     "code": "7604041001",
     "district_code": "760404",
-    "name": "Polewali"
+    "name": "Polewali",
+    "postal_code": "91311"
   },
   {
     "code": "7604041002",
     "district_code": "760404",
-    "name": "Wattang"
+    "name": "Wattang",
+    "postal_code": "91315"
   },
   {
     "code": "7604041003",
     "district_code": "760404",
-    "name": "Sulewatang"
+    "name": "Sulewatang",
+    "postal_code": "91315"
   },
   {
     "code": "7604041004",
     "district_code": "760404",
-    "name": "Lantora"
+    "name": "Lantora",
+    "postal_code": "91313"
   },
   {
     "code": "7604041005",
     "district_code": "760404",
-    "name": "Takatidung"
+    "name": "Takatidung",
+    "postal_code": "91311"
   },
   {
     "code": "7604041006",
     "district_code": "760404",
-    "name": "Pekkabata"
+    "name": "Pekkabata",
+    "postal_code": "91311"
   },
   {
     "code": "7604041007",
     "district_code": "760404",
-    "name": "Madate"
+    "name": "Madate",
+    "postal_code": "91315"
   },
   {
     "code": "7604041008",
     "district_code": "760404",
-    "name": "Manding"
+    "name": "Manding",
+    "postal_code": "91311"
   },
   {
     "code": "7604041009",
     "district_code": "760404",
-    "name": "Darma"
+    "name": "Darma",
+    "postal_code": "91314"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "6407061006",
     "district_code": "640706",
-    "name": "Melak Ilir"
+    "name": "Melak Ilir",
+    "postal_code": "75765"
   },
   {
     "code": "6407061011",
     "district_code": "640706",
-    "name": "Melak Ulu"
+    "name": "Melak Ulu",
+    "postal_code": "75765"
   },
   {
     "code": "6407062001",
     "district_code": "640706",
-    "name": "Empas"
+    "name": "Empas",
+    "postal_code": "75765"
   },
   {
     "code": "6407062002",
     "district_code": "640706",
-    "name": "Empakuq"
+    "name": "Empakuq",
+    "postal_code": "75765"
   },
   {
     "code": "6407062003",
     "district_code": "640706",
-    "name": "Muara Bunyut"
+    "name": "Muara Bunyut",
+    "postal_code": "75765"
   },
   {
     "code": "6407062012",
     "district_code": "640706",
-    "name": "Muara Benangaq"
+    "name": "Muara Benangaq",
+    "postal_code": "75765"
   }
 ]

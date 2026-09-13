@@ -2,31 +2,37 @@
   {
     "code": "3303172001",
     "district_code": "330317",
-    "name": "Purbasari"
+    "name": "Purbasari",
+    "postal_code": "53357"
   },
   {
     "code": "3303172002",
     "district_code": "330317",
-    "name": "Sirandu"
+    "name": "Sirandu",
+    "postal_code": "53357"
   },
   {
     "code": "3303172003",
     "district_code": "330317",
-    "name": "Karangjambu"
+    "name": "Karangjambu",
+    "postal_code": "53357"
   },
   {
     "code": "3303172004",
     "district_code": "330317",
-    "name": "Sanguwatang"
+    "name": "Sanguwatang",
+    "postal_code": "53357"
   },
   {
     "code": "3303172005",
     "district_code": "330317",
-    "name": "Jingkang"
+    "name": "Jingkang",
+    "postal_code": "53357"
   },
   {
     "code": "3303172006",
     "district_code": "330317",
-    "name": "Danasari"
+    "name": "Danasari",
+    "postal_code": "53357"
   }
 ]

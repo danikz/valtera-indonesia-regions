@@ -2,41 +2,49 @@
   {
     "code": "3207082001",
     "district_code": "320708",
-    "name": "Panjalu"
+    "name": "Panjalu",
+    "postal_code": "46264"
   },
   {
     "code": "3207082002",
     "district_code": "320708",
-    "name": "Kertamandala"
+    "name": "Kertamandala",
+    "postal_code": "46264"
   },
   {
     "code": "3207082003",
     "district_code": "320708",
-    "name": "Ciomas"
+    "name": "Ciomas",
+    "postal_code": "46264"
   },
   {
     "code": "3207082004",
     "district_code": "320708",
-    "name": "Sandingtaman"
+    "name": "Sandingtaman",
+    "postal_code": "46264"
   },
   {
     "code": "3207082005",
     "district_code": "320708",
-    "name": "Maparah"
+    "name": "Maparah",
+    "postal_code": "46264"
   },
   {
     "code": "3207082009",
     "district_code": "320708",
-    "name": "Bahara"
+    "name": "Bahara",
+    "postal_code": "46264"
   },
   {
     "code": "3207082012",
     "district_code": "320708",
-    "name": "Hujungtiwu"
+    "name": "Hujungtiwu",
+    "postal_code": "46264"
   },
   {
     "code": "3207082013",
     "district_code": "320708",
-    "name": "Mandalare"
+    "name": "Mandalare",
+    "postal_code": "46264"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "7304112001",
     "district_code": "730411",
-    "name": "Pao"
+    "name": "Pao",
+    "postal_code": "92362"
   },
   {
     "code": "7304112002",
     "district_code": "730411",
-    "name": "Bontorappo"
+    "name": "Bontorappo",
+    "postal_code": "92362"
   },
   {
     "code": "7304112003",
     "district_code": "730411",
-    "name": "Tarowang"
+    "name": "Tarowang",
+    "postal_code": "92362"
   },
   {
     "code": "7304112004",
     "district_code": "730411",
-    "name": "Allu Tarowang"
+    "name": "Allu Tarowang",
+    "postal_code": "92362"
   },
   {
     "code": "7304112005",
     "district_code": "730411",
-    "name": "Balangbaru"
+    "name": "Balangbaru",
+    "postal_code": "92362"
   },
   {
     "code": "7304112006",
     "district_code": "730411",
-    "name": "Balangloe Tarowang"
+    "name": "Balangloe Tarowang",
+    "postal_code": "92362"
   },
   {
     "code": "7304112007",
     "district_code": "730411",
-    "name": "Bonto Ujung"
+    "name": "Bonto Ujung",
+    "postal_code": "92362"
   },
   {
     "code": "7304112008",
     "district_code": "730411",
-    "name": "Tino"
+    "name": "Tino",
+    "postal_code": "92362"
   }
 ]

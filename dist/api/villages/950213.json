@@ -2,26 +2,31 @@
   {
     "code": "9502132001",
     "district_code": "950213",
-    "name": "Dabolding"
+    "name": "Dabolding",
+    "postal_code": "99412"
   },
   {
     "code": "9502132002",
     "district_code": "950213",
-    "name": "Kalomdol"
+    "name": "Kalomdol",
+    "postal_code": "99412"
   },
   {
     "code": "9502132003",
     "district_code": "950213",
-    "name": "Tulo"
+    "name": "Tulo",
+    "postal_code": "99412"
   },
   {
     "code": "9502132004",
     "district_code": "950213",
-    "name": "Arinkop"
+    "name": "Arinkop",
+    "postal_code": "99412"
   },
   {
     "code": "9502132005",
     "district_code": "950213",
-    "name": "Imik"
+    "name": "Imik",
+    "postal_code": "99412"
   }
 ]

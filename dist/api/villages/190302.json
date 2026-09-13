@@ -2,21 +2,25 @@
   {
     "code": "1903022001",
     "district_code": "190302",
-    "name": "Tanjunglabu"
+    "name": "Tanjunglabu",
+    "postal_code": "33792"
   },
   {
     "code": "1903022002",
     "district_code": "190302",
-    "name": "Tanjungsangkar"
+    "name": "Tanjungsangkar",
+    "postal_code": "33792"
   },
   {
     "code": "1903022004",
     "district_code": "190302",
-    "name": "Kumbung"
+    "name": "Kumbung",
+    "postal_code": "33792"
   },
   {
     "code": "1903022005",
     "district_code": "190302",
-    "name": "Penutuk"
+    "name": "Penutuk",
+    "postal_code": "33792"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "1472011003",
     "district_code": "147201",
-    "name": "Pangkalan Sesai"
+    "name": "Pangkalan Sesai",
+    "postal_code": "28824"
   },
   {
     "code": "1472011006",
     "district_code": "147201",
-    "name": "Purnama"
+    "name": "Purnama",
+    "postal_code": "28823"
   },
   {
     "code": "1472011008",
     "district_code": "147201",
-    "name": "Bagan Keladi"
+    "name": "Bagan Keladi",
+    "postal_code": "28821"
   },
   {
     "code": "1472011009",
     "district_code": "147201",
-    "name": "Simapang Tetap Darul Ichsan"
+    "name": "Simapang Tetap Darul Ichsan",
+    "postal_code": "28824"
   }
 ]

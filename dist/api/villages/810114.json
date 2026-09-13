@@ -2,31 +2,37 @@
   {
     "code": "8101142001",
     "district_code": "810114",
-    "name": "Liang"
+    "name": "Liang",
+    "postal_code": "97582"
   },
   {
     "code": "8101142002",
     "district_code": "810114",
-    "name": "Waai"
+    "name": "Waai",
+    "postal_code": "97582"
   },
   {
     "code": "8101142003",
     "district_code": "810114",
-    "name": "Tulehu"
+    "name": "Tulehu",
+    "postal_code": "97582"
   },
   {
     "code": "8101142004",
     "district_code": "810114",
-    "name": "Tial"
+    "name": "Tial",
+    "postal_code": "97582"
   },
   {
     "code": "8101142005",
     "district_code": "810114",
-    "name": "Tengah Tengah"
+    "name": "Tengah Tengah",
+    "postal_code": "97582"
   },
   {
     "code": "8101142006",
     "district_code": "810114",
-    "name": "Suli"
+    "name": "Suli",
+    "postal_code": "97582"
   }
 ]

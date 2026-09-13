@@ -2,66 +2,79 @@
   {
     "code": "6205061015",
     "district_code": "620506",
-    "name": "Lahei I"
+    "name": "Lahei I",
+    "postal_code": "73852"
   },
   {
     "code": "6205061016",
     "district_code": "620506",
-    "name": "Lahei II"
+    "name": "Lahei II",
+    "postal_code": "73852"
   },
   {
     "code": "6205062001",
     "district_code": "620506",
-    "name": "Ipu"
+    "name": "Ipu",
+    "postal_code": "73852"
   },
   {
     "code": "6205062002",
     "district_code": "620506",
-    "name": "Mukut"
+    "name": "Mukut",
+    "postal_code": "73852"
   },
   {
     "code": "6205062014",
     "district_code": "620506",
-    "name": "Muara Bakah"
+    "name": "Muara Bakah",
+    "postal_code": "73852"
   },
   {
     "code": "6205062017",
     "district_code": "620506",
-    "name": "Juju Baru"
+    "name": "Juju Baru",
+    "postal_code": "73852"
   },
   {
     "code": "6205062018",
     "district_code": "620506",
-    "name": "Muara Inu"
+    "name": "Muara Inu",
+    "postal_code": "73852"
   },
   {
     "code": "6205062019",
     "district_code": "620506",
-    "name": "Bengahon"
+    "name": "Bengahon",
+    "postal_code": "73852"
   },
   {
     "code": "6205062020",
     "district_code": "620506",
-    "name": "Rahaden"
+    "name": "Rahaden",
+    "postal_code": "73852"
   },
   {
     "code": "6205062021",
     "district_code": "620506",
-    "name": "Muara Pari"
+    "name": "Muara Pari",
+    "postal_code": "73852"
   },
   {
     "code": "6205062022",
     "district_code": "620506",
-    "name": "Haragandang"
+    "name": "Haragandang",
+    "postal_code": "73852"
   },
   {
     "code": "6205062023",
     "district_code": "620506",
-    "name": "Karendan"
+    "name": "Karendan",
+    "postal_code": "73852"
   },
   {
     "code": "6205062024",
     "district_code": "620506",
-    "name": "Hurung Enep"
+    "name": "Hurung Enep",
+    "postal_code": "73852"
   }
 ]

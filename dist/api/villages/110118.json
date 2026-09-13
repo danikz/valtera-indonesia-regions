@@ -2,51 +2,61 @@
   {
     "code": "1101182001",
     "district_code": "110118",
-    "name": "Ladang Rimba"
+    "name": "Ladang Rimba",
+    "postal_code": "23775"
   },
   {
     "code": "1101182002",
     "district_code": "110118",
-    "name": "Gunong Kapho"
+    "name": "Gunong Kapho",
+    "postal_code": "23775"
   },
   {
     "code": "1101182003",
     "district_code": "110118",
-    "name": "Kampong Teungoh"
+    "name": "Kampong Teungoh",
+    "postal_code": "23775"
   },
   {
     "code": "1101182004",
     "district_code": "110118",
-    "name": "Krueng Batee"
+    "name": "Krueng Batee",
+    "postal_code": "23775"
   },
   {
     "code": "1101182005",
     "district_code": "110118",
-    "name": "Pulo Paya"
+    "name": "Pulo Paya",
+    "postal_code": "23775"
   },
   {
     "code": "1101182006",
     "district_code": "110118",
-    "name": "Jambo Papeun"
+    "name": "Jambo Papeun",
+    "postal_code": "23775"
   },
   {
     "code": "1101182007",
     "district_code": "110118",
-    "name": "Cot Bayu"
+    "name": "Cot Bayu",
+    "postal_code": "23775"
   },
   {
     "code": "1101182008",
     "district_code": "110118",
-    "name": "Naca"
+    "name": "Naca",
+    "postal_code": "23775"
   },
   {
     "code": "1101182009",
     "district_code": "110118",
-    "name": "Ie Jeureuneh"
+    "name": "Ie Jeureuneh",
+    "postal_code": "23775"
   },
   {
     "code": "1101182010",
     "district_code": "110118",
-    "name": "Lhok Raya"
+    "name": "Lhok Raya",
+    "postal_code": "23775"
   }
 ]

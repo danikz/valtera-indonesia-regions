@@ -2,31 +2,37 @@
   {
     "code": "9401062001",
     "district_code": "940106",
-    "name": "Unipo"
+    "name": "Unipo",
+    "postal_code": "98841"
   },
   {
     "code": "9401062002",
     "district_code": "940106",
-    "name": "Aibore"
+    "name": "Aibore",
+    "postal_code": "98841"
   },
   {
     "code": "9401062003",
     "district_code": "940106",
-    "name": "Epomani"
+    "name": "Epomani",
+    "postal_code": "98841"
   },
   {
     "code": "9401062004",
     "district_code": "940106",
-    "name": "Tibai"
+    "name": "Tibai",
+    "postal_code": "98841"
   },
   {
     "code": "9401062005",
     "district_code": "940106",
-    "name": "Mabou"
+    "name": "Mabou",
+    "postal_code": "98841"
   },
   {
     "code": "9401062006",
     "district_code": "940106",
-    "name": "Ugida"
+    "name": "Ugida",
+    "postal_code": "98841"
   }
 ]

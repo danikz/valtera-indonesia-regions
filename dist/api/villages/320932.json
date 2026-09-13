@@ -2,36 +2,43 @@
   {
     "code": "3209322001",
     "district_code": "320932",
-    "name": "Tonjong"
+    "name": "Tonjong",
+    "postal_code": "45187"
   },
   {
     "code": "3209322002",
     "district_code": "320932",
-    "name": "Tanjunganom"
+    "name": "Tanjunganom",
+    "postal_code": "45187"
   },
   {
     "code": "3209322003",
     "district_code": "320932",
-    "name": "Cilengkrang Girang"
+    "name": "Cilengkrang Girang",
+    "postal_code": "45187"
   },
   {
     "code": "3209322004",
     "district_code": "320932",
-    "name": "Cilengkrang"
+    "name": "Cilengkrang",
+    "postal_code": "45187"
   },
   {
     "code": "3209322005",
     "district_code": "320932",
-    "name": "Pasaleman"
+    "name": "Pasaleman",
+    "postal_code": "45187"
   },
   {
     "code": "3209322006",
     "district_code": "320932",
-    "name": "Cigobang Wangi"
+    "name": "Cigobang Wangi",
+    "postal_code": "45187"
   },
   {
     "code": "3209322007",
     "district_code": "320932",
-    "name": "Cigobang"
+    "name": "Cigobang",
+    "postal_code": "45187"
   }
 ]

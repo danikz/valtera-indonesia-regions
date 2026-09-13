@@ -2,36 +2,43 @@
   {
     "code": "3504192001",
     "district_code": "350419",
-    "name": "Kresikan"
+    "name": "Kresikan",
+    "postal_code": "66283"
   },
   {
     "code": "3504192002",
     "district_code": "350419",
-    "name": "Jengglungharjo"
+    "name": "Jengglungharjo",
+    "postal_code": "66283"
   },
   {
     "code": "3504192003",
     "district_code": "350419",
-    "name": "Ngrejo"
+    "name": "Ngrejo",
+    "postal_code": "66283"
   },
   {
     "code": "3504192004",
     "district_code": "350419",
-    "name": "Tanggunggunung"
+    "name": "Tanggunggunung",
+    "postal_code": "66283"
   },
   {
     "code": "3504192005",
     "district_code": "350419",
-    "name": "Ngepoh"
+    "name": "Ngepoh",
+    "postal_code": "66283"
   },
   {
     "code": "3504192006",
     "district_code": "350419",
-    "name": "Tenggarejo"
+    "name": "Tenggarejo",
+    "postal_code": "66283"
   },
   {
     "code": "3504192007",
     "district_code": "350419",
-    "name": "Pakisrejo"
+    "name": "Pakisrejo",
+    "postal_code": "66283"
   }
 ]

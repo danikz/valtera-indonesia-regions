@@ -2,51 +2,61 @@
   {
     "code": "9110022001",
     "district_code": "911002",
-    "name": "Bota-Bora"
+    "name": "Bota-Bora",
+    "postal_code": "99372"
   },
   {
     "code": "9110022002",
     "district_code": "911002",
-    "name": "Toganto"
+    "name": "Toganto",
+    "postal_code": "99372"
   },
   {
     "code": "9110022003",
     "district_code": "911002",
-    "name": "Samanente"
+    "name": "Samanente",
+    "postal_code": "99372"
   },
   {
     "code": "9110022004",
     "district_code": "911002",
-    "name": "Kanderjan"
+    "name": "Kanderjan",
+    "postal_code": "99372"
   },
   {
     "code": "9110022005",
     "district_code": "911002",
-    "name": "Omte"
+    "name": "Omte",
+    "postal_code": "99372"
   },
   {
     "code": "9110022006",
     "district_code": "911002",
-    "name": "Safrom Tane"
+    "name": "Safrom Tane",
+    "postal_code": "99372"
   },
   {
     "code": "9110022007",
     "district_code": "911002",
-    "name": "Denender"
+    "name": "Denender",
+    "postal_code": "99372"
   },
   {
     "code": "9110022009",
     "district_code": "911002",
-    "name": "Safron Tane"
+    "name": "Safron Tane",
+    "postal_code": "99372"
   },
   {
     "code": "9110022010",
     "district_code": "911002",
-    "name": "Denander"
+    "name": "Denander",
+    "postal_code": "99372"
   },
   {
     "code": "9110022011",
     "district_code": "911002",
-    "name": "Waaf"
+    "name": "Waaf",
+    "postal_code": "99372"
   }
 ]

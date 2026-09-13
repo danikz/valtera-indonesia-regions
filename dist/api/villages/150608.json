@@ -2,51 +2,61 @@
   {
     "code": "1506081001",
     "district_code": "150608",
-    "name": "Lubuk Kambing"
+    "name": "Lubuk Kambing",
+    "postal_code": "36559"
   },
   {
     "code": "1506082002",
     "district_code": "150608",
-    "name": "Pulaupauh"
+    "name": "Pulaupauh",
+    "postal_code": "36559"
   },
   {
     "code": "1506082003",
     "district_code": "150608",
-    "name": "Rantau Benar"
+    "name": "Rantau Benar",
+    "postal_code": "36559"
   },
   {
     "code": "1506082004",
     "district_code": "150608",
-    "name": "Lampisi"
+    "name": "Lampisi",
+    "postal_code": "36559"
   },
   {
     "code": "1506082005",
     "district_code": "150608",
-    "name": "Cinta Damai"
+    "name": "Cinta Damai",
+    "postal_code": "36559"
   },
   {
     "code": "1506082006",
     "district_code": "150608",
-    "name": "Sungairotan"
+    "name": "Sungairotan",
+    "postal_code": "36559"
   },
   {
     "code": "1506082007",
     "district_code": "150608",
-    "name": "Muaradanau"
+    "name": "Muaradanau",
+    "postal_code": "36559"
   },
   {
     "code": "1506082008",
     "district_code": "150608",
-    "name": "Tanahtumbuh"
+    "name": "Tanahtumbuh",
+    "postal_code": "36559"
   },
   {
     "code": "1506082009",
     "district_code": "150608",
-    "name": "Sungaipaur"
+    "name": "Sungaipaur",
+    "postal_code": "36559"
   },
   {
     "code": "1506082010",
     "district_code": "150608",
-    "name": "Bukitbakar"
+    "name": "Bukitbakar",
+    "postal_code": "36559"
   }
 ]

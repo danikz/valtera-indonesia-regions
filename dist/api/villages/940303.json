@@ -2,46 +2,55 @@
   {
     "code": "9403032001",
     "district_code": "940303",
-    "name": "Toyaimoti"
+    "name": "Toyaimoti",
+    "postal_code": "98731"
   },
   {
     "code": "9403032002",
     "district_code": "940303",
-    "name": "Agapo"
+    "name": "Agapo",
+    "postal_code": "98731"
   },
   {
     "code": "9403032003",
     "district_code": "940303",
-    "name": "Abatadi"
+    "name": "Abatadi",
+    "postal_code": "98731"
   },
   {
     "code": "9403032005",
     "district_code": "940303",
-    "name": "Baguwo"
+    "name": "Baguwo",
+    "postal_code": "98731"
   },
   {
     "code": "9403032006",
     "district_code": "940303",
-    "name": "Makidini"
+    "name": "Makidini",
+    "postal_code": "98731"
   },
   {
     "code": "9403032007",
     "district_code": "940303",
-    "name": "Tagiya"
+    "name": "Tagiya",
+    "postal_code": "98731"
   },
   {
     "code": "9403032008",
     "district_code": "940303",
-    "name": "Emai"
+    "name": "Emai",
+    "postal_code": "98731"
   },
   {
     "code": "9403032009",
     "district_code": "940303",
-    "name": "Dinubutu"
+    "name": "Dinubutu",
+    "postal_code": "98731"
   },
   {
     "code": "9403032013",
     "district_code": "940303",
-    "name": "Duwadide"
+    "name": "Duwadide",
+    "postal_code": "98731"
   }
 ]

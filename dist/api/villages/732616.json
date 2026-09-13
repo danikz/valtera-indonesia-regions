@@ -2,21 +2,25 @@
   {
     "code": "7326162001",
     "district_code": "732616",
-    "name": "Tondon Langi'"
+    "name": "Tondon Langi'",
+    "postal_code": "91857"
   },
   {
     "code": "7326162002",
     "district_code": "732616",
-    "name": "Tondon"
+    "name": "Tondon",
+    "postal_code": "91857"
   },
   {
     "code": "7326162003",
     "district_code": "732616",
-    "name": "Tondon Sibata"
+    "name": "Tondon Sibata",
+    "postal_code": "91857"
   },
   {
     "code": "7326162004",
     "district_code": "732616",
-    "name": "Tondon Matallo"
+    "name": "Tondon Matallo",
+    "postal_code": "91857"
   }
 ]

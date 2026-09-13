@@ -2,66 +2,79 @@
   {
     "code": "1218141012",
     "district_code": "121814",
-    "name": "Melati Kebun"
+    "name": "Melati Kebun",
+    "postal_code": "20986"
   },
   {
     "code": "1218142001",
     "district_code": "121814",
-    "name": "Bengabing"
+    "name": "Bengabing",
+    "postal_code": "20986"
   },
   {
     "code": "1218142002",
     "district_code": "121814",
-    "name": "Bingkat"
+    "name": "Bingkat",
+    "postal_code": "20986"
   },
   {
     "code": "1218142003",
     "district_code": "121814",
-    "name": "Jati Mulyo"
+    "name": "Jati Mulyo",
+    "postal_code": "20986"
   },
   {
     "code": "1218142004",
     "district_code": "121814",
-    "name": "Karang Anyar"
+    "name": "Karang Anyar",
+    "postal_code": "20986"
   },
   {
     "code": "1218142005",
     "district_code": "121814",
-    "name": "Lestari Dadi"
+    "name": "Lestari Dadi",
+    "postal_code": "20986"
   },
   {
     "code": "1218142006",
     "district_code": "121814",
-    "name": "Pegajahan"
+    "name": "Pegajahan",
+    "postal_code": "20986"
   },
   {
     "code": "1218142007",
     "district_code": "121814",
-    "name": "Petuaran Hulu"
+    "name": "Petuaran Hulu",
+    "postal_code": "20986"
   },
   {
     "code": "1218142008",
     "district_code": "121814",
-    "name": "Petuaran Hilir"
+    "name": "Petuaran Hilir",
+    "postal_code": "20986"
   },
   {
     "code": "1218142009",
     "district_code": "121814",
-    "name": "Pondok Tengah"
+    "name": "Pondok Tengah",
+    "postal_code": "20986"
   },
   {
     "code": "1218142010",
     "district_code": "121814",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "20986"
   },
   {
     "code": "1218142011",
     "district_code": "121814",
-    "name": "Tanjung Putus"
+    "name": "Tanjung Putus",
+    "postal_code": "20986"
   },
   {
     "code": "1218142013",
     "district_code": "121814",
-    "name": "Sennah"
+    "name": "Sennah",
+    "postal_code": "20986"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "8106022002",
     "district_code": "810602",
-    "name": "Kawa"
+    "name": "Kawa",
+    "postal_code": "97562"
   },
   {
     "code": "8106022003",
     "district_code": "810602",
-    "name": "Piru"
+    "name": "Piru",
+    "postal_code": "97562"
   },
   {
     "code": "8106022004",
     "district_code": "810602",
-    "name": "Neniari"
+    "name": "Neniari",
+    "postal_code": "97562"
   },
   {
     "code": "8106022005",
     "district_code": "810602",
-    "name": "Morekau"
+    "name": "Morekau",
+    "postal_code": "97562"
   },
   {
     "code": "8106022006",
     "district_code": "810602",
-    "name": "Lumoli"
+    "name": "Lumoli",
+    "postal_code": "97562"
   },
   {
     "code": "8106022007",
     "district_code": "810602",
-    "name": "Eti"
+    "name": "Eti",
+    "postal_code": "97562"
   },
   {
     "code": "8106022008",
     "district_code": "810602",
-    "name": "Kaibobo"
+    "name": "Kaibobo",
+    "postal_code": "97562"
   }
 ]

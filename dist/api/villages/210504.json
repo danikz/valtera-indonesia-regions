@@ -2,36 +2,43 @@
   {
     "code": "2105042001",
     "district_code": "210504",
-    "name": "Kiabu"
+    "name": "Kiabu",
+    "postal_code": "29790"
   },
   {
     "code": "2105042002",
     "district_code": "210504",
-    "name": "Telaga"
+    "name": "Telaga",
+    "postal_code": "29790"
   },
   {
     "code": "2105042003",
     "district_code": "210504",
-    "name": "Mengkait"
+    "name": "Mengkait",
+    "postal_code": "29790"
   },
   {
     "code": "2105042004",
     "district_code": "210504",
-    "name": "Tiangau"
+    "name": "Tiangau",
+    "postal_code": "29790"
   },
   {
     "code": "2105042005",
     "district_code": "210504",
-    "name": "Telaga Kecil"
+    "name": "Telaga Kecil",
+    "postal_code": "29790"
   },
   {
     "code": "2105042006",
     "district_code": "210504",
-    "name": "Lingai"
+    "name": "Lingai",
+    "postal_code": "29790"
   },
   {
     "code": "2105042007",
     "district_code": "210504",
-    "name": "Air Bini"
+    "name": "Air Bini",
+    "postal_code": "29790"
   }
 ]

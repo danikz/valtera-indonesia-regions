@@ -2,46 +2,55 @@
   {
     "code": "1906012001",
     "district_code": "190601",
-    "name": "Lalang Jaya"
+    "name": "Lalang Jaya",
+    "postal_code": "33511"
   },
   {
     "code": "1906012002",
     "district_code": "190601",
-    "name": "Kurnia Jaya"
+    "name": "Kurnia Jaya",
+    "postal_code": "33512"
   },
   {
     "code": "1906012003",
     "district_code": "190601",
-    "name": "Padang"
+    "name": "Padang",
+    "postal_code": "33516"
   },
   {
     "code": "1906012004",
     "district_code": "190601",
-    "name": "Kelubi"
+    "name": "Kelubi",
+    "postal_code": "33517"
   },
   {
     "code": "1906012006",
     "district_code": "190601",
-    "name": "Lalang"
+    "name": "Lalang",
+    "postal_code": "33511"
   },
   {
     "code": "1906012007",
     "district_code": "190601",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "33512"
   },
   {
     "code": "1906012010",
     "district_code": "190601",
-    "name": "Buku Limau"
+    "name": "Buku Limau",
+    "postal_code": "33511"
   },
   {
     "code": "1906012012",
     "district_code": "190601",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "33517"
   },
   {
     "code": "1906012013",
     "district_code": "190601",
-    "name": "Bentaian Jaya"
+    "name": "Bentaian Jaya",
+    "postal_code": "33517"
   }
 ]

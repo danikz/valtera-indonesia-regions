@@ -2,31 +2,37 @@
   {
     "code": "3273161001",
     "district_code": "327316",
-    "name": "Sukapura"
+    "name": "Sukapura",
+    "postal_code": "40285"
   },
   {
     "code": "3273161002",
     "district_code": "327316",
-    "name": "Kebun Jayanti"
+    "name": "Kebun Jayanti",
+    "postal_code": "40281"
   },
   {
     "code": "3273161003",
     "district_code": "327316",
-    "name": "Babakan Surabaya"
+    "name": "Babakan Surabaya",
+    "postal_code": "40281"
   },
   {
     "code": "3273161004",
     "district_code": "327316",
-    "name": "Cicaheum"
+    "name": "Cicaheum",
+    "postal_code": "40282"
   },
   {
     "code": "3273161005",
     "district_code": "327316",
-    "name": "Babakansari"
+    "name": "Babakansari",
+    "postal_code": "40283"
   },
   {
     "code": "3273161006",
     "district_code": "327316",
-    "name": "Kebon Kangkung"
+    "name": "Kebon Kangkung",
+    "postal_code": "40284"
   }
 ]

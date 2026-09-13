@@ -2,36 +2,43 @@
   {
     "code": "5305122001",
     "district_code": "530512",
-    "name": "Mataru Selatan"
+    "name": "Mataru Selatan",
+    "postal_code": "85860"
   },
   {
     "code": "5305122002",
     "district_code": "530512",
-    "name": "Mataru Utara"
+    "name": "Mataru Utara",
+    "postal_code": "85860"
   },
   {
     "code": "5305122003",
     "district_code": "530512",
-    "name": "Lakatuli"
+    "name": "Lakatuli",
+    "postal_code": "85860"
   },
   {
     "code": "5305122004",
     "district_code": "530512",
-    "name": "Mataru Timur"
+    "name": "Mataru Timur",
+    "postal_code": "85860"
   },
   {
     "code": "5305122005",
     "district_code": "530512",
-    "name": "Kamaifui"
+    "name": "Kamaifui",
+    "postal_code": "85860"
   },
   {
     "code": "5305122006",
     "district_code": "530512",
-    "name": "Mataru Barat"
+    "name": "Mataru Barat",
+    "postal_code": "85860"
   },
   {
     "code": "5305122007",
     "district_code": "530512",
-    "name": "Taman Mataru"
+    "name": "Taman Mataru",
+    "postal_code": "85860"
   }
 ]

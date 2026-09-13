@@ -2,36 +2,43 @@
   {
     "code": "7210082001",
     "district_code": "721008",
-    "name": "Tuwa"
+    "name": "Tuwa",
+    "postal_code": "94364"
   },
   {
     "code": "7210082002",
     "district_code": "721008",
-    "name": "Omu"
+    "name": "Omu",
+    "postal_code": "94364"
   },
   {
     "code": "7210082003",
     "district_code": "721008",
-    "name": "Simoro"
+    "name": "Simoro",
+    "postal_code": "94364"
   },
   {
     "code": "7210082004",
     "district_code": "721008",
-    "name": "Pakuli"
+    "name": "Pakuli",
+    "postal_code": "94364"
   },
   {
     "code": "7210082005",
     "district_code": "721008",
-    "name": "Pandere"
+    "name": "Pandere",
+    "postal_code": "94364"
   },
   {
     "code": "7210082006",
     "district_code": "721008",
-    "name": "Kalawara"
+    "name": "Kalawara",
+    "postal_code": "94364"
   },
   {
     "code": "7210082007",
     "district_code": "721008",
-    "name": "Pakuli Utara"
+    "name": "Pakuli Utara",
+    "postal_code": "94364"
   }
 ]

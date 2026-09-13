@@ -2,26 +2,31 @@
   {
     "code": "7604131001",
     "district_code": "760413",
-    "name": "Anreapi"
+    "name": "Anreapi",
+    "postal_code": "91315"
   },
   {
     "code": "7604132002",
     "district_code": "760413",
-    "name": "Duampanua"
+    "name": "Duampanua",
+    "postal_code": "91315"
   },
   {
     "code": "7604132003",
     "district_code": "760413",
-    "name": "Kelapa Dua"
+    "name": "Kelapa Dua",
+    "postal_code": "91315"
   },
   {
     "code": "7604132004",
     "district_code": "760413",
-    "name": "Papandangan"
+    "name": "Papandangan",
+    "postal_code": "91315"
   },
   {
     "code": "7604132005",
     "district_code": "760413",
-    "name": "Kunyi"
+    "name": "Kunyi",
+    "postal_code": "91315"
   }
 ]

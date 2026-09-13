@@ -2,51 +2,61 @@
   {
     "code": "7105012001",
     "district_code": "710501",
-    "name": "Sinisir"
+    "name": "Sinisir",
+    "postal_code": "95958"
   },
   {
     "code": "7105012002",
     "district_code": "710501",
-    "name": "Kakenturan"
+    "name": "Kakenturan",
+    "postal_code": "95958"
   },
   {
     "code": "7105012003",
     "district_code": "710501",
-    "name": "Palelon"
+    "name": "Palelon",
+    "postal_code": "95958"
   },
   {
     "code": "7105012004",
     "district_code": "710501",
-    "name": "Pinasungkulan"
+    "name": "Pinasungkulan",
+    "postal_code": "95958"
   },
   {
     "code": "7105012005",
     "district_code": "710501",
-    "name": "Wulurmaatus"
+    "name": "Wulurmaatus",
+    "postal_code": "95958"
   },
   {
     "code": "7105012006",
     "district_code": "710501",
-    "name": "Makaaruyen"
+    "name": "Makaaruyen",
+    "postal_code": "95958"
   },
   {
     "code": "7105012007",
     "district_code": "710501",
-    "name": "Linelean"
+    "name": "Linelean",
+    "postal_code": "95958"
   },
   {
     "code": "7105012008",
     "district_code": "710501",
-    "name": "Mokobang"
+    "name": "Mokobang",
+    "postal_code": "95958"
   },
   {
     "code": "7105012009",
     "district_code": "710501",
-    "name": "Kakenturan Barat"
+    "name": "Kakenturan Barat",
+    "postal_code": "95958"
   },
   {
     "code": "7105012010",
     "district_code": "710501",
-    "name": "Pinasungkulan Utara"
+    "name": "Pinasungkulan Utara",
+    "postal_code": "95958"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3510102001",
     "district_code": "351010",
-    "name": "Tegalharjo"
+    "name": "Tegalharjo",
+    "postal_code": "68466"
   },
   {
     "code": "3510102002",
     "district_code": "351010",
-    "name": "Sepanjang"
+    "name": "Sepanjang",
+    "postal_code": "68466"
   },
   {
     "code": "3510102003",
     "district_code": "351010",
-    "name": "Karangharjo"
+    "name": "Karangharjo",
+    "postal_code": "68466"
   },
   {
     "code": "3510102004",
     "district_code": "351010",
-    "name": "Tulungrejo"
+    "name": "Tulungrejo",
+    "postal_code": "68466"
   },
   {
     "code": "3510102005",
     "district_code": "351010",
-    "name": "Sumbergondo"
+    "name": "Sumbergondo",
+    "postal_code": "68466"
   },
   {
     "code": "3510102006",
     "district_code": "351010",
-    "name": "Bumiharjo"
+    "name": "Bumiharjo",
+    "postal_code": "68466"
   },
   {
     "code": "3510102007",
     "district_code": "351010",
-    "name": "Margomulyo"
+    "name": "Margomulyo",
+    "postal_code": "68466"
   }
 ]

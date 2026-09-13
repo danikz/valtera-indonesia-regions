@@ -2,36 +2,43 @@
   {
     "code": "2105022002",
     "district_code": "210502",
-    "name": "Tebang"
+    "name": "Tebang",
+    "postal_code": "29796"
   },
   {
     "code": "2105022003",
     "district_code": "210502",
-    "name": "Ladan"
+    "name": "Ladan",
+    "postal_code": "29796"
   },
   {
     "code": "2105022005",
     "district_code": "210502",
-    "name": "Piabung"
+    "name": "Piabung",
+    "postal_code": "29796"
   },
   {
     "code": "2105022006",
     "district_code": "210502",
-    "name": "Langir"
+    "name": "Langir",
+    "postal_code": "29796"
   },
   {
     "code": "2105022007",
     "district_code": "210502",
-    "name": "Candi"
+    "name": "Candi",
+    "postal_code": "29796"
   },
   {
     "code": "2105022008",
     "district_code": "210502",
-    "name": "Putik"
+    "name": "Putik",
+    "postal_code": "29796"
   },
   {
     "code": "2105022015",
     "district_code": "210502",
-    "name": "Belibak"
+    "name": "Belibak",
+    "postal_code": "29796"
   }
 ]

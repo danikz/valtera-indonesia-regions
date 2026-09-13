@@ -2,36 +2,43 @@
   {
     "code": "8203042001",
     "district_code": "820304",
-    "name": "Soa-Sio"
+    "name": "Soa-Sio",
+    "postal_code": "97761"
   },
   {
     "code": "8203042002",
     "district_code": "820304",
-    "name": "Pune"
+    "name": "Pune",
+    "postal_code": "97761"
   },
   {
     "code": "8203042003",
     "district_code": "820304",
-    "name": "Mamuya"
+    "name": "Mamuya",
+    "postal_code": "97761"
   },
   {
     "code": "8203042016",
     "district_code": "820304",
-    "name": "Toweka"
+    "name": "Toweka",
+    "postal_code": "97761"
   },
   {
     "code": "8203042024",
     "district_code": "820304",
-    "name": "Simau"
+    "name": "Simau",
+    "postal_code": "97761"
   },
   {
     "code": "8203042031",
     "district_code": "820304",
-    "name": "Barataku"
+    "name": "Barataku",
+    "postal_code": "97761"
   },
   {
     "code": "8203042032",
     "district_code": "820304",
-    "name": "Towara"
+    "name": "Towara",
+    "postal_code": "97761"
   }
 ]

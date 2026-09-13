@@ -2,51 +2,61 @@
   {
     "code": "7501142001",
     "district_code": "750114",
-    "name": "Paris"
+    "name": "Paris",
+    "postal_code": "96153"
   },
   {
     "code": "7501142002",
     "district_code": "750114",
-    "name": "Helumo"
+    "name": "Helumo",
+    "postal_code": "96150"
   },
   {
     "code": "7501142003",
     "district_code": "750114",
-    "name": "Pilomonu"
+    "name": "Pilomonu",
+    "postal_code": "96155"
   },
   {
     "code": "7501142004",
     "district_code": "750114",
-    "name": "Satria"
+    "name": "Satria",
+    "postal_code": "96156"
   },
   {
     "code": "7501142005",
     "district_code": "750114",
-    "name": "Karyamukti"
+    "name": "Karyamukti",
+    "postal_code": "96152"
   },
   {
     "code": "7501142006",
     "district_code": "750114",
-    "name": "Talumopatu"
+    "name": "Talumopatu",
+    "postal_code": "96159"
   },
   {
     "code": "7501142007",
     "district_code": "750114",
-    "name": "Sidomukti"
+    "name": "Sidomukti",
+    "postal_code": "96157"
   },
   {
     "code": "7501142008",
     "district_code": "750114",
-    "name": "Payu"
+    "name": "Payu",
+    "postal_code": "96154"
   },
   {
     "code": "7501142009",
     "district_code": "750114",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "96158"
   },
   {
     "code": "7501142010",
     "district_code": "750114",
-    "name": "Huyula"
+    "name": "Huyula",
+    "postal_code": "96151"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "7310011001",
     "district_code": "731001",
-    "name": "Sapuka"
+    "name": "Sapuka",
+    "postal_code": "90673"
   },
   {
     "code": "7310012002",
     "district_code": "731001",
-    "name": "Sabaru"
+    "name": "Sabaru",
+    "postal_code": "90673"
   },
   {
     "code": "7310012003",
     "district_code": "731001",
-    "name": "Balo Baloang"
+    "name": "Balo Baloang",
+    "postal_code": "90673"
   },
   {
     "code": "7310012004",
     "district_code": "731001",
-    "name": "Sabalana"
+    "name": "Sabalana",
+    "postal_code": "90673"
   },
   {
     "code": "7310012005",
     "district_code": "731001",
-    "name": "Tampaang"
+    "name": "Tampaang",
+    "postal_code": "90673"
   },
   {
     "code": "7310012006",
     "district_code": "731001",
-    "name": "Sailus"
+    "name": "Sailus",
+    "postal_code": "90673"
   },
   {
     "code": "7310012007",
     "district_code": "731001",
-    "name": "Satanger"
+    "name": "Satanger",
+    "postal_code": "90673"
   },
   {
     "code": "7310012008",
     "district_code": "731001",
-    "name": "Kapoposan Bali"
+    "name": "Kapoposan Bali",
+    "postal_code": "90673"
   },
   {
     "code": "7310012009",
     "district_code": "731001",
-    "name": "Poleonro"
+    "name": "Poleonro",
+    "postal_code": "90673"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "5303011006",
     "district_code": "530301",
-    "name": "Bitefa"
+    "name": "Bitefa",
+    "postal_code": ""
   },
   {
     "code": "5303011020",
     "district_code": "530301",
-    "name": "Oesena"
+    "name": "Oesena",
+    "postal_code": ""
   },
   {
     "code": "5303012005",
     "district_code": "530301",
-    "name": "Bokon"
+    "name": "Bokon",
+    "postal_code": "85654"
   },
   {
     "code": "5303012007",
     "district_code": "530301",
-    "name": "Keanbaun"
+    "name": "Keanbaun",
+    "postal_code": "85654"
   },
   {
     "code": "5303012018",
     "district_code": "530301",
-    "name": "Amol"
+    "name": "Amol",
+    "postal_code": "85654"
   },
   {
     "code": "5303012019",
     "district_code": "530301",
-    "name": "Fatusene"
+    "name": "Fatusene",
+    "postal_code": "85654"
   },
   {
     "code": "5303012021",
     "district_code": "530301",
-    "name": "Jak"
+    "name": "Jak",
+    "postal_code": "85654"
   },
   {
     "code": "5303012022",
     "district_code": "530301",
-    "name": "Tuntun"
+    "name": "Tuntun",
+    "postal_code": "85654"
   },
   {
     "code": "5303012023",
     "district_code": "530301",
-    "name": "Tunoe"
+    "name": "Tunoe",
+    "postal_code": "85654"
   },
   {
     "code": "5303012024",
     "district_code": "530301",
-    "name": "Femnasi"
+    "name": "Femnasi",
+    "postal_code": "85654"
   },
   {
     "code": "5303012025",
     "district_code": "530301",
-    "name": "Taekas"
+    "name": "Taekas",
+    "postal_code": "85654"
   }
 ]

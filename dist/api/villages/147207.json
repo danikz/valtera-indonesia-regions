@@ -2,26 +2,31 @@
   {
     "code": "1472071001",
     "district_code": "147207",
-    "name": "Ratu Sima"
+    "name": "Ratu Sima",
+    "postal_code": "28825"
   },
   {
     "code": "1472071002",
     "district_code": "147207",
-    "name": "Bukit Timah"
+    "name": "Bukit Timah",
+    "postal_code": "28826"
   },
   {
     "code": "1472071003",
     "district_code": "147207",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "28821"
   },
   {
     "code": "1472071004",
     "district_code": "147207",
-    "name": "Bukit Datuk"
+    "name": "Bukit Datuk",
+    "postal_code": "28825"
   },
   {
     "code": "1472071005",
     "district_code": "147207",
-    "name": "Bumi Ayu"
+    "name": "Bumi Ayu",
+    "postal_code": "28813"
   }
 ]

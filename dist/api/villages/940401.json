@@ -2,71 +2,85 @@
   {
     "code": "9404011001",
     "district_code": "940401",
-    "name": "Koperapoka"
+    "name": "Koperapoka",
+    "postal_code": "99952"
   },
   {
     "code": "9404011002",
     "district_code": "940401",
-    "name": "Kwamki"
+    "name": "Kwamki",
+    "postal_code": "99952"
   },
   {
     "code": "9404011003",
     "district_code": "940401",
-    "name": "Timika Jaya"
+    "name": "Timika Jaya",
+    "postal_code": "99962"
   },
   {
     "code": "9404011007",
     "district_code": "940401",
-    "name": "Sempan"
+    "name": "Sempan",
+    "postal_code": "99952"
   },
   {
     "code": "9404011008",
     "district_code": "940401",
-    "name": "Pasar Sentral"
+    "name": "Pasar Sentral",
+    "postal_code": "99962"
   },
   {
     "code": "9404011009",
     "district_code": "940401",
-    "name": "Wanagon"
+    "name": "Wanagon",
+    "postal_code": "99962"
   },
   {
     "code": "9404011010",
     "district_code": "940401",
-    "name": "Kebun Sirih"
+    "name": "Kebun Sirih",
+    "postal_code": "99962"
   },
   {
     "code": "9404011011",
     "district_code": "940401",
-    "name": "Otomona"
+    "name": "Otomona",
+    "postal_code": "99962"
   },
   {
     "code": "9404011012",
     "district_code": "940401",
-    "name": "Perintis"
+    "name": "Perintis",
+    "postal_code": "99962"
   },
   {
     "code": "9404011013",
     "district_code": "940401",
-    "name": "Dingo Narama"
+    "name": "Dingo Narama",
+    "postal_code": "99962"
   },
   {
     "code": "9404011014",
     "district_code": "940401",
-    "name": "Timika Indah"
+    "name": "Timika Indah",
+    "postal_code": "99962"
   },
   {
     "code": "9404012004",
     "district_code": "940401",
-    "name": "Nayaro"
+    "name": "Nayaro",
+    "postal_code": "99962"
   },
   {
     "code": "9404012005",
     "district_code": "940401",
-    "name": "Minabua"
+    "name": "Minabua",
+    "postal_code": "99962"
   },
   {
     "code": "9404012006",
     "district_code": "940401",
-    "name": "Hangaitji"
+    "name": "Hangaitji",
+    "postal_code": "99962"
   }
 ]

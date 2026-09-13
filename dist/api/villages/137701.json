@@ -2,111 +2,133 @@
   {
     "code": "1377011001",
     "district_code": "137701",
-    "name": "Karan Aur"
+    "name": "Karan Aur",
+    "postal_code": "25514"
   },
   {
     "code": "1377011002",
     "district_code": "137701",
-    "name": "Kampung Perak"
+    "name": "Kampung Perak",
+    "postal_code": "25513"
   },
   {
     "code": "1377011003",
     "district_code": "137701",
-    "name": "Lohong"
+    "name": "Lohong",
+    "postal_code": "25513"
   },
   {
     "code": "1377011004",
     "district_code": "137701",
-    "name": "Pasir"
+    "name": "Pasir",
+    "postal_code": "25513"
   },
   {
     "code": "1377011005",
     "district_code": "137701",
-    "name": "Kampung Pondok"
+    "name": "Kampung Pondok",
+    "postal_code": "25512"
   },
   {
     "code": "1377011006",
     "district_code": "137701",
-    "name": "Pondok II"
+    "name": "Pondok II",
+    "postal_code": "25512"
   },
   {
     "code": "1377011007",
     "district_code": "137701",
-    "name": "Kampung Jawa I"
+    "name": "Kampung Jawa I",
+    "postal_code": "25511"
   },
   {
     "code": "1377011008",
     "district_code": "137701",
-    "name": "Kampung Jawa II"
+    "name": "Kampung Jawa II",
+    "postal_code": "25511"
   },
   {
     "code": "1377011009",
     "district_code": "137701",
-    "name": "Alai Gelombang"
+    "name": "Alai Gelombang",
+    "postal_code": "25519"
   },
   {
     "code": "1377011010",
     "district_code": "137701",
-    "name": "Jawi Jawi I"
+    "name": "Jawi Jawi I",
+    "postal_code": "25518"
   },
   {
     "code": "1377011011",
     "district_code": "137701",
-    "name": "Jawi Jawi II"
+    "name": "Jawi Jawi II",
+    "postal_code": "25518"
   },
   {
     "code": "1377011012",
     "district_code": "137701",
-    "name": "Jalan Baru"
+    "name": "Jalan Baru",
+    "postal_code": "25515"
   },
   {
     "code": "1377011013",
     "district_code": "137701",
-    "name": "Taratak"
+    "name": "Taratak",
+    "postal_code": "25517"
   },
   {
     "code": "1377011014",
     "district_code": "137701",
-    "name": "Jalan Kereta Api"
+    "name": "Jalan Kereta Api",
+    "postal_code": "25515"
   },
   {
     "code": "1377011015",
     "district_code": "137701",
-    "name": "Ujung Batung"
+    "name": "Ujung Batung",
+    "postal_code": "25516"
   },
   {
     "code": "1377011016",
     "district_code": "137701",
-    "name": "Jati Hilir"
+    "name": "Jati Hilir",
+    "postal_code": "25519"
   },
   {
     "code": "1377012017",
     "district_code": "137701",
-    "name": "Pauh Barat"
+    "name": "Pauh Barat",
+    "postal_code": "25512"
   },
   {
     "code": "1377012018",
     "district_code": "137701",
-    "name": "Pauh Timur"
+    "name": "Pauh Timur",
+    "postal_code": "25512"
   },
   {
     "code": "1377012019",
     "district_code": "137701",
-    "name": "Rawang"
+    "name": "Rawang",
+    "postal_code": "25511"
   },
   {
     "code": "1377012020",
     "district_code": "137701",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "25514"
   },
   {
     "code": "1377012021",
     "district_code": "137701",
-    "name": "Cimparuh"
+    "name": "Cimparuh",
+    "postal_code": "25511"
   },
   {
     "code": "1377012025",
     "district_code": "137701",
-    "name": "Jati Mudik"
+    "name": "Jati Mudik",
+    "postal_code": "25517"
   }
 ]

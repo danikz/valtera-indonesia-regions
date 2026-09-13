@@ -2,56 +2,67 @@
   {
     "code": "1605131005",
     "district_code": "160513",
-    "name": "Purwodadi"
+    "name": "Purwodadi",
+    "postal_code": "31668"
   },
   {
     "code": "1605131007",
     "district_code": "160513",
-    "name": "Mangun Harjo"
+    "name": "Mangun Harjo",
+    "postal_code": "31668"
   },
   {
     "code": "1605132001",
     "district_code": "160513",
-    "name": "Bangun Sari"
+    "name": "Bangun Sari",
+    "postal_code": "31668"
   },
   {
     "code": "1605132002",
     "district_code": "160513",
-    "name": "Kerto Sari"
+    "name": "Kerto Sari",
+    "postal_code": "31668"
   },
   {
     "code": "1605132003",
     "district_code": "160513",
-    "name": "Pagar Sari"
+    "name": "Pagar Sari",
+    "postal_code": "31668"
   },
   {
     "code": "1605132004",
     "district_code": "160513",
-    "name": "Mardi Harjo"
+    "name": "Mardi Harjo",
+    "postal_code": "31668"
   },
   {
     "code": "1605132006",
     "district_code": "160513",
-    "name": "Karya Dadi"
+    "name": "Karya Dadi",
+    "postal_code": "31668"
   },
   {
     "code": "1605132008",
     "district_code": "160513",
-    "name": "Rejo Sari"
+    "name": "Rejo Sari",
+    "postal_code": "31668"
   },
   {
     "code": "1605132009",
     "district_code": "160513",
-    "name": "Sadar Karya"
+    "name": "Sadar Karya",
+    "postal_code": "31668"
   },
   {
     "code": "1605132010",
     "district_code": "160513",
-    "name": "Purwakarya"
+    "name": "Purwakarya",
+    "postal_code": "31668"
   },
   {
     "code": "1605132011",
     "district_code": "160513",
-    "name": "Tri Karya"
+    "name": "Tri Karya",
+    "postal_code": "31668"
   }
 ]

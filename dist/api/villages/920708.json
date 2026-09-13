@@ -2,46 +2,55 @@
   {
     "code": "9207082001",
     "district_code": "920708",
-    "name": "Rasiei"
+    "name": "Rasiei",
+    "postal_code": "98343"
   },
   {
     "code": "9207082002",
     "district_code": "920708",
-    "name": "Torey"
+    "name": "Torey",
+    "postal_code": "98343"
   },
   {
     "code": "9207082003",
     "district_code": "920708",
-    "name": "Isey"
+    "name": "Isey",
+    "postal_code": "98343"
   },
   {
     "code": "9207082004",
     "district_code": "920708",
-    "name": "Uriemi"
+    "name": "Uriemi",
+    "postal_code": "98343"
   },
   {
     "code": "9207082005",
     "district_code": "920708",
-    "name": "Sasirei"
+    "name": "Sasirei",
+    "postal_code": "98343"
   },
   {
     "code": "9207082006",
     "district_code": "920708",
-    "name": "Tandia"
+    "name": "Tandia",
+    "postal_code": "98343"
   },
   {
     "code": "9207082007",
     "district_code": "920708",
-    "name": "Webi"
+    "name": "Webi",
+    "postal_code": "98343"
   },
   {
     "code": "9207082008",
     "district_code": "920708",
-    "name": "Nggatum"
+    "name": "Nggatum",
+    "postal_code": "98343"
   },
   {
     "code": "9207082009",
     "district_code": "920708",
-    "name": "Senderawoy"
+    "name": "Senderawoy",
+    "postal_code": "98343"
   }
 ]

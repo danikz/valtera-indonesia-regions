@@ -2,36 +2,43 @@
   {
     "code": "1201081002",
     "district_code": "120108",
-    "name": "Sibabangun"
+    "name": "Sibabangun",
+    "postal_code": "22655"
   },
   {
     "code": "1201082005",
     "district_code": "120108",
-    "name": "Mombang Boru"
+    "name": "Mombang Boru",
+    "postal_code": "22655"
   },
   {
     "code": "1201082006",
     "district_code": "120108",
-    "name": "Anggoli"
+    "name": "Anggoli",
+    "postal_code": "22655"
   },
   {
     "code": "1201082007",
     "district_code": "120108",
-    "name": "Muara Sibuntuon"
+    "name": "Muara Sibuntuon",
+    "postal_code": "22655"
   },
   {
     "code": "1201082008",
     "district_code": "120108",
-    "name": "Sibio bio"
+    "name": "Sibio bio",
+    "postal_code": "22655"
   },
   {
     "code": "1201082010",
     "district_code": "120108",
-    "name": "Simanosor"
+    "name": "Simanosor",
+    "postal_code": "22655"
   },
   {
     "code": "1201082011",
     "district_code": "120108",
-    "name": "Hutagur-gur"
+    "name": "Hutagur-gur",
+    "postal_code": "22655"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "3578131001",
     "district_code": "357813",
-    "name": "Alun-alun Contong"
+    "name": "Alun-alun Contong",
+    "postal_code": "60174"
   },
   {
     "code": "3578131002",
     "district_code": "357813",
-    "name": "Bubutan"
+    "name": "Bubutan",
+    "postal_code": "60174"
   },
   {
     "code": "3578131003",
     "district_code": "357813",
-    "name": "Gundih"
+    "name": "Gundih",
+    "postal_code": "60172"
   },
   {
     "code": "3578131004",
     "district_code": "357813",
-    "name": "Jepara"
+    "name": "Jepara",
+    "postal_code": "60171"
   },
   {
     "code": "3578131005",
     "district_code": "357813",
-    "name": "Tembok Dukuh"
+    "name": "Tembok Dukuh",
+    "postal_code": "60173"
   }
 ]

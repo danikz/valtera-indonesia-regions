@@ -2,21 +2,25 @@
   {
     "code": "7601112001",
     "district_code": "760111",
-    "name": "Sarjo"
+    "name": "Sarjo",
+    "postal_code": "91591"
   },
   {
     "code": "7601112002",
     "district_code": "760111",
-    "name": "Maponu"
+    "name": "Maponu",
+    "postal_code": "91591"
   },
   {
     "code": "7601112003",
     "district_code": "760111",
-    "name": "Letawa"
+    "name": "Letawa",
+    "postal_code": "91591"
   },
   {
     "code": "7601112004",
     "district_code": "760111",
-    "name": "Sarude"
+    "name": "Sarude",
+    "postal_code": "91591"
   }
 ]

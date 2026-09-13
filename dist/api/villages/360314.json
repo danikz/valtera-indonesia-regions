@@ -2,51 +2,61 @@
   {
     "code": "3603141001",
     "district_code": "360314",
-    "name": "Kosambi Barat"
+    "name": "Kosambi Barat",
+    "postal_code": "15213"
   },
   {
     "code": "3603141003",
     "district_code": "360314",
-    "name": "Salembaran Jaya"
+    "name": "Salembaran Jaya",
+    "postal_code": "15214"
   },
   {
     "code": "3603141010",
     "district_code": "360314",
-    "name": "Dadap"
+    "name": "Dadap",
+    "postal_code": "15211"
   },
   {
     "code": "3603142002",
     "district_code": "360314",
-    "name": "Kosambi Timur"
+    "name": "Kosambi Timur",
+    "postal_code": "15213"
   },
   {
     "code": "3603142004",
     "district_code": "360314",
-    "name": "Salembaran Jati"
+    "name": "Salembaran Jati",
+    "postal_code": "15214"
   },
   {
     "code": "3603142005",
     "district_code": "360314",
-    "name": "Ranga Rengas"
+    "name": "Ranga Rengas",
+    "postal_code": "15215"
   },
   {
     "code": "3603142006",
     "district_code": "360314",
-    "name": "Rawa Burung"
+    "name": "Rawa Burung",
+    "postal_code": "15215"
   },
   {
     "code": "3603142007",
     "district_code": "360314",
-    "name": "Cengklong"
+    "name": "Cengklong",
+    "postal_code": "15212"
   },
   {
     "code": "3603142008",
     "district_code": "360314",
-    "name": "Belimbing"
+    "name": "Belimbing",
+    "postal_code": "15212"
   },
   {
     "code": "3603142009",
     "district_code": "360314",
-    "name": "Jati Mulya"
+    "name": "Jati Mulya",
+    "postal_code": "15211"
   }
 ]

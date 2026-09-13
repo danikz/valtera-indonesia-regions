@@ -2,31 +2,37 @@
   {
     "code": "7303062001",
     "district_code": "730306",
-    "name": "Bonto Marannu"
+    "name": "Bonto Marannu",
+    "postal_code": "92452"
   },
   {
     "code": "7303062002",
     "district_code": "730306",
-    "name": "Bonto Tangnga"
+    "name": "Bonto Tangnga",
+    "postal_code": "92452"
   },
   {
     "code": "7303062006",
     "district_code": "730306",
-    "name": "Bonto Tallasa"
+    "name": "Bonto Tallasa",
+    "postal_code": "92452"
   },
   {
     "code": "7303062007",
     "district_code": "730306",
-    "name": "Bonto Rannu"
+    "name": "Bonto Rannu",
+    "postal_code": "92452"
   },
   {
     "code": "7303062010",
     "district_code": "730306",
-    "name": "Bonto Daeng"
+    "name": "Bonto Daeng",
+    "postal_code": "92452"
   },
   {
     "code": "7303062011",
     "district_code": "730306",
-    "name": "Bonto Lojong"
+    "name": "Bonto Lojong",
+    "postal_code": "92452"
   }
 ]

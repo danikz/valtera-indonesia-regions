@@ -2,26 +2,31 @@
   {
     "code": "8106062001",
     "district_code": "810606",
-    "name": "Manusa"
+    "name": "Manusa",
+    "postal_code": "97565"
   },
   {
     "code": "8106062002",
     "district_code": "810606",
-    "name": "Rambatu"
+    "name": "Rambatu",
+    "postal_code": "97565"
   },
   {
     "code": "8106062003",
     "district_code": "810606",
-    "name": "Rumberu"
+    "name": "Rumberu",
+    "postal_code": "97565"
   },
   {
     "code": "8106062004",
     "district_code": "810606",
-    "name": "Honitetu"
+    "name": "Honitetu",
+    "postal_code": "97565"
   },
   {
     "code": "8106062005",
     "district_code": "810606",
-    "name": "Hukuanakota"
+    "name": "Hukuanakota",
+    "postal_code": "97565"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "3218012001",
     "district_code": "321801",
-    "name": "Parigi"
+    "name": "Parigi",
+    "postal_code": "46393"
   },
   {
     "code": "3218012002",
     "district_code": "321801",
-    "name": "Karangbenda"
+    "name": "Karangbenda",
+    "postal_code": "46393"
   },
   {
     "code": "3218012003",
     "district_code": "321801",
-    "name": "Ciliang"
+    "name": "Ciliang",
+    "postal_code": "46393"
   },
   {
     "code": "3218012004",
     "district_code": "321801",
-    "name": "Bojong"
+    "name": "Bojong",
+    "postal_code": "46393"
   },
   {
     "code": "3218012005",
     "district_code": "321801",
-    "name": "Cintaratu"
+    "name": "Cintaratu",
+    "postal_code": "46393"
   },
   {
     "code": "3218012006",
     "district_code": "321801",
-    "name": "Selasari"
+    "name": "Selasari",
+    "postal_code": "46393"
   },
   {
     "code": "3218012007",
     "district_code": "321801",
-    "name": "Karangjaladri"
+    "name": "Karangjaladri",
+    "postal_code": "46393"
   },
   {
     "code": "3218012008",
     "district_code": "321801",
-    "name": "Cibenda"
+    "name": "Cibenda",
+    "postal_code": "46393"
   },
   {
     "code": "3218012009",
     "district_code": "321801",
-    "name": "Cintakarya"
+    "name": "Cintakarya",
+    "postal_code": "46393"
   },
   {
     "code": "3218012010",
     "district_code": "321801",
-    "name": "Parakanmanggu"
+    "name": "Parakanmanggu",
+    "postal_code": "46393"
   }
 ]

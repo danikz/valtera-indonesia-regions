@@ -2,51 +2,61 @@
   {
     "code": "9304152001",
     "district_code": "930415",
-    "name": "Kawem"
+    "name": "Kawem",
+    "postal_code": "99772"
   },
   {
     "code": "9304152002",
     "district_code": "930415",
-    "name": "Hahare"
+    "name": "Hahare",
+    "postal_code": "99772"
   },
   {
     "code": "9304152003",
     "district_code": "930415",
-    "name": "Aikut"
+    "name": "Aikut",
+    "postal_code": "99772"
   },
   {
     "code": "9304152004",
     "district_code": "930415",
-    "name": "Sanem"
+    "name": "Sanem",
+    "postal_code": "99772"
   },
   {
     "code": "9304152005",
     "district_code": "930415",
-    "name": "Kaipom"
+    "name": "Kaipom",
+    "postal_code": "99772"
   },
   {
     "code": "9304152006",
     "district_code": "930415",
-    "name": "Airo Sapem"
+    "name": "Airo Sapem",
+    "postal_code": "99772"
   },
   {
     "code": "9304152007",
     "district_code": "930415",
-    "name": "Simipit"
+    "name": "Simipit",
+    "postal_code": "99772"
   },
   {
     "code": "9304152008",
     "district_code": "930415",
-    "name": "Heiyaram"
+    "name": "Heiyaram",
+    "postal_code": "99772"
   },
   {
     "code": "9304152009",
     "district_code": "930415",
-    "name": "Wagasu"
+    "name": "Wagasu",
+    "postal_code": "99772"
   },
   {
     "code": "9304152010",
     "district_code": "930415",
-    "name": "Sasime"
+    "name": "Sasime",
+    "postal_code": "99772"
   }
 ]

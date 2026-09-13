@@ -2,26 +2,31 @@
   {
     "code": "1906052001",
     "district_code": "190605",
-    "name": "Air Kelik"
+    "name": "Air Kelik",
+    "postal_code": "33571"
   },
   {
     "code": "1906052002",
     "district_code": "190605",
-    "name": "Mempaya"
+    "name": "Mempaya",
+    "postal_code": "33515"
   },
   {
     "code": "1906052003",
     "district_code": "190605",
-    "name": "Burong Mandi"
+    "name": "Burong Mandi",
+    "postal_code": "33571"
   },
   {
     "code": "1906052004",
     "district_code": "190605",
-    "name": "Mengkubang"
+    "name": "Mengkubang",
+    "postal_code": "33514"
   },
   {
     "code": "1906052005",
     "district_code": "190605",
-    "name": "Sukamandi"
+    "name": "Sukamandi",
+    "postal_code": "33513"
   }
 ]

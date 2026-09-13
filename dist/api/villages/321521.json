@@ -2,36 +2,43 @@
   {
     "code": "3215212001",
     "district_code": "321521",
-    "name": "Majalaya"
+    "name": "Majalaya",
+    "postal_code": "41370"
   },
   {
     "code": "3215212002",
     "district_code": "321521",
-    "name": "Ciranggon"
+    "name": "Ciranggon",
+    "postal_code": "41370"
   },
   {
     "code": "3215212003",
     "district_code": "321521",
-    "name": "Pasirjengkol"
+    "name": "Pasirjengkol",
+    "postal_code": "41370"
   },
   {
     "code": "3215212005",
     "district_code": "321521",
-    "name": "Sarijaya"
+    "name": "Sarijaya",
+    "postal_code": "41370"
   },
   {
     "code": "3215212006",
     "district_code": "321521",
-    "name": "Pasirmulya"
+    "name": "Pasirmulya",
+    "postal_code": "41370"
   },
   {
     "code": "3215212007",
     "district_code": "321521",
-    "name": "Lemahmulya"
+    "name": "Lemahmulya",
+    "postal_code": "41370"
   },
   {
     "code": "3215212008",
     "district_code": "321521",
-    "name": "Bangle"
+    "name": "Bangle",
+    "postal_code": "41370"
   }
 ]

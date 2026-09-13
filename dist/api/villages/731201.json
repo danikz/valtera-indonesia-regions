@@ -2,66 +2,79 @@
   {
     "code": "7312011001",
     "district_code": "731201",
-    "name": "Labessi"
+    "name": "Labessi",
+    "postal_code": "90862"
   },
   {
     "code": "7312011002",
     "district_code": "731201",
-    "name": "Tettikenrarae"
+    "name": "Tettikenrarae",
+    "postal_code": "90862"
   },
   {
     "code": "7312012003",
     "district_code": "731201",
-    "name": "Gattareng"
+    "name": "Gattareng",
+    "postal_code": "90862"
   },
   {
     "code": "7312012004",
     "district_code": "731201",
-    "name": "Watu"
+    "name": "Watu",
+    "postal_code": "90862"
   },
   {
     "code": "7312012005",
     "district_code": "731201",
-    "name": "Goarie"
+    "name": "Goarie",
+    "postal_code": "90862"
   },
   {
     "code": "7312012006",
     "district_code": "731201",
-    "name": "Barae"
+    "name": "Barae",
+    "postal_code": "90862"
   },
   {
     "code": "7312012007",
     "district_code": "731201",
-    "name": "Marioriaja"
+    "name": "Marioriaja",
+    "postal_code": "90862"
   },
   {
     "code": "7312012008",
     "district_code": "731201",
-    "name": "Marioritengnga"
+    "name": "Marioritengnga",
+    "postal_code": "90862"
   },
   {
     "code": "7312012009",
     "district_code": "731201",
-    "name": "Mariorilau"
+    "name": "Mariorilau",
+    "postal_code": "90862"
   },
   {
     "code": "7312012010",
     "district_code": "731201",
-    "name": "Watu Toa"
+    "name": "Watu Toa",
+    "postal_code": "90862"
   },
   {
     "code": "7312012011",
     "district_code": "731201",
-    "name": "Congko"
+    "name": "Congko",
+    "postal_code": "90862"
   },
   {
     "code": "7312012012",
     "district_code": "731201",
-    "name": "Gattareng Toa"
+    "name": "Gattareng Toa",
+    "postal_code": "90862"
   },
   {
     "code": "7312012013",
     "district_code": "731201",
-    "name": "Soga"
+    "name": "Soga",
+    "postal_code": "90862"
   }
 ]

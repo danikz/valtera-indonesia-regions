@@ -2,71 +2,85 @@
   {
     "code": "1206162001",
     "district_code": "120616",
-    "name": "Simacem"
+    "name": "Simacem",
+    "postal_code": ""
   },
   {
     "code": "1206162002",
     "district_code": "120616",
-    "name": "Kutagugung"
+    "name": "Kutagugung",
+    "postal_code": "22151"
   },
   {
     "code": "1206162003",
     "district_code": "120616",
-    "name": "Kuta Tonggal"
+    "name": "Kuta Tonggal",
+    "postal_code": "22151"
   },
   {
     "code": "1206162004",
     "district_code": "120616",
-    "name": "Naman"
+    "name": "Naman",
+    "postal_code": "22151"
   },
   {
     "code": "1206162005",
     "district_code": "120616",
-    "name": "Sukanalu"
+    "name": "Sukanalu",
+    "postal_code": "22151"
   },
   {
     "code": "1206162006",
     "district_code": "120616",
-    "name": "Kebayaken"
+    "name": "Kebayaken",
+    "postal_code": "22151"
   },
   {
     "code": "1206162007",
     "district_code": "120616",
-    "name": "Kutarayat"
+    "name": "Kutarayat",
+    "postal_code": "22151"
   },
   {
     "code": "1206162008",
     "district_code": "120616",
-    "name": "Bekerah"
+    "name": "Bekerah",
+    "postal_code": ""
   },
   {
     "code": "1206162009",
     "district_code": "120616",
-    "name": "Sukandebi"
+    "name": "Sukandebi",
+    "postal_code": "22151"
   },
   {
     "code": "1206162010",
     "district_code": "120616",
-    "name": "Gung Pinto"
+    "name": "Gung Pinto",
+    "postal_code": "22151"
   },
   {
     "code": "1206162011",
     "district_code": "120616",
-    "name": "Kutambelin"
+    "name": "Kutambelin",
+    "postal_code": "22151"
   },
   {
     "code": "1206162012",
     "district_code": "120616",
-    "name": "Ndeskati"
+    "name": "Ndeskati",
+    "postal_code": "22151"
   },
   {
     "code": "1206162013",
     "district_code": "120616",
-    "name": "Sukatepu"
+    "name": "Sukatepu",
+    "postal_code": "22151"
   },
   {
     "code": "1206162014",
     "district_code": "120616",
-    "name": "Sigarang-garang"
+    "name": "Sigarang-garang",
+    "postal_code": "22151"
   }
 ]

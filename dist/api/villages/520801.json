@@ -2,41 +2,49 @@
   {
     "code": "5208012001",
     "district_code": "520801",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "83350"
   },
   {
     "code": "5208012002",
     "district_code": "520801",
-    "name": "Sokong"
+    "name": "Sokong",
+    "postal_code": "83350"
   },
   {
     "code": "5208012003",
     "district_code": "520801",
-    "name": "Jenggala"
+    "name": "Jenggala",
+    "postal_code": "83350"
   },
   {
     "code": "5208012004",
     "district_code": "520801",
-    "name": "Tegal Maja"
+    "name": "Tegal Maja",
+    "postal_code": "83350"
   },
   {
     "code": "5208012005",
     "district_code": "520801",
-    "name": "Sigar Penjalin"
+    "name": "Sigar Penjalin",
+    "postal_code": "83350"
   },
   {
     "code": "5208012006",
     "district_code": "520801",
-    "name": "Medana"
+    "name": "Medana",
+    "postal_code": "83350"
   },
   {
     "code": "5208012007",
     "district_code": "520801",
-    "name": "Teniga"
+    "name": "Teniga",
+    "postal_code": "83350"
   },
   {
     "code": "5208012008",
     "district_code": "520801",
-    "name": "Sama Guna"
+    "name": "Sama Guna",
+    "postal_code": "83350"
   }
 ]

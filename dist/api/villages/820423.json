@@ -2,41 +2,49 @@
   {
     "code": "8204232001",
     "district_code": "820423",
-    "name": "Awis"
+    "name": "Awis",
+    "postal_code": "97782"
   },
   {
     "code": "8204232002",
     "district_code": "820423",
-    "name": "Dowora"
+    "name": "Dowora",
+    "postal_code": "97782"
   },
   {
     "code": "8204232003",
     "district_code": "820423",
-    "name": "Gane Dalam"
+    "name": "Gane Dalam",
+    "postal_code": "97782"
   },
   {
     "code": "8204232004",
     "district_code": "820423",
-    "name": "Jibubu"
+    "name": "Jibubu",
+    "postal_code": "97782"
   },
   {
     "code": "8204232005",
     "district_code": "820423",
-    "name": "Pasipalele"
+    "name": "Pasipalele",
+    "postal_code": "97782"
   },
   {
     "code": "8204232006",
     "district_code": "820423",
-    "name": "Sekely"
+    "name": "Sekely",
+    "postal_code": "97782"
   },
   {
     "code": "8204232007",
     "district_code": "820423",
-    "name": "Tawa"
+    "name": "Tawa",
+    "postal_code": "97782"
   },
   {
     "code": "8204232008",
     "district_code": "820423",
-    "name": "Yamli"
+    "name": "Yamli",
+    "postal_code": "97782"
   }
 ]

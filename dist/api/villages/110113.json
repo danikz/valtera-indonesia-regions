@@ -2,66 +2,79 @@
   {
     "code": "1101132001",
     "district_code": "110113",
-    "name": "Koto"
+    "name": "Koto",
+    "postal_code": "23770"
   },
   {
     "code": "1101132002",
     "district_code": "110113",
-    "name": "Alur Keujrun"
+    "name": "Alur Keujrun",
+    "postal_code": "23770"
   },
   {
     "code": "1101132003",
     "district_code": "110113",
-    "name": "Jambo Papan"
+    "name": "Jambo Papan",
+    "postal_code": "23770"
   },
   {
     "code": "1101132004",
     "district_code": "110113",
-    "name": "Malaka"
+    "name": "Malaka",
+    "postal_code": "23770"
   },
   {
     "code": "1101132005",
     "district_code": "110113",
-    "name": "Koto Indarung"
+    "name": "Koto Indarung",
+    "postal_code": "23770"
   },
   {
     "code": "1101132006",
     "district_code": "110113",
-    "name": "Siurai-Urai"
+    "name": "Siurai-Urai",
+    "postal_code": "23770"
   },
   {
     "code": "1101132007",
     "district_code": "110113",
-    "name": "Kampung Sawah"
+    "name": "Kampung Sawah",
+    "postal_code": "23770"
   },
   {
     "code": "1101132008",
     "district_code": "110113",
-    "name": "Kampung Padang"
+    "name": "Kampung Padang",
+    "postal_code": "23770"
   },
   {
     "code": "1101132009",
     "district_code": "110113",
-    "name": "Pulo Air"
+    "name": "Pulo Air",
+    "postal_code": "23770"
   },
   {
     "code": "1101132010",
     "district_code": "110113",
-    "name": "Lawe Melang"
+    "name": "Lawe Melang",
+    "postal_code": "23770"
   },
   {
     "code": "1101132011",
     "district_code": "110113",
-    "name": "Mersak"
+    "name": "Mersak",
+    "postal_code": "23770"
   },
   {
     "code": "1101132012",
     "district_code": "110113",
-    "name": "Simpang Dua"
+    "name": "Simpang Dua",
+    "postal_code": "23770"
   },
   {
     "code": "1101132013",
     "district_code": "110113",
-    "name": "Simpang Tiga"
+    "name": "Simpang Tiga",
+    "postal_code": "23770"
   }
 ]

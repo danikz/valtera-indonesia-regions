@@ -2,31 +2,37 @@
   {
     "code": "9204202001",
     "district_code": "920420",
-    "name": "Mugim"
+    "name": "Mugim",
+    "postal_code": ""
   },
   {
     "code": "9204202002",
     "district_code": "920420",
-    "name": "Nusa"
+    "name": "Nusa",
+    "postal_code": ""
   },
   {
     "code": "9204202003",
     "district_code": "920420",
-    "name": "Saga"
+    "name": "Saga",
+    "postal_code": ""
   },
   {
     "code": "9204202004",
     "district_code": "920420",
-    "name": "Puragi"
+    "name": "Puragi",
+    "postal_code": ""
   },
   {
     "code": "9204202005",
     "district_code": "920420",
-    "name": "Tawanggire"
+    "name": "Tawanggire",
+    "postal_code": ""
   },
   {
     "code": "9204202006",
     "district_code": "920420",
-    "name": "Bedare"
+    "name": "Bedare",
+    "postal_code": ""
   }
 ]

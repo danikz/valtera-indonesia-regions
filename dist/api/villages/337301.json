@@ -2,31 +2,37 @@
   {
     "code": "3373011001",
     "district_code": "337301",
-    "name": "Blotongan"
+    "name": "Blotongan",
+    "postal_code": "50715"
   },
   {
     "code": "3373011002",
     "district_code": "337301",
-    "name": "Sidorejo Lor"
+    "name": "Sidorejo Lor",
+    "postal_code": "50714"
   },
   {
     "code": "3373011003",
     "district_code": "337301",
-    "name": "Salatiga"
+    "name": "Salatiga",
+    "postal_code": "50711"
   },
   {
     "code": "3373011004",
     "district_code": "337301",
-    "name": "Bugel"
+    "name": "Bugel",
+    "postal_code": "50713"
   },
   {
     "code": "3373011005",
     "district_code": "337301",
-    "name": "Kauman Kidul"
+    "name": "Kauman Kidul",
+    "postal_code": "50712"
   },
   {
     "code": "3373011006",
     "district_code": "337301",
-    "name": "Pulutan"
+    "name": "Pulutan",
+    "postal_code": "50716"
   }
 ]

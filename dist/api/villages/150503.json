@@ -2,86 +2,103 @@
   {
     "code": "1505031008",
     "district_code": "150503",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "36371"
   },
   {
     "code": "1505032001",
     "district_code": "150503",
-    "name": "Puding"
+    "name": "Puding",
+    "postal_code": "36371"
   },
   {
     "code": "1505032002",
     "district_code": "150503",
-    "name": "Pulau Mentaro"
+    "name": "Pulau Mentaro",
+    "postal_code": "36371"
   },
   {
     "code": "1505032003",
     "district_code": "150503",
-    "name": "Betung"
+    "name": "Betung",
+    "postal_code": "36371"
   },
   {
     "code": "1505032004",
     "district_code": "150503",
-    "name": "Pematang Raman"
+    "name": "Pematang Raman",
+    "postal_code": "36371"
   },
   {
     "code": "1505032005",
     "district_code": "150503",
-    "name": "Sungai Bungur"
+    "name": "Sungai Bungur",
+    "postal_code": "36371"
   },
   {
     "code": "1505032006",
     "district_code": "150503",
-    "name": "Seponjen"
+    "name": "Seponjen",
+    "postal_code": "36371"
   },
   {
     "code": "1505032007",
     "district_code": "150503",
-    "name": "Sogo"
+    "name": "Sogo",
+    "postal_code": "36371"
   },
   {
     "code": "1505032009",
     "district_code": "150503",
-    "name": "Sungai Aur"
+    "name": "Sungai Aur",
+    "postal_code": "36371"
   },
   {
     "code": "1505032010",
     "district_code": "150503",
-    "name": "Jebus"
+    "name": "Jebus",
+    "postal_code": "36371"
   },
   {
     "code": "1505032011",
     "district_code": "150503",
-    "name": "Gedong Karya"
+    "name": "Gedong Karya",
+    "postal_code": "36371"
   },
   {
     "code": "1505032013",
     "district_code": "150503",
-    "name": "Rantau Panjang"
+    "name": "Rantau Panjang",
+    "postal_code": "36371"
   },
   {
     "code": "1505032014",
     "district_code": "150503",
-    "name": "Londerang"
+    "name": "Londerang",
+    "postal_code": "36371"
   },
   {
     "code": "1505032016",
     "district_code": "150503",
-    "name": "Petanang"
+    "name": "Petanang",
+    "postal_code": "36371"
   },
   {
     "code": "1505032017",
     "district_code": "150503",
-    "name": "Mekar Sari"
+    "name": "Mekar Sari",
+    "postal_code": "36371"
   },
   {
     "code": "1505032018",
     "district_code": "150503",
-    "name": "Rondang"
+    "name": "Rondang",
+    "postal_code": "36371"
   },
   {
     "code": "1505032019",
     "district_code": "150503",
-    "name": "Maju Jaya"
+    "name": "Maju Jaya",
+    "postal_code": "36371"
   }
 ]

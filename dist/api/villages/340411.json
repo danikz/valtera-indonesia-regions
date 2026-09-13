@@ -2,26 +2,31 @@
   {
     "code": "3404112001",
     "district_code": "340411",
-    "name": "Sindumartani"
+    "name": "Sindumartani",
+    "postal_code": "55584"
   },
   {
     "code": "3404112002",
     "district_code": "340411",
-    "name": "Bimomartani"
+    "name": "Bimomartani",
+    "postal_code": "55584"
   },
   {
     "code": "3404112003",
     "district_code": "340411",
-    "name": "Widodomartani"
+    "name": "Widodomartani",
+    "postal_code": "55584"
   },
   {
     "code": "3404112004",
     "district_code": "340411",
-    "name": "Wedomartani"
+    "name": "Wedomartani",
+    "postal_code": "55584"
   },
   {
     "code": "3404112005",
     "district_code": "340411",
-    "name": "Umbulmartani"
+    "name": "Umbulmartani",
+    "postal_code": "55584"
   }
 ]

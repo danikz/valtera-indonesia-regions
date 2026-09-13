@@ -2,56 +2,67 @@
   {
     "code": "3201291003",
     "district_code": "320129",
-    "name": "Padasuka"
+    "name": "Padasuka",
+    "postal_code": "16610"
   },
   {
     "code": "3201292001",
     "district_code": "320129",
-    "name": "Mekarjaya"
+    "name": "Mekarjaya",
+    "postal_code": "16610"
   },
   {
     "code": "3201292002",
     "district_code": "320129",
-    "name": "Sukaharja"
+    "name": "Sukaharja",
+    "postal_code": "16610"
   },
   {
     "code": "3201292004",
     "district_code": "320129",
-    "name": "Parakan"
+    "name": "Parakan",
+    "postal_code": "16610"
   },
   {
     "code": "3201292005",
     "district_code": "320129",
-    "name": "Ciomas"
+    "name": "Ciomas",
+    "postal_code": "16610"
   },
   {
     "code": "3201292006",
     "district_code": "320129",
-    "name": "Pagelaran"
+    "name": "Pagelaran",
+    "postal_code": "16610"
   },
   {
     "code": "3201292007",
     "district_code": "320129",
-    "name": "Sukamakmur"
+    "name": "Sukamakmur",
+    "postal_code": "16610"
   },
   {
     "code": "3201292008",
     "district_code": "320129",
-    "name": "Ciapus"
+    "name": "Ciapus",
+    "postal_code": "16610"
   },
   {
     "code": "3201292009",
     "district_code": "320129",
-    "name": "Kota Batu"
+    "name": "Kota Batu",
+    "postal_code": "16610"
   },
   {
     "code": "3201292010",
     "district_code": "320129",
-    "name": "Laladon"
+    "name": "Laladon",
+    "postal_code": "16610"
   },
   {
     "code": "3201292011",
     "district_code": "320129",
-    "name": "Ciomas Rahayu"
+    "name": "Ciomas Rahayu",
+    "postal_code": "16610"
   }
 ]

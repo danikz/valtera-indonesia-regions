@@ -2,36 +2,43 @@
   {
     "code": "3202402001",
     "district_code": "320240",
-    "name": "Gegerbitung"
+    "name": "Gegerbitung",
+    "postal_code": "43197"
   },
   {
     "code": "3202402002",
     "district_code": "320240",
-    "name": "Cijurey"
+    "name": "Cijurey",
+    "postal_code": "43197"
   },
   {
     "code": "3202402003",
     "district_code": "320240",
-    "name": "Ciengang"
+    "name": "Ciengang",
+    "postal_code": "43197"
   },
   {
     "code": "3202402004",
     "district_code": "320240",
-    "name": "Karangjaya"
+    "name": "Karangjaya",
+    "postal_code": "43197"
   },
   {
     "code": "3202402005",
     "district_code": "320240",
-    "name": "Caringin"
+    "name": "Caringin",
+    "postal_code": "43154"
   },
   {
     "code": "3202402006",
     "district_code": "320240",
-    "name": "Sukamanah"
+    "name": "Sukamanah",
+    "postal_code": "43197"
   },
   {
     "code": "3202402007",
     "district_code": "320240",
-    "name": "Buniwangi"
+    "name": "Buniwangi",
+    "postal_code": "43197"
   }
 ]

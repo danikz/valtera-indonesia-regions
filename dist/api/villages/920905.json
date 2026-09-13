@@ -2,51 +2,61 @@
   {
     "code": "9209052001",
     "district_code": "920905",
-    "name": "Sausapor"
+    "name": "Sausapor",
+    "postal_code": ""
   },
   {
     "code": "9209052007",
     "district_code": "920905",
-    "name": "Emaos"
+    "name": "Emaos",
+    "postal_code": ""
   },
   {
     "code": "9209052008",
     "district_code": "920905",
-    "name": "Jokte"
+    "name": "Jokte",
+    "postal_code": ""
   },
   {
     "code": "9209052009",
     "district_code": "920905",
-    "name": "Uigwem"
+    "name": "Uigwem",
+    "postal_code": ""
   },
   {
     "code": "9209052010",
     "district_code": "920905",
-    "name": "Sungguwan"
+    "name": "Sungguwan",
+    "postal_code": ""
   },
   {
     "code": "9209052011",
     "district_code": "920905",
-    "name": "Sau Uram"
+    "name": "Sau Uram",
+    "postal_code": ""
   },
   {
     "code": "9209052012",
     "district_code": "920905",
-    "name": "Nanggou"
+    "name": "Nanggou",
+    "postal_code": ""
   },
   {
     "code": "9209052013",
     "district_code": "920905",
-    "name": "Bondek"
+    "name": "Bondek",
+    "postal_code": ""
   },
   {
     "code": "9209052018",
     "district_code": "920905",
-    "name": "Bondonggwan"
+    "name": "Bondonggwan",
+    "postal_code": ""
   },
   {
     "code": "9209052019",
     "district_code": "920905",
-    "name": "Syurauw"
+    "name": "Syurauw",
+    "postal_code": ""
   }
 ]

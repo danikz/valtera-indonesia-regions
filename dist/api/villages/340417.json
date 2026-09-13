@@ -2,26 +2,31 @@
   {
     "code": "3404172001",
     "district_code": "340417",
-    "name": "Argomulyo"
+    "name": "Argomulyo",
+    "postal_code": "55583"
   },
   {
     "code": "3404172002",
     "district_code": "340417",
-    "name": "Wukirsari"
+    "name": "Wukirsari",
+    "postal_code": "55583"
   },
   {
     "code": "3404172003",
     "district_code": "340417",
-    "name": "Glagaharjo"
+    "name": "Glagaharjo",
+    "postal_code": "55583"
   },
   {
     "code": "3404172004",
     "district_code": "340417",
-    "name": "Kepuharjo"
+    "name": "Kepuharjo",
+    "postal_code": "55583"
   },
   {
     "code": "3404172005",
     "district_code": "340417",
-    "name": "Umbulharjo"
+    "name": "Umbulharjo",
+    "postal_code": "55583"
   }
 ]

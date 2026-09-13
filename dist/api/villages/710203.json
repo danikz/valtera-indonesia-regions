@@ -2,41 +2,49 @@
   {
     "code": "7102032001",
     "district_code": "710203",
-    "name": "Telap"
+    "name": "Telap",
+    "postal_code": "95683"
   },
   {
     "code": "7102032002",
     "district_code": "710203",
-    "name": "Watumea"
+    "name": "Watumea",
+    "postal_code": "95683"
   },
   {
     "code": "7102032003",
     "district_code": "710203",
-    "name": "Eris"
+    "name": "Eris",
+    "postal_code": "95683"
   },
   {
     "code": "7102032004",
     "district_code": "710203",
-    "name": "Maumbi"
+    "name": "Maumbi",
+    "postal_code": "95683"
   },
   {
     "code": "7102032005",
     "district_code": "710203",
-    "name": "Tandengan"
+    "name": "Tandengan",
+    "postal_code": "95683"
   },
   {
     "code": "7102032006",
     "district_code": "710203",
-    "name": "Ranomerut"
+    "name": "Ranomerut",
+    "postal_code": "95683"
   },
   {
     "code": "7102032007",
     "district_code": "710203",
-    "name": "Touliang Oki"
+    "name": "Touliang Oki",
+    "postal_code": "95683"
   },
   {
     "code": "7102032008",
     "district_code": "710203",
-    "name": "Tandengan Satu"
+    "name": "Tandengan Satu",
+    "postal_code": "95683"
   }
 ]

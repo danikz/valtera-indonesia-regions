@@ -2,86 +2,103 @@
   {
     "code": "9504202001",
     "district_code": "950420",
-    "name": "Wamolo"
+    "name": "Wamolo",
+    "postal_code": "99055"
   },
   {
     "code": "9504202002",
     "district_code": "950420",
-    "name": "Woraga"
+    "name": "Woraga",
+    "postal_code": "99055"
   },
   {
     "code": "9504202003",
     "district_code": "950420",
-    "name": "Kalarin"
+    "name": "Kalarin",
+    "postal_code": "99055"
   },
   {
     "code": "9504202004",
     "district_code": "950420",
-    "name": "Gubuk"
+    "name": "Gubuk",
+    "postal_code": "99055"
   },
   {
     "code": "9504202005",
     "district_code": "950420",
-    "name": "Umar"
+    "name": "Umar",
+    "postal_code": "99055"
   },
   {
     "code": "9504202006",
     "district_code": "950420",
-    "name": "Wobe"
+    "name": "Wobe",
+    "postal_code": "99432"
   },
   {
     "code": "9504202007",
     "district_code": "950420",
-    "name": "Gingga"
+    "name": "Gingga",
+    "postal_code": "99055"
   },
   {
     "code": "9504202008",
     "district_code": "950420",
-    "name": "Punggelak"
+    "name": "Punggelak",
+    "postal_code": "99055"
   },
   {
     "code": "9504202009",
     "district_code": "950420",
-    "name": "Kurik"
+    "name": "Kurik",
+    "postal_code": "99055"
   },
   {
     "code": "9504202010",
     "district_code": "950420",
-    "name": "Gumbini"
+    "name": "Gumbini",
+    "postal_code": "99055"
   },
   {
     "code": "9504202011",
     "district_code": "950420",
-    "name": "Muruneri"
+    "name": "Muruneri",
+    "postal_code": "99055"
   },
   {
     "code": "9504202012",
     "district_code": "950420",
-    "name": "Nangga"
+    "name": "Nangga",
+    "postal_code": "99055"
   },
   {
     "code": "9504202013",
     "district_code": "950420",
-    "name": "Enggawogo"
+    "name": "Enggawogo",
+    "postal_code": "99055"
   },
   {
     "code": "9504202014",
     "district_code": "950420",
-    "name": "Wamili"
+    "name": "Wamili",
+    "postal_code": "99055"
   },
   {
     "code": "9504202015",
     "district_code": "950420",
-    "name": "Oker"
+    "name": "Oker",
+    "postal_code": "99432"
   },
   {
     "code": "9504202016",
     "district_code": "950420",
-    "name": "Winengga"
+    "name": "Winengga",
+    "postal_code": "99055"
   },
   {
     "code": "9504202017",
     "district_code": "950420",
-    "name": "Aworera"
+    "name": "Aworera",
+    "postal_code": "99055"
   }
 ]

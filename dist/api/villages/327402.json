@@ -2,21 +2,25 @@
   {
     "code": "3274021001",
     "district_code": "327402",
-    "name": "Pegambiran"
+    "name": "Pegambiran",
+    "postal_code": "45113"
   },
   {
     "code": "3274021002",
     "district_code": "327402",
-    "name": "Lemahwungkuk"
+    "name": "Lemahwungkuk",
+    "postal_code": "45111"
   },
   {
     "code": "3274021003",
     "district_code": "327402",
-    "name": "Kesepuhan"
+    "name": "Kesepuhan",
+    "postal_code": "45114"
   },
   {
     "code": "3274021004",
     "district_code": "327402",
-    "name": "Panjunan"
+    "name": "Panjunan",
+    "postal_code": "45112"
   }
 ]

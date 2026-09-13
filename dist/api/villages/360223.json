@@ -2,51 +2,61 @@
   {
     "code": "3602232001",
     "district_code": "360223",
-    "name": "Guradog"
+    "name": "Guradog",
+    "postal_code": "42381"
   },
   {
     "code": "3602232002",
     "district_code": "360223",
-    "name": "Curugbitung"
+    "name": "Curugbitung",
+    "postal_code": "42381"
   },
   {
     "code": "3602232003",
     "district_code": "360223",
-    "name": "Candi"
+    "name": "Candi",
+    "postal_code": "42381"
   },
   {
     "code": "3602232004",
     "district_code": "360223",
-    "name": "Mayak"
+    "name": "Mayak",
+    "postal_code": "42381"
   },
   {
     "code": "3602232005",
     "district_code": "360223",
-    "name": "Cipining"
+    "name": "Cipining",
+    "postal_code": "42381"
   },
   {
     "code": "3602232006",
     "district_code": "360223",
-    "name": "Cilayang"
+    "name": "Cilayang",
+    "postal_code": "42381"
   },
   {
     "code": "3602232007",
     "district_code": "360223",
-    "name": "Ciburuy"
+    "name": "Ciburuy",
+    "postal_code": "42381"
   },
   {
     "code": "3602232008",
     "district_code": "360223",
-    "name": "Sekarwangi"
+    "name": "Sekarwangi",
+    "postal_code": "42381"
   },
   {
     "code": "3602232009",
     "district_code": "360223",
-    "name": "Cidadap"
+    "name": "Cidadap",
+    "postal_code": "42381"
   },
   {
     "code": "3602232010",
     "district_code": "360223",
-    "name": "Lebakasih"
+    "name": "Lebakasih",
+    "postal_code": "42381"
   }
 ]

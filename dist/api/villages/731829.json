@@ -2,41 +2,49 @@
   {
     "code": "7318291001",
     "district_code": "731829",
-    "name": "Tiromanda"
+    "name": "Tiromanda",
+    "postal_code": "91815"
   },
   {
     "code": "7318291002",
     "district_code": "731829",
-    "name": "Sandabilik"
+    "name": "Sandabilik",
+    "postal_code": "91815"
   },
   {
     "code": "7318291003",
     "district_code": "731829",
-    "name": "Tosapan"
+    "name": "Tosapan",
+    "postal_code": "91815"
   },
   {
     "code": "7318291004",
     "district_code": "731829",
-    "name": "Pasang"
+    "name": "Pasang",
+    "postal_code": "91815"
   },
   {
     "code": "7318292005",
     "district_code": "731829",
-    "name": "Randan Batu"
+    "name": "Randan Batu",
+    "postal_code": "91815"
   },
   {
     "code": "7318292006",
     "district_code": "731829",
-    "name": "Patekke"
+    "name": "Patekke",
+    "postal_code": "91815"
   },
   {
     "code": "7318292007",
     "district_code": "731829",
-    "name": "Pa'buaran"
+    "name": "Pa'buaran",
+    "postal_code": "91815"
   },
   {
     "code": "7318292008",
     "district_code": "731829",
-    "name": "Bo'ne Buntu Sisong"
+    "name": "Bo'ne Buntu Sisong",
+    "postal_code": "91815"
   }
 ]

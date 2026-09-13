@@ -2,51 +2,61 @@
   {
     "code": "3322081006",
     "district_code": "332208",
-    "name": "Gondoriyo"
+    "name": "Gondoriyo",
+    "postal_code": "50663"
   },
   {
     "code": "3322082001",
     "district_code": "332208",
-    "name": "Gemawang"
+    "name": "Gemawang",
+    "postal_code": "50663"
   },
   {
     "code": "3322082002",
     "district_code": "332208",
-    "name": "Bedono"
+    "name": "Bedono",
+    "postal_code": "50663"
   },
   {
     "code": "3322082003",
     "district_code": "332208",
-    "name": "Kelurahan"
+    "name": "Kelurahan",
+    "postal_code": "50663"
   },
   {
     "code": "3322082004",
     "district_code": "332208",
-    "name": "Brongkol"
+    "name": "Brongkol",
+    "postal_code": "50663"
   },
   {
     "code": "3322082005",
     "district_code": "332208",
-    "name": "Jambu"
+    "name": "Jambu",
+    "postal_code": "50663"
   },
   {
     "code": "3322082007",
     "district_code": "332208",
-    "name": "Kuwarasan"
+    "name": "Kuwarasan",
+    "postal_code": "50663"
   },
   {
     "code": "3322082008",
     "district_code": "332208",
-    "name": "Kebondalem"
+    "name": "Kebondalem",
+    "postal_code": "50663"
   },
   {
     "code": "3322082009",
     "district_code": "332208",
-    "name": "Rejosari"
+    "name": "Rejosari",
+    "postal_code": "50663"
   },
   {
     "code": "3322082010",
     "district_code": "332208",
-    "name": "Genting"
+    "name": "Genting",
+    "postal_code": "50271"
   }
 ]

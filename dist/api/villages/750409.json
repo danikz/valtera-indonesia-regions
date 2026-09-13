@@ -2,36 +2,43 @@
   {
     "code": "7504092001",
     "district_code": "750409",
-    "name": "Hulawa"
+    "name": "Hulawa",
+    "postal_code": "96363"
   },
   {
     "code": "7504092002",
     "district_code": "750409",
-    "name": "Karya Indah"
+    "name": "Karya Indah",
+    "postal_code": "96363"
   },
   {
     "code": "7504092003",
     "district_code": "750409",
-    "name": "Taluduyunu"
+    "name": "Taluduyunu",
+    "postal_code": "96363"
   },
   {
     "code": "7504092004",
     "district_code": "750409",
-    "name": "Buntulia Utara"
+    "name": "Buntulia Utara",
+    "postal_code": "96363"
   },
   {
     "code": "7504092005",
     "district_code": "750409",
-    "name": "Buntulia Tengah"
+    "name": "Buntulia Tengah",
+    "postal_code": "96363"
   },
   {
     "code": "7504092006",
     "district_code": "750409",
-    "name": "Taluduyunu Utara"
+    "name": "Taluduyunu Utara",
+    "postal_code": "96363"
   },
   {
     "code": "7504092007",
     "district_code": "750409",
-    "name": "Sipatana"
+    "name": "Sipatana",
+    "postal_code": "96363"
   }
 ]

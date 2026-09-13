@@ -2,31 +2,37 @@
   {
     "code": "6271041001",
     "district_code": "627104",
-    "name": "Bereng Bengkel"
+    "name": "Bereng Bengkel",
+    "postal_code": "73114"
   },
   {
     "code": "6271041002",
     "district_code": "627104",
-    "name": "Kalampangan"
+    "name": "Kalampangan",
+    "postal_code": "73114"
   },
   {
     "code": "6271041003",
     "district_code": "627104",
-    "name": "Kereng Bangkirai"
+    "name": "Kereng Bangkirai",
+    "postal_code": "73113"
   },
   {
     "code": "6271041004",
     "district_code": "627104",
-    "name": "Kameloh Baru"
+    "name": "Kameloh Baru",
+    "postal_code": "73114"
   },
   {
     "code": "6271041005",
     "district_code": "627104",
-    "name": "Danau Tundai"
+    "name": "Danau Tundai",
+    "postal_code": "73114"
   },
   {
     "code": "6271041006",
     "district_code": "627104",
-    "name": "Sabaru"
+    "name": "Sabaru",
+    "postal_code": "73113"
   }
 ]

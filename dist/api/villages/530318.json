@@ -2,21 +2,25 @@
   {
     "code": "5303182001",
     "district_code": "530318",
-    "name": "Manamas"
+    "name": "Manamas",
+    "postal_code": "85655"
   },
   {
     "code": "5303182002",
     "district_code": "530318",
-    "name": "Benus"
+    "name": "Benus",
+    "postal_code": "85655"
   },
   {
     "code": "5303182003",
     "district_code": "530318",
-    "name": "Bakitolas"
+    "name": "Bakitolas",
+    "postal_code": "85655"
   },
   {
     "code": "5303182004",
     "district_code": "530318",
-    "name": "Sunsea"
+    "name": "Sunsea",
+    "postal_code": "85655"
   }
 ]

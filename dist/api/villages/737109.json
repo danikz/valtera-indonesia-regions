@@ -2,56 +2,67 @@
   {
     "code": "7371091001",
     "district_code": "737109",
-    "name": "Karuwisi"
+    "name": "Karuwisi",
+    "postal_code": "90232"
   },
   {
     "code": "7371091002",
     "district_code": "737109",
-    "name": "Panaikang"
+    "name": "Panaikang",
+    "postal_code": "90231"
   },
   {
     "code": "7371091003",
     "district_code": "737109",
-    "name": "Tello Baru"
+    "name": "Tello Baru",
+    "postal_code": "90233"
   },
   {
     "code": "7371091004",
     "district_code": "737109",
-    "name": "Pampang"
+    "name": "Pampang",
+    "postal_code": "90231"
   },
   {
     "code": "7371091005",
     "district_code": "737109",
-    "name": "Karampuang"
+    "name": "Karampuang",
+    "postal_code": "90231"
   },
   {
     "code": "7371091006",
     "district_code": "737109",
-    "name": "Tamamaung"
+    "name": "Tamamaung",
+    "postal_code": "90231"
   },
   {
     "code": "7371091007",
     "district_code": "737109",
-    "name": "Masale"
+    "name": "Masale",
+    "postal_code": "90231"
   },
   {
     "code": "7371091008",
     "district_code": "737109",
-    "name": "Pandang"
+    "name": "Pandang",
+    "postal_code": "90231"
   },
   {
     "code": "7371091009",
     "district_code": "737109",
-    "name": "Karuwisi Utara"
+    "name": "Karuwisi Utara",
+    "postal_code": "90232"
   },
   {
     "code": "7371091010",
     "district_code": "737109",
-    "name": "Sinrijala"
+    "name": "Sinrijala",
+    "postal_code": "90231"
   },
   {
     "code": "7371091011",
     "district_code": "737109",
-    "name": "Paropo"
+    "name": "Paropo",
+    "postal_code": "90233"
   }
 ]

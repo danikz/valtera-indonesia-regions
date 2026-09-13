@@ -2,41 +2,49 @@
   {
     "code": "9501082001",
     "district_code": "950108",
-    "name": "Wolo"
+    "name": "Wolo",
+    "postal_code": "99548"
   },
   {
     "code": "9501082002",
     "district_code": "950108",
-    "name": "Kukurima"
+    "name": "Kukurima",
+    "postal_code": "99523"
   },
   {
     "code": "9501082003",
     "district_code": "950108",
-    "name": "Pirambot"
+    "name": "Pirambot",
+    "postal_code": "99523"
   },
   {
     "code": "9501082004",
     "district_code": "950108",
-    "name": "Tegabaga"
+    "name": "Tegabaga",
+    "postal_code": "99523"
   },
   {
     "code": "9501082005",
     "district_code": "950108",
-    "name": "Wollo Timur"
+    "name": "Wollo Timur",
+    "postal_code": "99523"
   },
   {
     "code": "9501082006",
     "district_code": "950108",
-    "name": "Alugi"
+    "name": "Alugi",
+    "postal_code": "99523"
   },
   {
     "code": "9501082007",
     "district_code": "950108",
-    "name": "Wunan"
+    "name": "Wunan",
+    "postal_code": "99523"
   },
   {
     "code": "9501082008",
     "district_code": "950108",
-    "name": "Wodloma"
+    "name": "Wodloma",
+    "postal_code": "99548"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "9209022001",
     "district_code": "920902",
-    "name": "Siakwa"
+    "name": "Siakwa",
+    "postal_code": ""
   },
   {
     "code": "9209022002",
     "district_code": "920902",
-    "name": "Ruvewes"
+    "name": "Ruvewes",
+    "postal_code": ""
   },
   {
     "code": "9209022005",
     "district_code": "920902",
-    "name": "Yabuow"
+    "name": "Yabuow",
+    "postal_code": ""
   },
   {
     "code": "9209022006",
     "district_code": "920902",
-    "name": "Aibogiar"
+    "name": "Aibogiar",
+    "postal_code": ""
   },
   {
     "code": "9209022008",
     "district_code": "920902",
-    "name": "Ayae"
+    "name": "Ayae",
+    "postal_code": ""
   },
   {
     "code": "9209022011",
     "district_code": "920902",
-    "name": "Hobiah"
+    "name": "Hobiah",
+    "postal_code": ""
   },
   {
     "code": "9209022013",
     "district_code": "920902",
-    "name": "Ayawit"
+    "name": "Ayawit",
+    "postal_code": ""
   },
   {
     "code": "9209022014",
     "district_code": "920902",
-    "name": "Aifair"
+    "name": "Aifair",
+    "postal_code": ""
   }
 ]

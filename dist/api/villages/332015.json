@@ -2,41 +2,49 @@
   {
     "code": "3320152001",
     "district_code": "332015",
-    "name": "Lebak"
+    "name": "Lebak",
+    "postal_code": "59450"
   },
   {
     "code": "3320152002",
     "district_code": "332015",
-    "name": "Bulungan"
+    "name": "Bulungan",
+    "postal_code": "59450"
   },
   {
     "code": "3320152003",
     "district_code": "332015",
-    "name": "Suwawal Timur"
+    "name": "Suwawal Timur",
+    "postal_code": "59450"
   },
   {
     "code": "3320152004",
     "district_code": "332015",
-    "name": "Kawak"
+    "name": "Kawak",
+    "postal_code": "59450"
   },
   {
     "code": "3320152005",
     "district_code": "332015",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "59450"
   },
   {
     "code": "3320152006",
     "district_code": "332015",
-    "name": "Plajan"
+    "name": "Plajan",
+    "postal_code": "59450"
   },
   {
     "code": "3320152007",
     "district_code": "332015",
-    "name": "Slagi"
+    "name": "Slagi",
+    "postal_code": "59450"
   },
   {
     "code": "3320152008",
     "district_code": "332015",
-    "name": "Mambak"
+    "name": "Mambak",
+    "postal_code": "59450"
   }
 ]

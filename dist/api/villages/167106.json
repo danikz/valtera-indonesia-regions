@@ -2,31 +2,37 @@
   {
     "code": "1671061005",
     "district_code": "167106",
-    "name": "5 Ilir"
+    "name": "5 Ilir",
+    "postal_code": "30115"
   },
   {
     "code": "1671061006",
     "district_code": "167106",
-    "name": "3 Ilir"
+    "name": "3 Ilir",
+    "postal_code": "30116"
   },
   {
     "code": "1671061007",
     "district_code": "167106",
-    "name": "1 Ilir"
+    "name": "1 Ilir",
+    "postal_code": "30117"
   },
   {
     "code": "1671061008",
     "district_code": "167106",
-    "name": "2 Ilir"
+    "name": "2 Ilir",
+    "postal_code": "30118"
   },
   {
     "code": "1671061009",
     "district_code": "167106",
-    "name": "Lawang Kidul"
+    "name": "Lawang Kidul",
+    "postal_code": "30111"
   },
   {
     "code": "1671061012",
     "district_code": "167106",
-    "name": "Sei Buah"
+    "name": "Sei Buah",
+    "postal_code": "30111"
   }
 ]

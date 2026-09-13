@@ -2,21 +2,25 @@
   {
     "code": "9211062001",
     "district_code": "921106",
-    "name": "Yarmatum"
+    "name": "Yarmatum",
+    "postal_code": "98325"
   },
   {
     "code": "9211062002",
     "district_code": "921106",
-    "name": "Reyob"
+    "name": "Reyob",
+    "postal_code": "98325"
   },
   {
     "code": "9211062003",
     "district_code": "921106",
-    "name": "Kaprus"
+    "name": "Kaprus",
+    "postal_code": "98325"
   },
   {
     "code": "9211062004",
     "district_code": "921106",
-    "name": "Seimeba"
+    "name": "Seimeba",
+    "postal_code": "98325"
   }
 ]

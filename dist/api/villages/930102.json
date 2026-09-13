@@ -2,61 +2,73 @@
   {
     "code": "9301022001",
     "district_code": "930102",
-    "name": "Muting"
+    "name": "Muting",
+    "postal_code": "99634"
   },
   {
     "code": "9301022002",
     "district_code": "930102",
-    "name": "Boha"
+    "name": "Boha",
+    "postal_code": "99634"
   },
   {
     "code": "9301022003",
     "district_code": "930102",
-    "name": "Wan"
+    "name": "Wan",
+    "postal_code": "99634"
   },
   {
     "code": "9301022004",
     "district_code": "930102",
-    "name": "Kolam"
+    "name": "Kolam",
+    "postal_code": "99634"
   },
   {
     "code": "9301022005",
     "district_code": "930102",
-    "name": "Selauw"
+    "name": "Selauw",
+    "postal_code": "99634"
   },
   {
     "code": "9301022006",
     "district_code": "930102",
-    "name": "Pachas"
+    "name": "Pachas",
+    "postal_code": "99634"
   },
   {
     "code": "9301022007",
     "district_code": "930102",
-    "name": "Seed Agung"
+    "name": "Seed Agung",
+    "postal_code": "99634"
   },
   {
     "code": "9301022008",
     "district_code": "930102",
-    "name": "Enggol Jaya"
+    "name": "Enggol Jaya",
+    "postal_code": "99634"
   },
   {
     "code": "9301022009",
     "district_code": "930102",
-    "name": "Manway Bop"
+    "name": "Manway Bop",
+    "postal_code": "99634"
   },
   {
     "code": "9301022010",
     "district_code": "930102",
-    "name": "Afkab Makmur"
+    "name": "Afkab Makmur",
+    "postal_code": "99634"
   },
   {
     "code": "9301022011",
     "district_code": "930102",
-    "name": "Sigabel Jaya"
+    "name": "Sigabel Jaya",
+    "postal_code": "99634"
   },
   {
     "code": "9301022012",
     "district_code": "930102",
-    "name": "Andaito"
+    "name": "Andaito",
+    "postal_code": "99634"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3276031001",
     "district_code": "327603",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "16519"
   },
   {
     "code": "3276031002",
     "district_code": "327603",
-    "name": "Bedahan"
+    "name": "Bedahan",
+    "postal_code": "16519"
   },
   {
     "code": "3276031003",
     "district_code": "327603",
-    "name": "Pengasinan"
+    "name": "Pengasinan",
+    "postal_code": "16518"
   },
   {
     "code": "3276031009",
     "district_code": "327603",
-    "name": "Cinangka"
+    "name": "Cinangka",
+    "postal_code": "16516"
   },
   {
     "code": "3276031010",
     "district_code": "327603",
-    "name": "Sawangan"
+    "name": "Sawangan",
+    "postal_code": "16511"
   },
   {
     "code": "3276031011",
     "district_code": "327603",
-    "name": "Sawangan Baru"
+    "name": "Sawangan Baru",
+    "postal_code": "16511"
   },
   {
     "code": "3276031012",
     "district_code": "327603",
-    "name": "Kedaung"
+    "name": "Kedaung",
+    "postal_code": "16516"
   }
 ]

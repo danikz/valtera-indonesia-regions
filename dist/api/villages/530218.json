@@ -2,36 +2,43 @@
   {
     "code": "5302182001",
     "district_code": "530218",
-    "name": "Neke"
+    "name": "Neke",
+    "postal_code": "85583"
   },
   {
     "code": "5302182002",
     "district_code": "530218",
-    "name": "Pene Utara"
+    "name": "Pene Utara",
+    "postal_code": "85583"
   },
   {
     "code": "5302182003",
     "district_code": "530218",
-    "name": "Noenoni"
+    "name": "Noenoni",
+    "postal_code": "85583"
   },
   {
     "code": "5302182004",
     "district_code": "530218",
-    "name": "Hoi"
+    "name": "Hoi",
+    "postal_code": "85583"
   },
   {
     "code": "5302182005",
     "district_code": "530218",
-    "name": "Niki Niki Un"
+    "name": "Niki Niki Un",
+    "postal_code": "85583"
   },
   {
     "code": "5302182006",
     "district_code": "530218",
-    "name": "Oenino"
+    "name": "Oenino",
+    "postal_code": "85583"
   },
   {
     "code": "5302182007",
     "district_code": "530218",
-    "name": "Abi"
+    "name": "Abi",
+    "postal_code": "85583"
   }
 ]

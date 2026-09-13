@@ -2,56 +2,67 @@
   {
     "code": "3305201002",
     "district_code": "330520",
-    "name": "Panjatan"
+    "name": "Panjatan",
+    "postal_code": "54364"
   },
   {
     "code": "3305201003",
     "district_code": "330520",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "54364"
   },
   {
     "code": "3305201004",
     "district_code": "330520",
-    "name": "Jatiluhur"
+    "name": "Jatiluhur",
+    "postal_code": "54364"
   },
   {
     "code": "3305201007",
     "district_code": "330520",
-    "name": "Plarangan"
+    "name": "Plarangan",
+    "postal_code": "54364"
   },
   {
     "code": "3305202001",
     "district_code": "330520",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "54364"
   },
   {
     "code": "3305202005",
     "district_code": "330520",
-    "name": "Candi"
+    "name": "Candi",
+    "postal_code": "54364"
   },
   {
     "code": "3305202006",
     "district_code": "330520",
-    "name": "Giripurno"
+    "name": "Giripurno",
+    "postal_code": "54364"
   },
   {
     "code": "3305202008",
     "district_code": "330520",
-    "name": "Karangkemiri"
+    "name": "Karangkemiri",
+    "postal_code": "54364"
   },
   {
     "code": "3305202009",
     "district_code": "330520",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "54364"
   },
   {
     "code": "3305202010",
     "district_code": "330520",
-    "name": "Grenggeng"
+    "name": "Grenggeng",
+    "postal_code": "54364"
   },
   {
     "code": "3305202011",
     "district_code": "330520",
-    "name": "Pohkumbang"
+    "name": "Pohkumbang",
+    "postal_code": "54364"
   }
 ]

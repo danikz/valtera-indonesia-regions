@@ -2,41 +2,49 @@
   {
     "code": "9120022001",
     "district_code": "912002",
-    "name": "Dabra"
+    "name": "Dabra",
+    "postal_code": "98694"
   },
   {
     "code": "9120022002",
     "district_code": "912002",
-    "name": "Taiyeve"
+    "name": "Taiyeve",
+    "postal_code": "98694"
   },
   {
     "code": "9120022003",
     "district_code": "912002",
-    "name": "Fuao"
+    "name": "Fuao",
+    "postal_code": "98694"
   },
   {
     "code": "9120022004",
     "district_code": "912002",
-    "name": "Papasena I"
+    "name": "Papasena I",
+    "postal_code": "98694"
   },
   {
     "code": "9120022005",
     "district_code": "912002",
-    "name": "Papasena II"
+    "name": "Papasena II",
+    "postal_code": "98694"
   },
   {
     "code": "9120022006",
     "district_code": "912002",
-    "name": "Dou"
+    "name": "Dou",
+    "postal_code": "98694"
   },
   {
     "code": "9120022008",
     "district_code": "912002",
-    "name": "Fokri"
+    "name": "Fokri",
+    "postal_code": "98694"
   },
   {
     "code": "9120022016",
     "district_code": "912002",
-    "name": "Haya"
+    "name": "Haya",
+    "postal_code": ""
   }
 ]

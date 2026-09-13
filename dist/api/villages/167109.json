@@ -2,31 +2,37 @@
   {
     "code": "1671091001",
     "district_code": "167109",
-    "name": "20 Ilir D II"
+    "name": "20 Ilir D II",
+    "postal_code": "30127"
   },
   {
     "code": "1671091002",
     "district_code": "167109",
-    "name": "Ario Kemuning"
+    "name": "Ario Kemuning",
+    "postal_code": "30128"
   },
   {
     "code": "1671091003",
     "district_code": "167109",
-    "name": "Sekip Jaya"
+    "name": "Sekip Jaya",
+    "postal_code": "30128"
   },
   {
     "code": "1671091004",
     "district_code": "167109",
-    "name": "Pahlawan"
+    "name": "Pahlawan",
+    "postal_code": "30128"
   },
   {
     "code": "1671091005",
     "district_code": "167109",
-    "name": "Pipa Reja"
+    "name": "Pipa Reja",
+    "postal_code": "30128"
   },
   {
     "code": "1671091006",
     "district_code": "167109",
-    "name": "Talang Aman"
+    "name": "Talang Aman",
+    "postal_code": "30128"
   }
 ]

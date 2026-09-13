@@ -2,31 +2,37 @@
   {
     "code": "3206252001",
     "district_code": "320625",
-    "name": "Sukasukur"
+    "name": "Sukasukur",
+    "postal_code": "46462"
   },
   {
     "code": "3206252002",
     "district_code": "320625",
-    "name": "Salebu"
+    "name": "Salebu",
+    "postal_code": "46462"
   },
   {
     "code": "3206252003",
     "district_code": "320625",
-    "name": "Mangunreja"
+    "name": "Mangunreja",
+    "postal_code": "46462"
   },
   {
     "code": "3206252004",
     "district_code": "320625",
-    "name": "Margajaya"
+    "name": "Margajaya",
+    "postal_code": "46462"
   },
   {
     "code": "3206252005",
     "district_code": "320625",
-    "name": "Pasirsalam"
+    "name": "Pasirsalam",
+    "postal_code": "46462"
   },
   {
     "code": "3206252006",
     "district_code": "320625",
-    "name": "Sukaluyu"
+    "name": "Sukaluyu",
+    "postal_code": "46462"
   }
 ]

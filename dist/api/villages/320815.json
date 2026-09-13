@@ -2,36 +2,43 @@
   {
     "code": "3208152001",
     "district_code": "320815",
-    "name": "Selajambe"
+    "name": "Selajambe",
+    "postal_code": "45566"
   },
   {
     "code": "3208152002",
     "district_code": "320815",
-    "name": "Cantilan"
+    "name": "Cantilan",
+    "postal_code": "45566"
   },
   {
     "code": "3208152003",
     "district_code": "320815",
-    "name": "Ciberung"
+    "name": "Ciberung",
+    "postal_code": "45566"
   },
   {
     "code": "3208152004",
     "district_code": "320815",
-    "name": "Kutawaringin"
+    "name": "Kutawaringin",
+    "postal_code": "45566"
   },
   {
     "code": "3208152005",
     "district_code": "320815",
-    "name": "Jamberama"
+    "name": "Jamberama",
+    "postal_code": "45566"
   },
   {
     "code": "3208152006",
     "district_code": "320815",
-    "name": "Bagawat"
+    "name": "Bagawat",
+    "postal_code": "45566"
   },
   {
     "code": "3208152007",
     "district_code": "320815",
-    "name": "Padahurip"
+    "name": "Padahurip",
+    "postal_code": "45566"
   }
 ]

@@ -2,91 +2,109 @@
   {
     "code": "1112032001",
     "district_code": "111203",
-    "name": "Kedai"
+    "name": "Kedai",
+    "postal_code": "23760"
   },
   {
     "code": "1112032002",
     "district_code": "111203",
-    "name": "Padang"
+    "name": "Padang",
+    "postal_code": "23760"
   },
   {
     "code": "1112032003",
     "district_code": "111203",
-    "name": "Tengah"
+    "name": "Tengah",
+    "postal_code": "23760"
   },
   {
     "code": "1112032005",
     "district_code": "111203",
-    "name": "Paya"
+    "name": "Paya",
+    "postal_code": "23760"
   },
   {
     "code": "1112032006",
     "district_code": "111203",
-    "name": "Seuneulop"
+    "name": "Seuneulop",
+    "postal_code": "23760"
   },
   {
     "code": "1112032007",
     "district_code": "111203",
-    "name": "Lhok Puntoy"
+    "name": "Lhok Puntoy",
+    "postal_code": "23760"
   },
   {
     "code": "1112032009",
     "district_code": "111203",
-    "name": "Ladang Panah"
+    "name": "Ladang Panah",
+    "postal_code": "23760"
   },
   {
     "code": "1112032010",
     "district_code": "111203",
-    "name": "Pusu Ingin Jaya"
+    "name": "Pusu Ingin Jaya",
+    "postal_code": "23760"
   },
   {
     "code": "1112032011",
     "district_code": "111203",
-    "name": "Panton Makmur"
+    "name": "Panton Makmur",
+    "postal_code": "23760"
   },
   {
     "code": "1112032022",
     "district_code": "111203",
-    "name": "Lhueng Baro"
+    "name": "Lhueng Baro",
+    "postal_code": "23760"
   },
   {
     "code": "1112032023",
     "district_code": "111203",
-    "name": "Tokoh"
+    "name": "Tokoh",
+    "postal_code": "23760"
   },
   {
     "code": "1112032024",
     "district_code": "111203",
-    "name": "Blang Manggeng"
+    "name": "Blang Manggeng",
+    "postal_code": "23760"
   },
   {
     "code": "1112032025",
     "district_code": "111203",
-    "name": "Pante Raja"
+    "name": "Pante Raja",
+    "postal_code": "23760"
   },
   {
     "code": "1112032026",
     "district_code": "111203",
-    "name": "Sejahtera"
+    "name": "Sejahtera",
+    "postal_code": "23760"
   },
   {
     "code": "1112032027",
     "district_code": "111203",
-    "name": "Lhok Pawoh"
+    "name": "Lhok Pawoh",
+    "postal_code": "23760"
   },
   {
     "code": "1112032029",
     "district_code": "111203",
-    "name": "Pante Pirak"
+    "name": "Pante Pirak",
+    "postal_code": "23760"
   },
   {
     "code": "1112032030",
     "district_code": "111203",
-    "name": "Ujung Tanah"
+    "name": "Ujung Tanah",
+    "postal_code": "23760"
   },
   {
     "code": "1112032031",
     "district_code": "111203",
-    "name": "Pante Cermin"
+    "name": "Pante Cermin",
+    "postal_code": "23760"
   }
 ]

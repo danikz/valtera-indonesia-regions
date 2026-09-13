@@ -2,51 +2,61 @@
   {
     "code": "3210212001",
     "district_code": "321021",
-    "name": "Bantaragung"
+    "name": "Bantaragung",
+    "postal_code": "45474"
   },
   {
     "code": "3210212002",
     "district_code": "321021",
-    "name": "Padaherang"
+    "name": "Padaherang",
+    "postal_code": "45474"
   },
   {
     "code": "3210212003",
     "district_code": "321021",
-    "name": "Lengkong Kulon"
+    "name": "Lengkong Kulon",
+    "postal_code": "45474"
   },
   {
     "code": "3210212004",
     "district_code": "321021",
-    "name": "Jerukleueut"
+    "name": "Jerukleueut",
+    "postal_code": "45474"
   },
   {
     "code": "3210212005",
     "district_code": "321021",
-    "name": "Sindangwangi"
+    "name": "Sindangwangi",
+    "postal_code": "45474"
   },
   {
     "code": "3210212006",
     "district_code": "321021",
-    "name": "Buahkapas"
+    "name": "Buahkapas",
+    "postal_code": "45474"
   },
   {
     "code": "3210212007",
     "district_code": "321021",
-    "name": "Ujungberung"
+    "name": "Ujungberung",
+    "postal_code": "45474"
   },
   {
     "code": "3210212008",
     "district_code": "321021",
-    "name": "Balagedog"
+    "name": "Balagedog",
+    "postal_code": "45474"
   },
   {
     "code": "3210212009",
     "district_code": "321021",
-    "name": "Leuwilaja"
+    "name": "Leuwilaja",
+    "postal_code": "45474"
   },
   {
     "code": "3210212010",
     "district_code": "321021",
-    "name": "Lengkong Wetan"
+    "name": "Lengkong Wetan",
+    "postal_code": "45474"
   }
 ]

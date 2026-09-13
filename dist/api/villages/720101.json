@@ -2,66 +2,79 @@
   {
     "code": "7201011006",
     "district_code": "720101",
-    "name": "Bugis"
+    "name": "Bugis",
+    "postal_code": "94762"
   },
   {
     "code": "7201011007",
     "district_code": "720101",
-    "name": "Balantang"
+    "name": "Balantang",
+    "postal_code": "94762"
   },
   {
     "code": "7201011008",
     "district_code": "720101",
-    "name": "Batui"
+    "name": "Batui",
+    "postal_code": "94762"
   },
   {
     "code": "7201011009",
     "district_code": "720101",
-    "name": "Tolando"
+    "name": "Tolando",
+    "postal_code": "94762"
   },
   {
     "code": "7201011010",
     "district_code": "720101",
-    "name": "Lamo"
+    "name": "Lamo",
+    "postal_code": "94762"
   },
   {
     "code": "7201011017",
     "district_code": "720101",
-    "name": "Sisipan"
+    "name": "Sisipan",
+    "postal_code": "94762"
   },
   {
     "code": "7201011023",
     "district_code": "720101",
-    "name": "Bakung"
+    "name": "Bakung",
+    "postal_code": "94762"
   },
   {
     "code": "7201012002",
     "district_code": "720101",
-    "name": "Nonong"
+    "name": "Nonong",
+    "postal_code": "94762"
   },
   {
     "code": "7201012003",
     "district_code": "720101",
-    "name": "Kayowa"
+    "name": "Kayowa",
+    "postal_code": "94762"
   },
   {
     "code": "7201012005",
     "district_code": "720101",
-    "name": "Ondo-Ondolu"
+    "name": "Ondo-Ondolu",
+    "postal_code": "94762"
   },
   {
     "code": "7201012011",
     "district_code": "720101",
-    "name": "Honbola"
+    "name": "Honbola",
+    "postal_code": "94762"
   },
   {
     "code": "7201012012",
     "district_code": "720101",
-    "name": "Uso"
+    "name": "Uso",
+    "postal_code": "94762"
   },
   {
     "code": "7201012016",
     "district_code": "720101",
-    "name": "Ondo-Ondolu I"
+    "name": "Ondo-Ondolu I",
+    "postal_code": "94762"
   }
 ]

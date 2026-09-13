@@ -2,26 +2,31 @@
   {
     "code": "9206052001",
     "district_code": "920605",
-    "name": "Jagiro"
+    "name": "Jagiro",
+    "postal_code": "98155"
   },
   {
     "code": "9206052004",
     "district_code": "920605",
-    "name": "Meyenda"
+    "name": "Meyenda",
+    "postal_code": "98155"
   },
   {
     "code": "9206052005",
     "district_code": "920605",
-    "name": "Rawara"
+    "name": "Rawara",
+    "postal_code": "98155"
   },
   {
     "code": "9206052006",
     "district_code": "920605",
-    "name": "Barma Barat"
+    "name": "Barma Barat",
+    "postal_code": "98155"
   },
   {
     "code": "9206052011",
     "district_code": "920605",
-    "name": "Inggof"
+    "name": "Inggof",
+    "postal_code": "98155"
   }
 ]

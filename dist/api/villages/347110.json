@@ -2,11 +2,13 @@
   {
     "code": "3471101001",
     "district_code": "347110",
-    "name": "Ngupasan"
+    "name": "Ngupasan",
+    "postal_code": "55122"
   },
   {
     "code": "3471101002",
     "district_code": "347110",
-    "name": "Prawirodirjan"
+    "name": "Prawirodirjan",
+    "postal_code": "55121"
   }
 ]

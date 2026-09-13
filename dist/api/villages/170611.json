@@ -2,41 +2,49 @@
   {
     "code": "1706112001",
     "district_code": "170611",
-    "name": "Lubuk Sanai"
+    "name": "Lubuk Sanai",
+    "postal_code": "38755"
   },
   {
     "code": "1706112002",
     "district_code": "170611",
-    "name": "Rawa Mulya"
+    "name": "Rawa Mulya",
+    "postal_code": "38755"
   },
   {
     "code": "1706112003",
     "district_code": "170611",
-    "name": "Rawa Bangun"
+    "name": "Rawa Bangun",
+    "postal_code": "38755"
   },
   {
     "code": "1706112004",
     "district_code": "170611",
-    "name": "Tanjung Mulya"
+    "name": "Tanjung Mulya",
+    "postal_code": "38755"
   },
   {
     "code": "1706112005",
     "district_code": "170611",
-    "name": "Pauh Tarenja"
+    "name": "Pauh Tarenja",
+    "postal_code": "38755"
   },
   {
     "code": "1706112006",
     "district_code": "170611",
-    "name": "Dusun Baru Pelokan"
+    "name": "Dusun Baru Pelokan",
+    "postal_code": "38755"
   },
   {
     "code": "1706112007",
     "district_code": "170611",
-    "name": "Lubuk Sanai II"
+    "name": "Lubuk Sanai II",
+    "postal_code": "38755"
   },
   {
     "code": "1706112009",
     "district_code": "170611",
-    "name": "Lubuk Sanai III"
+    "name": "Lubuk Sanai III",
+    "postal_code": "38755"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "6107152001",
     "district_code": "610715",
-    "name": "Rukma Jaya"
+    "name": "Rukma Jaya",
+    "postal_code": "79273"
   },
   {
     "code": "6107152002",
     "district_code": "610715",
-    "name": "Sungai Keran"
+    "name": "Sungai Keran",
+    "postal_code": "79273"
   },
   {
     "code": "6107152003",
     "district_code": "610715",
-    "name": "Sungai Raya"
+    "name": "Sungai Raya",
+    "postal_code": "79273"
   },
   {
     "code": "6107152004",
     "district_code": "610715",
-    "name": "Karimunting"
+    "name": "Karimunting",
+    "postal_code": "79273"
   },
   {
     "code": "6107152005",
     "district_code": "610715",
-    "name": "Pulau Lemukutan"
+    "name": "Pulau Lemukutan",
+    "postal_code": "79273"
   }
 ]

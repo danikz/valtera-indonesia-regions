@@ -2,36 +2,43 @@
   {
     "code": "6310102001",
     "district_code": "631010",
-    "name": "Giri Mulya"
+    "name": "Giri Mulya",
+    "postal_code": "72272"
   },
   {
     "code": "6310102002",
     "district_code": "631010",
-    "name": "Kuranji"
+    "name": "Kuranji",
+    "postal_code": "72272"
   },
   {
     "code": "6310102003",
     "district_code": "631010",
-    "name": "Waringin Tunggal"
+    "name": "Waringin Tunggal",
+    "postal_code": "72272"
   },
   {
     "code": "6310102004",
     "district_code": "631010",
-    "name": "Mustika"
+    "name": "Mustika",
+    "postal_code": "72272"
   },
   {
     "code": "6310102005",
     "district_code": "631010",
-    "name": "Indra Lokajaya"
+    "name": "Indra Lokajaya",
+    "postal_code": "72274"
   },
   {
     "code": "6310102006",
     "district_code": "631010",
-    "name": "Karang Intan"
+    "name": "Karang Intan",
+    "postal_code": "72274"
   },
   {
     "code": "6310102007",
     "district_code": "631010",
-    "name": "Ringkit"
+    "name": "Ringkit",
+    "postal_code": "72272"
   }
 ]

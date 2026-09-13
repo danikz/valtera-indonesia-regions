@@ -2,61 +2,73 @@
   {
     "code": "7171041001",
     "district_code": "717104",
-    "name": "Tikala Kumaraka"
+    "name": "Tikala Kumaraka",
+    "postal_code": "95124"
   },
   {
     "code": "7171041002",
     "district_code": "717104",
-    "name": "Mahakeret Timur"
+    "name": "Mahakeret Timur",
+    "postal_code": "95112"
   },
   {
     "code": "7171041003",
     "district_code": "717104",
-    "name": "Mahakeret Barat"
+    "name": "Mahakeret Barat",
+    "postal_code": "95112"
   },
   {
     "code": "7171041004",
     "district_code": "717104",
-    "name": "Teling Bawah"
+    "name": "Teling Bawah",
+    "postal_code": "95119"
   },
   {
     "code": "7171041005",
     "district_code": "717104",
-    "name": "Wenang Utara"
+    "name": "Wenang Utara",
+    "postal_code": "95111"
   },
   {
     "code": "7171041006",
     "district_code": "717104",
-    "name": "Wenang Selatan"
+    "name": "Wenang Selatan",
+    "postal_code": "95111"
   },
   {
     "code": "7171041007",
     "district_code": "717104",
-    "name": "Pinaesaan"
+    "name": "Pinaesaan",
+    "postal_code": "95122"
   },
   {
     "code": "7171041008",
     "district_code": "717104",
-    "name": "Calaca"
+    "name": "Calaca",
+    "postal_code": "95121"
   },
   {
     "code": "7171041009",
     "district_code": "717104",
-    "name": "Istiqlal"
+    "name": "Istiqlal",
+    "postal_code": "95121"
   },
   {
     "code": "7171041010",
     "district_code": "717104",
-    "name": "Lawangirung"
+    "name": "Lawangirung",
+    "postal_code": "95123"
   },
   {
     "code": "7171041011",
     "district_code": "717104",
-    "name": "Komo Luar"
+    "name": "Komo Luar",
+    "postal_code": "95122"
   },
   {
     "code": "7171041012",
     "district_code": "717104",
-    "name": "Bumi Beringin"
+    "name": "Bumi Beringin",
+    "postal_code": "95113"
   }
 ]

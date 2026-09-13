@@ -2,31 +2,37 @@
   {
     "code": "1307062001",
     "district_code": "130706",
-    "name": "Manggilang"
+    "name": "Manggilang",
+    "postal_code": "26272"
   },
   {
     "code": "1307062002",
     "district_code": "130706",
-    "name": "Tanjuang Balik"
+    "name": "Tanjuang Balik",
+    "postal_code": "26272"
   },
   {
     "code": "1307062003",
     "district_code": "130706",
-    "name": "Gunuang Malintang"
+    "name": "Gunuang Malintang",
+    "postal_code": "26272"
   },
   {
     "code": "1307062004",
     "district_code": "130706",
-    "name": "Pangkalan"
+    "name": "Pangkalan",
+    "postal_code": "26272"
   },
   {
     "code": "1307062005",
     "district_code": "130706",
-    "name": "Koto Alam"
+    "name": "Koto Alam",
+    "postal_code": "26272"
   },
   {
     "code": "1307062006",
     "district_code": "130706",
-    "name": "Tanjung Pauh"
+    "name": "Tanjung Pauh",
+    "postal_code": "26272"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "2102041001",
     "district_code": "210204",
-    "name": "Meral Kota"
+    "name": "Meral Kota",
+    "postal_code": "29666"
   },
   {
     "code": "2102041002",
     "district_code": "210204",
-    "name": "Baran Barat"
+    "name": "Baran Barat",
+    "postal_code": "29666"
   },
   {
     "code": "2102041003",
     "district_code": "210204",
-    "name": "Sei Raya"
+    "name": "Sei Raya",
+    "postal_code": "29666"
   },
   {
     "code": "2102041006",
     "district_code": "210204",
-    "name": "Baran Timur"
+    "name": "Baran Timur",
+    "postal_code": "29666"
   },
   {
     "code": "2102041007",
     "district_code": "210204",
-    "name": "Sungai Pasir"
+    "name": "Sungai Pasir",
+    "postal_code": "29666"
   },
   {
     "code": "2102041008",
     "district_code": "210204",
-    "name": "Parit Benut"
+    "name": "Parit Benut",
+    "postal_code": "29666"
   }
 ]

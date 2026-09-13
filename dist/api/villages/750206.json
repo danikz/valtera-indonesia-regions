@@ -2,46 +2,55 @@
   {
     "code": "7502062001",
     "district_code": "750206",
-    "name": "Tutulo"
+    "name": "Tutulo",
+    "postal_code": "96264"
   },
   {
     "code": "7502062002",
     "district_code": "750206",
-    "name": "Hutamonu"
+    "name": "Hutamonu",
+    "postal_code": "96264"
   },
   {
     "code": "7502062003",
     "district_code": "750206",
-    "name": "Patoameme"
+    "name": "Patoameme",
+    "postal_code": "96264"
   },
   {
     "code": "7502062004",
     "district_code": "750206",
-    "name": "Tapadaa"
+    "name": "Tapadaa",
+    "postal_code": "96264"
   },
   {
     "code": "7502062005",
     "district_code": "750206",
-    "name": "Potanga"
+    "name": "Potanga",
+    "postal_code": "96264"
   },
   {
     "code": "7502062006",
     "district_code": "750206",
-    "name": "Botumoito"
+    "name": "Botumoito",
+    "postal_code": "96264"
   },
   {
     "code": "7502062007",
     "district_code": "750206",
-    "name": "Bolihutuo"
+    "name": "Bolihutuo",
+    "postal_code": "96264"
   },
   {
     "code": "7502062008",
     "district_code": "750206",
-    "name": "Rumbia"
+    "name": "Rumbia",
+    "postal_code": "96264"
   },
   {
     "code": "7502062009",
     "district_code": "750206",
-    "name": "Dulangeya"
+    "name": "Dulangeya",
+    "postal_code": "96264"
   }
 ]

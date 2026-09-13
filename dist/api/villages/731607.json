@@ -2,36 +2,43 @@
   {
     "code": "7316072001",
     "district_code": "731607",
-    "name": "Cendana"
+    "name": "Cendana",
+    "postal_code": "91711"
   },
   {
     "code": "7316072002",
     "district_code": "731607",
-    "name": "Taulan"
+    "name": "Taulan",
+    "postal_code": "91711"
   },
   {
     "code": "7316072003",
     "district_code": "731607",
-    "name": "Pinang"
+    "name": "Pinang",
+    "postal_code": "91711"
   },
   {
     "code": "7316072004",
     "district_code": "731607",
-    "name": "Malalin"
+    "name": "Malalin",
+    "postal_code": "91711"
   },
   {
     "code": "7316072005",
     "district_code": "731607",
-    "name": "Karrang"
+    "name": "Karrang",
+    "postal_code": "91711"
   },
   {
     "code": "7316072006",
     "district_code": "731607",
-    "name": "Lebang"
+    "name": "Lebang",
+    "postal_code": "91711"
   },
   {
     "code": "7316072007",
     "district_code": "731607",
-    "name": "Pundi Lemo"
+    "name": "Pundi Lemo",
+    "postal_code": "91711"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "8204262001",
     "district_code": "820426",
-    "name": "Gaimu"
+    "name": "Gaimu",
+    "postal_code": "97787"
   },
   {
     "code": "8204262002",
     "district_code": "820426",
-    "name": "Gane Luar"
+    "name": "Gane Luar",
+    "postal_code": "97787"
   },
   {
     "code": "8204262003",
     "district_code": "820426",
-    "name": "Kuwo"
+    "name": "Kuwo",
+    "postal_code": "97787"
   },
   {
     "code": "8204262004",
     "district_code": "820426",
-    "name": "Ranga Ranga"
+    "name": "Ranga Ranga",
+    "postal_code": "97787"
   },
   {
     "code": "8204262005",
     "district_code": "820426",
-    "name": "Sawat"
+    "name": "Sawat",
+    "postal_code": "97787"
   }
 ]

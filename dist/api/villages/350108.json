@@ -2,41 +2,49 @@
   {
     "code": "3501082001",
     "district_code": "350108",
-    "name": "Petungsinarang"
+    "name": "Petungsinarang",
+    "postal_code": "63583"
   },
   {
     "code": "3501082002",
     "district_code": "350108",
-    "name": "Ngunut"
+    "name": "Ngunut",
+    "postal_code": "63583"
   },
   {
     "code": "3501082003",
     "district_code": "350108",
-    "name": "Bandar"
+    "name": "Bandar",
+    "postal_code": "63583"
   },
   {
     "code": "3501082004",
     "district_code": "350108",
-    "name": "Kledung"
+    "name": "Kledung",
+    "postal_code": "63583"
   },
   {
     "code": "3501082005",
     "district_code": "350108",
-    "name": "Tumpuk"
+    "name": "Tumpuk",
+    "postal_code": "63583"
   },
   {
     "code": "3501082006",
     "district_code": "350108",
-    "name": "Watupatok"
+    "name": "Watupatok",
+    "postal_code": "63583"
   },
   {
     "code": "3501082007",
     "district_code": "350108",
-    "name": "Bangunsari"
+    "name": "Bangunsari",
+    "postal_code": "63583"
   },
   {
     "code": "3501082008",
     "district_code": "350108",
-    "name": "Jeruk"
+    "name": "Jeruk",
+    "postal_code": "63583"
   }
 ]

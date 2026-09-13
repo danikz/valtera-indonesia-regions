@@ -2,46 +2,55 @@
   {
     "code": "3324082003",
     "district_code": "332408",
-    "name": "Sumberejo"
+    "name": "Sumberejo",
+    "postal_code": "51372"
   },
   {
     "code": "3324082004",
     "district_code": "332408",
-    "name": "Nolokerto"
+    "name": "Nolokerto",
+    "postal_code": "51372"
   },
   {
     "code": "3324082009",
     "district_code": "332408",
-    "name": "Kumpulrejo"
+    "name": "Kumpulrejo",
+    "postal_code": "51372"
   },
   {
     "code": "3324082010",
     "district_code": "332408",
-    "name": "Karangtengah"
+    "name": "Karangtengah",
+    "postal_code": "51372"
   },
   {
     "code": "3324082011",
     "district_code": "332408",
-    "name": "Sarirejo"
+    "name": "Sarirejo",
+    "postal_code": "51372"
   },
   {
     "code": "3324082012",
     "district_code": "332408",
-    "name": "Krajankulon"
+    "name": "Krajankulon",
+    "postal_code": "51372"
   },
   {
     "code": "3324082013",
     "district_code": "332408",
-    "name": "Kutoharjo"
+    "name": "Kutoharjo",
+    "postal_code": "51372"
   },
   {
     "code": "3324082014",
     "district_code": "332408",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "51372"
   },
   {
     "code": "3324082015",
     "district_code": "332408",
-    "name": "Mororejo"
+    "name": "Mororejo",
+    "postal_code": "51372"
   }
 ]

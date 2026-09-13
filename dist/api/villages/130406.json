@@ -2,21 +2,25 @@
   {
     "code": "1304062001",
     "district_code": "130406",
-    "name": "Taluak"
+    "name": "Taluak",
+    "postal_code": "27292"
   },
   {
     "code": "1304062002",
     "district_code": "130406",
-    "name": "Buo"
+    "name": "Buo",
+    "postal_code": "27292"
   },
   {
     "code": "1304062003",
     "district_code": "130406",
-    "name": "Tigo Jangko"
+    "name": "Tigo Jangko",
+    "postal_code": "27292"
   },
   {
     "code": "1304062004",
     "district_code": "130406",
-    "name": "Pangian"
+    "name": "Pangian",
+    "postal_code": "27292"
   }
 ]

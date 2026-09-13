@@ -2,26 +2,31 @@
   {
     "code": "9207052001",
     "district_code": "920705",
-    "name": "Sabubar"
+    "name": "Sabubar",
+    "postal_code": "98335"
   },
   {
     "code": "9207052002",
     "district_code": "920705",
-    "name": "Ambuar"
+    "name": "Ambuar",
+    "postal_code": "98335"
   },
   {
     "code": "9207052003",
     "district_code": "920705",
-    "name": "Karuan"
+    "name": "Karuan",
+    "postal_code": "98335"
   },
   {
     "code": "9207052007",
     "district_code": "920705",
-    "name": "Yarpate"
+    "name": "Yarpate",
+    "postal_code": "98335"
   },
   {
     "code": "9207052009",
     "district_code": "920705",
-    "name": "Nordiwar"
+    "name": "Nordiwar",
+    "postal_code": "98335"
   }
 ]

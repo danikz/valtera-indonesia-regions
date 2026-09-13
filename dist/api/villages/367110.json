@@ -2,36 +2,43 @@
   {
     "code": "3671101001",
     "district_code": "367110",
-    "name": "Neglasari"
+    "name": "Neglasari",
+    "postal_code": "15129"
   },
   {
     "code": "3671101002",
     "district_code": "367110",
-    "name": "Karang Sari"
+    "name": "Karang Sari",
+    "postal_code": "15121"
   },
   {
     "code": "3671101003",
     "district_code": "367110",
-    "name": "Selapajang Jaya"
+    "name": "Selapajang Jaya",
+    "postal_code": "15127"
   },
   {
     "code": "3671101004",
     "district_code": "367110",
-    "name": "Kedaung Wetan"
+    "name": "Kedaung Wetan",
+    "postal_code": "15128"
   },
   {
     "code": "3671101005",
     "district_code": "367110",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "15129"
   },
   {
     "code": "3671101006",
     "district_code": "367110",
-    "name": "Karang Anyar"
+    "name": "Karang Anyar",
+    "postal_code": "15121"
   },
   {
     "code": "3671101007",
     "district_code": "367110",
-    "name": "Kedaung Baru"
+    "name": "Kedaung Baru",
+    "postal_code": "15128"
   }
 ]

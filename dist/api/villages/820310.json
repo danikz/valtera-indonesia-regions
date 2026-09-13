@@ -2,51 +2,61 @@
   {
     "code": "8203102001",
     "district_code": "820310",
-    "name": "Gorua"
+    "name": "Gorua",
+    "postal_code": "97767"
   },
   {
     "code": "8203102002",
     "district_code": "820310",
-    "name": "Popilo"
+    "name": "Popilo",
+    "postal_code": "97767"
   },
   {
     "code": "8203102003",
     "district_code": "820310",
-    "name": "Luari"
+    "name": "Luari",
+    "postal_code": "97767"
   },
   {
     "code": "8203102004",
     "district_code": "820310",
-    "name": "Popilo Utara"
+    "name": "Popilo Utara",
+    "postal_code": "97767"
   },
   {
     "code": "8203102005",
     "district_code": "820310",
-    "name": "Tolonuo"
+    "name": "Tolonuo",
+    "postal_code": "97767"
   },
   {
     "code": "8203102006",
     "district_code": "820310",
-    "name": "Gorua Selatan"
+    "name": "Gorua Selatan",
+    "postal_code": "97767"
   },
   {
     "code": "8203102007",
     "district_code": "820310",
-    "name": "Gorua Utara"
+    "name": "Gorua Utara",
+    "postal_code": "97767"
   },
   {
     "code": "8203102008",
     "district_code": "820310",
-    "name": "Kokota Jaya"
+    "name": "Kokota Jaya",
+    "postal_code": "97767"
   },
   {
     "code": "8203102009",
     "district_code": "820310",
-    "name": "Ruko"
+    "name": "Ruko",
+    "postal_code": "97767"
   },
   {
     "code": "8203102010",
     "district_code": "820310",
-    "name": "Tolonua Selatan"
+    "name": "Tolonua Selatan",
+    "postal_code": "97767"
   }
 ]

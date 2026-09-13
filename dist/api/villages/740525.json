@@ -2,51 +2,61 @@
   {
     "code": "7405252001",
     "district_code": "740525",
-    "name": "Papawu"
+    "name": "Papawu",
+    "postal_code": "93813"
   },
   {
     "code": "7405252002",
     "district_code": "740525",
-    "name": "Anese"
+    "name": "Anese",
+    "postal_code": "93813"
   },
   {
     "code": "7405252003",
     "district_code": "740525",
-    "name": "Bekenggasu"
+    "name": "Bekenggasu",
+    "postal_code": "93819"
   },
   {
     "code": "7405252004",
     "district_code": "740525",
-    "name": "Watumokala"
+    "name": "Watumokala",
+    "postal_code": "93819"
   },
   {
     "code": "7405252005",
     "district_code": "740525",
-    "name": "Mataupe"
+    "name": "Mataupe",
+    "postal_code": "93818"
   },
   {
     "code": "7405252006",
     "district_code": "740525",
-    "name": "Bimamaroa"
+    "name": "Bimamaroa",
+    "postal_code": "93819"
   },
   {
     "code": "7405252007",
     "district_code": "740525",
-    "name": "Wawobende"
+    "name": "Wawobende",
+    "postal_code": "93818"
   },
   {
     "code": "7405252008",
     "district_code": "740525",
-    "name": "Lapoa Indah"
+    "name": "Lapoa Indah",
+    "postal_code": "93818"
   },
   {
     "code": "7405252009",
     "district_code": "740525",
-    "name": "Puundoho"
+    "name": "Puundoho",
+    "postal_code": "93819"
   },
   {
     "code": "7405252010",
     "district_code": "740525",
-    "name": "Mataiwoi"
+    "name": "Mataiwoi",
+    "postal_code": "93819"
   }
 ]

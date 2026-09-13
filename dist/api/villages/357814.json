@@ -2,31 +2,37 @@
   {
     "code": "3578141002",
     "district_code": "357814",
-    "name": "Tandes"
+    "name": "Tandes",
+    "postal_code": "60187"
   },
   {
     "code": "3578141006",
     "district_code": "357814",
-    "name": "Karang Poh"
+    "name": "Karang Poh",
+    "postal_code": "60186"
   },
   {
     "code": "3578141007",
     "district_code": "357814",
-    "name": "Balongsari"
+    "name": "Balongsari",
+    "postal_code": "60186"
   },
   {
     "code": "3578141009",
     "district_code": "357814",
-    "name": "Manukan Kulon"
+    "name": "Manukan Kulon",
+    "postal_code": "60185"
   },
   {
     "code": "3578141011",
     "district_code": "357814",
-    "name": "Manukan Wetan"
+    "name": "Manukan Wetan",
+    "postal_code": "60184"
   },
   {
     "code": "3578141012",
     "district_code": "357814",
-    "name": "Banjar Sugihan"
+    "name": "Banjar Sugihan",
+    "postal_code": "60185"
   }
 ]

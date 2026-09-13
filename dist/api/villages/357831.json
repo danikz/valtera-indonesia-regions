@@ -2,21 +2,25 @@
   {
     "code": "3578311001",
     "district_code": "357831",
-    "name": "Sambikerep"
+    "name": "Sambikerep",
+    "postal_code": "60217"
   },
   {
     "code": "3578311002",
     "district_code": "357831",
-    "name": "Made"
+    "name": "Made",
+    "postal_code": "60219"
   },
   {
     "code": "3578311003",
     "district_code": "357831",
-    "name": "Beringin"
+    "name": "Beringin",
+    "postal_code": "60218"
   },
   {
     "code": "3578311004",
     "district_code": "357831",
-    "name": "Lontar"
+    "name": "Lontar",
+    "postal_code": "60216"
   }
 ]

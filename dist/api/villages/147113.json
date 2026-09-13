@@ -2,26 +2,31 @@
   {
     "code": "1471131001",
     "district_code": "147113",
-    "name": "Sidomulyo Barat"
+    "name": "Sidomulyo Barat",
+    "postal_code": "28294"
   },
   {
     "code": "1471131002",
     "district_code": "147113",
-    "name": "Sialangmunggu"
+    "name": "Sialangmunggu",
+    "postal_code": "28299"
   },
   {
     "code": "1471131003",
     "district_code": "147113",
-    "name": "Tuahkarya"
+    "name": "Tuahkarya",
+    "postal_code": "28291"
   },
   {
     "code": "1471131004",
     "district_code": "147113",
-    "name": "Tuahmadani"
+    "name": "Tuahmadani",
+    "postal_code": "28298"
   },
   {
     "code": "1471131005",
     "district_code": "147113",
-    "name": "Airputih"
+    "name": "Airputih",
+    "postal_code": "28296"
   }
 ]

@@ -2,51 +2,61 @@
   {
     "code": "9203082001",
     "district_code": "920308",
-    "name": "Kramongmongga"
+    "name": "Kramongmongga",
+    "postal_code": "98017"
   },
   {
     "code": "9203082007",
     "district_code": "920308",
-    "name": "Wargep"
+    "name": "Wargep",
+    "postal_code": "98017"
   },
   {
     "code": "9203082008",
     "district_code": "920308",
-    "name": "Mamur"
+    "name": "Mamur",
+    "postal_code": "98017"
   },
   {
     "code": "9203082009",
     "district_code": "920308",
-    "name": "Nembukteb"
+    "name": "Nembukteb",
+    "postal_code": "98017"
   },
   {
     "code": "9203082010",
     "district_code": "920308",
-    "name": "Pikpik"
+    "name": "Pikpik",
+    "postal_code": "98017"
   },
   {
     "code": "9203082011",
     "district_code": "920308",
-    "name": "Kwamkwamur"
+    "name": "Kwamkwamur",
+    "postal_code": "98017"
   },
   {
     "code": "9203082012",
     "district_code": "920308",
-    "name": "Bahbadan"
+    "name": "Bahbadan",
+    "postal_code": "98017"
   },
   {
     "code": "9203082016",
     "district_code": "920308",
-    "name": "Gewab"
+    "name": "Gewab",
+    "postal_code": "98017"
   },
   {
     "code": "9203082017",
     "district_code": "920308",
-    "name": "Tentreda"
+    "name": "Tentreda",
+    "postal_code": "98017"
   },
   {
     "code": "9203082018",
     "district_code": "920308",
-    "name": "Mbaham Ma Youn"
+    "name": "Mbaham Ma Youn",
+    "postal_code": "98017"
   }
 ]

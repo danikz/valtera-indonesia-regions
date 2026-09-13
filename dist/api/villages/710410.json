@@ -2,56 +2,67 @@
   {
     "code": "7104102001",
     "district_code": "710410",
-    "name": "Tuabatu"
+    "name": "Tuabatu",
+    "postal_code": "95882"
   },
   {
     "code": "7104102002",
     "district_code": "710410",
-    "name": "Dapalan"
+    "name": "Dapalan",
+    "postal_code": "95882"
   },
   {
     "code": "7104102003",
     "district_code": "710410",
-    "name": "R i u n g"
+    "name": "R i u n g",
+    "postal_code": "95882"
   },
   {
     "code": "7104102004",
     "district_code": "710410",
-    "name": "A m m a t"
+    "name": "A m m a t",
+    "postal_code": "95882"
   },
   {
     "code": "7104102005",
     "district_code": "710410",
-    "name": "Binalang"
+    "name": "Binalang",
+    "postal_code": "95882"
   },
   {
     "code": "7104102006",
     "district_code": "710410",
-    "name": "Ganalo"
+    "name": "Ganalo",
+    "postal_code": "95882"
   },
   {
     "code": "7104102007",
     "district_code": "710410",
-    "name": "Dapihe"
+    "name": "Dapihe",
+    "postal_code": "95882"
   },
   {
     "code": "7104102008",
     "district_code": "710410",
-    "name": "Tuabatu Barat"
+    "name": "Tuabatu Barat",
+    "postal_code": "95882"
   },
   {
     "code": "7104102009",
     "district_code": "710410",
-    "name": "Ammat Selatan"
+    "name": "Ammat Selatan",
+    "postal_code": "95882"
   },
   {
     "code": "7104102010",
     "district_code": "710410",
-    "name": "Binalang Timur"
+    "name": "Binalang Timur",
+    "postal_code": "95882"
   },
   {
     "code": "7104102011",
     "district_code": "710410",
-    "name": "Riung Utara"
+    "name": "Riung Utara",
+    "postal_code": "95882"
   }
 ]

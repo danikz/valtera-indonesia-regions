@@ -2,61 +2,73 @@
   {
     "code": "7603031001",
     "district_code": "760303",
-    "name": "Mamasa"
+    "name": "Mamasa",
+    "postal_code": "91362"
   },
   {
     "code": "7603032002",
     "district_code": "760303",
-    "name": "Rambusaratu"
+    "name": "Rambusaratu",
+    "postal_code": "91362"
   },
   {
     "code": "7603032003",
     "district_code": "760303",
-    "name": "Osango"
+    "name": "Osango",
+    "postal_code": "91362"
   },
   {
     "code": "7603032004",
     "district_code": "760303",
-    "name": "Lambanan"
+    "name": "Lambanan",
+    "postal_code": "91362"
   },
   {
     "code": "7603032005",
     "district_code": "760303",
-    "name": "Lembana Salulo"
+    "name": "Lembana Salulo",
+    "postal_code": "91362"
   },
   {
     "code": "7603032006",
     "district_code": "760303",
-    "name": "Taupe"
+    "name": "Taupe",
+    "postal_code": "91362"
   },
   {
     "code": "7603032007",
     "district_code": "760303",
-    "name": "Buntu Buda"
+    "name": "Buntu Buda",
+    "postal_code": "91362"
   },
   {
     "code": "7603032008",
     "district_code": "760303",
-    "name": "Tondok Bakaru"
+    "name": "Tondok Bakaru",
+    "postal_code": "91362"
   },
   {
     "code": "7603032009",
     "district_code": "760303",
-    "name": "Pebassian"
+    "name": "Pebassian",
+    "postal_code": "91362"
   },
   {
     "code": "7603032010",
     "district_code": "760303",
-    "name": "Mambuliling"
+    "name": "Mambuliling",
+    "postal_code": "91362"
   },
   {
     "code": "7603032011",
     "district_code": "760303",
-    "name": "Bombong Lambe"
+    "name": "Bombong Lambe",
+    "postal_code": "91362"
   },
   {
     "code": "7603032012",
     "district_code": "760303",
-    "name": "Bubun Batu"
+    "name": "Bubun Batu",
+    "postal_code": "91362"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3508172001",
     "district_code": "350817",
-    "name": "Banyuputih Kidul"
+    "name": "Banyuputih Kidul",
+    "postal_code": "67355"
   },
   {
     "code": "3508172002",
     "district_code": "350817",
-    "name": "Rojopolo"
+    "name": "Rojopolo",
+    "postal_code": "67355"
   },
   {
     "code": "3508172003",
     "district_code": "350817",
-    "name": "Kaliboto Kidul"
+    "name": "Kaliboto Kidul",
+    "postal_code": "67355"
   },
   {
     "code": "3508172004",
     "district_code": "350817",
-    "name": "Kaliboto Lor"
+    "name": "Kaliboto Lor",
+    "postal_code": "67355"
   },
   {
     "code": "3508172005",
     "district_code": "350817",
-    "name": "Sukosari"
+    "name": "Sukosari",
+    "postal_code": "67355"
   },
   {
     "code": "3508172006",
     "district_code": "350817",
-    "name": "Jatiroto"
+    "name": "Jatiroto",
+    "postal_code": "67355"
   }
 ]

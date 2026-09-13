@@ -2,36 +2,43 @@
   {
     "code": "9111092001",
     "district_code": "911109",
-    "name": "Yamara"
+    "name": "Yamara",
+    "postal_code": "99468"
   },
   {
     "code": "9111092002",
     "district_code": "911109",
-    "name": "Wembi"
+    "name": "Wembi",
+    "postal_code": "99468"
   },
   {
     "code": "9111092003",
     "district_code": "911109",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "99468"
   },
   {
     "code": "9111092004",
     "district_code": "911109",
-    "name": "Pyawi"
+    "name": "Pyawi",
+    "postal_code": "99468"
   },
   {
     "code": "9111092005",
     "district_code": "911109",
-    "name": "Sawyatami"
+    "name": "Sawyatami",
+    "postal_code": "99468"
   },
   {
     "code": "9111092006",
     "district_code": "911109",
-    "name": "Wambes"
+    "name": "Wambes",
+    "postal_code": "99468"
   },
   {
     "code": "9111092007",
     "district_code": "911109",
-    "name": "Uskwar"
+    "name": "Uskwar",
+    "postal_code": "99468"
   }
 ]

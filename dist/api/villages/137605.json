@@ -2,31 +2,37 @@
   {
     "code": "1376051001",
     "district_code": "137605",
-    "name": "Padang Karambia"
+    "name": "Padang Karambia",
+    "postal_code": "26227"
   },
   {
     "code": "1376051002",
     "district_code": "137605",
-    "name": "Kototuo Limokampuang"
+    "name": "Kototuo Limokampuang",
+    "postal_code": "26226"
   },
   {
     "code": "1376051003",
     "district_code": "137605",
-    "name": "Limbukan"
+    "name": "Limbukan",
+    "postal_code": "26227"
   },
   {
     "code": "1376051005",
     "district_code": "137605",
-    "name": "Balai Panjang"
+    "name": "Balai Panjang",
+    "postal_code": "26226"
   },
   {
     "code": "1376051006",
     "district_code": "137605",
-    "name": "Kapalo Koto Ampangan"
+    "name": "Kapalo Koto Ampangan",
+    "postal_code": "26228"
   },
   {
     "code": "1376051010",
     "district_code": "137605",
-    "name": "Sawahpadang Aua Kuniang"
+    "name": "Sawahpadang Aua Kuniang",
+    "postal_code": "26228"
   }
 ]

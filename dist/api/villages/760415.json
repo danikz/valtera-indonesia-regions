@@ -2,41 +2,49 @@
   {
     "code": "7604151009",
     "district_code": "760415",
-    "name": "Petoosang"
+    "name": "Petoosang",
+    "postal_code": "91325"
   },
   {
     "code": "7604152002",
     "district_code": "760415",
-    "name": "Mombi"
+    "name": "Mombi",
+    "postal_code": "91325"
   },
   {
     "code": "7604152003",
     "district_code": "760415",
-    "name": "Kalumammang"
+    "name": "Kalumammang",
+    "postal_code": "91325"
   },
   {
     "code": "7604152004",
     "district_code": "760415",
-    "name": "Pao-pao"
+    "name": "Pao-pao",
+    "postal_code": "91325"
   },
   {
     "code": "7604152005",
     "district_code": "760415",
-    "name": "Puppu Uring"
+    "name": "Puppu Uring",
+    "postal_code": "91325"
   },
   {
     "code": "7604152006",
     "district_code": "760415",
-    "name": "Saragian"
+    "name": "Saragian",
+    "postal_code": "91325"
   },
   {
     "code": "7604152007",
     "district_code": "760415",
-    "name": "Sayoang"
+    "name": "Sayoang",
+    "postal_code": "91325"
   },
   {
     "code": "7604152008",
     "district_code": "760415",
-    "name": "Alu"
+    "name": "Alu",
+    "postal_code": "91325"
   }
 ]

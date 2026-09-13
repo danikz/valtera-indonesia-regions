@@ -2,56 +2,67 @@
   {
     "code": "1408092001",
     "district_code": "140809",
-    "name": "Pangkalan Pisang"
+    "name": "Pangkalan Pisang",
+    "postal_code": "28672"
   },
   {
     "code": "1408092002",
     "district_code": "140809",
-    "name": "Kuala Gasib"
+    "name": "Kuala Gasib",
+    "postal_code": "28672"
   },
   {
     "code": "1408092003",
     "district_code": "140809",
-    "name": "Teluk Rimba"
+    "name": "Teluk Rimba",
+    "postal_code": "28672"
   },
   {
     "code": "1408092004",
     "district_code": "140809",
-    "name": "Buatan I"
+    "name": "Buatan I",
+    "postal_code": "28672"
   },
   {
     "code": "1408092005",
     "district_code": "140809",
-    "name": "Buatan II"
+    "name": "Buatan II",
+    "postal_code": "28672"
   },
   {
     "code": "1408092006",
     "district_code": "140809",
-    "name": "Sengkemang"
+    "name": "Sengkemang",
+    "postal_code": "28672"
   },
   {
     "code": "1408092007",
     "district_code": "140809",
-    "name": "Rantau Panjang"
+    "name": "Rantau Panjang",
+    "postal_code": "28672"
   },
   {
     "code": "1408092008",
     "district_code": "140809",
-    "name": "Empang Pandan"
+    "name": "Empang Pandan",
+    "postal_code": "28672"
   },
   {
     "code": "1408092009",
     "district_code": "140809",
-    "name": "Keranji Guguh"
+    "name": "Keranji Guguh",
+    "postal_code": "28672"
   },
   {
     "code": "1408092010",
     "district_code": "140809",
-    "name": "Sri Gemilang"
+    "name": "Sri Gemilang",
+    "postal_code": "28672"
   },
   {
     "code": "1408092011",
     "district_code": "140809",
-    "name": "Tasik Seminai"
+    "name": "Tasik Seminai",
+    "postal_code": "28672"
   }
 ]

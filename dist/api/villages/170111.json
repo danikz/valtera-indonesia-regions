@@ -2,46 +2,55 @@
   {
     "code": "1701111003",
     "district_code": "170111",
-    "name": "Tanjung Mulia"
+    "name": "Tanjung Mulia",
+    "postal_code": "38518"
   },
   {
     "code": "1701111004",
     "district_code": "170111",
-    "name": "Pasar Mulia"
+    "name": "Pasar Mulia",
+    "postal_code": "38518"
   },
   {
     "code": "1701111005",
     "district_code": "170111",
-    "name": "Belakang Gedung"
+    "name": "Belakang Gedung",
+    "postal_code": "38514"
   },
   {
     "code": "1701111006",
     "district_code": "170111",
-    "name": "Gunung Mesir"
+    "name": "Gunung Mesir",
+    "postal_code": "38517"
   },
   {
     "code": "1701111007",
     "district_code": "170111",
-    "name": "Padang Sialang"
+    "name": "Padang Sialang",
+    "postal_code": "38517"
   },
   {
     "code": "1701111008",
     "district_code": "170111",
-    "name": "Ketapang Besar"
+    "name": "Ketapang Besar",
+    "postal_code": "38516"
   },
   {
     "code": "1701111009",
     "district_code": "170111",
-    "name": "Pasar Bawah"
+    "name": "Pasar Bawah",
+    "postal_code": "38515"
   },
   {
     "code": "1701112001",
     "district_code": "170111",
-    "name": "Batu Kuning"
+    "name": "Batu Kuning",
+    "postal_code": "38518"
   },
   {
     "code": "1701112002",
     "district_code": "170111",
-    "name": "Batu Lambang"
+    "name": "Batu Lambang",
+    "postal_code": "38513"
   }
 ]

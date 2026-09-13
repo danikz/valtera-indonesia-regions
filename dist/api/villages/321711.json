@@ -2,56 +2,67 @@
   {
     "code": "3217112001",
     "district_code": "321711",
-    "name": "Cililin"
+    "name": "Cililin",
+    "postal_code": "40567"
   },
   {
     "code": "3217112002",
     "district_code": "321711",
-    "name": "Budiharja"
+    "name": "Budiharja",
+    "postal_code": "40567"
   },
   {
     "code": "3217112003",
     "district_code": "321711",
-    "name": "Batulayang"
+    "name": "Batulayang",
+    "postal_code": "40567"
   },
   {
     "code": "3217112004",
     "district_code": "321711",
-    "name": "Bongas"
+    "name": "Bongas",
+    "postal_code": "40567"
   },
   {
     "code": "3217112005",
     "district_code": "321711",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "40567"
   },
   {
     "code": "3217112006",
     "district_code": "321711",
-    "name": "Karangtanjung"
+    "name": "Karangtanjung",
+    "postal_code": "40567"
   },
   {
     "code": "3217112007",
     "district_code": "321711",
-    "name": "Karyamukti"
+    "name": "Karyamukti",
+    "postal_code": "40567"
   },
   {
     "code": "3217112008",
     "district_code": "321711",
-    "name": "Kidangpananjung"
+    "name": "Kidangpananjung",
+    "postal_code": "40567"
   },
   {
     "code": "3217112009",
     "district_code": "321711",
-    "name": "Mukapayung"
+    "name": "Mukapayung",
+    "postal_code": "40567"
   },
   {
     "code": "3217112010",
     "district_code": "321711",
-    "name": "Nanggerang"
+    "name": "Nanggerang",
+    "postal_code": "40567"
   },
   {
     "code": "3217112011",
     "district_code": "321711",
-    "name": "Rancapanggung"
+    "name": "Rancapanggung",
+    "postal_code": "40567"
   }
 ]

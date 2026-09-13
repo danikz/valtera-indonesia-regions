@@ -2,56 +2,67 @@
   {
     "code": "7307021001",
     "district_code": "730702",
-    "name": "Sangianseri"
+    "name": "Sangianseri",
+    "postal_code": "92661"
   },
   {
     "code": "7307022002",
     "district_code": "730702",
-    "name": "Puncak"
+    "name": "Puncak",
+    "postal_code": "92661"
   },
   {
     "code": "7307022003",
     "district_code": "730702",
-    "name": "Songing"
+    "name": "Songing",
+    "postal_code": "92661"
   },
   {
     "code": "7307022004",
     "district_code": "730702",
-    "name": "Aska"
+    "name": "Aska",
+    "postal_code": "92661"
   },
   {
     "code": "7307022005",
     "district_code": "730702",
-    "name": "Talle"
+    "name": "Talle",
+    "postal_code": "92661"
   },
   {
     "code": "7307022006",
     "district_code": "730702",
-    "name": "Palae"
+    "name": "Palae",
+    "postal_code": "92661"
   },
   {
     "code": "7307022007",
     "district_code": "730702",
-    "name": "Bulu Kamase"
+    "name": "Bulu Kamase",
+    "postal_code": "92661"
   },
   {
     "code": "7307022008",
     "district_code": "730702",
-    "name": "Palangka"
+    "name": "Palangka",
+    "postal_code": "92661"
   },
   {
     "code": "7307022009",
     "district_code": "730702",
-    "name": "Polewali"
+    "name": "Polewali",
+    "postal_code": "92661"
   },
   {
     "code": "7307022010",
     "district_code": "730702",
-    "name": "Gareccing"
+    "name": "Gareccing",
+    "postal_code": "92661"
   },
   {
     "code": "7307022011",
     "district_code": "730702",
-    "name": "Alenangka"
+    "name": "Alenangka",
+    "postal_code": "92661"
   }
 ]

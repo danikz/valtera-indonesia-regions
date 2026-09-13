@@ -2,66 +2,79 @@
   {
     "code": "1174022005",
     "district_code": "117402",
-    "name": "Lhok Banie"
+    "name": "Lhok Banie",
+    "postal_code": "24415"
   },
   {
     "code": "1174022006",
     "district_code": "117402",
-    "name": "PB. Teungoh"
+    "name": "PB. Teungoh",
+    "postal_code": "24415"
   },
   {
     "code": "1174022007",
     "district_code": "117402",
-    "name": "PB. Beuramo"
+    "name": "PB. Beuramo",
+    "postal_code": "24414"
   },
   {
     "code": "1174022008",
     "district_code": "117402",
-    "name": "Simpang Lhee"
+    "name": "Simpang Lhee",
+    "postal_code": "24451"
   },
   {
     "code": "1174022009",
     "district_code": "117402",
-    "name": "Seuriget"
+    "name": "Seuriget",
+    "postal_code": "24415"
   },
   {
     "code": "1174022015",
     "district_code": "117402",
-    "name": "Matang Seulimeng"
+    "name": "Matang Seulimeng",
+    "postal_code": "24413"
   },
   {
     "code": "1174022016",
     "district_code": "117402",
-    "name": "Sungai Pauh"
+    "name": "Sungai Pauh",
+    "postal_code": "24410"
   },
   {
     "code": "1174022017",
     "district_code": "117402",
-    "name": "Kuala Langsa"
+    "name": "Kuala Langsa",
+    "postal_code": "24410"
   },
   {
     "code": "1174022018",
     "district_code": "117402",
-    "name": "Teulaga Tujuh"
+    "name": "Teulaga Tujuh",
+    "postal_code": "24410"
   },
   {
     "code": "1174022019",
     "district_code": "117402",
-    "name": "Serambi Indah"
+    "name": "Serambi Indah",
+    "postal_code": "24410"
   },
   {
     "code": "1174022020",
     "district_code": "117402",
-    "name": "Sungai Pauh Pusaka"
+    "name": "Sungai Pauh Pusaka",
+    "postal_code": "24410"
   },
   {
     "code": "1174022021",
     "district_code": "117402",
-    "name": "Sungai Pauh Tanjong"
+    "name": "Sungai Pauh Tanjong",
+    "postal_code": "24410"
   },
   {
     "code": "1174022022",
     "district_code": "117402",
-    "name": "Sungai Pauh Firdaus"
+    "name": "Sungai Pauh Firdaus",
+    "postal_code": "24410"
   }
 ]

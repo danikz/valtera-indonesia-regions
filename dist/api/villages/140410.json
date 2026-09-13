@@ -2,51 +2,61 @@
   {
     "code": "1404101001",
     "district_code": "140410",
-    "name": "Kuala Enok"
+    "name": "Kuala Enok",
+    "postal_code": "29271"
   },
   {
     "code": "1404102002",
     "district_code": "140410",
-    "name": "Selatnama"
+    "name": "Selatnama",
+    "postal_code": "29271"
   },
   {
     "code": "1404102003",
     "district_code": "140410",
-    "name": "Sungainyiur"
+    "name": "Sungainyiur",
+    "postal_code": "29271"
   },
   {
     "code": "1404102004",
     "district_code": "140410",
-    "name": "Tanjungbaru"
+    "name": "Tanjungbaru",
+    "postal_code": "29271"
   },
   {
     "code": "1404102005",
     "district_code": "140410",
-    "name": "Tekulai Hilir"
+    "name": "Tekulai Hilir",
+    "postal_code": "29271"
   },
   {
     "code": "1404102006",
     "district_code": "140410",
-    "name": "Tekulai Hulu"
+    "name": "Tekulai Hulu",
+    "postal_code": "29271"
   },
   {
     "code": "1404102007",
     "district_code": "140410",
-    "name": "Tekulai Bugis"
+    "name": "Tekulai Bugis",
+    "postal_code": "29271"
   },
   {
     "code": "1404102008",
     "district_code": "140410",
-    "name": "Tanjungpasir"
+    "name": "Tanjungpasir",
+    "postal_code": "29271"
   },
   {
     "code": "1404102009",
     "district_code": "140410",
-    "name": "Tanah Merah"
+    "name": "Tanah Merah",
+    "postal_code": "29271"
   },
   {
     "code": "1404102010",
     "district_code": "140410",
-    "name": "Sungailaut"
+    "name": "Sungailaut",
+    "postal_code": "29271"
   }
 ]

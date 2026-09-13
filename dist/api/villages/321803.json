@@ -2,56 +2,67 @@
   {
     "code": "3218032001",
     "district_code": "321803",
-    "name": "Kertaharja"
+    "name": "Kertaharja",
+    "postal_code": "46395"
   },
   {
     "code": "3218032002",
     "district_code": "321803",
-    "name": "Ciparanti"
+    "name": "Ciparanti",
+    "postal_code": "46395"
   },
   {
     "code": "3218032003",
     "district_code": "321803",
-    "name": "Legokjawa"
+    "name": "Legokjawa",
+    "postal_code": "46395"
   },
   {
     "code": "3218032004",
     "district_code": "321803",
-    "name": "Masawah"
+    "name": "Masawah",
+    "postal_code": "46395"
   },
   {
     "code": "3218032005",
     "district_code": "321803",
-    "name": "Cimerak"
+    "name": "Cimerak",
+    "postal_code": "46395"
   },
   {
     "code": "3218032006",
     "district_code": "321803",
-    "name": "Sukajaya"
+    "name": "Sukajaya",
+    "postal_code": "46395"
   },
   {
     "code": "3218032007",
     "district_code": "321803",
-    "name": "Kertamukti"
+    "name": "Kertamukti",
+    "postal_code": "46395"
   },
   {
     "code": "3218032008",
     "district_code": "321803",
-    "name": "Sindangsari"
+    "name": "Sindangsari",
+    "postal_code": "46395"
   },
   {
     "code": "3218032009",
     "district_code": "321803",
-    "name": "Batumalang"
+    "name": "Batumalang",
+    "postal_code": "46395"
   },
   {
     "code": "3218032010",
     "district_code": "321803",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "46395"
   },
   {
     "code": "3218032011",
     "district_code": "321803",
-    "name": "Limusgede"
+    "name": "Limusgede",
+    "postal_code": "46395"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "6203102001",
     "district_code": "620310",
-    "name": "Petak Puti"
+    "name": "Petak Puti",
+    "postal_code": "73554"
   },
   {
     "code": "6203102002",
     "district_code": "620310",
-    "name": "Aruk"
+    "name": "Aruk",
+    "postal_code": "73554"
   },
   {
     "code": "6203102003",
     "district_code": "620310",
-    "name": "Lawang Kajang"
+    "name": "Lawang Kajang",
+    "postal_code": "73554"
   },
   {
     "code": "6203102004",
     "district_code": "620310",
-    "name": "Timpah"
+    "name": "Timpah",
+    "postal_code": "73554"
   },
   {
     "code": "6203102005",
     "district_code": "620310",
-    "name": "Lungkuh Layang"
+    "name": "Lungkuh Layang",
+    "postal_code": "73554"
   },
   {
     "code": "6203102006",
     "district_code": "620310",
-    "name": "Lawang Kamah"
+    "name": "Lawang Kamah",
+    "postal_code": "73554"
   },
   {
     "code": "6203102007",
     "district_code": "620310",
-    "name": "Tumbang Randang"
+    "name": "Tumbang Randang",
+    "postal_code": "73554"
   },
   {
     "code": "6203102008",
     "district_code": "620310",
-    "name": "Batapah"
+    "name": "Batapah",
+    "postal_code": "73554"
   },
   {
     "code": "6203102009",
     "district_code": "620310",
-    "name": "Danau Pantau"
+    "name": "Danau Pantau",
+    "postal_code": "73554"
   }
 ]

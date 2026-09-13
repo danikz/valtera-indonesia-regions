@@ -2,66 +2,79 @@
   {
     "code": "1106152001",
     "district_code": "110615",
-    "name": "Teureubeh"
+    "name": "Teureubeh",
+    "postal_code": "23913"
   },
   {
     "code": "1106152002",
     "district_code": "110615",
-    "name": "Barueh"
+    "name": "Barueh",
+    "postal_code": "23911"
   },
   {
     "code": "1106152003",
     "district_code": "110615",
-    "name": "Jantho"
+    "name": "Jantho",
+    "postal_code": "23912"
   },
   {
     "code": "1106152004",
     "district_code": "110615",
-    "name": "Awek"
+    "name": "Awek",
+    "postal_code": "23917"
   },
   {
     "code": "1106152005",
     "district_code": "110615",
-    "name": "Data Cut"
+    "name": "Data Cut",
+    "postal_code": "23917"
   },
   {
     "code": "1106152006",
     "district_code": "110615",
-    "name": "Bueng"
+    "name": "Bueng",
+    "postal_code": "23917"
   },
   {
     "code": "1106152007",
     "district_code": "110615",
-    "name": "Weu"
+    "name": "Weu",
+    "postal_code": "23917"
   },
   {
     "code": "1106152008",
     "district_code": "110615",
-    "name": "Jalin"
+    "name": "Jalin",
+    "postal_code": "23915"
   },
   {
     "code": "1106152009",
     "district_code": "110615",
-    "name": "Suka Tani"
+    "name": "Suka Tani",
+    "postal_code": "23917"
   },
   {
     "code": "1106152010",
     "district_code": "110615",
-    "name": "Cucum"
+    "name": "Cucum",
+    "postal_code": "23918"
   },
   {
     "code": "1106152011",
     "district_code": "110615",
-    "name": "Jantho Baru"
+    "name": "Jantho Baru",
+    "postal_code": "23917"
   },
   {
     "code": "1106152012",
     "district_code": "110615",
-    "name": "Jantho Makmur"
+    "name": "Jantho Makmur",
+    "postal_code": "23917"
   },
   {
     "code": "1106152013",
     "district_code": "110615",
-    "name": "Bukit Meusara"
+    "name": "Bukit Meusara",
+    "postal_code": "23919"
   }
 ]

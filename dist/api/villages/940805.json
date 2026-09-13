@@ -2,26 +2,31 @@
   {
     "code": "9408052001",
     "district_code": "940805",
-    "name": "Komauto/Kapiraya"
+    "name": "Komauto/Kapiraya",
+    "postal_code": "98752"
   },
   {
     "code": "9408052002",
     "district_code": "940805",
-    "name": "Mogodagi"
+    "name": "Mogodagi",
+    "postal_code": "98752"
   },
   {
     "code": "9408052003",
     "district_code": "940805",
-    "name": "Yamouwitina"
+    "name": "Yamouwitina",
+    "postal_code": "98752"
   },
   {
     "code": "9408052004",
     "district_code": "940805",
-    "name": "Idego"
+    "name": "Idego",
+    "postal_code": "98752"
   },
   {
     "code": "9408052005",
     "district_code": "940805",
-    "name": "Uwe Onagei"
+    "name": "Uwe Onagei",
+    "postal_code": "98752"
   }
 ]

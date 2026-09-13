@@ -2,51 +2,61 @@
   {
     "code": "7505112001",
     "district_code": "750511",
-    "name": "Deme Satu"
+    "name": "Deme Satu",
+    "postal_code": "96515"
   },
   {
     "code": "7505112002",
     "district_code": "750511",
-    "name": "Buluwatu"
+    "name": "Buluwatu",
+    "postal_code": "96515"
   },
   {
     "code": "7505112003",
     "district_code": "750511",
-    "name": "Dulukapa"
+    "name": "Dulukapa",
+    "postal_code": "96515"
   },
   {
     "code": "7505112004",
     "district_code": "750511",
-    "name": "Deme Dua"
+    "name": "Deme Dua",
+    "postal_code": "96515"
   },
   {
     "code": "7505112005",
     "district_code": "750511",
-    "name": "Buladu"
+    "name": "Buladu",
+    "postal_code": "96515"
   },
   {
     "code": "7505112006",
     "district_code": "750511",
-    "name": "Hulawa"
+    "name": "Hulawa",
+    "postal_code": "96515"
   },
   {
     "code": "7505112007",
     "district_code": "750511",
-    "name": "Wubudu"
+    "name": "Wubudu",
+    "postal_code": "96515"
   },
   {
     "code": "7505112008",
     "district_code": "750511",
-    "name": "Bubalango"
+    "name": "Bubalango",
+    "postal_code": "96515"
   },
   {
     "code": "7505112009",
     "district_code": "750511",
-    "name": "Motiheluma"
+    "name": "Motiheluma",
+    "postal_code": "96515"
   },
   {
     "code": "7505112010",
     "district_code": "750511",
-    "name": "Koluwoka"
+    "name": "Koluwoka",
+    "postal_code": "96515"
   }
 ]

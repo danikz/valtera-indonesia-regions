@@ -2,46 +2,55 @@
   {
     "code": "3201382001",
     "district_code": "320138",
-    "name": "Cigombong"
+    "name": "Cigombong",
+    "postal_code": "16110"
   },
   {
     "code": "3201382002",
     "district_code": "320138",
-    "name": "Watesjaya"
+    "name": "Watesjaya",
+    "postal_code": "16110"
   },
   {
     "code": "3201382003",
     "district_code": "320138",
-    "name": "Ciburuy"
+    "name": "Ciburuy",
+    "postal_code": "16110"
   },
   {
     "code": "3201382004",
     "district_code": "320138",
-    "name": "Srogol"
+    "name": "Srogol",
+    "postal_code": "16110"
   },
   {
     "code": "3201382005",
     "district_code": "320138",
-    "name": "Cisalada"
+    "name": "Cisalada",
+    "postal_code": "16110"
   },
   {
     "code": "3201382006",
     "district_code": "320138",
-    "name": "Tugujaya"
+    "name": "Tugujaya",
+    "postal_code": "16110"
   },
   {
     "code": "3201382007",
     "district_code": "320138",
-    "name": "Pasirjaya"
+    "name": "Pasirjaya",
+    "postal_code": "16110"
   },
   {
     "code": "3201382008",
     "district_code": "320138",
-    "name": "Ciburayut"
+    "name": "Ciburayut",
+    "postal_code": "16110"
   },
   {
     "code": "3201382009",
     "district_code": "320138",
-    "name": "Ciadeg"
+    "name": "Ciadeg",
+    "postal_code": "16110"
   }
 ]

@@ -2,86 +2,103 @@
   {
     "code": "6106092001",
     "district_code": "610609",
-    "name": "Gudang Hulu"
+    "name": "Gudang Hulu",
+    "postal_code": "78765"
   },
   {
     "code": "6106092002",
     "district_code": "610609",
-    "name": "Gudang Hilir"
+    "name": "Gudang Hilir",
+    "postal_code": "78765"
   },
   {
     "code": "6106092003",
     "district_code": "610609",
-    "name": "Dalam"
+    "name": "Dalam",
+    "postal_code": "78765"
   },
   {
     "code": "6106092004",
     "district_code": "610609",
-    "name": "Nibung"
+    "name": "Nibung",
+    "postal_code": "78765"
   },
   {
     "code": "6106092005",
     "district_code": "610609",
-    "name": "Piasak Hilir"
+    "name": "Piasak Hilir",
+    "postal_code": "78765"
   },
   {
     "code": "6106092006",
     "district_code": "610609",
-    "name": "Engkerengas"
+    "name": "Engkerengas",
+    "postal_code": "78765"
   },
   {
     "code": "6106092007",
     "district_code": "610609",
-    "name": "Gerayau"
+    "name": "Gerayau",
+    "postal_code": "78765"
   },
   {
     "code": "6106092008",
     "district_code": "610609",
-    "name": "Benuis"
+    "name": "Benuis",
+    "postal_code": "78765"
   },
   {
     "code": "6106092012",
     "district_code": "610609",
-    "name": "Titian Kuala"
+    "name": "Titian Kuala",
+    "postal_code": "78765"
   },
   {
     "code": "6106092013",
     "district_code": "610609",
-    "name": "Sekubah"
+    "name": "Sekubah",
+    "postal_code": "78765"
   },
   {
     "code": "6106092014",
     "district_code": "610609",
-    "name": "Piasak Hulu"
+    "name": "Piasak Hulu",
+    "postal_code": "78765"
   },
   {
     "code": "6106092015",
     "district_code": "610609",
-    "name": "Sekulat"
+    "name": "Sekulat",
+    "postal_code": "78765"
   },
   {
     "code": "6106092016",
     "district_code": "610609",
-    "name": "Nanga Leboyan"
+    "name": "Nanga Leboyan",
+    "postal_code": "78765"
   },
   {
     "code": "6106092017",
     "district_code": "610609",
-    "name": "Vega"
+    "name": "Vega",
+    "postal_code": "78765"
   },
   {
     "code": "6106092018",
     "district_code": "610609",
-    "name": "Mawan"
+    "name": "Mawan",
+    "postal_code": "78765"
   },
   {
     "code": "6106092019",
     "district_code": "610609",
-    "name": "Semalah"
+    "name": "Semalah",
+    "postal_code": "78765"
   },
   {
     "code": "6106092020",
     "district_code": "610609",
-    "name": "Tempurau"
+    "name": "Tempurau",
+    "postal_code": "78765"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "7406112001",
     "district_code": "740611",
-    "name": "Batu Putih"
+    "name": "Batu Putih",
+    "postal_code": "93773"
   },
   {
     "code": "7406112002",
     "district_code": "740611",
-    "name": "Waemputang"
+    "name": "Waemputang",
+    "postal_code": "93773"
   },
   {
     "code": "7406112003",
     "district_code": "740611",
-    "name": "Kali Baru"
+    "name": "Kali Baru",
+    "postal_code": "93773"
   },
   {
     "code": "7406112004",
     "district_code": "740611",
-    "name": "Akacipong"
+    "name": "Akacipong",
+    "postal_code": "93773"
   },
   {
     "code": "7406112005",
     "district_code": "740611",
-    "name": "La Ea"
+    "name": "La Ea",
+    "postal_code": "93773"
   }
 ]

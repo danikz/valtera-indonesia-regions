@@ -2,41 +2,49 @@
   {
     "code": "9212022001",
     "district_code": "921202",
-    "name": "Sibiogud"
+    "name": "Sibiogud",
+    "postal_code": "98356"
   },
   {
     "code": "9212022002",
     "district_code": "921202",
-    "name": "Krobut"
+    "name": "Krobut",
+    "postal_code": "98356"
   },
   {
     "code": "9212022003",
     "district_code": "921202",
-    "name": "Tubyam"
+    "name": "Tubyam",
+    "postal_code": "98356"
   },
   {
     "code": "9212022004",
     "district_code": "921202",
-    "name": "Sakumi"
+    "name": "Sakumi",
+    "postal_code": "98356"
   },
   {
     "code": "9212022005",
     "district_code": "921202",
-    "name": "Tombrok"
+    "name": "Tombrok",
+    "postal_code": "98356"
   },
   {
     "code": "9212022006",
     "district_code": "921202",
-    "name": "Sisrang"
+    "name": "Sisrang",
+    "postal_code": "98356"
   },
   {
     "code": "9212022007",
     "district_code": "921202",
-    "name": "Ngisrow"
+    "name": "Ngisrow",
+    "postal_code": "98356"
   },
   {
     "code": "9212022008",
     "district_code": "921202",
-    "name": "Itkau"
+    "name": "Itkau",
+    "postal_code": "98356"
   }
 ]

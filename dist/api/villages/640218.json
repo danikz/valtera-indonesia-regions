@@ -2,36 +2,43 @@
   {
     "code": "6402182001",
     "district_code": "640218",
-    "name": "Muara Wis"
+    "name": "Muara Wis",
+    "postal_code": "75559"
   },
   {
     "code": "6402182002",
     "district_code": "640218",
-    "name": "Sebemban"
+    "name": "Sebemban",
+    "postal_code": "75559"
   },
   {
     "code": "6402182003",
     "district_code": "640218",
-    "name": "Melintang"
+    "name": "Melintang",
+    "postal_code": "75559"
   },
   {
     "code": "6402182004",
     "district_code": "640218",
-    "name": "Enggelam"
+    "name": "Enggelam",
+    "postal_code": "75559"
   },
   {
     "code": "6402182005",
     "district_code": "640218",
-    "name": "Lebak Mantan"
+    "name": "Lebak Mantan",
+    "postal_code": "75559"
   },
   {
     "code": "6402182006",
     "district_code": "640218",
-    "name": "Lebak Cilong"
+    "name": "Lebak Cilong",
+    "postal_code": "75559"
   },
   {
     "code": "6402182007",
     "district_code": "640218",
-    "name": "Muara Enggelam"
+    "name": "Muara Enggelam",
+    "postal_code": "75559"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "3322111002",
     "district_code": "332211",
-    "name": "Bawen"
+    "name": "Bawen",
+    "postal_code": "50661"
   },
   {
     "code": "3322111007",
     "district_code": "332211",
-    "name": "Harjosari"
+    "name": "Harjosari",
+    "postal_code": "50661"
   },
   {
     "code": "3322112001",
     "district_code": "332211",
-    "name": "Doplang"
+    "name": "Doplang",
+    "postal_code": "50661"
   },
   {
     "code": "3322112003",
     "district_code": "332211",
-    "name": "Asinan"
+    "name": "Asinan",
+    "postal_code": "50661"
   },
   {
     "code": "3322112004",
     "district_code": "332211",
-    "name": "Polosiri"
+    "name": "Polosiri",
+    "postal_code": "50661"
   },
   {
     "code": "3322112005",
     "district_code": "332211",
-    "name": "Kandangan"
+    "name": "Kandangan",
+    "postal_code": "50661"
   },
   {
     "code": "3322112006",
     "district_code": "332211",
-    "name": "Lemahireng"
+    "name": "Lemahireng",
+    "postal_code": "50661"
   },
   {
     "code": "3322112008",
     "district_code": "332211",
-    "name": "Samban"
+    "name": "Samban",
+    "postal_code": "50661"
   },
   {
     "code": "3322112009",
     "district_code": "332211",
-    "name": "Poncoruso"
+    "name": "Poncoruso",
+    "postal_code": "50661"
   }
 ]

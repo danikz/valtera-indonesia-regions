@@ -2,21 +2,25 @@
   {
     "code": "9302072001",
     "district_code": "930207",
-    "name": "Kombut"
+    "name": "Kombut",
+    "postal_code": "99662"
   },
   {
     "code": "9302072002",
     "district_code": "930207",
-    "name": "Moukbiran"
+    "name": "Moukbiran",
+    "postal_code": "99662"
   },
   {
     "code": "9302072003",
     "district_code": "930207",
-    "name": "Kawangtet"
+    "name": "Kawangtet",
+    "postal_code": "99662"
   },
   {
     "code": "9302072004",
     "district_code": "930207",
-    "name": "Amuan"
+    "name": "Amuan",
+    "postal_code": "99662"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "1502202001",
     "district_code": "150220",
-    "name": "Tambang Emas"
+    "name": "Tambang Emas",
+    "postal_code": "37319"
   },
   {
     "code": "1502202002",
     "district_code": "150220",
-    "name": "Tanjung Benuang"
+    "name": "Tanjung Benuang",
+    "postal_code": "37319"
   },
   {
     "code": "1502202003",
     "district_code": "150220",
-    "name": "Pulau Bayur"
+    "name": "Pulau Bayur",
+    "postal_code": "37319"
   },
   {
     "code": "1502202004",
     "district_code": "150220",
-    "name": "Selango"
+    "name": "Selango",
+    "postal_code": "37319"
   }
 ]

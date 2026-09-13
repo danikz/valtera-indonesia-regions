@@ -2,31 +2,37 @@
   {
     "code": "9209172001",
     "district_code": "920917",
-    "name": "Miri"
+    "name": "Miri",
+    "postal_code": ""
   },
   {
     "code": "9209172002",
     "district_code": "920917",
-    "name": "Meis"
+    "name": "Meis",
+    "postal_code": ""
   },
   {
     "code": "9209172003",
     "district_code": "920917",
-    "name": "Aifamas"
+    "name": "Aifamas",
+    "postal_code": ""
   },
   {
     "code": "9209172004",
     "district_code": "920917",
-    "name": "Meinad"
+    "name": "Meinad",
+    "postal_code": ""
   },
   {
     "code": "9209172005",
     "district_code": "920917",
-    "name": "Atafrumek"
+    "name": "Atafrumek",
+    "postal_code": ""
   },
   {
     "code": "9209172006",
     "district_code": "920917",
-    "name": "Ifiam"
+    "name": "Ifiam",
+    "postal_code": ""
   }
 ]

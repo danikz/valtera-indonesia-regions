@@ -2,36 +2,43 @@
   {
     "code": "8204222001",
     "district_code": "820422",
-    "name": "Wayatim"
+    "name": "Wayatim",
+    "postal_code": "97791"
   },
   {
     "code": "8204222002",
     "district_code": "820422",
-    "name": "Tomara"
+    "name": "Tomara",
+    "postal_code": "97791"
   },
   {
     "code": "8204222003",
     "district_code": "820422",
-    "name": "Tutupa"
+    "name": "Tutupa",
+    "postal_code": "97791"
   },
   {
     "code": "8204222004",
     "district_code": "820422",
-    "name": "Tabapoma"
+    "name": "Tabapoma",
+    "postal_code": "97791"
   },
   {
     "code": "8204222005",
     "district_code": "820422",
-    "name": "Bibinoi"
+    "name": "Bibinoi",
+    "postal_code": "97791"
   },
   {
     "code": "8204222006",
     "district_code": "820422",
-    "name": "Songa"
+    "name": "Songa",
+    "postal_code": "97791"
   },
   {
     "code": "8204222007",
     "district_code": "820422",
-    "name": "Tawa"
+    "name": "Tawa",
+    "postal_code": "97791"
   }
 ]

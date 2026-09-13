@@ -2,41 +2,49 @@
   {
     "code": "1206112001",
     "district_code": "120611",
-    "name": "Payung"
+    "name": "Payung",
+    "postal_code": "22154"
   },
   {
     "code": "1206112004",
     "district_code": "120611",
-    "name": "Rimo Kayu"
+    "name": "Rimo Kayu",
+    "postal_code": "22154"
   },
   {
     "code": "1206112005",
     "district_code": "120611",
-    "name": "Sukameriah"
+    "name": "Sukameriah",
+    "postal_code": ""
   },
   {
     "code": "1206112007",
     "district_code": "120611",
-    "name": "Selandi"
+    "name": "Selandi",
+    "postal_code": "22154"
   },
   {
     "code": "1206112012",
     "district_code": "120611",
-    "name": "Batukarang"
+    "name": "Batukarang",
+    "postal_code": "22154"
   },
   {
     "code": "1206112015",
     "district_code": "120611",
-    "name": "Gurukinayan"
+    "name": "Gurukinayan",
+    "postal_code": "22154"
   },
   {
     "code": "1206112017",
     "district_code": "120611",
-    "name": "Cimbang"
+    "name": "Cimbang",
+    "postal_code": "22154"
   },
   {
     "code": "1206112025",
     "district_code": "120611",
-    "name": "Ujung Payung"
+    "name": "Ujung Payung",
+    "postal_code": "22154"
   }
 ]

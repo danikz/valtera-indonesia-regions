@@ -2,51 +2,61 @@
   {
     "code": "3322072001",
     "district_code": "332207",
-    "name": "Gedong"
+    "name": "Gedong",
+    "postal_code": "50664"
   },
   {
     "code": "3322072002",
     "district_code": "332207",
-    "name": "Kebumen"
+    "name": "Kebumen",
+    "postal_code": "50664"
   },
   {
     "code": "3322072003",
     "district_code": "332207",
-    "name": "Sepakung"
+    "name": "Sepakung",
+    "postal_code": "50664"
   },
   {
     "code": "3322072004",
     "district_code": "332207",
-    "name": "Wirogomo"
+    "name": "Wirogomo",
+    "postal_code": "50664"
   },
   {
     "code": "3322072005",
     "district_code": "332207",
-    "name": "Kemambang"
+    "name": "Kemambang",
+    "postal_code": "50664"
   },
   {
     "code": "3322072006",
     "district_code": "332207",
-    "name": "Tegaron"
+    "name": "Tegaron",
+    "postal_code": "50664"
   },
   {
     "code": "3322072007",
     "district_code": "332207",
-    "name": "Rowoboni"
+    "name": "Rowoboni",
+    "postal_code": "50664"
   },
   {
     "code": "3322072008",
     "district_code": "332207",
-    "name": "Kebondowo"
+    "name": "Kebondowo",
+    "postal_code": "50664"
   },
   {
     "code": "3322072009",
     "district_code": "332207",
-    "name": "Banyubiru"
+    "name": "Banyubiru",
+    "postal_code": "50664"
   },
   {
     "code": "3322072010",
     "district_code": "332207",
-    "name": "Ngrapah"
+    "name": "Ngrapah",
+    "postal_code": "50664"
   }
 ]

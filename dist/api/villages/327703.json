@@ -2,21 +2,25 @@
   {
     "code": "3277031001",
     "district_code": "327703",
-    "name": "Pasirkaliki"
+    "name": "Pasirkaliki",
+    "postal_code": "40514"
   },
   {
     "code": "3277031002",
     "district_code": "327703",
-    "name": "Cibabat"
+    "name": "Cibabat",
+    "postal_code": "40513"
   },
   {
     "code": "3277031003",
     "district_code": "327703",
-    "name": "Citeureup"
+    "name": "Citeureup",
+    "postal_code": "40512"
   },
   {
     "code": "3277031004",
     "district_code": "327703",
-    "name": "Cipageran"
+    "name": "Cipageran",
+    "postal_code": "40511"
   }
 ]

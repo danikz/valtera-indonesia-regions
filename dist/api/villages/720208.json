@@ -2,41 +2,49 @@
   {
     "code": "7202082001",
     "district_code": "720208",
-    "name": "Hangira"
+    "name": "Hangira",
+    "postal_code": "94656"
   },
   {
     "code": "7202082002",
     "district_code": "720208",
-    "name": "Lempe"
+    "name": "Lempe",
+    "postal_code": "94656"
   },
   {
     "code": "7202082003",
     "district_code": "720208",
-    "name": "Doda"
+    "name": "Doda",
+    "postal_code": "94656"
   },
   {
     "code": "7202082004",
     "district_code": "720208",
-    "name": "Bariri"
+    "name": "Bariri",
+    "postal_code": "94656"
   },
   {
     "code": "7202082005",
     "district_code": "720208",
-    "name": "Torire"
+    "name": "Torire",
+    "postal_code": "94656"
   },
   {
     "code": "7202082006",
     "district_code": "720208",
-    "name": "Katu"
+    "name": "Katu",
+    "postal_code": "94656"
   },
   {
     "code": "7202082007",
     "district_code": "720208",
-    "name": "Rompo"
+    "name": "Rompo",
+    "postal_code": "94656"
   },
   {
     "code": "7202082008",
     "district_code": "720208",
-    "name": "Baleura"
+    "name": "Baleura",
+    "postal_code": "94656"
   }
 ]

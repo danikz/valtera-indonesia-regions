@@ -2,21 +2,25 @@
   {
     "code": "7505082001",
     "district_code": "750508",
-    "name": "Ponelo"
+    "name": "Ponelo",
+    "postal_code": "96517"
   },
   {
     "code": "7505082002",
     "district_code": "750508",
-    "name": "Malambe"
+    "name": "Malambe",
+    "postal_code": "96517"
   },
   {
     "code": "7505082003",
     "district_code": "750508",
-    "name": "Otiola"
+    "name": "Otiola",
+    "postal_code": "96517"
   },
   {
     "code": "7505082004",
     "district_code": "750508",
-    "name": "Tihengo"
+    "name": "Tihengo",
+    "postal_code": "96517"
   }
 ]

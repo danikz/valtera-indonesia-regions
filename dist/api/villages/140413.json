@@ -2,31 +2,37 @@
   {
     "code": "1404131001",
     "district_code": "140413",
-    "name": "Tembilahan Hulu"
+    "name": "Tembilahan Hulu",
+    "postal_code": "29213"
   },
   {
     "code": "1404131005",
     "district_code": "140413",
-    "name": "Tembilahan Barat"
+    "name": "Tembilahan Barat",
+    "postal_code": "29213"
   },
   {
     "code": "1404132002",
     "district_code": "140413",
-    "name": "Pekan Kamis"
+    "name": "Pekan Kamis",
+    "postal_code": "29213"
   },
   {
     "code": "1404132003",
     "district_code": "140413",
-    "name": "Pulaupalas"
+    "name": "Pulaupalas",
+    "postal_code": "29213"
   },
   {
     "code": "1404132004",
     "district_code": "140413",
-    "name": "Sialang Panjang"
+    "name": "Sialang Panjang",
+    "postal_code": "29213"
   },
   {
     "code": "1404132006",
     "district_code": "140413",
-    "name": "Sungaiintan"
+    "name": "Sungaiintan",
+    "postal_code": "29213"
   }
 ]

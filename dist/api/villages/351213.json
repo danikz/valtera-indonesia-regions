@@ -2,51 +2,61 @@
   {
     "code": "3512132001",
     "district_code": "351213",
-    "name": "Kedunglo"
+    "name": "Kedunglo",
+    "postal_code": "68373"
   },
   {
     "code": "3512132002",
     "district_code": "351213",
-    "name": "Bantal"
+    "name": "Bantal",
+    "postal_code": "68373"
   },
   {
     "code": "3512132003",
     "district_code": "351213",
-    "name": "Awar-awar"
+    "name": "Awar-awar",
+    "postal_code": "68373"
   },
   {
     "code": "3512132004",
     "district_code": "351213",
-    "name": "Parante"
+    "name": "Parante",
+    "postal_code": "68373"
   },
   {
     "code": "3512132005",
     "district_code": "351213",
-    "name": "Trigonco"
+    "name": "Trigonco",
+    "postal_code": "68373"
   },
   {
     "code": "3512132006",
     "district_code": "351213",
-    "name": "Kertosari"
+    "name": "Kertosari",
+    "postal_code": "68373"
   },
   {
     "code": "3512132007",
     "district_code": "351213",
-    "name": "Mojosari"
+    "name": "Mojosari",
+    "postal_code": "68373"
   },
   {
     "code": "3512132008",
     "district_code": "351213",
-    "name": "Asembagus"
+    "name": "Asembagus",
+    "postal_code": "68373"
   },
   {
     "code": "3512132009",
     "district_code": "351213",
-    "name": "Gudang"
+    "name": "Gudang",
+    "postal_code": "68373"
   },
   {
     "code": "3512132010",
     "district_code": "351213",
-    "name": "Wringin Anom"
+    "name": "Wringin Anom",
+    "postal_code": "68373"
   }
 ]

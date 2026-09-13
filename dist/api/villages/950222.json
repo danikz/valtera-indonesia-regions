@@ -2,36 +2,43 @@
   {
     "code": "9502222001",
     "district_code": "950222",
-    "name": "Oklip"
+    "name": "Oklip",
+    "postal_code": "99425"
   },
   {
     "code": "9502222002",
     "district_code": "950222",
-    "name": "Okhim"
+    "name": "Okhim",
+    "postal_code": "99425"
   },
   {
     "code": "9502222003",
     "district_code": "950222",
-    "name": "Oktem"
+    "name": "Oktem",
+    "postal_code": "99425"
   },
   {
     "code": "9502222004",
     "district_code": "950222",
-    "name": "Okbumul"
+    "name": "Okbumul",
+    "postal_code": "99425"
   },
   {
     "code": "9502222005",
     "district_code": "950222",
-    "name": "Okamin"
+    "name": "Okamin",
+    "postal_code": "99425"
   },
   {
     "code": "9502222006",
     "district_code": "950222",
-    "name": "Oktumi"
+    "name": "Oktumi",
+    "postal_code": "99425"
   },
   {
     "code": "9502222007",
     "district_code": "950222",
-    "name": "Komok"
+    "name": "Komok",
+    "postal_code": "99425"
   }
 ]

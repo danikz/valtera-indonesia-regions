@@ -2,51 +2,61 @@
   {
     "code": "1506121001",
     "district_code": "150612",
-    "name": "Betara Kiri"
+    "name": "Betara Kiri",
+    "postal_code": "36556"
   },
   {
     "code": "1506122002",
     "district_code": "150612",
-    "name": "Sungaidualap"
+    "name": "Sungaidualap",
+    "postal_code": "36556"
   },
   {
     "code": "1506122003",
     "district_code": "150612",
-    "name": "Betara Kanan"
+    "name": "Betara Kanan",
+    "postal_code": "36556"
   },
   {
     "code": "1506122004",
     "district_code": "150612",
-    "name": "Sungaigebar"
+    "name": "Sungaigebar",
+    "postal_code": "36556"
   },
   {
     "code": "1506122005",
     "district_code": "150612",
-    "name": "Dataran Pinang"
+    "name": "Dataran Pinang",
+    "postal_code": "36556"
   },
   {
     "code": "1506122006",
     "district_code": "150612",
-    "name": "Tanjungpasir"
+    "name": "Tanjungpasir",
+    "postal_code": "36556"
   },
   {
     "code": "1506122007",
     "district_code": "150612",
-    "name": "Sungaigebar Barat"
+    "name": "Sungaigebar Barat",
+    "postal_code": "36556"
   },
   {
     "code": "1506122008",
     "district_code": "150612",
-    "name": "Sungaidungun"
+    "name": "Sungaidungun",
+    "postal_code": "36556"
   },
   {
     "code": "1506122009",
     "district_code": "150612",
-    "name": "Kuala Indah"
+    "name": "Kuala Indah",
+    "postal_code": "36556"
   },
   {
     "code": "1506122010",
     "district_code": "150612",
-    "name": "Suak Labu"
+    "name": "Suak Labu",
+    "postal_code": "36556"
   }
 ]

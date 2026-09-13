@@ -2,41 +2,49 @@
   {
     "code": "9507042001",
     "district_code": "950704",
-    "name": "Gamelia"
+    "name": "Gamelia",
+    "postal_code": "99566"
   },
   {
     "code": "9507042002",
     "district_code": "950704",
-    "name": "Pirawun"
+    "name": "Pirawun",
+    "postal_code": "99536"
   },
   {
     "code": "9507042003",
     "district_code": "950704",
-    "name": "Wupi"
+    "name": "Wupi",
+    "postal_code": "99536"
   },
   {
     "code": "9507042004",
     "district_code": "950704",
-    "name": "Gawiwarak"
+    "name": "Gawiwarak",
+    "postal_code": "99536"
   },
   {
     "code": "9507042005",
     "district_code": "950704",
-    "name": "Meyagale"
+    "name": "Meyagale",
+    "postal_code": "99536"
   },
   {
     "code": "9507042006",
     "district_code": "950704",
-    "name": "Wulaipas"
+    "name": "Wulaipas",
+    "postal_code": "99536"
   },
   {
     "code": "9507042007",
     "district_code": "950704",
-    "name": "Gunagewak"
+    "name": "Gunagewak",
+    "postal_code": "99536"
   },
   {
     "code": "9507042008",
     "district_code": "950704",
-    "name": "Wunume"
+    "name": "Wunume",
+    "postal_code": "99536"
   }
 ]

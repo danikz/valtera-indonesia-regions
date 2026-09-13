@@ -2,41 +2,49 @@
   {
     "code": "3603161001",
     "district_code": "360316",
-    "name": "Sepatan"
+    "name": "Sepatan",
+    "postal_code": "15520"
   },
   {
     "code": "3603162002",
     "district_code": "360316",
-    "name": "Karet"
+    "name": "Karet",
+    "postal_code": "15520"
   },
   {
     "code": "3603162003",
     "district_code": "360316",
-    "name": "Kayu Agung"
+    "name": "Kayu Agung",
+    "postal_code": "15520"
   },
   {
     "code": "3603162004",
     "district_code": "360316",
-    "name": "Kayu Bongkok"
+    "name": "Kayu Bongkok",
+    "postal_code": "15520"
   },
   {
     "code": "3603162008",
     "district_code": "360316",
-    "name": "Pondok Jaya"
+    "name": "Pondok Jaya",
+    "postal_code": "15520"
   },
   {
     "code": "3603162011",
     "district_code": "360316",
-    "name": "Pisangan Jaya"
+    "name": "Pisangan Jaya",
+    "postal_code": "15520"
   },
   {
     "code": "3603162012",
     "district_code": "360316",
-    "name": "Mekar Jaya"
+    "name": "Mekar Jaya",
+    "postal_code": "15520"
   },
   {
     "code": "3603162015",
     "district_code": "360316",
-    "name": "Sarakan"
+    "name": "Sarakan",
+    "postal_code": "15520"
   }
 ]

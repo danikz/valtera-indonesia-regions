@@ -2,46 +2,55 @@
   {
     "code": "5104022001",
     "district_code": "510402",
-    "name": "Saba"
+    "name": "Saba",
+    "postal_code": "80581"
   },
   {
     "code": "5104022002",
     "district_code": "510402",
-    "name": "Pering"
+    "name": "Pering",
+    "postal_code": "80581"
   },
   {
     "code": "5104022003",
     "district_code": "510402",
-    "name": "Keramas"
+    "name": "Keramas",
+    "postal_code": "80581"
   },
   {
     "code": "5104022004",
     "district_code": "510402",
-    "name": "Belega"
+    "name": "Belega",
+    "postal_code": "80581"
   },
   {
     "code": "5104022005",
     "district_code": "510402",
-    "name": "Blahbatuh"
+    "name": "Blahbatuh",
+    "postal_code": "80581"
   },
   {
     "code": "5104022006",
     "district_code": "510402",
-    "name": "Buruan"
+    "name": "Buruan",
+    "postal_code": "80581"
   },
   {
     "code": "5104022007",
     "district_code": "510402",
-    "name": "Bedulu"
+    "name": "Bedulu",
+    "postal_code": "80581"
   },
   {
     "code": "5104022008",
     "district_code": "510402",
-    "name": "Medahan"
+    "name": "Medahan",
+    "postal_code": "80581"
   },
   {
     "code": "5104022009",
     "district_code": "510402",
-    "name": "Bona"
+    "name": "Bona",
+    "postal_code": "80581"
   }
 ]

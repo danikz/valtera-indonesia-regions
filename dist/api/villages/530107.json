@@ -2,36 +2,43 @@
   {
     "code": "5301071001",
     "district_code": "530107",
-    "name": "Sulamu"
+    "name": "Sulamu",
+    "postal_code": "85368"
   },
   {
     "code": "5301072002",
     "district_code": "530107",
-    "name": "Pitai"
+    "name": "Pitai",
+    "postal_code": "85368"
   },
   {
     "code": "5301072003",
     "district_code": "530107",
-    "name": "Pariti"
+    "name": "Pariti",
+    "postal_code": "85368"
   },
   {
     "code": "5301072004",
     "district_code": "530107",
-    "name": "Oeteta"
+    "name": "Oeteta",
+    "postal_code": "85368"
   },
   {
     "code": "5301072005",
     "district_code": "530107",
-    "name": "Bipolo"
+    "name": "Bipolo",
+    "postal_code": "85368"
   },
   {
     "code": "5301072006",
     "district_code": "530107",
-    "name": "Pantai Beringin"
+    "name": "Pantai Beringin",
+    "postal_code": "85368"
   },
   {
     "code": "5301072007",
     "district_code": "530107",
-    "name": "Pantulan"
+    "name": "Pantulan",
+    "postal_code": "85368"
   }
 ]

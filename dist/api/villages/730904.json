@@ -2,36 +2,43 @@
   {
     "code": "7309041001",
     "district_code": "730904",
-    "name": "Baji Pamai"
+    "name": "Baji Pamai",
+    "postal_code": "90516"
   },
   {
     "code": "7309041002",
     "district_code": "730904",
-    "name": "Pallantikang"
+    "name": "Pallantikang",
+    "postal_code": "90516"
   },
   {
     "code": "7309041003",
     "district_code": "730904",
-    "name": "Baju Bodoa"
+    "name": "Baju Bodoa",
+    "postal_code": "90515"
   },
   {
     "code": "7309042004",
     "district_code": "730904",
-    "name": "Borikamase"
+    "name": "Borikamase",
+    "postal_code": "90512"
   },
   {
     "code": "7309042005",
     "district_code": "730904",
-    "name": "Mattirotasi"
+    "name": "Mattirotasi",
+    "postal_code": "90511"
   },
   {
     "code": "7309042006",
     "district_code": "730904",
-    "name": "Majannang"
+    "name": "Majannang",
+    "postal_code": "90511"
   },
   {
     "code": "7309042007",
     "district_code": "730904",
-    "name": "Borimasunggu"
+    "name": "Borimasunggu",
+    "postal_code": "90511"
   }
 ]

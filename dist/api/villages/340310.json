@@ -2,56 +2,67 @@
   {
     "code": "3403102001",
     "district_code": "340310",
-    "name": "Umbulrejo"
+    "name": "Umbulrejo",
+    "postal_code": "55892"
   },
   {
     "code": "3403102002",
     "district_code": "340310",
-    "name": "Sawahan"
+    "name": "Sawahan",
+    "postal_code": "55892"
   },
   {
     "code": "3403102003",
     "district_code": "340310",
-    "name": "Tambakromo"
+    "name": "Tambakromo",
+    "postal_code": "55892"
   },
   {
     "code": "3403102004",
     "district_code": "340310",
-    "name": "Kenteng"
+    "name": "Kenteng",
+    "postal_code": "55892"
   },
   {
     "code": "3403102005",
     "district_code": "340310",
-    "name": "Sumbergiri"
+    "name": "Sumbergiri",
+    "postal_code": "55892"
   },
   {
     "code": "3403102006",
     "district_code": "340310",
-    "name": "Genjahan"
+    "name": "Genjahan",
+    "postal_code": "55892"
   },
   {
     "code": "3403102007",
     "district_code": "340310",
-    "name": "Ponjong"
+    "name": "Ponjong",
+    "postal_code": "55892"
   },
   {
     "code": "3403102008",
     "district_code": "340310",
-    "name": "Karangasem"
+    "name": "Karangasem",
+    "postal_code": "55892"
   },
   {
     "code": "3403102009",
     "district_code": "340310",
-    "name": "Bedoyo"
+    "name": "Bedoyo",
+    "postal_code": "55892"
   },
   {
     "code": "3403102010",
     "district_code": "340310",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "55892"
   },
   {
     "code": "3403102011",
     "district_code": "340310",
-    "name": "Gombang"
+    "name": "Gombang",
+    "postal_code": "55892"
   }
 ]

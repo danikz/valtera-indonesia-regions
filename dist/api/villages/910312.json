@@ -2,26 +2,31 @@
   {
     "code": "9103122001",
     "district_code": "910312",
-    "name": "Ebungfa"
+    "name": "Ebungfa",
+    "postal_code": "99351"
   },
   {
     "code": "9103122002",
     "district_code": "910312",
-    "name": "Atabar"
+    "name": "Atabar",
+    "postal_code": "99351"
   },
   {
     "code": "9103122003",
     "district_code": "910312",
-    "name": "Bobrongko"
+    "name": "Bobrongko",
+    "postal_code": ""
   },
   {
     "code": "9103122004",
     "district_code": "910312",
-    "name": "Khameyoka"
+    "name": "Khameyoka",
+    "postal_code": "99351"
   },
   {
     "code": "9103122005",
     "district_code": "910312",
-    "name": "Simporo"
+    "name": "Simporo",
+    "postal_code": ""
   }
 ]

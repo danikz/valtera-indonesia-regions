@@ -2,21 +2,25 @@
   {
     "code": "1308072001",
     "district_code": "130807",
-    "name": "Panti"
+    "name": "Panti",
+    "postal_code": "26351"
   },
   {
     "code": "1308072003",
     "district_code": "130807",
-    "name": "Panti Timur"
+    "name": "Panti Timur",
+    "postal_code": "26351"
   },
   {
     "code": "1308072004",
     "district_code": "130807",
-    "name": "Panti Selatan"
+    "name": "Panti Selatan",
+    "postal_code": "26351"
   },
   {
     "code": "1308072005",
     "district_code": "130807",
-    "name": "Panti Utara"
+    "name": "Panti Utara",
+    "postal_code": "26351"
   }
 ]

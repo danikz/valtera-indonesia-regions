@@ -2,41 +2,49 @@
   {
     "code": "3671131001",
     "district_code": "367113",
-    "name": "Larangan Utara"
+    "name": "Larangan Utara",
+    "postal_code": "15154"
   },
   {
     "code": "3671131002",
     "district_code": "367113",
-    "name": "Larangan Selatan"
+    "name": "Larangan Selatan",
+    "postal_code": "15154"
   },
   {
     "code": "3671131003",
     "district_code": "367113",
-    "name": "Cipadu"
+    "name": "Cipadu",
+    "postal_code": "15155"
   },
   {
     "code": "3671131004",
     "district_code": "367113",
-    "name": "Kreo"
+    "name": "Kreo",
+    "postal_code": "15156"
   },
   {
     "code": "3671131005",
     "district_code": "367113",
-    "name": "Larangan Indah"
+    "name": "Larangan Indah",
+    "postal_code": "15154"
   },
   {
     "code": "3671131006",
     "district_code": "367113",
-    "name": "Gaga"
+    "name": "Gaga",
+    "postal_code": "15154"
   },
   {
     "code": "3671131007",
     "district_code": "367113",
-    "name": "Cipadu Jaya"
+    "name": "Cipadu Jaya",
+    "postal_code": "15155"
   },
   {
     "code": "3671131008",
     "district_code": "367113",
-    "name": "Kreo Selatan"
+    "name": "Kreo Selatan",
+    "postal_code": "15156"
   }
 ]

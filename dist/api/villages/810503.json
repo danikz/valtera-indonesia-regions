@@ -2,51 +2,61 @@
   {
     "code": "8105032001",
     "district_code": "810503",
-    "name": "Batuasa"
+    "name": "Batuasa",
+    "postal_code": "97525"
   },
   {
     "code": "8105032002",
     "district_code": "810503",
-    "name": "Hatuimeten"
+    "name": "Hatuimeten",
+    "postal_code": "97525"
   },
   {
     "code": "8105032003",
     "district_code": "810503",
-    "name": "Werinama"
+    "name": "Werinama",
+    "postal_code": "97525"
   },
   {
     "code": "8105032004",
     "district_code": "810503",
-    "name": "Bemo"
+    "name": "Bemo",
+    "postal_code": "97525"
   },
   {
     "code": "8105032015",
     "district_code": "810503",
-    "name": "Tum"
+    "name": "Tum",
+    "postal_code": "97525"
   },
   {
     "code": "8105032016",
     "district_code": "810503",
-    "name": "Gusalaut"
+    "name": "Gusalaut",
+    "postal_code": "97525"
   },
   {
     "code": "8105032017",
     "district_code": "810503",
-    "name": "Osong"
+    "name": "Osong",
+    "postal_code": "97525"
   },
   {
     "code": "8105032018",
     "district_code": "810503",
-    "name": "Tobo"
+    "name": "Tobo",
+    "postal_code": "97525"
   },
   {
     "code": "8105032021",
     "district_code": "810503",
-    "name": "Bemo Perak"
+    "name": "Bemo Perak",
+    "postal_code": "97525"
   },
   {
     "code": "8105032022",
     "district_code": "810503",
-    "name": "Funa Naibaya"
+    "name": "Funa Naibaya",
+    "postal_code": "97525"
   }
 ]

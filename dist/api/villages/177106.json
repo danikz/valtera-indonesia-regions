@@ -2,41 +2,49 @@
   {
     "code": "1771061001",
     "district_code": "177106",
-    "name": "Kebun Tebeng"
+    "name": "Kebun Tebeng",
+    "postal_code": "38227"
   },
   {
     "code": "1771061002",
     "district_code": "177106",
-    "name": "Tanah Patah"
+    "name": "Tanah Patah",
+    "postal_code": "38224"
   },
   {
     "code": "1771061003",
     "district_code": "177106",
-    "name": "Nusa Indah"
+    "name": "Nusa Indah",
+    "postal_code": "38224"
   },
   {
     "code": "1771061004",
     "district_code": "177106",
-    "name": "Kebun Beler"
+    "name": "Kebun Beler",
+    "postal_code": "38223"
   },
   {
     "code": "1771061005",
     "district_code": "177106",
-    "name": "Kebun Kenanga"
+    "name": "Kebun Kenanga",
+    "postal_code": "38223"
   },
   {
     "code": "1771061006",
     "district_code": "177106",
-    "name": "Sawah Lebar"
+    "name": "Sawah Lebar",
+    "postal_code": "38228"
   },
   {
     "code": "1771061007",
     "district_code": "177106",
-    "name": "Sawah Lebar Baru"
+    "name": "Sawah Lebar Baru",
+    "postal_code": "38223"
   },
   {
     "code": "1771061008",
     "district_code": "177106",
-    "name": "Lempuing"
+    "name": "Lempuing",
+    "postal_code": "38223"
   }
 ]

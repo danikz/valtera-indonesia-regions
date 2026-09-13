@@ -2,26 +2,31 @@
   {
     "code": "3510012001",
     "district_code": "351001",
-    "name": "Sarongan"
+    "name": "Sarongan",
+    "postal_code": "68488"
   },
   {
     "code": "3510012002",
     "district_code": "351001",
-    "name": "Pesanggaran"
+    "name": "Pesanggaran",
+    "postal_code": "68488"
   },
   {
     "code": "3510012004",
     "district_code": "351001",
-    "name": "Sumberagung"
+    "name": "Sumberagung",
+    "postal_code": "68488"
   },
   {
     "code": "3510012009",
     "district_code": "351001",
-    "name": "Kandangan"
+    "name": "Kandangan",
+    "postal_code": "68488"
   },
   {
     "code": "3510012010",
     "district_code": "351001",
-    "name": "Sumbermulyo"
+    "name": "Sumbermulyo",
+    "postal_code": "68488"
   }
 ]

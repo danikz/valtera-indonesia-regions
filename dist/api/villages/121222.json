@@ -2,31 +2,37 @@
   {
     "code": "1212222001",
     "district_code": "121222",
-    "name": "Lintong Nihuta"
+    "name": "Lintong Nihuta",
+    "postal_code": "22312"
   },
   {
     "code": "1212222002",
     "district_code": "121222",
-    "name": "Tarabunga"
+    "name": "Tarabunga",
+    "postal_code": "22312"
   },
   {
     "code": "1212222003",
     "district_code": "121222",
-    "name": "Meat"
+    "name": "Meat",
+    "postal_code": "22312"
   },
   {
     "code": "1212222004",
     "district_code": "121222",
-    "name": "Gurgur Aek Raja"
+    "name": "Gurgur Aek Raja",
+    "postal_code": "22312"
   },
   {
     "code": "1212222005",
     "district_code": "121222",
-    "name": "Tangga Batu Barat"
+    "name": "Tangga Batu Barat",
+    "postal_code": "22312"
   },
   {
     "code": "1212222006",
     "district_code": "121222",
-    "name": "Tangga Batu Timur"
+    "name": "Tangga Batu Timur",
+    "postal_code": "22312"
   }
 ]

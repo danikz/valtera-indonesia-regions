@@ -2,21 +2,25 @@
   {
     "code": "3402172001",
     "district_code": "340217",
-    "name": "Argodadi"
+    "name": "Argodadi",
+    "postal_code": "55752"
   },
   {
     "code": "3402172002",
     "district_code": "340217",
-    "name": "Argorejo"
+    "name": "Argorejo",
+    "postal_code": "55752"
   },
   {
     "code": "3402172003",
     "district_code": "340217",
-    "name": "Argosari"
+    "name": "Argosari",
+    "postal_code": "55752"
   },
   {
     "code": "3402172004",
     "district_code": "340217",
-    "name": "Argomulyo"
+    "name": "Argomulyo",
+    "postal_code": "55752"
   }
 ]

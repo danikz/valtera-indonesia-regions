@@ -2,66 +2,79 @@
   {
     "code": "3309061007",
     "district_code": "330906",
-    "name": "Kemiri"
+    "name": "Kemiri",
+    "postal_code": "57321"
   },
   {
     "code": "3309061009",
     "district_code": "330906",
-    "name": "Mojosongo"
+    "name": "Mojosongo",
+    "postal_code": "57322"
   },
   {
     "code": "3309062001",
     "district_code": "330906",
-    "name": "Madu"
+    "name": "Madu",
+    "postal_code": "57322"
   },
   {
     "code": "3309062002",
     "district_code": "330906",
-    "name": "Singosari"
+    "name": "Singosari",
+    "postal_code": "57322"
   },
   {
     "code": "3309062003",
     "district_code": "330906",
-    "name": "Tambak"
+    "name": "Tambak",
+    "postal_code": "57322"
   },
   {
     "code": "3309062004",
     "district_code": "330906",
-    "name": "Manggis"
+    "name": "Manggis",
+    "postal_code": "57322"
   },
   {
     "code": "3309062005",
     "district_code": "330906",
-    "name": "Jurug"
+    "name": "Jurug",
+    "postal_code": "57322"
   },
   {
     "code": "3309062006",
     "district_code": "330906",
-    "name": "Karangnongko"
+    "name": "Karangnongko",
+    "postal_code": "57322"
   },
   {
     "code": "3309062008",
     "district_code": "330906",
-    "name": "Butuh"
+    "name": "Butuh",
+    "postal_code": "57322"
   },
   {
     "code": "3309062010",
     "district_code": "330906",
-    "name": "Kragilan"
+    "name": "Kragilan",
+    "postal_code": "57323"
   },
   {
     "code": "3309062011",
     "district_code": "330906",
-    "name": "Brajan"
+    "name": "Brajan",
+    "postal_code": "57322"
   },
   {
     "code": "3309062012",
     "district_code": "330906",
-    "name": "Metuk"
+    "name": "Metuk",
+    "postal_code": "57322"
   },
   {
     "code": "3309062013",
     "district_code": "330906",
-    "name": "Dlingo"
+    "name": "Dlingo",
+    "postal_code": "57322"
   }
 ]

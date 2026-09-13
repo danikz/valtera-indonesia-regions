@@ -2,56 +2,67 @@
   {
     "code": "3312131009",
     "district_code": "331213",
-    "name": "Mlokomanis Kulon"
+    "name": "Mlokomanis Kulon",
+    "postal_code": "57681"
   },
   {
     "code": "3312131010",
     "district_code": "331213",
-    "name": "Kasihan"
+    "name": "Kasihan",
+    "postal_code": "57681"
   },
   {
     "code": "3312132001",
     "district_code": "331213",
-    "name": "Gemawang"
+    "name": "Gemawang",
+    "postal_code": "57681"
   },
   {
     "code": "3312132002",
     "district_code": "331213",
-    "name": "Kerjo Kidul"
+    "name": "Kerjo Kidul",
+    "postal_code": "57681"
   },
   {
     "code": "3312132003",
     "district_code": "331213",
-    "name": "Gedong"
+    "name": "Gedong",
+    "postal_code": "57681"
   },
   {
     "code": "3312132004",
     "district_code": "331213",
-    "name": "Pondok"
+    "name": "Pondok",
+    "postal_code": "57681"
   },
   {
     "code": "3312132005",
     "district_code": "331213",
-    "name": "Kerjo Lor"
+    "name": "Kerjo Lor",
+    "postal_code": "57681"
   },
   {
     "code": "3312132006",
     "district_code": "331213",
-    "name": "Ngadirojo Kidul"
+    "name": "Ngadirojo Kidul",
+    "postal_code": "57681"
   },
   {
     "code": "3312132007",
     "district_code": "331213",
-    "name": "Ngadirojo Lor"
+    "name": "Ngadirojo Lor",
+    "postal_code": "57681"
   },
   {
     "code": "3312132008",
     "district_code": "331213",
-    "name": "Mlokomanis Wetan"
+    "name": "Mlokomanis Wetan",
+    "postal_code": "57681"
   },
   {
     "code": "3312132011",
     "district_code": "331213",
-    "name": "Jatimarto"
+    "name": "Jatimarto",
+    "postal_code": "57681"
   }
 ]

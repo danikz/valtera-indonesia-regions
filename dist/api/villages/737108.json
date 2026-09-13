@@ -2,46 +2,55 @@
   {
     "code": "7371081002",
     "district_code": "737108",
-    "name": "Tabaringan"
+    "name": "Tabaringan",
+    "postal_code": "90165"
   },
   {
     "code": "7371081003",
     "district_code": "737108",
-    "name": "Patingalloang"
+    "name": "Patingalloang",
+    "postal_code": "90161"
   },
   {
     "code": "7371081004",
     "district_code": "737108",
-    "name": "Gusung"
+    "name": "Gusung",
+    "postal_code": "90163"
   },
   {
     "code": "7371081005",
     "district_code": "737108",
-    "name": "Cambaya"
+    "name": "Cambaya",
+    "postal_code": "90162"
   },
   {
     "code": "7371081006",
     "district_code": "737108",
-    "name": "Ujung Tanah"
+    "name": "Ujung Tanah",
+    "postal_code": "90164"
   },
   {
     "code": "7371081009",
     "district_code": "737108",
-    "name": "Totaka"
+    "name": "Totaka",
+    "postal_code": "90165"
   },
   {
     "code": "7371081010",
     "district_code": "737108",
-    "name": "Tamalabba"
+    "name": "Tamalabba",
+    "postal_code": "90164"
   },
   {
     "code": "7371081011",
     "district_code": "737108",
-    "name": "Camba Berua"
+    "name": "Camba Berua",
+    "postal_code": "90162"
   },
   {
     "code": "7371081012",
     "district_code": "737108",
-    "name": "Patingalloang Baru"
+    "name": "Patingalloang Baru",
+    "postal_code": "90161"
   }
 ]

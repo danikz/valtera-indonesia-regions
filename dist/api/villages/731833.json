@@ -2,26 +2,31 @@
   {
     "code": "7318331005",
     "district_code": "731833",
-    "name": "Rante Alang"
+    "name": "Rante Alang",
+    "postal_code": "91882"
   },
   {
     "code": "7318332001",
     "district_code": "731833",
-    "name": "Batualu"
+    "name": "Batualu",
+    "postal_code": "91882"
   },
   {
     "code": "7318332002",
     "district_code": "731833",
-    "name": "Tokesan"
+    "name": "Tokesan",
+    "postal_code": "91882"
   },
   {
     "code": "7318332003",
     "district_code": "731833",
-    "name": "Batualu Selatan"
+    "name": "Batualu Selatan",
+    "postal_code": "91882"
   },
   {
     "code": "7318332004",
     "district_code": "731833",
-    "name": "Raru Sibunuan"
+    "name": "Raru Sibunuan",
+    "postal_code": "91882"
   }
 ]

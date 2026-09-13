@@ -2,36 +2,43 @@
   {
     "code": "7408072001",
     "district_code": "740807",
-    "name": "Walasiho"
+    "name": "Walasiho",
+    "postal_code": "93962"
   },
   {
     "code": "7408072002",
     "district_code": "740807",
-    "name": "Wawo"
+    "name": "Wawo",
+    "postal_code": "93962"
   },
   {
     "code": "7408072003",
     "district_code": "740807",
-    "name": "Tinukari"
+    "name": "Tinukari",
+    "postal_code": "93962"
   },
   {
     "code": "7408072004",
     "district_code": "740807",
-    "name": "Pumbolo"
+    "name": "Pumbolo",
+    "postal_code": "93962"
   },
   {
     "code": "7408072005",
     "district_code": "740807",
-    "name": "Ulu Wawo"
+    "name": "Ulu Wawo",
+    "postal_code": "93962"
   },
   {
     "code": "7408072006",
     "district_code": "740807",
-    "name": "Latawe"
+    "name": "Latawe",
+    "postal_code": "93962"
   },
   {
     "code": "7408072007",
     "district_code": "740807",
-    "name": "Salurengko"
+    "name": "Salurengko",
+    "postal_code": "93962"
   }
 ]

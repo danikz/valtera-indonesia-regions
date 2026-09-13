@@ -2,26 +2,31 @@
   {
     "code": "7372021001",
     "district_code": "737202",
-    "name": "Labukkang"
+    "name": "Labukkang",
+    "postal_code": "91111"
   },
   {
     "code": "7372021002",
     "district_code": "737202",
-    "name": "Ujung Sabbang"
+    "name": "Ujung Sabbang",
+    "postal_code": "91114"
   },
   {
     "code": "7372021003",
     "district_code": "737202",
-    "name": "Ujung Bulu"
+    "name": "Ujung Bulu",
+    "postal_code": "91113"
   },
   {
     "code": "7372021004",
     "district_code": "737202",
-    "name": "Lapadde"
+    "name": "Lapadde",
+    "postal_code": "91112"
   },
   {
     "code": "7372021005",
     "district_code": "737202",
-    "name": "Mallusetasi"
+    "name": "Mallusetasi",
+    "postal_code": "91111"
   }
 ]

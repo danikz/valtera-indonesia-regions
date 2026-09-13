@@ -2,71 +2,85 @@
   {
     "code": "9203051001",
     "district_code": "920305",
-    "name": "Danaweria"
+    "name": "Danaweria",
+    "postal_code": "98012"
   },
   {
     "code": "9203052002",
     "district_code": "920305",
-    "name": "Kayu Merah"
+    "name": "Kayu Merah",
+    "postal_code": "98012"
   },
   {
     "code": "9203052003",
     "district_code": "920305",
-    "name": "Katemba"
+    "name": "Katemba",
+    "postal_code": "98012"
   },
   {
     "code": "9203052004",
     "district_code": "920305",
-    "name": "Nemewikarya"
+    "name": "Nemewikarya",
+    "postal_code": "98012"
   },
   {
     "code": "9203052005",
     "district_code": "920305",
-    "name": "Raduria"
+    "name": "Raduria",
+    "postal_code": "98012"
   },
   {
     "code": "9203052006",
     "district_code": "920305",
-    "name": "Brongkendik"
+    "name": "Brongkendik",
+    "postal_code": "98012"
   },
   {
     "code": "9203052007",
     "district_code": "920305",
-    "name": "Air Besar"
+    "name": "Air Besar",
+    "postal_code": "98012"
   },
   {
     "code": "9203052008",
     "district_code": "920305",
-    "name": "Mandopma"
+    "name": "Mandopma",
+    "postal_code": "98012"
   },
   {
     "code": "9203052009",
     "district_code": "920305",
-    "name": "Kanantare"
+    "name": "Kanantare",
+    "postal_code": "98012"
   },
   {
     "code": "9203052010",
     "district_code": "920305",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "98012"
   },
   {
     "code": "9203052011",
     "district_code": "920305",
-    "name": "Pirma"
+    "name": "Pirma",
+    "postal_code": "98012"
   },
   {
     "code": "9203052012",
     "district_code": "920305",
-    "name": "Sakartemin"
+    "name": "Sakartemin",
+    "postal_code": "98012"
   },
   {
     "code": "9203052013",
     "district_code": "920305",
-    "name": "Hambrangkendik"
+    "name": "Hambrangkendik",
+    "postal_code": "98012"
   },
   {
     "code": "9203052014",
     "district_code": "920305",
-    "name": "Unipokpok"
+    "name": "Unipokpok",
+    "postal_code": "98012"
   }
 ]

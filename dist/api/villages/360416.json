@@ -2,46 +2,55 @@
   {
     "code": "3604162001",
     "district_code": "360416",
-    "name": "Kibin"
+    "name": "Kibin",
+    "postal_code": "42185"
   },
   {
     "code": "3604162002",
     "district_code": "360416",
-    "name": "Ketos"
+    "name": "Ketos",
+    "postal_code": "42185"
   },
   {
     "code": "3604162003",
     "district_code": "360416",
-    "name": "Cijeruk"
+    "name": "Cijeruk",
+    "postal_code": "42185"
   },
   {
     "code": "3604162004",
     "district_code": "360416",
-    "name": "Nagara"
+    "name": "Nagara",
+    "postal_code": "42185"
   },
   {
     "code": "3604162005",
     "district_code": "360416",
-    "name": "Nambo Ilir"
+    "name": "Nambo Ilir",
+    "postal_code": "42185"
   },
   {
     "code": "3604162006",
     "district_code": "360416",
-    "name": "Barengkok"
+    "name": "Barengkok",
+    "postal_code": "42185"
   },
   {
     "code": "3604162007",
     "district_code": "360416",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "42185"
   },
   {
     "code": "3604162008",
     "district_code": "360416",
-    "name": "Tambak"
+    "name": "Tambak",
+    "postal_code": "42185"
   },
   {
     "code": "3604162009",
     "district_code": "360416",
-    "name": "Ciagel"
+    "name": "Ciagel",
+    "postal_code": "42185"
   }
 ]

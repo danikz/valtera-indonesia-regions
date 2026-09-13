@@ -2,36 +2,43 @@
   {
     "code": "1224112001",
     "district_code": "122411",
-    "name": "Laowowaga"
+    "name": "Laowowaga",
+    "postal_code": "22858"
   },
   {
     "code": "1224112002",
     "district_code": "122411",
-    "name": "Lukhu Lase"
+    "name": "Lukhu Lase",
+    "postal_code": "22858"
   },
   {
     "code": "1224112003",
     "district_code": "122411",
-    "name": "Tetehosi Sorowi"
+    "name": "Tetehosi Sorowi",
+    "postal_code": "22858"
   },
   {
     "code": "1224112004",
     "district_code": "122411",
-    "name": "Tefa'o"
+    "name": "Tefa'o",
+    "postal_code": "22858"
   },
   {
     "code": "1224112005",
     "district_code": "122411",
-    "name": "Tugala Lauru"
+    "name": "Tugala Lauru",
+    "postal_code": "22858"
   },
   {
     "code": "1224112006",
     "district_code": "122411",
-    "name": "Muzoi"
+    "name": "Muzoi",
+    "postal_code": "22858"
   },
   {
     "code": "1224112007",
     "district_code": "122411",
-    "name": "Meafu"
+    "name": "Meafu",
+    "postal_code": "22858"
   }
 ]

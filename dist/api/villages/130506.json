@@ -2,41 +2,49 @@
   {
     "code": "1305062001",
     "district_code": "130506",
-    "name": "Campago"
+    "name": "Campago",
+    "postal_code": "25552"
   },
   {
     "code": "1305062002",
     "district_code": "130506",
-    "name": "Sikucua"
+    "name": "Sikucua",
+    "postal_code": "25552"
   },
   {
     "code": "1305062003",
     "district_code": "130506",
-    "name": "Campago Barat"
+    "name": "Campago Barat",
+    "postal_code": "25552"
   },
   {
     "code": "1305062004",
     "district_code": "130506",
-    "name": "Campago Selatan"
+    "name": "Campago Selatan",
+    "postal_code": "25552"
   },
   {
     "code": "1305062005",
     "district_code": "130506",
-    "name": "Sikucua Utara"
+    "name": "Sikucua Utara",
+    "postal_code": "25552"
   },
   {
     "code": "1305062006",
     "district_code": "130506",
-    "name": "Sikucua Timur"
+    "name": "Sikucua Timur",
+    "postal_code": "25552"
   },
   {
     "code": "1305062007",
     "district_code": "130506",
-    "name": "Sikucua Tengah"
+    "name": "Sikucua Tengah",
+    "postal_code": "25552"
   },
   {
     "code": "1305062008",
     "district_code": "130506",
-    "name": "Sikucua Barat"
+    "name": "Sikucua Barat",
+    "postal_code": "25552"
   }
 ]

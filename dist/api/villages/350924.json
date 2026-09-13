@@ -2,36 +2,43 @@
   {
     "code": "3509242001",
     "district_code": "350924",
-    "name": "Patemon"
+    "name": "Patemon",
+    "postal_code": "68181"
   },
   {
     "code": "3509242002",
     "district_code": "350924",
-    "name": "Bedadung"
+    "name": "Bedadung",
+    "postal_code": "68181"
   },
   {
     "code": "3509242003",
     "district_code": "350924",
-    "name": "Sumberpinang"
+    "name": "Sumberpinang",
+    "postal_code": "68181"
   },
   {
     "code": "3509242004",
     "district_code": "350924",
-    "name": "Subo"
+    "name": "Subo",
+    "postal_code": "68181"
   },
   {
     "code": "3509242005",
     "district_code": "350924",
-    "name": "Kertosari"
+    "name": "Kertosari",
+    "postal_code": "68181"
   },
   {
     "code": "3509242006",
     "district_code": "350924",
-    "name": "Jatian"
+    "name": "Jatian",
+    "postal_code": "68181"
   },
   {
     "code": "3509242007",
     "district_code": "350924",
-    "name": "Pakusari"
+    "name": "Pakusari",
+    "postal_code": "68181"
   }
 ]

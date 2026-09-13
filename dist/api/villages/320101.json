@@ -2,66 +2,79 @@
   {
     "code": "3201011001",
     "district_code": "320101",
-    "name": "Pondok Rajeg"
+    "name": "Pondok Rajeg",
+    "postal_code": "16914"
   },
   {
     "code": "3201011002",
     "district_code": "320101",
-    "name": "Karadenan"
+    "name": "Karadenan",
+    "postal_code": "16913"
   },
   {
     "code": "3201011003",
     "district_code": "320101",
-    "name": "Harapanjaya"
+    "name": "Harapanjaya",
+    "postal_code": "16914"
   },
   {
     "code": "3201011004",
     "district_code": "320101",
-    "name": "Nanggewer"
+    "name": "Nanggewer",
+    "postal_code": "16912"
   },
   {
     "code": "3201011005",
     "district_code": "320101",
-    "name": "Nanggewer Mekar"
+    "name": "Nanggewer Mekar",
+    "postal_code": "16912"
   },
   {
     "code": "3201011006",
     "district_code": "320101",
-    "name": "Cibinong"
+    "name": "Cibinong",
+    "postal_code": "16911"
   },
   {
     "code": "3201011007",
     "district_code": "320101",
-    "name": "Pakansari"
+    "name": "Pakansari",
+    "postal_code": "16915"
   },
   {
     "code": "3201011008",
     "district_code": "320101",
-    "name": "Tengah"
+    "name": "Tengah",
+    "postal_code": "16914"
   },
   {
     "code": "3201011009",
     "district_code": "320101",
-    "name": "Sukahati"
+    "name": "Sukahati",
+    "postal_code": "16913"
   },
   {
     "code": "3201011010",
     "district_code": "320101",
-    "name": "Ciriung"
+    "name": "Ciriung",
+    "postal_code": "16918"
   },
   {
     "code": "3201011011",
     "district_code": "320101",
-    "name": "Cirimekar"
+    "name": "Cirimekar",
+    "postal_code": "16917"
   },
   {
     "code": "3201011012",
     "district_code": "320101",
-    "name": "Pabuaran"
+    "name": "Pabuaran",
+    "postal_code": "16916"
   },
   {
     "code": "3201011013",
     "district_code": "320101",
-    "name": "Pabuaran Mekar"
+    "name": "Pabuaran Mekar",
+    "postal_code": "16916"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "6101152001",
     "district_code": "610115",
-    "name": "Rantau Panjang"
+    "name": "Rantau Panjang",
+    "postal_code": "79464"
   },
   {
     "code": "6101152002",
     "district_code": "610115",
-    "name": "Tebing Batu"
+    "name": "Tebing Batu",
+    "postal_code": "79464"
   },
   {
     "code": "6101152003",
     "district_code": "610115",
-    "name": "Sebawi"
+    "name": "Sebawi",
+    "postal_code": "79464"
   },
   {
     "code": "6101152004",
     "district_code": "610115",
-    "name": "Sepuk Tanjung"
+    "name": "Sepuk Tanjung",
+    "postal_code": "79464"
   },
   {
     "code": "6101152005",
     "district_code": "610115",
-    "name": "Sebangun"
+    "name": "Sebangun",
+    "postal_code": "79464"
   },
   {
     "code": "6101152006",
     "district_code": "610115",
-    "name": "Sempalai Sebedang"
+    "name": "Sempalai Sebedang",
+    "postal_code": "79464"
   },
   {
     "code": "6101152007",
     "district_code": "610115",
-    "name": "Tempatan"
+    "name": "Tempatan",
+    "postal_code": "79464"
   }
 ]

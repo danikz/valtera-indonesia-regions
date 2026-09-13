@@ -2,26 +2,31 @@
   {
     "code": "1305112001",
     "district_code": "130511",
-    "name": "Sintuak"
+    "name": "Sintuak",
+    "postal_code": "25582"
   },
   {
     "code": "1305112002",
     "district_code": "130511",
-    "name": "Toboh Gadang"
+    "name": "Toboh Gadang",
+    "postal_code": "25582"
   },
   {
     "code": "1305112003",
     "district_code": "130511",
-    "name": "Toboh Gadang Selatan"
+    "name": "Toboh Gadang Selatan",
+    "postal_code": "25582"
   },
   {
     "code": "1305112004",
     "district_code": "130511",
-    "name": "Toboh Gadang Barat"
+    "name": "Toboh Gadang Barat",
+    "postal_code": "25582"
   },
   {
     "code": "1305112005",
     "district_code": "130511",
-    "name": "Toboh Gadang Timur"
+    "name": "Toboh Gadang Timur",
+    "postal_code": "25582"
   }
 ]

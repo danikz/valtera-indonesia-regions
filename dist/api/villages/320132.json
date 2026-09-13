@@ -2,46 +2,55 @@
   {
     "code": "3201322001",
     "district_code": "320132",
-    "name": "Klapanunggal"
+    "name": "Klapanunggal",
+    "postal_code": "16710"
   },
   {
     "code": "3201322002",
     "district_code": "320132",
-    "name": "Bojong"
+    "name": "Bojong",
+    "postal_code": "16710"
   },
   {
     "code": "3201322003",
     "district_code": "320132",
-    "name": "Nambo"
+    "name": "Nambo",
+    "postal_code": "16710"
   },
   {
     "code": "3201322004",
     "district_code": "320132",
-    "name": "Lulut"
+    "name": "Lulut",
+    "postal_code": "16710"
   },
   {
     "code": "3201322005",
     "district_code": "320132",
-    "name": "Cikahuripan"
+    "name": "Cikahuripan",
+    "postal_code": "16710"
   },
   {
     "code": "3201322006",
     "district_code": "320132",
-    "name": "Kembang Kuning"
+    "name": "Kembang Kuning",
+    "postal_code": "16710"
   },
   {
     "code": "3201322007",
     "district_code": "320132",
-    "name": "Bantar Jati"
+    "name": "Bantar Jati",
+    "postal_code": "16710"
   },
   {
     "code": "3201322008",
     "district_code": "320132",
-    "name": "Leuwikaret"
+    "name": "Leuwikaret",
+    "postal_code": "16710"
   },
   {
     "code": "3201322009",
     "district_code": "320132",
-    "name": "Ligarmukti"
+    "name": "Ligarmukti",
+    "postal_code": "16710"
   }
 ]

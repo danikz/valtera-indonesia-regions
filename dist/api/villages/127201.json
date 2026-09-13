@@ -2,36 +2,43 @@
   {
     "code": "1272011001",
     "district_code": "127201",
-    "name": "Kebun Sayur"
+    "name": "Kebun Sayur",
+    "postal_code": "21134"
   },
   {
     "code": "1272011002",
     "district_code": "127201",
-    "name": "Tomuan"
+    "name": "Tomuan",
+    "postal_code": "21133"
   },
   {
     "code": "1272011003",
     "district_code": "127201",
-    "name": "Pahlawan"
+    "name": "Pahlawan",
+    "postal_code": "21132"
   },
   {
     "code": "1272011004",
     "district_code": "127201",
-    "name": "Asuhan"
+    "name": "Asuhan",
+    "postal_code": "21136"
   },
   {
     "code": "1272011005",
     "district_code": "127201",
-    "name": "Merdeka"
+    "name": "Merdeka",
+    "postal_code": "21135"
   },
   {
     "code": "1272011006",
     "district_code": "127201",
-    "name": "Pardomuan"
+    "name": "Pardomuan",
+    "postal_code": "21131"
   },
   {
     "code": "1272011007",
     "district_code": "127201",
-    "name": "Siopat Suhu"
+    "name": "Siopat Suhu",
+    "postal_code": "21139"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3172031001",
     "district_code": "317203",
-    "name": "Koja"
+    "name": "Koja",
+    "postal_code": "14210"
   },
   {
     "code": "3172031002",
     "district_code": "317203",
-    "name": "Tugu Utara"
+    "name": "Tugu Utara",
+    "postal_code": "14260"
   },
   {
     "code": "3172031003",
     "district_code": "317203",
-    "name": "Lagoa"
+    "name": "Lagoa",
+    "postal_code": "14270"
   },
   {
     "code": "3172031004",
     "district_code": "317203",
-    "name": "Rawa Badak Utara"
+    "name": "Rawa Badak Utara",
+    "postal_code": "14230"
   },
   {
     "code": "3172031005",
     "district_code": "317203",
-    "name": "Tugu Selatan"
+    "name": "Tugu Selatan",
+    "postal_code": "14260"
   },
   {
     "code": "3172031006",
     "district_code": "317203",
-    "name": "Rawa Badak Selatan"
+    "name": "Rawa Badak Selatan",
+    "postal_code": "14230"
   }
 ]

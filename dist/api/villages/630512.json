@@ -2,41 +2,49 @@
   {
     "code": "6305122001",
     "district_code": "630512",
-    "name": "Tarungin"
+    "name": "Tarungin",
+    "postal_code": "71184"
   },
   {
     "code": "6305122002",
     "district_code": "630512",
-    "name": "Matang Batas"
+    "name": "Matang Batas",
+    "postal_code": "71184"
   },
   {
     "code": "6305122003",
     "district_code": "630512",
-    "name": "Hatungun"
+    "name": "Hatungun",
+    "postal_code": "71184"
   },
   {
     "code": "6305122004",
     "district_code": "630512",
-    "name": "Burakai"
+    "name": "Burakai",
+    "postal_code": "71184"
   },
   {
     "code": "6305122005",
     "district_code": "630512",
-    "name": "Batu Hapu"
+    "name": "Batu Hapu",
+    "postal_code": "71184"
   },
   {
     "code": "6305122006",
     "district_code": "630512",
-    "name": "Kambang Kuning"
+    "name": "Kambang Kuning",
+    "postal_code": "71184"
   },
   {
     "code": "6305122007",
     "district_code": "630512",
-    "name": "Asam Randah"
+    "name": "Asam Randah",
+    "postal_code": "71184"
   },
   {
     "code": "6305122008",
     "district_code": "630512",
-    "name": "Bagak"
+    "name": "Bagak",
+    "postal_code": "71184"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3213102005",
     "district_code": "321310",
-    "name": "Pusakaratu"
+    "name": "Pusakaratu",
+    "postal_code": "41265"
   },
   {
     "code": "3213102006",
     "district_code": "321310",
-    "name": "Gempol"
+    "name": "Gempol",
+    "postal_code": "41265"
   },
   {
     "code": "3213102007",
     "district_code": "321310",
-    "name": "Kalentambo"
+    "name": "Kalentambo",
+    "postal_code": "41265"
   },
   {
     "code": "3213102008",
     "district_code": "321310",
-    "name": "Patimban"
+    "name": "Patimban",
+    "postal_code": "41265"
   },
   {
     "code": "3213102012",
     "district_code": "321310",
-    "name": "Rancadaka"
+    "name": "Rancadaka",
+    "postal_code": "41265"
   },
   {
     "code": "3213102014",
     "district_code": "321310",
-    "name": "Kotasari"
+    "name": "Kotasari",
+    "postal_code": "41265"
   },
   {
     "code": "3213102015",
     "district_code": "321310",
-    "name": "Mundusari"
+    "name": "Mundusari",
+    "postal_code": "41265"
   }
 ]

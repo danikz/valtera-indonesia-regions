@@ -2,41 +2,49 @@
   {
     "code": "7102161001",
     "district_code": "710216",
-    "name": "Sumalangka"
+    "name": "Sumalangka",
+    "postal_code": "95615"
   },
   {
     "code": "7102161002",
     "district_code": "710216",
-    "name": "Sasaran"
+    "name": "Sasaran",
+    "postal_code": "95615"
   },
   {
     "code": "7102161003",
     "district_code": "710216",
-    "name": "Kampung Jawa"
+    "name": "Kampung Jawa",
+    "postal_code": "95614"
   },
   {
     "code": "7102161004",
     "district_code": "710216",
-    "name": "Wulauan"
+    "name": "Wulauan",
+    "postal_code": "95614"
   },
   {
     "code": "7102161005",
     "district_code": "710216",
-    "name": "Marawas"
+    "name": "Marawas",
+    "postal_code": "95614"
   },
   {
     "code": "7102162006",
     "district_code": "710216",
-    "name": "Tonsea Lama"
+    "name": "Tonsea Lama",
+    "postal_code": "95610"
   },
   {
     "code": "7102162007",
     "district_code": "710216",
-    "name": "Kembuan"
+    "name": "Kembuan",
+    "postal_code": "95615"
   },
   {
     "code": "7102162008",
     "district_code": "710216",
-    "name": "Kembuan Satu"
+    "name": "Kembuan Satu",
+    "postal_code": "95615"
   }
 ]

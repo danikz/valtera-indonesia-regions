@@ -2,16 +2,19 @@
   {
     "code": "2103041003",
     "district_code": "210304",
-    "name": "Sabang Barat"
+    "name": "Sabang Barat",
+    "postal_code": "29784"
   },
   {
     "code": "2103042001",
     "district_code": "210304",
-    "name": "Sebelat"
+    "name": "Sebelat",
+    "postal_code": "29784"
   },
   {
     "code": "2103042005",
     "district_code": "210304",
-    "name": "Air Putih"
+    "name": "Air Putih",
+    "postal_code": "29784"
   }
 ]

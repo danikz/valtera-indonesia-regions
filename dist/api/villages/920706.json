@@ -2,36 +2,43 @@
   {
     "code": "9207062001",
     "district_code": "920706",
-    "name": "Yombekiri I"
+    "name": "Yombekiri I",
+    "postal_code": "98333"
   },
   {
     "code": "9207062002",
     "district_code": "920706",
-    "name": "Isenebuay"
+    "name": "Isenebuay",
+    "postal_code": "98333"
   },
   {
     "code": "9207062003",
     "district_code": "920706",
-    "name": "Yomakan"
+    "name": "Yomakan",
+    "postal_code": "98333"
   },
   {
     "code": "9207062005",
     "district_code": "920706",
-    "name": "Iseren"
+    "name": "Iseren",
+    "postal_code": "98333"
   },
   {
     "code": "9207062008",
     "district_code": "920706",
-    "name": "Yembekiri II"
+    "name": "Yembekiri II",
+    "postal_code": "98333"
   },
   {
     "code": "9207062009",
     "district_code": "920706",
-    "name": "Yariari"
+    "name": "Yariari",
+    "postal_code": "98333"
   },
   {
     "code": "9207062011",
     "district_code": "920706",
-    "name": "Wetitindau"
+    "name": "Wetitindau",
+    "postal_code": "98333"
   }
 ]

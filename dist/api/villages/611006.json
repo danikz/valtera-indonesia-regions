@@ -2,61 +2,73 @@
   {
     "code": "6110062001",
     "district_code": "611006",
-    "name": "Batu Begigi"
+    "name": "Batu Begigi",
+    "postal_code": "79674"
   },
   {
     "code": "6110062002",
     "district_code": "611006",
-    "name": "Loka Jaya"
+    "name": "Loka Jaya",
+    "postal_code": "79674"
   },
   {
     "code": "6110062003",
     "district_code": "611006",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "79674"
   },
   {
     "code": "6110062004",
     "district_code": "611006",
-    "name": "Bina Jaya"
+    "name": "Bina Jaya",
+    "postal_code": "79674"
   },
   {
     "code": "6110062005",
     "district_code": "611006",
-    "name": "Bina Karya"
+    "name": "Bina Karya",
+    "postal_code": "79674"
   },
   {
     "code": "6110062006",
     "district_code": "611006",
-    "name": "Madong Jaya"
+    "name": "Madong Jaya",
+    "postal_code": "79674"
   },
   {
     "code": "6110062016",
     "district_code": "611006",
-    "name": "Bata Luar"
+    "name": "Bata Luar",
+    "postal_code": "79674"
   },
   {
     "code": "6110062017",
     "district_code": "611006",
-    "name": "Maris Permai"
+    "name": "Maris Permai",
+    "postal_code": "79674"
   },
   {
     "code": "6110062019",
     "district_code": "611006",
-    "name": "Pelita Kenaya"
+    "name": "Pelita Kenaya",
+    "postal_code": "79674"
   },
   {
     "code": "6110062020",
     "district_code": "611006",
-    "name": "Tanjung Beringin Raya"
+    "name": "Tanjung Beringin Raya",
+    "postal_code": "79674"
   },
   {
     "code": "6110062021",
     "district_code": "611006",
-    "name": "Tanjung Gunung"
+    "name": "Tanjung Gunung",
+    "postal_code": "79674"
   },
   {
     "code": "6110062022",
     "district_code": "611006",
-    "name": "Keranjik"
+    "name": "Keranjik",
+    "postal_code": "79674"
   }
 ]

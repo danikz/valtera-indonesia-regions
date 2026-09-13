@@ -2,61 +2,73 @@
   {
     "code": "6213092001",
     "district_code": "621309",
-    "name": "Tampa"
+    "name": "Tampa",
+    "postal_code": "73654"
   },
   {
     "code": "6213092002",
     "district_code": "621309",
-    "name": "Kalamus"
+    "name": "Kalamus",
+    "postal_code": "73654"
   },
   {
     "code": "6213092003",
     "district_code": "621309",
-    "name": "Simpang Bingkuang"
+    "name": "Simpang Bingkuang",
+    "postal_code": "73654"
   },
   {
     "code": "6213092004",
     "district_code": "621309",
-    "name": "Patung"
+    "name": "Patung",
+    "postal_code": "73654"
   },
   {
     "code": "6213092005",
     "district_code": "621309",
-    "name": "Runggu Raya"
+    "name": "Runggu Raya",
+    "postal_code": "73654"
   },
   {
     "code": "6213092006",
     "district_code": "621309",
-    "name": "Bantai Napu"
+    "name": "Bantai Napu",
+    "postal_code": "73654"
   },
   {
     "code": "6213092007",
     "district_code": "621309",
-    "name": "Tarinsing"
+    "name": "Tarinsing",
+    "postal_code": "73654"
   },
   {
     "code": "6213092008",
     "district_code": "621309",
-    "name": "Paku Beto"
+    "name": "Paku Beto",
+    "postal_code": "73654"
   },
   {
     "code": "6213092009",
     "district_code": "621309",
-    "name": "Gandrung"
+    "name": "Gandrung",
+    "postal_code": "73654"
   },
   {
     "code": "6213092010",
     "district_code": "621309",
-    "name": "Pangkan"
+    "name": "Pangkan",
+    "postal_code": "73654"
   },
   {
     "code": "6213092011",
     "district_code": "621309",
-    "name": "Kupang Baru"
+    "name": "Kupang Baru",
+    "postal_code": "73654"
   },
   {
     "code": "6213092012",
     "district_code": "621309",
-    "name": "Luau Jawuk"
+    "name": "Luau Jawuk",
+    "postal_code": "73654"
   }
 ]

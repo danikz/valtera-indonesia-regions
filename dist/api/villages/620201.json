@@ -2,56 +2,67 @@
   {
     "code": "6202011009",
     "district_code": "620201",
-    "name": "Kota Besi Hulu"
+    "name": "Kota Besi Hulu",
+    "postal_code": "74353"
   },
   {
     "code": "6202011010",
     "district_code": "620201",
-    "name": "Kota Besi Hilir"
+    "name": "Kota Besi Hilir",
+    "postal_code": "74353"
   },
   {
     "code": "6202012003",
     "district_code": "620201",
-    "name": "Palangan"
+    "name": "Palangan",
+    "postal_code": "74353"
   },
   {
     "code": "6202012004",
     "district_code": "620201",
-    "name": "Hanjalipan"
+    "name": "Hanjalipan",
+    "postal_code": "74353"
   },
   {
     "code": "6202012005",
     "district_code": "620201",
-    "name": "Simpur"
+    "name": "Simpur",
+    "postal_code": "74353"
   },
   {
     "code": "6202012006",
     "district_code": "620201",
-    "name": "Pamalian"
+    "name": "Pamalian",
+    "postal_code": "74353"
   },
   {
     "code": "6202012007",
     "district_code": "620201",
-    "name": "Camba"
+    "name": "Camba",
+    "postal_code": "74353"
   },
   {
     "code": "6202012008",
     "district_code": "620201",
-    "name": "Kandan"
+    "name": "Kandan",
+    "postal_code": "74353"
   },
   {
     "code": "6202012012",
     "district_code": "620201",
-    "name": "Bajarum"
+    "name": "Bajarum",
+    "postal_code": "74353"
   },
   {
     "code": "6202012015",
     "district_code": "620201",
-    "name": "Rasau Tumbuh"
+    "name": "Rasau Tumbuh",
+    "postal_code": "74353"
   },
   {
     "code": "6202012017",
     "district_code": "620201",
-    "name": "Soren"
+    "name": "Soren",
+    "postal_code": "74353"
   }
 ]

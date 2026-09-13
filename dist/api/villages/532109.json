@@ -2,31 +2,37 @@
   {
     "code": "5321092001",
     "district_code": "532109",
-    "name": "Raiulun"
+    "name": "Raiulun",
+    "postal_code": "85761"
   },
   {
     "code": "5321092002",
     "district_code": "532109",
-    "name": "Wemeda"
+    "name": "Wemeda",
+    "postal_code": "85761"
   },
   {
     "code": "5321092003",
     "district_code": "532109",
-    "name": "Kusa"
+    "name": "Kusa",
+    "postal_code": "85761"
   },
   {
     "code": "5321092004",
     "district_code": "532109",
-    "name": "Numponi"
+    "name": "Numponi",
+    "postal_code": "85761"
   },
   {
     "code": "5321092005",
     "district_code": "532109",
-    "name": "Dirma"
+    "name": "Dirma",
+    "postal_code": "85761"
   },
   {
     "code": "5321092006",
     "district_code": "532109",
-    "name": "Sanleo"
+    "name": "Sanleo",
+    "postal_code": "85761"
   }
 ]

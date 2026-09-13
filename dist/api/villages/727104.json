@@ -2,26 +2,31 @@
   {
     "code": "7271041001",
     "district_code": "727104",
-    "name": "Mamboro"
+    "name": "Mamboro",
+    "postal_code": "94148"
   },
   {
     "code": "7271041002",
     "district_code": "727104",
-    "name": "Taipa"
+    "name": "Taipa",
+    "postal_code": "94147"
   },
   {
     "code": "7271041003",
     "district_code": "727104",
-    "name": "Kayumalue Ngapa"
+    "name": "Kayumalue Ngapa",
+    "postal_code": "94146"
   },
   {
     "code": "7271041004",
     "district_code": "727104",
-    "name": "Kayumalue Pajeko"
+    "name": "Kayumalue Pajeko",
+    "postal_code": "94145"
   },
   {
     "code": "7271041010",
     "district_code": "727104",
-    "name": "Mamboro Barat"
+    "name": "Mamboro Barat",
+    "postal_code": "94148"
   }
 ]

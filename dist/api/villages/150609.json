@@ -2,51 +2,61 @@
   {
     "code": "1506091001",
     "district_code": "150609",
-    "name": "Rantau Badak"
+    "name": "Rantau Badak",
+    "postal_code": "36558"
   },
   {
     "code": "1506092002",
     "district_code": "150609",
-    "name": "Dusun Mudo"
+    "name": "Dusun Mudo",
+    "postal_code": "36558"
   },
   {
     "code": "1506092003",
     "district_code": "150609",
-    "name": "Intan Jaya"
+    "name": "Intan Jaya",
+    "postal_code": "36558"
   },
   {
     "code": "1506092004",
     "district_code": "150609",
-    "name": "Bukit Indah"
+    "name": "Bukit Indah",
+    "postal_code": "36558"
   },
   {
     "code": "1506092005",
     "district_code": "150609",
-    "name": "Kemang Manis"
+    "name": "Kemang Manis",
+    "postal_code": "36558"
   },
   {
     "code": "1506092006",
     "district_code": "150609",
-    "name": "Rantau Badak Lamo"
+    "name": "Rantau Badak Lamo",
+    "postal_code": "36558"
   },
   {
     "code": "1506092007",
     "district_code": "150609",
-    "name": "Lubuk Sebontan"
+    "name": "Lubuk Sebontan",
+    "postal_code": "36558"
   },
   {
     "code": "1506092008",
     "district_code": "150609",
-    "name": "Sungaipapauh"
+    "name": "Sungaipapauh",
+    "postal_code": "36558"
   },
   {
     "code": "1506092009",
     "district_code": "150609",
-    "name": "Sungaimuluk"
+    "name": "Sungaimuluk",
+    "postal_code": "36558"
   },
   {
     "code": "1506092010",
     "district_code": "150609",
-    "name": "Pematang Balam"
+    "name": "Pematang Balam",
+    "postal_code": "36558"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "9204042001",
     "district_code": "920404",
-    "name": "Mate"
+    "name": "Mate",
+    "postal_code": ""
   },
   {
     "code": "9204042004",
     "district_code": "920404",
-    "name": "Serkos"
+    "name": "Serkos",
+    "postal_code": ""
   },
   {
     "code": "9204042006",
     "district_code": "920404",
-    "name": "Solta Baru"
+    "name": "Solta Baru",
+    "postal_code": ""
   },
   {
     "code": "9204042008",
     "district_code": "920404",
-    "name": "Wadoi"
+    "name": "Wadoi",
+    "postal_code": ""
   },
   {
     "code": "9204042009",
     "district_code": "920404",
-    "name": "Isogo"
+    "name": "Isogo",
+    "postal_code": ""
   },
   {
     "code": "9204042013",
     "district_code": "920404",
-    "name": "Sibae"
+    "name": "Sibae",
+    "postal_code": ""
   },
   {
     "code": "9204042020",
     "district_code": "920404",
-    "name": "Mogibi"
+    "name": "Mogibi",
+    "postal_code": ""
   },
   {
     "code": "9204042026",
     "district_code": "920404",
-    "name": "Odeare"
+    "name": "Odeare",
+    "postal_code": ""
   },
   {
     "code": "9204042027",
     "district_code": "920404",
-    "name": "Siri-siri"
+    "name": "Siri-siri",
+    "postal_code": ""
   }
 ]

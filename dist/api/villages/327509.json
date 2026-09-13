@@ -2,31 +2,37 @@
   {
     "code": "3275091001",
     "district_code": "327509",
-    "name": "Jatimekar"
+    "name": "Jatimekar",
+    "postal_code": "17422"
   },
   {
     "code": "3275091002",
     "district_code": "327509",
-    "name": "Jatiasih"
+    "name": "Jatiasih",
+    "postal_code": "17423"
   },
   {
     "code": "3275091003",
     "district_code": "327509",
-    "name": "Jatikramat"
+    "name": "Jatikramat",
+    "postal_code": "17421"
   },
   {
     "code": "3275091004",
     "district_code": "327509",
-    "name": "Jatirasa"
+    "name": "Jatirasa",
+    "postal_code": "17424"
   },
   {
     "code": "3275091005",
     "district_code": "327509",
-    "name": "Jatiluhur"
+    "name": "Jatiluhur",
+    "postal_code": "17425"
   },
   {
     "code": "3275091006",
     "district_code": "327509",
-    "name": "Jatisari"
+    "name": "Jatisari",
+    "postal_code": "17426"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3204342001",
     "district_code": "320434",
-    "name": "Rancakasumba"
+    "name": "Rancakasumba",
+    "postal_code": "40375"
   },
   {
     "code": "3204342002",
     "district_code": "320434",
-    "name": "Solokanjeruk"
+    "name": "Solokanjeruk",
+    "postal_code": "40375"
   },
   {
     "code": "3204342003",
     "district_code": "320434",
-    "name": "Cibodas"
+    "name": "Cibodas",
+    "postal_code": "40375"
   },
   {
     "code": "3204342004",
     "district_code": "320434",
-    "name": "Panyadap"
+    "name": "Panyadap",
+    "postal_code": "40375"
   },
   {
     "code": "3204342005",
     "district_code": "320434",
-    "name": "Bojongemas"
+    "name": "Bojongemas",
+    "postal_code": "40375"
   },
   {
     "code": "3204342006",
     "district_code": "320434",
-    "name": "Padamukti"
+    "name": "Padamukti",
+    "postal_code": "40375"
   },
   {
     "code": "3204342007",
     "district_code": "320434",
-    "name": "Langensari"
+    "name": "Langensari",
+    "postal_code": "40375"
   }
 ]

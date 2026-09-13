@@ -2,46 +2,55 @@
   {
     "code": "3507112001",
     "district_code": "350711",
-    "name": "Putukrejo"
+    "name": "Putukrejo",
+    "postal_code": "65166"
   },
   {
     "code": "3507112002",
     "district_code": "350711",
-    "name": "Kalipare"
+    "name": "Kalipare",
+    "postal_code": "65166"
   },
   {
     "code": "3507112003",
     "district_code": "350711",
-    "name": "Sumberpetung"
+    "name": "Sumberpetung",
+    "postal_code": "65166"
   },
   {
     "code": "3507112004",
     "district_code": "350711",
-    "name": "Sukowilangun"
+    "name": "Sukowilangun",
+    "postal_code": "65166"
   },
   {
     "code": "3507112005",
     "district_code": "350711",
-    "name": "Tumpakrejo"
+    "name": "Tumpakrejo",
+    "postal_code": "65166"
   },
   {
     "code": "3507112006",
     "district_code": "350711",
-    "name": "Arjosari"
+    "name": "Arjosari",
+    "postal_code": "65166"
   },
   {
     "code": "3507112007",
     "district_code": "350711",
-    "name": "Kalirejo"
+    "name": "Kalirejo",
+    "postal_code": "65166"
   },
   {
     "code": "3507112008",
     "district_code": "350711",
-    "name": "Arjowilangun"
+    "name": "Arjowilangun",
+    "postal_code": "65166"
   },
   {
     "code": "3507112009",
     "district_code": "350711",
-    "name": "Kaliasri"
+    "name": "Kaliasri",
+    "postal_code": "65166"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "9503312001",
     "district_code": "950331",
-    "name": "Endomen"
+    "name": "Endomen",
+    "postal_code": "99754"
   },
   {
     "code": "9503312002",
     "district_code": "950331",
-    "name": "Okloma"
+    "name": "Okloma",
+    "postal_code": "99754"
   },
   {
     "code": "9503312003",
     "district_code": "950331",
-    "name": "Delon"
+    "name": "Delon",
+    "postal_code": "99754"
   },
   {
     "code": "9503312004",
     "district_code": "950331",
-    "name": "Suron"
+    "name": "Suron",
+    "postal_code": "99754"
   },
   {
     "code": "9503312005",
     "district_code": "950331",
-    "name": "Sentul"
+    "name": "Sentul",
+    "postal_code": "99754"
   },
   {
     "code": "9503312006",
     "district_code": "950331",
-    "name": "Gidomen"
+    "name": "Gidomen",
+    "postal_code": "99754"
   },
   {
     "code": "9503312007",
     "district_code": "950331",
-    "name": "Galsin"
+    "name": "Galsin",
+    "postal_code": "99754"
   },
   {
     "code": "9503312008",
     "district_code": "950331",
-    "name": "Kouwet"
+    "name": "Kouwet",
+    "postal_code": "99754"
   }
 ]

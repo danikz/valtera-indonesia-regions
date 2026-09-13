@@ -2,66 +2,79 @@
   {
     "code": "6305062001",
     "district_code": "630506",
-    "name": "Keladan"
+    "name": "Keladan",
+    "postal_code": "71171"
   },
   {
     "code": "6305062002",
     "district_code": "630506",
-    "name": "Sungai Selai"
+    "name": "Sungai Selai",
+    "postal_code": "71171"
   },
   {
     "code": "6305062003",
     "district_code": "630506",
-    "name": "Pariok"
+    "name": "Pariok",
+    "postal_code": "71171"
   },
   {
     "code": "6305062004",
     "district_code": "630506",
-    "name": "Margasari Hilir"
+    "name": "Margasari Hilir",
+    "postal_code": "71171"
   },
   {
     "code": "6305062005",
     "district_code": "630506",
-    "name": "Batalas"
+    "name": "Batalas",
+    "postal_code": "71171"
   },
   {
     "code": "6305062006",
     "district_code": "630506",
-    "name": "Rawana"
+    "name": "Rawana",
+    "postal_code": "71171"
   },
   {
     "code": "6305062007",
     "district_code": "630506",
-    "name": "Buas-buas"
+    "name": "Buas-buas",
+    "postal_code": "71171"
   },
   {
     "code": "6305062008",
     "district_code": "630506",
-    "name": "Teluk Haur"
+    "name": "Teluk Haur",
+    "postal_code": "71171"
   },
   {
     "code": "6305062009",
     "district_code": "630506",
-    "name": "Sungai Puting"
+    "name": "Sungai Puting",
+    "postal_code": "71171"
   },
   {
     "code": "6305062010",
     "district_code": "630506",
-    "name": "Sawaja"
+    "name": "Sawaja",
+    "postal_code": "71171"
   },
   {
     "code": "6305062011",
     "district_code": "630506",
-    "name": "Sungai Selai Hilir"
+    "name": "Sungai Selai Hilir",
+    "postal_code": "71171"
   },
   {
     "code": "6305062012",
     "district_code": "630506",
-    "name": "Buas-buas Hilir"
+    "name": "Buas-buas Hilir",
+    "postal_code": "71171"
   },
   {
     "code": "6305062013",
     "district_code": "630506",
-    "name": "Rawana Hulu"
+    "name": "Rawana Hulu",
+    "postal_code": "71171"
   }
 ]

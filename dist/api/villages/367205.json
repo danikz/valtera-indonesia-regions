@@ -2,26 +2,31 @@
   {
     "code": "3672051001",
     "district_code": "367205",
-    "name": "Sukmajaya"
+    "name": "Sukmajaya",
+    "postal_code": "42416"
   },
   {
     "code": "3672051002",
     "district_code": "367205",
-    "name": "Jombang Wetan"
+    "name": "Jombang Wetan",
+    "postal_code": "42411"
   },
   {
     "code": "3672051003",
     "district_code": "367205",
-    "name": "Masigit"
+    "name": "Masigit",
+    "postal_code": "42414"
   },
   {
     "code": "3672051004",
     "district_code": "367205",
-    "name": "Panggung Rawi"
+    "name": "Panggung Rawi",
+    "postal_code": "42412"
   },
   {
     "code": "3672051005",
     "district_code": "367205",
-    "name": "Gedong Dalem"
+    "name": "Gedong Dalem",
+    "postal_code": "42413"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "3211022001",
     "district_code": "321102",
-    "name": "Sirnasari"
+    "name": "Sirnasari",
+    "postal_code": "45376"
   },
   {
     "code": "3211022002",
     "district_code": "321102",
-    "name": "Tarikolot"
+    "name": "Tarikolot",
+    "postal_code": "45376"
   },
   {
     "code": "3211022003",
     "district_code": "321102",
-    "name": "Pawenang"
+    "name": "Pawenang",
+    "postal_code": "45376"
   },
   {
     "code": "3211022004",
     "district_code": "321102",
-    "name": "Sarimekar"
+    "name": "Sarimekar",
+    "postal_code": "45376"
   },
   {
     "code": "3211022005",
     "district_code": "321102",
-    "name": "Banjarsari"
+    "name": "Banjarsari",
+    "postal_code": "45376"
   },
   {
     "code": "3211022006",
     "district_code": "321102",
-    "name": "Kirisik"
+    "name": "Kirisik",
+    "postal_code": "45376"
   },
   {
     "code": "3211022007",
     "district_code": "321102",
-    "name": "Sukamanah"
+    "name": "Sukamanah",
+    "postal_code": "45376"
   },
   {
     "code": "3211022008",
     "district_code": "321102",
-    "name": "Cipeundeuy"
+    "name": "Cipeundeuy",
+    "postal_code": "45376"
   },
   {
     "code": "3211022009",
     "district_code": "321102",
-    "name": "Cimanintin"
+    "name": "Cimanintin",
+    "postal_code": "45376"
   }
 ]

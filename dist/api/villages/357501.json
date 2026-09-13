@@ -2,41 +2,49 @@
   {
     "code": "3575011001",
     "district_code": "357501",
-    "name": "Karangketug"
+    "name": "Karangketug",
+    "postal_code": "67135"
   },
   {
     "code": "3575011002",
     "district_code": "357501",
-    "name": "Gentong"
+    "name": "Gentong",
+    "postal_code": "67139"
   },
   {
     "code": "3575011003",
     "district_code": "357501",
-    "name": "Sebani"
+    "name": "Sebani",
+    "postal_code": "67139"
   },
   {
     "code": "3575011004",
     "district_code": "357501",
-    "name": "Petahunan"
+    "name": "Petahunan",
+    "postal_code": "67136"
   },
   {
     "code": "3575011005",
     "district_code": "357501",
-    "name": "Bukir"
+    "name": "Bukir",
+    "postal_code": "67138"
   },
   {
     "code": "3575011006",
     "district_code": "357501",
-    "name": "Randusari"
+    "name": "Randusari",
+    "postal_code": "67136"
   },
   {
     "code": "3575011007",
     "district_code": "357501",
-    "name": "Krapyakrejo"
+    "name": "Krapyakrejo",
+    "postal_code": "67137"
   },
   {
     "code": "3575011009",
     "district_code": "357501",
-    "name": "Gadingrejo'an"
+    "name": "Gadingrejo'an",
+    "postal_code": "67134"
   }
 ]

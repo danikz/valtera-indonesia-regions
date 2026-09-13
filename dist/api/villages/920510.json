@@ -2,26 +2,31 @@
   {
     "code": "9205102001",
     "district_code": "920510",
-    "name": "DibalaI"
+    "name": "DibalaI",
+    "postal_code": ""
   },
   {
     "code": "9205102002",
     "district_code": "920510",
-    "name": "Tolobi"
+    "name": "Tolobi",
+    "postal_code": ""
   },
   {
     "code": "9205102003",
     "district_code": "920510",
-    "name": "Deer"
+    "name": "Deer",
+    "postal_code": ""
   },
   {
     "code": "9205102004",
     "district_code": "920510",
-    "name": "Mikiran"
+    "name": "Mikiran",
+    "postal_code": ""
   },
   {
     "code": "9205102005",
     "district_code": "920510",
-    "name": "Awat"
+    "name": "Awat",
+    "postal_code": ""
   }
 ]

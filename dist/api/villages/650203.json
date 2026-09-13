@@ -2,46 +2,55 @@
   {
     "code": "6502032001",
     "district_code": "650203",
-    "name": "Long Pujungan"
+    "name": "Long Pujungan",
+    "postal_code": "77563"
   },
   {
     "code": "6502032002",
     "district_code": "650203",
-    "name": "Long Ketaman"
+    "name": "Long Ketaman",
+    "postal_code": "77563"
   },
   {
     "code": "6502032003",
     "district_code": "650203",
-    "name": "Long Pua"
+    "name": "Long Pua",
+    "postal_code": "77563"
   },
   {
     "code": "6502032004",
     "district_code": "650203",
-    "name": "Long Lame"
+    "name": "Long Lame",
+    "postal_code": "77563"
   },
   {
     "code": "6502032005",
     "district_code": "650203",
-    "name": "Long Jelet"
+    "name": "Long Jelet",
+    "postal_code": "77563"
   },
   {
     "code": "6502032006",
     "district_code": "650203",
-    "name": "Long Aran"
+    "name": "Long Aran",
+    "postal_code": "77563"
   },
   {
     "code": "6502032007",
     "district_code": "650203",
-    "name": "Long Paliran"
+    "name": "Long Paliran",
+    "postal_code": "77563"
   },
   {
     "code": "6502032008",
     "district_code": "650203",
-    "name": "Long Bena"
+    "name": "Long Bena",
+    "postal_code": "77563"
   },
   {
     "code": "6502032009",
     "district_code": "650203",
-    "name": "Long Belaka Pitau"
+    "name": "Long Belaka Pitau",
+    "postal_code": "77563"
   }
 ]

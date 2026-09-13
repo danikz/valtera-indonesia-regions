@@ -2,61 +2,73 @@
   {
     "code": "1709092001",
     "district_code": "170909",
-    "name": "Pondok Kubang"
+    "name": "Pondok Kubang",
+    "postal_code": "38375"
   },
   {
     "code": "1709092002",
     "district_code": "170909",
-    "name": "Batu Raja"
+    "name": "Batu Raja",
+    "postal_code": "38375"
   },
   {
     "code": "1709092003",
     "district_code": "170909",
-    "name": "Dusun Anyar"
+    "name": "Dusun Anyar",
+    "postal_code": "38375"
   },
   {
     "code": "1709092004",
     "district_code": "170909",
-    "name": "Tanjung Dalam"
+    "name": "Tanjung Dalam",
+    "postal_code": "38378"
   },
   {
     "code": "1709092005",
     "district_code": "170909",
-    "name": "Talang Tengah I"
+    "name": "Talang Tengah I",
+    "postal_code": "38375"
   },
   {
     "code": "1709092006",
     "district_code": "170909",
-    "name": "Paku Haji"
+    "name": "Paku Haji",
+    "postal_code": "38375"
   },
   {
     "code": "1709092007",
     "district_code": "170909",
-    "name": "Tanjung Terdana"
+    "name": "Tanjung Terdana",
+    "postal_code": "38375"
   },
   {
     "code": "1709092008",
     "district_code": "170909",
-    "name": "Linggar Galing"
+    "name": "Linggar Galing",
+    "postal_code": "38375"
   },
   {
     "code": "1709092009",
     "district_code": "170909",
-    "name": "Dusun Baru I"
+    "name": "Dusun Baru I",
+    "postal_code": "38376"
   },
   {
     "code": "1709092010",
     "district_code": "170909",
-    "name": "Harapan Makmur"
+    "name": "Harapan Makmur",
+    "postal_code": "38376"
   },
   {
     "code": "1709092011",
     "district_code": "170909",
-    "name": "Margo Mulyo"
+    "name": "Margo Mulyo",
+    "postal_code": "38377"
   },
   {
     "code": "1709092012",
     "district_code": "170909",
-    "name": "Taba Jambu"
+    "name": "Taba Jambu",
+    "postal_code": "38378"
   }
 ]

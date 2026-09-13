@@ -2,31 +2,37 @@
   {
     "code": "3278011001",
     "district_code": "327801",
-    "name": "Yudanagara"
+    "name": "Yudanagara",
+    "postal_code": "46121"
   },
   {
     "code": "3278011002",
     "district_code": "327801",
-    "name": "Nagarawangi"
+    "name": "Nagarawangi",
+    "postal_code": "46124"
   },
   {
     "code": "3278011003",
     "district_code": "327801",
-    "name": "Cilembang"
+    "name": "Cilembang",
+    "postal_code": "46123"
   },
   {
     "code": "3278011004",
     "district_code": "327801",
-    "name": "Argasari"
+    "name": "Argasari",
+    "postal_code": "46122"
   },
   {
     "code": "3278011005",
     "district_code": "327801",
-    "name": "Tugujaya"
+    "name": "Tugujaya",
+    "postal_code": "46126"
   },
   {
     "code": "3278011006",
     "district_code": "327801",
-    "name": "Tuguraja"
+    "name": "Tuguraja",
+    "postal_code": "46125"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "8108042001",
     "district_code": "810804",
-    "name": "Tepa"
+    "name": "Tepa",
+    "postal_code": "97451"
   },
   {
     "code": "8108042002",
     "district_code": "810804",
-    "name": "Imroing"
+    "name": "Imroing",
+    "postal_code": "97451"
   },
   {
     "code": "8108042003",
     "district_code": "810804",
-    "name": "Tela"
+    "name": "Tela",
+    "postal_code": "97451"
   },
   {
     "code": "8108042004",
     "district_code": "810804",
-    "name": "Yaltubung"
+    "name": "Yaltubung",
+    "postal_code": "97451"
   },
   {
     "code": "8108042005",
     "district_code": "810804",
-    "name": "Wanuwui"
+    "name": "Wanuwui",
+    "postal_code": "97451"
   },
   {
     "code": "8108042006",
     "district_code": "810804",
-    "name": "Letsiara"
+    "name": "Letsiara",
+    "postal_code": "97451"
   },
   {
     "code": "8108042015",
     "district_code": "810804",
-    "name": "Lewah"
+    "name": "Lewah",
+    "postal_code": "97451"
   },
   {
     "code": "8108042016",
     "district_code": "810804",
-    "name": "Hertuti"
+    "name": "Hertuti",
+    "postal_code": "97451"
   },
   {
     "code": "8108042017",
     "district_code": "810804",
-    "name": "Sinairusi"
+    "name": "Sinairusi",
+    "postal_code": "97451"
   }
 ]

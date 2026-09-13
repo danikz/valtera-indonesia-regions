@@ -2,46 +2,55 @@
   {
     "code": "6304101001",
     "district_code": "630410",
-    "name": "Lepasan"
+    "name": "Lepasan",
+    "postal_code": "70512"
   },
   {
     "code": "6304102002",
     "district_code": "630410",
-    "name": "Banua Anyar"
+    "name": "Banua Anyar",
+    "postal_code": "70513"
   },
   {
     "code": "6304102003",
     "district_code": "630410",
-    "name": "Murung Raya"
+    "name": "Murung Raya",
+    "postal_code": "70513"
   },
   {
     "code": "6304102004",
     "district_code": "630410",
-    "name": "Palingkau"
+    "name": "Palingkau",
+    "postal_code": "70513"
   },
   {
     "code": "6304102005",
     "district_code": "630410",
-    "name": "Balukung"
+    "name": "Balukung",
+    "postal_code": "70513"
   },
   {
     "code": "6304102006",
     "district_code": "630410",
-    "name": "Banitan"
+    "name": "Banitan",
+    "postal_code": "70513"
   },
   {
     "code": "6304102007",
     "district_code": "630410",
-    "name": "Batik"
+    "name": "Batik",
+    "postal_code": "70513"
   },
   {
     "code": "6304102008",
     "district_code": "630410",
-    "name": "Bahalayung"
+    "name": "Bahalayung",
+    "postal_code": "70513"
   },
   {
     "code": "6304102009",
     "district_code": "630410",
-    "name": "Sungai Selirik"
+    "name": "Sungai Selirik",
+    "postal_code": "70513"
   }
 ]

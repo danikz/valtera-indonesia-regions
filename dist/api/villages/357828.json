@@ -2,16 +2,19 @@
   {
     "code": "3578281001",
     "district_code": "357828",
-    "name": "Asem Rowo"
+    "name": "Asem Rowo",
+    "postal_code": "60182"
   },
   {
     "code": "3578281002",
     "district_code": "357828",
-    "name": "Genting Kalianak"
+    "name": "Genting Kalianak",
+    "postal_code": "60183"
   },
   {
     "code": "3578281005",
     "district_code": "357828",
-    "name": "Tambak Sarioso"
+    "name": "Tambak Sarioso",
+    "postal_code": "60184"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3603171001",
     "district_code": "360317",
-    "name": "Curug Kulon"
+    "name": "Curug Kulon",
+    "postal_code": "15810"
   },
   {
     "code": "3603171005",
     "district_code": "360317",
-    "name": "Sukabakti"
+    "name": "Sukabakti",
+    "postal_code": "15810"
   },
   {
     "code": "3603171006",
     "district_code": "360317",
-    "name": "Binong"
+    "name": "Binong",
+    "postal_code": "15810"
   },
   {
     "code": "3603172002",
     "district_code": "360317",
-    "name": "Curug Wetan"
+    "name": "Curug Wetan",
+    "postal_code": "15810"
   },
   {
     "code": "3603172003",
     "district_code": "360317",
-    "name": "Kadu"
+    "name": "Kadu",
+    "postal_code": "15810"
   },
   {
     "code": "3603172004",
     "district_code": "360317",
-    "name": "Kadu Jaya"
+    "name": "Kadu Jaya",
+    "postal_code": "15810"
   },
   {
     "code": "3603172010",
     "district_code": "360317",
-    "name": "Cukanggalih"
+    "name": "Cukanggalih",
+    "postal_code": "15810"
   }
 ]

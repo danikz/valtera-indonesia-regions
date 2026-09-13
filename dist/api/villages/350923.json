@@ -2,36 +2,43 @@
   {
     "code": "3509232001",
     "district_code": "350923",
-    "name": "Lengkong"
+    "name": "Lengkong",
+    "postal_code": "68174"
   },
   {
     "code": "3509232002",
     "district_code": "350923",
-    "name": "Kawangrejo"
+    "name": "Kawangrejo",
+    "postal_code": "68174"
   },
   {
     "code": "3509232003",
     "district_code": "350923",
-    "name": "Tamansari"
+    "name": "Tamansari",
+    "postal_code": "68174"
   },
   {
     "code": "3509232004",
     "district_code": "350923",
-    "name": "Mumbulsari"
+    "name": "Mumbulsari",
+    "postal_code": "68174"
   },
   {
     "code": "3509232005",
     "district_code": "350923",
-    "name": "Suco"
+    "name": "Suco",
+    "postal_code": "68174"
   },
   {
     "code": "3509232006",
     "district_code": "350923",
-    "name": "Lampeji"
+    "name": "Lampeji",
+    "postal_code": "68174"
   },
   {
     "code": "3509232007",
     "district_code": "350923",
-    "name": "Karang Kedawung"
+    "name": "Karang Kedawung",
+    "postal_code": "68174"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "5305092002",
     "district_code": "530509",
-    "name": "Baraler"
+    "name": "Baraler",
+    "postal_code": "85880"
   },
   {
     "code": "5305092003",
     "district_code": "530509",
-    "name": "Kalondama"
+    "name": "Kalondama",
+    "postal_code": "85880"
   },
   {
     "code": "5305092007",
     "district_code": "530509",
-    "name": "Leer"
+    "name": "Leer",
+    "postal_code": "85880"
   },
   {
     "code": "5305092018",
     "district_code": "530509",
-    "name": "Baranusa"
+    "name": "Baranusa",
+    "postal_code": "85880"
   },
   {
     "code": "5305092019",
     "district_code": "530509",
-    "name": "Blang Merang"
+    "name": "Blang Merang",
+    "postal_code": "85880"
   },
   {
     "code": "5305092020",
     "district_code": "530509",
-    "name": "Illu"
+    "name": "Illu",
+    "postal_code": "85880"
   },
   {
     "code": "5305092024",
     "district_code": "530509",
-    "name": "Piringsina"
+    "name": "Piringsina",
+    "postal_code": "85880"
   }
 ]

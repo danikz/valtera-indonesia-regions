@@ -2,61 +2,73 @@
   {
     "code": "1221152001",
     "district_code": "122115",
-    "name": "Pasir Julu"
+    "name": "Pasir Julu",
+    "postal_code": "22765"
   },
   {
     "code": "1221152002",
     "district_code": "122115",
-    "name": "Lumban Huayan"
+    "name": "Lumban Huayan",
+    "postal_code": "22765"
   },
   {
     "code": "1221152003",
     "district_code": "122115",
-    "name": "Siborna Bunut"
+    "name": "Siborna Bunut",
+    "postal_code": "22765"
   },
   {
     "code": "1221152004",
     "district_code": "122115",
-    "name": "Mananti Sosa Julu"
+    "name": "Mananti Sosa Julu",
+    "postal_code": "22765"
   },
   {
     "code": "1221152005",
     "district_code": "122115",
-    "name": "Ampolu"
+    "name": "Ampolu",
+    "postal_code": "22765"
   },
   {
     "code": "1221152006",
     "district_code": "122115",
-    "name": "Siginduang"
+    "name": "Siginduang",
+    "postal_code": "22765"
   },
   {
     "code": "1221152007",
     "district_code": "122115",
-    "name": "Ramba"
+    "name": "Ramba",
+    "postal_code": "22765"
   },
   {
     "code": "1221152008",
     "district_code": "122115",
-    "name": "Roburan"
+    "name": "Roburan",
+    "postal_code": "22765"
   },
   {
     "code": "1221152009",
     "district_code": "122115",
-    "name": "Tanjung"
+    "name": "Tanjung",
+    "postal_code": "22765"
   },
   {
     "code": "1221152010",
     "district_code": "122115",
-    "name": "Hurung Jilok"
+    "name": "Hurung Jilok",
+    "postal_code": "22765"
   },
   {
     "code": "1221152011",
     "district_code": "122115",
-    "name": "Pasir Jae"
+    "name": "Pasir Jae",
+    "postal_code": "22765"
   },
   {
     "code": "1221152012",
     "district_code": "122115",
-    "name": "Sungai Jior"
+    "name": "Sungai Jior",
+    "postal_code": "22765"
   }
 ]

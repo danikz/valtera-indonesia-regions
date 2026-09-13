@@ -2,41 +2,49 @@
   {
     "code": "7603122001",
     "district_code": "760312",
-    "name": "Balla"
+    "name": "Balla",
+    "postal_code": "91366"
   },
   {
     "code": "7603122002",
     "district_code": "760312",
-    "name": "Balla Barat"
+    "name": "Balla Barat",
+    "postal_code": "91366"
   },
   {
     "code": "7603122003",
     "district_code": "760312",
-    "name": "Balla Satanetean"
+    "name": "Balla Satanetean",
+    "postal_code": "91366"
   },
   {
     "code": "7603122004",
     "district_code": "760312",
-    "name": "Balla Tumuka"
+    "name": "Balla Tumuka",
+    "postal_code": "91366"
   },
   {
     "code": "7603122005",
     "district_code": "760312",
-    "name": "Sepakuan"
+    "name": "Sepakuan",
+    "postal_code": "91366"
   },
   {
     "code": "7603122006",
     "district_code": "760312",
-    "name": "Pidara"
+    "name": "Pidara",
+    "postal_code": "91366"
   },
   {
     "code": "7603122007",
     "district_code": "760312",
-    "name": "Bambapuang"
+    "name": "Bambapuang",
+    "postal_code": "91366"
   },
   {
     "code": "7603122008",
     "district_code": "760312",
-    "name": "Balla Timur"
+    "name": "Balla Timur",
+    "postal_code": "91366"
   }
 ]

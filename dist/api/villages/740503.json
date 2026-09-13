@@ -2,51 +2,61 @@
   {
     "code": "7405031002",
     "district_code": "740503",
-    "name": "Alangga"
+    "name": "Alangga",
+    "postal_code": "93811"
   },
   {
     "code": "7405031018",
     "district_code": "740503",
-    "name": "Potoro"
+    "name": "Potoro",
+    "postal_code": "93811"
   },
   {
     "code": "7405032001",
     "district_code": "740503",
-    "name": "Andoolo"
+    "name": "Andoolo",
+    "postal_code": "93810"
   },
   {
     "code": "7405032004",
     "district_code": "740503",
-    "name": "Alengge Agung"
+    "name": "Alengge Agung",
+    "postal_code": "93811"
   },
   {
     "code": "7405032010",
     "district_code": "740503",
-    "name": "Bumi Raya"
+    "name": "Bumi Raya",
+    "postal_code": "93819"
   },
   {
     "code": "7405032014",
     "district_code": "740503",
-    "name": "Lalobao"
+    "name": "Lalobao",
+    "postal_code": "93819"
   },
   {
     "code": "7405032015",
     "district_code": "740503",
-    "name": "Lalonggombu"
+    "name": "Lalonggombu",
+    "postal_code": "93813"
   },
   {
     "code": "7405032026",
     "district_code": "740503",
-    "name": "Wunduwatu"
+    "name": "Wunduwatu",
+    "postal_code": "93819"
   },
   {
     "code": "7405032031",
     "district_code": "740503",
-    "name": "Punggapu"
+    "name": "Punggapu",
+    "postal_code": "93819"
   },
   {
     "code": "7405032033",
     "district_code": "740503",
-    "name": "Ataku"
+    "name": "Ataku",
+    "postal_code": "93819"
   }
 ]

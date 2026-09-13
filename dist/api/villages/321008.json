@@ -2,66 +2,79 @@
   {
     "code": "3210082001",
     "district_code": "321008",
-    "name": "Ciomas"
+    "name": "Ciomas",
+    "postal_code": "45470"
   },
   {
     "code": "3210082002",
     "district_code": "321008",
-    "name": "Padahanten"
+    "name": "Padahanten",
+    "postal_code": "45470"
   },
   {
     "code": "3210082009",
     "district_code": "321008",
-    "name": "Sukahaji"
+    "name": "Sukahaji",
+    "postal_code": "45470"
   },
   {
     "code": "3210082010",
     "district_code": "321008",
-    "name": "Salagedang"
+    "name": "Salagedang",
+    "postal_code": "45470"
   },
   {
     "code": "3210082011",
     "district_code": "321008",
-    "name": "Cikeusik"
+    "name": "Cikeusik",
+    "postal_code": "45470"
   },
   {
     "code": "3210082012",
     "district_code": "321008",
-    "name": "Jayi"
+    "name": "Jayi",
+    "postal_code": "45470"
   },
   {
     "code": "3210082013",
     "district_code": "321008",
-    "name": "Nanggewer"
+    "name": "Nanggewer",
+    "postal_code": "45470"
   },
   {
     "code": "3210082014",
     "district_code": "321008",
-    "name": "Palabuan"
+    "name": "Palabuan",
+    "postal_code": "45470"
   },
   {
     "code": "3210082015",
     "district_code": "321008",
-    "name": "Cikoneng"
+    "name": "Cikoneng",
+    "postal_code": "45470"
   },
   {
     "code": "3210082016",
     "district_code": "321008",
-    "name": "Babakanmanjeti"
+    "name": "Babakanmanjeti",
+    "postal_code": "45470"
   },
   {
     "code": "3210082017",
     "district_code": "321008",
-    "name": "Tanjungsari"
+    "name": "Tanjungsari",
+    "postal_code": "45470"
   },
   {
     "code": "3210082018",
     "district_code": "321008",
-    "name": "Cikalong"
+    "name": "Cikalong",
+    "postal_code": "45470"
   },
   {
     "code": "3210082019",
     "district_code": "321008",
-    "name": "Candrajaya"
+    "name": "Candrajaya",
+    "postal_code": "45470"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "7205061001",
     "district_code": "720506",
-    "name": "Buol"
+    "name": "Buol",
+    "postal_code": "94563"
   },
   {
     "code": "7205061002",
     "district_code": "720506",
-    "name": "Kali"
+    "name": "Kali",
+    "postal_code": "94563"
   },
   {
     "code": "7205061003",
     "district_code": "720506",
-    "name": "Leok II"
+    "name": "Leok II",
+    "postal_code": "94563"
   },
   {
     "code": "7205061004",
     "district_code": "720506",
-    "name": "Leok I"
+    "name": "Leok I",
+    "postal_code": "94563"
   },
   {
     "code": "7205061005",
     "district_code": "720506",
-    "name": "Kumaligon"
+    "name": "Kumaligon",
+    "postal_code": "94563"
   },
   {
     "code": "7205061006",
     "district_code": "720506",
-    "name": "Kulango"
+    "name": "Kulango",
+    "postal_code": "94563"
   },
   {
     "code": "7205061007",
     "district_code": "720506",
-    "name": "Bugis"
+    "name": "Bugis",
+    "postal_code": "94563"
   }
 ]

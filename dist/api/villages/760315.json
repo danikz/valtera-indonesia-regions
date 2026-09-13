@@ -2,41 +2,49 @@
   {
     "code": "7603152001",
     "district_code": "760315",
-    "name": "Salumokanan"
+    "name": "Salumokanan",
+    "postal_code": "91376"
   },
   {
     "code": "7603152003",
     "district_code": "760315",
-    "name": "Salumokanan Barat"
+    "name": "Salumokanan Barat",
+    "postal_code": "91376"
   },
   {
     "code": "7603152004",
     "district_code": "760315",
-    "name": "Buangin"
+    "name": "Buangin",
+    "postal_code": "91376"
   },
   {
     "code": "7603152005",
     "district_code": "760315",
-    "name": "Bambang Buda"
+    "name": "Bambang Buda",
+    "postal_code": "91376"
   },
   {
     "code": "7603152006",
     "district_code": "760315",
-    "name": "Leko"
+    "name": "Leko",
+    "postal_code": "91376"
   },
   {
     "code": "7603152007",
     "district_code": "760315",
-    "name": "Kirak"
+    "name": "Kirak",
+    "postal_code": "91376"
   },
   {
     "code": "7603152008",
     "district_code": "760315",
-    "name": "Salumokanan Utara"
+    "name": "Salumokanan Utara",
+    "postal_code": "91376"
   },
   {
     "code": "7603152009",
     "district_code": "760315",
-    "name": "Sampale"
+    "name": "Sampale",
+    "postal_code": "91376"
   }
 ]

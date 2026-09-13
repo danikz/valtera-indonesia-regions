@@ -2,21 +2,25 @@
   {
     "code": "1872051001",
     "district_code": "187205",
-    "name": "Rejomulyo"
+    "name": "Rejomulyo",
+    "postal_code": "34123"
   },
   {
     "code": "1872051002",
     "district_code": "187205",
-    "name": "Margorejo"
+    "name": "Margorejo",
+    "postal_code": "34121"
   },
   {
     "code": "1872051003",
     "district_code": "187205",
-    "name": "Sumbersari Bantul"
+    "name": "Sumbersari Bantul",
+    "postal_code": "34122"
   },
   {
     "code": "1872051004",
     "district_code": "187205",
-    "name": "Margodadi"
+    "name": "Margodadi",
+    "postal_code": "34119"
   }
 ]

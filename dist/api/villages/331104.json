@@ -2,71 +2,85 @@
   {
     "code": "3311041001",
     "district_code": "331104",
-    "name": "Kenep"
+    "name": "Kenep",
+    "postal_code": "57551"
   },
   {
     "code": "3311041002",
     "district_code": "331104",
-    "name": "Banmati"
+    "name": "Banmati",
+    "postal_code": "57551"
   },
   {
     "code": "3311041003",
     "district_code": "331104",
-    "name": "Mandan"
+    "name": "Mandan",
+    "postal_code": "57516"
   },
   {
     "code": "3311041004",
     "district_code": "331104",
-    "name": "Begajah"
+    "name": "Begajah",
+    "postal_code": "57551"
   },
   {
     "code": "3311041005",
     "district_code": "331104",
-    "name": "Gayam"
+    "name": "Gayam",
+    "postal_code": "57514"
   },
   {
     "code": "3311041006",
     "district_code": "331104",
-    "name": "Joho"
+    "name": "Joho",
+    "postal_code": "57513"
   },
   {
     "code": "3311041007",
     "district_code": "331104",
-    "name": "Jetis"
+    "name": "Jetis",
+    "postal_code": "57511"
   },
   {
     "code": "3311041008",
     "district_code": "331104",
-    "name": "Combongan"
+    "name": "Combongan",
+    "postal_code": "57519"
   },
   {
     "code": "3311041009",
     "district_code": "331104",
-    "name": "Kriwen"
+    "name": "Kriwen",
+    "postal_code": "57551"
   },
   {
     "code": "3311041010",
     "district_code": "331104",
-    "name": "Bulakan"
+    "name": "Bulakan",
+    "postal_code": "57551"
   },
   {
     "code": "3311041011",
     "district_code": "331104",
-    "name": "Dukuh"
+    "name": "Dukuh",
+    "postal_code": "57524"
   },
   {
     "code": "3311041012",
     "district_code": "331104",
-    "name": "Sukoharjo"
+    "name": "Sukoharjo",
+    "postal_code": "57512"
   },
   {
     "code": "3311041013",
     "district_code": "331104",
-    "name": "Bulakrejo"
+    "name": "Bulakrejo",
+    "postal_code": "57551"
   },
   {
     "code": "3311041014",
     "district_code": "331104",
-    "name": "Sonorejo"
+    "name": "Sonorejo",
+    "postal_code": "57551"
   }
 ]

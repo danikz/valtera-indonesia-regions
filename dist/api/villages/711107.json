@@ -2,36 +2,43 @@
   {
     "code": "7111072001",
     "district_code": "711107",
-    "name": "Botuliodu"
+    "name": "Botuliodu",
+    "postal_code": "95778"
   },
   {
     "code": "7111072002",
     "district_code": "711107",
-    "name": "Nunuka Raya"
+    "name": "Nunuka Raya",
+    "postal_code": "95778"
   },
   {
     "code": "7111072003",
     "district_code": "711107",
-    "name": "Tolutu"
+    "name": "Tolutu",
+    "postal_code": "95778"
   },
   {
     "code": "7111072004",
     "district_code": "711107",
-    "name": "Milangodaa"
+    "name": "Milangodaa",
+    "postal_code": "95778"
   },
   {
     "code": "7111072005",
     "district_code": "711107",
-    "name": "Milangodaa Barat"
+    "name": "Milangodaa Barat",
+    "postal_code": "95778"
   },
   {
     "code": "7111072006",
     "district_code": "711107",
-    "name": "Milangodaa Utara"
+    "name": "Milangodaa Utara",
+    "postal_code": "95778"
   },
   {
     "code": "7111072007",
     "district_code": "711107",
-    "name": "Pakuku Jaya"
+    "name": "Pakuku Jaya",
+    "postal_code": "95778"
   }
 ]

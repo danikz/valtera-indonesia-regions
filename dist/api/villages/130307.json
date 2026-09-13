@@ -2,31 +2,37 @@
   {
     "code": "1303072001",
     "district_code": "130307",
-    "name": "Lubuak Tarok"
+    "name": "Lubuak Tarok",
+    "postal_code": "27553"
   },
   {
     "code": "1303072002",
     "district_code": "130307",
-    "name": "Lalan"
+    "name": "Lalan",
+    "postal_code": "27553"
   },
   {
     "code": "1303072003",
     "district_code": "130307",
-    "name": "Buluah Kasok"
+    "name": "Buluah Kasok",
+    "postal_code": "27553"
   },
   {
     "code": "1303072004",
     "district_code": "130307",
-    "name": "Kampung Dalam"
+    "name": "Kampung Dalam",
+    "postal_code": "27553"
   },
   {
     "code": "1303072005",
     "district_code": "130307",
-    "name": "Silongo"
+    "name": "Silongo",
+    "postal_code": "27553"
   },
   {
     "code": "1303072006",
     "district_code": "130307",
-    "name": "Latang"
+    "name": "Latang",
+    "postal_code": "27553"
   }
 ]

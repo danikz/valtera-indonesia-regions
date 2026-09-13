@@ -2,51 +2,61 @@
   {
     "code": "1218162001",
     "district_code": "121816",
-    "name": "Penggalian"
+    "name": "Penggalian",
+    "postal_code": "20998"
   },
   {
     "code": "1218162002",
     "district_code": "121816",
-    "name": "Laut Tador"
+    "name": "Laut Tador",
+    "postal_code": "20998"
   },
   {
     "code": "1218162003",
     "district_code": "121816",
-    "name": "Tanah Besih"
+    "name": "Tanah Besih",
+    "postal_code": "20998"
   },
   {
     "code": "1218162004",
     "district_code": "121816",
-    "name": "Binjai"
+    "name": "Binjai",
+    "postal_code": "20998"
   },
   {
     "code": "1218162005",
     "district_code": "121816",
-    "name": "Paya Pasir"
+    "name": "Paya Pasir",
+    "postal_code": "20998"
   },
   {
     "code": "1218162006",
     "district_code": "121816",
-    "name": "Bahilang"
+    "name": "Bahilang",
+    "postal_code": "20998"
   },
   {
     "code": "1218162007",
     "district_code": "121816",
-    "name": "Penggalangan"
+    "name": "Penggalangan",
+    "postal_code": "20998"
   },
   {
     "code": "1218162008",
     "district_code": "121816",
-    "name": "Paya Pinang"
+    "name": "Paya Pinang",
+    "postal_code": "20998"
   },
   {
     "code": "1218162009",
     "district_code": "121816",
-    "name": "Kuta Pinang"
+    "name": "Kuta Pinang",
+    "postal_code": "20998"
   },
   {
     "code": "1218162010",
     "district_code": "121816",
-    "name": "Sibulan"
+    "name": "Sibulan",
+    "postal_code": "20998"
   }
 ]

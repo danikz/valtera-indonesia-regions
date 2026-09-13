@@ -2,36 +2,43 @@
   {
     "code": "9502172001",
     "district_code": "950217",
-    "name": "Arintap"
+    "name": "Arintap",
+    "postal_code": "99433"
   },
   {
     "code": "9502172002",
     "district_code": "950217",
-    "name": "Tarngop"
+    "name": "Tarngop",
+    "postal_code": "99433"
   },
   {
     "code": "9502172003",
     "district_code": "950217",
-    "name": "Kawor"
+    "name": "Kawor",
+    "postal_code": "99433"
   },
   {
     "code": "9502172004",
     "district_code": "950217",
-    "name": "Sakup"
+    "name": "Sakup",
+    "postal_code": "99433"
   },
   {
     "code": "9502172005",
     "district_code": "950217",
-    "name": "Umding"
+    "name": "Umding",
+    "postal_code": "99433"
   },
   {
     "code": "9502172006",
     "district_code": "950217",
-    "name": "Nanum"
+    "name": "Nanum",
+    "postal_code": "99433"
   },
   {
     "code": "9502172007",
     "district_code": "950217",
-    "name": "Ater"
+    "name": "Ater",
+    "postal_code": "99433"
   }
 ]

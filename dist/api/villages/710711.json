@@ -2,56 +2,67 @@
   {
     "code": "7107112001",
     "district_code": "710711",
-    "name": "Towuntu"
+    "name": "Towuntu",
+    "postal_code": "95993"
   },
   {
     "code": "7107112002",
     "district_code": "710711",
-    "name": "Towuntu Timur"
+    "name": "Towuntu Timur",
+    "postal_code": "95993"
   },
   {
     "code": "7107112003",
     "district_code": "710711",
-    "name": "Towuntu Barat"
+    "name": "Towuntu Barat",
+    "postal_code": "95993"
   },
   {
     "code": "7107112004",
     "district_code": "710711",
-    "name": "Tolombukan"
+    "name": "Tolombukan",
+    "postal_code": "95993"
   },
   {
     "code": "7107112005",
     "district_code": "710711",
-    "name": "Tolombukan Satu"
+    "name": "Tolombukan Satu",
+    "postal_code": "95993"
   },
   {
     "code": "7107112006",
     "district_code": "710711",
-    "name": "Tolombukan Barat"
+    "name": "Tolombukan Barat",
+    "postal_code": "95993"
   },
   {
     "code": "7107112007",
     "district_code": "710711",
-    "name": "Liwutung"
+    "name": "Liwutung",
+    "postal_code": "95993"
   },
   {
     "code": "7107112008",
     "district_code": "710711",
-    "name": "Liwutung Satu"
+    "name": "Liwutung Satu",
+    "postal_code": "95993"
   },
   {
     "code": "7107112009",
     "district_code": "710711",
-    "name": "Liwutung Dua"
+    "name": "Liwutung Dua",
+    "postal_code": "95993"
   },
   {
     "code": "7107112010",
     "district_code": "710711",
-    "name": "Poniki"
+    "name": "Poniki",
+    "postal_code": "95993"
   },
   {
     "code": "7107112011",
     "district_code": "710711",
-    "name": "Maulit"
+    "name": "Maulit",
+    "postal_code": "95993"
   }
 ]

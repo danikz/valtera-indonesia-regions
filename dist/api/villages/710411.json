@@ -2,31 +2,37 @@
   {
     "code": "7104112001",
     "district_code": "710411",
-    "name": "Bitunuris"
+    "name": "Bitunuris",
+    "postal_code": "95871"
   },
   {
     "code": "7104112002",
     "district_code": "710411",
-    "name": "Bitunuris Selatan"
+    "name": "Bitunuris Selatan",
+    "postal_code": "95871"
   },
   {
     "code": "7104112003",
     "district_code": "710411",
-    "name": "Salibabu"
+    "name": "Salibabu",
+    "postal_code": "95871"
   },
   {
     "code": "7104112004",
     "district_code": "710411",
-    "name": "Salibabu Utara"
+    "name": "Salibabu Utara",
+    "postal_code": "95871"
   },
   {
     "code": "7104112005",
     "district_code": "710411",
-    "name": "Dalum"
+    "name": "Dalum",
+    "postal_code": "95871"
   },
   {
     "code": "7104112006",
     "district_code": "710411",
-    "name": "Balang"
+    "name": "Balang",
+    "postal_code": "95871"
   }
 ]

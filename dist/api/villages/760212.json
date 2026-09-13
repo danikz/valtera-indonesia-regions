@@ -2,41 +2,49 @@
   {
     "code": "7602121001",
     "district_code": "760212",
-    "name": "Simboro"
+    "name": "Simboro",
+    "postal_code": "91512"
   },
   {
     "code": "7602121002",
     "district_code": "760212",
-    "name": "Rangas"
+    "name": "Rangas",
+    "postal_code": "91512"
   },
   {
     "code": "7602122003",
     "district_code": "760212",
-    "name": "Botteng"
+    "name": "Botteng",
+    "postal_code": "91512"
   },
   {
     "code": "7602122004",
     "district_code": "760212",
-    "name": "Saletto"
+    "name": "Saletto",
+    "postal_code": "91512"
   },
   {
     "code": "7602122005",
     "district_code": "760212",
-    "name": "Sumare"
+    "name": "Sumare",
+    "postal_code": "91513"
   },
   {
     "code": "7602122007",
     "district_code": "760212",
-    "name": "Botteng Utara"
+    "name": "Botteng Utara",
+    "postal_code": "91512"
   },
   {
     "code": "7602122008",
     "district_code": "760212",
-    "name": "Tapandullu"
+    "name": "Tapandullu",
+    "postal_code": "91512"
   },
   {
     "code": "7602122009",
     "district_code": "760212",
-    "name": "Pati'di"
+    "name": "Pati'di",
+    "postal_code": "91512"
   }
 ]

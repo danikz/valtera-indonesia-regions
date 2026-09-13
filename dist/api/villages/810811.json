@@ -2,41 +2,49 @@
   {
     "code": "8108112001",
     "district_code": "810811",
-    "name": "Herley"
+    "name": "Herley",
+    "postal_code": "97452"
   },
   {
     "code": "8108112002",
     "district_code": "810811",
-    "name": "Upuhupun"
+    "name": "Upuhupun",
+    "postal_code": "97452"
   },
   {
     "code": "8108112003",
     "district_code": "810811",
-    "name": "Pota Besar"
+    "name": "Pota Besar",
+    "postal_code": "97452"
   },
   {
     "code": "8108112004",
     "district_code": "810811",
-    "name": "Pota Kecil"
+    "name": "Pota Kecil",
+    "postal_code": "97452"
   },
   {
     "code": "8108112005",
     "district_code": "810811",
-    "name": "Wasarili"
+    "name": "Wasarili",
+    "postal_code": "97452"
   },
   {
     "code": "8108112006",
     "district_code": "810811",
-    "name": "Rumahlewang Kecil"
+    "name": "Rumahlewang Kecil",
+    "postal_code": "97452"
   },
   {
     "code": "8108112007",
     "district_code": "810811",
-    "name": "Rumahlewang Besar"
+    "name": "Rumahlewang Besar",
+    "postal_code": "97452"
   },
   {
     "code": "8108112008",
     "district_code": "810811",
-    "name": "Nusiata"
+    "name": "Nusiata",
+    "postal_code": "97452"
   }
 ]

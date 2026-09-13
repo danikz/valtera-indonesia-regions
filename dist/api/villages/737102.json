@@ -2,66 +2,79 @@
   {
     "code": "7371021001",
     "district_code": "737102",
-    "name": "Sambung Jawa"
+    "name": "Sambung Jawa",
+    "postal_code": "90134"
   },
   {
     "code": "7371021002",
     "district_code": "737102",
-    "name": "Parang"
+    "name": "Parang",
+    "postal_code": "90133"
   },
   {
     "code": "7371021003",
     "district_code": "737102",
-    "name": "Mamajang Luar"
+    "name": "Mamajang Luar",
+    "postal_code": "90132"
   },
   {
     "code": "7371021004",
     "district_code": "737102",
-    "name": "Mamajang Dalam"
+    "name": "Mamajang Dalam",
+    "postal_code": "90135"
   },
   {
     "code": "7371021005",
     "district_code": "737102",
-    "name": "Maricaya Selatan"
+    "name": "Maricaya Selatan",
+    "postal_code": "90131"
   },
   {
     "code": "7371021006",
     "district_code": "737102",
-    "name": "Bonto Lebang"
+    "name": "Bonto Lebang",
+    "postal_code": "90133"
   },
   {
     "code": "7371021007",
     "district_code": "737102",
-    "name": "Pa'batang"
+    "name": "Pa'batang",
+    "postal_code": "90131"
   },
   {
     "code": "7371021008",
     "district_code": "737102",
-    "name": "Bonto Biraeng"
+    "name": "Bonto Biraeng",
+    "postal_code": "90132"
   },
   {
     "code": "7371021009",
     "district_code": "737102",
-    "name": "Labuang Baji"
+    "name": "Labuang Baji",
+    "postal_code": "90132"
   },
   {
     "code": "7371021010",
     "district_code": "737102",
-    "name": "Mandala"
+    "name": "Mandala",
+    "postal_code": "90135"
   },
   {
     "code": "7371021011",
     "district_code": "737102",
-    "name": "Tamparang Keke"
+    "name": "Tamparang Keke",
+    "postal_code": "90134"
   },
   {
     "code": "7371021012",
     "district_code": "737102",
-    "name": "Baji Mappakasunggu"
+    "name": "Baji Mappakasunggu",
+    "postal_code": "90131"
   },
   {
     "code": "7371021013",
     "district_code": "737102",
-    "name": "Karang Anyar"
+    "name": "Karang Anyar",
+    "postal_code": "90134"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "1403091001",
     "district_code": "140309",
-    "name": "Air Jamban"
+    "name": "Air Jamban",
+    "postal_code": "28783"
   },
   {
     "code": "1403091002",
     "district_code": "140309",
-    "name": "Babussalam"
+    "name": "Babussalam",
+    "postal_code": "28783"
   },
   {
     "code": "1403091003",
     "district_code": "140309",
-    "name": "Batang Serosa"
+    "name": "Batang Serosa",
+    "postal_code": "28783"
   },
   {
     "code": "1403091004",
     "district_code": "140309",
-    "name": "Balik Alam"
+    "name": "Balik Alam",
+    "postal_code": "28783"
   },
   {
     "code": "1403091006",
     "district_code": "140309",
-    "name": "Duri Barat"
+    "name": "Duri Barat",
+    "postal_code": "28783"
   },
   {
     "code": "1403091007",
     "district_code": "140309",
-    "name": "Duri Timur"
+    "name": "Duri Timur",
+    "postal_code": "28783"
   },
   {
     "code": "1403091008",
     "district_code": "140309",
-    "name": "Gajah Sakti"
+    "name": "Gajah Sakti",
+    "postal_code": "28783"
   },
   {
     "code": "1403091009",
     "district_code": "140309",
-    "name": "Talang Mandi"
+    "name": "Talang Mandi",
+    "postal_code": "28783"
   },
   {
     "code": "1403091010",
     "district_code": "140309",
-    "name": "Pematang Pudu"
+    "name": "Pematang Pudu",
+    "postal_code": "28783"
   },
   {
     "code": "1403092011",
     "district_code": "140309",
-    "name": "Harapan Baru"
+    "name": "Harapan Baru",
+    "postal_code": "28783"
   },
   {
     "code": "1403092021",
     "district_code": "140309",
-    "name": "Bathin Betuah"
+    "name": "Bathin Betuah",
+    "postal_code": "28783"
   }
 ]

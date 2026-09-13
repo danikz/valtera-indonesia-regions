@@ -2,36 +2,43 @@
   {
     "code": "1403142001",
     "district_code": "140314",
-    "name": "Paritsatuapi-api"
+    "name": "Paritsatuapi-api",
+    "postal_code": "28762"
   },
   {
     "code": "1403142002",
     "district_code": "140314",
-    "name": "Temiang"
+    "name": "Temiang",
+    "postal_code": "28762"
   },
   {
     "code": "1403142003",
     "district_code": "140314",
-    "name": "Api-Api"
+    "name": "Api-Api",
+    "postal_code": "28762"
   },
   {
     "code": "1403142004",
     "district_code": "140314",
-    "name": "Tenggayun"
+    "name": "Tenggayun",
+    "postal_code": "28762"
   },
   {
     "code": "1403142005",
     "district_code": "140314",
-    "name": "Sepahat"
+    "name": "Sepahat",
+    "postal_code": "28762"
   },
   {
     "code": "1403142006",
     "district_code": "140314",
-    "name": "Bukitkerikil"
+    "name": "Bukitkerikil",
+    "postal_code": "28762"
   },
   {
     "code": "1403142007",
     "district_code": "140314",
-    "name": "Tanjungleban"
+    "name": "Tanjungleban",
+    "postal_code": "28762"
   }
 ]

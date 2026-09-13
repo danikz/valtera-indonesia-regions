@@ -2,21 +2,25 @@
   {
     "code": "1273021001",
     "district_code": "127302",
-    "name": "Kota Baringin"
+    "name": "Kota Baringin",
+    "postal_code": "22521"
   },
   {
     "code": "1273021002",
     "district_code": "127302",
-    "name": "Pasar Baru"
+    "name": "Pasar Baru",
+    "postal_code": "22522"
   },
   {
     "code": "1273021003",
     "district_code": "127302",
-    "name": "Pasar Belakang"
+    "name": "Pasar Belakang",
+    "postal_code": "22523"
   },
   {
     "code": "1273021004",
     "district_code": "127302",
-    "name": "Pancuran Gerobak"
+    "name": "Pancuran Gerobak",
+    "postal_code": "22524"
   }
 ]

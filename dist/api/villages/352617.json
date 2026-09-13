@@ -2,66 +2,79 @@
   {
     "code": "3526172001",
     "district_code": "352617",
-    "name": "Bandung"
+    "name": "Bandung",
+    "postal_code": "69175"
   },
   {
     "code": "3526172002",
     "district_code": "352617",
-    "name": "Konang"
+    "name": "Konang",
+    "postal_code": "69175"
   },
   {
     "code": "3526172003",
     "district_code": "352617",
-    "name": "Genteng"
+    "name": "Genteng",
+    "postal_code": "69175"
   },
   {
     "code": "3526172004",
     "district_code": "352617",
-    "name": "Pakes"
+    "name": "Pakes",
+    "postal_code": "69175"
   },
   {
     "code": "3526172005",
     "district_code": "352617",
-    "name": "Cangkareman"
+    "name": "Cangkareman",
+    "postal_code": "69175"
   },
   {
     "code": "3526172006",
     "district_code": "352617",
-    "name": "Sen Asen"
+    "name": "Sen Asen",
+    "postal_code": "69175"
   },
   {
     "code": "3526172007",
     "district_code": "352617",
-    "name": "Sambiyan"
+    "name": "Sambiyan",
+    "postal_code": "69175"
   },
   {
     "code": "3526172008",
     "district_code": "352617",
-    "name": "Campor"
+    "name": "Campor",
+    "postal_code": "69175"
   },
   {
     "code": "3526172009",
     "district_code": "352617",
-    "name": "Galis Dajah"
+    "name": "Galis Dajah",
+    "postal_code": "69175"
   },
   {
     "code": "3526172010",
     "district_code": "352617",
-    "name": "Kanegarah"
+    "name": "Kanegarah",
+    "postal_code": "69175"
   },
   {
     "code": "3526172011",
     "district_code": "352617",
-    "name": "Durin Barat"
+    "name": "Durin Barat",
+    "postal_code": "69175"
   },
   {
     "code": "3526172012",
     "district_code": "352617",
-    "name": "Durin Timur"
+    "name": "Durin Timur",
+    "postal_code": "69175"
   },
   {
     "code": "3526172013",
     "district_code": "352617",
-    "name": "Batokaban"
+    "name": "Batokaban",
+    "postal_code": "69175"
   }
 ]

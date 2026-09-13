@@ -2,46 +2,55 @@
   {
     "code": "6302202001",
     "district_code": "630220",
-    "name": "Tanjung Lalak Utara"
+    "name": "Tanjung Lalak Utara",
+    "postal_code": "72154"
   },
   {
     "code": "6302202002",
     "district_code": "630220",
-    "name": "Tanjung Lalak Selatan"
+    "name": "Tanjung Lalak Selatan",
+    "postal_code": "72154"
   },
   {
     "code": "6302202003",
     "district_code": "630220",
-    "name": "Pulau Kerayaan"
+    "name": "Pulau Kerayaan",
+    "postal_code": "72154"
   },
   {
     "code": "6302202004",
     "district_code": "630220",
-    "name": "Kerayaan Utara"
+    "name": "Kerayaan Utara",
+    "postal_code": "72154"
   },
   {
     "code": "6302202005",
     "district_code": "630220",
-    "name": "Pulau Kerasian"
+    "name": "Pulau Kerasian",
+    "postal_code": "72154"
   },
   {
     "code": "6302202006",
     "district_code": "630220",
-    "name": "Pulau Kerumputan"
+    "name": "Pulau Kerumputan",
+    "postal_code": "72154"
   },
   {
     "code": "6302202007",
     "district_code": "630220",
-    "name": "Teluk Aru"
+    "name": "Teluk Aru",
+    "postal_code": "72154"
   },
   {
     "code": "6302202008",
     "district_code": "630220",
-    "name": "Teluk Kemuning"
+    "name": "Teluk Kemuning",
+    "postal_code": "72154"
   },
   {
     "code": "6302202009",
     "district_code": "630220",
-    "name": "Oka-Oka"
+    "name": "Oka-Oka",
+    "postal_code": "72154"
   }
 ]

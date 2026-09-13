@@ -2,31 +2,37 @@
   {
     "code": "1509112001",
     "district_code": "150911",
-    "name": "Teluk Kepayang Pulau Indah"
+    "name": "Teluk Kepayang Pulau Indah",
+    "postal_code": "37562"
   },
   {
     "code": "1509112002",
     "district_code": "150911",
-    "name": "Balai Rajo"
+    "name": "Balai Rajo",
+    "postal_code": "37562"
   },
   {
     "code": "1509112003",
     "district_code": "150911",
-    "name": "Cermin Alam"
+    "name": "Cermin Alam",
+    "postal_code": "37562"
   },
   {
     "code": "1509112004",
     "district_code": "150911",
-    "name": "Sungai Karang"
+    "name": "Sungai Karang",
+    "postal_code": "37562"
   },
   {
     "code": "1509112005",
     "district_code": "150911",
-    "name": "Paseban"
+    "name": "Paseban",
+    "postal_code": "37562"
   },
   {
     "code": "1509112006",
     "district_code": "150911",
-    "name": "Pasir Mayang"
+    "name": "Pasir Mayang",
+    "postal_code": "37562"
   }
 ]

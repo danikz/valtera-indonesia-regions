@@ -2,36 +2,43 @@
   {
     "code": "7309082001",
     "district_code": "730908",
-    "name": "Temmapaduae"
+    "name": "Temmapaduae",
+    "postal_code": "90551"
   },
   {
     "code": "7309082002",
     "district_code": "730908",
-    "name": "Nisombalia"
+    "name": "Nisombalia",
+    "postal_code": "90551"
   },
   {
     "code": "7309082003",
     "district_code": "730908",
-    "name": "Tellumpoccoe"
+    "name": "Tellumpoccoe",
+    "postal_code": "90551"
   },
   {
     "code": "7309082004",
     "district_code": "730908",
-    "name": "Ma'rumpa"
+    "name": "Ma'rumpa",
+    "postal_code": "90551"
   },
   {
     "code": "7309082005",
     "district_code": "730908",
-    "name": "Bonto Mate'ne"
+    "name": "Bonto Mate'ne",
+    "postal_code": "90551"
   },
   {
     "code": "7309082006",
     "district_code": "730908",
-    "name": "Abulosibatang"
+    "name": "Abulosibatang",
+    "postal_code": "90551"
   },
   {
     "code": "7309082007",
     "district_code": "730908",
-    "name": "Pa'bentengang"
+    "name": "Pa'bentengang",
+    "postal_code": "90551"
   }
 ]

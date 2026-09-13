@@ -2,56 +2,67 @@
   {
     "code": "1804222001",
     "district_code": "180422",
-    "name": "Lombok"
+    "name": "Lombok",
+    "postal_code": "34879"
   },
   {
     "code": "1804222002",
     "district_code": "180422",
-    "name": "Heni Arong"
+    "name": "Heni Arong",
+    "postal_code": "34879"
   },
   {
     "code": "1804222003",
     "district_code": "180422",
-    "name": "Suka Banjar"
+    "name": "Suka Banjar",
+    "postal_code": "34879"
   },
   {
     "code": "1804222004",
     "district_code": "180422",
-    "name": "Lombok Timur"
+    "name": "Lombok Timur",
+    "postal_code": "34879"
   },
   {
     "code": "1804222005",
     "district_code": "180422",
-    "name": "Suka Banjar II Ujung Rembun"
+    "name": "Suka Banjar II Ujung Rembun",
+    "postal_code": "34879"
   },
   {
     "code": "1804222006",
     "district_code": "180422",
-    "name": "Suka Maju"
+    "name": "Suka Maju",
+    "postal_code": "34879"
   },
   {
     "code": "1804222007",
     "district_code": "180422",
-    "name": "Ujung"
+    "name": "Ujung",
+    "postal_code": "34879"
   },
   {
     "code": "1804222008",
     "district_code": "180422",
-    "name": "Keagungan"
+    "name": "Keagungan",
+    "postal_code": "34879"
   },
   {
     "code": "1804222009",
     "district_code": "180422",
-    "name": "Tawan Suka Mulya"
+    "name": "Tawan Suka Mulya",
+    "postal_code": "34879"
   },
   {
     "code": "1804222010",
     "district_code": "180422",
-    "name": "Pancur Mas"
+    "name": "Pancur Mas",
+    "postal_code": "34879"
   },
   {
     "code": "1804222011",
     "district_code": "180422",
-    "name": "Lombok Selatan"
+    "name": "Lombok Selatan",
+    "postal_code": "34879"
   }
 ]

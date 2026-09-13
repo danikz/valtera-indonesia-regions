@@ -2,21 +2,25 @@
   {
     "code": "3404032001",
     "district_code": "340403",
-    "name": "Sumberrahayu"
+    "name": "Sumberrahayu",
+    "postal_code": "55563"
   },
   {
     "code": "3404032002",
     "district_code": "340403",
-    "name": "Sumbersari"
+    "name": "Sumbersari",
+    "postal_code": "55563"
   },
   {
     "code": "3404032003",
     "district_code": "340403",
-    "name": "Sumberagung"
+    "name": "Sumberagung",
+    "postal_code": "55563"
   },
   {
     "code": "3404032004",
     "district_code": "340403",
-    "name": "Sumberarum"
+    "name": "Sumberarum",
+    "postal_code": "55563"
   }
 ]

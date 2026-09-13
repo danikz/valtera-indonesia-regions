@@ -2,41 +2,49 @@
   {
     "code": "1603112001",
     "district_code": "160311",
-    "name": "Pinang Belarik"
+    "name": "Pinang Belarik",
+    "postal_code": "31351"
   },
   {
     "code": "1603112002",
     "district_code": "160311",
-    "name": "Ujan Mas Lama"
+    "name": "Ujan Mas Lama",
+    "postal_code": "31351"
   },
   {
     "code": "1603112003",
     "district_code": "160311",
-    "name": "Ujan Mas Baru"
+    "name": "Ujan Mas Baru",
+    "postal_code": "31351"
   },
   {
     "code": "1603112004",
     "district_code": "160311",
-    "name": "Tanjung Raman"
+    "name": "Tanjung Raman",
+    "postal_code": "31351"
   },
   {
     "code": "1603112005",
     "district_code": "160311",
-    "name": "Muara Gula Baru"
+    "name": "Muara Gula Baru",
+    "postal_code": "31351"
   },
   {
     "code": "1603112006",
     "district_code": "160311",
-    "name": "Muara Gula Lama"
+    "name": "Muara Gula Lama",
+    "postal_code": "31351"
   },
   {
     "code": "1603112007",
     "district_code": "160311",
-    "name": "Guci"
+    "name": "Guci",
+    "postal_code": "31351"
   },
   {
     "code": "1603112008",
     "district_code": "160311",
-    "name": "Ulak Bandung"
+    "name": "Ulak Bandung",
+    "postal_code": "31351"
   }
 ]

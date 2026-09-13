@@ -2,51 +2,61 @@
   {
     "code": "7501172001",
     "district_code": "750117",
-    "name": "Pone"
+    "name": "Pone",
+    "postal_code": "96215"
   },
   {
     "code": "7501172002",
     "district_code": "750117",
-    "name": "Huidu"
+    "name": "Huidu",
+    "postal_code": "96215"
   },
   {
     "code": "7501172003",
     "district_code": "750117",
-    "name": "Ombulo"
+    "name": "Ombulo",
+    "postal_code": "96215"
   },
   {
     "code": "7501172004",
     "district_code": "750117",
-    "name": "Daenaa"
+    "name": "Daenaa",
+    "postal_code": "96215"
   },
   {
     "code": "7501172005",
     "district_code": "750117",
-    "name": "Yosonegoro"
+    "name": "Yosonegoro",
+    "postal_code": "96216"
   },
   {
     "code": "7501172006",
     "district_code": "750117",
-    "name": "Tunggulo"
+    "name": "Tunggulo",
+    "postal_code": "96217"
   },
   {
     "code": "7501172007",
     "district_code": "750117",
-    "name": "Hutabohu"
+    "name": "Hutabohu",
+    "postal_code": "96216"
   },
   {
     "code": "7501172008",
     "district_code": "750117",
-    "name": "Padengo"
+    "name": "Padengo",
+    "postal_code": "96216"
   },
   {
     "code": "7501172009",
     "district_code": "750117",
-    "name": "Haya-Haya"
+    "name": "Haya-Haya",
+    "postal_code": "96216"
   },
   {
     "code": "7501172010",
     "district_code": "750117",
-    "name": "Huidu Utara"
+    "name": "Huidu Utara",
+    "postal_code": "96216"
   }
 ]

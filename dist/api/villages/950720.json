@@ -2,56 +2,67 @@
   {
     "code": "9507202001",
     "district_code": "950720",
-    "name": "Golopura"
+    "name": "Golopura",
+    "postal_code": "99576"
   },
   {
     "code": "9507202002",
     "district_code": "950720",
-    "name": "Wirini"
+    "name": "Wirini",
+    "postal_code": "99576"
   },
   {
     "code": "9507202003",
     "district_code": "950720",
-    "name": "Nileme"
+    "name": "Nileme",
+    "postal_code": "99576"
   },
   {
     "code": "9507202004",
     "district_code": "950720",
-    "name": "Libome"
+    "name": "Libome",
+    "postal_code": "99576"
   },
   {
     "code": "9507202005",
     "district_code": "950720",
-    "name": "Kulia"
+    "name": "Kulia",
+    "postal_code": "99576"
   },
   {
     "code": "9507202006",
     "district_code": "950720",
-    "name": "Yamiga"
+    "name": "Yamiga",
+    "postal_code": "99576"
   },
   {
     "code": "9507202007",
     "district_code": "950720",
-    "name": "Gubugame"
+    "name": "Gubugame",
+    "postal_code": "99576"
   },
   {
     "code": "9507202008",
     "district_code": "950720",
-    "name": "Kamenak"
+    "name": "Kamenak",
+    "postal_code": "99576"
   },
   {
     "code": "9507202009",
     "district_code": "950720",
-    "name": "Perime"
+    "name": "Perime",
+    "postal_code": "99576"
   },
   {
     "code": "9507202010",
     "district_code": "950720",
-    "name": "Wadinawi"
+    "name": "Wadinawi",
+    "postal_code": "99576"
   },
   {
     "code": "9507202011",
     "district_code": "950720",
-    "name": "Nengguga"
+    "name": "Nengguga",
+    "postal_code": "99576"
   }
 ]

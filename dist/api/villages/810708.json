@@ -2,36 +2,43 @@
   {
     "code": "8107082001",
     "district_code": "810708",
-    "name": "Longgar"
+    "name": "Longgar",
+    "postal_code": "97669"
   },
   {
     "code": "8107082002",
     "district_code": "810708",
-    "name": "Apara"
+    "name": "Apara",
+    "postal_code": "97669"
   },
   {
     "code": "8107082003",
     "district_code": "810708",
-    "name": "Bemun"
+    "name": "Bemun",
+    "postal_code": "97669"
   },
   {
     "code": "8107082004",
     "district_code": "810708",
-    "name": "Mesiang"
+    "name": "Mesiang",
+    "postal_code": "97669"
   },
   {
     "code": "8107082005",
     "district_code": "810708",
-    "name": "Gomo-Gomo"
+    "name": "Gomo-Gomo",
+    "postal_code": "97669"
   },
   {
     "code": "8107082006",
     "district_code": "810708",
-    "name": "Jambu Air"
+    "name": "Jambu Air",
+    "postal_code": "97669"
   },
   {
     "code": "8107082007",
     "district_code": "810708",
-    "name": "Warabal"
+    "name": "Warabal",
+    "postal_code": "97669"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "3509211001",
     "district_code": "350921",
-    "name": "Kebonsari"
+    "name": "Kebonsari",
+    "postal_code": "68122"
   },
   {
     "code": "3509211002",
     "district_code": "350921",
-    "name": "Sumbersari"
+    "name": "Sumbersari",
+    "postal_code": "68121"
   },
   {
     "code": "3509211003",
     "district_code": "350921",
-    "name": "Kranjingan"
+    "name": "Kranjingan",
+    "postal_code": "68126"
   },
   {
     "code": "3509211004",
     "district_code": "350921",
-    "name": "Karangrejo"
+    "name": "Karangrejo",
+    "postal_code": "68124"
   },
   {
     "code": "3509211005",
     "district_code": "350921",
-    "name": "Tegalgede"
+    "name": "Tegalgede",
+    "postal_code": "68124"
   },
   {
     "code": "3509211006",
     "district_code": "350921",
-    "name": "Wirolegi"
+    "name": "Wirolegi",
+    "postal_code": "68124"
   },
   {
     "code": "3509211007",
     "district_code": "350921",
-    "name": "Antirogo"
+    "name": "Antirogo",
+    "postal_code": "68125"
   }
 ]

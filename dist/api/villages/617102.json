@@ -2,36 +2,43 @@
   {
     "code": "6171021001",
     "district_code": "617102",
-    "name": "Paritmayor"
+    "name": "Paritmayor",
+    "postal_code": "78231"
   },
   {
     "code": "6171021002",
     "district_code": "617102",
-    "name": "Banjar Serasan"
+    "name": "Banjar Serasan",
+    "postal_code": "78233"
   },
   {
     "code": "6171021003",
     "district_code": "617102",
-    "name": "Saigon"
+    "name": "Saigon",
+    "postal_code": "78132"
   },
   {
     "code": "6171021004",
     "district_code": "617102",
-    "name": "Tanjunghulu"
+    "name": "Tanjunghulu",
+    "postal_code": "78137"
   },
   {
     "code": "6171021005",
     "district_code": "617102",
-    "name": "Tanjunghilir"
+    "name": "Tanjunghilir",
+    "postal_code": "78236"
   },
   {
     "code": "6171021006",
     "district_code": "617102",
-    "name": "Dalambugis"
+    "name": "Dalambugis",
+    "postal_code": "78235"
   },
   {
     "code": "6171021007",
     "district_code": "617102",
-    "name": "Tambelansampit"
+    "name": "Tambelansampit",
+    "postal_code": "78234"
   }
 ]

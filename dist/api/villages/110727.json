@@ -2,21 +2,25 @@
   {
     "code": "1107272001",
     "district_code": "110727",
-    "name": "Lutueng"
+    "name": "Lutueng",
+    "postal_code": "24189"
   },
   {
     "code": "1107272002",
     "district_code": "110727",
-    "name": "Blang Dalam"
+    "name": "Blang Dalam",
+    "postal_code": "24189"
   },
   {
     "code": "1107272003",
     "district_code": "110727",
-    "name": "Mane"
+    "name": "Mane",
+    "postal_code": "24189"
   },
   {
     "code": "1107272004",
     "district_code": "110727",
-    "name": "Turue Cut"
+    "name": "Turue Cut",
+    "postal_code": "24189"
   }
 ]

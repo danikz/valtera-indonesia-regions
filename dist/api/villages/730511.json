@@ -2,41 +2,49 @@
   {
     "code": "7305112001",
     "district_code": "730511",
-    "name": "Ko'mara"
+    "name": "Ko'mara",
+    "postal_code": "92221"
   },
   {
     "code": "7305112002",
     "district_code": "730511",
-    "name": "Kale Ko'mara"
+    "name": "Kale Ko'mara",
+    "postal_code": "92221"
   },
   {
     "code": "7305112003",
     "district_code": "730511",
-    "name": "Barugaya"
+    "name": "Barugaya",
+    "postal_code": "92221"
   },
   {
     "code": "7305112004",
     "district_code": "730511",
-    "name": "Parang Baddo"
+    "name": "Parang Baddo",
+    "postal_code": "92221"
   },
   {
     "code": "7305112005",
     "district_code": "730511",
-    "name": "Massamaturu"
+    "name": "Massamaturu",
+    "postal_code": "92221"
   },
   {
     "code": "7305112006",
     "district_code": "730511",
-    "name": "Timbuseng"
+    "name": "Timbuseng",
+    "postal_code": "92221"
   },
   {
     "code": "7305112007",
     "district_code": "730511",
-    "name": "Balangtanaya"
+    "name": "Balangtanaya",
+    "postal_code": "92221"
   },
   {
     "code": "7305112008",
     "district_code": "730511",
-    "name": "Kampung Beru"
+    "name": "Kampung Beru",
+    "postal_code": "92221"
   }
 ]

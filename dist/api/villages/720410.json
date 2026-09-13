@@ -2,21 +2,25 @@
   {
     "code": "7204102001",
     "district_code": "720410",
-    "name": "Galumpang"
+    "name": "Galumpang",
+    "postal_code": "94562"
   },
   {
     "code": "7204102002",
     "district_code": "720410",
-    "name": "Dungingis"
+    "name": "Dungingis",
+    "postal_code": "94562"
   },
   {
     "code": "7204102003",
     "district_code": "720410",
-    "name": "Kapas"
+    "name": "Kapas",
+    "postal_code": "94562"
   },
   {
     "code": "7204102004",
     "district_code": "720410",
-    "name": "Lingadan"
+    "name": "Lingadan",
+    "postal_code": "94562"
   }
 ]

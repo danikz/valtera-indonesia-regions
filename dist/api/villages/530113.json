@@ -2,31 +2,37 @@
   {
     "code": "5301131002",
     "district_code": "530113",
-    "name": "Naikliu"
+    "name": "Naikliu",
+    "postal_code": "85365"
   },
   {
     "code": "5301132001",
     "district_code": "530113",
-    "name": "Afoan"
+    "name": "Afoan",
+    "postal_code": "85365"
   },
   {
     "code": "5301132003",
     "district_code": "530113",
-    "name": "Fatunaus"
+    "name": "Fatunaus",
+    "postal_code": "85365"
   },
   {
     "code": "5301132004",
     "district_code": "530113",
-    "name": "Kolabe"
+    "name": "Kolabe",
+    "postal_code": "85365"
   },
   {
     "code": "5301132005",
     "district_code": "530113",
-    "name": "Bakuin"
+    "name": "Bakuin",
+    "postal_code": "85365"
   },
   {
     "code": "5301132010",
     "district_code": "530113",
-    "name": "Lilmus"
+    "name": "Lilmus",
+    "postal_code": "85365"
   }
 ]

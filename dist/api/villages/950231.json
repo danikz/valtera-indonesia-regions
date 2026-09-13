@@ -2,51 +2,61 @@
   {
     "code": "9502312001",
     "district_code": "950231",
-    "name": "Teiraplu"
+    "name": "Teiraplu",
+    "postal_code": "99405"
   },
   {
     "code": "9502312002",
     "district_code": "950231",
-    "name": "Sinami"
+    "name": "Sinami",
+    "postal_code": "99405"
   },
   {
     "code": "9502312003",
     "district_code": "950231",
-    "name": "Maigame"
+    "name": "Maigame",
+    "postal_code": "99405"
   },
   {
     "code": "9502312004",
     "district_code": "950231",
-    "name": "Murme"
+    "name": "Murme",
+    "postal_code": "99405"
   },
   {
     "code": "9502312005",
     "district_code": "950231",
-    "name": "Yuaban Satu"
+    "name": "Yuaban Satu",
+    "postal_code": "99405"
   },
   {
     "code": "9502312006",
     "district_code": "950231",
-    "name": "Yuaban Dua"
+    "name": "Yuaban Dua",
+    "postal_code": "99405"
   },
   {
     "code": "9502312007",
     "district_code": "950231",
-    "name": "Terapdei"
+    "name": "Terapdei",
+    "postal_code": "99405"
   },
   {
     "code": "9502312008",
     "district_code": "950231",
-    "name": "Yitarget"
+    "name": "Yitarget",
+    "postal_code": "99405"
   },
   {
     "code": "9502312009",
     "district_code": "950231",
-    "name": "Teriame"
+    "name": "Teriame",
+    "postal_code": "99405"
   },
   {
     "code": "9502312010",
     "district_code": "950231",
-    "name": "Bautme"
+    "name": "Bautme",
+    "postal_code": "99405"
   }
 ]

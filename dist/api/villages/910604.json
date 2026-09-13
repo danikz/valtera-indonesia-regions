@@ -2,61 +2,73 @@
   {
     "code": "9106042003",
     "district_code": "910604",
-    "name": "Namber"
+    "name": "Namber",
+    "postal_code": "98564"
   },
   {
     "code": "9106042004",
     "district_code": "910604",
-    "name": "Baruki"
+    "name": "Baruki",
+    "postal_code": "98564"
   },
   {
     "code": "9106042005",
     "district_code": "910604",
-    "name": "Kameri"
+    "name": "Kameri",
+    "postal_code": "98564"
   },
   {
     "code": "9106042008",
     "district_code": "910604",
-    "name": "Warido"
+    "name": "Warido",
+    "postal_code": "98564"
   },
   {
     "code": "9106042012",
     "district_code": "910604",
-    "name": "Sub Manggunsi"
+    "name": "Sub Manggunsi",
+    "postal_code": "98564"
   },
   {
     "code": "9106042013",
     "district_code": "910604",
-    "name": "Serbin"
+    "name": "Serbin",
+    "postal_code": "98564"
   },
   {
     "code": "9106042014",
     "district_code": "910604",
-    "name": "Kansai"
+    "name": "Kansai",
+    "postal_code": "98564"
   },
   {
     "code": "9106042015",
     "district_code": "910604",
-    "name": "Pomdori"
+    "name": "Pomdori",
+    "postal_code": "98564"
   },
   {
     "code": "9106042019",
     "district_code": "910604",
-    "name": "Semayen"
+    "name": "Semayen",
+    "postal_code": "98564"
   },
   {
     "code": "9106042020",
     "district_code": "910604",
-    "name": "Mambodo Sawai"
+    "name": "Mambodo Sawai",
+    "postal_code": "98564"
   },
   {
     "code": "9106042021",
     "district_code": "910604",
-    "name": "Rimbaraya"
+    "name": "Rimbaraya",
+    "postal_code": "98564"
   },
   {
     "code": "9106042022",
     "district_code": "910604",
-    "name": "Pomdori Sup"
+    "name": "Pomdori Sup",
+    "postal_code": "98564"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "9405132001",
     "district_code": "940513",
-    "name": "Aguit"
+    "name": "Aguit",
+    "postal_code": "98972"
   },
   {
     "code": "9405132002",
     "district_code": "940513",
-    "name": "Kembru"
+    "name": "Kembru",
+    "postal_code": "98972"
   },
   {
     "code": "9405132003",
     "district_code": "940513",
-    "name": "Molu"
+    "name": "Molu",
+    "postal_code": "98972"
   },
   {
     "code": "9405132004",
     "district_code": "940513",
-    "name": "Belaba"
+    "name": "Belaba",
+    "postal_code": "98972"
   },
   {
     "code": "9405132005",
     "district_code": "940513",
-    "name": "Makuma"
+    "name": "Makuma",
+    "postal_code": "98972"
   },
   {
     "code": "9405132006",
     "district_code": "940513",
-    "name": "Tinoti"
+    "name": "Tinoti",
+    "postal_code": "98972"
   },
   {
     "code": "9405132007",
     "district_code": "940513",
-    "name": "Nilime"
+    "name": "Nilime",
+    "postal_code": "98972"
   }
 ]

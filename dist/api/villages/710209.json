@@ -2,41 +2,49 @@
   {
     "code": "7102092004",
     "district_code": "710209",
-    "name": "Wolaang"
+    "name": "Wolaang",
+    "postal_code": "95696"
   },
   {
     "code": "7102092005",
     "district_code": "710209",
-    "name": "Teep"
+    "name": "Teep",
+    "postal_code": "95696"
   },
   {
     "code": "7102092006",
     "district_code": "710209",
-    "name": "Karondoran"
+    "name": "Karondoran",
+    "postal_code": "95696"
   },
   {
     "code": "7102092007",
     "district_code": "710209",
-    "name": "Waleure"
+    "name": "Waleure",
+    "postal_code": "95696"
   },
   {
     "code": "7102092008",
     "district_code": "710209",
-    "name": "Amongena I"
+    "name": "Amongena I",
+    "postal_code": "95696"
   },
   {
     "code": "7102092009",
     "district_code": "710209",
-    "name": "Amongena II"
+    "name": "Amongena II",
+    "postal_code": "95696"
   },
   {
     "code": "7102092010",
     "district_code": "710209",
-    "name": "Sumarayar"
+    "name": "Sumarayar",
+    "postal_code": "95696"
   },
   {
     "code": "7102092018",
     "district_code": "710209",
-    "name": "Amongena Tiga"
+    "name": "Amongena Tiga",
+    "postal_code": "95696"
   }
 ]

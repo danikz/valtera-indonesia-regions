@@ -2,31 +2,37 @@
   {
     "code": "9403182001",
     "district_code": "940318",
-    "name": "Youtadi"
+    "name": "Youtadi",
+    "postal_code": "98737"
   },
   {
     "code": "9403182002",
     "district_code": "940318",
-    "name": "Uwagi"
+    "name": "Uwagi",
+    "postal_code": "98737"
   },
   {
     "code": "9403182003",
     "district_code": "940318",
-    "name": "Ipouwa"
+    "name": "Ipouwa",
+    "postal_code": "98737"
   },
   {
     "code": "9403182004",
     "district_code": "940318",
-    "name": "Munaiyepa"
+    "name": "Munaiyepa",
+    "postal_code": "98737"
   },
   {
     "code": "9403182005",
     "district_code": "940318",
-    "name": "Dokoneida"
+    "name": "Dokoneida",
+    "postal_code": "98737"
   },
   {
     "code": "9403182006",
     "district_code": "940318",
-    "name": "Namutadi"
+    "name": "Namutadi",
+    "postal_code": "98737"
   }
 ]

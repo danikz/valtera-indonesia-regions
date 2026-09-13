@@ -2,56 +2,67 @@
   {
     "code": "9110011001",
     "district_code": "911001",
-    "name": "Mararena"
+    "name": "Mararena",
+    "postal_code": "99373"
   },
   {
     "code": "9110011002",
     "district_code": "911001",
-    "name": "Sarmi Kota"
+    "name": "Sarmi Kota",
+    "postal_code": "99373"
   },
   {
     "code": "9110012003",
     "district_code": "911001",
-    "name": "Sarmo"
+    "name": "Sarmo",
+    "postal_code": "99373"
   },
   {
     "code": "9110012004",
     "district_code": "911001",
-    "name": "Liki"
+    "name": "Liki",
+    "postal_code": "99373"
   },
   {
     "code": "9110012006",
     "district_code": "911001",
-    "name": "Sawar"
+    "name": "Sawar",
+    "postal_code": "99373"
   },
   {
     "code": "9110012007",
     "district_code": "911001",
-    "name": "Bagaiserwar"
+    "name": "Bagaiserwar",
+    "postal_code": "99373"
   },
   {
     "code": "9110012014",
     "district_code": "911001",
-    "name": "Armo"
+    "name": "Armo",
+    "postal_code": "99373"
   },
   {
     "code": "9110012018",
     "district_code": "911001",
-    "name": "Bagaisewar II"
+    "name": "Bagaisewar II",
+    "postal_code": "99373"
   },
   {
     "code": "9110012019",
     "district_code": "911001",
-    "name": "Pulau Armo"
+    "name": "Pulau Armo",
+    "postal_code": "99373"
   },
   {
     "code": "9110012020",
     "district_code": "911001",
-    "name": "Lembah Neidam"
+    "name": "Lembah Neidam",
+    "postal_code": "99373"
   },
   {
     "code": "9110012021",
     "district_code": "911001",
-    "name": "Tefarewar"
+    "name": "Tefarewar",
+    "postal_code": "99373"
   }
 ]

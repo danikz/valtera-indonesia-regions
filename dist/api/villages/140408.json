@@ -2,56 +2,67 @@
   {
     "code": "1404081001",
     "district_code": "140408",
-    "name": "Tegaraja"
+    "name": "Tegaraja",
+    "postal_code": "29255"
   },
   {
     "code": "1404081009",
     "district_code": "140408",
-    "name": "Amal Bakti"
+    "name": "Amal Bakti",
+    "postal_code": "29255"
   },
   {
     "code": "1404081010",
     "district_code": "140408",
-    "name": "Bandar Sri Gemilang"
+    "name": "Bandar Sri Gemilang",
+    "postal_code": "29255"
   },
   {
     "code": "1404082002",
     "district_code": "140408",
-    "name": "Kuala Selat"
+    "name": "Kuala Selat",
+    "postal_code": "29255"
   },
   {
     "code": "1404082003",
     "district_code": "140408",
-    "name": "Sungaisimbar"
+    "name": "Sungaisimbar",
+    "postal_code": "29255"
   },
   {
     "code": "1404082004",
     "district_code": "140408",
-    "name": "Penjuru"
+    "name": "Penjuru",
+    "postal_code": "29255"
   },
   {
     "code": "1404082005",
     "district_code": "140408",
-    "name": "Sari Mulia"
+    "name": "Sari Mulia",
+    "postal_code": "29255"
   },
   {
     "code": "1404082006",
     "district_code": "140408",
-    "name": "Air Tawar"
+    "name": "Air Tawar",
+    "postal_code": "29255"
   },
   {
     "code": "1404082007",
     "district_code": "140408",
-    "name": "Tanjungraja"
+    "name": "Tanjungraja",
+    "postal_code": "29255"
   },
   {
     "code": "1404082008",
     "district_code": "140408",
-    "name": "Sungaiteritip"
+    "name": "Sungaiteritip",
+    "postal_code": "29255"
   },
   {
     "code": "1404082011",
     "district_code": "140408",
-    "name": "Makmur Jaya"
+    "name": "Makmur Jaya",
+    "postal_code": "29255"
   }
 ]

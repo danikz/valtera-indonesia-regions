@@ -2,26 +2,31 @@
   {
     "code": "3272061001",
     "district_code": "327206",
-    "name": "Cipanengah"
+    "name": "Cipanengah",
+    "postal_code": "43134"
   },
   {
     "code": "3272061002",
     "district_code": "327206",
-    "name": "Situmekar"
+    "name": "Situmekar",
+    "postal_code": "43169"
   },
   {
     "code": "3272061003",
     "district_code": "327206",
-    "name": "Lembursitu"
+    "name": "Lembursitu",
+    "postal_code": "43169"
   },
   {
     "code": "3272061004",
     "district_code": "327206",
-    "name": "Cikundul"
+    "name": "Cikundul",
+    "postal_code": "43168"
   },
   {
     "code": "3272061005",
     "district_code": "327206",
-    "name": "Sindangsari"
+    "name": "Sindangsari",
+    "postal_code": "43167"
   }
 ]

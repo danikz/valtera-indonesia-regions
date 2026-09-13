@@ -2,36 +2,43 @@
   {
     "code": "9207102001",
     "district_code": "920710",
-    "name": "Yende"
+    "name": "Yende",
+    "postal_code": "98344"
   },
   {
     "code": "9207102002",
     "district_code": "920710",
-    "name": "Syabes"
+    "name": "Syabes",
+    "postal_code": "98344"
   },
   {
     "code": "9207102003",
     "district_code": "920710",
-    "name": "Menarbu"
+    "name": "Menarbu",
+    "postal_code": "98344"
   },
   {
     "code": "9207102004",
     "district_code": "920710",
-    "name": "Niab"
+    "name": "Niab",
+    "postal_code": "98344"
   },
   {
     "code": "9207102005",
     "district_code": "920710",
-    "name": "Inday"
+    "name": "Inday",
+    "postal_code": "98344"
   },
   {
     "code": "9207102006",
     "district_code": "920710",
-    "name": "Sariay"
+    "name": "Sariay",
+    "postal_code": "98344"
   },
   {
     "code": "9207102007",
     "district_code": "920710",
-    "name": "Mena"
+    "name": "Mena",
+    "postal_code": "98344"
   }
 ]

@@ -2,46 +2,55 @@
   {
     "code": "7209112001",
     "district_code": "720911",
-    "name": "Bomba"
+    "name": "Bomba",
+    "postal_code": "94691"
   },
   {
     "code": "7209112002",
     "district_code": "720911",
-    "name": "Molowagu"
+    "name": "Molowagu",
+    "postal_code": "94691"
   },
   {
     "code": "7209112003",
     "district_code": "720911",
-    "name": "Malino"
+    "name": "Malino",
+    "postal_code": "94691"
   },
   {
     "code": "7209112004",
     "district_code": "720911",
-    "name": "Kulingkinari"
+    "name": "Kulingkinari",
+    "postal_code": "94691"
   },
   {
     "code": "7209112005",
     "district_code": "720911",
-    "name": "Tumbulawa"
+    "name": "Tumbulawa",
+    "postal_code": "94691"
   },
   {
     "code": "7209112006",
     "district_code": "720911",
-    "name": "Siatu"
+    "name": "Siatu",
+    "postal_code": "94691"
   },
   {
     "code": "7209112007",
     "district_code": "720911",
-    "name": "Kambutu"
+    "name": "Kambutu",
+    "postal_code": "94691"
   },
   {
     "code": "7209112008",
     "district_code": "720911",
-    "name": "Lindo"
+    "name": "Lindo",
+    "postal_code": "94690"
   },
   {
     "code": "7209112009",
     "district_code": "720911",
-    "name": "Patoyan"
+    "name": "Patoyan",
+    "postal_code": "94690"
   }
 ]

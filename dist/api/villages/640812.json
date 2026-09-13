@@ -2,21 +2,25 @@
   {
     "code": "6408121002",
     "district_code": "640812",
-    "name": "Singa Geweh"
+    "name": "Singa Geweh",
+    "postal_code": "75680"
   },
   {
     "code": "6408122001",
     "district_code": "640812",
-    "name": "Sangatta Selatan"
+    "name": "Sangatta Selatan",
+    "postal_code": "75680"
   },
   {
     "code": "6408122003",
     "district_code": "640812",
-    "name": "Sangkima"
+    "name": "Sangkima",
+    "postal_code": "75680"
   },
   {
     "code": "6408122004",
     "district_code": "640812",
-    "name": "Teluk Singkama"
+    "name": "Teluk Singkama",
+    "postal_code": "75680"
   }
 ]

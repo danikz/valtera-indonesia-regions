@@ -2,46 +2,55 @@
   {
     "code": "9402142001",
     "district_code": "940214",
-    "name": "Mondu"
+    "name": "Mondu",
+    "postal_code": "98917"
   },
   {
     "code": "9402142002",
     "district_code": "940214",
-    "name": "Yambi"
+    "name": "Yambi",
+    "postal_code": "98917"
   },
   {
     "code": "9402142003",
     "district_code": "940214",
-    "name": "Moulo"
+    "name": "Moulo",
+    "postal_code": "98917"
   },
   {
     "code": "9402142004",
     "district_code": "940214",
-    "name": "Tenolok"
+    "name": "Tenolok",
+    "postal_code": "98917"
   },
   {
     "code": "9402142005",
     "district_code": "940214",
-    "name": "Ginigom"
+    "name": "Ginigom",
+    "postal_code": "98917"
   },
   {
     "code": "9402142006",
     "district_code": "940214",
-    "name": "Dangenpaga"
+    "name": "Dangenpaga",
+    "postal_code": "98917"
   },
   {
     "code": "9402142007",
     "district_code": "940214",
-    "name": "Wonome"
+    "name": "Wonome",
+    "postal_code": "98917"
   },
   {
     "code": "9402142008",
     "district_code": "940214",
-    "name": "Yoboluk"
+    "name": "Yoboluk",
+    "postal_code": "98917"
   },
   {
     "code": "9402142009",
     "district_code": "940214",
-    "name": "Tirineri"
+    "name": "Tirineri",
+    "postal_code": "98917"
   }
 ]

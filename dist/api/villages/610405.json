@@ -2,66 +2,79 @@
   {
     "code": "6104052001",
     "district_code": "610405",
-    "name": "Sandai"
+    "name": "Sandai",
+    "postal_code": "78870"
   },
   {
     "code": "6104052002",
     "district_code": "610405",
-    "name": "Randau Jungkal"
+    "name": "Randau Jungkal",
+    "postal_code": "78870"
   },
   {
     "code": "6104052006",
     "district_code": "610405",
-    "name": "Penjawaan"
+    "name": "Penjawaan",
+    "postal_code": "78870"
   },
   {
     "code": "6104052007",
     "district_code": "610405",
-    "name": "Muara Jekak"
+    "name": "Muara Jekak",
+    "postal_code": "78870"
   },
   {
     "code": "6104052008",
     "district_code": "610405",
-    "name": "Petai Patah"
+    "name": "Petai Patah",
+    "postal_code": "78870"
   },
   {
     "code": "6104052010",
     "district_code": "610405",
-    "name": "Randau"
+    "name": "Randau",
+    "postal_code": "78870"
   },
   {
     "code": "6104052011",
     "district_code": "610405",
-    "name": "Sandai Kiri"
+    "name": "Sandai Kiri",
+    "postal_code": "78870"
   },
   {
     "code": "6104052012",
     "district_code": "610405",
-    "name": "Demit"
+    "name": "Demit",
+    "postal_code": "78870"
   },
   {
     "code": "6104052013",
     "district_code": "610405",
-    "name": "Pendamaran Indah"
+    "name": "Pendamaran Indah",
+    "postal_code": "78870"
   },
   {
     "code": "6104052014",
     "district_code": "610405",
-    "name": "Merimbang Jaya"
+    "name": "Merimbang Jaya",
+    "postal_code": "78870"
   },
   {
     "code": "6104052015",
     "district_code": "610405",
-    "name": "Alam Pakuan"
+    "name": "Alam Pakuan",
+    "postal_code": "78870"
   },
   {
     "code": "6104052016",
     "district_code": "610405",
-    "name": "Jago Bersatu"
+    "name": "Jago Bersatu",
+    "postal_code": "78870"
   },
   {
     "code": "6104052017",
     "district_code": "610405",
-    "name": "Istana"
+    "name": "Istana",
+    "postal_code": "78870"
   }
 ]

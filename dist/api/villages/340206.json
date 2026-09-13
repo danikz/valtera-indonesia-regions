@@ -2,21 +2,25 @@
   {
     "code": "3402062001",
     "district_code": "340206",
-    "name": "Catuharjo"
+    "name": "Catuharjo",
+    "postal_code": "55761"
   },
   {
     "code": "3402062002",
     "district_code": "340206",
-    "name": "Triharjo"
+    "name": "Triharjo",
+    "postal_code": "55761"
   },
   {
     "code": "3402062003",
     "district_code": "340206",
-    "name": "Gilangharjo"
+    "name": "Gilangharjo",
+    "postal_code": "55761"
   },
   {
     "code": "3402062004",
     "district_code": "340206",
-    "name": "Wijirejo"
+    "name": "Wijirejo",
+    "postal_code": "55761"
   }
 ]

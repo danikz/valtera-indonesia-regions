@@ -2,76 +2,91 @@
   {
     "code": "5203082001",
     "district_code": "520308",
-    "name": "Bagik Papan"
+    "name": "Bagik Papan",
+    "postal_code": "83654"
   },
   {
     "code": "5203082002",
     "district_code": "520308",
-    "name": "Apit Aik"
+    "name": "Apit Aik",
+    "postal_code": "83654"
   },
   {
     "code": "5203082003",
     "district_code": "520308",
-    "name": "Kerumut"
+    "name": "Kerumut",
+    "postal_code": "83654"
   },
   {
     "code": "5203082004",
     "district_code": "520308",
-    "name": "Pohgading"
+    "name": "Pohgading",
+    "postal_code": "83654"
   },
   {
     "code": "5203082005",
     "district_code": "520308",
-    "name": "Batuyang"
+    "name": "Batuyang",
+    "postal_code": "83654"
   },
   {
     "code": "5203082006",
     "district_code": "520308",
-    "name": "Pringgabaya"
+    "name": "Pringgabaya",
+    "postal_code": "83654"
   },
   {
     "code": "5203082007",
     "district_code": "520308",
-    "name": "Labuhan Lombok"
+    "name": "Labuhan Lombok",
+    "postal_code": "83654"
   },
   {
     "code": "5203082008",
     "district_code": "520308",
-    "name": "Pringgabaya Utara"
+    "name": "Pringgabaya Utara",
+    "postal_code": "83654"
   },
   {
     "code": "5203082009",
     "district_code": "520308",
-    "name": "Pohgading Timur"
+    "name": "Pohgading Timur",
+    "postal_code": "83654"
   },
   {
     "code": "5203082010",
     "district_code": "520308",
-    "name": "Teko"
+    "name": "Teko",
+    "postal_code": "83654"
   },
   {
     "code": "5203082011",
     "district_code": "520308",
-    "name": "Anggaraksa"
+    "name": "Anggaraksa",
+    "postal_code": "83654"
   },
   {
     "code": "5203082012",
     "district_code": "520308",
-    "name": "Tanak Gadang"
+    "name": "Tanak Gadang",
+    "postal_code": "83654"
   },
   {
     "code": "5203082013",
     "district_code": "520308",
-    "name": "Gunung Malang"
+    "name": "Gunung Malang",
+    "postal_code": "83654"
   },
   {
     "code": "5203082014",
     "district_code": "520308",
-    "name": "Seruni Mumbul"
+    "name": "Seruni Mumbul",
+    "postal_code": "83654"
   },
   {
     "code": "5203082015",
     "district_code": "520308",
-    "name": "Telaga Waru"
+    "name": "Telaga Waru",
+    "postal_code": "83654"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "7308041001",
     "district_code": "730804",
-    "name": "Pancaitana"
+    "name": "Pancaitana",
+    "postal_code": "92775"
   },
   {
     "code": "7308042002",
     "district_code": "730804",
-    "name": "Malimongeng"
+    "name": "Malimongeng",
+    "postal_code": "92775"
   },
   {
     "code": "7308042003",
     "district_code": "730804",
-    "name": "Manera"
+    "name": "Manera",
+    "postal_code": "92775"
   },
   {
     "code": "7308042004",
     "district_code": "730804",
-    "name": "Ulubalang"
+    "name": "Ulubalang",
+    "postal_code": "92775"
   },
   {
     "code": "7308042005",
     "district_code": "730804",
-    "name": "Gattareng"
+    "name": "Gattareng",
+    "postal_code": "92775"
   },
   {
     "code": "7308042006",
     "district_code": "730804",
-    "name": "Bellu"
+    "name": "Bellu",
+    "postal_code": "92775"
   },
   {
     "code": "7308042007",
     "district_code": "730804",
-    "name": "Tebba"
+    "name": "Tebba",
+    "postal_code": "92775"
   },
   {
     "code": "7308042008",
     "district_code": "730804",
-    "name": "Mappatoba"
+    "name": "Mappatoba",
+    "postal_code": "92775"
   }
 ]

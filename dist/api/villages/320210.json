@@ -2,51 +2,61 @@
   {
     "code": "3202102001",
     "district_code": "320210",
-    "name": "Cikembar"
+    "name": "Cikembar",
+    "postal_code": "43157"
   },
   {
     "code": "3202102002",
     "district_code": "320210",
-    "name": "Parakanlima"
+    "name": "Parakanlima",
+    "postal_code": "43157"
   },
   {
     "code": "3202102003",
     "district_code": "320210",
-    "name": "Bojong"
+    "name": "Bojong",
+    "postal_code": "43157"
   },
   {
     "code": "3202102004",
     "district_code": "320210",
-    "name": "Cimanggu"
+    "name": "Cimanggu",
+    "postal_code": "43157"
   },
   {
     "code": "3202102005",
     "district_code": "320210",
-    "name": "Bojongkembar"
+    "name": "Bojongkembar",
+    "postal_code": "43157"
   },
   {
     "code": "3202102006",
     "district_code": "320210",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "43157"
   },
   {
     "code": "3202102007",
     "district_code": "320210",
-    "name": "Cibatu"
+    "name": "Cibatu",
+    "postal_code": "43157"
   },
   {
     "code": "3202102008",
     "district_code": "320210",
-    "name": "Kertaraharja"
+    "name": "Kertaraharja",
+    "postal_code": "43157"
   },
   {
     "code": "3202102009",
     "district_code": "320210",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "43157"
   },
   {
     "code": "3202102010",
     "district_code": "320210",
-    "name": "Bojongraharja"
+    "name": "Bojongraharja",
+    "postal_code": "43157"
   }
 ]

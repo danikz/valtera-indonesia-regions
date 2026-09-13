@@ -2,46 +2,55 @@
   {
     "code": "7208172001",
     "district_code": "720817",
-    "name": "Marantale"
+    "name": "Marantale",
+    "postal_code": "94467"
   },
   {
     "code": "7208172002",
     "district_code": "720817",
-    "name": "Tandaigi"
+    "name": "Tandaigi",
+    "postal_code": "94467"
   },
   {
     "code": "7208172003",
     "district_code": "720817",
-    "name": "Silanga"
+    "name": "Silanga",
+    "postal_code": "94467"
   },
   {
     "code": "7208172004",
     "district_code": "720817",
-    "name": "Siniu"
+    "name": "Siniu",
+    "postal_code": "94467"
   },
   {
     "code": "7208172005",
     "district_code": "720817",
-    "name": "Towera"
+    "name": "Towera",
+    "postal_code": "94467"
   },
   {
     "code": "7208172006",
     "district_code": "720817",
-    "name": "Toraranga"
+    "name": "Toraranga",
+    "postal_code": "94467"
   },
   {
     "code": "7208172007",
     "district_code": "720817",
-    "name": "Uevolo"
+    "name": "Uevolo",
+    "postal_code": "94467"
   },
   {
     "code": "7208172008",
     "district_code": "720817",
-    "name": "Siniu Sayogindano"
+    "name": "Siniu Sayogindano",
+    "postal_code": "94467"
   },
   {
     "code": "7208172009",
     "district_code": "720817",
-    "name": "Silanga Barat"
+    "name": "Silanga Barat",
+    "postal_code": "94467"
   }
 ]

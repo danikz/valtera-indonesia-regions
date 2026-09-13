@@ -2,31 +2,37 @@
   {
     "code": "9508182001",
     "district_code": "950818",
-    "name": "Dal"
+    "name": "Dal",
+    "postal_code": "99902"
   },
   {
     "code": "9508182002",
     "district_code": "950818",
-    "name": "Silan"
+    "name": "Silan",
+    "postal_code": "99902"
   },
   {
     "code": "9508182003",
     "district_code": "950818",
-    "name": "Gurumbe"
+    "name": "Gurumbe",
+    "postal_code": "99902"
   },
   {
     "code": "9508182004",
     "district_code": "950818",
-    "name": "Kaboneri"
+    "name": "Kaboneri",
+    "postal_code": "99902"
   },
   {
     "code": "9508182005",
     "district_code": "950818",
-    "name": "Silankuru"
+    "name": "Silankuru",
+    "postal_code": "99902"
   },
   {
     "code": "9508182006",
     "district_code": "950818",
-    "name": "Grinbun"
+    "name": "Grinbun",
+    "postal_code": "99902"
   }
 ]

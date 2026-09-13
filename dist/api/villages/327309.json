@@ -2,16 +2,19 @@
   {
     "code": "3273091001",
     "district_code": "327309",
-    "name": "Cihapit"
+    "name": "Cihapit",
+    "postal_code": "40114"
   },
   {
     "code": "3273091002",
     "district_code": "327309",
-    "name": "Tamansari"
+    "name": "Tamansari",
+    "postal_code": "40116"
   },
   {
     "code": "3273091003",
     "district_code": "327309",
-    "name": "Citarum"
+    "name": "Citarum",
+    "postal_code": "40115"
   }
 ]

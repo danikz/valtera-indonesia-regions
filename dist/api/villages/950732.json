@@ -2,41 +2,49 @@
   {
     "code": "9507322001",
     "district_code": "950732",
-    "name": "Ayafofa"
+    "name": "Ayafofa",
+    "postal_code": "99568"
   },
   {
     "code": "9507322002",
     "district_code": "950732",
-    "name": "Salemo"
+    "name": "Salemo",
+    "postal_code": "99568"
   },
   {
     "code": "9507322003",
     "district_code": "950732",
-    "name": "Yudani"
+    "name": "Yudani",
+    "postal_code": "99568"
   },
   {
     "code": "9507322004",
     "district_code": "950732",
-    "name": "Towoluk"
+    "name": "Towoluk",
+    "postal_code": "99568"
   },
   {
     "code": "9507322005",
     "district_code": "950732",
-    "name": "Tunume"
+    "name": "Tunume",
+    "postal_code": "99568"
   },
   {
     "code": "9507322006",
     "district_code": "950732",
-    "name": "Delegari"
+    "name": "Delegari",
+    "postal_code": "99568"
   },
   {
     "code": "9507322007",
     "district_code": "950732",
-    "name": "Igimbua"
+    "name": "Igimbua",
+    "postal_code": "99568"
   },
   {
     "code": "9507322008",
     "district_code": "950732",
-    "name": "Yilokdu"
+    "name": "Yilokdu",
+    "postal_code": "99568"
   }
 ]

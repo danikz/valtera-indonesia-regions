@@ -2,36 +2,43 @@
   {
     "code": "6471051002",
     "district_code": "647105",
-    "name": "Sepinggan"
+    "name": "Sepinggan",
+    "postal_code": "76115"
   },
   {
     "code": "6471051006",
     "district_code": "647105",
-    "name": "Gunungbahagia"
+    "name": "Gunungbahagia",
+    "postal_code": "76114"
   },
   {
     "code": "6471051008",
     "district_code": "647105",
-    "name": "Sepinggan Baru"
+    "name": "Sepinggan Baru",
+    "postal_code": "76115"
   },
   {
     "code": "6471051009",
     "district_code": "647105",
-    "name": "Sepinggan Raya"
+    "name": "Sepinggan Raya",
+    "postal_code": "76115"
   },
   {
     "code": "6471051010",
     "district_code": "647105",
-    "name": "Sungainangka"
+    "name": "Sungainangka",
+    "postal_code": "76114"
   },
   {
     "code": "6471051011",
     "district_code": "647105",
-    "name": "Damai Baru"
+    "name": "Damai Baru",
+    "postal_code": "76114"
   },
   {
     "code": "6471051012",
     "district_code": "647105",
-    "name": "Damai Bahagia"
+    "name": "Damai Bahagia",
+    "postal_code": "76114"
   }
 ]

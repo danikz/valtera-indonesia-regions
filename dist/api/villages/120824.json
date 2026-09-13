@@ -2,51 +2,61 @@
   {
     "code": "1208242001",
     "district_code": "120824",
-    "name": "Bandar Masilam"
+    "name": "Bandar Masilam",
+    "postal_code": "21185"
   },
   {
     "code": "1208242002",
     "district_code": "120824",
-    "name": "Lias Baru"
+    "name": "Lias Baru",
+    "postal_code": "21185"
   },
   {
     "code": "1208242003",
     "district_code": "120824",
-    "name": "Bandar Silou"
+    "name": "Bandar Silou",
+    "postal_code": "21185"
   },
   {
     "code": "1208242004",
     "district_code": "120824",
-    "name": "Panombean Baru"
+    "name": "Panombean Baru",
+    "postal_code": "21185"
   },
   {
     "code": "1208242005",
     "district_code": "120824",
-    "name": "Gunung Serawan"
+    "name": "Gunung Serawan",
+    "postal_code": "21185"
   },
   {
     "code": "1208242006",
     "district_code": "120824",
-    "name": "Bandar Masilam II"
+    "name": "Bandar Masilam II",
+    "postal_code": "21185"
   },
   {
     "code": "1208242007",
     "district_code": "120824",
-    "name": "Patimbalan"
+    "name": "Patimbalan",
+    "postal_code": "21185"
   },
   {
     "code": "1208242008",
     "district_code": "120824",
-    "name": "Bandar Tinggi"
+    "name": "Bandar Tinggi",
+    "postal_code": "21185"
   },
   {
     "code": "1208242009",
     "district_code": "120824",
-    "name": "Bandar Rejo"
+    "name": "Bandar Rejo",
+    "postal_code": "21185"
   },
   {
     "code": "1208242010",
     "district_code": "120824",
-    "name": "Bandar Gunung"
+    "name": "Bandar Gunung",
+    "postal_code": "21185"
   }
 ]

@@ -2,11 +2,13 @@
   {
     "code": "1308152001",
     "district_code": "130815",
-    "name": "Silayang"
+    "name": "Silayang",
+    "postal_code": "26354"
   },
   {
     "code": "1308152002",
     "district_code": "130815",
-    "name": "Muaro Sungai Lolo"
+    "name": "Muaro Sungai Lolo",
+    "postal_code": "26354"
   }
 ]

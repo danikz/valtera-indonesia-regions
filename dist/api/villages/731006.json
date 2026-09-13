@@ -2,41 +2,49 @@
   {
     "code": "7310061001",
     "district_code": "731006",
-    "name": "Boriappaka"
+    "name": "Boriappaka",
+    "postal_code": "90651"
   },
   {
     "code": "7310061002",
     "district_code": "731006",
-    "name": "Samalewa"
+    "name": "Samalewa",
+    "postal_code": "90651"
   },
   {
     "code": "7310061003",
     "district_code": "731006",
-    "name": "Sapanang"
+    "name": "Sapanang",
+    "postal_code": "90651"
   },
   {
     "code": "7310062004",
     "district_code": "731006",
-    "name": "Bowong Cindea"
+    "name": "Bowong Cindea",
+    "postal_code": "90651"
   },
   {
     "code": "7310062005",
     "district_code": "731006",
-    "name": "Tabo Tabo"
+    "name": "Tabo Tabo",
+    "postal_code": "90651"
   },
   {
     "code": "7310062006",
     "district_code": "731006",
-    "name": "Mangilu"
+    "name": "Mangilu",
+    "postal_code": "90651"
   },
   {
     "code": "7310062007",
     "district_code": "731006",
-    "name": "Bulu Cindea"
+    "name": "Bulu Cindea",
+    "postal_code": "90651"
   },
   {
     "code": "7310062008",
     "district_code": "731006",
-    "name": "Biring Ere"
+    "name": "Biring Ere",
+    "postal_code": "90651"
   }
 ]

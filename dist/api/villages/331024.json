@@ -2,41 +2,49 @@
   {
     "code": "3310241002",
     "district_code": "331024",
-    "name": "Barenglor"
+    "name": "Barenglor",
+    "postal_code": "57438"
   },
   {
     "code": "3310241007",
     "district_code": "331024",
-    "name": "Gergunung"
+    "name": "Gergunung",
+    "postal_code": "57434"
   },
   {
     "code": "3310242001",
     "district_code": "331024",
-    "name": "Sekarsuli"
+    "name": "Sekarsuli",
+    "postal_code": "57432"
   },
   {
     "code": "3310242003",
     "district_code": "331024",
-    "name": "Karanganom"
+    "name": "Karanganom",
+    "postal_code": "57438"
   },
   {
     "code": "3310242004",
     "district_code": "331024",
-    "name": "Ketandan"
+    "name": "Ketandan",
+    "postal_code": "57437"
   },
   {
     "code": "3310242005",
     "district_code": "331024",
-    "name": "Belangwetan"
+    "name": "Belangwetan",
+    "postal_code": "57438"
   },
   {
     "code": "3310242006",
     "district_code": "331024",
-    "name": "Jonggrangan"
+    "name": "Jonggrangan",
+    "postal_code": "57435"
   },
   {
     "code": "3310242008",
     "district_code": "331024",
-    "name": "Jebugan"
+    "name": "Jebugan",
+    "postal_code": "57433"
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "3601092001",
     "district_code": "360109",
-    "name": "Sukadame"
+    "name": "Sukadame",
+    "postal_code": "42265"
   },
   {
     "code": "3601092002",
     "district_code": "360109",
-    "name": "Pagelaran"
+    "name": "Pagelaran",
+    "postal_code": "42265"
   },
   {
     "code": "3601092003",
     "district_code": "360109",
-    "name": "Surakarta"
+    "name": "Surakarta",
+    "postal_code": "42265"
   },
   {
     "code": "3601092004",
     "district_code": "360109",
-    "name": "Montor"
+    "name": "Montor",
+    "postal_code": "42265"
   },
   {
     "code": "3601092005",
     "district_code": "360109",
-    "name": "Kertasana"
+    "name": "Kertasana",
+    "postal_code": "42265"
   },
   {
     "code": "3601092006",
     "district_code": "360109",
-    "name": "Bama"
+    "name": "Bama",
+    "postal_code": "42265"
   },
   {
     "code": "3601092007",
     "district_code": "360109",
-    "name": "Margasana"
+    "name": "Margasana",
+    "postal_code": "42265"
   },
   {
     "code": "3601092008",
     "district_code": "360109",
-    "name": "Sindanglaya"
+    "name": "Sindanglaya",
+    "postal_code": "42265"
   },
   {
     "code": "3601092009",
     "district_code": "360109",
-    "name": "Tegalpapak"
+    "name": "Tegalpapak",
+    "postal_code": "42265"
   },
   {
     "code": "3601092010",
     "district_code": "360109",
-    "name": "Bulagor"
+    "name": "Bulagor",
+    "postal_code": "42265"
   },
   {
     "code": "3601092011",
     "district_code": "360109",
-    "name": "Harapankarya"
+    "name": "Harapankarya",
+    "postal_code": "42265"
   },
   {
     "code": "3601092012",
     "district_code": "360109",
-    "name": "Senangsari"
+    "name": "Senangsari",
+    "postal_code": "42265"
   },
   {
     "code": "3601092013",
     "district_code": "360109",
-    "name": "Margagiri"
+    "name": "Margagiri",
+    "postal_code": "42265"
   }
 ]

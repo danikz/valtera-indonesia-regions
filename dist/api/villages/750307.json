@@ -2,46 +2,55 @@
   {
     "code": "7503072001",
     "district_code": "750307",
-    "name": "Timbuolo"
+    "name": "Timbuolo",
+    "postal_code": "96551"
   },
   {
     "code": "7503072002",
     "district_code": "750307",
-    "name": "Panggulo"
+    "name": "Panggulo",
+    "postal_code": "96551"
   },
   {
     "code": "7503072003",
     "district_code": "750307",
-    "name": "Luwohu"
+    "name": "Luwohu",
+    "postal_code": "96551"
   },
   {
     "code": "7503072004",
     "district_code": "750307",
-    "name": "Buata"
+    "name": "Buata",
+    "postal_code": "96551"
   },
   {
     "code": "7503072005",
     "district_code": "750307",
-    "name": "Timbuolo Timur"
+    "name": "Timbuolo Timur",
+    "postal_code": "96551"
   },
   {
     "code": "7503072006",
     "district_code": "750307",
-    "name": "Tanah Putih"
+    "name": "Tanah Putih",
+    "postal_code": "96551"
   },
   {
     "code": "7503072007",
     "district_code": "750307",
-    "name": "Panggulo Barat"
+    "name": "Panggulo Barat",
+    "postal_code": "96551"
   },
   {
     "code": "7503072008",
     "district_code": "750307",
-    "name": "Timbuolo Tengah"
+    "name": "Timbuolo Tengah",
+    "postal_code": "96551"
   },
   {
     "code": "7503072009",
     "district_code": "750307",
-    "name": "Sukma"
+    "name": "Sukma",
+    "postal_code": "96551"
   }
 ]

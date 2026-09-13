@@ -2,116 +2,139 @@
   {
     "code": "6409011001",
     "district_code": "640901",
-    "name": "Tanjung Tengah"
+    "name": "Tanjung Tengah",
+    "postal_code": "76143"
   },
   {
     "code": "6409011002",
     "district_code": "640901",
-    "name": "Salo Loang"
+    "name": "Salo Loang",
+    "postal_code": "76143"
   },
   {
     "code": "6409011003",
     "district_code": "640901",
-    "name": "Petung"
+    "name": "Petung",
+    "postal_code": "76144"
   },
   {
     "code": "6409011004",
     "district_code": "640901",
-    "name": "Lawe-lawe"
+    "name": "Lawe-lawe",
+    "postal_code": "76142"
   },
   {
     "code": "6409011005",
     "district_code": "640901",
-    "name": "Pejala"
+    "name": "Pejala",
+    "postal_code": "76143"
   },
   {
     "code": "6409011006",
     "district_code": "640901",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "76143"
   },
   {
     "code": "6409011007",
     "district_code": "640901",
-    "name": "Sesumpu"
+    "name": "Sesumpu",
+    "postal_code": "76142"
   },
   {
     "code": "6409011008",
     "district_code": "640901",
-    "name": "Sungai Parit"
+    "name": "Sungai Parit",
+    "postal_code": "76142"
   },
   {
     "code": "6409011009",
     "district_code": "640901",
-    "name": "Nipah-Nipah"
+    "name": "Nipah-Nipah",
+    "postal_code": "76142"
   },
   {
     "code": "6409011010",
     "district_code": "640901",
-    "name": "Nenang"
+    "name": "Nenang",
+    "postal_code": "76141"
   },
   {
     "code": "6409011011",
     "district_code": "640901",
-    "name": "Penajam"
+    "name": "Penajam",
+    "postal_code": "76141"
   },
   {
     "code": "6409011012",
     "district_code": "640901",
-    "name": "Gunung Seteleng"
+    "name": "Gunung Seteleng",
+    "postal_code": "76141"
   },
   {
     "code": "6409011013",
     "district_code": "640901",
-    "name": "Buluminung"
+    "name": "Buluminung",
+    "postal_code": "76144"
   },
   {
     "code": "6409011014",
     "district_code": "640901",
-    "name": "Sotek"
+    "name": "Sotek",
+    "postal_code": "76144"
   },
   {
     "code": "6409011015",
     "district_code": "640901",
-    "name": "Sepan"
+    "name": "Sepan",
+    "postal_code": "76145"
   },
   {
     "code": "6409011016",
     "district_code": "640901",
-    "name": "Riko"
+    "name": "Riko",
+    "postal_code": "76145"
   },
   {
     "code": "6409011017",
     "district_code": "640901",
-    "name": "Gersik"
+    "name": "Gersik",
+    "postal_code": "76145"
   },
   {
     "code": "6409011018",
     "district_code": "640901",
-    "name": "Jenebora"
+    "name": "Jenebora",
+    "postal_code": "76146"
   },
   {
     "code": "6409011019",
     "district_code": "640901",
-    "name": "Pantai Lango"
+    "name": "Pantai Lango",
+    "postal_code": "76146"
   },
   {
     "code": "6409012020",
     "district_code": "640901",
-    "name": "Giri Mukti"
+    "name": "Giri Mukti",
+    "postal_code": "76141"
   },
   {
     "code": "6409012021",
     "district_code": "640901",
-    "name": "Bukit Subur"
+    "name": "Bukit Subur",
+    "postal_code": "76141"
   },
   {
     "code": "6409012022",
     "district_code": "640901",
-    "name": "Sidorejo"
+    "name": "Sidorejo",
+    "postal_code": "76143"
   },
   {
     "code": "6409012023",
     "district_code": "640901",
-    "name": "Giri Purwa"
+    "name": "Giri Purwa",
+    "postal_code": "76143"
   }
 ]

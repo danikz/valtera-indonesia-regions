@@ -2,26 +2,31 @@
   {
     "code": "9508112001",
     "district_code": "950811",
-    "name": "Paro"
+    "name": "Paro",
+    "postal_code": "99916"
   },
   {
     "code": "9508112002",
     "district_code": "950811",
-    "name": "Lombrik"
+    "name": "Lombrik",
+    "postal_code": "99916"
   },
   {
     "code": "9508112003",
     "district_code": "950811",
-    "name": "Animarem"
+    "name": "Animarem",
+    "postal_code": "99916"
   },
   {
     "code": "9508112004",
     "district_code": "950811",
-    "name": "Tawelma"
+    "name": "Tawelma",
+    "postal_code": "99916"
   },
   {
     "code": "9508112005",
     "district_code": "950811",
-    "name": "Loaraba"
+    "name": "Loaraba",
+    "postal_code": "99916"
   }
 ]

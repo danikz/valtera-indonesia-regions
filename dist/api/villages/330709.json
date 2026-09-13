@@ -2,101 +2,121 @@
   {
     "code": "3307091002",
     "district_code": "330709",
-    "name": "Tawangsari"
+    "name": "Tawangsari",
+    "postal_code": "56313"
   },
   {
     "code": "3307091003",
     "district_code": "330709",
-    "name": "Mlipak"
+    "name": "Mlipak",
+    "postal_code": "56312"
   },
   {
     "code": "3307091004",
     "district_code": "330709",
-    "name": "Jaraksari"
+    "name": "Jaraksari",
+    "postal_code": "56314"
   },
   {
     "code": "3307091006",
     "district_code": "330709",
-    "name": "Kramatan"
+    "name": "Kramatan",
+    "postal_code": "56315"
   },
   {
     "code": "3307091008",
     "district_code": "330709",
-    "name": "Bumiroso"
+    "name": "Bumiroso",
+    "postal_code": "56317"
   },
   {
     "code": "3307091009",
     "district_code": "330709",
-    "name": "Rojoimo"
+    "name": "Rojoimo",
+    "postal_code": "56316"
   },
   {
     "code": "3307091010",
     "district_code": "330709",
-    "name": "Pagerkukuh"
+    "name": "Pagerkukuh",
+    "postal_code": "56314"
   },
   {
     "code": "3307091011",
     "district_code": "330709",
-    "name": "Sambek"
+    "name": "Sambek",
+    "postal_code": "56312"
   },
   {
     "code": "3307091013",
     "district_code": "330709",
-    "name": "Kejiwan"
+    "name": "Kejiwan",
+    "postal_code": "56311"
   },
   {
     "code": "3307091014",
     "district_code": "330709",
-    "name": "Kalianget"
+    "name": "Kalianget",
+    "postal_code": "56319"
   },
   {
     "code": "3307091015",
     "district_code": "330709",
-    "name": "Jlamprang"
+    "name": "Jlamprang",
+    "postal_code": "56319"
   },
   {
     "code": "3307091020",
     "district_code": "330709",
-    "name": "Wonosobo Barat"
+    "name": "Wonosobo Barat",
+    "postal_code": "56311"
   },
   {
     "code": "3307091021",
     "district_code": "330709",
-    "name": "Wonosobo Timur"
+    "name": "Wonosobo Timur",
+    "postal_code": "56317"
   },
   {
     "code": "3307092001",
     "district_code": "330709",
-    "name": "Wonolelo"
+    "name": "Wonolelo",
+    "postal_code": "56313"
   },
   {
     "code": "3307092005",
     "district_code": "330709",
-    "name": "Jogoyitnan"
+    "name": "Jogoyitnan",
+    "postal_code": "56315"
   },
   {
     "code": "3307092007",
     "district_code": "330709",
-    "name": "Pancurwening"
+    "name": "Pancurwening",
+    "postal_code": "56316"
   },
   {
     "code": "3307092016",
     "district_code": "330709",
-    "name": "Wonosari"
+    "name": "Wonosari",
+    "postal_code": "56318"
   },
   {
     "code": "3307092017",
     "district_code": "330709",
-    "name": "Bomerto"
+    "name": "Bomerto",
+    "postal_code": "56318"
   },
   {
     "code": "3307092018",
     "district_code": "330709",
-    "name": "Sariyoso"
+    "name": "Sariyoso",
+    "postal_code": "56317"
   },
   {
     "code": "3307092019",
     "district_code": "330709",
-    "name": "Tlogojati"
+    "name": "Tlogojati",
+    "postal_code": "56317"
   }
 ]

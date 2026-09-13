@@ -2,26 +2,31 @@
   {
     "code": "1201201001",
     "district_code": "120120",
-    "name": "Sibuluan Nalambok"
+    "name": "Sibuluan Nalambok",
+    "postal_code": "22616"
   },
   {
     "code": "1201201002",
     "district_code": "120120",
-    "name": "Sarudik"
+    "name": "Sarudik",
+    "postal_code": "22616"
   },
   {
     "code": "1201201004",
     "district_code": "120120",
-    "name": "Pasir Bidang"
+    "name": "Pasir Bidang",
+    "postal_code": "22611"
   },
   {
     "code": "1201201005",
     "district_code": "120120",
-    "name": "Pondok Batu"
+    "name": "Pondok Batu",
+    "postal_code": "22616"
   },
   {
     "code": "1201202003",
     "district_code": "120120",
-    "name": "Sipan"
+    "name": "Sipan",
+    "postal_code": "22616"
   }
 ]

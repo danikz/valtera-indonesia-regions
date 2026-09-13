@@ -2,26 +2,31 @@
   {
     "code": "3278031001",
     "district_code": "327803",
-    "name": "Tawangsari"
+    "name": "Tawangsari",
+    "postal_code": "46112"
   },
   {
     "code": "3278031002",
     "district_code": "327803",
-    "name": "Empangsari"
+    "name": "Empangsari",
+    "postal_code": "46113"
   },
   {
     "code": "3278031003",
     "district_code": "327803",
-    "name": "Lengkongsari"
+    "name": "Lengkongsari",
+    "postal_code": "46111"
   },
   {
     "code": "3278031004",
     "district_code": "327803",
-    "name": "Cikalang"
+    "name": "Cikalang",
+    "postal_code": "46114"
   },
   {
     "code": "3278031005",
     "district_code": "327803",
-    "name": "Kahuripan"
+    "name": "Kahuripan",
+    "postal_code": "46115"
   }
 ]

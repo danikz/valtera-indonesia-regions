@@ -2,56 +2,67 @@
   {
     "code": "7107011004",
     "district_code": "710701",
-    "name": "Tosuraya"
+    "name": "Tosuraya",
+    "postal_code": "95994"
   },
   {
     "code": "7107011005",
     "district_code": "710701",
-    "name": "Wawali"
+    "name": "Wawali",
+    "postal_code": "95994"
   },
   {
     "code": "7107011008",
     "district_code": "710701",
-    "name": "Lowu Dua"
+    "name": "Lowu Dua",
+    "postal_code": "95994"
   },
   {
     "code": "7107011009",
     "district_code": "710701",
-    "name": "Lowu Satu"
+    "name": "Lowu Satu",
+    "postal_code": "95994"
   },
   {
     "code": "7107011016",
     "district_code": "710701",
-    "name": "Lowu Utara"
+    "name": "Lowu Utara",
+    "postal_code": "95994"
   },
   {
     "code": "7107011017",
     "district_code": "710701",
-    "name": "Nataan"
+    "name": "Nataan",
+    "postal_code": "95994"
   },
   {
     "code": "7107011018",
     "district_code": "710701",
-    "name": "Tosuraya Barat"
+    "name": "Tosuraya Barat",
+    "postal_code": "95994"
   },
   {
     "code": "7107011019",
     "district_code": "710701",
-    "name": "Tosuraya Selatan"
+    "name": "Tosuraya Selatan",
+    "postal_code": "95994"
   },
   {
     "code": "7107011020",
     "district_code": "710701",
-    "name": "Wawali Pasan"
+    "name": "Wawali Pasan",
+    "postal_code": "95994"
   },
   {
     "code": "7107012003",
     "district_code": "710701",
-    "name": "Rasi"
+    "name": "Rasi",
+    "postal_code": "95994"
   },
   {
     "code": "7107012021",
     "district_code": "710701",
-    "name": "Rasi Satu"
+    "name": "Rasi Satu",
+    "postal_code": "95994"
   }
 ]

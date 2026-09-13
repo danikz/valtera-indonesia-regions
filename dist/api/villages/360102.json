@@ -2,61 +2,73 @@
   {
     "code": "3601022001",
     "district_code": "360102",
-    "name": "Rancapinang"
+    "name": "Rancapinang",
+    "postal_code": "42284"
   },
   {
     "code": "3601022002",
     "district_code": "360102",
-    "name": "Cibadak"
+    "name": "Cibadak",
+    "postal_code": "42284"
   },
   {
     "code": "3601022003",
     "district_code": "360102",
-    "name": "Tugu"
+    "name": "Tugu",
+    "postal_code": "42284"
   },
   {
     "code": "3601022004",
     "district_code": "360102",
-    "name": "Batuhideung"
+    "name": "Batuhideung",
+    "postal_code": "42284"
   },
   {
     "code": "3601022005",
     "district_code": "360102",
-    "name": "Padasuka"
+    "name": "Padasuka",
+    "postal_code": "42284"
   },
   {
     "code": "3601022006",
     "district_code": "360102",
-    "name": "Ciburial"
+    "name": "Ciburial",
+    "postal_code": "42284"
   },
   {
     "code": "3601022007",
     "district_code": "360102",
-    "name": "Cijaralang"
+    "name": "Cijaralang",
+    "postal_code": "42284"
   },
   {
     "code": "3601022008",
     "district_code": "360102",
-    "name": "Cimanggu"
+    "name": "Cimanggu",
+    "postal_code": "42284"
   },
   {
     "code": "3601022009",
     "district_code": "360102",
-    "name": "Mangkualam"
+    "name": "Mangkualam",
+    "postal_code": "42284"
   },
   {
     "code": "3601022010",
     "district_code": "360102",
-    "name": "Tangkil Sari"
+    "name": "Tangkil Sari",
+    "postal_code": "42284"
   },
   {
     "code": "3601022011",
     "district_code": "360102",
-    "name": "Waringin Kurung"
+    "name": "Waringin Kurung",
+    "postal_code": "42284"
   },
   {
     "code": "3601022012",
     "district_code": "360102",
-    "name": "Kramatjaya"
+    "name": "Kramatjaya",
+    "postal_code": "42284"
   }
 ]

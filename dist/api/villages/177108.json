@@ -2,36 +2,43 @@
   {
     "code": "1771081001",
     "district_code": "177108",
-    "name": "Kampung Kelawi"
+    "name": "Kampung Kelawi",
+    "postal_code": "38119"
   },
   {
     "code": "1771081002",
     "district_code": "177108",
-    "name": "Sukamerindu"
+    "name": "Sukamerindu",
+    "postal_code": "38119"
   },
   {
     "code": "1771081003",
     "district_code": "177108",
-    "name": "Semarang"
+    "name": "Semarang",
+    "postal_code": "38119"
   },
   {
     "code": "1771081004",
     "district_code": "177108",
-    "name": "Tanjung Agung"
+    "name": "Tanjung Agung",
+    "postal_code": "38119"
   },
   {
     "code": "1771081005",
     "district_code": "177108",
-    "name": "Tanjung Jaya"
+    "name": "Tanjung Jaya",
+    "postal_code": "38119"
   },
   {
     "code": "1771081006",
     "district_code": "177108",
-    "name": "Surabaya"
+    "name": "Surabaya",
+    "postal_code": "38119"
   },
   {
     "code": "1771081007",
     "district_code": "177108",
-    "name": "Pasar Bengkulu"
+    "name": "Pasar Bengkulu",
+    "postal_code": "38119"
   }
 ]

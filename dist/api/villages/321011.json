@@ -2,81 +2,97 @@
   {
     "code": "3210112001",
     "district_code": "321011",
-    "name": "Burujul Kulon"
+    "name": "Burujul Kulon",
+    "postal_code": "45454"
   },
   {
     "code": "3210112002",
     "district_code": "321011",
-    "name": "Burujul Wetan"
+    "name": "Burujul Wetan",
+    "postal_code": "45454"
   },
   {
     "code": "3210112003",
     "district_code": "321011",
-    "name": "Cicadas"
+    "name": "Cicadas",
+    "postal_code": "45454"
   },
   {
     "code": "3210112004",
     "district_code": "321011",
-    "name": "Andir"
+    "name": "Andir",
+    "postal_code": "45454"
   },
   {
     "code": "3210112005",
     "district_code": "321011",
-    "name": "Sukaraja Wetan"
+    "name": "Sukaraja Wetan",
+    "postal_code": "45454"
   },
   {
     "code": "3210112006",
     "district_code": "321011",
-    "name": "Pinangraja"
+    "name": "Pinangraja",
+    "postal_code": "45454"
   },
   {
     "code": "3210112007",
     "district_code": "321011",
-    "name": "Cibentar"
+    "name": "Cibentar",
+    "postal_code": "45454"
   },
   {
     "code": "3210112008",
     "district_code": "321011",
-    "name": "Leuweunggede"
+    "name": "Leuweunggede",
+    "postal_code": "45454"
   },
   {
     "code": "3210112009",
     "district_code": "321011",
-    "name": "Cibolerang"
+    "name": "Cibolerang",
+    "postal_code": "45454"
   },
   {
     "code": "3210112010",
     "district_code": "321011",
-    "name": "Sutawangi"
+    "name": "Sutawangi",
+    "postal_code": "45454"
   },
   {
     "code": "3210112011",
     "district_code": "321011",
-    "name": "Jatisura"
+    "name": "Jatisura",
+    "postal_code": "45454"
   },
   {
     "code": "3210112012",
     "district_code": "321011",
-    "name": "Jatiwangi"
+    "name": "Jatiwangi",
+    "postal_code": "45454"
   },
   {
     "code": "3210112013",
     "district_code": "321011",
-    "name": "Loji"
+    "name": "Loji",
+    "postal_code": "45454"
   },
   {
     "code": "3210112014",
     "district_code": "321011",
-    "name": "Sukaraja Kulon"
+    "name": "Sukaraja Kulon",
+    "postal_code": "45454"
   },
   {
     "code": "3210112015",
     "district_code": "321011",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "45454"
   },
   {
     "code": "3210112016",
     "district_code": "321011",
-    "name": "Surawangi"
+    "name": "Surawangi",
+    "postal_code": "45454"
   }
 ]

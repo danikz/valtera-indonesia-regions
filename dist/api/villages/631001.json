@@ -2,46 +2,55 @@
   {
     "code": "6310011007",
     "district_code": "631001",
-    "name": "Batulicin"
+    "name": "Batulicin",
+    "postal_code": "72271"
   },
   {
     "code": "6310011028",
     "district_code": "631001",
-    "name": "Gunungtinggi"
+    "name": "Gunungtinggi",
+    "postal_code": "72214"
   },
   {
     "code": "6310012005",
     "district_code": "631001",
-    "name": "Segumbang"
+    "name": "Segumbang",
+    "postal_code": "72211"
   },
   {
     "code": "6310012006",
     "district_code": "631001",
-    "name": "Kersik Putih"
+    "name": "Kersik Putih",
+    "postal_code": "72215"
   },
   {
     "code": "6310012029",
     "district_code": "631001",
-    "name": "Maju Makmur"
+    "name": "Maju Makmur",
+    "postal_code": "72211"
   },
   {
     "code": "6310012030",
     "district_code": "631001",
-    "name": "Maju Bersama"
+    "name": "Maju Bersama",
+    "postal_code": "72216"
   },
   {
     "code": "6310012031",
     "district_code": "631001",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "72217"
   },
   {
     "code": "6310012032",
     "district_code": "631001",
-    "name": "Polewali Marajae"
+    "name": "Polewali Marajae",
+    "postal_code": "72218"
   },
   {
     "code": "6310012033",
     "district_code": "631001",
-    "name": "Danauindah"
+    "name": "Danauindah",
+    "postal_code": "72273"
   }
 ]

@@ -2,16 +2,19 @@
   {
     "code": "3172061001",
     "district_code": "317206",
-    "name": "Kelapa Gading Timur"
+    "name": "Kelapa Gading Timur",
+    "postal_code": "14240"
   },
   {
     "code": "3172061002",
     "district_code": "317206",
-    "name": "Pegangsaan Dua"
+    "name": "Pegangsaan Dua",
+    "postal_code": "14250"
   },
   {
     "code": "3172061003",
     "district_code": "317206",
-    "name": "Kelapa Gading Barat"
+    "name": "Kelapa Gading Barat",
+    "postal_code": "14240"
   }
 ]

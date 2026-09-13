@@ -2,56 +2,67 @@
   {
     "code": "6402172001",
     "district_code": "640217",
-    "name": "Sebuntal"
+    "name": "Sebuntal",
+    "postal_code": "75385"
   },
   {
     "code": "6402172002",
     "district_code": "640217",
-    "name": "Santan Ulu"
+    "name": "Santan Ulu",
+    "postal_code": "75385"
   },
   {
     "code": "6402172003",
     "district_code": "640217",
-    "name": "Santan Tengah"
+    "name": "Santan Tengah",
+    "postal_code": "75385"
   },
   {
     "code": "6402172004",
     "district_code": "640217",
-    "name": "Santan Ilir"
+    "name": "Santan Ilir",
+    "postal_code": "75385"
   },
   {
     "code": "6402172005",
     "district_code": "640217",
-    "name": "Kersik"
+    "name": "Kersik",
+    "postal_code": "75385"
   },
   {
     "code": "6402172006",
     "district_code": "640217",
-    "name": "Bunga Putih"
+    "name": "Bunga Putih",
+    "postal_code": "75385"
   },
   {
     "code": "6402172007",
     "district_code": "640217",
-    "name": "Makarti"
+    "name": "Makarti",
+    "postal_code": "75385"
   },
   {
     "code": "6402172008",
     "district_code": "640217",
-    "name": "Prangat Selatan"
+    "name": "Prangat Selatan",
+    "postal_code": "75385"
   },
   {
     "code": "6402172009",
     "district_code": "640217",
-    "name": "Prangat Baru"
+    "name": "Prangat Baru",
+    "postal_code": "75385"
   },
   {
     "code": "6402172010",
     "district_code": "640217",
-    "name": "Semangko"
+    "name": "Semangko",
+    "postal_code": "75385"
   },
   {
     "code": "6402172011",
     "district_code": "640217",
-    "name": "Sambera Baru"
+    "name": "Sambera Baru",
+    "postal_code": "75385"
   }
 ]

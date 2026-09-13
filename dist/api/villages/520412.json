@@ -2,21 +2,25 @@
   {
     "code": "5204122003",
     "district_code": "520412",
-    "name": "Lape"
+    "name": "Lape",
+    "postal_code": "84382"
   },
   {
     "code": "5204122005",
     "district_code": "520412",
-    "name": "Labuhan Kuris"
+    "name": "Labuhan Kuris",
+    "postal_code": "84382"
   },
   {
     "code": "5204122006",
     "district_code": "520412",
-    "name": "Dete"
+    "name": "Dete",
+    "postal_code": "84382"
   },
   {
     "code": "5204122009",
     "district_code": "520412",
-    "name": "Hijrah"
+    "name": "Hijrah",
+    "postal_code": "84382"
   }
 ]

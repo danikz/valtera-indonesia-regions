@@ -2,41 +2,49 @@
   {
     "code": "2101091001",
     "district_code": "210109",
-    "name": "Teluk Sekuni"
+    "name": "Teluk Sekuni",
+    "postal_code": "29193"
   },
   {
     "code": "2101092002",
     "district_code": "210109",
-    "name": "Batu Lepuk"
+    "name": "Batu Lepuk",
+    "postal_code": "29193"
   },
   {
     "code": "2101092003",
     "district_code": "210109",
-    "name": "Kampung Hilir"
+    "name": "Kampung Hilir",
+    "postal_code": "29193"
   },
   {
     "code": "2101092004",
     "district_code": "210109",
-    "name": "Kampung Melayu"
+    "name": "Kampung Melayu",
+    "postal_code": "29193"
   },
   {
     "code": "2101092005",
     "district_code": "210109",
-    "name": "Pulau Mentebung"
+    "name": "Pulau Mentebung",
+    "postal_code": "29193"
   },
   {
     "code": "2101092006",
     "district_code": "210109",
-    "name": "Pulau Pinang"
+    "name": "Pulau Pinang",
+    "postal_code": "29193"
   },
   {
     "code": "2101092007",
     "district_code": "210109",
-    "name": "Kukup"
+    "name": "Kukup",
+    "postal_code": "29193"
   },
   {
     "code": "2101092008",
     "district_code": "210109",
-    "name": "Pengikik"
+    "name": "Pengikik",
+    "postal_code": "29193"
   }
 ]

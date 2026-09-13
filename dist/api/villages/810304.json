@@ -2,46 +2,55 @@
   {
     "code": "8103042001",
     "district_code": "810304",
-    "name": "Kamatubun"
+    "name": "Kamatubun",
+    "postal_code": "97472"
   },
   {
     "code": "8103042002",
     "district_code": "810304",
-    "name": "Rumahsalut"
+    "name": "Rumahsalut",
+    "postal_code": "97472"
   },
   {
     "code": "8103042003",
     "district_code": "810304",
-    "name": "Welutu"
+    "name": "Welutu",
+    "postal_code": "97472"
   },
   {
     "code": "8103042004",
     "district_code": "810304",
-    "name": "Themin"
+    "name": "Themin",
+    "postal_code": "97472"
   },
   {
     "code": "8103042005",
     "district_code": "810304",
-    "name": "Weratan"
+    "name": "Weratan",
+    "postal_code": "97472"
   },
   {
     "code": "8103042006",
     "district_code": "810304",
-    "name": "Wermatang"
+    "name": "Wermatang",
+    "postal_code": "97472"
   },
   {
     "code": "8103042007",
     "district_code": "810304",
-    "name": "Batu Putih"
+    "name": "Batu Putih",
+    "postal_code": "97472"
   },
   {
     "code": "8103042008",
     "district_code": "810304",
-    "name": "Makatian"
+    "name": "Makatian",
+    "postal_code": "97472"
   },
   {
     "code": "8103042009",
     "district_code": "810304",
-    "name": "Marantutul"
+    "name": "Marantutul",
+    "postal_code": "97472"
   }
 ]

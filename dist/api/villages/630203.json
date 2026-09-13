@@ -2,41 +2,49 @@
   {
     "code": "6302032006",
     "district_code": "630203",
-    "name": "Teluk Sirih"
+    "name": "Teluk Sirih",
+    "postal_code": "72157"
   },
   {
     "code": "6302032007",
     "district_code": "630203",
-    "name": "Sungai Bahim"
+    "name": "Sungai Bahim",
+    "postal_code": "72157"
   },
   {
     "code": "6302032008",
     "district_code": "630203",
-    "name": "Tanjung Seloka"
+    "name": "Tanjung Seloka",
+    "postal_code": "72157"
   },
   {
     "code": "6302032009",
     "district_code": "630203",
-    "name": "Tanjung Serudung"
+    "name": "Tanjung Serudung",
+    "postal_code": "72157"
   },
   {
     "code": "6302032011",
     "district_code": "630203",
-    "name": "Alle-Alle"
+    "name": "Alle-Alle",
+    "postal_code": "72157"
   },
   {
     "code": "6302032013",
     "district_code": "630203",
-    "name": "Sungai Bulan"
+    "name": "Sungai Bulan",
+    "postal_code": "72157"
   },
   {
     "code": "6302032015",
     "district_code": "630203",
-    "name": "Labuan Mas"
+    "name": "Labuan Mas",
+    "postal_code": "72157"
   },
   {
     "code": "6302032016",
     "district_code": "630203",
-    "name": "Tanjung Seloka Utara"
+    "name": "Tanjung Seloka Utara",
+    "postal_code": "72157"
   }
 ]

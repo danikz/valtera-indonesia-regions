@@ -2,51 +2,61 @@
   {
     "code": "6503162001",
     "district_code": "650316",
-    "name": "Lubok Buat"
+    "name": "Lubok Buat",
+    "postal_code": "77452"
   },
   {
     "code": "6503162002",
     "district_code": "650316",
-    "name": "Katul"
+    "name": "Katul",
+    "postal_code": "77452"
   },
   {
     "code": "6503162003",
     "district_code": "650316",
-    "name": "Mambulu"
+    "name": "Mambulu",
+    "postal_code": "77452"
   },
   {
     "code": "6503162004",
     "district_code": "650316",
-    "name": "Pagaluyon"
+    "name": "Pagaluyon",
+    "postal_code": "77452"
   },
   {
     "code": "6503162005",
     "district_code": "650316",
-    "name": "Saduman"
+    "name": "Saduman",
+    "postal_code": "77452"
   },
   {
     "code": "6503162006",
     "district_code": "650316",
-    "name": "Tulang"
+    "name": "Tulang",
+    "postal_code": "77452"
   },
   {
     "code": "6503162007",
     "district_code": "650316",
-    "name": "Sabuluan"
+    "name": "Sabuluan",
+    "postal_code": "77452"
   },
   {
     "code": "6503162008",
     "district_code": "650316",
-    "name": "Pulau Keras"
+    "name": "Pulau Keras",
+    "postal_code": "77452"
   },
   {
     "code": "6503162009",
     "district_code": "650316",
-    "name": "Liuk Bulu"
+    "name": "Liuk Bulu",
+    "postal_code": "77452"
   },
   {
     "code": "6503162010",
     "district_code": "650316",
-    "name": "Binanun"
+    "name": "Binanun",
+    "postal_code": "77452"
   }
 ]

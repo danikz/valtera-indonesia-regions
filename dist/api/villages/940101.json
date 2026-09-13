@@ -2,61 +2,73 @@
   {
     "code": "9401011001",
     "district_code": "940101",
-    "name": "Wonorejo"
+    "name": "Wonorejo",
+    "postal_code": "98813"
   },
   {
     "code": "9401011002",
     "district_code": "940101",
-    "name": "Kali Bobo"
+    "name": "Kali Bobo",
+    "postal_code": "98818"
   },
   {
     "code": "9401011003",
     "district_code": "940101",
-    "name": "Morgo"
+    "name": "Morgo",
+    "postal_code": "98811"
   },
   {
     "code": "9401011004",
     "district_code": "940101",
-    "name": "Girimulyo"
+    "name": "Girimulyo",
+    "postal_code": "98814"
   },
   {
     "code": "9401011005",
     "district_code": "940101",
-    "name": "Karang Tumaritis"
+    "name": "Karang Tumaritis",
+    "postal_code": "98812"
   },
   {
     "code": "9401011006",
     "district_code": "940101",
-    "name": "Oyehe"
+    "name": "Oyehe",
+    "postal_code": "98816"
   },
   {
     "code": "9401011007",
     "district_code": "940101",
-    "name": "Karang Mulia"
+    "name": "Karang Mulia",
+    "postal_code": "98815"
   },
   {
     "code": "9401011008",
     "district_code": "940101",
-    "name": "Nabarua"
+    "name": "Nabarua",
+    "postal_code": "98817"
   },
   {
     "code": "9401011009",
     "district_code": "940101",
-    "name": "Siriwini"
+    "name": "Siriwini",
+    "postal_code": "98817"
   },
   {
     "code": "9401012010",
     "district_code": "940101",
-    "name": "Kalisusu"
+    "name": "Kalisusu",
+    "postal_code": "98817"
   },
   {
     "code": "9401012011",
     "district_code": "940101",
-    "name": "Kali Harapan"
+    "name": "Kali Harapan",
+    "postal_code": "98821"
   },
   {
     "code": "9401012012",
     "district_code": "940101",
-    "name": "Sanoba"
+    "name": "Sanoba",
+    "postal_code": "98822"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "9206072001",
     "district_code": "920607",
-    "name": "Wamesa I / Idoor"
+    "name": "Wamesa I / Idoor",
+    "postal_code": "98146"
   },
   {
     "code": "9206072002",
     "district_code": "920607",
-    "name": "Wamesa II / Yakati"
+    "name": "Wamesa II / Yakati",
+    "postal_code": "98146"
   },
   {
     "code": "9206072003",
     "district_code": "920607",
-    "name": "Yansei"
+    "name": "Yansei",
+    "postal_code": "98146"
   },
   {
     "code": "9206072004",
     "district_code": "920607",
-    "name": "Mamuranu"
+    "name": "Mamuranu",
+    "postal_code": "98146"
   }
 ]

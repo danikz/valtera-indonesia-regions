@@ -2,41 +2,49 @@
   {
     "code": "1223042001",
     "district_code": "122304",
-    "name": "Aek Korsik"
+    "name": "Aek Korsik",
+    "postal_code": "21455"
   },
   {
     "code": "1223042002",
     "district_code": "122304",
-    "name": "Bandar Selamat"
+    "name": "Bandar Selamat",
+    "postal_code": "21455"
   },
   {
     "code": "1223042003",
     "district_code": "122304",
-    "name": "Perk. Padang Halaban"
+    "name": "Perk. Padang Halaban",
+    "postal_code": "21455"
   },
   {
     "code": "1223042004",
     "district_code": "122304",
-    "name": "Perkebunan Panigoran"
+    "name": "Perkebunan Panigoran",
+    "postal_code": "21455"
   },
   {
     "code": "1223042005",
     "district_code": "122304",
-    "name": "Sidomulyo"
+    "name": "Sidomulyo",
+    "postal_code": "21455"
   },
   {
     "code": "1223042006",
     "district_code": "122304",
-    "name": "Karang Anyar"
+    "name": "Karang Anyar",
+    "postal_code": "21455"
   },
   {
     "code": "1223042007",
     "district_code": "122304",
-    "name": "Padang Maninjau"
+    "name": "Padang Maninjau",
+    "postal_code": "21455"
   },
   {
     "code": "1223042008",
     "district_code": "122304",
-    "name": "Purworejo"
+    "name": "Purworejo",
+    "postal_code": "21455"
   }
 ]

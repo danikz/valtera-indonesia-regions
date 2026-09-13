@@ -2,26 +2,31 @@
   {
     "code": "3277011001",
     "district_code": "327701",
-    "name": "Melong"
+    "name": "Melong",
+    "postal_code": "40534"
   },
   {
     "code": "3277011002",
     "district_code": "327701",
-    "name": "Cibeureum"
+    "name": "Cibeureum",
+    "postal_code": "40535"
   },
   {
     "code": "3277011003",
     "district_code": "327701",
-    "name": "Utama"
+    "name": "Utama",
+    "postal_code": "40533"
   },
   {
     "code": "3277011004",
     "district_code": "327701",
-    "name": "Leuwigajah"
+    "name": "Leuwigajah",
+    "postal_code": "40532"
   },
   {
     "code": "3277011005",
     "district_code": "327701",
-    "name": "Cibeber"
+    "name": "Cibeber",
+    "postal_code": "40531"
   }
 ]

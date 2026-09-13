@@ -2,36 +2,43 @@
   {
     "code": "1223021001",
     "district_code": "122302",
-    "name": "Tanjung Leidong"
+    "name": "Tanjung Leidong",
+    "postal_code": "21475"
   },
   {
     "code": "1223022002",
     "district_code": "122302",
-    "name": "Teluk Pulai Dalam"
+    "name": "Teluk Pulai Dalam",
+    "postal_code": "21475"
   },
   {
     "code": "1223022003",
     "district_code": "122302",
-    "name": "Teluk Pulai Luar"
+    "name": "Teluk Pulai Luar",
+    "postal_code": "21475"
   },
   {
     "code": "1223022004",
     "district_code": "122302",
-    "name": "Kelapa Sebatang"
+    "name": "Kelapa Sebatang",
+    "postal_code": "21475"
   },
   {
     "code": "1223022005",
     "district_code": "122302",
-    "name": "Simandulang"
+    "name": "Simandulang",
+    "postal_code": "21475"
   },
   {
     "code": "1223022006",
     "district_code": "122302",
-    "name": "Air Hitam"
+    "name": "Air Hitam",
+    "postal_code": "21475"
   },
   {
     "code": "1223022007",
     "district_code": "122302",
-    "name": "Pangkalan Lunang"
+    "name": "Pangkalan Lunang",
+    "postal_code": "21475"
   }
 ]

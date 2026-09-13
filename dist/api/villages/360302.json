@@ -2,41 +2,49 @@
   {
     "code": "3603022001",
     "district_code": "360302",
-    "name": "Pangkat"
+    "name": "Pangkat",
+    "postal_code": "15611"
   },
   {
     "code": "3603022002",
     "district_code": "360302",
-    "name": "Pabuaran"
+    "name": "Pabuaran",
+    "postal_code": "15611"
   },
   {
     "code": "3603022004",
     "district_code": "360302",
-    "name": "Pasir Muncang"
+    "name": "Pasir Muncang",
+    "postal_code": "15611"
   },
   {
     "code": "3603022005",
     "district_code": "360302",
-    "name": "Sumur Bandung"
+    "name": "Sumur Bandung",
+    "postal_code": "15611"
   },
   {
     "code": "3603022006",
     "district_code": "360302",
-    "name": "Jayanti"
+    "name": "Jayanti",
+    "postal_code": "15611"
   },
   {
     "code": "3603022007",
     "district_code": "360302",
-    "name": "Dangdeur"
+    "name": "Dangdeur",
+    "postal_code": "15611"
   },
   {
     "code": "3603022008",
     "district_code": "360302",
-    "name": "Cikande"
+    "name": "Cikande",
+    "postal_code": "15611"
   },
   {
     "code": "3603022009",
     "district_code": "360302",
-    "name": "Pasir Gintung"
+    "name": "Pasir Gintung",
+    "postal_code": "15611"
   }
 ]

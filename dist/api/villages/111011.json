@@ -2,31 +2,37 @@
   {
     "code": "1110112001",
     "district_code": "111011",
-    "name": "Lae Balno"
+    "name": "Lae Balno",
+    "postal_code": "24784"
   },
   {
     "code": "1110112002",
     "district_code": "111011",
-    "name": "Napagaluh"
+    "name": "Napagaluh",
+    "postal_code": "24784"
   },
   {
     "code": "1110112003",
     "district_code": "111011",
-    "name": "Sikoran"
+    "name": "Sikoran",
+    "postal_code": "24784"
   },
   {
     "code": "1110112004",
     "district_code": "111011",
-    "name": "Situbuh-tubuh"
+    "name": "Situbuh-tubuh",
+    "postal_code": "24784"
   },
   {
     "code": "1110112005",
     "district_code": "111011",
-    "name": "Biskang"
+    "name": "Biskang",
+    "postal_code": "24784"
   },
   {
     "code": "1110112006",
     "district_code": "111011",
-    "name": "Sintuban Makmur"
+    "name": "Sintuban Makmur",
+    "postal_code": "24784"
   }
 ]

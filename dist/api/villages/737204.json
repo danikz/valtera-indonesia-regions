@@ -2,31 +2,37 @@
   {
     "code": "7372041001",
     "district_code": "737204",
-    "name": "Kampung Baru"
+    "name": "Kampung Baru",
+    "postal_code": "91121"
   },
   {
     "code": "7372041002",
     "district_code": "737204",
-    "name": "Cappa Galung"
+    "name": "Cappa Galung",
+    "postal_code": "91122"
   },
   {
     "code": "7372041003",
     "district_code": "737204",
-    "name": "Lumpue"
+    "name": "Lumpue",
+    "postal_code": "91123"
   },
   {
     "code": "7372041004",
     "district_code": "737204",
-    "name": "Tiro Sompe"
+    "name": "Tiro Sompe",
+    "postal_code": "91125"
   },
   {
     "code": "7372041005",
     "district_code": "737204",
-    "name": "Sumpang Minangae"
+    "name": "Sumpang Minangae",
+    "postal_code": "91121"
   },
   {
     "code": "7372041006",
     "district_code": "737204",
-    "name": "Bumi Harapan"
+    "name": "Bumi Harapan",
+    "postal_code": "91121"
   }
 ]

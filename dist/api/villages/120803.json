@@ -2,46 +2,55 @@
   {
     "code": "1208032001",
     "district_code": "120803",
-    "name": "Silau Bayu"
+    "name": "Silau Bayu",
+    "postal_code": "21176"
   },
   {
     "code": "1208032002",
     "district_code": "120803",
-    "name": "Karang Anyer"
+    "name": "Karang Anyer",
+    "postal_code": "21176"
   },
   {
     "code": "1208032003",
     "district_code": "120803",
-    "name": "Karang Rejo"
+    "name": "Karang Rejo",
+    "postal_code": "21176"
   },
   {
     "code": "1208032004",
     "district_code": "120803",
-    "name": "Karang Sari"
+    "name": "Karang Sari",
+    "postal_code": "21176"
   },
   {
     "code": "1208032005",
     "district_code": "120803",
-    "name": "Tumorang"
+    "name": "Tumorang",
+    "postal_code": "21176"
   },
   {
     "code": "1208032006",
     "district_code": "120803",
-    "name": "Rabuhit"
+    "name": "Rabuhit",
+    "postal_code": "21176"
   },
   {
     "code": "1208032007",
     "district_code": "120803",
-    "name": "Hutadipar"
+    "name": "Hutadipar",
+    "postal_code": "21176"
   },
   {
     "code": "1208032008",
     "district_code": "120803",
-    "name": "Ganjing"
+    "name": "Ganjing",
+    "postal_code": "21176"
   },
   {
     "code": "1208032009",
     "district_code": "120803",
-    "name": "Bandar Malela"
+    "name": "Bandar Malela",
+    "postal_code": "21176"
   }
 ]

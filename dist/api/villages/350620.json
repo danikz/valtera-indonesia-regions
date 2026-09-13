@@ -2,51 +2,61 @@
   {
     "code": "3506202001",
     "district_code": "350620",
-    "name": "Kalirong"
+    "name": "Kalirong",
+    "postal_code": "64152"
   },
   {
     "code": "3506202002",
     "district_code": "350620",
-    "name": "Kaliboto"
+    "name": "Kaliboto",
+    "postal_code": "64152"
   },
   {
     "code": "3506202003",
     "district_code": "350620",
-    "name": "Bulusari"
+    "name": "Bulusari",
+    "postal_code": "64152"
   },
   {
     "code": "3506202004",
     "district_code": "350620",
-    "name": "Tarokan"
+    "name": "Tarokan",
+    "postal_code": "64152"
   },
   {
     "code": "3506202005",
     "district_code": "350620",
-    "name": "Kedungsari"
+    "name": "Kedungsari",
+    "postal_code": "64152"
   },
   {
     "code": "3506202006",
     "district_code": "350620",
-    "name": "Sumberduren"
+    "name": "Sumberduren",
+    "postal_code": "64152"
   },
   {
     "code": "3506202007",
     "district_code": "350620",
-    "name": "Kerep"
+    "name": "Kerep",
+    "postal_code": "64152"
   },
   {
     "code": "3506202008",
     "district_code": "350620",
-    "name": "Blimbing"
+    "name": "Blimbing",
+    "postal_code": "64152"
   },
   {
     "code": "3506202009",
     "district_code": "350620",
-    "name": "Jati"
+    "name": "Jati",
+    "postal_code": "64152"
   },
   {
     "code": "3506202010",
     "district_code": "350620",
-    "name": "Cengkok"
+    "name": "Cengkok",
+    "postal_code": "64152"
   }
 ]

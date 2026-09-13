@@ -2,41 +2,49 @@
   {
     "code": "3520011005",
     "district_code": "352001",
-    "name": "Alastuwo"
+    "name": "Alastuwo",
+    "postal_code": "63362"
   },
   {
     "code": "3520012001",
     "district_code": "352001",
-    "name": "Poncol"
+    "name": "Poncol",
+    "postal_code": "63362"
   },
   {
     "code": "3520012002",
     "district_code": "352001",
-    "name": "Gonggang"
+    "name": "Gonggang",
+    "postal_code": "63362"
   },
   {
     "code": "3520012003",
     "district_code": "352001",
-    "name": "Janggan"
+    "name": "Janggan",
+    "postal_code": "63362"
   },
   {
     "code": "3520012004",
     "district_code": "352001",
-    "name": "Genilangit"
+    "name": "Genilangit",
+    "postal_code": "63362"
   },
   {
     "code": "3520012006",
     "district_code": "352001",
-    "name": "Plangkrongan"
+    "name": "Plangkrongan",
+    "postal_code": "63362"
   },
   {
     "code": "3520012007",
     "district_code": "352001",
-    "name": "Cileng"
+    "name": "Cileng",
+    "postal_code": "63362"
   },
   {
     "code": "3520012008",
     "district_code": "352001",
-    "name": "Sombo"
+    "name": "Sombo",
+    "postal_code": "63362"
   }
 ]

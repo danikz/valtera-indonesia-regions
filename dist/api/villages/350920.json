@@ -2,41 +2,49 @@
   {
     "code": "3509201001",
     "district_code": "350920",
-    "name": "Banjarsengon"
+    "name": "Banjarsengon",
+    "postal_code": "68118"
   },
   {
     "code": "3509201002",
     "district_code": "350920",
-    "name": "Jumerto"
+    "name": "Jumerto",
+    "postal_code": "68114"
   },
   {
     "code": "3509201003",
     "district_code": "350920",
-    "name": "Gebang"
+    "name": "Gebang",
+    "postal_code": "68117"
   },
   {
     "code": "3509201004",
     "district_code": "350920",
-    "name": "Slawu"
+    "name": "Slawu",
+    "postal_code": "68116"
   },
   {
     "code": "3509201005",
     "district_code": "350920",
-    "name": "Bintoro"
+    "name": "Bintoro",
+    "postal_code": "68113"
   },
   {
     "code": "3509201006",
     "district_code": "350920",
-    "name": "Jemberlor"
+    "name": "Jemberlor",
+    "postal_code": "68118"
   },
   {
     "code": "3509201007",
     "district_code": "350920",
-    "name": "Patrang"
+    "name": "Patrang",
+    "postal_code": "68111"
   },
   {
     "code": "3509201008",
     "district_code": "350920",
-    "name": "Baratan"
+    "name": "Baratan",
+    "postal_code": "68112"
   }
 ]

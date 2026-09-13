@@ -2,51 +2,61 @@
   {
     "code": "1209152003",
     "district_code": "120915",
-    "name": "Bandar Pulau Pekan"
+    "name": "Bandar Pulau Pekan",
+    "postal_code": "21275"
   },
   {
     "code": "1209152005",
     "district_code": "120915",
-    "name": "Buntu Maraja"
+    "name": "Buntu Maraja",
+    "postal_code": "21275"
   },
   {
     "code": "1209152006",
     "district_code": "120915",
-    "name": "Gonting Malaha"
+    "name": "Gonting Malaha",
+    "postal_code": "21275"
   },
   {
     "code": "1209152010",
     "district_code": "120915",
-    "name": "Padang Pulau"
+    "name": "Padang Pulau",
+    "postal_code": "21275"
   },
   {
     "code": "1209152012",
     "district_code": "120915",
-    "name": "Perkebunan Aek Tarum"
+    "name": "Perkebunan Aek Tarum",
+    "postal_code": "21275"
   },
   {
     "code": "1209152016",
     "district_code": "120915",
-    "name": "Perkebunan Padang Pulau"
+    "name": "Perkebunan Padang Pulau",
+    "postal_code": "21275"
   },
   {
     "code": "1209152019",
     "district_code": "120915",
-    "name": "Huta Rao"
+    "name": "Huta Rao",
+    "postal_code": "21275"
   },
   {
     "code": "1209152020",
     "district_code": "120915",
-    "name": "Aek Nagali"
+    "name": "Aek Nagali",
+    "postal_code": "21275"
   },
   {
     "code": "1209152021",
     "district_code": "120915",
-    "name": "Gajah Sakti"
+    "name": "Gajah Sakti",
+    "postal_code": "21275"
   },
   {
     "code": "1209152022",
     "district_code": "120915",
-    "name": "Gunung Berkat"
+    "name": "Gunung Berkat",
+    "postal_code": "21275"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "7501032001",
     "district_code": "750103",
-    "name": "Iluta"
+    "name": "Iluta",
+    "postal_code": "96243"
   },
   {
     "code": "7501032002",
     "district_code": "750103",
-    "name": "Bua"
+    "name": "Bua",
+    "postal_code": "96243"
   },
   {
     "code": "7501032003",
     "district_code": "750103",
-    "name": "Huntu"
+    "name": "Huntu",
+    "postal_code": "96243"
   },
   {
     "code": "7501032004",
     "district_code": "750103",
-    "name": "Payunga"
+    "name": "Payunga",
+    "postal_code": "96243"
   },
   {
     "code": "7501032012",
     "district_code": "750103",
-    "name": "Barakati"
+    "name": "Barakati",
+    "postal_code": "96243"
   },
   {
     "code": "7501032013",
     "district_code": "750103",
-    "name": "Ilohungayo"
+    "name": "Ilohungayo",
+    "postal_code": "96243"
   },
   {
     "code": "7501032014",
     "district_code": "750103",
-    "name": "Dunggala"
+    "name": "Dunggala",
+    "postal_code": "96243"
   },
   {
     "code": "7501032015",
     "district_code": "750103",
-    "name": "Pilobuhuta"
+    "name": "Pilobuhuta",
+    "postal_code": "96243"
   }
 ]

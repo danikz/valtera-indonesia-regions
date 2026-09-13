@@ -2,66 +2,79 @@
   {
     "code": "5302102001",
     "district_code": "530210",
-    "name": "Pilli"
+    "name": "Pilli",
+    "postal_code": "85575"
   },
   {
     "code": "5302102002",
     "district_code": "530210",
-    "name": "Falas"
+    "name": "Falas",
+    "postal_code": "85575"
   },
   {
     "code": "5302102003",
     "district_code": "530210",
-    "name": "Oenai"
+    "name": "Oenai",
+    "postal_code": "85575"
   },
   {
     "code": "5302102004",
     "district_code": "530210",
-    "name": "Belle"
+    "name": "Belle",
+    "postal_code": "85575"
   },
   {
     "code": "5302102005",
     "district_code": "530210",
-    "name": "Napi"
+    "name": "Napi",
+    "postal_code": "85575"
   },
   {
     "code": "5302102006",
     "district_code": "530210",
-    "name": "Boti"
+    "name": "Boti",
+    "postal_code": "85575"
   },
   {
     "code": "5302102007",
     "district_code": "530210",
-    "name": "Fatuulan"
+    "name": "Fatuulan",
+    "postal_code": "85575"
   },
   {
     "code": "5302102008",
     "district_code": "530210",
-    "name": "Tesiayofanu"
+    "name": "Tesiayofanu",
+    "postal_code": "85575"
   },
   {
     "code": "5302102009",
     "district_code": "530210",
-    "name": "Oinlasi"
+    "name": "Oinlasi",
+    "postal_code": "85575"
   },
   {
     "code": "5302102010",
     "district_code": "530210",
-    "name": "Nekmese"
+    "name": "Nekmese",
+    "postal_code": "85575"
   },
   {
     "code": "5302102011",
     "district_code": "530210",
-    "name": "Eno Napi"
+    "name": "Eno Napi",
+    "postal_code": "85575"
   },
   {
     "code": "5302102012",
     "district_code": "530210",
-    "name": "Fatukusi"
+    "name": "Fatukusi",
+    "postal_code": "85575"
   },
   {
     "code": "5302102013",
     "district_code": "530210",
-    "name": "Naile'u"
+    "name": "Naile'u",
+    "postal_code": "85575"
   }
 ]

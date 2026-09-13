@@ -2,26 +2,31 @@
   {
     "code": "9206102001",
     "district_code": "920610",
-    "name": "Sarbe"
+    "name": "Sarbe",
+    "postal_code": "98135"
   },
   {
     "code": "9206102002",
     "district_code": "920610",
-    "name": "Wagura"
+    "name": "Wagura",
+    "postal_code": "98135"
   },
   {
     "code": "9206102003",
     "district_code": "920610",
-    "name": "Refideso"
+    "name": "Refideso",
+    "postal_code": "98135"
   },
   {
     "code": "9206102004",
     "district_code": "920610",
-    "name": "Naramasa"
+    "name": "Naramasa",
+    "postal_code": "98135"
   },
   {
     "code": "9206102005",
     "district_code": "920610",
-    "name": "Obo"
+    "name": "Obo",
+    "postal_code": "98135"
   }
 ]

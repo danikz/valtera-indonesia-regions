@@ -2,76 +2,91 @@
   {
     "code": "3312121002",
     "district_code": "331212",
-    "name": "Wuryorejo"
+    "name": "Wuryorejo",
+    "postal_code": "57614"
   },
   {
     "code": "3312121003",
     "district_code": "331212",
-    "name": "Giritirto"
+    "name": "Giritirto",
+    "postal_code": "57611"
   },
   {
     "code": "3312121006",
     "district_code": "331212",
-    "name": "Giripurwo"
+    "name": "Giripurwo",
+    "postal_code": "57612"
   },
   {
     "code": "3312121007",
     "district_code": "331212",
-    "name": "Giriwono"
+    "name": "Giriwono",
+    "postal_code": "57613"
   },
   {
     "code": "3312121008",
     "district_code": "331212",
-    "name": "Wonoboyo"
+    "name": "Wonoboyo",
+    "postal_code": "57615"
   },
   {
     "code": "3312121015",
     "district_code": "331212",
-    "name": "Wonokarto"
+    "name": "Wonokarto",
+    "postal_code": "57612"
   },
   {
     "code": "3312122001",
     "district_code": "331212",
-    "name": "Sendang"
+    "name": "Sendang",
+    "postal_code": "57615"
   },
   {
     "code": "3312122004",
     "district_code": "331212",
-    "name": "Pokohkidul"
+    "name": "Pokohkidul",
+    "postal_code": "57615"
   },
   {
     "code": "3312122005",
     "district_code": "331212",
-    "name": "Purworejo"
+    "name": "Purworejo",
+    "postal_code": "57615"
   },
   {
     "code": "3312122009",
     "district_code": "331212",
-    "name": "Bulusulur"
+    "name": "Bulusulur",
+    "postal_code": "57615"
   },
   {
     "code": "3312122010",
     "district_code": "331212",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "57615"
   },
   {
     "code": "3312122011",
     "district_code": "331212",
-    "name": "Wonoharjo"
+    "name": "Wonoharjo",
+    "postal_code": "57615"
   },
   {
     "code": "3312122012",
     "district_code": "331212",
-    "name": "Manjung"
+    "name": "Manjung",
+    "postal_code": "57615"
   },
   {
     "code": "3312122013",
     "district_code": "331212",
-    "name": "Wonokerto"
+    "name": "Wonokerto",
+    "postal_code": "57615"
   },
   {
     "code": "3312122014",
     "district_code": "331212",
-    "name": "Sonoharjo"
+    "name": "Sonoharjo",
+    "postal_code": "57615"
   }
 ]

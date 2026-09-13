@@ -2,56 +2,67 @@
   {
     "code": "3374111001",
     "district_code": "337411",
-    "name": "Pudakpayung"
+    "name": "Pudakpayung",
+    "postal_code": "50265"
   },
   {
     "code": "3374111002",
     "district_code": "337411",
-    "name": "Gedawang"
+    "name": "Gedawang",
+    "postal_code": "50266"
   },
   {
     "code": "3374111003",
     "district_code": "337411",
-    "name": "Jabungan"
+    "name": "Jabungan",
+    "postal_code": "50266"
   },
   {
     "code": "3374111004",
     "district_code": "337411",
-    "name": "Pedalangan"
+    "name": "Pedalangan",
+    "postal_code": "50268"
   },
   {
     "code": "3374111005",
     "district_code": "337411",
-    "name": "Banyumanik"
+    "name": "Banyumanik",
+    "postal_code": "50264"
   },
   {
     "code": "3374111006",
     "district_code": "337411",
-    "name": "Srondol Kulon"
+    "name": "Srondol Kulon",
+    "postal_code": "50263"
   },
   {
     "code": "3374111007",
     "district_code": "337411",
-    "name": "Srondol Wetan"
+    "name": "Srondol Wetan",
+    "postal_code": "50263"
   },
   {
     "code": "3374111008",
     "district_code": "337411",
-    "name": "Ngesrep"
+    "name": "Ngesrep",
+    "postal_code": "50261"
   },
   {
     "code": "3374111009",
     "district_code": "337411",
-    "name": "Tinjomoyo"
+    "name": "Tinjomoyo",
+    "postal_code": "50262"
   },
   {
     "code": "3374111010",
     "district_code": "337411",
-    "name": "Padangsari"
+    "name": "Padangsari",
+    "postal_code": "50267"
   },
   {
     "code": "3374111011",
     "district_code": "337411",
-    "name": "Sumurboto"
+    "name": "Sumurboto",
+    "postal_code": "50269"
   }
 ]

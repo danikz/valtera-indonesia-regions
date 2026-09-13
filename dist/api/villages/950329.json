@@ -2,46 +2,55 @@
   {
     "code": "9503292001",
     "district_code": "950329",
-    "name": "Talambo"
+    "name": "Talambo",
+    "postal_code": "99762"
   },
   {
     "code": "9503292002",
     "district_code": "950329",
-    "name": "Tibul"
+    "name": "Tibul",
+    "postal_code": "99762"
   },
   {
     "code": "9503292003",
     "district_code": "950329",
-    "name": "Kikila"
+    "name": "Kikila",
+    "postal_code": "99762"
   },
   {
     "code": "9503292004",
     "district_code": "950329",
-    "name": "Palukae"
+    "name": "Palukae",
+    "postal_code": "99762"
   },
   {
     "code": "9503292005",
     "district_code": "950329",
-    "name": "Wubri"
+    "name": "Wubri",
+    "postal_code": "99762"
   },
   {
     "code": "9503292006",
     "district_code": "950329",
-    "name": "Bari"
+    "name": "Bari",
+    "postal_code": "99762"
   },
   {
     "code": "9503292007",
     "district_code": "950329",
-    "name": "Lulum"
+    "name": "Lulum",
+    "postal_code": "99762"
   },
   {
     "code": "9503292008",
     "district_code": "950329",
-    "name": "Paleromon"
+    "name": "Paleromon",
+    "postal_code": "99762"
   },
   {
     "code": "9503292009",
     "district_code": "950329",
-    "name": "Lelambo 2"
+    "name": "Lelambo 2",
+    "postal_code": "99762"
   }
 ]

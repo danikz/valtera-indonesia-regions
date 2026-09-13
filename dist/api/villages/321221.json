@@ -2,66 +2,79 @@
   {
     "code": "3212212001",
     "district_code": "321221",
-    "name": "Curug"
+    "name": "Curug",
+    "postal_code": "45254"
   },
   {
     "code": "3212212002",
     "district_code": "321221",
-    "name": "Pranti"
+    "name": "Pranti",
+    "postal_code": "45254"
   },
   {
     "code": "3212212003",
     "district_code": "321221",
-    "name": "Wirakanan"
+    "name": "Wirakanan",
+    "postal_code": "45254"
   },
   {
     "code": "3212212004",
     "district_code": "321221",
-    "name": "Karangmulya"
+    "name": "Karangmulya",
+    "postal_code": "45254"
   },
   {
     "code": "3212212005",
     "district_code": "321221",
-    "name": "Karang Anyar"
+    "name": "Karang Anyar",
+    "postal_code": "45213"
   },
   {
     "code": "3212212006",
     "district_code": "321221",
-    "name": "Wirapanjunan"
+    "name": "Wirapanjunan",
+    "postal_code": "45254"
   },
   {
     "code": "3212212007",
     "district_code": "321221",
-    "name": "Pareangirang"
+    "name": "Pareangirang",
+    "postal_code": "45254"
   },
   {
     "code": "3212212008",
     "district_code": "321221",
-    "name": "Bulak"
+    "name": "Bulak",
+    "postal_code": "45254"
   },
   {
     "code": "3212212009",
     "district_code": "321221",
-    "name": "Ilir"
+    "name": "Ilir",
+    "postal_code": "45254"
   },
   {
     "code": "3212212010",
     "district_code": "321221",
-    "name": "Soge"
+    "name": "Soge",
+    "postal_code": "45254"
   },
   {
     "code": "3212212011",
     "district_code": "321221",
-    "name": "Eretan Wetan"
+    "name": "Eretan Wetan",
+    "postal_code": "45254"
   },
   {
     "code": "3212212012",
     "district_code": "321221",
-    "name": "Eretan Kulon"
+    "name": "Eretan Kulon",
+    "postal_code": "45254"
   },
   {
     "code": "3212212013",
     "district_code": "321221",
-    "name": "Kertawinangun"
+    "name": "Kertawinangun",
+    "postal_code": "45254"
   }
 ]

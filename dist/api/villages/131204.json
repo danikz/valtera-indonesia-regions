@@ -2,36 +2,43 @@
   {
     "code": "1312042001",
     "district_code": "131204",
-    "name": "Kajai"
+    "name": "Kajai",
+    "postal_code": "26561"
   },
   {
     "code": "1312042002",
     "district_code": "131204",
-    "name": "Talu"
+    "name": "Talu",
+    "postal_code": "26561"
   },
   {
     "code": "1312042003",
     "district_code": "131204",
-    "name": "Sinuruik"
+    "name": "Sinuruik",
+    "postal_code": "26561"
   },
   {
     "code": "1312042004",
     "district_code": "131204",
-    "name": "Simpang Timbo Abu Kajai"
+    "name": "Simpang Timbo Abu Kajai",
+    "postal_code": "26561"
   },
   {
     "code": "1312042005",
     "district_code": "131204",
-    "name": "Kajai Selatan"
+    "name": "Kajai Selatan",
+    "postal_code": "26561"
   },
   {
     "code": "1312042006",
     "district_code": "131204",
-    "name": "Sungai Janiah Talu"
+    "name": "Sungai Janiah Talu",
+    "postal_code": "26561"
   },
   {
     "code": "1312042007",
     "district_code": "131204",
-    "name": "Tabek Sirah Talu"
+    "name": "Tabek Sirah Talu",
+    "postal_code": "26561"
   }
 ]

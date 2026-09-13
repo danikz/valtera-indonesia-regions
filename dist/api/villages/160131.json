@@ -2,36 +2,43 @@
   {
     "code": "1601312001",
     "district_code": "160131",
-    "name": "Kemala Jaya"
+    "name": "Kemala Jaya",
+    "postal_code": "32155"
   },
   {
     "code": "1601312002",
     "district_code": "160131",
-    "name": "Lontar"
+    "name": "Lontar",
+    "postal_code": "32155"
   },
   {
     "code": "1601312003",
     "district_code": "160131",
-    "name": "Muara Saeh"
+    "name": "Muara Saeh",
+    "postal_code": "32155"
   },
   {
     "code": "1601312004",
     "district_code": "160131",
-    "name": "Lubuk Tupak"
+    "name": "Lubuk Tupak",
+    "postal_code": "32155"
   },
   {
     "code": "1601312005",
     "district_code": "160131",
-    "name": "Beringin"
+    "name": "Beringin",
+    "postal_code": "32155"
   },
   {
     "code": "1601312006",
     "district_code": "160131",
-    "name": "Surau"
+    "name": "Surau",
+    "postal_code": "32155"
   },
   {
     "code": "1601312007",
     "district_code": "160131",
-    "name": "Karang Lantang"
+    "name": "Karang Lantang",
+    "postal_code": "32155"
   }
 ]

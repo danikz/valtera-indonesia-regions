@@ -2,51 +2,61 @@
   {
     "code": "1210011001",
     "district_code": "121001",
-    "name": "Padang Matinggi"
+    "name": "Padang Matinggi",
+    "postal_code": "21411"
   },
   {
     "code": "1210011002",
     "district_code": "121001",
-    "name": "Siringo-Ringo"
+    "name": "Siringo-Ringo",
+    "postal_code": "21413"
   },
   {
     "code": "1210011003",
     "district_code": "121001",
-    "name": "Sirandorung"
+    "name": "Sirandorung",
+    "postal_code": "21414"
   },
   {
     "code": "1210011004",
     "district_code": "121001",
-    "name": "Rantauprapat"
+    "name": "Rantauprapat",
+    "postal_code": "21412"
   },
   {
     "code": "1210011005",
     "district_code": "121001",
-    "name": "Kartini"
+    "name": "Kartini",
+    "postal_code": "21418"
   },
   {
     "code": "1210011006",
     "district_code": "121001",
-    "name": "Cendana"
+    "name": "Cendana",
+    "postal_code": "21417"
   },
   {
     "code": "1210011007",
     "district_code": "121001",
-    "name": "Binaraga"
+    "name": "Binaraga",
+    "postal_code": "21416"
   },
   {
     "code": "1210011008",
     "district_code": "121001",
-    "name": "Pulo Padang"
+    "name": "Pulo Padang",
+    "postal_code": "21419"
   },
   {
     "code": "1210011009",
     "district_code": "121001",
-    "name": "Padang Bulan"
+    "name": "Padang Bulan",
+    "postal_code": "21414"
   },
   {
     "code": "1210011010",
     "district_code": "121001",
-    "name": "Aek Paing"
+    "name": "Aek Paing",
+    "postal_code": "21419"
   }
 ]

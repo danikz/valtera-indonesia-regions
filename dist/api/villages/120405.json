@@ -2,81 +2,97 @@
   {
     "code": "1204052001",
     "district_code": "120405",
-    "name": "Ononamolo I Bot"
+    "name": "Ononamolo I Bot",
+    "postal_code": "22854"
   },
   {
     "code": "1204052021",
     "district_code": "120405",
-    "name": "Dima"
+    "name": "Dima",
+    "postal_code": "22854"
   },
   {
     "code": "1204052022",
     "district_code": "120405",
-    "name": "Sinarikhi"
+    "name": "Sinarikhi",
+    "postal_code": "22854"
   },
   {
     "code": "1204052023",
     "district_code": "120405",
-    "name": "Ombolata Salo'o"
+    "name": "Ombolata Salo'o",
+    "postal_code": "22854"
   },
   {
     "code": "1204052024",
     "district_code": "120405",
-    "name": "Sisobalauru"
+    "name": "Sisobalauru",
+    "postal_code": "22854"
   },
   {
     "code": "1204052025",
     "district_code": "120405",
-    "name": "Tuhegafoa II"
+    "name": "Tuhegafoa II",
+    "postal_code": "22854"
   },
   {
     "code": "1204052027",
     "district_code": "120405",
-    "name": "Fadoro Lauru"
+    "name": "Fadoro Lauru",
+    "postal_code": "22854"
   },
   {
     "code": "1204052028",
     "district_code": "120405",
-    "name": "Lasara Tanose'o"
+    "name": "Lasara Tanose'o",
+    "postal_code": "22854"
   },
   {
     "code": "1204052030",
     "district_code": "120405",
-    "name": "Hiliduho"
+    "name": "Hiliduho",
+    "postal_code": "22854"
   },
   {
     "code": "1204052031",
     "district_code": "120405",
-    "name": "Hiligodu Tanoseo"
+    "name": "Hiligodu Tanoseo",
+    "postal_code": "22854"
   },
   {
     "code": "1204052032",
     "district_code": "120405",
-    "name": "Sisobahili I Tanoseo"
+    "name": "Sisobahili I Tanoseo",
+    "postal_code": "22854"
   },
   {
     "code": "1204052033",
     "district_code": "120405",
-    "name": "Onozitolidulu"
+    "name": "Onozitolidulu",
+    "postal_code": "22854"
   },
   {
     "code": "1204052034",
     "district_code": "120405",
-    "name": "Mazingo Tanose'o"
+    "name": "Mazingo Tanose'o",
+    "postal_code": "22854"
   },
   {
     "code": "1204052040",
     "district_code": "120405",
-    "name": "Onowaembo Hiligara"
+    "name": "Onowaembo Hiligara",
+    "postal_code": "22854"
   },
   {
     "code": "1204052041",
     "district_code": "120405",
-    "name": "Silimabanua"
+    "name": "Silimabanua",
+    "postal_code": "22854"
   },
   {
     "code": "1204052042",
     "district_code": "120405",
-    "name": "Ombolata Sisarahili"
+    "name": "Ombolata Sisarahili",
+    "postal_code": "22854"
   }
 ]

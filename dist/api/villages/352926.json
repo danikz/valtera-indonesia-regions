@@ -2,36 +2,43 @@
   {
     "code": "3529262001",
     "district_code": "352926",
-    "name": "Patean"
+    "name": "Patean",
+    "postal_code": "69451"
   },
   {
     "code": "3529262002",
     "district_code": "352926",
-    "name": "Babbalan"
+    "name": "Babbalan",
+    "postal_code": "69451"
   },
   {
     "code": "3529262003",
     "district_code": "352926",
-    "name": "Gedungan"
+    "name": "Gedungan",
+    "postal_code": "69451"
   },
   {
     "code": "3529262004",
     "district_code": "352926",
-    "name": "Gunggung"
+    "name": "Gunggung",
+    "postal_code": "69451"
   },
   {
     "code": "3529262005",
     "district_code": "352926",
-    "name": "Batuan"
+    "name": "Batuan",
+    "postal_code": "69451"
   },
   {
     "code": "3529262006",
     "district_code": "352926",
-    "name": "Torbang"
+    "name": "Torbang",
+    "postal_code": "69451"
   },
   {
     "code": "3529262007",
     "district_code": "352926",
-    "name": "Gelugur"
+    "name": "Gelugur",
+    "postal_code": "69451"
   }
 ]

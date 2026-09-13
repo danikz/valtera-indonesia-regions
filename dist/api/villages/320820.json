@@ -2,41 +2,49 @@
   {
     "code": "3208202001",
     "district_code": "320820",
-    "name": "Haurkuning"
+    "name": "Haurkuning",
+    "postal_code": "45563"
   },
   {
     "code": "3208202002",
     "district_code": "320820",
-    "name": "Kertayuga"
+    "name": "Kertayuga",
+    "postal_code": "45563"
   },
   {
     "code": "3208202003",
     "district_code": "320820",
-    "name": "Windusari"
+    "name": "Windusari",
+    "postal_code": "45563"
   },
   {
     "code": "3208202004",
     "district_code": "320820",
-    "name": "Nusaherang"
+    "name": "Nusaherang",
+    "postal_code": "45563"
   },
   {
     "code": "3208202005",
     "district_code": "320820",
-    "name": "Jambar"
+    "name": "Jambar",
+    "postal_code": "45563"
   },
   {
     "code": "3208202006",
     "district_code": "320820",
-    "name": "Cikadu"
+    "name": "Cikadu",
+    "postal_code": "45563"
   },
   {
     "code": "3208202007",
     "district_code": "320820",
-    "name": "Kertawirama"
+    "name": "Kertawirama",
+    "postal_code": "45563"
   },
   {
     "code": "3208202008",
     "district_code": "320820",
-    "name": "Ciasih"
+    "name": "Ciasih",
+    "postal_code": "45563"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "7203312001",
     "district_code": "720331",
-    "name": "Walandano"
+    "name": "Walandano",
+    "postal_code": "94359"
   },
   {
     "code": "7203312002",
     "district_code": "720331",
-    "name": "Malei"
+    "name": "Malei",
+    "postal_code": "94359"
   },
   {
     "code": "7203312003",
     "district_code": "720331",
-    "name": "Kamonji"
+    "name": "Kamonji",
+    "postal_code": "94359"
   },
   {
     "code": "7203312004",
     "district_code": "720331",
-    "name": "Ketong"
+    "name": "Ketong",
+    "postal_code": "94359"
   },
   {
     "code": "7203312005",
     "district_code": "720331",
-    "name": "Rano"
+    "name": "Rano",
+    "postal_code": "94359"
   },
   {
     "code": "7203312006",
     "district_code": "720331",
-    "name": "Pomolulu"
+    "name": "Pomolulu",
+    "postal_code": "94359"
   },
   {
     "code": "7203312007",
     "district_code": "720331",
-    "name": "Palau"
+    "name": "Palau",
+    "postal_code": "94359"
   },
   {
     "code": "7203312008",
     "district_code": "720331",
-    "name": "Manimbaya"
+    "name": "Manimbaya",
+    "postal_code": "94359"
   }
 ]

@@ -2,76 +2,91 @@
   {
     "code": "1802032001",
     "district_code": "180203",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "34175"
   },
   {
     "code": "1802032002",
     "district_code": "180203",
-    "name": "Sendang Ayu"
+    "name": "Sendang Ayu",
+    "postal_code": "34175"
   },
   {
     "code": "1802032003",
     "district_code": "180203",
-    "name": "Bandar Sari"
+    "name": "Bandar Sari",
+    "postal_code": "34175"
   },
   {
     "code": "1802032004",
     "district_code": "180203",
-    "name": "Surabaya"
+    "name": "Surabaya",
+    "postal_code": "34175"
   },
   {
     "code": "1802032005",
     "district_code": "180203",
-    "name": "Margorejo"
+    "name": "Margorejo",
+    "postal_code": "34175"
   },
   {
     "code": "1802032006",
     "district_code": "180203",
-    "name": "Kota Baru"
+    "name": "Kota Baru",
+    "postal_code": "34175"
   },
   {
     "code": "1802032007",
     "district_code": "180203",
-    "name": "Karang Tanjung"
+    "name": "Karang Tanjung",
+    "postal_code": "34175"
   },
   {
     "code": "1802032008",
     "district_code": "180203",
-    "name": "Kuripan"
+    "name": "Kuripan",
+    "postal_code": "34175"
   },
   {
     "code": "1802032009",
     "district_code": "180203",
-    "name": "Sri Agung"
+    "name": "Sri Agung",
+    "postal_code": "34175"
   },
   {
     "code": "1802032010",
     "district_code": "180203",
-    "name": "Haduyang Ratu"
+    "name": "Haduyang Ratu",
+    "postal_code": "34175"
   },
   {
     "code": "1802032011",
     "district_code": "180203",
-    "name": "Padang Ratu"
+    "name": "Padang Ratu",
+    "postal_code": "34175"
   },
   {
     "code": "1802032018",
     "district_code": "180203",
-    "name": "Karang Sari"
+    "name": "Karang Sari",
+    "postal_code": "34175"
   },
   {
     "code": "1802032019",
     "district_code": "180203",
-    "name": "Mojokerto"
+    "name": "Mojokerto",
+    "postal_code": "34175"
   },
   {
     "code": "1802032020",
     "district_code": "180203",
-    "name": "Sumber Sari"
+    "name": "Sumber Sari",
+    "postal_code": "34175"
   },
   {
     "code": "1802032021",
     "district_code": "180203",
-    "name": "Purworejo"
+    "name": "Purworejo",
+    "postal_code": "34175"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "9401102001",
     "district_code": "940110",
-    "name": "Wanggar Sari"
+    "name": "Wanggar Sari",
+    "postal_code": "98853"
   },
   {
     "code": "9401102002",
     "district_code": "940110",
-    "name": "Wiraska"
+    "name": "Wiraska",
+    "postal_code": "98853"
   },
   {
     "code": "9401102003",
     "district_code": "940110",
-    "name": "Yaro Makmur"
+    "name": "Yaro Makmur",
+    "postal_code": "98853"
   },
   {
     "code": "9401102004",
     "district_code": "940110",
-    "name": "Jaya Mukti"
+    "name": "Jaya Mukti",
+    "postal_code": "98853"
   },
   {
     "code": "9401102005",
     "district_code": "940110",
-    "name": "Wanggar Pantai"
+    "name": "Wanggar Pantai",
+    "postal_code": "98853"
   },
   {
     "code": "9401102006",
     "district_code": "940110",
-    "name": "Ororodo"
+    "name": "Ororodo",
+    "postal_code": "98853"
   },
   {
     "code": "9401102007",
     "district_code": "940110",
-    "name": "Bomopai"
+    "name": "Bomopai",
+    "postal_code": "98853"
   },
   {
     "code": "9401102008",
     "district_code": "940110",
-    "name": "Parauto"
+    "name": "Parauto",
+    "postal_code": "98853"
   }
 ]

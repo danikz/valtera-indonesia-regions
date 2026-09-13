@@ -2,31 +2,37 @@
   {
     "code": "9401072001",
     "district_code": "940107",
-    "name": "Makimi"
+    "name": "Makimi",
+    "postal_code": "98863"
   },
   {
     "code": "9401072002",
     "district_code": "940107",
-    "name": "Nifasi"
+    "name": "Nifasi",
+    "postal_code": "98863"
   },
   {
     "code": "9401072003",
     "district_code": "940107",
-    "name": "Biha"
+    "name": "Biha",
+    "postal_code": "98863"
   },
   {
     "code": "9401072004",
     "district_code": "940107",
-    "name": "Lagari Jaya"
+    "name": "Lagari Jaya",
+    "postal_code": "98863"
   },
   {
     "code": "9401072005",
     "district_code": "940107",
-    "name": "Maidei"
+    "name": "Maidei",
+    "postal_code": "98863"
   },
   {
     "code": "9401072006",
     "district_code": "940107",
-    "name": "Manunggal Jaya"
+    "name": "Manunggal Jaya",
+    "postal_code": "98863"
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "7302041001",
     "district_code": "730204",
-    "name": "Eka Tiro"
+    "name": "Eka Tiro",
+    "postal_code": "92572"
   },
   {
     "code": "7302042002",
     "district_code": "730204",
-    "name": "Dwitiro"
+    "name": "Dwitiro",
+    "postal_code": "92572"
   },
   {
     "code": "7302042003",
     "district_code": "730204",
-    "name": "Tritiro"
+    "name": "Tritiro",
+    "postal_code": "92572"
   },
   {
     "code": "7302042004",
     "district_code": "730204",
-    "name": "Batang"
+    "name": "Batang",
+    "postal_code": "92572"
   },
   {
     "code": "7302042005",
     "district_code": "730204",
-    "name": "Bontotangnga"
+    "name": "Bontotangnga",
+    "postal_code": "92572"
   },
   {
     "code": "7302042006",
     "district_code": "730204",
-    "name": "Caramming"
+    "name": "Caramming",
+    "postal_code": "92572"
   },
   {
     "code": "7302042007",
     "district_code": "730204",
-    "name": "Tamalanrea"
+    "name": "Tamalanrea",
+    "postal_code": "92572"
   },
   {
     "code": "7302042008",
     "district_code": "730204",
-    "name": "Bontobarua"
+    "name": "Bontobarua",
+    "postal_code": "92572"
   },
   {
     "code": "7302042009",
     "district_code": "730204",
-    "name": "Pakubalaho"
+    "name": "Pakubalaho",
+    "postal_code": "92572"
   },
   {
     "code": "7302042010",
     "district_code": "730204",
-    "name": "Bontomarannu"
+    "name": "Bontomarannu",
+    "postal_code": "92572"
   },
   {
     "code": "7302042011",
     "district_code": "730204",
-    "name": "Bontobulaeng"
+    "name": "Bontobulaeng",
+    "postal_code": "92572"
   },
   {
     "code": "7302042012",
     "district_code": "730204",
-    "name": "Buhung Bundang"
+    "name": "Buhung Bundang",
+    "postal_code": "92572"
   },
   {
     "code": "7302042013",
     "district_code": "730204",
-    "name": "Lamanda"
+    "name": "Lamanda",
+    "postal_code": "92572"
   }
 ]

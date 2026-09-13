@@ -2,36 +2,43 @@
   {
     "code": "3403142001",
     "district_code": "340314",
-    "name": "Hargomulyo"
+    "name": "Hargomulyo",
+    "postal_code": "55863"
   },
   {
     "code": "3403142002",
     "district_code": "340314",
-    "name": "Mertelu"
+    "name": "Mertelu",
+    "postal_code": "55863"
   },
   {
     "code": "3403142003",
     "district_code": "340314",
-    "name": "Watugajah"
+    "name": "Watugajah",
+    "postal_code": "55863"
   },
   {
     "code": "3403142004",
     "district_code": "340314",
-    "name": "Sampang"
+    "name": "Sampang",
+    "postal_code": "55863"
   },
   {
     "code": "3403142005",
     "district_code": "340314",
-    "name": "Serut"
+    "name": "Serut",
+    "postal_code": "55863"
   },
   {
     "code": "3403142006",
     "district_code": "340314",
-    "name": "Ngalang"
+    "name": "Ngalang",
+    "postal_code": "55863"
   },
   {
     "code": "3403142007",
     "district_code": "340314",
-    "name": "Tegalrejo"
+    "name": "Tegalrejo",
+    "postal_code": "55863"
   }
 ]

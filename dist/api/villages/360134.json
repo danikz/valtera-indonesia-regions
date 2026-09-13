@@ -2,26 +2,31 @@
   {
     "code": "3601341001",
     "district_code": "360134",
-    "name": "Sukaratu"
+    "name": "Sukaratu",
+    "postal_code": "42217"
   },
   {
     "code": "3601341002",
     "district_code": "360134",
-    "name": "Karaton"
+    "name": "Karaton",
+    "postal_code": "42211"
   },
   {
     "code": "3601341003",
     "district_code": "360134",
-    "name": "Saruni"
+    "name": "Saruni",
+    "postal_code": "42216"
   },
   {
     "code": "3601341004",
     "district_code": "360134",
-    "name": "Pagerbatu"
+    "name": "Pagerbatu",
+    "postal_code": "42215"
   },
   {
     "code": "3601341005",
     "district_code": "360134",
-    "name": "Cilaja"
+    "name": "Cilaja",
+    "postal_code": "42214"
   }
 ]

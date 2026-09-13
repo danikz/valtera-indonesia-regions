@@ -2,31 +2,37 @@
   {
     "code": "3371011003",
     "district_code": "337101",
-    "name": "Rejowinangun Selatan"
+    "name": "Rejowinangun Selatan",
+    "postal_code": "56124"
   },
   {
     "code": "3371011007",
     "district_code": "337101",
-    "name": "Magersari"
+    "name": "Magersari",
+    "postal_code": "56126"
   },
   {
     "code": "3371011008",
     "district_code": "337101",
-    "name": "Jurangombo Utara"
+    "name": "Jurangombo Utara",
+    "postal_code": "56123"
   },
   {
     "code": "3371011009",
     "district_code": "337101",
-    "name": "Jurangombo Selatan"
+    "name": "Jurangombo Selatan",
+    "postal_code": "56123"
   },
   {
     "code": "3371011010",
     "district_code": "337101",
-    "name": "Tidar Utara"
+    "name": "Tidar Utara",
+    "postal_code": "56125"
   },
   {
     "code": "3371011011",
     "district_code": "337101",
-    "name": "Tidar Selatan"
+    "name": "Tidar Selatan",
+    "postal_code": "56125"
   }
 ]

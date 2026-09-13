@@ -2,26 +2,31 @@
   {
     "code": "6172031001",
     "district_code": "617203",
-    "name": "Pajintan"
+    "name": "Pajintan",
+    "postal_code": "79251"
   },
   {
     "code": "6172031002",
     "district_code": "617203",
-    "name": "Nyarumkop"
+    "name": "Nyarumkop",
+    "postal_code": "79251"
   },
   {
     "code": "6172031003",
     "district_code": "617203",
-    "name": "Maya Sopa"
+    "name": "Maya Sopa",
+    "postal_code": "79251"
   },
   {
     "code": "6172031004",
     "district_code": "617203",
-    "name": "Bagak Sahwa"
+    "name": "Bagak Sahwa",
+    "postal_code": "79251"
   },
   {
     "code": "6172031005",
     "district_code": "617203",
-    "name": "Sanggau Kulor"
+    "name": "Sanggau Kulor",
+    "postal_code": "79251"
   }
 ]

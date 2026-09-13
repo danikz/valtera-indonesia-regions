@@ -2,56 +2,67 @@
   {
     "code": "7501162001",
     "district_code": "750116",
-    "name": "Pongongaila"
+    "name": "Pongongaila",
+    "postal_code": "96167"
   },
   {
     "code": "7501162002",
     "district_code": "750116",
-    "name": "Pulubala"
+    "name": "Pulubala",
+    "postal_code": "96168"
   },
   {
     "code": "7501162003",
     "district_code": "750116",
-    "name": "Molamahu"
+    "name": "Molamahu",
+    "postal_code": "96165"
   },
   {
     "code": "7501162004",
     "district_code": "750116",
-    "name": "Bakti"
+    "name": "Bakti",
+    "postal_code": "96162"
   },
   {
     "code": "7501162005",
     "district_code": "750116",
-    "name": "Tridharma"
+    "name": "Tridharma",
+    "postal_code": "96172"
   },
   {
     "code": "7501162006",
     "district_code": "750116",
-    "name": "Molalahu"
+    "name": "Molalahu",
+    "postal_code": "96164"
   },
   {
     "code": "7501162007",
     "district_code": "750116",
-    "name": "Mulyonegoro"
+    "name": "Mulyonegoro",
+    "postal_code": "96166"
   },
   {
     "code": "7501162008",
     "district_code": "750116",
-    "name": "Puncak"
+    "name": "Puncak",
+    "postal_code": "96169"
   },
   {
     "code": "7501162009",
     "district_code": "750116",
-    "name": "Toyidito"
+    "name": "Toyidito",
+    "postal_code": "96171"
   },
   {
     "code": "7501162010",
     "district_code": "750116",
-    "name": "Ayumolingo"
+    "name": "Ayumolingo",
+    "postal_code": "96161"
   },
   {
     "code": "7501162011",
     "district_code": "750116",
-    "name": "Bukit Aren"
+    "name": "Bukit Aren",
+    "postal_code": "96163"
   }
 ]

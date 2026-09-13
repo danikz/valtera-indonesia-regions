@@ -2,31 +2,37 @@
   {
     "code": "1771011001",
     "district_code": "177101",
-    "name": "Pagar Dewa"
+    "name": "Pagar Dewa",
+    "postal_code": "38211"
   },
   {
     "code": "1771011002",
     "district_code": "177101",
-    "name": "Sukarami"
+    "name": "Sukarami",
+    "postal_code": "38216"
   },
   {
     "code": "1771011003",
     "district_code": "177101",
-    "name": "Pekan Sabtu"
+    "name": "Pekan Sabtu",
+    "postal_code": "38213"
   },
   {
     "code": "1771011004",
     "district_code": "177101",
-    "name": "Bumu Ayu"
+    "name": "Bumu Ayu",
+    "postal_code": "38216"
   },
   {
     "code": "1771011005",
     "district_code": "177101",
-    "name": "Betungan"
+    "name": "Betungan",
+    "postal_code": "38214"
   },
   {
     "code": "1771011006",
     "district_code": "177101",
-    "name": "Sumur Dewa"
+    "name": "Sumur Dewa",
+    "postal_code": "38216"
   }
 ]

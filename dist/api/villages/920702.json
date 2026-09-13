@@ -2,26 +2,31 @@
   {
     "code": "9207022001",
     "district_code": "920702",
-    "name": "Wamesa Tengah"
+    "name": "Wamesa Tengah",
+    "postal_code": "98336"
   },
   {
     "code": "9207022002",
     "district_code": "920702",
-    "name": "Yopmeos"
+    "name": "Yopmeos",
+    "postal_code": "98336"
   },
   {
     "code": "9207022004",
     "district_code": "920702",
-    "name": "Sombokoro"
+    "name": "Sombokoro",
+    "postal_code": "98336"
   },
   {
     "code": "9207022007",
     "district_code": "920702",
-    "name": "Windesi"
+    "name": "Windesi",
+    "postal_code": "98336"
   },
   {
     "code": "9207022010",
     "district_code": "920702",
-    "name": "Sandey"
+    "name": "Sandey",
+    "postal_code": "98336"
   }
 ]

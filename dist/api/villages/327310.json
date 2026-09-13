@@ -2,31 +2,37 @@
   {
     "code": "3273101001",
     "district_code": "327310",
-    "name": "Karasak"
+    "name": "Karasak",
+    "postal_code": "40243"
   },
   {
     "code": "3273101002",
     "district_code": "327310",
-    "name": "Nyengseret"
+    "name": "Nyengseret",
+    "postal_code": "40242"
   },
   {
     "code": "3273101003",
     "district_code": "327310",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "40241"
   },
   {
     "code": "3273101004",
     "district_code": "327310",
-    "name": "Panjunan"
+    "name": "Panjunan",
+    "postal_code": "40242"
   },
   {
     "code": "3273101005",
     "district_code": "327310",
-    "name": "Cibadak"
+    "name": "Cibadak",
+    "postal_code": "40241"
   },
   {
     "code": "3273101006",
     "district_code": "327310",
-    "name": "Pelindung Hewan"
+    "name": "Pelindung Hewan",
+    "postal_code": "40243"
   }
 ]

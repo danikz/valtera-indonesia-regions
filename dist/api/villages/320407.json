@@ -2,31 +2,37 @@
   {
     "code": "3204072001",
     "district_code": "320407",
-    "name": "Jatiendah"
+    "name": "Jatiendah",
+    "postal_code": "40616"
   },
   {
     "code": "3204072002",
     "district_code": "320407",
-    "name": "Cilengkrang"
+    "name": "Cilengkrang",
+    "postal_code": "40615"
   },
   {
     "code": "3204072003",
     "district_code": "320407",
-    "name": "Cipanjalu"
+    "name": "Cipanjalu",
+    "postal_code": "40618"
   },
   {
     "code": "3204072004",
     "district_code": "320407",
-    "name": "Melatiwangi"
+    "name": "Melatiwangi",
+    "postal_code": "40618"
   },
   {
     "code": "3204072005",
     "district_code": "320407",
-    "name": "Ciporeat"
+    "name": "Ciporeat",
+    "postal_code": "40617"
   },
   {
     "code": "3204072006",
     "district_code": "320407",
-    "name": "Girimekar"
+    "name": "Girimekar",
+    "postal_code": "40619"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "6172021001",
     "district_code": "617202",
-    "name": "Pasiran"
+    "name": "Pasiran",
+    "postal_code": "79123"
   },
   {
     "code": "6172021002",
     "district_code": "617202",
-    "name": "Melayu"
+    "name": "Melayu",
+    "postal_code": "79122"
   },
   {
     "code": "6172021003",
     "district_code": "617202",
-    "name": "Tengah"
+    "name": "Tengah",
+    "postal_code": "79121"
   },
   {
     "code": "6172021004",
     "district_code": "617202",
-    "name": "Kuala"
+    "name": "Kuala",
+    "postal_code": "79124"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "3202462001",
     "district_code": "320246",
-    "name": "Cimanggu"
+    "name": "Cimanggu",
+    "postal_code": "43178"
   },
   {
     "code": "3202462002",
     "district_code": "320246",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "43178"
   },
   {
     "code": "3202462003",
     "district_code": "320246",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "43178"
   },
   {
     "code": "3202462004",
     "district_code": "320246",
-    "name": "Karangmekar"
+    "name": "Karangmekar",
+    "postal_code": "43178"
   },
   {
     "code": "3202462005",
     "district_code": "320246",
-    "name": "Boregahindah"
+    "name": "Boregahindah",
+    "postal_code": "43178"
   },
   {
     "code": "3202462006",
     "district_code": "320246",
-    "name": "Sukamanah"
+    "name": "Sukamanah",
+    "postal_code": "43178"
   }
 ]

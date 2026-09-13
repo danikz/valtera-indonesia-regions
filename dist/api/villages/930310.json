@@ -2,41 +2,49 @@
   {
     "code": "9303102001",
     "district_code": "930310",
-    "name": "Sien"
+    "name": "Sien",
+    "postal_code": "99853"
   },
   {
     "code": "9303102002",
     "district_code": "930310",
-    "name": "Sahapikya"
+    "name": "Sahapikya",
+    "postal_code": "99853"
   },
   {
     "code": "9303102003",
     "district_code": "930310",
-    "name": "Harapan"
+    "name": "Harapan",
+    "postal_code": "99853"
   },
   {
     "code": "9303102004",
     "district_code": "930310",
-    "name": "Yibin"
+    "name": "Yibin",
+    "postal_code": "99853"
   },
   {
     "code": "9303102005",
     "district_code": "930310",
-    "name": "Mopio"
+    "name": "Mopio",
+    "postal_code": "99853"
   },
   {
     "code": "9303102006",
     "district_code": "930310",
-    "name": "Pies"
+    "name": "Pies",
+    "postal_code": "99854"
   },
   {
     "code": "9303102007",
     "district_code": "930310",
-    "name": "Memes"
+    "name": "Memes",
+    "postal_code": "99854"
   },
   {
     "code": "9303102008",
     "district_code": "930310",
-    "name": "Getiyo"
+    "name": "Getiyo",
+    "postal_code": "99854"
   }
 ]

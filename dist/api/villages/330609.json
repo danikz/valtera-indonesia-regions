@@ -2,136 +2,163 @@
   {
     "code": "3306091009",
     "district_code": "330609",
-    "name": "Bayem"
+    "name": "Bayem",
+    "postal_code": "54215"
   },
   {
     "code": "3306091010",
     "district_code": "330609",
-    "name": "Semawung Kembaran"
+    "name": "Semawung Kembaran",
+    "postal_code": "54212"
   },
   {
     "code": "3306091014",
     "district_code": "330609",
-    "name": "Semawung Daleman"
+    "name": "Semawung Daleman",
+    "postal_code": "54212"
   },
   {
     "code": "3306091015",
     "district_code": "330609",
-    "name": "Bandung"
+    "name": "Bandung",
+    "postal_code": "54211"
   },
   {
     "code": "3306091016",
     "district_code": "330609",
-    "name": "Kutoarjo"
+    "name": "Kutoarjo",
+    "postal_code": "54251"
   },
   {
     "code": "3306091017",
     "district_code": "330609",
-    "name": "Katerban"
+    "name": "Katerban",
+    "postal_code": "54214"
   },
   {
     "code": "3306092001",
     "district_code": "330609",
-    "name": "Kebondalem"
+    "name": "Kebondalem",
+    "postal_code": "54212"
   },
   {
     "code": "3306092002",
     "district_code": "330609",
-    "name": "Tuntungpait"
+    "name": "Tuntungpait",
+    "postal_code": "54212"
   },
   {
     "code": "3306092003",
     "district_code": "330609",
-    "name": "Kiyangkongrejo"
+    "name": "Kiyangkongrejo",
+    "postal_code": "54212"
   },
   {
     "code": "3306092004",
     "district_code": "330609",
-    "name": "Suren"
+    "name": "Suren",
+    "postal_code": "54212"
   },
   {
     "code": "3306092005",
     "district_code": "330609",
-    "name": "Karangwuluh"
+    "name": "Karangwuluh",
+    "postal_code": "54212"
   },
   {
     "code": "3306092006",
     "district_code": "330609",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "54212"
   },
   {
     "code": "3306092007",
     "district_code": "330609",
-    "name": "Kepuh"
+    "name": "Kepuh",
+    "postal_code": "54212"
   },
   {
     "code": "3306092008",
     "district_code": "330609",
-    "name": "Majir"
+    "name": "Majir",
+    "postal_code": "54212"
   },
   {
     "code": "3306092011",
     "district_code": "330609",
-    "name": "Kuwurejo"
+    "name": "Kuwurejo",
+    "postal_code": "54212"
   },
   {
     "code": "3306092012",
     "district_code": "330609",
-    "name": "Pringgowijayan"
+    "name": "Pringgowijayan",
+    "postal_code": "54212"
   },
   {
     "code": "3306092013",
     "district_code": "330609",
-    "name": "Sidarum"
+    "name": "Sidarum",
+    "postal_code": "54212"
   },
   {
     "code": "3306092018",
     "district_code": "330609",
-    "name": "Pacor"
+    "name": "Pacor",
+    "postal_code": "54212"
   },
   {
     "code": "3306092019",
     "district_code": "330609",
-    "name": "Tunggorono"
+    "name": "Tunggorono",
+    "postal_code": "54212"
   },
   {
     "code": "3306092020",
     "district_code": "330609",
-    "name": "Tepus Kulon"
+    "name": "Tepus Kulon",
+    "postal_code": "54212"
   },
   {
     "code": "3306092021",
     "district_code": "330609",
-    "name": "Sokoharjo"
+    "name": "Sokoharjo",
+    "postal_code": "54212"
   },
   {
     "code": "3306092022",
     "district_code": "330609",
-    "name": "Kemadu Lor"
+    "name": "Kemadu Lor",
+    "postal_code": "54212"
   },
   {
     "code": "3306092023",
     "district_code": "330609",
-    "name": "Kaligesing"
+    "name": "Kaligesing",
+    "postal_code": "54212"
   },
   {
     "code": "3306092024",
     "district_code": "330609",
-    "name": "Tepus Wetan"
+    "name": "Tepus Wetan",
+    "postal_code": "54212"
   },
   {
     "code": "3306092025",
     "district_code": "330609",
-    "name": "Wirun"
+    "name": "Wirun",
+    "postal_code": "54212"
   },
   {
     "code": "3306092026",
     "district_code": "330609",
-    "name": "Karangrejo"
+    "name": "Karangrejo",
+    "postal_code": "54212"
   },
   {
     "code": "3306092027",
     "district_code": "330609",
-    "name": "Tursino"
+    "name": "Tursino",
+    "postal_code": "54212"
   }
 ]

@@ -2,56 +2,67 @@
   {
     "code": "1903011001",
     "district_code": "190301",
-    "name": "Toboali"
+    "name": "Toboali",
+    "postal_code": "33783"
   },
   {
     "code": "1903011002",
     "district_code": "190301",
-    "name": "Teladan"
+    "name": "Teladan",
+    "postal_code": "33783"
   },
   {
     "code": "1903011003",
     "district_code": "190301",
-    "name": "Tanjungketapang"
+    "name": "Tanjungketapang",
+    "postal_code": "33783"
   },
   {
     "code": "1903012004",
     "district_code": "190301",
-    "name": "Serdang"
+    "name": "Serdang",
+    "postal_code": "33783"
   },
   {
     "code": "1903012005",
     "district_code": "190301",
-    "name": "Jeriji"
+    "name": "Jeriji",
+    "postal_code": "33783"
   },
   {
     "code": "1903012006",
     "district_code": "190301",
-    "name": "Bikang"
+    "name": "Bikang",
+    "postal_code": "33783"
   },
   {
     "code": "1903012007",
     "district_code": "190301",
-    "name": "Gadung"
+    "name": "Gadung",
+    "postal_code": "33783"
   },
   {
     "code": "1903012008",
     "district_code": "190301",
-    "name": "Rias"
+    "name": "Rias",
+    "postal_code": "33783"
   },
   {
     "code": "1903012010",
     "district_code": "190301",
-    "name": "Kepoh"
+    "name": "Kepoh",
+    "postal_code": "33783"
   },
   {
     "code": "1903012012",
     "district_code": "190301",
-    "name": "Keposang"
+    "name": "Keposang",
+    "postal_code": "33783"
   },
   {
     "code": "1903012013",
     "district_code": "190301",
-    "name": "Rindik"
+    "name": "Rindik",
+    "postal_code": "33783"
   }
 ]

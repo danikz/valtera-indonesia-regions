@@ -2,41 +2,49 @@
   {
     "code": "9106132001",
     "district_code": "910613",
-    "name": "Asur"
+    "name": "Asur",
+    "postal_code": "98552"
   },
   {
     "code": "9106132002",
     "district_code": "910613",
-    "name": "Bosnabraidi"
+    "name": "Bosnabraidi",
+    "postal_code": "98552"
   },
   {
     "code": "9106132003",
     "district_code": "910613",
-    "name": "Wasori"
+    "name": "Wasori",
+    "postal_code": "98552"
   },
   {
     "code": "9106132004",
     "district_code": "910613",
-    "name": "Soor"
+    "name": "Soor",
+    "postal_code": "98552"
   },
   {
     "code": "9106132005",
     "district_code": "910613",
-    "name": "Karmon"
+    "name": "Karmon",
+    "postal_code": "98552"
   },
   {
     "code": "9106132006",
     "district_code": "910613",
-    "name": "Fanindi"
+    "name": "Fanindi",
+    "postal_code": "98552"
   },
   {
     "code": "9106132007",
     "district_code": "910613",
-    "name": "Madirai"
+    "name": "Madirai",
+    "postal_code": "98552"
   },
   {
     "code": "9106132008",
     "district_code": "910613",
-    "name": "Indawi"
+    "name": "Indawi",
+    "postal_code": "98552"
   }
 ]

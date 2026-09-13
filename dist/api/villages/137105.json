@@ -2,31 +2,37 @@
   {
     "code": "1371051001",
     "district_code": "137105",
-    "name": "Bungus Timur"
+    "name": "Bungus Timur",
+    "postal_code": "25237"
   },
   {
     "code": "1371051002",
     "district_code": "137105",
-    "name": "Bungus Barat"
+    "name": "Bungus Barat",
+    "postal_code": "25237"
   },
   {
     "code": "1371051003",
     "district_code": "137105",
-    "name": "Bungus Selatan"
+    "name": "Bungus Selatan",
+    "postal_code": "25237"
   },
   {
     "code": "1371051004",
     "district_code": "137105",
-    "name": "Teluk Kabung Utara"
+    "name": "Teluk Kabung Utara",
+    "postal_code": "25237"
   },
   {
     "code": "1371051005",
     "district_code": "137105",
-    "name": "Teluk Kabung Tengah"
+    "name": "Teluk Kabung Tengah",
+    "postal_code": "25237"
   },
   {
     "code": "1371051006",
     "district_code": "137105",
-    "name": "Teluk Kabung Selatan"
+    "name": "Teluk Kabung Selatan",
+    "postal_code": "25237"
   }
 ]

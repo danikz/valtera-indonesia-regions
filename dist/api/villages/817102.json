@@ -2,71 +2,85 @@
   {
     "code": "8171021010",
     "district_code": "817102",
-    "name": "Pandan Kasturi"
+    "name": "Pandan Kasturi",
+    "postal_code": "97128"
   },
   {
     "code": "8171021011",
     "district_code": "817102",
-    "name": "Rijali"
+    "name": "Rijali",
+    "postal_code": "97123"
   },
   {
     "code": "8171021012",
     "district_code": "817102",
-    "name": "Amantelu"
+    "name": "Amantelu",
+    "postal_code": "97122"
   },
   {
     "code": "8171021013",
     "district_code": "817102",
-    "name": "Karang Panjang"
+    "name": "Karang Panjang",
+    "postal_code": "97121"
   },
   {
     "code": "8171021014",
     "district_code": "817102",
-    "name": "Waihoka"
+    "name": "Waihoka",
+    "postal_code": "97129"
   },
   {
     "code": "8171021015",
     "district_code": "817102",
-    "name": "Batu Meja"
+    "name": "Batu Meja",
+    "postal_code": "97125"
   },
   {
     "code": "8171021016",
     "district_code": "817102",
-    "name": "Batu Gajah"
+    "name": "Batu Gajah",
+    "postal_code": "97127"
   },
   {
     "code": "8171021017",
     "district_code": "817102",
-    "name": "Uritetu"
+    "name": "Uritetu",
+    "postal_code": "97124"
   },
   {
     "code": "8171021018",
     "district_code": "817102",
-    "name": "Honipopu"
+    "name": "Honipopu",
+    "postal_code": "97126"
   },
   {
     "code": "8171021019",
     "district_code": "817102",
-    "name": "Ahusen"
+    "name": "Ahusen",
+    "postal_code": "97127"
   },
   {
     "code": "8171022001",
     "district_code": "817102",
-    "name": "Hative Kecil"
+    "name": "Hative Kecil",
+    "postal_code": "97128"
   },
   {
     "code": "8171022002",
     "district_code": "817102",
-    "name": "Galala"
+    "name": "Galala",
+    "postal_code": "97128"
   },
   {
     "code": "8171022003",
     "district_code": "817102",
-    "name": "Batu Merah"
+    "name": "Batu Merah",
+    "postal_code": "97128"
   },
   {
     "code": "8171022009",
     "district_code": "817102",
-    "name": "Soya"
+    "name": "Soya",
+    "postal_code": "97129"
   }
 ]

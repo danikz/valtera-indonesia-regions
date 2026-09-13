@@ -2,51 +2,61 @@
   {
     "code": "7310081001",
     "district_code": "731008",
-    "name": "Bonto Bonto"
+    "name": "Bonto Bonto",
+    "postal_code": "90654"
   },
   {
     "code": "7310081002",
     "district_code": "731008",
-    "name": "Talaka"
+    "name": "Talaka",
+    "postal_code": "90654"
   },
   {
     "code": "7310081003",
     "district_code": "731008",
-    "name": "Marang"
+    "name": "Marang",
+    "postal_code": "90654"
   },
   {
     "code": "7310081004",
     "district_code": "731008",
-    "name": "Attang Salo"
+    "name": "Attang Salo",
+    "postal_code": "90654"
   },
   {
     "code": "7310082005",
     "district_code": "731008",
-    "name": "Padang Lampe"
+    "name": "Padang Lampe",
+    "postal_code": "90654"
   },
   {
     "code": "7310082006",
     "district_code": "731008",
-    "name": "Tamangapa"
+    "name": "Tamangapa",
+    "postal_code": "90654"
   },
   {
     "code": "7310082007",
     "district_code": "731008",
-    "name": "Pitusunggu"
+    "name": "Pitusunggu",
+    "postal_code": "90654"
   },
   {
     "code": "7310082008",
     "district_code": "731008",
-    "name": "Pitue"
+    "name": "Pitue",
+    "postal_code": "90654"
   },
   {
     "code": "7310082009",
     "district_code": "731008",
-    "name": "Punranga"
+    "name": "Punranga",
+    "postal_code": "90654"
   },
   {
     "code": "7310082010",
     "district_code": "731008",
-    "name": "Alesipitto"
+    "name": "Alesipitto",
+    "postal_code": "90654"
   }
 ]

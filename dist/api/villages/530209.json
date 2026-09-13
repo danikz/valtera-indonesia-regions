@@ -2,46 +2,55 @@
   {
     "code": "5302092001",
     "district_code": "530209",
-    "name": "Lilo"
+    "name": "Lilo",
+    "postal_code": "85574"
   },
   {
     "code": "5302092002",
     "district_code": "530209",
-    "name": "Fotilo"
+    "name": "Fotilo",
+    "postal_code": "85574"
   },
   {
     "code": "5302092003",
     "district_code": "530209",
-    "name": "Nasi"
+    "name": "Nasi",
+    "postal_code": "85574"
   },
   {
     "code": "5302092004",
     "district_code": "530209",
-    "name": "Snok"
+    "name": "Snok",
+    "postal_code": "85574"
   },
   {
     "code": "5302092005",
     "district_code": "530209",
-    "name": "Tumu"
+    "name": "Tumu",
+    "postal_code": "85574"
   },
   {
     "code": "5302092006",
     "district_code": "530209",
-    "name": "Fatu Oni"
+    "name": "Fatu Oni",
+    "postal_code": "85574"
   },
   {
     "code": "5302092007",
     "district_code": "530209",
-    "name": "Sono"
+    "name": "Sono",
+    "postal_code": "85574"
   },
   {
     "code": "5302092009",
     "district_code": "530209",
-    "name": "Tauanas"
+    "name": "Tauanas",
+    "postal_code": "85574"
   },
   {
     "code": "5302092015",
     "district_code": "530209",
-    "name": "Muna"
+    "name": "Muna",
+    "postal_code": "85574"
   }
 ]

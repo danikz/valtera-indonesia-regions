@@ -2,26 +2,31 @@
   {
     "code": "7503182001",
     "district_code": "750318",
-    "name": "Pinogu"
+    "name": "Pinogu",
+    "postal_code": "96561"
   },
   {
     "code": "7503182002",
     "district_code": "750318",
-    "name": "Bangio"
+    "name": "Bangio",
+    "postal_code": "96561"
   },
   {
     "code": "7503182003",
     "district_code": "750318",
-    "name": "Dataran Hijau"
+    "name": "Dataran Hijau",
+    "postal_code": "96561"
   },
   {
     "code": "7503182004",
     "district_code": "750318",
-    "name": "Pinogu Permai"
+    "name": "Pinogu Permai",
+    "postal_code": "96561"
   },
   {
     "code": "7503182005",
     "district_code": "750318",
-    "name": "Tilonggibila"
+    "name": "Tilonggibila",
+    "postal_code": "96561"
   }
 ]

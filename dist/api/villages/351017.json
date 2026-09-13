@@ -2,31 +2,37 @@
   {
     "code": "3510171002",
     "district_code": "351017",
-    "name": "Boyolangu"
+    "name": "Boyolangu",
+    "postal_code": "68424"
   },
   {
     "code": "3510171003",
     "district_code": "351017",
-    "name": "Mojopanggung"
+    "name": "Mojopanggung",
+    "postal_code": "68425"
   },
   {
     "code": "3510171004",
     "district_code": "351017",
-    "name": "Penataban"
+    "name": "Penataban",
+    "postal_code": "68422"
   },
   {
     "code": "3510171005",
     "district_code": "351017",
-    "name": "Giri"
+    "name": "Giri",
+    "postal_code": "68423"
   },
   {
     "code": "3510172001",
     "district_code": "351017",
-    "name": "Jambesari"
+    "name": "Jambesari",
+    "postal_code": "68425"
   },
   {
     "code": "3510172006",
     "district_code": "351017",
-    "name": "Grogol"
+    "name": "Grogol",
+    "postal_code": "68425"
   }
 ]

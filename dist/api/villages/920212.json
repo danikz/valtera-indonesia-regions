@@ -2,51 +2,61 @@
   {
     "code": "9202121001",
     "district_code": "920212",
-    "name": "Manokwari Barat"
+    "name": "Manokwari Barat",
+    "postal_code": "98312"
   },
   {
     "code": "9202121002",
     "district_code": "920212",
-    "name": "Sanggeng"
+    "name": "Sanggeng",
+    "postal_code": "98312"
   },
   {
     "code": "9202121003",
     "district_code": "920212",
-    "name": "Wosi"
+    "name": "Wosi",
+    "postal_code": "98312"
   },
   {
     "code": "9202121004",
     "district_code": "920212",
-    "name": "Amban"
+    "name": "Amban",
+    "postal_code": "98312"
   },
   {
     "code": "9202121005",
     "district_code": "920212",
-    "name": "Padarni"
+    "name": "Padarni",
+    "postal_code": "98312"
   },
   {
     "code": "9202121006",
     "district_code": "920212",
-    "name": "Manokwari Timur"
+    "name": "Manokwari Timur",
+    "postal_code": "98312"
   },
   {
     "code": "9202122007",
     "district_code": "920212",
-    "name": "Udopi"
+    "name": "Udopi",
+    "postal_code": "98312"
   },
   {
     "code": "9202122008",
     "district_code": "920212",
-    "name": "Ingramui"
+    "name": "Ingramui",
+    "postal_code": "98312"
   },
   {
     "code": "9202122009",
     "district_code": "920212",
-    "name": "Soribo"
+    "name": "Soribo",
+    "postal_code": "98312"
   },
   {
     "code": "9202122010",
     "district_code": "920212",
-    "name": "Tanah Merah Indah"
+    "name": "Tanah Merah Indah",
+    "postal_code": "98312"
   }
 ]

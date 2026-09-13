@@ -2,36 +2,43 @@
   {
     "code": "3403052001",
     "district_code": "340305",
-    "name": "Sodo"
+    "name": "Sodo",
+    "postal_code": "55871"
   },
   {
     "code": "3403052002",
     "district_code": "340305",
-    "name": "Pampang"
+    "name": "Pampang",
+    "postal_code": "55871"
   },
   {
     "code": "3403052003",
     "district_code": "340305",
-    "name": "Grogol"
+    "name": "Grogol",
+    "postal_code": "55871"
   },
   {
     "code": "3403052004",
     "district_code": "340305",
-    "name": "Karangduwet"
+    "name": "Karangduwet",
+    "postal_code": "55871"
   },
   {
     "code": "3403052005",
     "district_code": "340305",
-    "name": "Karangasem"
+    "name": "Karangasem",
+    "postal_code": "55871"
   },
   {
     "code": "3403052006",
     "district_code": "340305",
-    "name": "Mulusan"
+    "name": "Mulusan",
+    "postal_code": "55871"
   },
   {
     "code": "3403052007",
     "district_code": "340305",
-    "name": "Giring"
+    "name": "Giring",
+    "postal_code": "55871"
   }
 ]

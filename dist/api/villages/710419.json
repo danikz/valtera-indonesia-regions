@@ -2,46 +2,55 @@
   {
     "code": "7104192001",
     "district_code": "710419",
-    "name": "Sambuara Satu"
+    "name": "Sambuara Satu",
+    "postal_code": "95887"
   },
   {
     "code": "7104192002",
     "district_code": "710419",
-    "name": "Sambuara"
+    "name": "Sambuara",
+    "postal_code": "95887"
   },
   {
     "code": "7104192003",
     "district_code": "710419",
-    "name": "Ensem"
+    "name": "Ensem",
+    "postal_code": "95887"
   },
   {
     "code": "7104192004",
     "district_code": "710419",
-    "name": "Ensem I"
+    "name": "Ensem I",
+    "postal_code": "95887"
   },
   {
     "code": "7104192005",
     "district_code": "710419",
-    "name": "Batumbalango"
+    "name": "Batumbalango",
+    "postal_code": "95887"
   },
   {
     "code": "7104192006",
     "district_code": "710419",
-    "name": "Ambia"
+    "name": "Ambia",
+    "postal_code": "95887"
   },
   {
     "code": "7104192007",
     "district_code": "710419",
-    "name": "Ambia Utara"
+    "name": "Ambia Utara",
+    "postal_code": "95887"
   },
   {
     "code": "7104192008",
     "district_code": "710419",
-    "name": "K u m a"
+    "name": "K u m a",
+    "postal_code": "95887"
   },
   {
     "code": "7104192009",
     "district_code": "710419",
-    "name": "Kuma Selatan"
+    "name": "Kuma Selatan",
+    "postal_code": "95887"
   }
 ]

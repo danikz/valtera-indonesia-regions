@@ -2,51 +2,61 @@
   {
     "code": "9404091001",
     "district_code": "940409",
-    "name": "Kuala Kencana"
+    "name": "Kuala Kencana",
+    "postal_code": "99969"
   },
   {
     "code": "9404091002",
     "district_code": "940409",
-    "name": "Karang Senang"
+    "name": "Karang Senang",
+    "postal_code": "99968"
   },
   {
     "code": "9404092003",
     "district_code": "940409",
-    "name": "Utikini Baru"
+    "name": "Utikini Baru",
+    "postal_code": "99968"
   },
   {
     "code": "9404092004",
     "district_code": "940409",
-    "name": "Bhintuka"
+    "name": "Bhintuka",
+    "postal_code": "99968"
   },
   {
     "code": "9404092005",
     "district_code": "940409",
-    "name": "Tioka Kencana"
+    "name": "Tioka Kencana",
+    "postal_code": "99968"
   },
   {
     "code": "9404092006",
     "district_code": "940409",
-    "name": "Mimika Gunung"
+    "name": "Mimika Gunung",
+    "postal_code": "99969"
   },
   {
     "code": "9404092007",
     "district_code": "940409",
-    "name": "Karya Kencana"
+    "name": "Karya Kencana",
+    "postal_code": "99969"
   },
   {
     "code": "9404092008",
     "district_code": "940409",
-    "name": "Utikini Dua"
+    "name": "Utikini Dua",
+    "postal_code": "99969"
   },
   {
     "code": "9404092009",
     "district_code": "940409",
-    "name": "Utikini Tiga"
+    "name": "Utikini Tiga",
+    "postal_code": "99969"
   },
   {
     "code": "9404092010",
     "district_code": "940409",
-    "name": "Jimbi"
+    "name": "Jimbi",
+    "postal_code": "99969"
   }
 ]

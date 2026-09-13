@@ -2,26 +2,31 @@
   {
     "code": "3276071001",
     "district_code": "327607",
-    "name": "Cipayung"
+    "name": "Cipayung",
+    "postal_code": "16437"
   },
   {
     "code": "3276071002",
     "district_code": "327607",
-    "name": "Cipayung Jaya"
+    "name": "Cipayung Jaya",
+    "postal_code": "16437"
   },
   {
     "code": "3276071003",
     "district_code": "327607",
-    "name": "Ratu Jaya"
+    "name": "Ratu Jaya",
+    "postal_code": "16439"
   },
   {
     "code": "3276071004",
     "district_code": "327607",
-    "name": "Bojong Pondok Terong"
+    "name": "Bojong Pondok Terong",
+    "postal_code": "16436"
   },
   {
     "code": "3276071005",
     "district_code": "327607",
-    "name": "Pondok Jaya"
+    "name": "Pondok Jaya",
+    "postal_code": "16438"
   }
 ]

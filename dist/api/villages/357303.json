@@ -2,61 +2,73 @@
   {
     "code": "3573031001",
     "district_code": "357303",
-    "name": "Kotalama"
+    "name": "Kotalama",
+    "postal_code": "65136"
   },
   {
     "code": "3573031002",
     "district_code": "357303",
-    "name": "Mergosono"
+    "name": "Mergosono",
+    "postal_code": "65134"
   },
   {
     "code": "3573031003",
     "district_code": "357303",
-    "name": "Bumiayu"
+    "name": "Bumiayu",
+    "postal_code": "65135"
   },
   {
     "code": "3573031004",
     "district_code": "357303",
-    "name": "Wonokoyo"
+    "name": "Wonokoyo",
+    "postal_code": "65135"
   },
   {
     "code": "3573031005",
     "district_code": "357303",
-    "name": "Buring"
+    "name": "Buring",
+    "postal_code": "65136"
   },
   {
     "code": "3573031006",
     "district_code": "357303",
-    "name": "Kedungkandang"
+    "name": "Kedungkandang",
+    "postal_code": "65137"
   },
   {
     "code": "3573031007",
     "district_code": "357303",
-    "name": "Lesanpuro"
+    "name": "Lesanpuro",
+    "postal_code": "65138"
   },
   {
     "code": "3573031008",
     "district_code": "357303",
-    "name": "Sawojajar"
+    "name": "Sawojajar",
+    "postal_code": "65139"
   },
   {
     "code": "3573031009",
     "district_code": "357303",
-    "name": "Madyopuro"
+    "name": "Madyopuro",
+    "postal_code": "65139"
   },
   {
     "code": "3573031010",
     "district_code": "357303",
-    "name": "Cemorokandang"
+    "name": "Cemorokandang",
+    "postal_code": "65138"
   },
   {
     "code": "3573031011",
     "district_code": "357303",
-    "name": "Arjowinangun"
+    "name": "Arjowinangun",
+    "postal_code": "65132"
   },
   {
     "code": "3573031012",
     "district_code": "357303",
-    "name": "Tlogowaru"
+    "name": "Tlogowaru",
+    "postal_code": "65133"
   }
 ]

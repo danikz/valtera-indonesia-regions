@@ -2,56 +2,67 @@
   {
     "code": "3203011006",
     "district_code": "320301",
-    "name": "Pamoyanan"
+    "name": "Pamoyanan",
+    "postal_code": "43211"
   },
   {
     "code": "3203011007",
     "district_code": "320301",
-    "name": "Sawahgede"
+    "name": "Sawahgede",
+    "postal_code": "43212"
   },
   {
     "code": "3203011008",
     "district_code": "320301",
-    "name": "Bojongherang"
+    "name": "Bojongherang",
+    "postal_code": "43216"
   },
   {
     "code": "3203011009",
     "district_code": "320301",
-    "name": "Sayang"
+    "name": "Sayang",
+    "postal_code": "43213"
   },
   {
     "code": "3203011010",
     "district_code": "320301",
-    "name": "Solokpandan"
+    "name": "Solokpandan",
+    "postal_code": "43214"
   },
   {
     "code": "3203011011",
     "district_code": "320301",
-    "name": "Muka"
+    "name": "Muka",
+    "postal_code": "43215"
   },
   {
     "code": "3203012001",
     "district_code": "320301",
-    "name": "Babakan Karet"
+    "name": "Babakan Karet",
+    "postal_code": "43211"
   },
   {
     "code": "3203012002",
     "district_code": "320301",
-    "name": "Nagrak"
+    "name": "Nagrak",
+    "postal_code": "43215"
   },
   {
     "code": "3203012003",
     "district_code": "320301",
-    "name": "Sukamaju"
+    "name": "Sukamaju",
+    "postal_code": "43211"
   },
   {
     "code": "3203012004",
     "district_code": "320301",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "43211"
   },
   {
     "code": "3203012005",
     "district_code": "320301",
-    "name": "Limbangansari"
+    "name": "Limbangansari",
+    "postal_code": "43211"
   }
 ]

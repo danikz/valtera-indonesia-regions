@@ -2,41 +2,49 @@
   {
     "code": "9504282001",
     "district_code": "950428",
-    "name": "Onggokme"
+    "name": "Onggokme",
+    "postal_code": "99441"
   },
   {
     "code": "9504282002",
     "district_code": "950428",
-    "name": "Kubur"
+    "name": "Kubur",
+    "postal_code": "99441"
   },
   {
     "code": "9504282003",
     "district_code": "950428",
-    "name": "Weu"
+    "name": "Weu",
+    "postal_code": "99441"
   },
   {
     "code": "9504282004",
     "district_code": "950428",
-    "name": "Liwese"
+    "name": "Liwese",
+    "postal_code": "99441"
   },
   {
     "code": "9504282005",
     "district_code": "950428",
-    "name": "Wenduri"
+    "name": "Wenduri",
+    "postal_code": "99441"
   },
   {
     "code": "9504282006",
     "district_code": "950428",
-    "name": "Tabo Wanimbo"
+    "name": "Tabo Wanimbo",
+    "postal_code": "99441"
   },
   {
     "code": "9504282007",
     "district_code": "950428",
-    "name": "Lenggup"
+    "name": "Lenggup",
+    "postal_code": "99441"
   },
   {
     "code": "9504282008",
     "district_code": "950428",
-    "name": "Tinger"
+    "name": "Tinger",
+    "postal_code": "99441"
   }
 ]

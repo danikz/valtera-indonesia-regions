@@ -2,41 +2,49 @@
   {
     "code": "1603222001",
     "district_code": "160322",
-    "name": "Gedung Buruk"
+    "name": "Gedung Buruk",
+    "postal_code": "31178"
   },
   {
     "code": "1603222002",
     "district_code": "160322",
-    "name": "Arisan Musi"
+    "name": "Arisan Musi",
+    "postal_code": "31178"
   },
   {
     "code": "1603222003",
     "district_code": "160322",
-    "name": "Harapan Mulia"
+    "name": "Harapan Mulia",
+    "postal_code": "31178"
   },
   {
     "code": "1603222004",
     "district_code": "160322",
-    "name": "Mulia Abadi"
+    "name": "Mulia Abadi",
+    "postal_code": "31178"
   },
   {
     "code": "1603222005",
     "district_code": "160322",
-    "name": "Arisan Musi Timur"
+    "name": "Arisan Musi Timur",
+    "postal_code": "31178"
   },
   {
     "code": "1603222006",
     "district_code": "160322",
-    "name": "Patra Tani"
+    "name": "Patra Tani",
+    "postal_code": "31178"
   },
   {
     "code": "1603222007",
     "district_code": "160322",
-    "name": "Tanjung Baru"
+    "name": "Tanjung Baru",
+    "postal_code": "31178"
   },
   {
     "code": "1603222008",
     "district_code": "160322",
-    "name": "Kayu Ara Batu"
+    "name": "Kayu Ara Batu",
+    "postal_code": "31178"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "code": "9209272001",
     "district_code": "920927",
-    "name": "Sasui"
+    "name": "Sasui",
+    "postal_code": ""
   },
   {
     "code": "9209272002",
     "district_code": "920927",
-    "name": "Bondopi"
+    "name": "Bondopi",
+    "postal_code": ""
   },
   {
     "code": "9209272003",
     "district_code": "920927",
-    "name": "Manggaew"
+    "name": "Manggaew",
+    "postal_code": ""
   },
   {
     "code": "9209272004",
     "district_code": "920927",
-    "name": "Saurabon"
+    "name": "Saurabon",
+    "postal_code": ""
   },
   {
     "code": "9209272005",
     "district_code": "920927",
-    "name": "Wasawmontem"
+    "name": "Wasawmontem",
+    "postal_code": ""
   }
 ]

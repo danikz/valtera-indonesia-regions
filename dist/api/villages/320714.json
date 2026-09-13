@@ -2,31 +2,37 @@
   {
     "code": "3207142001",
     "district_code": "320714",
-    "name": "Sukadana"
+    "name": "Sukadana",
+    "postal_code": "46272"
   },
   {
     "code": "3207142002",
     "district_code": "320714",
-    "name": "Salakaria"
+    "name": "Salakaria",
+    "postal_code": "46272"
   },
   {
     "code": "3207142003",
     "district_code": "320714",
-    "name": "Margaharja"
+    "name": "Margaharja",
+    "postal_code": "46272"
   },
   {
     "code": "3207142004",
     "district_code": "320714",
-    "name": "Margajaya"
+    "name": "Margajaya",
+    "postal_code": "46272"
   },
   {
     "code": "3207142005",
     "district_code": "320714",
-    "name": "Bunter"
+    "name": "Bunter",
+    "postal_code": "46272"
   },
   {
     "code": "3207142006",
     "district_code": "320714",
-    "name": "Ciparigi"
+    "name": "Ciparigi",
+    "postal_code": "46272"
   }
 ]

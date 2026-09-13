@@ -2,41 +2,49 @@
   {
     "code": "6108032001",
     "district_code": "610803",
-    "name": "Sepahat"
+    "name": "Sepahat",
+    "postal_code": "79362"
   },
   {
     "code": "6108032002",
     "district_code": "610803",
-    "name": "Lamoanak"
+    "name": "Lamoanak",
+    "postal_code": "79362"
   },
   {
     "code": "6108032003",
     "district_code": "610803",
-    "name": "Bengkawe"
+    "name": "Bengkawe",
+    "postal_code": "79362"
   },
   {
     "code": "6108032004",
     "district_code": "610803",
-    "name": "Tempoak"
+    "name": "Tempoak",
+    "postal_code": "79362"
   },
   {
     "code": "6108032005",
     "district_code": "610803",
-    "name": "Re'es"
+    "name": "Re'es",
+    "postal_code": "79362"
   },
   {
     "code": "6108032006",
     "district_code": "610803",
-    "name": "Raba"
+    "name": "Raba",
+    "postal_code": "79362"
   },
   {
     "code": "6108032007",
     "district_code": "610803",
-    "name": "Nangka"
+    "name": "Nangka",
+    "postal_code": "79362"
   },
   {
     "code": "6108032008",
     "district_code": "610803",
-    "name": "Menjalin"
+    "name": "Menjalin",
+    "postal_code": "79362"
   }
 ]

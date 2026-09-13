@@ -2,41 +2,49 @@
   {
     "code": "3512112001",
     "district_code": "351211",
-    "name": "Kayumas"
+    "name": "Kayumas",
+    "postal_code": "68371"
   },
   {
     "code": "3512112002",
     "district_code": "351211",
-    "name": "Bayeman"
+    "name": "Bayeman",
+    "postal_code": "68371"
   },
   {
     "code": "3512112003",
     "district_code": "351211",
-    "name": "Ketowan"
+    "name": "Ketowan",
+    "postal_code": "68371"
   },
   {
     "code": "3512112004",
     "district_code": "351211",
-    "name": "Kedungdowo"
+    "name": "Kedungdowo",
+    "postal_code": "68371"
   },
   {
     "code": "3512112005",
     "district_code": "351211",
-    "name": "Jatisari"
+    "name": "Jatisari",
+    "postal_code": "68371"
   },
   {
     "code": "3512112006",
     "district_code": "351211",
-    "name": "Curah Tatal"
+    "name": "Curah Tatal",
+    "postal_code": "68371"
   },
   {
     "code": "3512112007",
     "district_code": "351211",
-    "name": "Arjasa"
+    "name": "Arjasa",
+    "postal_code": "68371"
   },
   {
     "code": "3512112008",
     "district_code": "351211",
-    "name": "Lamongan"
+    "name": "Lamongan",
+    "postal_code": "68371"
   }
 ]

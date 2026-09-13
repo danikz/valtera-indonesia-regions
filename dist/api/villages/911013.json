@@ -2,41 +2,49 @@
   {
     "code": "9110132001",
     "district_code": "911013",
-    "name": "Holmafen"
+    "name": "Holmafen",
+    "postal_code": "99377"
   },
   {
     "code": "9110132002",
     "district_code": "911013",
-    "name": "Sewan"
+    "name": "Sewan",
+    "postal_code": "99377"
   },
   {
     "code": "9110132003",
     "district_code": "911013",
-    "name": "Waskey/ Tanjung Batu"
+    "name": "Waskey/ Tanjung Batu",
+    "postal_code": "99377"
   },
   {
     "code": "9110132004",
     "district_code": "911013",
-    "name": "Ebram"
+    "name": "Ebram",
+    "postal_code": "99377"
   },
   {
     "code": "9110132005",
     "district_code": "911013",
-    "name": "Binyer"
+    "name": "Binyer",
+    "postal_code": "99377"
   },
   {
     "code": "9110132006",
     "district_code": "911013",
-    "name": "Bagaiserwar Dua"
+    "name": "Bagaiserwar Dua",
+    "postal_code": "99377"
   },
   {
     "code": "9110132007",
     "district_code": "911013",
-    "name": "Waskey"
+    "name": "Waskey",
+    "postal_code": "99377"
   },
   {
     "code": "9110132008",
     "district_code": "911013",
-    "name": "Tanjung Batu"
+    "name": "Tanjung Batu",
+    "postal_code": "99377"
   }
 ]

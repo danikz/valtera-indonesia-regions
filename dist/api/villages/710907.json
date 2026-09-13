@@ -2,26 +2,31 @@
   {
     "code": "7109072001",
     "district_code": "710907",
-    "name": "Buang"
+    "name": "Buang",
+    "postal_code": "95864"
   },
   {
     "code": "7109072002",
     "district_code": "710907",
-    "name": "Karungo"
+    "name": "Karungo",
+    "postal_code": "95864"
   },
   {
     "code": "7109072003",
     "district_code": "710907",
-    "name": "Lamanggo"
+    "name": "Lamanggo",
+    "postal_code": "95864"
   },
   {
     "code": "7109072004",
     "district_code": "710907",
-    "name": "Dalinsaheng"
+    "name": "Dalinsaheng",
+    "postal_code": "95864"
   },
   {
     "code": "7109072005",
     "district_code": "710907",
-    "name": "Tope"
+    "name": "Tope",
+    "postal_code": "95864"
   }
 ]

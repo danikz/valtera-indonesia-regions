@@ -2,51 +2,61 @@
   {
     "code": "1221162001",
     "district_code": "122116",
-    "name": "Gading"
+    "name": "Gading",
+    "postal_code": "22755"
   },
   {
     "code": "1221162002",
     "district_code": "122116",
-    "name": "Huta Ruhom"
+    "name": "Huta Ruhom",
+    "postal_code": "22755"
   },
   {
     "code": "1221162003",
     "district_code": "122116",
-    "name": "Aek Siala"
+    "name": "Aek Siala",
+    "postal_code": "22755"
   },
   {
     "code": "1221162004",
     "district_code": "122116",
-    "name": "Bire"
+    "name": "Bire",
+    "postal_code": "22755"
   },
   {
     "code": "1221162005",
     "district_code": "122116",
-    "name": "Sibontar"
+    "name": "Sibontar",
+    "postal_code": "22755"
   },
   {
     "code": "1221162006",
     "district_code": "122116",
-    "name": "Paran Napa Jae"
+    "name": "Paran Napa Jae",
+    "postal_code": "22755"
   },
   {
     "code": "1221162007",
     "district_code": "122116",
-    "name": "Paran Napa Dolok"
+    "name": "Paran Napa Dolok",
+    "postal_code": "22755"
   },
   {
     "code": "1221162008",
     "district_code": "122116",
-    "name": "Batusundung"
+    "name": "Batusundung",
+    "postal_code": "22755"
   },
   {
     "code": "1221162009",
     "district_code": "122116",
-    "name": "Sidongdong"
+    "name": "Sidongdong",
+    "postal_code": "22755"
   },
   {
     "code": "1221162010",
     "district_code": "122116",
-    "name": "Sisalean"
+    "name": "Sisalean",
+    "postal_code": "22755"
   }
 ]

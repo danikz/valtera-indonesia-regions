@@ -2,56 +2,67 @@
   {
     "code": "3215112001",
     "district_code": "321511",
-    "name": "Pejaten"
+    "name": "Pejaten",
+    "postal_code": "41356"
   },
   {
     "code": "3215112002",
     "district_code": "321511",
-    "name": "Cibuaya"
+    "name": "Cibuaya",
+    "postal_code": "41356"
   },
   {
     "code": "3215112003",
     "district_code": "321511",
-    "name": "Kertarahayu"
+    "name": "Kertarahayu",
+    "postal_code": "41356"
   },
   {
     "code": "3215112004",
     "district_code": "321511",
-    "name": "Sukasari"
+    "name": "Sukasari",
+    "postal_code": "41356"
   },
   {
     "code": "3215112005",
     "district_code": "321511",
-    "name": "Kedungjeruk"
+    "name": "Kedungjeruk",
+    "postal_code": "41356"
   },
   {
     "code": "3215112006",
     "district_code": "321511",
-    "name": "Kalidungjaya"
+    "name": "Kalidungjaya",
+    "postal_code": "41356"
   },
   {
     "code": "3215112007",
     "district_code": "321511",
-    "name": "Sedari"
+    "name": "Sedari",
+    "postal_code": "41356"
   },
   {
     "code": "3215112008",
     "district_code": "321511",
-    "name": "Cemarajaya"
+    "name": "Cemarajaya",
+    "postal_code": "41356"
   },
   {
     "code": "3215112009",
     "district_code": "321511",
-    "name": "Jayamulya"
+    "name": "Jayamulya",
+    "postal_code": "41356"
   },
   {
     "code": "3215112010",
     "district_code": "321511",
-    "name": "Kedungjaya"
+    "name": "Kedungjaya",
+    "postal_code": "41356"
   },
   {
     "code": "3215112011",
     "district_code": "321511",
-    "name": "Gebangjaya"
+    "name": "Gebangjaya",
+    "postal_code": "41356"
   }
 ]

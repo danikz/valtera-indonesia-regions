@@ -2,31 +2,37 @@
   {
     "code": "1804051016",
     "district_code": "180405",
-    "name": "Tugu Sari"
+    "name": "Tugu Sari",
+    "postal_code": "34870"
   },
   {
     "code": "1804052001",
     "district_code": "180405",
-    "name": "Simpang Sari"
+    "name": "Simpang Sari",
+    "postal_code": "34870"
   },
   {
     "code": "1804052010",
     "district_code": "180405",
-    "name": "Sukajaya"
+    "name": "Sukajaya",
+    "postal_code": "34870"
   },
   {
     "code": "1804052011",
     "district_code": "180405",
-    "name": "Sindang Pagar"
+    "name": "Sindang Pagar",
+    "postal_code": "34870"
   },
   {
     "code": "1804052012",
     "district_code": "180405",
-    "name": "Sukapura"
+    "name": "Sukapura",
+    "postal_code": "34870"
   },
   {
     "code": "1804052013",
     "district_code": "180405",
-    "name": "Way Petai"
+    "name": "Way Petai",
+    "postal_code": "34870"
   }
 ]

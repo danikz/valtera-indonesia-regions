@@ -2,71 +2,85 @@
   {
     "code": "7371031001",
     "district_code": "737103",
-    "name": "Maricaya"
+    "name": "Maricaya",
+    "postal_code": "90142"
   },
   {
     "code": "7371031002",
     "district_code": "737103",
-    "name": "Bara Baraya"
+    "name": "Bara Baraya",
+    "postal_code": "90143"
   },
   {
     "code": "7371031003",
     "district_code": "737103",
-    "name": "Maradekaya"
+    "name": "Maradekaya",
+    "postal_code": "90141"
   },
   {
     "code": "7371031004",
     "district_code": "737103",
-    "name": "Lariangbangi"
+    "name": "Lariangbangi",
+    "postal_code": "90141"
   },
   {
     "code": "7371031005",
     "district_code": "737103",
-    "name": "Maccini"
+    "name": "Maccini",
+    "postal_code": "90144"
   },
   {
     "code": "7371031006",
     "district_code": "737103",
-    "name": "Maricaya Baru"
+    "name": "Maricaya Baru",
+    "postal_code": "90142"
   },
   {
     "code": "7371031007",
     "district_code": "737103",
-    "name": "Bara Baraya Timur"
+    "name": "Bara Baraya Timur",
+    "postal_code": "90143"
   },
   {
     "code": "7371031008",
     "district_code": "737103",
-    "name": "Bara Baraya Selatan"
+    "name": "Bara Baraya Selatan",
+    "postal_code": "90143"
   },
   {
     "code": "7371031009",
     "district_code": "737103",
-    "name": "Maradekaya Selatan"
+    "name": "Maradekaya Selatan",
+    "postal_code": "90141"
   },
   {
     "code": "7371031010",
     "district_code": "737103",
-    "name": "Barana"
+    "name": "Barana",
+    "postal_code": "90145"
   },
   {
     "code": "7371031011",
     "district_code": "737103",
-    "name": "Maccini Parang"
+    "name": "Maccini Parang",
+    "postal_code": "90144"
   },
   {
     "code": "7371031012",
     "district_code": "737103",
-    "name": "Maccini Gusung"
+    "name": "Maccini Gusung",
+    "postal_code": "90144"
   },
   {
     "code": "7371031013",
     "district_code": "737103",
-    "name": "Maradekaya Utara"
+    "name": "Maradekaya Utara",
+    "postal_code": "90141"
   },
   {
     "code": "7371031014",
     "district_code": "737103",
-    "name": "Bara Baraya Utara"
+    "name": "Bara Baraya Utara",
+    "postal_code": "90143"
   }
 ]

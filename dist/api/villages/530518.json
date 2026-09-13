@@ -2,36 +2,43 @@
   {
     "code": "5305182001",
     "district_code": "530518",
-    "name": "Tribur"
+    "name": "Tribur",
+    "postal_code": "85861"
   },
   {
     "code": "5305182002",
     "district_code": "530518",
-    "name": "Wakapsir"
+    "name": "Wakapsir",
+    "postal_code": "85861"
   },
   {
     "code": "5305182003",
     "district_code": "530518",
-    "name": "Manatang"
+    "name": "Manatang",
+    "postal_code": "85861"
   },
   {
     "code": "5305182004",
     "district_code": "530518",
-    "name": "Orgen"
+    "name": "Orgen",
+    "postal_code": "85861"
   },
   {
     "code": "5305182005",
     "district_code": "530518",
-    "name": "Wakapsir Timur"
+    "name": "Wakapsir Timur",
+    "postal_code": "85861"
   },
   {
     "code": "5305182006",
     "district_code": "530518",
-    "name": "Kuifana"
+    "name": "Kuifana",
+    "postal_code": "85861"
   },
   {
     "code": "5305182007",
     "district_code": "530518",
-    "name": "Margeta"
+    "name": "Margeta",
+    "postal_code": "85861"
   }
 ]

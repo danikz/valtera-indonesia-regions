@@ -2,56 +2,67 @@
   {
     "code": "3205232001",
     "district_code": "320523",
-    "name": "Banjarwangi"
+    "name": "Banjarwangi",
+    "postal_code": "44172"
   },
   {
     "code": "3205232002",
     "district_code": "320523",
-    "name": "Talagajaya"
+    "name": "Talagajaya",
+    "postal_code": "44172"
   },
   {
     "code": "3205232003",
     "district_code": "320523",
-    "name": "Padahurip"
+    "name": "Padahurip",
+    "postal_code": "44172"
   },
   {
     "code": "3205232004",
     "district_code": "320523",
-    "name": "Kadongdong"
+    "name": "Kadongdong",
+    "postal_code": "44172"
   },
   {
     "code": "3205232005",
     "district_code": "320523",
-    "name": "Talagasari"
+    "name": "Talagasari",
+    "postal_code": "44172"
   },
   {
     "code": "3205232006",
     "district_code": "320523",
-    "name": "Jayabakti"
+    "name": "Jayabakti",
+    "postal_code": "44172"
   },
   {
     "code": "3205232007",
     "district_code": "320523",
-    "name": "Mulyajaya"
+    "name": "Mulyajaya",
+    "postal_code": "44172"
   },
   {
     "code": "3205232008",
     "district_code": "320523",
-    "name": "Dangiang"
+    "name": "Dangiang",
+    "postal_code": "44172"
   },
   {
     "code": "3205232009",
     "district_code": "320523",
-    "name": "Tanjungjaya"
+    "name": "Tanjungjaya",
+    "postal_code": "44172"
   },
   {
     "code": "3205232010",
     "district_code": "320523",
-    "name": "Bojong"
+    "name": "Bojong",
+    "postal_code": "44172"
   },
   {
     "code": "3205232011",
     "district_code": "320523",
-    "name": "Wangunjaya"
+    "name": "Wangunjaya",
+    "postal_code": "44172"
   }
 ]

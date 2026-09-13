@@ -2,51 +2,61 @@
   {
     "code": "1109052001",
     "district_code": "110905",
-    "name": "Babussalam"
+    "name": "Babussalam",
+    "postal_code": "23890"
   },
   {
     "code": "1109052002",
     "district_code": "110905",
-    "name": "Muara Aman"
+    "name": "Muara Aman",
+    "postal_code": "23890"
   },
   {
     "code": "1109052003",
     "district_code": "110905",
-    "name": "Gunung Putih"
+    "name": "Gunung Putih",
+    "postal_code": "23890"
   },
   {
     "code": "1109052004",
     "district_code": "110905",
-    "name": "Lugu Sebahak"
+    "name": "Lugu Sebahak",
+    "postal_code": "23890"
   },
   {
     "code": "1109052005",
     "district_code": "110905",
-    "name": "Kuala Bakti"
+    "name": "Kuala Bakti",
+    "postal_code": "23890"
   },
   {
     "code": "1109052006",
     "district_code": "110905",
-    "name": "Bulu Hadik"
+    "name": "Bulu Hadik",
+    "postal_code": "23890"
   },
   {
     "code": "1109052007",
     "district_code": "110905",
-    "name": "Sambai"
+    "name": "Sambai",
+    "postal_code": "23890"
   },
   {
     "code": "1109052008",
     "district_code": "110905",
-    "name": "Luan Balu"
+    "name": "Luan Balu",
+    "postal_code": "23890"
   },
   {
     "code": "1109052009",
     "district_code": "110905",
-    "name": "Tanjung Raya"
+    "name": "Tanjung Raya",
+    "postal_code": "23890"
   },
   {
     "code": "1109052010",
     "district_code": "110905",
-    "name": "Kuala Baru"
+    "name": "Kuala Baru",
+    "postal_code": "23890"
   }
 ]

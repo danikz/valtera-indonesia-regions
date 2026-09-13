@@ -2,41 +2,49 @@
   {
     "code": "1707122001",
     "district_code": "170712",
-    "name": "Ketenong I"
+    "name": "Ketenong I",
+    "postal_code": "39269"
   },
   {
     "code": "1707122002",
     "district_code": "170712",
-    "name": "Ketenong II"
+    "name": "Ketenong II",
+    "postal_code": "39269"
   },
   {
     "code": "1707122003",
     "district_code": "170712",
-    "name": "Ketenong Jaya"
+    "name": "Ketenong Jaya",
+    "postal_code": "39269"
   },
   {
     "code": "1707122004",
     "district_code": "170712",
-    "name": "Tambang Saweak"
+    "name": "Tambang Saweak",
+    "postal_code": "39269"
   },
   {
     "code": "1707122005",
     "district_code": "170712",
-    "name": "Air Kopras"
+    "name": "Air Kopras",
+    "postal_code": "39269"
   },
   {
     "code": "1707122006",
     "district_code": "170712",
-    "name": "Bioa Putiak"
+    "name": "Bioa Putiak",
+    "postal_code": "39269"
   },
   {
     "code": "1707122007",
     "district_code": "170712",
-    "name": "Sebelat"
+    "name": "Sebelat",
+    "postal_code": "39269"
   },
   {
     "code": "1707122008",
     "district_code": "170712",
-    "name": "Sungai Lisai"
+    "name": "Sungai Lisai",
+    "postal_code": "39269"
   }
 ]

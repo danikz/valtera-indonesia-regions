@@ -2,16 +2,19 @@
   {
     "code": "3404072001",
     "district_code": "340407",
-    "name": "Caturtunggal"
+    "name": "Caturtunggal",
+    "postal_code": "55281"
   },
   {
     "code": "3404072002",
     "district_code": "340407",
-    "name": "Maguwoharjo"
+    "name": "Maguwoharjo",
+    "postal_code": "55282"
   },
   {
     "code": "3404072003",
     "district_code": "340407",
-    "name": "Condongcatur"
+    "name": "Condongcatur",
+    "postal_code": "55283"
   }
 ]

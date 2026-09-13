@@ -2,46 +2,55 @@
   {
     "code": "7326031004",
     "district_code": "732603",
-    "name": "Nanggala Sanpiak Salu"
+    "name": "Nanggala Sanpiak Salu",
+    "postal_code": "91856"
   },
   {
     "code": "7326032001",
     "district_code": "732603",
-    "name": "Nanggala"
+    "name": "Nanggala",
+    "postal_code": "91856"
   },
   {
     "code": "7326032002",
     "district_code": "732603",
-    "name": "Tandung Nanggala"
+    "name": "Tandung Nanggala",
+    "postal_code": "91856"
   },
   {
     "code": "7326032003",
     "district_code": "732603",
-    "name": "Lili'kira'"
+    "name": "Lili'kira'",
+    "postal_code": "91856"
   },
   {
     "code": "7326032005",
     "district_code": "732603",
-    "name": "Karre Limbong"
+    "name": "Karre Limbong",
+    "postal_code": "91856"
   },
   {
     "code": "7326032006",
     "district_code": "732603",
-    "name": "Rante"
+    "name": "Rante",
+    "postal_code": "91856"
   },
   {
     "code": "7326032007",
     "district_code": "732603",
-    "name": "Basokan"
+    "name": "Basokan",
+    "postal_code": "91856"
   },
   {
     "code": "7326032008",
     "district_code": "732603",
-    "name": "Nanna' Nanggala"
+    "name": "Nanna' Nanggala",
+    "postal_code": "91856"
   },
   {
     "code": "7326032009",
     "district_code": "732603",
-    "name": "Karre Pananian"
+    "name": "Karre Pananian",
+    "postal_code": "91856"
   }
 ]

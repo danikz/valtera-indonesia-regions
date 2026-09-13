@@ -2,26 +2,31 @@
   {
     "code": "3404062001",
     "district_code": "340406",
-    "name": "Sinduadi"
+    "name": "Sinduadi",
+    "postal_code": "55284"
   },
   {
     "code": "3404062002",
     "district_code": "340406",
-    "name": "Sendangadi"
+    "name": "Sendangadi",
+    "postal_code": "55285"
   },
   {
     "code": "3404062003",
     "district_code": "340406",
-    "name": "Tlogoadi"
+    "name": "Tlogoadi",
+    "postal_code": "55286"
   },
   {
     "code": "3404062004",
     "district_code": "340406",
-    "name": "Tirtoadi"
+    "name": "Tirtoadi",
+    "postal_code": "55287"
   },
   {
     "code": "3404062005",
     "district_code": "340406",
-    "name": "Sumberadi"
+    "name": "Sumberadi",
+    "postal_code": "55288"
   }
 ]

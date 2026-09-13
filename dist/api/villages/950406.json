@@ -2,46 +2,55 @@
   {
     "code": "9504062001",
     "district_code": "950406",
-    "name": "Wurineri"
+    "name": "Wurineri",
+    "postal_code": "99036"
   },
   {
     "code": "9504062002",
     "district_code": "950406",
-    "name": "Pokegi"
+    "name": "Pokegi",
+    "postal_code": "99416"
   },
   {
     "code": "9504062003",
     "district_code": "950406",
-    "name": "Arombok"
+    "name": "Arombok",
+    "postal_code": "99036"
   },
   {
     "code": "9504062004",
     "district_code": "950406",
-    "name": "Enanagi"
+    "name": "Enanagi",
+    "postal_code": "99036"
   },
   {
     "code": "9504062005",
     "district_code": "950406",
-    "name": "Pindak"
+    "name": "Pindak",
+    "postal_code": "99416"
   },
   {
     "code": "9504062006",
     "district_code": "950406",
-    "name": "Gilopaga"
+    "name": "Gilopaga",
+    "postal_code": "99416"
   },
   {
     "code": "9504062007",
     "district_code": "950406",
-    "name": "Keribaga"
+    "name": "Keribaga",
+    "postal_code": "99416"
   },
   {
     "code": "9504062008",
     "district_code": "950406",
-    "name": "Wona"
+    "name": "Wona",
+    "postal_code": "99416"
   },
   {
     "code": "9504062009",
     "district_code": "950406",
-    "name": "Numbuboton"
+    "name": "Numbuboton",
+    "postal_code": "99416"
   }
 ]

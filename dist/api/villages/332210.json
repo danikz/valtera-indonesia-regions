@@ -2,51 +2,61 @@
   {
     "code": "3322101001",
     "district_code": "332210",
-    "name": "Ngampin"
+    "name": "Ngampin",
+    "postal_code": "50614"
   },
   {
     "code": "3322101002",
     "district_code": "332210",
-    "name": "Pojoksari"
+    "name": "Pojoksari",
+    "postal_code": "50614"
   },
   {
     "code": "3322101004",
     "district_code": "332210",
-    "name": "Tambakboyo"
+    "name": "Tambakboyo",
+    "postal_code": "50612"
   },
   {
     "code": "3322101005",
     "district_code": "332210",
-    "name": "Lodoyong"
+    "name": "Lodoyong",
+    "postal_code": "50611"
   },
   {
     "code": "3322101006",
     "district_code": "332210",
-    "name": "Kupang"
+    "name": "Kupang",
+    "postal_code": "50612"
   },
   {
     "code": "3322101007",
     "district_code": "332210",
-    "name": "Kranggan"
+    "name": "Kranggan",
+    "postal_code": "50613"
   },
   {
     "code": "3322101008",
     "district_code": "332210",
-    "name": "Panjang"
+    "name": "Panjang",
+    "postal_code": "50614"
   },
   {
     "code": "3322101010",
     "district_code": "332210",
-    "name": "Baran"
+    "name": "Baran",
+    "postal_code": "50614"
   },
   {
     "code": "3322102003",
     "district_code": "332210",
-    "name": "Bejalen"
+    "name": "Bejalen",
+    "postal_code": "50614"
   },
   {
     "code": "3322102009",
     "district_code": "332210",
-    "name": "Pasekan"
+    "name": "Pasekan",
+    "postal_code": "50614"
   }
 ]

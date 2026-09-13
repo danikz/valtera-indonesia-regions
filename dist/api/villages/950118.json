@@ -2,41 +2,49 @@
   {
     "code": "9501182001",
     "district_code": "950118",
-    "name": "Tailarek"
+    "name": "Tailarek",
+    "postal_code": "99555"
   },
   {
     "code": "9501182002",
     "district_code": "950118",
-    "name": "Senogolik"
+    "name": "Senogolik",
+    "postal_code": "99555"
   },
   {
     "code": "9501182003",
     "district_code": "950118",
-    "name": "Bokiem"
+    "name": "Bokiem",
+    "postal_code": "99555"
   },
   {
     "code": "9501182004",
     "district_code": "950118",
-    "name": "Iyora"
+    "name": "Iyora",
+    "postal_code": "99555"
   },
   {
     "code": "9501182005",
     "district_code": "950118",
-    "name": "Budliem"
+    "name": "Budliem",
+    "postal_code": "99555"
   },
   {
     "code": "9501182006",
     "district_code": "950118",
-    "name": "Yoman Weya"
+    "name": "Yoman Weya",
+    "postal_code": "99555"
   },
   {
     "code": "9501182007",
     "district_code": "950118",
-    "name": "Huluaima"
+    "name": "Huluaima",
+    "postal_code": "99555"
   },
   {
     "code": "9501182008",
     "district_code": "950118",
-    "name": "Entagekokma"
+    "name": "Entagekokma",
+    "postal_code": "99555"
   }
 ]

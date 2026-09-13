@@ -2,51 +2,61 @@
   {
     "code": "5302042001",
     "district_code": "530204",
-    "name": "Billa"
+    "name": "Billa",
+    "postal_code": "85572"
   },
   {
     "code": "5302042002",
     "district_code": "530204",
-    "name": "Oelet"
+    "name": "Oelet",
+    "postal_code": "85572"
   },
   {
     "code": "5302042004",
     "district_code": "530204",
-    "name": "Pisan"
+    "name": "Pisan",
+    "postal_code": "85572"
   },
   {
     "code": "5302042005",
     "district_code": "530204",
-    "name": "Mauleum"
+    "name": "Mauleum",
+    "postal_code": "85572"
   },
   {
     "code": "5302042007",
     "district_code": "530204",
-    "name": "Nifukiu"
+    "name": "Nifukiu",
+    "postal_code": "85572"
   },
   {
     "code": "5302042008",
     "district_code": "530204",
-    "name": "Mnelaanen"
+    "name": "Mnelaanen",
+    "postal_code": "85572"
   },
   {
     "code": "5302042009",
     "district_code": "530204",
-    "name": "Teluk"
+    "name": "Teluk",
+    "postal_code": "85572"
   },
   {
     "code": "5302042012",
     "district_code": "530204",
-    "name": "Oe'Ekam"
+    "name": "Oe'Ekam",
+    "postal_code": "85572"
   },
   {
     "code": "5302042016",
     "district_code": "530204",
-    "name": "Sini"
+    "name": "Sini",
+    "postal_code": "85572"
   },
   {
     "code": "5302042017",
     "district_code": "530204",
-    "name": "Tliu"
+    "name": "Tliu",
+    "postal_code": "85572"
   }
 ]

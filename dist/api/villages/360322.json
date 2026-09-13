@@ -2,56 +2,67 @@
   {
     "code": "3603221004",
     "district_code": "360322",
-    "name": "Medang"
+    "name": "Medang",
+    "postal_code": "15334"
   },
   {
     "code": "3603222002",
     "district_code": "360322",
-    "name": "Cicalengka"
+    "name": "Cicalengka",
+    "postal_code": "15336"
   },
   {
     "code": "3603222003",
     "district_code": "360322",
-    "name": "Pagedangan"
+    "name": "Pagedangan",
+    "postal_code": "15339"
   },
   {
     "code": "3603222005",
     "district_code": "360322",
-    "name": "Cijantra"
+    "name": "Cijantra",
+    "postal_code": "15335"
   },
   {
     "code": "3603222006",
     "district_code": "360322",
-    "name": "Lengkong Kulon"
+    "name": "Lengkong Kulon",
+    "postal_code": "15331"
   },
   {
     "code": "3603222007",
     "district_code": "360322",
-    "name": "Situ Gadung"
+    "name": "Situ Gadung",
+    "postal_code": "15338"
   },
   {
     "code": "3603222008",
     "district_code": "360322",
-    "name": "Jatake"
+    "name": "Jatake",
+    "postal_code": "15330"
   },
   {
     "code": "3603222009",
     "district_code": "360322",
-    "name": "Cihuni"
+    "name": "Cihuni",
+    "postal_code": "15332"
   },
   {
     "code": "3603222010",
     "district_code": "360322",
-    "name": "Kadu Sirung"
+    "name": "Kadu Sirung",
+    "postal_code": "15337"
   },
   {
     "code": "3603222011",
     "district_code": "360322",
-    "name": "Malang Nengah"
+    "name": "Malang Nengah",
+    "postal_code": "15330"
   },
   {
     "code": "3603222012",
     "district_code": "360322",
-    "name": "Karang Tengah"
+    "name": "Karang Tengah",
+    "postal_code": "15157"
   }
 ]

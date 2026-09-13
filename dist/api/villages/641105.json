@@ -2,66 +2,79 @@
   {
     "code": "6411052001",
     "district_code": "641105",
-    "name": "Delang Kerohong"
+    "name": "Delang Kerohong",
+    "postal_code": "75768"
   },
   {
     "code": "6411052002",
     "district_code": "641105",
-    "name": "Long Pakaq"
+    "name": "Long Pakaq",
+    "postal_code": "75768"
   },
   {
     "code": "6411052003",
     "district_code": "641105",
-    "name": "Long Lunuk"
+    "name": "Long Lunuk",
+    "postal_code": "75768"
   },
   {
     "code": "6411052004",
     "district_code": "641105",
-    "name": "Long Isun"
+    "name": "Long Isun",
+    "postal_code": "75768"
   },
   {
     "code": "6411052005",
     "district_code": "641105",
-    "name": "Naha Aru"
+    "name": "Naha Aru",
+    "postal_code": "75768"
   },
   {
     "code": "6411052006",
     "district_code": "641105",
-    "name": "Datah Naha"
+    "name": "Datah Naha",
+    "postal_code": "75768"
   },
   {
     "code": "6411052007",
     "district_code": "641105",
-    "name": "Lirung Ubing"
+    "name": "Lirung Ubing",
+    "postal_code": "75768"
   },
   {
     "code": "6411052008",
     "district_code": "641105",
-    "name": "Long Pahangai I"
+    "name": "Long Pahangai I",
+    "postal_code": "75768"
   },
   {
     "code": "6411052009",
     "district_code": "641105",
-    "name": "Long Pahangai II"
+    "name": "Long Pahangai II",
+    "postal_code": "75768"
   },
   {
     "code": "6411052010",
     "district_code": "641105",
-    "name": "Long Tuyoq"
+    "name": "Long Tuyoq",
+    "postal_code": "75768"
   },
   {
     "code": "6411052011",
     "district_code": "641105",
-    "name": "Liu Mulang"
+    "name": "Liu Mulang",
+    "postal_code": "75768"
   },
   {
     "code": "6411052012",
     "district_code": "641105",
-    "name": "Long Pakaq Baru"
+    "name": "Long Pakaq Baru",
+    "postal_code": "75768"
   },
   {
     "code": "6411052013",
     "district_code": "641105",
-    "name": "Long Lunuk Baru"
+    "name": "Long Lunuk Baru",
+    "postal_code": "75768"
   }
 ]

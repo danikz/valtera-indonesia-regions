@@ -2,41 +2,49 @@
   {
     "code": "3512032001",
     "district_code": "351203",
-    "name": "Cemara"
+    "name": "Cemara",
+    "postal_code": "68354"
   },
   {
     "code": "3512032002",
     "district_code": "351203",
-    "name": "Mojodungkul"
+    "name": "Mojodungkul",
+    "postal_code": "68354"
   },
   {
     "code": "3512032003",
     "district_code": "351203",
-    "name": "Gunung Malang"
+    "name": "Gunung Malang",
+    "postal_code": "68354"
   },
   {
     "code": "3512032004",
     "district_code": "351203",
-    "name": "Gunung Putri"
+    "name": "Gunung Putri",
+    "postal_code": "68354"
   },
   {
     "code": "3512032005",
     "district_code": "351203",
-    "name": "Suboh"
+    "name": "Suboh",
+    "postal_code": "68354"
   },
   {
     "code": "3512032006",
     "district_code": "351203",
-    "name": "Dawuan"
+    "name": "Dawuan",
+    "postal_code": "68354"
   },
   {
     "code": "3512032007",
     "district_code": "351203",
-    "name": "Buduan"
+    "name": "Buduan",
+    "postal_code": "68354"
   },
   {
     "code": "3512032008",
     "district_code": "351203",
-    "name": "Ketah"
+    "name": "Ketah",
+    "postal_code": "68354"
   }
 ]

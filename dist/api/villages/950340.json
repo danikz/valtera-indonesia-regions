@@ -2,31 +2,37 @@
   {
     "code": "9503402001",
     "district_code": "950340",
-    "name": "Bomela"
+    "name": "Bomela",
+    "postal_code": "99731"
   },
   {
     "code": "9503402002",
     "district_code": "950340",
-    "name": "Yalmabi"
+    "name": "Yalmabi",
+    "postal_code": "99731"
   },
   {
     "code": "9503402003",
     "district_code": "950340",
-    "name": "Kitikni"
+    "name": "Kitikni",
+    "postal_code": "99731"
   },
   {
     "code": "9503402004",
     "district_code": "950340",
-    "name": "Sombat"
+    "name": "Sombat",
+    "postal_code": "99731"
   },
   {
     "code": "9503402005",
     "district_code": "950340",
-    "name": "Kubialat"
+    "name": "Kubialat",
+    "postal_code": "99731"
   },
   {
     "code": "9503402006",
     "district_code": "950340",
-    "name": "Palamdua"
+    "name": "Palamdua",
+    "postal_code": "99731"
   }
 ]

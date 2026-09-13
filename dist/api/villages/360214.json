@@ -2,81 +2,97 @@
   {
     "code": "3602141002",
     "district_code": "360214",
-    "name": "Rangkasbitung Barat"
+    "name": "Rangkasbitung Barat",
+    "postal_code": "42312"
   },
   {
     "code": "3602141006",
     "district_code": "360214",
-    "name": "Cijoro Lebak"
+    "name": "Cijoro Lebak",
+    "postal_code": "42317"
   },
   {
     "code": "3602141007",
     "district_code": "360214",
-    "name": "Muara Ciujung Barat"
+    "name": "Muara Ciujung Barat",
+    "postal_code": "42311"
   },
   {
     "code": "3602141008",
     "district_code": "360214",
-    "name": "Cijoro Pasir"
+    "name": "Cijoro Pasir",
+    "postal_code": "42316"
   },
   {
     "code": "3602141012",
     "district_code": "360214",
-    "name": "Muara Ciujung Timur"
+    "name": "Muara Ciujung Timur",
+    "postal_code": "42314"
   },
   {
     "code": "3602142001",
     "district_code": "360214",
-    "name": "Pasirtanjung"
+    "name": "Pasirtanjung",
+    "postal_code": "42312"
   },
   {
     "code": "3602142009",
     "district_code": "360214",
-    "name": "Citeras"
+    "name": "Citeras",
+    "postal_code": "42312"
   },
   {
     "code": "3602142010",
     "district_code": "360214",
-    "name": "Nameng"
+    "name": "Nameng",
+    "postal_code": "42312"
   },
   {
     "code": "3602142011",
     "district_code": "360214",
-    "name": "Kolelet Wetan"
+    "name": "Kolelet Wetan",
+    "postal_code": "42312"
   },
   {
     "code": "3602142013",
     "district_code": "360214",
-    "name": "Jatimulya"
+    "name": "Jatimulya",
+    "postal_code": "42315"
   },
   {
     "code": "3602142014",
     "district_code": "360214",
-    "name": "Mekarsari"
+    "name": "Mekarsari",
+    "postal_code": "42312"
   },
   {
     "code": "3602142016",
     "district_code": "360214",
-    "name": "Pabuaran"
+    "name": "Pabuaran",
+    "postal_code": "42312"
   },
   {
     "code": "3602142017",
     "district_code": "360214",
-    "name": "Rangkasbitung Timur"
+    "name": "Rangkasbitung Timur",
+    "postal_code": "42313"
   },
   {
     "code": "3602142019",
     "district_code": "360214",
-    "name": "Sukamanah"
+    "name": "Sukamanah",
+    "postal_code": "42312"
   },
   {
     "code": "3602142021",
     "district_code": "360214",
-    "name": "Cimangeunteung"
+    "name": "Cimangeunteung",
+    "postal_code": "42312"
   },
   {
     "code": "3602142023",
     "district_code": "360214",
-    "name": "Narimbang Mulia"
+    "name": "Narimbang Mulia",
+    "postal_code": "42319"
   }
 ]

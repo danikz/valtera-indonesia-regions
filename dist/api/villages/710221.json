@@ -2,51 +2,61 @@
   {
     "code": "7102211001",
     "district_code": "710221",
-    "name": "Talikuran"
+    "name": "Talikuran",
+    "postal_code": "95699"
   },
   {
     "code": "7102211002",
     "district_code": "710221",
-    "name": "Talikuran Utara"
+    "name": "Talikuran Utara",
+    "postal_code": "95699"
   },
   {
     "code": "7102211003",
     "district_code": "710221",
-    "name": "Talikuran Barat"
+    "name": "Talikuran Barat",
+    "postal_code": "95699"
   },
   {
     "code": "7102211004",
     "district_code": "710221",
-    "name": "Uner"
+    "name": "Uner",
+    "postal_code": "95699"
   },
   {
     "code": "7102212005",
     "district_code": "710221",
-    "name": "Kiawa Satu"
+    "name": "Kiawa Satu",
+    "postal_code": "95699"
   },
   {
     "code": "7102212006",
     "district_code": "710221",
-    "name": "Kiawa Satu Utara"
+    "name": "Kiawa Satu Utara",
+    "postal_code": "95699"
   },
   {
     "code": "7102212007",
     "district_code": "710221",
-    "name": "Kiawa Satu Barat"
+    "name": "Kiawa Satu Barat",
+    "postal_code": "95699"
   },
   {
     "code": "7102212008",
     "district_code": "710221",
-    "name": "Kiawa Dua"
+    "name": "Kiawa Dua",
+    "postal_code": "95699"
   },
   {
     "code": "7102212009",
     "district_code": "710221",
-    "name": "Kiawa Dua Timur"
+    "name": "Kiawa Dua Timur",
+    "postal_code": "95699"
   },
   {
     "code": "7102212010",
     "district_code": "710221",
-    "name": "Kiawa Dua Barat"
+    "name": "Kiawa Dua Barat",
+    "postal_code": "95699"
   }
 ]

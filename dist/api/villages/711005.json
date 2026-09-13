@@ -2,51 +2,61 @@
   {
     "code": "7110052001",
     "district_code": "711005",
-    "name": "Moyongkota"
+    "name": "Moyongkota",
+    "postal_code": "95781"
   },
   {
     "code": "7110052002",
     "district_code": "711005",
-    "name": "Bangunan Wuwuk"
+    "name": "Bangunan Wuwuk",
+    "postal_code": "95781"
   },
   {
     "code": "7110052003",
     "district_code": "711005",
-    "name": "Bangkudai Barat"
+    "name": "Bangkudai Barat",
+    "postal_code": "95781"
   },
   {
     "code": "7110052004",
     "district_code": "711005",
-    "name": "Bongkudai"
+    "name": "Bongkudai",
+    "postal_code": "95781"
   },
   {
     "code": "7110052005",
     "district_code": "711005",
-    "name": "Moyongkota Baru"
+    "name": "Moyongkota Baru",
+    "postal_code": "95781"
   },
   {
     "code": "7110052006",
     "district_code": "711005",
-    "name": "Moonow"
+    "name": "Moonow",
+    "postal_code": "95781"
   },
   {
     "code": "7110052007",
     "district_code": "711005",
-    "name": "Inaton"
+    "name": "Inaton",
+    "postal_code": "95781"
   },
   {
     "code": "7110052008",
     "district_code": "711005",
-    "name": "Bangunan Wuwuk Timur"
+    "name": "Bangunan Wuwuk Timur",
+    "postal_code": "95781"
   },
   {
     "code": "7110052009",
     "district_code": "711005",
-    "name": "Pinonobatuan"
+    "name": "Pinonobatuan",
+    "postal_code": "95781"
   },
   {
     "code": "7110052010",
     "district_code": "711005",
-    "name": "Tangaton"
+    "name": "Tangaton",
+    "postal_code": "95781"
   }
 ]

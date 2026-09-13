@@ -2,36 +2,43 @@
   {
     "code": "7372031001",
     "district_code": "737203",
-    "name": "Lakessi"
+    "name": "Lakessi",
+    "postal_code": "91133"
   },
   {
     "code": "7372031002",
     "district_code": "737203",
-    "name": "Ujung Baru"
+    "name": "Ujung Baru",
+    "postal_code": "91131"
   },
   {
     "code": "7372031003",
     "district_code": "737203",
-    "name": "Watang Soreang"
+    "name": "Watang Soreang",
+    "postal_code": "91132"
   },
   {
     "code": "7372031004",
     "district_code": "737203",
-    "name": "Kampung Pisang"
+    "name": "Kampung Pisang",
+    "postal_code": "91131"
   },
   {
     "code": "7372031005",
     "district_code": "737203",
-    "name": "Ujung Lare"
+    "name": "Ujung Lare",
+    "postal_code": "91131"
   },
   {
     "code": "7372031006",
     "district_code": "737203",
-    "name": "Bukit Indah"
+    "name": "Bukit Indah",
+    "postal_code": "91131"
   },
   {
     "code": "7372031007",
     "district_code": "737203",
-    "name": "Bukit Harapan"
+    "name": "Bukit Harapan",
+    "postal_code": "91131"
   }
 ]

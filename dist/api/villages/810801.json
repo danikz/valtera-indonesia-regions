@@ -2,41 +2,49 @@
   {
     "code": "8108011001",
     "district_code": "810801",
-    "name": "Tiakur"
+    "name": "Tiakur",
+    "postal_code": "97442"
   },
   {
     "code": "8108012001",
     "district_code": "810801",
-    "name": "Klis"
+    "name": "Klis",
+    "postal_code": "97442"
   },
   {
     "code": "8108012002",
     "district_code": "810801",
-    "name": "Patti"
+    "name": "Patti",
+    "postal_code": "97442"
   },
   {
     "code": "8108012003",
     "district_code": "810801",
-    "name": "Wakarleli"
+    "name": "Wakarleli",
+    "postal_code": "97442"
   },
   {
     "code": "8108012004",
     "district_code": "810801",
-    "name": "Kaiwatu"
+    "name": "Kaiwatu",
+    "postal_code": "97442"
   },
   {
     "code": "8108012005",
     "district_code": "810801",
-    "name": "Werwaru"
+    "name": "Werwaru",
+    "postal_code": "97442"
   },
   {
     "code": "8108012006",
     "district_code": "810801",
-    "name": "Tounwawan"
+    "name": "Tounwawan",
+    "postal_code": "97442"
   },
   {
     "code": "8108012007",
     "district_code": "810801",
-    "name": "Moain"
+    "name": "Moain",
+    "postal_code": "97442"
   }
 ]

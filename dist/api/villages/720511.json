@@ -2,36 +2,43 @@
   {
     "code": "7205112001",
     "district_code": "720511",
-    "name": "Bodi"
+    "name": "Bodi",
+    "postal_code": "94574"
   },
   {
     "code": "7205112002",
     "district_code": "720511",
-    "name": "Tayokan"
+    "name": "Tayokan",
+    "postal_code": "94574"
   },
   {
     "code": "7205112003",
     "district_code": "720511",
-    "name": "Harmoni"
+    "name": "Harmoni",
+    "postal_code": "94574"
   },
   {
     "code": "7205112004",
     "district_code": "720511",
-    "name": "Lunguto"
+    "name": "Lunguto",
+    "postal_code": "94574"
   },
   {
     "code": "7205112005",
     "district_code": "720511",
-    "name": "Timbulon"
+    "name": "Timbulon",
+    "postal_code": "94574"
   },
   {
     "code": "7205112006",
     "district_code": "720511",
-    "name": "Oyak"
+    "name": "Oyak",
+    "postal_code": "94574"
   },
   {
     "code": "7205112007",
     "district_code": "720511",
-    "name": "Hulubalang"
+    "name": "Hulubalang",
+    "postal_code": "94574"
   }
 ]

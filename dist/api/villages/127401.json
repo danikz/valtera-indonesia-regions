@@ -2,31 +2,37 @@
   {
     "code": "1274011001",
     "district_code": "127401",
-    "name": "Tanjung Balai Kota I"
+    "name": "Tanjung Balai Kota I",
+    "postal_code": "21311"
   },
   {
     "code": "1274011002",
     "district_code": "127401",
-    "name": "Tanjung Balai Kota II"
+    "name": "Tanjung Balai Kota II",
+    "postal_code": "21312"
   },
   {
     "code": "1274011003",
     "district_code": "127401",
-    "name": "Perwira"
+    "name": "Perwira",
+    "postal_code": "21313"
   },
   {
     "code": "1274011004",
     "district_code": "127401",
-    "name": "Karya"
+    "name": "Karya",
+    "postal_code": "21314"
   },
   {
     "code": "1274011005",
     "district_code": "127401",
-    "name": "Pantai Burung"
+    "name": "Pantai Burung",
+    "postal_code": "21316"
   },
   {
     "code": "1274011006",
     "district_code": "127401",
-    "name": "Indra Sakti"
+    "name": "Indra Sakti",
+    "postal_code": "21315"
   }
 ]

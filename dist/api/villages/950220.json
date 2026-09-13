@@ -2,21 +2,25 @@
   {
     "code": "9502202001",
     "district_code": "950220",
-    "name": "Okelwel"
+    "name": "Okelwel",
+    "postal_code": "99424"
   },
   {
     "code": "9502202002",
     "district_code": "950220",
-    "name": "Kotyobakon"
+    "name": "Kotyobakon",
+    "postal_code": "99424"
   },
   {
     "code": "9502202003",
     "district_code": "950220",
-    "name": "Okteneng"
+    "name": "Okteneng",
+    "postal_code": "99424"
   },
   {
     "code": "9502202004",
     "district_code": "950220",
-    "name": "Tengnong"
+    "name": "Tengnong",
+    "postal_code": "99424"
   }
 ]

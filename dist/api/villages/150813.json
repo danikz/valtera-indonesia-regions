@@ -2,21 +2,25 @@
   {
     "code": "1508131001",
     "district_code": "150813",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "37215"
   },
   {
     "code": "1508131002",
     "district_code": "150813",
-    "name": "Cadika"
+    "name": "Cadika",
+    "postal_code": "37215"
   },
   {
     "code": "1508132003",
     "district_code": "150813",
-    "name": "Sungai Mengkuang"
+    "name": "Sungai Mengkuang",
+    "postal_code": "37215"
   },
   {
     "code": "1508132004",
     "district_code": "150813",
-    "name": "Sungai Buluh"
+    "name": "Sungai Buluh",
+    "postal_code": "37215"
   }
 ]

@@ -2,66 +2,79 @@
   {
     "code": "1208211009",
     "district_code": "120821",
-    "name": "Kerasaan I"
+    "name": "Kerasaan I",
+    "postal_code": "21186"
   },
   {
     "code": "1208211010",
     "district_code": "120821",
-    "name": "Pematang Bandar"
+    "name": "Pematang Bandar",
+    "postal_code": "21186"
   },
   {
     "code": "1208212001",
     "district_code": "120821",
-    "name": "Purwosari"
+    "name": "Purwosari",
+    "postal_code": "21186"
   },
   {
     "code": "1208212002",
     "district_code": "120821",
-    "name": "Talun Madear"
+    "name": "Talun Madear",
+    "postal_code": "21186"
   },
   {
     "code": "1208212003",
     "district_code": "120821",
-    "name": "Mariah Bandar"
+    "name": "Mariah Bandar",
+    "postal_code": "21186"
   },
   {
     "code": "1208212004",
     "district_code": "120821",
-    "name": "Kandangan"
+    "name": "Kandangan",
+    "postal_code": "21186"
   },
   {
     "code": "1208212005",
     "district_code": "120821",
-    "name": "Pardomuan Nauli"
+    "name": "Pardomuan Nauli",
+    "postal_code": "21186"
   },
   {
     "code": "1208212006",
     "district_code": "120821",
-    "name": "Purba Ganda"
+    "name": "Purba Ganda",
+    "postal_code": "21186"
   },
   {
     "code": "1208212007",
     "district_code": "120821",
-    "name": "Kerasaan II"
+    "name": "Kerasaan II",
+    "postal_code": "21186"
   },
   {
     "code": "1208212008",
     "district_code": "120821",
-    "name": "Bandar Manis"
+    "name": "Bandar Manis",
+    "postal_code": "21186"
   },
   {
     "code": "1208212011",
     "district_code": "120821",
-    "name": "Wana Rejo"
+    "name": "Wana Rejo",
+    "postal_code": "21186"
   },
   {
     "code": "1208212012",
     "district_code": "120821",
-    "name": "Talun Rejo"
+    "name": "Talun Rejo",
+    "postal_code": "21186"
   },
   {
     "code": "1208212013",
     "district_code": "120821",
-    "name": "Purwodadi"
+    "name": "Purwodadi",
+    "postal_code": "21186"
   }
 ]

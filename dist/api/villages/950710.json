@@ -2,66 +2,79 @@
   {
     "code": "9507102001",
     "district_code": "950710",
-    "name": "Megalunik"
+    "name": "Megalunik",
+    "postal_code": "99570"
   },
   {
     "code": "9507102002",
     "district_code": "950710",
-    "name": "Lugobak"
+    "name": "Lugobak",
+    "postal_code": "99570"
   },
   {
     "code": "9507102003",
     "district_code": "950710",
-    "name": "Kanikbukme"
+    "name": "Kanikbukme",
+    "postal_code": "99570"
   },
   {
     "code": "9507102004",
     "district_code": "950710",
-    "name": "Poga"
+    "name": "Poga",
+    "postal_code": "99536"
   },
   {
     "code": "9507102005",
     "district_code": "950710",
-    "name": "Bigipaga"
+    "name": "Bigipaga",
+    "postal_code": "99536"
   },
   {
     "code": "9507102006",
     "district_code": "950710",
-    "name": "Luneri"
+    "name": "Luneri",
+    "postal_code": "99570"
   },
   {
     "code": "9507102007",
     "district_code": "950710",
-    "name": "Binipaga"
+    "name": "Binipaga",
+    "postal_code": "99570"
   },
   {
     "code": "9507102008",
     "district_code": "950710",
-    "name": "Mugime"
+    "name": "Mugime",
+    "postal_code": "99536"
   },
   {
     "code": "9507102009",
     "district_code": "950710",
-    "name": "Brigme"
+    "name": "Brigme",
+    "postal_code": "99536"
   },
   {
     "code": "9507102010",
     "district_code": "950710",
-    "name": "Unikme"
+    "name": "Unikme",
+    "postal_code": "99536"
   },
   {
     "code": "9507102011",
     "district_code": "950710",
-    "name": "Binompaga"
+    "name": "Binompaga",
+    "postal_code": "99570"
   },
   {
     "code": "9507102012",
     "district_code": "950710",
-    "name": "Lugwa"
+    "name": "Lugwa",
+    "postal_code": "99570"
   },
   {
     "code": "9507102013",
     "district_code": "950710",
-    "name": "Guaneri"
+    "name": "Guaneri",
+    "postal_code": "99570"
   }
 ]

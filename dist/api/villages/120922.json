@@ -2,36 +2,43 @@
   {
     "code": "1209222001",
     "district_code": "120922",
-    "name": "Rahuning"
+    "name": "Rahuning",
+    "postal_code": "21276"
   },
   {
     "code": "1209222002",
     "district_code": "120922",
-    "name": "Perkebunan Gunung Melayu"
+    "name": "Perkebunan Gunung Melayu",
+    "postal_code": "21276"
   },
   {
     "code": "1209222003",
     "district_code": "120922",
-    "name": "Gunung Melayu"
+    "name": "Gunung Melayu",
+    "postal_code": "21276"
   },
   {
     "code": "1209222004",
     "district_code": "120922",
-    "name": "Batu Anam"
+    "name": "Batu Anam",
+    "postal_code": "21276"
   },
   {
     "code": "1209222005",
     "district_code": "120922",
-    "name": "Perkebunan Aek Nagaga"
+    "name": "Perkebunan Aek Nagaga",
+    "postal_code": "21276"
   },
   {
     "code": "1209222006",
     "district_code": "120922",
-    "name": "Rahuning I"
+    "name": "Rahuning I",
+    "postal_code": "21276"
   },
   {
     "code": "1209222007",
     "district_code": "120922",
-    "name": "Rahuning II"
+    "name": "Rahuning II",
+    "postal_code": "21276"
   }
 ]

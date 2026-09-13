@@ -2,26 +2,31 @@
   {
     "code": "3207292001",
     "district_code": "320729",
-    "name": "Cimaragas"
+    "name": "Cimaragas",
+    "postal_code": "46381"
   },
   {
     "code": "3207292002",
     "district_code": "320729",
-    "name": "Beber"
+    "name": "Beber",
+    "postal_code": "46381"
   },
   {
     "code": "3207292003",
     "district_code": "320729",
-    "name": "Raksabaya"
+    "name": "Raksabaya",
+    "postal_code": "46381"
   },
   {
     "code": "3207292004",
     "district_code": "320729",
-    "name": "Bojongmalang"
+    "name": "Bojongmalang",
+    "postal_code": "46381"
   },
   {
     "code": "3207292005",
     "district_code": "320729",
-    "name": "Jayaraksa"
+    "name": "Jayaraksa",
+    "postal_code": "46381"
   }
 ]

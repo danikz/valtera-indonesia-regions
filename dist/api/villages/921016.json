@@ -2,51 +2,61 @@
   {
     "code": "9210162001",
     "district_code": "921016",
-    "name": "Adoh"
+    "name": "Adoh",
+    "postal_code": ""
   },
   {
     "code": "9210162002",
     "district_code": "921016",
-    "name": "Temel"
+    "name": "Temel",
+    "postal_code": ""
   },
   {
     "code": "9210162003",
     "district_code": "921016",
-    "name": "Sosian"
+    "name": "Sosian",
+    "postal_code": ""
   },
   {
     "code": "9210162004",
     "district_code": "921016",
-    "name": "Segior"
+    "name": "Segior",
+    "postal_code": ""
   },
   {
     "code": "9210162005",
     "district_code": "921016",
-    "name": "Orain"
+    "name": "Orain",
+    "postal_code": ""
   },
   {
     "code": "9210162006",
     "district_code": "921016",
-    "name": "Rawas"
+    "name": "Rawas",
+    "postal_code": ""
   },
   {
     "code": "9210162007",
     "district_code": "921016",
-    "name": "Orsu"
+    "name": "Orsu",
+    "postal_code": ""
   },
   {
     "code": "9210162008",
     "district_code": "921016",
-    "name": "Soan"
+    "name": "Soan",
+    "postal_code": ""
   },
   {
     "code": "9210162009",
     "district_code": "921016",
-    "name": "Warbo"
+    "name": "Warbo",
+    "postal_code": ""
   },
   {
     "code": "9210162010",
     "district_code": "921016",
-    "name": "Woman"
+    "name": "Woman",
+    "postal_code": ""
   }
 ]

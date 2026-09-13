@@ -2,46 +2,55 @@
   {
     "code": "9103142001",
     "district_code": "910314",
-    "name": "Sarmai Atas"
+    "name": "Sarmai Atas",
+    "postal_code": "99360"
   },
   {
     "code": "9103142002",
     "district_code": "910314",
-    "name": "Sarmai Bawah"
+    "name": "Sarmai Bawah",
+    "postal_code": "99360"
   },
   {
     "code": "9103142003",
     "district_code": "910314",
-    "name": "Sanggai"
+    "name": "Sanggai",
+    "postal_code": "99360"
   },
   {
     "code": "9103142004",
     "district_code": "910314",
-    "name": "Yakasib"
+    "name": "Yakasib",
+    "postal_code": "99360"
   },
   {
     "code": "9103142005",
     "district_code": "910314",
-    "name": "Besum"
+    "name": "Besum",
+    "postal_code": "99360"
   },
   {
     "code": "9103142007",
     "district_code": "910314",
-    "name": "Imestum"
+    "name": "Imestum",
+    "postal_code": "99360"
   },
   {
     "code": "9103142008",
     "district_code": "910314",
-    "name": "Karya Bumi"
+    "name": "Karya Bumi",
+    "postal_code": "99360"
   },
   {
     "code": "9103142009",
     "district_code": "910314",
-    "name": "Hanggaiy Hamong"
+    "name": "Hanggaiy Hamong",
+    "postal_code": "99360"
   },
   {
     "code": "9103142010",
     "district_code": "910314",
-    "name": "Sumbe"
+    "name": "Sumbe",
+    "postal_code": "99360"
   }
 ]

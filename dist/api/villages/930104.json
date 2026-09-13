@@ -2,66 +2,79 @@
   {
     "code": "9301042001",
     "district_code": "930104",
-    "name": "Kimaam"
+    "name": "Kimaam",
+    "postal_code": "99641"
   },
   {
     "code": "9301042002",
     "district_code": "930104",
-    "name": "Komolom"
+    "name": "Komolom",
+    "postal_code": "99641"
   },
   {
     "code": "9301042003",
     "district_code": "930104",
-    "name": "Kumbis"
+    "name": "Kumbis",
+    "postal_code": "99641"
   },
   {
     "code": "9301042004",
     "district_code": "930104",
-    "name": "Kalilam"
+    "name": "Kalilam",
+    "postal_code": "99641"
   },
   {
     "code": "9301042005",
     "district_code": "930104",
-    "name": "Teri"
+    "name": "Teri",
+    "postal_code": "99641"
   },
   {
     "code": "9301042006",
     "district_code": "930104",
-    "name": "Mambum"
+    "name": "Mambum",
+    "postal_code": "99641"
   },
   {
     "code": "9301042007",
     "district_code": "930104",
-    "name": "Kiworo"
+    "name": "Kiworo",
+    "postal_code": "99641"
   },
   {
     "code": "9301042008",
     "district_code": "930104",
-    "name": "Woner"
+    "name": "Woner",
+    "postal_code": "99641"
   },
   {
     "code": "9301042009",
     "district_code": "930104",
-    "name": "Deka"
+    "name": "Deka",
+    "postal_code": "99641"
   },
   {
     "code": "9301042010",
     "district_code": "930104",
-    "name": "Turiram"
+    "name": "Turiram",
+    "postal_code": "99641"
   },
   {
     "code": "9301042011",
     "district_code": "930104",
-    "name": "Purawanderu"
+    "name": "Purawanderu",
+    "postal_code": "99641"
   },
   {
     "code": "9301042012",
     "district_code": "930104",
-    "name": "Umanderu"
+    "name": "Umanderu",
+    "postal_code": "99641"
   },
   {
     "code": "9301042013",
     "district_code": "930104",
-    "name": "Webu"
+    "name": "Webu",
+    "postal_code": "99641"
   }
 ]

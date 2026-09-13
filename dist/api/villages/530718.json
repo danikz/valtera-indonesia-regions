@@ -2,36 +2,43 @@
   {
     "code": "5307182001",
     "district_code": "530718",
-    "name": "Rubit"
+    "name": "Rubit",
+    "postal_code": "86181"
   },
   {
     "code": "5307182002",
     "district_code": "530718",
-    "name": "Wolomapa"
+    "name": "Wolomapa",
+    "postal_code": "86181"
   },
   {
     "code": "5307182003",
     "district_code": "530718",
-    "name": "Baomekot"
+    "name": "Baomekot",
+    "postal_code": "86181"
   },
   {
     "code": "5307182004",
     "district_code": "530718",
-    "name": "Kajowair"
+    "name": "Kajowair",
+    "postal_code": "86181"
   },
   {
     "code": "5307182005",
     "district_code": "530718",
-    "name": "Hewokloang"
+    "name": "Hewokloang",
+    "postal_code": "86181"
   },
   {
     "code": "5307182006",
     "district_code": "530718",
-    "name": "Heopuat"
+    "name": "Heopuat",
+    "postal_code": "86181"
   },
   {
     "code": "5307182007",
     "district_code": "530718",
-    "name": "Munerana"
+    "name": "Munerana",
+    "postal_code": "86181"
   }
 ]

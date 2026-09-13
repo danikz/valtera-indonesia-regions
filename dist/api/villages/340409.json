@@ -2,31 +2,37 @@
   {
     "code": "3404092001",
     "district_code": "340409",
-    "name": "Sumberharjo"
+    "name": "Sumberharjo",
+    "postal_code": "55572"
   },
   {
     "code": "3404092002",
     "district_code": "340409",
-    "name": "Wukirharjo"
+    "name": "Wukirharjo",
+    "postal_code": "55572"
   },
   {
     "code": "3404092003",
     "district_code": "340409",
-    "name": "Gayamharjo"
+    "name": "Gayamharjo",
+    "postal_code": "55572"
   },
   {
     "code": "3404092004",
     "district_code": "340409",
-    "name": "Sambirejo"
+    "name": "Sambirejo",
+    "postal_code": "55572"
   },
   {
     "code": "3404092005",
     "district_code": "340409",
-    "name": "Madurejo"
+    "name": "Madurejo",
+    "postal_code": "55572"
   },
   {
     "code": "3404092006",
     "district_code": "340409",
-    "name": "Bokoharjo"
+    "name": "Bokoharjo",
+    "postal_code": "55572"
   }
 ]

@@ -2,41 +2,49 @@
   {
     "code": "6472051002",
     "district_code": "647205",
-    "name": "Sempaja Selatan"
+    "name": "Sempaja Selatan",
+    "postal_code": "75119"
   },
   {
     "code": "6472051003",
     "district_code": "647205",
-    "name": "Lempake"
+    "name": "Lempake",
+    "postal_code": "75118"
   },
   {
     "code": "6472051004",
     "district_code": "647205",
-    "name": "Sungai Siring"
+    "name": "Sungai Siring",
+    "postal_code": "75118"
   },
   {
     "code": "6472051010",
     "district_code": "647205",
-    "name": "Sempaja Utara"
+    "name": "Sempaja Utara",
+    "postal_code": "75119"
   },
   {
     "code": "6472051011",
     "district_code": "647205",
-    "name": "Tanah Merah"
+    "name": "Tanah Merah",
+    "postal_code": "75119"
   },
   {
     "code": "6472051012",
     "district_code": "647205",
-    "name": "Sempaja Barat"
+    "name": "Sempaja Barat",
+    "postal_code": "75119"
   },
   {
     "code": "6472051013",
     "district_code": "647205",
-    "name": "Sempaja Timur"
+    "name": "Sempaja Timur",
+    "postal_code": "75119"
   },
   {
     "code": "6472051014",
     "district_code": "647205",
-    "name": "Budaya Pampang"
+    "name": "Budaya Pampang",
+    "postal_code": "75118"
   }
 ]

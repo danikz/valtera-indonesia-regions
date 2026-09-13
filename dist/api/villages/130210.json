@@ -2,41 +2,49 @@
   {
     "code": "1302102001",
     "district_code": "130210",
-    "name": "Koto Baru"
+    "name": "Koto Baru",
+    "postal_code": "27361"
   },
   {
     "code": "1302102002",
     "district_code": "130210",
-    "name": "Selayo"
+    "name": "Selayo",
+    "postal_code": "27361"
   },
   {
     "code": "1302102003",
     "district_code": "130210",
-    "name": "Panyakalan"
+    "name": "Panyakalan",
+    "postal_code": "27361"
   },
   {
     "code": "1302102004",
     "district_code": "130210",
-    "name": "Gaung"
+    "name": "Gaung",
+    "postal_code": "27361"
   },
   {
     "code": "1302102005",
     "district_code": "130210",
-    "name": "Gantuang Ciri"
+    "name": "Gantuang Ciri",
+    "postal_code": "27361"
   },
   {
     "code": "1302102006",
     "district_code": "130210",
-    "name": "Saok Laweh"
+    "name": "Saok Laweh",
+    "postal_code": "27361"
   },
   {
     "code": "1302102007",
     "district_code": "130210",
-    "name": "Koto Hilalang"
+    "name": "Koto Hilalang",
+    "postal_code": "27361"
   },
   {
     "code": "1302102008",
     "district_code": "130210",
-    "name": "Tanjung Bingkung"
+    "name": "Tanjung Bingkung",
+    "postal_code": "27361"
   }
 ]

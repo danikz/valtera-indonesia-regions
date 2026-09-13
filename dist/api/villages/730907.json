@@ -2,41 +2,49 @@
   {
     "code": "7309071001",
     "district_code": "730907",
-    "name": "Borong"
+    "name": "Borong",
+    "postal_code": "90553"
   },
   {
     "code": "7309072002",
     "district_code": "730907",
-    "name": "Allaere"
+    "name": "Allaere",
+    "postal_code": "90553"
   },
   {
     "code": "7309072003",
     "district_code": "730907",
-    "name": "Toddopulia"
+    "name": "Toddopulia",
+    "postal_code": "90553"
   },
   {
     "code": "7309072004",
     "district_code": "730907",
-    "name": "Kurusumange"
+    "name": "Kurusumange",
+    "postal_code": "90553"
   },
   {
     "code": "7309072005",
     "district_code": "730907",
-    "name": "Lekopancing"
+    "name": "Lekopancing",
+    "postal_code": "90553"
   },
   {
     "code": "7309072006",
     "district_code": "730907",
-    "name": "Damai"
+    "name": "Damai",
+    "postal_code": "90553"
   },
   {
     "code": "7309072007",
     "district_code": "730907",
-    "name": "Sudirman"
+    "name": "Sudirman",
+    "postal_code": "90553"
   },
   {
     "code": "7309072008",
     "district_code": "730907",
-    "name": "Purnakarya"
+    "name": "Purnakarya",
+    "postal_code": "90553"
   }
 ]

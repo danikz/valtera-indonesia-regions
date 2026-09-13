@@ -2,41 +2,49 @@
   {
     "code": "1403112001",
     "district_code": "140311",
-    "name": "Tanjung Medang"
+    "name": "Tanjung Medang",
+    "postal_code": "28782"
   },
   {
     "code": "1403112002",
     "district_code": "140311",
-    "name": "Teluk Rhu"
+    "name": "Teluk Rhu",
+    "postal_code": "28782"
   },
   {
     "code": "1403112003",
     "district_code": "140311",
-    "name": "Tanjung Punak"
+    "name": "Tanjung Punak",
+    "postal_code": "28782"
   },
   {
     "code": "1403112004",
     "district_code": "140311",
-    "name": "Kador"
+    "name": "Kador",
+    "postal_code": "28782"
   },
   {
     "code": "1403112005",
     "district_code": "140311",
-    "name": "Titi Akar"
+    "name": "Titi Akar",
+    "postal_code": "28782"
   },
   {
     "code": "1403112006",
     "district_code": "140311",
-    "name": "Hutan Ayu"
+    "name": "Hutan Ayu",
+    "postal_code": "28782"
   },
   {
     "code": "1403112007",
     "district_code": "140311",
-    "name": "Suka Damai"
+    "name": "Suka Damai",
+    "postal_code": "28782"
   },
   {
     "code": "1403112008",
     "district_code": "140311",
-    "name": "Puteri Sembilan"
+    "name": "Puteri Sembilan",
+    "postal_code": "28782"
   }
 ]

@@ -2,36 +2,43 @@
   {
     "code": "6408102001",
     "district_code": "640810",
-    "name": "Kaliorang"
+    "name": "Kaliorang",
+    "postal_code": "75617"
   },
   {
     "code": "6408102006",
     "district_code": "640810",
-    "name": "Bukit Makmur"
+    "name": "Bukit Makmur",
+    "postal_code": "75617"
   },
   {
     "code": "6408102007",
     "district_code": "640810",
-    "name": "Bukit Harapan"
+    "name": "Bukit Harapan",
+    "postal_code": "75617"
   },
   {
     "code": "6408102008",
     "district_code": "640810",
-    "name": "Citra Manunggal Jaya"
+    "name": "Citra Manunggal Jaya",
+    "postal_code": "75617"
   },
   {
     "code": "6408102009",
     "district_code": "640810",
-    "name": "Bangun Jaya"
+    "name": "Bangun Jaya",
+    "postal_code": "75617"
   },
   {
     "code": "6408102010",
     "district_code": "640810",
-    "name": "Bumi Sejahtera"
+    "name": "Bumi Sejahtera",
+    "postal_code": "75617"
   },
   {
     "code": "6408102013",
     "district_code": "640810",
-    "name": "Selangkau"
+    "name": "Selangkau",
+    "postal_code": "75617"
   }
 ]

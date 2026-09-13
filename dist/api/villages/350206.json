@@ -2,31 +2,37 @@
   {
     "code": "3502062001",
     "district_code": "350206",
-    "name": "Ngadirojo"
+    "name": "Ngadirojo",
+    "postal_code": "63482"
   },
   {
     "code": "3502062002",
     "district_code": "350206",
-    "name": "Klepu"
+    "name": "Klepu",
+    "postal_code": "63482"
   },
   {
     "code": "3502062003",
     "district_code": "350206",
-    "name": "Suru"
+    "name": "Suru",
+    "postal_code": "63482"
   },
   {
     "code": "3502062004",
     "district_code": "350206",
-    "name": "Sooko"
+    "name": "Sooko",
+    "postal_code": "63482"
   },
   {
     "code": "3502062005",
     "district_code": "350206",
-    "name": "Bedoho"
+    "name": "Bedoho",
+    "postal_code": "63482"
   },
   {
     "code": "3502062006",
     "district_code": "350206",
-    "name": "Jurug"
+    "name": "Jurug",
+    "postal_code": "63482"
   }
 ]

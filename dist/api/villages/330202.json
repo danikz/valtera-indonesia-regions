@@ -2,61 +2,73 @@
   {
     "code": "3302022001",
     "district_code": "330202",
-    "name": "Randegan"
+    "name": "Randegan",
+    "postal_code": "53176"
   },
   {
     "code": "3302022002",
     "district_code": "330202",
-    "name": "Rawaheng"
+    "name": "Rawaheng",
+    "postal_code": "53176"
   },
   {
     "code": "3302022003",
     "district_code": "330202",
-    "name": "Pengadegan"
+    "name": "Pengadegan",
+    "postal_code": "53176"
   },
   {
     "code": "3302022004",
     "district_code": "330202",
-    "name": "Klapagading"
+    "name": "Klapagading",
+    "postal_code": "53176"
   },
   {
     "code": "3302022005",
     "district_code": "330202",
-    "name": "Wangon"
+    "name": "Wangon",
+    "postal_code": "53176"
   },
   {
     "code": "3302022006",
     "district_code": "330202",
-    "name": "Banteran"
+    "name": "Banteran",
+    "postal_code": "53176"
   },
   {
     "code": "3302022007",
     "district_code": "330202",
-    "name": "Jambu"
+    "name": "Jambu",
+    "postal_code": "53176"
   },
   {
     "code": "3302022008",
     "district_code": "330202",
-    "name": "Jurangbahas"
+    "name": "Jurangbahas",
+    "postal_code": "53176"
   },
   {
     "code": "3302022009",
     "district_code": "330202",
-    "name": "Cikakak"
+    "name": "Cikakak",
+    "postal_code": "53176"
   },
   {
     "code": "3302022010",
     "district_code": "330202",
-    "name": "Wlahar"
+    "name": "Wlahar",
+    "postal_code": "53176"
   },
   {
     "code": "3302022011",
     "district_code": "330202",
-    "name": "Windunegara"
+    "name": "Windunegara",
+    "postal_code": "53176"
   },
   {
     "code": "3302022012",
     "district_code": "330202",
-    "name": "Klapagading Kulon"
+    "name": "Klapagading Kulon",
+    "postal_code": "53176"
   }
 ]

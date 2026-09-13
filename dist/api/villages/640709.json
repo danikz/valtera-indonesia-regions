@@ -2,41 +2,49 @@
   {
     "code": "6407092001",
     "district_code": "640709",
-    "name": "Muara Begai"
+    "name": "Muara Begai",
+    "postal_code": "75775"
   },
   {
     "code": "6407092002",
     "district_code": "640709",
-    "name": "Lotaq"
+    "name": "Lotaq",
+    "postal_code": "75775"
   },
   {
     "code": "6407092003",
     "district_code": "640709",
-    "name": "Payang"
+    "name": "Payang",
+    "postal_code": "75775"
   },
   {
     "code": "6407092004",
     "district_code": "640709",
-    "name": "Dingin"
+    "name": "Dingin",
+    "postal_code": "75775"
   },
   {
     "code": "6407092005",
     "district_code": "640709",
-    "name": "Muara Lawa"
+    "name": "Muara Lawa",
+    "postal_code": "75775"
   },
   {
     "code": "6407092006",
     "district_code": "640709",
-    "name": "Lambing"
+    "name": "Lambing",
+    "postal_code": "75775"
   },
   {
     "code": "6407092007",
     "district_code": "640709",
-    "name": "Benggeris"
+    "name": "Benggeris",
+    "postal_code": "75775"
   },
   {
     "code": "6407092008",
     "district_code": "640709",
-    "name": "Cempedes"
+    "name": "Cempedes",
+    "postal_code": "75775"
   }
 ]

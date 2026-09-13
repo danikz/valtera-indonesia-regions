@@ -2,31 +2,37 @@
   {
     "code": "9404142001",
     "district_code": "940414",
-    "name": "Hoya"
+    "name": "Hoya",
+    "postal_code": "99960"
   },
   {
     "code": "9404142002",
     "district_code": "940414",
-    "name": "Mamontoga"
+    "name": "Mamontoga",
+    "postal_code": "99960"
   },
   {
     "code": "9404142003",
     "district_code": "940414",
-    "name": "Jinonin"
+    "name": "Jinonin",
+    "postal_code": "99960"
   },
   {
     "code": "9404142004",
     "district_code": "940414",
-    "name": "Kulama Ogom"
+    "name": "Kulama Ogom",
+    "postal_code": "99960"
   },
   {
     "code": "9404142005",
     "district_code": "940414",
-    "name": "Puti"
+    "name": "Puti",
+    "postal_code": "99960"
   },
   {
     "code": "9404142006",
     "district_code": "940414",
-    "name": "Jawa"
+    "name": "Jawa",
+    "postal_code": "99960"
   }
 ]

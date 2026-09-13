@@ -2,61 +2,73 @@
   {
     "code": "1501212001",
     "district_code": "150121",
-    "name": "Koto Mebai"
+    "name": "Koto Mebai",
+    "postal_code": "37166"
   },
   {
     "code": "1501212002",
     "district_code": "150121",
-    "name": "Baru"
+    "name": "Baru",
+    "postal_code": "37166"
   },
   {
     "code": "1501212003",
     "district_code": "150121",
-    "name": "Air Panas"
+    "name": "Air Panas",
+    "postal_code": "37166"
   },
   {
     "code": "1501212004",
     "district_code": "150121",
-    "name": "Hamparan Pugu"
+    "name": "Hamparan Pugu",
+    "postal_code": "37166"
   },
   {
     "code": "1501212005",
     "district_code": "150121",
-    "name": "Pugu"
+    "name": "Pugu",
+    "postal_code": "37166"
   },
   {
     "code": "1501212006",
     "district_code": "150121",
-    "name": "Koto Mudik"
+    "name": "Koto Mudik",
+    "postal_code": "37166"
   },
   {
     "code": "1501212007",
     "district_code": "150121",
-    "name": "Koto Tengah"
+    "name": "Koto Tengah",
+    "postal_code": "37166"
   },
   {
     "code": "1501212008",
     "district_code": "150121",
-    "name": "Koto Datuk"
+    "name": "Koto Datuk",
+    "postal_code": "37166"
   },
   {
     "code": "1501212009",
     "district_code": "150121",
-    "name": "Koto Dua Baru"
+    "name": "Koto Dua Baru",
+    "postal_code": "37166"
   },
   {
     "code": "1501212010",
     "district_code": "150121",
-    "name": "Koto Cayo"
+    "name": "Koto Cayo",
+    "postal_code": "37166"
   },
   {
     "code": "1501212011",
     "district_code": "150121",
-    "name": "Kecil"
+    "name": "Kecil",
+    "postal_code": "37166"
   },
   {
     "code": "1501212012",
     "district_code": "150121",
-    "name": "Air Bersih"
+    "name": "Air Bersih",
+    "postal_code": "37166"
   }
 ]

@@ -2,21 +2,25 @@
   {
     "code": "6303182001",
     "district_code": "630318",
-    "name": "Rantau Bujur"
+    "name": "Rantau Bujur",
+    "postal_code": "70673"
   },
   {
     "code": "6303182002",
     "district_code": "630318",
-    "name": "Lok Tanah"
+    "name": "Lok Tanah",
+    "postal_code": "70673"
   },
   {
     "code": "6303182003",
     "district_code": "630318",
-    "name": "Telaga Baru"
+    "name": "Telaga Baru",
+    "postal_code": "70673"
   },
   {
     "code": "6303182004",
     "district_code": "630318",
-    "name": "Rampah"
+    "name": "Rampah",
+    "postal_code": "70673"
   }
 ]

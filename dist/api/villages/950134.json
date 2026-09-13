@@ -2,36 +2,43 @@
   {
     "code": "9501342001",
     "district_code": "950134",
-    "name": "Irilinga"
+    "name": "Irilinga",
+    "postal_code": "99542"
   },
   {
     "code": "9501342002",
     "district_code": "950134",
-    "name": "Onggobaga"
+    "name": "Onggobaga",
+    "postal_code": "99542"
   },
   {
     "code": "9501342003",
     "district_code": "950134",
-    "name": "Walakma"
+    "name": "Walakma",
+    "postal_code": "99542"
   },
   {
     "code": "9501342004",
     "district_code": "950134",
-    "name": "Ayoma"
+    "name": "Ayoma",
+    "postal_code": "99542"
   },
   {
     "code": "9501342005",
     "district_code": "950134",
-    "name": "Dlonggoki"
+    "name": "Dlonggoki",
+    "postal_code": "99542"
   },
   {
     "code": "9501342006",
     "district_code": "950134",
-    "name": "Tirunggu"
+    "name": "Tirunggu",
+    "postal_code": "99542"
   },
   {
     "code": "9501342007",
     "district_code": "950134",
-    "name": "Dlinggama"
+    "name": "Dlinggama",
+    "postal_code": "99542"
   }
 ]

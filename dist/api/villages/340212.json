@@ -2,41 +2,49 @@
   {
     "code": "3402122001",
     "district_code": "340212",
-    "name": "Baturetno"
+    "name": "Baturetno",
+    "postal_code": "55197"
   },
   {
     "code": "3402122002",
     "district_code": "340212",
-    "name": "Banguntapan"
+    "name": "Banguntapan",
+    "postal_code": "55198"
   },
   {
     "code": "3402122003",
     "district_code": "340212",
-    "name": "Jagalan"
+    "name": "Jagalan",
+    "postal_code": "55192"
   },
   {
     "code": "3402122004",
     "district_code": "340212",
-    "name": "Singosaren"
+    "name": "Singosaren",
+    "postal_code": "55193"
   },
   {
     "code": "3402122005",
     "district_code": "340212",
-    "name": "Jambidan"
+    "name": "Jambidan",
+    "postal_code": "55195"
   },
   {
     "code": "3402122006",
     "district_code": "340212",
-    "name": "Potorono"
+    "name": "Potorono",
+    "postal_code": "55196"
   },
   {
     "code": "3402122007",
     "district_code": "340212",
-    "name": "Tamanan"
+    "name": "Tamanan",
+    "postal_code": "55191"
   },
   {
     "code": "3402122008",
     "district_code": "340212",
-    "name": "Wirokerten"
+    "name": "Wirokerten",
+    "postal_code": "55194"
   }
 ]

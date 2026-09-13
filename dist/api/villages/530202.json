@@ -2,36 +2,43 @@
   {
     "code": "5302022001",
     "district_code": "530202",
-    "name": "Biloto"
+    "name": "Biloto",
+    "postal_code": "85542"
   },
   {
     "code": "5302022003",
     "district_code": "530202",
-    "name": "Kesetnana"
+    "name": "Kesetnana",
+    "postal_code": "85542"
   },
   {
     "code": "5302022006",
     "district_code": "530202",
-    "name": "Tuasene"
+    "name": "Tuasene",
+    "postal_code": "85542"
   },
   {
     "code": "5302022008",
     "district_code": "530202",
-    "name": "Oinlasi"
+    "name": "Oinlasi",
+    "postal_code": "85542"
   },
   {
     "code": "5302022010",
     "district_code": "530202",
-    "name": "Bisene"
+    "name": "Bisene",
+    "postal_code": "85542"
   },
   {
     "code": "5302022012",
     "district_code": "530202",
-    "name": "Noinbila"
+    "name": "Noinbila",
+    "postal_code": "85542"
   },
   {
     "code": "5302022013",
     "district_code": "530202",
-    "name": "Bikekneno"
+    "name": "Bikekneno",
+    "postal_code": "85542"
   }
 ]

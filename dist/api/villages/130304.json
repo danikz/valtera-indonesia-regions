@@ -2,46 +2,55 @@
   {
     "code": "1303042001",
     "district_code": "130304",
-    "name": "Muaro"
+    "name": "Muaro",
+    "postal_code": "27554"
   },
   {
     "code": "1303042002",
     "district_code": "130304",
-    "name": "Kandang Baru"
+    "name": "Kandang Baru",
+    "postal_code": "27554"
   },
   {
     "code": "1303042003",
     "district_code": "130304",
-    "name": "Silokek"
+    "name": "Silokek",
+    "postal_code": "27554"
   },
   {
     "code": "1303042004",
     "district_code": "130304",
-    "name": "Pematang Panjang"
+    "name": "Pematang Panjang",
+    "postal_code": "27554"
   },
   {
     "code": "1303042005",
     "district_code": "130304",
-    "name": "Solok Ambah"
+    "name": "Solok Ambah",
+    "postal_code": "27554"
   },
   {
     "code": "1303042006",
     "district_code": "130304",
-    "name": "Paru"
+    "name": "Paru",
+    "postal_code": "27554"
   },
   {
     "code": "1303042007",
     "district_code": "130304",
-    "name": "Durian Gadang"
+    "name": "Durian Gadang",
+    "postal_code": "27554"
   },
   {
     "code": "1303042008",
     "district_code": "130304",
-    "name": "Aie Angek"
+    "name": "Aie Angek",
+    "postal_code": "27554"
   },
   {
     "code": "1303042009",
     "district_code": "130304",
-    "name": "Sijunjung"
+    "name": "Sijunjung",
+    "postal_code": "27554"
   }
 ]

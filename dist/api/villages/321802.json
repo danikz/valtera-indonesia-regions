@@ -2,36 +2,43 @@
   {
     "code": "3218022001",
     "district_code": "321802",
-    "name": "Batukaras"
+    "name": "Batukaras",
+    "postal_code": "46394"
   },
   {
     "code": "3218022002",
     "district_code": "321802",
-    "name": "Ciakar"
+    "name": "Ciakar",
+    "postal_code": "46394"
   },
   {
     "code": "3218022003",
     "district_code": "321802",
-    "name": "Cibanten"
+    "name": "Cibanten",
+    "postal_code": "46394"
   },
   {
     "code": "3218022004",
     "district_code": "321802",
-    "name": "Kertayasa"
+    "name": "Kertayasa",
+    "postal_code": "46394"
   },
   {
     "code": "3218022005",
     "district_code": "321802",
-    "name": "Cijulang"
+    "name": "Cijulang",
+    "postal_code": "46394"
   },
   {
     "code": "3218022006",
     "district_code": "321802",
-    "name": "Kondangjajar"
+    "name": "Kondangjajar",
+    "postal_code": "46394"
   },
   {
     "code": "3218022007",
     "district_code": "321802",
-    "name": "Margacinta"
+    "name": "Margacinta",
+    "postal_code": "46394"
   }
 ]

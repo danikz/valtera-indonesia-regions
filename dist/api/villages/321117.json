@@ -2,71 +2,85 @@
   {
     "code": "3211171001",
     "district_code": "321117",
-    "name": "Pasanggrahan Baru"
+    "name": "Pasanggrahan Baru",
+    "postal_code": "45313"
   },
   {
     "code": "3211171002",
     "district_code": "321117",
-    "name": "Kotakulon"
+    "name": "Kotakulon",
+    "postal_code": "45311"
   },
   {
     "code": "3211171003",
     "district_code": "321117",
-    "name": "Regolwetan"
+    "name": "Regolwetan",
+    "postal_code": "45311"
   },
   {
     "code": "3211171004",
     "district_code": "321117",
-    "name": "Cipameungpeuk"
+    "name": "Cipameungpeuk",
+    "postal_code": "45315"
   },
   {
     "code": "3211172005",
     "district_code": "321117",
-    "name": "Sukagalih"
+    "name": "Sukagalih",
+    "postal_code": "45311"
   },
   {
     "code": "3211172006",
     "district_code": "321117",
-    "name": "Baginda"
+    "name": "Baginda",
+    "postal_code": "45311"
   },
   {
     "code": "3211172007",
     "district_code": "321117",
-    "name": "Cipancar"
+    "name": "Cipancar",
+    "postal_code": "45311"
   },
   {
     "code": "3211172008",
     "district_code": "321117",
-    "name": "Citengah"
+    "name": "Citengah",
+    "postal_code": "45311"
   },
   {
     "code": "3211172009",
     "district_code": "321117",
-    "name": "Gunasari"
+    "name": "Gunasari",
+    "postal_code": "45311"
   },
   {
     "code": "3211172010",
     "district_code": "321117",
-    "name": "Sukajaya"
+    "name": "Sukajaya",
+    "postal_code": "45314"
   },
   {
     "code": "3211172011",
     "district_code": "321117",
-    "name": "Margamekar"
+    "name": "Margamekar",
+    "postal_code": "45311"
   },
   {
     "code": "3211172012",
     "district_code": "321117",
-    "name": "Ciherang"
+    "name": "Ciherang",
+    "postal_code": "45311"
   },
   {
     "code": "3211172013",
     "district_code": "321117",
-    "name": "Margalaksana"
+    "name": "Margalaksana",
+    "postal_code": "45311"
   },
   {
     "code": "3211172014",
     "district_code": "321117",
-    "name": "Mekar Rahayu"
+    "name": "Mekar Rahayu",
+    "postal_code": "45311"
   }
 ]

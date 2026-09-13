@@ -2,46 +2,55 @@
   {
     "code": "7315011001",
     "district_code": "731501",
-    "name": "Langnga"
+    "name": "Langnga",
+    "postal_code": "91261"
   },
   {
     "code": "7315011002",
     "district_code": "731501",
-    "name": "Pallameang"
+    "name": "Pallameang",
+    "postal_code": "91261"
   },
   {
     "code": "7315012003",
     "district_code": "731501",
-    "name": "Massulowalie"
+    "name": "Massulowalie",
+    "postal_code": "91261"
   },
   {
     "code": "7315012004",
     "district_code": "731501",
-    "name": "Mattombong"
+    "name": "Mattombong",
+    "postal_code": "91261"
   },
   {
     "code": "7315012005",
     "district_code": "731501",
-    "name": "Mattongang Tongang"
+    "name": "Mattongang Tongang",
+    "postal_code": "91261"
   },
   {
     "code": "7315012006",
     "district_code": "731501",
-    "name": "Patobong"
+    "name": "Patobong",
+    "postal_code": "91261"
   },
   {
     "code": "7315012007",
     "district_code": "731501",
-    "name": "Samaenre"
+    "name": "Samaenre",
+    "postal_code": "91261"
   },
   {
     "code": "7315012008",
     "district_code": "731501",
-    "name": "Mattirotasi"
+    "name": "Mattirotasi",
+    "postal_code": "91261"
   },
   {
     "code": "7315012009",
     "district_code": "731501",
-    "name": "Siwolong Polong"
+    "name": "Siwolong Polong",
+    "postal_code": "91261"
   }
 ]

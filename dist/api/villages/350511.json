@@ -2,46 +2,55 @@
   {
     "code": "3505111002",
     "district_code": "350511",
-    "name": "Sumberdiren"
+    "name": "Sumberdiren",
+    "postal_code": "66181"
   },
   {
     "code": "3505111003",
     "district_code": "350511",
-    "name": "Tawangsari"
+    "name": "Tawangsari",
+    "postal_code": "66181"
   },
   {
     "code": "3505111004",
     "district_code": "350511",
-    "name": "Garum"
+    "name": "Garum",
+    "postal_code": "66181"
   },
   {
     "code": "3505111006",
     "district_code": "350511",
-    "name": "Bence"
+    "name": "Bence",
+    "postal_code": "66181"
   },
   {
     "code": "3505112001",
     "district_code": "350511",
-    "name": "Pojok"
+    "name": "Pojok",
+    "postal_code": "66181"
   },
   {
     "code": "3505112005",
     "district_code": "350511",
-    "name": "Tingal"
+    "name": "Tingal",
+    "postal_code": "66181"
   },
   {
     "code": "3505112007",
     "district_code": "350511",
-    "name": "Slorok"
+    "name": "Slorok",
+    "postal_code": "66181"
   },
   {
     "code": "3505112008",
     "district_code": "350511",
-    "name": "Sidodadi"
+    "name": "Sidodadi",
+    "postal_code": "66181"
   },
   {
     "code": "3505112009",
     "district_code": "350511",
-    "name": "Karangrejo"
+    "name": "Karangrejo",
+    "postal_code": "66181"
   }
 ]

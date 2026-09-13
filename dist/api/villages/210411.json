@@ -2,26 +2,31 @@
   {
     "code": "2104112001",
     "district_code": "210411",
-    "name": "Benan"
+    "name": "Benan",
+    "postal_code": "29873"
   },
   {
     "code": "2104112002",
     "district_code": "210411",
-    "name": "Mensanak"
+    "name": "Mensanak",
+    "postal_code": "29873"
   },
   {
     "code": "2104112003",
     "district_code": "210411",
-    "name": "Pulau Bukit"
+    "name": "Pulau Bukit",
+    "postal_code": "29873"
   },
   {
     "code": "2104112004",
     "district_code": "210411",
-    "name": "Pulau Duyung"
+    "name": "Pulau Duyung",
+    "postal_code": "29873"
   },
   {
     "code": "2104112005",
     "district_code": "210411",
-    "name": "Pulau Medang"
+    "name": "Pulau Medang",
+    "postal_code": "29873"
   }
 ]

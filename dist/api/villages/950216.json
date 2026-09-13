@@ -2,31 +2,37 @@
   {
     "code": "9502162001",
     "district_code": "950216",
-    "name": "Kungulding"
+    "name": "Kungulding",
+    "postal_code": "99413"
   },
   {
     "code": "9502162002",
     "district_code": "950216",
-    "name": "Bulangkop"
+    "name": "Bulangkop",
+    "postal_code": "99413"
   },
   {
     "code": "9502162003",
     "district_code": "950216",
-    "name": "Limarum"
+    "name": "Limarum",
+    "postal_code": "99413"
   },
   {
     "code": "9502162004",
     "district_code": "950216",
-    "name": "Yumakot"
+    "name": "Yumakot",
+    "postal_code": "99413"
   },
   {
     "code": "9502162005",
     "district_code": "950216",
-    "name": "Aplim"
+    "name": "Aplim",
+    "postal_code": "99413"
   },
   {
     "code": "9502162006",
     "district_code": "950216",
-    "name": "Okdo"
+    "name": "Okdo",
+    "postal_code": "99413"
   }
 ]

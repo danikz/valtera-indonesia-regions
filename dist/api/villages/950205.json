@@ -2,56 +2,67 @@
   {
     "code": "9502052001",
     "district_code": "950205",
-    "name": "Batom"
+    "name": "Batom",
+    "postal_code": "99442"
   },
   {
     "code": "9502052002",
     "district_code": "950205",
-    "name": "Oksip"
+    "name": "Oksip",
+    "postal_code": "99576"
   },
   {
     "code": "9502052003",
     "district_code": "950205",
-    "name": "Mongham"
+    "name": "Mongham",
+    "postal_code": "99576"
   },
   {
     "code": "9502052004",
     "district_code": "950205",
-    "name": "Sabi"
+    "name": "Sabi",
+    "postal_code": "99576"
   },
   {
     "code": "9502052005",
     "district_code": "950205",
-    "name": "Neep"
+    "name": "Neep",
+    "postal_code": "99576"
   },
   {
     "code": "9502052006",
     "district_code": "950205",
-    "name": "Muara"
+    "name": "Muara",
+    "postal_code": "99442"
   },
   {
     "code": "9502052007",
     "district_code": "950205",
-    "name": "Batom Dua"
+    "name": "Batom Dua",
+    "postal_code": "99576"
   },
   {
     "code": "9502052008",
     "district_code": "950205",
-    "name": "Akyako"
+    "name": "Akyako",
+    "postal_code": "99576"
   },
   {
     "code": "9502052009",
     "district_code": "950205",
-    "name": "Peteng"
+    "name": "Peteng",
+    "postal_code": "99442"
   },
   {
     "code": "9502052010",
     "district_code": "950205",
-    "name": "Belomo"
+    "name": "Belomo",
+    "postal_code": "99576"
   },
   {
     "code": "9502052011",
     "district_code": "950205",
-    "name": "Abukerom"
+    "name": "Abukerom",
+    "postal_code": "99442"
   }
 ]

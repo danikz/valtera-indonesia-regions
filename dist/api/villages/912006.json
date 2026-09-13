@@ -2,36 +2,43 @@
   {
     "code": "9120062001",
     "district_code": "912006",
-    "name": "Nadofoai"
+    "name": "Nadofoai",
+    "postal_code": "98681"
   },
   {
     "code": "9120062002",
     "district_code": "912006",
-    "name": "Barapasi"
+    "name": "Barapasi",
+    "postal_code": "98681"
   },
   {
     "code": "9120062003",
     "district_code": "912006",
-    "name": "Sipisi"
+    "name": "Sipisi",
+    "postal_code": "98681"
   },
   {
     "code": "9120062004",
     "district_code": "912006",
-    "name": "Bariwaro"
+    "name": "Bariwaro",
+    "postal_code": "98681"
   },
   {
     "code": "9120062005",
     "district_code": "912006",
-    "name": "Bensor"
+    "name": "Bensor",
+    "postal_code": "98681"
   },
   {
     "code": "9120062006",
     "district_code": "912006",
-    "name": "Rawiwa"
+    "name": "Rawiwa",
+    "postal_code": "98681"
   },
   {
     "code": "9120062007",
     "district_code": "912006",
-    "name": "Marikai"
+    "name": "Marikai",
+    "postal_code": "98681"
   }
 ]

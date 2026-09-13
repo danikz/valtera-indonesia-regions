@@ -2,51 +2,61 @@
   {
     "code": "9209102002",
     "district_code": "920910",
-    "name": "Saukorem"
+    "name": "Saukorem",
+    "postal_code": ""
   },
   {
     "code": "9209102004",
     "district_code": "920910",
-    "name": "Wefani"
+    "name": "Wefani",
+    "postal_code": ""
   },
   {
     "code": "9209102005",
     "district_code": "920910",
-    "name": "Serayo"
+    "name": "Serayo",
+    "postal_code": ""
   },
   {
     "code": "9209102006",
     "district_code": "920910",
-    "name": "Wasarak"
+    "name": "Wasarak",
+    "postal_code": ""
   },
   {
     "code": "9209102010",
     "district_code": "920910",
-    "name": "Wekari"
+    "name": "Wekari",
+    "postal_code": ""
   },
   {
     "code": "9209102012",
     "district_code": "920910",
-    "name": "Binasi"
+    "name": "Binasi",
+    "postal_code": ""
   },
   {
     "code": "9209102013",
     "district_code": "920910",
-    "name": "Kabibwan"
+    "name": "Kabibwan",
+    "postal_code": ""
   },
   {
     "code": "9209102014",
     "district_code": "920910",
-    "name": "Binmaks"
+    "name": "Binmaks",
+    "postal_code": ""
   },
   {
     "code": "9209102016",
     "district_code": "920910",
-    "name": "Manggapnut"
+    "name": "Manggapnut",
+    "postal_code": ""
   },
   {
     "code": "9209102017",
     "district_code": "920910",
-    "name": "Waramui"
+    "name": "Waramui",
+    "postal_code": ""
   }
 ]

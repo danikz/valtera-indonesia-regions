@@ -2,41 +2,49 @@
   {
     "code": "9203162001",
     "district_code": "920316",
-    "name": "Salakiti"
+    "name": "Salakiti",
+    "postal_code": "98023"
   },
   {
     "code": "9203162002",
     "district_code": "920316",
-    "name": "Tawar"
+    "name": "Tawar",
+    "postal_code": "98023"
   },
   {
     "code": "9203162003",
     "district_code": "920316",
-    "name": "Gar"
+    "name": "Gar",
+    "postal_code": "98023"
   },
   {
     "code": "9203162004",
     "district_code": "920316",
-    "name": "Rumbati"
+    "name": "Rumbati",
+    "postal_code": "98023"
   },
   {
     "code": "9203162005",
     "district_code": "920316",
-    "name": "Werfra"
+    "name": "Werfra",
+    "postal_code": "98023"
   },
   {
     "code": "9203162006",
     "district_code": "920316",
-    "name": "Tanehamur"
+    "name": "Tanehamur",
+    "postal_code": "98023"
   },
   {
     "code": "9203162007",
     "district_code": "920316",
-    "name": "Sengkiti"
+    "name": "Sengkiti",
+    "postal_code": "98023"
   },
   {
     "code": "9203162008",
     "district_code": "920316",
-    "name": "Twootkindik"
+    "name": "Twootkindik",
+    "postal_code": "98023"
   }
 ]

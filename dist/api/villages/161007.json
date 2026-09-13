@@ -2,81 +2,97 @@
   {
     "code": "1610071016",
     "district_code": "161007",
-    "name": "Timbangan"
+    "name": "Timbangan",
+    "postal_code": "30862"
   },
   {
     "code": "1610072001",
     "district_code": "161007",
-    "name": "Tanjung Pering"
+    "name": "Tanjung Pering",
+    "postal_code": "30813"
   },
   {
     "code": "1610072002",
     "district_code": "161007",
-    "name": "Bakung"
+    "name": "Bakung",
+    "postal_code": "30862"
   },
   {
     "code": "1610072003",
     "district_code": "161007",
-    "name": "Lorok"
+    "name": "Lorok",
+    "postal_code": "30862"
   },
   {
     "code": "1610072004",
     "district_code": "161007",
-    "name": "Parit"
+    "name": "Parit",
+    "postal_code": "30862"
   },
   {
     "code": "1610072005",
     "district_code": "161007",
-    "name": "Payakabung"
+    "name": "Payakabung",
+    "postal_code": "30812"
   },
   {
     "code": "1610072006",
     "district_code": "161007",
-    "name": "Sungai Rambutan"
+    "name": "Sungai Rambutan",
+    "postal_code": "30862"
   },
   {
     "code": "1610072007",
     "district_code": "161007",
-    "name": "Purna Jaya"
+    "name": "Purna Jaya",
+    "postal_code": "30862"
   },
   {
     "code": "1610072008",
     "district_code": "161007",
-    "name": "Soak Batok"
+    "name": "Soak Batok",
+    "postal_code": "30862"
   },
   {
     "code": "1610072009",
     "district_code": "161007",
-    "name": "Tanjung Baru"
+    "name": "Tanjung Baru",
+    "postal_code": "30862"
   },
   {
     "code": "1610072010",
     "district_code": "161007",
-    "name": "Tanjung Pule"
+    "name": "Tanjung Pule",
+    "postal_code": "30862"
   },
   {
     "code": "1610072011",
     "district_code": "161007",
-    "name": "Permata Baru"
+    "name": "Permata Baru",
+    "postal_code": "30862"
   },
   {
     "code": "1610072012",
     "district_code": "161007",
-    "name": "Suka Mulia"
+    "name": "Suka Mulia",
+    "postal_code": "30862"
   },
   {
     "code": "1610072013",
     "district_code": "161007",
-    "name": "Pulau Kabai"
+    "name": "Pulau Kabai",
+    "postal_code": "30862"
   },
   {
     "code": "1610072014",
     "district_code": "161007",
-    "name": "Pulau Semambu"
+    "name": "Pulau Semambu",
+    "postal_code": "30862"
   },
   {
     "code": "1610072015",
     "district_code": "161007",
-    "name": "Palem Raya"
+    "name": "Palem Raya",
+    "postal_code": "30862"
   }
 ]

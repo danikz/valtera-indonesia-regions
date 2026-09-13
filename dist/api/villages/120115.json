@@ -2,46 +2,55 @@
   {
     "code": "1201151001",
     "district_code": "120115",
-    "name": "Hutabalang"
+    "name": "Hutabalang",
+    "postal_code": "22654"
   },
   {
     "code": "1201151002",
     "district_code": "120115",
-    "name": "Lopian"
+    "name": "Lopian",
+    "postal_code": "22654"
   },
   {
     "code": "1201152003",
     "district_code": "120115",
-    "name": "Jago Jago"
+    "name": "Jago Jago",
+    "postal_code": "22654"
   },
   {
     "code": "1201152004",
     "district_code": "120115",
-    "name": "Aek Horsik"
+    "name": "Aek Horsik",
+    "postal_code": "22654"
   },
   {
     "code": "1201152005",
     "district_code": "120115",
-    "name": "Gunung Kelambu"
+    "name": "Gunung Kelambu",
+    "postal_code": "22654"
   },
   {
     "code": "1201152006",
     "district_code": "120115",
-    "name": "Kebun Pisang"
+    "name": "Kebun Pisang",
+    "postal_code": "22654"
   },
   {
     "code": "1201152007",
     "district_code": "120115",
-    "name": "Lubuk Ampolu"
+    "name": "Lubuk Ampolu",
+    "postal_code": "22654"
   },
   {
     "code": "1201152008",
     "district_code": "120115",
-    "name": "Pagaran Honas"
+    "name": "Pagaran Honas",
+    "postal_code": "22654"
   },
   {
     "code": "1201152009",
     "district_code": "120115",
-    "name": "Sitardas"
+    "name": "Sitardas",
+    "postal_code": "22654"
   }
 ]

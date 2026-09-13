@@ -2,46 +2,55 @@
   {
     "code": "1803142001",
     "district_code": "180314",
-    "name": "Tatakarya"
+    "name": "Tatakarya",
+    "postal_code": "34585"
   },
   {
     "code": "1803142002",
     "district_code": "180314",
-    "name": "Bandar Abung"
+    "name": "Bandar Abung",
+    "postal_code": "34585"
   },
   {
     "code": "1803142003",
     "district_code": "180314",
-    "name": "Bangun Sari"
+    "name": "Bangun Sari",
+    "postal_code": "34585"
   },
   {
     "code": "1803142004",
     "district_code": "180314",
-    "name": "Purba Sakti"
+    "name": "Purba Sakti",
+    "postal_code": "34585"
   },
   {
     "code": "1803142005",
     "district_code": "180314",
-    "name": "Bumi Raharja"
+    "name": "Bumi Raharja",
+    "postal_code": "34585"
   },
   {
     "code": "1803142006",
     "district_code": "180314",
-    "name": "Bumi Restu"
+    "name": "Bumi Restu",
+    "postal_code": "34585"
   },
   {
     "code": "1803142007",
     "district_code": "180314",
-    "name": "Bandar Sakti"
+    "name": "Bandar Sakti",
+    "postal_code": "34585"
   },
   {
     "code": "1803142008",
     "district_code": "180314",
-    "name": "Karya Sakti"
+    "name": "Karya Sakti",
+    "postal_code": "34585"
   },
   {
     "code": "1803142009",
     "district_code": "180314",
-    "name": "Sukoharjo"
+    "name": "Sukoharjo",
+    "postal_code": "34585"
   }
 ]

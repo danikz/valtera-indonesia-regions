@@ -2,31 +2,37 @@
   {
     "code": "6502092001",
     "district_code": "650209",
-    "name": "Dumu Mahak"
+    "name": "Dumu Mahak",
+    "postal_code": "77574"
   },
   {
     "code": "6502092002",
     "district_code": "650209",
-    "name": "Long Lebusan"
+    "name": "Long Lebusan",
+    "postal_code": "77574"
   },
   {
     "code": "6502092003",
     "district_code": "650209",
-    "name": "Mahak Baru"
+    "name": "Mahak Baru",
+    "postal_code": "77574"
   },
   {
     "code": "6502092004",
     "district_code": "650209",
-    "name": "Long Top"
+    "name": "Long Top",
+    "postal_code": "77574"
   },
   {
     "code": "6502092005",
     "district_code": "650209",
-    "name": "Agung Baru"
+    "name": "Agung Baru",
+    "postal_code": "77574"
   },
   {
     "code": "6502092006",
     "district_code": "650209",
-    "name": "Data Baru"
+    "name": "Data Baru",
+    "postal_code": "77574"
   }
 ]

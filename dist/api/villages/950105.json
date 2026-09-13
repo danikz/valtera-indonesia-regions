@@ -2,61 +2,73 @@
   {
     "code": "9501052001",
     "district_code": "950105",
-    "name": "Bolakme"
+    "name": "Bolakme",
+    "postal_code": "99541"
   },
   {
     "code": "9501052002",
     "district_code": "950105",
-    "name": "Munak"
+    "name": "Munak",
+    "postal_code": "99517"
   },
   {
     "code": "9501052003",
     "district_code": "950105",
-    "name": "Tenonggame"
+    "name": "Tenonggame",
+    "postal_code": "99541"
   },
   {
     "code": "9501052004",
     "district_code": "950105",
-    "name": "Bandua"
+    "name": "Bandua",
+    "postal_code": "99517"
   },
   {
     "code": "9501052005",
     "district_code": "950105",
-    "name": "Lani Timur"
+    "name": "Lani Timur",
+    "postal_code": "99517"
   },
   {
     "code": "9501052006",
     "district_code": "950105",
-    "name": "Nunggarugum"
+    "name": "Nunggarugum",
+    "postal_code": "99517"
   },
   {
     "code": "9501052007",
     "district_code": "950105",
-    "name": "Poitmos"
+    "name": "Poitmos",
+    "postal_code": "99517"
   },
   {
     "code": "9501052008",
     "district_code": "950105",
-    "name": "Kugitero"
+    "name": "Kugitero",
+    "postal_code": "99517"
   },
   {
     "code": "9501052009",
     "district_code": "950105",
-    "name": "Wenamela"
+    "name": "Wenamela",
+    "postal_code": "99517"
   },
   {
     "code": "9501052010",
     "district_code": "950105",
-    "name": "Bimu"
+    "name": "Bimu",
+    "postal_code": "99517"
   },
   {
     "code": "9501052011",
     "district_code": "950105",
-    "name": "Tekani"
+    "name": "Tekani",
+    "postal_code": "99517"
   },
   {
     "code": "9501052012",
     "district_code": "950105",
-    "name": "Owagambak"
+    "name": "Owagambak",
+    "postal_code": "99517"
   }
 ]

@@ -2,31 +2,37 @@
   {
     "code": "6403082001",
     "district_code": "640308",
-    "name": "Biduk-Biduk"
+    "name": "Biduk-Biduk",
+    "postal_code": "77373"
   },
   {
     "code": "6403082002",
     "district_code": "640308",
-    "name": "Pantai Harapan"
+    "name": "Pantai Harapan",
+    "postal_code": "77373"
   },
   {
     "code": "6403082003",
     "district_code": "640308",
-    "name": "Tanjung Prepat"
+    "name": "Tanjung Prepat",
+    "postal_code": "77373"
   },
   {
     "code": "6403082004",
     "district_code": "640308",
-    "name": "Teluk Sumbang"
+    "name": "Teluk Sumbang",
+    "postal_code": "77373"
   },
   {
     "code": "6403082008",
     "district_code": "640308",
-    "name": "Teluk Sulaiman"
+    "name": "Teluk Sulaiman",
+    "postal_code": "77373"
   },
   {
     "code": "6403082009",
     "district_code": "640308",
-    "name": "Giring-Giring"
+    "name": "Giring-Giring",
+    "postal_code": "77373"
   }
 ]

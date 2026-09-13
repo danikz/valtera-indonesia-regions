@@ -2,56 +2,67 @@
   {
     "code": "8101132001",
     "district_code": "810113",
-    "name": "Aboru"
+    "name": "Aboru",
+    "postal_code": "97583"
   },
   {
     "code": "8101132002",
     "district_code": "810113",
-    "name": "Wassu"
+    "name": "Wassu",
+    "postal_code": "97583"
   },
   {
     "code": "8101132003",
     "district_code": "810113",
-    "name": "Oma"
+    "name": "Oma",
+    "postal_code": "97583"
   },
   {
     "code": "8101132004",
     "district_code": "810113",
-    "name": "Haruku"
+    "name": "Haruku",
+    "postal_code": "97583"
   },
   {
     "code": "8101132005",
     "district_code": "810113",
-    "name": "Sameth"
+    "name": "Sameth",
+    "postal_code": "97583"
   },
   {
     "code": "8101132006",
     "district_code": "810113",
-    "name": "Rohomoni"
+    "name": "Rohomoni",
+    "postal_code": "97583"
   },
   {
     "code": "8101132007",
     "district_code": "810113",
-    "name": "Kabauw"
+    "name": "Kabauw",
+    "postal_code": "97583"
   },
   {
     "code": "8101132008",
     "district_code": "810113",
-    "name": "Kailolo"
+    "name": "Kailolo",
+    "postal_code": "97583"
   },
   {
     "code": "8101132009",
     "district_code": "810113",
-    "name": "Pelauw"
+    "name": "Pelauw",
+    "postal_code": "97583"
   },
   {
     "code": "8101132010",
     "district_code": "810113",
-    "name": "Kariu"
+    "name": "Kariu",
+    "postal_code": "97583"
   },
   {
     "code": "8101132011",
     "district_code": "810113",
-    "name": "Hulaliu"
+    "name": "Hulaliu",
+    "postal_code": "97583"
   }
 ]

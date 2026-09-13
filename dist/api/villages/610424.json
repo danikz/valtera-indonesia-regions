@@ -2,36 +2,43 @@
   {
     "code": "6104242001",
     "district_code": "610424",
-    "name": "Pebihingan"
+    "name": "Pebihingan",
+    "postal_code": "78874"
   },
   {
     "code": "6104242002",
     "district_code": "610424",
-    "name": "Lalang Panjang"
+    "name": "Lalang Panjang",
+    "postal_code": "78874"
   },
   {
     "code": "6104242003",
     "district_code": "610424",
-    "name": "Semayok Baru"
+    "name": "Semayok Baru",
+    "postal_code": "78874"
   },
   {
     "code": "6104242004",
     "district_code": "610424",
-    "name": "Muara Gerunggang"
+    "name": "Muara Gerunggang",
+    "postal_code": "78874"
   },
   {
     "code": "6104242005",
     "district_code": "610424",
-    "name": "Usaha Baru"
+    "name": "Usaha Baru",
+    "postal_code": "78874"
   },
   {
     "code": "6104242006",
     "district_code": "610424",
-    "name": "Kerta Baru"
+    "name": "Kerta Baru",
+    "postal_code": "78874"
   },
   {
     "code": "6104242007",
     "district_code": "610424",
-    "name": "Muara Semayok"
+    "name": "Muara Semayok",
+    "postal_code": "78874"
   }
 ]

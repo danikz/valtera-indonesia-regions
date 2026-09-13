@@ -2,36 +2,43 @@
   {
     "code": "9503342001",
     "district_code": "950334",
-    "name": "Holuwon"
+    "name": "Holuwon",
+    "postal_code": "99733"
   },
   {
     "code": "9503342002",
     "district_code": "950334",
-    "name": "Danggema"
+    "name": "Danggema",
+    "postal_code": "99733"
   },
   {
     "code": "9503342003",
     "district_code": "950334",
-    "name": "Weni"
+    "name": "Weni",
+    "postal_code": "99733"
   },
   {
     "code": "9503342004",
     "district_code": "950334",
-    "name": "Sosi"
+    "name": "Sosi",
+    "postal_code": "99733"
   },
   {
     "code": "9503342005",
     "district_code": "950334",
-    "name": "Sia"
+    "name": "Sia",
+    "postal_code": "99733"
   },
   {
     "code": "9503342006",
     "district_code": "950334",
-    "name": "Bineleruk"
+    "name": "Bineleruk",
+    "postal_code": "99733"
   },
   {
     "code": "9503342007",
     "district_code": "950334",
-    "name": "Sohonggik"
+    "name": "Sohonggik",
+    "postal_code": "99733"
   }
 ]

@@ -2,76 +2,91 @@
   {
     "code": "3506092001",
     "district_code": "350609",
-    "name": "Gondang"
+    "name": "Gondang",
+    "postal_code": "64175"
   },
   {
     "code": "3506092002",
     "district_code": "350609",
-    "name": "Kayunan"
+    "name": "Kayunan",
+    "postal_code": "64175"
   },
   {
     "code": "3506092003",
     "district_code": "350609",
-    "name": "Panjer"
+    "name": "Panjer",
+    "postal_code": "64175"
   },
   {
     "code": "3506092004",
     "district_code": "350609",
-    "name": "Jarak"
+    "name": "Jarak",
+    "postal_code": "64175"
   },
   {
     "code": "3506092005",
     "district_code": "350609",
-    "name": "Ploso Kidul"
+    "name": "Ploso Kidul",
+    "postal_code": "64175"
   },
   {
     "code": "3506092006",
     "district_code": "350609",
-    "name": "Ploso Lor"
+    "name": "Ploso Lor",
+    "postal_code": "64175"
   },
   {
     "code": "3506092007",
     "district_code": "350609",
-    "name": "Brenggolo"
+    "name": "Brenggolo",
+    "postal_code": "64175"
   },
   {
     "code": "3506092008",
     "district_code": "350609",
-    "name": "Donganti"
+    "name": "Donganti",
+    "postal_code": "64175"
   },
   {
     "code": "3506092009",
     "district_code": "350609",
-    "name": "Kawedusan"
+    "name": "Kawedusan",
+    "postal_code": "64175"
   },
   {
     "code": "3506092010",
     "district_code": "350609",
-    "name": "Klanderan"
+    "name": "Klanderan",
+    "postal_code": "64175"
   },
   {
     "code": "3506092011",
     "district_code": "350609",
-    "name": "Punjul"
+    "name": "Punjul",
+    "postal_code": "64175"
   },
   {
     "code": "3506092012",
     "district_code": "350609",
-    "name": "Pranggang"
+    "name": "Pranggang",
+    "postal_code": "64175"
   },
   {
     "code": "3506092013",
     "district_code": "350609",
-    "name": "Sumberagung"
+    "name": "Sumberagung",
+    "postal_code": "64175"
   },
   {
     "code": "3506092014",
     "district_code": "350609",
-    "name": "Wonorejo Trisulo"
+    "name": "Wonorejo Trisulo",
+    "postal_code": "64175"
   },
   {
     "code": "3506092015",
     "district_code": "350609",
-    "name": "Sepawon"
+    "name": "Sepawon",
+    "postal_code": "64175"
   }
 ]

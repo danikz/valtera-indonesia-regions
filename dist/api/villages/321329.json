@@ -2,36 +2,43 @@
   {
     "code": "3213292001",
     "district_code": "321329",
-    "name": "Cisaat"
+    "name": "Cisaat",
+    "postal_code": "41280"
   },
   {
     "code": "3213292002",
     "district_code": "321329",
-    "name": "Ciater"
+    "name": "Ciater",
+    "postal_code": "41280"
   },
   {
     "code": "3213292003",
     "district_code": "321329",
-    "name": "Nagrak"
+    "name": "Nagrak",
+    "postal_code": "41280"
   },
   {
     "code": "3213292004",
     "district_code": "321329",
-    "name": "Cibeusi"
+    "name": "Cibeusi",
+    "postal_code": "41280"
   },
   {
     "code": "3213292005",
     "district_code": "321329",
-    "name": "Cibitung"
+    "name": "Cibitung",
+    "postal_code": "41280"
   },
   {
     "code": "3213292006",
     "district_code": "321329",
-    "name": "Palasari"
+    "name": "Palasari",
+    "postal_code": "41280"
   },
   {
     "code": "3213292007",
     "district_code": "321329",
-    "name": "Sanca"
+    "name": "Sanca",
+    "postal_code": "41280"
   }
 ]

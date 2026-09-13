@@ -2,46 +2,55 @@
   {
     "code": "3510211001",
     "district_code": "351021",
-    "name": "Kalipuro"
+    "name": "Kalipuro",
+    "postal_code": "68455"
   },
   {
     "code": "3510211002",
     "district_code": "351021",
-    "name": "Klatak"
+    "name": "Klatak",
+    "postal_code": "68421"
   },
   {
     "code": "3510211006",
     "district_code": "351021",
-    "name": "Gombengsari"
+    "name": "Gombengsari",
+    "postal_code": "68455"
   },
   {
     "code": "3510211007",
     "district_code": "351021",
-    "name": "Bulusan"
+    "name": "Bulusan",
+    "postal_code": "68455"
   },
   {
     "code": "3510212003",
     "district_code": "351021",
-    "name": "Ketapang"
+    "name": "Ketapang",
+    "postal_code": "68455"
   },
   {
     "code": "3510212004",
     "district_code": "351021",
-    "name": "Pesucen"
+    "name": "Pesucen",
+    "postal_code": "68455"
   },
   {
     "code": "3510212005",
     "district_code": "351021",
-    "name": "Kelir"
+    "name": "Kelir",
+    "postal_code": "68455"
   },
   {
     "code": "3510212008",
     "district_code": "351021",
-    "name": "Telemung"
+    "name": "Telemung",
+    "postal_code": "68455"
   },
   {
     "code": "3510212009",
     "district_code": "351021",
-    "name": "Bulusari"
+    "name": "Bulusari",
+    "postal_code": "68455"
   }
 ]

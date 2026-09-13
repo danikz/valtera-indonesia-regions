@@ -2,36 +2,43 @@
   {
     "code": "7105072001",
     "district_code": "710507",
-    "name": "Motoling"
+    "name": "Motoling",
+    "postal_code": "95941"
   },
   {
     "code": "7105072002",
     "district_code": "710507",
-    "name": "Motoling Mawale"
+    "name": "Motoling Mawale",
+    "postal_code": "95941"
   },
   {
     "code": "7105072003",
     "district_code": "710507",
-    "name": "Motoling I"
+    "name": "Motoling I",
+    "postal_code": "95941"
   },
   {
     "code": "7105072004",
     "district_code": "710507",
-    "name": "Motoling II"
+    "name": "Motoling II",
+    "postal_code": "95941"
   },
   {
     "code": "7105072005",
     "district_code": "710507",
-    "name": "Picuan Baru"
+    "name": "Picuan Baru",
+    "postal_code": "95941"
   },
   {
     "code": "7105072015",
     "district_code": "710507",
-    "name": "Lalumpe"
+    "name": "Lalumpe",
+    "postal_code": "95941"
   },
   {
     "code": "7105072021",
     "district_code": "710507",
-    "name": "Raanan Lama"
+    "name": "Raanan Lama",
+    "postal_code": "95941"
   }
 ]

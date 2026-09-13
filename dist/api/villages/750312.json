@@ -2,41 +2,49 @@
   {
     "code": "7503122001",
     "district_code": "750312",
-    "name": "Bulontala"
+    "name": "Bulontala",
+    "postal_code": "96563"
   },
   {
     "code": "7503122002",
     "district_code": "750312",
-    "name": "Libungo"
+    "name": "Libungo",
+    "postal_code": "96563"
   },
   {
     "code": "7503122003",
     "district_code": "750312",
-    "name": "Molintogupo"
+    "name": "Molintogupo",
+    "postal_code": "96563"
   },
   {
     "code": "7503122004",
     "district_code": "750312",
-    "name": "Bonedaa"
+    "name": "Bonedaa",
+    "postal_code": "96563"
   },
   {
     "code": "7503122005",
     "district_code": "750312",
-    "name": "Bondawuna"
+    "name": "Bondawuna",
+    "postal_code": "96563"
   },
   {
     "code": "7503122006",
     "district_code": "750312",
-    "name": "Bulontala Timur"
+    "name": "Bulontala Timur",
+    "postal_code": "96563"
   },
   {
     "code": "7503122007",
     "district_code": "750312",
-    "name": "Pancuran"
+    "name": "Pancuran",
+    "postal_code": "96563"
   },
   {
     "code": "7503122008",
     "district_code": "750312",
-    "name": "Bondaraya"
+    "name": "Bondaraya",
+    "postal_code": "96563"
   }
 ]

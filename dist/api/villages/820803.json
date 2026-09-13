@@ -2,26 +2,31 @@
   {
     "code": "8208032001",
     "district_code": "820803",
-    "name": "Lede"
+    "name": "Lede",
+    "postal_code": "97794"
   },
   {
     "code": "8208032002",
     "district_code": "820803",
-    "name": "Todoli"
+    "name": "Todoli",
+    "postal_code": "97794"
   },
   {
     "code": "8208032003",
     "district_code": "820803",
-    "name": "Tolong"
+    "name": "Tolong",
+    "postal_code": "97794"
   },
   {
     "code": "8208032004",
     "district_code": "820803",
-    "name": "Langganu"
+    "name": "Langganu",
+    "postal_code": "97794"
   },
   {
     "code": "8208032005",
     "district_code": "820803",
-    "name": "Balohang"
+    "name": "Balohang",
+    "postal_code": "97794"
   }
 ]

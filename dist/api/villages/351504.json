@@ -2,76 +2,91 @@
   {
     "code": "3515041003",
     "district_code": "351504",
-    "name": "Porong"
+    "name": "Porong",
+    "postal_code": "61274"
   },
   {
     "code": "3515041004",
     "district_code": "351504",
-    "name": "Juwetkenongo"
+    "name": "Juwetkenongo",
+    "postal_code": "61274"
   },
   {
     "code": "3515041006",
     "district_code": "351504",
-    "name": "Gedang"
+    "name": "Gedang",
+    "postal_code": "61274"
   },
   {
     "code": "3515042001",
     "district_code": "351504",
-    "name": "Kebonagung"
+    "name": "Kebonagung",
+    "postal_code": "61274"
   },
   {
     "code": "3515042002",
     "district_code": "351504",
-    "name": "Kedungsolo"
+    "name": "Kedungsolo",
+    "postal_code": "61274"
   },
   {
     "code": "3515042007",
     "district_code": "351504",
-    "name": "Kesambi"
+    "name": "Kesambi",
+    "postal_code": "61274"
   },
   {
     "code": "3515042008",
     "district_code": "351504",
-    "name": "Kebakalan"
+    "name": "Kebakalan",
+    "postal_code": "61274"
   },
   {
     "code": "3515042009",
     "district_code": "351504",
-    "name": "Lajuk"
+    "name": "Lajuk",
+    "postal_code": "61274"
   },
   {
     "code": "3515042010",
     "district_code": "351504",
-    "name": "Kedungboto"
+    "name": "Kedungboto",
+    "postal_code": "61274"
   },
   {
     "code": "3515042011",
     "district_code": "351504",
-    "name": "Candipari"
+    "name": "Candipari",
+    "postal_code": "61274"
   },
   {
     "code": "3515042012",
     "district_code": "351504",
-    "name": "Pamotan"
+    "name": "Pamotan",
+    "postal_code": "61274"
   },
   {
     "code": "3515042015",
     "district_code": "351504",
-    "name": "Glagaharum"
+    "name": "Glagaharum",
+    "postal_code": "61274"
   },
   {
     "code": "3515042016",
     "district_code": "351504",
-    "name": "Plumbon"
+    "name": "Plumbon",
+    "postal_code": "61274"
   },
   {
     "code": "3515042018",
     "district_code": "351504",
-    "name": "Wunut"
+    "name": "Wunut",
+    "postal_code": "61274"
   },
   {
     "code": "3515042019",
     "district_code": "351504",
-    "name": "Pesawahan"
+    "name": "Pesawahan",
+    "postal_code": "61274"
   }
 ]

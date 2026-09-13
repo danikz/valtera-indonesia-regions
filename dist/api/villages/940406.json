@@ -2,61 +2,73 @@
   {
     "code": "9404062001",
     "district_code": "940406",
-    "name": "Jila"
+    "name": "Jila",
+    "postal_code": "99961"
   },
   {
     "code": "9404062002",
     "district_code": "940406",
-    "name": "Diloa"
+    "name": "Diloa",
+    "postal_code": "99961"
   },
   {
     "code": "9404062003",
     "district_code": "940406",
-    "name": "Noemun"
+    "name": "Noemun",
+    "postal_code": "99961"
   },
   {
     "code": "9404062004",
     "district_code": "940406",
-    "name": "Pasir Putih"
+    "name": "Pasir Putih",
+    "postal_code": "99966"
   },
   {
     "code": "9404062005",
     "district_code": "940406",
-    "name": "Jengkon"
+    "name": "Jengkon",
+    "postal_code": "99966"
   },
   {
     "code": "9404062006",
     "district_code": "940406",
-    "name": "Pilik Ogom"
+    "name": "Pilik Ogom",
+    "postal_code": "99961"
   },
   {
     "code": "9404062007",
     "district_code": "940406",
-    "name": "Bunaraugin"
+    "name": "Bunaraugin",
+    "postal_code": "99961"
   },
   {
     "code": "9404062008",
     "district_code": "940406",
-    "name": "Umpliga"
+    "name": "Umpliga",
+    "postal_code": "99961"
   },
   {
     "code": "9404062009",
     "district_code": "940406",
-    "name": "Amua Ogom"
+    "name": "Amua Ogom",
+    "postal_code": "99961"
   },
   {
     "code": "9404062010",
     "district_code": "940406",
-    "name": "Pusuwe"
+    "name": "Pusuwe",
+    "postal_code": "99961"
   },
   {
     "code": "9404062011",
     "district_code": "940406",
-    "name": "Wandud"
+    "name": "Wandud",
+    "postal_code": "99961"
   },
   {
     "code": "9404062012",
     "district_code": "940406",
-    "name": "Diloa Dua"
+    "name": "Diloa Dua",
+    "postal_code": "99966"
   }
 ]

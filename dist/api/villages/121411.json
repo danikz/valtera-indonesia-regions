@@ -2,51 +2,61 @@
   {
     "code": "1214112001",
     "district_code": "121411",
-    "name": "Togizita"
+    "name": "Togizita",
+    "postal_code": "22864"
   },
   {
     "code": "1214112002",
     "district_code": "121411",
-    "name": "Soledua"
+    "name": "Soledua",
+    "postal_code": "22864"
   },
   {
     "code": "1214112003",
     "district_code": "121411",
-    "name": "Bawosalo'o Dao-dao"
+    "name": "Bawosalo'o Dao-dao",
+    "postal_code": "22864"
   },
   {
     "code": "1214112004",
     "district_code": "121411",
-    "name": "Tuho'owo"
+    "name": "Tuho'owo",
+    "postal_code": "22864"
   },
   {
     "code": "1214112005",
     "district_code": "121411",
-    "name": "Togizita I"
+    "name": "Togizita I",
+    "postal_code": "22864"
   },
   {
     "code": "1214112007",
     "district_code": "121411",
-    "name": "Hilitoese"
+    "name": "Hilitoese",
+    "postal_code": "22864"
   },
   {
     "code": "1214112008",
     "district_code": "121411",
-    "name": "Dao-dao Sowo"
+    "name": "Dao-dao Sowo",
+    "postal_code": "22864"
   },
   {
     "code": "1214112009",
     "district_code": "121411",
-    "name": "Hiliadulo"
+    "name": "Hiliadulo",
+    "postal_code": "22864"
   },
   {
     "code": "1214112010",
     "district_code": "121411",
-    "name": "Soledua I"
+    "name": "Soledua I",
+    "postal_code": "22864"
   },
   {
     "code": "1214112011",
     "district_code": "121411",
-    "name": "Soledua II"
+    "name": "Soledua II",
+    "postal_code": "22864"
   }
 ]

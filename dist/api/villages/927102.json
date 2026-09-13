@@ -2,21 +2,25 @@
   {
     "code": "9271021008",
     "district_code": "927102",
-    "name": "Klawalu"
+    "name": "Klawalu",
+    "postal_code": ""
   },
   {
     "code": "9271021010",
     "district_code": "927102",
-    "name": "Klamana"
+    "name": "Klamana",
+    "postal_code": ""
   },
   {
     "code": "9271021011",
     "district_code": "927102",
-    "name": "Klawuyuk"
+    "name": "Klawuyuk",
+    "postal_code": ""
   },
   {
     "code": "9271021013",
     "district_code": "927102",
-    "name": "Kladufu"
+    "name": "Kladufu",
+    "postal_code": ""
   }
 ]

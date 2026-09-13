@@ -2,51 +2,61 @@
   {
     "code": "9504412001",
     "district_code": "950441",
-    "name": "Kaiga"
+    "name": "Kaiga",
+    "postal_code": "99026"
   },
   {
     "code": "9504412002",
     "district_code": "950441",
-    "name": "Bawi"
+    "name": "Bawi",
+    "postal_code": "99026"
   },
   {
     "code": "9504412003",
     "district_code": "950441",
-    "name": "Tina"
+    "name": "Tina",
+    "postal_code": "99026"
   },
   {
     "code": "9504412004",
     "district_code": "950441",
-    "name": "Kurbaya"
+    "name": "Kurbaya",
+    "postal_code": "99026"
   },
   {
     "code": "9504412005",
     "district_code": "950441",
-    "name": "Wiyangger"
+    "name": "Wiyangger",
+    "postal_code": "99026"
   },
   {
     "code": "9504412006",
     "district_code": "950441",
-    "name": "Again"
+    "name": "Again",
+    "postal_code": "99026"
   },
   {
     "code": "9504412007",
     "district_code": "950441",
-    "name": "Piraleme"
+    "name": "Piraleme",
+    "postal_code": "99026"
   },
   {
     "code": "9504412008",
     "district_code": "950441",
-    "name": "Tunggunale"
+    "name": "Tunggunale",
+    "postal_code": "99026"
   },
   {
     "code": "9504412009",
     "district_code": "950441",
-    "name": "Kotorambur"
+    "name": "Kotorambur",
+    "postal_code": "99026"
   },
   {
     "code": "9504412010",
     "district_code": "950441",
-    "name": "Wolu"
+    "name": "Wolu",
+    "postal_code": "99026"
   }
 ]

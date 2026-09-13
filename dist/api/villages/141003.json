@@ -2,71 +2,85 @@
   {
     "code": "1410032001",
     "district_code": "141003",
-    "name": "Tanjung Samak"
+    "name": "Tanjung Samak",
+    "postal_code": "28755"
   },
   {
     "code": "1410032002",
     "district_code": "141003",
-    "name": "Tanjung Medang"
+    "name": "Tanjung Medang",
+    "postal_code": "28755"
   },
   {
     "code": "1410032004",
     "district_code": "141003",
-    "name": "Gemala Sari"
+    "name": "Gemala Sari",
+    "postal_code": "28755"
   },
   {
     "code": "1410032007",
     "district_code": "141003",
-    "name": "Topang"
+    "name": "Topang",
+    "postal_code": "28755"
   },
   {
     "code": "1410032008",
     "district_code": "141003",
-    "name": "Penyagun"
+    "name": "Penyagun",
+    "postal_code": "28755"
   },
   {
     "code": "1410032010",
     "district_code": "141003",
-    "name": "Repan"
+    "name": "Repan",
+    "postal_code": "28755"
   },
   {
     "code": "1410032011",
     "district_code": "141003",
-    "name": "Tanjung Bakau"
+    "name": "Tanjung Bakau",
+    "postal_code": "28755"
   },
   {
     "code": "1410032012",
     "district_code": "141003",
-    "name": "Teluk Samak"
+    "name": "Teluk Samak",
+    "postal_code": "28755"
   },
   {
     "code": "1410032013",
     "district_code": "141003",
-    "name": "Sungai Gayung Kiri"
+    "name": "Sungai Gayung Kiri",
+    "postal_code": "28755"
   },
   {
     "code": "1410032014",
     "district_code": "141003",
-    "name": "Citra Damai"
+    "name": "Citra Damai",
+    "postal_code": "28755"
   },
   {
     "code": "1410032016",
     "district_code": "141003",
-    "name": "Dwi Tunggal"
+    "name": "Dwi Tunggal",
+    "postal_code": "28755"
   },
   {
     "code": "1410032017",
     "district_code": "141003",
-    "name": "Wonosari"
+    "name": "Wonosari",
+    "postal_code": "28755"
   },
   {
     "code": "1410032018",
     "district_code": "141003",
-    "name": "Tebun"
+    "name": "Tebun",
+    "postal_code": "28755"
   },
   {
     "code": "1410032020",
     "district_code": "141003",
-    "name": "Tanjung Gemuk"
+    "name": "Tanjung Gemuk",
+    "postal_code": "28755"
   }
 ]

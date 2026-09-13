@@ -2,46 +2,55 @@
   {
     "code": "3501072001",
     "district_code": "350107",
-    "name": "Gondang"
+    "name": "Gondang",
+    "postal_code": "63584"
   },
   {
     "code": "3501072002",
     "district_code": "350107",
-    "name": "Mujing"
+    "name": "Mujing",
+    "postal_code": "63584"
   },
   {
     "code": "3501072003",
     "district_code": "350107",
-    "name": "Sempu"
+    "name": "Sempu",
+    "postal_code": "63584"
   },
   {
     "code": "3501072004",
     "district_code": "350107",
-    "name": "Nawangan"
+    "name": "Nawangan",
+    "postal_code": "63584"
   },
   {
     "code": "3501072005",
     "district_code": "350107",
-    "name": "Tokawi"
+    "name": "Tokawi",
+    "postal_code": "63584"
   },
   {
     "code": "3501072006",
     "district_code": "350107",
-    "name": "Jetis Lor"
+    "name": "Jetis Lor",
+    "postal_code": "63584"
   },
   {
     "code": "3501072007",
     "district_code": "350107",
-    "name": "Penggung"
+    "name": "Penggung",
+    "postal_code": "63584"
   },
   {
     "code": "3501072008",
     "district_code": "350107",
-    "name": "Pakis Baru"
+    "name": "Pakis Baru",
+    "postal_code": "63584"
   },
   {
     "code": "3501072009",
     "district_code": "350107",
-    "name": "Ngromo"
+    "name": "Ngromo",
+    "postal_code": "63584"
   }
 ]

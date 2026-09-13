@@ -2,21 +2,25 @@
   {
     "code": "7406192001",
     "district_code": "740619",
-    "name": "Mulaeno"
+    "name": "Mulaeno",
+    "postal_code": "93779"
   },
   {
     "code": "7406192002",
     "district_code": "740619",
-    "name": "Lebo Ea"
+    "name": "Lebo Ea",
+    "postal_code": "93779"
   },
   {
     "code": "7406192003",
     "district_code": "740619",
-    "name": "Paria"
+    "name": "Paria",
+    "postal_code": "93779"
   },
   {
     "code": "7406192004",
     "district_code": "740619",
-    "name": "Poleondro"
+    "name": "Poleondro",
+    "postal_code": "93779"
   }
 ]

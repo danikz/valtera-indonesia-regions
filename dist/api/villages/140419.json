@@ -2,61 +2,73 @@
   {
     "code": "1404191002",
     "district_code": "140419",
-    "name": "Kempas Jaya"
+    "name": "Kempas Jaya",
+    "postal_code": "29261"
   },
   {
     "code": "1404191007",
     "district_code": "140419",
-    "name": "Harapan Tani"
+    "name": "Harapan Tani",
+    "postal_code": "29261"
   },
   {
     "code": "1404192001",
     "district_code": "140419",
-    "name": "Pekan Tua"
+    "name": "Pekan Tua",
+    "postal_code": "29261"
   },
   {
     "code": "1404192003",
     "district_code": "140419",
-    "name": "Rumbai Jaya"
+    "name": "Rumbai Jaya",
+    "postal_code": "29261"
   },
   {
     "code": "1404192004",
     "district_code": "140419",
-    "name": "Bayas Jaya"
+    "name": "Bayas Jaya",
+    "postal_code": "29261"
   },
   {
     "code": "1404192005",
     "district_code": "140419",
-    "name": "Sungaiara"
+    "name": "Sungaiara",
+    "postal_code": "29261"
   },
   {
     "code": "1404192006",
     "district_code": "140419",
-    "name": "Sungaigantang"
+    "name": "Sungaigantang",
+    "postal_code": "29261"
   },
   {
     "code": "1404192008",
     "district_code": "140419",
-    "name": "Karya Tani"
+    "name": "Karya Tani",
+    "postal_code": "29261"
   },
   {
     "code": "1404192009",
     "district_code": "140419",
-    "name": "Kerta Jaya"
+    "name": "Kerta Jaya",
+    "postal_code": "29261"
   },
   {
     "code": "1404192010",
     "district_code": "140419",
-    "name": "Kulim Jaya"
+    "name": "Kulim Jaya",
+    "postal_code": "29261"
   },
   {
     "code": "1404192011",
     "district_code": "140419",
-    "name": "Danaupulai Indah"
+    "name": "Danaupulai Indah",
+    "postal_code": "29261"
   },
   {
     "code": "1404192012",
     "district_code": "140419",
-    "name": "Sungairabit"
+    "name": "Sungairabit",
+    "postal_code": "29261"
   }
 ]

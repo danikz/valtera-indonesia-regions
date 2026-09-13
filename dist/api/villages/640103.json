@@ -2,76 +2,91 @@
   {
     "code": "6401032001",
     "district_code": "640103",
-    "name": "Lempesu"
+    "name": "Lempesu",
+    "postal_code": "76271"
   },
   {
     "code": "6401032002",
     "district_code": "640103",
-    "name": "Bekoso"
+    "name": "Bekoso",
+    "postal_code": "76271"
   },
   {
     "code": "6401032003",
     "district_code": "640103",
-    "name": "Damit"
+    "name": "Damit",
+    "postal_code": "76271"
   },
   {
     "code": "6401032004",
     "district_code": "640103",
-    "name": "Suatang"
+    "name": "Suatang",
+    "postal_code": "76271"
   },
   {
     "code": "6401032005",
     "district_code": "640103",
-    "name": "Suliliran"
+    "name": "Suliliran",
+    "postal_code": "76271"
   },
   {
     "code": "6401032006",
     "district_code": "640103",
-    "name": "Pasir Belengkong"
+    "name": "Pasir Belengkong",
+    "postal_code": "76271"
   },
   {
     "code": "6401032007",
     "district_code": "640103",
-    "name": "Sangkuriman"
+    "name": "Sangkuriman",
+    "postal_code": "76271"
   },
   {
     "code": "6401032008",
     "district_code": "640103",
-    "name": "Laburan"
+    "name": "Laburan",
+    "postal_code": "76271"
   },
   {
     "code": "6401032009",
     "district_code": "640103",
-    "name": "Suliliran Baru"
+    "name": "Suliliran Baru",
+    "postal_code": "76271"
   },
   {
     "code": "6401032010",
     "district_code": "640103",
-    "name": "Keresik Bura"
+    "name": "Keresik Bura",
+    "postal_code": "76271"
   },
   {
     "code": "6401032011",
     "district_code": "640103",
-    "name": "Laburan Baru"
+    "name": "Laburan Baru",
+    "postal_code": "76271"
   },
   {
     "code": "6401032012",
     "district_code": "640103",
-    "name": "Seniung Jaya"
+    "name": "Seniung Jaya",
+    "postal_code": "76271"
   },
   {
     "code": "6401032013",
     "district_code": "640103",
-    "name": "Sunge Batu"
+    "name": "Sunge Batu",
+    "postal_code": "76271"
   },
   {
     "code": "6401032014",
     "district_code": "640103",
-    "name": "Olong Pinang"
+    "name": "Olong Pinang",
+    "postal_code": "76271"
   },
   {
     "code": "6401032015",
     "district_code": "640103",
-    "name": "Suatang Keteban"
+    "name": "Suatang Keteban",
+    "postal_code": "76271"
   }
 ]

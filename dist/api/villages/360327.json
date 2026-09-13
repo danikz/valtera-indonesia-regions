@@ -2,41 +2,49 @@
   {
     "code": "3603272001",
     "district_code": "360327",
-    "name": "Benda"
+    "name": "Benda",
+    "postal_code": "15612"
   },
   {
     "code": "3603272002",
     "district_code": "360327",
-    "name": "Sukamulya"
+    "name": "Sukamulya",
+    "postal_code": "15612"
   },
   {
     "code": "3603272003",
     "district_code": "360327",
-    "name": "Kaliasin"
+    "name": "Kaliasin",
+    "postal_code": "15612"
   },
   {
     "code": "3603272004",
     "district_code": "360327",
-    "name": "Buniayu"
+    "name": "Buniayu",
+    "postal_code": "15612"
   },
   {
     "code": "3603272005",
     "district_code": "360327",
-    "name": "Parahu"
+    "name": "Parahu",
+    "postal_code": "15612"
   },
   {
     "code": "3603272006",
     "district_code": "360327",
-    "name": "Merak"
+    "name": "Merak",
+    "postal_code": "15612"
   },
   {
     "code": "3603272007",
     "district_code": "360327",
-    "name": "Bunar"
+    "name": "Bunar",
+    "postal_code": "15612"
   },
   {
     "code": "3603272008",
     "district_code": "360327",
-    "name": "Kubang"
+    "name": "Kubang",
+    "postal_code": "15612"
   }
 ]

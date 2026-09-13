@@ -2,51 +2,61 @@
   {
     "code": "9504402001",
     "district_code": "950440",
-    "name": "Peyola"
+    "name": "Peyola",
+    "postal_code": "99016"
   },
   {
     "code": "9504402002",
     "district_code": "950440",
-    "name": "Kogotime"
+    "name": "Kogotime",
+    "postal_code": "99016"
   },
   {
     "code": "9504402003",
     "district_code": "950440",
-    "name": "Gabunam"
+    "name": "Gabunam",
+    "postal_code": "99016"
   },
   {
     "code": "9504402004",
     "district_code": "950440",
-    "name": "Gulak"
+    "name": "Gulak",
+    "postal_code": "99016"
   },
   {
     "code": "9504402005",
     "district_code": "950440",
-    "name": "Melaga"
+    "name": "Melaga",
+    "postal_code": "99016"
   },
   {
     "code": "9504402006",
     "district_code": "950440",
-    "name": "Ekoni"
+    "name": "Ekoni",
+    "postal_code": "99016"
   },
   {
     "code": "9504402007",
     "district_code": "950440",
-    "name": "Minggen"
+    "name": "Minggen",
+    "postal_code": "99016"
   },
   {
     "code": "9504402008",
     "district_code": "950440",
-    "name": "Kandimbaga"
+    "name": "Kandimbaga",
+    "postal_code": "99016"
   },
   {
     "code": "9504402009",
     "district_code": "950440",
-    "name": "Kinebe"
+    "name": "Kinebe",
+    "postal_code": "99016"
   },
   {
     "code": "9504402010",
     "district_code": "950440",
-    "name": "Belela"
+    "name": "Belela",
+    "postal_code": "99016"
   }
 ]

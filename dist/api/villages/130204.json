@@ -2,21 +2,25 @@
   {
     "code": "1302042001",
     "district_code": "130204",
-    "name": "Alahan Panjang"
+    "name": "Alahan Panjang",
+    "postal_code": "27371"
   },
   {
     "code": "1302042002",
     "district_code": "130204",
-    "name": "Sungai Nanam"
+    "name": "Sungai Nanam",
+    "postal_code": "27371"
   },
   {
     "code": "1302042003",
     "district_code": "130204",
-    "name": "Salimpat"
+    "name": "Salimpat",
+    "postal_code": "27371"
   },
   {
     "code": "1302042004",
     "district_code": "130204",
-    "name": "Aie Dingin"
+    "name": "Aie Dingin",
+    "postal_code": "27371"
   }
 ]

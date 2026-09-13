@@ -2,41 +2,49 @@
   {
     "code": "1508111001",
     "district_code": "150811",
-    "name": "Manggis"
+    "name": "Manggis",
+    "postal_code": "37211"
   },
   {
     "code": "1508111003",
     "district_code": "150811",
-    "name": "Bungo Taman Agung"
+    "name": "Bungo Taman Agung",
+    "postal_code": "37211"
   },
   {
     "code": "1508111004",
     "district_code": "150811",
-    "name": "Sungai Binjai"
+    "name": "Sungai Binjai",
+    "postal_code": "37211"
   },
   {
     "code": "1508112002",
     "district_code": "150811",
-    "name": "Lubuk Benteng"
+    "name": "Lubuk Benteng",
+    "postal_code": "37211"
   },
   {
     "code": "1508112005",
     "district_code": "150811",
-    "name": "Air Gemuruh"
+    "name": "Air Gemuruh",
+    "postal_code": "37211"
   },
   {
     "code": "1508112006",
     "district_code": "150811",
-    "name": "Purwo Bakti"
+    "name": "Purwo Bakti",
+    "postal_code": "37211"
   },
   {
     "code": "1508112007",
     "district_code": "150811",
-    "name": "Sarana Jaya"
+    "name": "Sarana Jaya",
+    "postal_code": "37211"
   },
   {
     "code": "1508112008",
     "district_code": "150811",
-    "name": "Teluk Panjang"
+    "name": "Teluk Panjang",
+    "postal_code": "37211"
   }
 ]

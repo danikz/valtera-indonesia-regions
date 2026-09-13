@@ -2,36 +2,43 @@
   {
     "code": "7406061009",
     "district_code": "740606",
-    "name": "Dongkala"
+    "name": "Dongkala",
+    "postal_code": "93784"
   },
   {
     "code": "7406061010",
     "district_code": "740606",
-    "name": "Lambale"
+    "name": "Lambale",
+    "postal_code": "93784"
   },
   {
     "code": "7406062005",
     "district_code": "740606",
-    "name": "Wumbuburo"
+    "name": "Wumbuburo",
+    "postal_code": "93784"
   },
   {
     "code": "7406062006",
     "district_code": "740606",
-    "name": "Balo"
+    "name": "Balo",
+    "postal_code": "93784"
   },
   {
     "code": "7406062007",
     "district_code": "740606",
-    "name": "Toli-Toli"
+    "name": "Toli-Toli",
+    "postal_code": "93784"
   },
   {
     "code": "7406062008",
     "district_code": "740606",
-    "name": "Tapuhaka"
+    "name": "Tapuhaka",
+    "postal_code": "93784"
   },
   {
     "code": "7406062011",
     "district_code": "740606",
-    "name": "Bungi-Bungi"
+    "name": "Bungi-Bungi",
+    "postal_code": "93784"
   }
 ]

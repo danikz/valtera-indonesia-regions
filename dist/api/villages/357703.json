@@ -2,46 +2,55 @@
   {
     "code": "3577031001",
     "district_code": "357703",
-    "name": "Mojorejo"
+    "name": "Mojorejo",
+    "postal_code": "63139"
   },
   {
     "code": "3577031002",
     "district_code": "357703",
-    "name": "Pandean"
+    "name": "Pandean",
+    "postal_code": "63133"
   },
   {
     "code": "3577031003",
     "district_code": "357703",
-    "name": "Banjarejo"
+    "name": "Banjarejo",
+    "postal_code": "63137"
   },
   {
     "code": "3577031004",
     "district_code": "357703",
-    "name": "Kuncen"
+    "name": "Kuncen",
+    "postal_code": "63135"
   },
   {
     "code": "3577031005",
     "district_code": "357703",
-    "name": "Manisrejo"
+    "name": "Manisrejo",
+    "postal_code": "63138"
   },
   {
     "code": "3577031006",
     "district_code": "357703",
-    "name": "Kejuron"
+    "name": "Kejuron",
+    "postal_code": "63132"
   },
   {
     "code": "3577031007",
     "district_code": "357703",
-    "name": "Josenan"
+    "name": "Josenan",
+    "postal_code": "63134"
   },
   {
     "code": "3577031008",
     "district_code": "357703",
-    "name": "Demangan"
+    "name": "Demangan",
+    "postal_code": "63136"
   },
   {
     "code": "3577031009",
     "district_code": "357703",
-    "name": "Taman"
+    "name": "Taman",
+    "postal_code": "63131"
   }
 ]

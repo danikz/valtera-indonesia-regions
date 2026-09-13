@@ -2,41 +2,49 @@
   {
     "code": "1109102001",
     "district_code": "110910",
-    "name": "Bubuhan"
+    "name": "Bubuhan",
+    "postal_code": "23895"
   },
   {
     "code": "1109102002",
     "district_code": "110910",
-    "name": "Amarabu"
+    "name": "Amarabu",
+    "postal_code": "23895"
   },
   {
     "code": "1109102003",
     "district_code": "110910",
-    "name": "Kuta Inang"
+    "name": "Kuta Inang",
+    "postal_code": "23895"
   },
   {
     "code": "1109102004",
     "district_code": "110910",
-    "name": "Kuta Padang"
+    "name": "Kuta Padang",
+    "postal_code": "23895"
   },
   {
     "code": "1109102005",
     "district_code": "110910",
-    "name": "Sibuluh"
+    "name": "Sibuluh",
+    "postal_code": "23895"
   },
   {
     "code": "1109102006",
     "district_code": "110910",
-    "name": "Latak Ayah"
+    "name": "Latak Ayah",
+    "postal_code": "23895"
   },
   {
     "code": "1109102007",
     "district_code": "110910",
-    "name": "Borengan"
+    "name": "Borengan",
+    "postal_code": "23895"
   },
   {
     "code": "1109102008",
     "district_code": "110910",
-    "name": "Ujung Padang"
+    "name": "Ujung Padang",
+    "postal_code": "23895"
   }
 ]

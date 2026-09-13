@@ -2,41 +2,49 @@
   {
     "code": "7209092001",
     "district_code": "720909",
-    "name": "Biga"
+    "name": "Biga",
+    "postal_code": "94693"
   },
   {
     "code": "7209092002",
     "district_code": "720909",
-    "name": "Salinggoha"
+    "name": "Salinggoha",
+    "postal_code": "94693"
   },
   {
     "code": "7209092003",
     "district_code": "720909",
-    "name": "Tingki"
+    "name": "Tingki",
+    "postal_code": "94693"
   },
   {
     "code": "7209092004",
     "district_code": "720909",
-    "name": "Malapo"
+    "name": "Malapo",
+    "postal_code": "94693"
   },
   {
     "code": "7209092005",
     "district_code": "720909",
-    "name": "Pasokan"
+    "name": "Pasokan",
+    "postal_code": "94693"
   },
   {
     "code": "7209092006",
     "district_code": "720909",
-    "name": "Kondongan"
+    "name": "Kondongan",
+    "postal_code": "94693"
   },
   {
     "code": "7209092007",
     "district_code": "720909",
-    "name": "Katogop"
+    "name": "Katogop",
+    "postal_code": "94693"
   },
   {
     "code": "7209092008",
     "district_code": "720909",
-    "name": "Tongidon"
+    "name": "Tongidon",
+    "postal_code": "94693"
   }
 ]

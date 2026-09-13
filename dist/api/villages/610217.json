@@ -2,31 +2,37 @@
   {
     "code": "6102172001",
     "district_code": "610217",
-    "name": "Sekabuk"
+    "name": "Sekabuk",
+    "postal_code": "78361"
   },
   {
     "code": "6102172002",
     "district_code": "610217",
-    "name": "Pentek"
+    "name": "Pentek",
+    "postal_code": "78361"
   },
   {
     "code": "6102172003",
     "district_code": "610217",
-    "name": "Bum-bun"
+    "name": "Bum-bun",
+    "postal_code": "78361"
   },
   {
     "code": "6102172004",
     "district_code": "610217",
-    "name": "Amawang"
+    "name": "Amawang",
+    "postal_code": "78361"
   },
   {
     "code": "6102172005",
     "district_code": "610217",
-    "name": "Ansiap"
+    "name": "Ansiap",
+    "postal_code": "78361"
   },
   {
     "code": "6102172006",
     "district_code": "610217",
-    "name": "Suak Barangan"
+    "name": "Suak Barangan",
+    "postal_code": "78361"
   }
 ]

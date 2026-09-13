@@ -2,26 +2,31 @@
   {
     "code": "8202042001",
     "district_code": "820204",
-    "name": "Gemaf"
+    "name": "Gemaf",
+    "postal_code": "97854"
   },
   {
     "code": "8202042002",
     "district_code": "820204",
-    "name": "Sagea"
+    "name": "Sagea",
+    "postal_code": "97854"
   },
   {
     "code": "8202042003",
     "district_code": "820204",
-    "name": "Fritu"
+    "name": "Fritu",
+    "postal_code": "97854"
   },
   {
     "code": "8202042004",
     "district_code": "820204",
-    "name": "Waleh"
+    "name": "Waleh",
+    "postal_code": "97854"
   },
   {
     "code": "8202042008",
     "district_code": "820204",
-    "name": "Kiya"
+    "name": "Kiya",
+    "postal_code": "97854"
   }
 ]

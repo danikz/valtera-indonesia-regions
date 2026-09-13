@@ -2,26 +2,31 @@
   {
     "code": "9209292001",
     "district_code": "920929",
-    "name": "Dela"
+    "name": "Dela",
+    "postal_code": ""
   },
   {
     "code": "9209292002",
     "district_code": "920929",
-    "name": "Megame"
+    "name": "Megame",
+    "postal_code": ""
   },
   {
     "code": "9209292003",
     "district_code": "920929",
-    "name": "Kaladum"
+    "name": "Kaladum",
+    "postal_code": ""
   },
   {
     "code": "9209292004",
     "district_code": "920929",
-    "name": "Klasei"
+    "name": "Klasei",
+    "postal_code": ""
   },
   {
     "code": "9209292005",
     "district_code": "920929",
-    "name": "Klabili"
+    "name": "Klabili",
+    "postal_code": ""
   }
 ]

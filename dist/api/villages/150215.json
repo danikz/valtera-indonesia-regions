@@ -2,21 +2,25 @@
   {
     "code": "1502152001",
     "district_code": "150215",
-    "name": "Sungai Limau"
+    "name": "Sungai Limau",
+    "postal_code": "37355"
   },
   {
     "code": "1502152002",
     "district_code": "150215",
-    "name": "Sungai Bulian"
+    "name": "Sungai Bulian",
+    "postal_code": "37355"
   },
   {
     "code": "1502152003",
     "district_code": "150215",
-    "name": "Sri Sembilan"
+    "name": "Sri Sembilan",
+    "postal_code": "37355"
   },
   {
     "code": "1502152004",
     "district_code": "150215",
-    "name": "Bukit Subur"
+    "name": "Bukit Subur",
+    "postal_code": "37355"
   }
 ]

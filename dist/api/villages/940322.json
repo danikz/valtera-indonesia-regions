@@ -2,31 +2,37 @@
   {
     "code": "9403222001",
     "district_code": "940322",
-    "name": "Deta"
+    "name": "Deta",
+    "postal_code": "98732"
   },
   {
     "code": "9403222002",
     "district_code": "940322",
-    "name": "Tuguwai"
+    "name": "Tuguwai",
+    "postal_code": "98732"
   },
   {
     "code": "9403222003",
     "district_code": "940322",
-    "name": "Tuwogai Moma"
+    "name": "Tuwogai Moma",
+    "postal_code": "98732"
   },
   {
     "code": "9403222004",
     "district_code": "940322",
-    "name": "Bumaida"
+    "name": "Bumaida",
+    "postal_code": "98732"
   },
   {
     "code": "9403222005",
     "district_code": "940322",
-    "name": "Debaiye"
+    "name": "Debaiye",
+    "postal_code": "98732"
   },
   {
     "code": "9403222007",
     "district_code": "940322",
-    "name": "Komopa"
+    "name": "Komopa",
+    "postal_code": "98732"
   }
 ]

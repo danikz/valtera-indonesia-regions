@@ -2,51 +2,61 @@
   {
     "code": "1213051006",
     "district_code": "121305",
-    "name": "Longat"
+    "name": "Longat",
+    "postal_code": "22911"
   },
   {
     "code": "1213052001",
     "district_code": "121305",
-    "name": "Barbaran"
+    "name": "Barbaran",
+    "postal_code": "22911"
   },
   {
     "code": "1213052002",
     "district_code": "121305",
-    "name": "Barbaran Jae"
+    "name": "Barbaran Jae",
+    "postal_code": "22911"
   },
   {
     "code": "1213052003",
     "district_code": "121305",
-    "name": "Batang Gadis"
+    "name": "Batang Gadis",
+    "postal_code": "22911"
   },
   {
     "code": "1213052004",
     "district_code": "121305",
-    "name": "Huta Baringin"
+    "name": "Huta Baringin",
+    "postal_code": "22911"
   },
   {
     "code": "1213052005",
     "district_code": "121305",
-    "name": "Huta Tonga BB"
+    "name": "Huta Tonga BB",
+    "postal_code": "22911"
   },
   {
     "code": "1213052007",
     "district_code": "121305",
-    "name": "Runding"
+    "name": "Runding",
+    "postal_code": "22911"
   },
   {
     "code": "1213052008",
     "district_code": "121305",
-    "name": "Sirambas"
+    "name": "Sirambas",
+    "postal_code": "22911"
   },
   {
     "code": "1213052009",
     "district_code": "121305",
-    "name": "Saba Jior"
+    "name": "Saba Jior",
+    "postal_code": "22911"
   },
   {
     "code": "1213052010",
     "district_code": "121305",
-    "name": "Batang Gadis Jae"
+    "name": "Batang Gadis Jae",
+    "postal_code": "22911"
   }
 ]

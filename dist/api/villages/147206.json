@@ -2,26 +2,31 @@
   {
     "code": "1472061001",
     "district_code": "147206",
-    "name": "Laksamana"
+    "name": "Laksamana",
+    "postal_code": "28821"
   },
   {
     "code": "1472061002",
     "district_code": "147206",
-    "name": "Rimba Sekampung"
+    "name": "Rimba Sekampung",
+    "postal_code": "28822"
   },
   {
     "code": "1472061003",
     "district_code": "147206",
-    "name": "Dumai Kota"
+    "name": "Dumai Kota",
+    "postal_code": "28811"
   },
   {
     "code": "1472061004",
     "district_code": "147206",
-    "name": "Bintan"
+    "name": "Bintan",
+    "postal_code": "28812"
   },
   {
     "code": "1472061005",
     "district_code": "147206",
-    "name": "Sukajadi"
+    "name": "Sukajadi",
+    "postal_code": "28812"
   }
 ]

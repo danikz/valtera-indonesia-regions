@@ -2,41 +2,49 @@
   {
     "code": "7111042001",
     "district_code": "711104",
-    "name": "Mataindo"
+    "name": "Mataindo",
+    "postal_code": "95776"
   },
   {
     "code": "7111042002",
     "district_code": "711104",
-    "name": "Adow"
+    "name": "Adow",
+    "postal_code": "95776"
   },
   {
     "code": "7111042003",
     "district_code": "711104",
-    "name": "Torosik"
+    "name": "Torosik",
+    "postal_code": "95776"
   },
   {
     "code": "7111042004",
     "district_code": "711104",
-    "name": "Tobayagan"
+    "name": "Tobayagan",
+    "postal_code": "95776"
   },
   {
     "code": "7111042005",
     "district_code": "711104",
-    "name": "Deaga"
+    "name": "Deaga",
+    "postal_code": "95776"
   },
   {
     "code": "7111042006",
     "district_code": "711104",
-    "name": "Adow Selatan"
+    "name": "Adow Selatan",
+    "postal_code": "95776"
   },
   {
     "code": "7111042007",
     "district_code": "711104",
-    "name": "Mataindo Utara"
+    "name": "Mataindo Utara",
+    "postal_code": "95776"
   },
   {
     "code": "7111042008",
     "district_code": "711104",
-    "name": "Tobayagan Selatan"
+    "name": "Tobayagan Selatan",
+    "postal_code": "95776"
   }
 ]

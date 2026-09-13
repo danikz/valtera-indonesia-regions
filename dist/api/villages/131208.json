@@ -2,31 +2,37 @@
   {
     "code": "1312082001",
     "district_code": "131208",
-    "name": "Parit"
+    "name": "Parit",
+    "postal_code": "26572"
   },
   {
     "code": "1312082002",
     "district_code": "131208",
-    "name": "Koto Tangah"
+    "name": "Koto Tangah",
+    "postal_code": "26572"
   },
   {
     "code": "1312082003",
     "district_code": "131208",
-    "name": "Koto Tuo"
+    "name": "Koto Tuo",
+    "postal_code": "26572"
   },
   {
     "code": "1312082004",
     "district_code": "131208",
-    "name": "Koto Nan Duo"
+    "name": "Koto Nan Duo",
+    "postal_code": "26572"
   },
   {
     "code": "1312082005",
     "district_code": "131208",
-    "name": "Pematang Panjang"
+    "name": "Pematang Panjang",
+    "postal_code": "26572"
   },
   {
     "code": "1312082006",
     "district_code": "131208",
-    "name": "Ranah Koto Tinggi"
+    "name": "Ranah Koto Tinggi",
+    "postal_code": "26572"
   }
 ]

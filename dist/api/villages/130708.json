@@ -2,16 +2,19 @@
   {
     "code": "1307082001",
     "district_code": "130708",
-    "name": "Pandam Gadang"
+    "name": "Pandam Gadang",
+    "postal_code": "26256"
   },
   {
     "code": "1307082002",
     "district_code": "130708",
-    "name": "Koto Tinggi"
+    "name": "Koto Tinggi",
+    "postal_code": "26256"
   },
   {
     "code": "1307082003",
     "district_code": "130708",
-    "name": "Talang Anau"
+    "name": "Talang Anau",
+    "postal_code": "26256"
   }
 ]

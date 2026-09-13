@@ -2,31 +2,37 @@
   {
     "code": "1305122001",
     "district_code": "130512",
-    "name": "Koto Baru"
+    "name": "Koto Baru",
+    "postal_code": "25573"
   },
   {
     "code": "1305122002",
     "district_code": "130512",
-    "name": "Koto Dalam"
+    "name": "Koto Dalam",
+    "postal_code": "25573"
   },
   {
     "code": "1305122003",
     "district_code": "130512",
-    "name": "Batu Kalang"
+    "name": "Batu Kalang",
+    "postal_code": "25573"
   },
   {
     "code": "1305122004",
     "district_code": "130512",
-    "name": "Koto Dalam Barat"
+    "name": "Koto Dalam Barat",
+    "postal_code": "25573"
   },
   {
     "code": "1305122005",
     "district_code": "130512",
-    "name": "Koto Dalam Selatan"
+    "name": "Koto Dalam Selatan",
+    "postal_code": "25573"
   },
   {
     "code": "1305122006",
     "district_code": "130512",
-    "name": "Batu Kalang Utara"
+    "name": "Batu Kalang Utara",
+    "postal_code": "25573"
   }
 ]

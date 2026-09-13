@@ -2,26 +2,31 @@
   {
     "code": "5305101001",
     "district_code": "530510",
-    "name": "Kabola"
+    "name": "Kabola",
+    "postal_code": "85819"
   },
   {
     "code": "5305102002",
     "district_code": "530510",
-    "name": "Kopidil"
+    "name": "Kopidil",
+    "postal_code": "85819"
   },
   {
     "code": "5305102003",
     "district_code": "530510",
-    "name": "Pante Deere"
+    "name": "Pante Deere",
+    "postal_code": "85819"
   },
   {
     "code": "5305102004",
     "district_code": "530510",
-    "name": "Lawahing"
+    "name": "Lawahing",
+    "postal_code": "85851"
   },
   {
     "code": "5305102005",
     "district_code": "530510",
-    "name": "Alila Timur"
+    "name": "Alila Timur",
+    "postal_code": "85851"
   }
 ]

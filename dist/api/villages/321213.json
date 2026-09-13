@@ -2,76 +2,91 @@
   {
     "code": "3212132001",
     "district_code": "321213",
-    "name": "Sukalila"
+    "name": "Sukalila",
+    "postal_code": "45273"
   },
   {
     "code": "3212132002",
     "district_code": "321213",
-    "name": "Pilangsari"
+    "name": "Pilangsari",
+    "postal_code": "45273"
   },
   {
     "code": "3212132003",
     "district_code": "321213",
-    "name": "Jatibarang Baru"
+    "name": "Jatibarang Baru",
+    "postal_code": "45273"
   },
   {
     "code": "3212132004",
     "district_code": "321213",
-    "name": "Bulak"
+    "name": "Bulak",
+    "postal_code": "45273"
   },
   {
     "code": "3212132005",
     "district_code": "321213",
-    "name": "Bulak Lor"
+    "name": "Bulak Lor",
+    "postal_code": "45273"
   },
   {
     "code": "3212132006",
     "district_code": "321213",
-    "name": "Jatibarang"
+    "name": "Jatibarang",
+    "postal_code": "45273"
   },
   {
     "code": "3212132007",
     "district_code": "321213",
-    "name": "Kebulen"
+    "name": "Kebulen",
+    "postal_code": "45273"
   },
   {
     "code": "3212132008",
     "district_code": "321213",
-    "name": "Pawidean"
+    "name": "Pawidean",
+    "postal_code": "45273"
   },
   {
     "code": "3212132009",
     "district_code": "321213",
-    "name": "Jatisawit"
+    "name": "Jatisawit",
+    "postal_code": "45273"
   },
   {
     "code": "3212132010",
     "district_code": "321213",
-    "name": "Jatisawit Lor"
+    "name": "Jatisawit Lor",
+    "postal_code": "45273"
   },
   {
     "code": "3212132011",
     "district_code": "321213",
-    "name": "Krasak"
+    "name": "Krasak",
+    "postal_code": "45273"
   },
   {
     "code": "3212132012",
     "district_code": "321213",
-    "name": "Kalimati"
+    "name": "Kalimati",
+    "postal_code": "45273"
   },
   {
     "code": "3212132013",
     "district_code": "321213",
-    "name": "Malang Semirang"
+    "name": "Malang Semirang",
+    "postal_code": "45273"
   },
   {
     "code": "3212132014",
     "district_code": "321213",
-    "name": "Lohbener"
+    "name": "Lohbener",
+    "postal_code": "45273"
   },
   {
     "code": "3212132015",
     "district_code": "321213",
-    "name": "Lohbener Lor"
+    "name": "Lohbener Lor",
+    "postal_code": "45273"
   }
 ]

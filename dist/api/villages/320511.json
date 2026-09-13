@@ -2,41 +2,49 @@
   {
     "code": "3205112001",
     "district_code": "320511",
-    "name": "Leuwigoong"
+    "name": "Leuwigoong",
+    "postal_code": "44192"
   },
   {
     "code": "3205112002",
     "district_code": "320511",
-    "name": "Karanganyar"
+    "name": "Karanganyar",
+    "postal_code": "44192"
   },
   {
     "code": "3205112003",
     "district_code": "320511",
-    "name": "Margacinta"
+    "name": "Margacinta",
+    "postal_code": "44192"
   },
   {
     "code": "3205112004",
     "district_code": "320511",
-    "name": "Margahayu"
+    "name": "Margahayu",
+    "postal_code": "44192"
   },
   {
     "code": "3205112005",
     "district_code": "320511",
-    "name": "Dungusiku"
+    "name": "Dungusiku",
+    "postal_code": "44192"
   },
   {
     "code": "3205112006",
     "district_code": "320511",
-    "name": "Tambak Sari"
+    "name": "Tambak Sari",
+    "postal_code": "44192"
   },
   {
     "code": "3205112007",
     "district_code": "320511",
-    "name": "Sindangsari"
+    "name": "Sindangsari",
+    "postal_code": "44192"
   },
   {
     "code": "3205112008",
     "district_code": "320511",
-    "name": "Karangsari"
+    "name": "Karangsari",
+    "postal_code": "44192"
   }
 ]

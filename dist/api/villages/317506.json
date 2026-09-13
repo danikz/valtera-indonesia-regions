@@ -2,36 +2,43 @@
   {
     "code": "3175061001",
     "district_code": "317506",
-    "name": "Jatinegara"
+    "name": "Jatinegara",
+    "postal_code": "13930"
   },
   {
     "code": "3175061002",
     "district_code": "317506",
-    "name": "Rawa Terate"
+    "name": "Rawa Terate",
+    "postal_code": "13920"
   },
   {
     "code": "3175061003",
     "district_code": "317506",
-    "name": "Penggilingan"
+    "name": "Penggilingan",
+    "postal_code": "13940"
   },
   {
     "code": "3175061004",
     "district_code": "317506",
-    "name": "Cakung Timur"
+    "name": "Cakung Timur",
+    "postal_code": "13910"
   },
   {
     "code": "3175061005",
     "district_code": "317506",
-    "name": "Pulo Gebang"
+    "name": "Pulo Gebang",
+    "postal_code": "13950"
   },
   {
     "code": "3175061006",
     "district_code": "317506",
-    "name": "Ujung Menteng"
+    "name": "Ujung Menteng",
+    "postal_code": "13960"
   },
   {
     "code": "3175061007",
     "district_code": "317506",
-    "name": "Cakung Barat"
+    "name": "Cakung Barat",
+    "postal_code": "13910"
   }
 ]

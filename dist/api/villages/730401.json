@@ -2,71 +2,85 @@
   {
     "code": "7304011001",
     "district_code": "730401",
-    "name": "Benteng"
+    "name": "Benteng",
+    "postal_code": "92352"
   },
   {
     "code": "7304011002",
     "district_code": "730401",
-    "name": "Pallengu"
+    "name": "Pallengu",
+    "postal_code": "92352"
   },
   {
     "code": "7304011003",
     "district_code": "730401",
-    "name": "Pantai Bahari"
+    "name": "Pantai Bahari",
+    "postal_code": "92352"
   },
   {
     "code": "7304011004",
     "district_code": "730401",
-    "name": "Bontorannu"
+    "name": "Bontorannu",
+    "postal_code": "92352"
   },
   {
     "code": "7304012005",
     "district_code": "730401",
-    "name": "Pallantikang"
+    "name": "Pallantikang",
+    "postal_code": "92352"
   },
   {
     "code": "7304012006",
     "district_code": "730401",
-    "name": "Kalimporo"
+    "name": "Kalimporo",
+    "postal_code": "92352"
   },
   {
     "code": "7304012007",
     "district_code": "730401",
-    "name": "Punagaya"
+    "name": "Punagaya",
+    "postal_code": "92352"
   },
   {
     "code": "7304012008",
     "district_code": "730401",
-    "name": "Mallasoro"
+    "name": "Mallasoro",
+    "postal_code": "92352"
   },
   {
     "code": "7304012009",
     "district_code": "730401",
-    "name": "Kapita"
+    "name": "Kapita",
+    "postal_code": "92352"
   },
   {
     "code": "7304012010",
     "district_code": "730401",
-    "name": "Marayoka"
+    "name": "Marayoka",
+    "postal_code": "92352"
   },
   {
     "code": "7304012011",
     "district_code": "730401",
-    "name": "Jenetallasa"
+    "name": "Jenetallasa",
+    "postal_code": "92352"
   },
   {
     "code": "7304012012",
     "district_code": "730401",
-    "name": "Tombo Tombolo"
+    "name": "Tombo Tombolo",
+    "postal_code": "92352"
   },
   {
     "code": "7304012013",
     "district_code": "730401",
-    "name": "Gunung Silanu"
+    "name": "Gunung Silanu",
+    "postal_code": "92352"
   },
   {
     "code": "7304012014",
     "district_code": "730401",
-    "name": "Bontomanai"
+    "name": "Bontomanai",
+    "postal_code": "92352"
   }
 ]

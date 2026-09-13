@@ -2,66 +2,79 @@
   {
     "code": "5317032001",
     "district_code": "531703",
-    "name": "Wendewa Timur"
+    "name": "Wendewa Timur",
+    "postal_code": "87258"
   },
   {
     "code": "5317032002",
     "district_code": "531703",
-    "name": "Wendewa Selatan"
+    "name": "Wendewa Selatan",
+    "postal_code": "87258"
   },
   {
     "code": "5317032003",
     "district_code": "531703",
-    "name": "Wendewa Utara"
+    "name": "Wendewa Utara",
+    "postal_code": "87258"
   },
   {
     "code": "5317032004",
     "district_code": "531703",
-    "name": "Wendewa Barat"
+    "name": "Wendewa Barat",
+    "postal_code": "87258"
   },
   {
     "code": "5317032005",
     "district_code": "531703",
-    "name": "Cendana"
+    "name": "Cendana",
+    "postal_code": "87258"
   },
   {
     "code": "5317032006",
     "district_code": "531703",
-    "name": "Wee Luri"
+    "name": "Wee Luri",
+    "postal_code": "87258"
   },
   {
     "code": "5317032007",
     "district_code": "531703",
-    "name": "Ole Ate"
+    "name": "Ole Ate",
+    "postal_code": "87258"
   },
   {
     "code": "5317032008",
     "district_code": "531703",
-    "name": "Manu Wolu"
+    "name": "Manu Wolu",
+    "postal_code": "87258"
   },
   {
     "code": "5317032009",
     "district_code": "531703",
-    "name": "Watu Asa"
+    "name": "Watu Asa",
+    "postal_code": "87258"
   },
   {
     "code": "5317032010",
     "district_code": "531703",
-    "name": "Bondo Sulla"
+    "name": "Bondo Sulla",
+    "postal_code": "87258"
   },
   {
     "code": "5317032011",
     "district_code": "531703",
-    "name": "Susu Wendewa"
+    "name": "Susu Wendewa",
+    "postal_code": "87258"
   },
   {
     "code": "5317032012",
     "district_code": "531703",
-    "name": "Ole Dewa"
+    "name": "Ole Dewa",
+    "postal_code": "87258"
   },
   {
     "code": "5317032013",
     "district_code": "531703",
-    "name": "Cendana Barat"
+    "name": "Cendana Barat",
+    "postal_code": "87258"
   }
 ]
