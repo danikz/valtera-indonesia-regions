@@ -6,7 +6,12 @@ Tersedia langsung dari GitHub dalam bentuk **Static CDN JSON API** (hemat bandwi
 
 [![CI](https://github.com/danikz/valtera-indonesia-regions/actions/workflows/ci.yml/badge.svg)](https://github.com/danikz/valtera-indonesia-regions/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![jsDelivr](https://data.jsdelivr.com/v1/package/gh/danikz/valtera-indonesia-regions/badge)](https://www.jsdelivr.com/package/gh/danikz/valtera-indonesia-regions)
+[![jsDelivr Hits](https://img.shields.io/jsdelivr/gh/hm/danikz/valtera-indonesia-regions?color=orange&label=CDN%20hits%2Fmo)](https://www.jsdelivr.com/package/gh/danikz/valtera-indonesia-regions)
+[![Data Integrity](https://img.shields.io/badge/Integrity-100%25%20Verified-success)](scripts/validate.py)
+[![Records](https://img.shields.io/badge/Records-83.7k%20Desa-blue)](dist/csv/villages.csv)
+[![Formats](https://img.shields.io/badge/Formats-JSON%20%7C%20CSV%20%7C%20SQL-purple)](dist/)
+[![Stars](https://img.shields.io/github/stars/danikz/valtera-indonesia-regions?style=flat&color=yellow)](https://github.com/danikz/valtera-indonesia-regions/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/danikz/valtera-indonesia-regions)](https://github.com/danikz/valtera-indonesia-regions/commits/main)
 
 ---
 
