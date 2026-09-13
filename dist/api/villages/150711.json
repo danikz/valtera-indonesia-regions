@@ -1,0 +1,32 @@
+[
+  {
+    "code": "1507111001",
+    "district_code": "150711",
+    "name": "Simpang"
+  },
+  {
+    "code": "1507112002",
+    "district_code": "150711",
+    "name": "Rantau Rasau Desa"
+  },
+  {
+    "code": "1507112003",
+    "district_code": "150711",
+    "name": "Rantau Makmur"
+  },
+  {
+    "code": "1507112004",
+    "district_code": "150711",
+    "name": "Sungai Rambut"
+  },
+  {
+    "code": "1507112005",
+    "district_code": "150711",
+    "name": "Rawasari"
+  },
+  {
+    "code": "1507112006",
+    "district_code": "150711",
+    "name": "Telaga Limo"
+  }
+]

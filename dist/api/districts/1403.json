@@ -1,0 +1,57 @@
+[
+  {
+    "code": "140301",
+    "regency_code": "1403",
+    "name": "Bengkalis"
+  },
+  {
+    "code": "140302",
+    "regency_code": "1403",
+    "name": "Bantan"
+  },
+  {
+    "code": "140303",
+    "regency_code": "1403",
+    "name": "Bukit Batu"
+  },
+  {
+    "code": "140309",
+    "regency_code": "1403",
+    "name": "Mandau"
+  },
+  {
+    "code": "140310",
+    "regency_code": "1403",
+    "name": "Rupat"
+  },
+  {
+    "code": "140311",
+    "regency_code": "1403",
+    "name": "Rupat Utara"
+  },
+  {
+    "code": "140312",
+    "regency_code": "1403",
+    "name": "Siak Kecil"
+  },
+  {
+    "code": "140313",
+    "regency_code": "1403",
+    "name": "Pinggir"
+  },
+  {
+    "code": "140314",
+    "regency_code": "1403",
+    "name": "Bandar Laksamana"
+  },
+  {
+    "code": "140315",
+    "regency_code": "1403",
+    "name": "Talang Muandau"
+  },
+  {
+    "code": "140316",
+    "regency_code": "1403",
+    "name": "Bathin Solapan"
+  }
+]

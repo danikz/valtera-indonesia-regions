@@ -1,0 +1,27 @@
+[
+  {
+    "code": "6107012001",
+    "district_code": "610701",
+    "name": "Sungai Duri"
+  },
+  {
+    "code": "6107012004",
+    "district_code": "610701",
+    "name": "Sungai Jaga A"
+  },
+  {
+    "code": "6107012005",
+    "district_code": "610701",
+    "name": "Sungai Jaga B"
+  },
+  {
+    "code": "6107012006",
+    "district_code": "610701",
+    "name": "Sungai Pangkalan I"
+  },
+  {
+    "code": "6107012007",
+    "district_code": "610701",
+    "name": "Sungai Pangkalan II"
+  }
+]

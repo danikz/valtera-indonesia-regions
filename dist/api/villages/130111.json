@@ -1,0 +1,52 @@
+[
+  {
+    "code": "1301112001",
+    "district_code": "130111",
+    "name": "Tapan"
+  },
+  {
+    "code": "1301112002",
+    "district_code": "130111",
+    "name": "Pasar Tapan"
+  },
+  {
+    "code": "1301112007",
+    "district_code": "130111",
+    "name": "Batang Arah Tapan"
+  },
+  {
+    "code": "1301112008",
+    "district_code": "130111",
+    "name": "Ampang Tulak Tapan"
+  },
+  {
+    "code": "1301112009",
+    "district_code": "130111",
+    "name": "Tanjung Pondok Tapan"
+  },
+  {
+    "code": "1301112010",
+    "district_code": "130111",
+    "name": "Batang Betung Tapan"
+  },
+  {
+    "code": "1301112016",
+    "district_code": "130111",
+    "name": "Bukit Buai Tapan"
+  },
+  {
+    "code": "1301112017",
+    "district_code": "130111",
+    "name": "Riak Danau Tapan"
+  },
+  {
+    "code": "1301112018",
+    "district_code": "130111",
+    "name": "Koto Anau Tapan"
+  },
+  {
+    "code": "1301112019",
+    "district_code": "130111",
+    "name": "Dusun Baru Tapan"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "1407101001",
+    "district_code": "140710",
+    "name": "Bangko Kanan"
+  },
+  {
+    "code": "1407101006",
+    "district_code": "140710",
+    "name": "Bangko Kiri"
+  },
+  {
+    "code": "1407102002",
+    "district_code": "140710",
+    "name": "Bangko Jaya"
+  },
+  {
+    "code": "1407102003",
+    "district_code": "140710",
+    "name": "Bangko Sempurna"
+  },
+  {
+    "code": "1407102004",
+    "district_code": "140710",
+    "name": "Bangko Bakti"
+  },
+  {
+    "code": "1407102005",
+    "district_code": "140710",
+    "name": "Bangko Pusako"
+  },
+  {
+    "code": "1407102007",
+    "district_code": "140710",
+    "name": "Sei Manasib"
+  },
+  {
+    "code": "1407102008",
+    "district_code": "140710",
+    "name": "Teluk Bano I"
+  },
+  {
+    "code": "1407102009",
+    "district_code": "140710",
+    "name": "Bangko Makmur"
+  },
+  {
+    "code": "1407102010",
+    "district_code": "140710",
+    "name": "Pematang Damar"
+  },
+  {
+    "code": "1407102011",
+    "district_code": "140710",
+    "name": "Pematang Ibul"
+  },
+  {
+    "code": "1407102012",
+    "district_code": "140710",
+    "name": "Bangko Permata"
+  },
+  {
+    "code": "1407102013",
+    "district_code": "140710",
+    "name": "Bangko Mukti"
+  },
+  {
+    "code": "1407102014",
+    "district_code": "140710",
+    "name": "Bangko Lestari"
+  },
+  {
+    "code": "1407102015",
+    "district_code": "140710",
+    "name": "Bangko Balam"
+  },
+  {
+    "code": "1407102016",
+    "district_code": "140710",
+    "name": "Bangko Mas Raya"
+  }
+]

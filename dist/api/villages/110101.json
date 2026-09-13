@@ -1,0 +1,37 @@
+[
+  {
+    "code": "1101012001",
+    "district_code": "110101",
+    "name": "Keude Bakongan"
+  },
+  {
+    "code": "1101012002",
+    "district_code": "110101",
+    "name": "Ujong Mangki"
+  },
+  {
+    "code": "1101012003",
+    "district_code": "110101",
+    "name": "Ujong Padang"
+  },
+  {
+    "code": "1101012004",
+    "district_code": "110101",
+    "name": "Gampong Drien"
+  },
+  {
+    "code": "1101012015",
+    "district_code": "110101",
+    "name": "Darul Ikhsan"
+  },
+  {
+    "code": "1101012016",
+    "district_code": "110101",
+    "name": "Padang Beurahan"
+  },
+  {
+    "code": "1101012017",
+    "district_code": "110101",
+    "name": "Gampong Baro"
+  }
+]

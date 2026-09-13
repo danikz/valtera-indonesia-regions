@@ -1,0 +1,37 @@
+[
+  {
+    "code": "1212052001",
+    "district_code": "121205",
+    "name": "Meranti Utara"
+  },
+  {
+    "code": "1212052002",
+    "district_code": "121205",
+    "name": "Meranti Timur"
+  },
+  {
+    "code": "1212052003",
+    "district_code": "121205",
+    "name": "Meranti Tengah"
+  },
+  {
+    "code": "1212052007",
+    "district_code": "121205",
+    "name": "Pintu Pohan"
+  },
+  {
+    "code": "1212052008",
+    "district_code": "121205",
+    "name": "Ambar Halim"
+  },
+  {
+    "code": "1212052009",
+    "district_code": "121205",
+    "name": "Pintu Pohan Dolok"
+  },
+  {
+    "code": "1212052010",
+    "district_code": "121205",
+    "name": "Halado"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "7101101003",
+    "district_code": "710110",
+    "name": "Imandi"
+  },
+  {
+    "code": "7101102001",
+    "district_code": "710110",
+    "name": "Tonom"
+  },
+  {
+    "code": "7101102002",
+    "district_code": "710110",
+    "name": "Mogoyunggung"
+  },
+  {
+    "code": "7101102004",
+    "district_code": "710110",
+    "name": "Modomang"
+  },
+  {
+    "code": "7101102005",
+    "district_code": "710110",
+    "name": "Kembang Mertha"
+  },
+  {
+    "code": "7101102006",
+    "district_code": "710110",
+    "name": "Dumoga"
+  },
+  {
+    "code": "7101102013",
+    "district_code": "710110",
+    "name": "Pinonobatuan"
+  },
+  {
+    "code": "7101102017",
+    "district_code": "710110",
+    "name": "Dumoga II"
+  },
+  {
+    "code": "7101102018",
+    "district_code": "710110",
+    "name": "Pinonobatuan Barat"
+  },
+  {
+    "code": "7101102019",
+    "district_code": "710110",
+    "name": "Amertha Sari"
+  },
+  {
+    "code": "7101102020",
+    "district_code": "710110",
+    "name": "Kembang Sari"
+  },
+  {
+    "code": "7101102021",
+    "district_code": "710110",
+    "name": "Amertha Buana"
+  },
+  {
+    "code": "7101102023",
+    "district_code": "710110",
+    "name": "Mogoyunggung Satu"
+  },
+  {
+    "code": "7101102024",
+    "district_code": "710110",
+    "name": "Mogoyunggung Dua"
+  },
+  {
+    "code": "7101102025",
+    "district_code": "710110",
+    "name": "Dumoga Tiga"
+  },
+  {
+    "code": "7101102026",
+    "district_code": "710110",
+    "name": "Dumoga Empat"
+  }
+]

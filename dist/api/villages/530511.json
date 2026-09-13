@@ -1,0 +1,32 @@
+[
+  {
+    "code": "5305111001",
+    "district_code": "530511",
+    "name": "Pura"
+  },
+  {
+    "code": "5305112002",
+    "district_code": "530511",
+    "name": "Maru"
+  },
+  {
+    "code": "5305112003",
+    "district_code": "530511",
+    "name": "Pura Utara"
+  },
+  {
+    "code": "5305112004",
+    "district_code": "530511",
+    "name": "Pura Selatan"
+  },
+  {
+    "code": "5305112005",
+    "district_code": "530511",
+    "name": "Pura Timur"
+  },
+  {
+    "code": "5305112006",
+    "district_code": "530511",
+    "name": "Pura Barat"
+  }
+]

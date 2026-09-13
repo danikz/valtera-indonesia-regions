@@ -1,0 +1,27 @@
+[
+  {
+    "code": "1208151005",
+    "district_code": "120815",
+    "name": "Haranggaol"
+  },
+  {
+    "code": "1208152001",
+    "district_code": "120815",
+    "name": "Nagori Purba"
+  },
+  {
+    "code": "1208152002",
+    "district_code": "120815",
+    "name": "Nagori Sihalpe"
+  },
+  {
+    "code": "1208152003",
+    "district_code": "120815",
+    "name": "Nagori Purba Horison"
+  },
+  {
+    "code": "1208152004",
+    "district_code": "120815",
+    "name": "Nagori Purba Pasir"
+  }
+]

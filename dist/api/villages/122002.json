@@ -1,0 +1,432 @@
+[
+  {
+    "code": "1220022001",
+    "district_code": "122002",
+    "name": "Siguga"
+  },
+  {
+    "code": "1220022002",
+    "district_code": "122002",
+    "name": "Singanyal"
+  },
+  {
+    "code": "1220022003",
+    "district_code": "122002",
+    "name": "Binanga Panasahan"
+  },
+  {
+    "code": "1220022004",
+    "district_code": "122002",
+    "name": "Aek Haruaya"
+  },
+  {
+    "code": "1220022005",
+    "district_code": "122002",
+    "name": "Tanjung Baru B"
+  },
+  {
+    "code": "1220022006",
+    "district_code": "122002",
+    "name": "Pasar Sipiongot"
+  },
+  {
+    "code": "1220022007",
+    "district_code": "122002",
+    "name": "Bintais Julu"
+  },
+  {
+    "code": "1220022008",
+    "district_code": "122002",
+    "name": "Bunut"
+  },
+  {
+    "code": "1220022009",
+    "district_code": "122002",
+    "name": "Paya Ombik"
+  },
+  {
+    "code": "1220022010",
+    "district_code": "122002",
+    "name": "Aek Suhat Jae"
+  },
+  {
+    "code": "1220022011",
+    "district_code": "122002",
+    "name": "Huta Baru Sil"
+  },
+  {
+    "code": "1220022012",
+    "district_code": "122002",
+    "name": "Sijorang"
+  },
+  {
+    "code": "1220022013",
+    "district_code": "122002",
+    "name": "Simaninggir Sip"
+  },
+  {
+    "code": "1220022014",
+    "district_code": "122002",
+    "name": "Pangaran Julu I"
+  },
+  {
+    "code": "1220022015",
+    "district_code": "122002",
+    "name": "Mompang Lombang"
+  },
+  {
+    "code": "1220022016",
+    "district_code": "122002",
+    "name": "Janji Manahan Sil"
+  },
+  {
+    "code": "1220022017",
+    "district_code": "122002",
+    "name": "Baringin Sip"
+  },
+  {
+    "code": "1220022018",
+    "district_code": "122002",
+    "name": "Gunung Maria"
+  },
+  {
+    "code": "1220022019",
+    "district_code": "122002",
+    "name": "Mompang Dolok"
+  },
+  {
+    "code": "1220022020",
+    "district_code": "122002",
+    "name": "Aek Rao TN"
+  },
+  {
+    "code": "1220022021",
+    "district_code": "122002",
+    "name": "Sijantung Julu"
+  },
+  {
+    "code": "1220022022",
+    "district_code": "122002",
+    "name": "Batu Runding"
+  },
+  {
+    "code": "1220022023",
+    "district_code": "122002",
+    "name": "Lubuk Godang"
+  },
+  {
+    "code": "1220022024",
+    "district_code": "122002",
+    "name": "Bahap"
+  },
+  {
+    "code": "1220022025",
+    "district_code": "122002",
+    "name": "Aek Ilung"
+  },
+  {
+    "code": "1220022026",
+    "district_code": "122002",
+    "name": "Tarutung Bolak"
+  },
+  {
+    "code": "1220022027",
+    "district_code": "122002",
+    "name": "Sungai Pining"
+  },
+  {
+    "code": "1220022028",
+    "district_code": "122002",
+    "name": "Siloung"
+  },
+  {
+    "code": "1220022029",
+    "district_code": "122002",
+    "name": "Hutaimbaru Gul"
+  },
+  {
+    "code": "1220022030",
+    "district_code": "122002",
+    "name": "Sipiongot"
+  },
+  {
+    "code": "1220022031",
+    "district_code": "122002",
+    "name": "Gumbot"
+  },
+  {
+    "code": "1220022032",
+    "district_code": "122002",
+    "name": "Gunung Selamat"
+  },
+  {
+    "code": "1220022033",
+    "district_code": "122002",
+    "name": "Silogo Logo"
+  },
+  {
+    "code": "1220022034",
+    "district_code": "122002",
+    "name": "Lubuk Kundur"
+  },
+  {
+    "code": "1220022035",
+    "district_code": "122002",
+    "name": "Jambur Batu"
+  },
+  {
+    "code": "1220022036",
+    "district_code": "122002",
+    "name": "Simatorkis"
+  },
+  {
+    "code": "1220022037",
+    "district_code": "122002",
+    "name": "Rancaran"
+  },
+  {
+    "code": "1220022038",
+    "district_code": "122002",
+    "name": "Naga Saribu"
+  },
+  {
+    "code": "1220022039",
+    "district_code": "122002",
+    "name": "Simataniari Jae"
+  },
+  {
+    "code": "1220022040",
+    "district_code": "122002",
+    "name": "Janji Manahan Gul"
+  },
+  {
+    "code": "1220022041",
+    "district_code": "122002",
+    "name": "Simataniari"
+  },
+  {
+    "code": "1220022042",
+    "district_code": "122002",
+    "name": "Parmeraan"
+  },
+  {
+    "code": "1220022043",
+    "district_code": "122002",
+    "name": "Panca"
+  },
+  {
+    "code": "1220022044",
+    "district_code": "122002",
+    "name": "Dalihan Natolu"
+  },
+  {
+    "code": "1220022045",
+    "district_code": "122002",
+    "name": "Sungai Datar"
+  },
+  {
+    "code": "1220022046",
+    "district_code": "122002",
+    "name": "Lubuk Lanjang"
+  },
+  {
+    "code": "1220022047",
+    "district_code": "122002",
+    "name": "Arse"
+  },
+  {
+    "code": "1220022048",
+    "district_code": "122002",
+    "name": "Simangambat Tua"
+  },
+  {
+    "code": "1220022049",
+    "district_code": "122002",
+    "name": "Sigala Gala"
+  },
+  {
+    "code": "1220022050",
+    "district_code": "122002",
+    "name": "Sibayo Jae"
+  },
+  {
+    "code": "1220022051",
+    "district_code": "122002",
+    "name": "Dolok Sanggul"
+  },
+  {
+    "code": "1220022052",
+    "district_code": "122002",
+    "name": "Silangge"
+  },
+  {
+    "code": "1220022053",
+    "district_code": "122002",
+    "name": "Pijor Koling"
+  },
+  {
+    "code": "1220022054",
+    "district_code": "122002",
+    "name": "Pagaran Julu II"
+  },
+  {
+    "code": "1220022055",
+    "district_code": "122002",
+    "name": "Siala Gundi"
+  },
+  {
+    "code": "1220022056",
+    "district_code": "122002",
+    "name": "Siraga HP"
+  },
+  {
+    "code": "1220022057",
+    "district_code": "122002",
+    "name": "Aek Sundur"
+  },
+  {
+    "code": "1220022058",
+    "district_code": "122002",
+    "name": "Baringin Sil"
+  },
+  {
+    "code": "1220022059",
+    "district_code": "122002",
+    "name": "Hula Baringin"
+  },
+  {
+    "code": "1220022060",
+    "district_code": "122002",
+    "name": "Nabonggal"
+  },
+  {
+    "code": "1220022061",
+    "district_code": "122002",
+    "name": "Purba Tua"
+  },
+  {
+    "code": "1220022062",
+    "district_code": "122002",
+    "name": "Tanjung Longat"
+  },
+  {
+    "code": "1220022063",
+    "district_code": "122002",
+    "name": "Sibio Bio"
+  },
+  {
+    "code": "1220022064",
+    "district_code": "122002",
+    "name": "Situmbaga"
+  },
+  {
+    "code": "1220022065",
+    "district_code": "122002",
+    "name": "Sijara Jara"
+  },
+  {
+    "code": "1220022066",
+    "district_code": "122002",
+    "name": "Huta Baru Sip"
+  },
+  {
+    "code": "1220022067",
+    "district_code": "122002",
+    "name": "Pagaran Siregar"
+  },
+  {
+    "code": "1220022068",
+    "district_code": "122002",
+    "name": "Parigi"
+  },
+  {
+    "code": "1220022069",
+    "district_code": "122002",
+    "name": "Napasundali"
+  },
+  {
+    "code": "1220022070",
+    "district_code": "122002",
+    "name": "Aek Suhat TR"
+  },
+  {
+    "code": "1220022071",
+    "district_code": "122002",
+    "name": "Gumaruntar"
+  },
+  {
+    "code": "1220022072",
+    "district_code": "122002",
+    "name": "Sijantung Jae"
+  },
+  {
+    "code": "1220022073",
+    "district_code": "122002",
+    "name": "Janji Matogu"
+  },
+  {
+    "code": "1220022074",
+    "district_code": "122002",
+    "name": "Sialang Dolok"
+  },
+  {
+    "code": "1220022075",
+    "district_code": "122002",
+    "name": "Binanga Gumbot"
+  },
+  {
+    "code": "1220022076",
+    "district_code": "122002",
+    "name": "Simanosor"
+  },
+  {
+    "code": "1220022077",
+    "district_code": "122002",
+    "name": "Bukit Tinggi"
+  },
+  {
+    "code": "1220022078",
+    "district_code": "122002",
+    "name": "Simambal"
+  },
+  {
+    "code": "1220022079",
+    "district_code": "122002",
+    "name": "Bandar Nauli"
+  },
+  {
+    "code": "1220022080",
+    "district_code": "122002",
+    "name": "Sibayo"
+  },
+  {
+    "code": "1220022081",
+    "district_code": "122002",
+    "name": "Sinabongan"
+  },
+  {
+    "code": "1220022082",
+    "district_code": "122002",
+    "name": "Siranap"
+  },
+  {
+    "code": "1220022083",
+    "district_code": "122002",
+    "name": "Aek Tangga"
+  },
+  {
+    "code": "1220022084",
+    "district_code": "122002",
+    "name": "Rongkare"
+  },
+  {
+    "code": "1220022085",
+    "district_code": "122002",
+    "name": "Siburbur"
+  },
+  {
+    "code": "1220022086",
+    "district_code": "122002",
+    "name": "Pintu Padang Merdeka"
+  }
+]

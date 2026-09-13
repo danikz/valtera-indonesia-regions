@@ -1,0 +1,107 @@
+[
+  {
+    "code": "1610021017",
+    "district_code": "161002",
+    "name": "Tanjung Batu"
+  },
+  {
+    "code": "1610021037",
+    "district_code": "161002",
+    "name": "Tanjung Batu Timur"
+  },
+  {
+    "code": "1610022010",
+    "district_code": "161002",
+    "name": "Seri Bandung"
+  },
+  {
+    "code": "1610022011",
+    "district_code": "161002",
+    "name": "Seri Tanjung"
+  },
+  {
+    "code": "1610022012",
+    "district_code": "161002",
+    "name": "Tanjung Tambak"
+  },
+  {
+    "code": "1610022013",
+    "district_code": "161002",
+    "name": "Senuro Timur"
+  },
+  {
+    "code": "1610022014",
+    "district_code": "161002",
+    "name": "Tanjung Baru Petai"
+  },
+  {
+    "code": "1610022015",
+    "district_code": "161002",
+    "name": "Tanjung Batu Seberang"
+  },
+  {
+    "code": "1610022016",
+    "district_code": "161002",
+    "name": "Pajar Bulan"
+  },
+  {
+    "code": "1610022018",
+    "district_code": "161002",
+    "name": "Tanjung Atap"
+  },
+  {
+    "code": "1610022019",
+    "district_code": "161002",
+    "name": "Tanjung Pinang I"
+  },
+  {
+    "code": "1610022020",
+    "district_code": "161002",
+    "name": "Limbang Jaya I"
+  },
+  {
+    "code": "1610022021",
+    "district_code": "161002",
+    "name": "Tanjung Laut"
+  },
+  {
+    "code": "1610022026",
+    "district_code": "161002",
+    "name": "Burai"
+  },
+  {
+    "code": "1610022027",
+    "district_code": "161002",
+    "name": "Sentul"
+  },
+  {
+    "code": "1610022031",
+    "district_code": "161002",
+    "name": "Bangun Jaya"
+  },
+  {
+    "code": "1610022032",
+    "district_code": "161002",
+    "name": "Tanjung Tambak Baru"
+  },
+  {
+    "code": "1610022033",
+    "district_code": "161002",
+    "name": "Limbang Jaya II"
+  },
+  {
+    "code": "1610022034",
+    "district_code": "161002",
+    "name": "Senuro Barat"
+  },
+  {
+    "code": "1610022035",
+    "district_code": "161002",
+    "name": "Tanjung Pinang II"
+  },
+  {
+    "code": "1610022036",
+    "district_code": "161002",
+    "name": "Tanjung Atap Barat"
+  }
+]

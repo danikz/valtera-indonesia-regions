@@ -1,0 +1,52 @@
+[
+  {
+    "code": "1406051001",
+    "district_code": "140605",
+    "name": "KepenuhanTengah"
+  },
+  {
+    "code": "1406052003",
+    "district_code": "140605",
+    "name": "Kepenuhan Barat"
+  },
+  {
+    "code": "1406052004",
+    "district_code": "140605",
+    "name": "Kepenuhan Hilir"
+  },
+  {
+    "code": "1406052005",
+    "district_code": "140605",
+    "name": "Kepenuhan Timur"
+  },
+  {
+    "code": "1406052006",
+    "district_code": "140605",
+    "name": "Kepenuhan Barat Sei Rokan Jaya"
+  },
+  {
+    "code": "1406052007",
+    "district_code": "140605",
+    "name": "Kepenuhan Raya"
+  },
+  {
+    "code": "1406052008",
+    "district_code": "140605",
+    "name": "Kepenuhan Baru"
+  },
+  {
+    "code": "1406052009",
+    "district_code": "140605",
+    "name": "Kepenuhan Barat Mulya"
+  },
+  {
+    "code": "1406052010",
+    "district_code": "140605",
+    "name": "Ulak Patian"
+  },
+  {
+    "code": "1406052012",
+    "district_code": "140605",
+    "name": "Rantau Binuang Sakti"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "code": "1905011001",
+    "district_code": "190501",
+    "name": "Tanjung"
+  },
+  {
+    "code": "1905011002",
+    "district_code": "190501",
+    "name": "Sungai Daeng"
+  },
+  {
+    "code": "1905011003",
+    "district_code": "190501",
+    "name": "Sungai Baru"
+  },
+  {
+    "code": "1905011008",
+    "district_code": "190501",
+    "name": "Keranggan"
+  },
+  {
+    "code": "1905011009",
+    "district_code": "190501",
+    "name": "Menjelang"
+  },
+  {
+    "code": "1905012004",
+    "district_code": "190501",
+    "name": "Air Putih"
+  },
+  {
+    "code": "1905012005",
+    "district_code": "190501",
+    "name": "Air Belo"
+  },
+  {
+    "code": "1905012006",
+    "district_code": "190501",
+    "name": "Belo Laut"
+  },
+  {
+    "code": "1905012007",
+    "district_code": "190501",
+    "name": "Air Limau"
+  }
+]

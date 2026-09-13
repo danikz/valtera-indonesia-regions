@@ -1,0 +1,37 @@
+[
+  {
+    "code": "1110102001",
+    "district_code": "111010",
+    "name": "Gosong Telaga Utara"
+  },
+  {
+    "code": "1110102002",
+    "district_code": "111010",
+    "name": "Gosong Telaga Selatan"
+  },
+  {
+    "code": "1110102003",
+    "district_code": "111010",
+    "name": "Kampung Baru"
+  },
+  {
+    "code": "1110102004",
+    "district_code": "111010",
+    "name": "Ketapang Indah"
+  },
+  {
+    "code": "1110102005",
+    "district_code": "111010",
+    "name": "Gosong Telaga Timur"
+  },
+  {
+    "code": "1110102006",
+    "district_code": "111010",
+    "name": "Gosong Telaga Barat"
+  },
+  {
+    "code": "1110102007",
+    "district_code": "111010",
+    "name": "Telaga Bakti"
+  }
+]

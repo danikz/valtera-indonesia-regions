@@ -1,0 +1,37 @@
+[
+  {
+    "code": "9110042001",
+    "district_code": "911004",
+    "name": "Ansudu"
+  },
+  {
+    "code": "9110042002",
+    "district_code": "911004",
+    "name": "Betaf"
+  },
+  {
+    "code": "9110042003",
+    "district_code": "911004",
+    "name": "Yamben"
+  },
+  {
+    "code": "9110042010",
+    "district_code": "911004",
+    "name": "Sunum"
+  },
+  {
+    "code": "9110042011",
+    "district_code": "911004",
+    "name": "Komra"
+  },
+  {
+    "code": "9110042013",
+    "district_code": "911004",
+    "name": "Betaf Dua"
+  },
+  {
+    "code": "9110042014",
+    "district_code": "911004",
+    "name": "Ansudu Dua"
+  }
+]

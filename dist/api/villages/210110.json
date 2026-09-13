@@ -1,0 +1,37 @@
+[
+  {
+    "code": "2101101007",
+    "district_code": "210110",
+    "name": "Kota Baru"
+  },
+  {
+    "code": "2101102001",
+    "district_code": "210110",
+    "name": "Berakit"
+  },
+  {
+    "code": "2101102002",
+    "district_code": "210110",
+    "name": "Ekang Anculai"
+  },
+  {
+    "code": "2101102003",
+    "district_code": "210110",
+    "name": "Pengudang"
+  },
+  {
+    "code": "2101102004",
+    "district_code": "210110",
+    "name": "Sebong Lagoi"
+  },
+  {
+    "code": "2101102005",
+    "district_code": "210110",
+    "name": "Sebong Pereh"
+  },
+  {
+    "code": "2101102006",
+    "district_code": "210110",
+    "name": "Sri Bintan"
+  }
+]

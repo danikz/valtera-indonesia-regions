@@ -1,0 +1,67 @@
+[
+  {
+    "code": "1501022001",
+    "district_code": "150102",
+    "name": "Sanggaran Agung"
+  },
+  {
+    "code": "1501022002",
+    "district_code": "150102",
+    "name": "Kota Baru Sanggaran Agung"
+  },
+  {
+    "code": "1501022003",
+    "district_code": "150102",
+    "name": "Pendung Talang Genting"
+  },
+  {
+    "code": "1501022004",
+    "district_code": "150102",
+    "name": "Seleman"
+  },
+  {
+    "code": "1501022005",
+    "district_code": "150102",
+    "name": "Tebing Tinggi"
+  },
+  {
+    "code": "1501022006",
+    "district_code": "150102",
+    "name": "Cupak"
+  },
+  {
+    "code": "1501022007",
+    "district_code": "150102",
+    "name": "Tanjungtanah"
+  },
+  {
+    "code": "1501022008",
+    "district_code": "150102",
+    "name": "Koto Tengah"
+  },
+  {
+    "code": "1501022013",
+    "district_code": "150102",
+    "name": "Simpang Empat"
+  },
+  {
+    "code": "1501022014",
+    "district_code": "150102",
+    "name": "Talang Kemulun"
+  },
+  {
+    "code": "1501022015",
+    "district_code": "150102",
+    "name": "Dusun Baru Tanjung Tanah"
+  },
+  {
+    "code": "1501022016",
+    "district_code": "150102",
+    "name": "Pasar Sore Seleman"
+  },
+  {
+    "code": "1501022018",
+    "district_code": "150102",
+    "name": "Tanjungharapan"
+  }
+]

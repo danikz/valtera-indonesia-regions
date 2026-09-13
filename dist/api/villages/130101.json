@@ -1,0 +1,52 @@
+[
+  {
+    "code": "1301012001",
+    "district_code": "130101",
+    "name": "Inderapura"
+  },
+  {
+    "code": "1301012002",
+    "district_code": "130101",
+    "name": "Muaro Sakai Inderapura"
+  },
+  {
+    "code": "1301012003",
+    "district_code": "130101",
+    "name": "Tiga Sepakat Inderapura"
+  },
+  {
+    "code": "1301012004",
+    "district_code": "130101",
+    "name": "Inderapura Barat"
+  },
+  {
+    "code": "1301012005",
+    "district_code": "130101",
+    "name": "Kudo-Kudo Inderapura"
+  },
+  {
+    "code": "1301012006",
+    "district_code": "130101",
+    "name": "Inderapura Selatan"
+  },
+  {
+    "code": "1301012009",
+    "district_code": "130101",
+    "name": "Simpang Lama Inderapura"
+  },
+  {
+    "code": "1301012010",
+    "district_code": "130101",
+    "name": "Tigo Sungai Inderapura"
+  },
+  {
+    "code": "1301012011",
+    "district_code": "130101",
+    "name": "Tluk Amplu Inderapura"
+  },
+  {
+    "code": "1301012012",
+    "district_code": "130101",
+    "name": "Inderapura Tengah"
+  }
+]

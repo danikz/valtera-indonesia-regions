@@ -1,0 +1,37 @@
+[
+  {
+    "code": "3601012001",
+    "district_code": "360101",
+    "name": "Sumberjaya"
+  },
+  {
+    "code": "3601012002",
+    "district_code": "360101",
+    "name": "Kertajaya"
+  },
+  {
+    "code": "3601012003",
+    "district_code": "360101",
+    "name": "Kertamukti"
+  },
+  {
+    "code": "3601012004",
+    "district_code": "360101",
+    "name": "Tunggaljaya"
+  },
+  {
+    "code": "3601012005",
+    "district_code": "360101",
+    "name": "Cigorondong"
+  },
+  {
+    "code": "3601012006",
+    "district_code": "360101",
+    "name": "Tamanjaya"
+  },
+  {
+    "code": "3601012007",
+    "district_code": "360101",
+    "name": "Ujungjaya"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "1810082001",
+    "district_code": "181008",
+    "name": "Sinar Baru"
+  },
+  {
+    "code": "1810082002",
+    "district_code": "181008",
+    "name": "Sukoharjo I"
+  },
+  {
+    "code": "1810082003",
+    "district_code": "181008",
+    "name": "Sukoharjo II"
+  },
+  {
+    "code": "1810082004",
+    "district_code": "181008",
+    "name": "Sukoharjo III"
+  },
+  {
+    "code": "1810082005",
+    "district_code": "181008",
+    "name": "Sukoharjo IV"
+  },
+  {
+    "code": "1810082006",
+    "district_code": "181008",
+    "name": "Panggungrejo"
+  },
+  {
+    "code": "1810082007",
+    "district_code": "181008",
+    "name": "Pandan Sari"
+  },
+  {
+    "code": "1810082008",
+    "district_code": "181008",
+    "name": "Pandan Surat"
+  },
+  {
+    "code": "1810082009",
+    "district_code": "181008",
+    "name": "Keputran"
+  },
+  {
+    "code": "1810082010",
+    "district_code": "181008",
+    "name": "Sukoyoso"
+  },
+  {
+    "code": "1810082011",
+    "district_code": "181008",
+    "name": "Siliwangi"
+  },
+  {
+    "code": "1810082012",
+    "district_code": "181008",
+    "name": "Waringinsari Barat"
+  },
+  {
+    "code": "1810082013",
+    "district_code": "181008",
+    "name": "Pandan Sari Selatan"
+  },
+  {
+    "code": "1810082014",
+    "district_code": "181008",
+    "name": "Sinar Baru Timur"
+  },
+  {
+    "code": "1810082015",
+    "district_code": "181008",
+    "name": "Panggung Rejo Utara"
+  },
+  {
+    "code": "1810082016",
+    "district_code": "181008",
+    "name": "Sukoharjo III Barat"
+  }
+]

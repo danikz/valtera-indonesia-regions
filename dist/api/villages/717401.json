@@ -1,0 +1,42 @@
+[
+  {
+    "code": "7174011005",
+    "district_code": "717401",
+    "name": "Biga"
+  },
+  {
+    "code": "7174011006",
+    "district_code": "717401",
+    "name": "Upai"
+  },
+  {
+    "code": "7174011007",
+    "district_code": "717401",
+    "name": "Genggulang"
+  },
+  {
+    "code": "7174012001",
+    "district_code": "717401",
+    "name": "Bilalang Satu"
+  },
+  {
+    "code": "7174012002",
+    "district_code": "717401",
+    "name": "Bilalang Dua"
+  },
+  {
+    "code": "7174012003",
+    "district_code": "717401",
+    "name": "Pontodon"
+  },
+  {
+    "code": "7174012004",
+    "district_code": "717401",
+    "name": "Sia"
+  },
+  {
+    "code": "7174012008",
+    "district_code": "717401",
+    "name": "Pontodon Timur"
+  }
+]
