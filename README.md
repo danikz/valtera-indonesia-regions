@@ -25,21 +25,16 @@ Tersedia langsung dari GitHub dalam bentuk **Static CDN JSON API** (hemat bandwi
 
 ## 1. Penggunaan via CDN Gratis (Frontend / Mobile)
 
-Dataset di repositori ini dapat langsung dikonsumsi melalui CDN (jsDelivr) tanpa perlu menyiapkan server backend. Sangat cocok untuk form cascading dropdown (React, Vue, Svelte, Flutter, HTML/Vanilla JS).
+Dataset ini dapat langsung di-fetch melalui CDN gratis (jsDelivr) tanpa perlu server backend. Karena jsDelivr melayani file statis, request harus mengarah ke file `.json` langsung (bukan ke folder induk `/dist/api`).
 
-**Base CDN URL**:
-```text
-https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api
-```
+### Daftar Endpoint Lengkap
 
-### Endpoint Tersedia
-
-| Endpoint | Ukuran Rata-rata | Keterangan |
-| :--- | :---: | :--- |
-| `/provinces.json` | ~2.1 KB | Seluruh 37 provinsi |
-| `/regencies/{province_code}.json` | ~1.5 KB | Kab/Kota di provinsi terkait |
-| `/districts/{regency_code}.json` | ~2.5 KB | Kecamatan di kab/kota terkait |
-| `/villages/{district_code}.json` | ~2.0 KB | Desa/Kelurahan di kecamatan terkait |
+| Data | URL Endpoint CDN | Ukuran |
+| :--- | :--- | :---: |
+| **Provinsi** | `https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api/provinces.json` | ~2.1 KB |
+| **Kab/Kota** | `https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api/regencies/{kode_provinsi}.json`<br>*(Contoh Jawa Barat: `.../regencies/32.json`)* | ~1.5 KB |
+| **Kecamatan** | `https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api/districts/{kode_kabko}.json`<br>*(Contoh Kab. Bogor: `.../districts/3201.json`)* | ~2.5 KB |
+| **Kelurahan/Desa** | `https://cdn.jsdelivr.net/gh/danikz/valtera-indonesia-regions@latest/dist/api/villages/{kode_kecamatan}.json`<br>*(Contoh Cibinong: `.../villages/320101.json`)* | ~2.0 KB |
 
 ### Contoh Pemakaian (JavaScript / Fetch)
 
